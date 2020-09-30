@@ -1,0 +1,705 @@
+The EMBO Journal Vol.18 No.10 pp.2803-2811 , 1999 Rel/NF-xB can trigger the Notch signaling pathway by inducing the expression of Jagged1 , a ligand for Notch receptors Judy Bash `` , Wei-Xing Zong ' 3 , Satnam Banga* , Amariliz Rivera `` , Dean W.Ballard® , Yacov Ron `` and Celine Gelinas'*~ > 'Center for Advanced Biotechnology and Medicine , 679 Hoes Lane , Piscataway , NJ 08854-5638 , Graduate Program in Microbiology and Molecular Genetics , Rutgers University and `` Graduate Program in Biochemistry and Molecular Biology , `` Graduate Program in Molecular Genetics and Microbiology , *Department of Molecular Genetics and Microbiology and *Department of Biochemistry , UMDNJ-Robert Wood Johnson Medical School , Piscataway , NJ 08854 , *Department of Microbiology and Molecular Genetics , UMDNJ-New Jersey Medical School , Newark , NJ 07103 and `` Howard Hughes Medical Institute and Department of Microbiology and Immunology , Vanderbilt University School of Medicine , Nashville , TN 37232 , USA *Corresponding author e-mail : gelinas @ mbcl.rutgers.edu Jagged1 belongs to the DSL family of ligands for Notch receptors that control the proliferation and differentiation of various cell lineages .
+However , little is known about the transcription factors that regulate its expression .
+Here , we show that Jagged1 is a Rel/ NF-KB-responsive gene .
+Both c-Rel and RelA induced jagged1 gene expression , whereas a mutant defective for transactivation did not .
+Importantly , jagged1 transcripts were also upregulated by endogenous NF-KB activation and this effect was inhibited by a dominant mutant of IxBa , a physiological inhibitor of NF-KB .
+Cell surface expression of Jagged1 in c-Rel-expressing cell monolayers led to a functional interaction with lymphocytes expressing the Notch1/TAN-1 receptor .
+This correlated with the initiation of signaling downstream of Notch , as evidenced by increased levels of HES-1 transcripts in co-cultivated T cells and of CD23 transcripts in co-cultivated B cells .
+Consistent with its ReI/NF-KB-dependent induction , Jagged1 was found to be highly expressed in splenic B cells where c-Rel is expressed constitutively .
+These results demonstrate that c-Rel can trigger the Notch signaling pathway in neighboring cells by inducing jagged ] gene expression , and suggest a role for Jagged1 in B-cell activation , differentiation or function .
+These findings also highlight the potential for an interplay between the Notch and NF-KB signaling pathways in the immune system .
+Keywords : Jagged1/NF- « xB/Notch/Rel/TAN-1 Introduction The Rel/NF-KB transcription factors play fundamental roles in the immune system .
+These structurally related proteins share common pathways of activation that involve their release from inhibitory IKB factors in response to stimuli ( reviewed in Whiteside and Israel , © European Molecular Biology Organization 1997 ) .
+The degradation of IKB results in the nuclear translocation of active Rel dimers , their binding to KB DNA sites and the activation of cellular gene expression ( reviewed in Baldwin , 1996 ) .
+NF-KB regulates the expression of various cytokines , chemokines , immuno-receptors , growth factors , acute phase proteins and adhesion molecules ( reviewed in Kopp and Ghosh , 1995 ; May and Ghosh , 1997 ) .
+It is therefore not surprising to find its implication in the immune , inflammatory and acute phase responses ( reviewed in Wulezyn et al .
+, 1996 ; Barnes and Karin , 1997 ) .
+The Notch gene family encodes transmembrane receptors that control cell proliferation and differentiation in response to extracellular ligands expressed on neighboring cells ( reviewed in Robey , 1997 ; Weinmaster , 1997 ) .
+Among the four mammalian Notch receptors identified to date , three of them are expressed in hematopoietic cells .
+Human NotckI/IZAN-1 and its murine counterpart are found in spleen , CD34¢ hematopoietic stems cells and early progenitor cells , thymic T cells , peripheral blood lymphocytes and a B-lymphoma cell line ( Ellisen et al .
+, 1991 ; Milner et al .
+, 1994 ; Hasserjian et al .
+, 1996 ) .
+Similarly , Notch2 is highly expressed in spleen , and both Notch2 and Notch 3 are found in hematopoietic and myeloid progenitor cell lines ( Weinmaster et al .
+, 1992 ; Milner et al .
+, 1996 ; Bigas et al .
+, 1998 ) .
+Notchl was isolated originally as a translocation in a human acute T-cell lymphoblastic leukemia/lymphoma , and its constitutively active form produces T-cell neoplasms in mice ( Ellisen et al .
+, 1991 ; Pear et al .
+, 1996 ) .
+Two other Notch genes also map to chromosomal locations associated with human immune system malignancies ( Larsson et al .
+, 1994 ; reviewed in Gridley , 1997 ) .
+Jagged1 , Jagged2 , Deltal and Delta2 belong to the DSL ( Delta/Serrate/LAG-2 ) family of ligands for mammalian Notch receptors ( reviewed in Weinmaster , 1997 ) .
+All are transmembrane proteins with an extracellular domain important for receptor binding .
+Ligand-mediated activation of Notch induces the proteolytic release of the intracellular domain of Notch , activation of cellular gene expression and suppression of differentiation ( Schroeter et al .
+, 1998 ; reviewed in Robey , 1997 ; Weinmaster , 1997 ; Bray , 1998 ; Chan and Jan , 1998 ) .
+Studies point to the CSL [ CBF1/ Su ( H ) /Lag-1/RBP-JK/KBF2 ] family of DNA-binding proteins as downstream effectors in this pathway ( Brou et al .
+, 1994 ; Dou et al .
+, 1994 ; Fortini and Artavanis-Tsakonas , 1994 ; Jarriault et al .
+, 1995 ; Tamura et al .
+, 1995 ; Hsieh et al .
+, 1996 ) .
+In the nucleus , CSL factors serve as docking proteins that direct the intracellular domain of activated Notch to the promoter of target genes ( Jarriault et al .
+, 1995 ; Hsich et al .
+, 1996 ; Kopan et al .
+, 1996 ; Schroeter et al .
+, 1998 ; reviewed in Bray , 1998 ; Chan and Jan , 1998 ) .
+The mammalian basic helix-loop-helix ( bHLH ) transcription factor Hairy Enhancer of Split 2803 J.Bash et al .
+( HES-1 ) and the B-cell activation marker CD23 are two cellular target genes directly regulated by this pathway ( Wang et al .
+, 1987 , 1991 ; Cordier et al .
+, 1990 ; Sasai et al .
+, 1992 ; Ling et al .
+, 1994 ; Bailey and Posakony , 1995 ; Jarriault et al .
+, 1995 , 1998 ; Lecourtois and Schweisguth , 1995 ; de la Pompa et al .
+, 1997 ) .
+Little is known of the factors that trigger ligand-mediated signaling upstream of Notch .
+In this report , we identified jagged ] as a novel Rel/ NF-KB-responsive gene .
+We show that jagged !
+gene expression can be induced specifically by transcription-ally competent NF-KB subunits and that it is suppressed by a super-IKB @ inhibitor ( IKBGAN ) .
+Our finding that NF-KB-mediated induction of Jagged1 can initiate signaling downstream of Notch correlates with the expression of Jagged1 in peripheral lymphoid tissues .
+These results suggest a direct interplay of the Notch and NF-KB signaling pathways in the immune system , both of which have been implicated in lymphoid cell proliferation and function .
+Results Ectopic Rel protein expression induces fagged1 transcripts The CCR43 cell line conditionally expresses c-Rel under the control of a tetracycline-regulated transactivator ( tTA ) , resulting in inducible transactivation of Rel target genes such as IxB & ( Bash et al .
+, 1997 ) .
+An mRNA differential display analysis identified a 106 bp cDNA fragment that was induced specifically in CCR43 cells expressing c-Rel .
+When used as a probe in Northern blots , this fragment hybridized to a 5.8 kb transcript induced in response to c-Rel expression in CCR43 cells ( data not shown ) .
+A complete cDNA was isolated from a human HeLa cell library ( clone 14-6 ; 5457 bp ) .
+This clone showed 90 % homology to rat jagged1l and was virtually identical to two human jagged !
+cDNA clones that were isolated recently ( Lindsell et al .
+, 1995 ; Oda et al .
+, 1997 ; Li et al .
+, 1998 ) .
+Clone 14-6 contained a 3657 bp open reading frame encoding a 1218 amino acid human Jagged1 protein , along with 263 bp of 5'-untranslated sequence and 1537 bp of 3'-untranslated sequence ( DDBJ/EMBL/GenBank accession No .
+AFO28593 ) .
+Two amino acid differences were found between the Jagged1 protein sequence reported by Oda et al .
+( 1997 ) and the sequence described by us and by Li et al .
+( 1998 ) .
+The differential expression of jagged ] was characterized further by Northern blot analysis of CCR43 cells during a time course of c-Rel induction , using the jagged ] cDNA as a probe ( Figure 1A ) .
+jagged ] transcripts were induced with kinetics that paralleled those for c-re/ and for the Rel/NF-KB target gene encoding ( lanes 10-18 ) .
+No induction was seen in the parental HtTA-1 cells that expressed the tTA activator alone ( lanes 1-9 ) , indicating that jagged ] is under c-Rel control .
+The transactivation of jagged ] was specific , as endogenous transcripts for the ligand Deltal and for the Notch1/TAN-1 receptor were unaffected ( Figure 1B , lanes 1 and 2 ) .
+Importantly , a cell line expressing a mutant c-Rel protein deleted of its transactivation domain ( denoted CCR-H5 ) failed to upregulate jagged ] transcripts ( Figure 1B , lanes 3 and 4 ) .
+Similar results were observed with cells expressing 2804 p50/NF-KB1 , a subunit of NF-KB that fails to activate gene expression from most promoters containing a KB DNA site ( data not shown ) .
+In contrast , jagged ] transcripts were induced in HtTA-RelA cells that conditionally expressed the RelA transactivating subunit of NF-KB , although some leaky expression of was observed in these cells in the presence of tetracycline ( Figure 1C , lanes 1 and 2 ) .
+Together , these results indicated that the transcriptional activity of c-Rel and RelA was necessary to activate jagged ] gene expression .
+Jjagged1 gene expression is dependent upon endogenous NF-xB activation To investigate further the functional linkage between Jagged ] and ReI/NF-KB factors , we monitored the effect of endogenous NF-KB activation on jagged ] gene expression .
+Human Jurkat T cells were stimulated with phorbol 12-myristate 13-acetate ( PMA ) plus ionomycin to activate endogenous NF-KB factors .
+This treatment led to a 4-fold increase in jagged ] mRNA levels in comparison with unstimulated cells ( Figure 1D , compare lanes 1 and 2 ) .
+Similar results were obtained in human CEM T cells ( data not shown ) .
+Importantly , the constitutive repression of endogenous NF-KB by a dominant mutant of IBG in Jurkat T cells interfered strongly with the induction of Jagged ] in response to PMA plus ionomycin ( Figure 1D , lanes 3 and 4 ; Boothby et al .
+, 1997 ; Chu et al .
+, 1997 ) .
+Rehybridization to an interleukin-2 receptor alpha ( IL-2RQ ) probe confirmed the activation of NF-KB in Jurkat T cells treated with PMA plus ionomycin , and the reduction in NF-KB activation in Jurkat-IKBOAN cells ( Figure 1D , lanes 2 and 4 ) .
+These results agreed with our findings in the CCR43 and HtTA-RelA cell lines and indicated that the expression of jaggedl was dependent on Rel/NF-KB activity .
+Cell surface expression of Jagged1 promotes cell-cell interactions The expression of c-Rel led to increased levels of Jagged 1 protein in CCR43 cells .
+Immunoblot analyses using a monoclonal antibody specific for the unique intracellular domain of human Jagged1 ( Ab # TS1 ) showed the accumulation of Jagged1 in response to c-Rel induction ( Figure 2A , lanes 1-5 ) .
+Immunofluorescence analysis of live non-permeabilized cells using an antibody directed against the extracellular domain of Jagged1 verified the localization of the protein at the surface of CCR43 cells expressing c-Rel ( Figure 2B , panel c ) .
+In contrast , only background staining was detected in CCR43 cells cultured in the presence of tetracycline to prevent c-Rel expression ( panel b ) .
+Taken together , these results indicated the accumulation of the Jagged1 protein at the cell surface in response to c-Rel expression .
+The Notch signaling pathway is triggered by the interaction of cells expressing Notch receptors with cells that express Notch ligands at their surface .
+We tested whether the Rel-dependent induction of Jagged1 in CCR43 cells could promote a functional interaction with cells expressing endogenous Notch1l/TAN-1 receptors in co-cultivation assays .
+As shown in Figure 3A , non-adherent human Jurkat T cells that expressed a wild-type TAN-1 gene aggregated onto a monolayer of CCR43 cells induced to express c-Rel ( panel b ) .
+This interaction was observed factors induce Jagged1 expression A HiTA-1 CCR43 « tet _ 0 48 50 52 54 60 72 84 96 0 48 50 52 54 60 72 84 96 hrs lous lh alisa lth A c-re/ dis e ie ign sae rily a ” jagged1 a `` ® sank - ( li .
+“ ix bee ” Hi “ doe o n .
+acti 1 2 3 4 506 7 8 9 10111213141§5161718 B C D CCR43_ CCR-HS Jurkat _ AN tet _+ _- + - PMA¥iono - + - + £ fi- ss yt yas jagged1 ~ < a HtTA-ReIA jagged1 E yea deter WW UT W tet t _ notch1/tan-1 Bum pail jagged1 a H-2Ra % Cm .
+Bilt , » » « » 10 2 3 4 1 2 1 2 3 4 Fig .
+1 .
+Rel/NF- « B-dependent induction of fagged/ expression .
+( A ) Northern blot analysis of jagged ) expression in CCR43 cells , during a time course of c-Rel induction .
+RNA from control HtTA-1 cells ( lanes 1-9 ) and CCR43 cells ( lanes 10-18 ) maintained in the presence ( lanes 1 and 10 ) or absence ( Janes 2-9 and 11-18 ) of tetracycline , was analyzed using human jagged ) cDNA clone A2-3 as a probe .
+The blot was rehybridized successively to control c-rel , IxBa and actin gene probes .
+( B ) Comparative Northern blot analysis of jagged1 , deltal and Notch1/IAN-1 transcripts in cells expressing wild-type c-Rel or a mutant c-Rel protein deleted of its transactivation domain .
+CCR43 ( lanes 1 and 2 ) and CCR-H5 cells ( lanes 3 and 4 ) were cultured in the presence ( lanes 1 and 3 ) or absence ( lanes 2 and 4 ) of tetracycline .
+Expression was analyzed with probes derived from the human jagged ] cDNA clone A2-3 , a rat deltal cDNA and a human NotchI/TAN-1 cDNA fragment .
+Rehybridization to actin was used as a control .
+( C ) Northern blot analysis of jagged ) expression in HtTA-ReIA cells expressing the RelA protein .
+HtTA-RelA cells were cultured in the presence ( lane 1 ) or absence of tetracycline to induce RelA expression ( lane 2 ) .
+Expression was analyzed using the human jagged ) cDNA clone A2-3 as a probe .
+Rehybridization to actin was used as a control .
+( D ) Induction of jagged ) gene expression in response to endogenous NF-KB activation in T cells .
+Jurkat T cells and a Jurkat T-cell clone that expressed a dominant IKBGAN inhibitor of Rel/NF-KB factors were left untreated ( lanes 1 and 3 ) , or were stimulated with PMA plus ionomycin for 2 h to activate endogenous NF-KB factors ( lanes 2 and 4 ) .
+Total cellular RNA ( 20 ug ) was analyzed for the expression of jagged ] transcripts in Northern blots .
+The blot was rehybridized successively to II-2R « and gapdh probes as controls .
+within 2 h of co-cultivation .
+Whereas gentle washings failed to disrupt the cell aggregates that formed on c-Rel-expressing cell monolayers , few T cells remained attached to CCR43 cells that were not induced to express c-Rel ( Figure 3A , compare panels a and b ) .
+No aggregation was observed when Jurkat T cells were cultivated with cell monolayers expressing a mutant c-Rel protein deleted of its transactivation domain ( CCR-H5 cells ) or with the parental HtTA-1 cells ( panels c and d ; data not shown ) .
+These results agreed with our finding that the transcriptional activity of c-Rel was necessary to induce the expression of jagged1 .
+Although the data suggested the interaction of Jagged1 and Notch proteins expressed at the surface of CCR43 and Jurkat T cells , respectively , it remained possible that cytokines or cell adhesion molecules induced by c-Rel could be responsible for the observed cell interactions .
+We therefore investigated whether an intact Notch receptor was required for cell aggregation , by testing the ability of CCR43 cells to promote the aggregation of human Sup-TIl T cells .
+Both Jurkat T cells and Sup-T1 T cells are derived from a human T-lymphoblastic leukemia .
+While Jurkat T cells lack any known abnormality of chromosome 9 and express an intact Notch1l/TAN-1 receptor , Sup-TIl T cells contain two copies of a t ( 7 ; 9 ) ( q34 ; q34.3 ) translocation and have no normal Notch/ 2805 J.Bash et al .
+A B tet : 0 2 3 4° days CCRA43 : -~tet +tet r « = # # @ # c-Rel « e ae ee ae actin 1 2 3 4 Fig .
+2 .
+Jagged1 protein expression in CCR43 cells .
+( A ) Immunoblot analysis of the Jagged1 protein in CCR43 cells induced to express c-Rel .
+CCR43 cells were left uninduced ( lane 1 ) or were induced to express c-Rel ( lanes 2-4 ) .
+Cell extracts ( 20 ug ) were resolved by SDS-5 % PAGE and analyzed by ECL immunoblotting using monoclonal anti-human Jagged1 antibody # TS1 .
+Immunoblotting for c-Rel and actin were used as controls .
+( B ) Immunofluorescence analysis of Jagged1 protein expression at the surface of CCR43 cells induced to express c-Rel .
+Live non-permeabilized CCRA43 cells were left uninduced ( panel b ) or were induced to express c-Rel ( panels a and c ) , and stained with polyclonal anti-Jagged1 antibody # PCRS ( panels b and c ) .
+CCR43 cells induced to express c-Rel were stained with a pre-immune antibody as a control ( panel a ) .
+A suspension Jurkat monolayer ______CCR43 tet + suspension Reh monolayer CCRA43 tet + Jurkat : | + | +| + ] + SUP-T1 ; HtTA-jag10 : CCR43 : | + | + tet : _+ w L 3.4 kb HES-1 E cd23 s 1.5 kb cso con Ot dut th s is coe » Ui 1 2 3 4 5 6 Fig .
+3 .
+Functional interaction between c-Rel-expressing cells and cells expressing endogenous Notch1/TAN-1 receptors .
+( A ) Co-cultivation assay .
+Non-adherent human Jurkat T cells ( a-d ) , Sup-T1 T cells ( e and £ ) , Reh pre-B cells ( g and h ) or U266 B cells ( i and j ) were co-cultivated onto adherent monolayers of uninduced ( a , c , e , g and i ) or induced ( b , d , f , h and j ) CCR43 cells ( a , b and e- ) , or CCR-H5 cells ( c and d ) for 48 h. After co-cultivation , the non-adherent cells were gently washed away and the cells that remained attached onto the cell monolayers were photographed .
+In agreement with our previous studies showing a c-Rel-mediated growth arrest in CCR43 cells , the density of the induced CCR43 cell monolayers in panels b , f , h and j is lower than that in panels a , c , d , e , g and i .
+( B ) Northern blot analysis of endogenous HES-I gene expression in Jurkat T cells ( lanes 1-4 ) or Sup-T1 T cells ( lanes 5 and 6 ) co-cultivated onto cell monolayers of uninduced or induced CCR43 cells ( lanes 1 and 2 ) , and uninduced or induced HtTA-jag10 cells ( lanes 3-6 ) .
+The blot was rehybridized to a gapdh probe as a control .
+( C ) Northern blot analysis of endogenous CD23 gene expression in human Reh pre-B cells cultivated onto a CCR43 cell monolayer uninduced ( lane 1 ) or induced to express c-Rel ( lane 2 ) .
+The blot was rehybridized to a gapdh probe as a control .
+TAN-1 gene ( Smith et al .
+, 1988 ; Aster et al .
+, 1994 ) .
+The ( Ellisen et al .
+, 1991 ; Aster et al .
+, 1994 ) .
+Consistent with mutant TAN-1 protein in Sup-T1 T cells therefore lacks this observation , the induction of c-Rel in CCR43 cells the extracellular domain necessary for ligand interaction failed to induce the aggregation of Sup-Tl T cells 2806 ( Figure 3A , panel f ) .
+This is in sharp contrast to the cell aggregation that was observed with Jurkat T cells ( Figure 3A , panel b ) .
+Similarly , human Reh pre-B cells that expressed high levels of endogenous NotchI/IAN-1 transcripts aggregated onto the CCR43 cell monolayer induced to express c-Rel .
+In contrast , human U266 mature B cells that did not express any TAN-I failed to do so ( compare panels h and j ; Guan et al .
+, 1996 ; data not shown ) .
+While it is possible that other factors may also contribute to these interactions , the results indicated that an intact Notch extracellular domain was necessary for the observed cell-cell interactions and suggested that c-Rel enabled a functional interaction between Jagged1 and Notch .
+c-Rel leads to activation of the Notch signaling pathway Ligand binding to the extracellular domain of Notch initiates signaling downstream of the receptor .
+The genes encoding the mammalian transcription factor HES-1 and the B-cell activation marker CD23 are two direct downstream targets of this signaling pathway ( Wang et al .
+, 1987 , 1991 ; Cordier et al .
+, 1990 ; Ling et al .
+, 1994 ; Bailey and Posakony , 1995 ; Jarriault et al .
+, 1995 , 1998 ; Lecourtois and Schweisguth , 1995 ) .
+We examined whether the c-Rel-dependent induction of Jagged1 could trigger Notch signaling in neighboring cells by monitoring its effect on endogenous HES- ] and CD23 gene expression in co-cultivated T cells and B cells , respectively .
+HES-I transcripts reproducibly were increased 2- to 3-fold in Jurkat T cells cultivated onto a monolayer of CCR43 cells expressing c-Rel in comparison with those cultivated with an uninduced CCR43 cell monolayer ( Figure 3B , lanes 1 and 2 ) .
+Importantly , HES-1 transcripts were also induced in Jurkat T cells cultivated onto a HtTA-1-derived cell monolayer that expressed Jaggedl alone ( HtTA-Jag10 cells ; compare lanes 3 and 4 ) .
+Rehybridization to a control gapdh probe confirmed the specificity of this induction .
+As anticipated , high levels of HES-1 transcripts were observed in the control Sup-Tl T cells that express a truncated and constitutively active Notch-1/TAN-1 receptor ( lanes 5 and 6 ) .
+In agreement with these findings , the co-cultivation of human Reh pre-B cells with a CCR43 cell monolayer expressing c-Rel resulted in the induction of CD23 gene expression , in comparison with Reh cells cultivated onto an uninduced CCR43 cell monolayer ( Figure 3C ) .
+Together , these data support a model whereby c-Rel can trigger Notch signaling in neighboring cells by inducing the expression of Jagged1 .
+jagged1 is highly expressed in peripheral lymphoid organs and in splenic B cells The induction of jagged1 gene expression in response to endogenous Rel/NF-KB activation led us to examine its expression in immune tissues by Northern blot analysis .
+High levels of jagged1 transcripts were found in human spleen and lymph nodes , in agreement with the high levels of c-rel transcripts in these tissues ( Figure 4A , lanes 1 and 2 ) .
+Lower levels of jaggedl mRNAs were seen in human thymus , bone marrow and fetal liver ( lanes 3 , 5 and 6 ) .
+No expression was detected in peripheral blood leukocytes ( PBL ; lane 4 ) .
+Immunohistochemistry analysis using a monoclonal antibody specific for the intracellular domain of the factors induce Jagged1 expression Jagged1 protein was used to investigate its expression in adult mouse spleen .
+Strong Jagged1 staining was confined to the B-cell areas of the spleen ( Figure 4B , panel a ) .
+Positive cells were located mainly in the marginal zone .
+A weaker signal was detected in the perifollicular zone , the periarterial sheath and the red pulp .
+Jagged1 was found to co-localize with the B-cell antigen CD20 ( compare panels a and c ) .
+In contrast , only background staining was observed with normal rat serum ( panel b ) and pre-immune mouse IgG ( panel d ) , which were used as negative controls .
+Importantly , the distribution of Jagged1 in mouse spleen coincided with that previously reported for c-Rel ( Carrasco et al .
+, 1994 ) .
+Immunofluorescence assays were performed on purified mouse splenic B cells to examine further the correlation between the expression of Jagged1 and c-Rel .
+Flow cytometry analysis demonstrated that spleen cells expressing the B-cell marker CD45R-B220 were also positive for c-Rel and for Jagged1 protein expression ( Figure 4C ) .
+These results are consistent with our finding of a correlation between the expression of Rel/NF-KB factors and that of Jagged1 .
+These data suggest that Jagged1 may play a role in B-cell activation , differentiation or function .
+Discussion The important role of the Rel and NF-KB factors in the immune system has elicited a fervent search for Rel-regulated genes that may participate in the control of cell proliferation , differentiation and malignant transformation ( reviewed in Luque and Gelinas , 1997 ) .
+Here , we report that the gene encoding the Notch ligand jagged ] is a novel NF-KB-responsive gene .
+The induction of jagged !
+by endogenous NF-KB factors and its inhibition by a dominant IKBOGAN transgene demonstrate its dependence on nuclear NF-KB transcriptional activity .
+This study is also shows that c-Rel can trigger the Notch signaling pathway in neighboring cells .
+The endogenous expression of Jagged1 in splenic B cells is consistent with its Rel-dependent induction and points to a possible role for Jagged1 in B-cell activation , differentiation or function .
+Interplay between the Rel/NF-xB and Notch signaling pathways This study is the first to demonstrate that ReI/NF-KB can function upstream of Notch .
+In our assays , c-Rel , RelA and endogenous NF-KB factors elicited specific activation of the Notch ligand Jagged1 .
+In turn , the expression of Jagged ] correlated with the aggregation of non-adherent Jurkat T cells and Reh pre-B cells onto CCR43 cell monolayers .
+This effect was dependent on the transcriptional activity of c-Rel , as well as on the expression of an intact Notch receptor at the surface of co-cultivated lymphoid cells .
+Sup-Tl T cells that lacked a normal Notch1/TAN-1 allele and U266 B cells that did not express Notch1 failed to adhere to the cell monolayers and remained in suspension .
+We do not rule out the possibility that cytokines or adhesion molecules induced by c-Rel may also contribute to these interactions .
+However , the observed requirement for Notch receptor expression in these assays supports a model whereby c-Rel can promote 2807 J.Bash et al .
+A 8 E-gg “ Elf : EEEJS ; sf jagged1 « wee += we __| actin m `` .
+1 2 3 4 5 6 C CD45R-PE 250 187 pr a 5 125 2 © o s2 { al 0.4 1 FITC fluorescence intensity -r - t 0.1 1 10 100 1,000 PE fluorescence intensity c-Rel 10 100 1,000 _ 0.1 1 10 100 Jagged 1 250 187 125 62 cs momma 1,000 r-rrtm Of mrrrmm rrmnt FITC fluorescence intensity Fig .
+4 .
+Expression of jagged !
+in immune cells and tissues .
+( A ) Northern blot analysis of endogenous jagged ) gene expression in human immune tissues .
+A human immune system II Northern blot ( Clontech ) was hybridized to a human jagged ) cDNA probe .
+The blot was rehybridized successively to c-rel and actin probes .
+( B ) Immunohistochemical localization of Jagged1 to the B-cell areas of the spleen .
+Cross-sections from adult mouse spleen were analyzed by immunoperoxidase staining of a monoclonal anti-Jagged1 antibody ( a ) or a monoclonal anti-CD20 antibody ( c ) .
+Normal rat serum ( b ) and pre-immune mouse IgG ( d ) were used as negative controls .
+The marginal zone ( MZ ) showed strong staining for Jagged1 .
+Hematoxylin-eosin staining is shown ( e ) .
+RP , red pulp ; WP , white pulp .
+( C ) Flow cytometry analysis of c-Rel and Jagged1 protein expression in mouse splenic B cells .
+Spleen cell populations were enriched for B cells by antibody plus complement-mediated killing of T cells .
+Cells were stained for expression of the B-cell marker CD45R-B220 with a PE-conjugated monoclonal antibody ( left panel ) .
+This resulted in a population of > 80 % B cells .
+Cells were analyzed for expression of endogenous c-Rel ( middle panel ) or Jagged1 proteins ( right panel ) with polyclonal antibodies specific for c-Rel ( sc-71 ) or Jagged1 ( # PCR8 ) , and a fluorescein isothiocyanate ( FITC ) -labeled secondary goat anti-rabbit antibody .
+Staining with the FITC-labeled secondary antibody alone was used a negative control ( middle and right panels ) .
+the functional interaction of Jagged1 , with Notch receptors expressed at the surface of neighboring cells .
+The Rel-dependent induction of jagged ] in cell monolayers also coincided with the initiation of signaling downstream of Notch , as shown by the activation of two different CBF1/Su ( H ) /RBP-Jr-regulated genes in co-cultivated lymphoid cells .
+Endogenous HES- ] transcripts were upregulated reproducibly in Jurkat T cells cultured with CCR43 cell monolayers expressing c-Rel and Jagged1 , or with HtTA-Jag10 cells expressing Jagged1 2808 alone .
+This agrees with a recent report showing that ectopic expression of the vertebrate Notch ligand Delta-1 can transactivate endogenous HES- ] gene expression in Notch1-expressing cells ( Jarriault et al .
+, 1998 ) .
+Likewise , the cultivation of Reh pre-B cells with a CCR43 cell monolayer led to the specific induction of mRNAs for the B-cell activation marker CD23 .
+These results indicate that c-Rel can promote activation of the Notch signaling pathway and suggest that c-Rel-mediated activation of Jagged1 is responsible for this effect .
+Our findings do not exclude the possibility that other transcription factors contribute to the regulation of jaggedl gene expression in different cell lineages and at different stages of differentiation .
+It also remains to be determined whether Rel/NF-KB-mediated activation of jagged ] gene expression is direct or indirect .
+Further work is required to isolate the jagged1 promoter and establish whether its expression is controlled directly by Rel/NF-KB factors .
+Relevance to the immune system In addition to its role in neurogenesis , myogenesis , angio-genesis and retinal cell development , the Notch signaling pathway has also been implicated in hemato-poiesis and in immune cell malignancies ( reviewed in Robey , 1997 ) .
+Consistent with this notion , the expression of Jagged1 was shown to promote the development of primitive hematopoietic precursor cells , whereas activated forms of Notch1 and Notch2 influenced the differentiation of myeloid progenitors in response to different cytokines ( Bigas et al .
+, 1998 ; Jones et al .
+, 1998 ; Varnum-Finney et al .
+, 1998 ) .
+In independent studies , overexpression of an activated form of Notch1 influenced T-cell differentiation during thymic development ( Robey et a/ .
+, 1996 ; Washburn et al .
+, 1997 ) .
+This process recently was proposed to involve the silencing of CD4 gene expression by HES-1 ( Kim and Siu , 1998 ) .
+The mapping of three human Notch genes to chromosomal locations associated with leukemia , lymphoma and myeloproliferative disorders has also suggested a role in immune cell proliferation and malignancy ( Ellisen et al .
+, 1991 ; Larsson et al .
+, 1994 ; Milner et al .
+, 1994 ; Hasserjian et al .
+, 1996 ; Gridley , 1997 ) .
+The demonstration that constitutively active forms of Notchl induced T-cell leukemia/lymphoma in mice confirmed this prediction ( Pear et al .
+, 1996 ) .
+In experiments not shown here , we mapped the jagged ] locus to human chromosome 20p12 by fluorescence in situ hybridization ( FISH ) in order to assess its possible implication in immune cell malignancies .
+While this study was in progress , mutations at this locus were shown to be associated with Alagille syndrome ( Li et al .
+, 1997 ; Oda et al .
+, 1997 ) .
+Although alterations in immune or hematopoietic function were not reported , it remains to be determined whether the disease results from haploinsufficiency or from a dominant-negative effect exerted by the mutant protein .
+The ability of the Notch signaling pathway to influence the differentiation and proliferation of different cell lineages may also depend on different inducing signals and on the cellular micro-environment .
+Our immunohistochemistry analyses revealed that Jagged1 is highly expressed in the B-cell areas of the spleen , particularly in the splenic marginal zone that is rich in plasma and memory B cells .
+Consistent with these results , flow cytometry analyses further demonstrated a correlation between the expression of Jagged1 and c-Rel in purified mouse splenic B cells .
+Although the function of Jagged1 in secondary lymphoid organs remains to be determined , both Notch1 and Notch2 are also expressed in the spleen ( Hsieh et al .
+, 1997 ; data not shown ) .
+This raises the possibility of a role for Jagged1l-mediated signaling through Notch in the pathways that control the later stages of B-lymphocyte activation , differentiation and/or immune function .
+The ability of the EBNA-2 factors induce Jagged1 expression protein of Epstein-Barr virus to induce expression of the B-cell activation marker CD23 through its association with the Notch effector CBFI in transformed B lymphocytes agrees with a role for Notch signaling in B cells ( Ling et al .
+, 1994 ; Hsieh et al .
+, 1997 ) .
+Our co-cultivation assays - demonstrating that Jaggedl-expressing cells induced CD23 gene expression in neighboring B cells is consistent with this hypothesis .
+Future studies will help to define the role of Jagged1 in the splenic micro-environment , and to clarify whether it signals through Notch in the context of a heterotypic cell-cell interaction or in a cell-autonomous fashion .
+Recent work suggesting that soluble forms of Notch ligands can trigger signaling through Notch in vivo would be compatible with either possibility ( Qi et al .
+, 1999 ) .
+c-rel knock-out mice are impaired for B-cell activation and antibody production ( Kontgen et al .
+, 1995 ; Carrasco et al .
+, 1998 ) .
+The observation that all known B-cell growth factors failed to rescue the proliferative defect of these cells suggests that c-Rel may regulate the expression of genes , other than those for cytokines and growth factors , which are crucial for the activation and proliferation of B lymphocytes ( Kontgen et al .
+, 1995 ) .
+Our finding that c-Rel can trigger the expression of Jagged1 raises the possibility of a connection between the Rel/NF-KB and Notch signaling pathways in secondary lymphoid organs .
+Thus , in addition to controlling the expression of cytokines , immunoregulatory and adhesion molecules , Rel/NF-KB factors may also trigger a Notch signaling cascade important for lymphocyte activation and immune function .
+Materials and methods Plasmids and cell culture pUHD10-3 contained seven tetracycline operator sites upstream of a minimal cytomegalovirus ( CMV ) promoter ( Gossen and Bujard , 1992 ) .
+An Xhol-EcoRI fragment containing the human jaggedl cDNA in pBluescript was subcloned into pUHD10-3 , after addition of an Xbel linker to its XhoI end ( pUHD10-3-jagged1 ) .
+pHMR272 was used to confer resistance to the drug hygromycin B ( Bernard et al .
+, 1985 ) .
+The parental HeLa-derived HtTA-1 cells stably expressed a fusion protein comprised of the Escherichia coli tetracycline repressor fused to the activation domain of the herpes simplex virus VP16 protein ( tTA ; Gossen and Bujard , 1992 ) .
+HtTA-1-derived cell clones that conditionally expressed c-re/ ( CCR43 cells ) , re/A4 ( HtTA-ReIA cells ) or a truncated c-Rel protein lacking the c-rel transactivation domain were also described ( CCR-H5 cells ; Bash et al .
+, 1997 ; Zong et al .
+, 1998 ) .
+The tetracycline-regulated HtTA-jag10 cell clone that conditionally expressed was generated by co-transfection of HtTA-1 cells with pUHD10-3-jagged1 and pHMR272 using a modified calcium phosphate procedure , followed by selection for resistance to hygromycin B ( 225 U/ml , Calbiochem ; Chen and Okayama , 1987 ) .
+Drug-resistant colonies were screened for the inducible expression of Jaggedl1 using monoclonal antibody # TS1 , specific for the intracellular domain of the human Jagged1 protein ( a gift of Dr Artavanis-Tsakonas ) .
+All HtTA-1-derived cell clones were maintained in the presence of tetracycline ( 1 ug/ml ) .
+Human Jurkat and Sup-Tl T-lymphoblastic leukemia cells , Reh pre-B cells and U266 B-myeloma cells were obtained from ATCC .
+The Jurkat T-cell clone constitutively expressing the IKBOAN transdominant inhibitor of was cultured in the presence of hygromycin B , as described previously ( 300 ug/ml ; Chu et al .
+, 1997 ) .
+Where indicated , Jurkat T cells ( 5X10° % /ml ) were treated with PMA ( 50 ng/ml ) plus ionomycin ( 1 uM ) for 2 h to induce endogenous NF-KB/Re !
+l activity .
+Cells were treated with dimethylsulfoxide ( DMSO ; 0.1 % ) as a control .
+Cloning of a human jagged1 cDNA Differential display PCR ( DD-PCR ) analysis was performed as described previously ( Liang and Pardee , 1992 ) using RNA from uninduced and induced CCR43 cells .
+RNA samples ( 2 ug ) were treated with DNase and reverse transcribed with Superscript reverse transcriptase ( Gibco- 2809 J.Bash et al .
+BRL ) and a 5'-T ; CA primer .
+Partial cDNA libraries were PCR amplified with 5'-T ; , CA and 5 `` -AGACGTCTGT-3 ' primers in the presence of [ G-3°SJdATP and resolved on 6 % sequencing gels .
+cDNA fragments differentially expressed in response to c-Rel were introduced into pCRII ( Invitrogen ) by TA cloning and screened by dot-blot analysis ( Callard et al .
+, 1994 ) .
+One of these cDNA fragments ( clone 1-2 , 106 bp ) was used to screen a human spleen cDNA library in Agtll ( Clontech ) .
+Human clone A2-3 contained a 1778 bp insert homologous to nucleotides 1059-2837 of the rat jagged ] cDNA ( DDBJ/EMBL/GenBank accession No .
+L38483 ) .
+A full-length cDNA for human jagged ) was isolated from a HeLa Uni-ZAP `` `` XR cDNA library ( Stratagene ) with probes derived from clone A2-3 and from human expressed sequence tag ( EST ) clone 117734 , homologous to the 3 ' end of rat jagged ] ( Research Genetics ) .
+Phages positive with both probes were excised in pBluescript phagemids .
+Human cDNA clone 14-6 contained a 5457 bp insert comprised of the complete coding region for jagged !
+( 3657 bp ) together with 263 bp of 5'-untranslated sequence and 1537 bp of 3'-untranslated sequence ( DDBJ/EMBL/GenBank accession No .
+AFO28593 ) .
+The sequence of human jagged ] cDNA clone 14-6 was analyzed using the EditSeq and MegAlign programs of DNASTAR .
+Northern blot analysis Total RNA ( 20 ug ) extracted with RNAzol B ( TEL-TEST ) was analyzed in 1 % agarose-formaldehyde gels and transferred onto Hybond-N or Hybond-NX membranes ( Amersham ) .
+Membranes were baked for 10 min at 80°C and UV cross-linked with a Stratalinker ( Stratagene ) .
+A multiple human immune system II Northern blot was purchased from Clontech .
+Probes were generated by random priming with Klenow DNA polymerase in the presence of `` P-labeled dCTP and dGTP .
+Membranes were hybridized to probes specific for c-rel , jagged1 , deltal ( a gift of G.Weinmaster , UCLA , CA ) , IxBa ( a gift of A.Baldwin , University of North Carolina , NC ) , NotchI/TAN-1 , HES-1 ( a gift of R.Kageyama , Kyoto University , Japan ) , CD23 ( a gift of E.Kieff , Harvard Medical School , MA ) or the actin gene .
+Where indicated , blots were hybridized to human II-2R @ - and gapdh-specific probes .
+Immunoblotting Cell extracts were prepared and quantitated as described ( Bash et al .
+, 1997 ) .
+Proteins ( 20 ug ) were resolved by SDS-PAGE and transferred to nitrocellulose membranes .
+Membranes were incubated with immune serum , followed by donkey anti-rabbit ( Amersham ) or goat anti-rat horseradish peroxidase ( HRP ) -conjugated antibodies ( Jackson ImmunoResearch Labs , PA ) and detected by enhanced chemiluminescence ( Amersham ) .
+Rat monoclonal antibody # TS1 ( a gift of S.Artavanis-Tsakonas , Yale University , CT ) was specific for the intracellular domain of human Jagged1 .
+Polyclonal anti-Rel antibody Ab # 1801 specific for the unique C-terminus of c-Rel ( Kumar and Gelinas , 1993 ) and an antibody specific for actin ( Sigma ) were also used .
+Immunofluorescence and immunohistochemistry analyses Cell surface expression of the human Jagged1 protein was detected by immunofluorescence of live non-permeabilized cells , with all steps prior to fixation carried out at 4°C .
+Cells were washed in phosphate-buffered saline ( PBS ) , blocked in PBS plus 5 % goat serum and incubated with polyclonal antibody # PCR8 raised against the extracellular domain of rat Jagged1 overnight ( a gift of G.Weinmaster , UCLA , CA ) .
+Cells were washed in PBS , incubated with a biotinylated goat anti-rabbit antibody ( Vector Labs ) and then fixed in 4 % paraformaldehyde .
+Cells were washed in PBS , stained with FITC-labeled streptavidin ( Jackson ImmunoResearch Labs ) and mounted with 0.2 % p-phenylenediamine ( Sigma ) .
+Spleen cells from C57BL/6 mice were enriched by antibody plus complement-mediated cell killing with rat anti-mouse Thy-1.2 antibody J1j to deplete T cells .
+This resulted in a population of > 80 % B cells .
+Cells were analyzed by double-immunofluorescence staining for expression of the B220 B-cell marker with a phycoerythrin ( PE ) -conjugated rat monoclonal anti-mouse CD4SR-B220 antibody ( PharMingen ) , and for the expression of c-Rel or Jagged1 using rabbit polyclonal antibody sc-71 ( c-Rel ; Santa Cruz Biotechnology ) or # PCR8 and a fluorescein-labeled goat anti-rabbit secondary antibody ( Jackson ImmunoResearch Labs , PA ) .
+Immunohistochemistry analysis of cross-sections from adult mouse spleen was carried out by the Immunohistochemistry Core Facility ( Cancer Institute of New Jersey , New Brunswick , NJ ) .
+Primary antibodies were rat monoclonal anti-Jagged1 antibody # TS1 and mouse monoclonal antibody # 126 that recognized the B-cell antigen CD20 ( Dako Corporation ) .
+Normal rat serum and pre-immune mouse IgG were used as negative controls .
+Reactivity was revealed by immunoperoxidase staining .
+2810 Co-cultivation assays HITA-1 , CCR43 or CCR-H5 cells were plated in duplicate in the presence of tetracycline .
+After 24 h , one dish from each series was induced in medium lacking tetracycline .
+After 48 h , the cells were washed three times with Dulbecco 's modified Eagle 's medium ( DMEM ) with or without tetracycline , and overlaid with Jurkat , Sup-T1 , Reh or U266 non-adherent cells in suspension ( 2.5 % 10° cells/dish ) .
+The co-cultures were incubated for 48 h. Photographs were taken after the cells remaining in suspension were washed away .
+For Northern blot analyses , firm tapping was used to dislodge the lymphoid cells that aggregated onto the adherent cell monolayer , prior to RNA extraction from the co-cultivated lymphoid cells .
+Acknowledgements We are very grateful to S.Artavanis-Tsakonas , A.Baldwin , H.Bujard , R.Kageyama , E.Kieff , N.Rice , G.Weinmaster and E. White for the gifts of reagents .
+We thank R.Donnelly for DNA sequencing , and P.Amenta and E.Smirnova for immunohistochemistry analysis .
+We thank F.Agnes for assistance with the EST database search , and FAgnes , C.Chen , I Luque and A.B.Rabson for fruitful discussions during the course of this work .
+We also thank C.Chen , L.C.Edelstein , B.Rayet and R.Steward for helpful comments on the manuscript .
+This work was supported by grants from the National Institutes of Health ( CA54999 ) , The Council for Tobacco Research USA , Inc. ( 4175 ) and the New Jersey Commission on Science and Technology ( C.G . )
+.
+The work was also supported partially by National Institutes of Health grants AI33839 ( D.W.B . )
+and AGO4821 ( S.B . )
+.
+J.B. was a pre-doctoral fellow of the New Jersey Commission on Cancer Research .
+A.R .
+was supported by an Individual National Research Service Award from the National Institutes of Health ( GM19331 ) .
+References Aster , J. , Pear , W. , Hasserjian , R. , Erba , H. , Davi , F , Luo , B. , Scott , M. , Baltimore , D .
+and Sklar , J .
+( 1994 ) Functional analysis of the TAN-/ gene , a human homolog of Drosophila Notch .
+Cold Spring Harbor Symp .
+Quant .
+Biol .
+, 59 , 125-136 .
+Bailey , A.M. and Posakony , J.W .
+( 1995 ) Suppressor of Hairless directly activates transcription of Enhancer of split complex genes in response to Notch receptor activity .
+Genes Dev .
+, 9 , 2609-2622 .
+Baldwin , A.S..Jr ( 1996 ) The NF-xB and IB proteins : new discoveries and insights .
+Annu .
+Rev .
+Immunol .
+, 14 , 649-681 .
+Barnes , PJ .
+and Karin , M .
+( 1997 ) Nuclear pivotal transcription factor in chronic inflammatory diseases .
+N. Engl .
+J .
+Med .
+, 336 , 1066-1071 .
+Bash , J. , Zong , W.-X .
+and Gelinas , C .
+( 1997 ) c-Rel arrests the proliferation of HeLa cells by affecting critical regulators of the phase transition .
+Mol .
+Cell .
+Biol .
+, 17 , 6526-6536 .
+Bernard , Krammer , G .
+and Rowekamp , W.G .
+( 1985 ) Construction of a fusion gene that confers resistance against hygromycin B to mammalian cells in culture .
+Exp .
+Cell Res .
+, 158 , 237-243 .
+Bigas , A. , Martin , D.LK .
+and Milner , L.A .
+( 1998 ) Notch1 and Notch2 inhibit myeloid differentiation in response to different cytokines .
+Mol .
+Cell .
+Biol .
+, 18 , 2324-2333 .
+Boothby , M.R .
+, Mora , A.L .
+, Scherer , D.C. , Brockman , J.A .
+and Ballard , D.W. ( 1997 ) Perturbation of the T lymphocyte lineage in transgenic mice expressing a constitutive repressor of nuclear factor ( NF ) -KB .
+J. Exp .
+Med .
+, 185 , 1897-1907 .
+Bray , S .
+( 1998 ) A Notch affair Cell , 93 , 499-503 .
+Brou , C. , Logeat , F. , Lecourtois , M. , Vandekerckhove , J. , Kourilsky , P. , Schweisguth , F .
+and Israel , A .
+( 1994 ) Inhibition of the DNA-binding activity of Drosophila Suppressor of Hairless and of its human homolog , KBF2/RBP-J , by direct protein-protein interaction with Drosophila Hairless .
+Genes Dev .
+, 8 , 2491-2503 .
+Callard , D. , Lescure , B .
+and Mazzolini , L .
+( 1994 ) A method for the elimination of false positives generated by the mRNA differential display technique .
+Biotechniques , 16 , 1096-1103 .
+Carrasco , D. , Weih , F .
+and Bravo , R .
+( 1994 ) Developmental expression of the mouse c-rel proto-oncogene in hematopoietic organs .
+Development , 120 , 2991-3004 .
+Carrasco , D. , Cheng , J. , Lewin , A. , Warr , G. , Yang , H. , Rizzo , C. , Rosas , F. , Snapper , C .
+and Bravo , R .
+( 1998 ) Multiple hemopoietic defects and lymphoid hyperplasia in mice lacking the transcriptional activation domain of the c-Rel protein .
+J. Exp .
+Med .
+, 187 , 973-984 .
+Chan , Y.-M. and Jan , Y.N .
+( 1998 ) Roles for proteolysis and trafficking in Notch maturation and signal transduction .
+Cell , 94 , 423-426 .
+Chen , C .
+and Okayama , H .
+( 1987 ) High-efficiency transformation of mammalian cells by plasmid DNA .
+Mol .
+Cell .
+Biol .
+, 7 , 2745-2752 .
+Chu , Z.L .
+, McKinsey , IA .
+, Liw , .L .
+, Gentry , J.J. , Malim , MH .
+- and Ballard , D.W .
+( 1997 ) Suppression of tumor necrosis factor-induced cell death by inhibitor of apoptosis c-IAP2 is under NF-KB control .
+Proc .
+Natl Acad .
+Sci .
+USA , 94 , 10057-10062 .
+Cordier , M. et al .
+( 1990 ) Stable transfection of Epstein-Barr virus ( EBV ) nuclear antigen 2 in lymphoma cells containing the EBV P3HR1 genome induces expression of B-cell activation molecules CD21 and CD23 .
+J .
+Virol .
+, 64 , 1002-1013. de la Pompa , J.L .
+et al .
+( 1997 ) Conservation of the Notch signaling pathway in mammalian neurogenesis .
+Development , 124 , 1139-1148 .
+Dou , S. , Zeng .
+, X. , Cortes , P. , Erdjument-Bromage , H. , Tempst , P. , Honjo , T. and Vales , L.D .
+( 1994 ) The recombination signal sequence-binding protein RBP-2N functions as a transcriptional repressor .
+Mol .
+Cell .
+Biol .
+, 14 , 3310-3319 .
+Ellisen , L .
+W. , Bird , J. , West , D.C. , Soreng , A.L .
+, Reynolds , T.C .
+, Smith , S.D .
+and Sklar , J .
+( 1991 ) TAN-1 , the human homolog of the Drosophila Notch gene , is broken by chromosomal translocations in T lymphoblastic neoplasms .
+Cell , 66 , 649-661 .
+Fortini , M .
+and Artavanis-Tsakonas , S .
+( 1994 ) The Suppressor of Hairless protein participates in Notch receptor signaling .
+Cell , 79 , 273-282 .
+Gossen , M .
+and Bujard , H .
+( 1992 ) Tight control of gene expression in mammalian cells by tetracycline-responsive promoters .
+Proc .
+Natl Acad .
+Sci .
+USA , 89 , 5547-5551 .
+Gridley , T. ( 1997 ) Notch signaling in vertebrate development and disease .
+Mol .
+Cell .
+Neurosci .
+, 9 , 103-108 .
+Guan , E. , Wang , J. , Laborda , J. , Norcross , M. , Baeuerle , P.A .
+and Hoffman , T .
+( 1996 ) T cell leukemia-associated human notch/ translocation-associated notch homologue has IKB-like activity and physically interacts with nuclear factor-KB proteins in T cells .
+J. Exp .
+Med .
+, 183 , 2025-2032 .
+Hasserjian , R.P .
+, Aster , J.C. , Davi , F , Weinberg , D.S .
+and Sklar , J .
+( 1996 ) Modulated expression of Notch1 during thymocyte development .
+Blood , 88 , 970-976 .
+Hsich , J.J.-D. , Henkel , T. , Salmon , P , Robey , E. , Peterson , M.G .
+and Hayward , S.D .
+( 1996 ) Truncated mammalian notch 1 activates CBF1/ RBPJx-repressed genes by a mechanism resembling that of Epstein-Barr virus EBNAZ .
+Mol .
+Cell .
+Biol .
+, 16 , 952-959 .
+Hsich , J.J.-D. , Nofziger , D.E .
+, Weinmaster , G .
+and Hayward , S.D .
+( 1997 ) Epstein-Barr virus immortalization : Notch2 interacts with CBF1 and blocks differentiation .
+J .
+Virol .
+, 71 , 1938-1945 .
+.. Jarriault , S. , Brou , C. , Logeat , F. , Schrocter , E.H. , Kopan , R .
+and Israel , A .
+( 1995 ) Signaling downstream of activated mammalian Notch .
+Nature , 377 , 355-358. , Jarriault , S. , Le Bail , O. , Hirsinger , E. , Pourquie,0 .
+, Logeat , F. , Strong , C.F .
+, Brou , C. , Seidah , N.G .
+and Israel , A .
+( 1998 ) Delta-1 activation of Notch-1 signaling results in HES-/ transactivation .
+Mol .
+Cell .
+Biol .
+, 18 , 7423-7431 .
+Jones , P. , May , G. , Healy , L. , Brown , J. , Hoyne , G. , Delassus , S .
+and Enver , T .
+( 1998 ) Stromal expression of Jagged1 promotes colony formation by fetal hematopoietic progenitor cells .
+Blood , 92 , 1505-1511 .
+Kim , HK .
+and Siu , G .
+( 1998 ) The Notch pathway intermediate HES-1 silences CD4 gene expression .
+Mol .
+Cell .
+Biol .
+, 18 , 7166-7175 .
+Kontgen , F , Grumont , R.J. , Strasser , A. , Metcaff , D. , Li , R. , Tarlinton , D .
+and Gerondakis , S .
+( 1995 ) Mice lacking the c-rel proto-oncogene exhibit defects in lymphocyte proliferation , humoral immunity and interleukin-2 expression .
+Genes Dev .
+, 9 , 1965-1977 .
+Kopan , R. , Schrocter , E.H. , Weintraub , H .
+and Nye , J.S .
+( 1996 ) Signal transduction by activated mNotch : importance of proteolytic processing and its regulation by the extracellular domain .
+Proc .
+Natl Acad .
+Sci .
+USA , 93 , 1683-1688 .
+Kopp , E.B .
+and Ghosh , S .
+( 1995 ) NF-KB and rel proteins in innate immunity .
+Ady .
+Immunol .
+, 58 , 1-27 .
+Kumar , S .
+and Gelinas , C .
+( 1993 ) IKBa-mediated inhibition of v-Rel DNA binding requires direct interaction with the RxxRxRxxC Rel/kB DNA-binding motif .
+Proc .
+Natl Acad .
+Sci .
+USA , 90 , 8962-8966 .
+Larsson , C. , Lardelli , M. , White , I .
+and Lendabl , U .
+( 1994 ) The human NOTCH1I , 2 and 3 genes are located at chromosome positions 9q34 , 1p13-p11 and 19p13.2-p13.1 in regions of neoplasia-associated translocation .
+Genomics , 24 , 253-258 .
+Lecourtois , M .
+and Schweisguth , F .
+( 1995 ) The neurogenic suppressor of hairless DNA-binding protein mediates the transcriptional activation of the enhancer of split complex genes triggered by Notch signaling .
+Genes Dev .
+, 9 , 2598-2608 .
+Li , L .
+et al .
+( 1997 ) Alagille syndrome is caused by mutations in human Jagged1 , which encodes a ligand for Notch1 .
+Nature Genet .
+, 16 , 243-251 .
+Li , L .
+et al .
+( 1998 ) The human homolog of rat Jagged1 expressed by marrow stroma inhibits differentiation of 32D cells through interaction with Notch1 .
+Immunity , 8 , 43-55. factors induce Jagged1 expression Liang , P .
+and Pardee , A .
+( 1992 ) Differential display of eukaryotic messenger RNA by means of the polymerase chain reaction .
+Science , 257 , 967-971 .
+Lindsell , C.E .
+, Shawber , C.J .
+, Boulter , J .
+and Weinmaster , G .
+( 1995 ) Jagged : a mammalian ligand that activates Notch1 .
+Cell , 80 , 909-917 .
+Ling , P.D .
+, Hsich , J.J.-D. , Ruf , LK .
+, Rawlins , D.R .
+and Hayward , S.D .
+( 1994 ) EBNA-2 upregulation of Epstein-Barr virus latency promoters and the cellular CD23 promoter utilizes a common targeting intermediate , CBF1 .
+J .
+Virol .
+, 68 , 5375-5383 .
+Lugue , I and Gelinas , C .
+( 1997 ) Rel/NF-xB and IkB factors in oncogenesis .
+Semin .
+Cancer Biol .
+, 8 , 103-111 .
+May , M.J .
+and Ghosh , S .
+( 1997 ) Rel/NF-xB and IKB proteins : an overview .
+Semin .
+Cancer Biol .
+, 8 , 63-73 .
+Milner , L.A. , Kopan , R. , Martin , D.LK .
+and Bernstein , LD .
+( 1994 ) A human homologue of the Drosophila developmental gene , Notch , is expressed in CD34* hematopoietic precursors .
+Blood , 83 , 2057-2062 .
+Milner , L.A. , Bigas , A. , Kopan , R. , Brashem-Stein , C. , Bernstein , LD .
+and Martin , D.LK .
+( 1996 ) Inhibition of granulocytic differentiation by mNotch1 .
+Proc .
+Natl Acad .
+Sei .
+USA , 93 , 13014-13019 .
+Oda , T. , Elkahloun , A.G. , Meltzer , P.S .
+and Chandrasekharappa , $ .C .
+( 1997 ) Identification and cloning of the human homolog ( Jag ! )
+of the rat jagged1 gene from the Alagille syndrome critical region at 20p12 .
+Genomics , 43 , 376-379 .
+Pear , W.S .
+, Aster , J.C. , Scott , .M.L .
+, Hasserjian , R.P .
+, Soffer , B. , Sklar , J .
+and Baltimore , D .
+( 1996 ) Exclusive development of T cell neoplasms in mice transplanted with bone marrow expressing activated Notch alleles .
+J. Exp .
+Med .
+, 183 , 2283-2291 .
+Qi , H. , Rand , M.D .
+, Wu , X. , Sestan , N. , Wang , W. , Rakic , P. , Xu , T .
+and Artavanis-Tsakonas , S .
+( 1999 ) Processing of the Notch ligand Delta by the metalloprotease Kuzbanian .
+Science , 283 , 91-94 .
+Robey , E .
+( 1997 ) Notch in vertebrates .
+Curr Opin .
+Genel .
+Dev .
+, 7 , 551-557 .
+Robey , E. , Chang , D. , Itano , A. , Cado , D. , Alexander , H. , Lans , D. , Weinmaster , G .
+and Salmon , P .
+( 1996 ) An activated form of Notch influences the choice between CD4 and CD8 T cell lineages .
+Cell , 87 , 483-492 .
+Sasai , Y. , Kageyama , R. , Tagawa , Y. , Shigemoto , R .
+and Nakanishi , S .
+( 1992 ) Two mammalian helix-loop-helix factors structurally related to Drosophila hairy and Enhancer of split .
+Genes Dev .
+, 6 , 2620-2634 .
+Schrocter , E.H. , Kisslinger , J.A .
+and Kopan , R .
+( 1998 ) Notch-1 signaling requires ligand-induced proteolytic release of intracellular domain .
+Nature , 393 , 382-386 .
+Smith , S.D .
+et al .
+( 1988 ) Clinical and biologic characterization of T-cell neoplasias with rearrangements of chromosome 7 band q34 .
+Blood , 71 , 395-402 .
+Tamura , K. , Taniguchi , Y. , Minoguchi , S. , Sakai , T. , Tun , T. , Furukawa , ] .
+and Honjo , T .
+( 1995 ) Physical interaction between a novel domain of the receptor Notch and the transcription factor RBP-J/Su ( H ) .
+Curr : Biol .
+, 5 , 1416-1423 .
+Varnum-Finney , B .
+et al .
+( 1998 ) The Notch ligand , Jagged-1 , influences the development of primitive hematopoietic precursor cells .
+Blood , 91 , 4084-4091 .
+Wang , F. , Gregory , C. , Rowe , M. , Rickinson , A.B .
+, Wang , D. , Birkenbach , M. , Kikutani , H. , Kishimoto , T .
+and Kieff , E .
+( 1987 ) Epstein-Barr virus nuclear antigen 2 specifically induces expression of the B cell activation antigen CD23 .
+Proc .
+Natl Acad .
+Sci .
+USA , 84 , 3452-3456 .
+Wang , F. , Kikutani , H. , Tsang , S. , Kishimoto , T .
+and Kieff , E .
+( 1991 ) Epstein-Barr virus nuclear protein 2 transactivates a cis-acting CD23 DNA element .
+J .
+Virol .
+, 65 , 4101-4106 .
+Washbum , T. , Schweighoffer , E. , Gridley , , Chang , D. , Fowlkes , B.J .
+, Cado , D .
+and Robey , E .
+( 1997 ) Notch activity influences the @ /B versus Y/8 T cell lineage decision .
+Cell , 88 , 833-843 .
+Weinmaster , G .
+( 1997 ) The ins and outs of Notch signaling .
+Mol .
+Cell .
+Neurosci .
+, 9 , 91-102 .
+Weinmaster , G. , Roberts , V.J .
+and Lemke , G .
+( 1992 ) Notch 2 : a second mammalian Notch gene .
+Development , 116 , 931-941 .
+Whiteside , S.T .
+and Israel , A .
+( 1997 ) IKB proteins : structure , function and regulation .
+Semin .
+Cancer Biol .
+, 8 , 75-82 .
+Wulezyn , FG .
+, Krappmann , D .
+and Scheidereit , C .
+( 1996 ) The NF-KB/ Rel and IKB gene families : mediators of immune response and inflammation .
+J. Mol .
+Med .
+, 74 , 749-769 .
+Zong , W.-X .
+, Bash , J .
+and Gelinas , C .
+( 1998 ) Rel blocks both anti-Fas and TNFo-induced apoptosis and an intact Rel transactivation domain is essential for this effect .
+Cell Death Differ .
+, 5 , 963-972 .
+Received January 15 , 1999 ; revised and accepted March 29 , 1999 2811

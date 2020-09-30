@@ -1,0 +1,648 @@
+Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Activation of the HIV-1 enhancer by the LEF-1 HMG protein on nucleosome-assembled DNA in vitro Philip L. Sheridan , `` Christian T. Sheline , *~ Keith Cannon , `` Marianne L. Voz , Michael J. Pazin , `` James T. Kadonaga , `` and Katherine A. Jones'* 'The Salk Institute for Biological Studies , La Jolla , California 92037-1099 USA , ; *Department of Biology , University of California , San Diego , La Jolla , California 92093-0347 USA Lymphoid enhancer-binding factor 1 ( LEF-1 ) is a regulatory high mobility group ( HMG ) protein that activates the T cell receptor « ( TCRa « ) enhancer in a context-restricted manner in T cells .
+In this paper we demonstrate that the distal region of the human immunodeficiency virus-1 ( HIV-1 ) enhancer , which contains DNA-binding sites for LEF-1 and Ets-1 , also provides a functional context for activation by LEF-1 .
+First , we show that mutations in the LEF-1-binding site inhibit the activity of multimerized copies of the HIV-1 enhancer in Jurkat T cells , and that LEF-1/GAL4 can activate a GAL4-substituted HIV-1 enhancer 80- to 100-fold in vivo .
+Second , recombinant LEF-1 is shown to activate HIV-1 transcription on chromatin-assembled DNA in vitro .
+By using a nucleosome-assembly system derived from Drosophila embryos , we find that the packaging of DNA into chromatin in vitro strongly represses HIV-1 transcription and that repression can be counteracted efficiently by preincubation of the DNA with LEF-1 ( or LEF-1 and Ets-1 ) supplemented with fractions containing the promoter-binding protein , Spl .
+Addition of TFE-3 , which binds to an E-box motif upstream of the LEF-1 and Ets-1 sites , further augments transcription in this system .
+Individually or collectively , none of the three enhancer-binding proteins ( LEF-1 , Ets-1 , and TFE-3 ) could activate transcription in the absence of Sp1 .
+A truncation mutant of LEF-1 ( HMG-88 ) , which contains the HMG box but lacks the trans-activation domain , did not activate transcription from nucleosomal DNA , indicating that bending of DNA by the HMG domain is not sufficient to activate transcription in vitro .
+We conclude that transcription activation by LEF-1 in vitro is a chromatin-dependent process that requires a functional trans-activation domain in addition to the HMG domain .
+[ Key Words : LEF-1 ; HMG protein ; Ets-1 ; HIV-1 enhancer ; chromatin ; transcription ] Received June 1 , 1995 ; revised version accepted July 17 , 1995 .
+The assembly of diverse multiprotein complexes at enhancers controls tissue-specific and developmental stage-appropriate regulation of many cellular genes .
+Viral integration events or chromosomal translocations can introduce novel cis-acting regulatory elements to genetic loci or , alternatively , position new genes under the control of genomic enhancers .
+Therefore , viruses that undergo integration into the genome as a mandatory step in their replicative life cycle require a process to ensure active transcription despite wide variations in the local environment of the integrated provirus .
+Because retroviral integration occurs preferentially at sites in nucleosomal DNA in vivo ( Muller and Varmus 1994 ) , the virus must carry dominant cis-acting elements that establish high levels of expression from promoters integrated into native chromatin .
+It is therefore critical to understand the structure of the integrated provirus and the mecha- *These authors contributed equally to this work .
+*Corresponding author , nisms that control the induction of viral transcription from nucleosomal DNA .
+Several recent studies suggest that the control of human immunodeficiency virus-l1 ( HIV-1 ) transcription from the integrated state is considerably more complex than has been apparent from studies of promoter activity carried out using transient expression assays .
+Analysis of the chromatin structure of the 5 long terminal repeat ( LTR ) of integrated HIV-1 genomes present in the persistently infected ACH2 [ T cell ) and UI { macrophage ) cell lines by nuclease hypersensitivity and fine-structure mapping suggests that the promoter is divided into two large nucleosome-free zones ( - 255 to -3 and +141 to +265 ) , each of which span several distinct DNase I hypersensitive sites ( Verdin 1991 ; Verdin et al .
+1993 ) .
+The two zones are separated by a positioned nucleosome that protects the RNA start site and proximal downstream region ( Verdin et al .
+1993 ) .
+Four other translationally positioned nucleosomes flank the nucleosome-free zones .
+The positioning of these nucleosomes suggests that the 2090 GENES & DEVELOPMENT 9 ; 2090-2104 G 1995 by Cold Spring Harbor Laboratory Press ISSN 0890-9369/95 $ 5.00 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press HIV-1 enhancer is controlled by transcription factors that bind within a relatively short region ( 255 bp ) upstream of the RNA start site .
+A dominant nuclease hypersensitive site ( HSI ) spans the distal region of this enhancer ( -230 to -125 ; Verdin 1991 ) and includes the binding sites for upstream stimulating factor { USF } { and other members of the class B family of E-box-binding proteins } as well as the T cell-entriched proteins , lymphoid enhancer-binding factor 1 ( LEF-1 ) and Ets-1 ( { for review , see Jones and Peterlin 1994 ) .
+Activation of T cells induces the nuclear translocation of NF- « B , which binds to the proximal region of the enhancer and strongly up-regulates viral transcription .
+In addition , T cell activation displaces or disrupts the positioned nucleosome near the RNA start site ( nuc-1 ) , and creates a downstream extension in the nuclease hypersensitive site within the promoter ( HSI ; Verdin et al .
+1993 ) , exposing the DNA-binding site for the ubiquitously expressed transcription factor LBP-1 .
+Disruption of nuc-1 is postulated to arise as a result of binding to the nucleosome of AP-l-related proteins ( El Kharroubi and Verdin 1994 ) , which are strongly induced upon T cell activation ; however , the significance of these latter events for viral transcription and replication is not yet clearly understood .
+Although the promoter sequences that are necessary for viral gene expression and replication have not been defined completely , a recent report suggests that the distal region of the HIV-1 enhancer is particularly important for the activity of the integrated HIV-1 proviral promoter in T cell lines ( Kim et al .
+1993 ) .
+In this study viruses containing a linker-scanning mutation from -130 to -147 , which alters the DNA-binding sites for LEF-1 and Ets-1 , were found to be defective for virus replication in peripheral blood lymphocytes or in the 11.8 ( T ) cell line and also displayed delayed replication kinetics in an immature T cell ( CEM ) line ( Kim et al .
+1993 ) .
+Several other mutations in the distal region of the enhancer generated similar `` replication-defective `` phe-notypes .
+Because the mutant viruses were not affected for viral entry or integration , the defects were attributed to problems with proviral transcription .
+Despite the dramatic effects of distal enhancer mutations on virus rep-lication , however , these same mutations have only modest effects on HIV-1 promoter activity in transient expression assays or in vitro transcription experiments ( Zeichner et al .
+1991 a , b ) .
+Thus , these studies suggest that the distal region of the HIV-1 enhancer may be considerably more important for promoters assembled into physiological chromatin , as occurs upon stable integration of the virus , than it is for promoter activity on transfected plasmid DNAs .
+The prospect that the LEF-1 high mobility group ( HMG ) protein might regulate HIV-1 transcription was intriguing because to date the only defined target for LEF-1 in T cells is the minimal enhancer of the T cell receptor « [ TCRo ) chain gene ( for review , see Clevers et al .
+1993 ; Grossched ] et al .
+1994 ) .
+Studies with the TCRa enhancer have suggested that LEF-1 activity is strongly influenced by the positioning of its binding site relative Chromatin-dependent trans-activation by LEF-1 to sites for other enhancer proteins , including Ets-1 ( Waterman and Jones 1990 ; Travis et al .
+1991 ; Waterman et al .
+1991 ) .
+LEF-1 binds DNA as a monomer through a single HMG box ( Travis et al .
+1991 ; Waterman et al .
+1991 ; Carlsson et al .
+1993 ) , and bends DNA strongly in vitro ( Giese et al .
+1992 ) .
+Although it has been proposed that LEF-1 may behave as an architectural transcription factor and function indirectly through bending of the DNA to promote interactions between other enhancer-binding proteins ( for review , see et al .
+1994 ; Tjian and Maniatis 1994 ) , transient expression assays have shown that LEF-1 activity in vivo strongly depends on sequences that lie outside of the HMG domain ( Carlsson et al .
+1993 ) .
+Moreover , fusion of the LEF-1 amino-terminal trans-activation domain to a heterologous DNA-binding domain ( GAL4 or LexA ) generates a chimeric activator that strongly induces the TCRa « enhancer in T cells without significant bending of the DNA ( Carlsson et al .
+1993 ; Giese and Grosschedl 1993 ) .
+These studies suggest that bending of the DNA is not sufficient to activate transcription and that LEF-1 must play a more direct role in transcriptional activation or in the assembly of a stereospecific multiprotein complex at the enhancer .
+To better understand the selective activity of LEF-1 in T cells it will be critical to define and characterize other LEF-responsive enhancers .
+In this study we tested the premise that the HIV-1 enhancer is regulated by LEF-1 in vivo and in vitro .
+First , we demonstrate that LEF-1 activates the HIV-1 enhancer in Jurkat T cells .
+With the intention of developing a general in vitro model that can be used to study transcriptional activation from the integrated HIV-1 provirus , we next analyzed the ability of recombinant LEF-1 and other enhancer-binding proteins to induce viral transcription from DNA packaged into chromatin by incubation with Drosophila nucleosome assembly extracts .
+The results reveal that LEF-1 and other proteins bound to the distal region of the HIV-1 enhancer effectively counteract nucleosomal repression of HIV-1 transcription in vitro .
+Interestingly , LEF-1 was unable to stimulate RNA synthesis from naked DNA , indicating that it may play a chromatin-dependent role in transcription .
+We - also demonstrate that nucleosomal derepression by LEF-1 requires the amino-terminal trans-activation domain and is not the simple consequence of bending or wrapping of DNA by the HMG domain .
+Our results provide a highly sensitive biochemical assay that can be used to study the mechanism of activation by LEF-1 as well as model the events leading to transcriptional activation of the integrated HIV-1 provirus .
+Results The distal HIV-1 enhancer provides a functional context for activation by LEF-1 in vivo Previously we reported that LEF-1 protein purified from Jurkat T cells binds to three sites in the HIV-1 promoter , with the highest-affinity site ( - 121 to -142 ) located in the distal region of the enhancer ( Waterman and Jones GENES & DEVELOPMENT 2091 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Sheridan et al .
+1990 ) .
+The binding of Jurkat nuclear proteins to this region of the HIV-1 enhancer reveals a continuous pattern of protection covering the region from -121 to -177 ( Fig .
+1A , lane 7 ) .
+Only a portion of this region , corresponding to the E-box motif , is recognized by proteins in nonlymphoid cells ( Fig .
+1A , lanes 8,9 ) .
+The E-box is bound by USF and related members of the helix-loop-helix family of DNA-binding proteins , including TFE-3 .
+Upon inspection of the sequences between the LEF-1-binding site and the E-box motif we discovered a potential binding site for Ets-1 ( - 140 and - 160 } , which raised the possibility that Ets-1 binds in conjunction with LEF-1 to create the lymphoid-specific footprint observed in extracts .
+The binding of purified recombinant enhancer proteins ( shown in Fig .
+1B ) confirmed that Ets-1 can bind together with LEF-1 and TFE-3 to the distal region of the enhancer .
+Recombinant LEF-1 , Ets-1 , and TFE-3 proteins generate overlapping footprints on the HIV-1 enhancer , and all three proteins added together recreate the footprint that is observed in Jurkat extracts ( Fig .
+1A , lanes 6,7 ) .
+Competition studies confirmed that this extended footprint contains tandem binding sites for LEF-1 , Ets-1 , and USF/TFE-3 , and gel shift experiments suggest that Ets-l binds cooperatively with E-box proteins in nuclear extracts [ ( M. Voz and C. Sheline , unpubl . )
+.
+Thus , in T cells , LEF-1 , Ets-1 , and USF/TFE-3 A bind synergistically to a region located 25 bp upstream of the NF- « B-binding sites .
+To test the possibility that LEF-1 can regulate HIV-1 enhancer activity in Jurkat cells , the region between -81 and -177 containing the NF-KB , LEF-1 , Ets-1 , and USF/TFE-3-binding sites was isolated and cloned in tandem copies upstream of the minimal herpes simplex virus-1 ( HSV-1 ) thymidine kinase ( tk ) promoter and a luciferase reporter gene .
+Site-specific mutants were generated in the enhancer to disrupt the individual binding sites for NF-kB , LEF-1 , and Ets-1 , and the activities of the various constructs were assessed by transfection into phorbol ester ( TPA ) -treated Jurkat T cells ( Fig .
+2A ) .
+A single copy of the HIV-1 enhancer generated relatively low activity in vivo , whereas the duplicated enhancer was quite active .
+As expected , mutation of the NF-kB repeats strongly inhibited HIV-1 enhancer activity ; however , mutations in the LEF-1- and Ets-l-binding sites were also quite detrimental to enhancer function under these conditions , reducing activity to 10 % -15 % of that seen with the wild-type HIV-1 enhancer .
+A deletion mutant affecting the USF/TFE-3-binding site { ( AE ) reduced enhancer activity approximately threefold in vivo .
+We conclude that the LEF-1- and Ets-l-binding sites are required for optimal HIV-1 enhancer activity in activated Jurkat { T ) cells .
+_L - > B Figure 1 .
+( A ) Analysis of proteins > E-BOX % s [ = -- ua @ : bound to the distal region of the HIV-1 enhancer ( -121 to -177 ) in DNase I footprint experiments .
+Brackets indi- ( se tee ure mae wa _ & & erat saves ween & C C & we « « - ® `` | am Mr ( go a ( $ 9 « ( go = tas wat */* ta ae as 200 wu Shee Slit = > 98 `` cate the binding sites observed for the i ﬂ d salt L purified recombinant enhancer-binding LEF | @ a ; * m x - w `` as - @ @ » -~ proteins , LEF-1 { lane 2 ) , Ets-1 ( lane 3 ) , fee .
+!
+!
+us # s ~~ -* ze - - > TFE-3 { lane 4 } , TFE-3 and Ets-1 ( lane 5 ) , WB u » ust WB was was oo < + 2s tms and for a mixture of all three proteins wag ( lane 6 ) .
+The DNase I footprint patterns ~ ag z “ : wa tk « .- ESR generated using crude nuclear extracts ETE : from Jurkat ( T ) cells ( lane 7 ) or from the - EB a .
+§2 as is to e wo 15 | e® tes nonlymphoid cell lines Tub ( lane 8 ) or f HeLa ( lane 9 ) are shown for compari- # s ; Sp1 son .
+The control digestion pattern ob- == us uo po w= ys served in the absence of DNA-binding ms as proteins is shown in lanes 1 and 10 .
+( B ) wit Sut Seme mune mse SDS-PAGE analysis of purified recom- # `` fs [ binant proteins .
+LEF-1 and HMG-88 were expressed as fusion proteins with a short region of the amino terminus of the bacterial gene-10 protein , Ets-1 was expressed and purified as a GST fusion protein , and TFE-3 was expressed as a native ( nonfusion ) protein { see Materials and methods ) .
+Aliquots containing 300-600 ng aliquots of each protein fraction were loaded onto discontinuous 12 % SDS-PAGE and visualized by Coomassie staining ; molecular size standards ( Mr ) are indicated at left .
+-177 2092 GENES & DEVELOPMENT Ebox Ets LEF 1 2 3 4 5 6 7 8 9 10 TAR ( NFB ) Sp1 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Chromatin-dependent trans-activation by LEF-1 E-box ETS LEF NF- « B E-box ETS NF- « B CXS { u `` CSI GAL GD tata { tug 177 -81 177 -81 6,000,000 X 400,000 - az 5,000,000 > 4,000,000 _ - 8000004 13 .2 ® 2,000,000 8 a Pr ® & s o & © _ 200,000 2 2 a C 8 = 2,000,000 we $ ® o p S & og & 3 o « © +1 CQ 3 o a f a ® -A ) c +H 1,000,000 a 2 5 N ip 100,000 | 0 > ox 60 a r a g `` il gpo uu o - q & 44 C ; hLEF/GAL4 : - + - + tog - t - + Z .
+|- i i 1 i i _ i A L0 Lu -- 2 X enh -- WT - NF- « B - WT - ETS _ AE-Figure 2 .
+{ ( A ) Transient expression analysis of HIV-1/LUC constructs containing one or two copies of the HIV-1 enhancer ( - 81 to - 177 ) upstream of the HSV tk promoter and the luciferase reporter gene .
+Constructs were transfected into activated Jurkat ( T ) cell lines , and luciferase activity was normalized to a pCMV/CAT plasmid added as an internal control .
+The relative activities of constructs containing site-specific mutations in the NF- « B , LEF-1 , Ets-1 , or E-box motifs , are indicated in the diagram .
+The bars show the results from a single representative transfection experiment , and the average values obtained from three independent transfections are indicated by percentages listed above the bars .
+[ B ) Induction of a GAL4-substituted HIV-1 enhancer by LEF-1/GAL4 in activated Jurkat T cells .
+The distal LEF-1-binding site in the HIV-1 enhancer was replaced by the DNA-binding site for GAL4 as indicated schematically at the top .
+The induction of the wild-type { ( WT ) or mutant DNAs by LEF-1/GAL4 seen in a single representative transfection are shown in the graph , and the numbers above the bars indicate the average fold induction by LEF-1/GAL4 observed in three independent transfection experiments .
+Luciferase activity ( vertical axis ) was normalized to a pCMV/CAT reporter gene that had been included as a control in each transfection .
+To determine whether the cloned LEF-1 protein is capable of activating the HIV-1 enhancer , the HIV-1 LEF-1 site was replaced with the DNA-binding site for the yeast GAL4 activator , and this construct was tested for its ability to respond in vivo to LEF-1/GAL4 , a chimeric protein that contains the LEF-1 trans-activation domain { amino acids 80-256 ) fused to the DNA-binding domain { ( amino acids 1-147 ) of GAL4 ( Carlsson et al .
+1993 ) .
+We showed previously that LEF-1/GAL4 can activate a GAL4-substituted TCRa enhancer 20- to 40-fold upon transfection into activated Jurkat cells ( Carlsson et al .
+1993 ) .
+Like the native LEF-1 protein , the LEF-1/GAL4 protein could activate the TCRa enhancer but not other promoters containing only reiterated GAL4 DNA-binding sites .
+As shown in Figure 2B , the GAL4-substituted HIV-1 enhancer was strongly induced ( 80- to 100-fold ) by LEF-1/GALA4 in Jurkat cells .
+These constructs were induced less than twofold by the GAL4 DNA-binding do main alone [ data not shown ) , and a comparison of trun-cation , and amino acid substitution mutants in the LEF-1 activation domain indicated that the same regions of the trans-activation domain are required to activate the HIV-1 and TCRa enhancers in vivo { T.P , Mayall and K. Jones , unpubl . )
+.
+Mutation of the NF- « B-binding sites in the GAL4-substituted enhancer greatly diminished basal activity of these constructs , consistent with the ability of NF- « B to function independently of other factors , but still supported partial activation by LEF-1/ GALA ( Fig .
+2B ) .
+In contrast , mutations in the Ets-1 and E-box motifs did not affect transcription of the GAL4-substituted enhancer in the absence of LEF-1/GAL4 , indicating that the activity of these elements requires an intact LEF-1-binding site .
+The mutation affecting the Ets-1 DNA-binding site reduced activation most severely by LEF-1/GAL4 .
+Taken together , these studies indicate that the proteins bound to the distal domain of the GENES & DEVELOPMENT 2093 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Sheridan et al .
+HIV-1 enhancer provide a functional context for activation by LEF-1 in vivo .
+LEF-1 and Ets-1 act with Sp1 to stimulate HIV-1 transcription on chromatin-assembled DNA in vitro Although LEF-1 can activate the minimal HIV-1 enhancer in transient expression assays , the results obtained with mutant virus ( Kim et al .
+1993 ) suggest that LEF-1 might have a more profound effect on viral transcription from proviral promoters integrated into nucleosomal DNA .
+To test this possibility , we carried out a series of experiments to determine whether recombinant LEF-1 can activate HIV-1 transcription in vitro from nu-cleosome-reconstituted DNA .
+In these experiments , the pHIV-1/LUC DNA templates were incubated with Drosophila embryo extracts that are capable of efficiently reconstituting nucleosomes when supplemented with purified core histones , histone H1 , and an ATP-regenerating system [ Kamakaka et al .
+1993 ; Bulger and Kadonaga 1994 ) .
+Micrococcal nuclease ( MNase ) digestion of the reconstituted HIV-1 chromatin revealed a long periodic array of nucleosomes similar to that found in physiological chromatin ( Fig .
+3A ) .
+To test the ability of recombinant LEF-1 , Ets-1 , and TFE-3 proteins to stimulate transcription from the chromatin-assembled HIV-1 enhancer , the purified proteins were preincubated in different combinations with the DNA prior to nucleosome assembly , as indicated in the schematic diagram shown in Figure 3A .
+Following nucleosome assembly , HeLa nuclear transcription extract was added together with a plasmid containing the « -globin gene , and pre-initiation complexes were allowed to form for 20 min prior to transcription .
+RNA transcripts were detected using primers specific for the HIV-1 and a-globin genes .
+The a-globin gene was included in these experiments as an internal control for the recovery of RNA , as well as a control to show that transcriptional repression from the embryo extracts required chromatin templates , and was not attributable to nonspecific inhibition by components in the chromatin assembly extract .
+We initially tested the ability of LEF-1 , Ets-1 , and TFE-3 to stimulate transcription from reconstituted HIV-1 chromatin templates in the presence of the promoter-binding protein Spl .
+As shown in Figure 3B , nucleosome assembly strongly represses HIV-1 transcription in vitro { lane 1 , compared to the naked DNA lane } .
+Addition of an Spl-enriched fraction from Jurkat cells derived from a wheat germ affinity ( WGA ) column ( SplF ) ; see Materials and methods ) caused a modest derepression of transcription [ Fig .
+3B , lane 2 ) .
+Further addition of purified LEF-1 and Ets-1 strongly activated transcription from chromatin , and transcription was further augmented by inclusion of the E-box-binding protein TFE-3 ( Fig .
+3B , lanes 3,4 ) .
+PhosphorImager scanning of several different experiments indicates that the combined effects of LEF-1 , Ets-1 , TFE-3 , and the Spl fraction result in a 200- to 450-fold derepression of the HIV-1 promoter .
+Spl WGA fractions from Jurkat ( T ) cells were somewhat more effective than comparable fractions de- 2094 GENES & DEVELOPMENT rived from HeLa nuclear extracts ( Fig .
+3B , cf .
+lanes 5 and 7 ) , although both fractions supported activation by the distal enhancer-binding proteins .
+Further analysis of the contribution of individual factors to nucleosomal derepression indicated that the enhancer-binding proteins function in a combinatorial manner with Spl .
+As shown in Figure 4A , preincubation of HIV-1 DNA with high levels of LEF-1 , Ets-1 , or TFE-3 prior to nucleosome assembly was not sufficient to activate transcription from chromatin templates in the absence of Spl [ Fig .
+4A , lanes 9-11 ) , and even a combination of all three distal enhancer-binding proteins resulted in only marginal activation ( Fig .
+4A , lane 8 ) .
+As before , high levels of transcription were observed when the Spl fraction was added in combination with the three distal enhancer-binding proteins ( lane 7 ) , whereas the Spl fraction alone was relatively ineffective at activating transcription [ Fig .
+4A , lane 2 , cf .
+the fully repressed DNA template in lane 1 } .
+Addition of LEF-1 and Ets-1 to the Spl fraction [ Sp1F ) ) resulted in substantial activation of the HIV-1 templates , whereas a combination of the LEF-1 and Ets-1 proteins without Spl was not capable of stimulating transcription [ lane 4 ) .
+LEF-1 , but not Ets-1 , was able to stimulate transcription in the presence of the Spl fraction ( Fig .
+4A , cf .
+lanes 5 and 6 with lane 2 ) .
+Although Ets-1 did not activate alone or in the presence of Spl , it did enhance transcription in the presence of LEF-1 ( Fig .
+4A , cf .
+lanes 3 and 5 ) .
+Similar combinatorial effects of these factors were observed at higher levels of the Spl fraction , although under these conditions it was possible to detect a modest activation by Ets-1 even in the absence of LEF-1 ( Fig .
+4B ) .
+This experiment also shows that TFE-3 can activate transcription independently of LEF-1 and Ets-1 when added to the SplF ) fraction .
+We conclude that the distal enhancer-binding proteins can strongly activate transcription from nucleosomal DNA templates in the presence of Spl and that they can function in a combinatorial manner .
+In the experiments carried out here , relatively high levels of all of the enhancer-binding proteins were used .
+At suboptimal levels of LEF-1 , Ets-1 , and TFE-3 , the synergy observed with different combinations of proteins is even more dramatic ( data not shown ) .
+Although recombinant LEF-1 strongly activates transcription from nucleosomal DNA templates , two lines of evidence indicate that it can not stimulate transcription of nonchromatin ( naked ) DNA .
+First , mutation of the LEF-1-binding site in the distal region of the enhancer has no effect on HIV-1 transcription from naked DNA templates that have been transcribed with Jurkat nuclear extracts , which possess high levels of endogeneous LEF-1 protein ( not shown ) .
+Second , addition of purified LEF-1 , or LEF-1 and Ets-1 , to HeLa nuclear extracts failed to activate HIV-1 transcription from naked DNAs in vitro , whether tested alone or in combination with SpIF ) ( Fig .
+4B , lanes 8-14 ) .
+HIV-1 transcription was modestly repressed when higher levels of recombinant LEF-1 were added to HeLa extracts ( data not shown ) , possibly because of the binding of LEF-1 to low-affinity sites located near the HIV-1 RNA start site ( Waterman and Jones 1990 ) .
+Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Micrococcal Nuclease Digestion 2 ' - » 25° 2° - » 25° 2 ' -* » 25 t C 0 $ 1103 UC Ctg t Chromatin-dependent trans-activation by LEF-1 Figure 3 .
+( A ) Analysis of chromatin reconstituted with Drosophila embryo extracts by MNase digestion , as visualized by staining with ethidium bromide .
+Supercoiled HIV-1 plasmid DNA ( 5.1 kb } was incubated with Drosophila $ -190 extract , an ATP-regenerating system , purified core histones , and varying amounts of purified histone H1 , for 5 br at 30°C ( see Materials and methods ) .
+The amount of histone H1 used in the three micrococcal digests shown above { left to right ] was 0.21 , 0.24 , and 0.3 ug/ug of DNA , respectively .
+The chromatin was partially digested with MNase for varying amounts of time ( 2 , 4 , 9 , 16 , and 25 min ] as indicated above the lanes , and the DNA fragments derived from mono- and oligonucleosomes were subjected to electrophoresis in a 1.25 % { wt/ vol ) agarose gel .
+For reference , the marker lane displays a 1-kb DNA ladder ( GIBCO-BRL ) .
+The optimal level of histone HI ( 0.24 pg/pg DNA ) was used for subsequent transcription reactions .
+Parallel reactions containing or lacking different purified enhancer- and promoter-binding proteins were subsequently used as nucleosomal DNA ¥ templates for in vitro transcription , as indicated | ( 1 DNA-binding factors Chromatin Extract || HIV-1 DNA Transcription Core Histones ATP Regenerating Extract Primer Histone H1 System a-globin DNA rNTPs extension a t i ' 30 min , 25°C 5 hr , 30°C 20 min , 25°C I 30 min , 30°C Nucleosome Assembly tres LEF LEF flats Ets ETs x LEF TFE-3 TFE-3 ( < 9 ETS -- - # m- y HM _- Sp1FJ - -_- » Sp1FH -- » & Comparison of Spl-entiched WGA fractions ( §p1F ] ) with purified Sp1 The §p1lF ) fraction used in the previous experiments was isolated by WGA chromatography , which enriches Spl ~200-fold from crude nuclear extracts ( Jackson and Tjian 1989 ) .
+Although DNase I footprint experiments suggest that Spl is the only HIV-1 DNA-binding protein present In vitro Transcription u ' - < HIV . '
+. '
+' < -globin in the schematic diagram at the bottom .
+( B ) Analysis of transcription from nucleosomal DNA templates reconstituted in the absence ( lane 1 } or presence ( lanes 2-8 ) of different enhancer- or promoter-binding proteins .
+Prior to nucleosome assembly , the HIV-1 DNA templates were incubated with an Spl fraction derived from either Jurkat ( SplF ) ; lanes 2-6 ) or Hela cells ( SpIFH ; lanes 7,8 ) and tested alone ( lanes 2 and 5 , respec-tively ) in combination with purified recombinant LEPF-1 and Ets-1 proteins ( lane 3 } , or with all three recombinant enhancer-binding proteins ( LEF-1 , Ets-1 , and TFE-3 ; lanes 4 and 6 ) .
+« -Globin DNA was added following nucleosome assembly to serve as a control for RNA recovery .
+Naked DNA lanes show the transcriptional activity of HIV-1 and « -globin promoters that were not subjected to nucleosome assembly { nonchromatin templates ) .
+HIV-1 and a-globin RNA transcripts were detected by primer extension .
+in these fractions , it is possible that this fraction provides additional cofactors that are necessary for HIV-1 promoter activity , and we have detected TATA-binding protein { TBP ) and TBP-associated factors ( TAF ) =-250 and -150 proteins in active WGA ( SpIF ] ) fractions by Western blots .
+To assess the potential contribution of other factors in the derepression assay , we compared the relative activity of the Sp1F ) fraction with recombinant GENES & DEVELOPMENT 2095 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Sheridan et al .
+A LEF ETS HM _ Sp1FJ Sp1FJ TFE-3 TFE-3 - - TFE-3 Ry LEF _ - LEF LEF LEF - - 9° - - Ets ETs ETs -_ -- Ets - $ 0 Sp1FJ SpIFJ SpiFJ - - - - by aw - > # # ~ > # # x a s @ 8 s s s 888 8 9 < a-globin -C 388 z z= s 88s # qo 2 o 8s 0 40 506 7 8 9 40 1 Figure 4 .
+- Combinatorial effects of different enhancer-binding proteins on HIV-1 B & > transcription from nucleosomal DNA LEF r ¢ ue > Qg ‘ } templates in vitro .
+The various protein LEF ETS4 tres $ 22 ; ( 9° © , .A « $ 39 ?
+y* fraction additions included during nucleo- HM - Sp1FJ SpiFJ G pRRZLR RR some assembly of DNA templates are in- mor- r -- _ r- r- $ x kx `` ox x dicated above each lane ; HM { lane 1 ) is a control reaction to which no enhancer-binding proteins were added .
+The amounts of LEF-1 , Ets-1 , and TFE-3 used are listed in Materials and methods .
+Reactions in A received 10 pl of SplF ] , whereas reactions | < co-giobin in B contained 20 wl of SplF ) ( lanes 1-6 ) .
+# The influence of recombinant LEF-1 and Ets-1 proteins on naked DNA was tested in lanes 8-14 { see Materials and methods } .
+10 2 3 4 5 6 7 8 91011121344 Spl protein as well as with Spl protein purified by DNA affinity chromatography from the Jurkat WGA fraction .
+Although Spl was not able to strongly derepress HIV-1 transcription on its own , both recombinant and purified Spl stimulated transcription when added in combination with the enhancer-binding proteins ( Fig .
+5A , cf .
+lane 4 with lanes 5-7 ) .
+The ability of purified Spl to enhance transcription was less than that observed with the SpIFJ fraction ( cf .
+lane 3 with lanes 5-7 ) regardless of whether the distal enhancer-binding proteins were included in the reactions .
+Nevertheless it is clear that proteins bound to the distal region of the HIV-1 enhancer can activate transcription in combination with purified Spl on nucleosome DNA templates .
+It remains to be determined whether other factors present in the WGA fraction , possibly including TBP and the TAF proteins , can assist derepression of HIV-1 transcription by Spl in these assays .
+To ensure that the stimulation we observed in these assays is attributable to derepression of transcription by the enhancer-binding proteins and the Spl fraction , rather than interference of these proteins in the formation of chromatin , the effects of these proteins on nucleosome assembly was assessed by MNase digestion of the same chromatin templates prepared for transcriptional analysis following preincubation with the Spl fraction or the enhancer-binding proteins .
+The results revealed that the Sp1F ] ) fraction did not interfere with the nucleosome 2096 GENES & DEVELOPMENT assembly process , either when added alone or in combination with LEF-1 , or LEF-1 and Ets-1 ( Fig .
+5B ) .
+Similarly , addition of TFE-3 to the LEF-1 , Ets-1 , and Spl fraction did not disturb the MNase digestion pattern of the bulk chromatin ( data not shown ) .
+Therefore , the proteins used in these studies do not influence chromatin assembly by the Drosophila embryo extracts .
+More detailed structural studies are under way to characterize the changes in the local chromatin structure of the HIV-1 promoter and enhancer that are induced upon the binding of these different enhancer proteins .
+Specific binding of LEF-1 to the distal HIV-1 enhancer is necessary for transcriptional activation in vitro LEF-1 differs from proteins such as HMG-1/2 in its ability to bind and activate transcription through specific sites in the DNA , and transient transfection experiments with multimerized enhancer constructs indicate that specific binding of LEF-1 is required for transcriptional activation in vivo .
+To determine whether the effects of LEF-1 in the chromatin derepression assay are attributable to the binding of LEF-1 to the distal part of the HIV-1 enhancer , we tested a promoter containing a 5-bp mutation in the LEF-1 -binding site at - 122 to -142 .
+As shown in Figure 6 , the LEF-1 mutant promoter ( LM ; lanes 5 , 7 ) was reduced in its ability to respond to acti- Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press LEF LEF LEF LEF LEF ETS-1 ETS ETS-1 ETS-1 ETS-1 TFE-3 TFE-3 TFE-3 TFE-3 TFE-3 HM - Sp1FJ SpIFJ -- r Sp1 p Sp1 BSA MCA - -a -a ~ @ C @ ~ sees s @ a - ' < - HIV-1 ' -- o-globin Chromatin-dependent trans-activation by LEF-1 ETS LEF LEF m- r -- NONE SP1FJ -- -- -- -- - # » 2'- » 25 2- » 25° 25 2 - » 25 Figure 5 .
+- Comparison of the relative activities of the SpIF ) fraction and purified Spl protein .
+( A ) Recombinant LEF-1 , Ets-1 , and TFE-3 were included during assembly of the nucleosomal templates either alone ( lane 4 ) or together with 15 ul of SpIF ] ) ( the WGA-purified Spl fraction from Jurkat cells ; lane 3 ) , 0.5 ug and 1 mug recombinant Spl ( lanes 5 and 6 , respectively ) , or 0.75 ug of Spl purified from Jurkat nuclei ( lane 7 ) .
+Lane 1 ( HM ) shows the level of transcription from a repressed template , and reactions containing 15 ul of the Sp1lF ] or 3 ug of acetylated BSA are shown in lanes 2 and 8 , respectively .
+( B ) MNase analysis of nucleosomes assembled onto DNA was carried out in the absence or presence of the SpIFJ , LEF-1 , and Ets-1 fractions , as indicated above each lane .
+These reactions demonstrate that the purified enhancer-binding proteins do not interfere with nucleosome assembly .
+vation by either LEF-1 and Ets-1 or by LEF-1 , Ets-1 , and TFE-3 , as compared with the wild-type HIV-1 promoter ( WT ; lanes 4,6 ) .
+In contrast , the LEF-1 mutant DNA was as active as the wild-type promoter on naked DNA templates transcribed in the Hela extract ( Fig .
+6 ) , and the same results were obtained when the two DNAs were transcribed in HeLa extracts supplemented with LEF-1 and Ets-1 or in Jurkat extracts , which contain high levels of endogeneous LEF-1 and Ets-1 ( data not shown ) .
+Thus , LEF-1 activation on chromatin requires the distal enhancer-binding site and occurs through a process that is not evident on naked DNA templates in vitro .
+The LEF-1 trans-activation domain is required to activate HIV-1 transcription from nucleosomal DNA templates in vitro : binding and bending of DNA is not sufficient to stimulate transcription The ability of LEF-1 to bend DNA strongly has been proposed to play a major role in the formation of a multiprotein complex at the TCRa « enhancer , similar to the mechanisms proposed for activation by other architectural transcription factors [ for review , see Grossched ] et al .
+1994 ; Tjian and Maniatis 1994 ) .
+As we reported pre-viously , however , the full-length LEF-1 protein , but not the LEF-1 HMG domain , is capable of activating the TCRa « enhancer upon transfection in B cell lines ( Carlsson et al .
+1993 ) .
+Similarly , chimeric LEF-1/GAL4 { or LEF-1/LexA ) strongly stimulates the TCRa enhancer in vivo in spite of its inability to bend DNA ( Carlsson et al .
+1993 ; Giese and Grosschedl 1993 ) .
+Taken together , these studies strongly suggest that the amino-terminal activation domain is important for LEF-1 activity .
+These find LEF LEF ETS-1 ETSA C TFE-3 9° & « < I- HM - _ SpIFJ -- -- -- -- -- -- » e DNA : WT - LM WT WT LM WT LM - WT LM mar- r- t- r -- m- t- mom < - a-globin & « o « o « - C « » ap as « - « s Ch p Do 4 Figure 6 .
+- Activation of HIV-1 nucleosomal templates by LEF-1 in vitro requires the distal LEF-l-binding site in the enhancer .
+Nucleosomal DNA transcriptions were carried out using the wild-type HIV-1 enhancer [ ( WT ) or a mutant enhancer containing a 5-base substitution in the LEF-1 binding site { LM } , as indicated above each lane .
+Nucleosome assembly reactions either lacked enhancer-binding proteins { lanes 1,2 ) , or contained SpIFJ alone ( lane 3 ) or in combination with LEF-1 and Ets-1 ( lanes 4,5 ) or LEF-1 , Ets-1 , and TFE-3 ( lanes 6,7 ) .
+Equivalent transcription was observed from the wild-type and LEF-1 mutant DNAs on nonchromatin ( naked DNA ) templates .
+GENES & DEVELOPMENT 2097 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Sheridan et al .
+ings contrast with those of Giese et al .
+( 1995 ) , in which the HMG domains of either LEF-1 or SRY were reported to activate a TCRa chloramphenicol acetyltransferase { ( CAT ) construct half as well as the full-length LEF-1 protein { two- vs. fourfold activation , respectively ) .
+However , it is difficult to assess the relative importance of the activation domain using transient expression assays , which support only a modest activation by LEF-1 , or through studies with chimeric proteins , in which the activation domain must function in the absence of DNA bending .
+The in vitro chromatin derepression assay circumvents some of these problems because it is quite sensitive to the effects of the native LEF-1 protein { con-taining both the trans-activation and HMG domains ) and measures activation by LEF-1 through the intact HIV-1 promoter/enhancer , rather than relying on artificial constructs in which minimal enhancer elements are fused to a heterologous promoter .
+To begin to define the domains of LEF-1 that are required to activate chromatin templates in vitro , we expressed and purified a LEF-1 amino-terminal truncation A x LEF _ HMG $ LEF HMG Ets ETs 439 ets Ets tres Tres - \y `` HM Sp1FJ of -a -q m- f- f - < HIV~1 or es ~..ﬂ `` ” mutant that contains the HMG box and an adjacent carboxy-terminal 20-amino-acid basic motif , both of which are required for high-affinity binding .to DNA ( Carlsson et al .
+1993 ) .
+This 88-amino-acid protein ( called HMG-88 ; amino acids 297-384 ) , completely lacks the trans-activation domain ( amino acids 80-256 ) that was defined previously in vivo ( Carlsson et al .
+1993 ) .
+We found that HMG-88 was much less active than the full-length LEF-1 protein in the presence of either Ets-1 or Ets-1 and TFE-3 ( Fig .
+7A ) .
+The HMG-88 protein was also inactive when tested alone for its ability to complement the SpIF ) frac-tion ; however , activation by the full-length LEF-1 protein was modest under these conditions ( data not shown , ; cf .
+Fig .
+4A , lane 5 ) .
+These findings suggest that sequences outside of the HMG domain are critical for LEF-1 activation in vitro .
+Importantly , the HMG-88 protein was equivalent to the full-length LEF-1 protein in its ability to bind DNA in a gel mobility shift assay ( Fig .
+7B , cf .
+lanes 2 and 10 ) .
+The circular permutation gel-shift assay used to evaluate bending revealed that the HMG-88 protein also bends DNA approximately 128° , to an extent ~ | I ll .. ” , < c-globin B - por wm & d a im .
+-- wn -o dg oo * 256 297 Basic 399 Trans-Activation DNA-binding Domain Domain Basic 297 384 DNA-binding Domain | ane |Z __| hLEF FL - hLEF HMG - 88 RI H3 Bs RV N Bam RI H3 Bs RV N Bam wilhus f is ﬁkii wine wins = > Cane Wit : hi : -- `` “ J= 1 2 3 4 5 6 7 8 9 10 111213141516 17 HMG - 88 aa RI H3 BstNl RI H3 BstNl RV Nhe Bam AV - Nhe Bam Figure 7 .
+- Transcriptional activation by LEF-1 on HIV-1 chromatin in vitro requires the amino-terminal trans-activation domain .
+( A ) Comparison of the transcriptional activity of the full-length LEF-1 protein with the HMG-88 mutant { amino acids 297-384 ) that contains only the HMG and downstream basic domain .
+Reactions either lacked enhancer-binding proteins in the preincubation step ( lane 1 ) , or contained Sp1F ) { lane 2 ) ; SPIFJ plus LEF-1 and Ets-1 ( lane 3 ) ; SplF ] plus HMG-88 and Ets-1 ( lane 4 ) ; SpIF ] ) plus LEF-1 , Ets-1 , and TFE-3 { lane 5 ) ; or SplF ) J plus HMG-88 , Ets-1 , and TFE-3 ( lane 6 ) .
+{ B ) Comparison of the DNA-binding and bending activity of the LEF-1 truncation mutant ( HMG-88 ) and the full-length LEF-1 ( FL-hLEF ) in a gel mobility shift circular permutation assay .
+The protein-DNA complexes generated by the full-length LEF-1 ( lane 2 ) and the HMG-88 mutant { lane 10 ) were specifically competed by an unlabeled LEF-1~binding-site oligonucleotide [ lanes 3 and 11 , respectively ) .
+Fragments prepared by digestion with different restriction endonucleases that shift the relative location of the LEF-1 binding site display altered electrophoretic mobility as a result of bending by either the FL-LEF-1 { lanes 4-9 ) or truncated HMG-88 proteins { lanes 12-17 ) .
+( Lane 1 ) The EcoRI-digested DNA fragment without LEF-1 .
+Restriction enzymes used were EcoRI ( RI ) , HindIII ( H3 ) , BstN1 ( Bs ) , EcoRV ( RV ) , Nhel ( N } , and BamHI [ Bam ] .
+2098 GENES & DEVELOPMENT Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press similar to that observed for the full-length LEF-1 protein { 132° ) .
+DNase I footprint experiments on the chromatin-assembled plasmids revealed further that the LEF-1 and HMG-88 proteins bound equivalently to the distal site on the HIV-1 enhancer on nucleosomal DNA ( P. Sheridan and M. Pazin , unpubl . )
+.
+Taken together , these results indicate that the ability of LEF-1 to bend and wrap DNA through the HMG domain is not sufficient to account for its effects on nucleosomal derepression in vitro .
+These findings also confirm the results obtained in transient expression assays showing that the trans-activation domain is essential for activation by LEF-1 in vivo .
+Discussion In this paper we define the distal region of the HIV-1 enhancer as a functional target for transcriptional activation by the LEF-1 HMG protein in vivo and demonstrate that purified recombinant LEF-1 protein strongly activates HIV-1 transcription in vitro on chromatin-assembled DNA .
+Optimal derepression of transcription from nucleosomal HIV-1 DNA required a combination of Spl and distal enhancer-binding proteins .
+Nucleosomal derepression was found to require the LEF-1 trans-activation domain and was not the simple consequence of the bending of DNA by the LEF-1 HMG domain .
+These results have specific implications for the mechanism of activation by LEF-1 and also provide a general approach that can be used to investigate the events leading to induction of HIV-1 transcription from promoters integrated into nucleosomal DNA .
+Regulation of HIV-1 transcription by LEF-1 The HIV-1 enhancer meets both of the criteria that were used to identify the TCRa enhancer as a target for activation by LEF-1 in vivo , because mutations in the LEF-1 binding site reduce HIV-1 enhancer activity and a GAL4-substituted HIV-1 enhancer was strongly induced by LEF-1/GAL4 in activated Jurkat cells ( Fig .
+2 ) .
+Although it was possible to demonstrate a requirement for the LEF-1 and Ets-1-binding sites on multimerized copies of the minimal HIV-1 enhancer activity in transient assays , comparable mutations have much more modest effects within the context of the entire HIV-1 LTR in transient assays ( data not shown ) .
+In contrast , a single linker-scanning mutation of the -binding site in the intact HIV-1 LTR promoter had a dramatic effect on virus replication ( Kim et al .
+1993 ) , and the effect of this mutant and others in the distal region of the enhancer was much more pronounced for proviral promoter activity than for promoter activity measured in transient expression assays ( Zeichner et al .
+1991a ) .
+Taken together with the observation that chromatin templates are required to detect activation of HIV-1 transcription by LEF-1 and Ets-1 in vitro , these studies suggest that LEF-1 may be particularly important for the activation of promoters that have been stably integrated into the genome and assembled into chromatin .
+A comparison of the arrangement of transcription fac- Chromatin-dependent trans-activation by LEF-1 tor-binding sites within the HIV-1 and TCRa enhancers reveals two similar underlying features that may be critical for activation by LEF-1 .
+Specifically , in each enhancer the LEF-1-binding site lies between the binding site for a strong and inducible activator [ NF- « B for HIV-1 , and CAMP response element-binding ( { protein ) /activat-ing transcription factor ( CREB/ATF ) on the TCRa « en-hancer ] and a binding site for the lymphoid-specific protein , Ets-1 .
+Additional factors bound near the Ets-1 site on each enhancer { ( PEBP2 for TCRa and TFE-3 for HIV-1 ) enhance the binding of Ets-1 to DNA in vitro ( Giese et al .
+1995 ; M. Voz , C. Sheline , and K. Jones , unpubl . }
+, and at least in the case of TFE-3 , can also independently activate transcription .
+Interestingly , the Ets-l-binding site seemed to contribute to HIV-1 enhancer activity in Jurkat cells only when positioned adjacent to a functional binding site for LEF-1 , indicating that LEF-1 plays an important role in the ability of Ets-1 to stimulate the HIV-1 enhancer .
+A similar interplay between LEF-1 and Ets-1 was observed previously with the TCRa enhancer ( Carlsson et al .
+1993 ; Giese and Grosschedl 1993 ) .
+As a consequence , it will be interesting to learn whether other LEF-responsive enhancers in T cells share the requirement for a nearby Ets-1-binding site .
+Synergistic activation of transcription in vitro by multiple proteins bound to chromatin-assembled HIV-1 DNA It is interesting that a combination of Spl and multiple distal enhancer-binding proteins was required to derepress HIV-1 transcription in chromatin reconstitution experiments even in the presence of saturating amounts of individual factors .
+Thus , neither the enhancer-binding proteins nor Spl were capable of acting on their own to induce significant levels of transcription from chromatin .
+Preincubation of the DNA with a combination of Spl and the TBP , or even Sp1 , TBP , and the general transcription factor TFIIB , also failed to generate high levels of transcription in these assays [ ( P. Sheridan and C. George , unpubl . )
+.
+Instead , in vitro transcription on HIV-1 chromatin was found to require both promoter and enhancer-binding proteins .
+Because Spl is present in the HeLa nuclear transcription extract that is added after nucleosome assembly , it is not evident why Spl should need to be added in combination with the enhancer factors to derepress nucleosomal templates .
+One possibility is that optimal activation by Spl may require that it bind DNA cooperatively with the enhancer factors .
+Alternatively , Spl may function best when bound to DNA prior to the process of chromatin assembly .
+Although LEF-1 and Ets-l were found to stimulate transcription on nucleosomal DNA , we were unable to detect activation of naked DNA templates by either protein .
+Similarly , mutations in the LEF-l-binding site in the HIV-1 promoter had no effect on transcription of naked DNA in Jurkat T cell extracts that contain the endogeneous LEF-1 and Ets-1 proteins .
+Therefore , it appears that a chromatin template is required to study activation of the HIV-1 enhancer by LEF-1 in vitro .
+Several GENES & DEVELOPMENT 2099 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Sheridan et al .
+recent studies have documented dramatic effects of chromatin on enhancer activity in vitro .
+For example , the degree of activation by enhancer-binding proteins has been shown to be several orders of magnitude stronger on chromatin than on naked DNA , and nucleosomal templates have been found to be absolutely required for long-range activation from distal enhancer elements in vitro ( Laybourn and Kadonaga 1991 , 1992 ; Barton and Emerson 1994 } .
+More complex , qualitative differences in transcriptional activity have also been observed in studies comparing transcription on chromatin and nonchromatin DNA templates in vitro .
+Thus , the VP16 trans-activation domain in the GAL4/VP16 fusion protein was found not to be required for stimulation of transcription from naked DNA but was essential for transcription of chromatin templates ( Pazin et al .
+1994 ) .
+Similarly , activation of the chick B-globin promoter through a GATA motif positioned at - 30 in the promoter was found to be inappropriately stimulated by TBP on naked DNA templates , whereas only the erythroid-specific GATA-1 enhancer factor could activate this element on nucleosomal DNA in vitro ( Fong and Emerson 1992 ; Barton et al .
+1993 ) .
+In each of these examples , transcription from chromatin in vitro more accurately reflects the parameters of activation observed in vivo than does transcription of naked DNA templates .
+Whereas the mechanisms responsible for the unique effects of chromatin on transcription have not been iden-tified , they may involve the action of proteins that are specifically required to transcribe chromatin .
+For example , transcription on chromatin might require factors that have been implicated to play a specialized role for enhancer-driven transcription in vivo , such as the proteins associated with the holoenzyme form of RNA polymerase II ( Kelleher et al .
+1990 ; Koleske and Young 1995 ] or the carboxy-terminal domain { ( CTD ) of the large sub-unit of RNA polymerase II ( Gerber et al .
+1995 ] .
+Bending of DNA by the HMG domain is not sufficient to counteract chromatin repression in vitro : Implications for the mechanism of LEF-1 activation Similarly to other HMG proteins , LEF-1 has been proposed to play an architectural role in transcription in which bending of DNA by the HMG box is proposed to promote interactions between adjacent DNA-binding proteins and thereby facilitate the assembly of the multiprotein complex at the enhancer ( Giese et al .
+1995 ; for review , see Grosschedl et al .
+1994 ; Tjian and Maniatis 1994 ) .
+By analogy , the ability of LEF-1 to bend DNA could facilitate interactions between NF- « B and Ets-1 or other proteins bound to distal regions of the HIV-1 enhancer .
+However , two lines of evidence indicate that LEF-1 activation of both the TCRa and HIV-1 enhancers is more complex than that suggested by simple DNA-bending models .
+First , activation of either the TCRa or HIV-1 enhancers by LEF-1 in B cells requires the LEF-1 trans-activation domain ( Carlsson et al .
+1993 ; other data not shown ) .
+Second , we show here that a mutant LEF-1 2100 GENES & DEVELOPMENT protein { [ HMG-88 ) , which includes the HMG domain but lacks the activation domain , does not stimulate HIV-1 transcription on chromatin despite the fact that it binds and bends DNA as avidly as the full-length LEF-1 protein in vitro [ Fig .
+7 ) .
+Moreover , if LEF-1 were to function principally to bend DNA and facilitate interactions between NF-KB and more distal HIV-1 enhancer-binding proteins , we would have expected that LEF-1 activity would require NF-kB in vitro .
+Yet the transcription experiments reported here reveal that LEF-1 and Ets-l1 can activate HIV-1 transcription even in the absence of NF- « B , a finding consistent with the fact that mutations of the NF-kB sites reduce overall enhancer activity but do not destroy activation by LEF-1/GAL4 in vivo [ Fig .
+2 ) .
+We have recently determined that the LEF-1 activation domain is also required when NF-kB is present in the reaction [ P. Sheridan and M. Pazin , unpubl . )
+.
+Therefore LEF-1 can enhance transcription in an activation domain-depen-dent manner without NF- « B , and any model for LEF-1 activity must incorporate the role of the activation domain as well as an explanation of the cooperative effects of LEF-1 and Ets-l1 on transcription in the absence of NF-KB .
+The in vitro transcription assay described here will be useful to assess the relative activities of different members of the multigene LEF and ETS protein families and to define domains of these proteins that are needed to activate chromatin templates .
+This approach will also be informative for studies on the mechanism by which LEF-1 activates the TCRa enhancer and other responsive enhancers .
+Although LEF-1 is found only in lymphoid tissues in the adult , it is expressed relatively ubiquitously at early stages of mouse development ( Oosterwe-gel et al .
+1993 ; van Genderen et al .
+1994 ) , and gene disruption and misexpression experiments in transgenic mice have revealed that LEF-1 plays a critical role in the normal development of hair follicles and tooth buds ( van Genderen et al .
+1994 ; Zhou et al .
+1995 ) .
+Consequently , it will be interesting to learn whether the functional targets for LEF-1 in the skin and hair , including kerati-nocyte hair-specific promoters that contain multiple LEF-1l-binding sites ( Zhou et al .
+1995 ) , are activated by mechanisms similar to those characterized for the HIV-1 and TCRa enhancers in T cells .
+In conclusion , our results indicate that LEF-1 and Ets-1 preferentially activate HIV-1 transcription from chromatin templates in vitro .
+As a consequence , methods that monitor the expression of genes from stably integrated DNA or in transgenic animals may be required to observe a requirement for LEF-1 in vivo .
+These results indicate that transcription on nucleosomal HIV-1 DNA templates is enhancer-dependent and sensitive to the combinatorial effects of several different classes of enhancer-binding proteins .
+As packaging of the DNA template into chromatin can have profound effects on both RNA initiation ( Felsenfeld 1992 ; Adams and Workman 1993 ; Paranjape et al , 1994 ) and elongation [ Izban and Luse 1991 ) , an expansion of this approach to include other regulatory factors , such as NF-kB , LBP-1 , and the virus-encoded Tat protein , should generate a useful sys- Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press tem with which to model the events leading to expression of the integrated HIV-1 provirus .
+Materials and methods Construction of HIV-1 enhancer mutants and transient expression assays The mutant enhancers were constructed into the vector HIV-1/LUC by a two-step PCR mutagenesis procedure designed to alter sequences between -340 and +80 of the HIV-1 promoter .
+The LM contained a 4-bp substitution of the distal LEF-1 site replacing the wild-type sequence with 5'-TGTCGAT-3 ' ; the Ets-1 mutant DNA contained a 5-bp substitution changing the wild-type sequence to 5'-CCTCTACC-3 ' ; and the E-box mutant was deleted of sequences upstream of -163 .
+The GAL4-substituted HIV-1 enhancer replaced the LEF-l-binding site domain , 5- AGCAG-CAGTCTTTGTA-3 ' with the sequence of the GAL4 DNA-binding site , 5-CGGAGTACTGTCCTCCG-3 ' .
+To test the effects of these mutations in transient transfection assays , DNA fragments containing the minimal enhancer unit ( -81 to -177 ) were subcloned at a position 76 bp upstream of the TATA box of the HSV-1 tk promoter in a luciferase vector .
+Constructs containing single and tandem head-to-tail inserts were isolated , and the sequence of all of the enhancer constructs was confirmed by dideoxynucleotide sequencing .
+Transient expression assays were performed by electroporation of 2 ug of HIV-1/LUC DNA , 1 ug of pCMV/CAT , and 10 mg of carrier DNA or LEF-1/GAL4 DNA ( as indicated in the legend to Fig .
+2 ) , into Jurkat cells that were activated by treatment for 15 hr with 50 ng/ml of TPA .
+Luciferase activity from each construct was normalized to the expression of pCMV/CAT , which was included in each experiment as an internal control , and the numbers listed in Figure 2 are the average of at least three separate transfection experiments .
+DNase I footprinting The DNase I footprint probe was labeled at +80 following digestion of the pLTR/CATAH3 plasmid with HindIII DNA-binding reactions { 50 pl final volume ) contained 300 pg of labeled DNA in a final buffer concentration of 12.5 mm HEPES [ pH 7.6 ) , 6 mm MgCl , , 50-120 mm KCl , 1 mm DTT , 5 % glycerol , and 3 % polyvinyl alcohol ( type II , low mol .
+wt .
+, Sigma ) .
+As indicated in the legend to Figure 1 , reactions contained either 150 ug of nuclear extract , or purified recombinant LEF-1 ( 60 ng } , GST/Ets-1 ( 800 ng ) , or TFE-3 { 10 ng ) .
+Footprint reactions were catried out and analyzed as described by Waterman and Jones ( 1990 ) .
+Expression of recombinant enhancer-binding proteins Full-length human LEF-1 { LEF-1 ) and HMG-88 clones were expressed and solubilized as described previously ( Waterman et al .
+1991 ) .
+The dialyzed LEF-1 proteins were loaded onto a 3-ml heparin-agarose column equilibrated in TM 0.1 m buffer ( 50 mm Tris-HCl ( pH 7.9 ) , 12.5 mm MgCl , , 1 mm EDTA , 2 mm DTT , 0.1 mm PMSF , 10 % glycerol , containing 100 mm KCI ) .
+A 15-ml gradient from 0.1 to 0.6 m KCl was applied , and the LEF-1 and HMG-88 proteins eluted at ~0.3 M KCI .
+The peak of protein was pooled , dialyzed against buffer H 0.1 m KCI ( 25 mm HEPES at pH 7.6 , 12.5 mm MgCl , , 2 mm DTT , 0.1 mm PMSF , 10 % glycerol containing 100 mm KCI ) and applied to a fast protein liquid Chromatin-dependent trans-activation by LEF-1 chromatography ( FPLC ) Mono-S column equilibrated in the same buffer .
+A 15-ml gradient from 0.25 to 0.45 m KCl was applied and LEF-1 and HMG-88 eluted at ~0.3-0.35 m KCl , respectively .
+The full-length human TFE-3 protein was expressed as a native ( nonfusion ) protein in pET -11d ( kindly provided by Dr. K. Murre , University of California , San Diego ) and was present in the soluble fraction after centrifugation of the bacterial cell lysate .
+The TFE-3-containing extracts were dialyzed into buffer H ( 25 mm HEPES at pH 8 , 1 mm EDTA , 10 % glycerol , 2 mm DTT , and 0.1 mm PMSF ) containing 0.3 m KCI , and passed over a DEAE-Sepharose column { 3 ml ) to remove polynucleotides .
+The flowthrough fraction from the DEAE column was diluted with two volumes of TM 0 m KCl buffer and loaded directly onto a heparin-agarose column ( 3 ml ) equilibrated in TM 0.1 m KCl A 15-ml gradient of TM buffer containing from 0.1 to 0.6 m KC ] was applied , and the TFE-3 protein eluted around 0.3 m KC ] .
+The peak of TFE-3 protein was pooled , dialyzed against TGED 0.1 m KCI buffer ( 50 mm Tris-HCl at pH 7.9 , 1 mm EDTA , 2 mm DTT , 10 % glycerol , 0.1 mm PMSF , containing 100 mm KCI } , and applied to an FPLC Mono Q column equilibrated in the same buffer .
+A 15-ml gradient from 0.1 to 0.6 m KCI was applied and TFE-3 protein was found to elute at 0.28 m KCL .
+The full-length human Ets-l cDNA ( kindly provided by Dr. J.M .
+Leiden , University of Chicago , IL ] was subcloned into the pGST-ag vector , expressed as a glutathione S-transferase fusion protein , and purified as described by Ron and Dressler ( 1992 ) using commercially available glutathione , Sepharose-4B affinity resin ( Pharmacia } .
+The purity of all of the recombinant proteins was tested by SDS-PAGE [ Fig .
+1B ) .
+Preparation of transcription extracts and purification of Sp1 Nuclear extracts were prepared from human Jurkat and Hela-S3 cell lines as described by Waterman and Jones ( 1990 } .
+Briefly , 12 liters of Jurkat { 1.5 x 105/ml } or HeLa ( 0.8 x 10°/ml } cells were used to prepare extracts from isolated nuclei in buffer H ( Waterman and Jones 1990 } .
+Nuclei were extracted with 60 ml of buffer D ( 50 mm Tris-HCl at pH 7.5 , 0.42 m KCl , 5 mm MgC ] , 0.1 mm EDTA , 2 mm DTT , 0.1 mm PMSF , 10 % sucrose , 20 % glycerol ) and soluble proteins precipitated by ammonium sulfate ( 52 % final ) .
+Precipitated protein was resuspended in 7.5 ml of HM 0 m buffer ( 25 ram HEPES at pH 8 , 12.5 mm MgCl , 0.2 mM EDTA , 10 % glycerol , 2 mm DTT , 0.1 mm PMSF ) and dialyzed against HM buffer plus 100 mm KCl ( HM 0.1 m ) at 4°C .
+The extract was spun in a Sorvall $ $ -34 rotor at 17,000 rpm for 15 min and the soluble extract aliquoted , frozen under liquid nitrogen , and stored at -80°C .
+Spl was purified from either Jurkat or HeLa nuclei using sequential lectin ( Jackson and Tjian 1989 ) and DNA affinity ( Ka-donaga and Tjian 1986 ) chromatography .
+All steps were carried out at 4°C .
+Briefly , nuclei from 8 to 12 liters of cells were extracted with 60 ml of buffer D ( 0.42 m KCI ) and loaded directly onto a 5-ml WGA column ( Vector Labs ) as described .
+The column was washed with three column volumes of buffer D , three volumes of buffer Z ' 0.1 m ( 25 mm HEPES at pH 8 , 12.5 mm MgCl , , 0.2 mm EDTA , 10 % glycerol , 2 mm DTT , 0.1 mm PMSF , 0.1 % NP-40 , containing 100 mm KCI } with 10 um ZnCl , and the bound protein was eluted with buffer Z ' 0.1 m containing 300 mm GIcNAc ( Calbiochem ) .
+The eluted protein was pooled , incubated with poly { d { I-C ) ] ( 30 pg/m1 ) for 15 min on ice , and loaded directly onto a l-ml Spl DNA-affinity column .
+The column was washed with Z ' 0.1 M , and the protein was eluted with sequential steps of Z ' 0.8 mM buffer .
+Spl was purified to near homogeneity by this process , as determined by SDS-PAGE and silver staining ( data not shown ) .
+GENES & DEVELOPMENT 2101 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Sheridan et al .
+Preparation of Drosophila $ -190 extract for chromatin reconstitution The $ -190 extract was prepared from Drosophila embryos [ from Canton- $ wild-type flies ) as described ( Kamakaka et al .
+1993 ; Bulger and Kadonaga 1994 ) .
+To summarize , four to six batches of embryos ( collected every 6 hr ; ~85 grams ) were harvested in nylon mesh discs with water and dechorionated by immersion in 1:1 bleach/water for 90 sec at room temperature .
+The embryos were rinsed thoroughly immediately with water , followed by a quick rinse with l-liter embryo wash buffer [ 0.7 % ( wt/vol } NaCl , 0.04 % Triton X-100 ) at room temperature .
+The embryos were transferred to an 800-ral beaker , and the remaining steps were carried out on ice or at 4°C .
+The embryos were resuspended with a glass rod in 500 ml of embryo wash buffer and allowed to settle , and the buffer was removed by aspiration .
+This was repeated once more with embryo wash buffer and then twice with 500 ml of saline wash buffer ( 0.7 % NaCl ) .
+This washing/equilibration procedure was repeated two more times with 500 ml each of buffer R ( 10 mm HEPES at pH 7.5 , 10 mm KCI , 1.5 mm MgCl , , 0.5 mm EGTA , 10 mm B-glycerophosphate , 1 mm DTT , 0.2 mm PMSF , 10 % glycerol ) .
+One final 100-ml wash with buffer R was carried out .
+The embryos were then transferred to a Bellco Dounce homogenizer ( 40 ml ) and disrupted with 15 strokes with pestle B followed by 40 strokes with pestle A .
+The homogenate was centrifuged in Falcon 2059 tubes in a Sorvall SS-34 rotor at 8000 rpm for 5 min and the cloudy , yellow cytoplasmic fraction was collected .
+The MgCl , concentration was adjusted from 1.5 to 7 mm and the extract subjected to high speed centrifugation in a Beckman SW55 rotor at 45,000 rpm ( 192,000g ) for 2.25 hr at 4°C .
+After centrifugation , the clarified yellow liquid was collected and frozen in liquid nitrogen , thawed in water , and subjected to a second high speed spin { 192,000g ) .
+The Drosophila §-190 extract was collected , frozen in aliquots in liquid nitrogen , and stored at -80°C .
+Reconstitution of chromatin onto HIV-1 double-stranded DNA The Drosophila $ -190 extract contains low levels of both core histones and histone H1 and must be supplemented with exog-enous purified core histones and histone H1 to assemble nucleosomal cores with high efficiency ( Kamakaka et al .
+1993 ) .
+Core histone and histone H1 components were purified according to the procedures of Laybourn and Kadonaga ( 1991 ) and Croston et al .
+( 1991 ) , respectively .
+Standard reconstitution reactions were performed with pBR322 plasmids containing HIV-1 sequence from position - 340 to +80 relative to the RNA start site , and either the CAT gene { 5.1kB LTRCATAH ; , ) or luciferase gene ( 6.7 kB HIV-1/ LUC } ; the results obtained were the same with either plasmid DNA .
+Typical reconstitution reactions contained 150 wl §-190 extract ( ~3.5 mg ) , which was incubated for 30 min at 27°C-30°C with purified Drosophila core histones ( 2-2.3 ug ) and histone HI ( 0.6 ug ) in buffer R in a total volume of 400 pl .
+This S-190 mixture was then used in a reconstitution reaction { 500 pul final volume ) containing DNA ( 2.5 ug ) , ATP ( 3 mm , Sigma ) , creatine phosphate ( 30 mm , Sigma ) , creatine kinase { 1 pg/ml , Sigma } , and either HM 0.1 m buffer alone or in combination with various protein fractions .
+The HM 0.1m buffer/protein mixture was no more than 15 % of the final reaction volume and contained the following concentration of proteins as indicated : 3 pg/ml SpIFJ , 15 nm affinity purified Spl , 15 nm recombinant Spl ( Promega } , 100 nm LEF-1 , 250 nm HMG-88 , 80 nm GST/Ets-1 , and 20 nm TFE-3 .
+The MgCl , concentration was adjusted to 7 mM final concentration .
+In the reactions shown in this paper , 2102 GENES & DEVELOPMENT the factors were allowed to bind their sites on DNA for 10-20 min on ice prior to the addition of the S-190 assembly extract and purified histones ; however we have subsequently determined that this preincubation step is unnecessary and that the factors can be added simultaneously with the assembly extract without affecting the results .
+The reconstitution reaction was carried out for 4.5-5 hr at 27°C-30°C and aliquots of the resulting HIV-1 nucleosomal templates were used for subsequent micrococcal nuclease analysis and in vitro transcription reactions .
+In vitro transcription reactions The HIV-1 enhancer construct pHIV-1/LUC ( 100 ng ) , either as plasmid DNA or as chromatin-reconstituted DNA ( taken as a 20-ul aliquot of the chromatin reconstitution reaction } , was mixed in a 100-pl reaction ( final volume ) containing 20 mm HEPES ( pH 8 ) , 6 mm MgCl , , 30-70 mm KCI , 300 ng of poly { d { I-C ) ] , 2.5 % polyvinyl alcohol , 80-100 ug of HeLa nuclear extract , and 50 ng « -globin DNA .
+Preinitiation complexes were allowed to form for 20 min at 25°C , and the templates were transcribed for 30 min at 30°C following the addition of ribonucleotides { 0.4 mm final ) .
+Transcription on naked DNA templates shown in Figure 4B was carried out using the same ratio of recombinant LEF-1 , Ets-1 , and Sp1F ) proteins to DNA as described above for the chromatin reconstitution reactions .
+The resulting RNAs were detected using *°P-labeled HIV-1 primer ( position +50 to +81 ) and a-globin primer in a mixed primer extension assay ( Waterman and Jones 1990 } .
+The reverse-transcribed DNA products were separated on 8 % urea/polyacrylamide gels , visualized by autoradiography , and quantitated following PhosphorImager scanning ( Molecular Dynamics ) .
+MNase analysis of reconstituted chromatin This approach was used to assess the efficiency of nucleosome assembly and determine the optimal levels of core histones and histone H1 for chromatin reconstitution .
+Partial digestion of reconstituted chromatin with MNase was carried out in 3 mM CaCl , with an empirically determined concentration of nuclease ( 8 x 10 ~* U/ml ) .
+The reactions were incubated at room temperature for time points ranging between 2 and 25 min , as indicated in the legend to Figure 3 .
+At each time point , an 80-ul aliquot was removed and the reaction was terminated by addition of EDTA to a final concentration of 50 mm .
+The samples were treated sequentially with 0.15 mg/ml of RNase A ( Boeh-ringer Mannheim } at room temperature and then 50 ug/ml of proteinase K ( Sigma ) at 37°C .
+The resulting DNA fragments were deproteinized and resolved on a 1.25 % agarose gel at 10 V/cm for 2.5 hr , and the DNA bands were visualized by staining with ethidium bromide .
+Gel mobility shift-circular permutation assay The circular permutation vector was constructed by inserting a synthetic double-stranded TCR « enhancer oligodeoxynucleo-tide comprising the LEF-l-binding site into the pCY4 plasmid ( Prentki et al .
+1987 ) .
+Double-stranded DNA probes of ~230 bp were prepared by digestion with specific restriction endonu-cleases , followed by isolation of the fragment on DES1 paper , labeling with [ °°P ] ATP using T4 polynucleotide kinase , and purification as described for the footprint probes above .
+Binding reactions { 15 ul total volume ) contained 30 pg of the specific °°P end-labeled 230-bp double-stranded pCY4 fragments containing the TCRa « LEF-1-binding site ( 1.5 x 10° cpm/ reaction ; 7.5 x 10° cpm/pug ) mixed with 250 ng of poly { d { ( A-T ) ] in 25 mm HEPES ( pH 8 ) , 6.25 mm MgCl , , 0.5 mm EDTA , 1 mm Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press DTT , and 5 % glycerol .
+The reactions were prepared on ice and 30 ng of the specified protein fraction was added .
+The reactions were incubated on ice for 20 min , mixed with 3 pl of loading buffer { 10 mm HEPES at pH 8 , 0.01 % bromophenol blue , 50 % glycerol } , and loaded directly onto a 6 % nondenaturing poly-acrylamide gel containing 0.5 % TBE , 0.025 % NP-40 , and 5 % glycerol .
+The gels were run at 12.5 V/em at 4°C for 4 hr .
+For the competition reactions , unlabeled HIV-1 enhancer oligodeoxy-nucleotides were added to the reaction mix before the protein addition .
+The gel was dried and exposed for autoradiography .
+The relative mobility of each complex was calculated from the ratio of the mobilities of the fastest and slowest migrating complexes in the gel shift assay .
+The relative mobility was used to estimate the bending angles for each complex by both linear interpolation against A-tract DNA standards and quantitative analysis as described by Thompson and Landy ( 1988 ) .
+Acknowledgments We thank Tim Mayall for his efforts related to this project and for insightful discussions , and to various members of the Kadonaga laboratory for their help and advice on the preparation of active chromatin-assembly extracts .
+We also thank Sam Darin for assistance with tissue culture and Dirk Albrecht for technical assistance , and we are grateful to members of both the Jones and Kadonaga laboratories for their comments on the manu-script .
+This work was funded by grants to K.A.J .
+from the National Institutes of Health [ ( NIH ) { ( GM38166 and CA54418 ) and the Mathers Foundation .
+J.T.K .
+is a Presidential Faculty Fellow and is supported by the NIH { GM46995 ) .
+The publication costs of this article were defrayed in part by payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 USC section 1734 solely to indicate this fact .
+References Adams , C. and J .
+Workman .
+1993 .
+Nucleosome displacement in transcription .
+Cell 72 ; 305-308 .
+Barton , M. and B. Emerson .
+1994 .
+Regulated expression of the B-globin gene locus in synthetic nuclei Genes & Dev .
+8 : 2453-2465 .
+Barton , M. , N. Madani , and B. Emerson .
+1993 .
+The erythroid protein cGATA-1 functions with a stage-specific factor to activate transcription of chromatin-assembled B-globin genes .
+Genes & Dev .
+7 : 1796-1809 .
+Bulger , M. and J. Kadonaga .
+1994 .
+Biochemical reconstitution of chromatin with physiological nucleosome spacing .
+Methods Mol .
+Genet .
+5 : 241-262 .
+Carlsson , P. , M. Waterman , and K. Jones .
+1993 .
+The LEF-1/TCF-la HMG protein contains a context-dependent activation domain that induces the TCRa « enhancer in T cells .
+Genes & Dev .
+7 : 2418-2430 .
+Clevers , H. , M. Oosterwegel , and K. Georgopoulos .
+1993 .
+Transcription factors in early T-cell development .
+Immunol .
+Today 14 : 591-596 .
+Croston , G. , L. Lira , and J. Kadonaga .
+1991 .
+A general method for purification of H1 histones that are active for repression of basal RNA polymerase II transcription .
+Protein Exp .
+Purific .
+2 : 162-169 .
+El Kharroubi , A. and E. Verdin .
+1994 .
+Protein-DNA interactions within DNase I-hypersensitive sites located downstream of the HIV-1 promoter .
+J. Biol .
+Chem .
+269 : 19916-19924 .
+Felsenfeld , G. 1992 .
+Chromatin as an essential part of the transcriptional mechanism .
+Nature 355 : 219-224 .
+Chromatin-dependent trans-activation by LEF-1 Fong , T. and B. Emerson .
+1992 .
+The erythroid-specific protein cGATA-1 mediates distal enhancer activity through a specialized B-globin TATA box .
+Genes & Dev .
+6 : 521-532 .
+Gerber , H.-P. , M. Hagmann , K. Seipel , O. Georgiev , M. West , Y. Litingtung , W. Schaffner , and J. Corden .
+1995 .
+RNA polymerase II C-terminal domain required for enhancer-driven transcription .
+Nature 374 ; 660-662 .
+Giese , K. and R. Grosschedl .
+1993 .
+LEF-1 contains an activation domain that stimulates transcription only in a specific context of factor-binding sites .
+EMBO J .
+12 : 4667-4676 .
+Giese , K. , J. Cox , and R. Grosschedl .
+1992 .
+The HMG domain of lymphoid enhancer factor 1 bends DNA and facilitates assembly of functional nucleoprotein structures .
+Cell 69 : 185-196 .
+Giese , K. , C. Kingsley , J. Kirshner , and R. Grosschedl .
+1995 .
+Assembly and function of a TCRa « enhancer complex is dependent on LEF-l-induced DNA bending and multiple pro-tein-protein interactions .
+Genes & Dev .
+9 : 995-1008 .
+Grosschedl , R. , K. Giese , and J. Pagel .
+1994 .
+HMG domain pro-teins : Architectural elements in the assembly of nucleoprotein structures .
+Trends Genet .
+10 : 94-100 .
+Izban , M. and D. Luse .
+1991 .
+Transcription of nucleosomal templates by RNA polymerase II in vitro : Inhibition of elongation with enhancement of sequence-specific pausing .
+Genes & Dev .
+5 : 683-696 .
+Jackson , S. and R. Tjian .
+1989 .
+Purification and analysis of RNA polymerase II transcription factors by using wheat germ ag-glutinin affinity chromatography .
+Proc .
+Natl .
+Acad .
+Sci .
+86 : 1781-1785 .
+Jones , K. and B. Peterlin .
+1994 .
+Control of RNA initiation and elongation at the HIV-1 promoter .
+Annu .
+Rev .
+Biochem .
+63 : 717-743 .
+Kadonaga , J. and R. Tjian .
+1986 .
+Affinity purification of sequence-specific DNA-binding proteins .
+Proc .
+Natl .
+Acad .
+Sci .
+831 5889-5893 .
+Kamakaka , R. , M. Bulger , and J. Kadonaga .
+1993 .
+Potentiation of RNA polymerase II transcription by Gal4-VP16 during but not after DNA replication and chromatin assembly .
+Genes & Dev .
+7 : 1779-1795 .
+Kelleher , R. , P. Flanagan , and R. Kornberg .
+1990 .
+A novel mediator betwen activator proteins and the RNA polymerase II transcription activator protein .
+Cell 61 : 1209-1215 .
+Kim , J. , F. Gonzales-Scarano , S. Zeichner , and J. Alwine .
+1993 .
+Replication of type 1 human immunodeficiency viruses containing linker substitution mutations in the -201 to -130 region of the long terminal repeat .
+J. Virol .
+67 : 1658-1662 .
+Koleske , A. and R. Young .
+1995 .
+The RNA polymerase II holoenzyme and its implications for gene regulation .
+Trends Biochem .
+Sci .
+20 ; 113-116 .
+Laybourn , P. and J. Kadonaga .
+1991 .
+Role of nucleosomal cores and histone H1 in regulation of transcription by RNA polymerase II .
+Science 254 : 238-245. .
+1992 .
+Threshold phenomena and long distance activation of transcription by RNA polymerase II .
+Science 257 : 1682-1685 .
+Muller , H.-P. and H. Varmus .
+1994 , DNA bending creates favored sites for retroviral integration : An explanation for preferred insertion sites in nucleosomes .
+EMBO J .
+13 : 4704-4714 .
+Oosterwegel , M. , M. van der Wetering , J. Timmerman , A. Kruis-beek , O. Destree , F. Meijlink , and H. Clevers .
+1993 .
+Differential expression of the HMG box factors TCF-1 and LEF-1 during murine embryogenesis .
+Development 118 : 439-448 .
+Paranjape , S. , R. Kamakaka , and J. Kadonaga .
+1994 .
+Role of chromatin structure in the regulation of transcription by RNA polymerase II .
+Annu .
+Rev .
+Biochem .
+63 : 265-297 .
+GENES & DEVELOPMENT 2103 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Sheridan et al .
+Pazin , M. , R. Kamakaka , and J. Kadonaga .
+1994 .
+ATP-dependent nucleosome reconfiguration and transcriptional activation from - preassembled - chromatin - templates .
+- Science 266 : 2007-2011 .
+Prentki , P. , M. Pham , and D. Galas .
+1987 .
+Plasmid permutation vectors to monitor DNA-bending .
+Nucleis Acids Res .
+15 : 10060 .
+Ron , D. and H. Dressler .
+1992. pGSTag- a versatile bacterial expression plasmid for enzymatic labelling of recombinant proteins .
+Biotechnology 13 : 866-869 .
+Thompson , J.F .
+and A. Landy .
+1988 .
+Empirical estimation of protein-induced DNA bending angles : Applications to lambda site-specific recombination events .
+Nucleic Acids Res .
+16 : 9687-9705 .
+Tjian , R. and T. Maniatis .
+1994 .
+Transcriptional activation : A complex puzzle with few easy pieces .
+Cell 77 : 5-8 .
+Travis , A. , A. Amsterdam , C. Belanger , and R. Grosschedl .
+1991 .
+LEF-1 , a gene encoding a lymphoid-specific protein with an HMG domain , regulates T-cell receptor « enhancer function .
+Genes & Dev .
+5 : 880-894. van Genderen , C. , R. Okamura , I Farinas , R.-G .
+Quo , T. Parslow , L. Bruhn , and R. Grossched ] 1 .
+1994 .
+Development of several organs that require inductive epithelial-mesenchy-mal interactions is impaired in LEF-1-deficient mice .
+Genes & Dev .
+8 : 2691-2703 .
+Verdin , E. 1991 .
+DNase I-hypersensitive sites are associated with both long terminal repeats and with the intragenic enhancer of integrated human immunodeficiency virus type 1 .
+J. Virol .
+65 : 6790-6799 .
+Verdin , E. , J. Paras , and C. Van Lint .
+1993 .
+Chromatin disruption in the promoter of human immunodeficiency virus type 1 during transcriptional activation .
+EMBO J .
+12 : 3249-3259 .
+Waterman , M. and K. Jones .
+1990 .
+Purification of TCF-la , a T-cell-specific transcription factor that activates the T-cell receptor Ca gene enhancer in a context-dependent manner .
+New Biol .
+2 ; 621-636 .
+Waterman , M.L .
+, W.H .
+Fischer , and K.A .
+Jones .
+1991 .
+A thymus-specific member of the HMG protein family regulates the human T cell receptor C alpha enhancer , Genes & Dev .
+5 : 656-669 .
+Zeichner , S. , J. Kim , and J. Alwine .
+1991a .
+Linker-scanning mu-tational analysis of the transcriptional activity of the human immunodeficiency virus type 1 long terminal repeat .
+J. Virol .
+65 : 2436-2444. .
+1991b .
+Analysis of the human immunodeficiency virus long terminal repeat by in vitro transcription competition and linker scanning mutagenesis .
+Gene Expr .
+1 : 15-27 .
+Zhou , P. , C. Bryne , J. Jacobs , and E. Fuchs .
+1995 .
+Lymphoid enhancer factor 1 directs hair follicle patterning and epithe-lial cell fate .
+Genes & Dev .
+9 : 570-583 .
+2104 GENES & DEVELOPMENT Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press > t N-t $ & Development Activation of the HIV-1 enhancer by the LEF-1 HMG protein on nucleosome-assembled DNA in vitro .
+P L Sheridan , C T Sheline , K Cannon , et al .
+Genes Dev .
+1995 , 9 : Access the most recent version at doi:10.1101/gad.9.1 7.2090 References _ This article cites 42 articles , 20 of which can be accessed free at : http : /genesdev.cshlp.org/content/9/17/2090.full.htmli # ref-list-1 License Email Alerting _ Receive free email alerts when new articles cite this article - sign up in the box at the top Service - `` ight corner of the article or click here .
+CRISPR KO , CRISPRa , CRISPRi libraries .
+CELLECTA Custom or genome-wide .
+Copyright © Cold Spring Harbor Laboratory Press

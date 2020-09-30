@@ -1,0 +1,700 @@
+Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Single cell assay of a transcription factor reveals a threshold in transcription activated by signals emanating from the T-cell antigen receptor Steven Fiering , ' Jeffrey P. Northrop , `` Garry P. Nolan , !
+Petri S. Mattila , Gerald R. Crabtree , `` and Leonard A. Herzenberg !
+> } 'Department of Genetics and *Howard Hughes Medical Institute , Stanford University , Stanford California 94305 USA Stimulation of T lymphocytes through their antigen receptor leads to the appearance of several transcription factors , including NF-AT and NF- « B , which are involved in regulating genes required for immunologic activation .
+To investigate the activity of a single transcription factor in individual viable cells , we have applied an assay that uses the fluorescence-activated cell sorter to quantitate B-galactosidase ( B-gal ) .
+We have analyzed the distribution of NF-AT transcriptional activity among T cells undergoing activation by using a construct in which three tandem copies of the NF-AT-binding site directs transcription of the lacZ gene .
+Unexpectedly , stimulation of cloned stably transfected Jurkat T cells leads to a bimodal pattern of B-gal expression in which some cells express no B-gal and others express high levels .
+This expression pattern can not be accounted for by cell-cycle position or heritable variation .
+Further results , in which B-gal activity is correlated with NF-AT-binding activity , indicate that the concentration of NF-AT must exceed a critical threshold before transcription initiates .
+This threshold likely reflects the NF-AT concentration-dependent assembly of transcription complexes at the promoter .
+Similar constructs controlled by NF-KB or the entire interleukin-2 enhancer show bimodal expression patterns during induction , suggesting that thresholds set by the concentration of transcription factors may be a common property of inducible genes .
+[ Key Words : NF-AT ; , IL-2 transcription ; transcription factors ; B-galactosidase ; fluorescence-activated cell sorting ; FACS/Gall Received May 17 , 1990 ; revised version accepted August 3 , 1990 .
+A fundamental problem encountered by multicellular organisms is how to translate a continuum of graded environmental signals into discrete responses such as dif-ferentiation , cell division , or cellular activation .
+There are many possible ways in which this problem can be solved , but it is likely that one common way will be a threshold somewhere in the pathway leading to expression of the genes specific for the changed phenotype .
+Among possible sites for such a threshold is the concentration-dependent binding of transcriptional regulators to their DNA-binding sites .
+An example of this sort of regulation comes from Drosophila in which , by a con-centration-sensitive mechanism , a gradient of bicoid protein influences target genes to create a series of discrete transcriptional results that organize the head and thoracic pattem of the embryo ( Driever and Niisslein-Volhard 1988 , 1989 ) .
+Further studies have shown that the embryonic position in which reporter genes controlled by bicoid are expressed reflects the affinity of the bicoid protein for different binding sites controlling *Corresponding author .
+these genes ( Driever et al .
+1989 ; Struhl et al .
+1989 } .
+We have sought an understanding of how another graded stimulus , presentation of antigen and binding of inter-leukins-1 and/or -6 , can be translated into the all-or-none immunological activation of a T lymphocyte .
+Our approach has been to analyze this differentiation event by correlating the transcription of a reporter gene controlled by a single inducible transcription factor with the induced DNA-binding activity of that transcription factor .
+As a model gene whose expression is tightly linked to T-cell activation , we have studied interleukin-2 ( IL-2 ) .
+IL-2 is transcribed in T cells only after the cell receives two independent signals : ( 1 ) specific T-cell receptor activation by antigen-presenting cells in the context of major histocompatibility complex ( MHC ) , and { 2 ) binding of Iymphokines produced by activated macro-phages in a non- interaction ( Rosenthal and Shevach 1973 ; Mizel 1982 ; Palacios 1982 ; Wiskocil et al .
+1985 ) .
+These signals are thought to potentiate calcium and protein kinase second messenger responses ( Weiss et al .
+1984 ) .
+The integration of these multiple GENES & DEVELOPMENT 4:1823-1834 © 1990 by Cold Spring Harbor Laboratory Press ISSN 0890-9369/90 $ 1.00 1823 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Fiering et al .
+signals results in the activation of IL-2 transcription mediated by the binding of several transcription factors to a transcriptional enhancer between -319 and -52 ( Fujita et al .
+1986 ; Siebenlist et al .
+1986 ; Durand et al .
+1987 , 1988 ) .
+The binding of one factor , NF-AT ( nuclear factor of activated T cells ) , is closely correlated to the activation of IL-2 transcription .
+NF-AT-binding activity is demonstrated by DNase I protection studies of the IL-2 enhancer or by electrophoretic mobility shift assays [ EMSA ) of an oligonucleotide composed of IL-2 enhancer sequences between -286 and -257 ( Durand et al .
+1988 ) .
+NF-AT-binding activity , found only in activated lymphoid cells , is strongly induced within 20 min after stimulation of T cells and precedes initial IL-2 mRNA production by 20 min ( Shaw et al .
+1988 ) .
+Induction of -binding activity is dependent on de novo transcription and translation ( Shaw et al .
+1988 ) .
+Drugs that block the induction of NF-AT-binding activity , such as cyclosporin A or translation inhibitors , also block IL-2 transcription ( Emmel et al .
+1989 ) .
+Deletions of the NF-AT-binding site that abolish NF-AT binding reduce reporter gene expression in transient transfection assays to 5-30 % of wild-type enhancer activity ( Fujita et al .
+1986 ; Durand et al .
+1988 ) .
+Collectively , these results suggest that the gene encoding NF-AT is one of the first genes induced as part of a complex pathway of differentiation leading to T-cell immunologic function .
+To quantitatively analyze the relationship between transcription factor concentration , physiologic state of viable cells , and induced transcription , we have applied the FACS/Gal reporter gene system ( Nolan et al .
+1988 ) to the study of NF-AT as a model inducible transcription factor .
+FACS/Gal exploits the Escherichia coli lacZ reporter gene encoding B-galactosidase ( B-gal ) , the fluorogenic substrate fluorescein-di-galactoside ( FDG ) , and the fluorescence activated cell sorter ( FACS ) to quantitate B-gal activity in individual cells .
+Because individual cells are assayed , any intercellular differences in B-gal expression are detected , and direct measurements of both the percentage of cells with B-gal activity and the amount of activity per expressing cell can be made .
+Importantly , cell viability is maintained by the assay ; therefore , cells can be FACS-sorted based on their B-gal activity .
+Thus , with the application of FACS/Gal , lacZ becomes a selectable marker that can quantitate a broad range of B-gal activity ( 5-50,000 molecules per cell ; Nolan 1989 ) and select cells based on any level of that activity .
+In this report , using FACS/Gal and a construct in which lacZ transcription is controlled by NF-AT , we quantitate the binding activity of NF-AT and its influence on gene expression in individual viable cells .
+Although lacZ is transcriptionally responsive to NF-AT , the induction of -binding activity is not linearly correlated with lacZ transcription .
+The observed relationship indicates that the concentration of NF-AT must exceed a threshold before transcription is initiated .
+The most likely stage at which the threshold occurs in the pathway is the assembly of an effective transcription complex at the promoter .
+1824 GENES & DEVELOPMENT Results Stimulation of the T-cell receptor signaling pathway induces lacZ expression from the stably integrated NFATZ construct in clones of the Jurkat T-cell line To detect transcriptional activity of NF-AT in single cells , we designed the construct NFATZ .
+This construct [ Fig .
+1A ) employs three tandem copies of a 30-bp DNA oligonucleotide containing the sequences protected from DNase I digestion by NF-AT binding [ Durand et al .
+1988 ) linked to a minimal IL-2 promoter-driving expression of lacZ .
+The NF-AT -binding site trimer is expected to act as a transcriptional enhancer solely responsive to transcriptionally active NF-AT ( Durand et al .
+1988 ; Pierce et al .
+1988 ) .
+The NFATZ construct , which also includes the bacterial hygromycin-resistance gene driven by the herpes simplex thymidine kinase promoter , was linearized and electroporated into Jurkat T cells , and hygromycin-resistant pools of cells were selected .
+To isolate integrants that expressed lacZ under the control of NF-AT , we stimulated the hygromycin-selected cells under conditions known to induce IL-2 .
+IL-2 expression is transcriptionally controlled and strictly dependent on a signal transmitted by antigen stimulation of the T-cell receptor ( TCR ; Rosenthal and Shevach 1973 ; Wiskocil et al .
+1985 ) .
+Antigen stimulation of the TCR can be mimicked by agents that stimulate the TCR in the absence of an-tigen , such as anti-TCR or phytohemagglutinin { PHA ; Meuer et al .
+1983 ; Weiss and Stobo 1984 ] .
+The pathway can be pharmacologically stimulated by phorbol ester ( PMA ) , an activator of protein kinase C , in combination with the calcium ionophore , ionomycin , a reagent that raises intracellular free calcium ( Truneh et al .
+1985 ) .
+Pools of hygromycin-resistant cells were analyzed for constitutive and inducible B-gal activity .
+After 5 hr of stimulation with ionomycin and PMA , the stimulated cells and replicate unstimulated cells were loaded with the fluorogenic B-gal substrate FDG .
+No constitutive activity was discernible in any of the 46 pools ( an estimated 500 individual transformants ] analyzed .
+Single Jurkat cells with stimulation-induced B-gal activity were FACS-sorted into individual tissue culture wells .
+After 4 weeks growth , 24 clones were reanalyzed by FACS/Gal , as described above .
+None of the clones had constitutive B-gal activity .
+The clones that expressed the highest levels of B-gal activity after stimulation were studied further .
+All clones able to express B-gal showed B-gal inducibility consistent with NF-AT-dependent transcription .
+One clone , J.NFATZ.1 , containing one copy of the construct as determined by Southern blot ( data not shown ) , was chosen for the studies presented here .
+RNase protection of induced J.NFATZ.1 demonstrates that the expression of IL-2 and lacZ in these cells requires specific stimulation and that the lacZ mRNA is properly initiated at the expected transcriptional initiation site [ Fig .
+1B ) .
+The expression of lacZ from stably integrated NFATZ in Jurkat cells is induced under several conditions shown previously to stimulate endogenous IL-2 or chloramphenicol acetyl transferase ( CAT ) activity in Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press IL-2 Gene ~286 - -257 -256 -242 -208 -188 -158 | -14§5 « 93 - -66 -B ( ors : SSS NF-AT NFIL-2D NFIL-2C NFIL-2B NFIL-2A ( OCT ? )
+( NF- « B ? )
+( OCT ? )
+DNA Binding Proteins NFAT Z Construct [ ___ ___ `` TK Hygromycin L % L Promoter _ resistance gene NF-AT - NF-AT - NF-AT Trimer of the NF-AT Binding Site mRNA Threshold event in transcriptional activation B D © § 5 START _ ATG § £ +1 +48 E & E g ; & 5 lacZ message 250 nt endogenous IL-2 message 47 nt NF-AT binding site sequence - GGAGGAAAAACTGTTTCATACAGAAGGCGT ~286 « 257 Figure 1 .
+The NFATZ construct and its relationship to the IL-2 gene .
+{ A ] Map of the 5 region of the IL-2 gene , including the enhancer that extends from -~52 to ~319 .
+Sites that bind proteins believed to contribute to transcriptional control are noted , with the names of putative binding proteins .
+The NFATZ construct contains JacZ attached to the IL-2 gene at position +47 , which precedes the translational start site for IL-2 .
+The promoter is the fragment of IL-2 from -70 to +47 , which includes a TATA box .
+The enhancer in this construct is a trimer of the NF-AT-hinding site [ - 286 to ~257 of IL-2 ] .
+All three NF-AT sites are oriented in the same direction as in IL-2 , and this trimer is attached to a minimal IL-2 promoter at -70 .
+( B ) The lacZ message from NFATZ is only expressed after stimulation and is properly initiated at the IL-2 transcriptional initiation start site .
+RNase protection was used to analyze the presence and initiation site of lacZ and IL-2 RNA .
+The probe spanned -70 to +250 of the NFATZ construct and can detect both messages .
+Properly initiated lacZ message gives a protected band of 250 bases , and endogenous IL-2 gives a 47-base protected band .
+transient IL-2 enbancer/promoter/CAT transfections { Fig .
+2A ; Durand et al .
+1987 ) .
+In addition , cyclosporin A , which inhibits IL-2 transcription and blocks the induction of NF-AT-binding activity ( Emmel et al .
+1989 ) , inhibits expression of lacZ at concentrations similar to those that inhibit IL-2 transcription ( Fig .
+2A ) .
+A bimodal expression pattern suggests a threshold event in signal transduction Surprisingly , analysis of single stimulated cells by FACS/Gal reveals that B-gal activity is unequally distributed within the clone [ Fig .
+2B ) .
+Unstimulated cells or cells treated with PMA alone show no increase over the background levels of untransfected furkat cells in either the 4-methylumbelliferone-B- » -galactoside ( MUG ) or FACS/Gal assays , Antibody to the Jurkat TCR idiotype { anti- TCR ) , a physiologically relevant stimulation , gives a weak but definite induction .
+With the addition of PMA to the anti-TCR stimulation , total ( -gal activity increases almost threefold .
+However , this increase is not distributed equally among all cells : FACS/Gal analysis shows that 22 % of cells have responded , whereas the majority of the J.NFATZ.1 cells show no activity .
+This bimodality is again apparent in PHA-stimulated cells , but unlike the anti-TCR results , PMA does not significantly change either the total B-gal activity or the percentage of cells with B-gal activity .
+Stimulation of the cells with ionomycin alone induces weak B-gal activity even though endogenous IL-2 is not induced by ionomycin alone { Weiss et al .
+1987 ) .
+Ionomycin plus PMA is clearly the strongest inducer of total NF-AT-mediated B-gal activity ; FACS analysis demonstrates significant B-gal activity in > 90 % of the cells .
+Interestingly , even under these optimal conditions , a small proportion of cells are still refractory to stimulation .
+The fact that some cells within a clone respond strongly to induction and others make no response suggests a threshold in the pathway leading to expression of NF-AT-driven lacZ .
+To further explore the parameters influencing the distribution of induced B-gal activity , we examined the kinetics of lacZ expression following stimulation [ Fig .
+3 ) .
+Consistent with the induction kinetics of NF-AT DNA-binding activity after T-cell stimulation ( Shaw et al .
+1988 ) , B-gal activity first appears 1 hr after stimulation and peaks ~12 hr poststimulation .
+In the presence of 10 ng/m } PMA , increasing the concentration of ionomycin from 0.25 to 2.25 wm increases the percentage of cells responding at each time point , inducing B-gal activity in almost the entire population by 12 hr .
+Although varying the ionomycin concentration changes the magnitude of the response as measured by total B-gal activity , or the percentage of cells expressing , there is no marked change in the overall kinetics of induction ( Fig .
+3B ) .
+Even with optimal ionomycin and PMA concentrations , the cells do not respond uniformly and present a bimodal distribution both prior to and at the time of peak activity in the culture .
+GENES & DEVELOPMENT 1825 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press A_ .
+Fiering et al .
+A B no stimulation % of Cells Positive by FACS/Gal 25 50 75 100 i Number | | PMA medium _ ; _ iter anti TCR anti PMA anti-TCR |__ + 1 PHA = m +4 F F3 o PHA PHA .
+| = PMA ionomycin |__ + ionomycin Lesa _| * M 0 1000 2000 3000 f hu > Total B-gal Activity ( MU Fluorescence ) [ 3 ionomycin mama `` & ﬂ/L A U T T U T T T T 1010 100 1 10 190 B-gal Activity ( fluorescence ) Figure 2 .
+- The TCR signaling pathway induces B-gal activity in Jurkat NFATZ cells .
+J.NFATZ.1 was stimulated with combinations of the following reagents for 8 hr : 10 ng/ml PMA { Sigma ) , 2.0 pm ionomycin [ Calbiochem ] , 1/1000 ascites of antiidiotypic C305 antibody anti-TCR ( Weiss and Stobo 1984 ) plus 20 ug/ml rat anti-mouse immunoglobulin ( Southern Biotechnology Associates } , 8 ug/ml PHA { Sigma ) , and 30 ng/m !
+cyclosporin A ( Sandoz ) .
+( A ) After stimulation , 5000 cells of each treatment group were distributed into wells of a 96-well plate , and their B-gal activities were assayed by a 3-hr incubation with MUG ( solid bars ) .
+The fluorescence generated by an equal number of untransfected Jurkat cells ( 80 units ) was subtracted from the MUG unit values .
+( B ) After stimulation , as described above , FACS/Gal analysis was performed as per Materials and methods .
+Shown are histograms of the B-gal-generated fluorescence in these cells displayed on a log scale .
+Cells in the population with substantial B-gal activity accumulate , due to substrate exhaustion , with a fluorescence of ~100 units , whereas J. NFATZ.1 cells with no B-gal activity or untransfected Jurkat cells have a background fluorescence of ~2 units .
+The percentage of cells with B-gal activity in B ( determined as the percentage of cells with fluorescence > 99 % of similarly assayed untransfected Jurkat cells ) is also displayed in A ( hatched bars ) .
+The correlation between NF-AT DNA-binding activity sion pattern , indicate the existence of a threshold con-and lacZ expression shows that the threshold event is centration of NF-AT that must be exceeded before tran-controlled by the concentration of NF-AT scription occurs .
+If this is the case , it implies that cells not expressing B-gal may contain levels of NF-AT that We investigated the relationship between NF-AT- are only slightly lower than cells with high B-gal ac-binding activity and B-gal activity by measuring both pa- tivity .
+rameters in stimulated J.NFATZ.1 cells { Fig .
+4 ) .
+PMA in- To determine how the bimodal distribution of lacZ duced NF-AT -binding activity that was not sufficient to expression is related to NF-AT-binding activity and mediate transcription of lacZ ; however , activation with thereby to test the hypothesis of a threshold induction PMA in the presence of increasing quantities of iono- concentration of NF-AT , we stimulated J.NFATZ.1 cells mycin produced an abrupt increase in B-gal activity with and assayed the induced NF-AT-binding activity in only a minor change in NF-AT-binding activity .
+With sorted B-gal positive ( B-gal + ) and B-gal negative ( B-gal- ) 0.25 m ionomycin , there was no detectable B-gal ac- cells .
+After stimulation under conditions that give ap-tivity , whereas with 0.75 um ionomycin , B-gal activity proximately equal numbers of cells with and without was clearly detectable and was associated with a small B-gal activity , cells were loaded with FDG for 75 sec , increase in NF-AT-binding activity .
+Further increasing quenched in ice-cold isotonic media , and kept on ice the ionomycin concentration 3-fold from 0.75 to 2.25 throughout the subsequent sorting and protein isolation wm induced a 30-fold increase in B-gal activity , whereas procedure .
+Approximately 10 `` cells each of B-gal* and NF-AT-binding activity was increased < 2-fold .
+Thus , B-gal~ fractions were sorted [ Fig .
+5A ) .
+Whole-cell protein minor quantitative changes within a narrow range of extracts were made from these fractions and examined NF-AT-binding activity are accompanied by large in- for their level of NF-AT-binding activity .
+B-gal+ cells creases in NF-AT-mediated transcription .
+Furthermore , were fivefold enriched for NF-AT-binding activity as these results , in conjunction with the bimodal expres- compared to B-gal~ cells ( Fig .
+5B ) .
+This fivefold differ 1826 GENES & DEVELOPMENT Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press A - lonomycin Concentration 0.25 uM ___0.75 uM __ 2.25 uM Time After Stimulation ( hr ) 0 2 JLA 4 12 1 10 100 / 4 40 ase ( 4 10400 _ B-gal Activity ( fluorescence units ) & % Cells Expressing B-gal 0 6 12 18 24 Time After Stimulation ( hr ) Figure 3 .
+- Induction of B-gal activity is sensitive to ionomycin concentration and follows kinetics similar to the kinetics of IL-2 induction .
+J.NFATZ.1 cells were stimulated at time 0 with 10 ng/ml PMA and the indicated concentrations of ionomycin .
+Aliquots were harvested and analyzed by FACS/Gal at the designated times .
+( A ) Fluorescence generated as histograms of log scale fluorescence .
+( B ) Percentage of cells expressing B-gal , defined as in Fig .
+2 , plotted vs. stimulation time , for each ionomycin concentration .
+ence in NF-AT-binding activity is associated with a much greater difference in B-gal expression .
+Accumulation of B-gal * cells in a peak at ~100 units of fluorescence is due to substrate exhaustion ; therefore , fluorescence of those cells is an underestimation of their B-gal activity .
+Further hindering efforts to accurately compare the B-gal activity of the two populations is the fact that B-gal activity in the B-gal~ population is below detectable levels with either the FACS/Gal or the MUG assay .
+However , because we know the sensitivity of the assays , we can state that the difference in B-gal activity between the two peaks is at least 100-fold and is likely to be much greater .
+We conclude that the bimodal distribution of B-gal activity is associated with intercellular variation in NF-AT concentration at least 20-fold less Threshold event in transcriptional activation Densitometry 21 ) 84 ] 81 | 89 [ 126218 | 0 |64 |72 | 72 | 75 | 80 | 74 | 0 B-gal Activity 0 | 0 | 0 | 0 |102 } 3200 lonomycin uM 0 | 0 |0.08 ( 0.25|0.75 ( 2.25 0 | 0 PMA 13 ng/mL = | + ] + | + | + + = | + ] + | + | + | + Lane 11213 | 4 | 5 1 6 [ 7 ] si9 j 10/11 12 [ 13 |14 NF-AT =| _ bug u ” , | NFIL-2A ‘ C9 wel W Oct bald bask band bed 1 .
+`` # bol bad bea Figure 4 .
+- Induction of B-gal activity is nonlinearly related to increased NF-AT-binding activity .
+J.NFATZ.1 cells , 5 x 10 `` for each condition , were stimulated for 3 hr with 13 ng/ml PMA and the noted ionomycin concentration .
+Cells ( 5000 ) were harvested from each stimulation condition and assayed for B-gal activity with both the MUG assay and FACS/Gal ; nuclear extracts were made from the remaining cells .
+NF-AT-binding activity was assayed by EMSA with the NF-AT-binding site as a probe .
+The NFIL-2A EMSA probe ( Shaw et al .
+1988 ) was used as a control for the amount and integrity of protein in the extract , because NFIL-Z2A-binding activity is constitutive .
+Lanes 1-6 are NF-AT assays that correspond to lanes 8-13 , respectively , of NFIL-Z2A assays .
+Lanes 7 and 14 are free probe of NF-AT-binding oligonucleotides and NFIL-2A-binding oligonucleo-tides , respectively .
+Briefer exposures of the autoradiogram were used to densitometrically measure the band intensities to obtain the displayed values .
+In this experiment the cells did not express B-gal in response to a 3-hr stimulation with PMA plus 0.25 um ionomycin , even though Fig .
+3 shows a response with those conditions .
+The difference in response is explained by a difference in cell density , in which , even though fresh media was used for stimulation , cells at 105/ml here show less response at low ionomycin concentration than the cells for Fig .
+3 , which were at 3 x 105/ml .
+No further data on this cell density effect are shown .
+than the variation in B-gal activity .
+Thus , cells containing more than some critical threshold concentration of NF-AT-binding activity induce lacZ , whereas those below this threshold concentration do not .
+Sensitivity to stimulation is due to multiple nonheritable physiological factors , including factors influenced by the cell cycle We have shown that the bimodality of B-gal expression is correlated with small quantitative differences in induction of NF-AT -binding activity .
+What are the factors that lead to intercellular variation of NF-AT transcriptional activity following stimulation of a clonal popula-tion ?
+Heritable differences in the levels of factors in GENES & DEVELOPMENT 1827 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Fiering et al .
+Figure 5 .
+Small changes in NF-AT levels correlate with very large changes in NF-AT -dependent transcription .
+J.NFATZ.1 cells ( 108 ) , were stimulated with 10 ng/ml PMA and 1.5 um ionomycin .
+Two hours after the addition of stimulants , the stimulation was stopped by centrifuging the cells and resuspending in fresh media .
+The cells were kept in culture for an additional hour to allow total population ~Ga| ( + ) sort any existing lacZ message to be translated into B-gal .
+The cells were then harvested , analyzed by FACS/Gal , and FACS-sorted based on B-gal activity .
+( A ) Sort data showing the B-gal activity histogram , the sorted populations , and the reanalysis of samples of the sorted cells .
+Approximately 10 `` cells each of B-gal* and B-gal~ populations Number Cell NF-AT sorted populations were sorted .
+Sorted and unsorted stimulated cells were used to prepare whole-cell protein extracts .
+{ B ) EMSA analysis of NF-AT-binding activity in whole-cell extracts .
+The control lane contains an equal amount of protein from a nuclear extract of stimulated Jurkat cells , which verifies the posi- Relative reanalysis of negative sort tion of the NF-AT band .
+The dark bands below the NF-AT bands in experimental lanes are due to nonspecific binding by cytoplasmic proteins in whole-cell extracts { and can serve as an internal control for the amount of protein loaded ) .
+Densitometry of the relevant NF-AT bands quantitated the relative amount of NF-AT as 1 , 2 , and 5 units , reanalysis of positive sort respectively , for the negative , total stimulated , and positive sort .
+volved in the signaling pathway could , over many cell generations , lead to the observed inducibility differences within the cell population .
+FACS/Gal sorting of stimulated J.NFATZ.1 cells into B-gal~- and B-gal+* fractions with subsequent reanalysis after approximately seven generations in culture demonstrates that there is no heritable bias giving rise to a population of cells that are more or less sensitive to induction of lacZ ( Fig .
+6 ) .
+The progeny of the B-gal +- or B-gal~ -- selected populations are virtually identical to each other and to the parental cells in expression of B-gal following restimulation .
+This experiment indicates that the variation of sensitivity to stimulation is not predominantly heritable ; therefore , small differences in induction of NF-AT must be related to nonheritable variation in cellular physiology within the clone .
+Prior to antigen-dependent stimulation , nonmalig-nant , mature T cells are quiescent and do not proliferate [ ( G , in the cell cycle ) .
+TCR-initiated activation signals mediate NF-AT activation in normal T cells and also prompt progression into the cell cycle , leading to proliferation ( for review , see Crabtree 1989 ] .
+Therefore , it is possible that position in the cell cycle is the physiologic variable that leads to the differential NF-AT activity that we have observed .
+Using FACS/Gal and Hoechst 33342 , we simultaneously analyzed NF-AT-induced B-gal activity and position in the cell cycle ( Fig .
+7 ) .
+The FACS/Gal histogram of induced B-gal activity is shown in Figure 7A .
+Figure 7 , B and C , shows the cell-cycle profile of B-gal~- cells and B-gal* cells .
+The major peak at 1828 GENES & DEVELOPMENT T 1 T 10 B-gal Activity ( fluorescence units ) T T 100 the left in Figure 7 , B and C ( between 20 and 43 fluorescence units ) , represents cells in G , phase ; cells with fluorescence > 43 are in S and G , phases .
+The DNA content profiles of B-gal* and B-gal~- subpopulations are similar but not identical .
+The B-gal-expressing population is enriched in S + G , phase cells , as compared to the B-gal-nonexpressing population .
+These same results are presented as a two-dimensional probability plot ( Fig .
+7D ) of B-gal activity { y-axis ) versus DNA content { x-axis ) that shows the difference in the cell-cycle distribution of B-gal+ and B-gal~ cells : 46 % of the B-gal+ cells are in S + G , as compared to 31 % of B-gal~ cells .
+However , the correlation between position in the cell cycle and induction of B-gal activity is not absolute .
+As Figure 7 demonstrates , many B-gal~ cells are in S + G , , and con-versely , many B-gal+* cells are in G , .
+We conclude that cell-cycle-related physiological factors may influence the induction of NF-AT , but other , possibly stochastic , factors contribute to the small differences in NF-AT induction that strongly influence lacZ expression .
+Transcriptional thresholds may be a general characteristic of genes controlled by multiple inducible transcription factors To determine whether the threshold detailed here is a special property of NF-AT or whether it is a more general property of inducible genes , we prepared two other inducible lacZ constructs and examined their induction when stably integrated in Jurkat cells .
+The constructs Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press A I O am __ Total B-gal Activity B ( MU fluorescence ) high sort $ 2 883 3 3 M low sort 8 al 823 ® .
+> parental I G 990 @ [ ra T T T T 1 10 100 B-gal activity ( fluorescence units ) Figure 6 .
+- Variability of response to stimulation is not a heritable characteristic .
+JNFATZ.1 cells were stimulated with 0.8 wm ionomycin and 10 ng/ml PMA for 4 hr .
+The cells were harvested and analyzed by FACS/Gal .
+( 4 ) The 10 % most fluorescent ( high B-gal activity ) and 10 % least fluorescent cells ( no B-gal activity ) were sorted as designated by the arrows ( 50,000 of each ) .
+( B ) The sorted populations were cultured for 7 days , until there was ~2 x 106 cells in each , and aliquots of the sorted population and parental cells were stimulated for 6 hr with 0.8 um ionomycin and 10 ng/ml PMA and analyzed by FACS/Gal and the MUG assay .
+FACS/Gal histograms and associated MUG values are displayed .
+are similar to NFATZ ( see Materials and methods ) .
+In one construct ( IL2ZH ] ) , the entire IL-2 enhancer as diagrammed in Figure 1 controls lacZ , and in the other construct [ kBZH } , lacZ is controlled by a trimer of the NF- « B-binding site from the mouse « k immunoglobulin light-chain enhancer situated in the same position as the NF-AT-binding site trimer in NFATZ .
+Jurkat cell lines that express the integrated constructs were produced as described above for the J.NFATZ.1 cell line .
+Similar to NFATZ , both constructs show distinctly bimodal distributions of induced B-gal activity ( Fig .
+8 ) , suggesting that from these constructs , as from NFATZ , lacZ is not transcribed until a threshold concentration of transcription factors is exceeded .
+Discussion A threshold in transcriptional induction We have used the FACS/Gal assay to measure the transcriptional activity of a single transcription factor , Threshold event in transcriptional activation A B-Gal Activity ( fluorescence ) 1 10 - 100 | | | | 8 | B-gal- B-gal + 3 3 > o 0 -I @ .2 < ® co M B ¥ ¥ C B-gal `` B-gal + Relative Cell Number I I T I I y T I 0 - 20 40 60 80 o 20 40 60 - 80 DNA Content per Cell ( Hoechst 33342 ) D - e1 | sor © 0 -I & © G A £100 S € B-gal * > 10-3 4 i- B-gal ~ % L `` ) h * _ o 20 40 60 80 DNA Content per Cell Figure 7 .
+The first cells responding to a brief stimulation are enriched for cells in S + G , of the cell cycle .
+J.NFATZ.1 cells were stimulated with 2.0 wm ionomycin and 10 ng/ml PMA .
+After 90 min of stimulation , the cells were centrifuged and brought up in fresh media without stimulants containing 5 g/ml of the fluorescent DNA-binding dye Hoechst 33342 and cultured for an additional hour .
+Dual-laser multiparameter FACS analysis of B-gal activity versus cell cycle was done for each cell by assaying B-gal activity with FACS/Gal and DNA content by Hoechst 33342 fluorescence .
+( A ) A histogram of the fluorescein fluorescence of the cells ( B-gal activity ) .
+Further computer analysis allows us to display the DNA content histogram [ Hoechst fluorescence linear scale ) for B-gal~- ( B ) and B-gal + { C ) cells .
+( D ) The same data in a two-dimensional plot with B-gal activity vs. DNA content .
+The percentage of cells in each quadrant is shown .
+NF-AT , in individual viable cells and have correlated this information with its DNA-binding activity measured in vitro by EMSA .
+We find that the induction of NF-AT-binding activity and associated induction of B-gal activity is not uniform within a clonal population GENES & DEVELOPMENT 1829 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Fiering et al .
+< BZH cells 1L2ZH cells Time After Stimulation ( hrs ) Number < EEP EFE JJ Cell 12 10 0 ate 000 I to ho B-gal Activity ( fluorescence units ) Figure 8 .
+Other inducible constructs show a bimodal pattern of induction following stimulation of stably integrated Jurkat clones .
+Representative Jurkat clones that had integrated IL2ZH ( lacZ controlled by the IL-2 enhancer ) or « BZH ( JacZ controlled by a trimer of NF- « B sites ] were suspended at 5 x 105/ml and stimulated with 12 ng/ml PMA and 2 um ionomycin .
+Cells were harvested at the indicated time points and assayed by FACS/Gal as per Materials and methods .
+of cells .
+NF-AT-mediated transcription of B-gal is nonlinearly related to DNA-binding activity such that small changes in NF-AT-binding activity can be associated with much larger changes in B-gal activity .
+In addition , we find that cells induce significant levels of NF-AT-binding activity without inducing any B-gal activity .
+Al-together , these results provide evidence for a threshold in transcriptional activation after the induction of NF-AT that is not associated with variations in the ability of the cells to transmit signals via the TCR signaling pathway .
+Because the threshold occurs between the induction of NF-AT-binding activity and the induction of NF-AT-mediated transcription , we believe that the threshold corresponds to the assembly of an active NF-AT-mediated transcription complex .
+There is a theoretical possibility that the threshold occurs at the translational rather than the transcriptional level .
+To address this possibility , we examined 1830 GENES & DEVELOPMENT the relationship between transcription { measured by RNase protection of a JacZ probe by cytoplasmic RNA ) and B-gal activity ( measured with the MUG assay ) .
+These experiments were done on Jurkat clones with integrated copies of either NFATZ or xBZH .
+Because message levels correlate linearly with B-gal activity ( data not shown ) , we conclude that the threshold is at the transcriptional level .
+One assumption relevant to our conclusions is that transcription from the NFATZ construct is strictly controlled by NF-AT , rather than by factors interacting with the IL-2 promoter sequences in the construct .
+This assumption is supported by the following evidence , which indicates that the IL-2 promoter ( -70 to +47 ) used in the construct does not contain sequences that confer inducible or T-cell-specific transcription .
+Except for a TATA box , there are no sites within the -70 to +47 segment that are homologous to other sites known to influence transcription .
+Constructs with the =-70 to +47 segment , but without the NF-AT sites , are not expressed constitutively or inducibly in either T-cell lines ( Fujita et al .
+1986 ; Durand et al .
+1987 ) or T cells of transgenic mice { Verweij et al .
+1990 } .
+The sequences between -81 and +51 of IL-2 can function as a promoter for enhancer elements in nonlymphoid cells ( Fujita et al .
+1986 ) , suggesting that this region contains no elements that are functional only in activated T cells .
+There is no evidence from in vitro footprint analysis for inducible proteins binding to the -70 to 0 sequences of IL-2 ( Durand et al .
+1988 ] , and there are no inducible DNase I hypersensitive sites in the -70 to +47 fragment [ Sie-benlist et al .
+1986 ) .
+What is the molecular basis of the threshold : If NF-AT can exist in a form that is competent to bind DNA but unable to mediate transcription , the threshold may be a modification step that allows binding-compe-tent NF-AT to mediate transcription .
+Although we can not rule out this possibility , in vitro transcription studies have not revealed evidence for such a binding competent , but transcriptionally inactive , form of NF-AT ( M. Flanagan and G.R .
+Crabtree , unpubl . )
+.
+The threshold could be the result of cooperativity of NF-AT binding .
+Cooperativity of transcription factor binding is well known in prokaryotes , and recent reports have demonstrated in vitro DNA-binding cooperativity by mammalian transcription factors ( Davidson et al .
+1988 ; LeBowitz et al .
+1989 ; Tsai et al .
+1989 ) .
+However , gel retardation studies have shown no evidence that NF-AT binding is cooperative .
+The binding of NF-AT to a labeled monomer of the NF-AT -binding site is competitively inhibited as efficiently by binding site monomers as by an equal number of multimerized binding sites ( Fig .
+9 ) .
+This in vitro experiment does not eliminate the possibility of binding cooperativity in vivo .
+Our experiments , in combination with results reported previously , suggest that transcription is not initiated from the NFATZ construct until the concentration of NF-AT is sufficient to fill all three binding sites .
+Previous studies , employing transiently transfected constructs , have shown that generally more than one Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Monomer Multimerized Competitor Competitor densitometry units 28 |27 | 22 ] 10| 5 | 3 |24 |22 | 11 | 5 | 3 ratio : Competitor 0 10.5 ] 2 | 10 | 30 [ 100 ] 0.5 ] 2 |10 | 30 [ 100 tng g ) is nd bd tg \ Figure 9 .
+NF-AT does not bind cooperatively in vitro .
+The binding of NF-AT to a +°P-labeled probe consisting of monomers of the NF-AT DNA-binding site was competitively inhibited by either unlabeled binding site monomers { monomer competitor ) or by an equal number of unlabeled binding sites that had been ligated together ( multimerized competitor ) .
+To ensure that the concentrations of binding sites in the two competitor stocks were identical , we produced the multimers by ligation of the monomers ; the extent of ligation was determined by °P-labeling and subsequent gel analysis of aliquots of the competitors .
+The multimerized competitor contained ~80 % dimers and higher multimers of the binding site ( data not shown } .
+binding site for a transcription factor is required to initiate transcription [ Laimins et al .
+1984 ; Veldman et al .
+1985 ; Durand et al .
+1988 ; Schatt et al .
+1990 ) .
+It has also been shown recently that multiple bound transcription factors can have a synergistic influence on transcription { Carey et al .
+1990 ; Lin et al .
+1990 ] .
+Most importantly , because one or two copies of the NF-AT site fused 5 proximal to a minimal promoter have little or no transcriptional activity and three or more copies of the site mediate substantial reporter gene induction in transient assays ( Durand 1988 ; C.L .
+Verweij and GR .
+Crabtree , unpubl . }
+, the construct used here would be expected to require the binding of NF-AT at all three binding sites before transcription initiates .
+If the hypothesis that all three binding sites must be occupied to mediate transcription is correct and there is no in vivo binding cooperativity , the threshold can be explained , at least in part , simply by the fact that , because each cell has a single reporter gene , the proportion of cells with all three sites occupied is essentially the cube of the proportion of individual sites occupied .
+EMSA studies show that the binding of NF-AT to its binding site in vitro is proportional to NF-AT concentration ( data not shown ) .
+If NF-AT binding in vivo is proportional to NF-AT concentration in the range studied here , any change in NF-AT concentration would cause a similar change in the occupancy of individual sites and would therefore affect transcription of NFATZ in proportion to the cube of the concentration change .
+For ex-ample , a 5-fold increase in mean NF-AT concentration in a population would mediate a 5 % ( 125 } -fold increase in transcription in that population .
+If our in vitro EMSA experiments accurately describe the behavior of NF-AT binding in vivo , the transcriptional threshold demonstrated here could be partly or substantially explained by the three-site requirement and the associated third power relationship between NF-AT concentration and transcription .
+Are there similar thresholds in the induction Threshold event in transcriptional activation pathways of other genes ?
+The construct IL2ZH , with lacZ controlled by the complete IL-2 enhancer , when stably introduced into Jurkat cells , is expressed in a bimodal fashion following stimulation [ Fig .
+8 ) .
+Hence , transcription of endogenous IL-2 may involve exceeding a threshold similar to that detailed for NFATZ .
+Simi-larly , expression of an NF- « B responsive construct is also bimodal ( Fig .
+8 ) even though NF- « B and NF-AT are activated by different mechanisms ( Bauerle and Baltimore 1988 ; Ghosh and Baltimore 1990 } .
+This bimodal expression pattern occurs regardless of whether multiple copies of a single inducible factor ( NF-AT or NF-KB ) or multiple distinct inducible factors ( IL-2 ) control transcription .
+For any gene , if binding is not cooperative or interac-tive , the probability that all transcription factor-binding sites will be occupied is the product of the probabilities that each individual site will be occupied .
+Thus , any gene to which multiple inducible factors are required to bind before transcription occurs could exhibit an effective physiological threshold related to the fact that concentrations of all necessary factors must be well above their binding constants before it is likely that all sites will be filled .
+This situation could make a gene inherently difficult to activate ( i.e .
+, it would have a threshold ) and therefore tend to make transcription an all-or-none response .
+Such a threshold would be useful at critical stages of development when all-or-none responses must be mediated by graded stimuli to accomplish cellular differentiation .
+Potential of single-cell assays of transcription factors that correlate transcription with cellular physiology Stimulation of normal resting T cells has a strong influence on cell-cycle stage , because activation induces cells to leave G , and initiate DNA synthesis ( Cantrell and Smith 1984 ) .
+Jurkat , a leukemic T-cell line , is clearly under modified control because it cycles constantly and never enters a lengthy G , phase .
+Our experiments have established that cell-cycle position , an important source of physiological variation within a clonal population , partially correlates with the ability of the cell to express lacZ in response to stimulation .
+Two different interpretations of these data can be made .
+The first possibility is that cells in the S and G , phases are more readily induced to express lacZ after stimulation .
+In this case , cells in the S and G , phases likely produce more NF-AT in response to a given stimulus than those in G , ; however , this disposition is not absolute .
+The second possibility is that there is no bias in the cell-cycle stage in which lacZ is induced , ; rather , cells responding to stimulation both induce lacZ and are altered in their progression through the cell cycle .
+To explain the observed en-richmet-t of B-gal + cells in S + G , , the aforementioned cell cycle alteration must result in an increase of such cells in S + G , either by inhibition of progression through S phase or premature movement from G , into S. Either interpretation leads to the conclusion that lacZ activation and , therefore , small differences in the induc- GENES & DEVELOPMENT 1831 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Fiering et al .
+tion of NF-AT , is partially correlated at the single-cell level to events that either influence or are influenced by the cell cycle .
+The integration site of the NFATZ construct does not affect the qualitative response to stimulation but does have a distinct quantitative influence .
+All of the stable NFATZ integrants analyzed { 24 clones ) show the same phenotype of induction of B-gal activity only by conditions known to induce NF-AT transcriptional activity .
+However , the clones show large consistent differences in how much B-gal activity they induce .
+Interestingly , the presence upstream of a constitutively active herpes simplex thymidine kinase promoter region , directing transcription of the linked hygromycin-resistance gene , is unable to cis-activate constitutive lacZ expression despite the fact that it is only 2 kb away and in the same transcriptional orientation .
+Although individual NFATZ Jurkat clones vary in the magnitude of B-gal activity they express , generally they do not differ significantly in NF-AT-binding activity following stimulation ( data not shown } .
+This suggests that different integration sites , all of which are constitutively transcribing a linked drug-resistance gene , mediate heritable quantitative differences in response to a given level of NF-AT .
+FACS/Gal can be applied to analyze the signaling pathways leading to activity of an inducible transcription factor .
+With this system we have observed a threshold in the transmission of a signal from the cell surface to transcription in the nucleus .
+The ability to use FACS/Gal to analyze variation within complex cell populations and viably select cells based on reporter gene expression levels provides an overall new approach to the study of inducible genes and the signals that control their induction .
+In particular , this approach could be useful in the selection of mutants in activation pathways .
+As opposed to transient assays , this approach allows the study of gene expression in a more physiologically relevant and undisturbed context .
+Furthermore , the compatibility of FACS/Gal with FACS analysis of other parameters , such as cell cycle , creates a powerful potential to correlate gene expression with single-cell physiology .
+We believe assays similar to those presented here will be productive in dissecting the complex interconnecting signaling pathways between cell membrane molecules involved in sensing the environment and transcriptional regulatory molecules essential for pheno-typic adaptation .
+Materials and methods Cells and cell culture Jurkat cells were maintained in complete RPMI 1640 ( GIBCO } supplemented with 10 % { vol/vol ) fetal calf serum , 108 U/rmal penicillin , and 52 U/ml streptomycin in a 7 % CO , ; /93 % air at-mosphere .
+Clones transfected with NFATZ were periodically cycled in the above media with 300 ug/ml hygromycin B ( Cal-biochem| } .
+Plasmid construction Construction of NFATZ used p22-6 CAT , a construct with the enhancer/promoter used in NFATZ attached to the CAT gene .
+1832 GENES & DEVELOPMENT The CAT gene was removed from p22-6 CAT by Hindlll-BamHI digestion and replaced with the HindflI-BamHI lacZ fragment from pCH110 [ Hall et al .
+1983 ) to make p22-6 Z .
+To attach a drug-selectable marker and complete NFATZ , the NF-AT enbancer-promoter/lacZ portion was excised with Xhol/ BamHI from p22-6 Z and inserted into the vector p220.2 { modification of p201 by the addition of a polylinker in the NaerI site ; Yates et al .
+1985 ) that contains the herpes simplex thymidine kinase promoter controlling the bacterial hygromycin-resistance gene ( TK/Hygro ) .
+Construction of IL2ZH and « BZH will be described in detail elsewhere ( P.S .
+Mattila , K. Ullman , S. Fiering , M. McCutcheon , L.A. Herzenberg , and G.R .
+Crabtree , in prep . )
+.
+Briefly , they are similar to NFATZ , with the following exceptions : In both constructs , the TK/Hygro gene is 3° of lacZ rather than 5 ' , IL2ZH has the entire IL-2 enhancer , as shown in Figure 1 , controlling lacZ , and kBZH has three copies of the NF- « B-binding site from the immunoglobulin « light-chain in place of the NF-AT-binding sites .
+Transfection and selection of hygromycin-resistant Jurkat clones The NFATZ plasmid was digested with Nrul and BamHI , and the TK-Hygro/NFAT-lacZ fragment was gel-purified .
+Jurkat cells were centrifuged and resuspended at a concentration of 10 `` /ml in growth media containing 20 pg/ml of the purified DNA fragment .
+Aliquots ( 300 pul ) of the cells were electroporated in a Bio-Rad Genepulser at 250 V with 960 wF capacitance .
+The electroporated cells were resuspended in 24 ral of growth media , and 1 ml/well was plated into a 24-well tissue culture plate .
+The following day the media were brought to 300 pg/ml with hygromycin B , and the hygromycin-containing media were changed periodically until resistant cells grew out of the selected population .
+Production of hygromycin-resistant IL2ZH or « BZH containing Jurkat clones was essentially identical to the procedure described above for NFATZ-containing Jurkat clones .
+Ribonuclease protection A probe spanning the NFATZ sequences from -70 to +250 , which is capable of revealing transcription of both lacZ and endogenous IL-2 , was made by cloning the Xhol-Rsal fragment from NFATZ into pSP65 to create pSP65Gal .
+Total RNA was purified by the guanidinium isothiocyanate technique ( Chirgwin et al .
+1979 ) .
+RNase protection was done by standard techniques ( Melton et al .
+1984 ) .
+RNA was quantitated spectro-photometrically , and 12 pug was used for each experimental point .
+For mapping the correct initiation of the lacZ mRNA , a 32P-labeled RNA probe was transcribed from Pstl-digested pSP65Gal .
+Hybridization was done at 42°C , and the samples were digested with 5 ug/ml RNase A and 200 U/ml RNase T1 at 37°C for 1 hr .
+The digested samples were electrophoresed on a 6 % denaturing polyacrylamide gel .
+B-Gal assays The FACS/Gal assays were carried out basically as described previously ( Nolan et al .
+1988 ] .
+Briefly , cells to be assayed were suspended in growth media or isotonic phosphate-buffered saline ( PBS ) at concentrations between 106 and 10 `` /ml .
+Aliquots of 50 ul were warmed to 37°C , mixed rapidly with 50 ul of 2 mM FDG at 37°C ( Molecular Probes , Eugene , OR ) in distilled water , and returned to a 37°C water bath for 75 sec .
+After the 75-sec loading reaction , the cells were diluted with 10 volumes ( 1 ml ) of ice-cold isotonic PBS or growth media and placed on Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press ice .
+After a 2-hr incubation on ice , the cells were analyzed by FACS configured for fluorescein analysis .
+The sensitivity of the assay was improved by autofluorescence compensation ( Alberti et al .
+1987 ) .
+The MUG ( Sigma ) assay for B-gal activity was performed by lysing 5 x 10° cells in 120 pl of 0.1 % Triton X-100 in Z buffer { 60 mm Na , HPO , , 40 mm NaH , PO , , 10 mm KCI , 1 mm MgSO , { pH 7.0 ) ] .
+The assay was started by the addition of 30 wl 3 mm MUG in Z buffer ( solubilized at 90°C ) , which brings the reaction to 0.6 mm MUG .
+After 15 min to 6 hr of incubation at 37°C ( depending on the activity per cell ) , the assay was stopped by the addition of 75 wl MUG stop buffer [ 15 mm EDTA , 300 mm glycine ( pH 11.2 ) ] .
+Methylumbelliferone fluorescence was quantitated by a Fluoroskan fluorimeter [ Flow Labs ) .
+Electrophoretic mobility-shift assays Nuclear extracts were made as described previously ( Ohlsson and Edlund 1986 ) , with modifications as developed by K.S .
+Ullman , enabling the procedure to be done with fewer cells .
+Nuclear extracts were initiated by harvesting 5 x 10 `` cells per experimental point and washing the cells once in ice-cold PBS .
+All subsequent steps were performed at 4°C .
+The cells were pelleted , washed once in 1 ml of buffer A [ 10 mm HEPES ( pH 7.8 ) , 15 mm KCl , 2 mm MgCl , , 1 mm DTT , 0.1 mm EDTA , 0.1 mM PMSF ] , and resuspended in 1 ml of buffer B ( buffer A plus 0.2 % Pelleted nuclei were resuspended in 315 pl of buffer C [ 50 mm HEPES ( [ pH 7.8 ) , 50 mm KCl , 0.1 mm EDTA , 1 mM DTT , 0.1 mm PMSF , 10 % { vol/vol } glycerol ] , and 35 ul of 3 M ( NH , ) ; SO , ( [ pH 7.9 ) was added .
+Following gentle mixing for 30 min , the viscous solution was centrifuged at 200,000g for 15 min .
+An equal volume of 3 m ( NH , ) ; SO , was added to the su-pernatant , and precipitated proteins were pelleted at 100,000¢ for 10 min and resuspended in 50-100 ul of buffer C. Protein samples were desalted by passage over a P6DG column ( Bio-Rad ) .
+Concentrations of proteins were determined by Bradford assay [ Bradford 1976 ) .
+Whole-cell extracts on FACS-sorted cells were made by PBS washing 10 `` sorted cells , resuspending the pellet in 315 pul of buffer C , and adding 35 pl of 3 m { ( NH , ) } , SO , ( pH 7.9 ) .
+All further procedures are as described for nuclear extracts above .
+EMSAs were done essentially as described ( Fried and Crothers 1981 ; Garner and Revzin 1981 ) .
+The binding reactions were carried out with 10 ug of protein for NF-AT and 5 ug for NFIL-2A in a solution consisting of 10 mm Tris-HCl ( pH 7.5 ) , 50 mM NaCl , 0.5 mm EDTA , 5 % glycerol , and 1.7 ug poly { d ( I-C ) ] .
+The protein solutions were incubated for 60 min at room temperature with 0.1-0.5 ng of end-labeled double-stranded oligonucleotides .
+Oligonucleotides used in these studies are monomers of the binding sites for NF-AT ( -285 to -255 from human IL-2 ) or NFIL-ZA ( -93 to -63 from IL-2 ) .
+The samples were electrophoresed on 4.5 % polyacrylamide gels .
+EMSAs were quantitated by analysis of autoradiograms on a Molecular Dynamics computing densitometer model 300 A or by direct analysis with an Ambis Radioanalytic imaging system .
+Multiparameter FACS analysis of -gal activity and cell-cycle position Following stimulation for 90 min , the cells were incubated at 37°C for 1 hr in growth media containing 5 pg/ml Hoechst 33342 .
+After this incubation the FACS/Gal assay was performed as described above , except that the diluent to stop the loading reaction contained 5 ug/ml Hoechst 33342 .
+Fluorescein and Hoechst 33342 fluorescence was measured by dual laser FACS analysis in which the Hoechst 33342 excitation was at 362 nm and emission was measured at 440-460 nm .
+With this Threshold event in transcriptional activation procedure , Hoechst 33342 fluorescence is directly proportional to DNA content of the cell ( Arndt-Jovin and Jovin 1977 ) .
+Acknowledgments We acknowledge K.S .
+Ullman for modification of the nuclear protein isolation technique , C.L .
+Verweij for providing the p22-6 CAT and pSP65Gal plasmids , S. Haase for densitometry analyses , and Leonore Herzenberg for helpful discussions .
+This work was supported by National Institutes of Health ( NIH ) grants CA42509 ( LAH ) , CA39612 ( GR.C.J , and HL33942 [ G.R.C . )
+.
+S.F .
+was supported by NIH training grant EY-07106 , and J.P.N .
+was supported by U.S. Public Health Service fellowship A1I0O7290 .
+The publication costs of this article were defrayed in part by payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 USC section 1734 solely to indicate this fact .
+References Alberti , S. , D.R .
+Parks , and LA .
+Herzenberg , 1987 .
+A single laser method for subtraction of cell autofluorescence in flow cytometry .
+Cytometry 8 : 114-119 .
+Arndt-Jovin , DJ .
+and TM .
+Jovin .
+1977 .
+Analysis and sorting of living cells according to deoxyribonucleic acid content .
+/ .
+Histochem .
+Cytochem .
+25 : 585-589 .
+Bauerle , P.A .
+and D. Baltimore .
+1988 .
+Activation of DNA-binding activity in an apparently cytoplasmic precursor of the NF-KB transcription factor .
+Cell 53 : 211-217 .
+Bradford , MM .
+1976 .
+A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding .
+Anal .
+Biochem .
+72 : 248-254 .
+Cantrell , D.A .
+and K.A .
+Smith .
+1984 .
+The interleukin-2 T-cell system : A new cell growth model .
+Science 224 : 1312-1316 .
+Carey , M. , Y.S .
+Lin , M.R .
+Green , and M. Ptashne .
+1990 .
+A mechanism for synergistic activation of a mammalian gene by GAL4 derivatives .
+Nature 345 : 361-364 .
+Chirgwin , J. M. , AE .
+Pryzbyla , RJ .
+MacDonald , and WJ .
+Rutter .
+1979 .
+Isolation of biologically active RNA from sources enriched in ribonuclease .
+Biochemistry 18 : 5294-5299 .
+Crabtree , G.R .
+1989 .
+Contingent genetic regulatory events in T lymphocyte activation .
+Science 243 : 355-361 .
+Davidson , L. , J.H .
+Xiao , R. Rosales , A. Staub , and P. Chambon .
+1988 .
+The HeLa cell protein TEF-1 binds specifically and cooperatively to two enhancer motifs of unrelated sequence .
+Cell 54 : 931-942 .
+Driever , W. and C. Nisslein-Volhard .
+1988 .
+A gradient of bicoid protein in Drosophila embryos .
+Cell 54 : 83-93. .
+1989 .
+The bicoid protein is a positive regulator of hunchback transcription in the early Drosophila embryo .
+Nature 337 : 138-143 .
+Driever , W. , G. Thoma , and C. Niisslein-Volhard 1989 .
+Determination of spatial domains of zygotic gene expression in the Drosophila embryo by the affinity of binding sites for the bicoid morphogen .
+Nature 340 : 363-367 .
+Durand , D.B .
+, MR. Bush , J.G .
+Morgan , A. Weiss , and GR .
+Crabtree .
+1987 .
+A 275 basepair fragment at the 5 end of the interleukin 2 gene enhances expression from a heterologous promoter in response to signals from the T cell antigen receptor .
+J. Exp .
+Med .
+165 ; 395-407 .
+Durand , D.B .
+, J.P. Shaw , M.R .
+Bush , R.E .
+Replogle , R. Belagaje , and GR .
+Crabtree .
+1988 .
+Characterization of antigen re GENES & DEVELOPMENT 1833 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Fiering et al .
+ceptor response elements within the interleukin-2 enhancer .
+Mol .
+Cell .
+Biol .
+8 : 1715-1724 .
+Emmel , EA .
+, CL .
+Verweij , D.B .
+Durand , KM .
+Higgins , E. Lacey , and G.R .
+Crabtree .
+1989 .
+Cyclosporin A specifically inhibits function of nuclear proteins involved in T cell activation .
+Science 246 : 1617-1620 .
+Fried , M. and D.M .
+Crothers .
+1981 .
+Equilibria and kinetics of lac repressor-operator interactions by polyacrylamide gel electrophoresis .
+Nucleic Acids Res .
+9 ; 6505-6525 .
+Fujita , T. , H. Shibuya , T. Ohashi , K. Yamanishi , and T. Tani-guchi .
+1986 .
+Regulation of human interleukin-2 gene : Functional DNA sequences in the 5 ' flanking region for the gene expression in activated T lymphocytes .
+Cell 46 : 401-407 .
+Garner , M.M .
+and A. Revzin .
+1981 .
+A gel electrophoresis method for quantifying the binding proteins to specific DNA regions : Application to components of the Escherichia coli lactose operon regulatory system .
+Nucleic Acids Res .
+9 ; 3047-3060 .
+Ghosh , S. and D. Baltimore .
+1990 .
+Activation in vitro of NF- « B by phosphorylation of its inhibitor IxB .
+Nature 344 : 678-682 .
+Hall , C.V. , P.E .
+Jacob , G.M .
+Ringold , and F. Lee .
+1983 .
+Expression and regulation of Escherichia coli lacZ gene fusions in mammalian cells .
+/ .
+Mol .
+Appl .
+Genet .
+2 : 101-109 .
+Laimins , L.A. , P. Tsichlis , and G. Khoury .
+1984 .
+Multiple enhancer domains in the 3 ' terminus of the Prague strain of Rous sarcoma virus .
+Nucleic Acids Res .
+12 : 6427-6443 .
+LeBowitz , J.H .
+, R.G .
+Clerc , M. Brenowitz , and P.A .
+Sharp .
+1989 .
+The Oct-2 protein binds cooperatively to adjacent octamer sites .
+Genes Dev .
+3 : 1625-1638 .
+Lin , Y.S .
+, M. Carey , M. Ptashne , and M.R .
+Green .
+1990 .
+How different eukaryotic transcriptional activators can cooperate promiscuously .
+Nature 345 ; 359-361 .
+Melton , D.A .
+, P.A .
+Krieg , M.R .
+Rebagliati , T. Maniatis , K. Zinn , and M.R .
+Green .
+1984 .
+Efficient in vitro synthesis of biologically active RNA and RNA hybridization probes from plasmids containing a bacteriophage SP6 promoter .
+Nucleic Acids Res .
+12 : 7035-7056 .
+Meuer , S.C. , K.A .
+Fitzgerald , R.E .
+Hussey , J.C. Hodgdon , S.F .
+Schlossman , and EL .
+Reinherz .
+1983 .
+Clonotypic structures involved in antigen-specific human T cell function .
+J. Exp .
+Med .
+157 : 705-719 .
+Mizel , S.B .
+1982 .
+Interleukin 1 and T cell activation .
+Immunol .
+Rev .
+63 : 51-72 .
+Nolan , G.P .
+1989 .
+`` Individual cell gene regulation studies and in situ detection of transcriptionally active chromatin using fluorescence-activated cell sorting with a viable cell fluorogenic assay `` .
+Ph.D thesis , Stanford University , Stanford .
+Nolan , G.P .
+, S. Fiering , J.F .
+Nicolas , and L.A. Herzenberg .
+1988 .
+Fluorescence-activated cell analysis and sorting of viable mammalian cells based on B-O-galactosidase activity after transduction of Escherichia coli lacZ .
+Proc .
+Natl .
+Acad .
+Sci .
+85 : 2603-2607 .
+Ohlsson , H. and T. Edlund .
+1986 .
+Sequence-specific interactions of nuclear factors with the insulin gene enhancer .
+Cell 45 : 35-44 .
+Palacios , R. 1982 .
+Mechanism of T cell activation : Role and functional relationship of HLA-DR antigens and inter-leukins .
+Immunol .
+Rev .
+63 : 73-110 .
+Pierce , J.W .
+, M. Lenardo , and D. Baltimore .
+1988 .
+Oligonucleotide that binds nuclear factor NF-B acts as a lymphoid-spe-cific and inducible enhancer .
+Proc .
+Natl Acad .
+Sci .
+85 : 1482-1486 .
+Rosenthal , A.S. and EM .
+Shevach .
+1973 .
+Function of macro-phages in antigen recognition by guinea pig T lymphocytes .
+J. Exp .
+Med .
+138 : 1194-1212 .
+1834 GENES & DEVELOPMENT Schatt , M.D .
+, S. Rusconi , and W. Schaffner .
+1990 .
+A single DNA-binding transcription factor is sufficient for activation from a distant enhancer and/or from a promoter position .
+EMBO J .
+9 : 481-487 .
+Shaw , J.P. , PJ .
+Utz , D.B .
+Durand , J.J. Toole , EA .
+Emmel , and GR .
+Crabtree .
+1988 .
+Identification of a putative regulator of early T cell activation genes .
+Science 241 : 202-205 .
+Siebenlist , U. , D.B .
+Durand , P. Bressler , N.J. Holbrook , C.A .
+Norris , M. Kamoun , J.A .
+Kant , and G.R .
+Crabtree .
+1986 .
+Promoter region of Interleukin-2 gene undergoes chromatin structure changes and confers inducibility on chloramphenicol acetyltransferase gene during activation of T cells .
+Mol .
+Cell .
+Biol .
+6 : 3042-3049 .
+Struhl , G. , K. Struhl , and P.M. MacDonald .
+1989 .
+The gradient morphogen bicoid is a concentration-dependent transcriptional activator .
+Cell 57:1259-1273 .
+Truneh , A. , F. Albert , P. Golstein , and A.M. Schmitt-Verhulst .
+1985 .
+Early steps of lymphocyte activation bypassed by synergy between calcium ionophores and phorbol ester .
+Nature 313 ; 318-320 .
+Tsai , S.Y .
+, MJ .
+Tsai , and B.W .
+O'Malley .
+1989 .
+Cooperative binding of steroid hormone receptors contributes to transcriptional synergism at target enhancer elements .
+Cell 57 : 443-448 .
+Veldman , G.M .
+, S. Lupton , and R. Kamen .
+1985 .
+Polyomavirus enhancer contains multiple redundant sequence elements that activate both DNA replication and gene expression .
+Mol .
+Cell .
+Biol .
+5 : 649-658 .
+Verweij , CL .
+, C. Guidos , and G.R .
+Crabtree .
+1990 .
+The binding site for NFAT { nuclear factor of activated T-cells } directs expression of SV40 T-antigen to activated lymphocytes in transgenic mice .
+J. Biol .
+Chem .
+265 : 15788-15795 .
+Weiss , A. and J.D .
+Stobo .
+1984 .
+Requirement for the coexpres-sion of T3 and the T cell antigen receptor on a malignant human T cell line .
+J. Exp .
+Med .
+160 : 1284-1299 .
+Weiss , A. , J. Imboden , D. Shoback , and J. Stobo .
+1984 .
+Role of T3 surface molecules in human T-cell activation : T3-depen-dent activation results in an increase in cytoplasmic free calcium .
+Proc .
+Natl .
+Acad .
+Sci .
+81 : 4169-4173 .
+Weiss , A. , R. Shields , M. Newton , B. Manger , and J. Imboden .
+1987 .
+Ligand-receptor interactions required for commitment to the activation of the interleukin 2 gene .
+J. Immunol .
+138 : 2169-2176 .
+Wiskocil , R. , A. Weiss , J. Imboden , R. Kamin-Lewis , and J. Stobo .
+1985 .
+Activation of a human T-cell line : A two-stim-ulus requirement in the pretranslational events involved in the coordinate expression of interleukin 2 and y-interferon genes .
+J. Immunol .
+134 : 1599-1603 .
+Yates , J.L .
+, N. Warren , and B. Sugden .
+1985 .
+Stable replication of plasmids derived from Epstein-Barr virus in various mammalian cells .
+Nature 313 : 812-815 .
+Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press > t N-t $ & Development Single cell assay of a transcription factor reveals a threshold in transcription activated by signals emanating from the T-cell antigen receptor .
+S Fiering , J P Northrop , G P Nolan , et al .
+Genes Dev .
+1990 , 4 : Access the most recent version at doi:10.1101/gad.4.10.1823 References _ This article cites 44 articles , 18 of which can be accessed free at : http : /genesdev.cshlp.org/content/4/10/1823.full.htmli # ref-list-1 License Email Alerting _ Receive free email alerts when new articles cite this article - sign up in the box at the top Service - `` ight corner of the article or click here .
+CRISPR KO , CRISPRa , CRISPRi libraries .
+VIEW PRODUCTS > CELLECTA Custom or genome-wide .
+Copyright © Cold Spring Harbor Laboratory Press

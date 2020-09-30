@@ -1,0 +1,513 @@
+THE JOURNAL oF BIOLOGICAL CHEMISTRY © 2001 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+276 , No .
+19 , Issue of May 11 , pp .
+16015-16023 , 2001 Printed in U.S.A. Oxidized Alkyl Phospholipids Are Specific , High Affinity Peroxisome Proliferator-activated Receptor y Ligands and Agonists* Received for publication , January 30 , 2001 , and in revised form , February 23 , 2001 Published , JBC Papers in Press , February 26 , 2001 , DOI 10.1074/jbc.M100878200 Sean S. Davies } § , Aaron V. Gopal K. Marathe1 ] , Kathleen A. Harrison** , Robert C. Murphy** , Jerald C. Hinshaw # ?
+$ } , Glenn D. Prestwich # ?
+# , Andy St. Hilaire ] , Stephen M. Prescott|§§ , Guy A. Zimmerman1 ] , and Thomas M. From the Departments of { Pathology , Internal Medicine , and ¢ # { Medicinal Chemistry , the Program in Human Molecular Biology and Genetics , the §§Huntsman Cancer Institute , University of Utah , Salt Lake City , Utah 84112 and the **Department of Pediatrics , National Jewish Medical and Research Center , Denver , Colorado 80206 Synthetic high affinity peroxisome proliferator-activated receptor ( PPAR ) agonists are known , but biologic ligands are of low affinity .
+Oxidized low density lipoprotein ( oxLDL ) is inflammatory and signals through PPARs .
+We showed , by phospholipase A , digestion , that PPARy agonists in oxLDL arise from the small pool of alkyl phosphatidylcholines in LDL .
+We identified an abundant oxidatively fragmented alkyl phospholipid in oxLDL , hexadecyl azelaoyl phosphatidylcholine ( azPC ) , as a high affinity ligand and agonist for PPARy .
+[ °HJazPC bound recombinant PPARy with an affinity ( Kd ( ﬂpp ) ~40 nM ) that was equivalent to rosiglitazone ( BRL49653 ) , and competition with rosiglitazone showed that binding occurred in the ligand-binding pocket .
+azPC induced PPRE reporter gene expression , as did rosiglitazone , with a half-maximal effect at 100 ny .
+Overexpression of PPARa « or PPARy revealed that azPC was a specific PPARy agonist .
+The scavenger receptor CD36 is encoded by a PPRE-responsive gene , and azPC enhanced expression of CD36 in primary human monocytes .
+We found that anti-CD36 inhibited azPC uptake , and it inhibited PPRE reporter induction .
+Results with a small molecule phospholipid flippase mimetic suggest azPC acts intracellularly and that cellular azPC accumulation was efficient .
+Thus , certain alkyl phospholipid oxidation products in oxLDL are specific , high affinity extracellular ligands and agonists for PPARy that induce PPAR-responsive genes .
+The transcription factor PPARy , `` in association with its 9-cis-retinoate-binding RXR partner , controls metabolic and * This work was supported by National Institutes of Health Grants HL44513 , HL 35217 , HL34303 , NS29632 , and HL 44525 , the Utah Centers of Excellence Program , and the Margolis Foundation .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertise-ment `` in accordance with 18 U.S.C .
+Section 1734 solely to indicate this fact .
+§ Current address : Division of Clinical Pharmacology , Vanderbilt University Medical Center , Nashville , TN 87282 .
+§§ H. A. and Edna Benning Professor of Human Molecular Biology .
+T1 To whom correspondence should be addressed : 4180 EIHG , 15 North 2030 East , University of Utah , Salt Lake City , UT 84112-5330 .
+Tel .
+: 801-585-0716 ; Fax : 801-585-0701 ; E-mail : tom.mcintyre @ hmbg.utah.edu .
+*The abbreviations used are : PPAR , peroxisome proliferator-activated receptor ; azPC , 1-hexadecyl-2-azelaoyl-sn-glycero-3-phosphocho-line ; TTA , tris tosylamine ; LDL , low density lipoprotein ; oxLDL , oxidized LDL ; PPRE , PPAR-response element ; RXR , retinoid X receptor ; HODE , hydroxyoctadecadienoic acid ; PG , prostaglandin ; 15-deoxy-PGJ , , 15-deoxy-A ' `` `` *-prostaglandin J , ; HPLC , high pressure liquid chromatography ; RP-HPLC , reversed phase HPLC ; PBS , phosphate This paper is available on line at http : //www.jbc.org cellular differentiation genes that contain variations of a cognate PPAR-response element ( 1 ) .
+PPARy , like other members of the broad nuclear hormone receptor family , undergoes a conformational change when it binds specific lipid ligands .
+This structural reorganization alters its associated proteins , releasing transcriptional inhibitors and recruiting transcriptional co-activators .
+The regulation of PPARy function is therefore controlled by lipid ligand binding .
+A number of synthetic ligands for PPAR are known .
+One of these , rosiglitazone ( BRL49653 ) , binds with high affinity and is widely prescribed as an insulin sensitizer in type II diabetes .
+However , defining relevant biologic ligands has been problem-atic .
+Several oxidatively modified fatty acids bind and activate PPARy , including 15-deoxy-A `` * `` *-prostaglandin J ; ( 15-deoxy-PGJ , ; ) , other arachidonate metabolites ( 2 , 3 ) , the linoleate derivatives 9-HODE and 13-HODE ( 4 ) , and several free fatty acids ( 5 , 6 ) .
+However , none of these are particularly potent agonists , and for some their presence at concentrations sufficient to activate PPARy can be questioned .
+For example , the oxygenated fatty acid products described above do not confer much advantage in potency over activation by free arachidonate ( 7 ) where a concentration of several micromolar is required to elicit a response .
+Moreover , the 9- and 13-HODEs and their peroxides found in oxidized LDL ( 8 ) or in skin exposed to the tumor promoter phorbol myristate acetate ( 9 ) are esteri-fied , yet only the free forms of these lipids , and not the intact phospholipids from these sources , are PPAR ligands ( 10 ) .
+Additionally , it is unlikely that the PPARy and PPARa agonist 15-deoxy-PGJ , ( 2 , 3 ) accumulates in vivo , and it now appears that little 15-deoxy-PGJ ; is actually present in commercial sources of this reactive and unstable lipid ( 11 ) .
+Oxidation of LDL creates unknown PPARy agonists ( 10 ) .
+This process also creates PPARa « ligands ( 12 , 13 ) , the bulk of which depend on liberation by phospholipase A ; to free fatty acid oxidation products ( 13 ) .
+PPARa « alters lipid metabolism , enhances lipid oxidation , and often dampens inflammatory events and signaling pathways ( 14 , 15 ) .
+PPARy has a distinct profile of activities as it promotes adipogenesis through differentiation of preadipocytes , and it may have a complex role in atherogenesis ( 1 , 16 ) .
+In part , its pro-atherogenic effects may occur through the formation of foam cells by stimulating CD36 expression ( 17 , 18 ) .
+CD36 is a member of the scavenger receptor family that promotes the uptake of oxidized LDL , driving macrophages to a lipid-surfeit state characterized by foamy fatty inclusions .
+Cells in atherosclerotic lesions express PPARy ( 19 , 20 ) , and buffered saline ; PAF , platelet-activating factor ; PC , phosphatidylcho-line ; FITC , fluorescein isothiocyanate .
+16015 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 16016 CD36 is induced by PPARy agonists present in oxidized LDL ( 10 , 18 ) .
+CD36 ligation and internalization of LDL particles oxidized by monocytes is blocked by an excess of oxidized phospholipids ( 21 ) , suggesting that one or more oxidized phospholipids is a CD36 ligand responsible for the internalization of oxLDL .
+Here we show that a complex lipid ( .e .
+a phospholipid ) formed by oxidative attack on a subclass of LDL phospholipids is effectively internalized by CD36 and is a high affinity , selective PPARy ligand and agonist .
+Alkyl phosphatidylcholines , which consist of a small portion of the LDL phosphatidylcholine pool ( 22 ) , are the sole precursors for these agonists because there is selectivity for the bond in both binding and PPRE reporter activation .
+We conclude that certain oxidized alkyl phospholipids define a new class of high affinity agonists for and because these are found in oxidized LDL , they may contribute to its biologic effects .
+EXPERIMENTAL PROCEDURES Materials-PAF was from Avanti Polar Lipids ; lyso-PAF ( 1-O-hexa- decyl-sn-glycero-3-phosphocholine ) , 9-cis-retinoate , pirinixic acid ( WY14643 ) , and 15-deoxy-PGJ , were from Biomol ; Rhizopus arrhizus lipase was from Roche Molecular Biochemicals and then Sigma ; [ ®HJrosiglitazone and rosiglitazone were from the American Radiola-beled Chemicals .
+ECL kits were from Amersham Pharmacia Biotech ; the SV40-B-galactosidase reporter was from Promega ( Madison , WI ) ; the CD36 reporter constructs with ( -278 ) and without ( -261 ) its PPRE ( 17 ) were constructed from its reported sequence ( 23 ) .
+The forward primers ( for CD86 - `` `` ) were 5'-GCGACGCGTCTGGCCTCTGACTTA-CTTGG-3 ' or ( CD86 -* ) 5-GCGACGCGTTTACTTGGATGGGAACTA-GCC-3 ' , and the reverse primer was TGCAGTCCTC-3 ' .
+The amplicon was inserted into pGL3b at the M/ul and BegIl sites .
+pGLSb was from Promega , and Probond Ni * beads were from Invitrogen .
+The blocking anti-CD86 antibody 185-1G2 , without azide , was from NeoMarkers ( Fremont , CA ) ; the FITC-conjugated anti-CD36 antibody CLB-IVC7 used for flow analysis was from Accurate Chemicals ( Westbury , NY ) ; and the anti-ICAM-3 antibody CAL8.10 ( BBA29 ) was from R & D Systems ( Minneapolis MN ) .
+The flippase mimetic I ( 24 ) tris ( tosylaminoethyl ) amine ( TTA ) was synthesized as described ( 25 ) .
+Oxidation and Analysis of LDL and Synthetic Phospholipids-LDL was oxidized with 20 um CuSO , at 37°C overnight , and oxidized phospholipids were purified by RP-HPLC ( 26 ) .
+A portion of the recovered fractions was treated with phospholipase A , as before ( 27 ) , exec-ept that the enzyme was from Sigma .
+The lipid azPC was synthesized from 1-O-hexadecyl-sn-glycero-3-phosphocholine ( hexadecyl lyso-PC ; after mild alkaline hydrolysis ; 0.5 N NaOH in methanol ; 4 h ; 24 °C ) and ( palmitoyl azela-oy1-PC ) was synthesized in a similar fashion from palmitoyl lyso-PC .
+After neutralization , purified lipid ( 2 mg ) was reacted with 10 mg of azelaic anhydride ( University of Utah Chemical Synthesis Facility ) in the presence of 1 mg of 4- ( N , N-dimethylamino ) pyridine in ine ( 4:1 ) for 36 h before purification by RP-HPLC .
+The mass of each synthetic phospholipid was determined by phosphorus analysis ( 28 ) .
+Mass spectroscopy of lipid oxidation products was performed as before ( 27 ) .
+[ PH ] Hexadecy ] azelaic phosphatidylcholine was synthesized from ( PerkinElmer Life Scienc-es ) and HPLC-purified in a similar fashion .
+Cell Preparation-Human monocytes were isolated by counter-cur-rent elutriation ( 29 ) and resuspended ( 1 X 10°/ml ) in Hanks ' balanced salt solution with 0.5 % human serum albumin and 10 ug/ml polymyxin B. Monocytes were added to plates coated with 10 ug/ml CAL3.10 anti-ICAM-3 monoclonal antibody ( 80 ) .
+CV-1 cells were obtained from ATCC and grown as suggested .
+Surface expression of CD36 on primary human monocytes was determined by allowing elutriated monocytes to adhere to anti-ICAMS-coated wells for 1 h before the cells were exposed to the lipid agonists , or not , as stated in the figures .
+Some cells were maintained in a suspended state by gently rocking on a platform rocker in polypropylene tubes as a control .
+Adherent cells were released from the plate by gentle agitation and scraping and washed three times in PBS containing 1 % goat serum .
+Recovered cells were stained with FITC-labeled anti-CD36 antibody CLB-IVC ?
+7 for flow analysis by the University of Utah flow analysis core facility .
+Plasmids-The acyl-CoA oxidase-luciferase plasmid was described previously ( 81 ) .
+Plasmids were transformed into TOP1OF ' Escherichia coli strain using the TA cloning kit .
+Plasmids from log phase cells were Oxidized Phospholipids Are PPARy Ligands isolated using a Bigger Prep kit ( 5 Prime - > 3 Prime , Inc. , Boulder , CO ) , and purified by CsCl gradients .
+The His-tagged PPARy was constructed similarly using the M13 primer in pCR2.1 that contained full-length PPARy1 and a primer ( 5'-CTA ATG ATG ATG ATG ATG ATG GTA CAA GTC CTT GTA G-3 ' ) containing the His , tag sequence .
+PPARy and PPARa expression plasmids were a gift from Beth Meade ( University of Utah ) .
+Inserts in all plasmids were sequence-verified by the University of Utah sequencing core facility .
+Transfection of Cultured Cells and Reporter Assays-When PPAR expression plasmids were co-transfected with a reporter construct , 0.5 ug of the relevant plasmid was combined with 1 ug of pGL3-PPRE and 0.1 ug of the SV40-B-galactosidase reporter to normalize transfection efficiencies .
+All transfections included 1-2 ug of total plasmid , and 5-10 ul of LipofectAMINE per ml of Opti-MEM .
+Transfection solution was added to CV-1 cells overnight and then removed , and agonist was added in fresh media for 18-20 h. [ °H|Rosiglitazone displacement from PPARy was determined with a carboxy His , -tagged molecule .
+Helia cells were transfected with pCR8.1-PPARy-His , or pCR8.1 for 21 h with LipofectAMINE and then grown ( 48 h ) .
+The cells were washed twice with PBS and lysed in PBS containing 0.1 % Triton X-100 and frozen at -70°C until used .
+Transfection with PPARy-His , was assessed by immunoblotting with anti-His , antibody ( Santa Cruz Biotechnology ) .
+Debris was removed from thawed samples , and 200 ul of lysate was incubated with 50 pl of Probond beads at 4 °C for 1 h in PBS .
+The beads were washed once by centrifugation before [ *H ] rosiglitazone , and then unlabeled competitor was added in a final volume of 800 ul of PBS .
+Samples were incubated with shaking for 3 h at 4 °C before washing three times with PBS and quantitating retained `` H. Binding of phosphatidylcholine to PPARy was performed in a similar fashion , although the amount of protein lysate was increased to account for its lower specific radioactivity .
+Accumulation of [ °HJazPC was estimated by incubating monolayers with carrier-free [ °HJazPC ( 22.9 Ci/ mmol ) for 30 min in the presence or absence of the lipids specified in the figure at a concentration of 10 uM ( except HPLC fraction 6 from oxLDL that was used at a concentration that maximally induced ACox reporter expression since there was insufficient material for phosphorus quan-titation ) .
+Some cells were preincubated for 30 min with 10 ug of the blocking anti-CD86 antibody 185-1G2 or an irrelevant IgG2Za isotype-matched control monoclonal antibody .
+RESULTS Oxidized Alkyl Phosphatidylcholines in Oxidized LDL Stimulate Luciferase Expression Under the Control of the Acyl-CoA Oxidase PPRE-We oxidized human LDL , extracted the lipids , and separated nonpolar lipids ( which we found to have no activity in this assay ; not shown ) from the polar phospholipid oxidation products .
+We separately examined these polar phos-pholipid-containing fractions as agonists using CV-1 cells that had been transiently transfected with an acyl-CoA oxidase PPRE-firefly luciferase reporter construct and SV40-B-galactosidase to normalize for transfection efficiency .
+These purified polar phospholipids stimulated luciferase transcription under the control of this PPRE ( Fig .
+1 ) , and this activity was concentrated in RP-HPLC fraction 6 .
+We found this material to be as effective an agonist for PPAR-induced transcription as rosiglitazone ( BRL49653 ) , and a synthetic oxidized phospholipid ( azPC ) is discussed in detail below .
+Fig .
+1 shows that an equivalent fraction from the same batch of LDL that had not been oxidized contained little stimulatory activity .
+Oxidation of LDL creates oxidized phosphatidylcholines that are potent inflammatory agents because they structurally resemble PAF and activate the cloned receptor for PAF .
+Oxidized phospholipids of this class are all derived from the small pool of alkyl phosphatidylcholines in LDL ( 22 ) that are resistant to phospholipase A ; , digestion ( 27 ) .
+To determine whether the oxidatively generated agonists that induce transcription from a PPRE reporter construct also fall into this class , we digested the fractions isolated by HPLC with phospholipase A ; .
+This removes the oxidized diacyl phospholipids , derived from the 99.5 % of LDL phospholipids that have an sm-1 ester bond , as assessed by phosphorus analysis ( not shown ) .
+Phospholipase A ; digestion had no effect on the ability of the fractions isolated from oxidized LDL to 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Oxidized Phospholipids Are PPARy Ligands 450 ; [ ] Unoxidized 400 [ ] Oxidized ( § Ox + PLA ; ACox-luciferase Normalized RLU No Pl o 100 Buffer Rosi AzPC HPLC Fraction Agonist Fic .
+1. oxLDL contains PPRE agonists that are resistant to phospholipase A , digestion .
+CV-1 cells were transiently transfected with a luciferase reporter under the control of the PPRE from acyl-CoA oxidase and an SV40-B-galactosidase plasmid to normalize transfection efficiency .
+These cells were then treated for 18 h with buffer , 1 uM rosiglitazone ( Rost ) ( BRL49653 ) , 1 uM of the synthetic oxidized phospholipid azPC , or equivalent volumes of HPLC fractions of lipids extracted from native or oxidized ( Ox ) human LDL .
+Each reporter was then assayed as described under `` Experi-mental Procedures `` and their ratio calculated .
+Polar phospholipids contained in Cu `` -oxidized LDL were purified by RP-HPLC , and the fractions eluting at min 6-8 were collected ; the solvent was removed by a stream of N ; ; and the remaining lipids were resuspended in Hanks ' balanced salt solution/A by a brief sonication .
+Polar phospholipid oxidation products with PAF-like activity elute at min 5 and 6 and PAF elutes in fraction 7 ( 27 ) in this system .
+An aliquot of the polar phospholipids isolated from oxidized LDL was treated with phospholipase A ; and re-extracted prior to inclusion in the assay .
+Data are presented as the range of two determinations and represent results of two separate experiments .
+16017 stimulate luciferase expression from the PPRE-reporter construct ( Fig .
+1 ) , indicating that only alkyl phosphatidylcholine oxidation products were effective agonists in this assay .
+Azelaoyl Phosphatidylcholine Is a Prominent Oxidation Product in Oxidized LDL-We determined which alkyl phosphatidylcholine oxidation products were present in oxidized LDL by resolving the phospholipase A , -treated phospholipids by reversed phase HPLC and examining these by electrospray tandem mass spectroscopy as precursors of the phosphocholine ion m/z 184 .
+An abundant ion in the HPLC effluent was observed at m/z 652 ( Fig .
+20 ) , potentially corresponding to 1-O-hexadecyl-2-azelaoyl-sn-glycero-3-phosphocholine ( azPC ) .
+This component was maximal in RP-HPLC fraction 6 ( Fig .
+2 , inset ) , whereas the C , -PAF analogs were most abundant in fractions 7 and 8 , as reported previously ( 27 ) .
+A structurally unique diagnostic product of sm-2 ©-carboxyl glycerophosphocholine lipids is the collision-induced rearrangement of a methyl group and decomposition to a monomethyl acid and dimethyl lyso-PC ( 82 ) .
+Proof that azPC was present was obtained by collision-induced decomposition of the corresponding [ M - HJ~ of m/z 650 ( Fig .
+2b ) that yielded the expected product ions at m/z 201 and 466 corresponding to monomethyl azelaic acid and the dimethyl lyso-PAF adduct resulting from the loss of the sm-2 methylazelaoyl ketene .
+azPC is therefore an abundant oxidation product of LDL alkyl phosphatidylcholines .
+We confirmed this deduction by synthesizing azPC and finding that synthetic azPC produced the same fragmentation pattern as the material isolated from oxidized LDL ( not shown ) .
+Synthetic Hexadecyl Azelaoyl Phosphatidylcholine Is a High Affinity Ligand for PPARy-We experimentally determined a Fraction 6 +V 100 e Fic .
+2 .
+Identification of hexadecyl azelaoyl phosphatidyleholine in oxidized LDL .
+a , electrospray tandem mass spectroscopy of precursor-positive ions that yield m/z 184 ions ( phosphocholine cation ) in oxidized LDL .
+LDL was oxi-dized , the phospholipid fraction collected by aminopropyl chromatography , and treated with phospholipase A , .
+The unhy-drolyzed alkyl polar phospholipids were re-extracted , resolved by RP-HPLC , and collected as they eluted from the column as in Fig .
+1 .
+Mass spectral analysis of a Relative Abundance portion of each fraction revealed the pop- 544.4 ulation of [ M + HJ* ions derived from phosphatidylcholine or sphingomyelin generated by electrospray ionization included m/z 652 , the expected [ M + HJ~* for azPC , as a predominant component of RP-HPLC fraction 6 .
+Inset , abundance of [ M + HJ~ ions derived from azPC ( m/z 500 652 ) and C , -PAF ( m/z 552 ) during flow injection analysis of fractions collected during RP-HPLC separation of oxidized LDL phospholipids .
+b , product ions ob- b tained following collision-induced decom- position of the corresponding negative ion [ M - HJ~ at m/z 650 revealed the diag- nostic carboxylate anion m/z 201 corre- sponding to the monomethyl ester of aze- laic acid and the dimethyl lyso-PAF anion at m/z 466 formed by loss of the smn-2 substituent as a ketene .
+100 ~Ve Relative Abundance 544 MS/MS m/z 650.4 - ch , 0 652 622 Fraction : _ 6 7 8_ _9 _ 10° 719 | 19,029 706 K azPC m/z 652.5 666 T K ( 16,844 596 C4-PAF m/z 552.4 783 Come 600 ~ 700 soo _ _ 900 201 azPC_ [ M-H ] o 201 043/01 eso I CH3 0 P'CHS 15 +H © _ on , 1425 16° 394 591 ‘ 311 466 ‘ ‘ : HM nh atl bar sagen foe itioint oll ‘ 22 uae .
+il .
+ca aul 100 200 300 400 500 600 m/z 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 16018 120 100 { 80 60 40 1 [ 3HJazPC bound ( pmol ) 20 0 200 400 600 Lysate Amount ( jil ) 1400 1200 1000 800 600 400 Agonist Bound ( fMoles ) 200 /_ITI ' I ' I ' I— 0 0.05 0.1 015 0.2 15 2.0 azPC Concentration ( uM ) © 420 - @ - azPC 100 1 -- Rosi 80 40 { Agonist Bound ( fMoles ) 20 T T 0 0.5 1 1.5 2 Agonist Added ( BH pMoles ) Fic .
+3. azPC is a high affinity ligand for PPARy .
+a , [ *HJazPC binds to immobilized full-length PPARy .
+Lysates were prepared from HeLa cells transiently transfected with plasmid pCR3.1-PPARy-His , or pCR3.1 , and the ectopic protein from the stated amount of lysate was immobilized on Ni* beads .
+Charged or uncharged beads were incubated with [ °H ] azPC before the beads were recovered and washed , and associated radioactivity was quantitated by liquid scintillation counting .
+6 , [ ®HJazPC binding to immobilized PPAR as a function of azPC concentration .
+hPPARy , -His , immobilized on Ni* beads was incubated with the stated concentration of azPC before bound material was quantitated as above .
+The range of duplicate points from 1 of 8 representative experiments is presented .
+c , direct comparison of [ °HJazPC and [ *HJ ] ro-siglitazone binding at low concentrations .
+The amount of carrier-free or whose concentrations were calculated from their specific radioactivity , retained by immobilized PPARy , -His , was determined as in the above experiments .
+whether a complex lipid like azPC could function as a ligand for PPARy .
+We synthesized [ °HJhexadecyl azelaoyl phosphatidylcholine ( [ °HJazPC ) and incubated it with full-length recombinant human PPARy , ; .
+The PPARy in transfected Hela cell lysates was immobilized on Ni * beads through an introduced His , tag , so tight binding could be assessed after collecting and washing the beads .
+We found ( Fig .
+30 ) that [ °HJazPC bound to PPARy , and that this binding was dependent on the concen- Oxidized Phospholipids Are PPARy Ligands tration of immobilized hPPARy ; , .
+We next varied the concentration of [ °HJazPC to establish its apparent affinity for PPARy under these conditions .
+We found that the binding of [ ®HJazPC was concentration-dependent and that its apparent affinity was ~40 nm ( Fig .
+3b ) .
+However , we also found that different lysates provided different apparent affinities , perhaps reflecting a similar wide disparity in reported apparent affinities for rosigitazone ( 2 , 33 , 34 ) .
+To determine better whether azPC bound PPARy as effectively as rosigitazone , we directly compared PHJazPC binding with [ 3H ] rosig1itazone binding at low concentrations and found ( Fig .
+3¢ ) that [ °HJazPC binding precisely mirrored the binding of [ °H } rosiglitazone to immobilized PPARy1 .
+Synthetic azPC Interacts with the Ligand-binding Pocket of PPARy-Rosiglitazone co-crystallizes with the ligand-binding domain of PPARy ( 35 , 36 ) in the ligand-binding pocket , so displacement of [ °HJrosiglitazone tests binding in this pocket .
+We found ( Fig .
+40 ) that azPC displaced the standard ligand [ PHJrosiglitazone in a concentration-dependent fashion and that the concentration relationship of this competition was identical to that of unlabeled rosiglitazone .
+azPC bound PPARy only through this ligand-binding pocket because this competition with rosiglitazone was complete .
+We examined the effect of other lipids as competitors at 6.7 uM where azPC and rosiglitazone competition was complete and found ( Fig .
+45 ) that PAF and 15-deoxy-PGJ ; , could only displaced about a third of the [ PHJrosiglitazone at this concentration .
+Free azelaic acid , like arachidonate , was an ineffective competitor .
+We performed the converse experiment where unlabeled rosiglitazone or azPC was used to displace [ PHJazPC bound to immobilized PPARy .
+We found ( Fig .
+4¢ ) that unlabeled rosiglitazone displaced nearly all of the [ PHJazPC from PPARy as its concentration was increased , just as unlabeled azPC displaced this bound [ °HJazPC .
+We tested other lipids for their ability to displace [ °HJazPC and found ( Fig .
+4d ) that PAF , and to a lesser extent lyso-PAF , was a modest competitor , but that 9-HODE or 13-HODE were unable to displace bound [ PHJazPC .
+We tested palmitoyl azelaoyl-PC , the diacyl homolog of hexadecyl azelaoyl PC , as a PPARy ligand , and we found it to be 10-100-fold less potent as a competitor ( not shown ) .
+azPC Is a Potent Agonist for PPAR-responsive Elements-azPC was a ligand for PPARy , so we next determined whether it was an agonist .
+We transfected CV-1 cells with a luciferase reporter under the control of the PPRE from acyl-CoA oxidase , along with SV40-§-galactosidase as a transfection control , and then treated the cells with rosiglitazone , synthetic azPC , or 9-cis-retinoate to activate RXR .
+Rosiglitazone induced a 3.4-fold increase in reporter expression , and azPC induced a 3.9-fold increase ( Fig .
+5a ) in this assay .
+Fig .
+1 presented a similar result where azPC induced a 3.9-fold increase in ACox reporter expression .
+Activation of just the RXR subunit with 9-cis-retinoate , which can act as a phantom ligand ( 37 ) , was not as effective as either PPARy ligand in stimulating reporter expression .
+We compared the concentration-response relationship of azPC and its acyl analog with rosiglitazone as PPARqy agonists .
+CV-1 cells were transfected with the ACox reporter and SV40-B-galactosidase for normalization , and we then treated with increasing concentrations of azPC , diacyl azPC , or rosiglitazone .
+We found that azPC induced a concentration-dependent increase in reporter expression starting by about 10~® x ( Fig .
+5b ) .
+Half-maximal activation occurred by 10 ~ `` mM , and maximal expression was achieved by 1 um .
+Rosiglitazone also induced a concentration-dependent increase , and this relationship was identical to that of azPC .
+We also examined the diacyl homolog of azPC , 1-palmitoyl-2-azelaoyl-sm-glycero-3-phosphocholine , 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Oxidized Phospholipids Are PPARy Ligands a ; b azPC 6 - = === Rosi n 0 5 4 po-o / ” \/\/\/\/ < 0_ [ BH ] Rosi Retained ( dpm x 10° ) t | Relative Rosi Displacement ( % ) 0 T I 0 5 10 Competitor ( x1 o-6 M ) C 7 d === azPC _L 6 === « Rosi be = x g 5 o. I 3 4 ( -ic © tC 3 o a. N & < 2 Z C 1 0 7 T T o 5 10 Competitor ( x10°5 M ) _s o a at I [ BHJAzPC Retained ( dpm x 103 ) 16019 No to & I I I 1 1 -x 1 Neg azPC Rosi Lyso- PAF PAF 13- 9-HODE HODE Competitor Agonist Fic .
+4. azPC competes for rosiglitazone ( Rosi ) binding in the PPAR » ligand-binding pocket .
+a , azPC displacement of [ *H } rosiglitazone from PPARy .
+( 0.33 nM ) was mixed with the stated concentration of unlabeled rosiglitazone or azPC before the amount of retained by immobilized PPARy was determined .
+An excess ( 18.6 uM ) of unlabeled rosiglitazone in these transfected Chinese hamster ovary cell lysates reduced binding to the level of untransfected cells .
+b , azPC is a preferred PPARy ligand .
+Competitive displacement of [ ®HJrosiglitazone from Ni*-bound PPARy was determined with an excess ( 6.7 pM ) of the stated compound .
+c , azPC binds to immobilized PPARy and is equally displaced by rosiglitazone or unlabeled azPC .
+The stated concentration of azPC or rosiglitazone was incubated with His , -PPARy that had been mixed with [ °HJazPC before the amount of retained radiolabel was determined as above .
+d , lipid displacement of azPC is selective .
+Interference of [ °HJazPC binding to PPARy was analyzed as in b with an excess ( 6.7 uM ) of the stated lipid .
+Neg , negative .
+as an agonist ; we found that it was about 100-fold less effective than azPC and only began to elicit an effect at 10 um .
+azPC Is a Specific PPARy Agonist-We determined the spec-ificity of azPC as a PPARy agonist by transfecting CV-1 cells with PPARa « or PPARy expression plasmids in addition to the ACox reporter and an SV40 -galactosidase transfection control .
+Rosiglitazone induced an 8-fold increase in reporter expression in this experiment ( Fig .
+6 ) in untransfected cells that rely on their endogenous PPARs .
+This was a more robust response than the 5.3-fold increase induced by the PPARa-selective agonist WY14643 or the 5-fold increase induced by azPC in these control cells .
+When PPARy was overexpressed in these cells , the response to rosiglitazone was markedly enhanced ( a 25-fold induction ) , as was the response to azPC ( an 18-fold induction ) .
+In contrast , overexpression of PPARa failed to enhance the existing response to either azPC or rosiglitazone .
+The ectopic PPARa was functional because the PPARa-selective agonist WY14643 enhanced expression in cells overexpressing PPARa and not in cells transfected with PPARy .
+CD36 Is Induced by azPC through Its PPRE-We determined whether endogenous PPAR-regulated genes were induced by azPC , and for this we chose CD36 , a scavenger receptor that binds and internalizes oxidized LDL particles .
+Intriguingly , transcription of CD36 in monocytes is stimulated by unknown ligands associated with oxidized LDL ( 10 , 18 ) .
+We exposed adherent primary human monocytes to rosiglitazone , and we found that it increased the surface expression of CD36 as expected ( Fig .
+7a ) .
+There was an equivalent enhancement of CD36 surface expression when monocytes were exposed to synthetic azPC .
+Additionally , we found that HPLC fraction 6 of oxidized LDL was just as effective as azPC and rosiglitazone in enhancing CD36 surface expression .
+Finally , we found that just adhesion and spreading of the monocytes in the absence of one of these ligands had no effect on surface CD36 expression .
+We determined whether azPC stimulated CD36 transcription by using CD36 promoter-reporter constructs that either contained its PPRE at position -273 ( pCD36~* `` ° ) or lacked this element ( pCD36 *** ) .
+We found ( Fig .
+76 ) that rosiglitazone 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 16020 a 3 800 ml é 700 8 600-G E soo o Z & 400 K3 § soo § 200 % § 100 } \ < 0 Buffer Rosi azPC RA b 5 Rosi -=- azPC 47 -~ .
+acyl azPC Fold induction 0 0 0.001 - 0.01 _ 04 1 10 Agonist ( uM ) FiG .
+5. a , azPC fully stimulates reporter expression controlled by acyl-CoA oxidase PPRE .
+CV-1 cells were transfected with the acyl-CoA-oxidase-PPRE-luciferase ( ACox ) reporter construct along with SV40-6-galactosidase to normalize transfection efficiency .
+After 1 h of recovery , these cells were treated for 18 h with 200 nM rosiglitazone ( Rosi ) , 200 nM azPC , or 1 uM O-cis-retinoate ( RA ) .
+Firefly luciferase and SV40-B-galactosidase activities in the cellular lysates were determined , and the data are presented as this normalized ratio .
+b , azPC stimulation of normalized ACox-luciferase expression is concentration-dependent .
+CV-1 cells were transfected with ACox-PPRE-luciferase and SV40-B-galactosidase and then stimulated for 24 h with buffer , or the stated amount of synthetic azPC , diacyl azPC , or rosiglitazone .
+These are representative results from one of two experiments .
+I +PPARy 35 [ _ ] Buffer 30 | R Rosi [ Z azPc 25 |C wyi4e4s 20 15 10 5 0 PPRE +PPARa Normalized Relative Light Units ( x103 ) Fig .
+6. azPC is a selective PPARy agonist .
+CV-1 cells were transfected with acyl-CoA oxidase-PPRE-luciferase and SV40-B-galactosidase without or with co-transfection with PPARa or PPARy expression plasmids .
+These cells were then exposed to buffer , 1 uM rosiglitazone ( Rosi ) , or azPC , or 5 uM WY14648 for 24 h before the ratio of luciferase to B-galactosidase was determined as before .
+These results are representative of two separate experiments .
+enhanced pCD36 * `` `` reporter expression in CV-1 cells through endogenous receptors by nearly 3-fold and that exposure to azPC produced an identical response .
+This induction did not occur when we used pCD36 *** that lacked the PPRE .
+We next co-transfected these cells with RXR , PPAR « , or both RXR and PPARa expression plasmids , and we found that forced expres- Oxidized Phospholipids Are PPARy Ligands sion of these nuclear hormone receptors did not substantially alter these results .
+However , when the cells were co-transfected with PPARy , either alone or in combination with RXR , the induction of pCD36~* `` `` ° by rosiglitazone was markedly enhanced .
+The response of the pCD36 ** reporter plasmid to azPC was equally augmented by overexpression of PPARy .
+This augmentation only occurred when the reporter construct contained the PPAR-responsive element , so activation of PPARy , and not PPARa « , by azPC stimulates CD36 expression via this PPRE .
+CD36 Aids in the Uptake of Extracellular azPC-CD36 translocates entire oxidized lipoprotein particles into cells , apparently by binding to incorporated oxidized phospholipids ( 21 ) .
+We determined whether CD36 also transports extracellular oxidized phospholipids not incorporated into a lipoprotein particle .
+We found that human monocytes accumulated PHJazPC and that this accumulation was reduced by excess unlabeled azPC or the polar phospholipids isolated from oxidized LDL ( Fig .
+8a ) .
+Excess PAF was less effective in blocking PHJazPC accumulation and inhibited about half of the PHJazPC accumulation .
+The blocking anti-CD36 antibody 185-1G2 also blocked half of the specific accumulation of [ °H ] azPC , whereas an isotype-matched control monoclonal antibody had no effect .
+We next transfected CV-1 cells with the ACox PPRE reporter plasmid and then treated the cells with the blocking anti-CD36 antibody prior to exposing these cells to azPC or the stimulatory polar phospholipids purified from oxidized LDL .
+We found ( Fig .
+8b ) that the inhibitory monoclonal antibody 185-1G2 effectively blocked the induction of the reporter in response to either azPC or the polar phospholipids isolated from oxidized LDL .
+This effect did not extend to all lipids as luciferase expression in response to rosiglitazone was not inhibited by the monoclonal antibody .
+Extracellular azPC Has Ready Access to Intracellular PPARy-Our results suggest that azPC is a direct agonist for PPARy , but it might be argued that azPC activates a surface receptor whose signal induces the synthesis of the true intracellular ligand for this nuclear receptor .
+In this case , enhancing intracellular access of azPC should have no effect on reporter induction .
+We tested this postulate with the small molecule flippase mimetic TTA ( Fig .
+90 ) that facilitates anionic phospholipid flip-flop ( 24 ) .
+We found that TTA had no effect of its own on ACox reporter expression in CV-1 cells ( not shown ) but that it doubled the 1.7-fold induction of the acyl-CoA oxidase reporter induced by azPC alone ( Fig .
+9b ) .
+This enhancement in azPC activity by TTA was concentration-dependent with little sign of toxicity up to 37 uM , the concentration used to study vesicular transport ( 24 ) .
+This cationic lipid also doubled reporter expression when the extracellular agonist was an intact oxidized LDL particle ( Fig .
+9¢ ) , suggesting that it can exchange agonists from these particles as well .
+This is not the anticipated result if gene induction depended on signaling from an externally disposed plasma membrane receptor for azPC .
+We conclude from this , first that the flippase mimetic aids azPC penetration into cells and thereby enhances transcription by nuclear PPARy .
+Second , we conclude that because the enhancement was quite modest that azPC transport already occurs at a rate that supplies near-maximal amounts of extracellular azPC , or oxidized ligands in oxidized LDL particles , to intra- cellular PPARy .
+DISCUSSION Our findings show that oxidatively modified phosphatidylcholines from oxidized LDL are high affinity ligands and agonists for PPARy .
+We find that there is a distinct selectivity for an sn-1 ether bond in both binding to PPAR~y and its activation by oxidized phospholipids .
+The selective recognition of the sn-1 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Oxidized Phospholipids Are PPARy Ligands a 120 16021 Counts Fic .
+7 .
+CD36 is induced by azPC through its PPRE .
+a , azPC enhances CD36 surface expression in primary human monocytes .
+Monocytes freshly isolated by elutriation were allowed to ad 120 Unactivated azPC Counts here to anti-ICAM8-coated wells and then incubated with buffer , 1 uM azPC , rosiglitazone ( Rosi ) , or with fraction 6 of HPLC-purified polar phospholipids derived from 120 C > : u 0 - 103 10 `` 2 103 10 `` 10 FL-1 Height 102 FL-1 Height oxidized LDL .
+After overnight incubation , these cells were released from the plate 100 4 and stained with FITC-labeled anti-CD36 antibody CLB-IVC7 .
+The upper left panel shows that adhesion alone was not stimulatory as CD36 expression by unactivated cells held in suspension was the 40 1 same as those allowed to adhere to anti-ICAMS-coated surfaces .
+b , azPC stimulates CD36 transcription through a PPRE o 3 80 1 60 4 Counts Rosi OxLDL Fxn 6 Counts Agonist 4 Agonist idl and PPARy .
+CV-1 cells were transfected with a CD36 promoter-luciferase reporter that contained its PPRE ( CD36~*'° ) or one that did not ( CD36- `` ° `` ) .
+All cells were co-transfected with SV40-B-galactosidase , b aa o 10 `` 102 103 10 `` 102 103 FL1 Height FL-1 Height and some cells were additionally transfected with expression plasmids encoding RXRa , PPARa , or PPARy .
+The cells were then treated for 16 h with 1 uM rosiglitazone or azPC before the ratio of luciferase to B-galactosidase was determined and normalized to buffer-treated cells .
+These results are representative of a separate experiment .
+Normalized Fold Increase 6 - mn @ a a o ~ o w ether bond means that the LDL precursors of these high affinity ligands are derived from the half percent or so of alkyl phosphatidylcholines in the pool of LDL phosphatidylcholine ( 22 ) .
+One prominent oxidation product of this subclass was as potent as the synthetic high affinity ligand rosiglitazone .
+PPARy is a ligand-dependent transcriptional activator where the known ligands are lipids with a remarkably wide range of structures .
+Crystallography reveals a large hydropho-bic ligand cavity that is only 25-40 % occupied by rosiglitazone ( 35 , 36 ) , suggesting that a variety of structures might be able to be accommodated by this pocket .
+azPC bound PPARy in a way that was saturable and was completely displaced by rosiglitazone .
+This latter attribute strongly suggests that azPC binds in the ligand-binding pocket .
+We did not established the K , , for azPC through a Scatchard analysis , because we do not have sufficient immobilized protein for quantitation , but rather have established its apparent binding constant .
+The value we obtained for an apparent affinity of azPC for PPARy was around 40 nM , but we also found variation in this number using lysates from other transfections .
+More relevant was our observation that in a direct comparison there was no discernible difference between [ 3H ] rosiglitazone and PHJazPC binding .
+The affinity of rosiglitazone itself for PPARy is subject to variability in the literature ranging from 40 to 60 nM for the displacement of [ °H ] SB-236636 ( 88 ) to 200 nx for the displacement of [ 3H ] rosig1itazone ( 39 ) .
+These competitive displacement values span the range of values reported for the actual binding constant for rosiglitazone to PPARy , where the K , ranges from 40 ( 83 ) to 100 ( 84 ) to 325 nm ( 2 ) .
+| C Rosi CD36.273 WLFLJEJELHQ I azPC CD36.273 ® Rosi CD36.251 C azPC CD36.251 None RXR PPARG : RXR/ PPARYy RXR/ Agonist PPARa PPARy azPC binding to PPARy was a property of the whole anionic phospholipid structure , because free and unesterified azelaic acid did not compete for rosiglitazone binding .
+However , not all polar alkyl phosphatidylcholines interact well with PPARy because PAF was a poor ligand that failed to induce PPRE reporter expression .
+Nevertheless the sm-1 ether bond is an important structural determinant because the diacyl homolog of azPC was a poor ligand ( not shown ) and an even less effective agonist that only began to induce PPRE reporter function by 10 uM .
+This selectivity for the sm-1 ether bond is the basis for our observation that phospholipase A , treatment of the mixed oxidized phospholipid products generated by LDL oxidation did not detectably reduce PPRE reporter activity .
+The diacyl azPC analog will be formed in parallel with alkyl azPC during LDL oxidation ( 40 ) and in about 200-fold greater abundance ( 22 ) .
+However , the results with phospholipase A ; show this numerical advantage still is not sufficient to contribute to PPARy activation by oxidized LDL .
+When considering the importance of the sm-1 bond , it is important to note that commercial preparations of lysophosphatidylcholines , used in the preparation of diacyl phosphatidylcholines with specific sn-2 residues , are variably contaminated with alkyl species . ``
+This can contribute to the apparent activation of PPARy by oxidized synthetic diacyl phosphatidylcholines , so the material we used to synthesize the diacyl homolog of azPC was first 2 G. K. Marathe A. Silva , H. C. C. F. Neto , L. W. T. Joelker , S. M. Prescott , G. A. Zimmerman , and T. M. Mcintyre , submitted for publication .
+610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 16022 a 10 £ 8 x o A 6 C T C S 4 0 m 2. i C c None _ azPC oxLDL PAF anti-CD36 1gG2c Fxn 6 b a 4 DACOX 1 ACox + 5 Danti—Cosﬁ 3+ 3 k- ] £ k- ] £ *I u 4 8 c ) E 11 6 2 G 0 Neg Rosi azPC OxPL Fic .
+8 .
+CD36 aids azPC accumulation and induction of ACox PPRE-driven transcription .
+a , [ °H ] azPC accumulation is blocked by anti-CD86 antibody .
+Monocytes were incubated with [ °HJazPC for 30 min without or with the addition of the stated lipids at a concentration of 10 pM .
+Some cells were preincubated with 10 ug/ml blocking 185-1G2 anti-CD36 antibody or an isotype-matched IgG2a control antibody .
+6 , inhibition of CD86 function inhibits azPC-induced PPRE-controlled luciferase expression .
+CV-1 cells were transfected with ACox-luciferase and SV40-G-galactosidase as above and then treated with the CD36 blocking antibody 185-1G2Z prior to addition of 1 uM rosiglitazone ( Rosi ) , azPC , or intact oxidized LDL particles .
+The fold induction of the normalized luciferase to B-galactosidase was determined as before , and this experiment represents the results of an independent experiment .
+Oxidized Phospholipids Are PPARy Ligands purified to avoid this spurious effect .
+Oxidation of LDL creates phosphatidylcholines with fragmented s » -2 residues , some with an « -carboxylate function ( 40 , 41 ) .
+These oxidation products are found in human plasma ( 42 ) and atherosclerotic lesions ( 43 ) .
+PPARy , in contrast to PPARa , is aberrantly expressed in atherosclerotic lesions ( 20 ) and co-lonic tumors ( 44 ) , which provide phospholipid oxidation products with the potential to alter the complement of genes expressed in such areas .
+Certain synthetic diacyl phospholipid oxidation products modestly activate PPARa function ( 12 ) .
+However , PPARa activation by oxidized phospholipids depends on phospholipase A , activity ( 13 ) , suggesting that the oxidized free fatty acid products of this reaction are the actual ligands for PPARa .
+By contrast , we show PPARy to directly bind intact , and only intact , oxidized phospholipid .
+The ability of azPC to drive PPRE-reporter constructs at submicromolar concentrations shows that it readily crosses cellular membranes , apparently with minimal metabolism , to selectively activate this nuclear receptor .
+Uptake of the intact phospholipid was a property of CD36 .
+CD36 is a type B scavenger receptor that can account for up to half the binding , internalization , and degradation of oxidized LDL by human macrophages ( 45 ) .
+Expression of this receptor is induced by PPARqy agonists in oxidized LDL ( 10 , 18 ) .
+CD36 recognizes the lipid portion of oxidized LDL ( 45 ) , and diacyl-oxidized phospholipids interfere with this uptake ( 21 ) , suggesting that CD36 binds phosphatidylcholine oxidation products .
+Here we show that it also internalized at least one of them , and we find that azPC induction of nuclear transcription from the PPRE reporter was CD36-dependent .
+We conclude that the synthetic oxidized phosphatidylcholine was transported as an intact molecule because any hydrolysis and resynthesis likely would have generated the inactive diacyl species from cellular lysophosphatidylcholine .
+We determined whether azPC uptake was limiting using TTA , a lipophilic tridentate phosphate chelator ( 25 ) that increases the rate of anionic phospholipid flip-flop across unila-mellar vesicles ( 24 ) .
+Our experiments represent the first use of this class of agents in living cells , and we found TTA to double reporter expression by azPC or intact oxidized LDL .
+There were two notable results here .
+One was that the effectiveness of .
+AzPC ® £ Fic .
+9 .
+The flippase mimetic TTA g. I N ( CHa ) a modestly improves azPC induction of -X ik e PPRE reporter expression .
+a , TTA ” Ck/NH `` Dig complexed with azPC .
+The proposed interaction of TTA and azPC is based on the proposed interaction with lipid phos-phodiesters ( 24 , 25 ) .
+TTA transports anionic phospholipids across membrane bi- a-layers ( 24 ) and should circumvent cellular transport mechanisms .
+b , TTA affects azPC-induced gene expression .
+CV-1 cells were transfected with the ACox-luciferase reporter and stimulated with 200 nM azPC as described in Fig .
+5 .
+This fixed amount of azPC was preincubated with the stated concentration of the flippase mimetic I ( TTA ) , and its effect on activa- & Mat » ( RXR .
+is -*~ ( __Gene 5 , Flippase Mimetic I tion of the ACox-luciferase reporter was 5 then determined as above .
+c , TTA improves azPC and intact oxidized LDL induction of ACox-luciferase expression .
+CV-1 cells were transfected with the ACox-luciferase reporter and treated with 200 nM azPC or an equivalent amount of oxidized LDL with or without the addition of 10 um TTA .
+Luciferase was assayed as A-Cox Luciferase D Agonist 30 [ Z ] + Flippase 20 ( RLU x 103 ) 10 before , and an independent experiment 0 confirmed these findings .
+0 10 20 30 40 ACox-luciferase Induction o Buffer azPC oxLDL Flippase I Concentration ( uM ) 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Oxidized Phospholipids Are PPARy Ligands azPC was enhanced by the flippase mimetic .
+This suggests that azPC , and lipids in oxidized LDL , directly activates PPARy rather than some secondary intracellular messenger produced after an initial interaction of azPC with an unknown surface receptor .
+The second key observation was that TTA only doubled reporter activity .
+If cellular uptake of exogenous azPC had been severely limiting , then circumventing this step should have markedly enhanced reporter induction .
+Since it did not , it is fair to conclude that azPC entry into cells is relatively efficient .
+Oxidative stress arises from a number of sources , from exuberant inflammatory reactions to ionizing radiation .
+Reactive oxygen species and the oxidized LDL generated by them are postulated to initiate and maintain an inflammatory state in the vascular wall during atherogenesis ( 46-48 ) .
+LDL oxidized ex vivo , like the oxidized particles obtained from atherosclerotic plaques ( 49 ) , contains inflammatory lipids that increase the atherogenicity of these particles .
+Similarly , oxidized LDL in the circulation ( 42 , 50 ) or in atherosclerotic plaques ( 43 ) also contains fragmented and oxidatively modified phospholipids ( 26 , 40 , 43 ) .
+Some of these are agonists for the PAF receptor ( 27 , 51 ) .
+Here we show that others are high affinity ligands and activators of PPARy .
+This establishes a new link connecting LDL oxidation with the induction of PPAR-regulated genes , and oxidized LDL ( 52 ) , fragmented phospholipids ( 43 ) , monocytes ( 53 ) , and PPARy ( 20 ) are all present in atherosclerotic lesions .
+Acknowledgments-We thank Elizabeth Meade for supplying the acyl-CoA oxidase-luciferase reporter , pCR2.1-PPARy , and pCR2.1-PPARa .
+We thank Clare Amann and Anna Pavlovic of the University of Utah Chemical Synthesis Facility for the synthesis and analysis of azelaic anhydride and Andrew Maxfield for aid with the synthesis of TTA .
+We also thank Diana Lim for figure preparation .
+The University of Utah DNA Synthesis and Analysis core facility and the Flow cytom-etry core facility were supported in part by funds from National Institutes of Health Grant P30 CA 42014 .
+REFERENCES .
+Desvergne , B. , and Wahli , W. ( 1999 ) Endocr .
+Rev .
+20 , 649-688 .
+Forman , B. M. , Tontonoz , P. , Chen , J. , Brun , R. P. , Spiegelman , B. M. , and Evans , R. M. ( 1995 ) Cell 838 , 803-812 8 .
+Kliewer , S. A. , Lenbard , J. M. , Wilson , T. M. , Patel , I. , Morris , D. C. , and Lehmann , J. M. ( 1995 ) Cell 88 , 813-819 4 .
+Lenz , M. L. , Hughes , H. , Mitchell , J. R. , Via , D. P. , Guyton , J. R. , Taylor , A .
+A. , Gotto , A. M. , Jr. , and Smith , C. V. ( 1990 ) J. Lipid Res .
+81 , 1043-1050 5 .
+Kliewer , S. A. , Sundseth , S. S. , Jones , S. A. , Brown , P. J. , Wisely , G. B. , Koble , C. S. , Devchand , P. , Wahli , W. , Willson , T. M. , Lenhard , J. M. , and Lehmann , J. M. ( 1997 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+94 , 4818-4323 6 .
+Forman , B. M. , Chen , J. , and Evans , R. M. ( 1997 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+94 , 4312-4317 .
+Spiegelman , B. M. ( 1998 ) Cell 98 , 153-155 .
+Folcik , V. A. , and Cathcart , M. K. ( 1994 ) J. Lipid Res .
+85 , 1570-1582 .
+Beckman , J. K. , Bagheri , F. , Ji , C. , Blair , I .
+A. , and Marnett , L. J .
+( 1994 ) Carcinogenesis 15 , 2937-2944 10 .
+Nagy , L. , Tontonoz , P. , Alvarez , J. G. , Chen , H. , and Evans , R. M. ( 1998 ) Cell 93 , 229-240 11 .
+Maxey , K. M. , Hessler , E. , MacDonald , J. , and Hitchingham , L. ( 2000 ) Pros-taglandins Other Lipid Mediat .
+62 , 15-21 12 .
+Lee , H. , Shi , W. , Tontonoz , P. , Wang , S. , Subbanagounder , G. , Hedrick , C. C. , Hama , S. , Borromeo , C. , Evans , R. M. , Berliner , J .
+A. , and Nagy , L. ( 2000 ) Circ .
+Res .
+87 , 516-521 13 .
+Delerive , P. , Furman , C. , Teissier , E. , Fruchart , J. , Duriez , P. , and Staels , B .
+( 2000 ) FEBS Lett .
+471 , 34-38 14 .
+Fruchart , J. C. , Duriez , P. , and Staels , B .
+( 1999 ) Curr .
+Opin .
+Lipidol .
+10 , 245-257 15 .
+Poynter , M. E. , and Daynes , R. A .
+( 1998 ) J. Biol .
+Chem .
+278 , 82838-82841 16 .
+Auwerx , J .
+( 1999 ) Diabetologia 42 , 1033-1049 17 .
+Tontonoz , P. , Nagy , L. , Alvarez , J. G. , Thomazy , V. A. , and Evans , R. M. ( 1998 ) N 1 t go si 18 19 .
+20 .
+21 .
+22 .
+28 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+16023 Cell 98 , 241-252 .
+Feng , J. , Han , J. , Pearce , S. F. , Silverstein , R. L. , Gotto , A. M. , Jr. , Hajjar , D. P. , and Nicholson , A. C. ( 2000 ) J. Lipid Res .
+41 , 688-696 Marx , N. , Sukhova , G. , Murphy , C. , Libby , P. , and Plutzky , J .
+( 1998 ) Am .
+J. Pathol .
+158 , 17-28 Ricote , M. , Huang , J. , Fajas , L. , Li , A. , Welch , J. , Najib , J. , Witztum , J. L. , Auwerx , J. , Palinski , W. , and Glass , C. K. ( 1998 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+95 , 7614-7619 Podrez , E. A. , Febbraio , M. , Sheibani , N. , Schmitt , D. , Silverstein , R. L. , Hajjar , D. P. , Cohen , P. A. , Frazier , W. A. , Hoff , H. F. , and Hazen , S. L. ( 2000 ) J. Clin .
+Invest .
+105 , 1095-1108 Diagne , A. , Fauvel , J. , Record , M. , Chap , H. , and Douste-Blazy , L. ( 1984 ) Biochim .
+Biophys .
+Acta 798 , 221-231 Armesilla , A. L. , and Vega , M. A .
+( 1994 ) J. Biol .
+Chem .
+269 , 18985-18991 Boon , J. M. , and Smith , B. D. ( 1999 ) J .
+Am .
+Chem .
+Soc .
+121 , 11924-11925 Valiyaveeettil , S. , Engbersen , J. F. J. , Verboom , W. , and Reinhoudt , D. N. ( 1993 ) Angew .
+Chem .
+Int .
+Ed .
+Engl .
+82 , 900-901 Heery , J. M. , Kozak , M. , Stafforini , D. M. , Jones , D. A. , Zimmerman , G. A. , Melntyre , T. M. , and Prescott , S. M. ( 1995 ) J. Clin .
+Invest .
+96 , 2322-2330 Marathe , G. K. , Davies , S. S. , Harrison , K. A. , Silva , A. R. , Murphy , R. C. , Castro-Faria Neto , H. , Prescott , S. M. , Zimmerman , G. A. , and Mcintyre , T. M. ( 1999 ) J. Biol .
+Chem .
+274 , 28395-28405 Ames , B. N. , and Dubin , D. T. ( 1960 ) J. Biol .
+Chem .
+285 , 769-775 Elstad , M. R. , Prescott , S. M. , Mcintyre , T. M. , and Zimmerman , G. A .
+( 1988 ) J. Immunol .
+140 , 1618-1624 Kessel , J. M. , Hayflick , J. , Weyrich , A. S. , Hoffman , P. A. , Gallatin , M. , Melntyre , T. M. , Prescott , S. M. , and Zimmerman , G. A .
+( 1998 ) J. Immunol .
+160 , 5579-5587 Meade , E. A. , Mcintyre , T. M. , Zimmerman , G. A. , and Prescott , S. M. ( 1999 ) J. Biol .
+Chem .
+274 , 8328-8884 Kayganich-Harrison , K. A. , and Murphy , R. C. ( 1994 ) Anal .
+Biochem .
+221 , 16-24 Lehmann , J. M. , Moore , L. B. , Smith-Oliver , T. A. , Wilkison , W. O. , Willson , T. M. , and Kliewer , S. A .
+( 1995 ) J. Biol .
+Chem .
+270 , 12953-12956 Shao , D. , Rangwala , S. M. , Bailey , S. T. , Krakow , S. L. , Reginato , M. J. , and Lazar , M. A .
+( 1998 ) Nature 896 , 877-380 Nolte , R. T. , Wisely , G. B. , Westin , S. , Cobb , J. E. , Lambert , M. H. , Kurokawa , R. , Rosenfeld , M. G. , Willson , T. M. , Glass , C. K. , and Milburn , M. V. ( 1998 ) Nature 895 , 137-143 Gampe , R. T. , Montana , V. G. , Lambert , M. H. , Miller , A .
+B. , Bledsoe , R. K. , Milburn , M. V. , Kliewer , S. A. , Wilson , T. M. , and Xu , H. E. ( 2000 ) Mol .
+Cell 5 , b45-555 Schulman , I. G. , Li , C. , Schwabe , J. W. , and Evans , R. M. ( 1997 ) Genes Dev .
+11 , 299-308 Young , P. W. , Buckle , D. R. , Cantello , B. C. , Chapman , H. , Clapham , J. C. , Coyle , P. J. , Haigh , D. , Hindley , R. M. , Holder , J. C. , Kallender , H. , Latter , A. J. , Lawrie , K. W. M. , Mossakowska , D. , Murphy , G. J. , Roxbee Cox , L. , and Smith , S. A .
+( 1998 ) J. Pharmacol .
+Exp .
+Ther .
+284 , 751-759 Reginato , M. J. , Bailey , S. T. , Krakow , S. L. , Minami , C. , Ishii , S. , Tanaka , H. , and Lazar , M. A .
+( 1998 ) J. Biol .
+Chem .
+278 , 82679-82684 Tokumura , A. , Toujima , M. , Yoshioka , Y. , and Fukuzawa , K. ( 1996 ) Lipids 31 , 1251-1258 Stremler , K. E. , Stafforini , D. M. , Prescott , S. M. , and McIntyre , T. M. ( 1991 ) J. Biol .
+Chem .
+266 , 11095-11103 Schlame , M. , Haupt , R. , Wiswedel , L. , Kox , W. J. , and Rustow , B .
+( 1996 ) J. Lipid Res .
+87 , 2608-2615 Watson , A. D. , Leitinger , N. , Navab , M. , Faull , K. F. , Horkko , S. , Witztum , J. L. , Palinski , W. , Schwenke , D. , Salomon , R. G. , Sha , W. , Subbanagounder , G. , Fogelman , A. M. , and Berliner , J .
+A .
+( 1997 ) J. Biol .
+Chem .
+272 , 13597-13560.7 DuBois , R. N. , Gupta , R. , Brockman , J. , Reddy , B. S. , Krakow , S. L. , and Lazar , M. A .
+( 1998 ) Carcinogenesis 19 , 49-53 Nicholson , A. C. , Frieda , S. , Pearce , A. , and Silverstein , R. L. ( 1995 ) Arterioscler .
+Thromb .
+Vase .
+Biol .
+15 , 269-275 Glavind , J. , Hartmann , S. , Clemmensen , J. , Jessen , K. E. , and Dam , H. ( 1952 ) Acta Pathol .
+Microbiol .
+Scand .
+80 , 1-6 Yagi , K. ( 1984 ) BioEssays 1 , 58-60 Steinberg , D. , Parthasarathy , S. , Carew , T. E. , Khoo , J. C. , and Witztum , J. L. ( 1989 ) N. Engl .
+J. Med .
+820 , 915-924 Hoff , H. F. , and O'Neil , J .
+( 1991 ) Arterioscler .
+Thromb .
+11 , 1209-1222 Lebr , H. A. , Weyrich , A. S. , Sactzler , R. K. , Jurek , A. , Arfors , K. E. , Zimmerman , G. A. , Prescott , S. M. , and Mclntyre , T. M. ( 1997 ) J. Clin .
+Invest .
+99 , 2358-2364 MeclIntyre , T. M. , Zimmerman , G. A. , and Prescott , S. M. ( 1999 ) J. Biol .
+Chem .
+274 , 25189-25192 Vla-Herttuala , S. , Palinski , W. , Rosenfeld , M. E. , Parthasarathy , S. , Carew , T. E. , Butler , S. , Witztum , J. L. , and Steinberg , D. ( 1989 ) J. Clin .
+Invest .
+84 , 1086-1095 Vla-Herttuala , S. , Lipton , B .
+A. , Rosenfeld , M. E. , Sarkioja , T. , Yoshimura , T. , Leonard , E. J. , Witztum , J. L. , and Steinberg , D. ( 1991 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+88 , 5252-5256 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Oxidized Alkyl Phospholipids Are Specific , High Affinity Peroxisome Proliferator-activated Receptor y Ligands and Agonists Sean S. Davies , Aaron V. Pontsler , Gopal K. Marathe , Kathleen A. Harrison , Robert C. Murphy , Jerald C. Hinshaw , Glenn D. Prestwich , Andy St. Hilaire , Stephen M. Prescott , Guy A. Zimmerman and Thomas M. McIntyre J. Biol .
+Chem .
+2001 , 276:16015-16023. doi : 10.1074/jbc.M100878200 originally published online February 26 , 2001 Access the most updated version of this article at doi : 10.1074/jbe.M100878200 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 53 references , 25 of which can be accessed free at http : //www 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ;

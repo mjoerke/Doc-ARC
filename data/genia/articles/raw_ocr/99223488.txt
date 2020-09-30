@@ -1,0 +1,475 @@
+THE JOURNAL oF BIOLOGICAL CHEMISTRY © 1999 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+274 , No .
+17 , Issue of April 23 , pp .
+11693-11700 , 1999 Printed in U.S.A. Inhibition of T Cell Signaling by Mitogen-activated Protein Kinase-targeted Hematopoietic Tyrosine Phosphatase ( HePTP ) * ( Received for publication , November 23 , 1998 , and in revised form , February 3 , 1999 ) Manju Saxenat , Scott Williamst , Johannes Brockdorff§ , Jennifer Gilman , and Tomas Mustelin $ ] From the Division of Cell Biology , La Jolla Institute for Allergy and Immunology , San Diego , California 92121 Activation of T lymphocytes to produce cytokines is regulated by the counterbalance of protein-tyrosine kinases and protein-tyrosine phosphatases , many of which have a high degree of substrate specificity because of physical association with their targets .
+Overexpression of hematopoietic protein-tyrosine phosphatase ( HePTP ) results in suppression of T lymphocyte activation as measured by T cell antigen receptor-induced activation of transcription factors binding to the 5 promoter of the interleukin-2 gene .
+Efforts to pinpoint the exact site of action and specificity of HePTP in the signaling cascade revealed that HePTP acts directly on the mitogen-activated protein ( MAP ) kinases Erkl and 2 and consequently reduces the magnitude and duration of their catalytic activation in intact T cells .
+In contrast , HePTP had no effects on N-terminal c-Jun kinase or on events upstream of the MAP kinases .
+The specificity of HePTP correlated with its physical association through its noncatalytic N terminus with Erk and another MAP kinase , p38 , but not Jnk or other proteins .
+We propose that HePTP plays a negative role in antigen receptor signaling by specifically regulating MAP kinases in the cytosol and at early time points of T cell activation before the activation-induced expression of nuclear dual-specific MAP kinase phosphatases .
+Phosphorylation of proteins on tyrosyl residues is an important mechanism for many signal transduction pathways controlling cell growth , differentiation , and development ( 1-3 ) .
+Although the phosphotyrosine ( Tyr ( P ) ) content of cellular proteins is the net result of the opposing effects of protein-tyrosine kinases and protein-tyrosine phosphatases ( PTPases ) , most investigators have concentrated on the protein-tyrosine kinases , and considerably less is currently known about the PTPases .
+The hematopoietic protein-tyrosine phosphatase ( HePTP ) was cloned from human T lymphocytes ( 4 , 5 ) , and it is * This work was supported by a fellowship from the Alfred Benzon Foundation ( to J .
+B . )
+and Grants GM48960 , AI85603 , Al41481 , and Al40552 from the National Institutes of Health ( to T. M. ) .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement '' in accordance with 18 U.9.C .
+Section 1734 solely to indicate this fact .
+{ Current address : Laboratory of Signal Transduction , Sidney Kimmel Cancer Center , 10835 Altman Row , San Diego , CA 92121 .
+§ Current address : Institute of Medical Microbiology and Immunology , University of Copenhagen , 2200 Copenhagen , Denmark .
+4 ] To whom correspondence should be addressed : Laboratory of Signal Transduction , Sidney Kimmel Cancer Center , 10885 Altman Row , San Diego , CA 92121 .
+Tel .
+: 619-450-5990 ( ext .
+830 ) ; E-mail : tmustelin @ skec.org .
+* The abbreviations used are : PTPase , protein-tyrosine phosphatase ; HePTP , hematopoietic protein-tyrosine phosphatase ; NFAT , nuclear factor of activated T cells ; AP-1 , activator protein-1 ; MAP , mitogen-activated protein ; GST , glutathione S-transferase ; TPCK , L-l-tosyl-amido-2-phenylethyl chloromethyl ketone ; MBP , myelin basic protein ; HA , hemagglutinin ; mAb , monoclonal antibody .
+This paper is available on line at http : //www.jbc.org expressed in thymus , spleen , and in most leukemic cell lines examined , including Jurkat T leukemia cells ( 6 ) .
+HePTP belongs to a subgroup of PT'Pases with two other members , STEP ( 7 ) and PCPTPL ( 8 , 9 ) .
+In contrast to HePTP , the other two enzymes are not expressed in hematopoietic cells but mainly in the central nervous system : STEP mainly in striatum ( 7 ) , and PCPTP1 particularly in cerebellum ( 8 ) .
+Like PCPTPI1 and the 46-kDa isoform of STEP , HePTP consists of a single PTPase domain that occupies the C-terminal 3/4 of the enzyme and is preceded by an ~80-amino acid noncatalytic N terminus .
+As might be expected from the lack of putative transmembrane sequences or other recognizable targeting motifs , immunofluo-rescence microscopy indicates that HePTP is located exclusively in the cytosol in RBL mast cells ( 10 ) and Jurkat T cells . ?
+The biological function of HePTP has remained elusive .
+A potential role in cell proliferation or differentiation was suggested by the finding that the HePTP gene is located at 1432.1 ( 11 ) on the long arm of chromosome 1 , which is often found in extra copies ( trisomy ) in bone marrow cells from patients with myelodysplastic syndrome ( 12 , 13 ) , a disease characterized by reduced hematopoiesis .
+In contrast , deletions of 1q32 have been reported in non-Hodkin lymphomas and chronic lymphoprolif-erative disorders ( 14 ) .
+Thus , these findings suggest that excess HePTP may correlate with reduced proliferation ( in myelodys-plasia ) and loss of HePTP with increased cell proliferation and/or survival .
+Amplification and overexpression of HePTP has also been reported in a case of myelogenous leukemia ( 11 ) .
+A connection with lymphoid proliferation is also supported by the finding that the HePTP gene is transcriptionally activated in T cells treated with interleukin-2 ( 15 ) .
+Although mRNA levels increased severalfold upon stimulation of normal mouse lymphocytes with phytohemagglutinin , lipopolysaccharide , concanavalin A , or anti-CD3 ( 4 ) , the HePTP protein was present in resting cells , and its amount increased only moderately .
+Finally , HePTP has been reported to become phosphorylated on tyrosine in RBL-2H3 mast cells stimulated through their FeeRI ( 10 ) .
+We recently reported that transient expression of HePTP in T cells caused a clear reduction in antigen receptor-induced transcriptional activation of a reporter gene driven by a nuclear factor of activated T cells ( NFAT ) /activator protein-1 ( AP-1 ) element taken from the interleukin-2 gene promoter ( 6 ) .
+In contrast , a catalytically inactive C27058 mutant of HePTP had no effect , suggesting that the PTPase activity of HePTP was required for inhibition .
+We have continued this work and have found that HePTP inhibits NFAT/AP-1 activation , and thereby the entire 5 ' interleukin-2 promoter , by dephosphorylating the Erk MAP kinase .
+Specificity for this substrate is the result of a physical association between HePTP and Erk mediated by the noncatalytic N terminus of HePTP .
+This region also bound the p38 MAP kinase but not the N-terminal c-Jun ki- 2 M. Saxena , S. Williams , and T. Mustelin , unpublished observation .
+11693 610Z '01 Aepy uo 4g wo ; popeoumog 11694 HePTP Binds and Dephosphorylates MAP Kinase to # z° x _C & © R b .
+hat 8 MAP kinase MAP kinase 60 ab2 S % 866 1 2 3 4 5 6 7 2 g C < MBP S 300 2 300 @ `` 6 120- S g « ( 3 Q ’ ] , a ?
+87- O a .
+64- we wae wae mae [ ZL 5 E J11x z m b _ yo 2 « € 39- ( * C 200 + 3 HePTP _ 3 C3 g 100 hens € J py anti-CD3 - + ] - + - + - + 9 T & C Z ¥ 8 100 $ 0 + : « 4b Q “ & K3 = .
+oe rin * R $ © } anti-CD3 stimulation , min 9° Q3 '' g # a ¥ anti-CD3/28 *= + `` ~ += a = 4 ~ 40 o d .
+e .
+f .
+Anti-phospho-Erk Anti-phospho-Mek MAP kinase Mi ( K ) M , ( K ) 12 3 4 5 6 7 8 9101112 may 1-2-4845 6 7 s o 10 1112 52 52-| _ u - em - a » ms - W| ' sa- cae ’ .
+< MBP 52 52-I 39 39- * re Mek 39 |-..— -- .-.—=.__ -- |4Erk2 = eee OKT3 oor anti-CD3 - I- I - 1 - I - I -T anti-CD3 - + - + ¥ : £- % -+ TPA - c. * on , Anti-HA-tag lac—m Antl HA-taq ar- STE g 62 es- em « @ | « SHP2 __ , _ air @ « 70 kDa 30 - aas am amuse | < HePTP s2-I TCPTP _ 527 ] « wes » < = 39- 1HePTP ag- *= .._ ! _ !
+! .-l Anti-Lck Anti-Lock < p62 ¢ ar- 26- 517 __ _- ___ _ | £7 ae us as on as as as an # # S we come - am - an el - < 21 kDa `` *~ 52- |_ e s 15- éldl ‘ lﬁld ‘ ld ‘ l-ﬁ ' 39- T4 T T x5 a x3 F & q ‘ ” [ @ gy & C & C R & « & 5 Fie ¢ 4 # 6 $ F < $ *C « & *y .
+y “ 4 & 4 Q “ SS ] , « ( J KC ; aka Q6 QQ at '' K oa @ at } 3 x > < § 3 '' ¢ V Y - ¥ c ?
+Qg V V $ x x G a. v V Fig .
+1 .
+Inhibition of MAP kinase by HePTP .
+a , time course of Erk2 activation in the absence ( 0 ) or presence ( @ ) of a co-transfected HePTP .
+The data represent in vitro kinase assay of myc-tagged Erk2 MAP kinase expressed in Jurkat T cells alone or together with HePTP and treated with anti-CD8e mAbs for the indicated times .
+After cell lysis , the tagged Erk2 was immunoprecipitated with an anti-Myc mAb ( 9E10 ) , and the kinase activity was measured using myelin basic protein ( MBP ) as substrate .
+The radioactivity in the MBP band was counted in a B-counter and is presented as % of that in the 0-min sample .
+The shown data represent the mean and S.D .
+( error bars ) from three independent experiments .
+Anti-Erk2 blots showed equal amounts of the kinase in each sample , and the expression of HePTP was verified by anti-HA tag immunoblotting of the lysates .
+6 , activation of Erk2 in Zap-deficient P116 Jurkat T cells transfected with Myc-tagged Erk2 plus empty vector , Zap , Zap plus HePTP , or Zap plus HePTP-C2708 ( as indicated ) .
+The assay was done as in a .
+The lower panel shows the expression of both Zap and HePTP , both of which are HA-tagged .
+wt , wild type .
+c , activation of a luciferase reporter gene driven by the entire 5 interleukin-2 ( IL-2 ) promoter in Jurkat T cells transiently transfected with the indicated plasmids .
+48 h after transfection , the cells were stimulated by a combination of anti-CD3 ( OKT3 ) and anti-CD28 ( 9.3 ) mAbs plus a secondary sheep anti-mouse Ig antibody for 8 h , lysed , and used for measurement of luciferase activity .
+The luciferase activity was normalized for protein concentration , and the values shown represent the mean and S.D .
+from four separate determinations .
+The expression of transfected PTPases was verified by immunoblotting .
+d , anti-phospho-Erk immunoblot of lysates of Lek-negative JCaM1 Jurkat T cells transfected with the indicated plasmids and left untreated or stimulated for 5 min with anti-CD8e .
+The same lysates were blotted with anti-Erk2 ( Lower half of upper panel ) , anti-HA-tag ( middle panel ) , and anti-Lick ( lower panel ) .
+e , immunoblot of the same lysates with anti-phospho-Mek and anti-Mek ( upper panel ) , anti-Tyr ( P ) ( anti-PTyr , lower panel ) .
+The lower half of the lower panel represents a longer exposure of the same blot than the upper ( to optimize the visualization of bands ) .
+Similar results were obtained in two other experiments .
+f in vitro kinase assay of myc-tagged Erk2 MAP kinase expressed in JCaM1 cells alone or together with Lek or Lek plus HePTP ( as indicated ) and either left unstimulated or treated with anti-CD8e mAbs for 5 min ( Zanes 2 , 4 , and 6 ) or 20 nM phorbol myristate acetate ( TPA ) ( Zanes 8 , 10 , and 12 ) .
+The upper panel shows the autoradiogram of the kinase assay with MBP as substrate .
+The amount of Erk2 in the precipitates was visualized by immunoblotting ( middle panel ) and the expression of HePTP was visualized by anti-HA tag immunoblotting of the lysates ( bottom panel ) , and expression of Lick was visualized by anti-Lick blotting ( fourth panel ) .
+Note that the M , of Lek changes upon phorbol 12-myristate 18-acetate treatment .
+The same result was obtained in another independent experiment .
+nases Jnk1 and Jnk2 or other signaling proteins .
+We also show MATERIALS AND METHODS that HePTP is a substrate for Eirk and p38 , and we identify the Reagents-Most antibodies and plasmids were as described before sites of phosphorylation and effects of phosphorylation on the _ ( 6 ) .
+The HePTP fragments AN ( amino acids 92-889 ) , N ter ( amino acids association between HePTP and these kinases .
+1-92 ) , N1 ( amino acids 1-40 ) , N2 ( amino acids 10-55 ) , and N3 ( amino 610Z '01 Aepy uo 4g wo ; popeoumog HePTP Binds and Dephosphorylates MAP Kinase a anti-PTyr 11695 120- a7 Fic .
+2 .
+Direct inhibition of Erk by HePTP .
+a , anti-Tyr ( P ) ( anti-PTyr ) immu- 52-1 noblot of kinase-inactive GST-Erk1 phos- # 9 ] 54 __| Cet em ms ss < 4GST-Erk1 phorylated by active Mek in the presence of 1 mM ATP for 10 min and then incubated with active HePTP for the indicated “ IQGST-Erk ' l times .
+PSer , Ser ( P ) .
+b , phosphoamino acid 0 10 '' 30 '' 1° 5° analysis ( PAA ) of kinase-inactive GST Erk1 phosphorylated by Mek in the pres- d ence of [ y-°°P ] JATP for 10 min and then MAP kinase MAP kinase incubated with active HePTP for the indicated times .
+c , phosphorylation of MBP during a 30-min assay by 10 ng of recombinant Erk2 in the presence of 100 ng of GST-HePTP , GST , GST-HePTP-C2708 , or GST-SHP2 .
+d , similar assay in the « < « Erk2 presence of the indicated amounts of eus GST-HePTP or controls .
+Similar results r were obtained in at least three independ- & F ent experiments each .
+5.10 8 d 8 & + a & acids 30-80 ) were amplified by polymerase chain reaction using primers tailed with NkelI and Nde !
+sites and the HePTP cDNA as a template .
+The resulting fragments were then subcloned into the pGEX-4T-3 vector and verified by sequencing .
+The GST fusion proteins were expressed and purified with glutathione-Sepharose using standard techniques as before ( 6 ) .
+The cDNA for activated Mek ( S218D/8222D mutated ) in the pUSE vector and recombinant active Mek , kinase-inactive Erk1 , active Erk2 , and active p38 were from Upstate Biotechnology Inc. ( Lake Placid , NY ) .
+Luciferase reporter constructs in the pGL2 promoter vector ( Promega ) containing multiple copies of NF- « B ( -211 to -192 , 8 times ) , Oct ( -97 to -64 , 7 times ) , or the promoters of the c-fos and c-jun genes were a kind gift from T. Kawakami ( 16 ) .
+Anti-phospho-Eirk and anti-phospho-Mek were purchased from Promega and New England Biolabs .
+Site-directed Mutagenesis-As described earlier ( 6 ) for the catalytically inactive mutant of HePTP ( C2708 ) , the 872A and T45A mutants were generated using the Transformer '' site-directed mutagenesis kit as recommended by the manufacturer ( CLONTECH , Palo Alto , CA ) .
+Mutations were verified by nucleotide sequencing .
+Cells , Transfections , and Luciferase Assays-Jurkat T leukemia cells and two variants of this cell line , JCaM1.6 , which lacks Lek ( 17 ) , and P116 , which lacks Zap-70 ( Ref .
+18 ; a kind gift from R. Abraham ) , were kept at logarithmic growth in RPMI 1640 medium with 10 % fetal calf serum , L-glutamine , and antibiotics .
+These cells were transiently transfected with a total of 5-10 ug of DNA by electroporation at 950 micro-farads and 240 V as before .
+Empty vector was added to control samples to make a constant amount of DNA in each sample .
+Luciferase assays were done as described in detail before ( 6 , 19 , 20 ) .
+Immunoblots , Immunoprecipitation , and in Vitro Kinase Assays-Immunoprecipitation and in vitro kinase assays were done as before ( 6 , 20 ) .
+All immunoblots were developed by the enhanced chemilumines-cence technique ( ECL kit , Amersham Pharmacia Biotech ) according to the manufacturer 's instructions .
+Phosphoamino Acid Analysis and Tryptic Peptide Mapping-GST-HePTP protein phosphorylated in vitro by the bound kinase in the presence of [ y-*°PJATP was resolved on 10 % SDS gels and transferred onto a nitrocellulose filter , and the phosphorylated band was excised and digested with TPCK-treated trypsin as described in detail by Luo ef al .
+( 21 ) .
+RESULTS HePTP Reduces AP-1-dependent Gene Activation-A crucial step in the initiation of an immune response is the production of cytokines by T cells challenged with properly presented antigen ( 22 ) .
+T cell antigen receptor-induced activation of the interleukin-2 gene is the result of the coordinated action of several transcription factors ( 23 , 24 ) , including a trimeric complex consisting of a NFAT family protein ( 25 ) and an AP-1 GST GST-HePTP O GST HePTP est| A GST-HePTP-c2708 @ est GST-HePTP-c2705 @ 0 A .
+5 ha w & g w 8 D d g g. E & + a 8 GST-SHP2 dimer ( 26 , 27 ) of Fos and Jun family proteins , with some assistance from octamer-binding proteins ( Oct ) and NF-kB .
+Although these proteins operate in a synergistic manner , they can be measured separately using their target DNA elements coupled to a reporter gene .
+When HePTP was expressed in Jurkat T cells together with a luciferase reporter gene under the control of the 5 ' interleukin-2 promoter , the activation of this reporter was reduced to 58.1 + 9.3 % ( n = 9 ) .
+In contrast , expression of the catalytically inactive mutant HePTP-C2705 or two other PTPases , SHP2 and TCPTP , did not affect the activation of the reporter gene although being expressed at similar levels .
+The inhibition by HePTP was not as pronounced as its effect on a reporter gene driven by a subregion of the interleukin-2 promoter , one of the NFAT/AP-1 response elements , which was inhibited by more than 80 % ( 6 ) .
+This discrepancy is probably explained by the minimal effects of HePTP on luciferase reporter constructs driven by Oct or NF-kB ( not shown ) .
+Together , these results further support the notion that HePTP may play a role in antigen-induced T cell activation and suggests that HePTP dephosphorylates some signaling molecule in the pathways that lead from the antigen receptor to the activation of the NFAT/AP-1 response elements in the interleukin-2 gene .
+Therefore , we decided to examine several receptor-proximal signaling steps upstream of this transcription factor complex .
+HePTP Inhibits Erk but Not Ink-First , we measured the two types of MAP kinases known to be involved in AP-1 activation in T cells , Erk and Junk ( 27 , 28 ) .
+Jurkat T cells were transiently co-transfected with epitope-tagged Erk2 together with HePTP , HePTP-C2708 , TCPTP , or SHP2 .
+After stimulation of the cells , the catalytic activity of the kinases was meas-ured .
+These experiments consistently revealed that the antigen receptor-induced activation of Erk was significantly reduced by HePTP .
+In cells stimulated for different periods of time with anti-CD3e ( Fig .
+10 ) , the inhibition by HePTP was seen at all time points but most clearly at 2-5 min , coinciding with the peak of Erk activity .
+Similar results were also obtained in Zap-70-deficient P116 cells ( 18 ) co-transfected with Zap-70 , except that the effects of both wild-type HePTP and HePTP-C2708 were even stronger ( Fig .
+16 ) , presumably because of the lower levels of endogenous HePTP in these cells . ''
+HePTP also 610Z '01 Aepy uo 4g wo ; popeoumog 11696 a anti-PTyr Mr ( K } 12345 6 7 8 9 120-I 87-s- sb 26-I 21 -L anti-Erk2 sa-s J decant < Erk2 anti-Jnk1 + os TS .
+39 anti-p38 is : f « » | < p38 pervanadate - + ] - + ] - +|—m+|-® & $ 3 $ 2 } a # 45 “ C ( 94 ?
+if é c } £ C anti-p38 1 2 3 4 5 6 7 8 9 71.4- 46.4-I “ q “ .-.ﬂ ‘ p38 28.3-anti-CD3 ~N+I- + ] - +1- +1-£3 £53 & « 63 $ 4 # 4 ﬁts ?
+I ? “ HePTP Binds and Dephosphorylates MAP Kinase b Kinase assay MK ) 1 2 s 4 5s 6 7 8 120-em = | < GST-HePTP 39-26- ~ ar- wite u.-4MBP 120-a- am __ | < GST-HePTP t @ » - | < GST-ATF2 26-21- - .
++ -1~+ ’ —\° ‘ J+ 391+ £ & & 6 Fic .
+3 .
+Physical association of HePTP with Erk and p38 but not Junk .
+a , anti-Tyr ( P ) ( anti-PTyr , upper panel ) , anti-Erk2 ( second panel ) , anti-Jnk1 ( third panel ) , and anti-p38 ( fourth panel ) immunoblot of material bound to control GST , GST-HePTP , GST-HePTP-C2708 , or GST-SHP2 in lysates of untreated Jurkat T cells or cells treated with 100 uM pervanadate for 5 min .
+The last lane is cell lysate .
+The same result has been obtained in two other experiments , and blotting with anti-Jnk2 was also negative .
+wt , wild type .
+b , upper panel , autoradiogram of a kinase reaction of the same samples in the presence of [ y-*°PJATP and MBP for 10 min .
+Lower panel , autoradiogram of a kinase reaction of the same samples with GST-ATF2 as a substrate .
+c , anti-p38 immunoblot of immunoprecipitates obtained with serum from a rabbit before ( Zanes 1 and 2 ) or after immunization with HePTP ( Zanes 3 and 4 ) or from another rabbit before ( Zanes 5 and 6 ) or after immunization with GST-TCPTP ( Zanes 7 and 8 ) .
+Lane 9 is total cell lysate .
+d , anti-Eirk immunoblot of the same immunoprecipitates .
+Lane I is total cell lysate .
+blocked interleukin-2 promoter activation more efficiently in these cells ( not shown ) .
+Thus , the effect of transfected HePTP correlates inversely with the amount of endogenous HePTP , suggesting that the observed inhibition of MAP kinase represents the normal function of HePTP .
+In agreement with the notion that HePTP inhibits the activation of the interleukin-2 gene by reducing the magnitude and duration of Eirk activation , we observed that expression of Erk2 plus an activated mutant ( 29 ) of Mek , the upstream activator of Erk , augmented interleukin-2 promoter activation and increased its sensitivity to HePTP ( Fig .
+le ) .
+As a control , co-expression of activated Mkk6 plus p38 kinases did not affect the interleukin-2 reporter or its inhibition by HePTP ( not shown ) .
+Furthermore , the activation of another gene known to be up-regulated , in part , through Erk-mediated phosphorylation of the Elk-1 transcription factor ( 30 ) , c-fos , was also reduced in T cells overexpressing HePTP but not in cells expressing the inactive HePTP-C2708 ( not shown ) .
+Together , all these results indicate that HePTP reduces the activation of Erk in vivo .
+This notion is supported by the opposite effect of catalytically inactive HePTP-C2708 in the same assays .
+HePTP Inhibits Endogenous Erk but Not Upstream Events-To ascertain that the observed inhibition by HePTP was not limited to exogenous transfected MAP kinase , we next utilized the JCaM1 cell line , which is unresponsive to T cell antigen receptor stimulation because of lack of Leck kinase ( 17 ) .
+Transient expression of Leck ( or Syk ) restores responsiveness ( 20 ) .
+JCaM1l cells were transfected with Lck together with HePTP , HePTP-C2708 , or control PTPases and used for analysis of antigen receptor-induced appearance of activated and phosphorylated MAP kinases by immunoblotting with activa- tion-specific antibodies .
+Fig .
+1d shows that HePTP reduced the appearance of phospho-Erk1 and -2 , while at the same time and in the same cells , not having any effects on activation of Mek or the receptor-induced tyrosine phosphorylation of cellular proteins ( Fig .
+le ) , including the { chain of the T cell antigen receptor and Zap-70 ( verified by immunoprecipitation ) .
+Additional immunoblots of the same samples showed that the expression of endogenous Erk and Mek , as well as transfected Lck and PTPases , was equal in all samples .
+On longer expo-sures , it was also noted that the catalytically inactive HePTP-C2708 elevated the amount of phospho-Erk in the resting cells .
+Thus , HePTP readily inhibits endogenous MAP kinase , and the catalytically inactive HePTP-C2708 acts as a dominant negative reducing the action of endogenous HePTP .
+HePTP Also Inhibits Phorbol Ester-induced Erk Activation-The MAP kinase pathway can also be efficiently activated by phorbol esters , which bypass all receptor-induced proximal tyrosine phosphorylation events by activating the Raf kinase through protein kinase C ( 31 , 32 ) .
+When tagged Erk2 was expressed in JCaM1 cells together with HePTP and the cells were stimulated with 20 nm phorbol myristate acetate , the activation of the MAP kinase was profoundly inhibited compared with cells expressing Erk2 alone ( Fig .
+1f ) .
+In contrast to cells stimulated by anti-CD3 ( Zanes 2 , 4 , and 6 ) , phorbol ester-induced MAP kinase activation did not require expression of Lick .
+Control blots confirmed that the immunoprecipitates contained equal amounts of Erk2 and that equal amounts of HePTP and Lck were expressed in the transfectants ( Fig .
+If , lower panels ) .
+Because HePTP is specific for Tyr ( P ) , this result supports the conclusion that HePTP does not block MAP kinase activation by dephosphorylating receptor-proximal tyrosine 610Z '01 Aepy uo 4g wo ; popeoumog HePTP Binds and Dephosphorylates MAP Kinase phosphorylation events .
+Rather , these data suggest a more direct effect on Erk .
+Direct Effect of HePTP on Erk-Having found that HePTP had no effects on the phosphorylation of Mek in the same cells where Erk phosphorylation was reduced , we asked if HePTP acts directly on phospho-Eirk .
+First , we phosphorylated recombinant kinase-inactive Erkl at the activation loop threonine and tyrosine residues using active recombinant Mek and treated the resulting phospho-Erk with recombinant HePTP at 37 °C .
+As shown in Fig .
+2a , the Tyr ( P ) content of Erk decreased detectably within 10-30 s and was very low by 1-5 min .
+Phosphoamino acid analysis of similarly treated Erk ] phosphorylated by Mek in the presence of [ 7-32P ] ATP revealed that HePTP caused a rapid loss of phosphate from tyrosine without hydrolyzing phosphothreonine ( Fig .
+26 ) .
+Furthermore , a brief incubation at 37°C of active recombinant Erk with HePTP resulted in a total loss of its kinase activity ( Fig .
+2¢c ) .
+In contrast , GST , HePTP-C2708 , or SHP2 had no effects .
+Using 10 ng ( 150 fmol ) of recombinant Erk , we found that 10 ng ( 150 fmol , 7.5 nx ) or more of HePTP caused a complete inactivation of Erk within the first minute of the assay , whereas the addition of 1 ng ( 15 fmol ) of HePTP had insignificant ( < 10 % ) effects even during a 30-min assay ( Fig .
+2d ) .
+This result suggests that HePTP acts on Erk at a 1:1 stoichiometry , perhaps by binding and primarily dephosphorylating only the bound kinase molecules .
+Physical Association between HePTP and MAP Kinase-To directly test the possibility that HePTP binds Erk , we used GST fusion proteins of HePTP , HePTP-C2708 , or SHP2 and found that both HePTP and HePTP-C2708 readily bound Erk ( Fig .
+30 ) in lysates of resting T cells or cells treated with pervanadate ( to maximize tyrosine phosphorylation ( 83 ) ) .
+The precipitates also reacted strongly with antibodies to another MAP kinase , p38 .
+In contrast , neither Jnk1l nor Jnk2 bound , and control GST , GST-SHP2 ( Fig .
+30 ) , or GST-TCPTP ( not shown ) did not precipitate any of these kinases .
+Immunoblotting with antibodies to the 36-38-kDa LAT ( 34 ) or to other signaling molecules gave negative results .
+The Erk and p38 that bound active HePTP did not contain Tyr ( P ) and were catalytically inactive .
+In contrast , Erk and p38 bound to inactive HePTP-C27085 from pervanadate-treated cells were phosphorylated on tyrosine and enzymatically highly active against myelin basic protein or GST-ATF2 , a preferred substrate for p38 kinase ( Fig .
+3b ) .
+In these reactions , GST-HePTP was also phosphorylated by the bound Erk and p38 .
+HePTP also co-immunoprecipitated with p38 from untreated or activated Jurkat T cells ( Fig .
+3¢ ) .
+Co-immunoprecipitation of HePTP and Erk was not as clean because of nonspecific binding of Erk to Sepharose beads coated with irrelevant immunoglobulin ( Fig .
+3d ) .
+We conclude that HePTP specifically associates with Erk and p38 MAP kinases .
+HePTP Also Inhibits Activation of p38 Kinase but Not Activation of Ink-The finding that HePTP associates with both Erk and p38 , but not with Jnk , prompted us to study the direct effects of HePTP on the kinase activity of p38 in vitro and on the activation of p38 and Jnk in intact cells .
+First , we used 10 ng of recombinant active p38 kinase , added 100 ng of GST-HePTP , GST-HePTP-C2708 , control GST , or GST-SHP2 , and incubated the samples with [ 7-32P ] ATP for 30 min .
+As shown in Fig .
+40 , active HePTP inhibited p38 profoundly , whereas the inactive C2708 mutant , GST , and the control SHP2 PTPase lacked effects .
+Next , we co-transfected HA-tagged p38 or Jnk2 with empty vector , with HePTP , or with HePTP-C2708 .
+Two days later , the cells were stimulated with a combination of anti-CD3 and anti-CD28 mAbs ( as neither mAb alone activates these kinases ) .
+After 15-20 min at 37 °C , the cells were lysed , 11697 p38 kinase p38 kinase 1 2 s 4 1 2 8 4 5 6 7 $ 8 € MBP GST-ATF2 sg : 0 H « is ; £ -I - - @ thoet E9 p & o P 8 n ?
+i .
+IP Q ral anti-CD3/28 - + 3+ 1 & 4 .
+a/ - % Fog w & a 8 E & 40° o 8a £31 , 0 & '' & < 6 + P y o & 5 * e $ C c-Jun kinase 1 2 8 4 5 6 7 s 87-I 64-ez « 4 GST-c-Jun-N 26-I anti-HA-tag 22 : tA # s + -l < « 4 Jnk2 33- cus ess < 4 HCPTP anti-CD3/28 4 + |€ - g +|- + « & 4§ ‘ Z « q '' ; c } q < q & dl\é° salt : i235 ] ; x “ Q9 Se x'ﬁeé } 5§ $ x ‘ b $ + BS Fic .
+4 .
+Inhibition of p38 , but not Junk , by HePTP .
+a , phosphorylation of MBP during a 80-min assay by 10 ng of recombinant p38 in the presence of 100 ng of GST-HePTP , GST , GST-HePTP-C2708 , or GST-SHP2 .
+wt , wild type.b , in vitro kinase assay with GST-ATF2 as a substrate of HA-tagged p38 kinase expressed in Jurkat T cells alone or together with the indicated plasmids and either left unstimulated or treated with anti-CDS8e plus anti-CD28 mAbs for 20 min .
+The upper panel shows the autoradiogram of the kinase assay .
+The expression of p38 and HePTP was visualized by anti-HA tag immunoblotting ( fower panel ) .
+The same result was obtained in another independent experiment .
+c , in vitro kinase assay with GST-c-Jun-N as a substrate of HA-tagged Jnk2 kinase expressed in Jurkat T cells alone or together with the indicated plasmids and either left unstimulated or treated with anti-CD8e plus anti-CD28 mAbs for 15 min .
+The upper panel shows the autoradiogram of the kinase assay .
+The expression of Jnk2 and HePTP was visualized by anti-HA tag immunoblotting ( Lower panel ) .
+The same result was obtained in several independent experiments .
+the tagged kinases were immunoprecipitated , and their activity was measured with GST-ATF2 or GST-c-Jun-N as substrates .
+These assays revealed that HePTP reduced both the basal activity of p38 and its further activation ( Fig .
+4b ) but not the activation of Jnk2 ( Fig .
+4c ) .
+The cpm in the GST-ATF2 band were reduced in lane 5 compared with lane 3 by 55 % and in lane 6 compared with lane 4 by 78 % .
+The expression of p38 was difficult to evaluate due the similarity in size with HePTP but at least did not appear to be any less in lanes 5 and 6 .
+Jnk2 was expressed at relatively low levels but equally in all samples .
+We conclude that HePTP inhibits p38 , but not Jnk , in intact cells .
+Mapping of the Binding Site in HePTP-The region of HePTP that binds Erk and p38 was first mapped to its noncatalytic N-terminal 92 amino acids .
+A GST fusion protein of HePTP lacking this region ( GST-AN ) failed to bind any Tyr ( P ) -containing proteins , Erk , or p38 ( Fig .
+50 ) in lysates of Jurkat T cells .
+In contrast , a GST fusion protein containing only the N-terminal 92 amino acids of HePTP ( GST-N ter ) bound both Erk and p38 ( Fig .
+56 ) .
+To determine the binding region more precisely , we made three smaller constructs encompassing amino acids 1-40 , 10-55 , 30-80 , respectively .
+These three GST fusion proteins were incubated with cell lysates , washed extensively , and immunoblotted for the presence of Erk and 610Z '01 Aepy uo 4g wo ; popeoumog 11698 HePTP Binds and Dephosphorylates MAP Kinase a b C Fic .
+5 .
+Mapping of the binding site MK ) Anti-PTyr Anti-PTyr Anti-PTyr for Erk and p38 in HePTP .
+a , anti- 2 3 4 5 6 7 8 9 10 11 1 2 3 4 5 6 1 2 3 4 Tyr ( P ) ( anti-PTyr , upper panel ) , anti- 64- _ ® - = a » % Erk2 ( second panel ) , anti-p38 ( third 52-I ap - fe t '' | '' , panel ) , and anti-GST ( lowest panel ) 39-7 « te a » immunoblot of material bound to control ge-GST , GST-HePTP , GST-HePTP-AN , 21- GST-HePTP-C2708 , or GST-HePTP-AN : Anti-erk2 Anti-Erk2 Anti-Erk2 C2708 , as indicated , in lysates of un- s2- .
+treated Jurkat T cells or cells treated with 39- ~es e- -| < Erk2 » | gigs < « Erk2 » 100 uM pervanadate for 5 min .
+The last lane is cell lysate .
+wt , wild type .
+b , anti- Anti-p38 Anti-p38 Anti-p38 Tyr ( P ) ( upper panel ) , anti-Erk2 ( middle sa-panel ) , and anti-p38 ( lower panel ) immu- 39- -u ame « « « « p38 » | as « = p38 » | - exam » noblot of material bound to control GST- e vanadate - + o + p a po gs ap HePTP-N ter , GST-HePTP-AN , or GST- Anti-GST F= a ees * , HePTP-N ter-T45A/872A in a similar g ‘ z ‘ : < « amep 34 “ if 9 ; 6643 ?
+3 experiment .
+c , similar experiment with 39 - wa wae sae ith - , 46 “ £ 41 ﬁ & 43 the shorter N-terminal constructs , GST- e ‘ > # HePTP-N1 , -N2 , and -N3 .
+The size and pmanaéte 2 g `` C o Z < amount of the GST fusion proteins used 9 } e in panels b and c were verified during their preparation .
+p38 .
+As shown in Fig .
+5¢ , the two first fragments bound both Erk and p38 readily , whereas the third did not .
+We conclude that the binding site must reside within amino acids 10-30 , perhaps extending into the 30-40 region , which is not sufficient for binding by itself .
+Phosphorylation of the N terminus of HePTP by MAP Ki-nase-This region also contains two potential phosphorylation sites for a proline-directed kinase ( such as Erk ) , Ser-72 , and Thr-45 .
+Because HePTP was readily phosphorylated on both serine and threonine by the bound Erk and p38 ( Fig .
+36 ) and by recombinant Erk2 ( Fig .
+6a ) or p38 ( not shown ) , we mutated these residues to alanines and examined their phosphorylation by tryptic peptide mapping , which revealed that both peptides containing Ser ( P ) ( peptides 1 and 2 ) contained Ser-72 , whereas Thr-45 was the phosphorylated residue in peptides 3-5 ( Fig .
+6b ) .
+These peptides were also seen in tryptic peptide maps of HePTP from metabolically °°P ; -labeled T cells but were missing in a HePTP-T45A/S872A mutant ( not shown ) .
+Thus , the noncatalytic N terminus of HePTP binds Erk and p38 and is phosphorylated at Ser-72 and Thr-45 by these kinases .
+Possible Role of Phosphorylation at Thr-45 and Ser-72-The phosphorylation of the N terminus of HePTP by the Erk or p38 kinases introduces the possibility of a regulatory role of this event .
+Measurement of the catalytic activity of HePTP revealed a small decrease in activity upon phosphorylation by Erk ( not shown ) .
+This decrease is presently of questionable significance .
+Instead , we addressed the possibility that phosphorylation regulates the physical association between HePTP and Erk or p38 .
+Because a GST-N ter protein having both the T45A and ST7T2A mutations still bound Erk and p38 as readily as the wild-type GST-N ter protein ( Fig .
+56 ) , it seems that the hydroxyl groups of Thr-45 and Ser-72 or their phosphorylation are not required for binding of Erk or p38 .
+To test the opposite , namely that phosphorylation is involved in dissociation of the kinases , we incubated HePTP-Erk complexes in the presence of ATP and Mg** at 37°C and measured the release of HePTP .
+These experiments utilized catalytically active GST-Erk2 adsorbed onto glutathione-Sepharose with bound HA-tagged HePTP-C2708 from transfected Jurkat T cells and resulted in a time-dependent dissociation of HePTP from the beads ( Fig .
+6c ) .
+Thus , the N terminus of HePTP binds Erk and p38 but may release them upon phosphorylation .
+Curiously , both phosphorylation sites are outside the minimal necessary binding site for Erk and p38 , but their phosphorylation could influence the 4 & ffff conformation of the binding site .
+Elimination of the Phosphorylation Sites Augments Inhibition of MAP Kinase by HePTP-To study the impact of phosphorylation of HePTP at Thr-45 and Ser-72 in intact cells , we generated a mutant in which both residues were replaced by alanine residues .
+The mutant , HePTP-T45A/872A , was included in a co-transfection experiment similar to that in Fig .
+1f using JCaM1 cells .
+As shown in Fig .
+6d , wild-type HePTP reduced the anti-CD3-induced activity of Erk2 to about half , whereas HePTP-C27058 augmented it .
+In contrast , HePTP-T45A/ST72A was more efficient than wild-type HePTP and essentially eliminated any increase in MAP kinase activation in the anti-CD3 stimulated cells .
+Thus , it is clear that phosphorylation of HePTP at Thr-45 and/or Ser-72 is not required for inhibition of MAP kinase .
+Rather , it seems that phosphorylation has the opposite effect , namely to lessen the inhibitory effect of HePTP .
+This fits our hypothesis that phosphorylation causes a dissociation of Erk from HePTP ; the T45A/S72A mutant would not allow bound Erk to escape , and the inhibition of Erk activation would be stronger .
+DISCUSSION Taken together , our findings show that HePTP , a strictly Tyr ( P ) -specific protein phosphatase , forms a physical complex through a small region in its unique N terminus with the Erk and p38 MAP kinases .
+Because HePTP very efficiently dephosphorylates these kinases and inactivates them in vitro , it seems that the physical association serves to position HePTP correctly for this catalysis .
+The small amount of HePTP required for MAP kinase inactivation in vitro and the reduction in Erk phosphorylation and activity in intact T cells transfected with HePTP indicate that this function of HePTP is physiologically significant .
+This conclusion is also supported by the finding that HePTP is readily phosphorylated by Erk and p38 at Thr-45 and Ser-72 , both of which are phosphorylated in intact cells .
+Finally , very similar conclusions were recently drawn using mast cells from mice deficient in HePTP . ''
+Together these observations indicate that the role of HePTP is to negatively regulate the Erk and p38 MAP kinases in hematopoietic cells .
+Whether the related PTPases STEP and PCPTP1 carry out this task in other cell types remains to be determined .
+Both share an N-terminal sequence with a high degree of homology to the ® B. Zanke , personal communication .
+610Z '01 Aepy uo 4g wo ; popeoumog HePTP Binds and Dephosphorylates MAP Kinase a kinase tryptic peptide map PAA 1 2 2 y peptide 1 peptide 2 e ﬂ f P5 “ .
+ppp , |PSer_ , , Eth g 4 t. } PTyr PTyr e ' peptide 4____ peptide 5 PSer__ f PSeIr '' A z .
+1 { Th “ rim f d PTyr PTyr origin b wt HePTP ___ HePTP-S72A _ HePTP-T45A 5 4 4 ; # 2 .
+1 é. i + `` $ M ‘ ( Eigin 039m aggin c d - MAP kinase soluble 1 2 3 4 5 6 7 s 9 10 « « - m » amm| < HePTP-C2705 bound aap aa » « | < 4 HcPTP-C2705S sa-0 : 2 , 5 !
+23 : 29-anti-CD3 X46 , & < ( t- & # < Fic .
+6 .
+Mapping of phosphorylation sites in N terminus of HePTP .
+a , first panel , autoradiogram of GST-HePTP-C2708 incubated with a lysate from untreated ( Zane 1 ) or pervanadate-treated cells ( Zane 2 ) , washed extensively , and then incubated with [ y-*°P ] JATP for 5 min .
+Second panel , tryptic peptide map of the band in lane 2 of the first panel .
+Third panel , phosphoamino acid analysis ( PAA ) of peptides 1 , 2 , 4 , and 5 from the same tryptic peptide map .
+PSer , Ser ( P ) ; PTyr , Tyr ( P ) .
+b , tryptic peptide maps of GST-HePTP , GST-HePTP-872A , and GST-HePTP-T45A phosphorylated by recombinant Erk2 in vitro in the presence of [ y-*°P ] ATP .
+wt , wild type .
+c , anti-HA immunoblots of superna-tants ( upper panel ; soluble ) or pellets ( lower panel ; bound ) of glutathione-Sepharose beads preadsorbed with 0.5 ug of active GST-Erk2 incubated in a lysate of T cells transfected with HA-tagged HePTP-C2708 , washed extensively , and then incubated with 10 uM ATP at 87 °C for the indicated time .
+Note the increase in soluble HePTP and the decrease in bound HePTP .
+Similar results were obtained in at least one other experiment for each panel .
+d , in vitro kinase assay of myc-tagged Erk2 MAP kinase expressed in JCaM1 cells alone or together with the indicated plasmids and either left unstimulated or treated with anti-CD8e mAbs for 5 min .
+The upper panel shows the autoradiogram of the kinase assay .
+The amount of Erk2 in the precipitates was visualized by immunoblotting ( second panel ) and the expression of HePTP by anti-HA tag immunoblotting of the lysates ( third panel ) .
+The same result was obtained in another independent experiment .
+Erk/p38 binding region of HePTP .
+It is well established that MAP kinases are the targets for dual-specificity phosphatases ( 35-37 ) in T cells ; particularly , the Pacl phosphatase ( 86 ) .
+In contrast to HePTP ( 4 , 6 ) , however , these enzymes are not present in resting T cells but are 11699 PTKs } - SHP1 $ 35 Ras cytoplasm a Raf t Mfk -2 _ Erkt- Paci / \/ nucleus Fic .
+7 .
+Proposed sequential phosphatase model of Erk regula-tion .
+TCR , T cell antigen receptor .
+Arrows refer to stimulation , and T-shaped lines refer to inhibition .
+PTKs , protein-tyrosine kinases .
+induced and synthesized some 30-60 min after receptor liga-tion ( 35 , 36 ) .
+Thus , they are unlikely to be responsible for suppression of MAP kinases in resting T lymphocytes or during early time points of T cell activation .
+It has been shown also in other cell types that the inactivation of MAP kinases precedes the induction of dual-specificity phosphatases and that a cytosolic PTP ase is involved ( 38 , 39 ) .
+In the budding yeast , Saccha-romyces cerevisiae , the mating pheromone-induced activation of the MAP kinases Fus3p and Kss1p is tightly regulated by the concerted action of the dual-specificity protein phosphatase Msg5p and the conventional PTPases Ptp2p and Ptp3p ( 40 ) .
+In this system , the latter are responsible for the basal suppression of the MAP kinases and for terminating their ligand-induced activation .
+In contrast , the dual-specificity phosphatase is encoded by an inducible gene , and the role of the enzyme is primarily to dephosphorylate the MAP kinases at later time points ( `` recovery '' ) .
+Our findings suggest that a mammalian PTPase , HePTP , is a functional homologue of Ptp2p and Ptp3p and is responsible for basal dephosphorylation and control at early time points .
+Lymphocyte activation is initiated by the action of several protein-tyrosine kinases ( 41 , 42 ) and is very likely to be negatively regulated by a number of PTPases ( 43 ) .
+Only one such PTPase is currently known , namely SHPI1 ( 44 , 45 ) , which dephosphorylates receptor-associated signaling molecules .
+Here we show that HePTP functions at a distinct step to negatively regulate lymphocyte activation .
+In contrast to SHP1 , HePTP has a high degree of specificity for Erk and perhaps p38 MAP kinases and does not affect the tyrosine phosphorylation events upstream of these kinases .
+This specificity is due , in part , to a strong physical association of HePTP with Erk and p38 , an interaction that is constitutive and occurs through the unphos-phorylated N terminus of HePTP .
+We suggest that upon activation of Erk by Mek , the activated Erk either rapidly phosphorylates Thr-45 and Ser-72 , dissociates ( perhaps also because of other mechanisms ) , and escapes into the nucleus to phosphorylate its nuclear substrates .
+A fraction of the activated Erk molecules , however , are rapidly inactivated by the bound HePTP .
+As determined by immunofluorescence , HePTP appears to remain exclusively cytosolic ( Ref .
+10 ) '' and , thus , unable to inactivate MAP kinase molecules in the nucleus .
+Instead , these are later inactivated by the nuclear dual-specificity phosphatases , which are absent in resting T cells but are induced within 30-60 min of T cell activation .
+This sequential phosphatase model ( Fig .
+7 ) provides a flexible mechanism for the regulation and fine-tuning of MAP kinases , which function as crucial signal integration and decision points in T cell activation as well as in growth and stress responses in many other cell types .
+Our model predicts a potential role for HePTP in positive selection of T cells in the thymus ( 46 ) , cytokine pro 610Z '01 Aepy uo 4g wo ; popeoumog 11700 HePTP Binds and Dephosphorylates MAP Kinase duction ( 27 , 47 ) , T cell proliferation ( 48 ) , or anergy ( 49 ) and potentially in other MAP kinase-dependent aspects of T cell differentiation and activation .
+Acknowledgments-We are grateful to Dr. Brent Zanke for the kind gift of the HePTP cDNA and for valuable discussions , to Toshi Kawakami and Bob Abraham for reagents , and to Drs .
+Carl Ware and Douglas Green for comments on the manuscript .
+REFERENCES 1 .
+Hunter , T. , and Sefton , B. M. ( 1980 ) Proc .
+Nafl .
+Acad .
+Sci .
+U. S. A .
+77 , 1311-1315 2 .
+Cantley , L. C. , Auger , K. R. , Carpenter , C. , Duckworth , B. , Graziani , A. , Kapeller , R. , and Soltoff , S. ( 1991 ) Cell 64 , 281-302 3 .
+Bishop , M. J .
+( 1991 ) Cell 64 , 235-248 4 .
+Zanke , B. , Suzuki , H. , Kishihara , K. , Mizzen , L. , Minden , M. , Pawson , A. , and Mak , T. W. ( 1992 ) Eur .
+J. Immunol .
+22 , 285-239 5 .
+Adachi , M. , Sekiya , M. , Isobe , M. , Kumura , Y. , Ogita , Z.-L. , Hinoda , Y. , Imai , K. , and Yachi , A .
+( 1992 ) Biochem .
+Biophys .
+Res .
+Commun .
+186 , 1607-1615 6 .
+Saxena , M. , Williams , S. , Gilman , J. , and Mustelin , T. ( 1998 ) J. Biol .
+Chem .
+278 , 15340-15344 7 .
+Lombroso , P. J. , Murdoch , G. , and Lerner , M. ( 1991 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+88 , 7242-7246 8 .
+Shiozuka , K. , Watanabe , Y. , Ikeda , T. , Hashimoto , S. , and Kawashima , H. ( 1995 ) Gene 162 , 279-284 9 .
+Sharma , E. , and Lombroso , P. J .
+( 1995 ) J. Biol .
+Chem .
+270 , 49-53 10 .
+Sweiter , M. , Berenstein , E. H. , Swaim , W. D. , and Siraganian , R. P. ( 1995 ) J. Biol .
+Chem .
+270 , 21902-21906 11 .
+Zanke , B. , Squire , J. , Griesser , H. , Henry , M. , Suzuki , H. , Patterson , B. , Minden , M. , and Mak , T. W. ( 1994 ) Leukemia ( Baltimore ) 8 , 236-244 12 .
+Fonatsch , C. , Haase , D. , Freund , M. , Bartels , H. , and Tesch , H. ( 1991 ) Cancer Genet .
+Cytogenet .
+56 , 243-253 13 .
+Mamaev , N. , Mamaeva , S. E. , Pavlova , V. , and Patterson , D. ( 1988 ) Cancer Genet .
+Cytogenet .
+85 , 21-25 14 .
+Mitelman , F. , Kaneko , Y. , and Trent , J .
+( 1991 ) Cytogenet .
+Cell Genet .
+58 , 1503-1579 15 .
+Adachi , M. , Sekiya , M. , Ishino , M. , Sasaki , H. , Hinoda , Y. , Imai , K. , and Yachi , A .
+( 1994 ) FEBS Lett .
+838 , 47-52 16 .
+Hata , D. , Kitaura , J. , Hartman , S. E. , Kawakami , Y. , Yokota , T. , and Kawakami , T. ( 1998 ) J. Biol .
+Chem .
+278 , 10979-10987 17 .
+Straus , D. B. , and Weiss , A .
+( 1992 ) Cell 70 , 585-593 18 .
+Williams , B. L. , Schreiber , K. L. , Zhang , W. , Wange , R. L. , Samelson , L. E. , Leibson , P. J. , and Abraham , R. T. ( 1998 ) Mol .
+Cell .
+Biol .
+18 , 1388-1399 19 .
+Jascur , T. , Gilman , J. , and Mustelin , T. ( 1997 ) J. Biol .
+Chem .
+272 , 14483-14488 20 .
+Williams , S. , Couture , C. , Gilman , J. , Jascur , T. , Deckert , M. , Altman , A. , and 21 .
+22 .
+28 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+Mustelin , T. ( 1997 ) Eur .
+J. Biochem .
+245 , 84-90 Luo , K. , Hurley , T. R. , and Sefton , B. M. ( 1990 ) Oncogene 5 , 921-928 Altman , A. , Coggeshall , K. M. , and Mustelin , T. ( 1990 ) Adv .
+Immunol .
+48 , 227-360 Jain , J. , Lob , C. , and Rao , A .
+( 1995 ) Curr .
+Opin .
+Immunol .
+7 , 388-8342 Rooney , J. W. , Sun , Y.-L. , Glimcher , L. H. , and Hoey , T. ( 1995 ) Mol .
+Cell .
+Biol .
+15 , 6299-6310 Rao , A. , Luo , C. , and Hogan , P. G. ( 1997 ) Annu .
+Rev .
+Immunol .
+15 , 707-747 Foletta , V. C. , Segal , D. H. , and Cohen , D. R. ( 1998 ) J. Leukocyte Biol .
+63 , 139-152 Karin , M. ( 1995 ) J. Biol .
+Chem .
+270 , 16483-16486 Whitehurst , C. E. , and Geppert , T. D. ( 1996 ) J. Immunol .
+156 , 1020-1029 Zheng , C.-F. , and Guan , K.-L. ( 1994 ) EMBO J .
+18 , 1123-1131 Whitmarsh , A. J. , Shore , P. , Sharrocks , A. D. , and Davis , R. J .
+( 1995 ) Science 269 , 403-407 Siegel , J. N. , Klausner , R. D. , Rapp , U. R. , and Samelson , L. E. ( 1990 ) J. Biol .
+Chem .
+265 , 18472-18477 Izquierdo , M. , Bowden , S. , and Cantrell , D. ( 1994 ) J. Exp .
+Med .
+180 , 401-406 Couture , C. , Songyang , Z. , Jascur , T. , Williams , S. , Tailor , P. , Cantley , L. C. , and Mustelin , T. ( 1996 ) J. Biol .
+Chem .
+271 , 24880-24884 Zhang , W. , Sloan-Lancaster , J. , Kitchen , J. , Trible , R. P. , and Samelson , L. E. ( 1998 ) Cell 92 , 83-92 Keyse , S. M. , and Emslie , E. A .
+( 1992 ) Nature 859 , 644-647 Rohan , P. J. , Davis , P. , Moskaluk , C. A. , Kearns , M. , Krutzsch , H. , Siewbenlist , U. , and Kelly , K. ( 1993 ) Science 259 , 1763-1766 Keyse , S. M. ( 1998 ) Semin .
+Cell Dev .
+Biol .
+9 , 148-152 Alessi , D. R. , Gomez , N. , Moorhead , G. , Lewis , T. , Keyse , S. M. , and Cohen , P. ( 1995 ) Curr .
+Biol .
+5 , 283-295 Gopalbhai , K. , and Meloche , S. ( 1998 ) J .
+Cell .
+Physiol .
+174 , 35-47 Zhan , X.-L. , Deschenes , R. J. , and Guan , K.-L. ( 1997 ) Genes Dev .
+11 , 1690-1702 Mustelin , T. , Coggeshall , K. M. , Isakov , N. , and Altman , A .
+( 1990 ) Science 247 , 1584-1587 Mustelin , T. ( 1994 ) Immunity 1 , 351-856 Mustelin , T. , Brockdorff , J. , Gjérloff-Wingren , A. , Tailor , P. , Han , S. , Wang , X. , and Saxena , M. ( 1998 ) Front .
+Biosci .
+8 , 1066-1096 D'Ambrosio , D. , Hippen , K. L. , Minskoff , S. A. , Mellman , L , Pani , G. , Siminovitch , K. A. , and Cambier , J. C. ( 1995 ) Science 268 , 298-296 Pani , G. , Fischer , K.-D. Mlinaric-Rascan , I. , and Siminovitch , K. A .
+( 1996 ) J. Exp .
+Med .
+184 , 839-852 Alberola-lla , J. , Forbush , K. A. , Seger , R. , Krebs , E. G. , and Perlmutter , R. M. ( 1995 ) Nature 878 , 620-623 Egerton , M. , Fitzpatrick , D. R. , Catling , A. D. , and Kelso , A .
+( 1996 ) Eur .
+J. Immunol .
+26 , 2279-2285 DeSilva , D. R. , Jones , E. A. , Favata , M. F. , Jaffee , B. D. , Magolda , R. L. , Trzaskos , J. M. , and Scerle , P. A .
+( 1998 ) J. Immunol .
+160 , 4175-4181 Li , W. , Whaley , C. D. , Mondino , A. , and Mueller , D. L. ( 1996 ) Science 271 , 1272-1276 610Z '01 Aepy uo 4g wo ; popeoumog Inhibition of T Cell Signaling by Mitogen-activated Protein Kinase-targeted Hematopoietic Tyrosine Phosphatase ( HePTP ) Manju Saxena , Scott Williams , Johannes Brockdorff , Jennifer Gilman and Tomas Mustelin J. Biol .
+Chem .
+1999 , 274:11693-11700. doi : 10.1074/jb0.274.17.11693 Access the most updated version of this article at http : /www.jbe.org/content/274/17/11693 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 49 references , 22 of which can be accessed free at http : //www 7/1 1693. full.html # ref-list-1 610Z '01 Aepy uo 4g wo ; popeoumog

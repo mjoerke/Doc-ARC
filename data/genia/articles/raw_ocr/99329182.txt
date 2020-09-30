@@ -1,0 +1,600 @@
+JOURNAL or VirRoLOGY , Aug. 1999 , p. 6582-6589 0022-538 X/99/ $ 04.00+0 Vol .
+73 , No .
+8 Copyright © 1999 , American Society for Microbiology .
+All Rights Reserved .
+Escape of Human Cytomegalovirus from HLA-DR-Restricted CD4* T-Cell Response Is Mediated by Repression of Gamma Interferon-Induced Class II Transactivator Expressiont EMMANUELLE LE ROY , '' ANNICK MUHLETHALER-MOTTET , '' CHRISTIAN DAVRINCHE , ' BERNARD MACH , '' anp JEAN-LUC DAVIGNON !
+* INSERM U 395 , Toulouse , France , and Louis Jeantet Laboratory of Molecular Genetics , Department of Genetics and Microbiology , University of Geneva Medical School , Geneva , Switzerland '' Received 1 March 1999/Accepted 14 May 1999 Human cytomegalovirus ( HCMV ) , a betaherpesvirus , is a pathogen which escapes immune recognition through various mechanisms .
+In this paper , we show that HCMV down regulates gamma interferon ( IFN-y ) -induced HLA-DR expression in U373 MG astrocytoma cells due to a defect downstream of STAT1 phosphorylation and nuclear translocation .
+Repression of class II transactivator ( CIITA ) mRNA expression is detected within the first hours of IFN-y-HCMV coincubation and results in the absence of HLA-DR synthesis .
+This defect leads to the absence of presentation of the major immediate-early protein IE1 to specific CD4* T-cell clones when U373 MG cells , used as antigen-presenting cells , are treated with IFN-y plus HCMV .
+However , presentation of endogenously synthesized IE1 can be restored when U373 MG cells are transfected with CIHITA prior to infection with HCMV .
+Altogether , the data indicate that the defect induced by HCMV resides in the activation of the IFN-y-responsive promoter of This is the first demonstration of a viral inhibition of CIITA expression .
+Human cytomegalovirus ( HCMV ) , a betaherpesvirus , is pathogenic almost exclusively in immunocompromised individ-uals .
+Cellular immune response is thought to control HCMV in immunocompetent people , both in the acute phase and in the latent infection which ensues ( for a review , see reference 6 ) .
+Cytotoxic CD8* T cells contribute greatly to immunological control , as revealed by the presence of cytotoxic CD8 * T cells in patients who recover from acute infections ( 37 ) and by the prevention of HCMV disease following the injection of viral matrix-specific CD8 clones to bone marrow transplant patients ( 44 ) .
+CD4* T cells against HCMV proteins have also been described ( 4 , 12 , 28 ) , and a significant response towards IE1 , the major immediate-early DNA-binding protein , has been reported ( 3 , 9 ) .
+The precursor frequencies of IE1 -specific CD4 * T cells are high in latently infected individuals ( 9 ) , and cytokines such as gamma interferon ( IFN-y ) and tumor necrosis factor alpha ( TNF- « ) found in the supernatant of CD4* T-cell clones specific for IE1 significantly reduce HCMV replication ( 10 ) .
+The role of CD4~* T cells in HCMV infections was inferred from these in vitro studies and from in vivo studies showing that CD4 * T cells are required for the clearance of mouse cytomegalovirus ( MCMV ) in salivary glands of mice ( 22 ) .
+Major histocompatibility complex ( MHC ) class II expression is a key element in the control of the immune response .
+It is required for the activation of T lymphocytes in the process of antigen ( Ag ) presentation by professional or nonprofessional antigen-presenting cells ( APC ) ( 13 ) .
+Three essential transacti-vators of MHC class II genes have been identified : RFXS and RFX-AP are part of the RFX complex that binds to the X box * Corresponding author .
+Mailing address : INSERM U 395 , CHU Purpan , BP 3028 , 31024 Toulouse Cedex , France .
+Phone : 33 5 62 74 83 76 .
+Fax : 33 5 62 74 83 86 .
+E-mail : davignon @ purpan.inserm.fr .
+¢ This work is dedicated to the memory of our friend and colleague Claude de Préval .
+6582 of all MHC class II promoters , while the class II transactivator ( CHTA ) is itself tightly regulated , and this transactivator functions as the master controller of MHC class II expression , probably in all physiological conditions ( 30 , 42 ) .
+Both constitutive and inducible expressions of MHC class II genes are indeed dependent on CIITA , and the CIITA gene is itself controlled by distinct alternative promoters ( 33 ) .
+While CIITA promoters I and III are specific for constitutive expression in dendritic cells and B lymphocytes , respectively , induction of CIITA , and hence of MHC class II , by IFN-y is mediated by promoter IV .
+Activation by IFN-y takes place via a cascade of events which involves tyrosine phosphorylation of STAT1 by JAK1 and JAK2 kinases , followed by nuclear translocation and binding of STAT1 to a GAS sequence within the promoter of the target gene ( reviewed in reference 8 ) .
+In the case of the activation of CIITA promoter IV by IFN-y , cooperation between three distinct and essential transacting factors , STAT1 and USF-1 ( binding cooperatively to a GAS-E box motif ) and IRF-1 , has recently been described in detail ( 34 ) .
+This also explains why JAK1 and STAT1 mutants lack induc-ibility of MHC class II by IFN-y ( 31 ) .
+The detailed dissection of these multiple steps of the cascade , from IFN-y activation to expression of MHC class II molecules ( 33 , 34 ) , now allows the assignment of various types of inhibition to specific steps within this cascade .
+APC capacity is triggered by IFN-y treatment in many cell types , due to the induction of expression of HLA class II , the invariant chain , and HLA-DM which catalyzes the release of invariant chain-derived Clip peptide from HLA class II molecules and allows the binding of processed peptides ( 36 ) .
+MHC class II molecules are known to present peptides derived from extracellular , exogenous Ag to CD4 * T cells ( 36 ) .
+However , it appears that presentation of intracellular endogenous , especially viral , Ags is common ( 14 , 23 ) .
+This suggests cognate interaction between CD4 * T cell and the infected MHC class II-positive APC .
+Immunological controls of cytomegaloviruses are counter voL .
+73 , 1999 balanced by escape mechanisms from class I-mediated recognition by CD8 * T cells , as recently described ( 46 ) .
+Several genes localized in the unique short ( US ) region of the HCMV genome are responsible for down regulating HLA class I expression at multiple levels through retrotranslocation of HLA class I heavy chain to the cytosol ( US2 [ 19 , 47 ] and US11 [ 21 , 45 ] ) , retention in the endoplasmic reticulum ( US3 [ 1 , 20 ] ) and inhibition of TAP translocation of peptides ( USG [ 2 , 17 , 26 ] ) .
+The CD4* compartment of cellular immunity has been suspected to be down regulated since the observation by Sedmak et al .
+( 38 ) that HCMV inhibits HLA class II expression induced by IFN-y .
+A recent report by Miller et al .
+( 32 ) has described a mechanism of JAK1 proteolysis by HCMV to explain the inhibition of IFN-y-mediated induction of HLA class II .
+In mice , Heise et al .
+( 15 ) have reported that MCMV down regulates IFN-y-induced expression of MHC class I-related molecules through the inhibition of their transcription .
+The mechanism , which occurs downstream of STAT1 activation , has yet to be determined .
+In this paper , we made use of an astrocytoma cell line , U373 MG , which is fully permissive to HCMV .
+This cell line can also be induced to express HLA-DR by treatment with IFN-y and to subsequently present Ag to HCMV IEl-specific CD4* T cells ( 11 ) .
+We show here that HCMV infection prevents induction of HLA-DR expression by IFN-y in U373 MG cells .
+This inhibition occurs downstream of the activation of STAT1 , whose phosphorylation and nuclear translocation are not inhibited by HCMV .
+CIITA transcription is strongly repressed by cotreatment of cells with IFN-y plus HCMV .
+Logically , this strong reduction of MHC class II expression by HCMV results in the absence of IE1 presentation and recognition by CD4 * T-cell clones .
+Transfection of the U373 MG cells by CIITA , however , can restore both HLA-DR expression and the ability to present endogenously produced IE1 to CD4 * T cells , even following HCMV infection .
+These results indicate that , in IFN-y-treated cells , down regulation of MHC class II expression by HCMV results from a repression of CIITA induction .
+The modulation of MHC class II-dependent IE1 recognition by viral infection , via an effect on CIITA expression , can thus allow HCMV cells to escape from the CD4* T-cell response .
+MATERIALS AND METHODS Virus , cell lines , and the IEl-specific CD4* T-cell clone .
+HCMV ( Towne strain ) stocks were obtained by infection of foreskin fibroblasts at a multiplicity of infection ( MOI ) of 0.01 in 10 % fetal calf serum ( FCS ) culture medium ( RPMI-Glutamax I supplemented with sodium pyruvate and antibiotics from GIBCO-BRL ) .
+U373 MG cells were cultured in 10 % FCS culture medium .
+HCMV , fibroblasts , and U373 MG cells were kind gifts from S. Michelson ( Institut Pasteur , Paris , France ) .
+Transfection of U373 MG cells with the pSRa-neo/CIITA-Tag plasmid was performed by using the calcium phosphate method .
+Transfected cells were then cloned by limiting dilution and HLA-DR expression was controlled by flow cytometry .
+The previously described CD4* T-cell clone FzD3 specific for IE1 was obtained by limiting dilution from a healthy HCMV-seropositive donor ( 10 ) .
+FzD3 clone was maintained by weekly restimulations with phytohemagglutinin and allogeneic irradiated peripheral blood mononuclear cells in the presence of interleukin 2 ( IL-2 ) ( 20 U/m ! )
+in culture medium supplemented with 10 % human serum .
+HCMV inoculum was inactivated by using alternating UV and gamma irradi-ation .
+Both were used to ensure that the results did not depend on the inacti-vation method .
+MAb .
+E13 , an immunoglobulin G1 ( IgG1 ) mouse monoclonal antibody ( MAb ) specific for immediate-early proteins UL122 to -123 , was a kind gift from M.-C. Mazeron ( Hopital Lariboisigre , Paris , France ) .
+MAb CCH2 ( anti-ULA4 early protein ) was purchased from DAKO .
+Control IgG1 myeloma protein was from Sigma .
+W6/32 , OKT3 , and L243 MAbs were purchased from the American Type Culture Collection .
+DA6-231 , an anti-HLA-DR f chain ( 43 ) , was a kind gift from S. Demotz ( University of Lausanne , Lausanne , Switzerland ) .
+ESCAPE OF HCMV FROM CD4* T-CELL RESPONSE - 6583 RNase protection assays .
+Quantitative analysis of CIITA and GBP mRNAs was performed by RNase protection assays as described in detail elsewhere ( 30 ) .
+Immunoprecipitation .
+U373 MG ( 10° cells ) was plated in culture medium in 25-cm* flasks and was either left untreated or was treated with IFN-y ( 300 U/ml ) , with IFN-y ( 300 U/ml ! )
+plus HCMV ( MOLI = 5 ) , or incubated with HCMV alone ( MOI = 5 ) .
+For MHC class I immunoprecipitation , cells were washed in phosphate-buff-ered saline ( PBS ) 24 h later , incubated in methionine-and-cysteine-free medium ( Gibco ) for 1 h , and labelled with [ *°SJmethionine plus ( 100 Ci/ ml ) ( ICN ) for 2 h. Cells were lysed in lysis buffer ( 1 % Nonidet P-40 , 5 mM EDTA , 150 mM NaCl , 1 mM MgCl , , 0.05 mM phenylmethylsulfonyl fluoride [ PMSF ] , 50 mM Tris [ pH 7.6 ] ) for 45 min on ice .
+Preclearing of the lysate was performed overnight by using protein A-conjugated Sepharose beads ( Pharma-cia ) .
+W6/32 antibody was then added to the lysate for 1.5 h at 4°C .
+Protein A-coupled Sepharose beads were then added , and incubation was continued for an additional 2 h at 4°C .
+For MHC class II immunoprecipitation , cells were washed in PBS 18 h after treatment , incubated for 1 h in methionine-and-cysteine-free medium and labelled with [ *°S } methionine plus [ **SJeysteine for the last 6 h. Cells were lysed in lysis buffer ( 1 % Nonidet P-40 , 5 mM EDTA , 150 mM NaCl , 1 mM MgCl , , 0.05 mM PMSF , 50 mM Tris [ pH 7.6 ] ) for 45 min on ice .
+Preclearings were performed as follows : the cell lysates were incubated with normal mouse serum and protein G-conjugated Sepharose beads for 2 h. A second preclearing was performed by using 50 pil of zysorbin ( Zymed ) for 4 h. DA6-231 antibody was then added to the cell lysates , and incubation was performed overnight at 4°C .
+Protein G-conjugated Sepharose beads were then added , and incubation was maintained for another 2 h. For both MHC class I and class II immunoprecipitations , the beads were then washed and boiled in 5 % B-mercaptocthanol reducing Laemmli buffer and run on 10 % polyacrylamide gels .
+Gels were fixed , incubated in Amplify ( Amersham ) , vacuum dried , and exposed to hyperfilm-MP ( Amersham } .
+Flow cytometry .
+U373 MG cells were infected by using supernatant from infected fibroblasts .
+U373 MG cells were treated with IFN-y ( 300 U/ml ) or with IFN-y plus HCMV or IFN-y plus gamma-irradiated HCMV .
+The contents of wells were aspirated and replaced with fresh medium and fresh IFN-y on day 3 .
+The culture was allowed to proceed for an additional 3 days .
+U373 MG cells were then double stained for cell surface HLA-DR and intracellular immediate-early ( UL122 to -123 ) or early ( ULA44 ) proteins and analyzed by flow cytometry .
+Cell viability was assessed by using Trypan Blue exclusion and was found to be greater than 80 % .
+For double staining , U373 MG cells were incubated for 20 min at 4°C with saturating amounts of OKT3 ( used as a control ) or L243 MAb in Ca**/Mg**-free PBS-3 % FCS plus 0.1 % NaN , ( staining buffer ) , washed twice in staining buffer , then incubated with goat F ( ab ' ) , fragment anti-mouse IgG coupled to fluorescein isothiocyanate ( Sigma ) .
+Cells were washed twice in staining buffer , then incubated for 90 min at 4°C with OKT3 to saturate unbound anti-mouse IgG-fluorescein isothiocyanate Fab sites , then fixed with 1 % paraformaldehyde for 20 min at 4°C and washed with PSN buffer ( PBS + 1 % normal goat serum + 1 mM EDTA + 0.05 % saponin ) .
+MAbs ( IgG1 ) specific for HCMV immediate-early ( E13 ) and early ( CCH2 ) proteins , or IgG1 myeloma protein ( Sigma ) used as a control , were diluted in PSN , and added to cell samples for a 90-min incubation at 37°C .
+Cells were washed twice in PSN buffer and incubated for 20 min at 4°C with isotype-specific phycoerythrin-coupled anti-IgG1 goat anti-mouse F ( ab ' ) , antiserum ( Southern Biotechnology ) .
+Samples were then analyzed by using an EPICS Elite cell sorter .
+Immunocytochemistry .
+U373 MG cells were seeded at 30,000 cells per well ( 24-well plate ; FALCON ) in RPMI 1640 supplemented with heat-inactivated 10 % FCS and were cultured for 24 h. They were then cultured in serum-free medium for another 24 h. Then they were treated with IFN-y ( 300 U/m ! )
+and , except for controls , were infected with HCMV for 15 or 30 min or 1 , 6 , or 24 h. Cells were washed once with 1 % PBS and were fixed with 1 ml of 1 % PBS containing 3 % paraformaldehyde for 10 min at 4°C .
+Immunochemistry was then performed by using a rabbit PhosphoPlus STAT1 ( Tyr 701 ) antiserum ( Biolabs ) .
+The biotinylated secondary antibody was a peroxidase-coupled horse anti-mouse and anti-rabbit IgG ( Vectastain ABC kit ; Vector Laboratories ) .
+Staining was revealed by using diaminobenzidine ( Sigma ) and H ; O , .
+IE1-specific CD4* T-cell clone response .
+U373 MG cells were seeded at 1.5 X 10° cells/well in RPMI 1640 supplemented with 10 % FCS in a 6-well plate ( FALCON ) .
+Cells were mock infected or treated with HCMV or UV-irradiated HCMV ( MOI = 5 ) and treated simultaneously with IFN-y ( 300 U/ml ! ) .
+Cells were fed on day 3 with fresh medium supplemented with IFN-y ( 300 U/ml ! )
+and were left in culture for an additional 2 days .
+U373 MG-CIITA cells were mock infected or infected with either HCMV or UV-irradiated HCMV at an MOI of 5 for 5 days .
+U373 MG and U373 MG-CIITA cells were incubated with specific IE1 peptide ( amino acids 91 to 110 ) ( Neosystem , Strasbourg , France ) at a concentration of 10 M overnight .
+U373 MG and U373 MG-CIITA cells were then harvested , washed , and plated in triplicate ( 3 X 10° cells per well ) in a 96-well plate in the presence of 3 x 10+ FzD3 IE1-specific CD4* T-cell clones in a final volume of 200 ul for 24 h. Then supernatants were collected , triplicates were pooled , and IFN-y was measured by using an enzyme-linked immunosorbent assay ( Medgenix Screening Line ) .
+Western blotting .
+U373 MG cells ( 10° in T25 culture flasks ) were incubated in culture medium alone or in the presence of IFN-y ( 300 U/m ! )
+or IFN-y ( 300 6584 LE ROY ET AL .
+A B 1000 n 1000 B ( lee , I8 Lge UL122-123 mm-10 , tuo 1000 a 1 to 100 wou 1800 w 1000 m M82 , , Pee 180 Lcc ¢ UL44 ray icin map Horr rtm J. Virou .
+| ree w cdef _. M i to 190 ' 1088 a 2 IC `` O ite TB 1000 B 1009 w 180 ~ C too- u -g HLA-DR FIG .
+1 .
+Inhibition of IFN-y-induced HLA-DR expression by HCMV .
+U373 MG cells were either untreated ( column A ) , treated with IFN-y ( 300 U/m ! 1 ) ( column B ) , treated with IFN-y plus HCMV ( column C ) , or treated with IFN-y plus gamma-irradiated HCMV ( column D ) , as indicated in Materials and Methods .
+U373 MG cells were then double stained for cell surface HLA-DR and intracellular IE ( upper row ) or E ( lower row ) proteins and analyzed by flow cytometry .
+Three experiments , which gave similar results , were performed .
+U/ml ! )
+plus HCMV ( MOLI = 5 ) for different time points in 10 % FCS culture medium .
+In another protocol derived from reference 32 , cells were left untreated , treated with IFN-y alone , or treated with IFN-y after 72 h of infection by HCMV .
+The incubation was stopped by using ice-cold PBS .
+Cells were washed , detached with a cell scraper in PBS , and pelleted at 300 x g for 10 min .
+Cells were lysed in reducing Laemmli buffer .
+Samples equivalent to 3 X 10° cells each were run on a 7.5 % acrylamide gel and transferred to nitrocellulose membranes ( Amersham ) .
+Membranes were incubated with a rabbit PhosphoPlus STAT1 ( Tyr 701 ) -specific antiserum ( Biolabs ) , followed by incubation with a secondary peroxidase-coupled anti-rabbit antiserum ( Biolabs ) .
+Bands were revealed by using an ECL detection kit ( Amersham ) .
+RESULTS Inhibition of IFN-y-induced HLA-DR expression by HCMV infection .
+We tested the induction of HLA-DR by IFN-y in infected U373 MG cells ( Fig .
+1 ) .
+As expected and as previously shown ( 11 ) , IFN-y in the absence of HCMV induced high levels of HLA-DR expression in U373 MG cells .
+Simultaneous coincubation of HCMV with IFN-y almost totally prevented HLA-DR expression .
+A small proportion ( 12 % ) of cells expressed low levels of HLA-DR molecules in spite of HCMV infection .
+This incomplete down regulation of HLA-DR by HCMV was observed in all the experiments performed .
+In these samples , immediate-early ( UL122 and UL123 ) and early ( ULA4 ) proteins were detectable by using E13 and CCH2 MAbs , respectively .
+This indicated that , when U373 MG cells are incubated with IFN-y and HCMV simultaneously , IFN-y does not prevent HCMV infection , but HCMV inhibits IFN y-induced HLA-DR expression .
+To test whether active infection accounted for the inhibition of HLA-DR , HCMV was gamma irradiated ( 800 Gy ) and tested in the same experiment .
+Twenty percent of the cells expressed residual immediate-early proteins , and only 8 % expressed the protein encoded by ULA4 , recognized by CCH2 antibody .
+This clearly showed that the virus was inactivated .
+Irradiated HCMV inoculum did not prevent IFN-y-induced HLA-DR expression .
+In addition , pelleted HCMV , but neither supernatant nor UV-irradiated HCMV , repressed HLA-DR induction ( results not shown ) .
+This suggested that neither virion-associated proteins nor cytokines included in the inoculum were responsible for repression of HLA-DR induction .
+Inhibition of IFN-y-induced HLA-DR synthesis by HCMV infection .
+To test whether the inhibition of HLA-DR expression was observed at an earlier step than cell surface expression , we immunoprecipitated nascent HLA-DR molecules from [ °°S ] Met- [ ~°S ] Cys-labelled U373 MG cells by using the B-chain-specific MAb DA6-231 .
+As shown in Fig .
+2 , a 24-h treatment with IFN-y induced the appearance of bands which correspond to the HLA-DR « , the invariant , and the HLA-DR B chains , respectively .
+The B chain , which contains fewer Met and Cys residues than the « and invariant chains , was less labelled , and the corresponding band was fainter .
+In IFN-y plus HCMV-infected cells , these bands were no longer de-tected .
+This result confirms HCMV inhibition of HLA-DR expression in U373 MG cells and shows that this inhibition is Vou .
+73 , 1999 ESCAPE OF HCMV FROM CD4* T-CELL RESPONSE - 6585 kDa 47.5 -~ 32.5 -= see - HLA-DR & chain s®- _ Invariant chain s= _ HLA-DR B chain FIG .
+2 .
+Inhibition of IFN-y-induced HLA-DR B chain synthesis by HCMV .
+U373 MG cells were treated with IFN-y and/or HCMV or left untreated for 18 h and were pulsed with *°S for 6 h. Cells were lysed , and HLA-DR B chain synthesis was analyzed by immunoprecipitation by using DAG-231 antibody coupled to Sepharose-protein G. Three experiments , which gave similar results , were performed .
+detectable at the level of protein synthesis after a 24-h cotreatment with IFN-y plus HCMV .
+MHC class I up regulation by IFN-y is not repressed by HCMV .
+To test whether HCMV also inhibited IFN-y-induced MHC class I upregulation , we performed immunoprecipita-tions of HLA-A , -B , and -C molecules by using W6/32 MAb .
+As shown in Fig .
+3 , and as expected , MHC class I protein expression was upregulated by IFN-y .
+This up regulation was not inhibited by HCMV concomitant infection .
+As previously described ( 19 ) , HLA class I expression was decreased in U373 MG cells infected with HCMV .
+The lack of effect of HCMV infection on the increase of MHC class I expression induced by IFN-y indicates a clear dissociation between the effects of HLA class I Heavy Chain HCMV on the MHC class II and MHC class I pathways of activation by IFN-y .
+Inhibition of HLA-DR synthesis is not due to a defect in IFN-y-induced STAT activation .
+Since IFN-y-induced HLA-DR expression is dependent upon STAT1 activation ( 24 ) , we tested whether STAT1 phosphorylation , which occurs rapidly in response to IFN-y , was inhibited by HCMV .
+As shown in Fig .
+4A , and in accordance with previous reports ( 39 , 41 ) , STAT1 was phosphorylated after as little as 15 min of IFN-y treatment .
+Both p91 and splice variant p84 were de-tected .
+This phosphorylation was present at late time points ( 24 and 72 h ) and was not inhibited by HCMV infection at a time point ( 24 h ) when HLA-DR proteins were not detectable FIG .
+3 .
+Increase of synthesis of HLA class I proteins by IFN-y in HCMV-treated U373 MG cells .
+U373 MG cells were treated with IFN-y and/or HCMV or left untreated for 24 h and pulsed with for 2 h. Cells were lysed , and HLA class I synthesis was measured by immunoprecipitation by using W6/32 antibody coupled to Sepharose-protein A .
+Two experiments , which gave similar results , were performed .
+6586 LE ROY ET AL .
+A Time 72h 15 min .
+6h IFN-y - + + - + + HCMV = - *+ + - *+ + STATI- P - p 91._ p 84 STATL - p91 _ o « was gp s*** D1 - .
+cmt « tmms « a Time 24h 72h IFN-y + + - + + HCMV = + + =- + + STATI-P p91 _ i/ whn p $ 4 -| eas STAT1 p91—taxman ? mun-mumnm.Ww p 84 B HCMV - - + | - + IFN-y = [ 15 min { 15 min ] 6h | 66 P-STATI g 231 : - e `` '' '' STAT p 91 __ Pee 29 p s- -- - ®t g- » gas aan FIG .
+4 .
+STAT1 activation in the presence of IFN-y and HCMV .
+( A ) U373 MG cells were either untreated or incubated in the presence of IFN-y or IFN-y plus HCMV for 15 min and 6 , 24 , and 72 h. STAT1 phosphorylation was evaluated in a Western blot by using an anti-P-Tyr-STAT1 specific antiserum .
+Levels of STAT1 protein were evaluated in the same samples by using an anti-STAT1 antiserum .
+( B ) U373 MG cells were either incubated with IFN-y for 15 min or 6 h in the absence of HCMV or incubated with IFN-y after 72 h of infection with HCMV .
+STAT1 phosphorylation was then evaluated in a Western blot by using an anti-P-Tyr-STAT1 specific antiserum .
+Levels of STAT1 protein were evaluated in the same samples by using an anti-STAT1 antiserum .
+Three experiments , which gave similar results , were performed .
+J. Virou .
+( see Fig .
+2 ) .
+These results suggested that inhibition of HLA-DR expression was not related to defects in STAT1 phosphorylation in our experimental conditions .
+However , STAT1 phosphorylation was inhibited after a 72-h coincubation with IFN-y plus HCMV .
+Similar results were observed when we used foreskin fibroblasts ( data not shown ) .
+Recently , Miller et al .
+( 32 ) have described an inhibition of IFN-y-induced HLA-DR expression by HCMV in endothelial cells and fibroblasts through JAK1 proteolysis , which logically leads to reduced STAT1 phosphorylation .
+These observations were made by using a different protocol , consisting of a 72-h prein-cubation with HCMV before IFN-y treatment .
+Using their protocol , we also observed that STAT1 phosphorylation was inhibited after 15 min and 6 h of IFN-y treatment in U373 MG-infected cells ( Fig .
+4B ) .
+This shows that U373 MG cells were not refractory to the mechanism described by Miller et al. , and our data suggest the existence of another mechanism , perhaps earlier in the infection , which does not involve the inhibition of STAT1 phosphorylation .
+STAT1 is quickly translocated to the nucleus after phosphorylation ( 8 ) .
+In U373 MG cells , nuclear translocation of STAT1 occurred after 15 min of incubation with IFN-y ( not shown ) .
+Figure 5 shows that IFN-y-induced P-STAT1 translocation to the nucleus was not inhibited by HCMV infection even after a 24-h coincubation .
+Therefore , STAT1 activation and nuclear translocation occur with the same intensity and same kinetics in IFN-y- and IFN-y plus HCMV-treated U373 MG cells at experimental time points when HCMV inhibits IFN-y-induced HLA-DR expression .
+Repression of CIITA mRNA expression by HCMV infection .
+Since HLA-DR repression was not mediated by a defect in STAT1 phosphorylation and nuclear translocation , we looked for an inhibition further down the pathway of IFN-y signalling .
+We therefore looked at CIITA transcription in IFN-y- and IFN-y plus HCMV-treated U373 MG cells .
+RNase protection assays ( Fig .
+6 ) showed that CIITA mRNA expression was induced after 6 h of treatment with IFN-y , as previously described ( 7 , 41 ) .
+The levels of CIITA mRNA were 13.5 times lower in cells treated with IFN-y plus HCMV than in cells treated with IFN-y alone .
+Interestingly , expression of the GBP gene , which is also up-regulated by IFN-y , was also inhibited by HCMV ( ninefold decrease ) , implying a mechanism common to the regulation of these two genes .
+The kinetics of induction of CIITA by IFN-y and its inhibition in HCMV-infected cells suggest that the quick repression of CIHITA after infection accounts for the observed reduction in HLA-DR expression by HCMV .
+In an additional experiment , CIITA transcription was found to be still repressed after 24 h of treatment with IFN-y plus HCMV ( data not shown ) .
+Restoration of CD4* T-cell clone recognition of HCMV IE1 by constitutive CIITA expression in infected U373 MG cells .
+We next tested the consequences of HLA-DR repression on the activation of a specific anti-IE1 T-cell clone which recognizes the HCMV IE1 peptide ( amino acids 91 to 110 ) presented by HLA-DR3-typed U373 MG ( 11 ) .
+Figure 7 shows IFN-y production as an assay for activation of T-cell clone FzD11 .
+This clone produced high amounts of IFN-y when incubated with IFN-y-treated U373 MG cells pulsed with the IE1 peptide ( amino acids 91 to 110 ) ( Fig .
+7A ) .
+However , the FzD11 CD4 * T-cell clone was not activated by U373 MG cells infected by HCMV and treated with IFN-y for 5 days .
+This was not due to the inhibition of IE1 production since high levels of immediate-early proteins were detectable in this protocol ( Fig .
+1 ) .
+Figure 7B shows that the FzD11 clone was activated in the presence of CIHITA-transfected U373 MG cells ( U373 MG voL .
+73 , 1999 UNTREATED IFN-y : \ , ‘ 1 '' ' `` % | N ’ i % ’ : \ X / » ﬁ ‘ fwu JO < .. § .
+$ `` a & » f ¢ * .
+a if J ; $ 35 , 3 *= R A ; 42 j : o k f cA * a 3 # F ESCAPE OF HCMV FROM CD4* T-CELL RESPONSE 6587 IFN-y + HCMV HemV wo .
+ep ; gui § - > ® ar ‘ 5 , h * » [ ' > s # a- @ > l + x a b Q » & Rz t r at < > $ + ﬂ y 4 7 \ a s FIG .
+5 .
+Nuclear translocation of P-STAT1 .
+U373 MG cells either were left untreated or were incubated with IFN-y , HCMV , or IFN-y plus HCMV for 24 h. Nuclear localization of P-STAT1 was evaluated by immunohistochemistry by using an anti-P-STAT1 specific antiserum .
+Two experiments , which gave similar results , were performed .
+CIITA cells ) either incubated with the IE1 peptide ( amino acids 91 to 110 ) or infected with HCMV in the absence of IFN-y treatment .
+This clone was not activated when U373 MG-CIITA cells were treated with UV-irradiated virus ( Fig .
+7B ) .
+This suggested that endogenously produced IE1 was presented during HCMV infection .
+Difference of IFN-y production by the clone when incubated with U373 MG-CIITA cells infected by HCMV or presenting IE1 peptide can be explained by the high concentration of peptide used ( 10 LM ) which could not be reached during infection .
+Similar results were obtained with other anti-IE1 CD4 * T-cell clones ( results not shown ) .
+Therefore , our results show the following : ( i ) the repression of HLA-DR expression in IFN-y-treated U373 MG cells affects the anti-IE1 CD4+* T-cell response by preventing the presentation of endogenous IE1 peptide ; and ( ii ) constitutive expression of CIITA restores IE1 presentation by infected U373 MG cells , indicating that the defect of HLA-DR expres- IFN-y + + = a HCMV _ + e + a CHTA = TBP =~ GBP =~ FIG .
+6 .
+Inhibition of IFN-y-induced CIITA transcription by HCMV .
+U373 MG cells were incubated for 6 h with IFN-y , HCMV , IFN-y plus HCMV , or were left untreated in culture medium .
+Quantitative expression of CIITA and GBP mRNA was examined by RNase protection assay .
+A TBP probe was used as an internal control .
+Two experiments , which gave similar results , were performed .
+sion due to HCMV occurs upstream of the expression of CHITA .
+DISCUSSION We have shown in this paper that HCMV escapes from CD4 * T-lymphocyte recognition through inhibition of IFN-y-induced HLA-DR expression .
+The inhibition is mediated by negative regulation of CIHITA transcription .
+This is the first report of virus-mediated inhibition of CIITA transcription .
+A defect linked with viral infection is clearly involved in the repression of HLA-DR expression .
+This was concluded from A : 100000 10000 1000 100 10 IFN- y -treated U373 MG 100000 10000 1000 100 10 IFN-y ( pg/m1 ) FIG .
+7 .
+Restoration of recognition of endogenous IE1 by specific CD4* T-cell clone through constitutive expression of CIITA .
+Untransfected U373 MG cells were treated with IFN-y and UV-inactivated or unmanipulated HCMV and were used as APC in T-cell specificity assays of IE1-specific CD4* T-cell clones .
+Production of IFN-y was measured ( A ) .
+CIITA-transfected U373 MG cells were treated either with UV-irradiated or unmanipulated HCMV and used as APC in T-cell specificity assays of IEl-specific CD4* T-cell clones ( B ) .
+Three experiments , which gave similar results , were performed .
+6588 LE ROY ET AL .
+the need for infectious virus to inhibit HLA-DR induction and from the observation of viral protein expression in cells with repressed HLA-DR .
+The inhibition of HLA-DR is not due to cytokines contained in the viral inoculum for the following reasons : first , irradiated virus had no negative effect on IFN-y-induced HLA-DR expression ; second , pelleted infectious virus prevented HLA-DR induction effectively ( data not shown ) ; third , the amounts of transforming growth factor B1 , which is known to be involved in HLA-DR down regulation through inhibition of CIITA transcription ( 25 , 35 ) , were found to be similar in the inoculum to that of regular 10 % FCS culture medium ( 300 pg/ml ) ( data not shown ) , and IFN-B has been reported to act downstream of CIITA ( 29 ) .
+Treatment of cells with phosphonacetic acid did not prevent HLA-DR inhibition ( data not shown ) , which suggests that the viral protein involved is encoded in the immediate-early and early phases of infection .
+Besides , the kinetics of CIITA inhibition ( 6 h postinfec-tion ) suggest that the repression occurs in the immediate-early phase of infection .
+However , this point needs further investigation to help identify the viral protein ( s ) involved .
+Our present data point to a transcriptional modulation of CIITA expression due to viral infection .
+Therefore , inhibition of the IFN-y-inducible promoter IV is expected to account for the down regulation of CIITA .
+This inhibition is not unique to CIITA , since repression of both CIITA and GBP was ob-served .
+As both are under the control of IRF-1 ( 5 , 34 ) , which is itself activated by STAT1 ( 27 ) , a defect in IRF-1 transcription or in its binding to the IRF-1 box of promoter IV may be suspected .
+However , the increase of HLA class I synthesis induced by IFN-y , also under the control of IRF-1 ( 18 ) , was not inhibited by HCMV , in accordance with a previous report ( 16 ) .
+This indicates uncoupling of HLA class I and class II regulation in response to IFN-y and HCMV and argues against a major role of IRF-1 in the inhibition of HLA-DR induction .
+Alternatively , functional activity of STAT1 through interaction with other transcriptional factors such as USFI1 ( 34 ) may be impaired and result in down regulation of CHITA transcription .
+Multistep inhibitions of IFN-y-induced HLA class II expression and escape from CD4 * T-cell response in HCMV infection are likely to represent the counterpart of HLA class I inhibition of expression ( 46 ) .
+A recent paper by Miller et al .
+( 32 ) showed that degradation of the JAK1 protein was responsible for down regulation of HLA-DR in endothelial cells .
+Although this process was found to occur in the immediate-early or early phase of infection , it required infection of the cells prior to IFN-y treatment to effectively inhibit HLA-DR induction .
+In the present paper , it is clear that the impaired HLA-DR production was not due to a defect in STAT1 activation .
+Therefore , our protocol of simultaneous coincubation of IFN-y and HCMV unravels a new mechanism of HLA-DR inhibition which is not related to STAT1 activation , since STAT1 phosphorylation and nuclear translocation were present at a time point ( 24 h ) when HLA-DR protein synthesis was repressed .
+Rather , this mechanism involves the inhibition of CIITA RNA expression .
+However , U373 MG was not refractory to the mechanism described by Miller et al. , since we observed an inhibition of STAT1 phosphorylation when their protocol was applied ( Fig .
+4B ) , and when we used our protocol , STAT1 phosphorylation was strongly diminished after 72 h of cotreatment with IFN-y plus HCMV .
+We conclude that several mechanisms can account for the diminished HLA-DR expression in response to IFN-y .
+We suggest that CIITA repression occurs prior to inhibition of STAT1 phosphorylation .
+Another recent report showed inhibition of transcription of MHC class II by MCMV with normal STAT1 activation ( 15 ) J. Virou .
+similar to what we observed in HCMV .
+Whether the mechanism used by MCMV is similar to the one we describe in the present report remains to be investigated .
+Our present data , which identify the defect in CIITA gene activation , also suggest that transcription of other genes which follow similar regulation , as shown for GBP , may be altered by HCMV infection .
+However , not all IFN-y-inducible genes are expected to be the target of HCMV in view of normal up regulation of HLA class I synthesis in the presence of IFN-y and HCMV .
+The mechanism involved in HLA-DR down regulation , which occurs upstream of CIITA and downstream of STAT1 activation , suggests transcription regulation by an immediate-early protein .
+Current studies in our laboratory are aimed at identifying this viral protein ( s ) .
+In addition to helping to understand HLA class II transcription and HCMV regulation of transcription , the identification of such a protein would be useful in situations where targeted immunosuppression is required to down modulate exacerbated ( autoimmunity ) or nonappropriate ( transplantation ) MHC class II expression .
+Although U373 MG cells are not bona fide APC , they are capable of processing and presenting endogenous Ag produced by infected cells when transfected with CIITA in the absence of IFN-y treatment .
+Infection of cells by UV-irradiated HCMV did not activate CD4 * T-cell clones , showing that IE1 peptide was processed from neosynthesized protein in infected U373 MG-CIITA cells .
+Presentation of neosynthesized IE1 and cognate activation of infected cells by CD4* anti-IE1 T lymphocytes has not been documented before .
+The role of IEl-specific CD4* T cells could be the control of cognate , infected APC through release of anti-viral cytokines such as IFN-y and TNF- « .
+This effect may depend on the cell type and on the state of differentiation of cells , since IFN-y and TNF-a have been shown to favor the differentiation and infection of macrophages ( 40 ) .
+However , CD4 * T-cell clones produce cytokines other than IFN-y and TNF-a which possess anti-HCMV activity and may reduce infection ( 10 ) .
+Our data suggest that HCMV allows infected cells to escape from CD4 * recognition by blocking the required induction of HLA-DR .
+In conclusion , we have shown , using U373 MG cells as a model , that HCMV escapes from anti-IE1 CD4* T-lymphocyte response in vitro by interfering with the IFN-y-mediated induction of HLA-DR at the level of CIITA induction .
+HCMV has evolved a number of stealth mechanisms which may account for a very high prevalence of HCMV infection in the population and latency in immunocompetent hosts .
+The modulation of the anti-IE1 CD4 * T-cell response is likely to play an important role in the host-HCMV balance .
+Further experiments are needed to demonstrate that the defect we describe here alters the functional CD4* T-cell response in acute infections in vivo .
+ACKNOWLEDGMENTS This work was supported by grants from INSERM and the Association pour la Recherche sur le Cancer .
+Emmanuelle Le Roy was financed by an M.E.S.R .
+fellowship .
+We thank Sanofi Elf Biorecherche for the gift of recombinant IL-2 , Susan Michelson and Marie-Christine Mazeron for kindly supplying reagents , Danitle Clément for technical assistance , and Claude de Préval , Justine Allan Yorke , and Paola Romagnoli for discussions .
+REFERENCES 1 .
+Ahn , K. , A. Angulo , P. Ghazal , P. A. Peterson , Y. Yang , and K. Friih .
+1996 .
+Human cytomegalovirus inhibits antigen presentation by a sequential multistep process .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 93:10990-10995 .
+2 .
+Abn , K. , A. Grubler , B. Galocha , T. R. Jones , E. J. Wiertz , H. L. Ploegh , P. A. Peterson , Y. Yang , and K. Frubh .
+1997 .
+The ER-luminal domain of the HCMV glycoprotein US6 inhibits peptide translocation by TAP .
+Immunity 6:613-621. voL .
+73 , 1999 3. go 10 .
+11 .
+12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+25 .
+26 .
+Alp , N. J. , T. D. Allport , J .
+Van Zanten , B. Rodgers , J. G. Sissons , and L. K. Borysiewiez .
+1991 .
+Fine specificity of cellular immune responses in humans to human cytomegalovirus immediate-early 1 protein .
+J. Virol .
+65:4812-4820. .
+Beninga , J. , B. Kropff , and M. Mach .
+1995 .
+Comparative analysis of fourteen individual human cytomegalovirus proteins for helper T cell response .
+J. Gen. Virol .
+76:153-160. .
+Briken , V. , H. Ruffner , U. Schultz , A. Schwarz , L. F. Reis , I. Strehlow , T. Decker , and P. Stacheli .
+1995 .
+Interferon regulatory factor 1 is required for mouse Gbp gene activation by gamma interferon .
+Mol .
+Cell .
+Biol .
+15:975-982. .
+Britt , W. J. , and C. A. Alford .
+1996 .
+Cytomegalovirus , p. 2493-2523 .
+In B. N. Fields ( ed .
+) , Virology , 3rd ed .
+Lippincott-Raven Publishers , Philadelphia , Pa. .
+Chang , C. H. , J. D. Fontes , M. Peterlin , and R. A. Flavell .
+1994 .
+Class II transactivator ( CIITA ) is sufficient for the inducible expression of major histocompatibility complex class II genes .
+J. Exp .
+Med .
+180:1367-1374. .
+Darnell , J. E. , Jr. 1997 .
+STATs and gene regulation .
+Science 277:1630-1635. .
+Davignon , J.-L. , D. Clement , J. Alriquet , S. Michelson , and C. Davrinche .
+1995 .
+Analysis of the proliferative T cell response to human cytomegalovirus major immediate-early protein ( IE1 ) : phenotype , frequency and variability .
+Scand .
+J. Immunol .
+41:247-255 .
+Davignon , J.-L. , P. Castanie , J .
+A. Allan Yorke , N. Gautier , D. Clement , and C. Davrinche .
+1996 .
+Anti-human cytomegalovirus activity of cytokines produced by CD4* T-cell clones specifically activated by IE1 peptides in vitro .
+J. Virol .
+70:2162-2169 .
+Davignon , J.-L. , S. Michelson , and C. Davrinche .
+Presentation of human cytomegalovirus immediate-early ( IE1 ) protein by astrocytoma cells to a CD4* T cell clone , p. 139-144 .
+In S. Michelson and S. A. Plotkin ( ed .
+) , Multidisciplinary approach to understanding cytomegalovirus disease .
+Elsevier Science Publishing , Inc. , New York , N.Y. Forman , S. J. , J .
+A. Zaia , B. R. Clark , C. L. Wright , B. J .
+Mills , R. Pottathil , B. C. Racklin , M. T. Gallagher , K. Welte , and K. G. Blume .
+1985 .
+A 64,000 dalton matrix protein of human cytomegalovirus induces in vitro immune responses similar to those of whole viral antigen .
+J. Immunol .
+134:3391-3395 .
+Germain , R. N. 1994 .
+MHC-dependent antigen processing and peptide pre-sentation : providing ligands for T lymphocyte activation .
+Cell 76:287-299 .
+Gueguen , M. , and E. O .
+Long .
+1996 .
+Presentation of a cytosolic antigen by major histocompatibility complex class II molecules requires a long-lived form of the antigen .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 93:14692-14697 .
+Heise , M. T. , M. Connick , and H. W. Virgin IV .
+1998 .
+Murine cytomegalovirus inhibits interferon gamma-induced antigen presentation to CD4 T cells by macrophages via regulation of expression of major histocompatibility complex class IT-associated genes .
+J. Exp .
+Med .
+187:1037-1046 .
+Hengel , H. , C. Esslinger , J .
+Pool , E. Goulmy , and U. H. Koszinowski .
+1995 .
+Cytokines restore MHC class I complex formation and control antigen presentation in human cytomegalovirus-infected cells .
+J. Gen. Virol .
+76:2987-2997 .
+Hengel , H. , J. O. Koopmann , T. Flohr , W. Muranyi , E. Goulmy , G. J. Hammerling , U. H. Koszinowski , and F. Momburg .
+1997 .
+A viral ER-resi-dent glycoprotein inactivates the MHC-encoded peptide transporter .
+Immunity 6:1623-632 .
+Hobart , M. , V. Ramassar , N. Goes , J. Urmson , and P. F. Halloran .
+1997 .
+IFN regulatory factor-1 plays a central role in the regulation of the expression of class I and II MHC genes in vivo .
+J. Immunol .
+158:4260-4269 .
+Jones , T. R. , and L. Sun .
+1997 .
+Human cytomegalovirus US2 destabilizes major histocompatibility complex class I heavy chains .
+J. Virol .
+71:2970-2979 .
+Jones , T. R. , E. J. Wiertz , L. Sun , K. N. Fish , J .
+A. Nelson , and H. L. Ploegh .
+1996 .
+Human cytomegalovirus US3 impairs transport and maturation of major histocompatibility complex class I heavy chains .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 93:11327-11333 .
+Jones , T. R. , L. K. Hanson , L. Sun , J. S. Slater , R. M. Stenberg , and A. E. Campbell .
+1995 .
+Multiple independent loci within the human cytomegalovirus unique short region down-regulate expression of major histocompatibility complex class I heavy chains .
+J. Virol .
+69:4830-4841 .
+Jonjic , S. , W. Mutter , F. Weiland , M. J. Reddehase , and U. H. Koszinowski .
+1989 .
+Site-restricted persistent cytomegalovirus infection after selective long-term depletion of CD4* T lymphocytes .
+J. Exp .
+Med .
+169:1199-1212 .
+Kittlesen , D. J. , L. R. Brown , V. L. Braciale , J. P. Sambrook , M. J. Gething , and T. J. Braciale .
+1993 .
+Presentation of newly synthesized glycoproteins to CD4* T lymphocytes .
+An analysis using influenza hemagglutinin transport mutants .
+J. Exp .
+Med .
+177:1021-1030 .
+Lee , Y. J. , and E. N. Benveniste .
+1996 .
+Statl alpha expression is involved in IFN-gamma induction of the class II transactivator and class II MHC genes .
+J. Immunol .
+157:1559-1568 .
+Lee , Y. J. , Y. Han , H. T. Lu , V. Nguyen , H. Qin , P. H. Howe , B .
+A. Hocevar , J. M. Boss , R. M. Ransohoff , and E. N. Benveniste .
+1997 .
+TGF-beta suppresses IFN-gamma induction of class II MHC gene expression by inhibiting class II transactivator messenger RNA expression .
+J. Immunol .
+158:2065-2075 .
+Lehner , P. J. , J. T. Karttunen , G. W. Wilkinson , and P. Cresswell .
+1997 .
+The human cytomegalovirus US6 glycoprotein inhibits transporter associated ESCAPE OF HCMV FROM CD4* T-CELL RESPONSE 27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+6589 with antigen processing-dependent peptide translocation .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 94:6904-6909 .
+Li , X. , S. Leung , S. Qureshi , J. E. Darnell , Jr. , and G. R. Stark , 1996 .
+Formation of STAT1-STAT2 heterodimers and their role in the activation of IRF-1 gene transcription by interferon-alpha .
+J. Biol .
+Chem .
+271:5790-5794 .
+Liu , Y. N. , A. Klaus , B. Kari , M. F. Stinski , J. Eckhardt , and R. C. Gebhrz .
+1991 .
+The N-terminal 513 amino acids of the envelope glycoprotein gB of human cytomegalovirus stimulates both B- and T-cell immune responses in humans .
+J. Virol .
+65:1644-1648 .
+Lu , H. T. , J. L. Riley , G. T. Babcock , M. Huston , G. R. Stark , J. M. Boss , and R. M. Ransohoff .
+1995 .
+Interferon ( IFN ) beta acts downstream of IFN-gamma-induced class II transactivator messenger RNA accumulation to block major histocompatibility complex class II gene expression and requires the 48-kD DNA-binding protein , ISGF3-gamma .
+J. Exp .
+Med .
+182:1517-1525 .
+Mach , B. , V. Steimle , E. Martinez-Soria , and W. Reith .
+1996 .
+Regulation of MHC class II genes : lessons from a disease .
+Annu .
+Rev .
+Immunol .
+14:301-331 .
+Meraz , M. A. , J. M. White , K. C. Sheehan , E. A. Bach , S. J. Rodig , A. S. Dighe , D. H. Kaplan , J. K. Riley , A. C. Greenlund , D. Campbell , K. Carver-Moore , R. N. DuBois , R. Clark , M. Aguet , and R. D. Schreiber .
+1996 .
+Targeted disruption of the Stat1 gene in mice reveals unexpected physiologic specificity in the JAK-STAT signaling pathway .
+Cell 84:431-442 .
+Miller , D. M. , B. M. Rabhill , J. M. Boss , M. D. Lairmore , J. E. Durbin , J. W. Waldman , and D. D. Sedmak .
+1998 .
+Human cytomegalovirus inhibits major histocompatibility complex class II expression by disruption of the Jak/Stat pathway .
+J. Exp .
+Med .
+187:675-683 .
+Mublethaler-Mottet , A. , L. A. Otten , V. Steimle , and B. Mach .
+1997 .
+Expression of MHC class II molecules in different cellular and functional compartments is controlled by differential usage of multiple promoters of the transactivator CIITA .
+EMBO J .
+16:2851-2860 .
+Mublethaler-Mottet , A. , W. Di Berardino , L. A. Otten , and B. Mach .
+1998 .
+Activation of the MHC class II transactivator CIITA by interferon-gamma requires cooperative interaction between Statl and USF-1 .
+Immunity 8:157-166 .
+Nandan , D. , and N. E. Reiner .
+1997 .
+TGF-beta attenuates the class II transactivator and reveals an accessory pathway of IFN-gamma action .
+J. Immunol .
+158:1095-1101 .
+Pieters , J .
+1997 .
+MHC class II restricted antigen presentation .
+Curr .
+Opin .
+Immunol .
+9:89-96 .
+Quinnan , G. V. , Jr. , N. Kirmani , A. H. Rook , J. F. Manischewitz , L. Jackson , G. Moreschi , G. W. Santos , R. Saral , and W. H. Burns .
+1982 .
+Cytotoxic T cells in cytomegalovirus infection : HLA-restricted T-lymphocyte and non-T lymphocyte cytotoxic responses correlate with recovery from cytomegalovirus infection in bone-marrow-transplant recipients .
+N. Engl .
+J. Med .
+307:7-13 .
+Sedmak , D. D. , A. M. Guglielmo , D. A. Knight , D. J. Birmingham , E. H. Huang , and W. J. Waldman .
+1994 .
+Cytomegalovirus inhibits major histocompatibility class II expression on infected endothelial cells .
+Am .
+J. Pathol .
+144:683-692 .
+Shuai , K. , C. Schindler , V. R. Prezioso , and J. E. Darnell , Jr. 1992 .
+Activation of transcription by IFN-gamma : tyrosine phosphorylation of a 91-kD DNA binding protein .
+Science 258:1808-1812 .
+Soderberg-Naucler , C. , K. N. Fish , and J .
+A. Nelson .
+1997 .
+Interferon-gamma and tumor necrosis factor-alpha specifically induce formation of cytomegalovirus-permissive monocyte-derived macrophages that are refractory to the antiviral activity of these cytokines .
+J. Clin .
+Investig .
+100:3154-3163 .
+Steimle , V. , C. A. Siegrist , A. Mottet , B. Lisowska-Grospierre , and B. Mach .
+1994 .
+Regulation of MHC class II expression by interferon-gamma mediated by the transactivator gene CIITA .
+Science 265:106-109 .
+Steimle , V. , L. A. Otten , M. Zufferey , and B. Mach .
+1993 .
+Complementation cloning of an MHC class II transactivator mutated in hereditary MHC class II deficiency ( or bare lymphocyte syndrome ) .
+Cell 75:135-146 .
+Van Heyningen , V. , K. Guy , R. Newman , and C. M. Steel .
+1982 .
+Human MHC class II molecules as differentiation markers .
+Immunogenetics 16:459-469 .
+Walter , E. A. , P. D. Greenberg , M. J. Gilbert , R. J. Finch , K. S. Watanabe , E. D. Thomas , and S. R. Riddell .
+1995 .
+Reconstitution of cellular immunity against cytomegalovirus in recipients of allogeneic bone marrow by transfer of T-cell clones from the donor .
+N. Engl .
+J. Med .
+333:1038-1044 .
+Wiertz , E. J. , T. R. Jones , L. Sun , M. Bogyo , H. J. Geuze , and H. L. Ploegh .
+1996 .
+The human cytomegalovirus US11 gene product dislocates MHC class I heavy chains from the endoplasmic reticulum to the cytosol .
+Cell 84:769-779 .
+Wiertz , E. , A. Hill , D. Tortorella , and H. Ploegh .
+1997 .
+Cytomegaloviruses use multiple mechanisms to elude the host immune response .
+Immunol .
+Lett .
+57:213-216 .
+Wiertz , E. , D. Tortorella , M. Bogyo , J. Yu , W. Mothes , T. R. Jones , T. A. Rapoport , and H. L. Ploegh .
+1996 .
+Sec6l-mediated transfer of a membrane protein from the endoplasmic reticulum to the proteasome for destruction .
+Nature 384:432-438 .

@@ -1,0 +1,509 @@
+THs JourNaL or BroLocicaL CHEMISTRY © 1995 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+270 , No .
+50 , Issue of December 15 , pp .
+29870-29880 , 1995 Printed in U.S.A. Functional Characterization of the Murine Homolog of the B cell-specific Coactivator BOB.1/0BF.1* ( Received for publication , August 10 , 1995 ) Petra Pfisterer , Stefan Zwilling , Jochen Hess , and Thomas From the Zentrum fiir Molekulare Biologie Heidelberg ( ZMBH ) , Im Neuenheimer Feld 282 , D-69120 Heidelberg , Federal Republic of Germany B cell-specific transcriptional promoter activity mediated by the octamer motif requires the Octl or Oct2 protein and additional B cell-restricted cofactors .
+One such cofactor , BOB.1/0BF.1 , was recently isolated from human B cells .
+Here , we describe the isolation and detailed characterization of the murine homolog .
+Full-length cDNAs and genomic clones were isolated , and the gene structure was determined .
+Comparison of the deduced amino acids shows 88 % sequence identity between mouse and human BOB.1/0BF.1 .
+The nal 126 amino acids of BOB.1/0BF.1 are both essential and sufficient for interaction with the POU domains of either Octl or Oct2 .
+This protein-protein interaction does not require the simultaneous binding of Oct proteins to DNA , and high resolution footprinting of the Oct-DNA interaction reveals that binding of BOB.1/ OBF.1 to Oct1 or Oct2 does not alter the interaction with DNA .
+BOB.1/0BF.1 can efficiently activate octamer-dependent promoters in fibroblasts ; however , it fails to stimulate octamer-dependent enhancer activity .
+Fusion of subdomains of BOB.1/0BF.1 with the GAL4 DNA binding domain reveals that both NH , - and COOH-terminal domains of BOB.1/0BF.1 contribute to full transactivation function , the COOH-terminal domain is more efficient in this transactivation assay .
+Consistent with the failure of full-length BOB.1/0BF.1 to stimulate octamer-dependent enhancer elements in non B cells , the GAL4 fusions likewise only stimulate from a promoter-proximal position .
+The octamer motif ( ATGCAAAT ) or its reverse complement was originally identified as a conserved element present in virtually all immunoglobulin promoters as well as in enhancer elements of immunoglobulin genes ( 1 , 2 ) .
+In addition , it is also conserved in a variety of other genes specifically expressed in B cells ( 3-5 ) .
+The role of the octamer motif for mediating B cell-specific transcription was most convincingly demonstrated when it was shown that a single copy of this motif confers B cell specificity onto a minimal heterologous promoter element ( 6 ) .
+Likewise , multimerized octamer motifs efficiently functioned as B cell-specific enhancer elements ( 7 ) .
+However , functional octamer motifs are also conserved in the regulatory regions of a variety of genes , which show ubiquitous expression patterns ( 1 , 8 , 9 ) .
+*This work was supported by Grant SFB229 ( to T. W. ) from the Deutsche Forschungsgemeinschaft .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement '' in accordance with 18 U.S.C .
+Section 17834 solely to indicate this fact .
+The nucleotide sequence ( s ) reported in this paper has been submitted to the GenBank '' /EMBL Data Bank with accession number ( s ) 254283 . }
+To whom correspondence should be addressed .
+Tel .
+: 49-6221-56-68-74 ; Fax : 49-6221-56-58-92 ; E-mail : wirtht @ sun0.urz.uni-heidelberg.de .
+Several transcription factors could be identified in different cell types that specifically interacted with the octamer motif ( 10 , 11 ) .
+All mammalian cell types express the Oct1 protein ( 12 , 13 ) .
+B cells , in addition , express a second type of octamer transcription factors , the Oct2 proteins ( 14-18 ) .
+Expression of Oct2 is largely confined to the lymphoid lineage , and there it is expressed as a family of isoforms which arise by alternative splicing from a single transcription unit ( 19 ) .
+Octl and Oct2 belong to a growing family of transcription factors that all share a homologous DNA-binding domain , the POU domain ( 20 , 21 ) .
+This POU domain is a bipartite DNA-binding domain consisting of a POU-specific and a POU-homeo subdomain .
+Both subdomains are required for efficient DNA binding ( 22 , 23 ) , and recent crystallographic studies reveal that the two subdomains interact with opposite major grooves in the DNA double helix ( 24 ) .
+In addition to Octl and Oct2 , many other transcription factors have been identified that share a POU domain ( 25 ) .
+Some of them , like Oct4 and Oct6 , which are expressed in the germ line , also efficiently interact with the conserved octamer motif ( 11 ) .
+The original hypothesis that Oct2 is determining the B cell-specific functions of the octamer motifs , whereas Oct1 would be responsible for its ubiquitous activities ( 8 , 25 , 26 ) , was questioned by a variety of observations .
+In vitro transcription experiments failed to reveal a significant difference between Oct1 and Oct2 proteins ( 27 , 28 ) .
+In some B cell X T cell hybrid cell lines , octamer-dependent transcriptional activity was extin-guished , although Oct2 expression was maintained ( 29 ) .
+More-over , a thorough investigation of gene expression in somatic cell hybrids from myeloma X fibroblast cells showed a variable expression of the Oct2 gene . ''
+Finally , stably transfected Oct2 did not activate octamer-dependent regulatory elements in NIH/3T3 fibroblasts , BW5147 T cells , or COS1 cells , whereas octamer-dependent promoter activity was evident in B cells lacking the Oct2 transcription factor ( 31 , 32 ) .
+Likewise , expression of many genes containing octamer motifs in their regulatory elements , like the immunoglobulin genes , B29/lg-B and CD20 , was unaffected in B cells from mice lacking Oct2 due to a mutation introduced by homologous recombination into the endogenous ocf2 gene ( 33 , 34 ) .
+These observations argued in favor of the existence of B cell-specific cofactors , which upon interaction with Oct1 or Oct2 , would determine the transactivation potential of these transcription factors ( 31 , 35 ) .
+Biochemical fractionation of B cell-derived nuclear extracts revealed the presence of an activity ( OCA-B = octamer coactivator from B cells ) stimulating octamer-dependent immunoglobulin promoter activity ( 27 , 36 ) .
+Indeed , employing a yeast one-hybrid screen , two groups recently reported the successful isolation of cDNAs for such a B cell-specific octamer *L. Reich , H. Sharir , R. Ber , T. Wirth , Y. Bergman , and R. Laskov , submitted for publication .
+29870 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog Characterization of Murine BOB.1/OBF.1 cofactor from human cDNA libraries .
+The identified cDNAs encode the same protein which was designated BOB.1 for B cell Oct-binding protein 1 ( 37 ) or OBF.1 for Oct binding factor 1 ( 38 ) .
+Here we describe the isolation and detailed functional characterization of the murine homolog of BOB.1/O0BF.1 .
+We show that BOB.1/0BF.1 is an efficient octamer coactivator that allows Oct1 and Oct2 to function on promoter-proximal octamer motifs .
+However , this factor is unable to mediate the activity of octamer motifs from distal enhancer positions .
+MATERIALS AND METHODS Cloning of the Murine BOB.1/OBF.1 Homolog-Using the published human sequence ( 37 ) the following primers were synthesized : BOB.5 : 5 '' GTC CTC GAG CAT GCT CTG GCA AAA ACC C 3 ' , BOB.3 : 5° AGC GGA TCC TAA AAG CCT TCC ACA GAG AG .
+These primers correspond to the 5 and 3 ' end of the human BOB.1 coding sequence .
+2 ug of poly ( A ) ® RNA from $ 194 cells were reverse-transcribed with oli-go ( dT ) primers and superscript reverse transcriptase ( Life Technologies , Inc. ) following the manufacture 's instructions .
+5 % of the cDNA synthesized were used together with primers BOB.5 and BOB.3 in a polymerase chain reaction amplification protocol as described ( 19 ) .
+The resulting fragments were gel-purified , digested with XAhol and BamHI and cloned into the pBluescript vector ( Stratagene ) .
+This cloned fragment was then used to screen a 8194 cDNA library ( 39 ) .
+The sequence of the longest cDNA isolates was determined by standard plasmid double strand sequencing protocols and primer walking ( 40 ) .
+For isolation of a genomic clone , 2 X 10 '' cosmid clones were screened with the same BOB.1/OBF.1 polymerase chain reaction fragment .
+A single cosmid was obtained that contains the complete coding region of murine BOB.1/0BF.1 .
+The genomic map was determined by a combination of restriction enzyme mapping , subcloning , and sequencing .
+Construction of BOB.1/OBF.1 Expression Plasmids-The primers used for the original polymerase chain reaction amplification of murine BOB.1/0BF.1 were derived from the human sequence and had introduced an amino acid exchange in the extreme 5 ' position of murine BOB.1 ( position 6 in the coding sequence is a proline in human BOB.1/ OBF.1 and a serine in the murine homolog ) .
+Therefore , two new primers were synthesized that allow the precise and correct amplification of the murine coding sequence : BOB.5.N , 55 CTC TCG AGA GCC ATG CTC TGG CAA AAA T 3 ' and BOB.3.N , 5° GCG GAT CCT AAA AGC CCT CCA CGG A 3 ' .
+In addition , for the individual amplification of NH , - and COOH-terminal subdomains , two internal primers were synthesized : BOB.5.1 , 5 TGT CTC GAG CGT GTG CCC CAG CTA CAC G 3 '' { corresponding to position 446 to 465 with respect to the published human BOB.1/0BF.1 cDNA sequence , but introducing a XhoI site ) and BOB3.1 , 5 CTG GGA TCC TAG GGC TGC ACA TAC ATG TC 3 ' { corresponding to position 436 to 419 with respect to the published human BOB.1/0BF.1 cDNA sequence , introducing a stop codon and a BamHI site at the end ) .
+The resulting full-length , NH , - and COOH-terminal fragments were cloned into three types of vectors : pMT/PKA ( 89 ) that allows expression as a fusion protein with a hexa-His moiety at the amino terminus ; a vector containing the GAL4 DNA-binding domain ( 41 ) ; and a derivative of this GAL4 expression vector that had the GAL4 DNA-binding domain removed allowing expression of BOB .
+or the individual domains by themselves .
+Primer Extension Analysis-The conditions for the primer extension analysis were as described ( 42 ) .
+Sequences of the primer used were as follows : P1 , 5 TGA AGC AGA CAG TTT GGC 3 ' ( corresponding to position -80 to -47 with respect to the AUG codon ) ; P2 , 5 CAC GCT TTC TTC TCA GTA 3 ' ( corresponding to position +107 to +90 with respect to the AUG codon ) .
+Conditions for EMSA '' and Supershift Experiments-Nuclear extracts from the indicated cells were prepared as described ( 43 ) .
+For EMSA experiments , 1-4 ug of nuclear extract was incubated in a 20-ul reaction with 30,000 to 40,000 epm ( 0.5-1 ng of DNA fragment ) , 0.5 ug of poly ( dI-dC ) in a buffer containing 50 mM KCl , 20 mm Hepes , pH 7.7 , 1 mM EDTA , 0.25 mg/ml bovine serum albumin , and 4 % Ficoll 400 .
+2 pl of in vitro translated BOB.1/O0BF.1 protein ( or the respective subdo-mains ) generated as fusion with the hexa-His moiety or 2 ul of the unprogrammed TNT-lysates ( Promega ) were added where indicated .
+All reactions were incubated for 10 ' at room temperature prior to loading on a prerun 4 % polyacrylamide gel ( 19:1 ) , run in 0.35 x TBE .
+* The abbreviation used is : EMSA , electrophoretic mobility shift assay .
+29871 For antibody supershifts , the mixture of nuclear extract plus reticulocyte lysate was incubated with the appropriate antibody for 10 min before adding the probe mix .
+Modified conditions for EMSA allowing the detection of the endogenous BOB.1/0BF.1-containing complexes and conditions for copper-orthophenanthroline were as described previously ( 31 , 44 ) Cell Culture and Transfection-All cells were kept in Dulbecco 's modified Eagle 's medium/glutamax ( Life Technologies , Inc. ) supplemented with 10 % fetal bovine serum , penicillin/streptomycin , and 50 uM B-mercaptoethanol .
+8194 cells were transfected using the DEAE-dextran protocol , and NIH/83T3 cells and stable Oct2 transformants of NIH/3T3 cells were transfected by the calcium phosphate coprecipitation procedure .
+CMV-lacZ was cotransfected in all experiments .
+LacZ enzyme activity was used to normalize for different transfection effi-ciencies in the individual experiments .
+A minimum of three independent transfections were performed and standard deviations were calculated .
+Coprecipitation Assays-Coprecipitation with nickel-nitrilotriacetic acid-agarose was performed essentially as described ( 45 ) .
+Briefly , 25 pl of unlabeled in vitro translated ( T7-TNT , Promega ) hexa-His-BOB.1/ OBF.1 was coupled to 50 pl of nickel-nitrilotriacetic acid-agarose ( Dia-gen ) in interaction buffer B ( 20 mM Hepes , pH 7.9 , 0.1 M KCI , 2 mM MgCl , , 1 mM dithiothreitol , 20 % glycerol , 0.5 mM phenylmethylsul-fonyl fluoride ) for 1 h at 4 °C .
+25 ul of the respective [ *°S ) methionine-labeled in vitro translated ( T7-TNT , Promega ) GAL4 fusion proteins were incubated with the BOB.1/0BF.1-coupled beads in 500 ul of interaction buffer for 3 h at 4 °C .
+Beads were washed four times for 15 min each with 1 ml of interaction buffer containing 8 mM imidazole , and precipitated proteins were analyzed by SDS-polyacrylamide gel electrophoresis and fluorography .
+Conditions for antibody coprecipitation have also been described before ( 89 , 45 ) .
+10 ul of Oct2-specific rabbit antibodies coupled to 10 mg of protein A-Sepharose CL4B ( Pharmacia ) were mixed with 200 ug of HeLa nuclear extract from cells infected with recombinant Oct2 expressing or wild type vaccinia viruses ( 28 ) .
+20 pl of in vitro translated , [ ®°8 ] methionine-labeled full-length BOB.1/0BF.1 or the individual protein domains were added and incubated for 3 h at 4 °C in 500 ul of interaction buffer A ( 20 mm Tris/HCl , pH 8.0 , 0.1 m NaCl , 1 mm EDTA , 0.5 % Nonidet P-40 ) .
+Reactions were washed four times for 15 min each with 1 ml of interaction buffer A .
+Where indicated , 200 ug/ml ethidium bromide were present throughout the interaction and washing procedure .
+Generation of Polyclonal Rabbit Antibodies-The NH , -terminal domain of murine BOB.1/0BF.1 was expressed as hexa-His fusion protein in Escherichia coli , purified by denaturing nickel-chelating chromatography followed by renaturation and chromatography on a Macroprep S column ( Bio-Rad ) .
+For some immunizations , the protein was further purified by preparative SDS-polyacrylamide gel electrophoresis and electroelution from the gel .
+RESULTS Using the sequence information of the human BOB.1/0BF.1 cDNA clone , we generated a probe encompassing the complete coding sequence of murine BOB.1/0BF.1 by reverse transcrip-tion-polymerase chain reaction and used this probe to screen a cDNA library from the murine $ 194 plasmacytoma cell line ( see `` Materials and Methods '' for details ) .
+The largest cDNA isolates contained about 2550 nucleotides and included the complete putative coding sequence for the murine BOB.1/ OBF.1 homolog with about 70 nucleotides of 5 ' leader sequence and 1700 nucleotides 3'-nontranslated sequence ( Fig .
+1A ) .
+Comparison of the deduced amino acid sequence of the murine BOB.1/0BF.1 clone with its human counterpart revealed a high degree of sequence conservation .
+The two clones are 88 % identical at the amino acid level in the coding region .
+Interestingly , the high degree of conservation also extends in the 5 leader sequence .
+Only two nucleotide exchanges can be found in the 60 nucleotides preceding the AUG initiation codon .
+The cDNA clone was further used to isolate a cosmid clone containing the genomic locus of murine BOB.1/0BF.1 .
+A combination of restriction enzyme mapping and sequence analysis revealed that the coding sequence of murine BOB.1/0BF.1 is split over 5 exons ( Fig .
+1B ) .
+The AUG initiation codon is localized in exon 1 , which is separated from the remainder of the coding region 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog 29872 Characterization of Murine BOB.1/OBF.1 /\ AGGTAAACGSTGGTTCCACGGGAGGAAAGCACGCCCAGTCACATTAAAGAAGCCAAACTGTCTGCTTCAAAGAGAAAAGGCAACATCCTG TCACAAGCC ATGCTCTGGCAAAAATCCACAGCTCCAGAGCAAGCTCCTGCCCCACCAAGGCCATACCAGGGTGTTCGAGTCAAGGAGCCAGTGAAGGAG MOL W Q K $ T A PoE Q A BoA PoP ROP Y Q G V R V K B bov K E P A CTACTGAGAAGAAAGCGTEGCCATACCAGCETTGGGGCAGCTGGECCACCGACCGCGEGTGTACTECCCCACCAGCCCCTGGCCACCTAC L L R R K R G H T S V G A A G P P T A G V L P H Q P L A T Y A S Po A v AGCACTGTGGGTCCTTCCTGCCTTGACATGGAGCTTTCTGCTTCCACAGTGACAGAGGAGGGAACATTATETGCTGGCTGGCTCTCCCAA § T V G Bos C L D M E V s A S T V T BE E G T L C A G W L s o T G v A A A CCTeCCCCeqCCcacTCTTCacecATTeecTCcaTeeaACAcccTACACeeAcTATeTeTrcccaTGAACCTeTCASCTeccccTacTccact PA BoA ToL HA L A RoW ToB oY T E ¥ v s HOB A V S8 C P Y Ss T T Q P P A GACATGTACGTGCAGCCTGTGTGCCCCAGCTACACAGTGSTGGGACCCTCCTCeeTeTTeAccTATeCcTTcICcaCcacTCAaTCACTAAT D M ¥ V q P V C P S ¥ T v v @ P S $ ¥ L T ¥ A $ P PR L I T N GTCACGCCAAGAAGCACTGCTACACCCGCGGTGGEGCCCCAGCTGGAGGETCCCGAGCACCAGGCeCCccTCcacTTATTTceceTeqecTt VOT BoR S T A @ P A V G P Q L E G P ER H Q A POL To Y F P W oP T 8 P CAGCCCCTTTCCACACTGCCCACCTCCAGCCTGCAGTATCAACCTCCTECCCCAACCCTEGTCTGeGeccccasTTTeTccascTceccaTe Q P L § T L POT S8 S L Q ¥ Q PoP A P T L $ G P Q F V Q L P I T A P TCTATCCCAGAGCCAGTCCTTCAGCACATGGATGACCCCACAAGGECCATCAGCTCCCTGACCATTGACAAGCTECTTCTGGAGGAAGAG § I P R P V L Q D M D D P R R A I S S L T I D K L L L E E E E A E S N T Y E L N H T L S V E G F * D D A A TCTAACAGATGTTTCACCCATAGCTGAGATTTTAAAAGTGTTCAATAGAGCCCAGACTTCTGTTTGAAGTAGCTATTT CTTGCTTATITCTTATTTCTCCTITCCAGTTTTCCTTCCTCTGGAGCGGCAAATGATAGTGATATTATGAACAACGTTTTATACGGAATGT CACCAAGTCTGCAGCTCAGGCTTTTCTTTGSTGGCACATCATTGGGGAAGCAACCTTCTTTCAGETGCCCCCTETTTCCTGGTAGCAGTA GCTTTATAGATCTACTCTATGATACGTTCTGCGCCCCAGTTTTGTTTTGTGTGCTGTTCTCAGCCTTGGCCAGATATACTATCTAAGTGG AGCAGGACACACATGTGTGTCTGTGGTTAGAGAGGGAGTGAGGAGGGGCAGGGGAAGGAGTGATCTAACAGCTC TGAAAAAAAATACCAC TTTAATGTGGTTTAGCTGTTCTTGTCAGCCATTAGGAGGAAAGCTGGATATGGTATGGAGGATAAATGACGACTCTECTTATTTCTGCCT CTCTeCAGGCCCcCTAACATGATGCCAGCACTTAAAATACTTCTGTCAGCATATTGCCATAGCAACAGGAAAAGAAACAGGTGAAGCCCA TCATTGAGGAGGCTTGCACTTAGTCCTTCACGTGGeCTTTTAATTCCTGTTGTGACTCACCCAGGGCCATCCTCACGCGTTGCTATGGAT TCTTECGCCCACTCACCéeCTeTCTCTeeeeTcCcTGAAcTCCTeeTCaccacecccacTeeccTTCaTTTTCacTTTTATCACTTITATT GCASTTTTTGCTGGAGAAGCATAACACTTGCTCTTGAGTETTTTGCTGTCTCCTAGTECTTTGCTCCTEAAGTGGATGTGTCTTTGGGAA TGACAGTTTCTTTGATATCCCACCCTCTTTCTTTCTGCTTCCAATGAAAACTTAGAGCTACCTeTTTTTTTTTICTRCTTCTTCTTCTTT CTTTCTCTeCTTTGTeTTTATTTTGATTCAGACATCTCATTATCTACCTGAAGTCCTGGTATACTTAGCTTGAATTTGTTATTCCTCTTT AATATTTAGATTAAATGCTAGATCTGAATGCTAGGTTTACACTTCTETTGGTGGTTACCATGAACAAGAAAGGCAGAGGGAAGCCTCAGC CTATTTAATTAACACCTTGTTGCACTTAAAAACACTATTTAAGATTTCCCACGCTACTTGGGAGTTTGAGGCAATCACAGAGGAGTTAACA CTGGGAAAACAAACAAAACAGCAAAGAAAGTAGTCTGAGCGGTTGCTGGGATTGAA TTGGCATCTTTTTCGCTTCTTATCTTGAGACCTC ACGTCTTGGCTGCAGGCATCCAAACAGATTTCCTCCAGAGCCTCATTTGCAACATTTTCAATAAAGATTGGTTAGATGACAAAAAAAA §HHH H HH Ho H HH $ 4 ij id E ce io dbo l 1 l | 8 |___| |__| _I | 1 |___| __ m 1 kb C Exon I Intron 1 Exon II ATGCTCTGGCAAAAAT gtaagtgctt.. ( = 17kb ) ..cccttcatag CCACAGCTCCA ... .. Exon II Intron 2 Exon III ... .. CACCGACCGCG gtgaggagct.. ( 492 bp ) ..gtggtactgc GGTGTACTGCC ... .. Exon III Intron 3 Exon IV ... .. CAGCACTGTGG gtaagagctc ... ( 82 bp ) ..tttcccacag GTCCPPCCTGC ... .. Exon IV Intron 4 Exon V ... .. CTAATGTCACG gtatgtcaca.. ( = 4kb ) ..ttcatcacag CCAAGAAGCAC ... ..
+Fig .
+1 .
+610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog Characterization of Murine BOB.1/OBF.1 A 29873 I * II * III + IV < aaesourerseré b 646 mmm .
+PD 65nt Fic .
+2 .
+Localization of the start site of transcription by primer extension analysis .
+A , schematic representation of the primer extension strategy .
+On fop , a scheme of the 5 end of the cDNA is shown .
+The thin line represents the 5 ' B leader sequence present in the longest cDNA isolate ; the coding sequence is indicated by the open rectangle .
+Numbers above indicate the individual exons , and arrowheads mark the exon/intron boundaries .
+Below , the position of the two primers ( P1 and P2 ) is given .
+Primer extension products are shown as dotted lines and their length as judged from B , is shown .
+B , primer extension experiment using primer P1 ( Zanes 1 , 3 , and 5 ) or primer P2 ( lanes 2 , 4 , and 6 ) and either tRNA ( Zanes 1 and 2 ) , WEHI231 RNA ( Zanes 3 and 4 ) , or RNA from $ 194 cells ( Zanes 5 and 6 ) .
+Extension products for P1 and P2 are indicated by arrows .
+The arrow with a question mark indicates a longer extension product specifically obtained with primer P2 ( see text ) .
+The asterisk marks a prematurely terminated primer extension product seen in the reactions with P2 .
+M , size marker ( labeled pBR 322 DNA digested with MspI ) .
+C , comigration of P1 primer extension products with a sequencing ladder derived from sequencing the genomic clone with primer PL .
+Sequencing reactions ( A , C , G , T ) were loaded on the left half of the figure , the extension products for WEHI231 , S194 , and , as a negative control , tRNA , are shown .
+The arrowhead indicates the position of the P1-specific extension products .
+205nt by a large 17-kilobase pair intron .
+Exons 2 , 3 , and 4 are small exons of 131 , 43 , and 266 base pairs separated by introns of 492 and 82 base pairs , respectively .
+Exon 5 is just over 2000 base pairs long and encompasses the 3 ' end of the coding sequence as well as the complete 3'-noncoding sequences .
+The 3'-noncoding sequence contains multiple simple nucleotide repeats , and these repeats show some mouse strain polymorphism as they differ between the cDNAs isolated from 8194 cells ( BALB/c mouse strain ) and the genomic cosmid clone derived from a 129 mouse strain library ( data not shown ) .
+With the exception of the splice acceptor site of exon 3 , which is divergent from the consensus sequence , all other exon-intron boundaries are in excellent agreement with consensus sequences known for mammalian exons and introns ( Fig .
+1C ) .
+At the 3 ' end of the Pa % Q a MH _ 7 tRNA $ 194 wEHI 231 I0 N , } |_ mRNA a consensus poly ( A ) addition signal is conserved ( Fig .
+14 ) .
+Inspection of the 5 ' leader sequence of BOB.1/0BF.1 of the longest cDNA isolate showed that there is no in frame stop codon present in this sequence .
+We therefore determined the 5 end of the murine BOB.1/0BF.1 RNA by primer extension analysis to test whether there might be a longer upstream reading frame .
+Two primers were utilized for this analysis , one extending from -30 to -47 with respect to the AUG initiation codon ( P1 ) , the second one was localized in exon 2 at a position extending from +107 to +90 , again with respect to the AUG codon ( P2 ) ( Fig .
+24 ) .
+Primer extension analysis was performed on two different murine B cell RNAs , S194 and WEHI 231 , representing plasmacytoma and mature B cell lines , respec- Fig .
+1 .
+Sequence and organization of the murine BOB.1/0BF.1 gene .
+A , composite nucleotide and predicted peptide sequence of murine BOB.1/0BF.1 .
+The complete nucleotide sequence of the longest cDNA isolate is shown .
+The first 15 nucleotides were derived from the genomic sequence and the primer extension data shown in Fig .
+2 .
+The complete peptide sequence of the murine clone is shown .
+Only those amino acids that differ in the human sequence are shown underneath the murine sequence .
+Arrows indicate the exon/intron boundaries .
+B , restriction map of the genomic locus .
+The five exons are shown as black boxes ; their sizes are not drawn to scale .
+C , nucleotide sequences of the exon/intron boundaries .
+Exon sequences are shown as capital letters and intron sequences as lowercase letters .
+Sizes of the different introns are indicated .
+610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog 29874 tively .
+The size of the extension product with primer P1 was 65 nucleotides for both cell lines , primer P2 gave rise to an extension product of 205 nucleotides ( Fig .
+2B ) .
+An additional extension product of roughly 350 nucleotides was observed with primer P2 ( marked by a question mark in Fig .
+2B ) .
+As no corresponding product could be seen with P1 , the significance of this extension product remains elusive .
+These analyses localize the start site of transcription at a position about 15-20 nucleotides upstream of the end of the longest cDNA isolate .
+To identify the starting nucleotide of the RNA sequence , the primer extension reaction with the P1 primer was run on a sequence gel together with the sequence of the genomic region using the same primer ( Fig .
+2C ) , and the deduced sequence was included in Fig .
+14 .
+Consistent with the presence of a single major initiation site , inspection of the 5 ' upstream putative promoter region revealed a sequence element fitting known TATA consensus motifs ( TTTAAAAA ) at a position -22 to -29 relative to the transcriptional initiation site ( data not shown ) .
+A hallmark of the human BOB.1/0BF.1 protein is its interaction with the Oct1 and Oct2 transcription factors , which is thought to be a prerequisite for the transactivation of octamer-dependent promoters .
+Likewise , in vifro translated murine BOB.1/0BF.1 protein interacted with both Oct1 and Oct2 and resulted in supershifts which were detectable in an EMSA experiment ( Fig .
+3A ) .
+The identity of the individual complexes was confirmed using antibodies specific for Oct1 , Oct2 , or the BOB.1/0BF.1 protein ( Fig .
+3B ) .
+Inspection of the intensities of the various complexes suggests that Oct1 and Oct2 interact with BOB.1/0BF.1 with similar affinities .
+In an effort to functionally dissect the BOB.1/0BF.1 protein , we expressed the and COOH-terminal half of murine BOB.1/0BF.1 individually and tested the interaction with Oct proteins in an EMSA experiment .
+Only the NH-terminal domain was able to interact with Oct proteins , resulting in an indicative supershift ( Fig .
+3C ) .
+In contrast , no supershift could be detected with the isolated COOH-terminal domain of BOB.1/0BF.1 .
+So far , all experiments analyzing the interaction of BOB.1/ OBF.1 and Oct1/Oct2 had been performed as EMSA supershifts ( 37 , 38 ) and above ) .
+In these experiments , the POU domain of the octamer proteins had been identified as the domain sufficient for interaction ; however , interaction of BOB.1/0BF.1 with other domains of the octamer proteins could not be ruled out .
+We have therefore utilized a coprecipitation assay to study the interaction of various Oct2 domains with BOB.1/0BF.1 .
+Unlabeled in vitro translated BOB./OBF.1 was generated as fusion protein with an NHg-terminal hexa-His moiety .
+Individual domains of Oct2 fused to the GAL4 DNA binding domain were in vitro translated as labeled proteins , mixed with BOB.1/0BF.1 , and precipitated with nickel-nitrilotriacetic acid-agarose .
+Only the POU domain of Oct2 , but not the NH , - and COOH-terminal domains , nor the GAL4 DNA binding domain alone , was coprecipitated efficiently together with BOB.1/0BF.1 ( Fig .
+44 ) .
+The POU domain is a multifunctional domain important both for specific DNA binding as well as for protein-protein interactions ( 89 , 45 ) .
+We wanted to determine whether DNA binding of the POU domain was a prerequisite for interaction with BOB.1/0BF.1 .
+We therefore mixed labeled full-length BOB.1/0BF.1 or the individual NH , - and COOH-terminal domains with nuclear extracts from Hela cells containing ectopi-cally expressed Oct2 protein .
+We then performed coprecipitation experiments with antibodies specific for Oct2 in the presence and absence of ethidium bromide .
+As ethidium bromide intercalates into DNA and thereby interferes with pro-tein-DNA interactions , this method has been established as a tool to discriminate between bona fide protein-protein interac- Characterization of Murine BOB.1/OBF.1 tions versus assembly of proteins on the same piece of DNA ( 46 ) .
+Full-length BOB.1/0OBF.1 as well as the domain efficiently coprecipitated with the anti Oct2 antibody regardless of the presence or absence of ethidium bromide ( Fig .
+4B ) .
+In contrast , the COOH-terminal domain was not recovered in these coprecipitation experiments regardless of the condi-tions .
+This result is in line with the failure of the COOH-terminal domain to interact with Oct proteins in the EMSA experiments ( Fig .
+3B ) and suggests that this domain does not make stable contact with the Oct proteins .
+No BOB.1/0BF.1 proteins were coprecipitated when Oct2 protein was missing from the nuclear extracts confirming the specificity of the assay ( Fig .
+4B ) .
+The fact that Oct2 binding to DNA was not required for interaction with BOB.1/0BF.1 did not exclude the possibility that the interaction with BOB.1/0BF.1 would affect the Oct-DNA interaction .
+To analyze this possibility , we performed high-resolution in-gel chemical footprinting analyses of the binary Oct-DNA complex as well as the ternary BOB.1/0BF.1-Oct-DNA complex .
+Identical protection patterns were observed for both complexes , regardless of whether Oct1 or Oct2 containing complexes were analyzed ( Fig .
+5 , A and B ) .
+Using slightly modified conditions for EMSA experiments , we had previously identified a B cell-specific complex migrating slower than the Oct1 complex , but containing the Oct1 protein ( 31 ) .
+This complex resembled the ternary BOB.1/0BF.1-Oct1 complex in several respects , such as migration behavior and the fact that no extra contacts were detectable by copper-orthophenanthroline footprinting ( 31 ) .
+We therefore investigated whether this complex contained the BOB.1/0BF.1 protein .
+Whereas the preimmune serum did not affect this ternary complex , the antibody raised against the recombinant BOB.1/0BF.1 protein completely abolished this EMSA complex , suggesting that indeed this complex represents the endogenous BOB.1/0BF.1-Oct1 complex in B cells ( Fig .
+5C ) .
+We do not know presently why this endogenous complex is more difficult to detect in EMSA experiments as compared with the one containing the recombinant BOB.1/0BF.1 protein .
+We had previously proposed that B cells contain two types of octamer coactivators ( 35 ) .
+One that can interact with either Oct1 or Oct2 to mediate octamer-dependent promoter activity , and a second one that specifically interacts with the carboxyl terminus of Oct2 and is involved in mediating octamer-dependent enhancer activity in B cells .
+The observation that BOB.1/ OBF.1 interacts with both Octl and Oct2 suggested that it would be the first type of transcriptional coactivator , namely a specific promoter cofactor .
+To test this hypothesis , a BOB.1/ OBF.1 expression vector was cotransfected with an octamer-dependent promoter reporter into NIH/3T3 fibroblasts .
+In the absence of cotransfected BOB.1/0BF.1 , the wild type octamer reporter showed the same activity as a mutant version , bearing point mutations in the octamer motifs ( Fig .
+6A ) .
+BOB.1/0BF.1 stimulated the wild type reporter construct to a level of activity comparable with the activity of this reporter in B cells ( Fig .
+6A and Ref .
+28 ) .
+Activation depended on the integrity of the octamer motifs because the mutant reporter was not stimulated by BOB.1/0BF.1 cotransfection .
+When the NH- and COOH -ter-minal halves of BOB.1/0BF.1 were tested individually , only the NH , -terminal domain gave a low , but reproducible , activation of the wild type octamer containing reporter ( Fig .
+6B ) .
+In contrast , the COOH-terminal fragment failed to show any stimu-lation , consistent with our previous observation that this domain does not interact specifically with the octamer transcription factors .
+A slightly different strategy had to be used in order to investigate whether BOB.1/0BF.1 would also stimulate transcrip- 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog Characterization of Murine BOB.1/OBF.1 29875 B % + + IVTL-Bob.1 retic IVTL BOB.1 +o + - HeLa/Oct2 NE - m 3 op & EE s og t % s % f « < # 4- Octl + Bob.1 tua | Wer < 4- Octl Fic .
+3 .
+BOB.1/0BF.1 interacts with Oct1 and Oct2 in EMSA experiments .
+A , ternary complex formed on an octamer containing probe by BOB.1/OBF.1 together with Octl and Oct2 , respectively .
+In lanes 1 and 2 , nuclear extract from HeLa cells infected with a recombinant vaccinia virus expressing murine Oct2 was added ( 28 ) .
+Unprogrammed reticulocyte lysate ( Fane 1 ) or in vitro translated BOB.1/OBF.1 ( lanes 2 and 3 ) were included .
+The position of the binary Octl and Oct2 DNA complexes , as well as the ternary complexes containing the BOB.1/ OBF.1 protein , are indicated .
+Note that in vitro translated BOB.1/OBF.1 does not bind to the DNA by itself ( Zane 3 ) .
+B , characterization of EMSA complexes with specific antibodies .
+The left panel ( lanes 1-4 ) shows EMSA experiments with Hela nuclear extracts expressing recombinant Oct2 in the presence of unprogrammed reticulocyte lysate , in the EMSA lanes shown on the right panel , 2 ul of in vitro GC translated BOB.1 were added .
+Extracts were preincubated with either preim- * mune serum ( PJ , lanes 1 and 5 ) , antibod- ies specific for the Octl protein ( lanes 2 and 6 ) , antibodies specific for Oct2 ( Zanes 3 and 7 ) , or antibodies raised against recombinant BOB.1/0BF.1 ( Zanes 4 and 8 ) .
+The position of the respective binary and ternary complexes are indicated on the right side of the figure .
+C , the NH , -terminal half of BOB.1/O0BF.1 is essential and sufficient for formation of the ternary complex with Oct2 .
+EMSA experiments with Hela nuclear extract containing recombinant Oct2 ( lames 1-4 ) .
+Unprogrammed reticulocyte lysate ( Zane 1 ) or lysates containing full-length BOB.1/ OBF.1 ( Zane 2 ) , the NH , -terminal 126 amino acids ( Zane 3 ) , or the COOH-terminal 130 amino acids of BOB.1/0BF.1 ( Fane 4 ) were added .
+In lane 5 , full-length < - Oct2 BOB.1/0BF.1 was tested in the absence of cube HeLa nuclear extract .
+The positions of the respective complexes are indicated .
+Due to the overexpression of Oct2 as compared with Oct1 , the ternary complexes containing Oct1 can not seen on this exposure .
+tion from a distal enhancer position , because we had previously shown that this activity is strictly Oct2-dependent ( 31 , 47 ) .
+We therefore analyzed BOB.1/0BF.1 activity in NIH/3T3 cells that were stably transfected with an Oct2 expression vector ( 81 ) .
+These stably transfected fibroblasts express amounts of the Oct2 protein similar to typical B cell lines ( 31 ) .
+We first tested the stable transfectants in a BOB.1/0BF.1 cotransfection ex « s- Oct2 + Bob.1 < % Octl + BOB.1 UBD < 4 0Ocil € Oct2+ BOB.1 tte & Octl 1 2 3 4 5 6 7 8 x - L 4 BOB.1 wo $ % - BOB.1 - N mo # £0 > BOB.1 - C +o + + - HeLa/Oct2 e € Oct2/BOB.1 < Oct2/BOB.1-N periment with the octamer-dependent promoter reporters described before .
+Interestingly , the stimulation observed by BOB.1/0BF.1 cotransfection was comparable in the parental NIH/3T3 cells and the Oct2-positive NIH/3T3 cells ( Fig .
+6C ) .
+This result suggests that Oct1-BOB.1/0BF.1 complexes have similar transactivation potential as Oct2-BOB.1/0BF.1 complexes .
+To test activation from an enhancer position , reporter 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog 29876 A Fig .
+4 .
+The POU domain of Oct2 and the NH , -terminal domain of BOB.1/ OBF.1 physically interact with each other .
+A , coprecipitation experiment with immobilized BOB.1/O0BF.1 and the individual domains of Oct2 .
+Unprogrammed reticulocyte lysate ( Zanes 1 , 3 , 5 , and 7 ) or in vitro translated , unlabeled BOB.1/ OBF.1 ( a fusion protein containing an NH , -terminal hexa his moiety ) ( Zanes 2 , 4 , 6 , and 8 ) were mixed with in vitro translated , [ *°S ) methionine-labeled proteins .
+The following labeled proteins were added .
+Lanes 1 and 2 , the GAL4 DNA binding domain ( amino acids 1-92 ) ; lanes 3 and 4 , a fusion protein of the Oct2 POU domain fused to the GAL4 DNA binding domain ; lames 5 and 6 , a fusion protein containing amino acids 3-173 of Oct2 fused to the GAL4 DNA binding domain ; lanes 7 and 8 , a fusion protein containing the COOH-terminal amino acids 351-463 of Oct2 ; all GAL4 fusion proteins have been described previously ( 41 ) .
+M , `` *C-labeled molecular weight marker .
+The position of the respective full-length fusion proteins is indicated on the right side of the figure .
+The lower molecular weight B proteins seen in the GAL4/POU and GAL4/N lanes most likely represent internal initiation events initiating at amino acids 79 and/or 83 of the GAL4 protein .
+B , coimmunoprecipitation experiment with Oct2-specific antibodies .
+HeLa nuclear extract containing recombinant Oct2 ( lanes 4-9 ) or HeLa extract from mock-infected cells ( Zanes 10-12 ) were mixed with in vitro translated , labeled BOB.1/ OBF.1 proteins .
+Either full-length BOB.1/ OBF.1 ( BOB.1-FL , lanes 1 , 4 , 7 , and 10 ) , the NH , -terminal 126 amino acids of BOB.1/0BF.1 ( BOB.1-N , Zanes 2 , 5 , 8 , and 11 ) or the COOH-terminal 130 amino acids of BOB.1/O0BF.1 ( BOB.1-C , lanes 3 , 6 , 9 , and 12 ) were added .
+In lanes 7-9 , 200 ul/tl ethidium bromide ( EtBr ) was present throughout the immunoprecipitation and washing procedure .
+Lanes 1-3 show 10 % of the respective proteins loaded directly onto the gel ( load ) .
+The positions of the individual proteins are indicated .
+M , *C-labeled molecular weight standard .
+Bob.1 - FL Bob.1 - N Bob.1 -C -- constructs bearing a multimerized octamer motif-containing fragment from the murine heavy chain enhancer at a position 3 ' of the luciferase gene driven by an upstream chicken lysozyme promoter was used ( 31 , 47 ) .
+This reporter has been previously used to detect octamer-dependent enhancer activity in B cells .
+Interestingly , no stimulation of this reporter could be observed by cotransfection of full length BOB.1/0BF.1 ( Fig .
+6C ) .
+This result suggests that BOB.1/0BF.1 is in fact a pro-moter-specific cofactor and unable to mediate the B cell-specific octamer enhancer activities .
+This inability of BOB.1/0BF.1 to stimulate the enhancer reporter was not due to the fact that no functional ternary Oct-BOB.1/0BF.1 complexes can be formed on the multimerized heavy chain enhancer fragment used .
+Characterization of Murine BOB.1/OBF.1 GAL4 GAL4 - POU GAL4 - N GAL4-C woo so s o $ sn % o so # ( His ) g-BOB.1 _ < GALA - POU GAL4 - N dls - GaL4-C - _ GAL4 M 1 2 3 4 8 6 7 8 Toad x Oct2 I l 1 # + + EtBr +o o+ +o o $ + O+ Oct2 £ *+ + + Bob.1-FL + + + + Bob.1-N + + + + _ Bob.1-C dake cames aam » biliat < a we « ame Cekp : Mo 1 20 30 4 50 6 108 9 10 11 12 When the same multimerized fragment was moved into the proximity of the TATA box , BOB.1/0BF.1 was again capable of activating this element ( Fig .
+6C ) .
+The above interaction domain mapping experiments and cotransfection experiments had revealed that the NH-terminal domain of BOB.1/0BF.1 interacts with the Oct transcription factors and contains a residual transactivation function , yet transactivation by the full-length BOB.1/O0BF.1 clone was significantly more prominent .
+In order to map the potential transactivation functions within the BOB.1/0BF.1 coactivator , we generated fusion proteins with the GAL4 DNA-binding domain and either full-length BOB.1/0BF.1 or the NH , - or COOH-terminal domain of BOB.1/O0BF.1 separately ( Fig .
+7C ) .
+These 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog Characterization of Murine BOB.1/OBF.1 Oct2-Bob.1 Oct2 c & r & hee due dh : ours A A Cou thus « et anus T wom : deren tute was T tine toe G C wile ad wine C tod was C foie coud < whith mugs A sre enim spo ames | 5 wth t dite wive A wwe quite wong ques A intl otta tk coe A Won que core cae A wo - wae T T % eri dean wine vine wur sees 10 % 3 4 50 6 7 1 2 3 4 5 6 7 C je : ta O - -E 8 « = asm % L < % Oct1/BOB.1 @ Octl < 4 Oct2 Fig .
+5 .
+Analysis of ternary complexes .
+A , chemical footprinting of the binary and ternary complexes containing the Oct1 protein .
+In-gel footprinting was performed on the free probe ( Zanes 1 , 2 , 6 , and 7 ) , the binary Oct1-DNA complex ( Zanes 3 and 5 ) , or the ternary complex containing Octl , the BOB.1/0BF.1 protein , and DNA ( Zane 4 ) .
+The position and orientation of the octamer motif in the probe are indicated on the right of the figure .
+B , same as A , but for Oct2-containing complexes .
+C , analysis of endogenous BOB.1/0BF.l-containing ternary complexes from B cells .
+EMSA experiments with nuclear extracts from Namalwa cells and an octamer-containing probe were performed under slightly modified gel shift conditions ( see Ref .
+31 ) .
+Preimmune serum 29877 clones were cotransfected with a reporter bearing multimerized binding sites for the GAL4 transcription factors in a promoter proximal position ( 41 ) .
+All three fusion proteins efficiently stimulated this reporter .
+The COOH-terminal domain of BOB.1/0BF.1 showed about 3-fold higher activity than the NH , terminus , however , ( Fig .
+7A ) .
+This result suggests that the predominant transactivation function of the BOB.1/0BF.1 protein resides in the COOH-terminal 130 amino acids .
+Given the above described inability of BOB.1/0BF.1 to stimulate octamer-dependent enhancer elements together with Oct2 in fibroblasts , we wanted to determine whether the GAL4 fusion proteins would be able to stimulate transcription from a distance .
+To this end , we utilized a reporter bearing the GAL4 binding sites in a distal enhancer position and cotransfected this reporter with the GAL4 fusion protein expression vectors .
+Fig .
+7B shows that neither of the GAL4 fusions is capable of stimulating this reporter , suggesting that failure to stimulate from a distance is an intrinsic property of the transactivation domains of the BOB.1/0BF.1 protein .
+DISCUSSION One of the hitherto unique features of B cell-specific transactivation mediated by the octamer transcription factors is their requirement for the presence of additional B cell-specific coactivators .
+Here , we describe the molecular analysis of one such coactivator that allows Octl and Oct2 to activate transcription from a promoter-proximal position in B cells .
+We had previously shown that B cells contain two distinct types of coactivators .
+One responsible for the B cell-specific activity of octamer-containing promoters and a second type that confers activity on octamer regulatory elements from distal enhancer positions ( 31 , 35 , 47 ) .
+The results presented here unequivocally identify BOB.1/0BF.1 as a specific coactivator from promoter-proximal positions .
+This conclusion is supported by the following lines of evidence .
+1 ) Whereas cotransfection of BOB.1/0BF.1 into NIHW/3T3 fibroblasts was sufficient to fully activate octamer-dependent promoter elements , it did not result in enhancer activation , regardless of the presence or absence of Oct2 .
+2 ) Fusion proteins of the GAL4 DNA binding domain with full-length BOB.1/0BF.1 or individual domains of the coactivator efficiently stimulated reporters containing GAL4 binding sites in a promoter-proximal position but failed to activate when the binding sites were present in distal enhancer positions .
+3 ) BOB.1/0BF.1 promiscuously interacts with both Oct1 and Oct2 , whereas the putative enhancer cofactor specifically requires Oct2 for a functional interaction ( 31 , 35 , 47 ) .
+Furthermore , our previous experiments suggested that Oct1 , if any-thing , reduced octamer-dependent enhancer activity ( 31 , 47 ) .
+4 ) Finally , we had previously identified the COOH-terminal transactivation domain of Oct2 as a prerequisite for stimulating octamer-dependent enhancer activity in B cells .
+This result suggested that the enhancer cofactor might specifically interact with this domain rather than the POU domain .
+In our protein-protein interaction analysis presented here , we failed to detect any evidence for specific interaction between BOB.1/0BF.1 and the COOH-terminal domain of Oct2 .
+In summary , these results suggest that BOB.1/0BF.1 is the/one of the B cell-specific co-activator ( s ) responsible for the B cell-specific function of octamer-containing promoters .
+Furthermore , they suggest that addi-tional , distinct cofactors exist in B cells that are required for ( lane 2 ) or 2 ul of the BOB.1/O0BF.1-specific antibody ( lane 3 ) were included .
+The positions of the respective complexes are indicated .
+The asterisk indicates a nonspecific complex that is present whenever preimmune or « BOB.1 antiserum is included .
+610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog 29878 A Fic .
+6 .
+Cotransfection of BOB.1/ OBF.1 activates octamer-dependent promoters , but not enhancers in NIH/ 3T3 fibroblasts .
+A , BOB.1/OBF.1 cotransfection activates octamer-containing promoters .
+Cotransfection with the indicated reporter plasmids and either the parental expression vector ( pSV ) or a full-length BOB.1/0OBF.1 expression vector .
+The activity of the reporter plasmid containing four copies of the mutant octamer motif upstream of the TATA-box was arbitrarily set to 1 .
+B , cotransfection of the wild type octamer reporter with expression vectors for full-length BOB.1/0BF.1 , the NH , -terminal , or the COOH-terminal domain of BOB.1/0BF.1 as indicated .
+The activity of the reporter cotransfected with the parental expression vector ( pSV ) was set to 1 .
+C , cotransfection of the indicated C reporter plasmids into NIH/3T3 cells stably expressing Oct2 .
+An expression vector for full-length BOB.1/0BF.1 ( or the parental expression vector ) was cotransfected where indicated .
+D , schematic outline of the various expression and reporter plasmids used in the cotransfection experiments described in this figure .
+The SV40 based expression vector was derived from pSG5 ( Stratagene ) .
+The different reporter plasmids have been described previously ( 28 , 31 , 47 ) .
+Briefly , 4 X wt.TATA contains four copies of a synthetic octamer motif upstream of the HSV-thymidine kinase TATA box ( T ) .
+The octamer motifs contain a single point mutation in 4 X mut .
+TATA .
+CL ( ED ) contains the chicken lysozyme promoter and six copies of a 50-base pair fragment derived from the murine heavy chain intronic enhancer element comprising the E4 and Oct motifs .
+The octamer motif contains several point mutations in the CL ( Ed ) construct .
+The same hexameric wild type and mutant enhancer multimers were cloned upstream of the minimal HSV-TATA region in ( ED ) / ( Ed ) .TATA .
+relative activity 10 7 BOB.1/OBF.1 4x mut - 4x wt TATA relative activity BOB.LOBE.1 ~ 4x + ( Ed ) .TATA * 4 & & B a x < 4 x mut.TATA 4 x wt .
+TATA mediating the octamer-specific functions from distal enhancer positions .
+At present , the molecular mechanism responsible for the observed coactivation by BOB.1/OBF.1 is largely obscure .
+When transactivation properties of the NH , - and COOH-terminal transactivation domains of the Oct2 transcription factor were measured in GAL4 fusion experiments , significant activity of the individual domains could be scored , which were not significantly lower than the transactivation observed for GALA fusion proteins containing full-length BOB.1/0BF.1 or individual domains thereof ( 41 , 48 ) .
+A possible explanation for this apparent paradox could be that due to an intramolecular masking process , the transactivation domains of Octl and Oct2 might not be accessible for interaction with general transcription factors , most likely the transcription factor IID ( TFIID ) complex ( 49 ) .
+The main function of the coactivator then would be to unfold and unmask these transactivation domains due to TATA - TATA ( ED ) .
+TATA Characterization of Murine BOB.1/OBF.1 relative activity 4x mut | 4x wt TATA BOB.1-N BOB.1-C 2 é D sva0 BOB.VOBEA -- oi BOB.OBE.1 ( 1-126 ) BOB.1-FL BOB.1-N BOB.UOBE.1 ( 127-250 ) BOB.1-C wi oct T axwmrara oseep ( -m mut oct T ax murraATa -0000 # - [ -f- -- ] Pa. E wi oct-enbancer P wt oct- '' enhancet '' '' T E11 mut oct- '' enhancer '' T @ a.rara - -m -- -3 CL ( ED ) CL ( Ed ) ( Ed ) TATA + ( ED ) .TATA + CL ( Ed ) * CLED ) ' cura ) + CLED ) + its physical interaction with the Oct1 and Oct2 transcription factors .
+Intramolecular masking of the transactivation domain has been suggested for the MyoD transcription factor ( 50 ) .
+A specific conformational change induced by binding of MyoD to DNA is hypothesized to be responsible for the release of the masked transactivation domain ( 50 , 51 ) .
+From our results it is unclear whether a similar masking/unmasking process is responsible for the activation of the octamer transcription factors in B cells .
+Clearly , a more complex situation than for MyoD has to be envisaged , as an additional cofactor , namely BOB.1/ OBF.1 , is required for the activation to take place .
+Interestingly , involvement of additional cofactors could also not be ruled out in the MyoD activation process ( 51 ) .
+Although our results demonstrate that Oct2 and BOB.1/0BF.1 can interact off DNA , these experiments do not exclude a role for DNA-binding in the activation process .
+In that respect it is of interest to note that in our previous GAL4 fusion experiments with 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog Characterization of Murine BOB.1/OBF.1 A B # 1 pG4TATA 30 & & is B `` F H £ 2 3 3 p ® ae § | 2 3 { oR Z 2 hell lect a = 4 =o 9 mo # m ~I 3 § g & 30 g & B < [ = ] < - % < - & 3 & 5 H H & < 14 2 $ i $ 4° 3 $ a 3 - 9 C GAL4 ( 1-92 ) GAL4 ( 1-92 ) BOB.U/OBE.1 FL GAL4/BOB.1-FL BOB.U/OBF.1 ( 1-126 ) GAL4/BOB.1-N BOB.1/OBF.1 ( 127-256 ) GAL4/BOB.1-C GAL-sites T rcuram secon- = -- - ] Por E GAL-sites Fic .
+7 .
+BOB.1/0BF.1 only activates from a promoter-proximal position when tethered to DNA via GALA4 binding sites .
+A , activation of GAL4 promoters by BOB.1/0BF.1-GALA4 fusion proteins in S194 plasmacytoma cells .
+Reporter plasmid pG4.TATA was cotransfected with the indicated GAL4-BOB.1/0BF.1 fusion proteins .
+The activity of the reporter cotransfected with the GAL4 DNA-binding domain ( GAL4 ( 1-92 ) ) was set to 1 .
+B , similar experiment as in A but using the pCL ( G8 ) reporter plasmid .
+C , structure of the expression plasmids and reporter plasmids used .
+GAL4 ( I-92 ) and all reporter plasmids were described previously ( 41 ) .
+pCL ( G8 ) different Oct2 domains we failed to detect transcriptional activity for a fusion protein that contained the POU domain fused to the GAL4 DNA-binding domain ( the identical protein used for the coprecipitation experiment in Fig .
+44 ) even in B cells ( 41 ) .
+This result could be interpreted in two ways : ( i ) a functional complex requires DNA binding of the POU domain and/or ( ii ) the transactivation domains of the Oct proteins are essential for BOB.1/0BF.1-mediated transactivation .
+Significantly more work has been performed to elucidate another coactivation pathway where octamer proteins are in-volved .
+The Oct1 protein is a critical component for the activation of several viral promoters after infection of cells with herpes simplex virus .
+There , a complex between the viral VP16 protein and Oct1 on specific promoter motifs containing a TA-ATGARAT consensus is responsible for efficient coactivation ( 52 , 53 ) .
+The functional complex formed on the DNA actually is composed of Oct1 , VP16 , as well as an additional cellular protein , HCF ( 54-58 ) .
+However , as Oct1 is the only DNA-binding component in this system , it was unclear how specific octamer motifs ( the GARAT-containing motifs ) were selected for VP16-mediated transactivation .
+A recent investigation of Oct1 bind 29879 ing to different octamer motifs by high resolution chemical footprinting suggested that the Octl POU domain adopts a specific conformation when binding to GARAT-containing motifs as compared with two other octamer motifs .
+It was suggested that this specific conformation would then be recognized by the viral coactivator ( 59 ) .
+However , the additional binding of the coactivator to Oct1 did not affect the POU domain contacts to DNA as measured by chemical footprinting .
+In agreement with these findings , we also failed to detect any alterations of Oct1 or Oct2 DNA contact upon binding of the BOB.1/0BF.1 cofactor .
+This does not exclude the possibility , however , that , upon interaction with the cofactor , the overall conformation of the Oct1 and Oct2 proteins is changed .
+Could different conformation of Oct proteins on different octamer binding sides be responsible for the differences observed with respect to promoter and enhancer activation by BOB.1/0BF.1 ?
+This interpretation is highly unlikely for the following two reasons .
+First , supershifted EMSA complexes containing Octl or Oct2 plus the BOB.1/0BF.1 coactivator could be observed on the various binding sites used for the promoter and the enhancer reporter constructs ( compare , for example , Figs .
+3 and 5 ) .
+Furthermore , we have shown that the very same elements that failed to function at a distance , were efficiently activated by BOB.1/0BF.1 when placed in a promoter-proximal position ( Fig .
+6D ) .
+These results together with the evidence discussed above argue for an independent distinct enhancer coactivator .
+The observation that BOB.1/0BF.1 only contacts the POU domain of the octamer transcription factors further supports the dual function of the POU domain in these proteins .
+In addition to being responsible for specific DNA-binding , its role in orchestrating protein-protein interaction is becoming more and more apparent over the last years .
+In addition to viral proteins such as the described VP16 herpes simplex virus coactivator or the adenovirus E1A protein ( 30 ) , interaction with cellular proteins has also been shown to be mediated by the POU domain of Octl1 and Oct2 .
+We could previously show that the POU domains of Oct1 and Oct2 specifically interact with TBP , the TATA-binding protein component of transcription factor IID ( 45 ) .
+More recently , using the POU domain as probe in a protein-protein interaction screening protocol , we were able to isolate HMG2 , an abundant non-histone nucleoprotein , as an interacting partner protein ( 39 ) .
+In contrast to the interaction with BOB.1/0BF.1 which has been described to be specific for Oct1 and Oct2 ( 37 , 38 ) , HMG2-POU domain interactions are more promiscuous as the Oct6é POU domain was also shown to interact with HMG2 ( 39 ) .
+Acknowledgments-We thank I. Halwax for excellent technical support and S. Reinig for help typing the manuscript .
+REFERENCES 1 .
+Falkner , F. G. , and Zachau , H. G. ( 1984 ) Nature 810 , 71-74 2 .
+Parslow , T. G. , Blair , D. L. , Murphy , W. J. , and Granner , D. K. ( 1984 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+81 , 2650-2654 3 .
+Hermanson , G. G. , Briskin , M. , Sigman , D. , and Wall , R. ( 1989 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+86 , 7841-7345 4 .
+Zeleznik-Le , N. J. , Itoh-Lindstrom , Y. , Badley Clarke , J. , Moore , T. L. , and Ting , J. P.-Y .
+( 1992 ) J. Biol .
+Chem .
+267 , 7677-7682 5 .
+Thevenin , C. , Lucas , B. P. , Kozlow , E. J. , and Kehrl , J. H. ( 1993 ) J. Biol .
+Chem .
+268 , 5949-5956 6 .
+Wirth , T. , Staudt , L. , and Baltimore , D. ( 1987 ) Nature 829 , 174-178 7 .
+Gerster , T. , Matthias , P. , Thali , M. , Jirieny , J. , and Schaffner , W. ( 1987 ) EMBO J .
+6 , 1323-1330 8 .
+Schaffner , W. ( 1989 ) Trends Genet .
+5 , 87-89 9 .
+Verrijzer , C. P. , and Van der Vliet , P. C. ( 1993 ) Biochim .
+Biophys .
+Acta 1178 , 1-21 10 .
+Scholer , H. R. , Hatzopoulos , A. K. , Balling , R. , Suzuki , N. , and Gruss , P. ( 1989 ) EMBO J .
+8 , 2543-2550 11 .
+Scholer , H. R. ( 1991 ) Trends Genet .
+7 , 323-329 12 .
+Singh , H. , Sen , R. , Baltimore , D. , and Sharp , P. A .
+( 1986 ) Nature 819 , 154-158 13 .
+Sturm , R. A. , Das , G. , and Herr , W. ( 1988 ) Genes & Dev .
+2 , 1582-1599 14 .
+Staudt , L. M. , Singh , H. , Sen , R. , Wirth , T. , Sharp , P. A. , and Baltimore , D. ( 1986 ) Nature 823 , 640-643 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog 29880 15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+Landolfi , N. F. , Capra , J. D. , and Tucker , P. W. ( 1986 ) Nature 828 , 548-551 Staudt , L. M. , Clerc , R. G. , Singh , H. , LeBowitz , J. H. , Sharp , P. A. , and Baltimore , D. ( 1988 ) Science 241 , 577-580 Miller , M. M. , Ruppert , S. , Schaffner , W. , and Matthias , P. ( 1988 ) Nature 336 , 544-551 Scheidereit , C. , Cromlish , J .
+A. , Gerster , T. , Kawakami , K. , Balmaceda , C.-G. , Currie , R. A. , and Roeder , R. G. ( 1988 ) Nature 886 , 551-557 Wirth , T. , Priess , A. , Annweiler , A. , Zwilling , S. , and Oeler , B .
+( 1991 ) Nucleic Acids Res .
+19 , 48-51 Herr , W. , Sturm , R. A. , Clere , R. G. , Corcoran , L. M. , Baltimore , D. , Sharp , P. A. , Ingraham , H. A. , Rosenfeld , M. G. , Finney , M. , Ruvkun , G. , and Horvitz , H. R. ( 1988 ) Genes & Dev .
+2 , 1513-1516 Rosenfeld , M. G. ( 1991 ) Genes & Dev .
+5 , 897-907 Sturm , R. A. , and Herr , W. ( 1988 ) Nature 836 , 601-604 Verrijzer , C. P. , Alkema , M. J. , van Weperen , W. W. , van Leeuwen , H. C. , Strating , M. J. J. , and van der Vliet , P. C. ( 1992 ) EMBO J .
+11 , 4993-5003 Klemm , J. D. , Rould , M. A. , Aurora , R. , Herr , W. , and Pabo , C. O .
+( 1994 ) Cell 77 , 21-32 He , X. , Treacy , M. N. , Simmons , D. M. , Ingraham , H. A. , Swanson , L. W. , and Rosenfeld , M. G. ( 1989 ) Nature 840 , 35-42 Staudt , L. M. , and Lenardo , M. J .
+( 1991 ) Annu .
+Rev .
+Immunol .
+9 , 373-898 Pierani , A. , Heguy , A. , Fujii , H. , and Roeder , R. G. ( 1990 ) Mol .
+Cell .
+Biol .
+10 , 6204-6215 Annweiler , A. , Zwilling , S. , Hipskind , R. A. , and Wirth , T. ( 1993 ) J. Biol .
+Chem .
+268 , 2525-2534 Yu , H. , Porton , B. , Shen , L. , and Eckhardt , L. A .
+( 1989 ) Cell 58 , 441-448 Schiler , H. R. , Ciesiolka , T. , and Gruss , P. ( 1991 ) Cell 66 , 291-304 Pfisterer , P. , Annweiler , A. , Ullmer , C. , Corcoran , L. , and Wirth , T. ( 1994 ) EMBO J .
+18 , 1654-1663 Feldhaus , A. L. , Klug , C. A. , Arvin , K. L. , and Singh , H. ( 1993 ) EMBO J .
+12 , 2763-2772 Corcoran , L. M. , Karvelas , M. , Nossal , G. J. V. , Ye , Z.-S. , Jacks , T. , and Baltimore , D. ( 1993 ) Genes & Dev .
+7 , 570-582 Corcoran , L. M. , and Karvelas , M. ( 1994 ) Immunity 1 , 635-645 Wirth , T. , Pfisterer , P. , Annweiler , A. , Zwilling , S. , and Kénig , H. ( 1995 ) Immunobiology 198 , 161-170 36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+57 .
+58 .
+59 .
+Characterization of Murine BOB.1/OBF.1 Luo , Y. , Fujii , H. , Gerster , T. , and Roeder , R. G. ( 1992 ) Cell 71 , 231-241 Gstaiger , M. , Knoepfel , L. , Georgiev , O. , Schaffner , W. , and Hovens , C. M. ( 1995 ) Nature 378 , 360-362 Strubin , M. , Newell , J. W. , and Matthias , P. ( 1995 ) Cell 80 , 497-506 Zwilling , S. , Kinig , H. , and Wirth , T. ( 1995 ) EMBO J .
+14 , 1198-1208 Ausubel , F. M. , Brent , R. , Kingston , R. E. , Moore , D. D. , Seidman , J. G. , Smith , J .
+A. , and Strubl , K. ( 1989 ) Current Protocols in Molecular Biology , Vol .
+1 , John Wiley & Sons , New York Annweiler , A. , Zwilling , S. , and Wirth , T. ( 1994 ) Nucleic Acids Res .
+22 , 4250-4258 Lernbecher , T. , Miiller , U. , and Wirth , T. ( 1993 ) Nature 865 , 767-770 Dignam , J. D. , Lebovitz , R. M. , and Roeder , R. G. ( 1983 ) Nucleic Acids Res .
+11 , 1475-1489 Kuwabara , M. D. , and Sigman , D. S. ( 1987 ) Biochemistry 26 , 7284-7238 Zwilling , S. , Annweiler , A. , and Wirth , T. ( 1994 ) Nucleic Acids Res .
+22 , 1655-1662 Lai , J.-S. , and Herr , W. ( 1992 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+89 , 6958-6962 Annweiler , A. , Miiller-Immergliick , M. , and Wirth , T. ( 1992 ) Mol .
+Cell .
+Biol .
+12 , 3107-3116 Seipel , K. , Georgiev , O. , and Schaffner , W. ( 1992 ) EMBO J .
+11 , 4961-4968 Tjian , R. , and Maniatis , T. ( 1994 ) Cell 77 , 5-8 Weintraub , H. , Dwarki , V. J. , Verma , I. , Davis , R. , Hollenberg , S. , Snider , L. , Lassar , A. , and Tapscott , S. J .
+( 1991 ) Genes & Dev .
+5 , 1377-1386 Bengal , E. , Flores , O. , Rangarajan , P. N. , Chen , A. , Weintraub , H. , and Verma , I. M. ( 1994 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+91 , 6221-6225 Gerster , T. , and Roeder , R. G. ( 1988 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+85 , 6347-6351 Kristie , T. M. , LeBowitz , J. H. , and Sharp , P. A .
+( 1989 ) EMBO J .
+8 , 4229-4238 Katan , M. , Haigh , A. , Verrijzer , C. P. , van der Vliet , P. C. , and O'Hare , P. ( 1990 ) Nucleic Acids Res .
+18 , 6871-6880 Kristie , T. M. , and Sharp , P. A .
+( 1990 ) Genes & Dev .
+4 , 2383-2396 Xiao , P. , and Capone , J. P. ( 1990 ) Mol .
+Cell .
+Biol .
+10 , 4974-4977 Kristie , T. M. , and Sharp , P. A .
+( 1993 ) J. Biol .
+Chem .
+268 , 6525-6534 Wilson , A. C. , LaMarco , K. , Peterson , M. G. , and Herr , W. ( 1993 ) Cell 74 , 115-125 Walker , S. , Hayes , S. , and O'Hare , P. ( 1994 ) Cell 79 , 841-852 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog Functional Characterization of the Murine Homolog of the B cell-specific Coactivator BOB.1/0BF.1 Petra Pfisterer , Stefan Zwilling , Jochen Hess and Thomas Wirth J. Biol .
+Chem .
+1995 , 270:29870-29880. doi : 10.1074/jb0.270.50.29870 Access the most updated version of this article at http : /www.jbe.org/content/270/50/29870 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 58 references , 13 of which can be accessed free at http : //www .full.html # ref-list-1 610Z '01 uo 1son $ 4q /S10°0q [ 'mmmy/ : dyy wrojr popeopumog

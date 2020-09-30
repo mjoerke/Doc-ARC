@@ -1,0 +1,660 @@
+4128-4136 - Nucleic Acids Research , 1998 , Vol .
+26 , No .
+18 © 1998 Oxford University Press The MHC class II transactivator ( CIITA ) requires conserved leucine charged domains for interactions with the conserved W box promoter element Jeffrey A .
+Brown , Edward M. Rogers and Jeremy M. Boss* Department of Microbiology and Immunology , Emory University School of Medicine , Atlanta , GA 30322 , USA Received June 17 , 1998 ; Accepted July 26 , 1998 ABSTRACT The class II transactivator CIITA is required for transcriptional activation of the major histocompatibility complex ( MHC ) class II genes .
+Aside from an N-terminal acidic transcriptional activation domain , little is known about how this factor functions .
+Extensive mutagenesis of CIITA was undertaken to identify structural motifs required for function .
+The ability of mutants to activate a reporter gene under the control of MHC class II conserved W-X-Y or X-Y regulatory elements was determined .
+Two mutants displayed differential activity between the two promoters , activating transcription with the W-X-Y but not the X-Y elements .
+All mutants were tested for their ability to interfere with wild-type CIITA activity .
+Five CIITA mutant constructions were able to down-regulate wild-type CIITA activity .
+Three of these mutants contained targeted disruptions of potential functional motifs : the acidic activation domain , a putative GTP-binding motif and two leucine charged domains ( LCD motifs ) .
+The other two contained mutations in regions that do not have homology to described proteins .
+The characterization of CIITA mutants that are able to discriminate between promoters with or without the W box strongly suggests that CIITA requires such interactions for function .
+The identification of LCD motifs required for CIITA function brings to light a previously undefined role of these motifs in CIITA function .
+INTRODUCTION Major histocompatibility complex ( MHC ) class II genes encode integral components of the immune response .
+The three human class II isotypes , DR , DQ and DP , each consisting of an O/B heterodimer , present processed extracellular antigenic peptides to helper T cells ( 1 ) .
+Class II genes are coordinately expressed in B cells , macrophages , dendritic cells and thymic epithelium .
+However , their expression can be induced in a number of cell types by treatment with interferon-y ( IFN-y ) ( 2-5 ) .
+The temporal and spatial regulation of class II gene expression is vital to the maintenance of a functional immune system .
+Clues to the mechanism of class II gene regulation have come from analyses of cell lines from patients exhibiting the bare lymphocyte syndrome ( BLS ) , an inherited immunodeficiency ( reviewed in 6,7 ) .
+BLS patients lack all class II expression , resulting in an inability to mount an immune response to soluble antigens ( 8,9 ) .
+Four clear BLS complementation groups have been defined , each deficient in a necessary trans-acting factor ( 6,10,11 ) .
+The promoters of class II genes contain three conserved regulatory elements , termed the W , X and Y boxes ( 3,12 ) .
+The W box is the most upstream of the elements and is required for IFN-y-induced and maximal B cell expression of class II genes ( 13-17 ) .
+While the role of the W box in IFN-y induction has been well documented ( 16,17 ) , the mechanism for this requirement has remained elusive , presumably because the factors that bind to the W box have not been well characterized .
+A recent report suggested that RFX , a factor that binds to the X1 box ( see below ) , binds weakly to the smaller S box region within the W box ( 18 ) .
+The X box , both necessary and sufficient for class II expression in B cells ( 14,15,19 ) , has been biochemically and genetically subdivided into the X1 and X2 boxes ( 13,14 ) .
+RFX , a multimeric protein complex consisting of 75 , 41 and 36 kDa subunits , binds to the X1 box ( 20,21 ) .
+RFX activity is deficient in three of the BLS complementation groups ( B , C and D ) ( 13,21-25 ) .
+The factor X2BP has been shown to bind the X2 box and has been described ( 26-29 ) .
+The Y box , an inverted CCAAT motif , has been shown to bind the minor groove DNA-binding protein NF-Y ( 30 ) .
+The X and Y box factors form synergistic complexes on all class II promoters ( 28,31 ) and therefore appear to coordinate the regulation of all class II genes .
+The class II transactivator CIITA appears to function as a master regulatory switch for class II expression .
+CIITA is mutated in BLS complementation group A ( 32 ) .
+Expression of CITA correlates exactly with class II expression in both antigen-presenting cells and cells induced to express class II genes by IFN-y ( 32 ) .
+Moreover , class II negative cells transfected with CITA express class II genes ( 33-37 ) , suggesting that CITA expression is a limiting component of class II gene regulation .
+CIITA does not appear to bind DNA .
+Analysis of the 1130 residue primary amino acid sequence of CIHITA ( 32 ) revealed an acidic region , a proline/serine/threonine-rich ( P/S/T ) region , a consensus GTP-binding motif ( 38 ) , a leucine-rich region and four leucine and charged residue-rich domains ( LCD ) .
+The acidic domain has *To whom correspondence should be addressed .
+Tel : +1 404 727 5973 ; Fax : +1 404 727 1719 ; Email : boss @ microbio.emory.edu Table 1 .
+Primers used for construction of the CIITA mutants Nucleic Acids Research , 1998 , Vol .
+26 , No .
+18 - 4129 CONSTRUCT ( bp deleted ) 5° Primer ( bp ) OL-PCR Primer® 3 `` Primer ( bp ) A1 ( 1099-1129 ) A2 ( 1217-1246 ) A3 ( 1376-1408 ) A4 ( 1436-1465 ) A5 ( 1499-1528 ) A6 ( 1862-1894 ) A7 ( 2165-2194 ) AB ( 2486-2530 ) A9 ( 2771-2806 ) A10 ( 3047-3076 ) A11 ( 3224-3262 ) A12 ( 3458-3487 ) ( 799 ) 5-GTTTGTCCCCACCATCTCCAC ( 799 ) ( 799 ) ( 799 ) ( 799 ) ( 799 ) ( 799 ) ( 799 ) ( 799 ) ( 2288 ) 5-AGTGGCGAAATCAAGGACAAGG ( 2288 ) ( 2288 ) 5-GCTGGAGAGGTCTCC/GAGCAGTTCTACCG 5-GGTGGATCTGGTGCA/GCTGGAGCGGGAACTG 5-ATTGCTGTGCTGGGC/GCAGTGAGCCGG @ Cc §-GCCTGGGCTTGTGGC/GTCCCCTGCCaTTGC 5-AACCGTCCGGGGGAT/CTGGGCCCACAGCCA 5- @ TGATGCGCTACTTT/CCCCTGACGCTCCTCCGG 5-CAGTTCCCATCCGCA/TTAGTCCAACACCCA 5-CAGAAGGTGCTTGCG/CTGCTTGAGCTGCTa 5-TGTGTCACCCGTTTCTCCCTGCGGCAGCAT 5-TTCCCCAAACTGGTG/CATCTGGACCTGGAT 5-GCCTACAAACTCGCC/AGCTTGTACAATAAC ( 2041 ) 5-GACATAGAGTCCCGTGAGCG ( 2041 ) ( 2408 ) 5-TGGAAGATCAGCCCAGCCAGAAAGC ( 2041 ) ( 2406 ) ( 2406 ) ( 2406 ) ( 3118 ) 5-GTCCCCGaATCTraTTcTcactc ( 3118 ) ( 3566 ) 5-CAAGGTCCAGCGTG @ TTAGTaTCcTcaq ( 3566 ) * ( pSVK3 ) ) 5-TACGCCCCGCCCTaCcactc 161-1130 ( a.a. 1-160 ) mutL1 t ( 599 ) 5-GCTCTAGACCATGGAGCCCCCCACTGTG ( 1447 ) 5 ' - GCTTGTGGCCGGCTTCCCCaGT 115-GCCTATGGCGCACAGGATGCTGC @ TTCTCCCTG mutL2 ( 1447 ) 115-CCCTGCTCCGETCGGGGGGCAGCAGCCGGCCTT ( 2406 ) A13 ( 104 ) 5 ' - GATTCCTACACAATGCGTTGCCTGGCTC - |5-GCAGAAGTTGGGCAGGCTGAGCCCCCCAGT ( 1537 ) mutCDK ( 104 ) t } 5-GGCCTCCCAACAGCTGCGGACG @ CCCCAGGCTCCACC | ( 1537 ) ( 1537 ) 5° - GGGCCCAGGGAGAAGAGCAGAT ( 2406 ) All primer sequences are given in the 5/- > 3 ' direction with the position of the 5 `` base indicated .
+*For complementary OL-PCR primers , the sequence is given for the coding strand of CHTA .
+**Primer pSVK3 ' anneals to the MCS of pSVK-Flag-CIITA , immediately downstream of CITA .
+tThe primer adds a Xbal site and Koxak consensus translation start site such that the protein begins at wild-type residue 161 .
+TTSequence changes that lead to alanine substitutions are underlined .
+been shown to act as a transcriptional activation domain in both mammalian and yeast systems ( 39,40 ) .
+Mahanta et al .
+( 41 ) recently showed that this transcriptional activation domain functions similarly to that of VP16 by interacting with the TATA-binding protein TBP and several TBP-associated factors .
+No function has been ascribed to the P/S/T region , but it has been shown that it is required for CHTA activity ( 42 ) .
+The mechanism for CHITA action is poorly understood ; recent studies have suggested that CIITA functions as a coactivator by interacting with X box DNA-bound transcription factors and activating transcription through its activation domain ( 39,40 ) .
+To further investigate the mechanism of CITA function , a series of internal deletion and substitution mutants was created .
+The mutants were tested for their ability to activate class II-specific reporter gene constructs and for their ability to interfere with the function of wild-type CIITA .
+It was found that deletions spanning the C-terminal two thirds of the protein abrogated CIITA function .
+Two mutants were found to discriminate between a W-X-Y-driven reporter and an X-Y reporter , suggesting direct interaction with the class II-specific transcription factor ( s ) bound at the W box ; both of these mutants contained disruptions of conserved LCD motifs , highlighting the potential involvement of these motifs in CITA function .
+Numerous mutations resulted in proteins that were able to interfere with the function of wild-type CIITA , indicating that in addition to the activation domain , CHITA requires additional regions for activity .
+Thus , the analysis of these mutants brings to light additional functions of CIITA , including the potential for interactions with the W box promoter element and a functional requirement for LCD motifs and neighboring residues .
+MATERIALS AND METHODS Cell culture Raji is a B cell line derived from a patient with Burkitt 's lymphoma ( 43 ) .
+RJ2.2.5 is an MHC class II negative derivative of Raji and was provided by Dr R. Acolla ( 44 ) .
+Both cell lines were grown in RPMI 1640 medium ( Gibco BRL , Grand Island , NY ) , supplemented with 5 % fetal bovine serum ( Intergen Inc. , Purchase , NY ) , 5 % calf serum ( Hyclone Inc. , Logan , UT ) , 2 mM L-glutamine ( Gibco BRL ) , 100 U/ml penicillin and 100 U/ml streptomycin ( Gibco BRL ) .
+CIITA plasmids Wild-type CITA was cloned into the eukaryotic expression vector pSVK3 ( Invitrogen Corp. , Carlsbad , CA ) , with an N-terminal FLAG epitope tag ( IBI , Corning , NY ) , which was used as the base vector for mutagenesis .
+Overlap PCR ( OL-PCR ) mutagenesis was used to design the internal deletion and amino acid substitution mutants .
+Two complementary overlap primers containing the desired mutation were used separately in PCRs with CHITA-specific primers 5° or 3 `` of the deletion ( Table 1 ) .
+PCR products were mixed and used as template for OL-PCR amplification using the CIITA-specific primers .
+The OL-PCR product was cloned into a wild-type CIITA background using available restriction sites ( all restriction enzymes were from New England Biolabs , Beverly , MA ) .
+Incorporation of mutations was monitored by ablation of restriction sites and all PCR-derived sequences were checked by DNA sequencing .
+Zn vitro transcribed and translated proteins were prepared using the TnT kit ( Promega Corp. , Madison , WI ) as described by the manufacturer .
+Transient transfections and CAT ELISAs CAT reporter constructs pDRW-X-Y and pDRGX1-X2-Y , containing the W-X-Y or X-Y motifs 5° of the minimal DRA promoter , respectively , were used ( 13,27 ) .
+Co-transfections were performed by electroporation as previously described ( 27 ) .
+For RJ2.2.5 transfections , cells were harvested 70 h post-transfection , washed , and lysed by three rounds of freezing and thawing .
+CAT expression was measured by an ELISA ( Boehringer Mannheim , Indianapolis , IN ) .
+For Raji transfections , cells were harvested at 48 h post-transfection , a time point determined by flow cytometry to be optimal for a dominant negative effect ( data not shown ) , washed , lysed , and assayed by ELISA as above .
+4130 Nucleic Acids Research , 1998 , Vol .
+26 , No .
+18 WT - & -u ms D/E PIST G1G3 G4 L3L4 LRR L1L2 A1 ( 329-338 ) A 2 ( 368-377 ) A 3 ( 421-431 ) mms l mmm ... .
+A 4 ( 441-450 ) -me o , o-a-o momo 0 A 5 ( 462-47 1 ) -mm W P A 6 ( 583-503 ) .more as o n-a pm AT ( 684-693 ) -me m-o -- r / pom A 8 ( 791-805 ) A9 ( 886-897 ) A 10 ( 978-987 ) -me n-a A 11 ( 1037-1049 ) a -m-s-o n n A 12 ( 11154124 ) ( 161-1130 ) ( 1-160 ) rommmmmme p mmm ... mut L1 L ( 465 , 468 , 469 ) A a-m-4-s a- » F mut L2 L ( 525 , 528 , 529 ) A ~s c l M A 5 , mut L2 ( 462-471 ) , ee uu £4525 .
+528 , 529 ) , V ooo Figure 1 .
+CIITA deletion mutants used in this study .
+( Top ) Wild-type CIITA with the acidic activation ( D/E ) , P/S/T , GTP consensus ( G1 , G3 and G4 ) , LCD ( L1-L4 ) and leucine-rich regions ( LRR ) indicated .
+( Below ) CIITA mutants created for this study .
+Amino acid residues deleted or changed are indicated in parentheses , with a schematic approximating the locations of the individual mutations along the length of CIITA .
+Internal deletion mutants ( V ) were created using OL-PCR as described in Materials and Methods ; the sequences of PCR primers used can be found in Table 1 .
+Asterisks ( * ) indicate regions containing alanine substitutions .
+Generation of ¢-CIITA antisera and immunoblot analysis A bacterial expressed maltose-binding protein-CIITA fusion protein ( MBP-CIITA ) was used to generate polyclonal antiserum .
+CHTA-specific IgG antibodies were purified by chromatography over a protein A column as described by the manufacturer ( Pharmacia Biotech , Piscataway , NJ ) .
+Cell lysates were separated by 7.5 % SDS-PAGE and transferred to PVDF membranes as described ( 45 ) .
+Western blots were blocked overnight in 10 % non-fat dry milk ( w/v ) in PBS-T ( 0.1 % Tween-20 ) at room temperature with agitation .
+Polyclonal o-CIITA antiserum was diluted 1:2000 in block solution ; blots were incubated in primary antibody solution for 1 h at room temperature with agitation .
+Blots were washed in PBS-T and incubated for 1 h in secondary antibody ( HRP-conjugated anti-rabbit IgG ; Sigma , St Louis , MO ) diluted 1:3000 in block solution .
+Blots were washed as above and developed using enhanced chemiluminescence ( ECL system ; Amersham Life Science , Arlington Heights , IL ) .
+RESULTS CIITA deletion mutants To examine the nature of CITA function , a series of mutations were introduced into the CIITA gene that could be assayed for their ability to distinguish between wild-type and mutant class II promoters .
+Small in-frame deletions beginning 3 `` of the acidic activation domain were created along the length of CIITA ( Fig .
+1 ) .
+The mutations were made downstream of the acidic activation domain for three reasons .
+First , previous work had shown that this domain was required for transcriptional activation ( 39 ) .
+Second , the non-functional allele of CIITA in the BLS complementation group A cell line RJ2.2.5 has a fully intact activation domain ( 46 ) , suggesting that CIITA has properties in addition to transcriptional activation .
+Third , all complementation group A BLS patient-derived cell lines have mutations downstream of the activation domain ( 32,33 ) .
+The predicted coding region of CIITA ( 32 ) was cloned into the pSVK eukaryotic expression vector , which had been modified to contain the FLAG epitope ( IBI , Corning , NY ) at its N-terminus .
+The construction containing the wild-type CITA sequence was termed pFLAG-CIITA .
+All other constructs were based on this vector .
+Of the engineered mutations , some were randomly spaced along the length of the CIITA gene , while others targeted specific regions that potentially could affect function .
+Two mutants , A3CIITA and ASCIITA , were designed to disrupt the G1 and G3 boxes , respectively , of the putative GTP-binding domain .
+The ASCIITA deletion also eliminated one of the four consensus LCD motifs ( termed L1 ) of CHTA .
+A10CIITA and A11CIHITA disrupt a leucine-rich region near the C-terminus of the protein .
+Last , CHTA ( I61-1130 ) lacks the activation domain but retains all other sequences of CIITA , including the P/S/T region .
+Two methods were used to confirm that the mutant constructs encoded the desired mutations .
+First , all mutations were confirmed by DNA sequencing .
+Second , each construct was expressed in an in vitro transcription/translation reaction to ensure that the proteins produced were of the expected size ( Fig .
+2A ) .
+Because the FLAG epitope was unable to be detected by western blot when FLAG-CIITA was transfected into RJ2.2.5 or Raji cells , a CHTA-specific antiserum was developed to detect CIITA .
+Rabbit polyclonal antiserum was generated to an Escherichia coli-expressed MBP-CIITA chimera .
+Use of the MBP-CIITA fusion allowed stable and soluble expression of CITA in bacteria .
+The antiserum recognizes CIITA in the wild-type Raji B cell line , but not in the CHTA-deficient cell line RJ2.2.5 ( Fig .
+2B ) .
+To determine if the CHITA mutant series would be expressed and stable in eukaryotic cells , immunoblot analysis was carried out on RJ2.2.5 cells transiently transfected with the mutant CIHITA constructs .
+The results show that the CIITA mutant proteins can be detected at 24 h after transfection , suggesting that the overall levels of CHITA and the stability of the mutant proteins is similar to the wild-type ( Fig .
+2C ) .
+The CHTA ( 161-1130 ) Nucleic Acids Research , 1998 , Vol .
+26 , No .
+18 _ 4131 V a* .o a CS “ Q ” ?
+moult $ 57 A. Vail ; 3 go ; € `` S \ af AZ A3 A4 AS A6 AT AB A9 MO M1 A12 £ € y *~ # K B. Mo 100 20003 2207 ap < @ ciita at-69 a $ g `` C. a m mo 3 MO A20 A3 A40 A5 A60 A7 0 A80 A90 M10 M10 M2 o € € £ $ -a s sith ~- -- `` Abate ) 18s ) Sacco m ss Figure 2 .
+Expression of CHTA deletion mutants in vitro and in vivo .
+( A ) Autoradiograph of SDS-PAGE of CIITA deletion mutants .
+Aliquots of 1 ug of the indicated CIITA deletion constructs were used in individual transcription/translation reactions using the T7 RNA polymerase TnT kit ( Promega Corp. , Madison , WI ) as described by the manufacturer .
+( B ) Polyclonal antiserum specifically recognizes recombinant CIITA and native CITA from Raji but not RJ2.2.5 cell lysates in an immunoblot .
+Lane 1 , recombinant CITA ( 2 ug ) ; lane 2 , Raji cell lysate ( 1.5 x 105 cells ) ; lane 3 , RJ2.2.5 cell lysate ( 1.5 x 106 cells ) .
+The arrow indicates the position of the CHTA-specific band .
+( C ) CIITA deletion mutants are expressed when transiently transfected into RJ2.2.5 cells .
+Aliquots of 20 ug CIITA expression constructs were transfected into RJ2.2.5 cells as previously described .
+Cells were harvested at 24 h post-transfection and lysed by resuspension in SDS-PAGE sample buffer .
+Lysates were analyzed by immunoblot as above .
+mutant is either slightly less stable or not produced in the same quantities as the others , as 1.5-fold more extract was required to generate a similar signal .
+Most mutations in CIITA C-terminal of amino acid 377 result in the loss of CHTA activity The ability of the CIITA mutants to transactivate the X-Y box-dependent CAT reporter plasmid pDRG-X1-X2-Y ( 39 ) was determined by co-transfection into RJ2.2.5 cells .
+The FLAG epitope had no effect on CIITA activity , as it gave comparable transactivation of the reporter as the previously characterized CIITA expression vector pCIITA-8 ( 39 ; Fig .
+3A ) .
+The ability of the CIITA mutants to transactivate pDRG-X1-X2-Y was assayed and normalized to the level of expression produced by the pFLAG-CIHITA construct ( Fig .
+3A ) .
+Most CIITA mutations resulted in non-functional alleles .
+The only exceptions were the most N-terminal mutations , A1 and A2 , which both yielded near wild-type CAT levels as compared with pFLAG-CIITA .
+Similar results were obtained when using CAT reporter constructs driven solely by the X1-X2 sequences ( data not shown ) .
+To determine if any of the mutations could function in the presence of the W box , transfections were carried out using the previously described W-X-Y-dependent reporter construct pDRW-X-Y ( 13 ) .
+Previous work from our laboratory indicated that the levels of CHTA-dependent transcription increased 2-3-fold when the W box was included in the promoter ( 27,39 ) .
+This was also the case for CIITA transactivation in this system , as the reporter levels driven by pDRW-X-Y were 3.2-fold higher than those produced with pDRG-X1-X2-Y .
+ASCIITA showed clear differences in transactivation capabilities between promoters driven by X1-X2-Y and W-X-Y .
+Where A5 was inactive with an X-Y promoter , this mutant activated the W-X-Y reporter to 50.3 % of wild-type expression levels .
+This differential activity for A5 suggests that this mutation alters the structure of CIITA in such a manner that it is now able to function only in the presence of the W box , implying that CIITA interacts with the W box proteins .
+While other mutations also appear to show some W box-dependent activity ( e.g .
+A7 and A9CIITA ) , this phenotype is most pronounced for ASCIITA .
+Primary amino acid homology searches with CIITA highlighted a potential bipartite nuclear localization sequence ( NLS ) in murine CIITA ( 47 ) and a conserved potential CDK phosphorylation site [ consensus SPxR ( 48 ) , CIITA positions Ser280 , Pro281 , Arg283 ] .
+Individual mutations were created that deleted the potential NLS ( residues 141-160 of human CHTA ) and altered the conserved residues of the CDK phosphorylation site to alanines .
+Both of these mutants were able to drive transcription to near wild-type levels in all assays tested ( data not shown ) .
+Mutations in the activation domain and central regions of CIITA interfere with the function of wild-type CIITA in Raji cells Mutations that exhibit dominant negative effects often result from the disruption of a functional domain of the protein without disrupting other portions of the protein .
+This class of mutants is able to interact with additional factors , but the resulting complexes are biologically inactive or non-functional .
+To further analyze the mutant CIITA proteins , transient co-transfections of the CHTA mutants were carried out with the pDRW-X-Y reporter in Raji cells to test for dominant negative function of the mutants .
+Transfection of the wild-type FLAG-CIITA construction in Raji cells resulted in an increase in expression of the reporter gene by a factor of 4.5 , indicating that CIITA is limiting even in the high class -expressing cell line Raji ( Fig .
+4 ) .
+In concordance with the 4132 Nucleic Acids Research , 1998 , Vol .
+26 , No .
+18 A. Fa ( ws } - [ x1 ] x2 |- v_ M Flag-CIITA CIITA SVK-Flag 0 20 40 60 80 100 120 0 20 40 60 80 100 120 Percent Relative Expression Figure 3 .
+Effects of CHTA mutations on class II transactivation .
+CHTA~ RJ2.2.5 cells were used for transient transfections with 40 ug CIITA expression constructs and 20 ug either pDRG-X1-X2-Y ( A ) or pDRW-X-Y ( B ) reporter constructs .
+A sample of 1 ug was included in all transfections to control for transfection efficiency .
+Cell lysates were analyzed by CAT ELISA as described by the manufacturer ( Boehringer Mannheim , Indianapolis , IN ) .
+Results are given as a percentage of the level achieved using FLAG-CIITA with the reporter .
+The dashed line in ( B ) ( pDR W-X-Y ) represents the level of reporter activity corresponding to 100 % activity of pDRG-X1-X2-Y in ( A ) .
+The data represent averages from three independent assays , with SEM indicated .
+transfection data in RJ2.2.5 cells shown in Figure 3A , transfection of A1 ( 373.8 % of baseline reporter levels ) , A2 ( 297.3 % ) and A5 ( 188.9 % ) resulted in proportional increases in expression of the reporter gene .
+Transfection of CHITA mutants A3 ( 57.0 % ) , M ( 74.5 % ) , A7 ( 71.7 % ) and A8 ( 70.7 % ) resulted in significantly reduced levels of the class II reporter gene in Raji cells , indicating that these mutations were in regions that affected some but not all of CHTA function .
+However , the most significant decrease in reporter levels resulted in transfections receiving CHITA ( 161-1130 ) ( 30.6 % ) , the mutant lacking the acidic activation domain .
+The CHITA ( 161-1130 ) mutant was expected to function in a dominant negative manner as just the activation domain was deleted .
+Thus , all other interactions are expected to be functional .
+The A3 mutation specifically deletes the G1 motif of a putative GTP-binding domain , while mutations A4 , A7 and A8 are in regions of the molecule that do not show significant homology to described sequences .
+The dominant negative nature of CHTA ( I61-1130 ) is similar to that of other CHTA mutants lacking the activation domain while retaining downstream sequences ( 49-51 ) .
+Mutants M4 , A7 and A8 are in regions of CIITA that to our knowledge have not been studied ; these mutants therefore suggest a functional role for these regions of the molecule .
+Analysis of the L1 and L2 mutants indicates that these regions are required for CIITA function LCD motifs have been shown to facilitate interactions between many proteins , including nuclear receptors and their coactivators ( 52 ) , as well as transcription factors and coactivators ( 53 ) .
+These motifs are characterized by the consensus LxxLL , where there is a loose consensus for charged amino acids at both x positions .
+Analysis of CIITA revealed four such sequences .
+Of these , three are conserved between human and murine CITA ( 47 ) .
+The A5 deletion removed two potential motifs that could be responsible for its dependence on the presence of the W box for function .
+Both ( 161-1130 ) A12 A1 M10 A9 A8 AT A6 A5 A4 A3 A2 M Flag-CHITA SVK-Flag 0 100 200 300 400 500 % Baseline Expression Figure 4 .
+Mutations in CHTA function in a dominant negative manner .
+Transient transfections were performed introducing 20 ug pDRW-X-Y , 40 ug CIITA mutant expression plasmids and 1 ug SV » -Alkphos into CHTA* Raji cells as described for Figure 3 .
+Cells were harvested 24 h post-transfection and assayed for CAT levels as described above .
+Reporter activity is expressed as a percentage of each mutant compared with CAT levels in transfections receiving the control expression vector ( percent baseline CAT ) .
+The data represent averages from three independent assays , with SEM indicated .
+the G3 region of the putative GTP-binding domain and the first LCD motif ( L1 ) were deleted in this mutant .
+To determine if the W box dependence of ASCIITA is attributable to loss of the L1 motif , a mutational analysis of L1 and L2 was undertaken .
+Previous studies indicate that protein-protein interactions directed by LCD motifs can be mediated by multiple LCDs grouped together in proteins ( 53 ) .
+For this reason , mutants were created that disrupted both L1 and L2 , which are separated by 56 residues in the primary amino acid sequence .
+To create more subtle changes , alanine residues were substituted for the conserved leucines in the first two LCD motifs ( CIHITA-mutLl and A. pa pel- y Nucleic Acids Research , 1998 , Vol .
+26 , No .
+18 - 4133 B. A5 , mut L2 mut L2 mut L1 Flag-CIITA SVK-Flag | 0 _ 20 40 60 80 _ 100 o 20 40 _ 60 80 _ 100 Percent Relative Expression Figure 5 .
+LCD motifs L1 and L2 are required for full transactivation by CIITA .
+Transient transfections were performed in CHITA~ RJ2.2.5 cells as in Figure 3 .
+CAT reporter constructs used were either pDRG-X1-X2-Y ( A ) or pDRW-X-Y ( B ) .
+The dashed line in ( B ) ( pDR W-X-Y ) represents the level of reporter activity corresponding to 100 % activity in ( A ) ( pDRG-X1-X2-Y ) .
+The data represent averages from three independent assays , with SEM indicated .
+CIHITA-mutL2 , respectively ) .
+A double mutant consisting of the L2 mutation and the ASCIITA deletion ( ASCIITA-mutL2 ) was also created .
+These mutants were analyzed by in vitro transcription/ translation and immunoblot procedures as for the deletion mutants .
+The expression of each mutant was similar to those described above ( Fig .
+2C ) .
+When transient transfections into RJ2.2.5 cells were performed in conjunction with both the pDRG-XI1-X2-Y ( Fig .
+5A ) and pDRW-X-Y ( Fig .
+5B ) reporter constructs , it was found that neither CHTA-mutL1 nor the double mutant ( ASCHITA-mutL2 ) were able to drive transcription from either promoter .
+CHITA-mutL2 displayed activity similar to A5 : ~50 % activity in the presence of the W box and < 20 % activity when just the X-Y region was used .
+When transfected into Raji cells , the double mutant was able to reduce reporter levels to 68.5 % of baseline ( Fig .
+6 ) .
+DISCUSSION While recent studies using the yeast two-hybrid approach have suggested very weak interactions between CIITA and a subunit of RFX , RFX5 ( 54 ) , direct physical interactions between CITA and the class II-specific transcription factors have not been described .
+Thus , if the activation domain of CIITA is responsible for driving expression , how does CIITA interact with the class II promoter ?
+To elucidate further the mechanism of CHTA action , mutations were created and assayed for their ability to drive transcription or to interfere with the function of wild-type CIITA in transient co-transfection assays .
+While many of the mutants were inactive , two mutants displayed the ability to distinguish between class II promoter elements .
+These two mutants required the W box as well as the X box for function .
+These mutants suggest that in addition to the X box factors , CIITA normally interacts with W box factors .
+This finding is unique in that these are the first examples of mutations in CIITA that sensitize it to the presence of a promoter element .
+When considered along with previous work indicating that CIITA acts through the X box A5 , mutL2 mutL2 mutL1 Flag-CIITA SVK-Flag 100 _ 200 _ 300 _ 400 _ 500 % Baseline Expression Figure 6 .
+Analysis of LCD mutants in CIITA* Raji cells .
+Transient transfection and analysis were performed in Raji cells as described for Figure 4 , using 40 ug indicated mutant CIITA constructs .
+The data represent averages from three independent assays , with SEM indicated .
+( 27,39 ) , this result strongly supports a role for CIITA at the promoter as a frans-activator .
+The W box of class II promoters is the least homologous of the conserved sequences .
+It was first defined by its requirement for IFN-y induction of class II expression ( 4,15 ) and enhancement of class II expression in B cells ( 14,16 ) .
+Subregions within the W box have been identified , termed the S or Z box , that provide some of the effect of the full W box region .
+Portions of the S region of the DRA gene are similar to the X1 box , where RFX normally binds .
+Recently , Jabrane-Ferrat et al .
+( 55 ) found that the S region could bind RFX in vitro , although weakly .
+This interaction was stabilized by interactions with the Y box factor NF-Y .
+These results suggested that RFX may bind to both the S and the X1 boxes of class II genes .
+The isolation of mutant CHTA constructs ( ASCIITA and CIITA-mutL2 ) that require the W box in addition to the X- Y boxes for activity suggests that CIITA does 4134 Nucleic Acids Research , 1998 , Vol .
+26 , No .
+18 CIITA E RFX - X2BP NF-¥ WIS Factor +++ Figure 7 .
+Model for transactivation of MHC class II transcription by CIITA .
+Interactions between CIITA and promoter-bound factors at the W , X1 , X2 and Y boxes serve to stabilize the W-X-Y complex and lead to transcriptional transactivation of MHC class II genes .
+Our data adds to the current model of MHC class II transcriptional regulation by implicating direct interactions between CIITA and the W box , providing one possible explanation for W box involvement in induction of class II transcription by IFN-y .
+indeed interact with this region ( Fig .
+7 ) .
+These mutations are not likely to be in the region of CIITA that interacts with W box factors .
+Alternatively , these mutations define a region of CITA that interacts with other factors ; the loss of these interactions causes the protein to retain frans-activation capability only in the presence of 'stabilizing ' interactions with factors at the W box .
+The above finding suggests that in B cells , the W box may function to stabilize CIITA interactions , allowing optimal transcriptional activation ( Fig .
+7 ) , thus offering a molecular explanation for the requirement for the W box for class II induction by IFN-y .
+In the case of IFN-y induction in class II negative cells , such as human fibroblasts , a similar situation likely exists with one modification , i.e .
+the steady-state level of RFX .
+The level of RFX5 , a subunit of RFX , in human fibroblasts is > 20-fold lower than that in B cells ( 20 ) , suggesting that RFX may be limiting in fibroblasts .
+The W/S box could provide an additional binding site for RFX , allowing for more efficient assembly of factors to class II promoters .
+Moreover , the induction of CITA by IFN-y may further increase the stability of W-X-Y complexes .
+This model is supported by two lines of evidence .
+First , while the half-life of an RFX-X2BP-NF-Y-DNA complex is > 4 h in vitro , these assays were carried out under conditions where the factors were not limiting ( 56 ) .
+As RFX concentration is reduced , the ability to form such in vitro complexes is also reduced , suggesting that if one of the factors were limiting in vivo , then the assembly time of the complex may be increased or the half-life reduced .
+For example , the half-life of RFX for X1 box DNA and X2BP for X2 box DNA in vitro is ~2 and 5 min , respectively ( 28,29,57 ) .
+Second , in vivo genomic footprinting ( IVGF ) of the W-X-Y region in fibroblasts detected only partially protected sequences , which became fully protected upon IFN-y treatment ( 58-60 ) .
+Partial occupancy on IVGF indicates that fewer cells in the population have the region occupied at any one time .
+Thus , it is possible that induction of CIITA by IFN-y in fibroblasts could stabilize the complex , providing an enhanced footprint .
+How much CHITA is required to activate transcription of class II genes ?
+At least nine genes are activated in most cells when CIITA is expressed : DRA/B , DQA/B , DPA/B , DMA/B and Ii .
+The B cell line Raji expresses high levels of MHC class II and easily detectable levels of CIITA .
+Yet , even in Raji cells , overexpression of CHITA from a plasmid results in a 4-fold increase in expression of class II promoters , demonstrating that CIITA is limiting .
+Similar experiments by others have not shown CIITA to be limiting in Raji cells ( 61 ) .
+The level of CIHITA by immunoblot analysis in IFN-y treated fibroblasts is barely detectable using our current antiserum and may be 10-20 times lower than in Raji cells ( data not shown ) , suggesting that small amounts of CIITA are sufficient to induce class II expression .
+The fact that CITA is limiting may support a model in which CIITA transiently associates with the W-X-Y box factors and highlights the importance of CITA forming multiple interactions with DNA-bound factors at W-X-Y .
+The identification of mutants that functionally interfere with wild-type CIITA molecules highlights regions of importance in the CIITA molecule .
+While the most straightforward examples of dominant negative mutants have been those that compete with wild-type proteins for homodimer formation ( 62 ) , there are other explanations for dominant negative mutants that do not require the protein to act as a homodimer , such as deletion of an activation domain from a transactivator .
+Such a construct would retain all other interactions , yet lose its ability to recruit the general transcriptional machinery to the promoter .
+Indeed , this type of dominant negative mutant has been described for other coactivators , such as c-Ets2 ( 63 ) and NTF-1 ( 64 ) .
+CHTA ( 161-1130 ) fits this category of dominant negative mutants .
+The sequence of CHTA between residues 420 and 561 shows homology to the G1 , G3 and G4 domains of a GTP-binding motif ( reviewed in 65 ) .
+The A3CIITA allele has a specific deletion in the G1 domain ( 66 ) , which is involved in phosphate binding , suggesting the intriguing possibility that CIITA requires GTP for function .
+Chin et al .
+( 42 ) recently showed that mutation of the region corresponding to the G3 motif results in a non-functional , dominant negative CITA molecule ( 42 ) .
+Attempts to show GTP and other nucleotide binding by CIITA were inconclusive ( data not shown ) .
+It is possible that CIITA binds GTP with low affinity or that other factors are required for this binding that may not be present in vitro .
+Alternatively , the GTP-binding motif homology may be coincidental and the deletion in A3CIITA eliminates numerous glycine residues , which may provide needed flexibility at this position .
+Comparison of the function of some mutants described underscores the fact that little is known about the three-dimensional structure of CHITA and hence the effect of these mutations on the protein .
+A5 and mutL1 both disrupt the L1 motif , the former with a 10 residue deletion , the latter with alanine substitutions at three conserved leucines .
+The result that the alanine substitution mutant resulted in a more severe phenotype than the deletion is intriguing and could result from unproductive protein folding in the presence of alanine residues at the position of L1 ( amino acid residues 465-469 ) .
+Because leucine residues have a tendency to be near the N-terminal ends of o-helical structures ( 67 ) , it is possible that loss of these stabilizing residues results in 'dead end ' protein folding and therefore a more severe phenotype of mutL1 as compared with ASCIHITA .
+Most of the recently described CIITA mutations result in non-functional proteins , however , a small number produced a dominant negative effect ( 42,50 ) .
+Summarizing the effects of individual CIHTA mutations a new understanding emerges ( Fig .
+8 ) .
+A clear requirement for the acidic regions , the P/S/T region and the C-terminal regions becomes apparent .
+However , there appears to be strict boundaries between regions of the molecule Functional aa # : 1_TAF132° 250 500 Nucleic Acids Research , 1998 , Vol .
+26 , No .
+18 - 4135 750 1000 1130 domains : D/E NLS P/S/T Conserved between human & 1 murine b ; 151 327 G1 GJ L1 L2 L3 L4 LRR 815 1130 Non-functional a mutants : 1E Dominant ( 161-1130 ) negative -h a mutants : e4 : d Functional mutants : A13 mutCDKA1 A2 ws G ~ me g eg f Mutants fnquiring W box for function : r tL2 ﬂ I ' I ' 1.LI Figure 8 .
+Comparison of the described CIITA mutants .
+Wild-type CIITA with amino acid positions and potential functional domains are indicated .
+D/E , acidic domain ; NLS , nuclear localization signal ; P/S/T , Pro/Ser/Thr-rich region ; G1-G3 , consensus GTP-binding motif ; L1-L4 , LCD motifs ; LRR , leucine-rich region .
+The regions of homology between human and murine CIITA genes are indicated by shaded boxes ( 47 ) .
+Published mutations of CIITA are grouped according to the described functional levels for each mutant .
+Mutants described herein are labeled .
+Notation for mutants is as follows : all horizontal bars represent regions deleted from full-length CIITA constructs ; ® , amino acid substitutions at that position of the protein .
+Mutants that were created and characterized outside this report are shaded and described : a ( 68 ) ; b ( 47 ) ; c ( 61 ) ; d ( 49 ) ; e ( 50 ) ; f ( 42 ) ; g ( 69 ) ; h ( 51 ) .
+that can be mutated while still retaining enough function to act in a dominant negative manner , both at the N- and C-termini of CHTA .
+Comparison of mutants surrounding the putative GTP-binding domain is interesting in that mutations within this region are capable of yielding non-functional , dominant negative and functional CIITA molecules .
+Indeed , similar mutants have been shown to have discordant results in transactivation assays : ASCIITA exhibits the ability to transactivate in a W box-dependent manner , while a smaller deletion of solely the G3 residues [ CHTA-GTP2 ( ADAYG ) ; 42 ] has no activity and has been shown to have a dominant negative effect .
+A majority of mutants that disrupt regions conserved between human and murine CHITA result in non-functional or dominant negative phenotypes , indicating that the structure of CIITA is highly conserved between species .
+It is interesting that the P/S/T domain is not conserved , yet this region is required for function of the human gene ; an analysis of the role of non-conserved regions of the murine protein may lead to insights into the role of the P/S/T domain in the function of CHITA .
+ACKNOWLEDGEMENTS We thank Drs K. Wilkinson , G. Churchward , D. Danner , D. Reines , R. Kahn and I. Lopez for helpful discussions and critical evaluation during the course of this work and B .
+Merchant for editorial assistance .
+The work was supported by NIH grant AI34000 ( J.M.B . )
+and in part by a pre-doctoral NIH training grant ( J.A.B . )
+.
+REFERENCES 1 Unanue , E.R .
+, Harding , C.V. , Luescher , LF .
+and Roof , R.W .
+( 1989 ) Cold Spring Harbor Symp .
+Quant .
+Biol .
+, 54 , 383-392 .
+2 Pober , J.S .
+, Collins , T. , Gimbone , M.A .
+, Jr , Cotran , R.S .
+, Gitlin , J.D .
+, Fiers , W. , Clayberber , C. , Krensky , A.M. , Burakoff , S.J .
+and Reiss , C.S .
+( 1983 ) Nature , 305 , 726-729. p u go ~1 on tn 21 22 23 24 25 27 Glimcher , L.H .
+and Kara , C.J .
+( 1992 ) Annu .
+Rev .
+Immunol .
+, 10 , 13-50 .
+Boss , J.M .
+and Strominger , J.L .
+( 1986 ) Proc .
+Natl Acad .
+Sci .
+USA , 83 , 9139-9143 .
+Basta , PV .
+, Sherman , P.A .
+and Ting.J.P .
+( 1987 ) J .
+Immunol .
+, 138 , 1275-1280 .
+Boss , J.M .
+( 1997 ) Curr : Opin .
+Immunol .
+, 9 , 107-113 .
+Mach , B. , Steimle , V .
+and Reith , W. ( 1994 ) Immunol .
+Rev .
+, 138 , 207-221. de Preval , C. , Lisowska-Grospierre , B. , Loche , M. , Griscelli , C .
+and Mach , B .
+( 1985 ) Nature , 318 , 291-293 .
+Griscelli , C. , Lisowska-Grospierre , B .
+and Mach , B .
+( 1989 ) Immunodeficiency Rev .
+, 1 , 135-153 .
+Benichou , B .
+and Strominger , J.L .
+( 1991 ) Proc .
+Naf !
+Acad .
+Sci .
+USA , 88 , 4285-4288 .
+SeidL , C. , Saraiya , C. , Osterweil , Z. , Fu , Y.P .
+and Lee , J.S .
+( 1992 ) J .
+Immunol .
+, 148 , 1576-1584 .
+Benoist , C .
+and Mathis , D .
+( 1990 ) Annu .
+Rev .
+Immunol .
+, 8 , 681-715 .
+Hasegawa , S.L .
+, Riley , J.L .
+, Sloan , J.H .
+and Boss , J.M .
+( 1993 ) J .
+Immunol .
+, 150 , 1781-1793 .
+Sloan , J.H .
+, Hasegawa , S.L .
+and Boss , J.M .
+( 1992 ) J .
+Immunol .
+, 148 , 2591-2599 .
+Tsang , S.Y .
+, Nakanishi , M. and Peterlin , B.M .
+( 1988 ) Proc .
+Natl Acad .
+Sci .
+USA , 85 , 8598-8602 .
+Cogswell , J.P. , Austin , ) .
+and Ting.J.P .
+( 1991 ) J .
+Immunol .
+, 146 , 1361-1367 .
+Basta , P.V .
+, Sherman , P.A .
+and Ting.J.P .
+( 1988 ) Proc .
+Natl Acad .
+Sci .
+USA , 85 , 8618-8622 .
+Jabrane-Ferrat , N. , Fontes , J.D .
+, Boss , J.M .
+and Peterlin , B.M .
+( 1996 ) Mol .
+Cell .
+Biol .
+, 16 , 4683-4690 .
+Wright , K.L .
+( 1988 ) Proc .
+Natl Acad .
+Sci .
+USA , 85 , 8186-8190 .
+Moreno , C.S .
+, Rogers , E.M. , Brown , J .
+A. and Boss , J.M .
+( 1997 ) J .
+Immunol .
+, 158 , 5841-5848 .
+Steimle , V. , Durand , B. , Emmanuele , B. , Zufferey , M. , Hadam , M.R .
+, Mach , B .
+and Reith , W. ( 1995 ) Genes Dev .
+, 9 , 1021-1032 .
+Stimac , E. , Urieli-Shoval , S. , Kempin , $ .
+and Pious , D .
+( 1991 ) J .
+Immunol .
+, 146 , 4398-4405 .
+Reith , W. , Satola , S. , Herreo-Sanchez.C .
+, Amaldi , L. , Lisowska-Grospierre , B. , Griscelli , C. , Hadam , M.R .
+and Mach , B .
+( 1988 ) Cell , 53 , 897-906 .
+Herrero-Sanchez , C. , Reith , W. , Silacci , P .
+and Mach , B .
+( 1992 ) Mol .
+Cell .
+Biol .
+, 12 , 4076-4083 .
+Durand , B. , Sperisen , P. , Emery , P. , Barras , E. , Zufferey , M. , Mach , B .
+and Reith , W. ( 1997 ) EMBO J. , 16 , 1045-1055 .
+Hasegawa , S.L .
+and Boss , J.M .
+( 1991 ) Nucleic Acids Res .
+, 19 , 6269-6276 .
+Riley , J.L .
+and Boss , J.M .
+( 1993 ) J .
+Immunol .
+, 151 , 6942-6953 .
+4136 Nucleic Acids Research , 1998 , Vol .
+26 , No .
+18 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 Reith , W. , Kobr , M. , Emery , P. , Durand , B. , Siegrist , C.-A .
+and Mach , B .
+( 1994 ) J. Biol .
+Chem .
+, 269 , 20020-20025 .
+Moreno , C.S .
+, Emery , P. , West , J.E .
+, Durand , B. , Reith , W. , Mach , B .
+and Boss , J.M .
+( 1995 ) J .
+Immunol .
+, 155 , 4313-4321 .
+Hooft van Huijsduijnen , R.A. , Li , X. Y. , Black , D. , Maithes , H. , Benoist , C .
+and Mathis , D .
+( 1990 ) EMBO J. , 9 , 3119-3127 .
+Louis-Plence , P. , Moreno , C.S .
+and Boss , J.M .
+( 1997 ) J .
+Immunol .
+, 159 , 3899-3909 .
+Steimle , V. , Otten , L.A. , Zufferey , M .
+and Mach , B .
+( 1993 ) Cell , 75 , 135-146 .
+Chin , K.-C. , Mao , C. , Skinner , C. , Riley , J.L .
+, Wright , Moreno , C. $ S. , Stark , Boss , J.M .
+and Ting .
+, J.P.-Y .
+( 1994 ) Immunity , 1 , 687-697 .
+Steimle , V. , Siegrist , C.-A .
+, Mottet , A. , Lisowska-Grospierre , B .
+and Mach , B .
+( 1994 ) Science , 265 , 106-108 .
+Silacci , P. , Mottet , A. , Steimle , V. , Reith , W. and Mach , B .
+( 1994 ) J. Exp .
+Med .
+, 180 , 1329-1336 .
+Chang , C.-H. , Fodor , W.L .
+and Flavell , R.A .
+( 1992 ) J. Exp .
+Med .
+, 176 , 1465-1469 .
+Chang , C.-H. , Fontes , J.D .
+, Peterlin , B.M .
+and Flavell , R.A .
+( 1994 ) J. Exp .
+Med .
+, 180 , 1367-1374 .
+Kijeldgaard , M , Nyborg , J .
+and Clark , B.F .
+( 1996 ) FASEB J. , 10 , 1347-1367 .
+Riley , J.L .
+, Westerheide,8.D .
+, Price , J .
+A. , Brown , J .
+A. and Boss , J.M .
+( 1995 ) Immunity , 2 , 533-543 .
+Zhou , H .
+and Glimcher , L.H .
+( 1995 ) Immunity , 2 , 545-553 .
+Mahanta , S.K .
+, Scholl , T. , Yang , F.-C. and Strominger , J.L .
+( 1997 ) Proc .
+Natl Acad .
+Sci .
+USA , 94 , 6324-6329 .
+Chin , K.-C. , L1 , G.G.-X .
+and Ting , J.P.-Y .
+( 1997 ) Proc .
+Natl Acad .
+Sci .
+USA , 94 , 2501-2506 .
+Epstein , M.A .
+, Achong , B.G .
+, Barr , Y.M .
+, Zajac , B. , Henle , G .
+and Henle , W. ( 1966 ) J. Natl Cancer .
+Inst .
+, 37 , 547-559 .
+Accolla , R.S .
+( 1983 ) J. Exp .
+Med .
+, 157 , 1053-1058 .
+Towbin , H. , Stachelin , T .
+and Gordon , J .
+( 1979 ) Proc .
+Natl Acad .
+Sci .
+USA , 76 , 4350-4354 .
+Brown , J .
+A. , He , X.-F. , Westerheide,8.D .
+and Boss , J.M .
+( 1995 ) Immunogenetics , 43 , 88-91 .
+Sims , T.N .
+, Elliott , J.F .
+, Ramassar , V. , Denney , D .
+W. and Halloran , PF .
+( 1997 ) Immunogenetics , 45 , 220-222 .
+Trzepacz , C. , Lowy , A.M. , Kordich , J.J .
+and Groden , J .
+( 1997 ) J. Biol .
+Chem .
+, 272 , 21681-21684 .
+49 50 51 53 54 55 56 57 58 59 60 62 63 65 66 67 68 69 Zhou , H. , $ u , H.S .
+, Zhang , X. , Douhan and Glimcher , L.H .
+( 1997 ) J .
+Immunol .
+, 158 , 4741-4749 .
+Bontron , S. , Ucla , C. , Mach , B .
+and Steimle , V .
+( 1997 ) Mol .
+Cell .
+Biol .
+, 17 , 4249-4258 .
+Yun , S. , Gustafsson , K .
+and Fabre , J.W .
+( 1997 ) Int .
+Immunol .
+, 9 , 1545-1553 .
+Heery , D.M .
+, Kalkhoven , E. , Hoare , S .
+and Parker , M.G .
+( 1997 ) Nature , 387 , 733-736 .
+Torchia , J. , Rose , D.W. , Inostroza , J. , Kamei , Y. , Westin , S. , Glass , C.K .
+and Rosenfeld , M.G .
+( 1997 ) Nature , 387 , 677-684 .
+Scholl , T. , Mahanta , S.K .
+and Strominger , J.L .
+( 1997 ) Proc .
+Natl Acad .
+Sci .
+USA , 94 , 6330-6334 .
+Clauss , LM .
+, Gravallese , E.M. , Darling , J.M .
+, Shapiro , F. , Glimcher , M.J .
+and Glimcher , L.H .
+( 1993 ) Dev .
+Dyn .
+, 197 , 146-156 .
+Louis-Plence , P. , Moreno , C.S .
+and Boss , J.M .
+( 1997 ) J .
+Immunol .
+, 159 , 3899-3909 .
+Reith , W. , Siegrist , C.A .
+, Durand , B. , Barras , E .
+and Mach , B .
+( 1994 ) Proc .
+Natl Acad .
+Sci .
+USA , 91 , 554-558 .
+Westerheide , $ 8.D .
+, Louis-Plence , P. , Ping , D. , He , X.-F. and Boss , J.M .
+( 1997 ) J .
+Immunol .
+, 158 , 4812-4821 .
+Wright.K.L .
+and Ting.J.P-Y .
+( 1992 ) Proc .
+Nail Acad .
+Sci .
+USA , 89 , 7601-7605 .
+Kara , C.J .
+and Glimcher , L.H .
+( 1993 ) J .
+Immunol .
+, 150 , 4934-4942 .
+Chin , K.-C. , L1 , G .
+and Ting.J.P.-T. ( 1997 ) J .
+Immunol .
+, 159 , 2789-2794 .
+Shaulian , E. , Zauberman , A. , Ginsberg , D .
+and Oren , .M .
+( 1997 ) Mol .
+Cell .
+Biol .
+, 12 , 5581-5592 .
+Aperio , C. , Pognonec , P , Stanley , E.R .
+and Boulukos , K.E .
+( 1996 ) Mol .
+Cell .
+Biol .
+, 16 , 6851-6858 .
+Attardi , L.D .
+, Von Seggem , D .
+and Tjian , R .
+( 1995 ) Proc .
+Nat !
+Acad .
+Sci .
+USA , 90 , 10563-10567 .
+Dever , LE .
+, Glynias , MJ .
+and Merrick W.C. , ( 1987 ) Proc .
+Natl Acad .
+Sci .
+USA , 84 , 1814-1818 .
+Walker , J.E .
+, Saraste , M. , Runswick , M.J. and Gay , N.J .
+( 1982 ) EMBO J. , 1 , 945-951 .
+Chakrabartty , A. , Doig , A.J .
+and Baldwin , R.L .
+( 1993 ) Proc .
+Natl Acad .
+Sci .
+USA , 90 , 11332-11336 .
+Fontes , J.D .
+, Jiang , B .
+and Peterlin , B.M .
+( 1997 ) Nucleic Acids Res .
+, 25 , 2522-2528 .
+Bontron , S. , Steimle , V. , Ucla , C .
+and Mach , B .
+( 1997 ) Hum .
+Genet .
+, 99 , 541-546 .

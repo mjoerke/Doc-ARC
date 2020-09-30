@@ -1,0 +1,722 @@
+The EMBO Journal Vol.18 No.11 pp.3064-3073 , 1999 Latent membrane protein 1 of Epstein-Barr virus interacts with JAK3 and activates STAT proteins Olivier Gires'~ , Franz Kohlhuber ' 3 , Ellen Kilger ' 2 , Matthias Baumann'* , Arnd Kieser'~ , Christian Kaiser'* , Reinhard Zeidler'* , Beatrix Scheffer ' } , Marius Ueffing'* and Wolfgang Hammerschmidt `` 'GSF-National Research Center for Environment and Health , *Institute of Clinical Molecular Biology and Tumor Genetics , *Department of Gene Vectors , Marchioninistrasse 25 , D-81377 Miinchen and *Department of Otorhinolaryngology , Ludwig-Maximilians-Universitiit , Marchioninistrasse 15 , D-81377 , Miinchen , Germany 3Corresponding author e-mail : hammerschmidt @ gsf.de O.Gires and F.Kohlhuber contributed equally to this work Latent membrane protein 1 ( LMP1 ) acts like a permanently activated receptor of the tumor necrosis factor ( TNF ) -receptor superfamily and is absolutely required for B cell immortalization by Epstein-Barr virus .
+Molecular and biochemical approaches demonstrated that LMP1 usurps cellular signaling pathways resulting in the induction of NF-xB and AP-1 via two C-terminal activating regions .
+We demonstrate here that a third region encompassing a proline rich sequence within the 33 bp repetitive stretch of LMPI 's C-terminus is required for the activation of Janus kinase 3 ( JAK3 ) .
+The interaction of LMP1 and JAK3 leads to the enhanced tyrosine auto/transphosphoryla-tion of JAK3 within minutes after crosslinking of a conditional NGF-R : LMP1 chimera and is a prerequisite for the activation of STAT transcription factors .
+These results reveal a novel activating region in the LMP1 C-terminus and identify the JAK/STAT pathway as a target of this viral integral membrane protein in B cells .
+Keywords : B lymphocyte/EBV/JAK3/LMP1/ STAT protein Introduction Epstein-Barr virus ( EBV ) is a widespread human y herpes virus , which is associated with several human malignancies such as infectious mononucleosis , Burkitt 's lymphoma , nasopharyngeal carcinoma and Hodgkin 's disease ( for review see Farrell , 1995 ; Kieff , 1996 ) .
+The infection of primary B cells with EBV in vitro leads to the immortalization of these cells generating lymphoblastoid cell lines with indefinite life span ( for review see Farrell , 1995 ) .
+Nine viral proteins are expressed in established lymphoblastoid cell lines , five of which appear to be absolutely required for B cell immortalization : EBNA1I , 2 , 3a , 3¢c and LMP1 ( Hammerschmidt and 3064 Sugden , 1989 ; Cohen et al .
+, 1991 ; Kaye et al .
+, 1993 ; Tomkinson et al .
+, 1993 ; Kilger et al .
+, 1998 ) .
+Latent membrane protein 1 ( LMP1 ) is the only EBV protein which has a transforming potential in established rodent cell lines ( Wang et al .
+, 1985 ; Baichwal and Sugden , 1988 ; Moorthy and Thorley-Lawson , 1993 ) .
+Interestingly , LMP 1 induces the expression of the B cell activation markers CD23 and CD40 , cell adhesion molecules ICAM1 , LAF1 and LFA3 ( Wang et al .
+, 1990 ) , and the epithelial growth factor receptor ( Miller et al .
+, 1997 ) .
+LMP1 is composed of a short cytoplasmic N-terminus of 25 amino acids , a transmembrane domain with six membrane-spanning segments , and a long cytoplasmic C-terminus of 200 amino acids ( Liebowitz et al .
+, 1986 ) .
+Molecular analysis identified two cellular signaling pathways targeted by LMP1 and demonstrated that it shares functional characteristics with members of the tumor necrosis factor ( TNF ) receptor superfamily , with CD40 in particular ( Zimber-Strobl et al .
+, 1996 ; Kilger et al .
+, 1998 ) .
+LMP1 patches in the plasma membrane via its transmembrane domain ( Gires et al .
+, 1997 ) .
+Signal transduction is mediated by the C-terminus which interacts with members of the TNF receptor-associated factors ( TRAF ) family ( Mosialos et al .
+, 1995 ) and with the TNF receptor-associated death domain protein TRADD ( Izumi and Kieff , 1997 ) .
+These are features reminiscent of TNF receptors although differences between LMP1 and TNF receptors in the architecture of signaling complexes and mechanisms emerge ( Kieser et al .
+, 1999 ) .
+The induction of the transcription factors NF-KB ( Hammarskjold and Simurda , 1992 ; Laherty et al .
+, 1992 ; Mitchell and Sugden , 1995 ) and AP-1 ( Kieser et al .
+, 1997 ; Eliopoulos and Young , 1998 ) may account for many of the cellular changes observed in response to LMP1 .
+The patched phenotype , as well as the binding of molecules involved in signal transduction cascades , are characteristics reminiscent of receptor molecules .
+Unlike other receptors , whose activation depends upon ligand-binding , LMP1 is constitutively active without the need for a ligand ( Gires et al .
+, 1997 ; Eliopoulos and Rickinson , 1998 ) .
+Studies using cellular systems and biochemical approaches clearly demonstrated that the membrane localization and the aggregation of the cytoplasmic C-terminus of LMP1 are necessary and sufficient for the induction of signaling events in epithelial and lymphoid cells .
+Additionally , LMP1 's N-terminus/transmembrane domain has the intrinsic capacity to form homoaggregates in the plasma membrane which results in a constitutively active pseudo-receptor ( Gires et al .
+, 1997 ; Eliopoulos and Rickinson , 1998 ) .
+In the present study we investigated the potential of LMP1 to induce other cellular signaling cascades besides activation of NF-KB and AP-1 .
+Since LMP1 encompasses a long ( 200 amino acids ) cytoplasmic signaling domain , it was tempting to speculate that additional pathways are © European Molecular Biology Organization induced by LMP1 .
+We show here that LMP1 triggers the JAK/STAT pathway , which has been shown to be activated by almost all known cytokines ( for review see Briscoe et al .
+, 1996 ) , growth factors , and also by CD40 ( Hanissian and Geha , 1997 ; Karras et al .
+, 1997 ) .
+The JAK/STAT signaling cascade involves members of the Janus kinase ( JAK ) family of protein tyrosine kinases ( PTK ) , which are constitutively bound to the receptors mentioned above .
+Ligand-induced aggregation of receptor molecules leads to the autophosphorylation of JAKs and subsequently to the activation of STAT ( signal transducers and activators of transcription ) proteins .
+Tyrosine phosphorylated STAT proteins dimerize via their respective SH2 domains and subsequently translocate into the nucleus where they bind to specific DNA motifs to induce gene transcription ( for review see Briscoe et al .
+, 1996 ) .
+We show here that endogenous LMP1 and Janus kinase 3 ( JAK3 ) interact in the EBV-immortalized B cell line 1852.4 ( Kilger et al .
+, 1998 ) as well as in 293 cells following ectopic expression .
+This interaction leads to an enhanced tyrosine phosphorylation of JAK3 which requires a proline rich motif and surrounding sequences within LMPI 's 33 bp repeat region .
+Tyrosine phosphorylation of JAK3 occurs within minutes after activation of the chimeric NGF-R : LMPI1 receptor which is a time course reminiscent of cytokine receptors .
+Concomitantly , the expression of LMP1 leads to the rapid activation of STAT proteins .
+Thus , LMPI1 is revealed to be a pseudo-receptor which induces multiple and distinct signaling pathways .
+The simultaneous or sequential activation of pathways involved in cell proliferation or protection from apoptosis is very likely to be the molecular basis for the function of LMP1 during B cell immortalization and tumor formation .
+Results The C-terminus of LMP1 contains JAK interaction motifs So far , two C-terminal activating regions ( CTAR1 and 2 ) in the cytoplasmic domain of LMP1 have been described .
+They are located in the proximity of the transmembrane domain and the distal C-terminus , respectively ( Figure 1 ) ( Huen et al .
+, 1995 ) .
+Both CTAR1 and 2 are necessary for full activation of NF-KB and efficient B cell immortalization ( Kaye et al .
+, 1995 ; Devergne et al .
+, 1996 ; Izumi et al .
+, 1997 ) ; whereas CTAR2 appears to be the sole mediator of JNK-1 and AP-1 activation by LMP1 ( Kieser et al .
+, 1997 , 1999 ; Eliopoulos and Young , 1998 ) .
+In order to identify additional potential signaling mediators engaged by LMP1 , we screened its C-terminus for consensus sequences which might be important for the interaction with signal transducers .
+Besides the already known PXQXT/S motifs for TRAF binding ( within CTAR1 ) and the YYD motif for TRADD binding ( within CTAR2 ) , LMP1 has additional consensus sites which are characteristic for the interaction with members of the JAK family ( Figure 1 ) ( Murakami et al .
+, 1991 ; Thle et al .
+, 1995 ) .
+These consensus sites are classified as box 1 motif , which is a proline-rich sequence ( PXXPXP ) believed to serve as a docking site for JAKs and as box 2 motif which may play an important role in kinase activation although its exact role is less well documented ( Ihle et al .
+, 1995 ; Ivashkiv , 1995 ) .
+As shown in Figure 1 , the C-terminus of LMP1 activates JAK/STAT LMP1 JAK consensus sequences a2386 aa185 TRAF YHGQRHSDEHHHDDSLPHPQQATDDSGHES DSNNEGRHHLLVSGAGDGPPLCSQNLGAPG M M M GGPDNGPQDPDNTDDNGPQDPDNTDDNG box 1 v v box 1 _ y PHDPLPQDPDNTDDNGPQDPDNTDDNGPHDPLP box 2 HSPSDSAGNDGGPPQLTEEVENKIGGDQGPP LMTDGGGGHSHDSGHGGGDPHLPTLLLGSS TRADD GSGGDDDDPHGPVQLSYYD 9 an38 Fig .
+1 .
+Consensus sequence motifs for JAK binding within the C-terminus of latent membrane protein 1 ( LMP1 ) .
+Top : schematic representation of the LMP1 protein of the EBV strain B95.8 with consensus binding sequences .
+Shown are the two C-terminal activating regions 1 and 2 ( CTAR1/2 ; filled rectangles ) and box 1 and box 2 motifs ( open rectangles ) .
+Bottom : the amino acid sequence of the cytoplasmic C-terminus of LMP1 ( aa 185-386 ) is depicted with the consensus binding sequences for JAK protein tyrosine kinases .
+Two identical box 1 motifs ( PXXPXP ) are located at amino acid positions 275-280 and 302-307 .
+The single box 2 motif ( PPQLTEEVENK ) is located at amino acid position 320-330 and precedes the last 55 amino acids , which are important for TRADD binding and NF-KB and AP-1 activation .
+The two box 1 motifs are located within the heterogeneous stretch of 33 bp repeats whereas the box 2 motif localizes to a non-repetitive segment further downstream .
+LMP1 of the B95.8 strain has four and a half repetitive sequence units as indicated by arrowheads .
+The repetitive elements consist of three perfect copies of a simple 33 bp motif , one extended version with a single box 1 consensus sequence , and a truncated repeat also encoding a box 1 motif .
+LMP1 contains two identical box 1 motifs ( PHDPLP , amino acids 275-280 and 302-307 ) as well as one box 2 motif ( PPQLTEEVENK , amino acids 320-330 ) .
+Thus , LMP 1 might interact with PTKs of the JAK family leading to the activation of STAT proteins .
+Interestingly , the box 1 consensus motifs are located within a highly repetitive region of LMP1 termed '33 base pair repeats ' whose function is unknown so far .
+LMP1 expression in B cells activates the STAT proteins The consensus motif search prompted us to investigate the activation status of STAT proteins in EBV-immortalized B cells in conjunction with LMP1 expression .
+Primary B lymphocytes which had been immortalized with a mini-EBV plasmid carrying a conditional LMP1 allele were used for this purpose .
+The LMP1 gene is under control of a tetracycline-dependent promoter and withdrawal of tetracycline leads to the transcriptional downregulation of the LMP1 gene ( Kilger et al .
+, 1998 ) .
+To minimize LMP1 expression initially , the 1852.4 cells were kept in the 3065 O.Gires et al .
+absence of tetracycline for 4 days .
+Subsequently , LMP1 was reinduced by adding tetracycline to the culture medium from day 1 to 4 with the intention to boost and synchronize LMP1 re-expression .
+The controls were kept under identical conditions except that they did not receive tetracycline .
+Simultaneous activation of the JAK/STAT pathway was assessed in cell lysates by performing a gel electrophoretic mobility shift assay ( GEMSA ) using a probe specific for STAT1 and 3 .
+As a control the human embryonic kidney cell line 293 was treated with IFNy for 15 min ( Figure 2A , right panel ) .
+In human cells , IFNy strongly induces STAT1 which leads to the formation of STAT Reinduction of LMP1 in 1852.4-immortalized B lymphocytes led to the appearance of a complex similar in size to that observed in IFNy-treated 293 cells ( Figure 2A ) .
+The DNA-binding activity of STATs peaked at day 1 after tetracycline readdition and declined over the following 3 days , but was still substantial at day 4 after tetracycline readdition ( Figure 2A ) .
+The addition of a-STAT1 antibody led to the disruption of the observed complex , while G-JAK3 antibody as a control antibody had no effect .
+The readdition of tetracycline to the culture medium of 1852.4 cells induced the expression of LMP1 ( Figure 2B ) as expected without affecting the expression levels of STAT1 ( Figure 2C ) .
+These results show that LMP1 induces the binding activity of at least STAT1 to specific DNA sequences suggesting that LMP1 engages the JAK/STAT pathway in EBV-immortalized B cells .
+Activation of the JAK/STAT pathway is a rapid process involving JAK3 The activation of STAT proteins in the 1852.4 cell line could result either from autocrine loops in which LMP1 induced the release of cytokines such as IL-6 ( Tosato et al .
+, 1990 ; Eliopoulos et al .
+, 1997 ) or from a direct activation following LMP1 re-expression .
+To distinguish between these possibilities a conditional LMP1 molecule was used which can be activated at will within minutes ( Gires et al .
+, 1997 ) .
+This LMP1 molecule is a chimera between the low affinity nerve growth receptor ( NGF-R ) and the C-terminal signaling domain of LMP1 .
+The chimeric receptor localizes to the plasma membrane where it can be aggregated by an antibody directed against the extracellular part of the NGF-R : LMP1 molecule , thereby mimicking receptor activation ( Gires ef al .
+, 1997 ) .
+293 cells were transiently transfected with expression plasmids encoding wild-type LMP or NGF-R : LMP1 .
+One day after transfection , NGF-R : LMP1 molecules were cross-linked for 15 and 45 min using a murine G-NGF-R antibody in combination with an a-mouse immunoglobulin secondary antibody .
+Cell lysates were then subjected to GEMSA using a probe specific for STAT1/3 as described above .
+Surprisingly , no specific band shift could be observed in either of the single transfectants , as shown in Figure 3A .
+We reasoned that one or more components involved in the JAK/STAT signaling pathway might be missing in 293 cells .
+Since JAK3 is lymphocyte specific ( Tortolani et al .
+, 1995 ) it was the prime candidate for complementation in 293 cells .
+Additionally , JAK3 has been reported to be constitutively activated in EBV-immortalized B cells as well as in HTLV-immortalized T cells ( Xu et al .
+, 1995 ; Weber-Nordt et al .
+, 1996 ; Murata and Puri , 1997 ) .
+Therefore , JAK3 was co-transfected 3066 A c-JAK3 IFNy Tet : - ra za 3d 44 1d 24 3d 44 1d 24 34 4d | - ad -~ + r i ’ uciinomnn-onné c ] B a detection l. de _ e __ c-LMP1 -= -Tet 1d 2d 4d E 5 aG HE =- S +Tet C detection cx-STAT1 an on an on & -Tet 1d 2d 3d _ 4d e +Tet Fig .
+2 .
+Activation of STAT proteins following the expression of LMP1 in the 1852.4-immortalized B cells .
+( A ) 1852.4 cells are immortalized human B cells carrying a conditional , tetracycline-regulated LMP1 gene in the context of a mini-EBV plasmid ( Kilger et al .
+, 1998 ) .
+1852.4 cells were kept in the absence of tetracycline for four days ( Tet ) which leads to transcriptional downregulation of the LMP1 gene .
+The expression of LMP1 was reinduced upon readdition of tetracycline for four days ( Tet 1d , 2d , 3d or 4d ) and cell extracts prepared as described in Materials and methods .
+As a control , 293 cells were treated for 15 min with recombinant IFNy and the cells lysed under the same conditions .
+GEMSAs were performed using a probe specific for STAT1 and STAT3 proteins .
+Where indicated antibodies specific for JAK3 ( @ -JAK3 ) or STAT1 ( @ -STAT1 ) were incubated with the extracts .
+The STAT-specific complex is indicated by an arrow .
+One representative experiment out of three is shown .
+( B ) Expression levels of LMP1 as a function of the presence or absence of tetracycline were assessed .
+Proteins were separated by 10 % SDS-PAGE and LMP1 was detected using the CS1-4 antibody mix in combination with a HRP-conjugated secondary antibody .
+The LMP1 control lane contains the crude extract of 293 cells transiently transfected with an expression plasmid for wild-type LMP1 .
+( C ) Expression levels of immunoprecipitated STAT1 was assessed as a function of LMP1 re-expression .
+Proteins were immunoprecipitated from 1852.4 B cell lysates using an @ -STAT1 antibody and separated by 10 % SDS-PAGE .
+STAT1 levels were detected with specific antibodies and show a double band of 91 and 84 kDa as expected .
+together with expression plasmids encoding LMPI1 or NGF-R : LMP1 in the next set of experiments ( Figure 3B ) .
+Twenty-four hours after transfection , NGF-R : LMP1 molecules were cross-linked and cell lysates were analyzed as described above .
+The induction of a band shift comparable to that observed in the 1852.4 B cell line was clearly dependent upon cross-linking of NGF- A cross-linking : - = -_ + + In L. NGF-R : LMP1 mock LMP1 NGF-R : LMPL | ‘ NGF-R : LMP1 .
+mock LMP1 activates JAK/STAT & & & -o # + * u le « € LMP1 NGF-R : LMP1 NGE-R : LMP1T NGE-R : LMP1 £ > Z tas & 3 » 7 .
+# Fig .
+3 .
+Rapid activation of STAT proteins by LMP1 in the human embryonic kidney cell line 293 is dependent on JAK3 .
+Short-term cross-linking of the conditional NGF-R : LMP1 chimera activates STAT proteins in 293 cells and is dependent on the cotransfection of JAK3 .
+( A ) 293 cells were transiently transfected with expression plasmids for LMP1 ( 1 ug ) or NGF-R : LMP1 ( 0.5 ug ) as indicated .
+One day after transfection cells were treated with cross-linking antibodies ( murine @ -NGF-R in combination with @ -mouse immunoglobulin antibody as indicated by '+ ' ) or with secondary antibody alone Ig as indicated by *-* ) for the time period indicated .
+Subsequently , cells were lysed and GEMSA was performed as described in Materials and methods using a probe specific for STAT1 and STAT3 proteins .
+( B ) As in ( A ) , with additional cotransfection of an expression plasmid for JAK3 ( 0.5 ug ) .
+The shifted complexes specific for STAT1/3 are indicated with an arrow .
+One representative experiment out of three is shown .
+( C ) As in ( B ) , with untreated or cross-linked NGE-R : LMP1 molecules .
+The expected size of the STAT complex is indicated with an arrow .
+The question mark indicates an unidentified shift complex which seems to be induced by LMP1 in conjunction with JAK3 in 293 cells only , as described in the Results .
+R : LMP1 and co-expression of JAK3 .
+Activation of STAT proteins in these experiments was a rapid process occurring within 15 min after LMP1 cross-linking , while the shifted complexes were still present with lower intensity after 45 min .
+In the absence of primary -NGF-R antibody no significant induction of STAT DNA-binding activity was observed ( Figure 3C ) .
+Transfection of LMP1 together with JAK3 induced a weak band shift only , which most likely reflects the steady-state activation level of the JAK/STAT pathway by constitutively active LMP1 .
+The expression levels of JAK3 were critical in these experiments since overexpression led to a constitutive activation of STAT proteins ( data not shown ) which is expected due to autophosphorylation of JAK3 at high expression levels ( Silvennoinen et al .
+, 1993 ; see also Figure 4 ) .
+Furthermore , in the presence of LMPI we consistently observed the induction of a lower migrating band whose nature is unknown ( Figure 3 ) .
+Autophosphorylation of JAK3 on tyrosine residues is rapidly induced by ectopic expression of LMP1 in 293 cells Ligand binding by cytokine receptors leads to an increased phosphorylation of JAK proteins on tyrosine residues which results in an enhanced kinase activity .
+Since JAK3 expression was mandatory for the activation of STAT proteins by LMP1 as shown in transient transfection experiments in 293 cells we investigated the activation status of JAK3 as a function of LMP1 expression .
+LMP1 and murine JAK3 expression plasmids were transfected in 293 cells in the combinations as indicated in Figure 4A .
+Twenty hours post transfection , cells were lysed in the presence of phosphatase and protease inhibitors and tyrosine phosphorylated proteins were detected using antibodies .
+Transfection of JAK3 alone resulted in the appearance of a tyrosine phosphorylated protein of ~125 kDa which is the expected molecular weight of JAK3 ( Figure 4A , upper panel ) .
+Cotransfection of LMP1 with JAK3 strongly increased the phosphorylation of this protein .
+Immunoprecipitation using antibodies directed against JAK3 and subsequent detection of phosphorylated tyrosine residues clearly identified the 125 kDa protein as JAK3 ( Figure 5B , right panel and data not shown ) .
+The expression of LMP1 was analyzed following immunoprecipitation and was found to be similar in the LMP1 transfectants ( Figure 4A , lower panel ) .
+Next , we cotransfected a kinase-defective dominant-negative mutant of JAK3 ( Kawahara et al .
+, 1995 ) ( JAK3AKD ) together with wild-type LMP1 .
+As shown in Figure 4B , tyrosine phosphorylation was completely blocked by JAK3AKD , demonstrating that JAK3 phosphorylation was the result of auto/transphosphorylation .
+In vitro translation of JAK3AKD , resulted in a protein of 87 kDa as predicted ( data not shown ) .
+In the following experiment we analyzed the kinetic JAK3 phosphorylation after activation of LMP 1 signaling .
+LMP 1 , NGF-R : LMP1 and JAK3 expression plasmids were cotransfected in 293 cells in combinations as indicated in Figure 4C .
+Twenty-four hours post transfection NGF-R : LMP1 molecules were either cross-linked for 15 min with the antibody directed against the external NGF-R part in conjunction with the secondary antibody or treated with secondary antibody only .
+Cells were lysed and tyrosine phosphorylation was assessed by Western blotting and immunodetection with antibodies .
+As shown in Figure 4C , strong tyrosine phosphorylation of 3067 O.Gires et al .
+133kD - detection intead c-phosphotyrosine cell lysate ceLMP ] IP .
+c-LMPI § = a « - m =s « 4 3 detection 133kD f cell lysate c-phosphotyrosine i 6D - `` -- pos 0m ao 4 a € 1 & 5 k 5 | § f 2 3 $ { $ .
+3 $ | -= & i < 0 4 `` & 3 cross-linking : _ un _ un __ - + un _ un _- + - detection 133 kD - r _ cell lysate Lazarus-5h ; 97kD -- Pog PoP f : P : £5 $ % f i j § ¢ ¢ $ & Heo K & 0 w & & 9 Bel Z Z Z zZ ___ U +JAK3 Fig .
+4 .
+Fast tyrosine autophosphorylation of JAK3 in the presence of LMP1 .
+Tyrosine autophosphorylation of JAK3 is strongly enhanced in the presence of LMP1 and occurs within minutes after LMP1 aggregation .
+( A ) 293 cells were transiently transfected with LMP1 ( 1.0 ug ) and JAK3 ( 0.5 ug ) expression plasmids as indicated .
+One day after transfection , cells were lysed in RIPA buffer containing protease/ phosphatase inhibitors .
+An aliquot of each crude extract ( 10 % ) was separated by 10 % SDS-PAGE and tyrosine phosphorylated proteins were detected using the PY20/4G10 antibody mix ( upper panel ) .
+Remaining extracts were immunoprecipitated using LMP1-specific antibodies and LMP1 expression was assessed ( lower panel ! )
+.
+( B ) 293 cells were transiently transfected with expression plasmids for LMP1 ( 1 ug ) , wild-type JAK3 ( 0.5 ug ) , or dominant-negative JAK3AKD ( 0.5 ug ) in the combinations indicated .
+Tyrosine phosphorylated proteins were detected as described in ( A ) .
+( C ) 293 cells were transiently transfected with expression plasmid encoding LMP1 ( 1.0 ug ) , NGE-R : LMP1 ( 0.5 ug ) and JAK3 ( 0.5 ug ) in the combinations indicated .
+One day after transfection cells were left untreated ( un ) , incubated with cross-linking antibodies ( + ) , or with secondary antibody alone ( - ) for 15 min as described ( Gires et al .
+, 1997 ) .
+Tyrosine phosphorylated proteins were detected as in ( A ) .
+Each panel shows one representative experiment out of three .
+JAK3 was a rapid process occurring within 15 min after NGF-R : LMP1 cross-linking .
+Continuous expression of wild-type LMP1 resulted in a much weaker autophosphorylation of JAK3 , which most likely reflects a com-binatorial effect of phosphorylation and subsequent activation of phosphatases as is the case with numerous cytokine receptors ( Darnell , 1997 ) .
+This finding further supported the idea that LMP1 directly activates the JAK/ STAT pathway as short term cross-linking of NGF-R : LMP1 displayed a very strong tyrosine phosphorylation of JAK3 3068 A € + Tet + CBDag Id 3d 4d Id 3d dd d € ( UH .. etection phospho-SdkD _ tyrosine 64kD 1852.4 cells detection detection 133kD -- a-JAK3 u-phospho- % tyrosine 1 2 : THEE .
+5 g 40 s & = 4 t = a a ei z = ei a # 0 & = # § f - e = = 2 be e ci a ci 1 % A 8 C detection IYhB -- a-JAK3 dom g c-LMP1 4 g E & IP F 4 2 o 8 133kD e phospho-tyrosine IP ; beads c-LMPL Fig .
+5 .
+Tyrosine phosphorylation of endogenous JAK3 and interaction with LMP1 .
+( A ) 1852.4 cells are immortalized human B cells carrying a conditional tetracycline regulated LMP1 gene in the context of a mini-EBV plasmid .
+Cells were grown in the absence of tetracycline for four days ( -Tet ) which leads to transcriptional downregulation of the LMP ] gene .
+Subsequently , LMP1 expression was reinduced upon readdition of tetracycline to the culture medium for up to four days ( +Tet ) .
+Alternatively , tetracycline deprived cells were kept in the presence of CD40-ligand expressing mouse fibroblasts ( +CD40-L ) .
+Cell extracts from 1X10 ' cells were analyzed by immunoblotting using antibodies against tyrosine phosphorylated proteins .
+The expected size of JAK3 is indicated with an arrow .
+( B ) Endogenous JAK3 was immunoprecipitated from proliferating 1852.4 cells ( 1X10® cells per sample ) and analyzed by immunoblotting using antibodies against JAK3 ( left ) or tyrosine-phosphorylated proteins ( right ) .
+Crude extracts from 293 cells transfected with expression plasmids for LMP1 and murine JAK3 were analyzed in parallel .
+Direct visualization of ectopically expressed murine JAK3 in 293 cells with the available antibodies was not feasible which is probably due to the insufficient affinity of the JAK3 antibody for the murine protein under Western blot conditions .
+( C ) 1852.4 cells ( 1X10® cells per sample ) were grown in the presence of tetracycline and lysed in RIPA buffer containing protease/ phosphatase inhibitors .
+Precleared cell lysates were immunoprecipitated using ( CS1-4 ; DAKO ) or @ -JAK3 ( C21 ; Santa Cruz ) antibodies .
+Immunoprecipitates were separated by 10 % SDS-PAGE and analyzed by immunoblotting using G-JAK3 ( Santa Cruz ; upper panel ) or G-LMP1 ( S12-biotinylated ; middle panel ) or ¢-phosphotyrosine ( PY20/4G10 ; lower panel ) antibodies .
+Each panel shows one representative experiment of three .
+in the absence of secondary downregulating events ( e.g .
+phosphatase activity ) .
+LMP1 and JAK3 interact in 293 and B cells The most obvious scenario which would explain tyrosine phosphorylation of JAK3 by LMP1 is the direct binding of JAK3 to the C-terminal domain of LMP1 .
+The constitutively aggregated LMP1 molecules would tether JAK3 molecules to the plasma membrane inducing them in a constitutive manner .
+As anticipated , immunoprecipitation of LMP1 revealed a weak interaction with an ~125 kDa phosphorylated protein in 293 cells only when they had been transfected with a JAK3 expression vector .
+In contrast , no such interaction was observed between LMP1 and JAK 1 or JAK2 ( data not shown ) .
+These results strongly suggested that JAK3 might be bound to LMP1 but these co-immunoprecipitation assays were based on overexpression of both LMP 1 and JAKs in 293 cells .
+To make use of a less artificial experimental setting , the phosphorylation status of endogenous JAK3 and its interaction with LMP1 were investigated in the EBV-immortalized B cell line 1852.4 .
+Cells were deprived of tetracycline in order to downregulate LMP1 expression ( see Figure 2B ) .
+LMP 1 re-expression was achieved by addition of tetracycline to the culture medium .
+Alternatively , tetracycline-deprived cells were kept on a CD40-L expressing mouse fibroblasts feeder layer ( Kilger et al .
+, 1998 ) .
+Cell lysates were then tested for tyrosine-phosphorylated proteins by immunoblotting .
+As shown in Figure 5A , reinduction of LMP1 as well as treatment with CD4QO-L induced the tyrosine phosphorylation of several cellular proteins , one migrating with an apparent molecular weight of 125 kDa .
+Subsequent immunoprecipitation with a JAK3-specific antibody confirmed that the 125 kDa protein was JAK3 which becomes phosphorylated at tyrosine residues only after LMPI1 re-expression or CD40 activation .
+Reinduction of LMPI1 expression did not alter the steady-state levels of JAK3 ( data not shown ) .
+The activation of JAK3 following CD40 ligation has been reported recently ( Hanissian and Geha , 1997 ) , supporting the hypothesis of the functional similarity between LMP1 and CD40 .
+Further experiments with immunoprecipitated JAK3 from cycling 1852.4 cells showed that a substantial amount of JAK3 is tyrosine phosphorylated in EBV-immortalized B cells ( Figure 5B ) .
+Endogenous human JAK3 from B cells and murine JAK3 expressed in 293 cells migrated with the same molecular weight as seen with an anti-phosphotyrosine-specific antibody ( Figure 5B ) .
+As is apparent in the control lanes in Figure 5B , detection of ectopically expressed murine JAK3 in 293 cells with the available antibodies was not feasible .
+This is probably due to the insufficient affinity of the JAK3 antibody for the murine protein under Western blot conditions .
+To examine the interaction of LMP1 and JAK3 in more detail , 1852.4 cells were grown in the presence of tetracycline to permit LMP1 expression and cell proliferation ( Kilger et al .
+, 1998 ) .
+A total of 1X10° cells were lysed and LMP1 was precipitated using a mix of monoclonal antibodies specific for LMP1 ( CS1-4 ) .
+Precipitated proteins were separated by SDS-PAGE , and co-precipitated JAK3 was detected using an G-JAK3 antibody after Western blotting .
+As shown in Figure 5C , JAK3 co-precipitated with LMP1 , demonstrating that LMP1 and endogenous JAK3 LMP1 activates JAK/STAT physically interact in EBV immortalized B cells .
+Incubation of cell lysates with beads alone ( or with an o-NGF-R anti-body ; data not shown ) precipitated neither JAK3 nor LMP 1 .
+Reciprocally , LMP1 was also detectable in immunoprecipitates as shown in Figure 5C .
+We could further show that LMP1 associated JAK3 is tyrosine phosphorylated ( Figure 5C , lower panel ) as anticipated from the cotransfection experiments in 293 cells ( Figure 4 ) .
+These results clearly demonstrate that endogenous LMP1 and JAK3 interact in vivo in EBV-immortalized B cells , which is the most likely molecular basis for JAK3 phosphorylation and activation by LMP1 .
+The JAK3 activation domain maps to the box1 motifs within the repetitive region of LMP1 The C-terminus of LMP1 was sufficient for the rapid activation of JAK3 and STAT proteins ( Figures 3 and 4 ) .
+To confirm our initial hypothesis of JAK activation via the box 1 motifs of LMP1 , we generated a LMP 1 mutant that lacked the entire JAK-binding sequences , as depicted in Figure 1 .
+This mutant , termed LMP1A33bp , was transiently transfected in 293 cells together with the JAK3 expression vector and tyrosine autophosphorylation of JAK3 was analyzed .
+Both wild-type LMP1 and LMP1A33bp were expressed as FLAG epitope-tagged variants to permit the detection of both proteins with equal sensitivity .
+As shown in Figure 6A , FLAG-tagged LMP1A33bp ( F-LMP1A33bp ) was unable to induce the phosphorylation of JAK3 at tyrosine residues , in contrast to FLAG-tagged wild-type LMP1 ( F-LMP1 ) , although both molecules were expressed at comparable levels ( Figure 6A ) .
+The modifications in F-LMP1A33bp had no consequences in terms of activation of the c-jun N-terminal kinase 1 pathway ( Figure 6B ) or induction of NF-KB as anticipated ( Figure 6C ) .
+This was expected since neither CTAR1 nor CTAR2 are affected by the deletion in F-LMP1A33bp .
+Thus , the LMP1A33bp mutation displays a very discrete phenotype that selectively affects the induction of the JAK/STAT pathway .
+Next , we selectively reconstituted the deleted repeats within the LMP1A33bp mutant using oligonucleotides encoding either the simple 33 bp repeat lacking the box 1 motif or the PXXPXP box 1 motif in the context of the more complex repeat unit ( see Figure 1 for the differences ) .
+The purpose of this reconstitution experiment was to perform the fine mapping of the JAK3 activation domain within LMP1 .
+Reconstituted mutants containing one or two copies of the different repetitive sequences were expressed in 293 cells together with JAK3 followed by immunoblotting to detect tyrosine phosphorylated proteins .
+Enhanced tyrosine phosphorylation of JAK3 was observed in the presence of wild-type LMP1 ( Figure 7 ) , which was strongly impaired in the case of the LMP1A33bp mutant as seen before ( see Figure 6A ) .
+As expected , reintroduction of box 1 motif sequences had a phenotype almost comparable with wild-type LMP 1 in terms of JAK3 phosphorylation .
+Reintroduction of the simple 33 bp repeat lacking the box 1 consensus motif led to a mediocre but clearly detectable increase of JAK3 phosphorylation ( Figure 7 ) .
+This effect could be due to the presence of box 1-like sequences ( PXXP ) within the simple 33 bp repeats ( Figure 1 ) or surrounding sequences .
+Thus , the JAK3 activation domain maps primarily to the box 1 motifs located within the repetitive array of LMP1 although surrounding sequences seem to contribute to 3069 O.Gires et al .
+% IJJkI5I— : _ m a+ Ath 67kD a-P¥ _ ; | ii “ .q *** !
+__ sip OFLAC $ 5 : ; t : f & o£ = m m m & 3 § f § 4 3 3 i 0 E & E i E & = = w. N th HA-JNK1 activity _ , ( GST-c-Jun-P ) ‘ - HA-JNK1 IP ( immunoblot ) ** '- a » aih ax gm & & transfected DNAs : E = g m P = .
+C 1 NF-xB fold incluetion * if in 5 fel ___ a moc F-LMP1 F-LMP1A33bp Fig .
+6 .
+Tyrosine phosphorylation of JAK3 in the presence of FLAG-LMP1A33bp or FLAG-LMP1 .
+The LMP1A33bp mutant of LMP1 fails to induce tyrosine phosphorylation of JAK3 although it is as effective as wild-type LMP1 with respect to NF-KB and JNK1 activation .
+( A ) Tyrosine phosphorylation of JAK3 : 293 cells were transiently transfected with expression plasmids for the FLAG-epitope tagged variant of wild-type LMP1 ( F-LMP1 ) or LMP1A33bp ( F-LMP1A33bp ) ( 0.1 ug ) together with murine JAK3 ( 0.3 ug ) .
+Tyrosine phosphorylated proteins were detected as described ( left panel ) .
+Equal expression of FLAG-LMP1 and FLAG-LMP1A33bp was assessed by immunoblotting with M2-FLAG antibody in combination with HRP-conjugated secondary antibody ( right panel ) .
+One representative experiment out of three is shown .
+( B ) Activation of JNK1 .
+293 cells were transiently transfected with expression plasmids for FLAG-epitope tagged variants of LMP1 or LMP1A33bp ( 0.125 ug ) together with HA-tagged JNK1 ( 1 ug ) .
+Kinase activity of immunoprecipitated JNK1 ( upper panel ) was assessed as described ( Kieser et al .
+, 1997 ) .
+Expression of HA-INK1 was equal as assessed by immunoblotting with @ -JNK1 antibody ( lower panel ) .
+( C ) Activation of NF-KB .
+293 cells were transiently transfected with expression plasmids for FLAG epitope-tagged LMP1 or LMP1A33bp ( 0.125 ug ) together with an NF-KB reporter plasmid ( 5 ng ) .
+Luciferase activity was measured one day after transfection and normalized for B-galactosidase activity .
+One experiment out of two is shown in ( B ) and ( C ) .
+maximal JAK3 autophosphorylation .
+Unexpectedly , the repeat copy number had no discernible effect .
+Discussion In this study , we investigated the potential of LMPI1 to induce cellular signaling cascades besides those leading to NF-KB and AP-1 activation .
+It has been shown recently that LMP 1 is a constitutively active pseudo-receptor ( Gires et al .
+, 1997 ; Hatzivassiliou et al .
+, 1998 ) that acts as a key player during B cell immortalization ( Zimber-Strobl et al .
+, 3070 + JAK3 Detection a-phospho- | Mh wih - lh tyrosine mock only JAK3 F-LMP1 F-LMP1/2x33bp ~LMP1/2xbox1 H. F-LMPI/1Ixbox1 if F-LMP1A33bp F-LMPL1x33bp Fig .
+7 .
+JAK3-activation domain primarily maps to the box 1 motif .
+To evaluate the function of the different repetitive sequences for JAK3 activation , FLAG-LMP1A33bp ( F-LMP1A33bp ) lacking the entire 33 bp repeat region was reconstituted with synthetic oligonucleotides .
+They encode one or two copies of the simple 33 bp repeat ( F-LMP1/1 X33bp and F-LMP1/2X33bp ) or the longer repeat encompassing the box 1 motif ( FE-LMP1/1 Xbox1 and E-LMPI/ 2Xbox1 ) as described in Material and methods .
+Expression plasmids for each LMP1 variant were transfected together with JAK3 in 293 cells .
+One day after transfection cells were lysed and tyrosine phosphorylation was assessed by immunoblotting ( upper panel ) .
+The expression levels of each LMP1 variant were comparable as revealed by immunoblotting with FLAG epitope-specific antibodies ( not shown ) .
+One representative experiment out of three is shown .
+1996 ; Izumi and Kieff , 1997 ; Kilger et al .
+, 1998 ) .
+So far , two signaling domains have been identified , termed C-terminal activating region 1 and 2 ( CTAR 1 and CTAR2 ) ( Huen et al .
+, 1995 ) , which interact with TRAFs ( Sandberg et al .
+, 1997 ) and TRADD ( Izumi and Kieff , 1997 ; Kieser et al .
+, 1999 ) , respectively , and account for the induction of AP-1 and NF-KB ( Mitchell and Sugden , 1995 ; Kieser et al .
+, 1997 ) .
+No function could be assigned to the fairly large remaining parts of the C-terminus of LMP1 .
+Here , we identified a third C-terminal activating region located between CTAR1 and CTAR2 ( Figure 1 ) .
+We observed that LMP1I and JAK3 interact following the ectopic expression of both molecules in 293 cells while no interaction was detected between LMP1l and JAK !
+or JAK2 ( data not shown ) .
+More importantly , LMP1 and JAK3 also strongly interact in EBV-immortalized B cells ( Figure 5 ) .
+This protein-protein interaction leads to the enhanced tyrosine phosphorylation of JAK3 , which is a hallmark for its activation ( Figures 4 and 5 ) , and activation of STAT 1 ( Figure 2 ) and STAT3 ( data not shown ) as indicated by their induced phosphorylation and DNA-binding capacity .
+In line with our findings , JAK3 and Tyk2 were shown to be constitutively phosphorylated in EBV-immortalized B cells ( Murata and Puri , 1997 ) , as was JAK3 in T cells immortalized by HTLV1 ( Xu et al .
+, 1995 ) .
+As a consequence , the downstream targets of JAK3 , STAT1 and STAT3 also acquire a permanent activation state in lymphoblastoid cell lines and in Burkitt 's lymphoma ( Weber-Nordt et al .
+, 1996 ) .
+Mutational analysis allowed the mapping of LMPI 's activation domain to the box 1 consensus motifs ( PXXPXP ) in the context of the 33 bp repeats of LMP1 ( Figure 6 ) with surrounding sequences contributing to the activation domain ( Figure 7 ) .
+In accordance with LMP 1 's nomenclature we would suggest naming this newly identified functional domain CTAR3 .
+In B cells immortalized with a mini-EBV carrying a conditional LMP1 allele we could demonstrate that the expression of LMP 1 induced STAT 1 DNA-binding activity ( Figure 2 ) .
+In 293 cells , cross-linking of the NGF-R : LMP1 chimera in the presence of JAK3 led to the appearance of a similar band shift complex within minutes ( Figure 3 ) .
+In addition , our initial data indicated that LMP1 induced tyrosine phosphorylation of STAT3 in 293 cells ( data not shown ) .
+Thus , LMP1 expression in the 1852.4 B cell line and in 293 cells clearly induced STAT DNA binding as a function of JAK3 activation .
+The kinetics of the JAK/STAT pathway activated by LMP1 were reminiscent of cytokine receptors and occurred rapidly which might represent a very early event in LMP1 signaling , predisposing the cell for additional proliferation signals .
+In the EBV-immortalized B cell line 1852.4 induction of STAT DNA-binding activity peaked at day 1 but was still substantial at day 4 of LMP1 re-expression .
+The rapid downregulation of the JAK/STAT pathway after its induction is a common feature of cytokine signaling .
+The actual induction level of the JAK/STAT signaling cascade is accepted to be the result of activation of PTK in conjunction with counter-regulation by phosphatases and/or predisposition of tyrosine phosphorylated STATs for the ubiquitin degradation pathway ( Darnell , 1997 ) .
+Previous work from our group demonstrated that the activation of NF-KB and JNK1 occurs predominantly between days 2 and 3 in 1852 B cells ( Kieser et al .
+, 1997 ; Kilger et al .
+, 1998 ) , indicating that JAK/STAT activation is a fast event following LMP1 expression .
+The JAK/STAT pathway has been shown to be important in several cellular decisions such as proliferation and protection from apoptosis in Baf3 lymphoid cells ( Rodriguez Tarduchy et al .
+, 1990 ; Leonard and O'Shea , 1998 ) .
+The relevance of JAK3 in cell fate decisions is especially highlighted by the finding of JAK3 deficiency in SCID patients where it plays a key role in human lymphoid development ( Macchi et al .
+, 1995 ; Russell et al .
+, 1995 ) , its ability to induce DNA synthesis and proto-oncogenes such as c-myc and c-fos ( Kawahara et al .
+, 1995 ) , and the contribution of STATs to prevent apoptosis in multiple myelomas ( Catlett-Falcone et al .
+, 1999 ) .
+The activation of the JAK/STAT pathway may therefore contribute to LMP1 's ability to transform cells and/or protect B cells from apoptosis in the context of an EBV infection .
+One could envision that the simultaneous or sequential activation of NF-KB , AP-1 , JAK/STAT ( and possibly others ) is the molecular basis for the potential of LMP1 to induce growth transformation , expression of cellular surface markers , and B cell immortalization .
+The recruitment of signal transducing molecules and the balance between these signals will influence cell fate into one or the other direction , promoting cell death or proliferation .
+Furthermore , the interaction between the CD40 receptor and JAK3 was demonstrated to be important for the induction of cellular surface markers such as CD23 , ICAM-1 and LT-o ( Hanissian and Geha , 1997 ) .
+Although LMP1 and CD40 do not display a convincing overall homology at the primary amino acid sequence level , they have analogous functions in B cells ( Zimber-Strobl et al .
+, 1996 ; Kilger et al .
+, 1998 ) .
+Therefore , it seems conceivable that binding and constitutive activation of JAK3 by LMP1 upregulates the same cellular genes as CD40 when activated by its specific ligand .
+The identification of downstream target genes of STATs will be essential to reveal the mode of action of LMP1 as a complex , multipotent pseudo-receptor .
+With the development of recent techniques ( Delecluse et al .
+, 1998 , 1999 ) , LMP1 activates JAK/STAT genetic experiments are now feasible to study the contribution of the different domains within the C-terminus of LMP1 with respect to efficient B-cell immortalization by EBV .
+Materials and methods Plasmid DNAs Wild-type LMP1 and NGE-R : LMP1 were expressed from the SV40 promoter/enhancer in pHEBo ( Yates et al .
+, 1985 ) .
+Full-length wild-type LMP1 was expressed as a fusion with the FLAG epitope expressed from the CMV promoter in the FLAG-CMV2 expression plasmid ( IBI-Kodak ) .
+To create the mutant plasmid FLAG-LMP1A33bp , the repetitive sequences in FLAG-LMP1 were deleted .
+A double-stranded synthetic oligonucleotide ( upstream oligonucleotide : 5'-GGGGCCGG-GCGACGGACCCCCACTCTGCTCTCAAAACCTAGGCGCACCTG- downstream oligonucleotide : 5'-CCCCAATTGTGGAGGGCCTCCATCATTTCCAGCAGAGT-CGCTAGGGCTATGAGATCTAGGACCACCTCCAGGTGCGCC-3 ' ) was inserted into FLAG-LMP1 which had been cleaved with a combination of and Munl .
+FLAG-LMP1/1X33bp and FLAG-LMPI 2X33bp are based on FLAG-LMP1A33bp and contain one or two pairs of oligonucleotides inserted into the Xbal-cleaved plasmid ( upstream oligonucleotide : 5'-CTAGCGACAATGGCCCACAGGACCCTGACA-ACACTGATT-3 ' ; downstream oligonucleotide : 5'-CTAGAATCAGTG-TTGTCAGGGTCCTGTGGGCCATTGTCG-3 `` ) .
+FLAG-LMP1/1 Xbox1 and FLAG-LMP1/2Xbox1 were generated similarly ( upstream oligonucleotide : 5'-CTAGCGACAATGGCCCACATGACCCGCTGCCTCA-GGACCCTGACAACACTGATT-3 ' ; downstream oligonucleotide : 5'-CTAGAATCAGTGTTGTCAGGGTCCTGAGGCAGCGGGTCATGT- Murine JAK3 was cloned in pRKS and expressed from the CMV promoter ( Witthuhn et al .
+, 1994 ) .
+JAK3AKD was generated by insertion of an Xbal nonsense primer ( # NEB1062 ) at the single Xhol site 5 ' of kinase domain ( Kawahara et al .
+, 1995 ) .
+Cell lines The cell line 1852.4 was derived from primary human B cells which have been immortalized with a mini-EBV plasmid carrying a conditional LMP1 allele ( Kilger et al .
+, 1998 ) .
+1852.4 cells were cultured in standard RPMI medium containing 10 % fetal calf serum and 1 M tetracycline as described ( Kilger et al .
+, 1998 ) .
+The embryonic kidney cell line 293 ( Graham et al .
+, 1977 ) was cultured in standard RPMI containing 10 % calf serum .
+CD4O0-L-expressing mouse fibroblasts are described by Galibert et al .
+( 1996 ) .
+Transfection of 293 cells , immunoblots and immunoprecipitation Transfection of 293 cells was carried out in six well plates at 70 % confluency .
+Plasmid DNAs were transfected using Lipofectamin ( Life Technologies ) under the conditions recommended by the manufacturer .
+Protein expression was assessed by immunoblot analysis after separation by 10 % SDS-PAGE and electroblotting on a PVDF membrane ( Millipore ) .
+For the detection of tyrosine phosphorylated proteins the PVDF membrane was first incubated for 1 h at room temperature ( RT ) in Roti-block buffer ( Roth ) and then in a 1:1 mixture of PY20 and 4G10 antibodies ( 1 h RT ) .
+Membranes were then washed extensively and incubated with HRP-conjugated & -mouse immunoglobulin secondary antibody for 30 min at RT and detected with the enhanced chemo-luminescence system ( ECL , Amersham ) .
+Expression of LMP1 was detected using biotinylated $ 12 antibody ( 1:1000 in TBS-T ) in combination with streptavidin-HRP ( 1:500 ) and ECL or using the mix of monoclonal antibodies CS1-4 in combination with HRP-conjugated & -mouse Ig antibody .
+Alternatively , FLAG epitope-tagged variants were detected with M2 @ -FLAG antibody ( IBI-Kodak ; 1:300 in TBS-T ; 1 h at RT ) in combination with HRP-conjugated immunoglobulin .
+For immunoprecipitation of LMP1 , JAK3 and STAT1 transiently transfected 293 cells or 1852.4 B cells were lysed in RIPA buffer containing 0.1 mM vanadate and 0.5 mM phenylmethylsulfonylfluoride ( PMSF ) , and the protein lysates were precleared by centrifugation at 15 300 r.p.m .
+Precleared lysates were then incubated with protein G-Sepharose beads ( Pharmacia ) coupled to CS1-4 ( Dako ) , ( Santa Cruz ) or STAT1 ( Santa Cruz ) antibodies ( 15 pil beads + 10 pil antibody for 200 pl lysate from 105 cells ) .
+Immunoprecipitation was carried out overnight at 4°C in an over-head tumbler .
+Beads were then washed 3 times in 3071 O.Gires et al .
+TBS-T , boiled , centrifuged at 15 300 r.p.m .
+and protein expression was monitored by Western blot immunodetection as described above .
+Gel electromobility shift assays Cells were lysed in ice-cold lysis buffer [ 0.5 % Nonidet P-40 ( NP-40 ) , 10 % glycerol , 50 mM Tris-HCI pH 8.0 , 150 mM NaCl , 0.1 M EDTA pH 8 , 1 mM sodium orthovanadate , 0.5 mM PMSF , 1 mM dithiothreitol ] ( Schindler et al .
+, 1992 ) .
+Nuclei were removed by centrifugation .
+The sequence of the oligonucleotide probe used corresponds to the high-affinity sis-inducible element ( hSIE ) of the c-fos gene ( SIEM ) : 5'-GTCGACATTTCCCGTAAATC-3 ' ( Sadowski et al .
+, 1993 ) .
+The probe was end labeled with [ y-* > P ] ATP and aliquots equivalent to 30 000 c.p.m .
+were used per reaction .
+Binding reactions were performed in a total volume of 20 pl containing 10 mM HEPES pH 7.9 , 1.5 mM MgCl , 0.1 mM EGTA , 5 % glycerol , 1 mg of bovine serum albumin per ml , 0.25 mg of tRNA per ml , and 2 % Ficoll .
+Extracts were preincubated for 5 min at RT with 150 ug of poly ( dl-dC ) - ( dl-dC ) per ml prior to incubation with probe for an additional 20 min at RT .
+Complexes were separated on 6 % non-denaturing acrylamide gels in 0.5 % Tris-borate-EDTA ( TBE ) and detected by autoradiography .
+Acknowledgements We thank the members of the Hammerschmidt laboratory for many stimulating discussions and critical reading of the manuscript .
+We thank Bill Sugden for plasmids encoding various LMP1 and JAK constructs , and Elisabeth Kremer for the supply with biotinylated monoclonal antibodies against LMP1 .
+Our research was supported by Grant CA70723 from the National Institutes of Health , by Grants WI 319/11-3 and Ha 1354/-2 from the Deutsche Forschungsgemeinschaft , by Grant 1-1016-Ze I from the Deutsche Krebshilfe , and by institutional grants .
+References Baichwal , V.R .
+and Sugden , B .
+( 1988 ) Transformation of Balb 3T3 cells by the BNLF-I gene of Epstein-Barr virus .
+Oncogene , 2 , 461-467 .
+Briscoe , J. , KohThuber , F .
+and Miiller , M .
+( 1996 ) JAKs and STATs branch out .
+Trends Cell Biol .
+, 6 , 336-340 .
+Catlett-Falcone , R .
+et al .
+( 1999 ) Constitutive activation of Stat3 signaling confers resistance to apoptosis in human U266 myeloma cells .
+Immunity , 10 , 105-115 .
+Cohen , J.L .
+, Wang , F .
+and Kieff , E .
+( 1991 ) Epstein-Barr virus nuclear protein 2 mutations define essential domains for transformation and transactivation .
+J .
+Virol .
+, 65 , 2545-2554 .
+Darnell , J.F .
+( 1997 ) STATs and gene regulation .
+Science , 277 , 1630-1635 .
+Delecluse , H.-J .
+, Hilsendegen , T. , Pich , D. , Zeidler , R .
+and Hammerschmidt , W. ( 1998 ) Propagation and recovery of intact , infectious Epstein-Barr virus from prokaryotic to human cells .
+Proc .
+Natl Acad .
+Sci .
+USA , 95 , 8245-8250 .
+Delecluse , H.-J .
+, Pich , D. , Hilsendegen , T. , Baum , C .
+and Hammerschmidt , W. ( 1999 ) A first generation packaging cell line for Epstein-Barr derived vectors .
+Proc .
+Natl Acad .
+Sci .
+USA , in press .
+Devergne,0 .
+, Hatzivassiliou , E. , Izumi , K.M .
+, Kaye , K.M .
+, Kleijnen , M.F .
+, Kieff , E .
+and Mosialos , G .
+( 1996 ) Association of TRAF1 , TRAF2 and TRAF3 with an Epstein-Barr virus LMP1 domain important for B-lymphocyte transformation : role in NF-KB activation .
+Mol .
+Cell .
+Biol .
+, 16 , 7098-7108 .
+Eliopoulos , A.G. and Rickinson , A.B .
+( 1998 ) LMP1 masquerades as an active receptor .
+Curr .
+Biol .
+, 8 , R196-R198 .
+Eliopoulos , and Young , L.S .
+( 1998 ) Activation of the cJun N-terminal kinase ( JNK ) pathway by the Epstein-Barr virus-encoded latent membrane protein 1 ( LMP1 ) .
+Oncogene , 16 , 1731-1742 .
+Eliopoulos , Stack , M. , Dawson , C.W .
+, Kaye , K.M .
+, Hodgkin , L. , Sihota , S8 .
+, Rowe , M .
+and Young , L.S .
+( 1997 ) Epstein-Barr virus-encoded LMP1 and CD40 mediate IL-6 production in epithelial cells via an NF-KB pathway involving TNF receptor-associated factors .
+Oncogene , 14 , 2899-2916 .
+Farrell , PJ .
+( 1995 ) Epstein-Barr virus immortalizing genes .
+Trends Microbiol .
+, 3 , 105-109 .
+Flocttmann , J.E .
+and Rowe , M. ( 1997 ) Epstein-Barr virus latent membrane protein-1 ( LMP1 ) C-terminus activation region 2 ( CTAR2 ) maps to the far C-terminus and requires oligomerisation for NF-KB activation .
+Oncogene , 15 , 1851-1858 .
+Galibert , L. , Burdin , N. , de Saint-Vis , B. , Garrone , P. , Van Kooten , C. , Banchereau , J .
+and Rousset , F .
+( 1996 ) CD40 and B cell antigen receptor 3072 dual triggering of resting B lymphocytes turns on a partial germinal center phenotype .
+J. Exp .
+Med .
+, 183 , 77-85 .
+Gires,0 .
+, Zimber-Strobl , U. , Gonnella , R. , Ueffing , M. , Marschall , G. , Zeidler , R. , Pich , D .
+and Hammerschmidt , W. ( 1997 ) Latent membrane protein 1 of Epstein-Barr virus mimics a constitutively active receptor molecule .
+EMBO J. , 16 , 6131-6140 .
+Graham , FL .
+, Smiley , J. , Russell , W.C. and Nairn , R .
+( 1977 ) Characteristics of a human cell line transformed by DNA from human adenovirus type 5 .
+J. Gen .
+Virol .
+, 36 , 59-74 .
+Hammarskjold , M.L .
+and Simurda , M.C .
+( 1992 ) Epstein-Barr virus latent membrane protein transactivates the human immunodeficiency virus type 1 long terminal repeat through induction of NF-KB activity .
+J .
+Virol .
+, 66 , 6496-6501 .
+Hammerschmidt , W. and Sugden , B .
+( 1989 ) Genetic analysis of immortalizing functions of Epstein-Barr virus in human B lymphocytes .
+Nature , 340 , 393-397 .
+Hanissian , S.H .
+and Geha , R.S .
+( 1997 ) Jak3 is associated with CD40 and is critical for CD40 induction of gene expression in B cells .
+Immunity , 6 , 379-387 .
+Hatzivassiliou , E. , Miller , W.E .
+, Raab-Traub , N. , Kieff , E .
+and Mosialos , G .
+( 1998 ) A fusion of the EBV latent membrane protein-1 ( LMP1 ) transmembrane domains to the CD40 cytoplasmic domain is similar to LMP1 in constitutive activation of epidermal growth factor receptor expression , nuclear factor-KB and stress-activated protein kinase .
+J .
+Immunol .
+, 160 , 1116-1121 .
+Huen , D.S .
+, Henderson , S.A. , Croom-Carter , D .
+and Rowe , M .
+( 1995 ) The Epstein-Barr virus latent membrane protein-1 ( LMP1 ) mediates activation of NF-KB and cell surface phenotype via two effector regions in its carboxy-terminal cytoplasmic domain .
+Oncogene , 10 , 549-560 .
+Thle , J.N .
+, Witthuhn , B.A .
+, Quelle , FEW .
+, Yamamoto , K .
+and Silvennoinen,0 .
+( 1995 ) Signaling through the hematopoietic cytokine receptors .
+Annu .
+Rev .
+Immunol .
+, 13 , 369-398 .
+Ivashkiv , L.B .
+( 1995 ) Cytokines and STATs : how can signals achieve specificity ?
+Immunity , 3 , 1-4 .
+Izumi , K.M .
+and Kieff , E.D .
+( 1997 ) The Epstein-Barr virus oncogene product latent membrane protein 1 engages the tumor necrosis factor receptor-associated death domain protein to mediate B lymphocyte growth transformation and activate NF-KB .
+Proc .
+Natl Acad .
+Sci .
+USA , 94 , 12592-12597 .
+Izumi , K.M .
+, Kaye , K.M .
+and Kieff , E.D .
+( 1997 ) The Epstein-Barr virus LMP1 amino acid sequence that engages tumor necrosis factor receptor associated factors is critical for primary B lymphocyte growth transformation .
+Proc .
+Natl Acad .
+Sci .
+USA , 94 , 1447-1452 .
+Karras , J.G .
+, Wang , Z. , Huo , L. , Frank , D.A .
+and Rothstein , IL .
+( 1997 ) Induction of STAT protein signaling through the CD40 receptor in B lymphocytes : distinct STAT activation following surface Ig and CD40 receptor engagement .
+J .
+Immunol .
+, 159 , 4350-4355 .
+Kawahara , A. , Minami , Y. , Miyazaki , T. , Ihle , J.N .
+and Taniguchi , T .
+( 1995 ) Critical role of the interleukin 2 ( IL-2 ) receptor y-chain-associated Jak3 in the IL-2-induced c-fos and c-myc , but not bel-2 , gene induction .
+Proc .
+Natl Acad .
+Sci .
+USA , 92 , 8724-8728 .
+Kaye , K.M .
+, Izumi , K.M .
+and Kieff , E .
+( 1993 ) Epstein-Barr virus latent membrane protein 1 is essential for B-lymphocyte growth transformation .
+Proc .
+Natl Acad .
+Sci .
+USA , 90 , 9150-9154 .
+Kaye , K.M .
+, Izumi , K.M .
+, Mosialos , G .
+and Kieff , E .
+( 1995 ) The Epstein-Barr virus LMP1 cytoplasmic carboxy terminus is essential for B-lymphocyte transformation ; fibroblast cocultivation complements a critical function within the terminal 155 residues .
+J .
+Virol .
+, 69 , 675-683 .
+Kieff , E .
+( 1996 ) Epstein-Barr virus and its replication .
+In Fields , B.N .
+, Knipe , D.M .
+, Howley , P.M. , Chanock , R.M .
+, Monath , T.P .
+, Melnick , J.L .
+, Roizman , B .
+and Straus , S.E .
+( eds ) , Virology .
+3rd edn .
+Lippincott-Raven Publishers , Philadelphia , PA , pp .
+2343-2396 .
+Kieser , A. , Kilger , E. , Gires,0 .
+, Ueffing .
+, M. , Kolch , W. and Hammerschmidt , W. ( 1997 ) Epstein-Barr virus latent membrane protein-1 triggers AP-1 activity via the c-Jun N-terminal kinase cascade .
+EMBO J. , 16 , 6478-6485 .
+Kieser , A. , Kaiser , C .
+and Hammerschmidt W. ( 1999 ) LMP1 signal transduction differs substantially from TNF receptor 1 signaling in the molecular functions of TRADD and TRAF2Z .
+EMBO J. , 18 , 2511-2521 .
+Kilger , E. , Kieser , A. , Baumann , M .
+and Hammerschmidt , W .
+( 1998 ) Epstein-Barr virus-mediated B-cell proliferation is dependent upon latent membrane protein 1 , which simulates an activated CD40 receptor .
+EMBO J. , 17 , 1700-1709 .
+Laherty , C.D .
+, Hu , H.M. , Opipari , A.W .
+, Wang , F .
+and Dixit , V.M .
+( 1992 ) The Epstein-Barr virus LMP1 gene product induces A20 zinc finger protein expression by activating nuclear factor xB .
+J. Biol .
+Chem .
+, 267 , 24157-24160 .
+Leonard , W. and O'Shea , J .
+( 1998 ) JAKs and STATs : Biological Implications .
+Annu .
+Rev .
+Immunol .
+, 16 , 293-322 .
+Liecbowitz , D. , Wang , D .
+and Kieff , E .
+( 1986 ) Orientation and patching of the latent infection membrane protein encoded by Epstein-Barr virus .
+J .
+Virol .
+, 58 , 233-237 .
+Macchi , P .
+et al .
+( 1995 ) Mutations of Jak-3 gene in patients with autosomal severe combined immune deficiency ( SCID ) .
+Nature , 377 , 65-68 .
+Miller , W.E .
+, Mosialos , G. , Kieff , E .
+and Raab-Traub , N .
+( 1997 ) Epstein-Barr virus LMP1 induction of the epidermal growth factor receptor is mediated through a TRAF signaling pathway distinct from NF-KB activation .
+J .
+Virol .
+, 71 , 586-594 .
+Mitchell , T .
+and Sugden , B .
+( 1995 ) Stimulation of NF-KB-mediated transcription by mutant derivatives of the latent membrane protein of Epstein-Barr virus .
+J .
+Virol .
+, 69 , 2968-2976 .
+Moorthy , R.K .
+and Thorley-Lawson , D.A .
+( 1993 ) All three domains of the Epstein-Barr virus-encoded latent membrane protein LMP-1 are required for transformation of rat-l fibroblasts .
+J .
+Virol .
+, 67 , 1638-1646 .
+Mosialos , G. , Birkenbach , M. , Yalamanchili , R. , VanArsdale , T. , Ware , C .
+and Kieff , E .
+( 1995 ) The Epstein-Barr virus transforming protein LMP1 engages signaling proteins for the tumor necrosis factor receptor family .
+Cell , 80 , 389-399 .
+Murakami , M. , Narazaki , M. , Hibi , M. , Yawata , H. , Yasukawa , K. , Hamaguchi , M. , Taga , T .
+and Kishimoto , T .
+( 1991 ) Critical cytoplasmic region of the interleukin 6 signal transducer gp130 is conserved in the cytokine receptor family .
+Proc .
+Natl Acad .
+Sci .
+USA , 88 , 11349-11353 .
+Murata , T .
+and Puri , R.K .
+( 1997 ) Comparison of IL-13- and IL-4-induced signaling in EBV-immortalized human B cells .
+Cell .
+Immunol .
+, 175 , 33-40 .
+Rodriguez Tarduchy , G. , - Collins , M .
+- and - Lopez Rivas , A .
+( 1990 ) Regulation of apoptosis in interleukin-3-dependent hemopoietic cells by interleukin-3 and calcium ionophores .
+EMBO J. , 9 , 2997-3002 .
+Russell , S.M .
+et al .
+( 1995 ) Mutation of JAK3 in a patient with SCID : essential role of JAK3 in lymphoid development .
+Science , 270 , 797-800 .
+Sadowski , H.B .
+, Shuai , K. , Darnell , J.F .
+, Jr and Gilman , M.Z .
+( 1993 ) A common nuclear signal transduction pathway activated by growth factor and cytokine receptors .
+Science , 261 , 1739-1744 .
+Sandberg , M. , Hammerschmidt , W. and Sugden , B .
+( 1997 ) Characterization of LMP-1 's association with TRAFL , TRAF2 and TRAF3 .
+J .
+Virol .
+, 71 , 4649-4656 .
+Schindler , C. , Shuai , K. , Prezioso , V.R .
+and Damell , J.E..Jr ( 1992 ) Interferon-dependent tyrosine phosphorylation of a latent cytoplasmic transcription factor .
+Science , 257 , 809-813 .
+Silvennoinen,0 .
+, Thle , J.N .
+, Schlessinger , ) .
+and Levy , D.E .
+( 1993 ) Interferon-induced nuclear signalling by Jak protein tyrosine kinases .
+Nature , 366 , 583-585 .
+Tomkinson , B. , Robertson , E .
+and Kieff , E .
+( 1993 ) Epstein-Barr virus nuclear proteins EBNA-3A and EBNA-3C are essential for B-lymphocyte growth transformation .
+J .
+Virol .
+, 67 , 2014-2025 .
+Tortolani , P.J .
+et al .
+( 1995 ) Regulation of JAK3 expression and activation in human B cells and B cell malignancies .
+J .
+Immunol .
+, 155 , 5220-5226 .
+Tosato , G. , Tanner , J. , Jones , K.D .
+, Revel , M .
+and Pike , S.E .
+( 1990 ) Identification of interleukin-6 as an autocrine growth factor for Epstein-Barr virus-immortalized B cells .
+J .
+Virol .
+, 64 , 3033-3041 .
+Wang , D. , Licbowitz , D .
+and Kieff , E .
+( 1985 ) An EBV membrane protein expressed in immortalized lymphocytes transforms established rodent cells .
+Cell , 43 , 831-840 .
+Wang , F. , Gregory , C. , Sample , C. , Rowe , M. , Liecbowitz , D. , Murray , R. , Rickinson , A .
+and Kieff , E .
+( 1990 ) Epstein-Barr virus latent membrane protein ( LMP1 ) and nuclear proteins 2 and 3C are effectors of phenotypic changes in B lymphocytes : EBNA-2 and LMP1 cooperatively induce CD23 .
+J .
+Virol .
+, 64 , 2309-2318 .
+Weber-Nordt , R.M .
+, Egen , C. , Wehinger , J. , Ludwig , W. , Gouilleux-Gruart , V. , Mertelsmann , R .
+and Finke , J .
+( 1996 ) Constitutive activation of STAT proteins in primary lymphoid and myeloid leukemia cells and in Epstein-Barr virus ( EBV ) -related lymphoma cell lines .
+Blood , 88 , 809-816 .
+Witthuhn , B.A .
+, Silvennoinen,0 .
+, Miura,0 .
+, Lai , K.S .
+, Cwik , C. , Liy , E.T .
+and Ihle , J.N .
+( 1994 ) Involvement of the Jak-3 Janus kinase in signalling LMP1 activates JAK/STAT by interleukins 2 and 4 in lymphoid and myeloid cells .
+Nature , 370 , 153-157 .
+Xu , X. , Kang , S.H .
+, Heidenreich,0 .
+, Okerholm , M. , O'Shea , J.J .
+and Nerenberg , ML .
+( 1995 ) Constitutive activation of different Jak tyrosine kinases in human T cell leukemia virus type 1 ( HTLV-1 ) tax protein or virus-transformed cells .
+J. Clin .
+Invest .
+, 96 , 1548-1555 .
+Yates , J.L .
+, Warren , N .
+and Sugden , B .
+( 1985 ) Stable replication of plasmids derived from Epstein-Barr virus in various mammalian cells .
+Nature , 313 , 812-815 .
+Zimber-Strobl , U. , Kempkes , B. , Marschall , G. , Zeidler , R. , Van Kooten , C. , Banchereau , J. , Bornkamm , G.W .
+and Hammerschmidt , W .
+( 1996 ) Epstein-Barr virus latent membrane protein ( LMP1 ) is not sufficient to maintain proliferation of B-cells but both it and activated CD40 can prolong their survival .
+EMBO J. , 15 , 7070-7078 .
+Received November 9 , 1998 ; revised and accepted April 13 , 1999 3073

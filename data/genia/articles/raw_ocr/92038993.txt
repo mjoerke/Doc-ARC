@@ -1,0 +1,864 @@
+Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press v-erbA overexpression is required to extinguish c-erbA function in erythroid cell differentiation and regulation of the erbA target gene CAI Christine Disela , Corinne Glineur , '' Thomas Bugge , '' Jan Sap , Gabi Stengl , Jerry Dodgson , * Henk Stunnenberg , '' Hartmut Beug , and Martin Zenke® Institute for Molecular Pathology , A-1030 , Wien , Austria ; ' Institut National de la Santé et de la Recherche Médicale U186 , Centre National de la Recherche Scientifique URA1160 , Institute Pasteur , F-59019 Lille-Cedex , France ; *European Molecular Biology Laboratory , D-6900 Heidelberg , Germany ; Department of Pharmacology , New York University Medical Center , New York 10016 USA ; *Department of Microbiology and Public Health , Michigan State University , East Lansing , Michigan 48824-1101 USA The v-erbA oncoprotein represents a retrovirus-transduced oncogenic version of the thyroid hormone { T3/T4 ) receptor c-erbA ( type « ) } .
+It contributes to virus-induced erythroleukemia by efficiently arresting differentiation of red cell progenitors and by suppressing transcription of erythrocyte-specific genes .
+Here , we show that v-erbA and c-erbA bind directly to sequences within the promoter of the erythrocyte-specific carbonic anhydrase II ( CAI ) , a gene whose transcription is efficiently suppressed by v-erbA .
+This erbA-binding site confers thyroid hormone responsiveness to a heterologous promoter in transient expression experiments and is a target for efficient down-regulation of CAI transcription by the v-erbA oncoprotein .
+In stably transformed erythroblasts coexpressing the v-erbA oncoprotein and the c-erbA/T3 receptor at an approximately equimolar ratio , c-erbA activity is dominant over v-erbA .
+T3 efficiently induced erythroid differentiation in these cells , thus overcoming the v-erbA-mediated differentiation arrest .
+Likewise , T3 activated CAII transcription as well as transient expression of a T3-responsive reporter gene containing the CAIl-specific erbA-binding site .
+The c-erbA-dependent activation of this CAII reporter construct could only be suppressed by very high amounts of v-erbA .
+Our results suggest that overexpression of v-erbA is required for its function as an oncoprotein .
+[ Key Words : v-erbA oncogene ; c-erbA ; thyroid hormone ; thyroid hormone receptor ; carbonic anhydrase ; erythroid differentiation ] Received June 11 , 1991 ; revised version accepted August 29 , 1991 .
+The v-erbA oncoprotein represents a highly mutated version of the thyroid hormone { ( T3/T4 ) receptor c-erbA { type a ; Sap et al .
+1986 ; Weinberger et al .
+1986 ) .
+However , owing to multiple point mutations and a small carboxy-terminal deletion , v-erbA neither binds nor responds to thyroid hormones nor does it trans-activate T3-responsive target genes .
+Yet it still binds to DNA in a sequence-specific fashion ( Boucher et al .
+1988 , Munoz et al .
+1988 ; Damm et al .
+1989 ; Sap et al .
+1989 ; Bonde and Privalsky 1990 ) .
+In yeast , v-erbA seems to display a residual T3 response , rendering it a hormone-regulated transcriptional activator in this organism ( Privalsky et al .
+1990 ) .
+v-erbA was first identified as one of the two oncogenes of the avian erythroblastosis virus ( AEV ; Vennstrom et al , 1980 ; Debuire et al .
+1984 ) , a retrovirus causing sarco- *Corresponding author .
+mas and an acute fatal erythroleukemia in virus-infected chickens ( for review , see Graf and Beug 1978 , 1983 ) .
+Previous studies demonstrated that v-erbA contributes to erythroid cell transformation by efficiently blocking terminal differentiation of both normal and transformed erythroid precursor cells ( Gandrillon et al .
+1989 ; Schroder et al .
+1990 and references therein } .
+In addition , v-erbA abrogates the complex growth requirements of such transformed erythroblasts in culture ( Beug et al .
+1985 ; Kahn et al .
+1986 ) .
+These specific effects of v-erbA are at least partially due to its ability to interfere with transcription of three erythroid-specific genes whose expression is up-regulated during and most probably required for normal erythrocyte differentiation ( Knight et al .
+1988 ; Zenke et al .
+1988 , 1990 ) .
+These v-erbA-regu-lated genes encode the erythrocyte-specific anion transporter band3 , the erythroid-specific carbonic anhydrase II ( CAl ) , and the enzyme aminolevulinate synthase GENES & DEVELOPMENT 5:2033-2047 © 1991 by Cold Spring Harbor Laboratory Press ISSN 0890-9369/91 $ 3.00 2033 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Disela et al .
+( ALA-S , which catalyzes the first and rate-limiting step in heme biosynthesis ) .
+Two of these genes { band , CAI ) have been reintroduced into v-erbA-expressing leukemic erythroblasts , showing that repression of these two genes is responsible for the v-erbA-induced changes in the medium requirements of these cells ( Fuerstenberg et al .
+1990 ; I. Leitner et al .
+in prep . ) .
+Recently , we have shown that c-erbA , when overex-pressed in erythroid cells , efficiently regulates erythroid differentiation in a hormone-responsive fashion : Differentiation is blocked in the absence and induced in the presence of T3 ( Zenke et al .
+1990 ) .
+In these cells transcription of the very same three genes ( band3 , CAI , ALA-S ) whose expression is constitutively suppressed by the v-erbA oncoprotein , is modulated in a hormone-responsive fashion , that is , suppressed in the absence and activated in the presence of T3 .
+These results have led to the notion that v-erbA represents a hormone-indepen-dent repressor of transcription that constitutively displays only one T3 receptor function ( to repress transcription in the absence of hormone ) but has lost the ability to respond to T3 and thus to activate transcription ( Zenke et al .
+1990 ] .
+Evidence in favor of this idea has been presented by Damm et al .
+( 1989 ) and Sap et al .
+( 1989 ) , who analyzed the ability of c-erbA and verbA to regulate transcription via an artificial thyroid hormone-responsive element ( T3RE ) and a T3RE present in the Moloney murine leukemia virus long terminal repeat ( MoMLV LTR ) .
+They showed that the v-erbA oncoprotein constitutively repressed transcription of the respective T3-responsive reporter gene constructs in transient expression assays .
+In one study v-erbA was able to efficiently extinguish c-erbA receptor function , leading to the notion that v-erbA contributes to leukemogenesis by acting as a dominant repressor of gene expression ( Damm et al .
+1989 ) .
+However , because none of the genes suppressed in leukemic erythroblasts has been identified as a direct target of v-erbA or c-erbA , this hypothesis could not be tested directly .
+In this paper we have identified the erythroid-specific CAIl gene as a direct target of v-erbA action .
+Both v-erbA and c-erbA bind specifically to the same sequence element within the promoter of the CAI gene .
+This erbA-binding site exhibits sequence motifs found in thyroid hormone-responsive elements and overlaps with potential binding sites for the fos/jun/AP-1 complex and for the erythroid-specific transcription factor NF-E2 .
+In transient expression assays this erbA-binding site confers thyroid hormone responsiveness to a heterologous promoter and is a target for efficient down-regulation of transcription by the v-erbA oncoprotein .
+To directly test the dominant repressor hypothesis in leukemic cells and on naturally occurring target genes , we have stably introduced c-erbA into the v-erbA-expressing erythroblast cell line HD3 ( Beug et al .
+1982 ) .
+Using this approach , we studied the effect of the coexpressed v-erbA and c-erbA proteins on [ 1 ] erythroid dif-ferentiation , ( 2 ) erythrocyte-specific gene expression , and ( 3 ) the activity of transiently transfected reporter gene constructs containing the CAIl-specific erbA-bind- 2034 GENES & DEVELOPMENT ing site .
+We will show that c-erbA confers T3-dependent regulation of erythroid differentiation and transcriptional activation via the CAI T3RE when coexpressed with v-erbA at equimolar levels or in the presence of a moderate excess of v-erbA , indicating that under these conditions c-erbA is dominant over v-erbA .
+However , a large excess of v-erbA was able to extinguish the c-erbA-dependent activation of the CAII reporter gene .
+This suggests that in leukemic cells overexpression of v-erbA is required to efficiently suppress endogenous c-erbA/T3 receptor function , which appears to be an essential feature for v-erbA activity in erythroid cell transformation .
+Results c-etbA regulates erythroid differentiation in the presence of v-erbA Erythroblasts expressing the v-erbA oncoprotein are blocked completely in their ability to differentiate , whereas erythroblasts overexpressing c-erbA can be efficiently induced to differentiate into erythrocytes by T3 ( Zenke et al .
+1988 , 1990 ; Pain et al .
+1990 ; Schroder et al .
+1990 ) .
+This finding led to the notion that v-erbA exerts its oncogenic activity by interfering with a possible function of the endogenous c-erbA or of related receptors in erythroid cell differentiation ( Schroder et al .
+1991a , b ) .
+To study this question we tried to express c-erbA at levels high enough to overcome the v-erbA-mediated block in differentiation .
+Consequently , recombinant retroviral vectors have been constructed that efficiently express the c-erbA/T3 receptor either as a gag/c-erbA fusion protein or as bona fide c-erbA , together with the neomycin-resistance gene as a selectable marker ( Fig .
+1A , B ; Munoz et al .
+1988 ; Zenke et al .
+1990 ] .
+To investigate if and to what extent the point mutations present in the v-erbA DNA-binding domain might affect T3 receptor function and its ability to compete with v-erbA for potential target sequences , a chimeric gag/v-/c-erbA T3 receptor was constructed containing the v-erbA-specific DNA-binding domain joined to the hormone-binding domain of c-erbA [ Fig .
+1A ; vZ-erbA in Munoz et al .
+1988 ; Zenke et al .
+1990 ) .
+These retroviral vectors have been introduced into cells of the v-erbA/tserbB-transformed erythroblast cell line HD3 ( Beug et al .
+1982 ) , and neomycin-resistant colonies were selected in semisolid methocel medium ( Schroder et al .
+1990 ) .
+Neomycin-resistant colonies obtained after 7-10 days were isolated and tested for their response to thyroid hormone .
+Such cells were therefore incubated at 42°C { to inactivate tserbB } and their ability to differentiate in response to T3 was evaluated both by changes in morphology and by a reduction in their growth rates ( measured as inhibition of °H-thymidine incorporation } .
+As shown in Figure 2 the majority of clones coexpressing v-erbA and c-erbA or gag/c-erbA showed a clear response to T3 as evidenced by a strong inhibition of [ °HIthymidine incorporation .
+In clones coexpressing v-erbA and the chimeric gag/v-/c-erbA protein , this inhibition in growth by T3 was less prominent .
+As ex Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press ( B DNA binding hormone domain binding domain n Moo = cotA A gag I [ HI .s l 2.00 .
+... ..l/\ v-erbA ( -- - m -- mmm = geocetA € '' °°°____ gag/v-/c-erbA Agag/erbA neo , , |-Sp SA A gag/neo c-erbA , , am SD SA erbA TATA -_ SBB ___ ___ A B 672 -655 BA +1B A -- -300bp Figure 1 .
+Schematic representation of the erbA proteins , the erbA-neo retroviral vectors , and of the CAI promoter .
+( A ) The structure of c-erbA , v-erbA , gag/c-erbA , and the chimeric gag/ v-/c-erbA is shown .
+The virus-derived gag sequences ( Agag ) , DNA-binding , and hormone-binding domains , the v-erbA-specific point mutations ( @ ) , and the carboxy-terminal deletion present in v-erbA ( Agag ) are indicated .
+( B ) Schematic representation of recombinant retroviral vectors containing Agag/erbA or c-erbA , together with the neomycin-resistance gene ( neo and Agag/neo , respectively ) .
+( C ) The CAI promoter is depicted from position -940 to +430 .
+The nucleotide position of the mRNA start site +1 is indicated .
+The position of the -660 erbA-binding site { erbA ; positions -672 to -655 ) , the TATA sequence , and the cleavage sites for the restriction endonucleases Avall { ( A ) and BssHII ( B ) are shown .
+The CAI upstream sequence is listed as accession number X15807 in the EMBL data library .
+pected , untreated clones or clones transfected with a neo vector lacking erbA { Fig .
+2 ; v-erbA ) did not respond .
+The same picture emerged if these clones were analyzed for morphological changes in response to T3 .
+As shown in Figure 3A erythroblast clones coexpressing v-erbA and c-erbA ( either as gag/c-erbA or as bona fide c-erbA ) behaved very similarly to erythroblast clones expressing c-erbA only ( Zenke et al .
+1990 ) .
+They formed large colonies of essentially immature cells in the absence of T3 and small reddish colonies consisting of partially mature cells in the presence of T3 which , however , disintegrated with prolonged T3 treatment ( Fig .
+3A ; data not shown ) .
+In these assays the c-erbA and gag/c-erbA T3 receptors were consistently more efficient in inducing differentiation than the chimeric gag/v-/c-erbA receptor containing the v-erbA-specific DNA-binding domain .
+However , one v-erbA overexpression extinguishes c-erbA function T3-responsive erythroblast clone coexpressing v-erbA and gag/v-/c-erbA { clone 16 , Fig .
+2 ) could be isolated that showed a partial arrest of differentiation in the absence of hormone , whereas normal differentiation into mature erythrocytes was observed in the presence of T3 ( Fig .
+3B ) .
+As expected , T3 had no effect on erythroblasts expressing only v-erbA { Fig .
+3B ) .
+Taken together , these results demonstrate that the normal c-erbA protein and variants thereof can overcome the v-erbA-mediated block of differentiation and cause a T3-dependent modulation of the differentiated phenotype if coexpressed in v-erbA-containing cells .
+To determine the relative amounts of the c-erbA and v-erbA proteins coexpressed in such cells , the same erythroblast clones as tested above ( see Fig .
+3 ) were labeled with [ °*°SJmethionine and subjected to immunoprecipitation analysis by using anti-erbA-specific antisera ( Beug and Hayman 1984 ; Glineur et al .
+1990 ) .
+Quan-tification of the c-erbA- and v-erbA-specific bands in the autoradiograph shown in Figure 4A ( and data not shown ) revealed that the transduced c-erbA was expressed at equimolar to threefold lower levels than the v-erbA oncoprotein .
+Because the gag/c-erbA and gag/v-/c-erbA proteins could not be distinguished in size from v-erbA , only a rough estimate of their amounts could be made from the 1.7- to 2.1-fold increase in intensity of the superimposed gag/c-erbA- ( or gag/v-/c-erbA- ) and v-erbA-specific bands as compared to the intensity of the v-erbA-specific bands in several control clones ( Fig .
+4A and data not shown ) .
+Finally , we investigated whether coexpression of c-erbA in v-erbA erythroblasts would allow T3-dependent activation of , for example , CAII , a gene whose transcriptional activity is efficiently suppressed by v-erbA ( Zenke et al .
+1990 ) .
+Figure 4B shows that in cells expressing similar levels of c- and v-erbA proteins , c-erbA clearly dominated v-erbA activity and induced CAI transcription in response to T3 .
+Band3 and ALA-S , whose transcription is also repressed by v-erbA ( Zenke et al .
+1988 ) , were also induced by T3 in such cells [ Fig .
+4B and data not shown ) .
+CAIl transcription is directly regulated by hormone-responsive etbA proteins The results described above led to the unexpected conclusion that c-erbA and variants thereof were able to overcome the v-erbA-mediated arrest of erythroid differentiation and erythrocyte gene transcription .
+To answer the question whether or not this effect was the result of a direct competition of the erbA proteins for similar regulatory sequences in the promoters of the affected genes , efforts have been made to investigate whether any of these genes might be directly regulated by v-erbA or c-erbA .
+To test whether or not CAI , band3 , or ALA-S would qualify as potential direct targets for erbA action , two assays were performed .
+First , we checked whether in cells stably expressing hormone-responsive erbA proteins transcription of any of these genes would be rapidly induced by T3 within a few hours .
+Second , we tested GENES & DEVELOPMENT 2035 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Disela et al .
+v-erbA+c-erbA v-erbA+gag/c-erbA v-erbA+gag/v-/c-erbA v-erbA 15 15 , 15 15 P g s s k= C 5 5 E € 2 2 £ 10 £5 10 € , . ``
+2 . ''
+*s * § £5 79 `` _ 5 `` _s o € % 0 0 te & * $ 8 3 58 38 8 8 g 8 a 9 o 8 s B6 s BS s 52 5 3 S £ £ A- E E & ‘ E = o 5 € € o cd kel g - t- he 2 i ° i ° 10 150 % 10 50 10 § 10 50 40 150 2 280 300 350 400 450 50 10 50 10 15 20 10 5 Clone number Clone number Clone number Clone number Figure 2 .
+- Analysis of erythroblast clones coexpressing v-erbA together with c-erbA , gag/c-erbA , or gag/v-/c-erbA for their differentiation response to T3 .
+The extent of growth inhibition [ °H|thymidine incorporation in the presence of T3 divided by the respective value measured in the absence of T3 ( Zenke et al .
+1990 ) ] in response to T3 treatment is shown for individual HD3 erythroblast clones coexpressing v-erbA and c-erbA , gag/c-erbA , or gag/v-/c-erbA as indicated .
+HD3 clones transfected with the neo-retroviral vector alone and thus expressing v-erbA only were used as a control { v-erbAl ) .
+whether the T3-induced up-regulation of these genes would also be observed in the presence of the protein biosynthesis inhibitor cycloheximide , because direct transcriptional activation by erbA should occur in the absence of protein synthesis .
+As shown in Figure 5A , CAI mRNA was rapidly induced , reaching maximal levels after 2-5 hr of T3 treatment , irrespective of the presence or absence of an active tserbB oncogene ( 37°C and 42°C , respectively ; data not shown ) .
+T3 induction of band3 mRNA followed somewhat slower kinetics , achieving maximal levels after 5-10 hr .
+No such T3-dependent increase of -globin mRNA was observed , whereas c-myb mRNA levels decreased ( probably as a result of the induction of differentiation in these cells ) .
+@ v-erbA+gag/c-erbA colonies hemoglobin v-erbA +c-erbA In addition , no T3-dependent activation of CAI and band3 transcription was observed in v-erbA-containing cells where , as expected , CAI and band3 mRNA levels were efficiently suppressed ( Fig .
+5A ) .
+Using run-on anal-ysis , we have demonstrated previously that the modulation of CAI and band3 mRNA levels by erbA proteins is the result of an efficient regulation of CAI and band3 gene transcription ( Zenke et al .
+1988 , 1990 ) .
+Furthermore , the induction of CAII transcription by T3 followed the same pattern irrespective of whether bona fide c-erbA , gag/c-erbA , or the chimeric gag/v-/c-erbA T3 receptor had been used ( data not shown ) , suggesting that neither the gag sequences fused 5 ' to the erbA proteins nor the v-erbA-specific point mutations contained in the v-erbA +gag/v-/c-erbA v-erbA Figure 3 .
+- T3-dependent induction of differentiation of erythroblast clones coexpressing v-erbA and c-erbA , gag/c-erbA , or gag/v-/c-erbA .
+( A ) The erythroblast clone coexpressing v-erbA and gag/c-erbA ( clone 24 in Fig .
+2 ) was seeded into semisolid methocel medium in both the absence and presence of T3 ( - T3 and +T3 , respectively ; see Materials and methods } .
+Photographs of typical colonies obtained after 3-4 days at 42°C are shown [ colonies ) .
+In parallel , mass cultures of the same clone were incubated at 42°C for 3 days in the absence and presence of T3 .
+Cytospin preparations of these cells stained with neutral benzidin and histological dyes ( Zenke et al .
+1990 ] and photographed under blue light to specially reveal the hemoglobin content are shown ( hemoglobin } .
+{ B } Erythroblast clones coexpressing v-erbA and c-erbA or gag/v-/c-erbA ( clones 12 and 16 , respectively ; see Fig .
+2 ) were induced to differentiate by T3 in liquid culture as described in A .
+An HD3 clone expressing v-erbA only was used as a control ( v-erbA ) .
+Cytospin preparations of these cells as described in A are shown .
+2036 GENES & DEVELOPMENT Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press p7sgag/c—erbA w-gtbA mn gim -e- p75 5v-erbA p46cverbA > i ’ 1 20 3 40 5 6 7 1 2 3 4 5 6 v-erbA overexpression extinguishes c-erbA function iG Figure 4 .
+Immunoprecipitation analysis of KBJ erbA proteins and T3-dependent regulation of CAI and band3 transcription in cells coex- ( 0 ?
+gov cal pressing v-erbA and c-erbA .
+( A ) Erythroblast « U,6 { Q } clones coexpressing v-erbA and c-erbA 2 T ; < +- £ - + '' { clones 7 and 12 in Fig .
+2 ; lanes 1 and 2 , respectively ) , or gag/c-erbA ( clones 2 and 24 in b w » - CAI Fig .
+2 ; lanes 3 and 4 , respectively ) or express ing v-erbA only { clones 6 , 12 , and 15 in Fig .
+2 ; lanes 5 , 6 and 7 , respectively ] were labeled with [ °°S ) methionine and subjected to immunoprecipitation analysis as described in Materials and methods .
+The positions of 28S rRNA p46c » esz ' p75v -- erbA and p75gag/c-esz are indicated .
+( B ) Erythroblast clones ( see A ) expressing v-erbA and c-erbA [ lanes 1-4 ) or v-erbA band 3 only ( lanes 5,6 ) were treated with T3 for 16 hr or left untreated as indicated .
+Total RNA prepared from these cells was analyzed by Northern blot hybridization for CAII- and band3-specific transcripts .
+The 288 rRNA was stained with methylene blue ( Khandjian 1986 ) to show equal RNA loading in all lanes .
+DNA-binding domain of the chimeric gag/v-/c-erbA receptor grossly affect the ability of these proteins to induce CAIl transcription .
+To investigate whether the activation of CAI and band3 transcription would also occur in the absence of protein biosynthesis , the same cells as described above were treated with T3 in both the absence and presence of cycloheximide .
+As shown in Figure 5B CAI mRNA levels were elevated rapidly by T3 , irrespective of the absence or presence of cycloheximide , indicating that de novo protein synthesis is not required for the T3-specific induction of CAI mRNA in these cells [ similar results were obtained by Pain et al .
+( 1990 ) when this manuscript was in preparation ] .
+In contrast , following addition of T3 , band3-specific transcripts accumulated less rapidly in the presence than in the absence of cycloheximide , suggesting that a cycloheximide-sensitive step is involved in the T3-dependent transcription of this gene .
+As expected , B-globin mRNA levels were only marginally af- ( a ) __ gag/v-/c-erbA v-erbA 5 5 20g § a 20g § a = § 9 E 3 § 9 E O a co 0 O A co- 6 5 ws - < _ ' ao mee 10 £ wie 5 is .
+| woes 20 .
+aii s _ > came fected by T3 .
+Essentially the same result was obtained when the experiment was performed at 42°C when the second retroviral oncogene ( tserbB ) contained in these cells was inactivated by temperature shift ( data not shown ) .
+In conclusion , both the rapid kinetics of CAIl mRNA induction by T3 and its insensitivity to cycloheximide treatment strongly suggest that the CAI gene might be subject to direct transcriptional control by hormone-ac-tivated erbA proteins .
+v-erbA and c-erbA bind to upstream sequences of the CAI gene To directly assess the ability of the erbA proteins to bind to specific sequences in the CAl gene , a combined DNA-binding/immunoprecipitation protocol was employed ( McKay 1981 ) .
+Therefore , v-erbA , c-erbA , and gag/v-/c-erbA were expressed in recombinant vaccinia CAll band3 B-globin 0 4 8 0 4 8 0 4 8 |CX Ts -- m -| + ing + | + Figure 5 .
+The induction of CAI mRNA by T3 is rapid and insensitive to cycloheximide treatment .
+( A ) Kinetics of CAIl mRNA induction by T3 .
+Erythroblasts expressing gag/v-/c-erbA { vZ-erbA in Zenke et al .
+1990 } were shifted to 42°C for 18 hr { to inactivate tserbB ) and treated with 100 nm T3 for various periods of time as indicated .
+As a control , v-erbA-transformed erythroblasts ( Zenke et al .
+1988 ; 1990 ) were treated similarily .
+RNA was prepared and subjected to slot blot hybridization and analyzed for CAIl- , band3- , B-globin- , and c-myb-specific transcripts as described in Materials and methods .
+( B ) Effect of cycloheximide treatment ( CX ; 20 um/ml ) on the induction of CAI mRNA by T3 .
+The same gag/v-/c-erbA-expressing erythroblasts as used in A were treated for 4 and 8 hr with T3 , cycloheximide , or both or were left untreated .
+Cycloheximide was added 30 min prior to the addition of T3 .
+RNA was prepared and analyzed by slot blot hybridization with CAIl- , band3- , and B-globin-specific probes ( see Materials and methods ) .
+GENES & DEVELOPMENT 2037 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Disela et al .
+virus vectors in HeLa cells [ Stunnenberg et al .
+1988 ) , and extracts were prepared and incubated with a mixture of *P -labeled DNA fragments derived from an Avall digestion of the CAI gene ( Fig .
+1C ) .
+The DNA-erbA protein complexes formed in this assay were immunoprecipitated by an anti-erbA-specific antiserum .
+Preimmune serum was used as a control .
+The DNA fragments precipitated were then resolved by gel electrophoresis .
+Figure 6 shows that of the five fragments precipitated , two were specifically precipitated by the anti-erbA antibody only ( 0.56 and 0.8 kb ) .
+The three additional fragments were also precipitated by the control serum .
+In addition , c-erbA-containing extracts and extracts containing v-erbA or the chimeric gag/v-/c-erbA protein ( Fig .
+1A } yielded a very similar pattern of bands , although the 0.56-kb band was found to be slightly stronger when c-erbA-containing extracts were used .
+No specific precipitation was observed with cell extracts from wild-type vaccinia virus-infected HeLa cells .
+We also noted that nonspecific competitor DNA interfered more efficiently with erbA binding to the 0.56-kb than to the 0.8-kb band , suggesting stronger binding to the larger fragment [ data not shown ) .
+Finally , a synthetic oligonucleotide containing a T3RE ( see below ] competed efficiently for erbA-specific binding and immunoprecipitation of the 0.56-and 0.8-kb fragments , whereas an oligonucleotide containing an unrelated sequence did not compete ( data not shown ) .
+The DNA fragments specifically immunoprecipitated as DNA-erbA protein complexes in this assay map to the promoter region of the CAl gene ( position -939 to +426 ; Fig .
+1C ) , strongly suggesting a direct and specific interaction of the erbA proteins with CAI promoter sequences .
+Digestion of the CAl gene with another restriction endonuclease ( BssHII ; Fig .
+1C ) results in a different 1 2 3 4 5 6 7 8 0z s a ' a 0 o « b se < 0.8 kb ~ W wae wwe < 0.56 kb » ® so a a » « c-erbA v-erbA gag/v-/c-erbA - no erbA Figure 6 .
+Immunoprecipitation of DNA-erbA protein complexes with anti-erbA-specific antibodies ( McKay assay ; McKay 1981 ) .
+labeled Avall fragments spanning the CAI promoter { see Fig .
+1C ) were incubated with Hela cell extracts containing vaccinia virus-expressed c-erbA , v-erbA , and gag/v-/c-erbA proteins or with extracts from wild-type vaccinia virus-infected HeLa cells ( no erbA } .
+Following immunoptrecipi-tation with an anti-erbA-specific antibody ( lanes 1,3,5,7 ) fragments were resolved in 2 % agarose ( lanes 1-4 ) or 5 % polyacrylamide gels ( lanes 5-8 ) .
+Preimmune serum was used as a control ( lanes 2,4,6,8 ] .
+The two uppermost bands and a small 0.2-kb band represent plasmid-derived fragments .
+Protein binding and/ or immunoprecipitation of these fragments apparently is non-specific , as these bands are also precipitated , albeit less effi-ciently , by preimmune serum .
+2038 GENES & DEVELOPMENT pattern of fragments , yet if employed in the DNA binding/immunoprecipitation assay , yielded erbA-specific precipitation of two DNA fragments , which also span the CAI promoter region ( positions -682 to +206 ; data not shown ) .
+To delineate more precisely the erbA-binding site ( s ) within the CAI promoter , an in vitro DNase I protection assay was employed .
+Because v-erbA appeared to bind more strongly to the 0.8-kb Avall fragment ( Fig .
+6 ) , we focused ( in the following text ] ) on the analysis of this fragment ( position -938 to -133 , Fig .
+1C ) .
+Therefore , DNA fragments were terminally labeled with °°P and incubated with extracts containing vaccinia virus-expressed v-erbA and c-erbA proteins .
+Following DNase I digestion , fragments were resolved by gel electrophoresis as described { ( Wildeman et al .
+1986 ) .
+As shown in Figure 7 , A and B , both v-erbA and c-erbA effectively protected sequences between position -655 and -672 on either strand ( lanes d and c ; referred to as the - 660 erbA-binding site in the following text ; see also Fig .
+10A , below ) .
+No protection was seen without extract or when extracts from wild-type vaccinia virus-infected HeLa cells were used ( Fig .
+7A , B , lanes a , b ) .
+In addition , we observed that extracts prepared from v-erbA-expressing chicken erythroblasts generate a footprint at an identical position , whereas no such protection was observed with extracts from no erbA-expressing erythroblasts { data not shown } .
+As depicted in Figure 10 and discussed below , the protected sequences contain a cluster of nucleotides ( position -655 to -665 ) that exhibit dyad symmetry and a striking homology to thyroid hormone-responsive elements occurring in other genes .
+Additional protected sequences have been observed both farther upstream and proximal to the mRNA initiation site , the nature of which is currently under investigation .
+To demonstrate unambiguously that the observed protection of the -660 erbA-binding site was the result of specific binding of erbA proteins to these sequences , an oligonucleotide competition experiment was performed .
+Figure 7C shows that an oligonucleotide comprising a palindromic T3 receptor consensus-binding site [ T3RE , , , AGGTCATGACCT ; Glass et al .
+1988 ; see also Figure 10B , below ) efficiently competed for erbA-specific binding and lifted off the footprint ( lane c ) as did an oligonucleotide containing the homologous CAIl-specific sequence ( lane f } .
+Oligonucleotides containing unrelated sequences or a glucocorticoid regulatory element [ GRE ) -like sequence did not compete { lanes d and e , respectively } .
+Specific binding of the v-erbA and c-erbA proteins to the -660 erbA-binding site was also demonstrated by electrophoretic mobility-shift assay .
+However , the poly [ d { L-C ) ] titration experiment shown in Figure 8 demonstrates that v-erbA binds to this site only at low poly [ d ( I-C ) ] concentrations and therefore less efficiently than c-erbA .
+A similar observation was made by Sap et al .
+( 1989 ) , who investigated v- and c-erbA-specific binding to a T3RE present in the MoMLV LTR .
+To determine whether this low-affinity binding was the result of the gag sequences present in v-erbA , a mutant v-erbA devoid of gag was used as a control .
+As shown in Figure 8 ( lanes Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press ~a nononor » > » ronr-o-1-100 > r0-40 > 0o-4-40 r a b c d antisense v-erbA overexpression extinguishes c-erbA function Figure 7 .
+Sequence-specific binding of v-erbA and c-erbA proteins to the CAI promoter .
+( A , B ) DNase I protection analysis of a CAI promoter region with vaccinia virus-expressed v-erbA and c-erbA proteins .
+*P-Terminally labeled DNA fragments were incubated with extracts containing vaccinia virus-expressed c- and v-erbA proteins ( 3 pl extract , lanes c and d , respectively } , with 3 pl extract prepared from wild-type vaccinia virus-infected HeLa cells ( lane b ) or without extract ( lane a } .
+Following DNase I digestion , fragments were subjected to polyacrylamide gel electrophoresis { see Materials and methods ) and exposed to film for 24-36 hr .
+The analysis for the sense ( A ) and anti-sense strand ( B ; radiolabeled at position -583 and -755 , respectively ) is shown .
+( C ) Specific oligonucleotides compete for erbA-specific binding .
+DNase I protection analysis was performed as described in A for c-erbA in the absence of competitor oligonucleotides ( lane b ) or in the presence of 100 fmoles of specific or nonspecific oligonu- [ + ] extract JTgRE* ollgo + + cleotides [ T3RE and T3RE* , respectively ) as indicated ( lanes c-f } .
+As a specific oligonucleotide a synthetic palindromic T3RE [ lane c ; 5 ! -GGATCTCAGGTCATGACCTGA-3 ' ( Glass et al .
+1988 } ] and an oligonucleotide comprising the CAIl-specific sequences that correspond to the protected region ( lane f ; 5-GATCTAAGGTGAGTGAACGA-3 ' ; position -667 to - 654 ) were used .
+As nonspecific oligonucleotides , a permutated version of the CAlIl-specific oligonucleotide used in lane f was employed ( lane d ; 5-GATCTCAGAA-CAGTGTTCTGA-3 ' ) and a GRE-like oligonucleotide { lane e ; 5-GATCTGTGGTGATTCAACTA-3 ' } .
+11,12 ) , this v-erbA mutant binds more efficiently to the -660 erbA-binding site than bona fide v-erbA .
+These results contrast our in vivo data on c-erbA , which show that the bona fide c-erbA/T3 receptor and gag-fused c-erbA did not exhibit any significant difference in biological activity ( Fig .
+3 ; Zenke et al .
+1990 } .
+To demonstrate the specificity of erbA binding , oligonucleotide competition experiments were performed .
+As expected , an oligonucleotide containing the palindromic T3 receptor consensus-binding site T3RE , . , , competed efficiently both for v- and c-erbA-specific binding to the ~660 erbA-binding site , whereas an oligonucleotide containing a GRE did not compete .
+Band-shift experiments in which v-erbA and c-erbA simultaneously compete for binding to a limiting amount of oligonucleotide ( to specifically reveal their different affinities to the -~660 erbA-binding site , see below ) have so far not been successful probably due their low affinity to this site ( data not shown ) .
+The -660 etbA-binding site functions as a T3RE We next investigated whether the -660 erbA-binding site identified in the CAI promoter was biologically active and would operate in vivo as a T3RE .
+Therefore , synthetic oligonucleotides comprising this CAI erbA-binding site as a monomer or trimer were inserted upstream of a minimal thymidine kinase promoter in luciferase-encoding reporter plasmids ( pTL15 and pTL29 , respectively ; Fig .
+IA ) .
+The ability of these erbA-binding sites to stimulate transcription in response to T3 in transient trans-activation experiments was analyzed by transfection of such reporter plasmids into the c-erbA-expressing erythroblast clones described above , hence , in the cell type where the endogenous CAI gene is normally active and induced by T3 .
+In all experiments a constant amount of pRSV-B-gal ( Gorman et al .
+1982 ) was cotransfected to correct for variations in the transfection efficiency .
+Following transfection , cells were incubated for 24 hr , treated with T3 for an additional 24 hr , or left untreated and assayed for luciferase and B-galactosidase activity .
+Figure 9A shows that the -660 CAl erbA-binding site does indeed function as a T3RE in transient transfection experiments stimulating luciferase activity by a factor of 3.4 after addition of T3 { [ pTL15 ) and , therefore , to a similar extent as the TRE present in the rat growth hormone promoter ( Glass et al .
+1988 ; Brent et al .
+1989 and references therein ) .
+Trimer-ization of this element further increased the T3-dependent induction of luciferase reporter activity ( sixfold , pTL29 ) .
+However , this might be due largely to a hor-mone-dependent relief of repression rather than a true stimulation of transcription because the luciferase activity achieved in the presence of T3 is similar to that observed for pT109 luc and pTL19 containing no or a mutant T3RE , respectively .
+The specificity of c-erbA for the CAI T3RE in T3-dependent trans-activation is shown by the fact that a reporter gene containing the retinoic acid response element ( RARE ) of the B-retinoic acid receptor promoter ( pTL19 ) was not subject to T3-depen- GENES & DEVELOPMENT 2039 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Disela et al .
+-| v [ - [ v - [ v kcccvv V* erbA 0.13|0.07|0.03 0.13 poly [ d ] ( mg/m ! )
+¥ 4 tnd bus - oligo 7 8 9 10 11 12 13 1 2 3 4 5° 6 Figure 8 .
+Electrophoretic mobility-shift assay demonstrates binding of v-erbA and c-erbA to the =660 erbA-binding site .
+*°P-terminally labeled double-stranded oligonucleotides comprising the -660 erbA-binding site ( positions -677 to -645 ; Fig .
+10 ) were incubated with extracts containing vaccinia virus-expressed c- and v-erbA proteins ( lanes 2,4,6,8-13 ) or with an extract prepared from wild-type vaccinia virus-infected Hela cells ( lanes 1,3,5,7 ) as indicated , and subjected to 6 % native polyacrylamide gels [ electrophoresis time ( lanes 1-6,7-13 } , 3 and 2 hr , respectively ] .
+The v-erbA mutant used in lanes 11-13 has the virus-derived gag sequences up to the gag-specific Xhol site deleted [ T. Bugge and H. Stunnenberg , unpubl . ) .
+The poly [ d { I-C ) ] concentrations used in the experiment are indicated .
+In the competition assay a 50-fold molar excess of unlabeled T3RE , , , { see above , lanes 10,13 ] or GRE , ; ( 5-GATC-CATCGTAGCTAGAACAGACTGTTCTCGA-3 ' ; lanes 9,12 } oligonucleotides were used .
+dent trans-activation by erbA ( Fig .
+9A ) , although the same element readily functioned in retinoic acid recep-tor-driven trans-activation ( data not shown ) .
+Similar results have been obtained by cotransfection of the pTL15 or pTL29 reporter plasmids with a c-erbA-encoding expression vector into chicken embryo fibroblasts or HD3 cells ( data not shown ) .
+However , in all experiments the T3-dependent trans-activation of the - 660 CAII T3RE was not as strong as the one achieved with the trimerized palindromic T3RE consensus sequence used as a positive control { T3RE , , , in recombinant pTL13 ; Fig .
+9A ) .
+Trans-activation of the CAII TERE by c-erbA and gag/v-/c-etbA is differentially suppressed by v-erbA We then investigated whether the v-erbA oncoprotein could be expressed at levels high enough to compete efficiently with c-erbA for binding to the -660 CAl erbA-binding site in the luciferase-encoding reporter plasmids and thus affect the T3-dependent trans-activation measured for these constructs in transient expression exper- 2040 GENES & DEVELOPMENT iments .
+Therefore , stably transformed erythroblasts expressing a constant amount of c-erbA/T3 receptor protein { expressed either as a gag/c-erbA fusion protein or as bona fide c-erbA ; see above ) were transfected with an increasing amount of v-erbA-encoding expression plas-mid , along with the pTL29 reporter recombinant containing the - 660 erbA-binding site of the CAl gene .
+To test whether the v-erbA-specific point mutations in the DNA-binding domain would alter the binding characteristics of erbA to the CAIl T3RE , the T3-responsive erythroblast clone 16 expressing the chimeric gag/v-/c-erbA T3 receptor was treated similarily .
+Figure 9B shows that in cells expressing the chimeric gag/v-/c-erbA receptor increasing amounts of cotransfected v-erbA expression plasmid efficiently suppressed the T3-dependent trans-activation of the reporter plasmid containing the CAI T3RE .
+This efficient suppression was not the result of nonspecific `` squelching '' of ubiquitous transcription factors , because expression of the pRSV-B-gal internal control plasmid remained virtually unaffected ( data not shown ) .
+Thus , v-erbA can compete efficiently with a T3-responsive erbA protein containing the v-erbA-specific DNA-binding domain ( [ gag/v-/c-erbA ) .
+In contrast , cells expressing c-erbA had to be transfected with a 10-fold higher amount of v-erbA expression plasmid to blunt the T3 response of the CAI reporter [ Fig .
+9B ) .
+This demonstrates that a larger excess of v-erbA is required to extinguish the T3-dependent trans-activation of the CAIl T3RE by erbA proteins that contain the DNA-binding domain of the wild-type T3 receptor .
+In a similar type of competition experiment the synthetic response element T3RE , , , ( Glass et al .
+1988 ) was used instead of the naturally occurring CAI T3RE .
+In this instance , the same high amount of v-erbA expression was required for efficient competition of both c-erbA and the chimeric gag/v-/c-erbA containing the normal and mutated T3 receptor DNA-binding domain , respectively ( Fig .
+9C ) .
+Therefore , it appears that the different affinity of v-erbA and c-erbA for specific DNA sequences ( see Discussion ) is only revealed when the naturally occurring -660 erbA-binding site has been used , underscoring the importance of using erbA target sequences as they occur in nature instead of artificial consensus sequences for such studies .
+In conclusion , our data strongly suggest that overexpression of the v-erbA oncoprotein is essential both for its ability to repress differentiation and erythrocyte-specific gene expression and for its ability to suppress c-erbA function at a naturally occurring erbA-binding element , the T3RE of the CAI gene .
+Discussion The CAII gene is a direct target for transcriptional regulation by erbA Previous studies have led to the proposal that v-erbA acts as a transcriptional repressor of erythrocyte-specific genes involved in erythroid differentiation and thus con Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press v-erbA overexpression extinguishes c-erbA function Figure 9 .
+The -660 erbA-binding site functions as a T3RE .
+( A ) T3-dependent expression of transiently transfected reporter « 700 -e50 tata ( 3 Normalized luciferase activity folg _ Plasmids containing the CAH erbA-bind- 6 _ 800 _ 1600 | 2400 | 3200 / 4000 immguction ing site .
+Luciferase-encoding reporter plas- Ts mids ( Tkluc ) containing the CAl erbA pTL15 l 3.4 _ binding site in front of a minimal TK pro- ( T RE ) i i _ moter either as a monomer or trimer 3 '' Cam gy pTL29 _ | 6-0 _ ( pTL15 and pTL29 , respectively ) were an i ~ 1.2 alyzed for Fheir T3 response in transient 1 t + cotransfection experiments in c-erbA-ex- ( TaREpal ) 3 pTiis _ 7 42.0 _ pressing HD3 erythroblasts ( clone 12 ; Figs .
+X _ i _ 2 and 3 ) as described in Materials and RARE sags pTL1Q | 1.3 _ methods .
+As controls , the reporter plasmid containing the TK promoter only and pTL13 containing a trimetized palindromic T3RE ( Glass et al .
+1988 ) were used .
+pTL19 contains the RARE of the ret- © inoic acid receptor ( type B ) promoter re-TRE TRE placing the erbA-binding site in pTL15 .
+6 , ( 3 CA '' ) 3X ( 3 pa| ) 3x The luciferase activity measured in re-181 sponse to T3 treatment was normalized 5 5 according to the B-galactosidase activity of i ; 4 542 the cotransfected pRSV-B-gal recombi-s € nant ( Gorman et al .
+1982 ] to correct for o t variations in transfection efficiencies .
+€ , C Mean values plus standard deviations from three to seven independent transfec- 0 os 150 s gs ~I os is ; f tion experiments are shown .
+( B , C ) v-erbA ug v-erbA expression plasmid ug v-erbA expression plasmid competes for Ta-dependent expression of transiently transfected reporter plasmids containing the CAI T3RE .
+T3-responsive reporter plasmids ( Zug ) containing either the trimerized CAI T3RE ( pTL29 ; B ) or a trimerized palindromic T3RE ( pTL13 ; C ) were cotransfected with increasing amounts of v-erbA-encoding expression plasmids into erythroblasts coexpressing v-erbA and gag/c-erbA or gag/v-/c-erbA ( @ and MK , clones 24 and 16 , respectively ; see Fig .
+2 ) .
+Following T3 treatment as described in Materials and methods the induction of luciferase activity in response to T3 is shown after correcting for variations in the transfection efficiencies according to the B-galactosidase activity as described in A .
+The amounts of v-erbA expression plasmids did not grossly affect the expression of the reporter gene by unspecific squelching , as the B-galactosidase activity measured remained virtually unaffected .
+For 15 g of v-erbA expression plasmid transfected , a marginal effect on B-galactosidase internal control activity was observed , however , it was the same in both the presence and absence of T3 .
+tributes to leukemogenesis by efficiently arresting terminal differentiation of erythroid precursor cells ( Zenke et al .
+1988 , 1990 ; Damm et al .
+1989 ; Sap et al .
+1989 ; Gandrillon et al .
+1989 ) .
+Here , we provide the first direct evidence in favor of this hypothesis .
+We demonstrate that the v-erbA oncoprotein , as well as the normal thyroid hormone receptor c-erbA , binds directly to a sequence element within the promoter of the erythrocyte-specific CAI gene .
+This element displays high homology to known T3REs ( Glass et al .
+1988 ; Baniahmad et al .
+1990 ; Glass and Holloway 1990 ; see also Fig .
+10B } , confers T3-dependent transcriptional regulation to an unrelated promoter in transient expression assays , and is a target sequence for efficient down-regulation of CAI transcription by the v-erbA oncoprotein .
+It also exhibits some limited homology to RARE and the vitamin D3-responsive element ( VDRE ) of the human osteocalcin gene promoter ( Schiile et al .
+1990 ; data not shown ) .
+Preliminary evidence indeed suggests that the CAI gene is regulated by retinoic acid in normal bone marrow progenitors ( C. Schroder and H. Beug , unpubl . ) .
+Other studies have demonstrated that CAI is also regulated by T3 , vitamin D3 , and androgen ( Harkonen and Vi @ inanen 1988 ; Hillstrom-Shapiro et al .
+1989 ; Billecocq et al .
+1990 ; Pain et al .
+1990 ) .
+However , no cis-acting hormone-response element has been identified thus far in the regulatory region of the CAI gene .
+Given the high degree of homology between the T3 , retinoic acid , and vitamin D3 receptors and their respective response elements , it will be very important to determine whether regulation of CAI transcription by hormones other than T3 occurs through the very same DNA element ( i.e. , the =-660 erbA-binding site ) , implying that its regulation by retinoic acid and vitamin D3 would also be affected by v-erbA .
+However , at present , we can not exclude the possibility that sequences other than the -660 erbA-binding site contribute to CAI regulation by erbA , although sequence elements homologous to the - 660 erbA-binding site have not been detected thus far in the CAI promoter sequence available .
+Further inspection of the -660 erbA-binding site and its surrounding sequences reveals a potential AP-1-binding site overlapping with the T3RE ( Fig .
+10B ; position -657 , TeACTCA , read from the opposite strand ) , a situation very reminiscent of a common response element of the fos/jun/AP-1 complex and the retinoic acid and GENES & DEVELOPMENT 2041 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Disela et al .
+A 680 sco AAGCGCGCGTTT CCTACAAGGTGAGTGAACGTGAGCACC T TCGCGCGCAAAGGATGTTCCACTCACT TGCACT Cat GG A B cz i » -- » < - T & REcan caacdteactaaacdraaacace T3REpq caGGTcA.TGAcC tg NF-E2 - caAgadTGaGTeA|tgqTGaAGcAitg Figure 10 .
+Anatomy of the - 660 erbA-binding site in the CAl upstream sequence .
+( A ) Sequences protected by the v-erbA and c-erbA proteins in the DNase I protection assay .
+The solid bars show the region of protection on the sense ( tpper ) and antisense ( lower ) strands .
+The open boxes indicate the distance between the last protected cleavage site and the first unprotected cleavage site .
+The solid triangle indicates the position of a weak hypersensitive site seen on the antisense strand ( see Fig .
+7B ) .
+[ B ) Sequence alignment of the - 660 erbA-binding site { T ; REcap ! )
+with the T3RE consensus sequence [ T ; REp , ; Glass et al .
+1988 ) and the NF-E2-binding sites of the human -globin gene ( Ney et al .
+1990 ; Talbot and Grosfeld 1991 ) .
+Direct and indirect repeats are indicated .
+Potential AP-1-binding sites are boxed .
+Sequence divergence from the -660 erbA-binding site ( T ; REcap ) is indicated by lowercase letters .
+vitamin D3 receptors found in the osteocalcin gene ( Schule et al .
+1990 and references therein ] .
+We also noticed a second , less conserved potential AP-1 site ( position -648 , TG.CTCA , read from the opposite strand ) .
+Both putative AP-1-binding sites could possibly cooperate with each other because they are spaced by one helical turn ( 11 nucleotides ) , thereby allowing the fos/jun/ AP-1 complex to bind to both sites on the same face of the DNA helix .
+That these AP-1 sites might be functional is suggested by our observation that in transient transfection assays the activity of reporter plasmids containing the CAI T3RE plus flanking sequences ( which include both potential AP-1 sites ) is severely impaired { data not shown ) , indicating a possible interference of the fos/jun/AP-1 complex with the activity of the c-erbA/T3 receptor .
+Finally , the - 660 erbA-binding site exhibits a distinct sequence homology to the binding site of the erythroid-specific transcription factor NF-E2 identified in the human B-globin locus ( Ney et al .
+1990 ; Talbot and Grosfeld 1991 and references therein ) .
+Despite the large evolutionary distance ( chicken vs. human ) this homology extends > 23 nucleotides , being most pronounced at the presumptive contact sites of the NF-E2 protein ( Fig .
+10B ) .
+Whether this element is functionally important for CAI promoter activity is not known at present .
+It appears conceivable , however , that v-erbA binding to the - 660 erbA-binding site precludes NF-E2 from acting at this site and thereby suppresses CAI gene activity in leukemic cells .
+In addition , the potential AP-1 and NF-E2 sites overlapping the -660 erbA-binding site may well explain our present difficulties in demonstrating a strong T3-dependent regulation in transient expression assays 2042 GENES & DEVELOPMENT of the entire CAI promoter region , comprising up to 1.2 kb of upstream sequence .
+Even when tested together with the B-globin enhancer fused to the 3 ' end of the luciferase reporter gene , only a weak trans-activation by T3 ( 2.5-fold ) is seen ( data not shown ) .
+We have observed previously that in erythroblasts containing retrovirus-transduced c-erbA , transcription of the endogenous CAlII gene is suppressed in the absence of T3 and is activated , in the presence of T3 , to levels found in erythroblasts lacking exogenous erbA proteins , suggesting that in these cells c-erbA shows a T3-dependent relief of repression rather than a true stimulation of CAI transcription ( Zenke et al .
+1990 ] .
+This situation is largely reproduced in transient expression experiments by the CAI T3RE present in the reporter plasmid pTL29 .
+It is therefore tempting to speculate that in c-erbA erythroblasts activation of the receptor by T3 relieves the transcriptional arrest seen in the absence of T3 , thereby allowing NF-E2 , for example ( see above ) , to activate the promoter .
+Further experiments are clearly required to substantiate such a model .
+Does v-erbA act as a dominant repressor of erythrocyte genes !
+The identification of CAl as a direct target of erbA action and of a cis-acting DNA element through which the erbA proteins affect CAI promoter activity has allowed us to investigate for the first time how v-erbA might interact with the normal T3 receptor c-erbA in a cell type where the v-erbA oncoprotein shows its pathologic effects .
+We show that c-erbA dominates v-erbA activity , mediating T3-dependent differentiation and erythrocyte-specific gene transcription when expressed simultaneously with v-erbA in erythroid cells at approximately equimolar levels .
+Likewise , in such cells c-erbA can modulate the activity of transiently expressed reporter plasmids containing the -660 erbA-binding site of the CAl gene .
+However , a large excess of v-erbA was able to extinguish the c-erbA-dependent activation of the CAI reporter gene .
+From these data we conclude that v-erbA does not act as a dominant repressor of transcription on naturally occurring erythrocyte genes at an equimolar ratio but that overexpression of v-erbA is required for its repressor function and thus for its function as an oncoprotein .
+These results are in contrast with the observations of Damm et al .
+( 1989 ) , where v-erbA was found to efficiently suppress c-erbA function in cotransfection experiments by using a synthetic TRE .
+However , because the rat T3 receptor ( type a ) was combined with avian v-erbA in these studies , the use of a synthetic T3RE , as well as the species difference , might well explain this divergence of results .
+This idea is strenghtened by the fact that our results are in line with those of Sap et al .
+[ 1989 ] , who showed that v-erbA is only a weak competitor of c-erbA for interaction with a T3RE present in the MoMLV LTR .
+In addition , our findings strongly underscore the necessity of using naturally occurring erbA target sequences in such studies .
+Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press We also demonstrate that the chimeric gag/v-/c-erbA T3 receptor ( containing the v-erbA-specific DNA-binding domain } was less efficient than c-erbA in overriding v-erbA function .
+Thus , only a minority of clones coexpressing gag/v-/c-erbA with v-erbA were distinctly T3 responsive for differentiation induction ( Fig .
+2 ) .
+However , because the exact relative amounts of the erbA proteins expressed in these cells could not be determined { see Results ) it is not kown whether the reduced biological activity of gag/v-/c-erbA in some of the clones correlates with its lower expression .
+Furthermore , ~10-fold less v-erbA expression was required to blunt the T3-dependent regulation of a CAI T3RE reporter construct by gag/v-/c-erbA as compared to c-erbA or gag/c-erbA .
+These results are consistent with the observation that the v-erbA oncoprotein and the chimeric T3 receptors containing the v-erbA-specific DNA-binding domain exhibit a reduced affinity for sequence-specific DNA binding in vitro { Sap et al .
+1989 ) .
+Recently , further studies have shown that a specific point mutation present in the v-erbA DNA-binding domain ( Gly - Ser at amino acid position 61 ) affects both sequence-specific DNA binding and its activity in erythroid cell transformation ( Bonde et al .
+1991 ) .
+In addition , the very same point mutation reduced the transcriptional efficiency of erbA-estrogen receptor chimeras in transient trans-activation studies ( de-Verneuil and Metzger 1990 ) .
+This point mutation corresponds to the position of one of the discriminating amino acids that are thought to interact with a specific base of the responsive element ( Mader et al .
+1989 ; Umesono and Evans 1989 ; Forman and Samuels 1990 ) .
+These findings suggest that the specific point muta-tion ( s ) present in the DNA-binding domain of v-erbA impair its ability to act as a dominant repressor of c-erbA , perhaps through its altered binding affinity to specific target sequences .
+However , this might not be true for other genes regulated by v-erbA .
+It is even conceivable that v-erbA may interact more efficiently with control elements of related receptors and/or other transcription factors , thus enabling it to act on genes that are normally not subject to regulation by thyroid hormone .
+Our observation that gag/c-erbA and gag/v-/c-erbA have the same effect on CAI transcription but slightly different effects on erythroid cell differentiation might point to such genes whose expression is differentially affected by these erbA proteins as a result of the differences in their DNA-binding domain .
+In line with this we also note that erythroblasts expressing the chimeric gag/v-/ c-erbA protein grow significantly faster than those expressing c-erbA or gag/c-erbA ( C. Disela and M. Zenke , unpubl . ) .
+Thus , other properties of v-erbA than its function as a repressor of late erythrocyte-specific genes might contribute to its activity as an oncoprotein .
+Does repression of CAI by v-erbA contribute to the leukemic phenotype ?
+Our data denonstrating that the CAII gene is subject to direct regulation by hormone-responsive erbA proteins and is repressed by the v-erbA oncoprotein raise the v-erbA overexpression extinguishes c-erbA function question of whether suppression of CAI expression can account , at least in part , for the phenotypic changes induced by v-erbA in transformed erythroblasts .
+CAI deficiency in man leads to rather pleiotropic effects such as impaired growth , kidney function , bone resorption , and brain development { Sly et al .
+1985 ) .
+However , in red cells of CA-deficient individuals the CAI isoenzyme appears to compensate perfectly for the absence of CAI and maintains the carbonic anhydrase activity required for red cell function .
+Interestingly , chicken red cells only express the CAI isoenzyme and completely lack CAI ( Tashian 1989 ) , probably as a result of the loss of erythroid-specific promoter elements ( R. Tashian , pers .
+comm . ) .
+Thus , suppression of CAI expression by v-erbA in transformed chicken erythroblasts renders them completely devoid of carbonic anhydrase activity .
+We have recently addressed the questions if and how suppression of CAI and band3 by v-erbA might contribute to the leukemic phenotype by reexpressing these genes in v-erbA-containing erythroblasts with suitable retroviral vectors ( Fuerstenberg et al .
+1990 ; I. Leitner et al .
+in prep . ) .
+Our results show that reexpression of either CAI or band3 in leukemic erythroblasts abrogates the altered growth medium requirements induced by v-erbA ( Beug et al .
+1985 ; Kahn et al .
+1986 ) , causing a phenotype similar to the one seen for erythroblasts lacking v-erbA .
+In addition , reexpression of CAI partially relieved the v-erbA-induced differentiation arrest in these cells , leading to slow , incomplete maturation of such cells ( I. Leitner et al .
+in prep . ) .
+In contrast , no effects of band reexpression on the v-erbA-induced differentiation arrest was observed .
+Thus , direct repression of CAI gene transcription by v-erbA seems to be responsible for part , but not all of , the phenotypic changes induced by this oncogene in leukemic cells .
+Materials and methods Construction of recombinant retroviral vectors The recombinant retroviral vectors gag/c-erbA-neo and gag/v-/ c-erbA-neo ( Fig .
+1B ) were generated by replacing v-erbA in pCRA-neo ( Schroder et al .
+1990 } by gag/c-erbA and gag/v-/c-erbA , respectively ( v3-erbA and v2-erbA in Munoz et al .
+1988 ] .
+The gag/neo-c-erbA vector ( pNEO-CEA+ } ) contains the chicken c-erbA cDNA of pKCR2-CEA [ Sap et al .
+1989 ) as an EcoRI fragment in pSFCV-LE ( Fuerstenberg et al .
+1990 ] .
+To achieve efficient c-erbA protein expression , the c-erbA ATG was modified to meet the requirements for a perfect Kozak consensus sequence ( Sap et al .
+1990 ] .
+Cells and cell culture The origin and culture conditions of the v-erbA-expressing cell line HD3 ( transformed by v-erbA + tserbB of ts34 AEV } have been described previously ( Beug et al .
+1982 ) .
+Erythroblast clones coexpressing v-erbA and c-erbA were generated by transfecting HD3 cells with the recombinant retroviral vectors described above [ see Fig .
+1 A , B ) , together with helper virus ( RAV-1 ) DNA { 6 ug of retroviral vector DNA plus 1 ug of helper virus DNA/1IO '' cells ) bu using the DEAE-dextran procedure ( Choi et al .
+1988 ) .
+Cells were allowed to recover from transfection by cultivation GENES & DEVELOPMENT 2043 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Disela et al .
+in CFU-E medium ( Radke et al .
+1982 ) for 2 days and then seeded in CFU-E methocel containing 3 mg/ml of G418 to select for neo-resistant colonies ( Schroder et al .
+1990 ) .
+After 7-10 days , colonies were isolated , expanded in CFU-E medium containing T3-depleted fetal calf serum and avian transferrin { 150 ug/ml !
+instead of chicken serum } and screened for T3 responsiveness as described for c-erbA-expressing clones in Zenke et al .
+( 1990 ) .
+The methods for induction of erythroid differentiation of such clones in methocel and liquid medium have been described previously ( Glineur et al .
+1990 ; Zenke et al .
+1990 ) .
+Preparation of extracts from HeLa cells containing vaccinia virus-expressed etbA proteins Extracts were prepared from HeLa cells infected with either wild-type or recombinant vaccinia viruses expressing c-erbA , v-erbA , or gag/v-/c-erbA as described previously ( de Magistris and Stunnenberg 1988 ; Sap et al .
+1989 , 1990 ] .
+Twenty-four hours after infection cells were harvested , cell extracts were prepared according to Wildeman et al .
+{ 1984 ) and used for in vitro DNase I protection assays .
+For use in electrophoretic mobility-shift assays , whole-cell extracts were prepared by lysis of cells in 50 mm Tris-HCl ( pH 7.5 ) , 420 mm NaCl , 5 mm MgCl , , and 0.5 % ( vol/vol ) Triton X-100 .
+Clarified lysates were snap-frozen in liquid nitrogen and stored at -70°C .
+The levels of the various erbA proteins present in these extracts were comparable as judged by Western blotting analysis { data not shown ] .
+Detection of etbA proteins by immunoprecipitation Cells were labeled with [ °**Smethionine , and extracts were immunoprecipitated with anti-erbA-specific antibodies as described previously ( Goldberg et al .
+1988 ; Glineur et al .
+1990 ) .
+RNA extraction and Northern blot analysis RNA was prepared and subjected to blot hybridization as described previously ( Zenke et al .
+1990 ] .
+DNA binding/immunoprecipitation assay The recombinant plasmid pBHcaXIII-3.1 , containing 1.3 kb of chicken CAI upstream sequence , the first and second exon , and part of the second intron ( Yoshihara et al .
+1987 ; J. Dodgson , unpubl .
+) , was digested with Avall or BssHI ( see Fig .
+1C ) and terminally labeled with [ °PIdCTP and Escherichia coli DNA polymerase ( Klenow fragment ] .
+Approximately 2 fmoles of terminally labeled fragments were incubated for 30 min at 30°C in 1x binding buffer [ ( 10 mm HEPES ( pH 7.8 ) , 40 mm KCl , 2 mm MgC ] ; , 1 mm DTT , 5 % ( vol/vol ) glycerol ] containing 0.1 mg/ml of BSA and 0.1 mg/ml of poly [ d { I-C ) ] in a total volume of 26-28 ul with 0.2-2 pul cell extracts containing vaccinia virus-expressed erbA proteins ( see above } .
+The DNA-protein complexes were precipitated with anti-erbA-specific antisera [ 3 pl of antibody { Ab ) 21 per reaction ( Goldberg et al .
+1988 ; Glineur et al .
+1990 ) 30 min at 4°C , followed by addition of 20 ml of 10 % Staphylococcus aureus protein A ( in 1x binding buffer ) and incubation at 4°C for 30 min .
+After centrifugation , the pellet was washed three times with 1x binding buffer , dissolved in 20 mm Tris-HCI ( pH 7.5 ) , 1 mm EDTA , 0.2 % SDS , 10 ug/ul of E. coli tRNA , and 20 ug/pl of proteinase K and incubated for 1 hr at 55°C .
+Following phenol-chloroform extraction and ethanol pre-cipitation , fragments were resolved in 2 % agarose or 5 % polyacrylamide gels , dried , and exposed to film for 6-16 hr .
+2044 GENES & DEVELOPMENT In vitro DNase I protection assay The Pstl-Ahall fragment of the CAl upstream sequences ( positions -925 to -583 ) was subcloned into pBluescriptkKS+ ( Stratagene ) between PstI and Smal ( pC102 ) .
+In addition , a CAI promoter fragment ( positions -755 to -600 } was amplified by PCR thereby generating new HindIII and Xhol sites at position -755 and -600 , respectively , which were used for subcloning into pBluescript KS + ( pC103 ) .
+For footprinting analysis recombinants pC1O2 and pC103 were cut with Xbal or Xhol , respectively , terminally labeled with [ °°P ] dCTP and E. coli DNA polymerase ( Klenow fragment ) , recut with a second enzyme ( Xbhol or Xbal , respectively ) , and purified from preparative gels by standard techniques ( Maniatis et al .
+1989 ) .
+In a typical DNase I protection assay , reaction mixes containing 20 mm HEPES ( pH 7.8 ) , 40 mm KCl , 3 mm MgCl , , 17 % { vol/vol } glycerol , 25 mg/ml of poly { d { I-C ) ] , various amounts of nuclear extracts containing the vaccinia virus-expressed erbA proteins ( 0-10 wl ) and 2 fmoles of end-labeled DNA were incubated in a total volume of 25 wl for 10 min at 20°C .
+Following DNase I digestion ( 90 sec at 20°C ) , reactions were terminated by addition of 200 ul of 140 mm NaCl , 50 mm NaAc ( pH 6.5 ) , 0.3 % SDS , and 200 ug/ul of E. coli tRNA .
+After phenol-chloroform extraction and ethanol precipitation the samples were resolved in 8 % sequencing-type gels alongside G + A tracks of the same DNA ( Maxam and Gilbert 1980 ) .
+In competition assays oligonucleotides in a 50-fold molar excess were added to the reactions before addition of the end-labeled fragments .
+Electrophoretic mobility-shift assay Two microliters of whole-cell extract ( ~4 ug of protein ] containing vaccinia virus-expressed erbA proteins was preincu-bated on ice in 13 wl of 20 mm HEPES ( pH 7.8 ) , 50 mm KCl , 5 mm MgCl , , 1 mm DTT , and 15 % ( vol/vol ) glycerol containing 0.5-2.0 mg of poly { d { I-C ) J. Oligonucleotides { ( ~20 fmoles ] were terminally labeled with [ *P ] dCTP and E. coli DNA polymerase ( Klenow fragment } , added to the reaction and the incubation continued for another 15 min .
+The samples were then loaded onto 6 % native polyacrylamide gels ( 0.25 % TBE ) , and the complexes were separated by electrophoresis at 200 V for 2 hr .
+Sub-sequently , the gel was dried and subjected to autoradiography .
+For competition assays a 50-fold excess of unlabeled competitor oligonucleotide was added , together with the labeled oligonu-cleotide .
+Transient expression assays The DNA segment containing the -660 erbA-binding site ( position -712 to - 655 ) was ligated as a synthetic oligonucleotide between Xhol and HindIII into the luciferase-encoding expression plasmid pTluc109 ( Nordeen 1988 ) upstream of the minimal thymidine kinase ( TK ) promoter , thereby generating recombinant pTL15 .
+Various permutations of this CAII promoter-specific fragment have been synthesized as synthetic oligonucleotides and inserted into pTluc109 at identical positions to the wild-type sequence { see Fig .
+9A ) .
+DNA sequencing was used to confirm the nucleotide sequence of the synthetic DNA after cloning .
+Recombinants pTL13 and pTL29 are derivatives of pTL15 containing a trimerized palindromic TRE ( Glass et al .
+1988 ) or a trimerized version of the -660 CAl erbA-binding site ( position -666 to -655 ) between Xhol and HindIH of pTluc109 .
+In pTL19 CAll-specific sequences ( position -666 to - 649 } have been replaced by the RARE of the retinoic acid receptor { type B ) promoter ( position -54 to -36 ; deThe et al .
+1990 ) .
+The plasmid DNA used for transfection was prepared Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press by the Triton lysis procedure { Maniatis et al .
+1989 ) , followed by CsCl/ethidium bromide equilibrium density gradient centrifugation , destaining with 1-butanol and extensive dialysis against 20 mm Tris-HCl ( pH 7.5 ) , 1 mm EDTA .
+In a typical transfection experiment 2 jug of luciferase-encoding reporter plasmid DNA ( pTL series ) and a constant amount of pRSV-B-gal DNA [ 2 pg ( Gorman et al .
+1982 ) to be able to correct for variations in the transfection efficiencies ] were used .
+In cotransfection experiments 0.5 ug of c-erbA expression plasmid pKCR2-CEA ( Sap et al .
+1989 ) or various amounts of the v-erbA expression plasmid pKCR2-VEA [ Sap et al .
+1989 ) was added .
+pBluescript plasmid DNA was used to achieve a final amount of 20 ug of DNA and 10 ug of DNA for calcium phosphate and DEAE-dextran transfection , respectively .
+Semiconfluent primary chicken embryo fibroblasts { CEFs ) were transfected by using the calcium phosphate/DNA copre-cipitation method as described ( Graham and Van der Eb 1973 ) .
+Sixteen to twenty hours before transfection 2 x 10° CEFs were plated on Greiner tissue culture dishes { 10 cm diameter ) in culture medium containing T3-depleted FCS .
+The calcium phosphate precipitate was left in contact with the cells for 20-24 hr , followed by a complete medium change .
+Cells were then treated with 100 nm T3 for 20-24 hr and harvested by means of a rubber policeman .
+Cell extracts were prepared by three cycles of freeze/ thawing .
+Aliquots of such extracts were analyzed for their protein content , B-galactosidase activity ( Herbomel et al .
+1984 ) , and luciferase activity [ { deWet et al .
+1987 ) using the biolumi-nescence counter , Clinilumat , Berthold , Wildbach , Germany ] } .
+Nonadherent cells were transfected by using the DEAE-dextran procedure ( Choi and Engel 1988 ) or transferrinfection ( Zenke et al .
+1990 ) and grown for 24 hr in CFU-E medium containing T3-depleted FCS and chicken serum .
+Cells were then treated with 100 nm T3 for 20-24 hr and harvested by centrif-ugation .
+For preparation of cell extracts and analysis of protein content , B-galactosidase and luciferase activity , see above .
+Acknowledgments We thank Dr. J. Ghysdael for anti-erbA-specific antisera , Drs .
+B. Luckow , S. Nordeen , and G. Schiitz for recombinant plasmids , and Dr. M. Busslinger for critically reading the manuscript .
+We also thank the European Molecular Biology Laboratory for support during the early phase of the work , C. Walter and G. Ddd-erlein for excellent technical assistance , G. Schaffner for oligonucleotide synthesis and R. Kurzbauer for DNA sequencing , L Hausmann and H. Tkadletz for photography , and J. Bilioni for secretarial assistance .
+The publication costs of this article were defrayed in part by payment of page charges .
+This article must therefore be hereby marked `` advertisement '' in accordance with 18 USC section 1734 solely to indicate this fact .
+Note added in proof As indicated by the direct repeat shown in Figure 10B the - 660 CAIl-specific erbA-binding site fits the AGGTCA/A-nucleotide spacer/AGGTCA direct repeat consensus sequence proposed recently for T3REs by Umesono et al .
+1991 .
+Cell 65 : 1255-1266 .
+References Baniahmad , A. , C. Steiner , A.C. Kohne , and R. Renkawitz .
+1990 .
+Modular structure of a chicken lysozyme silencer : Involvement of an unusual thyroid hormone receptor binding site .
+Cell 61 : 505-514. v-erbA overexpression extinguishes c-erbA function Beug , H. and M.J. Hayman .
+1984 .
+Temperature-sensitive mutants of avian erythroblastosis virus : Surface expression of the erbB product correlates with transformation .
+Cell 36 : 963-972 .
+Beug , H. , G. Doedetlein , C. Freudenstein , and T. Graf .
+1982 .
+Erythroblast cell lines transformed by a temperature-sensitive mutant of avian erythroblastosis virus : A model system to study erythroid differentiation in vitro .
+J .
+Cell Physiol .
+Suppl .
+1 : 195-207 .
+Beug , H. , P. Kahn , G. Doderlein , M.J. Hayman , and T. Graf .
+1985 .
+Characterization of hematopoietic cells transformed in vitro by AEV-H , an erbB-containing avian erythroblastosis virus .
+In Modern trends in human leukemia VI ( ed .
+R. Neth et al .
+) , pp .
+290-297 , Springer-Verlag , Heidelberg .
+Billecocq , A. , J.R. Emanuel , R. Levenson , and R. Baron .
+1990 .
+1-alpha , 25-dihydroxyvitamin D3 regulates the expression of carbonic anhydrase II in nonerythroid avian bone marrow cells .
+Proc .
+Natl , Acad .
+Sci .
+87 ; 6470-6474 .
+Bonde , B.G .
+and ML .
+Privalsky .
+1990 .
+Sequence-specific DNA binding by the v-erbA oncogene protein of avian erythroblastosis virus .
+J. Virol .
+64 : 1314-1320 .
+Bonde , G.B. , M. Sharif , and ML .
+Privalsky .
+1991 .
+Ontogeny of the v-erbA oncoprotein from the thyroid hormone receptor : An alteration in the DNA binding domain plays a role crucial for v-erbA function .
+J. Virol .
+65 : 2037-2046 .
+Boucher , P. , A. Koning , and ML .
+Privalsky .
+1988 .
+The avian erythroblastosis virus erbA oncogene encodes a DNA-binding protein exhibiting distinct nuclear and cytoplasmic sub-cellular localizations .
+J. Virol .
+62 : 534-544 .
+Brent , G.A. , J.W .
+Harney , Y. Chen , R.L .
+Warne , D.D .
+Moore , and P.R .
+Larsen .
+1989 .
+Mutation of the rat growth hormone promoter which increase and decrease response to thyroid hormone define a consensus thyroid hormone response element .
+Mol .
+Endocrinol .
+3 : 1996-2004 .
+Choi , O.R .
+and J.D .
+Engel .
+1988 .
+Developmental regulation of B-globin gene switching .
+Cell 55 : 17-26 .
+Damm , K. , C.C .
+Thompson , and R.M .
+Evans .
+1989 .
+Protein encoded by verbA functions as a thyroid-hormone receptor an-tagonist .
+Nature 339 : 593-597 .
+Debuire , B. , C. Henry , M. Bernissa , G. Biserte , J.M .
+Claverie , S. Saule , P. Martin , and D. Stehelin .
+1984 .
+Sequencing the erbA gene of avian erythroblastosis virus reveals a new type of oncogene .
+Science 224 ; 1456-1459 , de Magistris , L. and H. Stunnenberg .
+1988 .
+Cis-acting sequences affecting the length of the poly ( A ) head of vaccinia virus late transcripts .
+Nucleic Acids Res .
+16 : 3141-3156 , de The , H. , M. del Mar Vivanco-Ruiz , P. Tiollais , H. Stunnenberg and A. Dejean .
+1990 .
+Identification of a retinoic acid responsive element in the retinoic acid receptor B gene .
+Nature 343 : 177-180. de Verneuil , H. and D. Metzger .
+1990 .
+The lack of transcriptional activation of the v-erbA oncogene is in part due to a mutation present in the DNA binding domain of the protein .
+Nucleic .
+Acids .
+Res .
+18 ; 4489-4497. de Wet , J.R. , K.V .
+Wood , M. DeLuca , D.R .
+Helinski , and S. Su-bramani .
+1987 .
+Firefly luciferase gene : Structure and expression in mammalian cells .
+Mol .
+Cell Biol .
+7 : 725-737 .
+Forman , M.B .
+and H.H .
+Samuels .
+1990 .
+Dimerization among nuclear hormone receptors .
+New Biologist 2 : 587-594 .
+Fuerstenberg , S. , H. Beug , M. Introna , K. Khahzaie , A. Munoz , S. Ness , K. Nordstrom , J. Sap , I. Stanley , M. Zenke , and B. Vennstrm .
+1990 .
+Ectopic expression of the erythrocyte band3 anion exchange protein , using a new avian retrovirus vector .
+J. Virol .
+64 : 5891-5902 .
+Gandrillon , O. , P. Jurdic , B .
+Pain , C. Desbois , J.J. Madjar , M.G .
+Moscovici , C. Moscovici , and J. Samarut .
+1989 .
+Expression GENES & DEVELOPMENT 2045 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Disela et al .
+of the v-erbA product , an altered nuclear hormone receptor , is sufficient to transform erythrocytic cells in vitro .
+Cell 58 : 115-121 .
+Glass , C.K .
+and J.M .
+Holloway .
+1990 .
+Regulation of gene expression by thyroid hormone receptor .
+Biochim .
+Biophys .
+Acta .
+1032 : 157-176 .
+Glass , C.K. , J.M .
+Holloway , O.V .
+Devary , and M.G .
+Rosenfeld .
+1988 .
+The thyroid hormone receptor binds with opposite transcriptional effects to a common sequence motif in thyroid hormone and estrogen response elements .
+Cell 54 ; 313-323 .
+Glineur , C. , M. Zenke , H. Beug , and J. Ghysdael .
+1990 .
+Phos-phorylation of the v-erbA protein is required for its function as an oncogene .
+Genes & Dev .
+4 : 1663-1676 .
+Goldberg , Y. , C. Glineur , J.C. Gesquiere , A. Ricouart , J. Sap , B. Vennstrom , and J. Ghysdael .
+1988 .
+Activation of protein kinase C or cAMP-dependent protein kinase increases phos-phorylation of c-erbA-encoded thyroid hormone receptor and of the v-erbA-encoded protein .
+EMBO J .
+7 : 2425-2433 .
+Gorman , C.M. , LF .
+Moffat , and B.H .
+Howard .
+1982 .
+Recombinant genomes which express chloramphenicol acetyltrans-ferase in mammalian cells .
+Mol .
+Cell .
+Biol .
+2 : 1044-1051 .
+Graf , T. and H. Beug .
+1978 .
+Avian leukemia viruses : Interaction with their target cells in vivo and in vitro .
+Biochim .
+Biophys .
+Acta Rev .
+Cancer 516 : 269-299. .
+1983 .
+Role of the v-erbA and v-erbB oncogenes of avian erythroblastosis virus in erythroid cell transformation .
+Cell 34 : 7-9 .
+Graham , FL .
+and A.J .
+van der Eb .
+1973 .
+Transformation of rat cells by DNA of human adenovirus 5 .
+Virology 52 : 456-467 .
+Harkonen , PL .
+and HK .
+Viini @ nen .
+1988 .
+Androgen regulation of carbonic anhydrase II , a major soluble protein in rat lateral prostate tissue .
+Biol .
+Reprod .
+38 : 377-384 .
+Herbomel , P. , B. Bourachot , and M. Yaniv .
+1984 .
+Two distinct enhancers with different cell specificities coexist in the regulatory region of polyoma .
+Cell 39 : 653-662 .
+Hillstrom-Shapiro , L. , P.J .
+Venta , Y.S .
+Yu , and RE .
+Tashian .
+1989 .
+Carbonic anhydrase II is induced in HL-60 cells by 1,25-dihydroxyvitamin D3 : a model for osteoclast gene reg-ulation .
+FEBS Lett .
+249 : 307-310 .
+Kahn , P. , L. Frykberg , T. Graf , B. Vennstrom , and H. Beug .
+1986 .
+Cooperativity between v-erbA and v-src-related oncogenes in erythroid cell transformation .
+In XII Symposium for comparative research on leukemia and related diseases ( ed .
+F. Deinhard } , pp .
+41-50 .
+Springer-Verlag , Heidelberg .
+Khandjian , EW .
+1986 .
+UV crosslinking of RNA to nylon membrane enhances hybridization signals .
+Mol .
+Biol .
+Rep. 11 : 107-115 .
+Knight , J. , M. Zenke , C. Disela , E. Kowenz , P. Vogt , D. Engel , M.J. Hayman , and H. Beug .
+1988 .
+Ts v-sea transformed erythroblasts : A model system to study gene expression during erythroid differentiation .
+Genes & Dev .
+2 : 247-258 .
+Mader S. , V. Kumar , H. de Verneuil , and P. Chambon .
+1989 .
+Three amino acids of the oestrogen receptor are essential to its ability to distinguish an oestrogen from a glucocorticoid-responsive element .
+Nature 338 : 271-274 .
+Maniatis , T. , E. Fritsch , and J. Sambrook .
+1989 .
+Molecular clon-ing : A laboratory manual , 2nd ed .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , New York .
+Maxam , A.M. and W. Gilbert .
+1980 .
+Sequencing end-labelled DNA with base-specific chemical cleavages .
+Methods Enzy-mol .
+65 : 499-559 .
+McKay , R.D.G .
+1981 .
+Binding of a simian virus 40 T antigen-related protein to DNA .
+J. Mol .
+Biol .
+145 : 471-488 .
+Munoz , A. , M. Zenke , U. Gehring , J. Sap , H. Beug , and B. Vennstrom .
+1988 .
+Characterization of the hormone-binding 2046 GENES & DEVELOPMENT domain of the chicken c-erbA/thyroid hormone receptor protein .
+EMBO J .
+7 : 155-159 .
+Ney , P.A. , B.P .
+Sorrentino , CH .
+Lowrey , and A.W .
+Nienhuis , 1990 .
+Inducibility of the HS II enhancer depends on binding of erythroid specific nuclear protein .
+Nucleic Acids Res .
+18 : 6011-6017 .
+Nordeen , S.K .
+1988 .
+Luciferase reporter gene vectors for analysis of promoters and enhancers .
+BioTechniques 6 : 454-457 .
+Pain , B. , F. Melet , P. Jurdic , and J. Samarut .
+1990 .
+The carbonic anhydrase II gene , a gene regulated by thyroid hormone and erythropoietin , is regulated by the v-erbA oncogene in eryth- rocytic cells .
+New Biologist 2 : 284-294 .
+Privalsky , ML. , M. Sharif , and K. Yamamoto .
+1990 .
+The viral erbA oncogene protein , a constituitive repressor in animal cells , is a hormone-regulated activator in yeast .
+Cell 63 : 1277-1286 .
+Radke , K. , H. Beug , S. Kornfeld , and T. Graf .
+1982 .
+Transformation of both erythroid and myeloid cells by E26 , an avian leukemia virus that contains the myb gene .
+Cell 31 : 643-653 .
+Sap , J. , A. Munoz , K. Damm , Y. Goldberg , J. Ghysdael , A. Leutz , H. Beug , and B. Vennstrom .
+1986 .
+The c-erbA protein is a high affinity receptor for thyroid hormone .
+Nature 324 : 635-640 .
+Sap , J. , A. Munoz , J. Schmitt , H. Stunnenberg , and B. Vennstrom .
+1989 .
+Repression of transcription mediated at a thyroid hormone-response element by the v-erbA oncogene product .
+Nature 34 : 242-244 .
+Sap , J. , L. de Magistris , H. Stunnenberg , and B. Vennstrom .
+1990 .
+A major thyroid hormone response element in the third intron of the rat growth hormone .
+EMBO J .
+9 : 887-896 .
+Schroder , C. , C. Raynoschek , U. Fuhrmann , K. Damm , B. Vennstrom , and H. Beug .
+1990 .
+The v-erbA oncogene causes repression of erythrocytes-specific genes and an immature , aberrant differentiation phenotype in normal erythroid pro-genitors .
+Oncogene 5 : 1445-1453 .
+Schroder , C. , L. Gibson , and H. Beug .
+1991a .
+The v-erbA oncogene requires cooperation with tyrosine kinases to arrest erythroid differentiation induced by ligand-activated endogenous c-erbA and retinoic acid receptor .
+Oncogene ( in press ) .
+Schroder , C. , L. Gibson , M. Zenke , and H. Beug .
+1991b .
+Modulation of normal erythroid differentiation by the endogenous thyroid hormone- and retinoic acid receptors : A possible target for v-erbA oncogene action .
+Oncogene { in press ) .
+Schiile , R. , K. Umesono , D.J .
+Mangelsdorf , J. Bolado , J.W .
+Pike , and R.M .
+Evans .
+1990 .
+Jun-Fos and receptors for vitamins A and D recognize a common response element in the human osteocalcin gene .
+Cell 61 : 497-504 .
+Sly , W.S. , M.P .
+White , V. Sundaram , R.E .
+Tashian , D. Hewett-Emmett , P. Guibaud , M. Vainsel , HJ .
+Baluarte , A. Grushkin , A. Al Mosawi , N. Sakati , and A. Ohlsson .
+1985 .
+Carbonic anhydrase II deficiency in 12 families with the autosomal recessive syndrome of osteopetrosis with renal tubular aci-dosis and cerebral calcification .
+N. Engl .
+J. Med .
+313 : 139-145 .
+Stunnenberg , H. , H. Lange , L. Philipson , R.T. van Miltenburg , and P.C .
+van der Vliel .
+1988 .
+High expression of functional adenovirus DNA polymerase and precursor terminal protein using recombinant vaccinia virus .
+Nucleis Acids Res .
+16 : 2431-2444 .
+Talbot , D. and G. Grosfeld .
+1991 .
+The 5'HS2 of the globin locus control region enhances transcription through the interaction of a multimeric complex binding at two functionally distinct NF-E2 binding sites .
+EMBO J .
+10 : 1391-1398 .
+Tashian , RE .
+1989 .
+The carbonic anhydrases : Widening perspectives on their evolution , expression and function .
+Bioks- Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press says 10 ; 186-192 .
+Umesono , K. and R.M .
+Evans .
+1989 .
+Determinants of target gene specificity for steroid/thyroid hormone receptors .
+Cell 57 : 1139-1146 .
+Umesono , K. , V. Giguere , C.K .
+Glass , M.G .
+Rosenfeld , and R.M .
+Evans .
+1988 .
+Retinoic acid and thyroid hormone induce gene expression through a common responsive element .
+Nature 336 : 262-265 .
+Vennstrom , B. , L. Fanshier , C. Moscovici , and J.M .
+Bishop .
+1980 .
+Molecular cloning of the avian erythroblastosis virus genome and recovery of oncogenic virus by transfection of chicken cells .
+J. Virol .
+36 : 575-585 .
+Wildeman , A. , P. Sassone-Corsi , T. Grundstrom , M. Zenke , and P. Chambon .
+1984 .
+Stimulation of in vitro transcription from the SV40 early promoter by the enhancer involves a specific trans-acting factor .
+EMBO J .
+3 : 3129-3133 .
+Wildeman , AG. , M. Zenke , C. Schatz , M. Wintzerith , T. Grundstrom , H. Matthes , K. Takahashi , and P. Chambon .
+1986 .
+Specific protein binding to the simian virus 40 enhancer in vitro .
+Mol .
+Cell Biol .
+6 : 2098-2105 .
+Weinberger , C. , C. Thompson , E. Ong , R. Lebo , D. Gruol , and R.M .
+Evans .
+1986 .
+The c-erbA gene encodes a thyroid hormone receptor .
+Nature 32 : 641-646 .
+Yoshihara , C.M. , J.D .
+Lee , and J.B. Dodgson .
+1987 .
+The chicken carbonic anhydrase II gene : Evidence for a recent shift in intron position .
+Nucleic Acids Res .
+15 : 753-770 .
+Zenke , M. , P. Kahn , C. Disela , B. Vennstrom , A. Leutz , K. Kee-gan , M. Hayman , HR .
+Choi , N. Yew , J.D .
+Engel , and H. Beug .
+1988. v-erbA specifically suppresses transcription of the avian erythrocyte anion transporter gene .
+Cell 52 ; 107-119 .
+Zenke , M. , A. Munoz , J. Sap , B. Vennstrom , and H. Beug .
+1990. v-erbA oncogene activation entails the loss of hormone-de-pendent regulator activity of c-erbA .
+Cell 61 : 1035-1049. v-erbA overexpression extinguishes c-erbA function GENES & DEVELOPMENT 2047 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press > t N-t $ & Development v-erbA overexpression is required to extinguish c-erbA function in grythroid cell differentiation and regulation of the erbA target gene All .
+C Disela , C Glineur , T Bugge , et al .
+Genes Dev .
+1991 , 5 : Access the most recent version at doi:10.1101/gad.5.11.2033 References _ This article cites 58 articles , 12 of which can be accessed free at : http : /genesdev.cshlp.org/content/5/11/2033.full.htmli # ref-list-1 License Email Alerting _ Receive free email alerts when new articles cite this article - sign up in the box at the top Service - `` ight corner of the article or click here .
+CRISPR KO , CRISPRa , CRISPRi libraries .
+VIEW PRODUCTS > CELLECTA Custom or genome-wide .
+Copyright © Cold Spring Harbor Laboratory Press

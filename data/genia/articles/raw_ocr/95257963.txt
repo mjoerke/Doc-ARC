@@ -1,0 +1,921 @@
+MoLECULAR AND CELLULAR BroLoGY , May 1995 , p. 2809-2818 0270-7306/95/ $ 04.00+0 Copyright © 1995 , American Society for Microbiology Vol .
+15 , No .
+5 Coupling of a Signal Response Domain in IxBa to Multiple Pathways for NF- « B Activation JEFFREY A. BROCKMAN , DAVID C. SCHERER , TIMOTHY A. McKINSEY , SARAH M. HALL , XIAOXIA QI , WHA YOUNG LEE , anp DEAN W. BALLARD* Howard Hughes Medical Institute and Department of Microbiology and Immunology , Vanderbilt University School of Medicine , Nashville , Tennessee Received 7 November 1994/Returned for modification 25 January 1995/Accepted 13 February 1995 The eukaryotic transcription factor NF-KB plays a central role in the induced expression of human immunodeficiency virus type 1 and in many aspects of the genetic program mediating normal T-cell activation and growth .
+The nuclear activity of NF-KB is tightly regulated from the cytoplasmic compartment by an inhibitory subunit called IxBa .
+This cytoplasmic inhibitor is rapidly phosphorylated and degraded in response to a diverse set of NF- agents , including T-cell mitogens , proinflammatory cytokines , and viral trans-activators such as the Tax protein of human T-cell leukemia virus type 1 .
+To explore these IBa-dependent mechanisms for NF-KB induction , we identified novel mutants of IxBa that uncouple its inhibitory and signal-transducing functions in human T lymphocytes .
+Specifically , removal of the N-terminal 36 amino acids of IxBa failed to disrupt its ability to form latent complexes with NF-B in the cytoplasm .
+However , this deletion mutation prevented the induced phosphorylation , degradative loss , and functional release of IxBa from NF-KB in Tax-expressing cells .
+Alanine substitutions introduced at two serine residues positioned within this N-terminal regulatory region of IxBa also yielded constitutive repressors that escaped from Tax-induced turnover and that potently inhibited immune activation pathways for NF-KB induction , including those initiated from antigen and cytokine receptors .
+In contrast , introduction of a phosphoserine mimetic at these sites rectified this functional defect , a finding consistent with a causal linkage between the phosphorylation status and proteolytic stability of this cytoplasmic inhibitor .
+Together , these in vivo studies define a critical signal response domain in IxBa that coordinately controls the biologic activities of IxBa and NF-KB in response to viral and immune stimuli .
+The eukaryotic transcription factor NF-kB participates in the activation and controlled proliferation of T lymphocytes during immune and inflammatory responses ( for a review , see references 31 , 32 , and 46 ) .
+The prototypical form of NF-kB is a heterodimeric complex containing two DNA binding sub-units , termed p50 and RelA , both of which belong to the Rel family of transcription factors ( 5 , 16 , 28 , 43 , 54 , 60 , 67 ) .
+When expressed in the nucleus , this inducible complex stimulates gene transcription via a potent transactivation domain in the C-terminal half of RelA ( 7 , 68 , 70 ) .
+However , in resting T lymphocytes , the nuclear import of NF- « B is prevented because of high-affinity association of its RelA subunit with a labile cytoplasmic inhibitor called ( 3-5 , 11 , 27 ) .
+This IxBa-dependent mechanism for the cytoplasmic retention of NF-kB is uncoupled by many extracellular signals , including T-cell receptor ligands , tumor necrosis factor alpha ( TNF- « ) , and interleukin-1 ( IL-1 ) ( for a review , see reference 32 ) .
+During normal T-cell activation , nuclear translocation of NF- « B is preceded by the rapid phosphorylation and degradation of IxBa ( 9 , 10 , 19 , 35 , 80 , 81 ) .
+However , the role , if any , that phosphorylation plays in regulating the degradation of IxBa remains unclear .
+In contrast to its transient nuclear expression in normal T lymphocytes , NF-kB is constitutively activated in cells expressing the Tax protein of human T-cell leukemia virus type 1 ( HTLV-1 ) ( 6 , 47 , 69 ) .
+This virus-host interplay confers Tax * Corresponding author .
+Mailing address : Howard Hughes Medical Institute , Vanderbilt University School of Medicine , 802 Rudolph Light Hall , Nashville , TN 37232-0295 .
+Phone : ( 615 ) 343-1548 .
+Fax : ( 615 ) 343-4726 .
+Electronic mail address : ballardw @ ctrvax.vanderbilt .
+edu .
+2809 inducibility to a set of NF- « xB-responsive cellular genes that are normally transcribed at high levels in response to T-cell activation signals ( for reviews , see references 31 and 32 ) .
+This set includes the transcription units encoding IL-2 and the alpha subunit of its high-affinity receptor ( IL-2Ra ) , which together play a key role in normal growth signal transduction ( 21 , 40 , 44 , 51 , 76 ) .
+The Tax protein has also been shown to activate transcription from the 5 ' long terminal repeat ( LTR ) of human immunodeficiency virus type 1 ( HIV-1 ) , which contains two tandem NF-kB binding sites ( 15 , 55 ) .
+Recent studies have shown that Tax-induced activation of NF-kB is temporally associated with the phosphorylation and degradation of IxBa ( 42 , 82 ) .
+In addition , Schreck et al .
+have demonstrated that the activation of NF-kB by Tax is partially inhibited by select antioxidants that block physiologic NF- « B induction in human T cells ( 71 , 72 ) .
+Although these findings suggest a convergent mechanism for NF-kB induction involving the inactivation of IxBa , an explanation for how this cytoplasmic inhibitor integrates seemingly disparate viral and immune activation signals has remained unknown .
+To address this question , we devised an expression system that permits functional incorporation of ectopic forms of IxBa into the endogenous NF-kB signaling pathway of human T lymphocytes .
+Using this in vivo approach , we have identified a signal response ( SR ) domain in the N-terminal region of IxBa that is required not only for constitutive activation of NF- « B mediated by HTLV-1 Tax but also for transient activation of NF- « B via signal transduction pathways linked to T-cell antigen and cytokine receptors .
+Mutations introduced at two serine residues within this regulatory domain produced constitutive repressors of NF-kB-directed transcrip-tion , despite the presence of agonists that normally induce the 2810 BROCKMAN ET AL .
+degradation of IxBa and the nuclear translocation of NF- « B .
+This dominant-negative phenotype was associated with the escape of IxBa from proteolytic breakdown , suggesting that the phosphorylation status of the SR domain may affect the induced entry of IxB into its degradative pathway .
+MATERIALS AND METHODS Plasmids .
+Complementary DNAs encoding full-length wild-type and mutant forms of HTLV-1 Tax ( 77 ) , human RelA ( 67 ) , and human IxBa ( 33 ) were cloned into the polylinker of the eukaryotic expression vector pCMV4 ( 2 ) immediately downstream of the cytomegalovirus immediate-early promoter .
+Chloramphenicol acetyltransferase ( CAT ) reporter plasmids contained either the full-length HTLV-1 LTR ( 78 ) , HIV-1 LTR ( 78 ) , c-fos promoter ( 29 ) , IL-2Ra promoter ( nucleotides -317 to +109 ) ( 49 ) , or HIV « B enhancer cassette linked to a heterologous TATA box ( 79 ) .
+Deletion mutants of IxBa encoding amino acids 37 to 317 ( IxBaAN ) and 1 to 242 ( IxBaAC ) were constructed by PCR using specific oligonucleotide primers ( 5'-GGGAAGCTTCTCGTCCGCGCCATGA AAGACGAGGAGTACGAG-3 ' and 5'-GGTCTAGATCATAACGTCAGAC GCTGGCCT-3 ' for IxBeAN ; CCAG-3 ' and 5 % -GGTCTAGATCAATCAGCCCCACACTTCAACAG-3 ' for IxBaAC ) and the wild-type IxBa ( IxBaWT ) cDNA ( 33 ) as a template .
+Amplified products were digested with HindIII and Xbel , purified on 1 % agarose gels , and ligated into the pCMV4 polylinker .
+Site-directed mutations were introduced into the full-length IxBa cDNA by using the phosphorothioate method and oligonucleotide primers that introduced diagnostic restriction sites ( 56 ) .
+Epitope-tagged derivatives of select IxBa mutants were constructed by PCR-assisted amplification with 5 ' primers that fused sequences encoding the FLAG epitope ( 13 , 64 ) in frame with N-terminal coding sequences of IxBa ( 5'-CCCAAGCTTCCACCATGGACTACAAAGACGATGACGATAAAATGT TCCAGGCGGCCGAGCGC-3 ' for I « BaWT , IxBoAC , IxBaS32A , and IxBaS32E ; 5-CCCAAGCTTCCACCATGGACTACAAAGACGATGACGATAAAAT GAAAGACGAGGAGTACGAGC-3 ' for IxBaAN ) .
+Amplified products were cloned into the HindIII and Xbel polylinker sites of pCMV4 .
+Cell culture , transfections , and CAT assays .
+Jurkat T lymphocytes were cultured in RPMI 1640 medium supplemented with 10 % fetal calf serum , 2 mM L-glutamine , and antibiotics .
+Approximately 10 '' cells suspended in RPMI ( 300 l ) were transfected by electroporation ( 250 V , 960 mF ) ( 25 ) with the indicated effector and reporter plasmids , using a Bio-Rad Gene Pulser equipped with a capacitance extender .
+Electroporated cells were placed on ice for 10 min , transferred to 5 ml of complete medium , and then expanded for 48 h. Where indi-cated , cultures were treated after 24 h of growth with either TNF- « ( 300 U/ml ; Genzyme ) or combinations of phorbol 12-myristate 13-acetate ( PMA ; 50 ng/m ! )
+and ionomycin ( 1 aM ; Calbiochem ) for 20 h prior to harvest .
+In some experi-ments , cell cultures were pretreated with the proteasome inhibitor MG132 ( 62 ) ( kindly supplied by MyoGenics , Inc. ) before addition of the NF- « B agonist .
+Whole-cell extracts were prepared from transfectants , normalized for protein concentration ( 18 ) , and assayed for CAT activity , using the diffusion-based liquid scintillation counting method described by Neumann et al .
+( 59 ) .
+Immunoprecipitation and immunoblotting .
+Cytosolic extracts were prepared from transfected cells as described previously ( 73 ) except that the detergent lysis buffer was supplemented with an extensive cocktail of protease inhibitors ( 8 ) .
+Lysates were clarified by centrifugation and equilibrated in ELB buffer ( 50 mM N-2-hydroxycthylpiperazinec-V'-2-ethanesulfonic acid [ HEPES ] , 250 mM NaCl , 5 mM EDTA , 0.1 % Nonidet-P40 ) .
+Epitope-tagged IxBa was isolated from these cytosolic extracts by incubation with 20 wl of agarose beads conjugated to monoclonal anti-FLAG M2 antibody ( IBI-Kodak ) .
+Immunoprecipitates were washed three times with ELB buffer , heat denatured in 4 % sodium dodecyl sulfate ( SDS ) -10 % B-mercaptocthanol , fractionated by SDS-polyacrylamide gel elec-trophoresis ( PAGE ) , and electrophoretically transferred to a polyvinylidene di-fluoride membrane ( Dupont ) .
+Membranes were blocked ( 1 h at room temper-ature ) with Tris-buffered saline containing 0.1 % Tween 20 and 5 % powdered milk ( BLOTTO ) and then incubated with a rabbit antipeptide antiserum specific for either IxBa ( amino acids 1 to 28 and 229 to 317 ) or RelA ( amino acids 529 to 551 ) .
+Immunoreactive polypeptides were detected by using donkey anti-rabbit immunoglobulin G conjugated to horseradish peroxidase in an enhanced chemi-luminescence system as specified by the manufacturer ( Amersham ) .
+Gel retardation assays .
+Nuclear fractions were prepared from Jurkat T-cell transfectants by high-salt extraction ( 73 ) in the presence of protease inhibitors ( 8 ) .
+Gel mobility shift assays were performed by using a P-radiolabeled oligonucleotide duplex derived from xB enhancer sequences in the IL-2Ra promoter ( 5'-CAACGGCAGGGGAATTCCCCTCTCCTT-3 ' ) ( 8 ) .
+DNA binding reaction mixtures ( 20 pl ) contained 5 pg of Jurkat nuclear extract , 2 mg of double-stranded poly ( dI-dC ) , and 10 pg of bovine serum albumin buffered in 20 mM HEPES ( pH 7.9 ) -5 % glycerol-1 mM EDTA-1 % Nonidet P-40-5 mM dithioth-reitol .
+Approximately 10 fmol ( 200,000 epm ) of radiolabeled probe was used per reaction .
+Resultant nucleoprotein complexes were resolved on native 5 % polyacrylamide gels and detected by autoradiography as previously described ( 14 ) .
+Mor .
+CELL .
+BioL .
+Relative CAT Activity ( Fold Induction ) nos os a g & o O o O _s o to ke , x5 , 5 My , 4 Q ’ ho , ty y `` o FIG .
+1 .
+Identification of a Tax-responsive domain in IxBa « .
+Jurkat T cells were cotransfected with HIV- « B-CAT ( 5 pg ) and equivalent doses ( 2.5 pg ) of the indicated pCMV4-based IxBa expression vectors , in the presence or absence of a Tax expression vector ( 5 pg ) .
+After 48 h of culture , whole-cell extracts were prepared , normalized for total protein , and assayed for CAT activity .
+Results from five independent transfections are reported as the mean fold induction ( + standard error of the mean ) of CAT activity in Tax-expressing versus Tax-deficient cells .
+RESULTS IxBa is a cellular target of HTLV-1 Tax .
+Recent primary structural analyses of human IxBa have indicated that this cytoplasmic inhibitor contains a central domain ( amino acids 73 to 242 ) composed of five ankyrin repeat motifs , a C-terminal PEST domain ( amino acids 243 to 317 ) characteristic of many short-lived proteins , and an N-terminal domain of unknown biological function ( 33 ) .
+To determine whether IKxBa « is required for Tax-induced activation of NF-kB , we initially examined the ability of Tax to mediate « B-specific transcription in cells reconstituted with deletion mutants of IxBa that contained a fully intact ankyrin repeat domain .
+For these studies , human Jurkat T lymphocytes were transfected with expression vectors encoding these truncated forms of IxBa , HTLV-1 Tax , and a CAT reporter plasmid under the transcriptional control of two NF- « B binding sites from the HIV enhancer ( HIV- « kB-CAT ) ( 55 , 79 ) .
+As shown in Fig .
+1 , Tax induced the activation of the HIV-kB reporter gene at least 50-fold over basal levels in the absence of ectopic IxBa .
+This activity persisted in the presence of either IxBaWT or a mutant of IxBa lacking the C-terminal PEST domain ( amino acids 243 to 317 ; IxBaAC ) .
+In sharp contrast to IxBaWT , identical doses ( 2.5 ug ) of a deletion mutant lacking the N-terminal 36 amino acids ( IxBaAN ) almost completely abolished the Tax response .
+Results of immunoblotting studies indicated that the IxBaWT and IxBoAN proteins were expressed at comparable steady-state levels ( see Fig .
+3A ) .
+Furthermore , titration experiments indicated that 10-to 20-fold higher concentrations of IxBaWT than of IxBaAN were required to achieve half-maximal inhibition of this re-sponse , thus precluding the possibility that these divergent functional effects were due to slight variations in effector plasmid input .
+Conditional repression of Tax-dependent transcription .
+In addition to NF- « B , Tax can also interface with distinct transcription factors , including serum-responsive factor ( 26 ) and members of the cyclic AMP-responsive element-binding pro-tein/activating transcription factor ( CREB/ATF ) family ( 83 , 89 ) , thus expanding the range of viral and cellular genes under Tax control .
+In light of these findings , the altered in vivo function of IxBa produced by this N-terminal deletion ( Fig .
+1 ) could reflect the inhibition of auxiliary components of the cellular transcriptional machinery other than NF-KB .
+Vou .
+15 , 1995 HTLV-1 LTR 7 Relative CAT Activity ( % ) HIV LTR 10 Effector Plasmid ( ug ) FIG .
+2 .
+Conditional repression of Tax-dependent transcription .
+Jurkat T cells were transfected with a Tax expression vector ( 5 pg ) , graded amounts of IxBaAN effector plasmid , and a CAT reporter construct under transcriptional control of either the HIV LTR ( 1 ag ) , HTLV-1 LTR ( 0.5 ug ) , c-fos promoter ( 1 ug ) , or IL-2Ra « promoter ( 5 ug ) .
+Input DNA for all transfections ( 20 pg ) was normalized by addition of blank pCMV4 expression vector .
+For each titration point ( r = 3 ) , the increase in reporter gene activity over basal levels is expressed as the mean percentage of CAT activity measured in control cells lacking the IxBaAN expression vector .
+In IxBoAN-deficient cells , the Tax-dependent increases in CAT activity over basal levels ( fold induction ) were 21.6 + 3.3 ( HTLV-1 LTR ) , 8.0 + 2.8 ( HIV LTR ) , 10.6 + 2.7 ( c-fos promoter ) , and 10.7 + 0.2 ( IL-2R « promoter ) .
+To evaluate the specificity of this interaction , titration studies were performed with the IxBaAN effector plasmid in Jurkat T cells cotransfected with Tax and distinct Tax-responsive reporter constructs driven by various naturally occurring promoters ( Fig .
+2 ) .
+Consistent with results obtained with the synthetic HIV- « kB-CAT construct , IxBaAN potently repressed the activity of the full-length HIV LTR in a dose-dependent manner ( Fig .
+2A ) .
+In contrast , IxBoAN failed to significantly down-regulate transcription directed from the HTLV-1 LTR , which responds to Tax by a CREB/ATF-dependent mechanism ( 83 , 89 ) .
+As shown in Fig .
+2B , Tax-induced transcription from the xB-responsive IL-Z2Ra promoter was also attenuated ( > 90 % ) A Anti-lkBa Anti-RelA REGULATION OF NF- « B ACTIVATION 2811 in cells expressing low doses of IxB « eAN .
+However , higher doses of this deletion mutant in Tax-expressing cells led to only modest inhibitory effects ( < 15 % ) on the transcriptional activity of the c-fos promoter , a response mediated primarily through the indirect interaction of Tax with an intrinsic serum response factor-binding site ( 26 ) .
+This pattern of promoter-specific repression confirmed that the N-terminal region of IxBa is selectively involved in the mechanism by which Tax deregulates the expression of NF- « xB-dependent transcription units .
+In vivo interactions between ectopic IxBa and endogenous RelA .
+The RelA ( p65 ) transactivator subunit of NF- « B serves as the high-affinity receptor for IxBa ( 5 , 11 , 27 , 86 ) .
+This dynamic interplay between RelA and IxBa thus governs the subcellular distribution and transcriptional activity of NF-kB .
+To examine whether these deletion mutants of IxBa interacted functionally with RelA , immunoprecipitation and gel retardation analyses were performed on cytoplasmic and nuclear extracts from these T-cell transfectants .
+To distinguish ectopic from endogenous IxBa in these studies , we used IxBa cDNAs that were fused in frame with sequences encoding the FLAG epitope ( 13 , 64 ) .
+Results from CAT assays indicated that the presence of this epitope did not alter the functional phenotype of these IxBa constructs ( data not shown ) .
+As shown in Fig .
+3A , these epitope-tagged derivatives of IxBa were efficiently expressed in the cytoplasm ( lanes 2 to 4 ) .
+However , consistent with prior in vitro studies ( 34 , 39 ) , removal of the C terminus of IxBa completely disrupted its RelA-binding function ( lane 8 ) .
+In contrast , the N-terminal deletion mutant of IxBa , which blocked the Tax transcriptional response ( Fig .
+1 ) , retained the capacity to form stable complexes with endogenous RelA in the cytoplasm ( Fig .
+3A , lane 7 ) .
+To assess whether these complexes were functionally latent but competent for induction , Jurkat T cells were cotransfected with expression vectors for RelA and graded doses of each IxBa deletion mutant .
+Nuclear extracts were then prepared from recipient cells and analyzed for « B-specific DNA binding activity in gel retardation assays .
+As shown in Fig .
+3B ( pCMV4 panel ) , two nucleoprotein complexes were detected with extracts from control cells expressing ectopic RelA .
+Results of B 102 8 % 4 5 C pomve wT AN | 1 1 | - a @ < » O Ty -- a T3 Ty tor 3 400 506 Io PCMV4 am as @ es @ _ = !
+: 5 5 5 5 97 - - b= } = == « - » 68 - =- Gua aoc WT du = > 46 - s= - » 1 % Tee 31 - - ' « @ 38- TAK - $ o -o jo oo- 4+ na § YN aao , Ay ats tp Aip - `` ols *s 4 b ns , 471 , ' o G % & % [ kl/6a- 0G éQ 4 ~d `` o O * ~ 4 % * > 4 To Vector ( ug ) FIG .
+3 .
+Biochemical properties of IxBa deletion mutants .
+( A ) Association with endogenous RelA .
+Jurkat T cells were transfected with epitope-tagged derivatives of the indicated IxBa cDNA expression vectors ( 20 pg ) or with the unmodified parental vector ( pCMV4 ; 20 ug ) .
+Cytoplasmic complexes containing ectopic IxBa were isolated by immunoaffinity chromatography , fractionated by SDS-PAGE , and analyzed by immunoblotting with a peptide-specific antiserum for either IxBa « ( amino acids 1 to 29 and 289 to 317 ) or RelA ( amino acids 529 to 551 ) .
+Sizes are indicated in kilodaltons .
+( B ) Inhibition of nuclear ReIA/NF- « B DNA binding .
+Jurkat T cells were cotransfected with a cDNA expression vector encoding human RelA ( 10 pg ) and graded doses of the indicated IxBa expression vectors .
+Nuclear extracts ( 5 pg ) from transfectants were added to DNA binding reaction mixtures containing a **P-labeled palindromic kB probe ( xB-pd ) ( 8 ) and analyzed on native 5 % polyacrylamide gels .
+Nucleoprotein complexes containing RelA homodimers ( upper arrow ) and NF- « B p50/ReIA heterodimers ( lower arrow ) are indicated .
+( C ) Induction of nuclear NF- « B/ReIA activity .
+Jurkat cells were cotransfected with cDNA expression vectors encoding RelA ( 10 ug ) , Tax ( 10 pg ) , and the indicated IxBa constructs ( 5 ug ) .
+After 48 h of growth , cultures were treated with cycloheximide ( 50 pg/ml ! )
+for 2 h in order to prevent the de novo synthesis of IxBa .
+Nuclear extracts were prepared and analyzed in gel retardation assays as described above .
+Nucleoprotein complexes containing RelA homodimers and p50/ReIA ( NF-kB ) heterodimers are indicated with arrows .
+2812 BROCKMAN ET AL .
+DNA-protein cross-linking and antibody binding studies ( data not shown ) indicated that the upper complex contained RelA homodimers and the lower complex contained p50/ReIA ( NF-kB ) heterodimers , which form as a result of RelA-mediated transactivation of the NF- « kB1 gene encoding pSO0 ( 84 ) .
+Consistent with its defect in RelA binding , IxBaAC failed to inhibit these « B-specific activities when expressed over a wide concentration range ( AC panel ) .
+However , even at low dosage , the wild-type and N-terminally deleted forms of IxBa completely blocked both of these DNA binding activities ( WT and AN panels ) .
+As shown in Fig .
+3C , coexpression with HTLV-1 Tax led to efficient inactivation of IxBaWT , as evidenced by the accumulation of functional RelA and NF-kB in the nuclear compartment ( lanes 3 and 4 ) .
+In contrast , Tax failed to activate latent complexes containing the N-terminally truncated inhibitor ( lanes 5 and 6 ) .
+Taken together , these results indicate that the C-terminal portion of IxBa is required for efficient formation of latent NF-kB complexes in the cytoplasm of T cells , whereas the N-terminal segment of IkBa ( the SR domain ) subserves a distinct regulatory function that is required for Tax-mediated induction of nuclear NF- « B .
+The SR domain of IxBa specifies determinants for targeted phosphorylation and degradation .
+The transient induction of NF-kB during T-cell activation is dependent on the prior degradation of IxBa in the cytoplasm ( 10 , 19 , 80 ) .
+In this context , we reasoned that the SR domain of IxBa , which lacks determinants for NF-xB binding , might regulate the stability of this inhibitor in the presence of HTLV-1 Tax .
+To test this hypoth-esis , the steady-state levels of epitope-tagged IxBa protein and its N-terminally deleted counterpart were examined in Tax-expressing T cells .
+To provide stringent control for these ex-periments , we also used expression vectors for Tax containing missense mutations that selectively disrupt its ability to access either the CREB/ATF ( Tax-M47 ) or the NF-kB/Rel ( Tax-M22 ) transcription factor pathway ( 77 ) .
+Thus , Tax-M22 fails to induce the nuclear expression of NF- « B in Jurkat T lymphocytes , whereas the Tax-M47 mutant is fully competent to execute this function ( 77 ) .
+As demonstrated by immunoblotting ( Fig .
+4A ) , coexpression of IxBa with wild-type Tax led to a significant reduction in the steady-state level of cytoplasmic IxBa protein relative to that observed in Tax-deficient cells ( lanes 1 and 2 ) .
+Consistent with their differing capacities to induce NF-kB , the degradative loss of ectopic IxBa was also evident in cells expressing the Tax- M47 mutant ( lane 4 ) but not in cells expressing the Tax-M22 mutant ( lane 3 ) .
+In contrast to the destabilizing effects of Tax on wild-type IxBa , Tax and Tax-M47 both failed to mediate a decline in the steady-state level of the IxBaAN protein ( lanes 6 and 8 ) .
+These results indicate that the SR domain of IxBa contains requisite regulatory determinants not only for NF- « B activation by Tax but also for Tax-induced degradation of IxBa .
+Recent studies have shown that IxBa is phosphorylated prior to its degradative loss during normal T-cell activation ( 10 , 19 , 52 , 57 , 81 ) .
+This labile phosphorylated form of IkBa is readily detected as a more slowly migrating electrophoretic variant that accumulates in cells treated with inhibitors of the proteasome degradation pathway ( 62 ) .
+To determine whether the increased stability of IxBaAN was associated with an altered pattern of phosphorylation , we used the previously described proteasome inhibitor MG132 ( 62 ) in an attempt to prevent Tax-induced turnover of ectopic IxBa in transfected T cells .
+As shown in Fig .
+4B , a modified form of IxBaWT was weakly detected in cells treated with MG132 alone ( compare lanes 1 and 2 ) , presumably as a result of arrest of basal turnover in the absence of NF-kB inducer .
+Expression of this electrophoretic variant of IxBa was substantially augmented in Mor .
+CELL .
+BioL .
+A IxBaWT poor os 4 's e 1 s I I I I 1 I I I 97 - a 68—0 4° -G h ~ ] Ba 31 - P uy s ?
+.
+wam oer ugmp seme ANS 20 - _ bo R. Al boob , « oo Cod 4 4 to 5 4 3 £ % 5 a `` a % o 4 , B IkBaWT IkBaAN [ G 2 s | [ O4 50 6 | I I I 1 I I 97 - -68- -46- _ 31- MG132 : - ++ - + + TAK : -=- - + - - + FIG .
+4 .
+The SR domain of IxBa « contains determinants for Tax-induced phosphorylation and degradation .
+( A ) Jurkat T cells were cotransfected with expression vectors for the indicated epitope-tagged derivatives of IxBa ( 1 ug ) , wild-type Tax ( Tax-WT ; 10 pg ) , or Tax mutants ( 77 ) defective in either NF-kB ( Tax-M22 ) or CREB/ATF ( Tax-M47 ) activating function ( 10 pg ) .
+Cytoplasmic extracts were fractionated by immunoaffinity chromatography , resolved by SDS-PAGE , and subjected to immunoblotting with an IxBa-specific antiserum .
+NS , nonspecific .
+( B ) Jurkat T cells were cotransfected with plasmids encoding the indicated epitope-tagged derivatives of IxBa ( 5 ug ) in the presence or absence of a Tax expression vector ( 10 ug ) .
+After 24 h of culture , samples were treated with the proteosome inhibitor MG132 ( 100 wM , 4 h ) .
+Cytoplasmic extracts were prepared in the presence of a cocktail of phosphatase inhibitors ( 50 mM sodium fluoride , 10 mM sodium pyrophosphate , 1 mM sodium orthovanadate , 10 M sodium molybdate , 50 M zinc chloride , and 20 mM B-glycerol phosphate ) and subjected to immunoprecipitation with anti-FLAG antibody .
+Immune complexes were fractionated by SDS-PAGE and probed on immunoblots with an IxBo-specific antiserum .
+Major immunoreactive species are indicated with arrows .
+Sizes are indicated in kilodaltons .
+cells cotransfected with HTLV-1 Tax ( lane 3 ) , despite the ability of Tax to stimulate the breakdown of IxBa in MG132-deficient cells ( Fig .
+4A ) .
+On the basis of its selective sensitivity to calf intestinal phosphatase ( data not shown ) , this modified form of IxBa likely derived from an altered pattern of phosphorylation relative to the cytoplasmic pool of IxBa present in unstimulated cells .
+Unlike IxBaWT , Tax apparently failed to mediate the induced modification of IxBaAN , as evidenced by the conspicuous absence of a characteristic electrophoretic doublet ( lanes 4 to 6 ) .
+These results suggest that the SR domain of IxBa is essential for both signal-dependent phosphorylation and degradation of this cytoplasmic inhibitor .
+Furthermore , the finding that MG132 prevents the breakdown of IxBaWT in Tax-expressing cells implicates the proteasome degradation pathway in the IxBa-dependent mechanism by which this retroviral gene product activates NF-kB .
+Identification of two regulatory serines in the SR domain of IxBa .
+Inspection of the deduced N-terminal sequences for the Vou .
+15 , 1995 Relative CAT Activity ( % ) 25 50 75 100 S32A/S36E S32E/S36A FIG .
+5 .
+The SR domain of IxBa « contains regulatory serine sites .
+Jurkat T cells were cotransfected with HIV-xB-CAT ( 5 ug ) along with cDNA expression vectors encoding Tax ( 5 ug ) and the indicated site-directed mutants of IxBa ( 2.5 ug ) .
+After 48 h of culture , cells were harvested and assayed for CAT activity .
+Tax-dependent increases in reporter gene activity are expressed as a percentage of the activity induced in cells transfected with the IxBaWT ( WT ) effector ( fold induction = 29.9 + 2.6 ) .
+Each bar represents the mean + standard error of the mean from at least three independent transfections .
+rat ( 85 ) , avian ( 22 ) , porcine ( 23 ) , and human ( 34 ) homologs of IxBa revealed the presence of two strictly conserved serines within the SR domain ( Ser-32 and Ser-36 in human IKkBa ) that were absent in the IxBaAN construct .
+These two serines are positioned within consensus phosphorylation sites for casein kinase II ( 33 , 63 ) .
+To explore whether either Ser-32 or Ser-36 constitutes a site for regulatory phosphorylation events that permit Tax-induced activation of NF-kB , a series of specific amino acid substitutions were introduced into the full-length IxBa protein by site-directed mutagenesis .
+As shown in Fig .
+5 , substitution of alanine for either Ser-32 or Ser-36 in ectopic IxBa ( mutant S32A or $ 36A ) markedly attenuated Tax-mediated transactivation of HIV-kB-CAT in Jurkat T-cell transfectants .
+These dominant-negative effects were highly selective , because IxBa constructs containing point mutations at two other potential phosphorylation sites in the N-terminal region of IxBa , including an alanine substitution at Ser-63 ( mutant S63A ) or phenylalanine for Tyr-42 ( mutant Y42F ) , failed to inhibit the Tax response .
+To extend these findings , we attempted to reconstitute the signaling activity of IxBa mutants S32A and $ 36A by replacing alanine with charged amino acids that can function as phosphoserine mimetics ( 1 , 17 ) .
+As shown in Fig .
+5 , the ability of Tax to transactivate HIV-kB-CAT in the presence of ectopic IxBa was significantly reconstituted in vivo ( > 90 % relative to the wild type ) by introducing glutamic acid at either site ( mutants S32E and $ 36E ) .
+However , introduction of alanine at the adjacent unmodified serine site ( Fig .
+5 ; mutants S32A/836E and S $ 32E/836A ) converted these reconstituted IxBa mutants to a signaling-defective phenotype .
+These results indicate that Ser-32 and Ser-36 function as independent regulatory sites within the SR domain of IxBa , both of which are critical for Tax-mediated induction of NF- « B .
+Biochemical analyses of site-directed IxBa mutants .
+To confirm that the observed dominant-negative phenotypes were due to specific defects in the signaling function of IxBa , we next performed studies with extracts from T cells transfected with select site-directed mutants .
+As demonstrated by immunoblotting with RelA-specific antibodies ( Fig .
+6A ) , variants of IxBa containing either an alanine or glutamic acid substitution at Ser-32 ( mutants S32A and S32E ) retained the capacity to associate with endogenous RelA complexes in the absence of REGULATION OF NF- « B ACTIVATION 2813 Tax ( lanes 7 and 8 ) , indicating that these mutations did not perturb the formation of latent NF- « B/IxBa complexes .
+However , in keeping with their distinct functional phenotypes ( Fig .
+5 ) , only IxBa mutant $ 32 failed to permit Tax-induced expression of NF- « B DNA binding activity in the nuclear compartment ( Fig .
+6B , lanes 5 and 6 ) .
+These data indicate that the $ 32A mutant of IxBa is a constitutive repressor of NF- « B with a specific defect in its ability to transduce Tax-dependent signals that uncouple NF- « B/IxBa complexes .
+In contrast to this dominant-negative phenotype , introduction of glutamic acid rather than alanine at Ser-32 was sufficient to rescue the signal-transducing function of IxBa « in the presence of HTLV-1 Tax ( Fig .
+6B , lanes 7 and 8 ) .
+On the basis of the finding that deletion of IxBa sequences encompassing Ser-32 rendered IxBa refractile to Tax-induced degradation ( Fig .
+4A ) , we next examined whether these two functionally distinct classes of point mutations differentially affected the steady-state levels of cytoplasmic IxBa in cells expressing wild-type or mutated forms of Tax .
+As shown in Fig .
+6C ( lanes 1 to 4 ) , expression of the S32E mutant of IxBa was selectively repressed in T cells transfected with wild-type Tax and Tax-M47 , both of which induce the NF- « B signaling pathway .
+These results were fully consistent with that observed in cells expressing IxBaWT ( Fig .
+4A ) .
+However , replacement of Ser-32 with alanine rather than glutamic acid ( mutant $ 32A ) was associated with the escape of IxBa from Tax-induced breakdown ( Fig .
+6C , lanes 5 to 8 ) , thus recapitulating the stability profile of the IxBaAN mutant in Tax-expressing cells ( Fig .
+4A ) .
+Taken together , these functional and biochemical results suggest that the phosphorylation status of Ser-32 and/or Ser-36 may influence Tax-induced entry of IxBa into its degradative pathway .
+Constitutive repression of NF-B-directed transcription in activated T cells .
+In addition to HTLV-1 Tax , expression of the active nuclear form of NF-kB in human T lymphocytes is posttranslationally induced by a number of cellular signaling pathways , including those mediated by cell surface receptors for antigen ( 41 ) and the cytokine TNF- « ( 19 , 61 , 74 ) .
+Prior studies with Jurkat T cells have clearly demonstrated that activation of these pathways leads to the rapid degradation of endogenous IxBa ( 10 , 19 , 25 , 80 ) .
+To examine these Tax-independent pathways for NF-kB activation , Jurkat T cells were transfected with cDNA expression vectors encoding either IxBaWT or a mutant lacking the SR domain and were then treated with TNF- « .
+Alter-natively , transfectants were treated with PMA and ionomycin , a combination that simulates the effects of antigen receptor stimulation on protein kinase C activity and on release of ionized calcium from intracellular stores ( 24 , 50 , 88 ) .
+As shown in Fig .
+7 , both of these NF- « B agonists induced the rapid degradation of ectopic IxBaWT in transfected T cells ( lanes 1 to 5 ) .
+However , forms of IxBa lacking the SR domain were resistant to degradation under either stimulatory condition ( lanes 6 to 10 ) .
+Similar results were obtained with the S3ZA mutant of IxBa in T cells treated with PMA plus ionomycin ( data not shown ) , a finding that is fully consistent with the stabilizing effects of this point mutation on IxBa when introduced into Tax-expressing cells ( Fig .
+6C ) .
+To extend these biochemical results , we next assessed the functional properties of each IxBa mutant in T cells cotransfected with the HIV-kB-CAT reporter .
+Both TNF ( Fig .
+8A ) and PMA-ionomycin ( Fig .
+8B ) stimulated < B-directed transcription from the HIV- « B enhancer in the presence of transfected IKxBaWT .
+In contrast , induction of HIV- « B-CAT by these NF- « xB agonists was prevented in T cells expressing a deletion mutant of IxBa that lacked the Tax-responsive SR 2814 BROCKMAN ET AL .
+A Anti-lkBa Anti-RelA tp or os 4 ) soe 7 8° t 1 1 1 1 I [ U 97 - ' 68 - m__ _- aes -- 46- < u ~~~ *I 31 - 20 - wo NJ RR yo Ny , RR 'On % ' O , % L O 4 » S. ® C 4o $ .
+® 4 343 & 4 % % , % 7 0 be , Cp 7 CC * # * 3 .
+B pCMV4 WT S32A S32E F1 p 1 I 3 4 1 1 5 6 1 I 7 8 1 I I I I I I I I cap came houti , ant nave aap am C ssog S32A bor g 400g e Ios ] 97 - * 68 - 46 ~ lam -- - - -.__.44—|1 < Ba 31 - TBHP as rat us « - NS 20 - kkkkkkkk ) Co 4 4 3 to 5 3 Cy t , % tu to % * % 5 a a `` a 4 t 4 .
+FIG .
+6 .
+Biochemical properties of site-directed IxBa mutants .
+( A ) Association with endogenous RelA .
+Jurkat T cells were transfected with FLAG epitope-tagged derivatives of the indicated pCMV4-based IxBa expression vectors ( 20 g ) .
+Cytoplasmic complexes containing ectopic IxBa were immunoprecipitated with a monoclonal anti-FLAG antibody , fractionated by SDS-PAGE , and analyzed by Western blotting with a peptide-specific antiserum for cither IxBo ( lanes 1 to 4 ) or RelA ( lanes 5 to 8 ) .
+( B ) Induction of nuclear NF-xB/Re !
+activity .
+Jurkat T cells were cotransfected with pCMV4-based expression vectors encoding RelA ( 10 pg ) , Tax ( 10 mg ) , and the indicated IxBa constructs ( 5 ug ) .
+After 48 h of culture , cells were treated with cycloheximide ( 50 ug/m ! )
+for 2 h and then harvested .
+Gel retardation assays were performed with nuclear extracts as described for Fig .
+3B .
+Arrows indicate the positions of nucleoprotein complexes containing RelA homodimers ( upper ) and RelA/p30 heterodimers ( lower ) .
+( C ) Steady-state levels of IxBa .
+Jurkat cells were cotransfected with expression vectors for the indicated epitope-tagged mutants of IxBa ( 1 ug ) and either control vector ( pCMV4 ; lanes 1 and 5 ) or the indicated forms of Tax ( 10 ug ) .
+Mutants of the wild-type Tax protein ( Tax-WT ) that are defective in either NF- « B ( Tax-M22 ) or CREB/ATF ( Tax-M47 ) activating function have been previously described ( 77 ) .
+Cytoplasmic extracts were prepared after 48 h of culture , immunoprecipitated with a monoclonal anti-FLAG antibody , fractionated by SDS-PAGE , and analyzed by Western blotting with an IxBo-specific antiserum ( amino acids 289 to 317 ) .
+The positions and sizes ( in kilodaltons ) of molecular weight markers are indicated at the left in panels A and C. NS , nonspecific .
+Mor .
+CELL .
+BioL .
+IkBaWT IkBaAN [ 4 o 2 os 4 s le 7 Os # s 10 ] oi Pood ood oa PMA + aam -_ _- wow- coa , « upar cmm IONOMYCIN TNFG Crem oo .
+~ cuse cume caren coun e 0 0.50 1 2 4 0 0.5 1 2 4 TIME ( HOURS ) FIG .
+7 .
+The SR domain regulates the induced degradation of IxBa in response to T-cell activation signals .
+Jurkat T cells were transfected with expression vectors ( 5 pg ) encoding FLAG epitope-tagged derivatives of either IxBaWT ( lanes 1 to 5 ) or IxBaAN ( lanes 6 to 10 ) .
+After 48 h of culture , transfected cells were pretreated with cycloheximide ( 50 pg/ml , 1 h ) and then stimulated for the indicated time with either TNF- « ( 300 U/m1 ) or combinations of PMA ( 50 ng/m ! )
+and ionomycin ( 1 M ) .
+Tagged proteins were immunoprecipitated with a monoclonal anti-FLAG antibody , fractioned by SDS-PAGE , and detected by Western blotting using an IxBo-specific antiserum .
+Under these conditions , no significant degradation of IxBa was observed in control cells treated with cycloheximide in the absence of NF- « B agonist .
+domain ( IxBa « AN ) .
+These signal-dependent transcriptional responses were also attenuated in T cells expressing a mutant of IxBa containing an alanine substitution at either Ser-32 or Ser-36 .
+However , both signal transduction pathways were significantly reconstituted in the presence of IxBa constructs containing glutamic acid rather than alanine at these two regulatory sites .
+These results with TNF- « - and PMA-ionomycin 100 so g so = .
+40 } A 3 20+ O < & - |B O 100 4 $ F 80 © 60 CC 40 20 - I FIG .
+8 .
+Constitutive repression of cytokine and T-cell activation pathways by dominant-negative mutants of IxBa .
+Jurkat T cells were cotransfected with HIV- « B-CAT ( 5 pg ) and expression vectors encoding the indicated site-directed mutants of human IxBa ( 2.5 ug ) .
+After 24 h of growth , half of each culture was stimulated for 20 h with either TNF- « ( 300 U/ml ! )
+( A ) or a combination of PMA ( 50 ng/m ! )
+and ionomycin ( 1 M ) ( B ) .
+CAT activities were measured in normalized extracts as described previously ( 59 ) .
+For each mutant , induction of reporter gene activity over basal levels ( fold induction ) is expressed as a percentage of the activity induced in cells transfected with the IxBaWT cDNA ( mean fold induction = 9.4 + 0.9 for TNF- « and 17.1 + 1.7 for PMA-ionomycin ) .
+Error bars depict standard errors of the mean percentage value derived from at least three independent transfections .
+Vou .
+15 , 1995 stimulated T cells correlated precisely with the functional phenotypes of all IxBa mutants introduced into Tax-expressing cells ( Fig .
+5 ) .
+DISCUSSION The amino terminus of IxBa specifies an SR domain .
+Since its initial discovery in B lymphocytes ( 75 ) , NF- « B has emerged as an essential component of the inducible transcriptional machinery that mediates T-cell activation and growth ( 31 , 32 , 46 ) .
+In addition , NF- « B is coopted by HIV and HTLV-1 to sub-serve distinct retroviral functions in infected CD4* cells ( 30 , 31 ) .
+A hallmark feature of NF- « B is its extraordinary capacity to respond to a diverse range of physiologic and pathologic cues , including T-cell receptor ligands , cytokines , and viral proteins ( 32 ) .
+It is now clear that the transcriptional activity of NF-kB is regulated from the cytoplasmic compartment by IxBa , which is rapidly degraded during cellular activation ( 9 , 10 , 19 , 20 , 25 , 35 , 80 , 81 ) .
+However , a unifying explanation for how disparate viral and cellular stimuli converge on this enzy-matic checkpoint has remained elusive .
+To examine this signaling mechanism in detail , we devised an approach to reconstitute human T lymphocytes with ectopic forms of IxBa that interface with the endogenous NF- « B signaling pathway .
+When the wild-type IxBa cDNA was expressed in this in vivo system , the resultant ectopic protein fully recapitulated the inhibitory and signal-transducing functions of endogenous IxBa .
+In contrast , a deletion mutant of IxBa lacking amino acids 1 to 36 ( IxBaAN ) failed to support NF- « kB-directed transcription from the HIV enhancer in cells stimulated with potent NF- « B inducers , including HTLV-1 Tax , TNF-a « @ , and combinations of phorbol ester and calcium iono-phore .
+Based on coimmunoprecipitation and gel retardation studies , however , this dominant-negative form of IxBa retained both its NF- « B binding and inhibitory functions in unstimulated cells .
+These in vivo results thus define N-terminal regulatory sequences in IxBa that integrate proximal biochemical signals leading to the induced nuclear translocation of NF- « B .
+This SR domain of IxBa represents a key target for antigen- and cytokine receptor-mediated pathways that converge on the set of T-cell activation genes under NF-kB control .
+The SR domain of IxBa is also inextricably linked to the pathophysiologic mechanism by which HTLV-1 Tax deregulates the function of NF-xB , resulting in the aberrant expression of a subset of these growth-related cellular genes .
+Moreover , preliminary experiments conducted with stably transfected pre-B cells indicate that this region of IxBa is required for the induction of NF-kB in response to bacterial lipopolysaccharide ( data not shown ) .
+These findings do not exclude the possibility that the SR domain collaborates with other distal regulatory sequences in IxBa in order to govern its biologic activity .
+For example , acquisition of this pleiotropic signaling function may also involve the C-terminal region of IkBa « ( amino acids 243 to 317 ) , which contains PEST sequences characteristic of many proteins that undergo rapid turnover ( 33 , 66 ) .
+In this regard , we have found that removal of the entire PEST domain of IxBa disrupts its RelA binding function in vivo .
+However , preliminary studies with an IxBa mutant retaining a portion of the PEST domain indicate the presence of additional determinants in this C-terminal region that may act in concert with the N-terminal SR domain of IxBa to mediate its signal-transducing function .
+Role of IxBa in NF-KB induction by HTLV-1 Tax .
+Recent studies with mice transgenic for the Tax gene suggest that the constitutive pattern of NF-kB expression in HTLV-1-infected REGULATION OF NF- « B ACTIVATION 2815 cells may be required to maintain a neoplastic state of deregulated growth control ( 45 ) .
+Insights into the precise mechanism underlying this pathogenic virus-host interaction have been complicated by the pleiotropic effects of HTLV-1 Tax on the T-cell activation program and its ability to assemble with several components of the NF- « B pathway that are structurally and functionally related to IxBa .
+These Tax-interactive components include the Rel-related precursors of the p50 and p52 NF-kB/Re ! l subunits ( p105 and p100 , respectively ) ( 12 , 36 , 87 ) , as well as IxBy ( 37 ) , which corresponds to the C-terminal half of p105 ( 38 ) .
+Like IxBa , all three of these polypeptides contain multiple ankyrin motifs and inhibit the nuclear expression and DNA binding activity of select Rel polypeptides ( 9 , 38 , 53 , 58 , 65 ) .
+However , evidence is currently lacking for either the presence of IxBy in human T cells or for Tax-induced processing of p100 and p105 to their functionally active subunits ( 42 , 82 ) .
+This study provides four new lines of experimental evidence demonstrating that the SR domain of IxBa couples Tax to the host NF- « B signaling pathway .
+First , Tax failed to stimulate the transcriptional activity of NF- « B-responsive promoters in cells expressing a deletion mutant of IxBa « ( IxBaAN ) that lacked this N-terminal regulatory region .
+These inhibitory effects were selective , because the ability of Tax to transactivate promoters that function independently of NF-kB ( e.g. , HTLV-1 LTR ) was unimpeded in cells coexpressing IxBoAN .
+Second , in vivo expression of IxBaAN but not its wild-type counterpart prevented Tax-induced nuclear translocation of NF-kB .
+Third , whereas Tax stimulated the turnover of wild-type IxBa , removal of the SR domain rendered this inhibitor completely resistant to Tax-induced degradation .
+Taken together , these latter two findings establish a direct mechanistic link between the ability of Tax to stimulate the degradation of IxBa and to trigger the induction of nuclear NF-kB expression .
+Fourth , point mutations in Tax that ablate its NF-kB-inducing function ( 77 ) also block the ability of Tax to stimulate IxBa breakdown , thus providing further evidence for the specificity and functional relevance of this virus-host interaction .
+These findings extend two recent studies indicating that Tax induces the proteolytic breakdown of endogenous IxBa in both stable transfectants and HTLV-l-infected cells ( 42 , 82 ) .
+Furthermore , the finding that IxBa accumulates in Tax-expressing cells following treatment with an inhibitor of the proteasome ( Fig .
+4B ) implicates this specific degradation pathway in the mechanism by which Tax inactivates IxBa .
+Function of the SR domain .
+Prior biochemical studies have shown that IxBa is rapidly and transiently phosphorylated in response to T-cell activation signals before entering its degradative pathway ( 10 , 19 , 52 , 57 , 81 ) .
+This inducibly phosphorylated form of IxBa accumulates in cells treated with proteasome inhibitors that completely block the activation of NF- « B , thus suggesting that phosphorylation is not sufficient to trigger the dissociation of intact IxBa from NF-kB ( 62 ) .
+In this context , we have identified two regulatory serines within the SR domain of IxBa that influence its biologic activity in a conditional manner .
+Specifically , substitution of either Ser-32 or Ser-36 with alanine largely disrupted the signal-transducing function of IxBa in response to either Tax , TNF- « , or PMA-ionomycin .
+In contrast , introduction of a phosphoserine mimetic at these positions restored the in vivo signaling activity of IxBa .
+Although direct proof that Ser-32 and Ser-36 are sites for either basal or induced phosphorylation is lacking , these mutational studies are consistent with this possibility .
+Furthermore , phosphoamino acid analyses indicate that endogenous IxBa is basally phosphorylated primarily on serine and threo-nine residues ( data not shown ) .
+Two findings reported in this study indicate that the SR 2816 BROCKMAN ET AL .
+domain of IxBa plays an essential role in the targeting mechanism that facilitates recognition of IxBa as a proteolytic sub-strate .
+First , we have observed that IxBa mutants lacking this domain escape from degradation in the presence of either Tax , TNF- « , or PMA-ionomycin , thereby blocking the nuclear translocation of NF-kB .
+Second , deletion of the SR domain prevented the induction of a labile phosphorylated form of IxBa that has been previously detected in cells stimulated with a variety of NF- « B-inducing agents ( 10 , 19 , 20 , 52 , 57 , 81 ) .
+These results demonstrate that the SR domain contains determinants that are critical for both signal-dependent phosphorylation and proteolysis of IxBa .
+One potential explanation for these findings is that disruption of the N-terminal region of the inhibitor interferes with a regulated phosphorylation step ( s ) that serves to brand IxBa for rapid breakdown .
+For example , our amino acid replacement studies suggest that agonist-in-duced changes in the phosphorylation status of the SR domain at Ser-32 and Ser-36 may influence the proteolytic stability of IxBa .
+However , in light of emerging evidence for involvement of the proteasome in this process ( 62 ) , the possibility that the SR domain of IxBa functions in the acquisition of other distinct degradation signals can not be excluded .
+Conclusions .
+In summary , these studies reveal an SR domain within IxBa that is coupled to both viral and immune activation pathways for NF- « B induction .
+Our findings support a phosphorylation-dependent mechanism for functional release of NF- « B from IxBa control involving determinants within the SR domain that direct the induced entry of IxBa into its degradative pathway .
+In particular , site-directed mutations at two regulatory serines that are positioned within the SR domain of IxBa ( Ser-32 and Ser-36 ) produce constitutive repressors of NF-kB-directed transcription with potent activity in human T lymphocytes .
+Such constitutive repressors , in combination with an appropriate delivery system , could prove applicable to the design of novel immunosuppressive and anti-inflammatory drugs .
+ACKNOWLEDGMENTS We thank Tom Maniatis , David Kranz , Earl Ruley , Jacek Hawiger , and John Exton for critical comments ; Craig Rosen , Warner Greene , and Albert Baldwin for cDNA clones ; and Emily Vance for manuscript preparation .
+These studies were supported by the Howard Hughes Medical Institute and grant RO1 AI33839 from the National Institute of Allergy and Infectious Diseases to D.W.B .
+ADDENDUM IN PROOF We have recently assembled evidence that simultaneous replacement of Ser-32 and Ser-36 with alanine prevents hyper-phosphorylation of IxBa in T cells treated with PMA-ionomy-cin .
+These results provide further support for the proposed functional role of Ser-32 and Ser-36 in signal-dependent phosphorylation events that render IxBa susceptible to targeted degradation .
+REFERENCES 1 .
+Alessi , D. R. , Y. Saito , D. G. Campbell , P. Cohen , G. Sithanandam , U. Rapp , A. Ashworth , C. J. Marshall , and S. Cowley .
+1994 .
+Identification of the sites in MAP kinase kinase-1 phosphorylated by p74raf-1 .
+EMBO J .
+13:1610-1619 .
+2 .
+Andersson , S. , D. L. Davis , H. Dahlback , H. Jornvall , and D. W. Russell .
+1989 .
+Cloning , structure , and expression of the mitochondrial cytochrome P-450 sterol 26-hydroxylase , a bile acid biosynthetic enzyme .
+J. Biol .
+Chem .
+264:8222-8229 .
+3 .
+Baeuerle , P. , and D. Baltimore .
+1988 .
+Activation of DNA-binding activity in an apparently cytoplasmic precursor of the NF-B transcription factor .
+Cell 53:211-217 .
+10 .
+11 .
+12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+26 .
+27 .
+28 .
+Mor .
+CELL .
+BioL .
+.
+Baeuerle , P. , and D. Baltimore .
+1988 .
+IxB : a specific inhibitor of the NF- « B transcription factor .
+Science 242:540-546. .
+Baeuerle , P. , and D. Baltimore .
+1989 .
+A 65-kD subunit of active NF- « B is required for inhibition of NF-xB by IxB .
+Genes Dev .
+3:1689-1698. .
+Ballard , D. W. , E. Bohnlein , J. W. Lowenthal , Y. Wano , B. R. Franza , and W. C. Greene .
+1988 .
+HTLV-I Tax induces cellular proteins that activate the « B clement in the IL-2 receptor a gene .
+Science 241:1652-1655. .
+Ballard , D. W. , E. P. Dixon , N. J. Peffer , H. Bogerd , S. Doerre , B. Stein , and W. C. Greene .
+1992 .
+The 65-kDa subunit of human NF- « B functions as a potent transcriptional activator and a target for v-Rel-mediated repression .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 89:1875-1879. .
+Ballard , D. W. , W. H. Walker , S. Doerre , P. Sista , J .
+A. Molitor , E. P. Dixon , N. J. Peffer , M. Hannink , and W. C. Greene .
+1990 .
+The v-rel oncogene encodes a kB enhancer binding protein that inhibits NF- « B function .
+Cell 63:803-814. .
+Beg , A .
+A. , and A. S. Baldwin , Jr. 1993 .
+The IxB proteins : multifunctional regulators of Rel/NF- « B transcription factors .
+Genes Dev .
+7:2064-2070 .
+Beg , A .
+A. , T. S. Finco , P. V. Nantermet , and A. S. Baldwin , Jr. 1993 .
+Tumor necrosis factor and interleukin-1 lead to phosphorylation and loss of IxBa : a mechanism for NF- « B activation .
+Mol .
+Cell .
+Biol .
+13:3301-3310 .
+Beg , A .
+A. , S. M. Ruben , R. I. Scheinman , S. Haskill , C. A. Rosen , and A. S. Baldwin , Jr. 1992 .
+IxB interacts with the nuclear localization sequences of the subunits of NF- « B : a mechanism for cytoplasm retention .
+Genes Dev .
+6:1899-1913 .
+Béraud , C. , S.-C. Sun , P. Ganchi , D. W. Ballard , and W. C. Greene .
+1994 .
+Human T-cell leukemia virus type 1 tax associates with and is negatively regulated by the NF-xB2 p100 gene product : implications for viral latency .
+Mol .
+Cell .
+Biol .
+14:1374-1382 .
+Blanar , M. , and W. J. Rutter .
+1992 .
+Interaction cloning : identification of a helix-loop-helix zipper protein that interacts with c-fos .
+Science 256:1014-1018 .
+Bohnlein , E. , J. W. Lowenthal , M. Sickevitz , D. W. Ballard , B. R. Franza , and W. C. Greene .
+1988 .
+The same inducible nuclear protein ( s ) regulates mitogen activation of both the interleukin-2 receptor-alpha gene and type I HIV .
+Cell 53:827-836 .
+Bohnlein , E. , M. Sickevitz , D. W. Ballard , J. W. Lowenthal , L. Rimsky , H. Bogerd , J. Hoffman , Y. Wano , B. R. Franza , and W. C. Greene .
+1989 .
+Stimulation of human immunodeficiency virus type I enhancer by the human T-cell leukemia virus type I fax gene product involves the activation of inducible cellular proteins .
+J. Virol .
+63:1578-1586 .
+Bours , V. , J. Villalobos , P. R. Burd , K. Kelly , and U. Siebenlist .
+1990 .
+Cloning of a mitogen-inducible gene encoding a xB DNA-binding protein with homology to the re ?
+oncogene and to cell-cycle motifs .
+Nature ( London ) 348:76-80 .
+Boyle , W. , P. van der Geer , and T. Hunter .
+1991 .
+Phosphopeptide mapping and phosphoamino acid analysis by two-dimensional separation on thin-layer cellulose plates .
+Methods Enzymol .
+201:110-149 .
+Bradford , M. M. 1976 .
+A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding .
+Anal .
+Biochem .
+72:248-254 .
+Brown , K. , S. Park , T. Kanno , G. Franzoso , and U. Siebenlist .
+1993 .
+Mutual regulation of the transcriptional activator NF- « B and its inhibitor , IxBe .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:2532-2536 .
+Cordle , S. R. , R. Donald , M. A .
+Read , and J. Hawiger .
+1993 .
+Lipopolysaccharide induces phosphorylation of MAD3 and activation of c-Rel and related NF- « B proteins in human monocytic THP-1 .
+J. Biol .
+Chem .
+268 : 11803-11810 .
+Cross , S. L. , M. B. , Feinberg , J .
+B. Wolf , N. J. Holbrook , F. Wong-Staal , and W. J. Leonard .
+1987 .
+Regulation of the human interleukin-2 receptor « chain promoter : activation of a nonfunctional promoter by the transactivator gene of HTLV-I .
+Cell 49:47-56 .
+Davis , N. , S. Ghosh , D. L. Simmons , P. Tempst , H. C. Liou , D. Baltimore , and H. R. Bose , Jr. 1991 .
+Rel-associated pp40 : an inhibitor of the rel family of transcription factors .
+Science 253:1268-1271. deMartin , R. , B. Vanhove , Q. Cheng , E. Hofer , V. Csizmadia , H. Winkler , and F. H. Bach .
+1993 .
+Cytokine-inducible expression in endothelial cells of an IxBa-like gene is regulated by NF-kB .
+EMBO J .
+12:2773-2779 .
+Durand , D. B. , M. R. Bush , J. G. Morgan , A. Weiss , and G. R. Crabtree .
+1987 .
+A 275 basepair fragment at the 5° end of the interleukin 2 gene enhances expression from a heterologous promoter in response to signals from the T cell antigen receptor .
+J. Exp .
+Med .
+165:395-407. .
+Frantz , B. , E. C. Nordby , G. Bren , N. Steffan , C. V. Paya , R. L. Kincaid , M. J. Tocci , S. J. O'Keefe , and E. A. O'Neill .
+1994 .
+Calcineurin acts in synergy with PMA to inactivate IxB/MAD3 , an inhibitor of NF-kB .
+EMBO J .
+13:861-870 .
+Fujii , H. , H. Tsuchiya , T. Chubjo , T. Akizawa , and M. Seiki .
+1992 .
+Interaction of HTLV-1 Tax with p67° '' '' causes the aberrant induction of cellular immediate early genes through CArG boxes .
+Genes Dev .
+6:2066-2076 .
+Ganchi , P. , S.-C. Sun , W. C. Greene , and D. W. Ballard .
+1992 .
+IxB/MAD-3 masks the nuclear localization signal of NF- « B p65 and requires the transactivation domain to inhibit NF-kB p65 DNA binding .
+Mol .
+Biol .
+Cell 3:1339-1352 .
+Ghosh , S. , A. M. Gifford , L. R. Riviere , P. Tempst , G. P. Nolan , and D. Vou .
+15 , 1995 29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+Baltimore .
+1990 .
+Cloning of the p50 DNA binding subunit of NF-kB : homology to ref and dorsal .
+Cell 62:1019-1029 .
+Gilman , M. Z. , R. N. Wilson , and R. A. Weinberg .
+1986 .
+Multiple protein-binding sites in the 5'-flanking region regulate c-fos expression .
+Mol .
+Cell .
+Biol .
+64305-4316 .
+Green , P. L. , and I. S. Y. Chen .
+1994 .
+Molecular features of the human T-cell leukemia virus , p. 277-311 .
+In J .
+A .
+Levy ( ed .
+) , The Retroviridae , vol .
+3 .
+Plenum Press , New York .
+Greene , W. C. , E. Bohnlein , and D. W. Ballard .
+1989 .
+HIV-1 , HTLV-1 and normal T-cell growth : transcriptional strategies and surprises .
+Immunol .
+Today 10:272-277 .
+Grilli , M. , J. Chiu , and M. Lenardo .
+1993 .
+NF- « B and Rel : participants in a multiform transcriptional regulatory system .
+Int .
+Rev .
+Cytol .
+143:1-62 .
+Haskill , S. , A .
+A. Beg , S. M. Tompkins , J. S. Morris , A. D. Yurochko , A. Sampson-Johannes , K. Mondal , P. Ralph , and A. S. Baldwin , Jr. 1991 .
+Characterization of an immediate-early gene induced in adherent monocytes that encodes IxB-like activity .
+Cell 65:1281-1289 .
+Hatada , E. , M. Naumann , and C. Scheidereit .
+1993 .
+Common structural constituents confer IxB activity to NF- « B p105 and IxB/MAD-3 .
+EMBO J .
+12:2781-2788 .
+Henkel , T. , T. Machleidt , I. Alkalay , M. Kronke , Y. Ben-Neriab , and P. Baeuerle .
+1993 .
+Rapid proteolysis of IxB- « is necessary in the activation of transcription factor NF- « B .
+Nature ( London ) 365:182-185 .
+Hirai , H. , J. Fujisawa , T. Suzuki , K. Ueda , M. Muramatsu , A. Tsuboi , N. Arai , and M. Yoshida .
+1992 .
+Transcriptional activator Tax of HTLV-I binds to the NF-xB precursor p105 .
+Oncogene 7:1737-1742 .
+Hirai , H. , T. Suzuki , J. Fujisawa , J. Inoue , M. Yoshida .
+1994 .
+Tax protein of human T-cell leukemia virus type I binds to the ankyrin motifs of inhibitory factor xB and induces nuclear translocation of transcription factor NF « B proteins for transcriptional activation .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 91:3584-3588 .
+Inoue , J.-L , L. D. Kerr , A. Kakizuka , and I. M. Verma .
+1992 .
+IxBy , a 70 kd protein identical to the C-terminal half of p110 NF-xB : a new member of the IxB family .
+Cell 68:1109-1120 .
+Inoue , J.-L , L. D. Kerr , D. Rashid , N. Bose , Jr. , and I. M. Verma .
+1992 .
+Direct association of pp40/IxBB with rel/NF- « B transcription factors : role of ankyrin repeats in the inhibition of DNA binding activity .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 89:4333-4337 .
+Inoue , J.-L. , M. Seiki , T. Taniguchi , S. Tsuru , and M. Yoshida .
+1986 .
+Induction of interleukin-2 receptor gene expression by p40 '' encoded by human T-cell leukemia virus type I. EMBO J .
+5:2883-2888 .
+Kang , S.-M. , A. Chen-Tran , M. Grilli , and M. Leonardo .
+1992 .
+NF- « B subunit regulation in nontransformed CD4* T lymphocytes .
+Science 256 : 1452-1456 .
+Kanno , T. , K. Brown , G. Franzoso , and U. Siebenlist .
+1994 .
+Kinetic analysis of human T-cell leukemia virus type I Tax-mediated activation of NF- « B .
+Mol .
+Cell .
+Biol .
+14:6443-6451 .
+Kieran , M. , V. Blank , F. Logeat , J. Vandekerckhove , F. Lottspeich , O. LeBail , M. B .
+Urban , P. Kourilsky , P. A. Baeuerle , and A. Israel .
+1990 .
+The DNA binding subunit of NF- « B is identified to factor KBF1 and homologous to the rel oncogene product .
+Cell 62:1007-1018 .
+Kimata , J. T. , and L. Ratner .
+1991 .
+Temporal regulation of viral and cellular gene expression during human T-lymphotropic virus type I-mediated lymphocyte immortalization .
+J. Virol .
+65:3134-3141 .
+Kitajima , I. , T. Shinohara , J. Bilakovics , D. A .
+Brown , X. Xu , and M. Nerenberg .
+1992 .
+Ablation of transplanted HTLV-1 Tax-transformed tumors in mice by antisense inhibition of NF- « B .
+Science 258:1792-1795 .
+Lenardo , M. J. , and D. Baltimore .
+1989 .
+NF-kB : a pleiotropic mediator of inducible and tissue-specific gene control .
+Cell 58:227-229 .
+Leung , K. , and G. Nabel .
+1988 .
+HTLV-1 transactivator induces interleukin-2 receptor expression through an NF-kB-like factor .
+Nature ( London ) 333 : 776-778 .
+Lowenthal , J. , D. W. Ballard , E. Bohnlein , and W. C. Greene .
+1989 .
+Tumor necrosis factor alpha induces proteins that bind specifically to « B-like enhancer elements and regulate interleukin 2 receptor alpha-chain gene expression in primary human T lymphocytes .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 86:2331-2335 .
+Lowenthal , J. W. , E. Bohnlein , D. W. Ballard , and W. C. Greene .
+1988 .
+Regulation of interleukin-2 receptor « subunit ( Tac or CD25 antigen ) gene expression : binding of inducible nuclear proteins to discrete promoter sequences correlates with transcriptional activation .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 85:4468-4472 .
+Manger , B. , A. Weiss , C. Weyand , J. Goronzy , and J. Stobo .
+1985 .
+T cell activation : differences in the signals required for IL-2 production by non-activated and activated T cells .
+J. Immunol .
+135:3669-3673 .
+Maruyama , M. , H. Shibuya , H. Harada , M. Hatakeyama , M. Seiki , T. Fujita , J.-I .
+Inoue , M. Yoshida , and T. Taniguchi .
+1987 .
+Evidence for aberrant activation of the interleukin-2 autocrine loop by HTLV-L-encoded p40® and T3/Ti complex triggering .
+Cell 48:343-350 .
+Mellits , K. H. , R. T. Hay , and S. Goodbourn .
+1993 .
+Proteolytic degradation of MAD3 ( IxBa ) and enhanced processing of the NF-xB precursor p105 are obligatory steps in the activation of NF-kB .
+Nucleic Acids Res .
+21:5059-5066 .
+53 .
+54 .
+55 .
+56 .
+57 .
+58 .
+59 .
+60 .
+61 .
+62 .
+63 .
+64 .
+65 .
+66 .
+67 .
+68 .
+69 .
+70 .
+71 .
+72 .
+73 .
+74 .
+75 .
+76 .
+77 .
+78 .
+79 .
+REGULATION OF NF- « B ACTIVATION 2817 Mercurio , F. , J .
+A. DiDonato , C. Rosette , and M. Karin .
+1993. p105 and p98 precursor proteins play an active role in NF- « B-mediated signal transduc-tion .
+Genes Dev .
+7:705-718 .
+Meyer , R. , E. N. Hatada , H.-P. Hohmann , M. Haiker , C. Bartsch , U. Roth-lisberger , H.-W. Lahm , E. J. Schlaeger , A. P. G. M. van Loon , and C. Scheidereit .
+1991 .
+Cloning of the DNA-binding subunit of human nuclear factor xB : the level of its mRNA is strongly regulated by phorbol ester or tumor necrosis factor « .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 88:966-970 .
+Nabel , G. , and D. Baltimore .
+1987 .
+An inducible transcription factor activates expression of human immunodeficiency virus in T cells .
+Nature ( London ) 326:711-713 .
+Nakamaye , K. , and F. Eckstein .
+1986 .
+Inhibition of restriction endonuclease Nei I cleavage by phosphothioate groups and its application to oligonucle-otide-directed mutagenesis .
+Nucleic Acids Res .
+14:9679-9698 .
+Naumann , M. , and C. Scheidereit .
+1994 .
+Activation of NF-kB in vivo is regulated by multiple phosphorylations .
+EMBO J .
+13:4597-4607 .
+Naumann , M. , F. G. Wulczyn , and C. Sheidereit .
+1993 .
+The NF- « B precursor p105 and the proto-oncogene product Bel-3 are IxB molecules and control nuclear translocation of NF-KB .
+EMBO J .
+12:213-222 .
+Neumann , J. , C. Morency , and K. Russian .
+1987 .
+A novel rapid assay for chloramphenicol acetyltransferase gene expression .
+BioTechniques 5:444-447 .
+Nolan , G. P. , S. Ghosh , H.-C .
+Lion , P. Tempst , and D. Baltimore .
+1991 .
+DNA binding and IxB inhibition of the cloned p65 subunit of NF- « B , a rel-related polypeptide .
+Cell 64:961-969 .
+Osborn , L. , S. Kunkel , and G. J. Nabel .
+1989 .
+Tumor necrosis factor alpha and interleukin 1 stimulate the human immunodeficiency virus enhancer by activation of the nuclear factor-kappa B. Proc .
+Natl .
+Acad .
+Sci .
+USA 86 : 2336-2340 .
+Palombella , V. J. , O. J. Rando , A. L. Goldberg , and T. Maniatis .
+1994 .
+Ubiquitin and the proteasome are required for processing the NF- « B1 precursor and the activation of NF-kB .
+Cell 78:773-785 .
+Pearson , R. B. , and B. E. Kemp .
+1991 .
+Protein kinase phosphorylation site sequences and consensus specificity motifs : tabulations .
+Methods Enzymol .
+200:62-81 .
+Prickett , K. S. , D. C. Amberg , and T. P. Hopp .
+1989 .
+A calcium-dependent antibody for identification and purification of recombinant proteins .
+BioTechniques 7:580-589 .
+Rice , N. R. , M. L. MacKichan , and A. Israél .
+1992 .
+The precursor of NF- « B p50 has IxB-like functions .
+Cell 71:243-253 .
+Rogers , S. , R. Wells , and M. Rechsteiner .
+1986 .
+Amino acid sequences common to rapidly degraded proteins : the PEST hypothesis .
+Science 234 : 364-368 .
+Ruben , S. M. , P. J. Dillon , R. Schreck , T. Henkel , C.-H. Chen , M. Maher , P. A. Baeuerle , and C. A. Rosen .
+1991 .
+Isolation of a ref-related human cDNA that potentially encodes the p65-kD subunit of NF-B .
+Science 251:1490-1493 .
+Ruben , S. M. , R. Narayanan , J. Klement , C.-H. Chen , and C. Rosen .
+1992 .
+Functional characterization of the NF- « B p65 transcriptional activator and an alternatively sliced derivative .
+Mol .
+Cell .
+Biol .
+12:444-454 .
+Ruben , S. M. , H. Poteat , T. H. Tan , K. Kawakami , R. Roeder , W. Haseltine , and C. A. Rosen .
+1988 .
+Cellular transcription factors and regulation of IL-2 receptor gene expression by HTLV-1 tax gene product .
+Science 241:89-92 .
+Schmitz , M. L. , and P. A. Baeuerle .
+1991 .
+The p65 subunit is responsible for the strong transcription activating potential of NF-kB .
+EMBO J .
+10:3805-3817 .
+Schreck , R. , R. Grassman , B. Fleckenstein , and P. A. Bacuerle .
+1992 .
+Antioxidants selectively suppress activation of NF- « B by human T-cell leukemia virus type I Tax protein .
+J. Virol .
+66:6288-6293 .
+Schreck , R. , P. Rieber , and P. A. Baeuerle .
+1991 .
+Reactive oxygen intermediates as apparently widely used messengers in the activation of the NF-kB transcription factor and HIV-1 .
+EMBO J .
+10:2247-2258 .
+Schreiber , E. , P. Matthias , M. Muller , and W. Schaffner .
+1989 .
+Rapid detection of octamer binding proteins with 'mini-extracts ' , prepared from a small number of cells .
+Nucleic Acids Res .
+17:6419 .
+Schiitze , S. , K. Potthoff , T. Machleidt , D. Berkovic , K. Wiegmann , and M. Kronke .
+1992 .
+TNF activates NF- « B by phosphatidylcholine-specific phos-pholipase C-induced `` acidic '' sphingomyelin breakdown .
+Cell 71:765-776 .
+Sen , R. , and D. Baltimore .
+1986 .
+Multiple nuclear factors interact with the immunoglobulin enhancer sequences .
+Cell 46:705-716 .
+Siekevitz , M. , M. B. Feinberg , N. Holbrook , F. Wong-Staal , and W. C. Greene .
+1987 .
+Activation of interleukin 2 and interleukin 2 receptor ( Tac ) promoter expression by the transactivator ( tat ) gene product of human T-cell leukemia virus type I. Proc .
+Natl .
+Acad .
+Sci .
+USA 84:5389-5393 .
+Smith , M. R. , and W. C. Greene .
+1990 .
+Identification of HTLV-1 fax frans-activator mutants exhibiting novel transcriptional phenotypes .
+Genes Dev .
+41875-1885 .
+Sodroski , J. , C. Rosen , W. C. Gob , and W. Haseltine .
+1985 .
+A transcriptional activator protein encoded by the x-lor region of human T cell leukemia virus .
+Science 228:1430-1434 .
+Stein , B. , H. Rahmsdorf , A. Steffen , M. Litfin , and P. Herrlich .
+1989 .
+UV-induced DNA damage is an intermediate step in UV-induced expression of 2818 80 .
+81 .
+82 .
+83 .
+84 .
+BROCKMAN ET AL .
+human immunodeficiency virus type 1 , collagenase , c-Fos , and metallothio-nein .
+Mol .
+Cell .
+Biol .
+95169-5181 .
+Sun , S.-C. , P. Ganchi , D. W. Ballard , and W. C. Greene .
+1993 .
+NF-kB controls expression of inhibitor IxBa : evidence for an inducible autoregula-tory pathway .
+Science 259:1912-1915 .
+Sun , S.-C. , P. Ganchi , C. Béraud , D. W. Ballard , and W. C. Greene .
+1994 .
+Autoregulation of the NF-xB transactivator RelA ( p65 ) by multiple cytoplasmic inhibitors containing ankyrin motifs .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 91:1346-1350 .
+Sun , S.-C. , J. Elwood , C. Béraud , and W. C. Greene .
+1994 .
+Human T-cell leukemia virus type I tax activation of NF- « kB/Rel involves phosphorylation and degradation of IxB « and RelA ( p65 ) -mediated induction of the c-re/ gene .
+Mol .
+Cell .
+Biol .
+14:7377-7384 .
+Suzuki , T. , J. L Fujisawa , M. Toita , and M. Yoshida .
+1993 .
+The transactivator tax of human T-cell leukemia virus type 1 ( HTLV-1 ) interacts with cAMP-responsive element ( CRE ) binding and CRE modulator proteins that bind to the 21-base-pair enhancer of HTLV-1 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:610-614 .
+Ten , R. M. , C. V. Paya , N. Israel , O. LeBail , M. G. Mattei , J. L. Virelizier , P. Kourilsky , and A. Israél .
+1992 .
+The characterization of the promoter of the 85 .
+86 .
+87 .
+88 .
+89 .
+Mor .
+CELL .
+BioL .
+gene encoding the p50 subunit of NF- « B indicates that it participates in its own regulation .
+EMBO J .
+11:195-203 .
+Tewari , M. , P. Dobrzanski , K. L. Mohn , D. E. Cressman , J. C. Hsu , R. Bravo , and R. Taub .
+1992 .
+Rapid induction in regenerating liver of RL/IF-1 ( an IxB that inhibits NF- « B , RelB-p50 , and c-Rel-p50 ) and PHF , a novel « B site binding complex .
+Mol .
+Cell .
+Biol .
+12:2898-2908 .
+Urban , M. , and P. Baeuerle .
+1990 .
+The 65-kD subunit of NF-kB is a receptor for IxB and a modulator of DNA-binding specificity .
+Genes Dev .
+4:1975-1984 .
+Watanabe , M. , M.-A .
+Muramatsu , H. Hirai , T. Suzuki , J. Fujisawa , M. Yoshida , K.-L. Arai , and N. Arai .
+1993 .
+HTLV-I encoded Tax in association with NF- « B precursor p105 enhances nuclear localization of NF- « B p50 and p65 in transfected cells .
+Oncogene 8:2949-2958 .
+Weiss , A. , and D. Littman .
+1994 .
+Signal transduction by lymphocyte antigen receptors .
+Cell 76:263-274 .
+Zhao , L. J. , and C. Z. Giam .
+1992 .
+Human T-cell lymphotropic virus type I ( HTLV-I ) transcriptional activator , Tax , enhances CREB binding to HTLV-I 21-base-pair repeats by protein-protein interactions .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 89:7070-7074 .

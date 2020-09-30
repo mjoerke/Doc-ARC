@@ -1,0 +1,669 @@
+[ CANCER RESEARCH 59 , 3803-3811 , August 1 , 1999 ] Induction of a Functional Vitamin D Receptor in all-trans-Retinoic Acid-induced Monocytic Differentiation of M2-type Leukemic Blast Cells ' Rossella Manfredini , Francesca Trevisan , Alexis Grande , Enrico Tagliafico , Monica Montanari , Roberto Lemoli , Giuseppe Visani , Sante Tura , Stefano Ferrari , and Sergio Ferrari ' D Airho Seri Dipartimento di Scienze he , S Istituto di Ematologia L & A Seragnoli , 40138 Bologna [ R. L. , G. V. , S. T. ] , Italy ABSTRACT Different types of acute myeloid leukemia blast cells were induced to differentiate in vitro with all-frans-retinoic acid ( ATRA ) and vitamin D ; , ( VD ) .
+MO/M1 leukemic cells are not sensitive to differentiating agents , whereas M3 leukemic cells are induced to undergo granulocytic differentiation after ATRA treatment but are not sensitive to VD .
+M2 leukemic blast cells behave differently because they undergo monocytic differentiation with both the differentiation inducers .
+To gain some insight into the maturation of M2-type leukemic cells , we studied the molecular mechanisms underlying monocytic differentiation induced by ATRA and VD in spontaneous M2 blast cells as well as in Kasumi-1 cells ( an acute myeloid leukemia M2-type cell line ) .
+Our results indicate that ATRA as well as VD efficiently increases the nuclear abundance of VD receptor ( VDR ) and promotes monocytic differentiation .
+VDR is functionally active in ATRA-treated Kasumi-1 cells because it efficiently heterodimerizes with retinoid X receptor , binds to a DR3-type vitamin D-responsive element , and activates the transcription of a vitamin D-responsive element-regulated reporter gene .
+Consistent with these findings , VD-responsive genes are induced by ATRA treatment of Kasumi-1 cells , suggesting that the genetic program underlying monocytic differentiation is activated .
+The molecular mechanism by which ATRA increases the nuclear abundance of a functional VDR is still unknown , but our data clearly indicate that the M2 leukemic cell context is only permissive of monocytic differentiation .
+INTRODUCTION Myelopoiesis of acute leukemias is characterized by an altered balance between quiescent , cycling , and differentiating cells .
+AML » blast cells are , in fact , mainly arrested in the G , phase of the cell cycle and are unable to progress spontaneously toward terminal differentiation ( 1 , 2 ) .
+The growth advantage of leukemic blast cells is therefore achieved mainly through a prolonged survival time , probably caused by a maturation arrest and an inefficient activation of the apoptotic program ( 3 , 4 ) .
+A unique and specific genetic disorder has been discovered in APL in which the t ( 15 ; 17 ) translocation involves the genetic loci of RARa and the promyelocytic leukemia gene ( 5-8 ) .
+Patients affected by this type of leukemia can undergo complete remission when treated with ATRA , which induces terminal granulocytic differentiation in vitro and in vivo ( 9 , 10 ) .
+It is thus evident that Received 12/1/98 ; accepted 5/21/99 .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked advertisement in accordance with 18 U.S.C .
+Section 1734 solely to indicate this fact . '
+Supported by a grant from the Associazione Italiana per la Ricerca sul Cancro and by a grant from the Consiglio Nazionale delle Ricerche ( Progetto Finalizzato : Applicazioni Cliniche della Ricerca Oncologica ) .
+* To whom requests for reprints should be addressed , at Dipartimento di Scienze Biomediche , Sezione di Chimica Biologica , Via Campi 287 , Universita di Modena e Reggio Emilia , 41100 Modena , Italy .
+Phone : 39059-428514 ; Fax : 39059-428524 ; E-mail : sergio @ unimo .it .
+* The abbreviations used are : AML , acute myeloid leukemia ; RA , retinoic acid ; ATRA , all-trans-RA ; VD , vitamin D ; ; VDR , vitamin D receptor ; VDRE , vitamin D responsive element ; APL , acute promyelocytic leukemia ; RARa , RA receptor a ; RARE , RA responsive element ; RXR , retinoid X receptor ; 82m , B2-microglobulin ; NE , nuclear extract ; CB , cytoplasmic extract ; CAT , chloramphenicol acetyltransferase ; TK , thymidine kinase ; DP , direct primer ; RP , reverse primer ; RT-PCR , reverse transcription-PCR ; HMSE-1 , human monocytic serine esterase 1 ; hOC , human osteocalcin ; IRE-1 , interferon regulatory factor-1 ; mAb , monoclonal antibody ; EMSA , electrophoretic mobility shift assay .
+di Chimica Biologica , Universita di Modena e di Reggio Emilia , 41100 Modena [ R. M. , F. T. , A. G. , E. T. , M. M. , St. F. , Se .
+F. ] , and the availability of compounds capable of inducing APL blast cells to differentiate and therefore undergo apoptosis provides an opportunity to modify the course of the malignancy .
+In a high percentage of the other AML types , genetic abnormalities are extremely heterogeneous and are not specific ( 11 ) .
+For example , only 20 % of M2-AML is characterized by t ( 8 ; 21 ) ( 12 ) , and a very low percentage of cases carry t ( 6 ; 9 ) ( 13 ) .
+Moreover , very few cases of AML are characterized by t ( 3 ; 21 ) ( 14 ) .
+In principle , genetic abnormalities might contribute to the maturation arrest , but no clear correlation can be made between the level of the differentiation block and the genetic aberrations , with the exception of the M3-AML ( 15 ) .
+Furthermore , despite the fact that the vast majority of acute leukemia blast cells express several growth factor receptors ( 16 , 17 ) , they are poorly sensitive to the differentiation activity of the corresponding cytokines in vitro and in vivo ; consequently , the therapeutic use of hematopoietic growth factors in AML is controversial ( 18 ) .
+Interest-ingly , cytokine antagonists can block leukemic myeloid cell proliferation due to an autocrine mechanism ( 19 ) .
+Despite the poor evidence that exists on the physiological role of ATRA and VD in normal hematopoiesis , these inducers could be suitable to force the differentiation block in AML blast cells ( 20 , 21 ) .
+It is well known that VD and ATRA exert their action by binding to specific nuclear receptors with high affinity .
+These nuclear receptors regulate gene expression in target cells by binding to specific DNA-responsive elements ( VDRE and RARE ) via heterodimerization with RXR ( 22 ) .
+It has to be pointed out that our previous studies suggest that myeloid precursors at all stages of differentiation are equipped with the machinery required to trigger the VD-dependent genetic program , eventually leading to terminal differentiation .
+In other words , they contain VDR protein that is fully active in binding their DNA sites and in promoting transcription ( 23 ) .
+The response to VD is therefore likely to depend on steps located downstream of the nuclear receptor/DNA interaction , such as chromatin structure , nu-cleosome organization , and gene-nuclear matrix interaction .
+To gain some insight into the differentiation potential of different types of AML blast cells ( MO/M1 , M2 , and M3 ) , we have investigated the expression levels and function of RARa , VDR , and RXR nuclear receptors ( 22 , 24 ) and the ability of ATRA or VD to induce terminal granulocytic or monocytic differentiation in vitro ( 25-27 ) .
+Our data suggest that a monocytic differentiation window exists in M2-type blast cells because ATRA and VD can only trigger monocytic differentiation in M2-type Kasumi-1 cells ( 28 ) as well as in spontaneous leukemic blast cells .
+MATERIALS AND METHODS Cell Cultures and Differentiation .
+Blast cell populations were obtained by leukapheresis from five patients with MO/M1-AML , five patients with M2-AML , and three patients with M3-AML before any pharmacological treatment .
+All of the blast cells were purified by Ficoll-Hypaque density gradient centrifugation to obtain extremely homogeneous populations ( > 95 % blast cells ) .
+The phenotype in each case was defined by morphological , cytochemical ( 29 , 30 ) , immunological ( 31 ) , cytogenetic , and molecular criteria , at least for the molecular analysis of t ( 8 ; 21 ) ( 32 ) and t ( 15 ; 17 ) translocations ( 33 ) .
+The blast 3803 Downloaded from cancerres.aacrjournals.org on May 10 , 2019 .
+© 1999 American Association for Cancer Research .
+MONOCYTIC DIFFERENTIATION OF AML-M2 BLAST CELLS cell populations were cultured in Iscove 's medium supplemented with 2 mM L-glutamine and 20 % heat-inactivated FCS .
+Kasumi-1 ( M2 AML ) and HL-60 ( M2/M3 AML ) cells were cultured in RPMI 1640 supplemented with 15 % heat-inactivated FCS and 2 mM L-glutamine .
+Differentiation was induced in blast cells as well as in Kasumi-1 and HL-60 ( 34 , 35 ) cells by treatment with either 107° m ATRA ( Sigma Chemical Co. , St. Luis , MO ) or 10~ ' m VD ( F. Hoffmann-La Roche , Basel , Switzerland ) as described previously ( 36 ) .
+The differentiation was monitored by direct immunofluorescence analysis of surface markers ( 37 ) , such as CD14 ( 38 ) , CD11b ( 39 ) , and CD45 ( 40 ) .
+Each antibody was incubated directly into the cellular suspension ( 5-10 ug/10° cells ) for 20 min at 4°C .
+The cells were washed twice with PBS and then analyzed by cytofluorometric analysis .
+Morphology was assessed by cytocen-trifugation followed by May Grunwald Giemsa staining .
+RNA Analysis .
+Total cellular RNA was extracted using a modification of the guanidinium-cesium chloride centrifugation technique ( 41 ) and digested with RQ1-DNase ( Promega , Madison , WI ) to avoid DNA contamination as described previously ( 42 ) .
+RT-PCR reactions were carried out using a modification of a previously described technique ( 42 ) .
+RT-PCR analysis was performed using oligodeoxynucleotide primers specific for RARa ( 43 ) , RXR ( 44 ) , VDR ( 45 , 46 ) , CD14 ( 47 ) , HMSE-1 ( 48 ) , hOC ( 49 ) , and 2m , ( 50 ) .
+The oligonucleotides used as DPs or RPs were as follows : ( a ) RARa & -DP ( 5'-CCAGACTGTCTGCCTCCCTIT-3 ' ) and RAR & -RP ( 5'-GTTTCGGTCGTIT-TCTCACAGAC-3 '' ) ; ( b ) RXRa-DP ( 5-CATTTCCTGCCGCTCGATTTC-3 '' ) and ( 5-CTGCTGCTGACGGGGTTCAT-3 ' ) ; ( c ) VDR-DP ( 5'-GGAGACTTTGACCGGAACGTG-3 ' ) and VDR-RP ( 5-GAACTGGCA-GAAGTCGGAGTA-3 ' ) ; ( d ) VDR primary transcript-DP ( 5'-CAGTGACGT-GACCAAAGGTATGCCTAG-3 ' ) and VDR primary transcript-RP ( 5'-GGGAGACGATGCAGATGGCCATGAGCA-3 '' ) ; ( e ) CDI14-DP ( 5'-TCC-AGAGCCTGTCCGGAGCTCAGA-3 ' ) and CDI4-RP ( 5-GCGTTCGC-CCAGTCCAGGATTGTCA-3 ' ) ; ( / ) HMSE-1-DP ( §-CCTCCTATGTG-CACCCAAGAT-3 ' ) and HMSE-1-RP ( 5-GCATCCC-ATCAATCACAG-TGC-3 ' ) ; ( g ) hOC-DP ( 5-GAGCCCTCACACTCCTCGCCCTATT-3 ' ) and hOC-RP ( 5-GTAGAAGCGCCGATAGGCCTCCTGA-3 '' ) ; and ( A ) B2m-DP ( 5-CTCGCGCTACTCTCTCTTTCT-3 ' ) and B2m-RP ( 5-TCCATTCT-TCAGTAAGTCAACT-3 ' .
+The primers used for the detection of t ( 8 ; 21 ) and t ( 15 ; 17 ) were as described previously ( 32 , 33 ) .
+Northern blot analysis to monitor p21 ( 51 ) , E3 ( 52 ) , and IRF-1 ( 53 ) expression was performed as described previously ( 54 ) .
+Preparation of NEs and CEs .
+NEs and CEs were obtained from the different myeloid cells as described previously ( 23 , 55 ) , before and after 12 h of VD treatment .
+Western Blotting .
+Western blotting was performed using the method described by Burnette ( 56 ) , with minor modifications ( 23 ) .
+The 9A7y rat monoclonal anti-VDR ( ABR ; Affinity Bioreagents , Golden , CO ) and Rpo ( F ) rabbit polyclonal anti-RARa ( a generous gift of Prof. P. Chambon , Institute de Genetique et de Biologie Moleculaire et Cellulaire , IlIkirch Cedex , France ) were used as primary antibody for the detection of the VDR and RARa proteins , respectively .
+The detection was carried out by the enhanced chemi-luminescence method ( Amersham Life Science , Little Chalfont , United King-dom ) .
+Gel Shift Assay .
+Oligonucleotides were synthesized with an automated solid-phase DNA synthesizer ( Model 394 ; Applied Biosystem , Inc. , Foster City , CA ) with the standard phosphoramidite chemistry and purified by PAGE , followed by electroelution as described previously ( 57 ) .
+The DR3 oligonucleotide 5'-AGCTTCAGGTCAAGGAGGTCAGAGAGC-3 ' ( 58 ) and its complement were synthesized and used as probe in the gel shift assay .
+Oligonucleotide annealing was performed as described previously ( 58 , 59 ) .
+The double-stranded oligonucleotide was further purified by PAGE , electrocluted , and 5 ' end-labeled ( 100 ng ) as described previously ( 60 ) .
+Specific radioactivity ranged from 1-3 X 10° cpm/ug DNA .
+Gel retardation assays were performed as described previously ( 60 ) .
+The following mAbs were used ( a ) 9A7y ( rat monoclonal anti-VDR ; ABR ; Affinity Bioreagents ) ; ( b ) 4RX-1D12 ( mouse monoclonal anti-RXR « , -B , and -y ; kindly provided by Dr. P. Chambon ) ; and ( c ) AbIa ( F ; mouse monoclonal anti-RARa ; kindly provided by Dr. P. Chambon ) .
+In all of the gel shift mobility experiments , the VDR specificity of the shifted bands was confirmed by the disruption of shift complex when anti- VDR antibody was added .
+In several control experiments , VDRE specificity was also confirmed by adding a 100-fold excess of cold VDRE oligonucleotides ( data not shown ) .
+The use of anti-RARa or anti-RXRa mAb has the ability to detect a supershifted band when these nuclear receptors are complexed in a heterodimeric conformation .
+All antibodies were added to the samples at 1:20 final dilution .
+The reaction mixtures were then loaded on a 5 % polyacrylamide gel in 0.5 % TBE ( 45 mm Tris , 45 mm boric acid , and 1 mM EDTA ) , prerun for 1 h at room temperature .
+Finally the gel was fixed , vacuum dried , and exposed to X-ray films for 2-4 h. Cell Transfection .
+The following plasmids were used in the transfection experiments : ( a ) pCMVB ( Clontech Laboratories Inc. , Palo Alto , CA ) , a -galactosidase expression vector ; ( b ) pOsteo/CABP-CAT , which contains the CAT reporter gene under the control of the VDRE of the hOC gene ( -511/ -480 ; Ref .
+61 ) and the minimal promoter region of the chicken Calbindin gene ( 62 ) ; and ( c ) pTK/RAREGB2-CAT ( kindly provided by Prof. V. Colantuoni , Universita di Napoli `` Federico II '' , Napoli , Italy ) , containing the CAT reporter gene under the control of the RARERB2 and the minimal promoter region of the human TK gene ( -104/+51 ) .
+Cells ( 2.5 X 10 '' ) were transfected by electroporation with 30 ug of pOsteo/CABP-CAT or pTK/RAREB2-CAT plasmid and 3 pg of pCMV B plasmid .
+Electroporation was performed at 250 V and 960 F ( Gene Pulser Apparatus ; Bio-Rad , Hercules , CA ) .
+Transfected cells were cultured in RPMI 1640 containing 15 % FCS with or without VD or ATRA for 48 h and then harvested for B-galactosidase and CAT assay ( 63 ) .
+B-Galactosidase activity was used to normalize the amount of cell extract to be assayed for CAT activity ( 63 ) .
+RESULTS Differentiation Capacity of Myeloid Blast Cells Arrested at Different Levels of Maturation after 5 Days of Treatment with ATRA or VD .
+Fig .
+1 shows the results obtained by cytofluorometric analysis of CD14 , CD11b , and CD45 expression in leukemic cell populations .
+The induction of the CD11b marker is associated with granulocytic differentiation , whereas the simultaneous induction of CD14 and CD11b is associated with monocytic differentiation .
+The expression of panleukocytic CD45 antigen indicates the percentage of cell viability .
+Fig .
+14 shows the results obtained in five cases of MO/M1-AML populations : all cell populations studied express a high level of €D45 and very low levels of CD14 and CD11b before and after treatment with ATRA or VD .
+The pattern of surface marker expression in five cases of M2-AML populations before differentiation treatment is characterized by a high level of expression of CD45 and a very low expression of CD14 and CD11b ( Fig .
+1B ) .
+After VD or ATRA treatment , a high percentage of cells express CD14 and CD11b , indicating that monocytic differentiation occurs in these cells ( 39 ) , independent of the inducer used ( Fig .
+1B ) .
+Granulocytic differentiation is observed when leukemic blast cells of the M3 type are treated with ATRA ; in fact , only CD11b is clearly induced in all populations studied ( Fig .
+1C ) .
+In contrast , VD treatment has no effect on these cells .
+Morphological analysis is consistent with the pattern of surface marker expression in all types of AML cells ( data not shown ) .
+VDR , RARa , and RXR Expression in MO/M1 , M2 , and M3-AML Blast Cells .
+To clarify whether the different sensitivity to ATRA or VD could depend on the differential expression of VDR , RARa , and RXR nuclear receptors , we performed RT-PCR analysis in all types of AML blast cells .
+Fig .
+2A shows that RARa , RXRa , and VDR mRNAs are present in the vast majority of spontaneous leukemic cell populations studied , although with a different abundance .
+The only exceptions are a MO/M1 population expressing a low level of RARa mRNA and no VDR mRNA ( Lane 4 ) and one M3-AML population ( Lane 12 ) in which VDR mRNA is not detectable .
+RT-PCR products of B2m mRNA used to monitor the amount of the RNA in each sample are also reported in Fig .
+24 , Lanes 1-13 .
+Nuclear receptor expression is detectable in Kasumi-1 ( M2-type AML ) and HL-60 ( M2/M3-type AML ) cell lines before and after 12 h of ATRA or VD treatment ( Fig .
+2B ) .
+3804 Downloaded from cancerres.aacrjournals.org on May 10 , 2019 .
+© 1999 American Association for Cancer Research .
+MONOCYTIC DIFFERENTIATION OF AML-M2 BLAST CELLS 100 Co o @ o 40 % of positive cells 20 100 80 60 40 % of positive cells 20 100 80 60 40 % of positive cells 20 ag b 2 b % , * * Fig .
+1 .
+Expression of CD45 , CD14 , and CD11b in MO/M1 , M2 , and M3-AML cell populations .
+The histograms show the levels of expression , as evaluated by flow cytometric analysis , of CD45 ( Ratched bars ) , CD14 ( L ] ) , and CD11b ( MI ) surface markers in AML MO/MI1 ( five blast cell populations ; A ) , AML M2 ( five blast cell populations ; B ) , and AML M3 ( three blast cell populations ; C ) cells treated with ATRA or VD for 5 days or left untreated .
+The values are expressed in percentages .
+The reported results are the average of three different sets of experiments .
+Variability in each experiment was less than 10 % .
+Furthermore , t ( 8 ; 21 ) can be detected by RT-PCR in only one of five cases of M2-AML ( Fig .
+24 , C. C. ) , whereas all M3-AMLs were t ( 15 ; 17 ) positive ( data not shown ) .
+VDR Protein Expression in MO/M1 , M2 , and M3-AML Blast Cells .
+Western blot analysis was performed to detect VDR protein in CEs ( data not shown ) and NEs obtained from MO/MI1 ( Fig .
+34 ) , M2 ( Fig .
+3B ) , and M3 ( Fig .
+3C ) AML blast cells .
+The results show that no VDR can be detected before VD treatment in either the cytoplasmic ( data not shown ) or the nuclear compartment ( Fig .
+3 , A-C , Lane 1 ) .
+On the contrary , VDR is clearly present in NEs of all types of AML blast cells after 12 h of VD treatment ( Fig .
+3A-C , Lane 3 ) .
+Surpris-ingly , 12 h of ATRA treatment causes the appearance of VDR only in M2 blast cell NEs ( Fig .
+3B , Lane 2 ) , and not in the other types of blast cells studied .
+The same VDR expression pattern is observed in the other four cases of this type of AML ( data not shown ) .
+P Q CE AML- M1 AML-M2 ___ AML-M3 g r 1 © g s 0 3 o m m oom m G w G = ( A a 3 G o a o Go G < w 3 < Z 1 2 3 4 5 6 7 8 9 10 f1 12 1314 < a fas son .
+$ 2 f Eo o JLo ZI E < .
+s Ss s 5 § o o o 3 5 50 C a 3 3 $ 2 2 § E To To ¥ vo S Z B RARa_ -- 527bp VDR_ -- 419bp ji - `` OT 62m_-_162bp -x o t 4 5 6 ~ Fig .
+2 .
+Detection by RT-PCR of RARa , VDR , and RXR mRNAs in AML-MO/M1 , M2 , and M3 blast cell populations as well as in HL-60 and Kasumi-1 cells .
+Panel A : Lanes 1-5 , five cases of AML-MO/M1 ; Lanes 6-10 , five cases of AML-M2 ; Lanes 11-13 , three cases of AML-M3 ; Lane 14 , negative control performed without the cDNA template .
+Panel B : Lane 1 , proliferating HL-60 cells ; Lane 2 , HL-60 cells treated for 12 h with ATRA ; Lane 3 , HL-60 cells treated for 12 h with VD ; Lane 4 , proliferating Kasumi-1 cells ; Lane 5 , Kasumi-1 cells treated for 12 h with ATRA ; Lane 6 , Kasumi-1 cells treated for 12 h with VD ; Lane 7 , negative control performed without the cDNA template .
+RT-PCR products of B2m mRNA are shown at the bottom of both panels .
+The different genes studied and the size of the amplified fragments are labeled on the left and right side of each panel , respectively .
+3805 Downloaded from cancerres.aacrjournals.org on May 10 , 2019 .
+© 1999 American Association for Cancer Research .
+MONOCYTIC DIFFERENTIATION OF AML-M2 BLAST CELLS LL Z a 2 -w d * w E ¢ 5 5 4 2 A ex » -53 kDa A .
+B aw » am » -53 kDa © a » -53 kDa D wae awwae we -54 kDa 1 2 3 Fig .
+3 .
+Western blot analysis of VDR expression in AML-MO/M1 , M2 , and M3 blast cell populations .
+The presence of VDR protein was assayed in NEs obtained from AML-MO/M1 ( A ) , M2 ( B ) , and M3 ( C ) blast cell populations treated for 12 h with ATRA or VD or left untreated .
+Lane 1 , NEs of untreated cells ; Lane 2 , NEs of ATRA-treated cells ; Lane 3 , NEs of VD-treated cells .
+D , RARa expression in NEs obtained from AML-M2 blast cell populations treated for 12 h with ATRA or VD or left untreated .
+The estimated molecular mass of VDR and RARa is indicated on the right side of each panel .
+RARa protein is clearly detected in NEs obtained from untreated M2-AML blast cells ( Fig .
+3D , Lane 1 ) , and it is not modulated after 12 h of ATRA or VD treatment ( Fig .
+3D , Lanes 2 and 3 ) .
+This pattern of RARa protein expression was also observed in NEs obtained from the other types of AML blast cells ( data not shown ) .
+110 Cells Fig .
+4 .
+Flow cytometric analysis of CD45 , CD14 , and CD11b expression in Kasumi-1 and HL-60 cells treated with ATRA or VD for 5 days or left untreated .
+Peak 1 corresponds to the expression of CD11b , peak 2 corresponds to the expression of CD14 , and peak 3 corresponds to the expression of CD45 .
+The expression of the markers listed above has been evaluated in proliferating Kasumi-1 cells ( A ) and in Kasumi-1 cells treated with ATRA ( B ) or VD ( C ) , in proliferating HL-60 cells ( D ) , and in HL-60 cells treated with ATRA ( E ) or VD ( F ) .
+of Number Differentiation Effects of ATRA and VD in Kasumi-1 and HL-60 Cells .
+To better characterize ATRA-induced monocytic differentiation of M2 blast cells , we have compared the differentiation capacity of Kasumi-1 cells derived from the peripheral blood of a patient with M2-AML ( 28 ) with the well-known differentiation capacity of HL-60 cells ( M2/M3-AML ) after 5 days of treatment with ATRA or VD .
+Morphological analysis performed on differentiated cells shows that only monocytic differentiation can be induced in Kasumi-1 cells with both inducers , whereas HL-60 cells differentiate to monocytes when treated with VD and differentiate to granulocytes after ATRA treatment ( data not shown ) .
+This observation was confirmed by flow cytometric analysis of surface marker expression ( Fig .
+4 ) .
+In fact , a clear induction of CD11b and CD14 expression ( peak I and peak 2 , respectively ) is observed in Kasumi-1 cells after treatment with ATRA ( Fig .
+4B ) or with VD ( Fig .
+4C ) , even if a bimodal distribution of CD14/CD11b expression is observed , due to the presence of negative cells .
+Despite this observa-tion , the majority of Kasumi-1 cells differentiate upon ATRA and VD treatment .
+HL-60 cells express only CD11b after ATRA treatment ( Fig .
+46 ) and coexpress CD14 and CD11b after VD treatment ( Fig .
+4F ) .
+A high expression level of CD45 is evident in both cell lines before and after treatment with the differentiation inducers ( Fig .
+4A-F , peak 3 ) .
+VDR and RARa Expression in Kasumi-1 and HL-60 Cells before and after 12 h of ATRA or VD Treatment .
+Western blot analysis reveals immunoreactive RARa bands in the NEs of both cell lines before and after treatment for 12 h with ATRA or VD ( Fig .
+54 , Lanes 1-6 ) .
+Thus , ATRA treatment is not crucial for RARa detection .
+The apparent molecular weight of this nuclear receptor is not homogeneous in the two different cell types .
+Because RARa is a phospho-protein , the size variability ranging from M , 54,000 to M , 58,000 is probably due to different levels of phosphorylation ( 64 ) .
+Two main RARa bands are detected in proliferating and ATRA-treated Kasumi-1 cells ( Fig .
+54 , Lanes 1 and 2 ) , and only one band of M , 58,000 110 © A 8 Downloaded from cancerres.aacrjournals.org on May 10 , 2019 .
+© 1999 American Association for Cancer Research .
+16 : It 10 > 3806 The Fluorescence Intensity MONOCYTIC DIFFERENTIATION OF AML-M2 BLAST CELLS C = 9 - < I E XL 5 9 = S S > a a a 8 8 © 2 < €C \ < TO U _ - _ ¥ xy xy¥ TI IC TI A ole teal ~ - > -58 kDa hare mall |-54 kDa B 1 2 3 4 5 6 Fig .
+5 .
+Western blot analysis of RARa and VDR in Kasumi-1 and HL-60 cells .
+A , RARa protein expression in NEs from Kasumi-1 and HL-60 cells .
+B , VDR protein expression in NEs from Kasumi-1 and HL-60 cells .
+Lane J , proliferating Kasumi-1 cells ; Lane 2 , Kasumi-1 cells treated for 12 h with ATRA ; Lane 3 , Kasumi-1 cells treated for 12 h with VD ; Lane 4 , proliferating HL-60 cells ; Lane 5 , HL-60 cells treated for 12 h with ATRA ; Lane 6 , HL-60 cells treated for 12 h with VD .
+Estimated molecular masses of RARa and VDR are indicated on the right side of each panel .
+is detected in VD-treated Kasumi-1 cells ( Fig .
+54 , Lane 3 ) , whereas in HL-60 cells , only a M , 54,000 band is evident with both inducers ( Fig .
+5A , Lanes 4-6 ) .
+VD treatment is crucial for VDR detection because NEs obtained from untreated Kasumi-1 and HL-60 cells do not show the receptor band ( Fig .
+5B , Lanes 1 and 4 ) .
+VDR is clearly observed in the NEs of both cell lines after VD treatment ( Fig .
+5B , Lanes 3 and 6 ) .
+In Kasumi-1 cells , a clear VDR band is evident in the NEs after ATRA treatment ( Fig .
+5B , Lane 2 ) .
+This result is superimposable to that obtained in spontaneous M2-AML blast cells ( Fig .
+3B ) .
+On the contrary , ATRA-treated HL-60 cells , in keeping with the results described for M3 spontaneous blast cells ( Fig .
+3C ) , do not show any increase of VDR abundance in the nuclear compartment ( Fig .
+5B , Lane 5 ) .
+To clarify whether the VDR induction in Kasumi-1 cells could depend on transcriptional regulation by ATRA , we performed RT-PCR analysis on the VDR primary transcript in Kasumi-1 and HL-60 cells before and after the differentiation induction .
+In fact , it has been recently described that a functional RARE is present in intron 1C of the VDR gene ( 46 ) .
+Our results clearly indicate that in both cellular contexts , VDR primary transcript is detectable after ATRA treatment , suggesting that VDR protein expression in Kasumi-1 cells is not due to transcriptional regulation ( data not shown ) .
+DNA Binding Activity of VDR in Kasumi-1 and HL-60 Cells .
+Because Kasumi-1 cells are induced to monocytic differentiation both with ATRA and VD , we investigated the ability of VDR , which is present in the NEs after ATRA treatment , to bind a DR3-type VDRE in EMSA .
+As shown in Fig .
+6A , Lanes 2 and 5 , in untreated Kasumi-1 cells , a major complex is detected , even if the band intensity is lower than that in VD- or ATRA-treated cells ( Fig .
+6B , Lanes 8 and 11 ; Fig .
+6C , Lanes 14 and 17 , respectively ) .
+This complex certainly contains RXRa because a clear supershifted band is detected with the anti-RXR mAb ( Fig .
+6A , Lanes 4 and 7 ) .
+Very little or no RARa and VDR are present in the complex because it is not affected by anti-RARa or anti- VDR mAb ( Fig .
+64 , compare Lanes 2 and 3 and Lanes 5 and 6 ) .
+After 12 h of treatment of Kasumi-1 cells with ATRA or VD , VDR is clearly detected in the major complex ( Fig .
+6B , Lane 8 ; Fig .
+6C , Lane 14 ) because a consistent decrease in intensity is caused by the VDR mAb ( Fig .
+6B , Lane 12 ; Fig .
+6C , Lane 15 ) .
+No supershift of the major complex is evident in Kasumi-1 NEs after VD or ATRA treatment , when they are matched with RARa mAb ( Fig .
+6B , compare Lanes 8 and 9 ; Fig .
+6C , compare Lanes 17 and 18 ) .
+After VD and ATRA treatment of Kasumi-1 cells , the NEs showed an increased abundance of RXR because an increased intensity of the supershifted band is detected with the RXR mAb ( Fig .
+6B , Lanes 10 and 13 ; Fig .
+6C , Lanes 16 and 19 ) .
+These data clearly show that in ATRA- or VD-treated Kasumi-1 cells , VDR can heterodimerize with RXR and efficiently bind to the DR3-responsive element .
+In HL-60 cells , on the contrary , a VDR-containing bandshift complex is observed only after VD treatment ( Fig .
+6E , compare Lanes 30 and 31 ) and not upon ATRA treatment ( Fig .
+6F , compare Lanes 36 and 37 ) .
+Our results indicate that VDR-VDRE complex formation is greatly enhanced by VD or ATRA treatment in Kasumi-1 cells , even if we can not exclude that a ligand-independent complex might be present in untreated cells ( Fig .
+6A , compare Lanes 5 and 6 ) .
+vo ATRA r tof 1 I 1 a a a a a a a a 9 a a 2 < < < < < < < < < < < 8 8 8 & C & C C < 4 o 0 if 6 % - 6 & 5 TE CC IC > C CC CC > C > C CC CC oe ie a +o o + + wow w W wow w w W w W Wo wow w W W w O 2 Z 22 2 2 22 Z Z 2 2 2 22 Z ZZ .
+® + be ks be vor/Rxr- » - “ nu “ W -_ Wa _ -vornxe 1 2 8 4 5 6 7 8 9 to f rds t d6 de ir is to A B c UNTREATED VD ATRA a a Pl a < < a $ 2 af - fe # s 0 $ e as & c coc c a c c coc a g & i SE & E Sg & # SE + + + + +o + + + + + + + o # 4 8 % 3 ¥ 3 3 2 5 4 2 3 4 2 2 2 % « we om ge am nn win R bs bo “ u vorrrxa- -- vor/rxa did bul a at f tt t t+ MD ... ... 2r ze zo so 31 s2 as se 35 ss ar 38 D E F 20 21 22 23 24 25 26 Fig .
+6 .
+EMSA of VDR after binding to a DR3-type DNA element in NEs of Kasumi-1 and HL-60 cells .
+NEs from untreated , VD-treated ( 12 h ) , or ATRA-treated ( 12 h ) Kasumi-1 cells ( A , B , and C , respectively ) and from untreated , VD-treated , and ATRA-treated HL-60 cells ( D , £ , and F , respectively ) were assayed for specific binding to a *P -labeled DR3-type DNA element .
+To assess the identity of nuclear receptors participating in the shifted complexes , antibodies to RARa @ , RXR , and VDR were used .
+The arrow indicates the position of shifted complexes containing VDR and RXR .
+3807 Downloaded from cancerres.aacrjournals.org on May 10 , 2019 .
+© 1999 American Association for Cancer Research .
+MONOCYTIC DIFFERENTIATION OF AML-M2 BLAST CELLS Io r s 40 5006 7 s 9 o no or pOSTEO/CaBPCAT -=- + - +0 - + Lo ce 2 eR R2 < vit .
+D -o- - - 4 + oe pTKRARE ese e - - - oo ATRA Roe op # o- - se owo $ o oe se C D pOSTEO/CaBPCAT - + - + _- -+ seme al oe ke oke Vit .
+D s- w in ome 0 fe Gk Roe o $ 0g - o-pTKRARE mio Wi oen cee 0 Wi e Lo ap oo o poo-ATRA -o e ot og - o- moo ow om % Fig .
+7 .
+CAT assays of transfected Kasumi-1 and HL-60 cells .
+pOSTEO/CaBPCAT ( A and C ) or pTK/RAREB2-CAT ( B and D ) was transfected in Kasumi-1 ( A and B ) and HL-60 ( C and DD ) cells .
+Where indicated , cells were treated with ATRA or VD for 48 h. Amounts of cell extracts used were normalized to the same value of the B-galactosidase activity .
+Ability of Endogenous VDR to Activate Transcription of a VDRE-dependent Promoter in Kasumi-1 and HL-60 Cells .
+To examine the transactivation capacity of endogenous VDR and RAR , we transiently transfected Kasumi-1 and HL-60 cells with the reporter constructs pOsteo/CaBP-CAT and pRAREB2/TK-CAT and then treated them for 48 h with ATRA or VD .
+As shown in Fig .
+7 , both ATRA treatment and VD treatment of Kasumi-1 cells cause transcriptional activation of the pOsteo/CaBP-CAT reporter gene ( Fig .
+7A , Lanes 4 and 6 ) , whereas ATRA treatment but not VD treatment causes the transcriptional activation of pTK/RARERB2-CAT ( Fig .
+7B , Lanes 10 and 12 ) .
+This observation provides further evidence that in Kasumi-1 cells , ATRA specifically activates transcription through a VDRE just as efficiently as VD .
+The effect of ATRA on VDRE-dependent transcription is restricted to M2-type blast cells because no transcriptional activation of pOsteo/CaBP-CAT is evident after ATRA treatment of HL-60 cells ( Fig .
+7C , Lane 16 ) ; in these cells , reporter activity is observed only after VD treatment ( Fig .
+7C , Lane 18 ) .
+The pTK/RAREB2-CAT construct is transactivated quite consistently in HL-60 cells after ATRA treatment , but not after VD treatment ( Fig .
+7D , Lanes 24 and 22 , respectively ) .
+These results suggest that the pOsteo/CaBP-CAT activation observed in Kasumi-1 cells after ATRA treatment is due to a VDR induction .
+Even if several reports indicate that a VD-independent transactivation may occur mainly in kidney and intestine epithelial cells ( 65-67 ) , pOsteo/CaBP-CAT transactivation observed in Kasumi-1 cells after ATRA treatment seems to be more dependent on increased VDR nuclear abundance than on ligand-independent activation , as also demonstrated by VDR protein expression and EMSA experiments .
+Expression of ATRA and VD Primary Response Genes in Kasumi-1 and HL-60 Cells .
+To monitor the ability of ATRA and VD to activate the genetic program underlying monocytic differentiation in the M2 cellular context , we have investigated the expression of VD-responsive genes ( Fig .
+8 ) such as HMSE-1 , CD14 , and hOC by RT-PCR and the expression of genes controlled by a functional VDRE , such as p21*** ' ( 51 ) , or RARE , such as E3 ( 52 ) , IRF-1 ( 53 ) and p21 '' ~* '' ( 68 ) , by Northern blot analysis after different times of ATRA or VD treatment .
+Fig .
+8 shows that both ATRA and VD treatment of Kasumi-1 cells causes a rapid induction of HMSE-1 , CD14 , and hOC expression , demonstrating VDR involvement in ATRA-dependent monocytic differentiation of M2-type blast cells .
+In fact , these VD-responsive genes are not induced in ATRA-treated HL-60 cells .
+In addition , neither VD treatment nor ATRA treatment is able to modify the expression of RA primary responsive genes , such as E3 and IRF-1 , that are constitutively expressed in Kasumi-1 cells , suggesting that no induction of granulocytic differentiation occurs in these cells ( data not shown ) .
+The same analysis performed on HL-60 cells shows a rapid induction of E3 and IRF-1 expression after ATRA treatment , as expected .
+Despite the differential phenotypic effect observed in HL-60 cells KASUMI-1 ATRA VD NEG .
+CONTROL HL 60 HL 60 ATRA HL 60 VD T p3 2 < N2 HMSE-1 hOC CD 14 Bam 1 2 3 4 5 6 7 Fig .
+8 .
+Detection by RT-PCR of HMSE-1 , hOC , and CD14 mRNAs in Kasumi-1 and HL-60 cells treated with ATRA or VD or left untreated .
+Lane 1 , proliferating Kasumi-1 cells ; Lane 2 , Kasumi-1 cells treated for 12 h with ATRA ; Lane 3 , Kasumi-1 cells treated for 12 h with VD ; Lane 4 , proliferating HL-60 cells ; Lane 5 , HL-60 cells treated for 12 h with ATRA ; Lane 6 , HL-60 cells treated for 12 h with VD ; Lane 7 , negative control performed without the cDNA template .
+RT-PCR products of 82m mRNA are shown in the bottom panel .
+3808 Downloaded from cancerres.aacrjournals.org on May 10 , 2019 .
+© 1999 American Association for Cancer Research .
+MONOCYTIC DIFFERENTIATION OF AML-M2 BLAST CELLS with ATRA or VD treatment , p21*** ' expression is induced after 1 h by both differentiating agents , suggesting that its expression is not sufficient to induce monocytic differentiation , as suggested recently ( 51 ) .
+The level of the constitutively expressed B2m mRNA was assessed to monitor RNA abundance in all samples ( Fig .
+8 , Lanes 1-6 ) .
+DISCUSSION Differentiation of AML blast cells is blocked at different levels of maturation , as demonstrated by the French- classification ( 29 ) and the immunological classification ( 31 ) .
+Blast cells maintain the capacity to divide , but the rate of cell division decreases progressively as blast cells undergo a series of differentiation transi-tions .
+The consequence of this biological behavior is that the vast majority of leukemic blast cells are arrested in the G , phase of the cell cycle , and , despite the expression of cyclin-dependent inhibitors , never reach spontaneous terminal differentiation ( 1 , 2 , 69 ) .
+Differentiation induction therapy based on treatment with hemopoietic growth factors such as granulocyte colony-stimulating factor , granulocyte macrophage colony-stimulating factor , or monocyte colony-stimulating factor is inefficient because blast cells are not responsive to these cytokines , despite the expression of the corresponding receptors ( 16-18 ) .
+In vitro experiments indicate that these hematopoietic growth factors are more efficient in recruiting blast cells to the proliferative pathway than to the differentiative pathway ( 70 ) .
+Efficacy of differentiation therapy based on ATRA has been demonstrated only in APL blast cells ( 9 , 10 , 71 ) .
+Because differentiation therapy with physiological inducers is a highly attractive approach to control leukemic cell growth ( 72 ) , we have evaluated the capacity of ATRA and VD to induce myeloid differentiation in different types of AML blast cells .
+We found that spontaneous M2-type AML blast cells , independent of the presence of t ( 8 ; 21 ) , are induced to monocytic differentiation with either ATRA treatment or VD treatment .
+Spontaneous MO/M1 blast cells are not responsive to these inducers .
+M3-type AML blast cells , as already described , are responsive only to ATRA , and not to VD .
+Our original observation is that VDR protein is detected after ATRA treatment in the nuclear compartment of M2 cells , but not in the NEs of MO/M1 and M3 cells , suggesting that both ATRA and VD are able to increase the nuclear abundance of VDR in M2-type blast cells .
+To gain some insight into the molecular mechanism underlying monocytic differentiation induced by ATRA in M2-AML blast cells , we studied VDR and RARa expression and VDR function in two AML cell lines : ( a ) Kasumi-1 ( M2-type cell line ) ; and ( b ) HL-60 ( M2/M3-type cell line ) .
+Kasumi-1 cells are representative of spontaneous M2-AML blast cells because only monocytic differentiation is achieved by ATRA or VD treatment ( Fig .
+4 ) .
+HL-60 cells are a classical model of myeloid maturation because they differentiate to granulocytes or monocytes when treated with ATRA or VD , respectively ( Fig .
+4 ; Ref .
+35 ) .
+Our results indicate that nuclear VDR protein is detected in Kasumi-1 cells after either ATRA or VD treatment ( Fig .
+5 ) .
+Furthermore , VDR is functionally active in this cellular context because it is capable of binding a DR3 oligonucleotide after heterodimerization with RXR ( Fig .
+6 ) and activating the transcription of the transfected pOsteo/CaBP-CAT vector ( Fig .
+7 ) .
+These results are obtained in HL-60 cells after VD treatment , but not after ATRA treatment .
+On the other hand , ATRA can transactivate the pTK/RAREB2-CAT vector ( Fig .
+7 ) in HL-60 cells and in Kasumi-1 cells , suggesting that RARa is functionally active in both cellular contexts .
+Recent reports indicate that there is a cross-over of the nuclear signaling pathways of RA and VD , but it is still unclear whether the interplay between the different nuclear receptors can activate different signaling pathways during hematopoietic differentiation ( 73-75 ) .
+The peculiarity of our results is that both ATRA and VD lead to the activation of monocytic differentiation in M2-type blast cells .
+Furthermore , the described ATRA-induced pOsteo/CaBP-CAT transactivation is also obtained with compounds such as 8-bromo-cyclic AMP ( 67 ) and okadaic acid ( 66 , 67 ) , which are known to induce a VD-independent , VDR-mediated transactivation of reporter genes ( 65 ) .
+This transcription activation is achieved through a modulation of VDR phosphorylation levels and does not involve a VDR protein expression induction ( 67 ) , which is , conversely , clearly observed in ATRA-treated Kasumi-1 cells .
+Moreover , the formation of spontaneous VD-independent complexes between endogenous VDR-RXR het-erodimers and genomic DNA can probably be hypothesized only for tissues characterized by high levels of VDR nuclear protein expression , such as intestinal epithelial cells ( 65 ) .
+The existence of basal VDR-RXR/DNA interaction complexes is unlikely in hematopoietic cells , in which the detection of significant amounts of nuclear VDR protein is strictly dependent on VD treatment ( 23 ) .
+We can thus conclude that VDR-mediated activation of gene expression induced in Kasumi-1 cells by ATRA probably resides on mechanisms that are not strictly related to VD-independent transcription activation of VDR .
+The molecular mechanisms by which ATRA induces a functionally active VDR nuclear protein in Kasumi-1 cells and M2 blast cells are still unclear .
+Transcription of the VDR gene , which is probably RARE dependent ( 46 ) , is activated by ATRA in both Kasumi-1 and HL-60 cells because a primary VDR transcript is clearly detectable in both the cellular contexts by RT-PCR , suggesting that the ATRA-induced VDR expression observed in Kasumi-1 cells is not strictly regulated at the transcriptional level .
+Furthermore , VDR expression studies in spontaneous leukemic blast cells showed a discrepancy between VDR mRNA and protein levels .
+VDR mRNA is , in fact , detected in all types of AML blast cells before VD treatment ( Fig .
+24 ) .
+VDR protein ( Fig .
+3 ) , on the other hand , is detected in the nuclear compartment of all myeloid blast cells only after VD treatment and after ATRA treatment of M2-type blast cells .
+The RARa expression pattern is different because both mRNA and protein are detected in untreated AML blast cells , and protein is not significantly modulated in the NEs after ATRA treatment ( Fig .
+3D ) .
+Comparable results were observed in the HL-60 and Kasumi-1 leukemic cell lines ( Figs .
+2 and 5 ) .
+However , these expression studies indicate clearly that VDR protein abundance in untreated leukemic cells is very low , and that after VD treatment , posttranscriptional mechanisms such as protein stabilization ( 76 ) or , as described in other systems , increased translation efficiency of compartmentalized mRNA ( 77 ) take part in increasing the VDR protein abundance in the nuclear compartment .
+This VDR posttranscriptional regulation also occurs in M2-type blast cells after ATRA treatment .
+Both ATRA treatment and VD treatment of Kasumi-1 cells ( Fig .
+8 ) rapidly induce the expression of VD-responsive genes such as HMSE-1 , CD14 , and hOC .
+These data clearly demonstrate that VDR is involved in ATRA-dependent monocytic differentiation of M2-type blast cells .
+Moreover , these VD-responsive genes are not induced in ATRA-treated HL-60 cells .
+In addition , neither VD treatment nor ATRA treatment is able to modify the expression of RA primary responsive genes , such as E3 and IRF-1 , which are constitutively expressed in Kasumi-1 cells , suggesting that no induction of granulocytic differentiation occurs in M2-type blast cells , even if RARa is expressed and is functionally active in transactivating the pTK/RARE/ B2-CAT construct .
+The same analysis performed on HL-60 cells 3809 Downloaded from cancerres.aacrjournals.org on May 10 , 2019 .
+© 1999 American Association for Cancer Research .
+MONOCYTIC DIFFERENTIATION OF AML-M2 BLAST CELLS shows a rapid induction of E3 and IRF-1 expression after few hours of ATRA treatment , as expected .
+Despite the differential phenotypic effect observed in HL-60 cells with ATRA or VD treatment , p21*** ' expression is induced after 1 h by both differentiating agents , suggesting that its expression is not sufficient to induce monocytic differentiation , as suggested recently ( 51 ) .
+These results are consistent with a recent report showing that p21 '' ** '' expression after ATRA treatment is associated with granulocytic differentiation of HL-60 cells ( 68 ) .
+In conclusion , our data allow us to hypothesize that the M2 cellular context can be considered a differentiation window permissive only of monocytic differentiation because both VD and ATRA differentiation inducers are capable of activating this differentiation program through the induction of a functional nuclear VDR protein .
+This observation might open a new therapeutic application of ATRA , even if the response of AML patients ( including M2-type AML ) to treatment with this differentiating agent remains to be verified .
+REFERENCES 1 .
+10 .
+11 .
+12 .
+13 .
+14 .
+15 .
+Ferrari , S. , Nani , F. , Mars , W. , Kaczmarek , L. , Venturelli , D. , Anderson , B. , and Calabretta , B .
+Expression of growth-regulated genes in human acute leukemias .
+Cancer Res. , 46 : 5162-5166 , 1986. .
+Ferrari , S. , Tagliafico , E. , Ceccherelli , G. , Selleri , L. , Calabretta , B. , Donelli , A. , Temperani , P. , Sarti , M. , Sacchi , S. , Emilia , G. , Torelli , G. , and Torelli , U .
+Expression of the myeloperoxidase gene in acute and chronic myeloid leukemias : relationship to the expression of cell cycle-related genes .
+Leukemia ( Baltimore ) , 3 : 423-430 , 1989. .
+Ferrari , S. , Manfredini , R. , Grande , A. , Torelli , G. , and Torelli , U .
+Proliferation , differentiation arrest , and survival in leukemic blast cells .
+Ann .
+N. Y. Acad .
+Sci. , 663 : 202-214 , 1992. .
+Torelli , U. , Ferrari , S. , and Manfredini , R. Proliferation , differentiation and pro grammed cell death : an outline of their genetic control and disorders in normal and leukemic myelopoiesis .
+In : E. Cacciola , A .
+B. Deisserroth , and R. Giustolisi ( eds .
+) , Hemopoictic Growth Factors , Oncogenes and Cytokines in Clinical Hematology , pp .
+49-63 .
+Basel : Basel Karger , 1994. .
+de The , H. , Chomienne , C. , Lanotte , M. , Degos , L. , and Dejean , A .
+The 1 ( 15 ; 17 ) translocation of acute promyelocytic leukaemia fuses the retinoic acid receptor a gene to a novel transcribed locus .
+Nature ( Lond .
+) , 347 : 558-561 , 1990. .
+Alcalay , M. , Zangrilli , D. , Pandolfi , P. P. , Longo , L. , Mencarelli , A. , Giacomucci , A. , Rocchi , M. , Biondi , A. , Rambaldi , A. , Lo , C. F. , Coco , F. , Diverio , D. , Grignani , F. , and Pelicci , P.G .
+Translocation breakpoint of acute promyelocytic leukemia lies within the retinoic acid receptor a locus .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 88 : 1977-1981 , 1991. .
+Kakizuka , A. , Miller , W. H. , Jr. , Umesono , K. , Warrell , R. P. , Jr. , Frankel , S. R. , Murty , V. V. , Dmitrovsky , E. , and Evans , R. M. Chromosomal translocation 1 ( 15 ; 17 ) in human acute promyelocytic leukemia fuses rar a with a novel putative transcription factor , pml .
+Cell , 66 : 663-674 , 1991. .
+Grignani , F. , De-Matteis , S. , Nervi , C. , Tomassoni , L. , Gelmetti , V. , Cioce , M. , Fanelli , M. , Ruthardt , M. , Ferrara , F. F. , Zamir , L. , Seiser , C. , Lazar , M. A. , Minucci , S. , and Pelicci , P. G. Fusion proteins of the retinoic acid receptor-a recruit histone deacetylase in promyelocytic leukaemia .
+Nature ( Lond .
+) , 397 : 815-818 , 1998. .
+Castaigne , S. , Chomienne , C. , Daniel , M. T. , Ballerini , P. , Berger , R. , Fenaux , P. , and Degos , L. All-frans retinoic acid as a differentiation therapy for acute promyelocytic leukemia : clinical results .
+Blood , 76 : 1704-1709 , 1990 .
+Warrell , R. P. , Jr. , Frankel , S. R. , Miller , W. H. , Jr. , Scheinberg , D. A. , Itri , L. M. , Hittelman , W. N. , Vyas , R. , Andreeff , M. , Tafuri , A. , Jakubowski , A. , Gabrilove , S. , Gordon , M. S. , and Dmitrowsky , E. Differentiation therapy of acute promyelocytic leukemia with tretinoin ( all-frans-retinoic acid ) .
+N. Engl .
+J .
+Med. , 324 : 1385-1393 , 1991 .
+Zeleznikle , N. J. , Nucifora , G. , and Rowley , J. D. The molecular biology of myeloproliferative disorders as revealed by chromosomal abnormalities .
+Semin .
+Hematol. , 32 ; 201-219 , 1995 .
+Erickson , P. , Gao , J. , Chang , K. S. , Look , T. , Whisenant , E. , Raimondi , S. , Lasher , R. , Trujillo , J. , Rowley , J. , and Drabkin , H. Identification of breakpoints in t ( 8 ; 21 ) acute myelogenous leukemia and isolation of a fusion transcript , amll/eto , with similarity to Drosophila segmentation gene , runt .
+Blood , 80 : 1825-1831 , 1992 .
+Soekarman , D. , von Lindern , M. , Daenen , S. , de Jong , B. , Fonatsch , C. , Heinze , B. , Bartram , C. , Hagemeijer , A. , and Grosveld , G. The translocation ( 6:9 ) ( p23 ; q34 ) shows consistent rearrangement of two genes and defines a myeloproliferative disorder with specific clinical features .
+Blood , 79 : 2990-2997 , 1992 .
+Nucifora , G. , Begy , C. R. , Kobayashi , H. , Roulston , D. , Claxton , D. , Pedersenbjer-gaard , J. , Parganas , E. , Thle , J. N. , and Rowley , J. D. Consistent intergenic splicing and production of multiple transcripts between AML1 at 21q22 and unrelated genes at 3q26 in ( 321 ) ( q26q22 ) translocations .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 97 : 4004-4008 , 1994 .
+Grignani , F. , Ferrucci , P. F. , Testa , U. , Talamo , G. , Fagioli , M. , Alcalay , M. , Mencarelli , A. , Peschle , C. , Nicoletti , I. , and Pelicci , P. G. The acute promyelocytic 16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+3810 leukemia-specific PML-RAR a fusion protein inhibits differentiation and promotes survival of myeloid precursor cells .
+Cell , 74 : 423-431 , 1993 .
+Ferrari , S. , Grande , A. , Manfredini , R. , Tagliafico , E. , Zucchini , P. , Torelli , G. , and Torelli , U .
+Expression of interleukins 1 , 3 , 6 , stem cell factor and their receptors in acute leukemia blast cells and in normal peripheral lymphocytes and monocytes .
+Eur .
+J .
+Haematol. , 50 : 141-148 , 1993 .
+Ferrari , S. , Grande , A. , Zucchini , P. , Manfredini , R. , Tagliafico , E. , Rossi , E. , Temperani , P. , Torelli , G. , Emilia , G. , and Torelli , U. Overexpression of c-kit in a leukemic cell population carrying a trisomy 4 and its relationship with the proliferative capacity .
+Leuk .
+Lymphoma , 9 : 495-501 , 1993 .
+Olsson , I. , Bergh , G. , Ehinger , M. , and Gullberg , U .
+Cell differentiation in acute myeloid leukemia .
+Bur .
+J .
+Haematol. , 57 : 1-16 , 1996 .
+Estrov , Z. , Kurzrock , R. , and Talpaz , M. Cytokines and their antagonists in myeloid disorders .
+Semin .
+Hematol. , 32 : 220-231 , 1995 .
+Sacchi , S. , Russo , D. , Avvisati , G. , Dastoli , G. , Lazzarino , M. , Pelicci , P. G. , Bonora , M. R. , Visani , G. , Grassi , C. , Tacona , L , Luzzi , L. , and Vanzanelli , P. All-frans retinoic acid in hematological malignancies , an update .
+GER ( Gruppo Ematologico Retinoidi ) .
+Haematologica , 82 : 106-121 , 1997 .
+Studzinski , G. P. , McLane , J .
+A. , and Uskokovic , M. R. Signaling pathways for vitamin -induced differentiation : implications for therapy of proliferative and neo-plastic diseases .
+Crit .
+Rev .
+Eukaryotic Gene Expr. , J : 279-312 , 1993 .
+Hsich , J. C. , Nakajima , S. , Galligan , M. A. , Jurutka , P. W. , Haussler , C. A. , Whitfield , G. K. , and Haussler , M. R. Receptor mediated genomic action of the 1,25 ( OH ) ( 2 ) D-3 hormone expression of the human vitamin D receptor in £ .
+colf .
+J. Steroid Biochem .
+Mol .
+Biol. , 53 : 583-594 , 1995 .
+Grande , A. , Manfredini , R. , Pizzanelli , M. , Tagliafico , E. , Balestri , R. , Trevisan , F. , Barbieri , D. , Franceschi , C. , Battini , R. , and Ferrari , S. Presence of a functional vitamin D receptor does not correlate with vitamin D ; phenotypic effects in myeloid differentiation .
+Cell Death Differ. , 4 : 497-505 , 1997 .
+Gudas , L. J. Retinoids , retinoid-responsive genes , cell differentiation , and cancer .
+Cell Growth Differ. , 3 : 655-662 , 1992 .
+Miller , C. W. , and Koceffler , H. P. In vivo and in vitro differentiation of myeloid leukemic cells .
+/n : A. M. Mauer ( ed .
+) , The Biology of Human Leukemia , pp .
+152-176 .
+Baltimore and London : The John Hopkins University Press , 1990 .
+Jin , C. H. , Kerner , S. A. , Hong , M. H. , and Pike , J. W. Transcriptional activation and dimerization functions in the human vitamin D receptor .
+Mol .
+Endocrinol. , 10 : 945-957 , 1996 .
+La Vista Picard , N. , Hobbs , P. D. , Pfahl , M. , and Dawson , M. I .
+The receptor-DNA complex determines the retinoid response : a mechanism for the diversification of the ligand signal .
+Mol .
+Cell .
+Biol. , 16 ; 4137-4146 , 1996 .
+Asou , H. , Tashiro , S. , Hamamoto , K. , Otsuji , A. , Kita , K. , and Kamada , N. Establishment of a human acute myeloid leukemia cell line ( Kasumi-1 ) with 8:21 chromosome translocation .
+Blood , 77 : 2031-2036 , 1991 .
+Bennett , J. M. , Catovsky , D. , Daniel , M. T. , Flandrin , G. , Galton , D. A. , Gralnick , H. R. , and Sultan , C. Proposals for the classification of the acute leukaemias .
+French-American-British ( FAB ) co-operative group .
+Br .
+J .
+Haematol. , 33 : 451-458 , 1976 .
+Yam , L. T. , Li , C. Y. , and Crosby , W. H. Cytochemical identification of monocyte and granulocyte .
+Am .
+J. Clin .
+Pathol. , 55 : 283-290 , 1971 .
+Drexler , H. G. Classification of acute myeloid leukemias : a comparison of FAB and immunophenotyping .
+Leukemia ( Baltimore ) , 1 : 697-705 , 1987 .
+Kozu , T. , Miyoshi , H. , Shimizu , K. , Maseki , N. , Kaneko , Y. , Asou , H. , Kamada , N. , and Ohki , M. Junctions of the AML1/MTGS ( ETO ) fusion are constant in 1 ( 8 ; 21 ) acute myeloid leukemia detected by reverse transcription polymerase chain reaction .
+Blood , 82 : 1270-1276 , 1993 .
+Borrow , J. , Goddard , A. D. , Gibbons , B. , Katz , F. , Swirsky , D. , Fioretos , T. , Dube , L. , Winfield , D. A. , Kingston , J. , Hagemeijer , A. , Rees , J. K. H. , Lister , T. A. , and Solomon , E. Diagnosis of acute promyelocytic leukaemia by RT-PCR : detection of PML-RARA and RARA-PML fusion transcripts .
+Br .
+J .
+Haematol. , 82 : 529-540 , 1992 .
+Collins , S. J. , Gallo , R. C. , and Gallagher , R. E. Continuous growth and differentiation of human myeloid leukaemic cells in suspension culture .
+Nature ( Lond .
+) , 270 : 347-349 , 1977 .
+Collins , S. J .
+The HL-60 promyelocytic leukemia cell line : proliferation , differentiation , and cellular oncogene expression .
+Blood , 70 : 1233-1244 , 1987 .
+Ferrari , S. , Donelli , A. , Manfredini , R. , Sarti , M. , Roncaglia , R. , Tagliafico , E. , Rossi , E. , Torelli , G. , and Torelli , U .
+Differential effects of c-myb and c-fes antisense oligodeoxynucleotides on granulocytic differentiation of human myeloid leukemia HL6O0 cells .
+Cell Growth Differ. , 7 : 543-548 , 1990 .
+Brackman , D. , Lundjohansen , F. , and Aarskog , D. Expression of cell surface antigens during the differentiation of HL60 cells induced by 1,25-dihydroxyvitamin D ; , retinoic acid and DMSO .
+Leuk .
+Res. , 19 : 57-64 , 1995 .
+Zhang , D. E. , Hetherington , C. J. , Gonzalez , D. A. , Chen , H. M. , and Tenen , D. G. Regulation of CD14 expression during monocytic differentiation induced with 1 @ ,25-dihydroxyvitamin D ; .
+J .
+Immunol. , 153 ; 3276-3284 , 1994 .
+Lubbert , M. , Herrmann , F. , and Koeffler , H. P. Expression and regulation of myeloid-specific genes in normal and leukemic myeloid cells .
+Blood , 77 : 909-924 , 1991 .
+Thomas , M. L. The leukocyte common antigen family .
+Annu .
+Rev .
+Immunol. , 7 : 339-369 , 1989 .
+MacDonald , R. J. , Swift , G. H. , Przybyla , A. E. , and Chirgwin , J. M. Isolation of RNA using guanidinium salts .
+Methods Enzymol. , 152 : 219-227 , 1987 .
+Grande , A. , Manfredini , R. , Tagliafico , E. , Balestri , R. , Pizzanelli , M. , Papa , S. , Zucchini , P. , Bonsi , L. , Bagnara , G. , Torelli , U. , and Ferrari , S. All-frans retinoic acid induces simultaneously granulocytic differentiation and expression of inflammatory cytokines in HL 60 cells .
+Exp .
+Hematol. , 23 : 117-125 , 1995 .
+Downloaded from cancerres.aacrjournals.org on May 10 , 2019 .
+© 1999 American Association for Cancer Research .
+43 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+57 .
+58 .
+59 .
+60 .
+MONOCYTIC DIFFERENTIATION OF AML-M2 BLAST CELLS Mangelsdorf , D. J. , Ong , E. S. , Dyck , J .
+A. , and Evans , R. M. Nuclear receptor that identifies a novel retinoic acid response pathway .
+Nature ( Lond .
+) , 345 : 224-229 , 1990. .
+Giguere , V. , Ong , E. S. , Segui , P. , and Evans , R. M. Identification of a receptor for the morphogen retinoic acid .
+Nature ( Lond .
+) , 330 : 624-629 , 1987 .
+Baker , A. R. , McDonnell , D. P. , Hughes , M. , Crisp , T. M. , Mangelsdorf , D. J. , Haussler , M. R. , Pike , J. W. , Shine , J. , and O'Malley , B. W. Cloning and expression of full-length cDNA encoding human vitamin D receptor .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 85 : 3294-3298 , 1988 .
+Miyamoto , K. , Kesterson , R. A. , Yamamoto , H. , Taketani , Y. , Nishiwaki , E. , Tat-sumi , S. , Inoue , Y. , Morita , K. , Takeda , E. , and Pike , J. W. Structural organization of the human vitamin D receptor chromosomal gene and its promoter .
+Mol .
+Endocrinol. , 11 : 1165-1179 , 1997 .
+Ferrero , E. , and Goyert , S. M. Nucleotide sequence of the gene encoding the monocyte differentiation antigen , CD14 .
+Nucleic Acids Res. , 16 : 4173 , 1988 .
+Zschunke , F. , Salmassi , A. , Kreipe , H. , Buck , F. , Parwaresch , M. R. , and Radzun , H. J. cDNA cloning and characterization of human monocyte/macrophage serine esterase-1 .
+Blood , 78 : 506-512 , 1991 .
+Kicfer , M. C. , Saphire , A. C. , Bauer , D. M. , and Barr , P. J .
+The cDNA and derived amino acid sequences of human and bovine bone Gla protein .
+Nucleic Acids Res. , 18 : 1909 , 1990 .
+Suggs , S. V. , Wallace , R. B. , Hirose , T. , Kawashima , E. H. , and Itakura , K. Use of synthetic oligonucleotides as hybridization probes : isolation of cloned cDNA sequences for human B2-microglobulin .
+Biotechnology , 24 : 140-144 , 1992 .
+Liu , M. , Lee , M. H. , Cohen , M. , Bommakanti , M. , and Freedman , L. P. Transcriptional activation of the Cdk inhibitor p21 by vitamin D ; , leads to the induced differentiation of the myelomonocytic cell line U937 .
+Genes Dev. , 10 : 142-153 , 1996 .
+Scott , L. M. , Mueller , L. , and Collins , S. J. E3 , a hematopoictic-specific transcript directly regulated by the retinoic acid receptor a .
+Blood , 88 : 2517-2530 , 1996 .
+Matikainen , S. , Ronni , T. , Hurme , M. , Pine , R. , and Julkunen , I. Retinoic acid activates interferon regulatory factor-1 gene expression in myeloid cells .
+Blood , 88 : 114-123 , 1996 .
+Ferrari , S. , Manfredini , R. , Tagliafico , E. , Rossi , E. , Donelli , A. , Torelli , G. , and Torelli , U. Noncoordinated expression of $ 6 , S11 , and $ 14 ribosomal protein genes in leukemic blast cells .
+Cancer Res. , 50 : 5825-5828 , 1990 .
+Hennighausen , L. , and Lubon , H. Interaction of protein with DNA in vitro .
+Methods Enzymol. , 152 ; 721-735 , 1987 .
+Burnette , W. N. Western blotting : electrophoretic transfer of proteins from SDS-polyacrylamide gels to unmodified nitrocellulose and radiographic detection with antibody and radioiodinated protein A. Anal .
+Biochem. , 172 : 195-203 , 1981 .
+Manfredini , R. , Grande , A. , Tagliafico , E. , Barbieri , D. , Zucchini , P. , Citro , G. , Zupi , G. , Franceschi , C. , Torelli , U. , and Ferrari , S. Inhibition of c-fes expression by an antisense oligomer causes apoptosis of HL6O cells induced to granulocytic differentiation .
+J. Exp .
+Med. , 178 : 381-389 , 1993 .
+Umesono , K. , Murakami , K. K. , Thompson , C. C. , and Evans , R. M. Direct repeats as selective response elements for the thyroid hormone , retinoic acid , and vitamin D ; receptors .
+Cell , 65 : 1255-1266 , 1991 .
+Kadonaga , J. T. , and Tjian , R. Affinity purification of sequence-specific DNA binding proteins .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 83 : 5889-5893 , 1986 .
+Ferrari , S. , Battini , R. , and Molinari , S. Specific binding to vitamin D response elements of chicken intestinal DNA-binding activity is not related to the vitamin D receptor .
+Mol .
+Endocrinol. , 8 : 173-181 , 1994 .
+61 .
+62 .
+63 .
+65 .
+66 .
+67 .
+68 .
+69 .
+70 .
+71 .
+72 .
+73 .
+74 .
+75 .
+76 .
+77 .
+3811 Ozono , K. , Liao , J. , Kerner , S. A. , Scott , R. A. , and Pike , J. W. The vitamin D-responsive element in the human osteocalcin gene .
+Association with a nuclear proto-oncogene enhancer .
+J. Biol .
+Chem. , 265 : 21881-21888 , 1990 .
+Ferrari , S. , Battini , R. , and Pike , W. J. Functional analysis of the promoter region of the gene encoding chicken calbindin D ; , ¢ .
+Adv .
+Exp .
+Med .
+Biol. , 269 : 21-25 , 1990 .
+Herbomel , P. , Bourachot , B. , and Yaniv , M. Two distinct enhancers with different cell specificities coexist in the regulatory region of polyoma .
+Cell , 39 : 653-662 , 1984. .
+Lefebvre , P. , Gaub , M. P. , Tahayato , A. , Rochette Egly , C. , and Formstecher , P. Protein phosphatases 1 and 2A regulate the transcriptional and DNA binding activities of retinoic acid receptors .
+J. Biol .
+Chem. , 270 : 10806-10816 , 1995 .
+Ross , T. K. , Darwish , H. M. , Moss , V. E. , and DeLuca , H. F. Vitamin D-influenced gene expression via a ligand-independent , receptor-DNA complex intermediate .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 90 : 9257-9260 , 1993 .
+Matkovits , T. , and Christakos , S. Ligand occupancy is not required for vitamin D receptor and retinoid receptor-mediated transcriptional activation .
+Mol .
+Endocrinol. , 9 : 232-242 , 1995 .
+Darwish , H. M. , Burmester , J. K. , Moss , V. E. , and DeLuca , H. F. Phosphorylation is involved in transcriptional activation by the 1,25-dihydroxyvitamin D , receptor .
+Biochim .
+Biophys .
+Acta , 1167 : 29-36 , 1993 .
+Liu , M. , Iavarone , A. , and Freedman , L. P. Transcriptional activation of the human p21 ( WAFL/CIP1 ) gene by retinoic acid receptor .
+Correlation with retinoid induction of U937 cell differentiation .
+J. Biol .
+Chem. , 277 : 31723-31728 , 1996 .
+Schwaller , J. , Pabst , T. , Koceffler , H. P. , Niklaus , G. , Loctscher , P. , Fey , M. F. , and Tobler , A .
+Expression and regulation of G , cell-cycle inhibitors ( pl6INK4A , pl5INK4B , p18INKA4C , p19INK4D ) in human acute myeloid leukemia and normal myeloid cells .
+Leukemia ( Baltimore ) , 17 : 54-63 , 1997 .
+Irvine , A. E. , Berney , J. J. , and Francis , G. E. Dissociation of the proliferation and differentiation stimuli of granulocyte colony-stimulating factor ( G-CSF ) .
+Leukemia ( Baltimore ) , 4 : 203-209 , 1990 .
+Chomienne , C. , Fenaux , P. , and Degos , L. Retinoid differentiation therapy in promyelocytic leukemia .
+FASEB J. , 10 : 1025-1030 , 1996 .
+Asou , H. , Koike , M. , Elstner , E. , Cambell , M. , Le , J. , Uskokovic , M. R. , Kamada , N. , and Koeffler , H. P. 19-Nor vitamin-D analogs : a new class of potent inhibitors of proliferation and inducers of differentiation of human myeloid leukemia cell lines .
+Blood , 92 : 2441-2449 , 1998 .
+Botling , J. , Oberg , F. , Torma , H. , Tuohimaa , P. , Blauer , M. , and Nilsson , K. Vitamin D ; - and retinoic acid-induced monocytic differentiation : interactions between the endogenous vitamin D ; receptor , retinoic acid receptors , and retinoid X receptors in U-937 cells .
+Cell Growth Differ. , 7 : 1239-1249 , 1996 .
+Nakajima , H. , Kizaki , M. , Ueno , H. , Muto , A. , Takayama , N. , Matsushita , H. , Sonoda , A. , and Ikeda , Y. All-frans and 9-cis retinoic acid enhance 1,25-dihydroxyvitamin D ; -induced monocytic differentiation of U937 cells .
+Leuk .
+Res. , 20 : 665-676 , 1996 .
+Cao , X. , Teitelbaum , S. L. , Zhu , H. J. , Zhang , L. , Feng , X. , and Ross , F. P. Competition for a unique response element mediates retinoic acid inhibition of vitamin D ; -stimulated transcription .
+J. Biol .
+Chem. , 277 : 20650-20654 , 1996 .
+Wiese , R. J. , Ubland Smith , A. , Ross , T. K. , Prahl , J. M. , and DeLuca , H. F. Up-regulation of the vitamin D receptor in response to 1,25-dihydroxyvitamin D ; results from ligand-induced stabilization .
+J. Biol .
+Chem. , 267 : 20082-20086 , 1992 .
+Geyer , P. K. , Meyuhas , O. , Perry , R. P. , and Johnson , L. F. Regulation of ribosomal protein mRNA content and translation in growth-stimulated mouse fibroblasts .
+Mol .
+Cell .
+Biol. , 2 : 685-693 , 1982 .
+Downloaded from cancerres.aacrjournals.org on May 10 , 2019 .
+© 1999 American Association for Cancer Research .
+AAC—R American Association for Cancer Research Cancer Research The Journal of Cancer Research ( 1916-1930 ) | The American Journal of Cancer ( 1931-1940 ) Induction of a Functional Vitamin D Receptor in all-trans -Retinoic Acid-induced Monocytic Differentiation of M2-type Leukemic Blast Cells Rossella Mantfredini , Francesca Trevisan , Alexis Grande , et al .
+Cancer Res 1999 ; 59:3803-3811 .
+Updated version Access the most recent version of this article at : http : //cancerres.aacrjournals.org/content/59/15/3803 Cited articles Citing articles This article cites 74 articles , 31 of which you can access for free at : http : //cancerres.aacrjournals.org/content/59/1 5/3803 full # reft-list-1 This article has been cited by 3 HighWire-hosted articles .
+Access the articles at : http : //cancerres.aacrjournals.org/content/59/1 5/3803 .full # related-urls E-mail alerts Reprints and Subscriptions Permissions Sign up to receive free email-alerts related to this article or journal .
+To order reprints of this article or to subscribe to the journal , contact the AACR Publications Department at pubs @ aacr.org .
+To request permission to re-use all or part of this article , use this link http : //cancerres.aacrjournals.org/content/59/15/3803 .
+Click on `` Request Permissions '' which will take you to the Copyright Clearance Center 's ( CCC ) Rightslink site .
+Downloaded from cancerres.aacrjournals.org on May 10 , 2019 .
+© 1999 American Association for Cancer Research .

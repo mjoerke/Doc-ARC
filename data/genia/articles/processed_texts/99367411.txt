@@ -1,0 +1,551 @@
+THE JOURNAL oF BIOLOGICAL CHEMISTRY © 1999 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+274 , No .
+33 , Issue of August 13 , pp .
+22923-22931 , 1999 Printed in U.S.A .
+Protein Kinase C and Calcineurin Synergize to Activate IxB Kinase and NF-KB in T Lymphocytes* ( Received for publication , February 25 , 1999 , and in revised form , May 5 , 1999 ) Sergey A. Kevin N. Pennington } , Alicia and Carlos V. Payaf§1 From the { Department of Immunology and the §Division of Infectious Diseases , Mayo Clinic , Rochester , Minnesota 55905 The nuclear factor of « B is a ubiquitous transcription factor that is key in the regulation of the immune response and inflammation .
+T cell receptor ( TCR ) cross-linking is in part required for activation of NF-KB , which is dependent on the phosphorylation and degradation of IxBa .
+By using Jurkat and primary human T lymphocytes , we demonstrate that the simultaneous activation of two second messengers of the TCR-initiated signal transduction , protein kinase C ( PKC ) and calcineurin , results in the synergistic activation of the IxBa kinase ( IKK ) complex but not of another putative IxBa kinase , p90'** .
+We also demonstrate that the IKK complex , but not p90'** , is responsible for the in vivo phosphorylation of IxBa mediated by the co-activation of PKC and calcineurin .
+Each second messenger is nec-essary , as inhibition of either one reverses the activation of the IKK complex and IxBa phosphorylation in vivo .
+Overexpression of dominant negative forms of IKKa and -B demonstrates that only IKK is the target for PKC and calcineurin .
+These results indicate that within the TCR/CD3 signal transduction pathway both PKC and calcineurin are required for the effective activation of the IKK complex and NF-xB in T lymphocytes .
+Identification of the molecular events that ensue in T lymphocytes following antigen presentation is paramount to understanding the regulation of the immune response .
+The signal transduction pathways triggered by antigen presentation lead to the immediate activation of transcription factors that further amplify the process of lymphocyte activation , ultimately leading to cell proliferation and division .
+Dysregulation of this process results in T lymphocyte anergy , autoimmunity , and disruption of T lymphocyte homeostasis ( 1 , 2 ) .
+Two additional settings that would benefit from a better understanding of the molecular events triggered by T cell activation are viral pathogenesis and drug discovery .
+For example , HIV integrates in the chromosome of T lymphocytes where it remains latent .
+Its * This work was supported by National Institutes of Health Training Grant CAQ9127 , National Institutes of Health Grant RO1 AI86076 , and the Mayo Foundation .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 U.S.C .
+Section 17834 solely to indicate this fact .
+« To whom reprint requests should be addressed : Mayo Clinic , 200 First St. SW , Guggenheim 501 , Rochester , MN 55905 .
+Tel .
+: 507-284-8747 ; Fax : 507-284-8757 ; E-mail : paya @ mayo.edu .
+* The abbreviations used are : HIV , human immunodeficiency virus ; PKC , protein kinase C ; TCR , T cell receptor ; PMA , phorbol myristate acetate ; IKKa , IxBa kinases ; IL-2 , interleukin-2 ; NF- « B , nuclear factor of « B ; GST , glutathione S-transferase ; CAT , chloramphenicol acetyl-transferase ; TNF , tumor necrosis factor ; TNFR , TNF receptor ; PAGE , polyacrylamide gel electrophoresis ; WCE , whole-cell extract ; DN , dominant negative ; wt , wild type ; KD , kinase dead ; MEK , mitogen-activated protein kinase/extracellular signal-regulated kinase ; GF , GF109203X ; Go , G6 6976 ; PD , PD 098059 ; IVK , in vitro kinase .
+This paper is available on line at http : //www.jbc.org reactivation by transcription factors that are activated following T cell receptor cross-linking is relevant to the pathogenesis of AIDS ( 8 , 4 ) .
+Finally , development of improved immunosuppressive agents that target T cell function will be accelerated by identifying the exact molecular events that result from the molecular events regulating T cell activation .
+Effective antigen presentation to T lymphocytes involves not only the engagement of the T cell receptor-CD3 complex but also other receptors that mediate co-activation signals such as CD28 .
+How these two separate signal transduction pathways ( TCR/CD3 and CD28 ) converge to result in the maximal activation of the T lymphocyte is under active study .
+Engagement of the T cell receptor ( TCR ) by its cognate peptide-major histo-compatibility complex induces phospholipase C activation which hydrolyzes phosphatidylinositol 4,5-bisphosphate to inositol 1,4,5-triphosphate and diacylglycerol ( 5 ) .
+Diacylglycerol activates protein kinases C ( PKC ) , whereas inositol 1,4,5-triphosphate leads to the release of Ca** from intracellular stores ( 6 , 7 ) .
+The same cellular events initiated by phospholipase C activation can be mimicked by treatment with a combination of a Ca** `` ionophore that raises intracellular Ca** levels and phorbol esters that activate PKC isoforms ( 8 ) .
+Free intracellular Ca** targets the Ca `` */calmodulin-activated phos-phatase calcineurin which mediates a critical positive signal necessary for IL-2 induction through its synergy with PKC activation , synergy that can be reversed by targeting calcineurin with immunosuppressive drugs such as cyclosporin A or FK506 ( 9 , 10 ) .
+The initial studies that investigated the targets of the synergy between PKC and calcineurin identified the transcription factors , nuclear factor of activated T cells and nuclear factor of « B ( NF-kB ) ( 9 , 10 , 11 ) , as being activated by the combination of these separate signal transduction pathways .
+NF- « B is a heterodimer of transcription factors that belong to the Rel family of proteins .
+The canonical NF- « B is a heterodimer of p65 ( RelA ) with p50 or p52 ( 12 , 13 , 14 ) .
+This heterodimer is anchored by a group of proteins named IB , which function to retain NF- « B in the cytosol by masking its nuclear localization signal ( 15-18 ) .
+IxBa is a prototype IB molecule known to control the subcellular localization of NF- « B ( p50/p65 ) .
+Following activation of certain signal transduction pathways , a site-specific hyperphosphorylation of IxBa « at Ser-32 and Ser-36 renders the inhibitor molecule susceptible to site-specific ubiquitination and subsequent degradation by the proteasome complex ( 19-23 ) .
+This releases NF- « B to undergo nuclear translocation .
+Two novel IxBa kinases , IKKa ( 24-26 ) and IKKS ( 27 , 28 ) , contained within a high molecular weight complex termed the signalsome target the phosphorylation of Ser-32 and Ser-36 of IxBa and mediate the TNF- @ -induced IxBa hyperphosphorylation and NF- « B activation .
+An additional N-terminal IxBa kinase , the mitogen-activated riboso-mal S6 protein kinase RSK-1 or p90'®* ( 29 , 30 ) , has been shown .
+to mediate the activation of NF- « B by phorbol esters and to 229283 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 22924 phosphorylate I « Ba preferentially at Ser-32 both in vivo and in vitro .
+However , its functional relevance in vivo is yet unclear ( 80 ) .
+Previous studies addressing how the PKC- and calcineurin-dependent signal transduction pathways triggered by TCR CD3 cross-linking lead to the synergistic activation of NF- « B identified IxBa as a target molecule ( 11 ) .
+Whereas PKC activation by phorbol myristate acetate ( PMA ) resulted in a moderate degree of IxBa hyperphosphorylation-degradation and activated calcineurin alone had no effect on IxBa , the combined activation of these two second messengers leads to a synergistic and highly effective hyperphosphorylation and degradation of IxBa ( 81 ) .
+Moreover , whereas TCR and TNFR triggered separate signal transduction pathways , both ultimately target IxBa , and the use of specific inhibitors of calcineurin and PKC enabled the separation of the signaling pathways of TCR and TNFR ( 31 ) .
+Despite this novel observation , the mechanisms whereby two separate second messengers , PKC and calcineurin , lead to the lymphocyte-specific hyperphosphorylation of IxBa remains unknown .
+The recent identification of the N-terminal IxBa provides the opportunity to advance in our understanding of the molecular mechanisms , whereas signal transduction pathways triggered by TCR/CD3 cross-linking , separate from those downstream of CD28 , lead to IxBa degradation and NF- « B activation in T lymphocytes .
+In this study we have investigated the synergy between two second messengers of the TCR/CD3 pathways , PKC and calcineurin , as regulators of the N-terminal IxBa kinases .
+By using primary human T lymphocytes and T lymphocyte cell lines , we demonstrate that PKC- and Ca**-dependent pathways synergistically activate both the IKK complex and p90'** .
+In contrast to the activation of the IKK complex , p90 `` ®* activation is calcineurin-independent , and only the IKK complex ( IKK ) but not p90'** mediates I « xBa phosphorylation and NF- « B activation in vivo .
+Moreover , the synergistic activation of the IKK signalsome by PKC and calcineurin is inhibited by either calcineurin- or PKC-specific inhibitors suggesting that either signal transduction pathway is required and essential for effectively activating the IKK complex and , hence , NF- « B activation in T lymphocytes .
+EXPERIMENTAL PROCEDURES Plasmids-The « B-lue reporter plasmid consists of three kB con-catamers from the HIV-long terminal repeat cloned upstream of a concanavalin-A minimal promoter driving the expression of luciferase ( 82 ) .
+The pREP4/CAT plasmid , which consists of the Rous sarcoma virus promoter-enhancer driving the transcription of the CAT gene , was used to control for transfection efficiency ( Invitrogen , Carlsbad , CA ) .
+IKKS KD ( K44A ) was obtained from M. Roth ( Tularik , South San Francisco , CA ) .
+IKKa kinase dead ( KD ) ( D144N ) was a kind gift from Alain Israel , Institute Pasteur , Paris , France .
+Wild-type PKCa cDNA was kindly provided by Dr. Altman , La Jolla , CA .
+The expression vector , pSRa4ACaM-AI , encoding a constitutively active calcineurin catalytic subunit is similar to the previously described pSRa-ACaM-AI ( 9 ) except that it contains an additional 75 base pairs of 5'-untranslated sequence from CN4a ( 84 ) .
+Cell Culture and Reagents-Jurkat T cells were obtained from American Type Tissue Culture Collection , Manassas , VA , and maintained in RPMI 1640 ( BioWhittaker , Walkersville , MD ) supplemented with 5 % heat-inactivated fetal bovine serum , 100 units/ml penicillin/streptomy-cin , and 2 mM L-glutamine cells were grown to a density of 8-5 x 10°/ml at the time of the different experiments .
+PMA , sodium orthovanadate , p-nitrophenyl phosphate were purchased from Sigma .
+Ionomycin , GF109203X ( GF ) , Go 6976 , B-glycerophosphate , PD 098059 were purchased from Calbiochem , and TNF was purchased from Genzyme ( Bos-ton , MA ) .
+Leupeptin , aprotinin , and pepstatin A were obtained from Roche Molecular Biochemicals .
+Anti-IKKa ( H-744 , M-280 ) , ( H-470 ) , anti-Raf-1 ( C-12 ) , anti-Rsk-1 ( C-21 ) , and anti-IxBa ( C-21 ) antibodies were purchased from Santa Cruz Biotechnology , Santa Cruz , CA .
+Anti-human CD3 antibodies were obtained from Ancell , Bayport , PKC and Calcineurin Synergize to Activate IKK MN .
+Neutralizing antibodies to TNF were purchased from R & D Systems ( Minneapolis , MN ) .
+To isolate CD3* T cells , peripheral blood mononuclear cells from healthy donors were obtained from buffy coats by density gradient centrifugation ( Ficoll-Paque , Amersham Pharmacia Biotech ) .
+Peripheral blood mononuclear cells were then depleted of monocytes by two cycles of plastic adherence , and CD3* T cells were purified by neura-minidase-treated sheep red blood cell rosetting .
+The remaining cell population was repeatedly found to be 98 % CD3* T cells as determined by flow cytometry analysis .
+CD3* T cells used in the various experiments were maintained in RPMI 1640 supplemented with 10 % fetal bovine serum ( Invitrogen , Carlsbad , CA ) , 2 mM L-glutamine , and antibiotics ( penicillin 100 units/ml , streptomycin 100 pg/ml ) at 0.5 x 10° cells/ml .
+CD3* T cells were stimulated and harvested on the 2nd day after isolation .
+Where indicated , cells were pretreated with 2 uM GF109203X and Go 6976 for 15 min , 30 um PD 098059 for 20 min .
+FK506 was used at 20 ng/ml .
+For Jurkat T cells , PMA was used at 20 ng/ml , ionomycin at 8.5 ug/ml , and TNF- @ at 10 ng/ml .
+For CD3* T cell activation , PMA was used at 2.5 ng/ml , ionomycin at 0.7 ug/ml , and TNF- @ at 10 ng/ml .
+TCR/CD3 cross-linking was performed with 3 ug/ml anti-CD3 antibody as previously demonstrated by our group ( 34 ) .
+Cell Extract Preparation , Immunoblotting Kinase Assay-To obtain total cellular proteins , cells were washed with cold phosphate-buffered saline , resuspended in whole-cell extract PD buffer adapted with slight modifications from Mercurio ef al .
+( 27 ) ( 40 mM Tris-HCl , pH 8 , 0.3 M NaCl , 0.1 % Nonidet P-40 , 6 mM EDTA , 6 mm EGTA , 10 mM NaF , 10 mM p-nitrophenyl phosphate , 10 mM B-glycerophosphate , 300 pM sodium orthovanadate , 1 mM dithiothreitol , 2 uM phenylmethylsulfonyl fluo-ride , aprotinin at 10 ug/ml , leupeptin at 1 pg/ml , pepstatin 1 ug/ml ) , and centrifuged at 12,000 X g for 15 min at 4 °C .
+The resultant supernatant contained total cellular protein .
+The amount of cellular protein present in the clarified supernatant was calculated by using the Bio-Rad protein assay .
+For Western immunoblots , equal amounts of whole cell extract ( WCE ) protein were loaded and separated by 10 % SDS-polyacrylamide gel electrophoresis ( PAGE ) and transferred to Immobilon-P membranes ( Millipore , Bedford , MA ) .
+Immunoblotting was performed with specific antibodies and visualized by using the ECL Western blotting detection kit ( Amersham Pharmacia Biotech , Buckinghamshire , UK ) .
+For the immunocomplex kinase assay , 100 ug of Jurkat WCE and 50 ug of CD3* T cell WCE were rotated with specific antibodies for 1 h and then for an additional 1 h more with protein A-agarose beads ( Life Technologies , Inc. ) at 4 °C .
+The immunoprecipitations were performed in WCE buffer with high NaCl concentrations ( 0.5 M ) .
+The beads were washed 3 times with 0.5 M NaCl WCE buffer followed by 1 wash of kinase assay washing buffer ( 50 mM Tris-HCl , pH 7.4 , 40 mM NaCl ) .
+The beads were mixed with 15 pl of kinase buffer ( 83 ) ( 20 mM Hepes , pH 7 4 , 2 mM magnesium chloride , 2 mM manganese chloride , 10 uM ATP , 10 mM NaF , 10 mM p-nitrophenyl phosphate , 10 mM B-glycerophosphate , 300 pM sodium orthovanadate , 2 uM phenylmethylsulfony ] fluo-ride , aprotinin at 10 pg/ml , leupeptin at 1 pg/ml , pepstatin at 1 ug/ml , 1 mM dithiothreitol ) containing 2 ug of GST-IxBa- ( 1-53 ) substrate and 1 uCi of [ y- `` `` PJATP .
+The 80-min kinase reaction at 30 °C was stopped by adding 4X SDS-PAGE sample buffer .
+The proteins were separated by SDS-PAGE and transferred to Immobilon-P membrane .
+The top part of the membrane was used for immunoblots of IKKa or Rsk-1 ; on the bottom part of the membrane , the amount of GST-IxBa- ( 1-53 ) and the levels of its phosphorylation were visualized by staining with Coomassie Blue and autoradiography , respectively .
+Preparation of Recombinant IxBa-The IxBa MADS cDNA ( 85 ) plasmid was obtained from Chiron and used as a template for subsequent polymerase chain reaction amplification .
+The N-terminal I « Ba MADS ( 1-53 ) sequence was amplified using wild-type primer A ( CGGGATC-CATGTTCCAGGCGGCCGAG ) , as the 5 ' sense primer , creating a BamHI site upstream of the coding sequence , and wild-type primer B ( GGAATTCCTCAGCGGATCTCCTGCAGCT ) as antisense primer , creating an EcoRI site downstream of the coding sequence .
+A double SS2A/S86A mutant was amplified from the full-length cDNA using polymerase chain reaction primers which created alanines at amino acids 32 and 36 .
+Following digestion with BamHI and EcoRI , these sequences were ligated into pGEX-KG ( derived from pGEX-2T from Amersham Pharmacia Biotech ) .
+These constructs were transformed into Escherichia coli DHS5 @ cells , which were grown exponentially , and after 60 min of stimulation with isopropylthiogalactopyranoside ( Sig-ma ) cells were lysed .
+Proteins were isolated by affinity chromatography on glutathione-bonded 4 % cross-linked agarose ( Sigma ) .
+The purity of GST-I « Ba- ( 1-58 ) and GST-I « Ba- ( 1-58 ) 82A/86A was analyzed with 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; PKC and Calcineurin Synergize to Activate IKK 22925 A IgG + - « CD3 Ab .
++ + IxBo IVK |IxBa wee a- a > IKK IB _ .___._- cps3+t Jurkat IxBa # t I < Bowt IxBq324/36A TNF .
+.
+.
+.
+4 % rx PMA .
+.
+% 4 % > > !
+Aca IONQ - + > > + > mo # 0+ # o > €00 % 0+ 0 # o > IcBa *°P - « » dD « w » IVK |IxBa wee wus muss cues se ~ Seep wee Sunt cust | Whe wees cme came wost IKK IB - ( sms s de _ ue mans 11 12 13 14 15 in vivo | IB eet « mme suus UOS ... o wee we sume mee *~ 1° 2 % 4 5 6 7 8 9 10 IgG Ase istr Sat TNF Ashes !
+» Asst PMA IONO IxBa *2P bcen cue « wens - aoa IVK | IxBa wore wee wees cuse cue .
+Gime meum mee ues emm meet IKK IB wom ha mem tue me l muses must meee cuca oot 10 2 3 4 5 60 7 B8 9 10 11 Fig .
+1 .
+PKC- and Ca `` +*-dependent pathways are required for the IKK complex activation .
+A , the activation of the IKK complex following TCR/CD3 cross-linking is calcineurin-dependent .
+Jurkat T cells ( 2 X 10°cells per sample ) were incubated with 3 pg/ml anti-CD3 ( Zanes 2 and 3 ) or isotype control IgG ( Zane 1 ) antibody for 45 min at 4 °C in 1 ml of media .
+Cells were then cross-linked on goat anti-mouse-coated plates for 20 min at 387 °C .
+Jurkat T cells were pretreated with 20 ng/ml FK506 before incubation with anti-CD3 antibodies ( Zane 3 ) .
+IKK activity was measured in an in vitro kinase assay ( IVK ) as described under `` Experimental Procedures , `` using GST-IxBa ( 1-53 amino acids ) as substrate ( IxBa **P ) .
+Coomassie staining of the polyvinylidene difluoride membrane containing the IVK ( IxBa ) and immunoblotting ( IB ) for IKKa ( IKKa IB ) were performed .
+B , PMA and ionomycin synergize to activate IKK in Jurkat and CD3 * T cells .
+Primary CD38 ( Zanes 1-5 ) and Jurkat T cells ( Zanes 6-15 ) were stimulated ( + ) or not ( - ) for 8 min with ionomycin ( JONO ) , PMA , or TNF .
+For CD3 T cell activation , PMA was used at 2.5 ng/ml , ionomycin at 0.7 ug/ml for 8 min , and TNF « at 10 ng/ml for 4 min ; for Jurkat T cell stimulation PMA was used at 20 ng/ml , ionomycin at 3.5 ug/ml for 8 min , and TNF-a at 10 ng/ml for 8 min .
+IKK activity was measured in an IVK using GST-I « kBa- ( 1-53 ) as substrate ( IxBa *°P ) .
+The specificity of IKK kinase activity toward to Ser-82/Ser-86 was demonstrated by using GST-I « Ba ( 1-53 amino acids ) with substituted serines for alanines ( IxB & `` `` `` , lanes 11-15 ) .
+In parallel , the level of endogenous IxBa from the same cell extracts were detected by immunoblotting with anti-IxBa antibodies ( IxBa IB in vivo ) .
+C , Jurkat T cells were either untreated ( anes 1-5 ) or pretreated with 4 ug/ml neutralizing anti-TNF antibody ( lanes 6-8 ) or with 4 ug/ml isotype control IgG antibody ( Zanes 9-11 ) 1 h prior to stimulation .
+Efficiency of the neutralizing anti-TNF antibody was demonstrated by using the mixture of recombinant TNF ( 10 ng/ml ) with neutralizing anti-TNF antibody ( 4 ug/ml ) incubated for 1 h at 4 °C before stimulation ( Zane 5 ) .
+IKK activity was measured in IVK as described above .
+Equal amounts of the substrate and the immunoprecipitated kinase complex were present in the assay confirmed by Coomassie staining of the polyvinylidene difluoride membrane containing the IVK ( /xBa ) , and immunoblotting ( ZB ) for IKKa ( IKKa IB ) , respectively .
+10 % SDS-PAGE and subsequent Coomassie Blue staining .
+The purity of both proteins was greater than 90 % .
+Gene Transfection and Reporter Assays-FuGENEG was used to express plasmids transiently in Jurkat T cells .
+In brief , 8 pl of FuGENE6 ( Roche Molecular Biochemicals ) were mixed with 92 pl of plain RPMI 1640 media and incubated for 5 min .
+FuGENEG/RPMI 1640 solution was added to sterile tube containing 0.4 ug of < B-lue reporter plasmid , 0.6 ug of pREP4/CAT , and 0-1 ug of a plasmid of interest ( total is 2 ug ) and incubated for 15 min .
+The DNA/sFuGENE6 solution was added to 1 X 10° log phase Jurkat T cells .
+Jurkat cells were transfected with the indicated plasmids and grown for 40 h. Cells were stimulated for 4 h with PMA ( 20 ng/ml ) , ionomycin ( 8.5 ug/ml ) , TNF-a ( 10 ng/m1 ) , or PMA and ionomycin together .
+After stimulation , cells were washed twice in cold phosphate-buffered saline and lysed with 210 ul lysis solution ( 100 mM K , PO , , pH 7.8 ; 0.2 % Triton X-100 ; 5 mM dithiothreitol , 2 ug/ml aprotinin ) .
+Equal amounts ( 100 pl ) of extract were assayed for luciferase and CAT expression .
+CAT expression was determined by the Roche Molecular Biochemicals CAT en- zyme-linked immunosorbent assay kit using the manufacturer 's proto-col. Luciferase activity was assayed using the Promega Luciferin reagent and a Berthold Lumat .
+Luciferase activity is normalized to CAT expression .
+All transfection experiments were performed in duplicate .
+RESULTS PKC- and Ca* `` *-dependent Pathways Synergize to Activate the IKK Complex in T Cells-Cross-linking of the TCRWCD3 results in the activation of PKC- and Ca**-dependent pathways that synergize in T cells to activate NF- « B by targeting the phosphorylation and degradation of its inhibitor , I « xBa ( 11 , 31 ) .
+To determine whether TCR cross-linking can lead to IKK activation , we measured the IxBa kinase activity of the IKK complex immunoprecipitated from Jurkat T cells that were activated or not following TCR cross-linking .
+Cross-linking of the TCR with anti-CD3 but not IgG antibodies results in a 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 22926 moderate activation of the IKK complex ( Fig .
+14 , 2nd lane ) , which is inhibited by pretreatment of Jurkat T cells with the calcineurin-specific inhibitor FK506 ( Fig .
+14 , lane 3 ) .
+From these results , and based on previous studies from our group ( 11 , 31 ) , we conclude that calcineurin participates in the TCR/ CD3-initiated signal transduction pathway that leads to IKK activation .
+To investigate the role of PKC and calcineurin in the activation of the IKK complex , an in vitro kinase assay using IKK complex immunoprecipitates from resting freshly isolated peripheral human T lymphocytes and Jurkat T cells that were or were not stimulated with ionomycin , PMA , or their combination .
+Ionomycin stimulation of CD3¢* and Jurkat T cells does not affect the IKK complex activity ( Fig .
+1B , lanes 2 and 7 ) , whereas PMA induces a moderate IxBa kinase activity ( Fig .
+1B , lanes 3 and 8 ) .
+However , stimulation of CD3 * and Jurkat T cells with the combination of PMA and ionomycin increased the IKK complex kinase activity beyond that observed in PMA-treated cells ( Fig .
+1B , lanes 4 and 9 ) .
+When TNF treatment was used as a control of IKK activation ( 24 ) , it was observed that the degree of TNF activation was similar to that of PMA but significantly lower than that achieved by the combination of PMA and ionomycin ( Fig .
+1B , lanes 5 and 10 ) .
+The IKK complex kinase activity was specific for Ser-32/Ser-36 , as it was not observed when an IxBa substrate in which both serines were substituted with alanines was used in the in vitro kinase assay ( Fig .
+1B , lanes 11-15 ) .
+Equal amount of I « Ba substrate present in the in vitro kinase assay ( Fig .
+1B , IxkBa ) or the amount of IKK complex immunoprecipitated ( Fig .
+1B , lanes I-5 ) confirmed that the increased in vitro phosphorylation of I « Ba is a function of enhanced IKK complex kinase activity .
+Similar results were obtained when the IKK complex was immunoprecipitated with additional anti-IKKa or IKK $ antibodies ( data not shown ) .
+In addition , Raf-1 immunoprecipitates of cell lysates from PMA , PMA and ionomycin , or TNF -stimulated cells did not result in the phosphorylation of IxBa at Ser-32/Ser-36 , despite evidence of Raf-1 activation following PMA treatment ( data not shown ) .
+To determine whether the qualitative differences in the IKK activation triggered by PMA or PMA and ionomycin correlated with the in vivo IxBa hyperphosphorylation , the same cell lysates used for immunoprecipitation of cell kinases were separated by SDS-PAGE and immunoblotted for endogenous IxBa using anti-IxBa-specific antibodies .
+Hyperphosphorylation of IxBa , determined by the slower migrating form of I « Ba , was mainly observed in the PMA- and ionomycin-treated cells ( Fig .
+1B , IxBa IB in vivo , lanes 4 and 9 ) .
+This observation establishes a direct correlation between the qualitative activation of the IKK complex by PKC- and Ca**-dependent pathways and IxBa hyperphosphorylation in vivo .
+To demonstrate that the observed synergistic activation of the IKK complex is the direct effect of PMA and ionomycin co-stimulation , and not due to their secondary induction of TNF , we measured the IxBa kinase activity of the IKK complex from PMA- and ionomycin-treated Jurkat T cells in the presence or not of neutralizing anti-TNF antibodies ( Fig .
+1C ) .
+Pretreatment of Jurkat T cells with such antibodies abrogates the activation of the IKK complex by recombinant TNF ( Fig .
+1C , lanes 4 and 8 ) but has no effect on the IKK complex activation by the combination of PMA and ionomycin ( Fig .
+1C , lanes 2 , 3 and 6 , 7 ) .
+The specificity of the neutralizing anti-TNF antibodies was confirmed by their preincubation with recombinant TNF ( Fig .
+1C , lane 5 ) and by using IgG isotype antibodies as control ( Fig .
+1C , lanes 9-11 ) .
+p90 ** Is Synergistically Activated by PKC- and Ca `` *-de-pendent Pathways-The mitogen-activated p90 ** phosphoryl- PKC and Calcineurin Synergize to Activate IKK A Jurkat FK 506 _ -o og % PMA so ge Go go # IONO + + IKK IP « an at pQO 's `` IP wore sume muss in vivo | IkBo .
+IB e* = -- « -- - =a -- 10 20 3 4 5 B Cp3+ FK 506 t ot ot to o* + + # + + # TNF £0 stl on mu = ® + PMA = .
+o > 4 4+ o- > o 8 0 # 0 # o > ONG .
+oy .
+os n £ .
+og IKK IP « « @ < ilh - wes quem cue psorslqp wc suo .
+In vivo | IxBa .
+IB == wee su 10 20 3 4 5 60 7 8 90 10 Fic .
+2 .
+Calcineurin mediates synergistic IKK activation , but not p90** , in T cells .
+A , Jurkat T cells were pretreated ( + ) or not ( - ) with 20 ng/ml specific calcineurin inhibitor FK506 1 h before stimulation with PMA and/or ionomycin .
+Immunoprecipitated p90'** ( p90 `` ** IP ) and the IKK complex ( IKKa IP ) were analyzed in IVK .
+IVK and IB are as described in Fig .
+1 .
+B , same as A except that primary CD3¢* T cells were used .
+Lymphocytes were pretreated with 100 ng/ml FK506 1 h before stimulation .
+ates IxBa at Ser-32 ( 29 , 30 ) , and it is questioned whether it directly results in IxBa phosphorylation and degradation in vivo ( 20-23 , 36 ) .
+Because p90'** is a second messenger that is activated by PKC ( 87 ) , we investigated whether Ca**-dependent pathways synergistically activated the presumed IxBa kinase activity of p90'®* that would be induced following PKC stimulation .
+Jurkat T cells and freshly isolated peripheral blood CD3 * T lymphocytes were treated with PMA and/or ionomycin , and p90'** and IKK complexes were subsequently immunoprecipitated and analyzed for their ability to phosphorylate IxBa at Ser-32/Ser-36 .
+In Jurkat T cells , PMA alone significantly induces the p90'** IxBa activity ( Fig .
+24 , IP , lane 2 ) .
+However , the combination of PMA and ionomycin only weakly increased the kinase activity of p90'** beyond that induced by the stimulation with PMA alone ( Fig .
+24 , p90 `` ** IP , lane 3 ) suggesting that at this concentration of PMA , p90'®* is already fully activated .
+In primary CD3 * T cells , and in contrast to that observed in Jurkat T cells , strong synergistic activation of p90 `` toward the IxBa substrate by the combination of PMA and ionomycin was observed ( Fig .
+2B , p90'®* IP , lane 4 ) .
+Again , stimulation by ionomycin alone does not induce p90 `` ®* activation ( Fig .
+2B , p90 ’ Sk IP , lane 2 ) .
+Calcineurin Is Required for Synergistic Activation of the IKK Complex but Not p90®* in T Lymphocytes-The role of Ca**-dependent signaling and of calcineurin on the activation of the IKK complex and p90'** kinase activity was investigated in the presence or absence of the calcineurin-specific inhibitor FK506 ( 38 ) .
+Jurkat T cells and freshly isolated T lymphocytes were pretreated with FK506 for 1 h followed by their stimulation with PMA , ionomycin , or their combination .
+As shown in Fig .
+2 , FK506 reverses the synergistic activation of the IKK complex by PMA and ionomycin in both Jurkat T cells ( Fig .
+24 , IKK IP , lanes 3 and 5 ) and in primary CD3¢ T cells ( Fig .
+2B , IKK IP , lanes 3 , 4 , and 8 , 9 ) and has no effect on p90'** activation ( Fig .
+2A , p90 ** IP , lanes 2-5 ; Fig .
+2B , p90 ** IP , lanes 3 , 4 and 8 , 9 ) .
+The reduction of IKK kinase activity in vitro by FK506 correlates with the decrease of the in vivo IxBa hyperphosphorylation ( Fig .
+2A , in vivo IxBa IB , lanes 3 and 5 ; and Fig .
+2B , in vivo 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; PKC and Calcineurin Synergize to Activate IKK 22927 A pao 's IP IKK IP IsBq324/36A IxBo # * rol gH Cle PMA - 0 + 4+ -o + + + ) | # isk -~ + # elle IxBa *P « « » cm » e « a » > kie IVK |IxBa M 9 10 11 12 13 14 Pgnrsk|B-_—-____ Fic .
+3 .
+PD 098059 inhibits PMA/ ionomycin-induced p90'** activation but does not affect IxBa phosphorylation and degradation in vivo .
+A , Jur- B kat T cells were pretreated ( + ) or not ( - ) for 20 min with 30 um PD 098059 ( PD ) and subsequently stimulated ( + ) or not ( - ) with PMA and/or ionomycin .
+Immunoprecipitates of p90'* IP ) or of IKKa ( IKK IP ) were analyzed in the in vitro kinase assay ( IVK ) .
+IVK and IB are as described in Fig .
+1B .
+B , same as in A except that primary CD3* T cells were used .
+C , Jurkat T cells ( 1 X 10° ) were transfected with « B-luc- ( 0.4 ug ) and REPA/CAT ( 0.6 ug ) reporter plasmids .
+Forty hours later cells were pretreated with 30 uM inhibitor PD 098059 for 20 min and then stimulated ( + ) or not ( - ) with PMA and/or ionomycin for 4 h. Equal amounts ( 100 pl ) of extracts were assayed C for luciferase and CAT expression .
+Luciferase activity is normalized to CAT expression ( relative luciferase activity ) .
+All transfection experiments were performed in duplicate .
+IxBa IB , lanes 4 and 9 ) .
+The specificity of FK506 as an inhibitor of the T cell receptor-initiated signaling leading to IKK activation was tested in the TNF-mediated IKK activation and in vivo I « xBa phosphorylation .
+TNF-induced IKK activation and IxBa-induced hyperphosphorylation in vivo was not affected by the pretreatment of T lymphocytes with FK506 ( Fig .
+2B , in vivo IxBa , lanes 5 and 10 ) .
+Altogether , these results demonstrate a direct correlation between the degree of IKK activation and the in vivo IxBa hyperphosphorylation .
+Moreover , they point to the necessary role of calcineurin in mediating the hyperphosphorylation of IxBa by IKK following the activation of PKC- and Ca* `` *-dependent signaling that is triggered by TCR cross-linking .
+The IKK Complex and Not p90®* Controls Inducible IxBa Phosphorylation and NF- « B Activation in T Cells-To evaluate the in vivo role of p90'** as an IxBa kinase involved in the NF- « B activation following T cell activation , we used the specific MEK-1 inhibitor PD 098059 ( PD ) ( 39 ) to block p90'* activation ( 40 ) .
+In Jurkat T cells a strong activation of p90 “ , B IxBa activity by PMA was reversed by PD ( Fig .
+34 , IxBa *°P , lanes 2 and 5 ) .
+The combination of PMA and ionomycin only moderately increased the kinase activity of p90 `` ** ( Fig .
+34 , IxBa *P , lane 3 ) .
+Interestingly , PD did not completely eliminate the PMA- and ionomycin-induced activation of the p90 ** IxBa kinase activity , allowing the detection of a degree of synergy when compared with PMA and PD-treated cells ( Fig .
+3A , IxBa *P , lane 6 ) .
+This residual effect was completely 1 2 % 4 5 6 7T 8 PD ells es # 111 TNF - > - SMal x alee 21x lnm dnl : 10NG | € + !
+!
+!
+eee IxBa *P bed pgorsk IP| IBa p9o `` s IB IKK IP IxBa P amp ~ « ip ~~ in vivo IxBa IB - # # # * « sae suse -~ Seem tue uous ECT _ > 7 B8 9 10 Relative luciferase activity blocked by PD treatment for a longer time ( 1 h ) ( data not shown ) , suggesting that MEK-1 mediates both PKC- and Ca**-dependent signaling .
+The specificity of PD as a p90 `` ®* inhibitor in this model was further evaluated by measuring its inhibitory activity on the IKK complex kinase activity from the same lysates .
+The synergy between PKC- and Ca**-dependent pathways that results in the activation of the IKK complex as an IxBa kinase ( Fig .
+34 , lane 11 ) was minimally modified by PD ( Fig .
+3A , lane 14 ) , confirming that PD inhibits p90'** activation but not the IKK complex .
+In primary CD3¢ T cells , the IxBa kinase activity of p90'®* toward IxBa substrate was synergistically increased by the combination of PMA and ionomycin ( Fig .
+3B , IxBa °°P , lane 4 ) , an effect that was reversed when cells were treated with PD ( Fig .
+3B , lane 9 ) .
+The increased p90'** kinase activity was independent of the amount of IxBa substrate present in the in vitro kinase assay or the amount of p90'®* immunoprecipitated ( Fig .
+3B , p90 ®* IP , IxBa , and p90 ** IB , respectively ) .
+As expected , TNF did not increase the IxBa kinase activity of p90 ** ( Fig .
+3B , IxBa *°P , lane 5 ) .
+The specificity of PD was once again verified in primary CD3* T cells by determining whether the synergistic activation of the IKK complex activity by PMA and ionomycin was PD-insensitive .
+As shown in Fig .
+3B ( IKK IP , lanes 4 and 9 ) , PMA and ionomycin resulted in the synergistic activity of IKK that was not modified by pretreatment of cells 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 22928 PKC and Calcineurin Synergize to Activate IKK A amii .
+fll ill al all lloc +/* !
+se ) Aite , itt t > PMA - + + > AMIE uh ONO ® - > = + > aloe M z | |P IxBa IVK v0 C # : dee pi Siwa in vivo - IkBa IB `` * == -- - suus wee cme mugs some mmm Fic .
+4 .
+Conventional PKC isoforms 1° O2 3 % 5 6 T 8 9 10 11 12 are required for IKK and NF-KB acti- B gr ~ Anoto ?
+slits oal vation .
+A , Jurkat T cells were pretreated Gb - Ae M M ( + ) or not ( - ) with 2 uM GF and 2 pM G6 TNF - | | | 4 II Il I 1 + I U Ul + 6976 ( GS ) for 15 min before stimulation elgg .
+mee AME IEI with PMA , ionomycin , or TNF .
+Same leg- PMA ends as in Fig .
+1 .
+B , same as A except that ONO~ # - + > illlolo st malal CD3* T cells were used .
+C , Jurkat T cells IkBa IVK - # p « = » aam » « am ( 1 X 10° ) were transfected with « B-luc- ( 0.4 ug ) and REPA/CAT ( 0.6 ug ) reporter plasmids using FuGENE6 method .
+Forty hours later , cells were pretreated with 2 uM GF or G6 for 15 min and then stimulated ( + ) or not ( - ) with PMA and/or ionomycin for 4 h. Equal amounts ( 100 pl ) of extracts were assayed for luciferase and CAT expression .
+Luciferase activity is normalized to CAT expression .
+C with PD .
+Similarly , TNF-induced IKK activity was PD-insen-sitive ( Fig .
+3B , IKK IP , lanes 5 and 10 ) .
+The specificity of PD as an inhibitor of the in vitro IxBa kinase activity of p90'®* but not of the IKK complex allowed us to address the relative role of each IxBa kinase in mediating the PMA or PMA- and ionomycin-dependent IxBa hyperphosphorylation and subsequent degradation in primary T cells in vivo .
+The same cytosolic extracts from purified CD3¢* T cells that were used for the p90'** and IKK immunoprecipitations experiments were subjected to SDS-PAGE analysis and immunoblotting with anti-IxBa-specific antibodies .
+PMA and ionomycin combined , but not PMA , or ionomycin alone , induced a slower migration form of IxBa that was not reversed in the presence of PD ( Fig .
+3B , in vivo IxBa IB , lanes 4 and 9 ) .
+To test the in vivo relevance of the regulation of I « xBa phosphorylation in vitro and in vivo by these two kinases , Jurkat T cells were transfected with a « B-dependent reporter gene , and cells were treated or not with PMA alone and combination of PMA and ionomycin in the presence or absence of PD .
+As shown in Fig .
+3C , the synergistic activation of NF- « B transcriptional activity by combination of PMA and ionomycin was minimally sensitive to PD .
+Altogether , while these results indicate that PMA and ionomycin synergize to activate in vitro the IxBa kinase activity of both the IKK complex and of p90'®* , the latter is not regulated by calcineurin and does not appear to play a role in the activation of NF-KB in vivo .
+Conventional PKC Isoforms Are Required for the Activation of the IKK Complex in T Lymphocytes-Recent studies demonstrated that both the conventional isoform , PKCa , and the in vivo | IxBo .
+1B *** « == « s- » wees cuse cums cuse = « sum cuses muses set 10 2 % 4 50 % fo 8B # 0 41 12 13 44 is 40000 - Untreated t +GF H 4 Gio 6976 > 30000 £ € & & § 20000 3 ® & g 10000 o 4 PMA - + + i + - 400+ IONQ - - 0 4 & 0 - 0 - + on M ie I t : novel isoform , PKCO , may be potentially involved in NF- « B activation ( 41 , 42 ) .
+PKCa associates with and phosphorylates IKK ( 41 ) suggesting that the activation of PKCa following TCR/CD3 cross-linking could result in the activation of the IKK complex .
+PKC0 , a novel PKC isoform was recently identified as the PKC isoform that synergizes with calcineurin leading to JNK activation ( 42 ) and that is recruited to the TCR at the antigen-presenting cells docking region during antigen presentation ( 43 ) .
+To characterize the type of PKC isoform that synergizes with calcineurin to activate the IKK complex , a series of pharmacological inhibitors of PKC were utilized ( 44 ) .
+GF109203X ( GF ) inhibits the conventional and novel isoforms , whereas G6 6976 ( G6 ) inhibits only the conventional isoforms ( 45 ) .
+The specificity of the PKC inhibitors was verified by using TNF as a PKC-independent stimulus that leads to I « Ba hyperphosphorylation through the activation of the IKK complex ( 46 ) .
+Jurkat T cells and freshly isolated CD3 * T cells were pretreated with GF followed by cell stimulation with PMA , ionomycin , or the combination of PMA and ionomycin , followed by the analysis of the IxBa kinase of immunoprecipitated IKK .
+GF abrogated the IKK complex kinase activation triggered by PMA or the combination of PMA with ionomycin in both Jurkat T cells ( Fig .
+44 , IxBa IVK , lanes 2-4 , 6 , and 7 ) and in primary CD3¢* T lymphocytes ( Fig .
+4B , IxBa IVK , lanes 3 , 4 , and 8 , 9 ) .
+TNF -induced IKK activation was not reversed by GF pretreatment of Jurkat T cells ( Fig .
+44 , IxBa IVK , lanes 4 and 8 ) or of primary CD3* T cells ( Fig .
+4B , IxBa IVK , lanes 5 and 10 ) .
+As expected from previous results , the loss of IKK complex kinase activity in 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; PKC and Calcineurin Synergize to Activate IKK PMA and ionomycin , but not in TNF-treated cells preincubated with GF directly , correlates with the lack of I « xBa hyperphosphorylation in vivo observed in I « Ba immunoblots of the same cytosolic samples ( Fig .
+4 , A and B , in vivo IxBa IB ) .
+These observations confirm the requirement for a conventional or novel isoform of PKC for the synergistic IKK activity .
+Because GF can inhibit both conventional ( « , B , y ) and novel ( e , 0 , 8 , n , 1 ) PKC isoforms ( 44 ) , we sought to identify which subgroup of the PMA-responsive PKC isoforms was mediating the synergy with calcineurin .
+We predicted that if PKCQ would be the PKC isoform that synergized with calcineurin in T cells , pretreatment with GS would not inhibit the PMA and ionomycin-induced activation of the IKK complex kinase activity and , hence , the in vivo I « Ba hyperphosphorylation .
+To test this , Jurkat T lymphocytes and freshly isolated primary CD3¢ T cells were preincubated with G6 , followed by their stimulation with PMA , ionomycin , or the combination of PMA and ionomycin and analysis of the IKK complex activity .
+G6 selectively inhibited the synergistic activation of the IKK complex kinase activity mediated by the combination of PMA and ionomycin in both Jurkat T cells ( Fig .
+44 , IxBa IVK , lanes 2 , 3 and 10 , 11 ) and in primary CD3¢* T cells ( Fig .
+4B , IxBa IVK lanes 3 , 4 and 13 , 14 ) .
+G6 pretreatment did not affect the TNF-induced IKK complex kinase activation in Jurkat T cells ( Fig .
+44 , IxBa IVK , lanes 4 and 12 ) or in primary CD3¢* T cells ( Fig .
+4B , IxBa IVK , lanes 5 and 15 ) .
+The Gé-dependent inhibition of IKK complex activity triggered by PMA and ionomycin directly correlated with the abrogation of the PMA- and ionomycin-induced IxBa hyperphosphorylation in vivo in both types of T cells ( Fig .
+4 , A and B , in vivo IxBa IB ) .
+As expected , TNF-mediated IxBa hyperphosphorylation in vivo was not reversed by GO treatment ( Fig .
+4 , A and B , in vivo IxBa IB ) .
+The functional relevance of these observations was evaluated in Jurkat T cells that were transfected with a xB reporter gene and stimulated or not with PMA or PMA and ionomycin in the presence or not of GF and G6 .
+As shown in Fig .
+4C , both GF and Go specifically inhibited the PMA and PMA- and ionomycin-induced but not the basal NF- « B-dependent transcriptional activity , suggesting that the conventional PKC isoforms mediate the PMA effects on the activation of IKK .
+To confirm the contribution of this subfamily of PKC isoforms to the synergistic activation of NF- « B by calcineurin , wild-type of PKCa was overexpressed alone or in combination with the constitutively active form of calcineurin ACam-AlI ( Fig .
+5 ) .
+Overexpression of PKCa-wt or ACam-AI alone has no effect on NF- « B .
+However , stimulation of PKCa-wt-transfected Jurkat T cell with PMA resulted in NF- « B activation to a degree similar to that induced by PMA and ionomycin co-stimulation in mock-transfected cells ( Fig .
+5 ) .
+Furthermore , co-expression of PKCa-wt and ACam-Al resulted in a synergistic NF- « B activation ( Fig .
+5 ) .
+These results indicate that , different from the activation of another cellular kinase , JNK , conventional PKC isoforms such as PKCa can mediate the synergistic interaction with calcineurin following TCR/CD3 cross-linking that results in the activation of the IKK complex kinase activity in T cells .
+A Dominant Negative Form of IKKB Blocks NF- « B Activation Triggered by PKC- and Calcineurin-dependent Pathways-By having demonstrated that calcineurin synergizes with PKC to activate the IKK complex , we next investigated the effect of dominant negative forms of IKKa and IKKB on the NF- « B activation that follows PMA-ionomycin cell stimulation .
+Jurkat T cells were transiently co-transfected with expression vectors of dominant negative IKK genes and luciferase reporter genes driven by NF- « B concatamers .
+Rous sarcoma virus-CAT was used as a control of transfection efficiency and cell toxicity .
+22929 itn J untReateDp Moco , : : : +ION0 7 § 777 Z A A w __ _ # A # 522° `` ?
+?
+?
+peDNA3 PKCa-wt _ ACaM-Al _ ACaM-Al I + PKCa-wt Fic .
+5 .
+PKCa synergizes with calcineurin to activate NF- « B .
+Jurkat T cells ( 1 X 10° ) were transfected with « B-lue- ( 0.4 ug ) and REPA/CAT ( 0.6 pug ) reporter plasmids , pME18S-PKCa-wild-type ( PKCa-wt ) ( 0.5 ug ) , and pSRa4ACaM-AI ( ACaM-AI ) encoding a constitutively active calcineurin catalytic subunit ( 0.5 pg ) .
+Forty hours later cells were stimulated or not with PMA and/or ionomycin ( FONO ) for 4 h as described above .
+Equal amounts ( 100 ul ) of cytosolic extracts were assayed for luciferase and CAT expression .
+Luciferase activity is normalized to CAT expression ( relative luciferase activity ) .
+All transfection experiments were performed in duplicate .
+12000 [ ] Unstimulated J PMA EB PMA/ONO 100004 8000 4 6000 { 4000 4 Relative luciferase activity 2000 7 IKKo-KD o peDNA 3 IKKB-KD IKKo-KD IKKB-KD Fic .
+6 .
+Dominant negative form of IKK $ inhibits NF- « B activation triggered by conventional PKCs and calcineurin .
+A , Jurkat T cells were transfected with the B-luc reporter plasmid and the following plasmids : peDNAS-IKKa-kinase dead ( IKKa KD ) and pRKS5-C-Flag-IKK $ G-kinase dead ( IKKS KD ) using FuGENE6 method .
+The total DNA amount was normalized up to 2 ug with peDNAS .
+Forty hours after transfection , cells were stimulated for 4 h prior to harvest with PMA and ionomycin ( JONO ) .
+Luciferase activity was normalized to CAT expression of the pREP4/CAT plasmid .
+Overexpression of IKKS kinase dead ( KD ) , but not the wild-type isoforms of IKKa or -B ( data not shown ) , selectively impaired both PMA and PMA/ionomycin-induced up-regulation of NF- « B-driven transcription ( Fig .
+6 ) .
+Interestingly , overexpression of the IKKa-DN alone did not inhibit the NF- « B activation by PMA and ionomycin , and its combination with the IKKfB-DN did not enhance the inhibition achieved by IKKB-DN alone ( Fig .
+6 ) .
+These observations extend and confirm the involvement of the IKK complex in the convergence of the PKC and calcineurin signal transduction pathways to mediate IxBa hyperphosphorylation-degradation and NF- « B activation .
+DISCUSSION The results presented in this study identify the molecular targets and mechanisms whereby two TCR/CD3-dependent 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 22930 second messengers , PKC and calcineurin , lead to the activation of NF- « B in T lymphocytes .
+The identification that cyclosporin A or FK506 are effective inhibitors of IKK activation advances our knowledge as to the function of these commonly used immunosuppressive agents .
+Moreover , our results highlight the essential role that conventional PKC isoforms play in the TCR-mediated NF- « B activation , molecules that should be considered as targets for future drug development with the aim of interfering with T cell activation .
+NF- « B is a ubiquitous transcription factor that is involved in multiple immune and inflammatory responses ( 47 ) .
+T cell cross-linking results in NF-kB activation ( 48-51 ) and together with NF-AT , AP-1 , and octomer leads to IL-2 expression in in vitro experimental settings ( 52-54 ) .
+However , NF- « B may play a more significant role in regulating T cell function in vivo than that inferred from studies analyzing the transcriptional regulation of the IL-2 promoter .
+The fact that IL-2 production is greatly impaired in c-Rel-deficient lymphocytes ( 55 ) and in T cells with constitutive repression of NF- « B activity ( 56 ) suggests that NF- « B , rather than only the nuclear factor of activated T cells , is required for an adequate T cell function .
+Hence , the identification of calcineurin as a necessary component in the activation of IKK by TCR engagement and the complete inhibition of NF-B activation by cyclosporin A and FK506 may explain the effectiveness of such drugs as NF- « B-specific T cell activation inhibitors .
+The relevance of NF- « B as a target of TCR engagement is not restricted to understanding the immune response but to other relevant areas such as HIV pathogenesis .
+Recent studies indicate that T lymphocytes serve as a reservoir of latent HIV provirus in patients effectively responding to highly active antiretroviral therapy .
+The fact that NF- « B is a key transcription factor in reactivating HIV from latency in T lymphocytes explains the HIV reactivation and viral production that ensues following T cell receptor activation of latent HIV-in-fected T cells ( 57 ) .
+Identification of calcineurin or of conventional PKC isoform as potential targets of this process could be of future value in the study of HIV reactivation .
+In the present study , we find that the IKK complex , and not p90'** , mediates IxBa hyperphosphorylation at Ser-32 and Ser-36 and thus NF- « B activation in vivo following PMA and ionomycin stimulation .
+This observation highlights that while both kinases are activated by PKC-dependent pathways and further amplified in a synergistic manner by Ca* `` *-dependent pathways , only the IKK complex appears to be responsible for NF- « B activation via IxBa .
+Although IxBa Ser-32 and Ser-36 may prove to be a good in vitro substrate to measure p90'®* activity , its in vivo extrapolation to NF- « B activation may be less certain .
+We conclude this from the fact that p90'** and IKK do not co-immunoprecipitate ( data not shown ) and , more im-portantly , that a MEK inhibitor ( PD ) does not affect IKK activation or IxBa phosphorylation in vivo followed by PMA and ionomycin treatment , whereas it completely inhibits p90'®* activation .
+The observation that the MEK inhibitor spares the signal transduction pathway leading to NF- « B activation from the mitogen-activated protein kinase pathway may be of future value in selectively inhibiting and differentiating specific target functions of T cell activation , such as NF- « B versus API mitogen-activated protein kinase-dependent activation .
+IKKa and -B are contained within a high molecular weight complex with multiple components ( 24 , 27 ) .
+The inhibitory effect of dominant negative forms of IKK on NF-KB activation suggests that this kinase is relevant in mediating the synergistic activation of NF-kB by the combination of PKC and calcineurin .
+The role of IKKa in this process is less clear .
+Although overexpression of dominant negative forms of IKKa PKC and Calcineurin Synergize to Activate IKK had little effect on the PMA and ionomycin-induced NF- « B activity , both endogenous IKKa and IKK become in vivo hy-perphosphorylated following T cell activation ( data not shown ) , thus suggesting that activation of both kinases may be needed for full signalsome activity .
+Prior studies ( 27 , 28 ) demonstrated that IKK rather then IKKa played a major role in IxBa phosphorylation by TNF , potentially explaining the stronger effect of overexpressed IKK on induced NF- « B activation observed in these studies ( 25 ) .
+The mechanism whereby calcineurin converges with PKC-dependent pathways to activate the IKK complex is unknown .
+Previous studies from our group indicated that calcineurin alone had no effect on the activation of NF- « B in T lymphocytes ( 11 ) .
+However , its presence was required in order for PKC-dependent pathways to induce a maximal level of NF-KB activation ( 11 , 31 ) .
+Results presented here extend and confirm those observations by documenting that the level of IKK activation triggered by PKC-dependent pathways is only moderate and that increased ( Ca®* ) levels alone are not sufficient to activate IKK .
+Rather , increased ( Ca** ) levels need to be present at the time of PKC activation to result in maximum IKK activity and hence in vivo IxBa phosphorylation .
+The fact that calcineurin alone does not activate IKK does not exclude that it does not target the IKK complex .
+Potentially , calcineurin may modify the composition or interaction of proteins with the signalsome .
+This could allow for a more effective activation of the signalsome by PKC-dependent pathways .
+Alternatively , calcineurin may function upstream of the signalsome by modifying transducers of the PKC-dependent pathway resulting in a more effective downstream activation of IKK by PKC .
+Future studies need to address these and other possibilities , which should ultimately lead to the identification of potential targets of new immunosuppressive agents .
+The identification of conventional PKC isoforms in the activation of the IKK complex activation is of potential relevance .
+By using specific pharmacological inhibitors in primary CD3 * T cells , we conclude that T cell-specific classical PKC isoforms such as « or BI must be involved in this process ( 58-62 ) .
+Identification of which of these PKC isoforms that mediate the activation of IKK needs to be pursued .
+The recent observation that PKCa can directly interact and activate IKKB but not IKKa ( 41 ) suggests that PKCa can directly mediate TCRCD3-generated signals to the IKK complex .
+On the contrary , whereas PKCO is activated during antigen presentation ( 43 ) and involved in the induction of AP-1 transcriptional activity ( 42 , 63 ) , its lack of cytoplasmic membrane translocation following TCR/CD3 activation , together with results presented here , suggests that this T lymphocyte-specific PKC isoform may participate in signal transduction pathways activated following antigen presentation , separate from those initiated from TCR/ CD3 .
+Antigen presentation requires not only the activation of TCR/CD3 , but also of other co-stimulatory receptors such as CD28 .
+The recent report ( 64 ) demonstrating that the combination of CD3- and CD28-generated signals converge on the mitogen-activated protein 3-type kinase , Cot , suggests that the process of antigen presentation that leads to NF- « B activation may require the separate but coordinated activation of at least TCR/CD3 and CD28 signaling pathways , each one with distinct but necessary second messages .
+Future studies should address how two necessary components of the TCR/CD3-initiated pathways , conventional PKC isoforms and calcineurin , interact with the CD28-dependent second messengers to effectively activate NF-kB .
+Acknowledgments-We thank Gary Bren for outstanding technical assistance and all the members of Dr. Paya 's laboratory for thoughtful 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; PKC and Calcineurin Synergize to Activate IKK discussions .
+We thank Teresa Hoff for excellent manuscript preparation .
+REFERENCES 1 .
+Sen , R. , and Baltimore , D. ( 1986 ) Cell 46 , 705-716 2 .
+Guerder , S. , and Flavell , R. A .
+( 1995 ) Intern .
+Rev .
+Immunol .
+18 , 135-146 3 .
+Nabel , G. , and Baltimore , D. ( 1987 ) Nature 826 , 711-713 4 .
+Gaynor , R. ( 1992 ) AIDS 6 , 347-363 5 .
+Imboded , J .
+B. , and Stobo , J. D. ( 1985 ) J. Exp .
+Med .
+161 , 446-456 6 .
+Berridge , M. J .
+( 1998 ) Nature 861 , 815-825 7 .
+Clapham , D. E. ( 1995 ) Cell 80 , 259-268 8 .
+Truneh , A. , Albert , F. , Golstein , P. , and Schmitt-Verhulst , A.-M. ( 1985 ) Nature t 10 .
+11 .
+12 .
+18 .
+14 .
+15. .
+Beg , A .
+A. , Ruben , S. M. , Scheinman , R. L. , Haskill , S. , Rosen , C. A. , and 17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+28 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+813 , 318-320 .
+O'Keefe , S. J. , Tamura , J. , Kincaid , R. L. , Tocci , M. J. , and O'Neill , E. A .
+( 1992 ) Nature 857 , 692-694 Crabtree , G. R. , and Clipstone , N. A .
+( 1994 ) Annu .
+Rev .
+Biochem .
+63 , 1045-1083 Frantz , B. , Nordby , E. C. , Bren , G. , Steffan , N. , Paya , C. V. , Kincaid , R. L. , Tocci , M. J. , O'Keefe , S. J. , and O'Neill , E. A .
+( 1994 ) EMBO J .
+18 , 861-870 Sen , J. , Venkataraman , L. , Shinkai , Y. , Pierce , J. W. , Alt , F. W. , Burakoff , S. J. , and Sen , R. ( 1995 ) J. Immunol .
+154 , 8218-8221 Kieran , M. , Blank , V. , Logeat , F. , Vandekerckhove , J. , Lottspeich , F. , Le Bail , O. , Urban , M. B. , Kourilsky , P. , Baeuerle , P. A. , and Israel , A .
+( 1990 ) Cell 62 , 1007-1018 Nolan , G. P. , Ghosh , S. , Liou , H.-C. , Tempst , P. , and Baltimore , D. ( 1991 ) Cell 64 , 961-969 Bacuerle , P. A. , and Baltimore , D. ( 1989 ) Genes Dev .
+3 , 1689-1698 Baldwin A. S. ( 1992 ) Genes Dev .
+6 , 1899-1913 Mercurio , F. , DiDonato , J .
+A. , Rosette , C. , and Karin M. ( 19938 ) Genes Dev .
+7 , 705-718 Thompson , J. E. , Phillips , R. J. , Bromage , H. E. , Tempst , P. , and Ghosh , S. ( 1995 ) Cell 80 , 573-582 Brown , K. , Gerstberger , S. , Carlson , L. , Franzoso , G. , and Siebenlist , U .
+( 1995 ) Science 267 , 1485-1488 Brockman , J .
+A. , Scherer , D. C. , McKinsey , T. A. , Hall , S. M. , Qi , X. , Lee , W. Y. , and Ballard , D. W. ( 1995 ) Mol .
+Cell .
+Biol .
+15 , 2809-2818 DiDonato , J. , Mercurio , F. , Rosette , C. , Wu-Li , J. , Suyang , H. , Ghosh , S. , and Karin , M. ( 1996 ) Mol .
+Cell .
+Biol .
+16 , 1295-1304 Traenckner , E. B.-M. , Pabl , H. L. , Henkel , T. , Schmidt , K. N. , Wilk , S. , and Baeuerle , P. A .
+( 1995 ) EMBO J .
+14 , 2876-2883 Whiteside , S , T. , Ernst , M. K. , LeBail , O. , Laurent-Winter , C. , Rice , N. , and Israél , A .
+( 1995 ) Mol .
+Cell .
+Biol .
+15 , 5389-5345 DiDonato , J .
+A. , Hayakawa , M. , Rothwarf , D. M. , Zandi , E. , and Karin , M. ( 1997 ) Nature 888 , 548-554 Zandi , E. , Rothwarf , D. M. , Delhase , M. , Hayakawa , M. , and Karin , M. ( 1997 ) Cell 91 , 248-252 Regnier , C. H. , Song , H. Y. , Gao , X. , Goeddel , D. V. , Cao , Z. , and Rothe , M. ( 1997 ) Cell 90 , 373-383 Mercurio , F. , Zhu , H. , Murray , B. M. , Shevchenko , A. , Bennett , B. L. , D. B.Li , J. Wu , Young , D. B. , Barbosa , M. , Mann , M. , Manning , A. , and Rao , A .
+( 1997 ) Science 278 , 860-866 Woronicz , J. D. , Gao , X. , Cao , Z. , Rothe , M. , and Goeddel , D. ( 1997 ) Science 278 , 866-869 Ghoda , L. , Lin , X. , and Green , W. C. ( 1997 ) J. Biol .
+Chem .
+272 , 21281-21288 Schouten , G. J. , Vertegaal , A. C. O. , Whiteside , S. T. , Israél , A. , Toebes , M. , Dorsman , J. C. , van der Eb , A. J. , and Zanterna , A .
+( 1997 ) EMBO J .
+16 , 3133-3143 Steffan , N. M. , Bren , G. D. , Frantz , B. , Tocci , M. J. , O'Neill , E. A. , and Paya , C. V. ( 1995 ) J. Immunol .
+155 , 4685-4691 McElhinny , J .
+A. , MacMorran , W. S. , Bren , G. D. , Ten , R. M. , Israél , A. , and Paya , C. V. ( 1995 ) J. Virol .
+69 , 1500-1509 Kincaid , R. L. , Giri , P. R. , Higuchi , S. , Tamura , J. , Dixon , S. C. , Marietta , C. A. , 34 .
+35 .
+36 .
+37. .
+Liu , J. , Farmer , J. D. , Lane , W. S. , Friedman , J. , Weissman , L. , and Schreiber , 39 .
+40 .
+41 .
+42 .
+43 .
+45 .
+55 .
+56 .
+57 .
+58 .
+59 .
+60 .
+63 .
+64 .
+22931 Amorese , D. A. , and Martin , B. M. ( 1990 ) J. Biol .
+Chem .
+265 , 11812-11319 Algeciras-Schimnich , A. , Griffith , T. S. , Lynch , D. H. , and Paya , C. V. ( 1999 ) J. Immunol .
+162 , 5205-5211 Haskill , S. , Beg , A .
+A. , Tompkins , S. M. , Morris , J. S. , Yurochko , A. D. , Sampson-Johannes , A. , Mondal , K. , Ralph , P. , and Baldwin , A. S. , Jr. ( 1991 ) Cell 65 , 1281-1289 Brown , K. , Franzoso , G. , Baldi , L. , Carlson , L. , Mills , L. , Lin , Y.-C. , Gerstberger , S. , and Siebenlist , U .
+( 1997 ) Mol .
+Cell .
+Biol .
+17 , 3021-3027 Chen , R. H. , Chug , J. , and Blenis , J .
+( 1991 ) Mol .
+Cell .
+Biol .
+11 , 1861-1867 S. L. ( 1991 ) Cell 66 , 807-815 Dudley , D. T. , Pang , L. , Decker , S. J. , Bridges , A. J. , and Saltiel , A. R. ( 1995 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+92 , 1686-7689 Zhao , Y. , Bjorbaek , C. , and Moller , D. E. ( 1996 ) J. Biol .
+Chem .
+271 , 29773-29779 Lallena , M.-J .
+, Diaz-Meco , M. T. , Bren , G. , Paya , C. V. , and Moscat , J .
+( 1999 ) Mol .
+Cell .
+Biol .
+19 , 2180-2188 Werlen , G. , Jacinto , E. , Xia , Y. , and Karin , M. ( 1998 ) EMBO J .
+17 , 3101-8111 Monks , C. R. F. , Kupfer , H. , Tamir , L. , Barlow , A. , and Kupfer , A .
+( 1997 ) Nature 385 , 83-86 .
+Toullec , D. , Pianetti , P. , Coste , H. , Bellevergue , P. , Grand-Perret , T. , Ajakane , M. , Baudet , V. , Boissin , P. , Boursier , E. , Loriolle , F. , Duhamel , L. , Charon , D. , and Kirilovsky , J .
+( 1991 ) J. Biol .
+Chem .
+266 , 15771-15781 Martiny-Baron , G. , Kazanietz , M. G. , Mischak , H. , Blumberg , P. M. , Kochs , G. , Hug , H. , Marmé , D. , and Schichtele , C. ( 1998 ) J. Biol .
+Chem .
+268 , 9194-9197 .
+Meichle , A. , Schiitze , S. , Hensel , G. , Brunsing , D. , and Krénke , M. ( 1990 ) J. Biol .
+Chem .
+265 , 83389-83438 .
+Bacuerle , P. A. , and Henkel , T. ( 1994 ) Annu .
+Rev .
+Immunol .
+12 , 141-179 .
+Jamieson , C. , McCaffrey , P. G. , Rao , A. , and Sen , R. ( 1991 ) J. Immunol .
+147 , 416-420 .
+Kang , S.-M. , Tran , A.-C. , Grilli , M. , and Lenardo , M. L. ( 1992 ) Science 256 , 1452-1456 .
+Chen , D. , and Rothenberg , E. ( 1995 ) Mol .
+Cell .
+Biol .
+18 , 228-238 .
+Sen , R. , and Baltimore , D. ( 1986 ) Cell 46 , 705-716 .
+Hoyos , B. , Ballard , D. W. , Bohnlein , E. , Siekevitz , M. , and Greene , W. C. ( 1989 ) Science 244 , 457-460 .
+Shibuya , H. , Yoneyama , M. , Taniguchi , T. ( 1989 ) Int .
+Immunol .
+1 , 48-49 .
+Briegel , K. , Hentach , B. , Pfeuffer , L. , and Serfling , E. ( 1991 ) Nucleic Acids Res .
+19 , 5929-5936 Kiontgen , F. , Grumont , R. J. , Strasser , A. , Metcalf , D. , Li , R. , Tarlinton , D. , and .
+Gerondakis , S. ( 1995 ) Genes Dev .
+9 , 1965-1977 Boothby , M. R. , Mora , A. L. , Scherer , D. C. , Brockman , J .
+A. , and Ballard , D. W. ( 1997 ) J. Exp .
+Med .
+185 , 1897-1907 Finzi , D. , Hermankova , M. , Pierson , T. , Carruth , L. M. , Buck , C. , Chaisson , R. E. , Quinn , T. C. , Chadwick , K. , Margolick , J. , Brookmeyer , R. , Gallant , J. , Markowitz , M. , Ho , D. D. , Richman , D. D. , and Siliciano , R. F. ( 1997 ) Science 278 , 1295-1300 Coussens , L. , Parker , P. J. , Rhee , L. , Yang-Feng , T. L. , Chen , E. , Waterfield , M. D. , Francke , U. , and Ullrich , A .
+( 1986 ) Science 288 , 859-66 Knopf , J. L. , Lee , M. H. , Sultzman , L. A. , Kriz , R. W. , Loomis , C. R. , Hewick , R. M. , and Bell , R. M. ( 1986 ) Cell 46 , 491-502 Baier , G. , Telford , D. , Giampa , L. , Coggeshall , K. M. , Baier-Bitterlich , G. , Isakov , N. , and Altman , A .
+( 1993 ) J. Biol .
+Chem .
+268 , 4997-5004 .
+Hug , H. , and Sarre , T. F. ( 19938 ) Biochem .
+J .
+291 , 829-48 .
+Lucas , S. , Marais , R. , Graves , J. D. , Alexander , K. , Parker , P. , and Cantrell , D. A .
+( 1990 ) FEBS Lett .
+and 58-56 Baer-Bitterlich , G. , Uberall , F. , Bauer , B. , Fresser , F. , Wachter , H. , Grunicke , H. , Utermann , G. , Altman , A. , and Baier , G. ( 1996 ) Mol .
+Cell .
+Biol .
+16 , 1842-1850 Lin , X. , Cunningham , Jr. , E. T. , Mu , Y. , Geleziunas , R. , and Greene , W. ( 1999 ) Immunity 10 , 271-280 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Protein Kinase C and Calcineurin Synergize to Activate IxB Kinase and NF-KB in T Lymphocytes Sergey A. Trushin , Kevin N. Pennington , Alicia Algeciras-Schimnich and Carlos V. Paya J. Biol .
+Chem .
+1999 , 274:22923-22931. doi : 10.1074/jb0.274.33.22923 Access the most updated version of this article at http : /www.jbe.org/content/274/33/22923 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 63 references , 37 of which can be accessed free at http : //www .
+full.html # ref-list-1 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ;

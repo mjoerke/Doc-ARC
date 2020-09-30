@@ -1,0 +1,887 @@
+JOURNAL or ViRoLOGY , June 1999 , p. 4678-4688 0022-538 X/99/ $ 04.00+0 Vol .
+73 , No .
+6 Copyright © 1999 , American Society for Microbiology .
+All Rights Reserved .
+Control of Cell Cycle Entry and Apoptosis in B Lymphocytes Infected by Epstein-Barr Virus LINDSAY C. SPENDER , '' EMMA J. CANNELL , '¢ MARTINE HOLLYOAKE , '' ' BARBARA WENSING , !
+JONATHAN M. GAWN , ' MATTHEW BRIMMELL , ' GRAHAM PACKHAM , ** AND PAUL J. FARRELL®** Ludwig Institute for Cancer Research and Virology and Cell Biology Section , '' Imperial College School of Medicine , St. Mary 's Campus , London W2 1PG , United Kingdom Received 23 October 1998/Accepted 23 February 1999 Infection of human B cells with Epstein-Barr virus ( EBV ) results in activation of the cell cycle and cell growth .
+To interpret the mechanisms by which EBV activates the cell , we have assayed many proteins involved in control of the G , and G , phases of the cell cycle and regulation of apoptosis .
+In EBV infection most of the changes , including the early induction of cyclin D2 , are dependent on expression of EBV genes , but an alteration in the E2F-4 profile was partly independent of viral gene expression , presumably occurring in response to signal transduction activated when the virus binds to its receptor , CD21 .
+By comparing the expression of genes controlling apoptosis , including those encoding several members of the BCL-2 family of proteins , the known relative resistance of EBV-immortalized B-cell lines to apoptosis induced by low serum was found to correlate with expression of both BCL-2 and A20 .
+A20 can be regulated by the NF-KB transcription factor , which is known to be activated by the EBV LMP-1 protein .
+Quantitative assays demonstrated a direct temporal relationship between LMP-1 protein levels and active NF-B during the time course of infection .
+When Epstein-Barr virus ( EBV ) infects resting human B lymphocytes , it drives the cells into the cell cycle and maintains cell division .
+The lymphoblastoid cell lines ( LCLs ) that arise from this type of EBV infection are relatively resistant to apoptosis caused by deprivation of serum growth factors .
+Cells of this LCL type are produced in vivo upon primary infection of humans but are then eliminated by the immune response , asymptomatically in infants but in adults in the course of the disease known as infectious mononucleosis .
+In the absence of normal immune surveillance , cells of the LCL type can develop into lymphomas ( reviewed in reference 61 ) .
+Genetic analysis of EBV has demonstrated several viral genes that are required for initiation and maintenance of growth .
+These include the genes that encode the nuclear proteins EBNA-1 , EBNA-2 , EBNA-LP , EBNA-3A , and EBNA-3C and the plasma membrane protein LMP -1 ( reviewed in references 22 and 23 ) .
+Some of the biochemical functions of these proteins are now becoming clear .
+EBNA-1 is required for EBV plasmid maintenance , EBNA-2 causes transcription activation through several interactions ( including the Notch pathway ) , and EBNA-LP is able to cooperate with EBNA-2 in regulation of some genes .
+EBNA-3C causes cells to progress through cell cycle check points in both G , and G ; , /M by an unknown mechanism , and the partly related EBNA-3A protein has effects on gene regulation ( 15 ) .
+The LMP-1 protein activates signalling through several transduction pathways , including TRAF- and TRADD-mediated activation of NF-kB ( 10 , 19 , 30 , 47 , 64 ) and activation of SAP/JNK1 kinase , leading to c-Jun phosphorylation ( 20 , 34 ) .
+The EBV immortalization genes are not all expressed simultaneously upon infection ; EBNA-LP and EBNA-2 are * Corresponding author .
+Mailing address : Ludwig Institute for Cancer Research , Imperial College School of Medicine , St. Mary 's Campus , Norfolk Place , London W2 1PG , United Kingdom .
+Phone : 44 171 724 5522 .
+Fax : 44 171 724 8586 .
+E-mail : pfarrell @ ic.ac.uk .
+¢ Present address : Institute for Cancer Research , Chester Beatty Laboratories , London SW3 6JB , United Kingdom .
+4678 the first to be expressed , followed by the remaining EBNA proteins and then LMP We have studied the mechanism by which the resting B cells which EBV infects are driven into the cell cycle and the expression of genes that may control apoptosis during the infection of B cells We and others have shown previously that binding of the virus to its receptor on the B-cell surface ( CD21 ) not only mediates uptake of the virus but also results in signal transduction ( 71 , 72 ) , which preactivates the cell , enabling expression of transfected genes and giving an early transient activation of NF- « B ( 75 ) .
+In B cells preactivated by exposure to purified gp340 ( a form of the EBV surface glycoprotein which mediates virus binding to CD21 ) , we showed that transfection of the first two viral genes known to be expressed during infection ( EBNA-LP and EBNA-2 ) resulted in induction of the RNA encoding an early marker of cell cycle entry , cyclin D2 ( 72 ) .
+Cyclin-dependent kinases ( ecdks ) control cell cycle progression partly through the E2F family of transcription factors and the pocket proteins , Rb , p107 , and p130 , that can bind the various E2F complexes ( 65 ) .
+Here we study the expression of these proteins during the time course of EBV infection , when EBV drives the cells into cycle , and describe modifications to the E2F profile that are dependent upon virus infection , some of which require viral protein synthesis .
+Current models for entry of resting cells into the cell cycle in response to serum stimulation imply a key early role for E2F4 and p130 proteins in governing the G , -to-G , transition ( 45 , 73 , 78 ) ; it has so far been unclear whether activation of the cells by EBNA-LP and EBNA-2 is mediated through a direct effect on E2F-pocket protein complexes or through activation of cyclin expression .
+Here we show that the timing of changes we have detected in E2F and pocket proteins and the induction of cyclin D2 protein upon EBV infection are consistent with a cyclin D2-cdk complex mediating activation of the cell cycle .
+Once the cells are established in cycle , the EBNA-2 , EBNA-3C , and LMP-1 proteins are thought to control cell growth ( 32 , 35 , 56 ) .
+Prevention of apoptosis is now recognized to be as important as proliferation in determining the overall increase in cell num- voL .
+73 , 1999 ber in various cell types .
+In certain circumstances B lymphocytes are particularly prone to apoptosis , which is the main mechanism by which cells bearing self-reactive and low-affinity immunoglobulins are eliminated , particularly through Fas-mediated apoptosis ( 3 ) .
+EBV-immortalized B cells are relatively resistant to apoptosis induced by low serum .
+Resting B cells contain relatively high levels of BCL-2 protein , similar to LCL cells , and BCL-2 has been shown to protect B cells against apoptosis .
+BCL-2 expression can also be induced by the EBV LMP -1 protein ( 28 ) .
+In fact , BCL-2 is merely the prototypical member of a family of related proteins which are key regulators of apoptosis ( 16 , 17 , 48 , 58 , 59 , 83 ) .
+The family also includes BCL-X ; , , and MCL-1 ( which , like BCL-2 , suppress apoptosis ) and BAX , BAD , and BAK , which promote cell death ( 7 , 13 , 24 , 33 , 49 , 60 , 84 ) .
+These proteins form various heterodimers and homodimers , and it is likely that the interactions among them are critical to BCL-2 family functions ( 58 , 67 , 68 ) .
+BAX is central to the BCL-2 family of proteins , since it interacts with several antiapoptotic family members , including BCL-2 , BCL-X ; , and MCL-1 .
+The BCL-2 homology ( BH ) domains 1 and 2 define the family , and BHI1 and BH2 of BCL-2 are required for interaction with BAX and for suppression of apoptosis ( 85 ) .
+In contrast , BAX BH3 domain is required for association with BCL-2 and promotion of apoptosis ( 86 ) .
+In addition to dimerization , further complexity is present , since multiple isoforms of some family members are generated via alternate splicing , and these may be functionally distinct .
+For example , the alternate BCL-X form , lacks BHI1 and BH2 and promotes apoptosis ( 7 ) .
+The balance of the levels of these various proteins , rather than the simple expression of BCL-2 , is a key aspect of the regulation of apoptosis , but there is little knowledge of their levels in EBV-immortalized B cells and their relative importance .
+A further regulator of apoptosis present in LCLs is the A20 protein .
+A20 is a ring finger protein which suppresses apoptosis and can be induced by LMP ( 26 , 39 , 50 , 51 , 66 ) .
+We have measured the levels of these apoptosis-regulatory gene products in a panel of cell lines , including LCLs and Burkitt 's lymphomas ( BLs ) , with or without EBV immortalizing-gene expression .
+The results suggest that , in addition to BCL-2 , the A20 antiapoptotic protein may also have a role in preventing the sensitivity of LCLs to apoptosis induced by low serum .
+The A20 promoter can be regulated by LMP -1 through its NF-KB site ( 39 ) , and we have directly measured the induction of active nuclear NF-kB during primary infection , showing that it correlates with LMP-1 expression .
+MATERIALS AND METHODS Purification of B cells , EBV , and virus infections .
+Primary B cells from peripheral blood were isolated as described previously ( 12 , 72 ) .
+Buffy coats were centrifuged over Ficoll-Pague ( Pharmacia LKB ) gradients , and CD19-positive lymphocytes were immunoselected with pan-B Dynabeads M450 ( Dynal ) .
+The beads were removed by competition with Detachabeads ( Dynal ) , and the cells were resuspended at 10 % /ml in RPMI 1640 supplemented with penicillin , streptomycin , and 15 % heat-inactivated fetal calf serum .
+The cells were incubated for 40 h prior to infection with EBV or treatment with 30 ng of PMA ( phorbol-12-myristate-13-acetate ) as indicated .
+UV radiation inactivation of EBV prior to infection was performed in a Stratalinker with 9 J of UV radiation .
+Tonsil B cells were purified by negative selection .
+Single-cell suspensions prepared from fresh tonsils were centrifuged over Ficoll-Paque .
+T cells were removed by rosetting with 5-2-aminoethylisothiouronium bromide ( AET ' ) -treated sheep erythrocytes followed by centrifugation over Percoll ( specific gravity , 1.08 ; Pharmacia Bio-tech ) .
+The dense resting B cells were further isolated by centrifugation over Percoll at a specific gravity of 1.074 and resuspended at 10 % /ml in RPMI 1640 supplemented with penicillin , streptomycin , and 15 % heat-inactivated fetal calf serum .
+The isolated cells were analyzed by flow cytometry for purity and DNA content with fluorescein isothiocyanate ( FITC ) -conjugated anti-CD20 and propidium iodide , respectively .
+The cells were infected with the B95-8 strain of EBV as described previously ( 28a ) .
+Cell lines and apoptosis assay .
+BL41 , DG75 ( 6 ) , BL40 , and BL2 ( 40 ) are EBV-negative BL cell lines .
+Akata ( 76 ) and Elijah are EBV-positive BL cell lines CELL CYCLE AND APOPTOSIS IN EBV INFECTION - 4679 that have retained a group I phenotype ( 62 ) .
+Mutu III clone 148 , BL72 ( 40 ) , and WewakI ( 62 ) are EBV-positive BL cell lines that have acquired a group III phenotype .
+Namalwa ( 37 ) , Raji ( 57 ) , and BL74 ( 40 ) are EBV-positive BL cell lines with the intermediate group II phenotype .
+BL36-LCL , PF-LCL , LCL3 , IB4 ( 36 ) , and X50-7 ( 82 ) are in vitro EBV-immortalized LCLs .
+The cell lines were maintained in RPMI 1640 medium ( Gibco-BRL ) supplemented with 10 to 15 % ( vol/vol ) fetal calf serum and antibiotics .
+To test the sensitivity of cell lines to Fas-induced apoptosis , the cells were diluted to 10° per ml and treated with 100 or 500 ng of an anti-Fas immunoglobulin M ( IgM ) class antibody ( no .
+05-201 ; Upstate Biotechnology Inc. ) /ml or were left untreated as a control .
+The anti-Fas antibody had x light chains so , as an additional control , cells were treated with equivalent concentrations of an unrelated Ig M ( x ) antibody ( Pharmingen 03081D ) that had been dialyzed to remove azide .
+After 24 h , cell viability was determined by trypan blue exclusion as a measure of cell membrane permeability .
+Cell genomic DNA was analyzed as previously described ( 4 ) .
+Cell proliferation measured by [ H ] thymidine incorporation .
+Uninfected or EBV-infected cells ( 2 x 10° ) were pulse labelled for 2 h with 1 wCi of midine per well and harvested onto glass fiber filters with a cell harvester ( Ska-tron Ltd. , Lier , Norway ) .
+The filters were air dried , and scintillations were counted .
+Immunoblotting , immunofluorescence , and antibodies .
+Radicimmunoprecipi-tation assay lysates were prepared and quantitated , and immunoblotting was performed as previously described ( 9 ) .
+Proteins were fractionated by sodium dodecyl sulfate-polyacrylamide gel electrophoresis and transferred to nitrocel-lulose membranes .
+After being blocked with 10 % milk powder in phosphate-buffered saline , the membranes were probed with the following antibodies ( all antibodies were mouse monoclonal antibodies unless otherwise indicated ) .
+The antibodies used were a 1/10 dilution of anti-EBNA-LP monoclonal JF 186 ( 25 ) , 1/500 dilution of anti-EBNA-2 monoclonal antibody PE2 ( Dako ) , 1/10 dilution of anti-LMP-1 monoclonal $ 12 ( 41 ) , 1/1,000 dilution of rabbit polyclonal anti-p107 ( C-18 ; Santa Cruz Biotechnology ) , 1/1,000 dilution of rabbit polyclonal anti-pRB ( C-15 ; Santa Cruz Biotechnology ) , 1/1,000 dilution of rabbit polyclonal anti-p130 ( C-20 ; Santa Cruz Biotechnology ) , 1/80 dilution of anti-cyclin D2 ( G132-43 ; Pharmingen ) , 1/500 dilution of anti-cyclin E ( HE12 ; Santa Cruz Biotechnology ) , 1/700 dilution of anti-E2F-1 ( KH-95 ; Santa Cruz Biotechnology ) , 1/1,000 dilution of rabbit polyclonal anti-E2F-4 ( C-108 ; Santa Cruz Biotechnology ) , 1/1,000 dilution of rabbit polyclonal anti-p27 ( C-19 ; Santa Cruz Biotechnology ) , 1/1,000 dilution of rabbit polyclonal anti-edk2 ( M2 ; Santa Cruz Biotechnology ) , 1/500 dilution of rabbit polyclonal anti-cdk4 ( C-22 ; Santa Cruz Biotechnology ) , and 1/1,000 dilution of rabbit polyclonal anti-edk6 ( C-21 ; Santa Cruz Biotechnology ) .
+Three rabbit BAX antibodies were used .
+BAX N-20 ( Santa Cruz Biotechnology ) was used at 0.4 pg/ml , BAX P-19 ( Santa Cruz Biotechnology ) was used at 0.5 ug/ml , and BAX 13666E ( Pharmingen ) was used at a dilution of 1:1,000 .
+The -specific rabbit antibody S-18 ( Santa Cruz Biotechnology ) was used at 0.4 ug/ml , the BCL-2 antibody C124 ( Dako ) was used at 1 pg/ml , the BAK-specific goat antibody G-23 ( Santa Cruz Biotechnology ) was used at 0.5 pg/ml , and the BAG-1-specific rabbit antibody C-16 ( Santa Cruz Biotechnology ) was used at 0.5 ug/ral .
+The secondary antibodies were horseradish peroxidase-conjugated donkey anti-rabbit Ig or sheep anti-mouse Ig ( both Amersham ) or horseradish peroxidase-conjugated rabbit anti-goat Ig ( Santa Cruz Biotechnology ) .
+Bound immu-nocomplexes were detected by enhanced chemiluminescence ( Amersham ) .
+For immunofluorescent detection of EBNA-LP , cytospins were prepared from uninfected and EBV-infected cells 30 h after infection and fixed in 1:1 methanol-acetone .
+The cells were stained with JF186 ( 1:10 dilution ) followed by FITC-conjugated sheep anti-mouse IgG ( Sigma ) or the secondary antibody alone .
+Positive cells were counted by fluorescent microscopy .
+RNase protection assay and Northern blotting .
+Northern blotting and RNase protection assays were performed as described previously ( 4 , 71 , 72 ) with cytoplasmic RNA .
+The A20 probe for Northern blotting contained nucleotides 337 to 1614 of the cDNA ( 50 ) , kindly provided by V. M. Dixit .
+For the A20 RNAse protection assay , nucleotides 2218 to 1705 of the cDNA were subcloned to make the probe .
+The E2F-4 RNAse protection probe contained nucleotides 531 to 246 of the E2F-4 cDNA ( 5 ) and was made by in vitro transcription with SP6 RNA polymerase from the plasmid peDNA3-E2F4AApal ( a kind gift of E. Lam ) lin-earized with BstXL .
+Gel retardation assay .
+A double-stranded oligonucleotide , AGTTGAGGGG ACTITCCCAGGC , was end-labelled with T4 polynucleotide kinase .
+Nuclear extracts were prepared as described previously ( 54 ) .
+For each assay , 5 mg of LCL3 extract protein or an equivalent amount of extract ( primary B-cell infec-tions ) was incubated in a final reaction volume of 20 l containing 40 mM NaCl , 10 mM Tris-Cl ( pH 7.5 ) , 1 mM EDTA , 1 mM 2-mercaptocthanol , 4 % ( vol/vol ) glycerol , 1 mg of bovine serum albumin/ml , 0.1 mg of poly ( dIC ) /ml , and 50 ng of *°P-labelled oligonucleotide for 30 min at 25°C .
+Samples were electrophoresed on 4 % polyacrylamide gels in 0.5 % Tris-borate-EDTA .
+RESULTS In the experiments we have published previously on the early events after EBV infection of B cells , the B cells were purified 4680 SPENDER ET AL .
+by positive selection of peripheral blood lymphocytes on CD19 beads ( 12 , 72 ) .
+CD19 is part of the membrane complex containing the EBV receptor ( CD21 ) .
+There was , therefore , the possibility that the selection process might have affected the signal transduction and G , , status of the purified B cells , even though our standard procedure involved an overnight incubation in medium after the purification to allow any transduction effects of the purification process to dissipate .
+Although most parameters ( very low [ °H ] thymidine incorporation , 2 N DNA content , and cell surface and intracellular markers ) were as expected for resting cells ( 12 , 72 ) , we have found some variation in the level of hypophosphorylated p130 in the purified B cells .
+This seemed to be more a consequence of variation in the batches of buffy coats used for B-cell purification than a result of the positive selection protocol .
+Nevertheless , the purification procedure was modified , increasing the recovery period to 40 h. With this revised purification procedure , the cells were confirmed as predominately resting B cells , since they were CD20 positive and CD23 negative , lacked measurable [ °HJthy-midine incorporation , and lacked G- or S-phase cells in fluorescence-activated cell sorter analysis ( Fig .
+1 and data not shown ) .
+Furthermore , p130 levels in the purified-B-cell population were consistently normal and similar to those of resting B cells purified from tonsils by a negative selection protocol ( Fig .
+2 ) .
+Other types of resting ( G , ) cells have been shown to contain an E2F factor made up of E2F-4 complexed with a DP protein bound to the transcriptionally repressive pocket protein p130 ( 45 , 73 , 78 ) .
+The resting B cells were shown also to express E2F-4 ( Fig .
+2 ) .
+The purified B cells are thus in G , by all criteria that we have been able to measure .
+Purified resting cells were infected with EBV , and the expression of viral and cell proteins at various times after infection was monitored by Western blotting extracts of the cells .
+As we have shown previously ( 72 ) , the cells begin to enter S phase about 48 to 72 h after infection under these conditions ( Fig .
+1 ) .
+Cell death in the cultures was found to be relatively low : about 70 % of the cells remained viable by trypan blue exclusion ( Fig .
+1 ) , consistent with the fluorescence-activated cell sorter analysis of propidium iodide-stained cells , which showed about 30 % of the cells with a sub-G , DNA content at 72 h after the addition of virus .
+The viral proteins EBNA-LP , EBNA-2 , and LMP -1 were assayed .
+As shown previously ( 72 ) , EBNA-LP and EBNA-2 are the earliest viral proteins that can be detected ( Fig .
+2 ) .
+These transcription factors are assumed to modify the activity of cell genes or proteins , but the relevant early cell targets have not yet been identified .
+Across the same time course of infection , the E2F-1 and E2F-4 proteins were in-duced , with E2F-1 being undetectable or present at only a very low level in the uninfected cells at the start of the experiments ( Fig .
+2 ) .
+E2F-4 was present as multiple bands ; the slower-migrating forms are thought perhaps to represent phosphorylated forms of the protein ( 78 , 79 ) .
+The level of the slower-migrating forms of E2F-4 was reduced during the infection time course , but the overall level of E2F-4 detected by Western blotting was increased ( Fig .
+2 ) .
+The levels of the pRb and p107 pocket proteins were very low or undetectable in the uninfected cells , but both p107 and pRb were induced upon infection , with phosphorylated forms of pRb appearing about 30 h after infection .
+In contrast , p130 levels did not increase , but slower-migrating forms , presumably with different phosphorylation states , appeared later , about 48 h after the addition of virus .
+PMA treatment of the B cells ( which drives the cells into division ) induced changes in E2F-1 , E2F-4 , and the pocket proteins similar to those of EBV infection ( Fig .
+2 ) .
+We demonstrated previously that cyclin D2 RNA was induced by EBV as early as 24 h after infection in our system J. Virou .
+( 72 ) , and this has now been confirmed at the protein level by Western blotting ( Fig .
+3 ) .
+Cyclin E was found to be induced at about the same time the level of p27 protein declined abruptly , perhaps consistent with targeted degradation of p27 , as has been reported in other systems of cell cycle entry ( 55 , 69 , 80 ) .
+Although we previously reported induction of edk-2 , -4 , and -6 proteins from very low levels upon EBV infection ( 12 ) , it is now clear with improved detection methods that there is detectable cdk-2 , -4 , and -6 in the uninfected cells but that all these edks are induced further upon EBV infection .
+Some of the induction of edk-2 also occurred when the cells were cultured in the absence of EBV ( Fig .
+3 ) .
+Again , PMA treatment of the B cells resulted in changes to the profile of cyclin D2 , p27 , and edks similar to those in EBV infection .
+To distinguish which of these effects was dependent on viral gene expression , the levels of cyclin D2 , p130 , E2F-4 , and p27 proteins were measured at 24 and 48 h after infection with EBV or UV -inactivated EBV ( Fig .
+4A ) .
+After UV inactivation , the virus particles remain but viral gene expression is prevented ( the effectiveness of the UV inactivation was verified by monitoring expression of EBNA-LP , which was prevented by the UV treatment ) .
+The results ( Fig .
+4A ) show that the induction of cyclin D2 protein , the altered gel mobility ( presumed hyperphosphorylation ) of p130 , and the reduction in p27 levels were all dependent on viral gene expression , since the effects were prevented by UV inactivation of the virus .
+The changes in the migration pattern of E2F-4 upon EBV infection were also analyzed , comparing the effects of UV-inactivated EBV with those of wild-type virus .
+An increase in the level of E2F-4 protein was prevented by UV inactivation of the virus , but the reduction in amount of the slower-migrating forms of E2F-4 was only partly affected by the UV treatment of the virus , indicating that part of that change in E2F-4 might be in response to the signal transduction occurring when virus binds to the B cell ( Fig .
+4A ) .
+As shown previously for cyclin D2 ( 72 ) , the induction of E2F-4 expression also occurred at the RNA level ( Fig .
+4B ) , at a time consistent with its being a consequence of EBNA-2 and EBNA-LP expression from the EBV genome .
+Regulation of apoptosis during EBV infection is another important aspect of the transition from the resting state to immortalized LCL .
+There are likely to be changing apoptotic signals during the process of infection , since there is induction of cell proteins that are able to cause apoptosis , such as E2F-1 ( Fig .
+2 ) and c-Myc ( 1 ) , as growth is activated .
+BCL-2 ( perhaps induced by LMP-1 ) has already been implicated in the control of apoptosis in LCLs and group III BL cells ( 27 , 28 ) , but the involvement of other pathways has been suggested ( 44 ) .
+It is the balance of pro- and antiapoptotic proteins that is impor-tant , so we examined the levels of several proteins that regulate apoptosis in LCLs .
+To provide a framework in which the relationship between the EBV gene expression in EBV-immortalized LCLs and sensitivity to apoptosis might be interpreted , the protein levels in LCLs were compared to those in other B-cell lines with and without EBV gene expression .
+The most suitable lines for comparison were BL cells , since there are examples of these cell lines both containing and lacking EBV and there is also the opportunity to compare group I EBV-positive BL cells ( which express only EBNA-1 of the six viral proteins shown to be involved in LCL immortalization ) to group III EBV-positive BL cells , which have a pattern of EBV gene expression similar to that of the LCLs .
+EBV-negative and group I EBV-positive BL cell lines are relatively sensitive to apoptosis induced by ionomycin , stimulation via cell surface Ig molecules , or serum deprivation compared to group III BL lines ( 8 , 27 , 28 , 31 , 81 ) .
+Additionally , although both group III BL cell lines and LCL s express the Fas voL .
+73 , 1999 CELL CYCLE AND APOPTOSIS IN EBV INFECTION - 4681 A g B C & g N Primary B cells Primary B cells ~ LCL-C # 7 # 4 ¢ L4 ] , 96.2 % 7.2 % [ % 70.8 % ég # } | H ﬂ. “ 57 I ; H ’ n ' 87 1L '' I : ; a Pu Whoa , s f* in “ .
+uL-x .
+, iw aa ) ag as - ad iw o ao !
+ag G # an in '' _ aol as _ im _ as '' anti CD20-FITC anti CD23-FITC anti CD23-FITC D E 100 50 € > €0 75 & 4 C é 3 $ 8 50 o = & s ° = 25 = 3 5 a * E 0 0 0 20 _ 40 _ 60 _ 80 0 _ 20 _ 40 _ 60 _ 80 Hours Hours G 12 hrs 0 200 400 600 $ 00 1000 0 200 400 600 $ 00 1006 I 72 hrs 1 200 .- 400 .
+600 .
+$ 00 .
+1000 DNA content [ 200 400 .
+600 .
+$ 00 .. 1000 DNA content FIG .
+1 .
+Primary B cells isolated by CD19 positive selection were stained with FITC-conjugated antibodies recognizing ( A ) CD20 or ( B ) CD23 and analyzed by flow cytometry .
+An LCL immortalized with B95-8 EBV ( C ) was used as a positive control for CD23 staining .
+The percentage of positive cells was determined by using linear gates set to include 1 % positive cells on unstained samples ( dotted lines ) .
+( D ) Numbers of viable ( squares ) and dead ( circles ) cells were determined by trypan blue exclusion in uninfected ( open symbols ) and EBV-infected ( filled symbols ) cultures .
+( E ) DNA synthesis was measured by [ *H } thymidine incorporation in uninfected ( open squares ) and EBV infected ( filled squares ) cells .
+Uninfected ( F and H ) and EBV-infected ( G and I ) cells containing less than 2 N DNA and those in G ; , S , and G ; /M phases of the cell cycle were analyzed by propidium iodide staining at 12 ( F and G ) and 72 ( H an I ) h after the addition of virus .
+receptor , only LCL s are sensitive to ligation of the Fas receptor ( 21 ) .
+However , this study measured DNA synthesis and did not directly examine effects of Fas on apoptosis .
+To confirm that decreased DNA synthesis in Fas-treated LCLs was due to induction of apoptosis , we treated Fas receptor-positive group III BL cell lines and LCLs with an agonistic Fas antibody .
+Consistent with earlier results ( 21 ) , anti-Fas induced cell death in LCLs but not in group III BL cell lines ( Fig .
+5A ) , and analysis of genomic DNA demonstrated DNA degradation characteristic of apoptosis ( Fig .
+5B ) .
+4682 SPENDER ET AL .
+J. Virou .
+Time - 12 24 48 96 30 - 12 24 48 9 % - 48 9 % 30 - 12 24 9 % 0 12 9 % ( hrs ) - 6 16 30 72 0 6 16 30 720 M 72 o 6 16 30 _ 0 24 Ev t # t+++++++ -o- 4+4+4+4+4+4+ # 4+4 -- - > -o- 444444 - -~ ~ > PMA | .
+4 4 - & 4 - - =o & - < e e < -o- ++++ « 0 % 0 < _ - - o= -+++ - « os as p130 # woo §BP te 16090 ~ < b eer on < e EBNA-LP o ae .
+p107 - prFj - @ @ pRb s®O > - _sg4t EBNA-2 ons .
+« ne mes we see Me I “ *= P N LMP-1 wk |_ E2F-1 _ # @ # p130 - @ w FIG .
+2 .
+Purified B cells positively selected from peripheral blood were infected with EBV or treated with PMA ( 30 ng/m ! )
+in a time course , and aliquots were assayed by Western blotting for the proteins indicated .
+Purified B cells negatively selected from tonsils ( N ) were also compared with the positively selected B cells from peripheral blood ( P ) for p130 expression ( lower right panel ) .
+To relate these differences in apoptosis sensitivity to the endogenous levels of apoptosis-regulatory molecules , we examined expression of BCL-2 , BAX , BCL-XL , BAK , MCL-1 , and BAG-1 isoforms by immunoblotting ( Fig .
+6A ) , and the results are summarized in Fig .
+6C .
+Expression of the antiapoptotic A20 gene was measured by Northern blotting ( Fig .
+6B ) and compared to the protein data ( Fig .
+6C ) .
+Reactivity with the P-19 antibody was also determined in the cell lines ( Fig .
+6A ) ( see below ) .
+Consistent with previous data ( 27 , 28 ) , expression of BCL-2 was higher in LCLs and group III BL cell lines than in EBV-negative and group I BL cell lines .
+The sizes of the proteins on the Western blots indicated that BAX was entirely the a form , with no evidence of B , y , or 8 splicing , and BCL-X was entirely the L form , with no evidence of BCL-X4 .
+We have recently clarified the nature of the two BAG-1 isoforms ( 53 ) and shown that the absence of BAX protein in DG75 cells is due to a frameshift mutation in the BAX gene ( 9 ) .
+Of the other genes assayed which can contribute to the overall threshold of apoptosis , only the A20 gene showed a correlation with the resistance to apoptosis induced by low serum characteristic of LCLs : in this panel of cell lines , it correlated almost as well as BCL-2 expression .
+However , neither the endogenous A20 nor BCL-2 expressed in LCLs is sufficient to make the EBV-immortalized LCL s resistant to Fas-induced apoptosis ( Fig .
+6 ) , in contrast to the group III BL lines , which have EBV gene expression similar to that of LCL s but are relatively resistant to Fas-induced apoptosis .
+The promoter for the A20 gene can be regulated through two adjacent NF- « B sites 45 to 66 bp upstream of the transcription start ( 38 ) , so it seemed likely that this transcription factor ( which can be induced by LMP would be what determines A20 expression in LCLs .
+Recent work indicates that during the time course of early EBV infection there is a very early induction of NF-kB followed by a later , larger induction , presumably caused by the LMP protein .
+The early transient induction of NF-kB correlated with the signal transduction activated by the binding of EBV to its receptor on the cell , CD21 ( 75 ) .
+We analyzed the time course of expression of different components of the NF- « B complex and its inhibitory I- < B proteins during EBV infection ( Fig .
+7 ) .
+LMP-1 continued to accumulate even up to 144 h after infection , but the p65 , p50 , p52 , c-Rel , Rel-B , and Ix-Ba proteins were all induced to their steady-state levels by 48 h after infection .
+The level of Time 30 12 2M 48 % 48 - 96 ( hrs ) _ 0 6 ° 160 30 72 24 72 EBV O- - ot4+++++++4+ - -- -PMA = L 200 < < < < < - < - ~- +++ + we ome ome am » « - ape -~ cyclin D2 68 - sees « p27 « -am = cok 2 `` ~- - @ - - @ Go* edk 4 < r < ra » er cdk 6 24 48 9 % cyclin E FIG .
+3 .
+Purified B cells from peripheral blood were infected with EBV or treated with PMA ( 30 ng/m ! )
+in a time course , and aliquots were assayed by Western blotting for the proteins indicated .
++ , present ; - , absent .
+Vou .
+73 , 1999 A 1 2 3 4 500 Lane 0 - 24 - 48 _ Time ( hrs ) < ol > 4m .
+< a cus EBNA-LP 309 2441240 219 s p130 « mee cyclin D2 & & 406 E2F-4 8-4 -* p27 CELL CYCLE AND APOPTOSIS IN EBV INFECTION _ 4683 EBV U.V .
+EBV M P Y O 24 48 48 - 24 48 - M ( 1 ) 2 ) FIG .
+4 .
+( A ) Purified B cells from peripheral blood were infected with EBV ( lanes 2 and 4 ) or UV-inactivated EBV ( lanes 3 and 5 ) or left uninfected ( lane 1 ) .
+Extracts of the cells were prepared at the indicated times after infection and assayed by Western blotting .
+( B ) RNA was extracted from cells infected as for panel ( A ) and assayed by RNase protection analysis for E2F-4 RNA .
+The undigested probe ( 1 % of the input ) is shown in track P , and track Y is the negative control RPA with yeast RNA .
+The band at 286 nucleotides ( arrowhead ) indicates the presence of E2F-4 RNA .
+Samples 48 ( 1 ) and 48 ( 2 ) are the 48-h time points from two parallel infections .
+Size markers ( track M ) were an MspI digest of pBR322 DNA end repaired with Klenow DNA polymerase .
+U.V .
+EBV , UV-inactivated EBV .
+Ix-BB was higher in the uninfected cells than in the EBV-infected cells but also achieved a steady-state level by 48 h after infection .
+LMP-1 expression in our system is usually detected at 48 to 72 h , so the components of the NF-kB factor were therefore all present at their steady-state levels by the time LMP was expressed .
+Since exists as an inactive complex with in the cytoplasm , awaiting activation in response to signal transduc-tion , we wished to compare the time course of induction of the LMP protein and the level of activated NF-kB .
+The level of activated NF- « xB was determined by gel retardation assays of an oligonucleotide containing a consensus NF-kB binding site .
+The specificity of the assay was established by using nuclear extracts of LCL3 cells ( Fig .
+8A ) ; the broad band of retarded kB complexes was dependent on the addition of cell extract and was competed by an oligonucleotide containing a xB site but not by an unrelated control oligonucleotide .
+Further evidence for specificity was provided by supershifting the complexes with antibodies to components of the NF- « B factor .
+The faster-migrating part of the complex was supershifted by an antibody to p50 , the slower-migrating part of the complex was supershifted by an antibody to p65 , and the level of the whole complex was reduced by an antibody to p52 .
+Antibodies to RelB and cRel did not appear to affect the complexes , and major components of the two complexes may be p50-p50 and p50-p65 .
+This assay was then applied to the time course of EBV infection by using nuclear extracts from purified B cells at various times after infection .
+The level of activated NF-kB ( Fig .
+8C ) and the level of LMP-1 ( Fig .
+8B ) correlated in time , consistent with LMP-1 being responsible for the major increase in activated NF-kB observed during primary infection .
+The NF-KB site in the oligonucleotide used for the determination of activated NF-kB in the gel retardation assay was identical to the NF- « B site in the A20 promoter 57 to 66 nucleotides upstream of the transcription start in the published A20 sequence ( 38 ) .
+The induction of NF- « B in these B cells A 1007 .
+( `` - -L - l a Ro 757 hat > .
+~ , = ~ a = .
+S s. o *~ 507 ~ a- * C % $ 2 5 a a [ % 25 [ ( ~ * + .
+~ o BL74 B is 1 2 3 4 1 2 3 4 pampered @ LCL3 FIG .
+5 .
+Sensitivity of LCLs and resistance of BL cells to Fas-induced apoptosis .
+( A ) Cell viability was assayed by trypan blue exclusion after 24 h of treatment with anti-Fas antibody at 100 ( crosshatch ) or 500 ( solid ) ng/ml or with control antibody ( open ) .
+Error bars indicate standard deviation .
+( B ) DNA laddering was assayed in B4 and LCL3 cells treated for 8 h with 100 ( tracks 1 ) or 500 ( tracks 2 ) ng of anti-Fas antibody or 500 ng of control antibody ( tracks 3 ) /ml or with no additions ( tracks 4 ) .
+4684 SPENDER ET AL .
+a _ 4o= % 9 a-A § $ 56 | = 5 R E 9 q a g iid ir 1 kg cds BCL-2 « -- -- wou Bots , Eo » fe ak at ham Iir une ms coe -.. $ M = - somc o P19 t. mas : mae ( bie lng toe ege is BAK | Wit meme ® a f z 8 & 3 9 ; z Gl = ROR % a 9 $ cjdiibir { lg da MCI— “ 1 $ 4 % \o cg = ¥ 5 - a Eos x 3 .
+§ 5 3 0 pBOBAGA | -o- LR _ _-pMBAG- !
+| - us us purified from peripheral blood would thus account for the expression of A20 in the LCLs .
+DISCUSSION We have assayed many proteins involved in regulation of the cell cycle and apoptosis during EBV infection .
+The most straightforward interpretation of our data is that the changes represent the consequences of EBV infection leading to cell proliferation , but it is important to appreciate that there is a heterogeneity of response at the cellular level to the addition of virus to the B lymphocytes .
+Characterization of the cells showed a high degree of homogeneity .
+For example , the cells were selected with the B-cell marker CD19 and then also verified to be 96 % positive for the B-cell marker CD20 ; they were a resting population , as shown by the lack of dine incorporation and lack of CD23 activation marker .
+It is J. Virou .
+B $ a = £ w 20 _ oc s e 1 o na moa $ 5 £ 0 % 8 # s N 5 4 £ 1 5 0 2a a a $ s © % a 8 2 s 0 » o a a a £ £ ii < m 5 2 2 1 x « ae f < 4 N-20 BCL-2 BAX BCL-Xp BAG-1 BAK MCL-1 A20 EBV negative BL BL4L - + + ++ ND ++ _ DG75 - - ++ ++ ND ++ BL40 - + ++ ++ + + BL2 + + ++ ++ + + Ramos Rael EBV positive BL - Group I Akata - + ++ ++ + + +/-Elijah - + + ++ + + EBV positive BL - Group II/III Namalwa + + + ++ + ND Mutu III ++ + ++ ++ +/- + ++ Raji + + ++ ++ + ++ + BL72 ++ ++ + ++ + + + BL74 + + ++ ++ +/- + Wewak I t+ + ++ ++ + + ++ Jijoye + LCLs BL36 LCL +4 ++ ++ ++ + + ++ PF LCL ++ ++ ++ ++ + + ++ LCL3 ++ ++ ++ ++ + + ++ 1B4 ++ + + 4+ + +/- ++ X50-7 ++ ++ ++ t+ + +/- + FIG .
+6 .
+( A ) Expression of BCL-2 family proteins in BL cell lines and LCLs .
+Lysates were prepared from the indicated cell lines , and equal amounts of protein were analyzed for expression of BCL-2 family proteins by immunoblot-ting .
+The position of migration of each protein is indicated .
+N20 data for BAX expression in these cell lines is shown in reference 9 .
+( B ) Analysis of A20 RNA expression in BL cell lines and LCLs .
+Cytoplasmic RNA isolated from the indicated cell lines was analyzed by Northern blotting with the A20 cDNA as a probe .
+Equal loading of the gel tracks was confirmed by ethidium bromide staining of the rRNA bands on the gel before transfer ( data not shown ) .
+( C ) Summary of BCL-2 family protein expression and A20 RNA expression in the panel of cell lines studied in this paper .
+Lines marked ND were not tested for the indicated protein or RNA .
+A20 expression was determined by Northern blotting , except for Raji , IB4 , and BL36LCL , which were assayed by RNase protection .
+Group III BL cell lines and LCLs are resistant to apoptosis induced by cross-linking surface immunoglobulin , ionomycin , and serum depletion relative to group I and EBV-negative BL cell lines .
+In addition , LCLs are sensitive to Fas-induced apoptosis , whereas group III BL cell lines are resistant .
+Group I BL cell lines and EBV-negative BL lines do not express Fas and are therefore resistant to Fas-induced apoptosis .
+possible that there is further heterogeneity in the B-cell preparation with consequent heterogeneity of response to the virus , but there is no evidence for this .
+Under the conditions used , about 27 % of the cells became positive for EBNA-LP expression by immunofluorescence .
+We are not able to track individual cells through the long time course of immortalization , so we can not tell at this stage which of the cells will eventually grow out .
+Over the first 72 h of infection , when most of the changes occur , there is relatively little cell death and negligible proliferation , so the changes are not likely to be accounted for voL .
+73 , 1999 EBV +++ ++ 000 sp __ =p BN WS : sech ahd , I ] 97 - 97 Pm __ ___ < 4 p65 66 46 - 46 97 -so- 97 z - < p50 66 46 46 97 66 o te hae Tas < 4 p52 P 97 46 - 66 46 30 EBV ++ +++ 1 f c @ RNRq < 3 - am dts CELL CYCLE AND APOPTOSIS IN EBV INFECTION - 4685 EBV + ++ ++ 1 5 wh o_ Sf o 2 { N © Size op < mon dC T , 46 < 4 cRel ~~~ m « « IkBa .
+30 66 - -an & ® Gn a GRGIB 46 - ae e < IkBB 30 - nc in on 's 46 & LMP-1 30 - _- < « BCL-2 FIG .
+7 .
+Purified B cells positively selected from peripheral blood were infected with EBV in a time course ( hours post infection ) , and aliquots were assayed by Western blotting for the proteins indicated .
++ , present ; - , absent ; x , empty lane .
+by population effects involving subgroups of cells containing the individual marker proteins ; but since we have not yet followed the proteins studied here by Western blotting by immunofluorescence ( most of the antibodies used are not suitable for immunofluorescence studies ) , it has not been possible to link the changes directly to expression of EBV proteins in individual cells .
+It is also important to remember that the virus preparation is very likely to be heterogeneous , since there is no opportunity to plaque purify EBV ( there is no plaque assay ) and there is little knowledge of the infectivity per virus particle .
+In spite of these reservations , the results we have described are highly consistent with the entry of the cells into the cell cycle and prevention of apoptosis as a consequence of virus infection .
+Since EBV infects resting B cells , the cells must first enter the cell cycle .
+It is clear that some activation of the resting cell occurs as a result of the binding of the gp350 surface glycoprotein on the virus particle to the receptor on the cell , CD21 ( 72 , 75 ) .
+Signal transduction from this results in tyrosine phosphorylation of CD19 and some effects of the virus infection in the cell can be prevented with inhibitors of various protein kinases ( 71 ) .
+A small , transient activation of NF- « B has also been demonstrated to result from virus binding ( 75 ) , and we have shown here that part of the reduction in mobility of E2F-4 occurs with UV-inactivated EBV , implying that viral gene expression is not necessary for this effect .
+Other responses to EBV infection that we have measured in this study all required viral gene expression .
+One of the most remarkable aspects of the data is that the changes in protein profiles are so clear and complete in the time course studied .
+For example , p27 virtually disappears by 72 h after infection and there are major changes in the phosphorylation profiles of p130 and pRb which at first sight seem to be inconsistent with only about 27 % of the cells becoming positive for EBNA-LP , our early marker for virus infection .
+Potential explanations for this include more than 27 % of the cells being infected ( perhaps there are large variations in the degree of immunofluorescence upon infection ) or activation of other cells by those that have achieved viral gene expression .
+It is noticeable that the cells clump together after the addition of virus , giving the opportunity for cell-to-cell communication .
+Alternatively , there might be soluble factors secreted as a consequence of early viral gene expression that can then cause changes in the uninfected cells .
+We have also studied regulation of apoptosis in EBV-negative and -positive BL-derived cell lines and EBV-immortalized LCLs .
+Phenotypically distinct BL cell lines and LCLs are dif-ferentially sensitive to induction of apoptosis by some agents .
+EBV -negative and group I EBV-positive BL lines are relatively sensitive to ionomycin , stimulation via surface Ig molecules , or serum deprivation compared to group III BL cell lines ( 8 , 27 , 28 , 31 , 81 ) .
+Additionally , although both group III BL lines and LCLs express the Fas receptor ( 21 ) , only LCLs are sensitive to Fas-induced apoptosis ( EBV-negative and group I BL lines do not express Fas receptor and are therefore insensitive to Fas ligation ) .
+Group III BL cells express high levels of BCL-2 , whereas group I and EBV-negative lines do not , and it has been concluded that this contributes to the resistance of group III BL lines to apoptosis induced by ionomycin , Ig , and serum withdrawal ( 27 , 28 ) .
+However , control of apoptosis is thought to be determined by the relative levels of pro- and antiapoptotic BCL-2-related proteins , and in those experiments the endogenous levels of other BCL-2 family proteins were not measured .
+Indeed , BCL-2-independent events also play a role in resistance to apoptosis triggered by these agents in some BL lines ( 44 ) , and the resistance of group III BL lines to Fas-induced apoptosis relative to LCLs can not be determined by BCL-2 , since both these groups of lines express equivalent amounts of BCL-2 ( 18 , 28 ) .
+This is also consistent with the inability of BCL-2 expression to suppress Fas-induced apoptosis in some systems ( 14 , 18 , 29 , 43 , 46 , 52 , 70 , 77 ) .
+Some of the proteins known to be induced by EBV infection , such as E2F-1 and c-Myc , are able to induce apoptosis in some circumstances .
+The time course of changes in the E2F-1 and E2F-4 proteins has been described in this paper , and our analysis of the expression and properties of Myc family proteins during EBV infection will be published elsewhere .
+To provide 4686 SPENDER ET AL .
+LCL3/ unlabelled xb LCL3/ unlabelled non-specifc P Bo 9 © ao u % n g © in % mow 4 Rot § ff A * dido q qd d s 2 a a a a A 3 3 A - cam am < - supershifted « ag- complexes I !
+| H an “ i I : Kb complexes ~~ < li .
+probe B 15000 7 10000 7 LMP-1 5000 -- I I U I I I 0 24 48 72 96 120 144 15000 7 NF-kB 10000 7 activity 5000 7 J- .
+T J t T T t 0 24 48 72 96 120 144 FIG .
+8 .
+( A ) Establishment of specificity of gel retardation assay for NF- « B complexes with LCL3 cell extracts by competition with 100-fold excess of unlabelled NF-kB oligonucleotide or a control oligonucleotide of unrelated sequence .
+NF- « B complexes ( arrows ) were also tested in supershift assays with antibodies to p50 , p52 , RelB , cRel , and p65 ( Santa Cruz Biotechnology antibodies sc-114 , sc-848 , sc-226 , sc-70 , and sc-109 , respectively ) as indicated ( 1 mg per assay ) .
+( B ) Purified B cells positively selected from peripheral blood were infected with EBV in a time course ( hours post infection ) , and aliquots were assayed by Western blotting for LMP-1 .
+The LMP-1 signal was quantified by scanning the autoradiograph , and the results are plotted in arbitrary units .
+( C ) Nuclear extracts were prepared from the same time course of infection as for panel B and used in a gel retardation assay for NF-kB performed as for panel A .
+The active NF- « B , indicated by the amount of specifically shifted probe , was quantified by scanning the autoradiograph , and the results are plotted in arbitrary units .
+a framework for investigation of the control of apoptosis in LCLs and during EBV infection , we studied the expression of the BCL-2 family of proteins and other pro- and antiapoptotic genes .
+Expression of BCL-2 and A20 both correlated well with resistance to apoptosis .
+Attention has previously focused on J. Virou .
+BCL-2 in this context , but our results and several recent reports of effects of A20 in lymphoid and epithelial cells indicate that A20 is also likely to be important .
+It is well established that the A20 gene can be activated by NF- « B through two adjacent NF- « B binding sites in the promoter ( 39 ) , and BCL-2 has also been reported to be induced by LMP-1 ( 28 ) .
+NF-kB activity , measured by using a standard NF- « B site identical in sequence to one of those in the A20 promoter , showed an excellent temporal correlation between active , nuclear NF-kB and LMP-1 expression during infection , indicating that LMP is likely to be the major determinant of NF- « B activity in the LCL cells .
+The Namalwa and BL74 cell lines , which were negative for A20 , have the group II pattern of EBV gene expression and do not express LMP-1 , although both expressed BCL-2 .
+It was notable in the Western blots of BCL-2 family protein expression ( Fig .
+6A ) that the pattern of expression of BAX detected with the N20 antibody was quite different from the protein expression detected with the P-19 antibody , which has also been described as detecting human BAX ( Santa Cruz Biotechnology ) .
+The protein from some cell lines detected by P-19 also showed altered migration on the sodium dodecyl sulfate gel ( Fig .
+6A ) .
+We considered the possibility that the two antibodies might be detecting hitherto-unknown different forms of BAX in these cells or that the specificity of one of the antibodies ( probably P-19 ) was described incorrectly .
+This is significant because a considerable amount of earlier work ( 2 , 42 , 63 , 74 ) has used P-19 to monitor human BAX protein levels .
+Upon investigation ( Fig .
+6A and data not shown ) , it became clear that the P-19 antibody cross-reacts in Western blotting experiments with another protein of a size similar to that of human BAX .
+The authenticity of the N20 specificity for Bax was verified by showing that a third anti-BAX antibody ( 13666E ) ) gave the same pattern of reactivity as N20 in a panel of relevant cell lines and the Bax protein recognized in the cell extracts was the same size as the protein produced by transfection of a Bax cDNA ( data not shown ) .
+It therefore seems that antibody P-19 does not recognize endogenous human Bax .
+We have , however , repeated the experiments in the study in this laboratory that used P-19 ( 2 ) with the N20 antibody and confirmed the conclusions of the study ( data not shown ) .
+The first two viral genes known to be expressed upon infection are EBNA-LP and EBNA-2 .
+These two proteins have been shown to cooperate in the induction of the cyclin D2 RNA , which is an early marker of cell cycle entry that is induced after infection ( 72 ) .
+Although EBNA-2 and EBNA-LP can activate transcription of various promoters , it is not yet clear whether the promoter for cyclin D2 is regulated directly by these pro-teins .
+Deletion analysis of the cyclin D2 promoter , seeking elements that may control its response to serum growth factors , has revealed both positive and negative regulatory regions upstream of the transcription start ( 11 ) .
+One of the consequences of activation of edk activity is phosphorylation of pocket proteins , which bind and regulate the EZF complex .
+The E2F family of transcription factors are thought to be major determinants of cell cycle progression , and different E2F family members and complexes with various pocket proteins are characteristic of the resting and cycling cells ( 65 ) .
+Thus , E2F-4-DP-1-p130 complexes are found in resting cells ( 45 , 73 ) , but the dominant G , E2F complex in cycling cells contains E2F-1 with DP-1 and Rb or p107 .
+Clearly , changes in the E2F profile and changes in cyclins are both early events in the cell cycle entry caused by EBV infection .
+Since only the RNA of cyclin D2 had been measured in previous experiments ( 72 ) and little study had been made of the EZ2F proteins ( 12 ) , it was unclear whether the earliest effects of EBNA-2 and EBNA-LP on the cell cycle entry process were likely to be mediated voL .
+73 , 1999 through changing the balance of E2F complex proteins or through cyclin D2 .
+In this study , in which we have analyzed the time course of changes to E2F factors , pocket proteins , cyclins , edks , and cdk inhibitors , the induction of cyclin D2 is the earliest event we have observed that is dependent on viral gene expression ( presumably of EBNA-2 and EBNA-LP ) .
+Identification of the initial target genes in the cell for EBV immortalizing proteins will thus now focus on whether the cyclin D2 promoter can be activated directly by EBNA-2 and EBNA-LP or whether there may be other intermediate steps .
+There is no consensus binding site for RBP-Jk in the first 1,000 nucleotides upstream of the reported transcription starts in the sequence of the cyclin D2 promoter ( 11 ) , but EBNA-2 is known to be able to activate transcription through other DNA binding proteins ; by analyzing the mechanism of induction of cyclin D2 RNA and screening for other genes that might be induced soon after infection , we hope to identify the direct cell targets that EBV modulates when it infects human B cells and , with such high efficiency , causes them to proliferate .
+ACKNOWLEDGMENTS We thank V. M. Dixit and E. Lam for plasmids used in this work .
+REFERENCES 1 .
+Alfieri , C. , M. Birkenbach , and E. Kieff .
+1991 .
+Early events in Epstein-Barr virus infection of human B lymphocytes .
+Virology 181:595-608 .
+( Erratum , 185:946 . )
+2 .
+Allday , M. J. , G. J. Inman , D. H. Crawford , and P. J. Farrell .
+1995 .
+DNA damage in human B cells can induce apoptosis , proceeding from G1/S when p53 is transactivation competent and G2/M when it is transactivation defec-tive .
+EMBO J .
+14:4994-5005 .
+3 .
+Ashkenazi , A. , and V. Dixit .
+1998 .
+Death receptors : signaling and modula-tion .
+Science 281:1305-1308 .
+4 .
+Askew , D. S. , R. A. Ashmun , B. C. Simmons , and J. L. Cleveland .
+1991 .
+Constitutive c-myc expression in an IL-3-dependent myeloid cell line suppresses cell cycle arrest and accelerates apoptosis .
+Oncogene 6:1915-1922 .
+5 .
+Beijersbergen , R. L. , R. M. Kerkhoven , L. Zhu , L. Carlee , P. M. Voorhoeve , and R. Bernards .
+1994 .
+E2F-4 , a new member of the E2F gene family , has oncogenic activity and associates with p107 in vivo .
+Genes Dev .
+8:2680-2690 .
+6 .
+Ben-Bassat , H. , N. Goldblum , S. Mitrani , T. Goldblum , J. M. Yoffey , M. M. Cohen , Z. Bentwich , B. Ramot , E. Klein , and G. Klein .
+1977 .
+Establishment in continuous culture of a new type of lymphocyte from a `` Burkitt like '' malignant lymphoma ( line D.G.-75 ) .
+Int .
+J .
+Cancer 19:27-33 .
+7 .
+Boise , L. H. , M. Gonzalez-Garcia , C. E. Postema , L. Ding , T. Lindsten , L. A. Turka , X. Mao , G. Nunez , and C. B. Thompson .
+1993. bel-x , a bel-2-related gene that functions as a dominant regulator of apoptotic cell death .
+Cell 74 : 597-608 .
+8 .
+Bonnefoy-Berard , N. , L. Genestier , M. Flacher , and J. P. Revillard .
+1994 .
+The phosphoprotein phosphatase calcineurin controls calcium-dependent apoptosis in B cell lines .
+Eur .
+J. Immunol .
+24:325-329 .
+9 .
+Brimmell , M. , R. Mendicla , J. Mangion , and G. Packham .
+1998 .
+BAX frameshift mutations in cell lines derived from human haemopoctic malignancies are associated with resistance to apoptosis and microsatellite insta-bility .
+Oncogene 16:1803-1812 .
+10 .
+Brodeur , S. , G. Cheng , D. Baltimore , and D. Thorley-Lawson .
+1997 .
+Localization of the major NF-kappa B activating site and the sole TRAF3 binding site of LMP-1 defines two distinct signaling motifs .
+J. Biol .
+Chem .
+272 : 19777-19784 .
+11 .
+Brooks , A. , D. Shiffman , C. Chan , E. Brooks , and P. Milner .
+1996 .
+Functional analysis of the human cyclin D2 and D3 promoters .
+J. Biol .
+Chem .
+271 : 9090-9099 .
+12 .
+Cannell , E. , P. Farrell , and A. Sinclair .
+1996 .
+Epstein-Barr virus exploits the normal cell pathway to regulate Rb activity during the immortalisation of primary B cells .
+Oncogene 13:1413-1421 .
+13 .
+Chittenden , T. , E. A. Harrington , R. O'Connor , C. Flemington , R. J. Lutz , G. I. Evan , and B. C. Guild .
+1995 .
+Induction of apoptosis by the Bcl-2 homologue .
+Bak .
+Nature 374:733-736 .
+14 .
+Chiu , V. K. , C. M. Walsh , C. C. Liu , J. C. Reed , and W. R. Clark .
+1995 .
+Bcl-2 blocks degranulation but not fas-based cell-mediated cytotoxicity .
+J. Immunol .
+154:2023-2032 .
+15 .
+Cludts , L , and P. Farrell .
+1998 .
+Multiple functions within the Epstein-Barr virus EBNA-3A protein .
+J. Virol .
+72:1862-1869 .
+16 .
+Cory , S. 1995 .
+Regulation of lymphocyte survival by the bel-2 gene family .
+Annu .
+Rev .
+Immunol .
+13:513-543 .
+17 .
+Craig , R. W. 1995 .
+The bel-2 gene family .
+Semin .
+Cancer Biol .
+6:35-43 .
+18 .
+Debatin , K. M. , and P. H. Krammer .
+1995 .
+Resistance to APO-1 ( CD95 ) CELL CYCLE AND APOPTOSIS IN EBV INFECTION - 4687 induced apoptosis in T-ALL is determined by a BCL-2 independent antiapoptotic program .
+Leukemia 9:815-820 .
+19 .
+Devergne , O. , E. Hatzivassiliou , K. M. Izumi , K. M. Kaye , M. F. Kleijnen , E. Kieff , and G. Mosialos .
+1996 .
+Association of TRAF1 , TRAF2 , and TRAF3 with an Epstein-Barr virus LMP1 domain important for B-lymphocyte trans-formation : role in NF-B activation .
+Mol .
+Cell .
+Biol .
+16:7098-7108 .
+20 .
+Eliopoulos , A. , and L. Young .
+1998 .
+Activation of the cJun N-terminal kinase ( JNK ) pathway by the Epstein-Barr virus-encoded latent membrane protein 1 ( LMP1 ) .
+Oncogene 16:1731-1742 .
+21 .
+Falk , M. H. , B. C. Trauth , K. M. Debatin , C. Klas , C. D. Gregory , A .
+B. Rickinson , A. Calender , G. M. Lenoir , J. W. Ellwart , P. H. Krammer , and G. Borakamm .
+1992 .
+Expression of the APO-1 antigen in Burkitt lymphoma cell lines correlates with a shift towards a lymphoblastoid phenotype .
+Blood 79 : 3300-3306 .
+22 .
+Farrell , P. 1995 .
+Epstein-Barr virus immortalizing genes .
+Trends Microbiol .
+3:105-109 .
+23 .
+Farrell , P. 1998 .
+Signal transduction from the Epstein-Barr virus LMP-1 transforming protein .
+Trends Microbiol .
+6:175-177 .
+24 .
+Farrow , S. N. , J. H. White , I Martinou , T. Raven , K. T. Pun , C. J. Grinham , J. C. Martinou , and R. Brown .
+1995 .
+Cloning of a bcl-2 homologue by interaction with adenovirus E1B 19K .
+Nature 374:731-733 .
+25 .
+Finke , J. , M. Rowe , B. Kallin , I. Ernberg , A. Rosen , J. Dillner , and G. Klein .
+1987 .
+Monoclonal and polyclonal antibodies against Epstein-Barr virus nuclear antigen 5 ( EBNA-5 ) detect multiple protein species in Burkitt 's lymphoma and lymphoblastoid cell lines .
+J. Virol .
+61:3870-3878 .
+26 .
+Fries , K. L. , W. E. Miller , and N. Raab-Traub .
+1996 .
+Epstein-Barr virus latent membrane protein 1 blocks p53-mediated apoptosis through the induction of the A20 gene .
+J. Virol .
+70:8653-8659 .
+27 .
+Gregory , C. D. , C. Dive , S. Henderson , C. A. Smith , G. T. Williams , J. Gordon , and A .
+B. Rickinson .
+1991 .
+Activation of Epstein-Barr virus latent genes protects human B cells from death by apoptosis .
+Nature 349:612-614 .
+28 .
+Henderson , S. , M. Rowe , C. Gregory , D. Croom-Carter , F. Wang , R. Long-necker , E. Kieff , and A. Rickinson .
+1991 .
+Induction of bel-2 expression by Epstein-Barr virus latent membrane protein 1 protects infected B cells from programmed cell death .
+Cell 65:1107-1115 .
+28a.Hollyoake , M. , A. Stithler , P. J. Farrell , J. Gordon , and A. J. Sinclair .
+1995 .
+The normal cell cycle activation program is exploited during the infection of quiescent B lymphocytes by Epstein-Barr virus .
+Cancer Res .
+55:4784-4787 .
+29 .
+Itoh , N. , Y. Tsujimoto , and S. Nagata .
+1993 .
+Effect of bel-2 on Fas antigen-mediated cell death .
+J. Immunol .
+151:621-627 .
+30 .
+Izumi , K. , and E. Kieff .
+1997 .
+The EBV oncogene product LMP-1 engages the TRADD protein to mediate B lymphocyte growth transformation and activate NF- « B .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 94:12592-12597 .
+31 .
+Kelly , K. , and K. A. Knox .
+1995 .
+Differential regulatory effects of cAMP-elevating agents on human normal and neoplastic B cell functional response following ligation of surface immunoglobulin and CD40 .
+Cell .
+Immunol .
+166 : 93-102 .
+32 .
+Kempkes , B. , D. Spitkovsky , P. Jansen-Durr , J. W. Ellwart , E. Kremmer , H. J. Delecluse , C. Rottenberger , G. W. Bornkamm , and W. Hammerschmidt .
+1995 .
+B-cell proliferation and induction of early G1-regulating proteins by Epstein-Barr virus mutants conditional for EBNAZ .
+EMBO J .
+14 : 88-96 .
+33 .
+Kiefer , M. C. , M. J. Braver , V. C. Powers , J. J. Wu , S. R. Umansky , L. D. Tomei , and P. J. Barr .
+1995 .
+Modulation of apoptosis by the widely distributed Bcl-2 homologue Bak .
+Nature 374:736-739 .
+34 .
+Kieser , A. , E. Kilger , O. Gires , M. Ueffing , W. Kolch , and W. Hammerschmidt .
+1997 .
+Epstein-Barr virus latent membrane protein-1 triggers AP-1 activity via the c-Jun N-terminal kinase cascade .
+EMBO J .
+16:6478-6485 .
+35 .
+Kilger , E. , A. Kieser , M. Baumann , and W. Hammerschmidt .
+1998 .
+Epstcin-Barr virus-mediated B-cell proliferation is dependent upon latent membrane protein 1 , which simulates an activated CD40 receptor .
+EMBO J .
+17:1700-1709 .
+36 .
+King , W. , A. L. Thomas-Powell , N. Raab-Traub , M. Hawke , and E. Kieff .
+1980 .
+Epstein-Barr virus RNA .
+V. Viral RNA in a restringently infected , growth-transformed cell line .
+J. Virol .
+36:506-518 .
+37 .
+Klein , G. , and L. Dombos .
+1973 .
+Relationship between the sensitivity of EBV-carrying lymphoblastoid lines to superinfection and the inducibility of the resident viral genome .
+Int .
+J .
+Cancer 11:327-337 .
+38 .
+Krikos , A. , C. Laherty , and V. Dixit .
+1992 .
+Transcriptional activation of the tumor necrosis factor inducible zinc finger protein A20 is mediated by « B elements .
+J. Biol .
+Chem .
+267:17971-17976 .
+39 .
+Laherty , C. D. , H. M. Hu , A. W. Opipari , F. Wang , and V. M. Dixit .
+1992 .
+The Epstein-Barr virus LMP1 gene product induces A20 zinc finger protein expression by activating nuclear factor kappa B. J. Biol .
+Chem .
+267:24157-24160 .
+40 .
+Lenoir , G. , M. Vuillaume , and C. Bonnardel .
+1985 .
+The use of lymphoma-tous and lymphoblastoid cell lines in the study of Burkitt 's lymphoma , p. 309-318 .
+In G. Lenoir , G. O'Conor , and C. Olweny ( ed .
+) , Burkitt 's lym-phoma : a human cancer model .
+IARC Publications , Lyon , France .
+41 .
+Mann , K. P. , D. Staunton , and D. A. Thorley-Lawson .
+1985 .
+Epstein-Barr virus-encoded protein found in plasma membrane in transformed cells .
+J. Virol .
+55:710-720 .
+4688 42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+57 .
+58 .
+59 .
+60 .
+61 .
+62 .
+63 .
+64 .
+SPENDER ET AL .
+Meijerink , J. P. , T. F. Smetsers , A. W. Sloetjes , E. H. Linders , and E. J. Mensink .
+1995 .
+Bax mutations in cell lines derived from hematological ma-lignancies .
+Leukemia 9:1828-1832 .
+Memon , S. A. , M. B. Moreno , D. Petrak , and C. M. Zacharchuk .
+1995 .
+Bcl-2 blocks glucocorticoid but not Fas- or activation-induced apoptosis in a T cell hybridoma .
+J. Immunol .
+155:4644-4652 .
+Milner , A. E. , G. D. Johnson , and C. D. Gregory .
+1992 .
+Prevention of programmed cell death in Burkitt lymphoma cell lines by bel-2-dependent and -independent mechanisms .
+Int .
+J .
+Cancer 52:636-644 .
+Moberg , K. , M. Starz , and J. Lees .
+1996 .
+E2F-4 switches from p130 to p107 and pRb in response to cell cycle reentry .
+Mol .
+Cell .
+Biol .
+16:1436-1449 .
+Moreno , M. B. , S. A. Memon , and C. M. Zacharchuk , 1996 .
+Apoptosis signaling pathways in normal T cells : differential activity of Bel-2 and IL-1 beta-converting enzyme family protease inhibitors on glucocorticoid- and Fas-mediated cytotoxicity .
+J. Immunol .
+157:3845-3849 .
+Mosialos , G. , M. Birkenbach , R. Yalamanchili , T. VanArsdale , C. Ware , and E. Kieff .
+1995 .
+The Epstein-Barr virus transforming protein LMP1 engages signaling proteins for the tumor necrosis factor receptor family .
+Cell 80 : 389-399 .
+Oltvai , Z. N. , and S. J. Korsmeyer .
+1994 .
+Checkpoints of ducling dimers foil death wishes .
+Cell 79:189-192 .
+Oltvai , Z. N. , C. L. Milliman , and S. J. Korsmeyer .
+1993 .
+Bcl-2 heterodimerizes in vivo with a conserved homolog , Bax , that accelerates programmed cell death .
+Cell 74:609-619 .
+Opipari , A. , M. Boguski , and V. Dixit .
+1990 .
+The A20 cDNA induced by tumor necrosis factor alpha encodes a novel type of zinc finger protein .
+J. Biol .
+Chem .
+265:14705-14708 .
+Opipari , A. , Jr. , H. M. Hu , R. Yabkowitz , and V. M. Dixit .
+1992 .
+The A20 zinc finger protein protects cells from tumor necrosis factor cytotoxicity .
+J. Biol .
+Chem .
+267:12424-12427 .
+Owen-Schaub , L. B. , R. Radinsky , E. Kruzel , K. Berry , and S. Yonehara .
+1994 .
+Anti-Fas on nonhematopoietic tumors : levels of Fas/APO-1 and bel-2 are not predictive of biological responsiveness .
+Cancer Res .
+54 : 1580-1586 .
+Packham , G. , M. Brimmell , and J. Cleveland .
+1997 .
+Mammalian cells express two differently localized Bag-1 isoforms generated by alternative translation initiation .
+Biochem .
+J .
+328:808-813 .
+Packham , G. , J. Labti , B .
+Fee , J. Gawn , E. Coustan-Smith , D. Campana , L. Douglas , V. Kidd , S. Ghosh , and J. Cleveland .
+1997 .
+Fas activates NF- « B and induces apoptosis in T cell lines by signaling pathways distinct from those activated by TNF- « .
+Cell Death Differ .
+4:130-139 .
+Pagano , M. , S. Tam , A. Theodoras , P. Beer-Romero , G. Sal , V. Chau , P. Yew , G. Dracetta , and M. Rolfe .
+1995 .
+Role of the ubiquitin-proteasome pathway in regulating abundance of the cyclin dependent kinase inhibitor p27 .
+Science 269:682-685 .
+Parker , G. , R. Touitou , and M. Allday .
+Submitted for publication .
+Pulvertaft , R. 1965 .
+A study of malignant tumours in Nigeria in short term tissue culture .
+J. Clin .
+Pathol .
+18:261-273 .
+Reed , J .
+1997 .
+Double identity for proteins of the Bcl-2 family .
+Nature 387 : 773-776 .
+Reed , J. C. , T. Miyashita , S. Takayama , H. G. Wang , T. Sato , S. Krajewski , C. Aime-Sempe , S. Bodrug , S. Kitada , and M. Hanada .
+1996 .
+BCL-2 family proteins : regulators of cell death involved in the pathogenesis of cancer and resistance to therapy .
+J .
+Cell .
+Biochem .
+60:23-32 .
+Reynolds , J. E. , T. Yang , L. Qian , J. D. Jenkinson , P. Zhou , A. Eastman , and R. W. Craig .
+1994 .
+Mcl-1 , a member of the Bcl-2 family , delays apoptosis induced by c-Myc overexpression in Chinese hamster ovary cells .
+Cancer Res .
+54:6348-6352 .
+Rickinson , A .
+B. , and E. Kieff .
+1996 .
+Epstein-Barr Virus , p. 2397-2446 .
+In B. N. Fields , P. M. Knipe , and P. M. Howley ( ed .
+) , Fields virology .
+Lippin-cott-Raven , Philadelphia , Pa. Rowe , M. , D. T. Rowe , C. D. Gregory , L. S. Young , P. J. Farrell , H. Rupani , and A .
+B. Rickinson .
+1987 .
+Differences in B cell growth phenotype reflect novel patterns of Epstein-Barr virus latent gene expression in Burkitt 's lymphoma cells .
+EMBO J .
+62743-2751 .
+Saegusa , M. , Y. Takano , M. Hashimura , Y. Shoji , and I. Okayasu .
+1995 .
+The possible role of bel-2 expression in the progression of tumors of the uterine cervix .
+Cancer 76:2297-2303 .
+Sandberg , M. , W. Hammerschmidt , and B. Sugden .
+1997 .
+Characterization 65 .
+66 .
+67 .
+68 .
+69 .
+70 .
+71 .
+72 .
+73 .
+74 .
+75 .
+76 .
+77 .
+78 .
+79 .
+80 .
+81 .
+82 .
+83 .
+84 .
+85 .
+86 .
+J. Virou .
+of LMP1 's association with TRAF1 , TRAF2 , and TRAF3 .
+J. Virol .
+71 : 4649-4656 .
+Sardet , C. , L. LeCam , E. Fabrizio , and M. Vidal .
+1997 .
+E2Fs and the retinoblastoma protein family , p. 1-57 .
+In M. Yaniv and J. Ghysdael ( ed .
+) , Oncogenes as transcriptional regulators .
+Birkhauser Verlag , Basel , Switzer-land .
+Sarma , V. , Z. Lin , L. Clark , B. M. Rust , M. Tewari , R. J. Noelle , and V. M. Dixit .
+1995 .
+Activation of the B-cell surface receptor CD40 induces A20 , a novel zinc finger protein that inhibits apoptosis .
+J. Biol .
+Chem .
+270:12343-12346 .
+Sato , T. , M. Hanada , S. Bodrug , S. Irie , N. Iwama , L. H. Boise , C. B. Thompson , E. Golemis , L. Fong , H. G. Wang , and J. C. Reed .
+1994 .
+Interactions among members of the Bcl-2 protein family analyzed with a yeast two-hybrid system .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 91:9238-9242 .
+Sedlak , T. W. , Z. N. Oltvai , E. Yang , K. Wang , L. H. Boise , C. B. Thompson , and S. J. Korsmeyer .
+1995 .
+Multiple Bcl-2 family members demonstrate selective dimerizations with Bax .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 92:7834-7838 .
+Sheaff , R. J. , M. Groudine , M. Gordon , J. M. Roberts , and B. E. Clurman .
+1997 .
+Cyclin E-CDK2 is a regulator of p27Kip1 .
+Genes Dev .
+11:1464-1478 .
+Shima , Y. , N. Nishimoto , A. Ogata , Y. Fujii , K. Yoshizaki , and T. Kishimoto .
+1995 .
+Myeloma cells express Fas antigen/APO-1 ( CD95 ) but only some are sensitive to anti-Fas antibody resulting in apoptosis .
+Blood 85:757-764 .
+Sinclair , A. J. , and P. J. Farrell .
+1995 .
+Host cell requirements for efficient infection of quiescent primary B lymphocytes by Epstein-Barr virus .
+J. Virol .
+69:5461-5468 .
+Sinclair , A. J. , I Palmero , G. Peters , and P. J. Farrell .
+1994 .
+EBNA-2 and EBNA-LP cooperate to cause GO to G1 transition during immortalization of resting human B lymphocytes by Epstein-Barr virus .
+EMBO J .
+13:3321-3328 .
+Smith , E. , G. Leone , J. Degregori , L. Jakoi , and J. Nevins .
+1996 .
+The accumulation of an E2F-p130 transcriptional repressor distinguishes a Gp cell state from a G ; cell state .
+Mol .
+Cell .
+Biol .
+16:6965-6976 .
+Strobel , T. , L. Swanson , S. Korsmeyer , and S. Cannistra .
+1997 .
+Radiation-induced apoptosis is not enhanced by expression of either p53 or BAX in SW626 ovarian cancer cells .
+Oncogene 14:2753-2758 .
+Sugano , N. , W. Chen , M. Roberts , and N. Cooper .
+1997 .
+Epstein-Barr virus binding to CD21 activates the initial viral promoter via NF-kappa B induc-tion .
+J. Exp .
+Med .
+186:731-737 .
+Takada , K. , K. Horinouchi , Y. Ono , T. Aya , T. Osato , M. Takahashi , and S. Hayasaka .
+1991 .
+An Epstein-Barr virus-producer line Akata : establishment of the cell line and analysis of viral DNA .
+Virus Genes 5:147-156 .
+Takayama , S. , T. Sato , S. Krajewski , K. Kochel , S. Irie , J .
+A. Millan , and J. C. Reed .
+1995 .
+Cloning and functional analysis of BAG-1 : a novel Bcl-2-binding protein with anti-cell death activity .
+Cell 80:279-284 .
+Vairo , G. , D. Livingston , and D. Ginsberg .
+1995 .
+Functional interaction between E2F-4 and p130 : evidence for distinct mechanisms underlying growth suppression by different retinoblastoma protein family members .
+Genes Dev .
+9:869-881 .
+Van der Sman , J. , N. S. B. Thomas , and E. Lam .
+Modulation of E2F complexes during G , to S phase transition in human primary B lymphocytes .
+J. Biol .
+Chem. , in press .
+Vlach , J. , S. Hennecke , and B. Amati .
+1997 .
+Phosphorylation-dependent degradation of the cyclin-dependent kinase inhibitor p27 .
+EMBO J .
+16 : 5334-5344 .
+Wang , H. , R. J .
+Grand , A. E. Milner , R. J. Armitage , J. Gordon , and C. D. Gregory .
+1996 .
+Repression of apoptosis in human B-lymphoma cells by CD40-ligand and Bcl-2 : relationship to the cell-cycle and role of the retinoblastoma protein .
+Oncogene 13:373-379 .
+Wilson , G. , and G. Miller .
+1979 .
+Recovery of Epstein-Barr virus from non-producer neonatal human lymphoid cell transformants .
+Virology 95:351-358 .
+Yang , E. , and S. J. Korsmeyer .
+1996 .
+Molecular thanatopsis : a discourse on the BCL2 family and cell death .
+Blood 88:386-401 .
+Yang , E. , J. Zha , J. Jockel , L. H. Boise , C. B. Thompson , and S. J. Korsmeyer .
+1995 .
+Bad , a heterodimeric partner for Bcl-XL and Bel-2 , displaces Bax and promotes cell death .
+Cell 80:285-291 .
+Yin , X. , Z. Oltvai , and S. Korsmeyer .
+1994 .
+BH1 and BH2 domains of Bcl-2 are required for inhibition of apoptosis and heterodimerization with Bax .
+Nature 369:321-323 .
+Zha , H. , C. Aime-Sempe , T. Sato , and J. C. Reed .
+1996 .
+Proapoptotic protein Bax heterodimerizes with Bcl-2 and homodimerizes with Bax via a novel domain ( BH3 ) distinct from BH1 and BH2 .
+J. Biol .
+Chem .
+271:7440-7444 .

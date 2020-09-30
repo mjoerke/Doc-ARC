@@ -1,0 +1,479 @@
+The EMBO Journal Vol.16 No.21 pp.6478-6485 , 1997 Epstein-Barr virus latent membrane protein-1 triggers AP-1 activity via the c-Jun N-terminal kinase cascade Arnd Kieser ' , Ellen Kilger , Olivier Gires , Marius Ueffing , Walter Kolch and Wolfgang Hammerschmidt GSF-National Research Center for Environment and Health , Institute for Clinical Molecular Biology and Tumor Genetics , Marchioninistrasse 25 , D-81377 Miinchen , Germany *Corresponding author e-mail : A.Kieser @ gsf.de The Epstein-Barr virus latent membrane protein-1 ( LMP is an integral membrane protein which transforms fibroblasts and is essential for EBV-mediated B-cell immortalization .
+LMP-1 has been shown to trigger cellular NF-KB activity which , however , can not fully explain the oncogenic potential of LMP-1 .
+Here we show that LMP-1 induces the activity of the AP-1 transcription factor , a dimer of Jun/Jun or Jun/Fos proteins .
+LMP-1 effects on AP-1 are mediated through activation of the c-Jun N-terminal kinase ( JNK ) cascade , but not the extracellular signal-regulated kinase ( Erk ) pathway .
+Consequently , LMP-1 triggers the activity of the c-Jun N-terminal transactivation domain which is known to be activated upon JNK-mediated phosphorylation .
+Deletion analysis indicates that the 55 C-terminal amino acids of the LMP-1 molecule , but not its TRAF interaction domain , are essential for AP-1 activation .
+JNK -mediated transcriptional activation of AP-1 is the direct output of LMP-1-triggered signaling , as shown by an inducible LMP-1 mutant .
+Using a tetracycline-regulated LMP-1 allele , we demonstrate that JNK is also an effector of non-cytotoxic LMP-1 signaling in B cells , the physiological target cells of EBV .
+In summary , our data reveal a novel effector of LMP-1 , the SEK/JNK/c-Jun/AP-1 pathway , which contributes to our understanding of the immortalizing and transforming potential of LMP-1 .
+Keywords : AP-1 transcription factor/c-Jun N-terminal kinase pathway/Epstein-Barr virus/latent membrane protein-1/signal transduction Introduction Epstein-Barr Virus ( EBV ) is a human herpes virus associated with several human cancers such as Hodgkin 's lymphoma , Burkitt 's lymphoma or nasopharyngeal carcinoma ( for a review see Klein , 1994 ) .
+EBV efficiently infects resting B cells in vitro , which results in the immortalization of the infected cells ( for reviews see Farrell , 1995 ; Kieff , 1996 ) .
+This process constitutes an in vitro model for EBV 's contribution to B lymphoid diseases .
+Among the 11 EBV genes found expressed in in vitro EBV-immortalized B cells , Epstein-Barr viral nuclear antigen 2 ( EBNAZ ) , EBNA3a and 3¢ and latent 6478 membrane protein-1 ( LMP-1 ) are essential for the immortalizing functions of the virus ( Cohen et al. , 1989 ; Hammerschmidt and Sugden , 1989 ; Kaye et al. , 1993 ; Tomkinson et al. , 1993 ; Kempkes et al. , 1995b ) .
+EBNA2 activates the transcription of several viral and cellular genes by interaction with the cellular DNA-binding proteins RBP-Jx and PU.1 which bind to EBNA2Z-responsive promoter elements ( Grossman et al. , 1994 ; Henkel et al. , 1994 ; Laux et al. , 1994 ; Zimber-Strobl et al. , 1994 ) .
+Thereby , EBNAZ triggers the expression of B-cell activation markers such as CD21 and CD23 ( Cordier et al. , 1990 ) , the expression of the tyrosine kinase c-fgr ( Knutson , 1990 ) , and viral latent genes such as LMP-1 , LMP-2A and LMP-2B ( Fahraeus et al. , 1990 ; Laux et al. , 1994 ; Zimber-Strobl et al. , 1994 ) .
+LMP-1 expression is not only necessary for B-cell immortalization by EBV ( Kaye et al. , 1993 ) but is the only EBV protein that has an oncogenic potential in non-lymphoid cells .
+The expression of LMP-1 in rodent fibroblasts leads to the induction of transformed phenotypes ( Wang et al. , 1985 ; Baichwal and Sugden , 1988 ) .
+However , the mechanisms underlying LMP-1 's ability to immortalize and transform B cells and non-B cells are not fully understood .
+In Burkitt 's lymphoma cell lines LMP induces the expression of B-cell activation markers such as CD23 and cell adhesion molecules like ICAM1 ( Wang et al. , 1990 ) .
+LMP-1 has been reported to induce the expression of the anti-apoptotic genes bel-2 ( Henderson et al. , 1991 ) and A20 , the latter via induction of the transcription factor NF-KB ( Laherty et al. , 1992 ) .
+The transforming potential of LMP-1 , however , does not appear to depend on NF-KB activation or induction of bel-2 , since LMP-1 transforms BALB/3T3 cells without inducing NF-KB or bel-2 ( Baichwal and Sugden , 1988 ; Martin et al. , 1993 ; Mitchell and Sugden , 1995 ) .
+In addition , LMP-1 does not affect bel-2 expression in primary human B cells or in B-cell lines immortalized by EBV ( Martin et al. , 1993 ; Zimber-Strobl et al. , 1996 ) .
+LMP-1 is an integral membrane protein consisting of 386 amino acids .
+Six transmembrane spanning domains ( 162 amino acids ) connect a short N-terminal stretch ( 24 amino acids ) with a long C-terminal domain ( 200 amino acids ) , both of which are located in the cytoplasm ( Liebowitz et al. , 1986 ; Kieff , 1996 ) .
+Little is known about LMP-1 's molecular functions in the cell .
+The C-terminus of LMP-1 has been shown to bind tumor necrosis factor receptor-associated factors ( TRAFs ) 1 , 2 and 3 ( Mosialos et al. , 1995 ; Devergne et al. , 1996 ; Sandberg et al. , 1997 ) suggesting that LMP-1 might act as a receptor-like molecule comparable with the members of the tumor necrosis factor receptor ( TNFR ) superfamily .
+However , LMP-1 is a unique molecule .
+It is not homologous to any of the known TNFR family members or other known receptor families and its activity does not appear to depend © Oxford University Press on the binding of a specific ligand especially because LMP-1 lacks an extracellular domain ( Liebowitz et al. , 1986 ) .
+So far , induction of NF-KB activity is the only known direct cellular output of LMP-1 signaling ( Hammarskjold and Simurda , 1992 ; Laherty et al. , 1992 ; Kieff , 1996 ) .
+LMP-1-triggered signaling to NF-KB is thought to be initiated at the C-terminal cytoplasmic domain of LMP-1 ( Huen et a/. , 1995 ; Mitchell and Sugden , 1995 ) after oligomerization of LMP-1 in the plasma membrane via its transmembrane domains ( Gires et al. , 1997 ) .
+Activation of NF-KB has been reported to involve TRAF1l and 2 ( Mosialos et al. , 1995 ; Devergne et al. , 1996 ) , but very recent data show that LMP-1 mutants which do not bind TRAFs still induce NF-KB activity ( Sandberg et al. , 1997 ) .
+Kaye and collegues demonstrated that LMP-1 provides a growth factor-like effect that is essential for the immortalization of B lymphocytes by EBV ( Kaye et al. , 1995 ) .
+As discussed above , NF-KB activity alone is unlikely to be the basis for LMP-1 's transforming and immortalizing potential since LMP-1 transforms some cells without inducing NF-KB ( Baichwal and Sugden , 1988 ; Martin et al. , 1993 ; Mitchell and Sugden , 1995 ) .
+Therefore , we set out to identify new nuclear targets of LMP-1 signaling that could help to explain the immortalizing and growth factor-like effects of LMP-1 .
+A prime candidate was the transcription factor AP-1 ( activator protein-1 ) , a dimer composed of Jun or Fos familiy proto-oncoproteins binding to the phorbol 12-O-tetradecanoate-13-actetate ( TPA ) -responsive element ( TRE ) ( for reviews see Angel and Karin , 1991 ; Karin et al. , 1997 ) .
+Induction of the fos and jun immediate early genes is tightly linked to the control of proliferation as well as the induction of transformation and immortalization of various cell types including B cells ( Angel and Karin , 1991 ; Karin et a/. , 1997 ) .
+The AP-1 transcription factor is activated by a variety of growth factors and mitogens such as epidermal growth factor ( EGF ) , platelet-derived growth factor ( PDGF ) , or TPA ( Angel and Karin , 1991 ; Karin , 1995 ) and , thus , mediates growth factor effects .
+Moreover , the activated viral counterparts of cellular c-jun and c-fos , v-jun and v-fos , have both been described as potent oncogenes ( Angel and Karin , 1991 ) .
+Here we show that LMP-1 induces the activity of the AP-1 transcription factor via a signaling pathway which involves the c-Jun N-terminal kinase 1 ( JNK1 ) .
+The identification of the proto-oncoprotein AP-1 as a nuclear target of LMP-1 signaling provides new clues to the immortalizing and transforming potential of LMP-1 .
+Results Induction of AP-1-dependent transcription by LMP-1 To test whether LMP-1 can activate the AP-1 transcription factor , human 293 embryonic kidney cells were transiently transfected with increasing amounts of an LMP-1 expression plasmid together with an AP-1 reporter construct , which consists of a luciferase reporter gene under the control of a minimal promoter and four TREs ( pRTU14 ) .
+The expression of LMP-1 led up to a 10-fold induction of AP-1-driven transcription depending on the amount of cotransfected LMP-1 expression plasmid ( Figure 1A ) .
+As positive controls , expression of the c-Jun N-terminal kinase LMP-1 induces AP-1 via JNK 1 ( JNK1 ) or the constitutively active Raf-1 kinase domain ( BXB-Raf ) ( Kieser et al. , 1996 ) also induced AP-1-dependent luciferase activity in 293 cells ( Figure 1A ) .
+These results show that LMP-1 expression leads to a strong induction of the transcription factor AP-1 .
+LMP-1 induces JNK1 kinase activity but not Erk2 activity The next step was to elucidate the signaling pathway ( s ) mediating LMP-1 effects on AP-1 .
+So far , two MAPK ( mitogen-activated protein kinase ) pathways have been identified that regulate AP-1 activity in the cell , the Mek - > Erk pathway , which is activated by the Raf-1 kinase , and the SEK - > JNK cascade ( Karin et a/. , 1997 ) .
+In order to evaluate LMP-1 's ability to induce either one or both of these pathways , we examined whether LMP-1 activates JNK1 or Erk2 .
+LMP-1 strongly induced the kinase activity of a cotransfected hemagglutinin ( HA ) -tagged JNK1 ( HA-JNK1 ) in transient transfection assays in 293 cells ( Figure 1B ) .
+LMP-1 induced JNK ] kinase activity by a factor of 7.8 which is comparable with the LMP-1-triggered activation of AP-1 ( see Figure 1A ) .
+As positive controls , crosslinking of a cotransfected CD40 receptor ( Berberich et al. , 1996 ) or UV-irradiation ( Derijard et al. , 1994 ) of the cells also caused JNK1 activation demonstrating that the experimental setup was working properly .
+In contrast to HA-JNK1 , neither Raf-l1 ( data not shown ) nor a cotransfected HA-Erk2 ( Figure 1B ) was activated by LMP-1 .
+These findings demonstrate the selectivity of the LMP-1 signaling process .
+LMP-1 efficiently induces the JNK cascade but not the Erk cascade .
+In addition , these findings led us to hypothesize that LMP-1 might trigger AP-1 specifically via the JNK pathway .
+LMP-1 induces the activity of the c-Jun N-terminal transactivation domain In vivo , JINKs but not Erks activate c-Jun by phosphorylation of serine residues 63 and 73 in its N-terminal transactivation domain ( Hibi et al. , 1993 ; Derijard et al. , 1994 ; Minden et al. , 1994 ; Westwick et al. , 1994 ; Karin et al. , 1997 ) .
+To test whether LMP-1 induces AP-1 via the N-terminal transactivation domain of c-Jun , LMP-1 was transiently expressed together with a chimeric transcription factor , c-Jun : E2 , consisting of the N-terminal transactivation domain of c-Jun ( amino acids 1 to 244 ) and the DNA-binding domain of the papilloma virus E2 protein .
+Transactivation by this chimeric transcription factor is dependent on the activation of the c-Jun portion of the fusion protein ( Baichwal and Tjian , 1990 ) .
+The transactivating activity of c-Jun : E2 was measured in transient reporter assays using a reporter construct which carries a luciferase reporter gene under the control of seven E2 binding sites , 7xE2-oriLyt-Luc ( L ) ( Schepers et al. , 1993 ) .
+LMP-1 caused a significant increase ( up to 6.5-fold ) of the transcriptional activitiy of c-Jun : E2 in a dose-depend-ent fashion ( Figure 1C ) .
+As expected , transient expression of JNK1 also induced c-Jun : E2 activity in the same range as LMP-1 , whereas expression of BXB-Raf was not effective ( Figure 1C ) .
+Taken together , these findings show that LMP-1 can induce AP-1 activity via the c-Jun N-terminal transactivation domain and strengthen the 6479 A.Kieser et al .
+B . $ C. x x $ 53 8596 ( $ 05 : « Q ?
+A gm & ® « © , A < P . $ @ C A 16.0 C53 } ( “ gs—00 3 ( 0 & be Ay > & 14.0 € ® 12.0 HA-JNK1 activity « b -- l HA-Erk2 activity f a ( GST-e-Jun~P ) 3 ( mep~P ) ig $ 8 [ e $ 8 ° | 9 | I 8 if ?
+4.0 x-fold induction -- » | 7.8 1.0 9.3 15.9 1.0 8.0 0.9 | « - x-fold induction 5 & - 20 § oo m me W m_ m ma H e_ § I Pio B & HA-JNK1 IP HA-Erk2 IP 8 5 Pb OG & §§ & & 5 & z =z A| | « @ - » « - » & g & § & 5 g 0 o o g ( immunoblot ) - # ( immunoblot ) é 45 ” é ) Ag , g $ a a o $ a a a Bg o c a 3 9 2 a 2 Fel E € Fig .
+1 .
+Induction of AP-1 , JNK1 and c-Jun activity by LMP-1 in transient transfection experiments in 293 human kidney cells .
+( A ) AP-1 induction by LMP-1 .
+50 ng of the AP-1 reporter plasmid pRTU14 was transfected together with the indicated amounts of the LMP-1 expression vector pSV-LMP-1 , 1 ug of the JNK1 expression vector SR @ -HA-JINK1 , or 1 ug pBXB-Raf expressing the Raf kinase domain BXB .
+Mock-transfected cells were transfected with carrier DNA and pRTU14 only .
+24 h post-transfection luciferase activities were measured .
+The control reporter plasmid pRTU1 lacking the four TRE sites showed minimal basal activity only , and was not inducible by any of the applied stimuli ( data not shown ) .
+( B ) JNK1 , but not Erk2 , is induced by LMP-1 .
+As indicated , 1 ug pSV-LMP-1 , pESBOS-CD40 , or carrier DNA were transfected together with 1 ug expressing a hemagglutinin ( HA ) -tagged JNK1 ( HA-JNK1 ) or SR & -HA-Erk2 expressing a HA-tagged Erk2 ( HA-Erk2 ) .
+Cells transfected with CD40 were stimulated with 1 ug/ml soluble CD40 ligand ( Immunex ) for 24 h to trigger CD40 activity .
+As positive controls , cells were UV-irradiated with 50 mJ in a Stratalinker ( Stratagene ) 30 min before cell harvest or stimulated with 100 nM TPA for 30 min .
+24 h post-transfection kinase activities were assayed in immunocomplex kinase assays .
+Results of HA-JNK1 assays are shown on the left side , HA-Erk2 assays on the right side .
+Top panels , autoradiographs of purified glutathione-S-transferase ( GST ) -tagged c-Jun or myelin basic protein ( MBP ) phosphorylated by immunoprecipitated HA-JNK1 or HA-Erk2 , respectively .
+Middle panels , -fold induction of kinase activities as quantitated by phosphoimager analysis .
+Bottom panels , immunoblots of the immunoprecipitated HA-JNK1 or HA-Erk2 .
+( C ) Activation of the c-Jun N-terminal transactivation domain by LMP-1 .
+50 ng of the plasmid pCMV-c-Jun : E2 expressing a fusion protein composed of the c-Jun N-terminal transactivation domain ( amino acids 1 to 244 ) and the E2 DNA binding domain ( amino acids 250 to 410 ) , and 100 ng of the luciferase reporter plasmid 7xE2-oriLyt-Luc ( L ) containing seven E2-binding sites were transfected together with the indicated amounts of pSV-LMP-1 , 2 ug SRu-HA-JNK1 , or 2 ug pBXB-Raf .
+Mock-transfected cells were transfected with c-Jun : EB2 transactivator , carrier DNA and reporter plasmids only .
+24 h post-transfection luciferase activities were measured .
+hypothesis that the JNK pathway might be involved in mediating LMP-1 's effects on c-Jun/AP-1 .
+Dominant-negative mutants of SEK1 block LMP-1-induced activities of JNK1 , c-Jun and AP-1 SEK1 is the upstream kinase which phosphorylates and thereby activates JNK1 ( Sanchez et a/. , 1994 ) .
+Dominant-negative mutants of SEK1 have been shown to block JNK1 activity in response to extracellular and intracellular stimuli ( Sanchez et al. , 1994 ; Yan et al. , 1994 ) .
+In order to investigate whether LMP-1 triggers AP-1-dependent transcriptional activation via the JNK1 - > c-Jun cascade , we used dominant-negative mutants of SEK1 which were expected to interfere with -induced JNK1 activity as well as c-Jun and AP-1-dependent transcriptional activation .
+Transient coexpression of two dominant-negative SEK1 mutants , SEKI-KR ( K129-R ) ( Sanchez et al. , 1994 ) and SEKI-AL ( S220-A , T224-L ) ( Yan et al. , 1994 ) , severely impaired LMP-1-induced JNK1 activity in 293 cells ( Figure 2A ) .
+Coexpression of SEKI-KR or SEK1I-AL led to a 70 % and 77 % decrease in LMP-1-induced JNK1 activity , respectively .
+SEK1-KR and SEK AL also blocked LMP-1-triggered activation of the c-Jun transactivation domain ( Figure 2B ) and LMP-1-induced AP-1-dependent transcription ( Figure 2C ) .
+These observations clearly demonstrate that LMP-1 can induce the AP-1 transcription factor via the SEK1 - > JNK1I - > c-Jun cascade .
+6480 The 55 C-terminal amino acids of LMP-1 are critically involved in LMP-1 's effects on AP-1 The next step was to identify the domain ( s ) of the LMP-1 molecule that are necessary for LMP-1 's effects on AP-1 activity .
+Two regions in the cytoplasmic C-terminus of LMP-1 have been identified to mediate LMP-1 function , the C-terminal activation regions 1 and 2 ( CTAR1 , 2 ) ( Huen et al. , 1995 ; Kieff , 1996 ) .
+Mutational analysis suggested that both domains are involved in NF-KB activation by LMP-1 ( Huen et al. , 1995 ; Mitchell and Sugden , 1995 ; Devergne et al. , 1996 ; Sandberg et al. , 1997 ) .
+Furthermore , CTAR1 ( amino acids 194 to 231 ) has been shown to interact with TRAFs 1 , 2 and 3 ( Mosialos et al. , 1995 ; Devergne et al. , 1996 ; Sandberg et al. , 1997 ) whereas TRAF interaction with the C-terminal CTAR2 ( amino acids 332 to 386 ) could not be demonstrated .
+The activity of CTAR1 appears to be dependent on TRAF-association ( Devergne et al. , 1996 ) .
+To learn whether CTAR1 or CTAR2 might be involved in AP-1 induction by LMP-1 , we transiently transfected LMP-1 mutants harboring deletions in both regions together with the AP-1 reporter contruct pRTU14 in 293 cells and subsequently assayed for AP-1-dependent transcription .
+The CTAR1 deletion mutant LMP-1A212-231 shows strongly reduced TRAF1 and barely detectable TRAF2 interaction compared with wildtype LMP-1 ( Sandberg et al. , 1997 ) .
+The LMP-1 deletion mutant LMP-1A332-386 lacks the complete CTAR2 region .
+As shown in Figure 3 , deletion of CTAR2 completely abolished A d - & x » Fo & N & C & & « 9° 5 l $ 53 } Ao “ 11 ‘ ka & C C C CF JF F # & HA-JNK1 activity ltt 1s w ( GST-c-Jun~P ) x-fold induction - » | 1.0 8.8 2.7 2.0 0.6 0.6 HA-JINK1 IP a » amp ab « -o - » am ( immunoblot ) LMP-1 induces AP-1 via JNK u O [ relative units } AP-1-dependent luciferase activity [ relative units ] c-Jun : E2-dependent luciferase activity LMP LMP-1 + SEKT-KR ' z F l $ % & S & $ 8 E mocketransfected LMP-1 + SEKT-AL LMP-1 + SEK1-KR LMP-1 + SEKT-AL Fig .
+2 .
+Inhibition of LMP-1-induced activity of the JNK cascade after coexpression of dominant-negative mutants of SEK1 in transiently transfected 293 human kidney cells .
+( A ) Block of JNK1 induction by SEK1 mutants .
+1 ug SRO-HA-JNK1 was transfected together with 0.5 ug pSV-LMP-1 , 1.5 ug pEBG-SEK1-KR expressing SEK1-KR or pSEK1-AL/EE-CMV expressing SEK1-AL .
+Mock-transfected cells were transfected with carrier DNA and SRQ-HA-JINK1 only .
+24 h post-transfection HA-INK1 kinase activities were assayed .
+Top panel , SDS-PAGE and autoradiography of GST-c-Jun phosphorylated by immunoprecipitated HA-JNK1 .
+Middle panel , -fold induction of kinase activities as quantitated by phosphoimager analysis .
+Bottom panel , immunoblots of the immunoprecipitated HA-JNK1 .
+( B ) Block of c-Jun induction by SEK1 mutants .
+50 ng pCMV-c-Jun : E2 and 100 ng 7xE2-oriLyt-Luc ( L ) were transfected together with 2 ug of pSV-LMP1 , 2 ug pEBG-SEK1-KR or 2 ug pSEK1-AL/EE-CMV as indicated .
+Mock-transfected cells were transfected with carrier DNA , transactivator and reporter plasmids only .
+24 h post-transfection luciferase activities were measured .
+( C ) Block of AP-1 induction by SEK1 mutants .
+As in ( B ) , cotransfection of 50 ng of the AP-1 reporter plasmid pRTU14 instead of pCMV-c-Jun : E2 and 7xE2-oriLyt-Luc ( L ) .
+1 ug of the LMP-1 and SEK mutant expression vectors were transfected .
+LMP-1 's ability to induce AP-1 .
+In contrast , the functional deletion in CTAR1 had no significant consequences on LMP-1 's effects on AP-1-dependent transcription .
+These results clearly demonstrate that CTAR2 , but not CTAR1 , is required for AP-1 induction by LMP-1 .
+Crosslinking of a conditional LMP-1 mutant leads to the immediate induction of the JNK1 pathway It was important to show that the effects of LMP-1 on the JNK cascade and AP-1 were direct and did not involve e.g .
+autocrine loops .
+Therefore , we used a conditional LMP-1 mutant whose activity can be induced at will .
+The mutant LMP-1:3xFKBP12 lacks the transmembrane segments 1 to 4 ( amino acids 25 to 132 ) of LMP-1 and carries a FKBP12 trimer at its C-terminus ( Gires et al. , 1997 ) .
+This LMP-1 mutant localizes to the plasma membrane but fails to oligomerize as wildtype LMP-1 .
+Instead , LMP-1:3xFKBP12 can be oligomerized by the use of a drug ( 'AP1510 dimerizer ' ) which mediates cross-linking of these molecules via their FKBP12 domains .
+Oligomerization of LMP-1:3xFKBP12 efficiently induces NF-KB activation ( Gires et al. , 1997 ) demonstrating that crosslinking of this LMP-1 mutant can trigger signaling activity .
+A significant increase in HA-JNKI1 activity could be observed with LMP-1:3xFKBP12 as shortly as 5 min after adding the dimerizing drug ( Figure 4 ) .
+The maximum HA-JNK1 induction ( 5.5-fold ) was reached after 30 min .
+In a related experiment , AP-1 activity could also be induced by LMP-1:3xFKBP12 within 30 to 60 min after administration of the drug as demonstrated in transient reporter assays ( data not shown ) .
+These results show that induction of the JNK cascade and AP-1 is an immediate and therefore most likely a direct response to LMP-1 signaling events .
+Furthermore , these results demonstrate that JNK1 and AP-1 induction by LMP-1 is a specific 16.0 14.0 12.0 10.0 8.0 [ relative umits ) 6.0- 4.0~ AP-1-dependent luciferase activity 2.0 0.0- mock-transfected LMP-1 LMP-1A212-231 Fig .
+3 .
+The LMP-1 C-terminal CTAR2 region is essential for LMP-1 's effects on AP-1 .
+Transient transfections in 293 human kidney cells .
+As indicated , 1 ug of the expression vectors pSV-LMP-1 expressing wildtype LMP-1 , pSV-LMP-1A212-231 expressing a CTAR1 deletion mutant , and pSV-LMP-1A332-386 expressing a CTAR2 deletion mutant were cotransfected with 50 ng of the AP-1 reporter plasmid pRTU14 .
+24 h post-transfection luciferase activities were assayed .
+and regulated signaling event and not just an unspecific consequence of , for example , general cell stress generated by LMP-1 expression or by the transfection procedure .
+LMP-1 expression parallels JNK1 induction in B cells Since LMP-1 is genetically involved in B-cell immortalization by EBV ( Kaye et al. , 1993 ; Kieff , 1996 ) , it was interesting to learn whether LMP-1 would be capable to induce the JNK cascade also in B cells .
+Primary human B cells were immortalized with a recombinant mini-EBV ( Kempkes et al. , 1995a ) carrying a tetracyline-regulated LMP-1 allele according to the system described by Gossen , Deuschle and collegues ( Gossen et a/. , 1993 ; Deuschle et al. , 1995 ) ( E.Kilger , A.Kieser and W.Hammerschmidt , 6481 A.Kieser et al .
+mock-transfected LMP-1 :3xFKBP12 50 nM dimerizer 0° 5° 15° 30° 60° O ' 5° 15 '' 30° 60° HA-JNK1 activity « =o aun ath ( GST-e-Jun~P ) ® x-fold induction 1.0 0.7 0.8 1.6 0.9 0.7 22 3.6 5.5 4.7 HA-JNK1 IP movie : cap a ( immunoblot ) » a » oo a » a » os ca » Fig .
+4 .
+Immediate induction of JNK1 activity after oligomerization of a conditional LMP-1 mutant .
+293 cells were transiently transfected with 1 ug SRu-HA-JINK1 together with 50 ng carrier DNA ( mock-transfected ) or 50 ng of the plasmid pLMP-1:3xFKBP12 , as indicated .
+The conditional LMP-1 mutant LMP-1:3xFKBP12 lacks the transmembrane segments 1 to 4 ( amino acids 25 to 132 ) but carries a C-terminal fusion with a trimer of the FKBP12 domain .
+Activity of LMP-1:3xFKBP12 can be triggered by administration of the dimerizing drug AP1510 ( ARIAD Pharmaceuticals ) .
+24 h post-transfection cells were stimulated with 50 nM of AP1510 ( 'dimerizer ' ) for different periods of time , as indicated .
+Cells were harvested and the activity of the immunoprecipitated HA-INK1 was assayed .
+Top panel , SDS-PAGE and autoradiography of GST-c-Jun phosphorylated by the immunoprecipitated HA-JNK1 .
+Middle panel , -fold induction of kinase activities as quantitated by phosphoimager analysis .
+Bottom panel , immunoblots of the immunoprecipitated HA-JNK1 .
+in preparation ) .
+With the exception of LMP-1 , all other EBV genes required to initiate and maintain B-cell immortalization are constitutively expressed from this mini-EBV construct ( Kempkes et al. , 1995a ) ( E.Kilger , A.Kieser and W.Hammerschmidt , in preparation ) .
+In this B-cell system , removal of tetracycline leads to a drastic downregulation of LMP-1 expression ( Figure 5 ) and the cells cease to proliferate ( Kilger et al. , in preparation ) .
+Endogenous JNK 1 activity could barely be detected in this state ( Figure 5 ) .
+Re-induction of LMP-1 expression resulted in a strong induction of endogenous JNK1 activity ( Figure 5 ) .
+After 4 days of restimulation endogenous JNKI1 activity reached its maximum level of a 12.6-fold induction .
+Concomitantly , upon re-induction of LMP-1 expression the cells re-entered the cell cycle and started proliferating again ( E.Kilger , A.Kieser and W.Hammerschmidt , in preparation ) .
+This finding delivers strong evidence that induction of JNK 1 by LMP-1 is linked to proliferation rather than cytotoxic effects .
+Although the tetracycline-regulated promoter controling LMP-1 expression in these cells appears to be leaky , LMP-1 expression levels comparable to EBV-immortalized lymphoblastoid cell lines ( LCLs ) are reached at day 3 after tetracycline restimulation ( data not shown ; Kilger et a/. , in preparation ) .
+Most likely , this is the reason for the boost in JNK1 activity at day 3 after administration of tetracycline .
+At that point , LMP-1 expression levels might exceed a certain threshold necessary to form active oligomeres in the plasma membrane .
+Taken together , these data demonstrate a clear link between LMP-1 expression and the activity of the JNK pathway also in B cells .
+6482 0 & s tetracycline g restimulation ® 10 24 34 44d JNK1 activity waw is ( GST-c-Jun~P ) x-fold induction - # » | 1.0 1.7 2.2 7.3 126 IgG heavy chain - # » g 66 kD JNK1 IP -t » 46 kD ( immunoblot ) f o igG light chain - » 08 & & 8B | [ ** 97.4 kD LMP-1 cl ees 66 kD ( immunoblot ) * | « « - » > __ __ mme amme||- 46 kD Fig .
+5 .
+LMP-1 induces endogenous JNK1 activity in B cells immortalized with a mini-EBV plasmid carrying a tetracycline-conditional LMP-1 allele .
+Primary B cells immortalized with this mini-EBV were kept in the absence of tetracycline for 4 days to downregulate LMP-1 expression .
+Subsequently , LMP-1 expression was re-induced with 1 ug/ml tetracycline for up to 4 days , as indicated .
+After lysis of cells , endogenous JNK1 was immunoprecipitated using the rabbit anti-JNK1 antibody C17 and kinase activities were determined .
+Top panel , SDS-PAGE and autoradiography of GST-c-Jun phosphorylated by the immunoprecipitated JNK1 .
+Second panel from top , -fold induction of kinase activities as quantitated by phosphoimager analysis .
+Third panel from top , immunoblots of the immunoprecipitated JNK1 using the rabbit anti-JNK1 antibody C-17 .
+Bottom , immunoblot analysis of LMP-1 expression using a rabbit polyclonal anti-LMP-1 antibody .
+Discussion Here we show that Epstein-Barr virus LMP-1 induces AP-1-dependent transcription via the SEK1 - > JNK1 - > c-Jun N-terminus cascade .
+This is the first report demonstrating that LMP-1 can trigger the activity of an intracellular signaling kinase .
+This finding reveals how oncogenic proteins of the immortalizing DNA virus EBV could interact with the cellular signaling network that controls cell growth and differentiation .
+JNK1 activation via an inducible LMP-1 mutant allowed us to demonstrate that cellular effects occur within minutes after induction of LMP-1 activity .
+These results functionally support the suggested role of LMP-1 as a receptor-like molecule ( Devergne et al. , 1996 ; Kieff , 1996 ; Gires et al. , 1997 ) .
+Our findings are even more surprising taking into account that LMP-1 does not show an overall homology to any known transmembrane receptor molecule .
+Although LMP-1 binds to molecules of the TRAF family via its CTAR1 domain ( Mosialos et al. , 1995 ; Devergne et al. , 1996 ; Sandberg et al. , 1997 ) , LMP-1 CTAR1 mutants which are drastically impaired in TRAF binding still induce NF-KB almost to wildtype levels ( Huen et al. , 1995 ; Mitchell and Sugden , 1995 ; Sandberg et al. , 1997 ) .
+This finding resembles the situation observed here concerning AP-1 induction by LMP-1 .
+The LMP-1 mutant LMP-1A212-231 which lacks significant TRAF binding activity ( Sandberg et al. , 1997 ) still induces AP-1-dependent transcription .
+In contrast , the 55 C-terminal amino acids of the LMP-1 CTAR2 domain appear to be critical for LMP-1-triggered AP-1 activity ( see Figure 3 ) as for NF-KB activity ( Huen et al. , 1995 ; Mitchell and Sugden , 1995 ; Devergne et al. , 1996 ) .
+Moreover , expression of LMP-1A332-386 appears to slightly repress the level of cellular AP-1 activity ( see Figure 3 ) .
+The reason for this effect is not clear , yet , but a LMP-1 mutant with the CTAR2 domain directly fused to LMP-1 's transmembrane domain ( LMP-1A187-352 ) induces JNKI and AP-1 activity almost to levels of wildtype LMP-1 ( data not shown ) .
+This observation supports the significance of the results observed with the LMP-1 CTAR2 deletion mutant and clearly demonstrates the importance of the LMP-1 CTAR2 domain for LMP-1 's effects on the JNK1/c-Jun/ AP-1 pathway .
+In summary , these data suggest that the C-terminal CTAR2 domain plays an important role in mediating LMP-1 signaling events .
+Albeit we show that the SEK1/JNK1/c-Jun N-terminus cascade can mediate AP-1 induction by LMP-1 , this finding does not exclude the possibility that there might be additional LMP-1-triggered pathways leading to AP-1 induction .
+The results reported here bring the two 'loose ends ' , LMP-1 on one side and the nuclear targets of LMP-1 on the other , closer together .
+However , a gap remains in the signaling cascade between LMP-1 and SEK 1 .
+Currently we are trying to identify the intermediates to make the ends meet .
+In spite of many attempts by different laboratories , no molecule ( s ) could be identified so far , that associate ( s ) with the CTAR2 domain of LMP-1 and that could directly link the LMP-1 very C-terminus to downstream signaling events .
+In addition , preliminary data suggest that the upstream kinase mediating LMP-1 effects on JNKI1 is not MEKK ( MEK kinase ) since dominant-negative mutants of MEKK were not able to block LMP-1-tiggered JNK1 activity ( data not shown ) .
+The JNK pathway has been reported to be involved in induction of cell death by apoptosis ( Xia et al. , 1995 ) .
+However , recent reports also point to a potential role of the JNK cascade in non-cytotoxic signaling events ( Shu et al. , 1996 ; Natoli et al. , 1997 ) .
+In T lymphocytes , integration of signals that lead to T-cell activation occurs at the level of JNK activation ( Su et al. , 1994 ) .
+Our findings suggest a role of JNK1 in non-cytotoxic LMP-1 signaling since induction of JNKI1 activity by LMP-1 in B cells parallels onset of proliferation ( Figure 5 ; E.Kilger , A.Kieser and W.Hammerschmidt , in preparation ) .
+Pos-sibly , concomitant induction of anti-apoptotic genes by LMP-1 ( Henderson et al. , 1991 ; Laherty et al. , 1992 ) allows the cells to escape from apoptosis and to enter the cell cycle , triggered by AP-1 induction via JNKI1 .
+The induction of the proto-oncoprotein AP-1 , which is a newly identified target of LMP-1 signaling , could be a major factor in cell transformation by LMP-1 .
+It has been shown previously that the C-terminal portion of the LMP-1 molecule ( amino acids 232 to 386 ) is essential for immortalization of B lymphocytes ( Moorthy and Thorley-Lawson , 1993 ; Kaye et al. , 1995 ) in that it provides a growth factor-like signal ( Kaye et al. , 1995 ) .
+We demonstrate here that the C-terminal CTAR2 domain of LMP-1 LMP-1 induces AP-1 via JNK is critically involved in inducing JNK1 ( data not shown ) and AP-1 activity .
+Activity of the AP-1 transcription factor is tightly linked to the control of cell proliferation ( Angel and Karin , 1991 ; Karin et al. , 1997 ) .
+Moreover , the AP-1 transcription factor is induced by many growth factors and mitogens ( Angel and Karin , 1991 ; Karin , 1995 ) .
+Therefore , AP-1 is a good candidate for mediating the growth factor-like effects critical for LMP-1-mediated immortalization and transformation .
+In summary , we have identified the transcription factor AP-1 and the JNK cascade as novel targets of LMP-1 signaling that could help to explain the immortalizing , transforming , and growth factor-like effects of LMP-1 in B cells and other cells which EBV infects .
+Materials and methods Plasmids and expression vectors pSV-LMP-1 is an expression vector based on pHEBO ( Sugden et aZ. , 1985 ) in which LMP-1 is expressed from a subgenomic EBV fragment under the transcriptional control of the SV40 promoter/enhancer .
+To generate pSV-LMP-1A212-231 and pSV-LMP-1A332-386 , the LMP-1 deletion mutants LMP-1A212-231 ( kind gift from M.Sandberg ) and LMP-1A332-386 were cloned into the same vector background as pSV-LMP-1 .
+The construction of the LMP-1 mutant LMP-1:3xFKBP12 has been described recently ( Gires et al. , 1997 ) .
+To generate pBXB-Raf the kinase domain of human Raf-l ( human Raf-1 with a deletion from amino acids 26 to 303 ) was cloned into pCMVS5 .
+pESBOS-CD40 expresses the human CD40 receptor and was a kind gift from H.Engelmann .
+SR & -HA-JNK1 ( Minden et al. , 1994 ) and SR & -HA-Erk2 ( Minden ef al. , 1994 ) ( kind gifts from M.Karin ) , pCMV-c-jun : E2 ( Baichwal and Tjian , 1990 ) ( kind gift from V.R.Baichwal ) , pEBG-SEK1-KR ( Sanchez et al. , 1994 ) ( kind gift from M.Baccarini ) , pSEK1-AL/ EE-CMV ( Yan et al. , 1994 ) ( kind gift from D.J.Templeton ) have been described previously .
+The reporter plasmids pRTU1 and pRTU14 ( Kieser et al. , 1996 ) ( kind gifts from D.Bohmann ) and 7xE2-oriLyt-Luc ( L ) ( Schepers et al. , 1993 ) have been described previously .
+Cell culture methods 293 human embryonic kidney cells were grown in full medium containing 10 % fetal calf serum ( GIBCO ) .
+For transfections , cells were grown to subconfluence in 6-well-plates .
+Cells were transfected with 2 to 4 ug DNA using the Lipofectamine reagent ( GIBCO ) according to the manufacturer 's protocol .
+Total amounts of transfected DNA were adjusted using salmon testes DNA ( Sigma ) as a carrier .
+After transfection , cells were grown in medium containing 1 % fetal calf serum for 24 h and treated as indicated in the figure legends .
+Subsequently , immunocomplex kinase assays or reporter gene assays were performed .
+Details about the generation of B cells immortalized with a mini-EBV plasmid carrying a conditional LMP-1 allele will be published elsewhere ( E.Kilger , A.Kieser and W.Hammerschmidt , in preparation ) .
+Immortalized B cells were grown in full medium containing 10 % fetal calf serum with 1 pg/ml tetracycline to ensure LMP-1 expression , except when noted otherwise .
+Immunocomplex kinase assays , immunoblotting and antibodies Cells were treated as described in the figure legends and in cell culture methods .
+Immunoprecipitations were performed as described ( Kieser et al. , 1996 ) using the monoclonal anti-hemagglutinin antibody 12CA5 ( Boehringer ) or the rabbit anti-JNK1 antibody C-17 ( Santa Cruz Biotech .
+) , immobilized to protein G-Sepharose beads ( Pharmacia ) , to immunoprecipitate HA-JNK1 or HA-Erk2 , or endogenous JNK1 , respectively .
+In vitro immunocomplex kinase assays with the immunoprecipitated kinases were performed as described ( Kieser et al. , 1996 ) using glutathione-S-transferase ( GST ) -tagged c-Jun ( purified from E.coli , gift from M.Baccarini ) or myelin basic protein ( MBP , Sigma ) as substrates for JNK1 or Erk2 , respectively .
+As indicated , kinase reactions or total cell lysates were seperated by SDS-PAGE and blotted onto Hybond-C membranes ( Amersham ) .
+Kinase reactions were analysed by autoradiography and phosphoimager scanning .
+The following antibodies were used for immunoblotting : the rabbit anti-JNK1 antibody ( C-17 , Santa Cruz Biotech .
+) , the mouse anti-Erk2 antibody ( D-2 , Santa Cruz Biotech .
+) , 6483 A.Kieser et al .
+and a rabbit polyclonal anti-LMP-1 antibody ( Baichwal and Sugden , 1988 ) .
+Luciferase assays Cells were treated as indicated .
+Subsequently , luciferase assays were performed in total cell lysates as described previously ( Kieser ef aZ. , 1996 ) .
+Acknowledgements We thank M.Baccarini , V.R.Baichwal , D.Bohmann , H.Engelmann , M.Karin , M.Sandberg and D.J.Templeton for plasmids ; H.Mischak for critically reading the manuscript ; Immunex Corporation , Seattle , for soluble CD40 ligand ; and B.Sugden for antiserum against LMP-1 .
+This work was supported by grants from the National Institutes of Health , Deutsche Forschungsgemeinschaft , Dr Mildred Scheel Stiftung fir Krebsforschung and institutional grants .
+References Angel , P .
+and Karin , M. ( 1991 ) The role of Jun , Fos and the AP-1 complex in cell-proliferation and transformation .
+Biochim .
+Biophys .
+Acta , 1072 , 129-157 .
+Baichwal , V.R .
+and Sugden , B .
+( 1988 ) Transformation of Balb 3T3 cells by the BNLF-1 gene of Epstein-Barr virus .
+Oncogene , 2 , 461-467 .
+Baichwal , V.R .
+and Tjian , R .
+( 1990 ) Control of c-Jun activity by interaction of a cell-specific inhibitor with regulatory domain delta : differences between v- and c-Jun .
+Cell , 63 , 815-825 .
+Berberich , L. , Shu , G. , Siebelt , F. , Woodgett , .J.R. , Kyriakis , J.M .
+and Clark , E.A .
+( 1996 ) Cross-linking CD40 on B cells preferentially induces stress-activated protein kinases rather than mitogen-activated protein kinases .
+EMBO J. , 15 , 92-101 .
+Cohen , J.I. , Wang , F. , Mannick , J .
+and Kieff , E .
+( 1989 ) Epstein-Barr virus nuclear protein 2 is a key determinant of lymphocyte transformation .
+Proc .
+Natl Acad .
+Sci .
+USA , 86 , 9558-9562 .
+Cordier , M. et al .
+( 1990 ) Stable transfection of Epstein-Barr virus ( EBV ) nuclear antigen 2 in lymphoma cells containing the EBV P3HR1 genome induces expression of B-cell activation molecules CD21 and CD23 .
+J .
+Virol. , 64 , 1002-1013 .
+Derijard , B. , Hibi , M. , Wu , LH. , Barrett , T. , S $ u , B. , Deng , T. , Karin , M. and Davis , R.J .
+( 1994 ) JNK1 : a protein kinase stimulated by UV light and Ha-Ras that binds and phosphorylates the c-Jun activation domain .
+Cell , 76 , 1025-1037 .
+Deuschle , U. , Meyer , W.K .
+and Thiesen , HJ .
+( 1995 ) Tetracycline-reversible silencing of eukaryotic promoters .
+Mol .
+Cell .
+Biol. , 15 , 1907-1914 .
+Devergne,0. , Hatzivassiliou , E. , Izumi , K.M. , Kaye , K.M. , Kleijnen , M.F. , Kieff , E .
+and Mosialos , G .
+( 1996 ) Association of TRAF1 , TRAF2 , and TRAF3 with an Epstein-Barr virus LMP1 domain important for B-lymphocyte transformation : role in NF-KB activation .
+Mol .
+Cell .
+Biol. , 16 , 7098-7108 .
+Fahraeus , R. , Jansson , A. , Ricksten , A. , Sjoeblom , A .
+and Rymo , L .
+( 1990 ) Epstein-Barr virus-encoded nuclear antigen 2 activates the viral latent membrane protein promoter by modulating the activity of a negative regulatory element .
+Proc .
+Natl Acad .
+Sci .
+USA , 87 , 7390-7394 .
+Farrell , PJ .
+( 1995 ) Epstein-Barr virus immortalizing genes .
+Trends Microbiol. , 3 , 105-109 .
+Gires,0. , Zimber-Strobl , U. , Gonnella , R. , Ueffing , M. , Marschall , G. , Zeidler , R. , Pich , D .
+and Hammerschmidt , W. ( 1997 ) Latent membrane protein 1 of Epstein-Barr virus mimics a constitutively active receptor molecule .
+EMBO J. , 16 , 6131-6140 .
+Gossen , M. , Bonin , A.L .
+and Bujard , H .
+( 1993 ) Control of gene activity in higher eukaryotic cells by prokaryotic regulatory elements .
+Trends Biochem .
+Sci. , 18 , 471-475 .
+Grossman , S.R. , Johannsen , E. , Tong , .X. , Yalamanchili , R .
+and KieffE .
+( 1994 ) The Epstein-Barr virus nuclear antigen 2 transactivator is directed to response elements by the J kappa recombination signal binding protein .
+Proc .
+Natl Acad .
+Sci .
+USA , 91 , 7568-7572 .
+Hammarskjold , M.L .
+and Simurda , M.C .
+( 1992 ) Epstein-Barr virus latent membrane protein transactivates the human immunodeficiency virus type 1 long terminal repeat through induction of NF-KB activity .
+J .
+Virol. , 66 , 6496-6501 .
+Hammerschmidt , W. and Sugden , B .
+( 1989 ) Genetic analysis of immortalizing functions of Epstein-Barr virus in human B lymphocytes .
+Nature , 340 , 393-397 .
+6484 Henderson,8. , Rowe , M. , Gregory , C. , Croom , C.D. , Wang , F .
+and Longnecker , R .
+( 1991 ) Induction of bel-2 expression by Epstein-Barr virus latent membrane protein 1 protects infected B cells from programmed cell death .
+Cell , 65 , 1107-1115 .
+Henkel , T. , Ling , P.D. , Hayward , S.D .
+and Peterson , ( 1994 ) Mediation of Epstein-Barr virus EBNAZ transactivation by recombination signal-binding protein J kappa .
+Science , 265 , 92-95 .
+Hibi , M. , Lin , A. , Smeal , T. , Minden , A .
+and Karin , M. ( 1993 ) Identification of an oncoprotein- and UV-responsive protein kinase that binds and potentiates the c-Jun activation domain .
+Genes Dev. , 7 , 2135-2148 .
+Huen , D.S. , Henderson , S.A. , Croom-Carter , D .
+and Rowe , M .
+( 1995 ) The Epstein-Barr virus latent membrane protein-1 ( LMP1 ) mediates activation of NF-KB and cell surface phenotype via two effector regions in its carboxy-terminal cytoplasmic domain .
+Oncogene , 10 , 549-560 .
+Karin , M .
+( 1995 ) The regulation of AP-1 activity by mitogen-activated protein kinases .
+J. Biol .
+Chem. , 270 , 16483-16486 .
+Karin , M. , Liu , Z .
+and Zandi , E .
+( 1997 ) AP-1 function and regulation .
+Curr .
+Opin .
+Cell Biol. , 9 , 240-246 .
+Kaye , K.M. , Izumi , K.M .
+and Kieff , E .
+( 1993 ) Epstein-Barr virus latent membrane protein 1 is essential for B-lymphocyte growth transformation .
+Proc .
+Natl Acad .
+Sci .
+USA , 90 , 9150-9154 .
+Kaye , K.M. , Izumi , K.M. , Mosialos , G .
+and Kieff , E .
+( 1995 ) The Epstein-Barr virus LMP1 cytoplasmic carboxy terminus is essential for B-lymphocyte transformation ; fibroblast cocultivation complements a critical function within the terminal 155 residues .
+J .
+Virol. , 69 , 675-683 .
+Kempkes , B. , Pich , D. , Zeidler , R .
+and Hammerschmidt W. ( 1995a ) Immortalization of human primary B-lymphocytes in vifro with DNA .
+Proc .
+Natl Acad .
+Sci .
+USA , 92 , 5875-5879 .
+Kempkes , B. , Spitkovsky , D. , Jansen-Diirr , P. , Ellwart , J.W. , Delecluse , H.-J. , - Rottenberger , C. , - Kremmer , E. , - Bornkamm , G.W .
+- and Hammerschmidt , W. ( 1995b ) B-cell proliferation and induction of early G1-regulating proteins by Epstein-Barr virus mutants conditional for EBNAZ .
+EMBO J. , 14 , 88-96 .
+Kieff,6 .
+( 1996 ) Epstein-Barr virus and its replication .
+In Fields , B.N. , Knipe , D.M. , Howley , P.M. , Chanock , R.M. , Monath , T.P. , Melnick , J.L. , Roizman , B .
+and Straus , S.E .
+( eds ) , Virology .
+Lippincott-Raven Publishers .
+Philadelphia , PA , pp .
+2343-2396 .
+Kicser , A. , Seitz , I. , AdlerH.S. , CofferP , KremmerE. , Crespo , P. , Gutkind , J.S. , - Henderson , D.W. , Mushinski , J.F , - Kolch , W .
+- and Mischak , H .
+( 1996 ) Protein kinase C-zeta reverts v-raf transformation of NIH-3T3 cells .
+Genes Dev. , 10 , 1455-1466 .
+Klein , G .
+( 1994 ) Epstein-Barr virus strategy in normal and neoplastic B cells .
+Cell , 77 , 791-793 .
+Knutson , J.C .
+( 1990 ) The level of c-fgr RNA is increased by EBNA-2 , an Epstein-Barr virus gene required for B-cell immortalization .
+J .
+Virol. , 64 , 2530-2536 .
+Laherty , C.D. , Hu , H.M. , Opipari , A.W. , Wang , F .
+and Dixit , V.M .
+( 1992 ) The Epstein-Barr virus LMP1 gene product induces A20 zinc finger protein expression by activating nuclear factor xB .
+J. Biol .
+Chem. , 267 , 24157-24160 .
+Laux , G. , Adam , B. , Strobl , L.J .
+and Moreau-Gachelin , F .
+( 1994 ) The Spi-1/PU.1 and Spi-B ets family transcription factors and the recombination signal binding protein RBP-J kappa interact with an Epstein-Barr virus nuclear antigen 2 responsive cis-element .
+EMBO J. , 13 , 5624-5632 .
+Liecbowitz , D. , Wang , D .
+and Kieff , E .
+( 1986 ) Orientation and patching of the latent infection membrane protein encoded by Epstein-Barr virus .
+J .
+Virol. , 58 , 233-237 .
+Martin , J.M. , Veis , D. , Korsmeyer , S.J .
+and Sugden , B .
+( 1993 ) Latent membrane protein of Epstein-Barr virus induces cellular phenotypes independently of expression of Bel-2 .
+J .
+Virol. , 67 , 5269-5278 .
+Minden , A. , - Lin , A. , - McMahon , M. , - Lange-Carter , C. , Derijard , B. , Davis , R.J. , Johnson , G.L .
+and Karin , M .
+( 1994 ) Differential activation of ERK and JNK mitogen-activated protein kinases by Raf-1 and MEKK .
+Science , 266 , 1719-1723 .
+Mitchell , T .
+and Sugden , B .
+( 1995 ) Stimulation of NF-KB-mediated transcription by mutant derivatives of the latent membrane protein of Epstein-Barr virus .
+J .
+Virol. , 69 , 2968-2976 .
+Moorthy , R.K .
+and Thorley-Lawson , D.A .
+( 1993 ) All three domains of the Epstein-Barr virus-encoded latent membrane protein LMP-1 are required for transformation of rat-l fibroblasts .
+J .
+Virol. , 67 , 1638-1646 .
+Mosialos , G. , Birkenbach , M. , Yalamanchili , R. , VanArsdale , T. , Ware , C .
+and Kieff , E .
+( 1995 ) The Epstein-Barr virus transforming protein LMP1 engages signaling proteins for the tumor necrosis factor receptor family .
+Cell , 80 , 389-399 .
+Natoli , G. , - Costanzo , A. , - Ianni , A. , Templeton , D.J. , Woodgett.J.R. , Balsano , C .
+and Levrero , M .
+( 1997 ) Activation of SAPK/JNK by TNF receptor 1 through a non-cytotoxic TRAF2-dependent pathway .
+Science , 275 , 200-203 .
+Sanchez , I. , Hughes , R.T. , Mayer , B.J. , Yee , K. , Woodgett , J.R. , Avruch , J. , Kyriakis , J.M .
+and Zon , L.I .
+( 1994 ) Role of SAPK/ERK kinase-1 in the stress-activated pathway regulating transcription factor c-Jun .
+Nature , 372 , 794-198 .
+Sandberg , M. , Hammerschmidt , W. and Sugden , B .
+( 1997 ) Characterization of LMP-1 's association with TRAF1 , TRAF2 , and TRAF3 .
+J .
+Virol. , 71 , 4649-4656 .
+Schepers , A. , Pich , D. , Mankertz , J .
+and Hammerschmidt , W. ( 1993 ) Cis-acting elements in the lytic origin of DNA replication of Epstein-Barr virus .
+J .
+Virol. , 67 , 4237-4245 .
+Shu , J. , Hitomi , M .
+and Stacey , D .
+( 1996 ) Activation of JNK/SAPK pathway is not directly inhibitory for cell cycle progression in NIH3T3 cells .
+Oncogene , 13 , 2421-2430 .
+S $ u , B. , Jacinto , E. , Hibi , M. , Kallunki , T. , Karin , M .
+and Ben-Neriah , Y .
+( 1994 ) JNK is involved in signal integration during costimulation of T lymphocytes .
+Cell , 77 , 727-736 .
+Sugden , B. , Marsh , K .
+and Yates , J .
+( 1985 ) A vector that replicates as a plasmid and can be efficiently selected in B-lymphoblasts transformed by Epstein-Barr virus .
+Mol .
+Cell .
+Biol. , 5 , 410-413 .
+Tomkinson , B. , Robertson , E .
+and Kieff , E .
+( 1993 ) Epstein-Barr virus nuclear proteins EBNA-3A and EBNA-3C are essential for B-lymphocyte growth transformation .
+J .
+Virol. , 67 , 2014-2025 .
+Wang , D. , Licbowitz , D .
+and Kieff , E .
+( 1985 ) An EBV membrane protein expressed in immortalized lymphocytes transforms established rodent cells .
+Cell , 43 , 831-840 .
+Wang , F. , Gregory , C. , Sample , C. , Rowe , M. , Liecbowitz , D. , Murray , R. , Rickinson , A .
+and Kieff , E .
+( 1990 ) Epstein-Barr virus latent membrane protein ( LMP1 ) and nuclear proteins 2 and 3C are effectors of phenotypic changes in B lymphocytes : EBNA-2 and LMP1 cooperatively induce CD23 .
+J .
+Virol. , 64 , 2309-2318 .
+Westwick , J.K. , Cox , A.D. , Der , C.J. , Cobb , M.H. , Hibi , M. , Karin , M .
+and Brenner , D.A .
+( 1994 ) Oncogenic Ras activates c-Jun via a separate pathway from the activation of extracellular signal-regulated kinases .
+Proc .
+Natl Acad .
+Sci .
+USA , 91 , 6030-6034 .
+Xia , Z. , Dickens , M. , Raingeaud , J. , Davis , R.J .
+and Greenberg , M.E .
+( 1995 ) Opposing effects of ERK and JNK-p38 MAP kinases on apoptosis .
+Science , 270 , 1326-1331 .
+Yan , M. , Dai , T. , Deak , J.C. , Kyriakis , J.M. , Zon , L.I. , Woodgett , J.R .
+and Templeton , D.J .
+( 1994 ) Activation of stress-activated protein kinase by MEKK1 phosphorylation of its activator SEK1 .
+Nature , 372 , 798-800 .
+Zimber-Strobl , U. , Kempkes , B. , Marschall , G. , Zeidler , R. , Van Kooten , C. , Banchereau , J. , Bormkamm , G.W .
+and Hammerschmidt , W .
+( 1996 ) Epstein-Barr virus latent membrane protein ( LMP1 ) is not sufficient to maintain proliferation of B-cells but both it and activated CD40 can prolong their survival .
+EMBO J. , 15 , 7070-7078 .
+Zimber-Strobl , U. , - Strobl , L.J. , Meitinger , C. , Hinrichs , R. , - Sakai , T. , Furukawa , T. , Honjo , T .
+and Bornkamm , G .
+W. ( 1994 ) Epstein-Barr virus nuclear antigen 2 exerts its transactivating function through interaction with recombination signal binding protein RBP-J kappa , the homologue of Drosophila Suppressor of Hairless .
+EMBO J. , 13 , 4973-4982 .
+Received on July 16 , 1997 ; revised on August 13 , 1997 LMP-1 induces AP-1 via JNK 6485

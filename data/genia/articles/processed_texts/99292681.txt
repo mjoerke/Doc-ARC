@@ -1,0 +1,1005 @@
+Direct interaction of hematopoietic transcription factors PU.1 and GATA-1 : functional antagonism in erythroid cells Natasha Rekhtman , ' Farshid Radparvar , ' Todd Evans , `` and Arthur I. Skoultchi'* Departments of 'Cell Biology and *Developmental and Molecular Biology , Albert Einstein College of Medicine , Bronx , New York 10461 USA Malignant transformation usually inhibits terminal cell differentiation but the precise mechanisms involved are not understood .
+PU.1 is a hematopoietic-specific Ets family transcription factor that is required for development of some lymphoid and myeloid lineages .
+PU.1 can also act as an oncoprotein as activation of its expression in erythroid precursors by proviral insertion or transgenesis causes erythroleukemias in mice .
+Restoration of terminal differentiation in the mouse erythroleukemia ( MEL ) cells requires a decline in the level of PU.1 , indicating that PU.1 can block erythroid differentiation .
+Here we investigate the mechanism by which PU.1 interferes with erythroid differentiation .
+We find that PU.1 interacts directly with GATA-1 , a zinc finger transcription factor required for erythroid differentiation .
+Interaction between PU.1 and GATA-1 requires intact DNA-binding domains in both proteins .
+PU.1 represses GATA-1-mediated transcriptional activation .
+Both the DNA binding and transactivation domains of PU.1 are required for repression and both domains are also needed to block terminal differentiation in MEL cells .
+We also show that ectopic expression of PU.1 in Xenopus embryos is sufficient to block erythropoiesis during normal development .
+Furthermore , introduction of exogenous GATA-1 in both MEL cells and Xenopus embryos and explants relieves the block to erythroid differentiation imposed by PU.1 .
+Our results indicate that the stoichiometry of directly interacting but opposing transcription factors may be a crucial determinant governing processes of normal differentiation and malignant transformation .
+[ Key Words : PU.1 ; GATA-1 ; erythropoiesis ; murine erythroleukemia ; differentiation ] Received January 25 , 1999 ; revised version accepted April 19 , 1999 .
+The hallmark features of many cancers include both a loss of normal proliferation controls and a block to differentiation ( Hunter 1997 ) .
+The study of oncogenic viruses and the genetic lesions present in animal and human cancers has led to the identification of oncoproteins and tumor suppressor proteins and an increasingly deep understanding of how these proteins regulate cell prolif-eration .
+On the other hand , we know less about how malignant transformation affects the genes and gene products that regulate cell differentiation .
+Very fre-quently , leukemogenesis in humans and mice is associated with alterations in the structure or regulation of transcription factors that participate in normal blood cell development ( Look 1997 ; Tenen et al .
+1997 ) .
+Such events often exhibit a very high degree of specificity for a particular hematopoietic lineage and stage of differentiation , but the molecular mechanisms leading to specific differentiation blockades are not understood .
+Friend virus-induced erythroleukemias of mice have served as an important model for studying the multistep *Corresponding author .
+E-MAIL skoultch @ aecom.yu.edu ; FAX ( 718 ) 430-8574. process of leukemia development ( Ben-David and Bernstein 1991 ) .
+Likewise the in vitro terminal differentiation that can be induced in the permanent murine erythroleukemia { ( MEL ) cell lines established from such mice ( Marks et al .
+1987 ) has stimulated interest in approaches to cancer therapy based on forced differentiation of tumor cells .
+Friend virus consists of a complex of two ret-roviruses : the replication-defective spleen-focus-forming virus { SFFV ) and a replication-competent , helper Friend murine leukemia virus ( F-MuLV ) .
+There are at least three events that contribute to generation of malignant erythroid cells in Friend virus-infected mice ( for review , see Ben-David and Bernstein 1991 ) .
+The early stage of the disease is characterized by polyclonal proliferation of nonleukemic erythroid progenitors caused by interaction of the SFFV-encoded 55-kd fusion glycoprotein ( gp 55 ) with the erythropoietin receptor , triggering constitu-tive activation of mitogenic signaling .
+The subsequent emergence of clonal or oligoclonal malignant cells is associated with two additional genetic events : inactivation of p53 and SFFV proviral insertions at the Spi-1 locus that encodes the PU.1 transcription factor ( Moreau Gachelin et al .
+1988 ; Paul et al .
+1989 ; Goebl 1990 ) .
+Inte- 1398 GENES & DEVELOPMENT 13:1398-1411 © 1999 by Cold Spring Harbor Laboratory Press ISSN 0890-9369/99 $ 5.00 ; www.genesdev.org gration of SFFV does not disrupt PU.1 gene expression ; rather it is thought to activate or deregulate PU.1 synthesis in erythroid precursors ( Moreau-Gachelin et al .
+1989 ) .
+Proof that PU.1 plays a causative role in erythro-leukemogenesis came from the observation that transgenic mice expressing PU.1 in erythroid cells develop erythroleukemias at a high rate ( Moreau-Gachelin et al .
+1996 ) .
+Its role in transformation of erythroid cells is further supported by finding that a PU.l-encoding retrovi-rus can immortalize erythroblasts efficiently from infected long-term bone marrow cultures ( Schuetze et al .
+1993 ) .
+PU.1 is a member of the Ets family of transcription factors .
+Interestingly , two other ets family genes , fli-1 and v-ets have also been implicated in erythroleu-kemic transformation ( Ben-David and Bernstein 1991 ) .
+PU.1 is expressed specifically in hematopoietic tis-sues , with high levels of expression in cells of the mono-cytic , granulocytic and B lymphoid lineages ( Galson et al .
+1993 ; Hromas et al .
+1993 ) .
+A large number of presumptive PU.1 target genes have been identified ( Fisher and Scott 1998 ) .
+Many of these genes are expressed in myeloid and B cells , including some that are thought to have important roles in differentiation and survival of cells within these lineages .
+Consistent with this view , inactivation of the PU.1 gene in mice causes defects in the development of multiple hematopoietic lineages , including B and T lymphocytes , monocytes , and granulo-cytes [ Scott et al .
+1994 ; McKercher et al .
+1996 ) .
+PU.1 probably plays important roles at several stages of the differentiation process , and there is evidence that it is active at an early stage , mediating commitment of multipotent progenitors to the myeloid lineage ( Nerlov and Graf 1998 ) .
+However , PU.1 does not appear to be needed for production of megakaryocytes or erythrocytes .
+The in vitro differentiation that can be induced in permanent MEL cell lines established from Friend virus-infected mice provides an opportunity to analyze events occurring when the leukemic phenotype is reversed and the cells reenter their erythroid differentiation program ( Marks et al .
+1987 ) .
+MEL cells are transformed erythroid precursors that are blocked at about the proerythroblast stage of differentiation .
+Treatment of the cells with a variety of agents causes them to undergo differentiation over several days and culminates in terminal cell division and accumulation of hemoglobin and other eryth-rocyte-specific proteins .
+One of the early events occurring during this process is a marked decline in levels of PU.1 { Schuetze et al .
+1992 ; Galson et al .
+1993 ; Rao et al .
+1997 ) , suggesting that high levels of PU.1 may block erythroid differentiation .
+By transfecting MEL cells with expression vectors encoding PU.1 we ( Rao et al .
+1997 ) and other investigators [ Yamada et al .
+1997 ) have shown that PU.1 can indeed block erythroid differentiation of MEL cells .
+The effect of PU.1 on erythroid differentiation was also seen in other cell culture models { Quang et al .
+1995 ; Delgado et al .
+1998 ) .
+An intriguing aspect of the block to differentiation in MEL cells is the fact that the cells contain substantial amounts of several transcription factors that are involved in erythroid differentiation , including GATA-1 , a zinc finger protein that is essential for eryth- Interaction of PU.1 and GATA-1 ropoiesis and expression of most erythroid-specific genes ( Shivdasasani and Orkin 1996 ) .
+We show here that PU.1 binds directly to GATA-1 and specifically inhibits its ability to activate transcription of reporter genes .
+Moreover we show that the stoichiometry of PU.l1 and GATA-1 affects erythroid differentiation capacity in MEL cells and Xenopus embryos and explants .
+We propose that PU.1 blocks differentiation in erythroleukemia cells and contributes to leukemogenesis by binding to and inhibiting the ability of GATA-1 to promote terminal erythroid differentiation .
+We also discuss the possibility that the opposing actions of PU.1 and GATA-1 or other GATA factors contributes to lineage determination during normal hematopoiesis .
+Results PU.1 and GATA-1 interact in vitro and in vivo As mentioned above , several transcription factors known to be involved in erythroid differentiation are present in MEL cells .
+These factors include GATA-1 ( Tsai et al .
+1989 ; Leonard et al .
+1993 ) , erythroid Kriippel-like factor { [ EKLF ; Miller and Bieker 1993 ) , p45 NF-E2 ( Lu et al .
+1994 ) , and Friend of GATA-1 { [ FOG ; Tsang et al .
+1997 ) .
+Restoration of terminal differentiation in MEL cells requires a large decrease in the amount of PU.1 .
+Therefore , we wondered whether PU.1 might interact directly with one or more of these transcription factors and inhibit their activities in promoting differentiation .
+We examined potential in vitro interactions between PU.1 and these factors by using GST-PU.1 immobilized on glutathione-Sepharose beads and in vitro synthesized 5°S-labeled proteins .
+About 15 % of input GATA-1l bound to GST-PU.1 , whereas GATA-1 did not bind to immobilized GST { Fig .
+1A ) .
+On the other hand , very little EKLF was bound to GST-PU.1 and binding of p45 NF-E2 or FOG to GST-PU.1 was not detected ( Fig .
+1A ) .
+A strong interaction was also evident when GST-GATA-1 and °°S-labeled PU.1 were used , whereas PU.1 did not bind to GST nor to another GST fusion protein , GST-GUK ( see Fig .
+3A ) .
+The in vitro interaction of PU.1 and GATA-1 occurs even in the presence of 1 % NP-40 ( { not shown ) .
+Because the °°S-labeled proteins used in binding reactions were synthesized in rabbit reticulocyte lysates we sought to determine whether the PU.1-GATA-1 interaction is direct or dependent on a bridging molecule that might be present in the lysate .
+Interaction is direct because PU.1-GATA-1 complexes were formed using both molecules purified from bacteria ( Fig.1B ) .
+Furthermore , formation of PU.1-GATA-1 complexes was unaffected by ethidium bromide , indicating that the interaction is not mediated by contaminating DNA ( Fig .
+1C ) .
+To test whether PU.1 and GATA-1 complexes form in vivo , we transfected expression vectors encoding PU.1 and GATA-1 into 293 cells and analyzed nuclear extracts for PU.1-GATA-1 complexes by immunoprecipitating with an anti-GATA-1 antibody and immunoblotting for PU.1 .
+PU.1-GATA-1 complexes were detected in the transfected cell extracts and the presence of PU.1 in the GENES & DEVELOPMENT 1399 Rekhtman et al .
+A ___ _GATAL EKLE p45 NF-E2 FOG 1 3 1 3 1° 5s no 3 2 5. eal a .
+D = `` - c. B C A S A ~ S B 2 Eo Boos Eo Bee =- bo Ao Bog m t 2 m m 2 t wm 2 mo te | 9 9 2 p 9 2 o u 2 9 9 2 a ~a HHB ac .
+< Ws B PU.1 GATA-I C pl GATA-1 4 l_ a e 5 8 .
+OE - 3 Ce e & R , .
+5 Eo B s bob org Eo B mG oe w u i > w w ir w u u > ace 0 $ S4 ? }
+@ a - : -- - q < Western 0 .
+PU.1 Western 0 .
+GATA-1 Figure 1 .
+PU.1 and GATA-1 interact in vitro .
+( A ) °°S-Labeled proteins , indicated above each panel , were prepared and tested for binding to GST or GST-PU.1 by a 'pull-down ' assay using proteins immobilized on glutathione-Sepharose beads as described in Materials and Methods .
+Bound proteins were released and analyzed by SDS-PAGE and autoradiography .
+An autora-diogram of 10 % of each °°S-labeled protein added to the binding reactions is shown in each panel { 10 % input ) .
+Arrowheads indicate the position of the S-labeled proteins on the gel .
+{ B ] PU.1 or GATA-1 , as indicated above each panel , were prepared from the respective GST fusion proteins by thrombin cleavage as described in Materials and methods .
+The purified proteins were tested for binding to GST , GST-GATA-1 or GST-PU.1 by a pull-down assay .
+Bound proteins were analyzed by SDS-PAGE and immunoblotting with the indicated antibodies .
+An immunoblot of 25 % of the purified PU.1 or GATA-1 added to the binding reactions is shown in each panel { 25 % Input ) .
+{ C ) As in A except that where indicated 100 ug/ml of ethidium bromide { EtBr ] was added to the reaction .
+anti-GATA-1 immunoprecipitate was dependent on co-transfection of both expression vectors ( Fig .
+2A ) .
+MEL cell extracts were also analyzed by coimmunoprecipita-tion experiments , using both anti-GATA-1 and anti-PU.1 antibodies to determine whether endogenous PU.1 and GATA-1 are associated in these cells .
+PU.1-GATA-1 complexes were readily detected in MEL cell nuclear extracts using either antibody , whereas the association was not seen when control antibodies were used { Fig .
+2B ) .
+We estimate that a large fraction of GATA-1 is bound to PU.1 in the tumor cells , suggesting that the interaction may be important in the PU.1-mediated block to differentiation of the cells .
+PU.1 targets the zinc finger region of GATA-1 To define the regions within PU.1 and GATA-1 that are required for interaction of the two proteins , we tested a set of deletion mutants of each protein for their abilities to interact in vitro .
+Structure-function studies of both proteins have delineated specific regions or domains that contribute to their functions as transcription factors as well as their interactions with other proteins .
+1400 GENES & DEVELOPMENT GATA-1 binding to DNA is mediated by a domain comprised of two zinc fingers .
+The carboxy-terminal finger is absolutely required for DNA binding , whereas the amino-terminal finger is thought to stabilize binding ( Martin and Orkin 1990 ) .
+Both fingers have been found to interact with other proteins ( Tsang et al .
+1997 and references therein } .
+Transfection assays have defined several regions of GATA-1 contributing to transcriptional trans-activation , the most potent of which lies near the amino-terminal end of the protein ( Martin and Orkin 1990 ) .
+We found that the finger region was both necessary and sufficient for interaction with PU.1 ( Fig .
+3A , B ) .
+Deletion of the region encoding both fingers of GATA-1 abolished completely the interaction , and a GST fusion protein comprising only the finger region of GATA-1 bound PU.1 quite well .
+Other regions in GATA-1 may also contribute to the interaction as the extent of binding of PU.1 to the GST fingers fusion protein was less than to full-length GST-GATA-1 .
+Within the GATA-1 finger region both the amino-terminal finger and the carboxy-terminal finger appear to contribute to binding to PU.l1 as GATA-1 proteins containing a deletion of either finger or a substitution of two cysteines that disrupt the carboxyl finger ( disrC ) bind less well to PU.1 than full-length GATA-1 [ Fig .
+3A ) .
+The contribution of both GATA-1 fingers to binding to PU.1 was confirmed by coimmunopre-cipitaion experiments in transfected 293 cells .
+Consistent with the in vitro results , deletion of both fingers abolished the interaction , whereas GATA-l1 proteins that are deleted for either finger bind PU.1 in vivo but with an apparent reduced affinity ( Fig .
+2C ) .
+Furthermore , a GATA-1 fragment comprising only the carboxy-terminal finger is able to bind to GST-PU.1 [ Fig .
+3A ) .
+DNA binding by PU.1 is directed by the carboxy-terminal ets homology region ( Klemsz et al .
+1990 ) .
+In addition to an intact DNA-binding domain , transactivation of reporter constructs containing PU.1-binding sites requires an amino-terminal region consisting of acidic and glutamine-rich subdomains ( Klemsz and Maki 1996 and references therein } .
+There is also a central region rich in proline , glutamic acid , serine , and threonine { ( PEST ) residues ( Moreau-Gachelin 1994 ) .
+Certain interactions of PU.1 with other proteins are mediated by the transactivation domain ( Hagemeir et al .
+1993 } , whereas other interactions occur with the Ets domain ( Nagulapalli et al .
+1995 ; Petrovick et al .
+1998 ) .
+Deletion of the PEST region or deletions encompassing portions of the amino-terminal transactivation domain had no significant effect on PU.1-GATA-1 interaction in vitro [ Fig .
+3C , D ) .
+These deletions also did not affect interaction of PU.l1 and GATA-1 in vivo { Fig .
+2D ) .
+In contrast , deletion of the carboxy-terminal region of the DNA-binding domain of PU.1 abolished completely its interaction with GATA-1 ( Fig .
+3C ) .
+Thus , the two proteins appear to interact through their respective DNA-binding regions .
+GATA-1 is highly related in its DNA-binding zinc finger region to GATA-2 and GATA-3 , two other GATA factors involved in hematopoiesis { Shivdasani and Orkin 1996 ) .
+The three proteins share little similarity outside of the finger region .
+We found that GATA-2 and GATA-3 Interaction of PU.1 and GATA-1 lo 3 A IP e-GATA-1 B l Transfected i T 3 GATAL +0 - 0s < E g 3 § g PUL + +0 & 9 $ £ * $ E Western 6027 Weste PoP _T Weste $ o 040 T c estern wa _ estern Wei - lee c-PU.1 wee a ‘ o-PU.1 .
+< c-GATA-1 ~a= « -GATAI §§ eee _ ) 45 - o-GATA-L Q « tule __ - > o-PU.1 q- ye C IP e-GATA-1 Input D IP IP IP Toos 7oog c-GATA-1 c-GATA-1 c-GATA-1 Transfected ﬁ 3 ﬁ & Transfected _ _ _ GATA-l-construct | < & Z Y < E z y GATAL - + 2 co to oc t £ 0 < 4 < 4 4 | 09 < 4 < 4 < - PU.-construct + + 5 + £ A £ + a PU.1 to t + + f +o + + + + 1 1 1 1 1 1 1 1 a Westen « e - * Westen * a-PU1 ~- Seema .
+# -s us ~ o-PU.1 -- « n « cara ** 8 ap- `` 0 ap -~ aB ae = PU.1 PU .
+1-ATAD PU .
+1-APEST « on qe go re me an « ane .
+tts ~ & -—.——— < ~= ) ' Figure 2 .
+PU.1 and GATA-1 interact in vivo .
+{ A ] Nuclear extracts from 293 cells transfected with expression vectors encoding either PU.1 or both PU.1 and GATA-1 were prepared and immunopreciptated with an anti-GATA-1 antibody as described in Materials and Methods .
+Immunoprecipitates were analyzed by SDS-PAGE and immunoblotting with the indicated antibodies .
+An immunoblot of 15 % of the amount of extract that was immunoprecipitated is shown { Input ) .
+Arrowheads indicate the positions of the immunode-tected proteins .
+The asterisked { * ] arrowhead indicates the position of Ig chains , which are used in immunoprecipitation .
+{ B ) Nuclear extracts of MEL cells were prepared and immunoprecipitated with either anti-GATA-1 { a-GATA-1 ) and anti-p16 { a « -control ) antibodies or anti-PU.1 { a-PU.1 ) and anti-cyclin E { « -control ) antibodies as described in Materials and Methods .
+Input lanes are shown as in A , except that 3 % of the extract was analyzed for the immunoprecipitation of PU.1 and Western of PU.1 lane .
+Analysis of immunoprecipitates and other details were as in A .
+{ C , D ) Analysis of the effect of mutations in GATA-1 { C ) and PU.1 { D ) on the GATA-I-PU.1 interaction in vivo .
+Whole cell extracts from 293 cells transfected with expression vectors encoding the indicated GATA-1 and PU.1 proteins { see Fig .
+3B , D ) were immunoprecipitated and analyzed as in A .
+Input lanes are shown as in A. bound well to GST-PU.1 , with in vitro affinities approxi- activation .
+To test this possibility we performed cotrans-mately the same as that of GATA-1 [ Fig .
+3E ) .
+fection assays in NIH-3T3 cells and Hela cells with PU.1 is a member of the Ets family of transcription three different reporter constructs containing either syn- factors .
+The most closely related Ets protein is Spi-B , a B thetic ( Mla , Fig .
+4A , B and « D3 ; Fig .
+4C ) or natural ( p45 cell-specific factor .
+Spi-B is most similar to PU.1 in the NF-E2 ; Fig .
+4D ) GATA-1-dependent promoters .
+The p45 Ets domain ; the two proteins are much less similar in NF-EZ2 promoter requires the synergistic action of other regions ( Ray et al .
+1992 ) .
+Fli-1 is related more dis- GATA-1 and FOG as a cofactor ( Tsang et al .
+1997 ) .
+Co-tantly to PU.1 , but like PU.1 it has been implicated in expression of PU.1 along with GATA-1 led to a marked mouse erythroleukemia ( Ben-David et al .
+1991 ) .
+Both Ets reduction in GATA-l-mediated transactivation of all proteins bound to GST-GATA-1 , although the interac- three reporters .
+Inhibition by PU.1 was dose dependent .
+tion was much weaker than with PU.1 ( Fig .
+3F ) .
+The With the natural p45 NF-EZ2 promoter , the largest weak interaction of Spi-B with GATA-1 points to a high amount of PU.1 expression plasmid used led to a reduc-degree of specificity in the interaction between PU.1 and tion in the stimulation by GATA-1 plus FOG to the GATA-1 .
+The observed interactions of GATA and Ets basal activitiy of the promoter ( Fig .
+4D } .
+The effect of family members with PU.1 and GATA-1 , respectively , PU.1 is specific for GATA-1-mediated transactivation as are consistent with the mapping of the interaction sites coexpression of PU.1 did not affect another reporter that on PU.1 and GATA-1 to their respective DNA-binding is activated by a GAL4-Spl fusion protein { Fig .
+4E ) ; PU.1 regions .
+The significance of such interactions remains to also did not affect the basal activity of each reporter .
+be determined ( see Discussion } .
+Furthermore , inhibition was not seen in cotransfections with the PU.l1 cDNA in the antisense configuration ( PU.1-AS ; Fig .
+4A ) .
+Immunoblotting of extracts from PU.1 inhibits GATA-1-dependent transcriptional transfected cells showed that coexpression of PU.1 did activity not reduce the level of GATA-1 protein produced in the On the basis of the well-established function of GATA-1 transfected cells [ Fig .
+4A , C insets ) .
+Coexpression of the as a transcription factor that promotes expression of carboxy-terminally deleted PU.1 protein that does not many erythroid-expressed genes { Shivdasani and Orkin interact with GATA-1 failed to inhibit GATA-l-medi-1996 ) , and our earlier finding that PU.1 can inhibit MEL ated transactivation .
+Deletion of the PU.1 PEST region , cell erythroid differentiation ( Rao et al .
+1997 ) , the obser- which does not affect interaction with GATA-1 , also vation that PU.1 and GATA-1 interact could suggest that does not affect the ability of PU.1 to repress GATA-1-PU.1 is able to inhibit GATA-1-mediated transcriptional mediated transactivation .
+Interestingly , deletion of a GENES & DEVELOPMENT 1401 Rekhtman et al .
+A PU.1 B ﬁ .
+4 ; Zn~ﬁn Ets va g 408 3 GATAMI Aﬁngiis AN ‘ M AC “ dlSIC~ 10 % Input Cling ?
+_ \ 31—15 ?
+ans 2 3 & B z y & 3 3 3 3 So vor 3 3 - GaTa-1 9 Q g f Td a { & & & a ee t & 5 _ aAfingers Al-5 5 § oR & & & $ & & & & & & & & & & 445k , % & & & ; HZ 33 8 38 § & S & : s S $ S8 S8 S S S 8 S S S $ 9 44 % 4 S $ S f fingers = oY YoY ¥ 0 90 Y 9 Fo Y YoY Y Y o Y Y Y % POG P 40 % 7 200 - 248 AN ltte _ _ ho AC 249 290 - -- -g - = -- kaw = =-C orr omer -3 i C finger 229 333 C PU.1 APEST _ADBD _ATAD ANP ANS D : : p p 7 p 5 a E & E E 10 % Input ___ -TAD-PEST-DBD-L ?
+L ?
+C “ .- Q t ?
+( I : E ; - 2a n PUlcllzzl : [ _2T % hoR E Bo R BR Eb BoR h B B 2 a @ < & z 118 _ 160 = 4 % a % a % 92 m ~ a a 3 & A o $ $ $ $ $ 8 $ $ $ $ $ $ 2 3 2 4 1 : APRN CO ap C ADBD ao -- -- -r -- nifg mae QTADn-E ?
+8.021-_ cames faw ﬂNPDéIS F ‘ s : -C s= `` °C withs mt cam -- ANS aB E- rmmmr E PU.1 Fli-1 Spi-B GATA_—_1 GATA-E GATA-3 20 % Input ﬁ [ < 5 ﬁ 5 5 a n < < < 10 % Input 2 _ 2 _ R i 1 f $ _ $ 0 _ $ < `` L-5 5 3 5 5 & 4 4 & & § & & § § 5 Z @ o G 5 G6 G G6 S0 G o 5 0 0 6 5 0 K E a + 1 + 1 1 1 1 U U U U U U U U 1 a 1 wate we .- `` He wam Suite wam « wigs Figure 3 .
+The PU.1-GATA-1 interaction is mediated by the zinc finger region of GATA-1 and the Ets region of PU.1 .
+Binding of PU.1 to wild-type and mutant GST-GATA-1 fusion proteins { A , left } , or *°S-labeled wild-type and mutant GATA-1 proteins to GST-PU.1 { A , middle and far right } , or *S-labeled wild-type and mutant PU.1 proteins to GST-GATA-1 { C ) was tested as described in Fig.1 .
+GST-GUK is a GST fusion protein of the human LINZA guanylate kinase .
+{ B , D ) Schematic diagram of the mutant proteins used for the binding studies in A and C , respectively .
+The positions of amino acid residues at the termini of regions present in the mutant proteins are shown above the diagrams .
+[ TAD ] transactivation domain ; { PEST ) region rich in PEST residues ; { DBD ) DNA-binding domain .
+Binding of **S-labeled GATA-1 , GATA-2 , and GATA-3 to GST or GST-PU.1 { E ) or *°S-labeled PU.1 , Fli-1 , and Spi-B to GST or GST-GATA-1 { F ) was tested as described in Fig .
+1. portion of the PU.1 amino-terminal transactivation domain resulted in a loss in the ability to repress GATA-1-mediated transactivation .
+In fact , we observed a con-sistent , approximately twofold stimulation of GATA-1-mediated transactivation when this PU.1 mutant was coexpressed with GATA-1 ( Fig .
+4B , C ) .
+The mutant PU.1 proteins were produced at levels comparable to or greater than that of full-length PU.1 as determined by anti-HA immunoblotting of HA-tagged proteins ( Fig .
+4B inset ) .
+Furthermore , like wild-type PU.1 , the three types of mutant PU.1 molecules are able to localize in the nucleus , as determined by immunoblotting of nuclear and cyto-plasmic extracts of transfected cells ( { not shown ) .
+Thus , repression of GATA-1 by PU.1 requires both the carboxy-terminal DNA-binding region and the amino-terminal transactivation domain of PU.1 .
+Both the DNA-binding and transactivation domains of PU.1 are required for blocking erythroid differentiation Treatment of MEL cells with several chemical agents 1402 GENES & DEVELOPMENT that cause the cells to reinitiate terminal erythroid differentiation leads to a very rapid decline in PU.1 levels .
+Previously , we showed that transfection of the cells with an expression construct that constitutively produces PU.1 , even in the presence of differentiation inducers , causes a block to differentiation ( Rao et al .
+1997 ) .
+Having determined that the interaction between PU.1 and GATA-1 requires an intact PU.1 DNA-binding domain , and that repression of GATA-1 requires both that domain and the transactivation domain , we sought to determine whether these regions of PU.1 are also needed for its ability to block MEL cell differentiation .
+We prepared stable MEL cell transfectants expressing either an epitope-tagged ( HA ) PU.1 protein or tagged , mutant PU.1 proteins containing deletions in the DNA-binding domain or the transactivation domain .
+Stable MEL cell transfectants expressing wild-type and mutant proteins were identified by immunoblotting with an anti-HA antibody ( Fig .
+5 ) .
+Transfectants expressing amounts of the mutant proteins similar to or greater than that of wild-type PU.1 were then tested for their ability to undergo differentiation and form benzidine-positive , hemoglo- Interaction of PU.1 and GATA-1 M1c-GH B _. M1c-GH 45 .
+___ CGATA-1 aan aaa aat - Mi6 ~ a 005 | 6 190.6 7 175.7 165.7 Fold Activation g g 24.8 a € o in £ to # 99 $ + -e ; .
+* LTT G TGT 4C s [ « T | T 150ng GATA-1 * | + ] +1 ] + | + | + PU .
+1 ] ___| 180 | 180 90 | 4 _ `` h -- AS | | PU.1-AS } PU .
+1-AS [ __| 180 180 90 | 30 eu abed -/ -| & g ) 0 PU.1-ATAD | I -- _ 1180 ; _| PU.1-APEST 180 ] sao cD3-LUC D p45-GH E 1 14 r -- -__ 20r -- -- uss | mas 12,30 17 | sao cGaTa-1 @ @ an om em- * a r s 8 s 10 ut .
+ts § ao § `` } & B E I g 12 2 300 é < ‘ 3 | 3 3 : [ 2 KID ; 169.7 158.9 1982 LL : 2 8 | _ 107.1 $ 1.0 2. tan | 85.0 , § ; | a 1 os 09 i2 is 10 i j a - in 0 -y - -z -__ ___ .
+1 a a 112 | 3 | & [ s |e | 7 | s | s | a/ nl ar } is } is ] 100ng GATA- + | + .
+I 4 + 30ng GATA-1 [ + ] + | # £1¥ ] + ] + [ + 15mg FOG + |_ +1 100ne “ up ?
+11 | 180 iso | PU.1 |__1150/100 ] 50 |__ |1s0|to0 `` 50 Pu . '
+AOCS PU.1-ADBD 150 ( ( 50 ) © < = ~ PU.1-ATAD 150 | 150 PU.1-APEST ( 150 150 Figure 4 .
+PU . ]
+inhibits GATA-l-dependent transcriptional activity with synthetic and natural promoters .
+Mla-GH reporter { 15 ng ] with and without either 150 ng { A ] or 60 ng { B ) of pXM-GATA-1 were cotransfected with pEBB or the indicated amounts { nanograms } of pEBB expression constructs encoding PU.1 , reverse transcripts of PU.1 { ( AS-PU.1 } , or the indicated PU.1 mutants { see Fig .
+3D ) into NIH 3T3-cells as described in Materials and Methods .
+{ C ) « D3-LUC reporter { 15 ng ] with and without 30 ng of pXM-GATA-1 were cotransfected with pEBB or the indicated amounts of plasmids as in B into Hela cells .
+{ D ] p45 NF-EZ-GH reporter { 10 ng ) with and without 100 ng of pXM-GATA-1 and 100 ng pMT2-FOG were cotransfected with pEBB or the indicated amounts pEBB-PU.1 into NIH-3T3 cells as in A .
+{ E ) UAS-LUC reporter { 100 ng ] were cotransfected into NIH-3T3 with and without 100 ng of SP6-GAL4-Spl and 180 ng of pEBB-PU.1 .
+The levels of growth hormone { A,8 , D } or luciferase activity { C , E ] were determined 48 hr after transfection as described in Materials and Methods .
+{ Insets in A , B , C ) The immunoblots with anti-GATA-1 antibody ( A , C ) and anti-HA antibody ( B ) of cell extracts corresponding to the indicated transfected samples .
+Arrowheads indicate the positions of GATA-1 and HA-tagged full-length and mutant PU.1 proteins ; the asterisked { * ] arrowhead indicates a nonspecific band detected with anti-HA antibody in 293 extracts .
+Numbers represent the average of at least two independent transfections .
+Error bars represent the s.E.m.. Each type of experiment was performed between three and seven times with two or three different DNA preparations and produced similar results .
+binized cells in response to hexamethylene bisacetamide tagged PU.1 were used as controls ; these control trans- ( HMBA ) , an inducer of differentiation .
+Transfectants fectants differentiated well .
+Transfectants expressing that did not express any detectable wild-type or mutant- wild-type PU.1 were blocked completely for differentia- tion , whereas clones expressing the mutant proteins were fully capable of differentiating ( Table 1 } .
+On the other hand , deletion of the PEST region did not affect the aap __ ability of PU.1 to block MEL cell differentiation ( F. Rad- .
+w- /a wae sae .. parvar and AI .
+Skoultchi , unpubl . )
+.
+These results indi- `` w cate that both regions of PU.1 required for repressing GATA-l-mediated transcription are also necessary for the activity of PU.1 in blocking differentiation .
+, PU .
+1-HA , rPU.1-¢\DBD » HA PU.1-ATAD-HA MEL Clone _ 51 64 49 51 40 41 Figure 5 .
+Detection of wild-type and mutant epitope-tagged PU.1 proteins in MEL cell transfectants .
+MEL cells were transfected with expression constructs encoding both resistance to puromycin and an influenza hemagglutinin ( HA ) -epitope tagged wild-type or mutant PU.1 proteins as described in Materials and GATA-1 relieves a block to erythroid differentiation Methods .
+Puromycin resistant clones were isolated and imposed by PU.1 screened for expression of PU.1 proteins by immunoblotting of cell extracts with anti-HA antibody .
+The levels of PU.1 proteins { arrowhead ) in two representative clones of each type of PU.1 As mentioned above , during chemically induced reini-tiation of MEL cell differentiation PU.1 levels decline transfectant are shown .
+PU.1-ADBD-HA is deleted for residues rapidly .
+W ?
+described previously ( Rao et al .
+1997 ) and in 201-272 and PU.1-ATAD-HA is deleted for residues 33-100 the preceding section , MEL cell transfectants that ex- { see Fig .
+3D } .
+press PU.1 constitutively even in the presence of differ GENES & DEVELOPMENT 1403 Rekhtman et al .
+Table 1 .
+Response of MEL cell transfectants to HMBA treatment Percent benzidine-positive cells `` Clone* day 3 day 5 PU.1-HA expressors 35 0 0 39 0 0 51 0 2 64 0 1 PU.1-HA nonexpressors 12 74 100 15 74 93 PU.1-ADBD-HA expressors 29 90 91 44 76 90 49 95 N.D. 51 74 90 PU.1-ADBD-HA nonexpressors 25 90 92 43 62 90 PU.1-ATAD-HA expressors 37 91 N.D. 40 93 100 41 92 100 50 81 N.D. PU.1-ATAD-HA nonexpressors 54 100 N.D. 60 95 N.D. MEL 84 93 { N.D. ) Not determined .
+`` Expression levels of wild-type and mutant PU.1 proteins in representative transfectants are shown in Fig .
+5 .
+Clones indicated as nonexpressors did not produce any detectable epitope-tagged protein on immunoblots like that shown in Fig .
+5 .
+Similar results were obtained with 6-10 additional clones in each transfection .
+`` Cells were treated with 5 mm HMBA for the indicated times , and the percent hemoglobinized , benzidine-positive cells was determined as described in Materials and Methods .
+entiation inducers .
+These cells are blocked from differentiating in response to inducers , attributable to the presence of exogenous PU.1 .
+We wondered whether the differentiation block specifically imposed by PU.l1 in these transfectants could be relieved by providing the cells with additional GATA-1 .
+We transfected one such PU.1-transfectant [ PU.1 clone 605 ; Rao et al .
+1997 ) a second time with a construct expressing a conditionally active form of GATA-1 , achieved by fusing GATA-1 coding sequences to the ligand-binding domain of the human estrogen receptor { ER ) .
+The GATA-1/ER fusion protein is activated for GATA-1 dependent transcription in the presence of estrogen { Tsang et al .
+1997 ) .
+Supertransfectants of the clone 605 expressing the GATA-1/ER fusion protein were identified by immunoblotting .
+These transfectants were studied for their ability to differentiate in response to various treatments .
+Like the parental clone 605 cells , the supertransfectants exhibited a block to dif- 1404 GENES & DEVELOPMENT ferentiation in response to HMBA , producing < 10 % benzidine-positive , hemoglobinized cells when cultured for 5 days in HMBA ( Fig .
+6A-C ) .
+However , when these cells were treated with HMBA in the presence of estrogen they produced large numbers of differentiated cells , whereas the combination of HMBA and estrogen did not increase the percentage of differentiated cells in the parental clone 605 line above that observed with HMBA alone .
+The capacity of the 605 line to differentiate in response to HMBA was restored by GATA-1/ER in the presence of estrogen to levels comparable to individual clones of MEL cells .
+Moreover , we found that the presence of GATA-1 /ER in these cells rendered them able to differentiate with estrogen treatment alone , without the need for HMBA [ Fig .
+6B , C ) .
+Thus , relief of the block to differentiation in the erythroleukemia cells appears to require only sufficient levels of active GATA-1 .
+We hypothesize that the combination of HMBA and estrogen may induce more of the cells to differentiate than estrogen alone because HMBA may cause a reduction in expression of the endogenous PU.1 gene , effectively increasing the amount of active GATA-1 .
+Whereas treatment of the clone 605 line with HMBA and estrogen led to only minimal accumulation of globin mRNA , differentiation induced in the GATA-1/ER supertransfected lines by HMBA plus estrogen led to a marked increase in globin mRNA levels ( Fig .
+6D ) , comparable to that induced in MEL cells by HMBA and other agents .
+An important aspect of the differentiation program induced in MEL cells by HMBA and other treatments is that , in addition to expression of many erythroid-specific markers , the cells undergo terminal cell division ( Marks et al .
+1987 ) .
+This property can be studied by observing the proliferation of individual cells in semisolid media such as in plasma clots .
+Cells undergoing differentiation exhibit limited proliferative capacity and give rise to small colonies consisting of a maximum of 32-64 cells , whereas undifferentiated cells proliferate extensively and produce very large colonies consisting of hundreds or thousands of cells .
+Previously , we showed that PU.1 blocks HMBA-induced terminal cell division ( Rao et al .
+1997 ) , allowing PU.1 transfectants like clone 605 to form large colonies in plasma clots after HMBA treatment ( Fig .
+6E ) .
+We tested the proliferation of GATA-1/ER transfectants treated with HMBA , estrogen , or both agents by plasma clot assays .
+As shown in Fig .
+6F treatment with estrogen alone or estrogen and HMBA caused the cells to lose their proliferative capacity and form many small colonies , whereas when treated with HMBA alone they retained their ability to divide extensively and produced only very large colonies .
+On the other hand , treatment of the 605 parental line with estrogen or estrogen and HMBA did not lead to production of many small colonies showing that the proliferation capacity of the cells is not affected by estrogen in the absence of GATA-1 /ER ( Fig .
+6E ) .
+We conclude that the differentiation program restored in the PU.l-blocked line by GATA-1/ER includes terminal cell division .
+The foregoing results suggest that the relative levels of PU.1 and GATA-1 determine whether or not the eryth- Interaction of PU.1 and GATA-1 A a B too ; clone 605 1 too clone 12 ( 605-GATA-1/ER ) __ CF “ clone 13 ( 605-GATA-1/ER ) _ a 807 / 897 45801 ry / = = cu , / § 3 4 80 / 60+ + so } mn ll MEL- » , E : :1E § A a 2 Em [ d | § ‘ “ } i345 .
+£ , £ $ a 2 I 204 20 ) -/ / l -/ o by s _ n 0 s 120 *t m as 0 no 9s o m 4s a 56 120 0 Induction Time ( br ) Induction Time ( br ) Induction Time ( hr ) D E clone 605 __ F clone 13 ( 605-GATA-1/ER ) __ Clone 12 Clone 605 s ® B-estradiol `` - + + - + A HMBA - ~ + _+ *__* é aoi // 4 m itd .
+¥ -aB-globin g so MEL ‘ 7 C m E a E wa / n R « = 40 3 - `` 3 5 5 ** an / `` & a y a 4 [ J—FM 0 x Treatment ( br ) as ( a 2 as Treatment ( hr ) Figure 6 .
+Restoration of hemoglobinization and terminal growth arrest in PU.l-transfected MEL cells by a GATA-1/ER fusion protein .
+MEL cells ( broken line } and PU.1-transfected MEL cells , clone 605 { A ] and two representative GATA-1/ER supertransfectants of clone 605 , clones 12 { B ) and 13 { C ) { solid lines } , were grown without ( # ] or with 5 mm HMBA { A ) , 5 mm HMBA with 10 'm B-estradiol { @ ) or 10 `` m B-estradiol ( MMI ) .
+At the indicated times , the percentage of hemoglobinized cells was determined by benzidine staining as described in Material and Methods .
+Similar results were obtained with four other GATA-1/ER supertransfectants .
+{ D ] Clone 605 and clone 12 were treated for 72 hr with 10 m B-estradiol , 5 mm HMBA , or both as indicated above the panel .
+B-Globin mRNA levels were determined by Northern blot hybridization of total cellular RNA with P-labeled B major globin DNA .
+The lower panel shows the ethidium bromide-stained gel before transfer .
+MEL cells { broken line } and cells of clones 605 { E ) and clone 13 { F ) { solid lines ] were cultured as in A for the indicated times and plated in plasma clots with B-estradiol as described in Materials and Methods .
+After 7 days clots were removed , fixed , and stained with hematoxylin and the percentage of colonies with < 50 cells was determined by microscopy .
+At least 200 colonies were counted for each determination .
+roleukemia cells undergo terminal differentiation .
+To determine whether this is also true during normal erythropoiesis we studied the effects of PU.1 and GATA-1 on erythropoiesis in Xenopus embryos .
+In Xenopus , blood is derived from blastomeres that contribute to ventral me-soderm , and the first erythrocytes differentiate in the 'blood island ' located along the ventral midline of 2-day-old embryos .
+The ventral blastomeres can be distinguished by the four-cell stage ; the dorsal /ventral axis is established at fertilization after cortical rotation leading to the differential localization of maternal dorsal determinants ( and pigment } that are separated physically by the second cleavage plane .
+Therefore , proteins can be expressed ectopically during blood development by injecting fertilized eggs or specific cleavage stage ventral blastomeres with mRNA or DNA expression plasmids .
+RNA encoding PU.1 was synthesized in vitro and injected into developing Xenopus embryos .
+Embryos developed normally after injecting both blastomeres of a two-cell embryo with 125 pg of reverse-strand { control } PU.1 RNA , as shown by typical benzidine staining of blood island regions in such embryos { arrow in Fig .
+7A ) .
+In contrast , injection of 125 pg of PU.1 RNA led to a substantial block in primitive erythropoiesis , as shown by a lack of benzidine staining regions , except for occasional small patches of stained cells ( Fig .
+7B ) .
+These embryos also displayed defects unrelated to hematopoiesis in the developing dorsal axis , seen first as an uneven neural plate ( not shown ) and resulting in abnormally shaped tails .
+To test whether PU.1 expressed specifically in the blood island region was responsible for the defect in erythropoiesis , PU.1 RNA or control RNAs were injected into both ventral blastomeres of four-cell embryos .
+Injection of as much as 1 ng of reverse strand PU.1 RNA into ventral blastomeres had no effect on hemoglobin production { Fig .
+7C ) .
+Embryos injected with 125 pg of PU.1 RNA displayed a lack of differentiated erythro-cytes , but appeared otherwise normal ( Fig .
+7D ) .
+An advantage of the Xenopus system is that erythropoiesis also can be analyzed by culturing embryo explants isolated from the presumptive ventral margin zone [ VMZ ) that contains the blood progenitors .
+To test whether ectopic PU.1 expression can inhibit erythropoiesis in isolated explants , 25 pg of a plasmid encoding PU.1 or the empty vector were injected into both blastomeres of two-cell embryos .
+Injected plasmids are not transcribed until the midblastula transition .
+At the beginning of gastrulation , VMZ explants containing primi- GENES & DEVELOPMENT 1405 Rekhtman et al .
+PU.1 + + + GATA- 1 + + Control + 1 2 3 4 5 , Tin Figure 7 .
+PU.1 inhibits and GATA-1 restores erythroid differentiation in Xenopus embryos and explants .
+{ ( A-D ) Shown are representative 2.5-day Xenopus embryos following benzidine staining to visualize primitive erythropoiesis in the ventral blood island region { indicated by arrows in A and C ) .
+The embryos were injected with 125 pg reverse-strand control RNA { 4 } or mRNA encoding PU.1 { B ) in both blastomeres at the two-cell stage .
+Embryos shown in C { 1 ng ) and D { 125 pg ) had been injected similarly , except that the mRNA was targeted into the two ventral blastomeres at the four-cell stage .
+{ E , F ) Globin expression in VMZ explants was analyzed by Western blotting using a monoclonal antibody to embryonic « -globin .
+{ E ) Explants were cultured for the times { in hr } indicated above the lanes .
+Lysates were derived from embryos injected into both blastomeres at the two-cell stage with 25 pg of either a control { C ) CMV expression plasmid , or the same plasmid containing the PU.1 cDNA { PU } .
+The lysate in lane WE was from an un-injected 80-hr whole embryo .
+Each sample contains proteins from six VMZ explants , derived from two independent experi-ments .
+{ F ) For each sample lysates were prepared from 10 VMZ explants isolated from embryos previously injected at the four-cell stage with RNA into both ventral blastomeres .
+Embryos were injected with various combinations of PU.1 , GATA-1 , reverse-strand PU.1 { PU.lrs ) , or a frameshift mutant form of GATA-1 that encodes a nonfunctional protein ( G1lfs ) .
+To control for any nonspecific effects of RNA injection , a total of 350 pg mRNA was injected into each blastomere , supplemented with PU.1rs or Glfs as required .
+{ Lane 1 ] 250 pg PU.1 + 100 pg CGlfs ; { lane 2 ) 250 pg PU.1 + 100 pg GATA-1 ; { lane 3 ) : 250 pg GATA-1 + 100 pg Glfs ; { lane 4 ) : 250 pg PU.1rs + 100 pg Glfs ; { lane 5 ) the same as lane 1 from an independent experiment .
+( Lower ) Coomassie Blue staining of the gel demonstrates equal loading of total protein for each lane .
+tive erythroid progenitors were isolated and allowed to develop in culture .
+At various times , explants were harvested and lysates were analyzed for globin by immunoblotting ( Fig .
+7E ) .
+By 48 hr , when globin was detected in control explants , there was significantly less globin in the explants injected with the PU.1 expression plasmid .
+By 80 hr , the control explants expressed abundant globin , whereas those expressing ectopic PU.1 were negative for globin .
+PU.1 appears to inhibit transcription of the globin gene as determined by RT-PCR experiments for globin mRNA ( { not shown ) .
+Globin production also was blocked in isolated VMZ explants after injecting 250 pg of PU.1 RNA into the two ventral blastomeres at the four-cell stage [ Fig .
+7F , lanes 1,5 ) .
+In this case , coinjection of 100 pg of RNA encoding Xenopus GATA-1 is sufficient to rescue erythropoiesis , assayed by globin produc- 1406 GENES & DEVELOPMENT tion ( Fig .
+7F , lane 2 ) .
+Rescue of blood island development in whole embryos coinjected with PU.1 and GATA-1l RNA into ventral blastomeres also was demonstrated by benzidine staining ( data not shown ) .
+These results indicate that the relative levels of PU.1 and GATA-1 can determine the outcome of erythroid differentiation during normal development .
+Discussion Previous studies with MEL cells and other cell culture models showed that PU.1 can block terminal erythroid differentiation .
+To understand the mechanism by which PU.1 interferes with erythroid differentiation , we investigated potential interactions between PU.1 and several erythroid-specific transcription factors .
+Among the factors tested , GATA-1 showed very strong binding with PU.1 .
+Our results show that PU.1 and GATA-1 interact directly both in vitro and in vivo and that the interaction leads to repression of GATA-1-mediated transcriptional activation .
+Furthermore , we show that PU.1 and GATA-1 oppose each other 's biological activities in both normal and leukemic erythroid cells .
+Our results suggest that PU.1 and GATA-1 can antagonize each other 's actions by binding to one another and altering some aspect of their functions as transcription factors .
+Mechanism of PU.1-mediated repression of GATA-1 The results reported here show that PU.1 binds to the zinc finger region of GATA-1 .
+This region of GATA-1 has been shown to bind DNA ( Martin and Orkin 1990 } .
+It also participates in interactions with several other proteins .
+Most of these proteins , including FOG ( Tsang et al .
+1997 ) , CREB-binding protein ( CBP ; Blobel et al .
+1998 } , EKLF , and Spl stimulate GATA-1 transcriptional activation .
+However , two examples of repression of GATA factors have been described that involve interactions with the finger region .
+Inhibition of a Drosophila GATA ho-molog , Pannier , by U-shaped occurs through interaction with the amino finger ( Haenlin et al .
+1997 ) .
+Inhibition of GATA-1 by the estrogen receptor appears to involve both the zinc finger region and another region of GATA-1l ( Blobel et al .
+1995 ) .
+However , the mechanisms underlying stimulation or repression of GATA-1 activity by binding of these various proteins to the zinc finger region are not known .
+Several different mechanisms can be envisaged for how binding of PU.1 to the finger region inhibits GATA-1 transcriptional activity .
+Any proposed mechanism must account for our finding that the transactivation domain of PU.1 is required for its ability to inhibit -dependent transcription , as well as for blocking MEL cell differentiation , although not for binding to GATA-1 .
+This finding makes it unlikely that PU.1 represses GATA-1 activity by simply preventing its binding to DNA or required cofactors that also bind to the GATA-1 zinc finger region .
+Consistent with this view , GATA-1 has been reported to be associated with target DNA sites [ Strauss et al .
+1992 ; Reddy and Shen 1993 ) and several cofactors ( Osada et al .
+1995 ; Tsang et al .
+1997 ; Blobel et al .
+1998 ) in MEL cells despite the presence of high levels of PU.1 .
+Furthermore , we found that CBP and FOG binding to GATA-1 was not diminished in the presence of excess PU.1 in vitro { ( N. Rekhtman and AL .
+Skoultchi , unpubl . )
+.
+Taken together , these results suggest that GATA-1 may be able to assemble with associated proteins on DNA even in the presence of PU.1 .
+We suggest that a more likely mechanism involves association of PU.1 with the assembled GATA-1 protein complex on DNA and repression of its activity .
+In this model binding to the GATA-1 finger region is mediated by the PU.1 Ets domain , whereas the PU.1 transactivation domain would be needed to recruit other protein factors or to inhibit activities necessary for transcriptional activation .
+In this context , it may be relevant that the transactivation domain of PU.1 has been reported to interact with both the retinoblastoma protein ( RB ) and TATA-binding protein { TBP ) ( Hagemeier et al .
+1993 ) .
+Tethering of RB to promoters through protein-protein interactions has been implicated in transcriptional repression ( Weintraub et al .
+1995 ) .
+Alternatively , or in ad-dition , the transactivation domain of PU.1 might contact TBP and cause inhibition of transcription initiation by GATA-1 .
+Although PU.1 has most often been shown to stimulate transcription of target genes containing PU.1-binding sites , a few instances have been reported in which PU.1 represses transcription ( Borras et al .
+1995 ; Lopez-Rodriguez and Corbi 1997 ) .
+Because the reporter constructs used in the current work do not contain PU.1 consensus-binding sequences in the vicinity of the GATA-1-binding sites , our results indicate that repression of GATA-1 activity by PU.1 can occur without PU.1 binding to DNA .
+It seems likely that in these experiments PU.1 is tethered through its strong interaction with GATA-1 .
+However , it is quite possible that in some cases repression of GATA-1 activity by PU.1 occurs on genes containing binding sites for both proteins .
+Consistent with this notion , GATA-1 and PU.1 sites have been found in close proximity in the transcriptional regulatory regions of two erythoid-specific genes ( Galson et al .
+1993 ; Nemoto et al .
+1996 ) .
+Mechanism of PU.1-mediated block to differentiation in erythroleukemia The results reported here show that PU.1 has the capacity to block erythroid differentiation in both MEL cells and Xenopus embryos , and that in both situations increasing the amount of GATA-1 relative to PU.1 relieves the block and restores the differentiation process .
+These results suggest that GATA-1 is the principal target of the PU.1-mediated block to differentiation in the erythroleu-kemic cells .
+However , our results do not exclude other actions of PU.1 in the erythroleukemia .
+A recently identified PU.1 target gene that is clearly relevant to erythroleukemia is another ets family member gene fli-1 .
+The fli-1 locus has been shown to be the preferred viral integration site in SFFV-independent Interaction of PU.1 and GATA-1 erythroleukemias induced in newborn mice by F-MuLV , the helper component of Friend virus { Ben-David et al .
+1991 ) .
+Fli-1 transcription is stimulated by PU.1 and Fli-1 can also block MEL cell differentiation [ Starck et al .
+1999 ) .
+Therefore , fli-1 may be an effector gene , downstream of PU.1 .
+Interestingly , the fli-1 promoter con-tains , in addition to multiple PU.l-binding sites , a GATA-1 site ( Starck et al .
+1999 ) .
+Thus , Fli-1 expression could be modulated by GATA-1 , although the role of the GATA-1 site in the f1i-1 promoter is not clear at present .
+It is also noteworthy that we found that Fli-1 and GATA-1 interact in vitro , albeit weakly compared to PU.1 and GATA-1 .
+Fli-1 binding to GATA-1 might amplify the affect of PU.1 on GATA-1 .
+Another possible mechanism of the PU.l-mediated block to erythroid differentiation might involve the binding of PU.1 to other erythroid transcription factors .
+Results presented here show that in vitro PU.1 can also bind to GATA-2 and EKLF .
+EKLEF is an erythroid-specific factor that is required for expression of -globin ( Shivdasani and Orkin 1996 ) and possibly other genes in erythroid cells .
+Binding of PU.1 to EKLF , although much weaker than to GATA-1 , could have similar consequences in inhibiting erythroid gene expression .
+However , we think that GATA-2 is unlikely to be involved in the PU.1-mediated block to differentiation in MEL cells because these cells have only very low levels of GATA-2 mRNA ( Leonard et al .
+1993 ) .
+Other proposed targets of interaction with PU.1 in MEL cells include an RNA-binding protein p54 `` * `` ( Hallier et al .
+1996 ) , a potential splicing factor TLS ( Hallier et al .
+1998 ) , and steroid hormone and vitamin receptors ( Gauthier et al .
+1993 ) , but the contributions of such interactions to the differentiation block remain to be evaluated .
+The results reported here also show with PU.1-blocked MEL cell transfectants , that simply shifting the balance in favor of GATA-1 by supertransfecting with a gene encoding a conditionally active GATA-1 not only restores hemoglobin synthesis but also the ability to undergo terminal cell division .
+We have performed similar experiments in MEL cells containing the GATA-1/ER fusion protein but without an exogenous PU.1 gene and found that estrogen treatment alone can induce 80-90 % of the cells to undergo differentiation and terminal cell division .
+[ F. Radparvar and AI .
+Skoultchi , unpubl . }
+.
+These findings suggest that it may be possible to reverse uncontrolled proliferation in tumor cells by introducing into them a single gene encoding the transcription factor that normally regulates their differentiation process .
+Do PU.1 and GATA factors interact during normal development ?
+Although the results reported here clearly show that PU . ]
+can interact with several GATA factors in vitro and that PU.1 and GATA-1 interact in vivo in erythroleukemia cells , we do not know whether these interactions occur during normal development .
+The question as to whether PU.1 and GATA factors interact during normal GENES & DEVELOPMENT 1407 Rekhtman et al .
+development may be basic to our understanding of lineage commitment in the hematopoietic system .
+Current views of lineage commitment processes suggest that such decisions require both increased expression of lineage-specific genes as well as decreased expression of other genes that are not needed in or are not compatible with individual differentiation programs { Cross and Enver 1997 ) .
+The results described here using the Xenopus embryo system show that PU.l1 and GATA-1 can antagonize each others actions in normal erythropoiesis .
+Thus , if PU.1 and GATA-1 are normally expressed in early hematopoietic progenitors , their relative levels could regulate lineage commitment decisions .
+It seems likely that PU.1 and GATA-1 are coexpressed in certain hematopoietic cells as their mRNAs have been detected in early erythroid precursors and also in multipotent progenitors ( Cheng et al .
+1996 ) .
+The two proteins were also detected in mature mast cells ( Henkel and Bro-lon 1994 ) .
+An even more likely possibility for interaction during normal development may be between PU.1 and GATA-2 .
+GATA-2 is expressed more widely than GATA-1 and it is thought that GATA-2 functions very early in hematopoietic cell development and proliferation ( Shivdasani and Orkin 1996 ) .
+Studies of GATA-2 null mice and embryonic stem { ES ) cells support this view , indicating that GATA-2 may be needed for generation of many , if not all , hematopoietic progenitors ( Tsai et al .
+1994 ) .
+Thus a functional interaction could occur between PU.1 and GATA-2 in erythroid , myeloid , or lymphoid lineage determination .
+Finally , it should be noted that the consequences of PU.1-GATA factor interactions need not always result in inhibition of target promoter function .
+In at least one instance , PU.1 and GATA factors were shown to collaborate to stimulate transcription of a target gene containing adjacent PU.1 and GATA binding sites ( Henkel and Brown 1991 ) .
+Both PU.1 and GATA-2 have the capacity to block terminal erythroid differentiation .
+This could suggest that these two factors interact and collaborate to stimulate cell division in early erythroid progenitors .
+The association of PU.1 and GATA factors in hematopoietic cells and the consequences of such interactions remains to be determined .
+Materials and methods In vitro protein interaction studies Glutathione S-transferase fusion proteins were prepared by standard procedures .
+Purity of the GST fusion proteins was analyzed by boiling proteins for 5 min in Laemmli sample buffer [ 60 mm Tris [ pH 6.8 ) , 2 % SDS , 100 mm DTT , 10 % glycerol , 0.001 % bromphenol blue ] , separating by SDS-PAGE and Coomassie Blue staining .
+The concentration of each purified GST fusion protein was estimated by comparison to several amounts of bovine serum albumin also present on the gels .
+The GST fusion protein constructs included GATA-1 and GATA-1 mutants , PU.1 kindly provided by Y.K .
+Fung { USC , Los Angeles ) and GUK a gift from R.A. DePinho ( Dana Farber Cancer Institute , Boston , MAJ. proteins were prepared by in vitro 1408 GENES & DEVELOPMENT transcription/translation using a coupled TnT reticulocyte lysate system [ ( Promega ) .
+Plasmids used included pGEM-PU.1 { Rao et al .
+1997 ] for full-length PU.1 , PU.1 { ADBD ] constructed by cloning the KpnI fragment from pGEM-PU.1 into the KpnI site of pBluescript { pBSK , Stratagene } , PU.1 { APEST ) { Klemsz and Maki 1996 ) subcloned in EcoRI site of pBSK , pBKS-PU.1 { ANN ) called here ATAD , { ANP } , { ANS ) ( Klemsz and Maki 1996 ] kindly provided by M.J. Klemsz , pBSK-GATA-1 { AN ) [ Blobel et al .
+1998 ) a gift from G.A .
+Blobel , GATA-1 { AC ) and GATA-1 { Afingers ) generated by subcloning the respective coding sequences derived from pXM-GATA-I1 { AC ) { ( Martin and Orkin 1990 ] and pGEX-2T-GATA-l-Afingers ( Merika and Orkin 1995 ) into pBSK , p45 NF-E2 { Andrews et al .
+1993 ] and FOG { Tsang et al .
+1997 ) generated by subcloning the respective coding sequences into the pBSK vector , pL28-Spi-B , kindly provided by D.G .
+Tenen { Beth Israel Deaconness Medical Center , Boston , MA } ; pBKS-Fli-1 , a kind gift of A. Bernstein { ( Mount Sinai Hospital , Toronto , Canada ) ; pPET8C-GATA-1 , GATA-2 , and GATA-3 and pBSK-EKLF generously provided by M. Merika .
+GST fusion proteins { 2 ug ) immobilized on beads and amounts of *°S-labeled proteins quantitated by fluorography were mixed in 400 ul of EBC buffer [ 120 mm NaCl , 1 m Tris-HCl { pH 8 ) , 0.5 % NP-40 , 1 mm ZnCl ; , , protease inhibitors ] and incubated for 2 hr at 4°C .
+The total amount of glutathione Seph-arose used in each binding reaction was kept constant by adding an appropriate amount of beads without bound proteins .
+Beads were washed five times with EBC buffer .
+The concentration of NaCl in the final wash was increased to 500 mm .
+The bound proteins were released from the beads by boiling for 5 min in 40 pl of sample buffer and analyzed by SDS-PAGE followed by fluorography .
+To generate proteins free of the GST moiety , 10 ug of purified GST fusion proteins immobilized on beads were treated with 0.1 ug of thrombin [ Sigma ) for 30 min at room temperature .
+Beads with uncleaved proteins were removed by centrifugation and the supernatants were incubated with fresh beads to remove any contaminating uncleaved proteins .
+In vivo protein interaction studies Clone DS19 MEL cells and 293 cells were grown as described previously [ Rao et al .
+1997 ) .
+Nuclei were isolated as described by Andrews and Faller ( 1991 ) and nuclear extracts were prepared by lysis of nuclei by sonication in 50 mm HEPES { pH 7.5 ) , 150 mm NaCl , 1 mm ECTA , 1 mm EDTA , 1 mm DTT , 0.1 % Tween 20 , 10 % glycerol , protease inhibitors .
+Whole cell extracts were prepared by treating cells with EBC buffer .
+2983 cells were transfected by the calcium phosphate precipitation method with pEBB expression vectors { Rao et al .
+1997 ] encoding PU.1 and PU.1 mutants and pXM expression vectors encoding GATA-1 { Tsai et al .
+1989 ) and GATA-1 mutants { ( Martin and Orkin 1990 } .
+GATA-1 { Afingers ) was subcloned into the pEBB vector .
+Whole cell or nuclear extracts were prepared after 48 hr as above .
+Protein concentrations in the extracts were measured by the Bradford assay ( BioRad ) .
+MEL cell extracts ( 600 ug ) and 298 cell extracts { 400 ug ) were used in the immunoprecipitations .
+For immunoprecipitation of GATA-1 , 50 ul of Protein A-Sepharose beads [ Pharmacia ) were preincubated with 8 ul of anti-GATA-1 antibody N6 { Santa Cruz ) and 2 ul of monoclonal anti-rat antibody [ Sigma ) overnight .
+As a control , 8 ul of mouse monoclonal anti-p16 antibody ( DCS-50.1/A7 ; NeoMarkers ) and 2 ul of anti-rat antibody were used .
+For immunoprecipitation of PU.1 , 50 ul of protein A-Sepharose beads and 15 ul of anti-PU.1 antibody T21 { Santa Cruz ) or 15 pul of a control anti-cyclin E antibody M-20 [ Santa Cruz ] were used .
+Antibody-saturated beads were collected and incubated with nuclear extracts for 2 hr .
+Beads were washed five times and bound proteins were released and analyzed by SDS-PAGE and immunoblotting with the appropriate antibodies .
+Transactivation assays NIH-3T3 and Hela cells were cultured as above .
+Twenty-four hours before transfection 7 x 10° cells were plated in each well of 12-well plates .
+Cells were transfected by the Lipofectamine Plus method { ( GIBCO BRL ) as recommended by the manufacturer in the presence of 5 % serum .
+The total amount of DNA was maintained at 450 ng/well by adding the appropriated amount of empty pEBB vector DNA .
+Growth hormone production was measured by radioimmunoassay { Nichols Institute Di-agnostics ) on 100 ul [ 10 % ] of the culture medium .
+Luciferase production was measured on equal amounts of protein from whole cell extracts with the Promega Luciferase Assay system .
+Constructs used in the reporter assays included M1lo-GH ( Martin and Orkin 1990 } , p45 NF-E2-CH , pMT2-FOG ( Tsang et al .
+1997 ) , « D3-LUC { Evans and Felsenfeld 1991 ) , ( Watanabe et al .
+1996 ) , pEBB-PU.1 , pEBB-AS-PU.1 { Rao et al .
+1997 ] , pXM-GATA-1 and SP6-GAL4-Spl { Sif and Gilmore 1994 ) .
+Preparation and analysis of MEL cell stable transfectants MEL cells { clone DS19 } or cells of the PU.1-MEL transfectant { EFla-PU.1 clone 605 ) were transfected as described previously ( Rao et al .
+1997 ] .
+Selection with 5 ug/ml puromycin { MEL } or 5 ug/ml puromycin and 1 mg/ml G418 { clone 605 ) was initiated after 24 hr .
+Antibiotic-resistant clones were expanded and cell extracts were analyzed by immunoblotting .
+Benzidine staining , Northern blot hybridization for globin mRNA with [ « -°P ] dCTP-labeled pCA1l1 , provided by W. Zimmer { Univer-sity of South Alabama , Mobile } , and plasma clot assays were performed as described previously { Rao et al .
+1997 ) .
+Expression constructs for HA epitope-tagged PU.1 proteins were constructed by subcloning PU.1 cDNA fragments into a modified pEBB vector .
+The vector pEBB-HA-puro was generated by blunt-end ligation of the Sall fragment of pPGK-Puro into HindlII-digested pEBB-HA , kindly provided by G. Cheng { Uni-versity of California , Los Angeles } .
+PU.1-ATAD-HA and PU.1-APEST-HA were prepared by substitution of the BarmI-KpnI fragment of pEBB-PU.1-HA-puro with the mutated inserts from pBKS-ANN and pBSK-APEST , respectively .
+PU.1-ADBD-HA was created by digestion of PU.1-HA with KpnI and NotI , filling in with Klenow and self-ligation .
+pEBB-GATA-1/ER-puro was constructed by subcloning GATA-1 /ER into the pEBB-puro vector constructed as above .
+Immunoblotting Proteins separated by SDS-PAGE were transferred to nitrocel-lulose or PVDF membranes .
+Membranes were incubated with 1:500 dilution of either rat monoclonal anti-GATA-1 antibody N6 or 1:5000 dilution of mouse monoclonal anti-HA antibody 12CAS5 { Boehringer Mannheim ] or 1:300 dilution of rabbit polyclonal anti-PU.1 antibody T21 followed by incubation with either 1:8000 dilution of HRP-conjugated anti-mouse antibody ( Sigma ) or 1:3500 dilution of HRP-conjugated anti-rabbit antibody { Santa Cruz ) .
+HRP activity was detected using the enhanced chemiluminescence { ECL ] ) system { Amersham } .
+Xenopus embryos and explants Xenopus laevis eggs obtained from gonadotropin-induced females were fertilized in vitro .
+Dejellied embryos were placed Interaction of PU.1 and GATA-1 into 0.1x MBS/5 % Ficoll solution and injected with 4.5 pL of RNA or plasmid solution into blastomeres at the two-cell stage .
+Alternatively , four-cell stage embryos with an obvious pigment shift and precisely oriented cleavage planes were chosen to target injections into the two presumptive ventral blastomeres .
+Embryos were allowed to recover for several hours and then were cultured at room temperature in 0.1x MBS .
+Globin production was analyzed in whole embryos by benzidine staining .
+In some cases , when the dorsal lip was first visible at stage 10 1/4 , VMZ explants were cut and incubated in 1x MMR for 56 hr or as indicated .
+Protein lysates were made by homogenizing explants in 10 pul of SDS sample buffer/explant and equal ex-plant equivalents were electrophoresed in 17.5 % acrylamide/ 3m urea SDS gels before blotting .
+The 14-26 mAb specific for embryonic « -globin chains was a kind gift of Dr. C. Katagiri .
+HRP-conjugated secondary antibodies were detected using ECL { Amersham } .
+The cDNAs encoding murine PU.1 or Xenopus GATA-1 were cloned into the SP64T transcription vector and mRNA was transcribed in vitro using SP6 polymerase .
+Control RNAs were transcribed from a plasmid containing the PU.1 cDNA in the reverse orientation { PU.11rs ) or a frameshift mutant form of the GATA-1 cDNA that encoded a non-DNA-binding truncated iso-form ( Glfs ] .
+RNA was quantified by UV spectrometry and quality was analyzed before injection by gel electrophoresis and in vitro translation .
+Acknowledgments We thank M.J. Klemsz , S.H .
+Orkin , M. Merika , and G.A .
+Blobel for generously providing plasmids used in this study .
+T.E .
+thanks T. Torregroza for excellent technical help .
+A.L.S .
+receives support from National Cancer Institute Cancer Center grant 2P30CA13330 , TE .
+was supported by grants from the National Institutes of Health { NIH ) { HL56132 ) and the American Cancer Society { ACS } , FR .
+was supported by NIH 5T32AGO0194 and N.R .
+by NIH 5T32GMO7491 .
+This work was supported by NIH grant 5R37CA16368 .
+The publication costs of this article were defrayed in part by payment of page charges .
+This article must therefore be hereby marked 'advertisement ' in accordance with 18 USC section 1734 solely to indicate this fact .
+References Andrews , N.C. and D.V .
+Faller .
+1991 .
+A rapid micropreparation technique for extraction of DNA-binding proteins from limiting numbers of mammalian cells .
+Nucleis Acids Res .
+19 : 2499 .
+Andrews , N.C. , K.J .
+Kotkow , P.A .
+Ney , H. Erdjument-Bromage , P. Tempst , and S.H .
+Orkin .
+1993 .
+The ubiquitous subunit of erythroid transcription factor NF-E2 is a small basic-leucine zipper protein related to the v-maf oncogene .
+Proc .
+Natl .
+Acad .
+Sci .
+90 : 11488-11492 .
+Ben-David , Y. and A. Bernstein .
+1991 .
+Friend virus-induced erythroleukemia and the multistage nature of cancer .
+Cell 66 : 831-834 .
+Ben-David , Y. , E.B .
+Giddens , K. Letwin , and A. Bernstein .
+1991 .
+Erythroleukemia induction by Friend murine leukemia vi-rus : Insertional activation of a new member of the ets gene family , Fli-1 , closely linked to c-ets-1 .
+Genes & Dev .
+5 : 908-918 .
+Blobel , G.A .
+, C.A .
+Sieff , and S.H .
+Orkin .
+1995 .
+Ligand-dependent repression of the erythroid transcription factor GATA-1 by GENES & DEVELOPMENT 1409 Rekhtman et al .
+the estrogen receptor .
+Mol .
+Cell .
+Biol .
+15 : 3147-3153 .
+Blobel , G.A .
+, T. Nakajima , R. Eckner , M. Montminy , and S.H .
+Orkin .
+1998 .
+CREB-binding protein cooperates with transcription factor GATA-1 and is required for erythroid differentiation .
+Proc .
+Natl .
+Acad .
+Sci .
+95 : 2061-2066 .
+Borras , F.E .
+, J. Lloberas , R.A. Maki , and A. Celada .
+1995 .
+Repression of I-A beta gene expression by the transcription factor PU.1 .
+J. Biol .
+Chem .
+270 : 24385-24391 .
+Briegel , K. , K.C .
+Lim , C. Plank , H. Beug , J.D .
+Engel , and M. Zenke .
+1993 .
+Ectopic expression of a conditional GATA-2/ estrogen receptor chimera arrests erythroid differentiation in a hormone-dependent manner .
+Genes & Dev .
+7:1097-1109 .
+Cheng , T. , H. Shen , D. Giokas , J. Gere , D.G .
+Tenen , and D.T .
+Scadden .
+1996 .
+Temporal mapping of gene expression levels during the differentiation of individual primary hematopoietic cells .
+Proc .
+Natl .
+Acad .
+Sci .
+93 : 13158-13163 .
+Cross , M.A .
+and T. Enver .
+1997 .
+The lineage commitment of haemopoietic progenitor cells Curr .
+Opin .
+Genet .
+Dev .
+7 : 609-613 .
+Delgado , M.D .
+, P. Gutierrez , C. Richard , M.A .
+Cuadrado , F. Moreau-Gachelin , and J. Leon .
+1998 .
+Spi-1/PU.1 proto-onco-gene induces opposite effects on monocytic and erythroid differentiation of K562 cells .
+Biochem .
+Biophys .
+Res .
+Comm .
+252 : 383-391 .
+Evans , T. and G. Felsenfeld .
+1991 .
+Trans-Activation of a globin promoter in nonerythroid cells .
+Mol .
+Cell .
+Biol .
+11 : 843-853 .
+Fisher , R.C .
+and E.W .
+Scott .
+1998 .
+Role of PU.1 in hematopoiesis .
+Stem Cells 16:1 25-37 .
+Galson , D.L .
+, J.O0 .
+Hensold , TR .
+Bishop , M. Schalling , A.D. D'Andrea , C. Jones , P.E .
+Auron , and D.E .
+Housman .
+1993 .
+Mouse beta-globin DNA-binding protein Bl is identical to a proto-oncogene , the transcription factor Spi-1/PU.1 , and is restricted in expression to hematopoietic cells and the testis .
+Mol .
+Cell .
+Biol .
+13 : 2929-2941 .
+Gauthier , J.M .
+, B. Bourachot , V. Doucas , M. Yaniv , and F. Moreau-Gachelin .
+1993 .
+Functional interference between the Spi-1/PU.1 oncoprotein and steroid hormone or vitamin receptors .
+EMBO J .
+12 : 5089-5096 .
+Goebl , M.K .
+1990 .
+The PU.1 transcription factor is the product of the putative oncogene Spi-1 .
+Cell 61 : 1165-1166 .
+Haenlin , M. , Y. Cubadda , F. Blondeau , P. Heitzler , Y. Lutz , P. Simpson , and P. Ramain .
+1997 .
+Transcriptional activity of Pannier is regulated negatively by heterodimerization of the GATA DNA-binding domain with a cofactor encoded by the u-shaped gene of Drosophila .
+Genes & Dev .
+11 : 3096-3108 .
+Hagemeier , C. , A.J .
+Bannister , A. Cook , and T. Kouzarides .
+1993 .
+The activation domain of transcription factor PU.1 binds the retinoblastoma { RB ) protein and the transcription factor TFIID in vitro : RB shows sequence similarity to TFIID and TFIIB .
+Proc .
+Natl .
+Acad .
+Sci .
+90 : 1580-1584 .
+Hallier , M. , A. Tavitian , and F. Moreau-Gachelin .
+1996 .
+The transcription factor Spi-1/PU.1 binds RNA and interferes with the RNA-binding protein p54nrb .
+J. Biol .
+Chem .
+271 : 11177-11181 .
+Hallier , M. , A. Lerga , S. Barnache , A. Tavitian , and F. Moreau-Gachelin .
+1998 .
+The transcription factor Spi-1/PU.1 interacts with the potential splicing factor TLS .
+J. Biol .
+Chem .
+2731 4838-4842 .
+Henkel , G. and M.A .
+Brown .
+1994 .
+PU.1 and GATA : Components of a mast cell-specific interleukin 4 intronic enhancer .
+Proc .
+Natl .
+Acad .
+Sci .
+911 7737-7741 .
+Hromas , R. , A. Orazi , R.S .
+Neiman , R. Maki , C. Van Beveran , J. Moore , and M. Klemsz .
+1993 .
+Hematopoietic lineage- and stage-restricted expression of the ETS oncogene family member PU.1 .
+Blood 82 : 2998-3004 .
+1410 GENES & DEVELOPMENT Hunter , T. 1997 .
+Oncoprotein networks .
+Cell 88 : 333-346 .
+Klemsz , M.J. and R.A. Maki .
+1996 .
+Activation of transcription by PU.1 requires both acidic and glutamine domains .
+Mol .
+Cell .
+Biol .
+16 : 390-397 .
+Klemsz , M.J. , S.R .
+McKercher , A. Celada , C. Van Beveren , and R.A. Maki .
+1990 .
+The macrophage and B cell-specific transcription factor PU.1 is related to the ets oncogene .
+Cell 61 : 113-124 .
+Krieg , P.A .
+and D.A .
+Melton .
+1987 .
+In vitro RNA synthesis with SP6 RNA polymerase .
+Methods Enzymol .
+155 : 397-415 .
+Leonard , M.W .
+, K.C .
+Lim , and J.D .
+Engel .
+1993 .
+Expression of the chicken GATA factor family during early erythroid development and differentiation .
+Development 119 : 519-531 .
+Look , A.T. 1997 .
+Oncogenic transcription factors in the human acute leukemias .
+Science 278 : 1059-1064 .
+Lopez-Rodriguez , C. and A.L .
+Corbi .
+1997 .
+PU.1 negatively regulates the CD11c integrin gene promoter through recognition of the major transcriptional start site .
+Eur .
+J. Immunol .
+271 1843-1847 .
+Lu , S.J .
+, S. Rowan , M.R .
+Bani , and Y. Ben-David .
+1994 .
+Retrovi-ral integration within the FIi-2 locus results in inactivation of the erythroid transcription factor NF-E2 in Friend eryth-roleukemias : Evidence that NF-E2 is essential for globin expression .
+Proc .
+Natl .
+Acad .
+Sci .
+91 : 8398-8402 .
+Marks , P.A .
+, M. Sheffery , and R.A. Rifkind .
+1987 .
+Induction of transformed cells to terminal differentiation and the modulation of gene expression .
+Cancer Res .
+47 : 659-666 .
+Martin , D.I .
+and S.H .
+Orkin .
+1990 .
+Transcriptional activation and DNA binding by the erythroid factor GF- 1 /NF-E1/Eryf 1 .
+Genes & Dev .
+4 : 1886-1898 .
+McKercher , S.R .
+, B.E .
+Torbett , K.L .
+Anderson , G. W. Henkel , DJ .
+Vestal , H. Baribault , M. Klemsz , A.J .
+Feeney , G.E .
+Wu , C.J .
+Paige , and R.A. Maki .
+1996 .
+Targeted disruption of the PU .
+1 gene results in multiple hematopoietic abnormalities .
+EMBO J .
+151 5647-5658 .
+Merika , M. and S.H .
+Orkin .
+1995 .
+Functional synergy and physical interactions of the erythroid transcription factor GATA-1 with the Kruppel family proteins Spl and EKLF .
+Mol .
+Cell .
+Biol .
+15 : 2437-2447 .
+Miller , LJ .
+and J.J. Bieker .
+1998 .
+A novel , erythroid cell-specific murine transcription factor that binds to the CACCC element and is related to the Kruppel family of nuclear proteins .
+Mol .
+Cell .
+Biol .
+13 : 2776-2786 .
+Moreau-Gachelin , F. 1994 .
+Spi-1/PU.1 : An oncogene of the Ets family .
+Biochem .
+Biophys .
+Acta .
+1198 : 149-168 .
+Moreau-Gachelin , F. , A. Tavitian , and P. Tambourin .
+1988 .
+Spi-1 is a putative oncogene in virally induced murine eryth-roleukaemias .
+Nature 331 : 277-280 .
+Moreau-Gachelin , F. , D. Ray , M.G .
+Mattei , P. Tambourin , and A. Tavitian .
+1989 .
+The putative oncogene Spi-l : Murine chromosomal localization and transcriptional activation in murine acute erythroleukemias .
+Oncogene 4 : 1449-1456 .
+Moreau-Gachelin , F. , F. Wendling , T. Molina , N. Denis , M. Tit-eux , G. Grimber , P. Briand , W. Vainchenker , and A. Tavitian .
+1996 .
+Spi-1/PU.1 transgenic mice develop multistep erythroleukemias .
+Mol .
+Cell .
+Biol .
+16 : 2453-2463 .
+Nagulapalli , S. , J.M .
+Pongubala , and ML .
+Atchison .
+1995 .
+Multiple proteins physically interact with PU.1 .
+Transcriptional synergy with NF-IL6 beta { C/EBP delta , CRP3 ) .
+J. Immunol .
+155 : 4330-4338 .
+Nemoto , Y. , M. Terajima , W. Shoji , and M. Obinata .
+1996 .
+Regulatory function of delta/YY-1 on the locus control re-gion-like sequence of mouse glycophorin gene in erythroleukemia cells .
+J. Biol .
+Chem .
+271 : 13542-18548 .
+Nerlov , C. and T. Graf .
+1998 .
+PU.1 induces myeloid lineage commitment in multipotent hematopoietic progenitors .
+Genes & Dev .
+12 : 2403-2412 .
+Osada , H. , G. Grutz , H. Axelson , A. Forster , and TH .
+Rabbitts .
+1995 .
+Association of erythroid transcription factors : Complexes involving the LIM protein RBTN2 and the zinc finger protein GATA1L .
+Proc .
+Natl .
+Acad .
+Sci .
+921 9585-9589 .
+Paul , R. , S. Schuetze , S.L .
+Kozak , and D. Kabat .
+1989 .
+A common site for immortalizing proviral integrations in Friend erythroleukemia : Molecular cloning and characterization .
+J. Virol .
+63 : 4958-4961 .
+Petrovick , M.S .
+, SW. Hiebert , A.D. Friedman , C.J .
+Hethering-ton , D.G .
+Tenen , and D.E .
+Zhang .
+1998 .
+Multiple functional domains of AML1 : PU.1 and C/EBPalpha synergize with different regions of AML1 .
+Mol .
+Cell .
+Biol .
+18 : 3915-3925 .
+Quang , C.T .
+, M. Pironin , M. von Lindern , H. Beug , and J. Ghys-dael .
+1995 .
+Spi-1 and mutant p53 regulate different aspects of the proliferation and differentiation control of primary erythroid progenitors .
+Oncogene 11 : 1229-1239 .
+Rao , G. , N. Rekhtman , G. Cheng , T. Krasikov , and ALI .
+Skoult-chi .
+1997 .
+Deregulated expression of the PU.1 transcription factor blocks murine erythroleukemia cell terminal differentiation .
+Oncogene 14 : 123-131 .
+Ray , D. , R. Bosselut , J. Ghysdael , M.G .
+Mattei , A. Tavitian , and F. Moreau-Gachelin .
+1992 .
+Characterization of Spi-B , a transcription factor related to the putative oncoprotein Spi-1/ PU.1 .
+Mol .
+Cell .
+Biol .
+12 ; 4297-4304 .
+Reddy , P.M. and C.K .
+Shen .
+19983 .
+Erythroid differentiation of mouse erythroleukemia cells results in reorganization of protein-DNA complexes in the mouse beta major globin promoter but not its distal enhancer .
+Mol .
+Cell .
+Biol .
+13 : 1093-1103 .
+Schuetze , S. , R. Paul , B.C .
+Gliniak , and D. Kabat .
+1992 .
+Role of the PU.1 transcription factor in controlling differentiation of Friend erythroleukemia cells .
+Mol .
+Cell Biol .
+12 : 2967-2975 .
+Schuetze , S. , P.E .
+Stenberg , and D. Kabat .
+1993 .
+The Ets-related transcription factor PU.1 immortalizes erythroblasts .
+Mol .
+Cell .
+Biol .
+13 : 5670-5678 .
+Scott , EW .
+, M.C .
+Simon , J. Anastasi , and H. Singh .
+1994 .
+Requirement of transcription factor PU.1 in the development of multiple hematopoietic lineages .
+Science 265 : 1573-1577 .
+Shivdasani , R.A. and S.H .
+Orkin .
+1996 .
+The transcriptional control of hematopoiesis .
+Blood 87 : 4025-4039 .
+Sif , S. and TD .
+Gilmore .
+1994 .
+Interaction of the v-Rel oncoprotein with cellular transcription factor Spl .
+J. Virol .
+68 : 7131-7138 .
+Starck , J. , A. Doubeikovski , S. Sarrazin , C. Gonnet , G. Rao , A. Skoultchi , J. Godet , I. Dusanter-Fourt , and F. Morle .
+1999 .
+Spi-1 /PU.1 is a positive regulator of the fli-1 gene involved in inhibition of erythroid differentiation in friend erythroleu-kemic cell lines .
+Mol .
+Cell .
+Biol .
+19 : 121-135 .
+Strauss , E.C .
+, N.C. Andrews , D.R .
+Higgs , and S.H .
+Orkin .
+1992 .
+In vivo footprinting of the human alpha-globin locus upstream regulatory element by guanine and adenine ligation-mediated polymerase chain reaction .
+Mol .
+Cell .
+Biol .
+12 : 2135-2142 .
+Tenen , D.G .
+, R. Hromas , J.D .
+Licht , and D.E .
+Zhang .
+1997 .
+Transcription factors , normal myeloid development , and leuke-mia .
+Blood 90 : 489-519 .
+Tsai , F.Y .
+, G. Keller , F.C .
+Kuo , M. Weiss , J. Chen , M. Rosenblatt , FW .
+Alt , and S.H .
+Orkin .
+1994 .
+An early haematopoietic defect in mice lacking the transcription factor GATA-2 .
+Nature 371 : 221-226 .
+Tsai , S.F .
+, D.I .
+Martin , LI .
+Zon , A.D. D'Andrea , G.G .
+Wong , and SH .
+Orkin .
+1989 .
+Cloning of cDNA for the major DNA-binding protein of the erythroid lineage through expression in mammalian cells .
+Nature 339 : 446-451 .
+Interaction of PU.1 and GATA-1 Tsang , A.P .
+, J.E .
+Visvader , C.A .
+Turner , Y. Fujiwara , C. Yu , MJ .
+Weiss , M. Crossley , and S.H .
+Orkin .
+1997 .
+FOG , a multitype zinc finger protein , acts as a cofactor for transcription factor GATA-1 in erythroid and megakaryocytic differentiation .
+Cell 90 : 109-119 .
+Watanabe , G. , A. Howe , R.J. Lee , C. Albanese , LW .
+Shu , A.N .
+Karnezis , L. Zon , J. Kyriakis , K. Rundell , and R.G .
+Pestell .
+1996 .
+Induction of cyelin D1 by simian virus 40 small tumor antigen .
+Proc .
+Natl .
+Acad .
+Sci .
+93 : 12861-12866 .
+Weintraub , S.J .
+, KN .
+Chow , RX .
+Luo , S.H .
+Zhang , S. He , and D.C. Dean .
+1995 .
+Mechanism of active transcriptional repression by the retinoblastoma protein .
+Nature 375 : 812-815 .
+Yamada , T. , N. Kondoh , M. Matsumoto , M. Yoshida , A. Maekawa , and T. Oikawa .
+1997 .
+Overexpression of PU.1 induces growth and differentiation inhibition and apoptotic cell death in murine erythroleukemia cells .
+Blood 89 : 1383-1393 .
+GENES & DEVELOPMENT 1411

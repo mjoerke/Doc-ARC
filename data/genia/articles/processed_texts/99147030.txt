@@ -1,0 +1,811 @@
+MoLEcULAR AND CELLULAR BroLoGY , Mar .
+1999 , p. 1950-1960 0270-7306/99/ $ 04.00+0 Vol .
+19 , No .
+3 Copyright © 1999 , American Society for Microbiology .
+All Rights Reserved .
+Reactive Oxygen Intermediate-Dependent NF- « kB Activation by Interleukin-1B Requires 5-Lipoxygenase or NADPH Oxidase Activity GIUSEPPINA BONIZZI , ' JACQUES PIETTE , `` SONIA SCHOONBROODT,2 ROLAND GREIMERS , `` LAURENCE HAVARD , ' MARIE-PAULE MERVILLE , * anp VINCENT BOURS !
+* Laboratory of Medical Chemistry/Medical Oncology , `` Laboratory of Fundamental Virology , `` and Laboratory of Pathology , `` University of Liege , Liege , Belgium Received 16 July 1998/Returned for modification 26 August 1998/Accepted 30 November 1998 We previously reported that the role of reactive oxygen intermediates ( ROIs ) in NF-KB activation by proinflammatory cytokines was cell specific .
+However , the sources for ROIs in various cell types are yet to be determined and might include S-lipoxygenase ( 5-LOX ) and NADPH oxidase .
+5-LOX and 5-LOX activating protein ( FLAP ) are coexpressed in lymphoid cells but not in monocytic or epithelial cells .
+Stimulation of lymphoid cells with led to ROI production and NF-KB activation , which could both be blocked by antioxidants or FLAP inhibitors , confirming that 5-LOX was the source of ROIs and was required for NF-B activation in these cells .
+IL-1B stimulation of epithelial cells did not generate any ROIs and NF-KB induction was not influenced by 5-LOX inhibitors .
+However , reintroduction of a functional 5-LOX system in these cells allowed ROI production and 5-LOX-dependent NF-KB activation .
+In monocytic cells , IL-1f treatment led to a production of ROIs which is independent of the 5-LOX enzyme but requires the NADPH oxidase activity .
+This pathway involves the Racl and Cdcd42 GTPases , two enzymes which are not required for NF-KB activation by IL-1 in epithelial cells .
+In conclusion , three different cell-specific pathways lead to NF-KB activation by a pathway dependent on ROI production by 5-LOX in lymphoid cells , an ROI- and 5-LOX-independent pathway in epithelial cells , and a pathway requiring ROI production by NADPH oxidase in monocytic cells .
+The interaction of interleukin-16 ( IL-1B ) with its type 1 cell surface receptor initiates a cascade of intracellular reactions leading to the activation of transcription factors and the expression of target genes .
+One of the major transcription factors mediating IL-1B biological activities is NF-KB ( for reviews , see references 2 , 3 , and 22 ) .
+This factor is sequestered in the cytoplasm by an inhibitor from the IxB family .
+IL-16 cellular stimulation leads to a rapid phosphorylation and degradation of IxBa , the most common NF- « B inhibitor .
+This reaction allows NF- « B to translocate to the nucleus , to bind DNA , and to activate the transcription of specific genes ( 2 , 55 ) .
+Following its interaction with IL-1 , the type 1 IL-1 receptor recruits the IL-1 receptor-associated kinase ( IRAK ) protein , which subsequently interacts with the TRAF6 adapter protein ( 15 , 16 , 30 , 61 , 62 , 65 ) .
+TRAF6 is required for IL-1B-induced NF- « B activation , as demonstrated in 293 cells ( 16 ) .
+However , the signaling pathways leading to NF-kB activation from the IL-1B receptors are still controversial .
+It has been demonstrated that TRAF6 interacts with a MAP kinase kinase kinase ( MAPKKK ) known as NIK and that NIK is required for IL-1B- or tumor necrosis factor alpha ( TNF- « ) -dependent NF- « B activation ( 39 , 56 ) .
+Large ( 500 to 900 kDa ) multimeric protein kinase complexes have been purified from HeLa cells and transmit the signal from the TNF receptor type 1 ( TNFR-1 ) and type 1 IL-1 receptors to the cytoplasmic complex ( 17 , 20 , 33 , 41 ) .
+From these complexes three IxB kinases , IKK- « @ , IKK-B , and IKK-y , have been purified , and their genes were cloned ( 20 , 42 , 49 , 66 ) .
+Other investiga- * Corresponding author .
+Mailing address : Medical Oncology , CHU B35 , Sart-Tilman , Université de Liege , 4000 Liege , Belgium .
+Phone : 32-4-3662482 .
+Fax : 32-4-3664534 .
+E-mail : vbours @ ulg.ac.be .
+1950 tors have cloned IKK kinases by virtue of their association with the NIK protein kinase ( 47 , 64 ) .
+Moreover , inactivation of these kinases by dominant negative mutants suppresses IL-1B and TNF- « induction of NF- « B .
+These studies indicate that the activated NIK kinase phosphorylates and activates the IKK protein kinases .
+IKK protein kinases can in turn phosphorylate the IxBa protein on serines located at positions 32 and 36 , a reaction which targets IxBa for ubiquitination and rapid degradation by the proteasome ( 12 , 58 , 59 ) .
+These reactions are extremely rapid , and the cellular IxBa protein is completely degraded within minutes following TNF- « or IL-18 cell stimulation ( 4 , 13 ) .
+Despite this simplified linear receptor-TRAF-NIK-IKK axis for IxBa phosphorylation and degradation , other intermediates might be involved in NF-KB activation by TNF-a or IL-1 .
+First , several components of the large signaling complex remain to be identified , as the three IKK protein kinases do not account for the molecular weight of the whole complex .
+Sec-ond , a large number of studies , some of them being a matter of controversy , have identified other intermediates which seem to be required for TNF- « - or IL-1B-mediated NF- « B activation .
+These intermediates are Raf-1 , MAP kinases , the PKC { and A/v isoforms , Rho and Rac proteins , and ceramide or reactive oxygen intermediates ( ROIs ) ( 19 , 24 , 25 , 32 , 33 , 38 , 46 , 50-53 , 57 ) .
+Such a large number of controversial studies might be explained by cell type specificities .
+Indeed , most of these studies were performed with a single cell line , although as we reported the roles of sphingomyelinases , PKC A/ , and ROIs in NF- « B activation by IL-1B were cell specific ( 6-8 ) .
+We reported that an oxidative stress favored replication of the human immunodeficiency virus type 1 ( HIV-1 ) containing a tandem KB site in its long terminal repeat ( LTR ) ( 35 ) .
+Later on , the authors of several studies proposed that ROIs were Vor .
+19 , 1999 produced by all agents and were required for NF-kB activation ( 50-52 ) .
+So far , however , the IB kinases activated by ROIs have not yet been identified .
+More recently , however , it was reported that the effects of oxidants and antioxidants on NF- « B activation were dependent on the cell line and on the applied stimulus ( 10 , 11 ) .
+We also reported that IL-18 induced NF-kB through the production of ROIs in lymphoid cells but independently of any ROI production in epithelial cells ( 6 ) .
+These data indicate that the role of ROIs in activation is probably cell specific .
+The sources of ROIs following TNF- « or IL-1B treatment are still largely unknown .
+CD28 stimulation of T lymphocytes induces ROI production through an increase of the activity of 5-lipoxygenase ( 5-LOX ) ( 37 ) , an enzyme which is also required for NF- « xB-dependent transcription induced by IL-18 in endothelial cells ( 34 ) .
+The 5-LOX enzyme catalyzes the production of leukotrienes and ROIs from arachidonic acid ( 29 , 36 ) .
+Its activity requires FLAP ( 5-LOX activating protein ) , which transports 5-LOX to the nuclear membrane ( 23 , 43 , 48 , 63 ) .
+Recently , we reported that the inhibition of 5-LOX in lymphoid cells blocked NF- « B activation after IL-1B or arachidonic acid stimulation ( 7 ) .
+Similarly , according to our previous data , the absence of ROI induction in IL-1B-treated epithelial cells might be due to low 5-LOX and high catalase activities ( 7 ) .
+However , there are other sources of cellular ROIs , including the NADPH oxidase which is expressed not only in mono-cytes/macrophages and polymorphonuclear neutrophils but also in lymphocytes ( 54 ) .
+In the present study , we investigated the roles of 5-LOX , FLAP , and NADPH oxidase in the IL-1B-induced ROI production and NF-B activation in different cell types .
+MATERIALS AND METHODS Cell culture and biological reagents .
+The cell lines HL-60 , U937 , Jurkat , EL-4 , Raji , OVCAR-3 , SKOV-3 , MCF7 A/Z , HCT-116 , HT-29 , and HTM-29 were grown in RPMI 1640 medium ( Life Technologies ) supplemented with 1 % antibiotics , 1 % glutamine , and 10 % fetal bovine serum .
+The mouse pre-B-cell line 70Z/3 was grown in RPMI 1640 medium supplemented with 10 % fetal bovine serum , 1 % antibiotics , 1 % glutamine , and 10 mM B-mercaptocthanol .
+Before stimulation , 70Z , /3 cells were grown for one day in medium without B-mercaptocthanol .
+The breast cancer cell line MCF7 A/Z was a generous gift from M. Mareel ( University of Ghent , Belgium ) .
+IL-16 treatment was carried out at a 50-U/ml concentration ( specific activity , > 5 X 10 `` U/mg ; Boehringer , Mannheim , Germany ) .
+N-Acetyl-cysteine ( NAC ) or pyrrolidine-9-dithiocarbamate ( PDTC ) was added to the medium 150 min before IL-1 $ stimulation .
+Cells were incubated with the FLAP inhibitor MK-886 , a generous gift from J. Evans ( Merck Frosst Centre for Therapeutic Research , Quebec , Canada ) ( 40 ) , for 10 min before IL-1B stimulation , with phenylarsine oxide ( PAQ ; Sigma ) for 1 h prior to IL-1B treatment , or with diphenylenciodo-nium chloride ( DPI ; Sigma ) or eicosatetraynoic acid ( ETYA ; Sigma ) for 40 min before IL-1 $ stimulation .
+Immunoblots .
+Protein extracts ( 30 mg ) obtained by sodium dodecyl sulfate ( SDS ) lysis were separated on a 10 % SDS-polyacrylamide gel electrophoresis ( PAGE ) gel .
+After transfer to a nylon membrane ( Immobilon-P ; Millipore , Bedford , Mass . )
+and overnight blocking at 4°C with Tris-buffered saline-Tween ( 20 mM Tris [ pH 7.5 ] , 500 mM NaCl , 0.2 % Tween 20 plus 5 % dry milk ) , the membranes were incubated for 1 h with specific antibodies directed against human 5-LOX and FLAP ( Merck Frosst Centre for Therapeutic Research ) , washed , and then incubated with the second peroxidase-conjugated antibody .
+The reaction was revealed by the enhanced chemiluminescence detection method ( ECL kit ; Amersham , Little Chalfont , Buckinghamshire , United King-dom ) .
+Fluorescence measurement of intracellular ROIs .
+Formation of ROIs was measured using dichlorofluorescein diacetate ( DFCH ) ( 6 ) .
+The cells were incubated in 175-cm* flasks with 20 wM DCFH in phenol red-free medium 199 .
+After 15 min , the medium was removed and the cells were washed and incubated with IL-18 or H , O , for 15 min .
+Fluorescence was measured by spectrofluorometry with excitation at 505 nm and detection of light emission at 525 nm .
+ROI concentrations in cytoplasmic extracts were measured as previously described ( 6 ) and expressed as a function of the protein content in nuclear extracts from the same cells .
+The measurements were performed on 3 X 10° cells for all cell types with the exception of selected CD20-positive cells , for which measurements were made on 1.2 x 10° cells .
+NF- « B ACTIVATION BY REACTIVE OXYGEN INTERMEDIATES - 1951 3 n 3 mo ® ps a 1 S ﬁggégggﬁé 3 s 4 & H 3 3 4 § a E R rp we ~- A < me « owen FIG .
+1 .
+5-LOX and FLAP expression in cell lines .
+Protein extracts from various cell lines were prepared and analyzed for 5-LOX ( A ) and FLAP ( B ) expression by immunoblots revealed with specific antibodies .
+The 5-LOX antibody was directed against the human protein and could not detect the murine enzyme in EL-4 and 70Z/3 cells .
+The FLAP antibody could recognize both the human and the murine proteins , and the murine protein gave a faint and more slowly migrating band in EL-4 and 70Z/3 cells , which is visible after longer exposures of the gel .
+Nuclear protein extraction and EMSA .
+Nuclear protein extracts were prepared as described ( 7 ) .
+Briefly , the pelleted nuclei were resuspended in nuclear buffer ( 20 mM HEPES [ pH 7.9 ] , 1.5 mM MgCl , , 0.2 mM EDTA , 0.63 M NaCl , 25 % glycerol , protease inhibitors [ protease inhibitor kit ; Bochringer ] ) , incubated for 20 min at 4°C , and centrifuged for 30 min at 14,000 rpm in an Eppendorf 5415C centrifuge .
+Protein amounts were quantified with the Micro BCA Protein Assay Reagent kit ( Pierce , Rockford , III . )
+.
+Electrophoretic mobility shift assays ( EMSA ) were performed as described ( 26 ) .
+The palindromic ( PD ) - « B probe was 5'-TTGGCAACGGCAGGGGAATTCCCCTCTCCITTA-3 ' .
+Plasmids .
+The reporter plasmid HIV- « kB-CAT contained the two xB sites from the HIV LTR cloned upstream of a chloramphenicol acetyltransferase ( CAT ) reporter gene ( 9 ) .
+Expression vectors for wild-type and mutant RhoA , Racl , and Cdc42 were generous gifts from L. Cross ( National Institutes of Health , Bethesda , Md . )
+( 18 , 46 ) .
+The 5-LOX and FLAP expression vectors were received from J. Evans ( Merck Frosst Centre for Therapeutic Research ) .
+The pCMV-CD20 ( cluster of differentiation 20 antigen ) plasmid was kindly provided by Jim Koh ( Laboratory of Molecular Oncology , Massachusetts General Hospital and Harvard Medical School , Cambridge , Mass . )
+.
+Transfections .
+Expression vectors ( 1 pg ) and the HIV- « B-CAT reporter plasmid ( 4 pg ) were transfected into HCT-116 and MCF7 A/Z cells by using the DOTAP liposomal transfection reagent ( Boehringer Mannheim ) .
+After 6 h , the DNA-containing medium was removed and replaced by fresh medium .
+Cells were then left untreated or were stimulated with 50 U of IL-18/ml for 6 h. Cellular extracts were prepared and CAT activity was determined as described previously ( 9 ) .
+U937 and THP-1 cells were transfected with DEAE-dextran ( Amersham } .
+Cells ( 8 X 10° cells ) were incubated for 90 min at 37°C in 1 ml of Tris-buffered saline ( pH 7.6 ) containing 5 pg of total DNA and 400 ug of DEAE-dextran .
+After 10 % dimethyl sulfoxide was added for 2 min , 15 ml of Tris-buffered saline was added .
+Cells were centrifuged and resuspended in 1 ml of culture medium for 24 b .
+The IL-1 $ stimulation was then performed after the addition of 2 ml of fresh medium .
+For stable transfections , MCF7 A/Z cells were transfected with the linearized peDNA3 ( 10 pg ) empty vector or with the 5-LOX expression vector ( 10 pg ) ( MCF7 A/Z LOX ) by using the DOTAP system ( Bochringer Mannheim ) .
+Forty-eight hours later , transfected cells were selected in a medium containing G418 at 0.5 mg/ml .
+After 15 days of selection , 10 G418-resistant colonies were isolated , grown separately , and selected for 5-LOX expression by immunoblotting .
+Positive selection of CD20-positive cells .
+Cells transfected with the CD20 expression vectors were washed , incubated in the presence of a fluorescein isothiocyanate ( FITC ) -conjugated anti-CD20 monoclonal antibody ( Sanver Tech , Boechout , Belgium ) for 30 min , washed again , and then incubated with magnetic beads coated with a monoclonal anti-FITC antibody ( Miltenyi Biotec , Germany ) .
+The beads were loaded on columns in a magnetic field , and positive cells were finally eluted in culture medium .
+1952 BONIZZI ET AL .
+Mor .
+CELL .
+BroL .
+A : RAJI B : U937 B = d s in # = & 4 & a 11012 13 14 IL-I1B . }
+4 4 4 4 o o- +0 ¢ 4 0o-HjOQp - > > & o > > > > > * 8060+ so 8k k e kk k 8 # mon n * N_ __P_ MK ETYA N P__ _MK ETYA C : THP-1 D : MCF7A/Z E : HCT-116 1,5 1,5 & = wn C \n ® & & 4 R @ 0 102 3 4 5 6 7 8 9 10 100 2003 4 IL-1B | - .
+4 404 # # 4 40 .
++0 40+ o- 200k 0 0 % 80k 0 # 00 > - > > 6 > > 6 > > 0+ 20 .
+020+ 200k 2 + # 200k 00k 0 + N P MK ETYA FIG .
+2 .
+Production of ROIs following stimulation .
+Formation of ROIs was measured using a DFCH probe in unstimulated and IL-1 6-stimulated cells .
+Panels A , B , and C show the relative fluorescence emission at 525 nm of the DFCH probe in Raji , U937 , and THP-1 cells .
+Columns 1 , background ( no DFCH probe ) ; columns 2 , unstimulated cells ; columns 3 , stimulation with IL-18 ( 50 U/ml ) ; columns 4 , as in columns 3 plus NAC ( 10 mM ) ; columns 5 , as in columns 3 plus NAC ( 20 mM ) ; columns 6 , as in columns 3 plus PDTC ( 60 M ) ; columns 7 , as in columns 3 plus PDTC ( 100 wM ) ; columns 8 , as in columns 3 plus MK886 ( 0.5 M ) ; columns 9 , as in columns 3 plus MK886 ( 1 wM ) ; columns 11 , stimulation with IL-18 ( 50 U/m !
+1 ) ; columns 12 , as in columns 11 plus ETYA ( 35 M ) ; columns 13 , as in columns 11 plus ETYA ( 65 pM ) ; columns 10 and 14 , stimulation with HO , ( 250 M ) .
+Panels D and E show the relative fluorescence emission at 525 nm of the DFCH probe in MCF7 A/Z and HCT-116 cells .
+Columns 1 , background ( no DFCH probe ) ; columns 2 , unstimulated cells ; columns 3 , stimulation with IL-18 ( 50 U/ml ) ; columns 4 , stimulation with H , O , ( 250 pM ) .
+Asterisks indicate that the values were statistically different from the reference values ( A ) .
+NAC _ PDTC _ MK88é ETYA NAC _ PDTC _ MK88é ETVA 3 2 < a 5 5 « z o bi o Li s a s § 1 3 - # ss s § .
+¢ 2 # i lL “ 1l3-1-+++++-9-+ +o+ + -o t 4 4 bo # 4 +o +o + % `` WQ lull ) - sz Wink E 6 bb no $ # B4 44 L4 l “ .
+FIG .
+3 .
+ROI or 5-LOX inhibitors blocked NF- « B activation by IL-1B in a cell-specific manner .
+Nuclear extracts were prepared from Raji ( A ) , U937 ( B ) , THP-1 ( C ) , HCT116 ( D ) , or MCF7 A/Z ( E ) cells , either untreated or stimulated with IL-1B ( 50 U/ml ) .
+The same cells were preincubated prior to IL-1B stimulation with increasing concentrations of NAC , PDTC , MK886 , or ETYA , as indicated in the figure .
+These extracts were analyzed by EMSA for binding to a specific kB probe .
+Vou .
+19 , 1999 NF- « B ACTIVATION BY REACTIVE OXYGEN INTERMEDIATES - 1953 A : MCF7A/Z B : MCF7A/Z -LOX Relative CAT-Activity w to a tn a s co io re to a in on s co io C : MCF7A/Z D : MCF7A/Z -LOX B C Fd sl is a & = & 4 B @ 1 3 4 102 3 4 50 6 7 8 9 10 1112 13 14 15 16 FLAP -o o+ + + Kos s dot tot od $ oto +o t +o+ ILA4B 10 20 q 0 .
+-k 6 $ tot t 4 4 g - +o + + H,0p = - ~ + no € 9 8 8 8 ® s s + s # -o > + _N___P_ MK EIYA FIG .
+4 .
+Transfection of 5-LOX and FLAP expression vectors restored ROI production and ROI-dependent NF-xB activity in MCF7 A/Z cells .
+( A ) MCF A/Z cells were transfected with the HIV-kB-CAT reporter plasmid alone or together with a FLAP expression vector , and CAT activities were measured in unstimulated cells or in cells stimulated with IL-16 for 6 h ( 50 U/m ! )
+, as indicated in the figure .
+The IL-1B treatment was performed in the absence or in the presence of either the FLAP inhibitor MK886 at 0.5 M ( column 5 ) and 1 wM ( column 6 ) or the 5-LOX inhibitor ETYA at 35 M ( column 8 ) and 65 wM ( column 9 ) .
+Each column represents the mean of three independent experiments ( + SD ) .
+We did not observe any statistically significant differences between cells stimulated by IL-1 in the presence or absence of the inhibitors .
+The total amount of transfected DNA was kept constant throughout the experiment by addition of appropriate amounts of the expression vector without insert .
+( B ) MCF A/Z cells stably transfected with the 5-LOX expression vector ( MCF A/Z-LOX ) were transfected with the HIV- « B-CAT reporter plasmid alone or together with a FLAP expression vector , and CAT activities were measured in unstimulated cells or in cells stimulated with IL-1B as described for panel A. Asterisks indicate that values were statistically different from the reference values ( A ) .
+( C ) Formation of ROIs was measured by using DFCH in MCF7 A/Z cells transiently transfected with the FLAP expression vector .
+Column 1 , background ( no DFCH probe ) ; column 2 , unstimulated cells ; column 3 , stimulation with IL-1B ( 50 U/ml ) ; column 4 , stimulation with H , O , ( 250 M ) .
+( D ) ROI production in MCF7 A/Z-LOX cells either unmodified or transiently transfected with the FLAP expression vector .
+Column 1 , background ( no DFCH probe ) ; column 2 , unstimulated cells ; column 3 , stimulation with IL-18 ( 50 U/ml ) ; column 4 , FLAP-transfected unstimulated cells ; column 5 , FLAP-transfected cells stimulated with IL-1B ( 50 U/ml ) ; column 6 , as in column 5 plus NAC ( 10 mM ) ; column 7 , as in column 5 plus NAC ( 20 mM ) ; column 8 , as in column 5 plus PDTC ( 60 M ) ; column 9 , as in column 5 plus PDTC ( 100 M ) ; column 10 , as in column 5 plus MK886 ( 0.5 M ) ; column 11 , as in column 5 plus MK886 ( 1 M ) ; column 13 , stimulation with IL-16 ( 50 U/ml ) ; column 14 , as in column 13 plus ETYA ( 35 M ) ; column 15 , as in column 13 plus ETYA ( 65 aM ) ; columns 12 and 16 , stimulation with HO , ( 250 wM ) .
+Asterisks indicate that values were statistically different from the reference values ( A ) .
+Magnetic cell sorting ( MACS ) -selected cells were further purified by flow RESULTS cytometry .
+Briefly , cells were incubated with the same FITC-conjugated anti CD20 monoclonal antibody and selected by using a flow cell sorter ( FACStar F _ LAP i : F Plus ; Becton Dickinson , San Jose , Calif. ) with a 100 mW air-cooled argon laser EXPreSSlon of 5-LOX and F in cell lines .
+The expression ( Spinnaker 1161 ; Spectra Physics , Mountain View , Calif. ) and the CellQuest 9f 5 “ LOX and FLAP pIOteins was analyzed by immun0b1 ?
+tting software ( Becton Dickinson ) for Macintosh Facstation .
+CD20-positive cells in various cell lines from different lineages , as follows ( Fig .
+1 ) : ( 1.2 x 1T 06115 ) ( Pfiz , > 90 % ) were stimulated with IL-1B , and the ROIs were monocytic cells ( HL-60 and U937 ) , lymphoid B and T cells measured , as described .
+_ r : r Statistical analysis .
+Data are presented as means + standard deviations ( SDs ) .
+( Jurkat ’ EL-4 , 707/3 , and Rap ) ¥ ovarl.an carcinoma cells Differences between measures were assessed by Student 's ¢ tests for unpaired ( OVCAR ' 3 and SKOV ' 3 ) ’ breast carcinoma cells ( MCF7 data .
+A P value of less than 0.05 was considered significant .
+A/Z ) , and colon carcinoma cells ( HCT-116 , HT-29 , and HTM- 1954 BONIZZI ET AL .
+A 24 I > Relative CAT-Activity 3 a Fd C tn ® A .S 4 & @ 1 2 3 4 50 6 708 9 10 11 12 13 14 FLAP =o n t e odo # 404 4 0 % +o ot + + IL-18 soe 4 # ode ode oo 400+ +o +0 + - - > > > > > > > * 800k 0060+ N P__ MK ETYA FIG .
+5 .
+Transfection of the FLAP expression vector restored ROI production and ROI-dependent NF- « B activity in HCT-116 cells .
+( A ) HCT-116 cells were transfected with the HIV- « kB-CAT reporter plasmid alone or together with a FLAP expression vector , and CAT activities were measured in unstimulated cells or in cells stimulated with IL-186 for 6 h ( 50 U/ml ) , as indicated in the figure .
+The IL-1§6 treatment was performed in the absence or in the presence of either the FLAP inhibitor MK886 at 0.5 M ( column 5 ) and 1 wM ( column 6 ) or the 5-LOX inhibitor ETYA at 35 M ( column 8 ) and 65 M ( column 9 ) .
+Each column represents the mean of three independent experiments ( + SD ) .
+Asterisks indicate that values were statistically different from the reference values ( A ) .
+( B ) Formation of ROIs in HCT-116 cells transiently transfected with the FLAP expression vector .
+Column 1 , background ( no DFCH probe ) ; column 2 , unstimu-lated , FLAP transfected cells ; column 3 , stimulation with IL-18 ( 50 U/ml ) ; column 4 , as in column 3 plus NAC ( 10 mM ) ; column 5 , as in column 3 plus NAC ( 20 mM ) ; column 6 , as in column 3 plus PDTC ( 60 M ) ; column 7 , as in column 3 plus PDTC ( 100 mM ) ; column 8 , as in column 3 plus MK886 ( 0.5 uM ) ; column 9 , as in column 3 plus MK886 ( 1 M ) ; column 11 , stimulation with IL-18 ( 50 U/ml ) ; column 12 , as in column 11 plus ETYA ( 35 M ) ; column 13 , as in column 11 plus ETYA ( 65 M ) ; columns 10 and 14 , stimulation with H , O ; ( 250 M ) .
+Asterisks indicate that values are statistically different from the reference values ( A ) .
+29 ) ( Fig .
+1A ) .
+Using an antibody directed against the human 5-LOX , the protein was detected in Raji , SKOV-3 , HCT-116 , HT-29 ( faint band ) , and HTM-29 cells but not in the murine cell lines .
+Moreover , we could not detect any 5-LOX expression in the THP-1 monocytic cells ( data not shown ) .
+5-LOX Mor .
+CELL .
+BioL .
+mRNA expression was also detected by reverse transcription ( RT ) -PCR in the murine lymphoid cell lines 70Z % /3 and EL-4 ( reference 7 and data not shown ) .
+In other words , we could not observe any 5-LOX expression , either by immunoblotting or by RT-PCR , in monocytic cells or in breast or ovarian carcinoma cells .
+Similarly , the FLAP protein was detected by Western blotting in the four analyzed lymphoid cell lines ( Fig .
+1 ) .
+Its expression was high in Raji cells and considerably lower in Jurkat cells .
+A faint and more slowly migrating specific band was also detected with the human antibody in the murine cell lines EL-4 and 70Z/3 .
+The expression of FLAP was not observed in any of the adenocarcinoma cell lines .
+Among monocytic cell lines , FLAP was expressed in U937 and THP-1 cells but not in HL-60 cells ( Fig .
+1 and data not shown ) .
+We could thus conclude that only the lymphoid cells expressed simultaneously 5-LOX and FLAP proteins and could therefore demonstrate 5-LOX enzymatic activity .
+ROI production following stimulation .
+We previously reported that IL-18B stimulation led to the generation of ROIs in lymphoid cells but not in epithelial transformed cells ( 6 ) .
+In order to determine whether ROI production was due to 5-LOX activity , U937 , Raji , MCF7 A/Z , and HCT-116 cells were stimulated with IL-1§6 ( 50 U/ml ! )
+for 15 min and analyzed with a DFCH probe for ROI detection ( Fig .
+2 ) .
+Under these conditions , IL-1B treatment of Raji cells led to the production of ROIs ( Fig .
+2A ; compare columns 2 and 3 ) .
+As expected , preincubation of Raji cells with the antioxidant NAC or PDTC abolished ROI accumulation ( columns 4 to 7 ) .
+Interestingly , preincubation of Raji cells prior to IL-1B stimulation with MK886 , a specific inhibitor of FLAP ( 40 ) ( columns 8 and 9 ) , or with the 5-LOX inhibitor ETYA ( columns 12 and 13 ) completely abolished or markedly decreased ROI production , confirming that 5-LOX activity was required for IL-1B-induced intracellular oxidative stress in lymphoid cells .
+As a positive control , we measured ROI production in H , O , -treated cells ( 250 M ) ( columns 10 and 14 ) ; MK886 did not influence the ROI production after H , O , treatment , indicating that this inhibitor exerts a specific action ( data not shown ) .
+Stimulation of U937 or THP-1 monocytic cells with IL-18B also generated ROIs ( Fig .
+2B and C ; compare columns 2 and 3 ) .
+Again , the production of ROIs was completely or partially abolished by preincubation of these cells with the antioxidant NAC or PDTC ( columns 4 to 7 ) .
+Similar data were obtained with HL60 cells ( data not shown ) .
+However , contrasting with the observation made with Raji cells , MK886 and ETYA failed to block ROI induction in monocytic cells ( columns 8 , 9 , 12 , and 13 ) , demonstrating that 5-LOX activity was not responsible for this production .
+Stimulation of HCT116 or MCF7 A/Z cells with IL-18 did not generate any significant ROI production ( Fig .
+2D and E , ; compare columns 2 , without IL-18 , and columns 3 , in the presence of IL-1B ) .
+The last observation confirmed our previously reported data obtained with ovarian carcinoma OVCAR-3 cells ( 6 ) , indicating that IL-1B did not generate any oxidative stress in epithelial transformed cells .
+Induction of NF-B following IL-1B stimulation .
+Several reports stated that NF-kB induction following a number of stimuli depended on ROI production ( 50-52 ) .
+However , we reported that IL-1B induced NF-kB in adenocarcinoma cells independently of any cellular oxidative stress ( 6 ) , an observation confirmed by the experiments described in Fig .
+2 .
+We therefore further evaluated the role of 5-LOX activity in NF-kB activation after IL-1B stimulation of lymphoid or monocytic cells .
+Stimulation of Raji , U937 , or THP-1 cells with IL-18 induced nuclear NF-kB DNA-binding activity as dem Vor .
+19 , 1999 Emission at 525 nm B B wn € in = ® P - & 2 2 & m NF- « B ACTIVATION BY REACTIVE OXYGEN INTERMEDIATES - 1955 B : THP-1 + FIG .
+6 .
+NADPH oxidase inhibitors blocked ROI production induced by IL-1§ stimulation in monocytic cells .
+Formation of ROIs was measured by using a DFCH probe in U937 ( A ) , THP-1 ( B ) , and Raji ( C ) cells after IL-18 stimulation , with and without preincubation in the presence of the NADPH oxidase inhibitors DPI and PAO .
+Columns 1 , background ( no DFCH probe ) ; columns 2 , unstimulated cells ; columns 3 , stimulation with IL-1B ( 50 U/m ! )
+; columns 4 , as in columns 3 plus PAO ( 30 ug/ml ) ; columns 5 , as in columns 3 plus PAO ( 60 pg/ml ) ; columns 7 , stimulation with IL-1B ( 50 U/ml ) ; columns 8 , as in columns 7 plus DPI ( 10 M ) ; columns 9 , as in columns 7 plus DPI ( 30 M ) ; columns 6 and 10 , stimulation with H , O ; ( 250 M ) .
+Asterisks indicate that values are statistically different from the reference values ( A ) .
+onstrated by EMSA ( Fig .
+3A , B , and C ) .
+Pretreatment with antioxidant NAC or PDTC completely abolished NF- « B activation in the three cell lines .
+However , pretreatment with the FLAP inhibitor MK-886 or the 5-LOX inhibitor ETYA inhibited IL-1B-dependent NF-KB activation in Raji cells ( Fig .
+3A ) while it did not affect this induction in U937 or THP-1 cells ( Fig .
+3B and C ) .
+Similarly , antioxidants , MK-866 , or ETYA failed to abolish NF- « B activation by IL-18 in MCF7 A/Z and HCT-116 cells ( Fig .
+3D and E ) , confirming our previous observation in OVCAR-3 and SKOV-3 epithelial cells ( 6 , 7 ) .
+These data thus indicate that 5-LOX activity plays an important role in ROI production and NF- « B activation in lymphoid cells but not in monocytic or epithelial cells .
+Reconstitution of the 5-LOX/FLAP pathway in adenocarcinoma cells .
+In order to confirm the data obtained with EMSAs , MCF7 A/Z cells were transfected with a reporter plasmid containing a CAT gene driven by the two kB sites from the HIV LTR ( HIV- « kB-CAT ) and then stimulated with IL-186 .
+Such a treatment induced CAT activity three- to fourfold over the basal activity observed in untreated control cells ( Fig .
+4A ) .
+Cotransfection of the FLAP expression vector did not allow any further induction of CAT activity following stimulation ( columns 3 and 4 ) .
+Moreover , the 5-LOX inhibitors MK-886 and ETYA failed to block IL-18 induction of NF-kB-dependent transcription in either FLAP -expressing ( Fig .
+4A , columns 5 , 6 , 8 , and 9 ) or nonexpressing cells ( data not shown ) .
+The same experiment was then performed in MCF7 A/Z cells stably transfected with a 5-LOX expression vector ( MCF7 A/Z-LOX ) .
+In these cells , IL-1B induced NF-kB transcriptional activity and this activity was not modified in the presence of MK886 ( Fig .
+4B and data not shown ) .
+Transient transfection of MCF7 A/Z-LOX cells with the FLAP expression vector led to a small increase of the IL-1B-induced CAT activity ( Fig .
+4B , column 4 ) .
+In the presence of FLAP , treatment of MCF7 A/Z-LOX cells with MK-886 or ETYA completely abolished IL-1B-dependent transcriptional activity ( columns 5 , 6 , 8 , and 9 ) .
+Consistently with these CAT assays , transient transfections of MCF7 A/Z cells with the FLAP expression vector did not allow any generation of ROIs , even after IL-1B stimulation ( Fig .
+4C ; compare columns 2 and 3 ) .
+However , transient transfection of the FLAP expression vector in MCF7 A/Z-LOX cells led to a marked increase in ROI production after IL-18 treatment ( Fig .
+4D ; compare columns 4 and 5 ) while stable expression of 5-LOX alone was not sufficient for such an effect ( columns 2 and 3 ) .
+As expected , NAC , PDTC , MK886 , and 1956 BONIZZI ET AL .
+ro P © pr Pa0 _DPL + 30ug ‘ + 30 uM|** + 60 ug + 10 uM 56 ZL 4 bd + + 60 ug + 10 uM + 30 uM ILAB | .
+, oo We C B + s y ) ba hai bl Wad FIG .
+7 .
+NADPH oxidase inhibitors blocked NF- « B activation by IL-1B in monocytic cells .
+Nuclear extracts were prepared from Raji ( A ) , U937 ( B ) , THP-1 ( C ) , HCT116 ( D ) , or MCF7 A/Z ( E ) cells , either untreated or stimulated with IL-18 ( 50 U/ml ) .
+The same cells were preincubated for 1 h prior to IL-18B stimulation with increasing concentrations of DPI or PAO , as indicated in the figure .
+These extracts were analyzed by EMSA for binding to a specific kB probe .
+ETYA reduced ROI production in MCF7 A/Z cells transfected stably with the 5-LOX expression vector and transiently with the FLAP expression vector ( columns 6 to 11 , 14 , and 15 ) .
+In HCT-116 cells , which express the 5-LOX enzyme but not the FLAP protein , IL-1 stimulated threefold the NF-kB-de-pendent CAT activity ( Fig .
+5A ) and this stimulation was not blocked by MK886 ( data not shown ) .
+Again , after cotransfection of the FLAP expression vector , we observed a small increase in the transcription induced by IL-1B ( column 4 ) , an effect which was inhibited by preincubation of the cells with MK886 ( columns 5 and 6 ) or ETYA ( columns 8 and 9 ) .
+Similarly , transient transfection of the FLAP expression vector in HCT-116 cells was sufficient to allow the production of ROIs after IL-1B stimulation ( Fig .
+5B ) , a production which was inhibited by preincubation with NAC , PDTC , MK886 , or ETYA .
+We can thus conclude that coexpression of 5-LOX and FLAP is required to restore the 5-LOX-dependent pathway leading to production of ROIs and consequent NF-xB activation .
+NADPH oxidase is required for ROI production in IL-1-treated monocytic cells .
+Monocytic cells such as U937 or THP-1 cells produce ROIs in response to IL-1B stimulation but do not express 5-LOX .
+They must therefore rely on another source for ROI production , and this source was deemed most likely to be NADPH oxidase .
+We first investigated whether NADPH oxidase inhibitors could block ROI production in IL-1B-stimulated monocytic cells .
+As already shown in Fig .
+2 , IL-1B treatment induced ROIs in THP-1 and U937 cells ( Fig .
+6A and B ; compare columns 2 and 3 ) .
+Preincubation of these cells with DPI or PAO inhibited in a dose-dependent manner IL-1B-induced ROI production ( Fig .
+6A and B , columns 4 , 5 , 8 , and 9 ) .
+Interestingly , preincubation of Raji cells with the same NADPH oxidase inhibitors did not block ROI production ( Fig .
+6C ) .
+” Eb investigate whether NADPH oxidase was involved in Mor .
+CELL .
+BioL .
+NF-kB activation by IL-18B , nuclear extracts were prepared from cells preincubated with the same inhibitor , DPI or PAO , prior to IL-1B stimulation .
+These inhibitors did not modify NF-kB activation induced by IL-18 in Raji , MCF7 A/Z , or HCT-116 cells , as demonstrated on EMSAs ( Fig .
+7A , D , and E ) .
+However , they abolished in a dose-dependent manner the induction of NF-kB in U937 and THP-1 monocytic cells ( Fig .
+7B and C ) , indicating that NADPH oxidase activity was required for the IL-1B-dependent signaling pathway leading to IxBa degradation in these cells .
+Rac and Cdc42 are required for ROI production and NF-KB activation in IL-1f-treated monocytic cells .
+Rho , Racl , and Cdc42 , all members of the Ras superfamily of GTPases , have been noted to play a role in several transduction processes , including the JNK/SAPK and MAPK pathways ( 60 ) .
+More recently , it has been reported that Rho , Racl , and Cdc42 are involved in NF-kB induction by TNF- « or bradykinin ( 45 , 46 ) .
+The NADPH oxidase component p67° `` `` * associates with Cdc42/Rac , and Racl is required for the activation of NADPH oxidase ( 1 , 5 , 21 ) .
+Therefore , we investigated whether these GTPases are involved in IL-1B-induced NF- « B activation in adenocarcinoma or monocytic cells .
+MCF7 A/Z cells were cotransfected with the HIV- « B-CAT reporter plasmid together with expression vectors coding for wild-type or dominant-negative RhoA , Racl , or Cdc42 ( Fig .
+8A ) .
+Again , IL-1B stimulation induced three- to four-fold the basal CAT activity .
+This transcriptional activation was not modified in the presence of wild-type or mutant Rho , Rac1 , or Cdc42 proteins .
+Similarly , treatment of MCF7 A/Z cells with TNF-a « or arachidonic acid also activated NF- « B-dependent transcription of the CAT reporter gene .
+Again , the expression of wild-type or mutant GTPases did not modify this induction ( data not shown ) .
+We thus concluded that RhoA , Racl , and Cdc42 are not required for NF- « B activation by IL-1 , TNF-a , or arachidonic acid in MCF7 A/Z cells .
+In monocytic cells ( THP and U937 ) , however , while transfection of expression vectors for wild-type RhoA , Racl , or Cdcd42 did not modify transcription of an NF- « kB-dependent reporter plasmid , the expression of the Racl1 and Cdc42 dominant-negative mutants almost completely inhibited IL-1B-induced NF- « B-dependent gene transcription ( Fig .
+8B and C ) .
+In order to demonstrate that Cdc42 and Racl dominant-negative mutants could block ROI production in monocytic cells , U937 cells were transiently transfected with expression vectors coding for these mutants or the wild-type enzymes .
+Since the transfection efficiency was very low and did not allow the detection of any difference in ROI production , these cells were then cotransfected with the mentioned plasmids together with an expression vector coding for the CD20 antigen .
+Transfected cells were purified through two rounds of positive selection with an anti-CD20 monoclonal antibody , first by MACS and then by flow cytometry .
+Purified transfected cells ( 1.2 X 10° cells ) were then treated with IL-1 $ B , and ROI production was measured as described above .
+Under these conditions , IL-16 stimulation generated ROIs ( Fig .
+9 ) .
+This production of ROIs was not modified by the expression of wild-type Cdc42 or Racl enzyme , while it was significantly reduced by the two dominant-negative mutants , confirming their implied roles in induced ROI production in monocytic cells .
+DISCUSSION The signaling pathways leading to NF-kB activation following cellular stimulation with proinflammatory cytokines have been the subject of many investigations but remain a matter of Vor .
+19 , 1999 A : MCF7ZA/Z Relative CAT Activity IL-18 o ) : U937 Relative CAT Activity Cedaz g § 2 @ +0 - + 4 Rac IL-1 $ ~ + & 9 E ~ V + NF- « B ACTIVATION BY REACTIVE OXYGEN INTERMEDIATES - 1957 B : THP-1 go 4 f T l 3 8s & V 1 + 1 + + + FIG .
+8 .
+GTPases are required for NF-xB transcriptional activity in monocytic cells .
+MCF7 A/Z ( A ) , THP-1 ( B ) , or U937 ( C ) cells were transfected with the HIV- « B-CAT reporter plasmid alone or together with expression vectors for wild-type or dominant-negative RhoA , Racl , and Cde42 .
+Cells were either untreated ( - ) or stimulated with IL-1B ( + ) for 6 h , and CAT activities were measured .
+Each column represents the mean of three independent experiments ( + SD ) .
+Asterisks indicate that values are statistically different from the reference values ( A ) .
+discussion .
+The recent discovery of IxBa kinases IKK-B , and IKK-y ) and their activation by the NIK kinase led to the hypothesis that TNF- « or IL-1B receptors are connected to IkxBa through TRAF adapter proteins , NIK and IKKs ( 20 , 33 , 39 , 42 , 56 , 66 ) .
+However , such a model did not incorporate the results of previous studies indicating the role of other signaling intermediates such as ROIs , ceramide , or Rho proteins and left unidentified other members of the large signaling complex .
+These discrepancies could be explained by cell type specificities .
+Indeed , most of the studies reported so far investigated a single cell line , and the models derived from such experiments might not be confirmed in different settings .
+We previously reported that ROIs and the PKC A/ .
+isoform play a cell-specific role in NF-KB activation by IL-1B8 or TNF-a ( 6-8 ) .
+In this study , we explored the sources of ROIs in different cell types and their roles in NF-KB activation by IL-1B .
+At least three different pathways that lead to induction of nuclear NF-kB DNA-binding activity and transactivation of a reporter gene after cellular treatment with IL-18B can be identified ( Fig .
+10 ) .
+Lymphoid cells , such as Raji or 70Z/3 cells , express 5-LOX and its activating protein FLAP , and 5-LOX enzymatic activity is required for ROI production and NF-kB activation following stimulation by IL-18B .
+In these cells , the ROIs are essential for IxBa degradation and NF-xB activation ( 6 ) but it is not known whether ROIs can directly or indirectly activate the IKK kinases or whether other IxBa kinases are involved .
+Epithelial cells do not express the 5-LOX/FLAP enzymatic complex and do not produce ROIs in response to IL-1B or TNF- « .
+Reconstitution of the 5-LOX/FLAP system in these cells showed that , despite high catalase activity ( 7 ) , this enzymatic activity was sufficient to restore ROI production and ROI-dependent NF- « B activation .
+In other words , once the 5-LOX pathway is functional , it becomes predominant .
+These data , as well as those obtained with monocytic and lymphoid cells , suggest that the ROIs might activate the signalsome .
+In the absence of 5-LOX , as we had previously reported , an alternative pathway which involves the activation of acid sphingomyelinase and the production of ceramide could be essential 1958 BONIZZI ET AL .
+0,47 A A 3 0,37 A up ed Ld 8 0,21 A .S 3 aA m 0,11 s a - a IL-1B = - + + + + + FIG .
+9 .
+GTPases are required for ROI production in response to IL-1§ in monocytic cells .
+U937 cells were transfected with the CD20 expression vector and with plasmids coding for wild-type ( Cdc42 and Rac ) or dominant-negative ( Cde42 `` and Rac `` ) Racl and Cdc42 .
+CD20-expressing transfected cells were positively selected with an anti-CD20 monoclonal antibody through MACS and flow cytometry cell sorting .
+Selected cells were either untreated ( - ) or stimulated with IL-1B ( + ) for 15 min , and formation of ROIs was measured by using a DFCH probe .
+Asterisks indicate that values are statistically different from the reference values ( A ) .
+for NF- « B activation by IL-186 in epithelial cells ( 7 ) , but such an hypothesis remains to be confirmed by genetic studies .
+Finally , monocytic cells ( THP-1 or U937 cells ) do not express the 5-LOX enzyme but produce ROIs in response to IL-18 or TNF- « .
+In these cells , ROIs are generated by the NADPH oxidase and are required for NF- « B activation by proinflammatory cytokines .
+Moreover , the induction of NF- « B by IL-18 , TNF-a , or arachidonic acid in monocytic cells also requires the activity of small GTPases .
+We concluded that Rho and Rac proteins stimulated ROI production through NADPH NADPH oxidase pl £ 3 ?
+~A ( Ip Q4 __ -- A__ FIG .
+10 .
+Signaling pathways for NF- « B activation by IL-16B .
+Following the interaction of IL-1 with the type 1 IL-1 receptor , the NIK-IKK pathway can be activated through the MyD88 , IRAK , and TRAF6 signaling proteins .
+Alterna-tively , Racl and Cdc42 can activate the NADPH oxidase complex and induce NF- « B activity through the production of ROIs .
+Other pathways involve , in lymphoid cells , the cytoplasmic phospholipase A2 , the 5-LOX , and FLAP complex and the production of ROIs or , in epithelial cells , the acid sphingomyelinase ( SMase ) and the production of ceramide .
+CPLA2 , cytosolic phospholipase A2 .
+Mor .
+CELL .
+BioL .
+oxidase activation in macrophages/monocytes .
+As for lymphoid cells , we do not know how ROIs are connected to IxBa kinases .
+These data thus disclosed two distinct , cell-specific sources of ROIs , which are each required for NF-kB activation by proinflammatory cytokines , and a third pathway leading to NF- « B activation independently of ROI production ( Fig .
+10 ) .
+Such cell specificity might be explained by the association of distinct proteins with the IL-1 receptor .
+Indeed , IL-1R associates with TRAF6 , My D88 , IRAK , and IRAK-2 proteins , which are all required for NF- « B activation ( 14-16 , 31 , 44 , 61 ) .
+Moreover , other proteins might also associate with this receptor .
+It is possible that the expression of each of these receptor-associated adapter proteins or kinases is cell specific and therefore initiates distinct transduction pathways .
+Indeed , it has been shown that , although TRAF6 , MyD88 , IRAK , and IRAK-2 mRNAs could be detected in most cell types and organs , their levels of expression vary considerably ( 15 , 16 , 28 , 44 ) .
+It would be most interesting to determine whether different proteins are associated with the IL-1 type I receptor in lymphoid , monocytic , or epithelial cells and play specific , cell type-related , signaling roles .
+These signaling pathways leading to NF- « B activation might be related to distinct IL-1 biological activities in different cell types .
+The nature of the activated NF- « xB complexes might be different for each pathway and lead to the transcription of distinct target genes .
+Each pathway is also controlled differ-ently .
+For instance , antioxidant cellular defenses could regulate pathways involving ROI production while distinct phosphatases could dephosphorylate kinase substrates and specifically regulate signal transduction .
+Finally , the activation of distinct pathways leads to the concomitant activation of NF-kB and other specific transcription factors .
+In a given cellular context , the activation of a specific set of transcription factors , including NF-kB , certainly regulates the expression of distinct target genes and thus allows an appropriate cellular response to the applied stimulus .
+Further experiments are required in order to identify NF- « B target genes specifically induced by IL-1B in lymphoid , monocytic , or epithelial cells and to determine cell-specific mechanisms of regulation for each of them .
+It has been shown that IL-1B can exert pro- or anti-apoptotic activities in HeLa and L929 cells ( 27 ) .
+Moreover , high IL-1B levels have been measured in the sera of patients with ovarian adenocarcinomas ( 67 ) .
+It is therefore crucial to better understand the role of IL-18 in normal and transformed epithelial cells and to identify the biochemical pathways mediating its biological activities .
+ACKNOWLEDGMENTS We thank J. Evans ( Merck Frosst Centre for Therapeutic Research , Quebec , Canada ) for the MK-886 inhibitor , for the 5-LOX and FLAP expression vectors , and for the FLAP and 5-LOX antibodies , L. Cross ( National Institutes of Health , Bethesda , Md . )
+for the RhoA , Racl , and Cdcd42 constructs , and Jim Koh ( Laboratory of Molecular Oncology , Massachusetts General Hospital and Harvard Medical School ) for the CD20 expression plasmid .
+We are most thankful to J. Gielen for his support and critical comments about the manuscript , to O. Giet for his help with the MACS selection , and to F. Bureau for statistical analysis .
+M.-P.M. and V.B .
+are research associates and J.P. is a research director at the National Fund for Scientific Research ( Belgium ) .
+G.B .
+is a fellow from the Biotechnology Programme , European Commis-sion .
+This work has been supported by grants from the National Fund for Scientific Research ( FNRS , Belgium ) , FNRS-Télévie ( Belgium ) , the Centre Anti Cancéreux ( University of Liége , Liege , Belgium ) , and the EEC Biomed II program ( grant BMH4-CT97-2387 ) .
+Vor .
+19 , 1999 10 .
+11 .
+12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+25 .
+26 .
+27 .
+REFERENCES .
+Abo , A. , A. Boyhan , I .
+West , A. J. Thrasher , and A. W. Segal .
+1992 .
+Recon- stitution of neutrophil NADPH oxidase activity in the cell-free system by four components : p67-phox , p47-phox , p2iracl and cytochrome b-245 .
+J. Biol .
+Chem .
+267:16767-16770. .
+Baldwin , A. S. 1996 .
+The NF-kB and IxB proteins : new discoveries and insights .
+Annu .
+Rev .
+Immunol .
+14:649-681. .
+Barnes , P. J. , and M. Karin .
+1997 .
+Nuclear factor- « B-a pivotal transcrip- tion factor in chronic inflammatory diseases .
+N. Engl .
+J. Med .
+336:1066-1071. .
+Beg , A .
+A. , T. S. Finco , P. V. Nantermet , and A. S. Baldwin , Jr. 1993 .
+Tumor necrosis factor and interleukin-1 lead to phosphorylation and loss of IxBa : a mechanism for NF-xB activation .
+Mol .
+Cell .
+Biol .
+13:3301-3310. .
+Bokoch , G. M. 1995 .
+Regulation of the phagocyte respiratory burst by small GTP-binding proteins .
+Trends Cell Biol .
+5:109-113. .
+Bonizzi , G. , E. Dejardin , B. Piret , J. Piette , M.-P. Merville , and V. Bours .
+1996 .
+IL-1§6 induces NF-B in epithelial cells independently of the production of reactive oxygen intermediates .
+Eur .
+J. Biochem .
+242:544-549. .
+Bonizzi , G. , J. Piette , M.-P. Merville , and V. Bours .
+1997 .
+Distinct signal transduction pathways mediate nuclear factor- « B induction by IL-16 in epithelial and lymphoid cells .
+J. Immunol .
+159:5264-5272. .
+Bonizzi , G. , S. Schoonbroodt , J. Piette , M.-P. Merville , and V. Bours .
+Im- plication of the protein kinase C A/ isoform in NF- « B activation by IL-18 or TNF-a : cell type specificities .
+Biochem .
+Pharmacol .
+, in press .
+.
+Bours , V. , P. R. Burd , K. Brown , J. Villalobos , S. Park , R.~P .
+Ryseck , R. Bravo , K. Kelly , and U. Siebenlist .
+1992 .
+A novel mitogen-inducible gene product related to p50/p105-NF- « B participates in transactivation through a xB site .
+Mol .
+Cell .
+Biol .
+12:685-695 .
+Bowie , A. , P. N. Moynagh , and L. A. J. O'Neill .
+1997 .
+Lipid peroxidation is involved in the activation of NF-kB by tumor necrosis factor but not interleukin-1 in the human endothelial cell line ECV304 .
+J. Biol .
+Chem .
+272 : 25941-25950 .
+Brennan , P. , and L. A. J. O'Neill .
+1995 .
+Effects of oxidants and antioxidants on nuclear factor xB activation in three different cell lines : evidence against a universal hypothesis involving oxygen radicals .
+Biochim .
+Biophys .
+Acta 1260:167-175 .
+Brown , K. , S. Gerstberger , L. Carlson , G. Franzoso , and U. Siebenlist .
+1995 .
+Control of IxB-a proteolysis by site-specific , signal-induced phosphorylation .
+Science 267:1485-1488 .
+Brown , K. , S. Park , T. Kanno , G. Franzoso , and U. Siebenlist .
+1993 .
+Mutual regulation of the transcriptional activator NF- « B and its inhibitor , IxB- « .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:2532-2536 .
+Burns , K. , F. Martinon , C. Esslinger , H. Pabl , P. Schneider , J.-L. Bodmer , F. Di Marco , L. French , and J. Tschopp .
+1998 .
+MyD88 , an adapter protein involved in interleukin-1 signaling .
+J. Biol .
+Chem .
+273:12203-12209 .
+Cao , Z. , W. J. Henzel , and X. Gao .
+1996 .
+IRAK : a kinase associated with the interleukin-1 receptor .
+Science 271:1128-1131 .
+Cao , Z. , J. Xiong , M. Takeuchi , T. Kurama , and D. V. Goeddel .
+1996 .
+TRAF6 is a signal transducer for interleukin-1 .
+Nature 383:443-446 .
+Chen , Z. J. , L. Parent , and T. Maniatis .
+1996 .
+Site-specific phosphorylation of IxBa by a novel ubiquitination-dependent protein kinase activity .
+Cell 84:853-862 .
+Coso , O .
+A. , M. Chiarello , J. C. Yu , H. Teramoto , P. Crespo , N. Xu , T. Miki , and J. S. Gutkind .
+1995 .
+The small GTP-binding proteins Racl and Cdc42 regulate the activity of the JNK/SAPK signaling pathway .
+Cell 81:1137-1148 .
+Diaz-Meco , M. T. , E. Berra , M. M. Municio , L. Sanz , J. Lozano , I. Dominguez , V. Diaz-Golpe , M. T. Lain de Lera , J. Alcami , C. V. Paya , F. Arenzana-Seisdedos , J.-L. Virelizier , and J. Moscat .
+1993 .
+A dominant negative protein kinase C { subspecies blocks NF-B activation .
+Mol .
+Cell .
+Biol .
+13:4770-4775 .
+DiDonato , J .
+A. , M. Hayakawa , D. M. Rothwarf , E. Zandi , and M. Karin .
+1997 .
+A cytokine-responsive IxB kinase that activates the transcriptional factor NF-kB .
+Nature 388:548-554 .
+Diekmann , D. , A. Abo , C. Johnston , A. W. Segal , and A .
+Hall .
+1994 .
+Interaction of Rac with p67phox and regulation of phagocytic NADPH activity .
+Science 265:531-533 .
+Dinarello , C. A .
+1996 .
+Biologic basis for interleukin-1 in disease .
+Blood 87:2095-2147 .
+Dixon , R. A. F. , R. E. Diehl , E. Opas , E. Rands , P. J. Vickers , J. F. Evans , J. W. Gillard , and D. K. Miller .
+1990 .
+Requirement of a 5-lipoxygenase-activating protein for leukotriene synthesis .
+Nature 343:282-284 .
+Dominguez , L , L. Sanz , F. Arenzana-Seisdedos , M. T. Diaz-Meco , J.-L. Virelizier , and J. Moscat .
+1993 .
+Inhibition of protein kinase C { subspecies blocks the activation of an NF- « B-like activity in Xenopus laevis oocytes .
+Mol .
+Cell .
+Biol .
+13:1290-1295 .
+Finco , T. S. , and A. S. J. Baldwin .
+1993 .
+B site-dependent induction of gene expression by diverse inducers of nuclear factor « B requires Raf-1 .
+J. Biol .
+Chem .
+268:17676-17679 .
+Franzoso , G. , V. Bours , S. Park , M. Tomita-Yamaguchi , K. Kelly , and U. Siebenlist .
+1992 .
+The candidate oncoprotein Bcl-3 is an antagonist of p50/ NF- « B-mediated inhibition .
+Nature 359:339-342 .
+Friedlander , R. M. , V. Gagliardini , R. J. Rotello , and J. Yuan .
+1996 .
+Functional role of interleukin 16 ( IL-18 ) in IL-1B-converting enzyme-mediated NF- « B ACTIVATION BY REACTIVE OXYGEN INTERMEDIATES 28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+1959 apoptosis .
+J. Exp .
+Med .
+184:717-724 .
+Hardiman , G. , F. L. Rock , S. Balasubramanian , R. A. Kastelein , and J. F. Bazan .
+1996 .
+Molecular characterization and modular analysis of human MyD88 .
+Oncogene 13:2467-2475 .
+Harrison , K. A. , and R. C. Murphy .
+1995 .
+Isolcukotrienes are biologically active free radical products of lipid peroxidation .
+J. Biol .
+Chem .
+270:17273-17278 .
+Huang , J. , X. Gao , and Z. Cao .
+1997 .
+Recruitment of IRAK to the interleukin 1 receptor complex requires interleukin 1 receptor accessory protein .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 94:12829-12832 .
+Kanakaraj , P. , P. H. Schafer , D. E. Cavender , Y. Wu , K. Ngo , P. F. Grealish , S. A. Wadsworth , P. A. Peterson , J. J. Sickierka , C. A. Harris , and W.-P. Fung-Leung .
+1998 .
+Interleukin ( IL ) -1 receptor-associated kinase ( IRAK ) requirement for optimal induction of multiple IL-1 signaling pathways and IL-6 production .
+J. Exp .
+Med .
+187:2073-2079 .
+Kolesnick , R. , and D. W. Golde .
+1994 .
+The sphingomyelin pathway in tumor necrosis factor and interleukin-1 signaling .
+Cell 77:325-328 .
+Lee , F. S. , J. Hagler , Z. J. Chen , and T. Maniatis .
+1997 .
+Activation of the IxBa kinase complex by MEKK1 , a kinase of the JNK pathway .
+Cell 88 : 213-222 .
+Lee , S. , K. A. Felts , G. C. N. Parry , L. M. Armacost , and R. R. Cobb .
+1997 .
+Inhibition of 5-lipoxygenase blocks IL-1B-induced vascular adhesion mole-cule-1 gene expression in human endothelial cells .
+J. Immunol .
+158:3401-3407 .
+Legrand-Poels , S. , D. Vaira , J. Pincemail , A .
+Van de Vorst , and J. Pictte .
+1990 .
+Activation of human immunodeficiency virus type 1 by an oxidative stress .
+AIDS Res .
+Hum .
+Retroviruses 6:1389-1397 .
+Lewis , R. A. , K. F. Austen , and R. J. Soberman .
+1990 .
+Leukotrienes and other products of the 5-lipoxygenase pathway .
+N. Engl .
+J. Med .
+323:645-655 .
+Los , M. , H. Schenk , K. Hexel , P. A. Baeuerle , W. Droge , and K. Schulze-Osthoff .
+1995 .
+IL-2 gene expression and NF-kB activation through CD28 requires reactive oxygen production by 5-lipoxygenase .
+EMBO J .
+14:3731-3740 .
+Machleidt , T. , K. Wieg T. Henkel , S. Schiitze , P. Baeuerle , and M. Krionke .
+1994 .
+Sphingomyelinase activates proteolytic IxB- « degradation in a cell-free system .
+J. Biol .
+Chem .
+269:13760-13765 .
+Malinin , N. L. , M. P. Boldin , A. V. Kovalenko , and D. Wallach .
+1997 .
+MAP3K-related kinase involved in NF- « B induction by TNF , CD95 and IL-1 .
+Nature 385:540-544 .
+Mancini , J .
+A. , P. Prasit , M. G. Coppolino , P. Charleson , S. Leger , J. F. Evans , J. W. Gillard , and P. J. Vickers .
+1991 .
+5-Lipoxygenase-activating protein is the target of a novel hybrid of two classes of leukotriene biosyn-thesis inhibitors .
+Mol .
+Pharmacol .
+41:267-272 .
+Maniatis , T. 1997 .
+Catalysis by a multiprotein IxB kinase complex .
+Science 278:818-819 .
+Mercurio , F. , H. Zhu , B. W. Murray , A. Shevchenko , B. L. Bennet , J. W. Li , D. B .
+Young , M. Barbosa , M. Mann , A. Manning , and A. Rao .
+1997 .
+IKK-1 and IKK-2 : cytokine-activated IxB kinases essential for NF- « B activation .
+Science 278:860-865 .
+Miller , D. K. , J. W. Gillard , P. J. Vickers , S. Sadowski , C. Léveillé , J .
+A. Mancini , P. Charleson , R. A. F. Dixon , H. A. W. Ford-Hutchinson , and R. Fortin .
+1990 .
+Identification and isolation of a membrane protein necessary for leukotriene production .
+Nature 343:278-281 .
+Muzio , M. , J. Ni , P. Feng , and V. M. Dixit .
+1997 .
+IRAK ( Pelle ) family member IRAK-2 and MyD88 as proximal mediators of IL-1 signaling .
+Science 278:1612-1615 .
+Pan , Z. K. , R. D. Ye , S. C. Christiansen , M. A. Jagels , G. M. Bokoch , and B. L. Zuraw .
+1998 .
+Role of the Rho GTPase in bradykinin-stimulated nu-clear-kB activation and IL-16 gene expression in cultured epithelial cells .
+J. Immunol .
+160:3038-3045 .
+Perona , R. , S. Montaner , L. Saniger , I. Sanchez-Perez , R. Bravo , and J. C. Lacal .
+1997 .
+Activation of the nuclear factor- « B by Rho , CDC42 and Rac-1 proteins .
+Genes Dev .
+11:463-475 .
+Régnier , C. H. , H. Y .
+Song , X. Gao , D. V. Goeddel , Z. Cao , and M. Rothe .
+1997 .
+Identification and characterization of an IxB kinase .
+Cell 90:373-383 .
+Reid , G. K. , S. Kargman , P. J. Vickers , J .
+A. Mancini , C. Léveillé , D. Ethier , D. K. Miller , J. W. Gillard , R. A. F. Dixon , and J. F. Evans .
+1990 .
+Correlation between expression of 5-lipoxygenase-activating protein , 5-lipoxygenase and cellular leukotriene synthesis .
+J. Biol .
+Chem .
+265:19818-19823 .
+Rothwarf , D. M. , E. Zandi , G. Natoli , and M. Karin .
+1998 .
+IKK-y is an essential regulatory subunit of the IxB kinase complex .
+Nature 395:297-300 .
+Schreck , R. , K. Albermann , and P. A. Baeuerle .
+1992 .
+Nuclear factor kappa B : an oxidative stress-responsive transcription factor of eukaryotic cells ( a review ) .
+Free Radic .
+Res .
+Commun .
+17:221-227 .
+Schreck , R. , B. Meier , D. N. Mannel , W. Droge , and P. A. Baeuerle .
+1992 .
+Dithiocarbamates as potent inhibitors of nuclear factor kappa B activation in intact cells .
+J. Exp .
+Med .
+175:1181-1194 .
+Schreck , R. , P. Rieber , and P. A. Baeuerle .
+1991 .
+Reactive oxygen intermediates as apparently widely used messengers in the activation of the NF-kappa B transcription factor and HIV-1 .
+EMBO J .
+10:2247-2258 .
+Schiitze , S. , K. Potthoff , T. Machleidt , D. Berkovic , K. Wiegmann , and M. Krionke .
+1992 .
+TNF activates NF- « B by phosphatidylcholine-specific phospholipase C-induced `` acidic `` sphingomyelin breakdown .
+Cell 71:765-776 .
+1960 54 .
+55 .
+56 .
+57 .
+58 .
+59 .
+60 .
+61 .
+BONIZZI ET AL .
+Segal , A. W. , and A. Abo .
+1993 .
+The biochemical basis of the NADPH oxidase of phagocytes .
+Trends Biochem .
+Sci .
+18:43-47 .
+Siebenlist , U. , G. Franzoso , and K. Brown .
+1994 .
+Structure , regulation , and function of NF-kB .
+Annu .
+Rev .
+Cell Biol .
+10:405-455 .
+Song , H. Y. , C. H. Regnier , C. J. Kirschning , D. V. Goeddel , and M. Rothe .
+1997 .
+Tumor necrosis factor ( TNF ) -mediated kinase cascades : bifurcation of nuclear factor- « B and c-jun N-terminal kinase ( JINK/SAPK ) pathways at TNF receptor-associated factor 2 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 94:9792-9796 .
+Sulciner , D. J. , K. Irani , Z.~X .
+Yu , V. J. Ferrans , P. Goldschmidt-Clermont , and T. Finkel .
+1996. racl regulates a cytokine-stimulated , redox-dependent pathway necessary for NF- « B activation .
+Mol .
+Cell .
+Biol .
+16:7115-7121 .
+Traenckner , E. B.-M. , H. L. Pabl , T. Henkel , K. N. Schmidt , S. Wilk , and P. A. Baeuerle .
+1995 .
+Phosphorylation of human IxB- « on serines 32 and 36 controls IxB- « proteolysis and NF-kB activation in response to diverse stimuli .
+EMBO J .
+14:2876-2883 .
+Traenckner , E. B.-M. , S. Wilk , and P. A. Baeverle .
+1994 .
+A proteasome inhibitor prevents activation of NF- « B and stabilizes a newly phosphorylated form of IxB- « that is still bound to NF- « B .
+EMBO J .
+13:5433-5441 .
+Van Elst , L. , and C. D'Souza-Schorey .
+1997 .
+Rho GTPases and signaling networks .
+Genes Dev .
+11:2295-2322 .
+Wesche , H. , W. J. Henzel , W. Shillinglaw , S. Li , and Z. Cao .
+1997 .
+MyD88 : an adapter that recruits IRAK to the IL-1 receptor complex .
+Immunity 7:837-847 .
+62 .
+63 .
+64 .
+65 .
+66 .
+67 .
+Mor .
+CELL .
+BioL .
+Wesche , H. , C. Korherr , M. Kracht , W. Falk , K. Resch , and M. U. Martin .
+1997 .
+The interleukin-1 receptor accessory protein ( IL-1RAcP ) is essential for IL-l-induced activation of interleukin-1 receptor associated kinase ( IRAK ) and stress-activated protein kinases ( SAP kinases ) .
+J. Biol .
+Chem .
+2727727-7731 .
+Woods , J. W. , J. F. Evans , D. Ethier , S. Scott , P. J. Vickers , L. Hearn , J .
+A. Heiben , S. Charleson , and I. I .
+Singer .
+1993 .
+5-Lipoxygenase and 5-lipoxygenase-activating protein are localized in the nuclear envelope of activated human leukocytes .
+J. Exp .
+Med .
+178:1935-1946 .
+Worenicz , J. D. , X. Gao , Z. Cao , M. Rothe , and D. V. Goeddel .
+1997 .
+IxB kinase-B : NF- « B activation and complex formation with IxB kinase- « and NIK .
+Science 278:866-869 .
+Yamin , T. T. , and D. K. Miller , 1997 .
+The interleukin-1 receptor-associated kinase is degraded by proteasomes following its phosphorylation .
+J. Biol .
+Chem .
+272:21540-21547 .
+Zandi , E. , D. M. Rothwarf , M. Delhasse , M. Hayakawa , and M. Karin .
+1997 .
+The IxB kinase complex ( IKK ) contains two kinase subunits , IKKe and IKKB , necessary for IxB phosphorylation and NF- « B activation .
+Cell 91 : 243-252 .
+Zeisler , H. , C. Tempfer , E. A. Joura , G. Sliutz , H. Koebl , O. Wagner , and C. Kainz .
+1998 .
+Serum interleukin 1 in ovarian cancer patients .
+Eur .
+J .
+Cancer 34:931-933 .

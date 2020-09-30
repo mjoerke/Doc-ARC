@@ -1,0 +1,411 @@
+THE JOURNAL oF BIOLOGICAL CHEMISTRY © 1998 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+273 , No .
+51 , Issue of December 18 , pp .
+34120-34127 , 1998 Printed in U.S.A .
+The Involvement of Multiple Tumor Necrosis Factor Receptor ( TNFR ) -associated Factors in the Signaling Mechanisms of Receptor Activator of NF- « B , a Member of the TNFR Superfamily* ( Received for publication , July 1 , 1998 , and in revised form , October 1 , 1998 ) Laurent Mark E. Tometskot , Dirk M. Anderson , David Cosman , and William C. Dougall§ From the Department of Molecular Biology , Immunex Corporation , Seattle , Washington 98101 Receptor activator of NF-kB ( RANK ) is a recently identified member of the tumor necrosis factor receptor superfamily and is expressed on activated T cells and dendritic cells .
+Its cognate ligand ( RANKL ) plays significant roles in the activation of dendritic cell function and osteoclast differentiation .
+We demonstrate here the interaction of RANK with tumor necrosis factor recep-tor-associated factors ( TRAFs ) 1 , 2 , 3 , 5 , and 6 both in vitro and in cells .
+Mapping of the structural requirements for TRAF/RANK interaction revealed multiple TRAF binding sites clustered in two distinct domains in the RANK cytoplasmic tail .
+These TRAF binding domains were shown to be functionally important for the RANK-dependent induction of NF-xB and c-Jun NH , -terminal kinase activities .
+Site-directed mutagenesis demonstrated that these TRAF binding sites exhibited selective binding for different TRAF proteins .
+In partic-ular , TRAF6 interacted with membrane-proximal determinants distinct from those binding TRAFs 1 , 2 , 3 , and 5 .
+When this membrane-proximal TRAFG6 interaction domain was deleted , RANK-mediated NF- « B signaling was completely inhibited while c-Jun NH , -terminal kinase activation was partially inhibited .
+An truncation mutant of TRAFG inhibited RANKL-mediated NF-KB activation , but failed to affect constitutive signaling induced by receptor overexpression , revealing a selective role for TRAF6 in ligand-induced activation events .
+RANK and RANK ligand ( RANKL ) are a recently described cognate pair of the TNF receptor/ligand superfamilies ( 1 ) .
+The receptor ( RANK ) cDNA was originally isolated from a human DC cDNA library and shows the highest homology ( 40 % identity within the extracellular domain ) with CD40 among TNFR family members .
+Among antigen-presenting cells , RANK surface expression appears to be specific to DC and can be significantly up-regulated by a DC activator , CD40 ligand .
+However , * The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement '' in accordance with 18 U.S.C .
+Section 1784 solely to indicate this fact .
+7 These authors have contributed equally to this work .
+§ To whom correspondence should be addressed : Dept .
+of Molecular Biology , Immunex Corp. , 51 University St. , Seattle , WA 98101 .
+Tel .
+: 206-587-0480 ; E-mail : wdougall @ immunex.com .
+* The abbreviations used are : RANK , receptor activator of TNF , tumor necrosis factor ; TNFR , TNF receptor ; TRAF , TNF receptor-associated factor ; RANKL , RANK ligand ; EMSA , electrophoretic mobility shift assay ; DC , dendritic cell ; GST , glutathione S-transferase ; TBS , TRAF binding site ; JNK , c-Jun NH , -terminal kinase ; PCR , polymerase chain reaction ; PAGE , polyacrylamide gel electrophoresis ; IL , interleu-kin ; MOPS , 4-morpholinepropanesulfonic acid .
+34120 RANK protein expression is not DC-specific as RANK is also expressed on human peripheral blood T cells treated with phy-tohemagglutinin and IL-4 or transforming growth factor- ( 1 ) .
+In contrast to the relatively specific protein expression , RANK mRNA is broadly expressed in a variety of tissues including skeletal muscle , thymus , liver , colon , adrenal gland , and small intestine .
+The discrepancy between mRNA and surface protein expression suggests complex post-transcriptional regulatory mechanisms for RANK expression .
+Cells may therefore express RANK after discrete activation or differentiation conditions .
+The identification of the cognate ligand for RANK ( RANKL ) was performed by direct expression cloning from a mouse CD4 * thymoma cell line ( 1 ) .
+The same ligand has also been identified by screening a T cell hybridoma cell line ( termed TRANCE ) ( 2 ) and as an osteoclast differentiation factor ( 3 ) whose activity can be inhibited by a soluble TNF receptor family member , osteo-protegerin ( 4 ) .
+RANKL mRNA appears to have a more restricted tissue expression pattern than RANK and has only been detected in mouse thymus , lymph node , spleen ( 1 , 2 ) , bone marrow stroma , and trabecular bone ( 3 ) .
+Specific lymphoid cells that express RANKL include both CD4* and CD8* T cells and B cell progenitors ( 1 , 2 ) .
+TCR stimulation of T cell hybri-domas leads to the rapid induction of RANKL/TRANCE mRNA ( 2 ) .
+Studies of the biological function of the RANK/RANKL interaction demonstrate that RANKL promotes the survival of transforming growth factor-B-treated T cells and increases the clustering and allo-stimulatory capacity of human DC ( 1 ) .
+RANKL may promote DC survival by a BCL-X ; , -dependent mechanism ( 5 ) .
+The recent characterization of RANKL as an essential factor for osteoclast differentiation and activation ( 3 , 4 ) demonstrates additional activities of RANKL on myeloid lineages .
+Although the role of RANK in bone resorption/oste-oclast differentiation has not been elucidated , RANK and its ligand appear to be important in the regulation of T cellVDC interactions and may also function in other important cellular differentiation processes .
+Although the physiological functions of RANK and RANKL have been investigated , the mechanisms of RANK signal trans-duction have not been intensively studied .
+Multimerization of TNFR family members ( as a result of ligand binding or receptor overexpression ) is thought to lead to receptor activation and signal transduction , perhaps by revealing binding domains for enzymes or adaptor proteins .
+In recent years , substantial progress has been made to define the cytoplasmic proteins that function as adaptors ( TRAFs 1-6 , TRADD , FADD ) or as serine/ threonine kinases ( RIP ) and link TNF receptor stimulation with the induction of cell death , Jun kinase ( JNK ) or NF- « B activation pathways ( reviewed in Ref .
+6 ) .
+RANK stimulation leads to activation of the nuclear transcription complex NF- « B in RANK-expressing human T cells and transfected 293 cells This paper is available on line at http : //www.jbc.org 610Z '01 Aepy uo 4g wo ; popeoumog TRAFs Mediate RANK Signaling ( 1 ) and JNK ( 2 ) in mouse thymocytes .
+However , the RANK cytoplasmic determinants or the cytoplasmic effector/adaptor proteins necessary for downstream signaling have not been described .
+While the 383-amino acid cytoplasmic domain of RANK is the largest of any known TNFR , it does not contain sequences suggestive of catalytic activity or significant homology with any known protein .
+The amino acid sequences of the human and mouse RANK cytoplasmic domains include multiple sections that show striking homology ( 64 % amino acid identity and 78 % similarity ) between species ( 1 ) , suggesting a conserved functional role for these structures .
+Since many members of the TNFR superfamily that do not contain a death domain ( p80 TNFR , CD40 , CD30 , CD27 , OX40 , 4-1BB , LTGBR , HVEM ) interact with the cytoplasmic adaptor/effector TRAF proteins ( 7-13 ) , we designed an approach to experimentally define TRAF binding to RANK .
+In this study we have identified the structural and functional features of RANK required for both NF-kB and JNK-mediated signaling .
+Our analysis delineates multiple distinct and independent domains capable of binding TRAF proteins and transmitting downstream signals .
+In addition , TRAF6 appears to mediate RANK function through unique determinants independent of other TRAF proteins and plays a selective role in RANKL-induced signaling .
+MATERIALS AND METHODS Production and Purification of GST Fusion Proteins-Deletion constructs of RANK were generated by PCR amplification , and point mutants were generated by PCR using primers containing the appropriate nucleotide substitutions .
+The appropriate inserts were subcloned into the pGEX-4T ( Amersham Pharmacia Biotech ) vector at the BamHI and EcoRI sites .
+The correct sequence of each of the PCR-generated inserts was confirmed by DNA sequencing .
+A GST-human FAS cytoplasmic domain construct was used as a specificity control .
+GST fusion proteins were expressed and purified from Escherichia coli by glutathione-aga-rose affinity media according to published procedures ( 14 ) .
+Fusion protein concentrations of 0.5-2.5 mg/ml were typically obtained .
+In Vitro Protein Binding Assay-Full-length TRAF cDNAs were subcloned into the pBluescript ( Stratagene , La Jolla , CA ) or pGEM-T ( Promega Corp. , Madison , WI ) vectors .
+RNA was generated in vitro with either T7 or T3 polymerase using the Ambion ( Austin , TX ) mMessage Machine according to the manufacturer 's protocol .
+RNA ( 1 ug ) was translated in the presence of [ °*°S ) methionine/cysteine using 25 ul of rabbit reticulocyte lysate ( TNT-coupled Reticulocyte Lysate Systems , Promega ) .
+The integrity of the protein product was determined by SDS-PAGE , and relative protein amounts were normalized after image analysis using a Molecular Dynamics ( Sunnyvale , CA ) Storm 860 optical scanner .
+Proteins were diluted into binding buffer ( 50 mM HEPES ( pH 7.4 ) , 250 mM NaCl , 0.25 % ( v/v ) Nonidet P-40 , 10 % glycerol , 2 mM EDTA ) and precleared by overnight incubation with 100 ug of glutathione-Sepharose 4B beads ( Amersham Pharmacia Biotech ) .
+For each in vitro binding assay , translated protein was combined with 5 ug of the appropriate GST fusion protein complexed to glutathione-Sepharose beads and incubated with rotation for 2 h at 4 °C .
+The protein complexes were recovered by centrifugation , washed four times in binding buffer , and analyzed by SDS-PAGE .
+Gels were stained with Coomassie Blue to confirm equal loading of GST fusion proteins , treated with Amplify ( Amersham Pharmacia Biotech ) , and subjected to fluorography for 6-24 h. Cell Transfection and Reporter Assays-A NF- « B-responsive reporter plasmid was constructed in pGL2-Basic ( Promega ) with the human IL-8 promoter containing a NF- « B binding site ( 15 ) fused to a luciferase reporter .
+293/EBNA cells ( Invitrogen , San Diego , CA ) were transiently transfected by the DEAE-dextran method with the reporter plasmid either alone or in combination with full-length human RANK cDNA in pDC304 ( 16 ) .
+Full-length and deletion constructs of TRAF cDNAs ( with an in-frame NH , -terminal FLAG tag ) were generated by PCR amplification and cloned into pDC304 .
+The TRAF2 NH , -terminal deletion ( TRAF2- ( 87-501 ) ) removed the first 86 amino acids ( as described in Ref .
+17 ) .
+The zinc-ring truncation of TRAF5- ( 284-558 ) was constructed similarly as described ( 18 ) .
+The TRAF6 construct truncated the zinc ring and each of the zinc fingers ( TRAF6G- ( 289-522 ) ) ( 19 ) .
+A B-galactosidase-expressing plasmid ( pDC304/LACZ ; 25 ng/well ) was used as an internal control for transfection efficiency .
+Total DNA concentrations for each transfection were equalized by the addition of 34121 empty pDC304 vector .
+Transfections were performed in triplicate .
+Twenty-four hours after transfection , cells were treated with recombinant human RANKL for 16 h at 37 °C .
+Recombinant human RANKL is an fusion of a leucine zipper trimerization domain ( 20 ) with residues 138-317 of RANKL ( 1 ) .
+Luciferase activity in cell lysates was measured according to manufacturer 's instructions ( Promega ) using a EG & G/Berthold luminometer .
+Relative luciferase activities were normalized to the B-galactosidase activity .
+Electrophoretic Mobility Shift Assay ( EMSA ) -Nuclear extracts were prepared from 298 cells transfected with full-length or cytoplasmic truncations of RANK or control vector 24 h after transfection as described ( 21 ) .
+Oligonucleotides containing an NF-kB binding site were annealed , radiolabeled with [ y-* '' PIATP and combined with 10 ug of nuclear extracts for 20 min at room temperature .
+Specificity of the reaction was confirmed by competition with 50-fold molar excess of non-labeled wild-type oligonucleotides or oligonucleotides containing a mutated NF- « B binding site .
+The protein-DNA complexes were resolved by 6 % PAGE in 0.25 % TBE buffer and visualized by autoradiography .
+Protein Kinase Assays-For JNK assays , whole cell extracts were prepared from 298 cells 24 h after transfection .
+Cells were lysed in a buffer containing 20 my HEPES , pH 7.4 , 2 mM EGTA , 50 mM B-glycerol phosphate , 1 mM dithiothreitol , 1 mM sodium orthovanadate , 1 % Triton X-100 , 10 % glycerol , and the protease inhibitors leupeptin , pepstatin A , and phenylmethylsulfonyl fluoride .
+Clarified lysates were immunopre-cipitated with 1 ug each of anti-JNK ( FL ) and anti-JNK ( C17 ) ( both from Santa Cruz Biotechnology , Inc. Santa Cruz , CA ) .
+The immune complexes were washed three times in lysis buffer , two times with wash buffer ( 500 mM LiCl , 100 mM Tris , pH 7.5 , 0.1 % Triton X-100 , 1 mM dithiothreitol ) and three times in assay buffer ( 20 mm MOPS , pH 7.0 , 2 mM EGTA , 10 mm MgCl , , 1 mM dithiothreitol , 0.1 % Triton X-100 ) .
+JNK activity was determined by an immune-complex assay using 1 ug of GST -c-Jun- ( 1-169 ) ( Upstate Biotechnology Inc. , Lake Placid , NY ) and 5 Ci of [ ®PJATP as substrate in 40 ul of assay buffer at 80 °C for 20 min .
+Reaction products were resolved on 4-20 % SDS-PAGE and visualized by autoradiography .
+RESULTS Interaction of the RANK Cytoplasmic Domain with TRAFs 1 , 2 , 3 , 5 , and 6-In order to define whether TRAFs may bind to RANK , each of the known TRAFs was transcribed and translated in vitro in the presence of [ 3SS ] methionine/cysteine and coprecipitation assays were performed to determine the interaction with a GST fusion expressing the full-length RANK cytoplasmic domain .
+This domain ( RANK amino acids 206-616 ) was able to interact with TRAFs 1 , 2 , 3 , 5 , and 6 in a specific manner ( Fig .
+1 ) .
+We observed strong binding of RANK with TRAF 's 1 , 2 , 3 , and 6 ; weak interaction with TRAF5 ; and no binding with TRAFA4 .
+In contrast , none of the TRAFs interacted with a control GST protein ( Fig .
+1 ) or a GST-FAS cytoplasmic domain fusion protein ( data not shown ) .
+To confirm that the # 7 vitro interaction of TRAF 's with RANK also occurred in cells , co-immunoprecipitation experiments were performed in 293 cells cotransfected with RANK and epitope-tagged TRAFs and revealed that full-length RANK associated with the same repertoire of TRAFs ( TRAFs 1 , 2 , 3 , 5 , and 6 ) but not TRAFA4 ( data not shown ) .
+To identify the binding sites in the RANK cytoplasmic domain , four individual COOH-terminal deletions were constructed and the in vitro binding assays were repeated .
+In contrast to the full-length RANK cytoplasmic domain , a deletion construct that lacks the COOH-terminal 72 amino acids ( RANK A544 ) was unable to interact with TRAFs 1 , 2 , 3 , and 5 ( Fig .
+1 ) , and TRAF6 binding was reduced by approximately 50 % .
+The deletion of an additional 68 amino acids ( RANK A476 ) or 123 amino acids ( RANK A421 ) showed no difference in TRAF6 binding activity relative to RANK 206-544 .
+However , when the COOH-terminal 277 amino acids were deleted ( RANK A339 ) , the remaining interaction with TRAF6 was lost .
+These data demonstrate that two separate regions of the RANK cytoplasmic domain are each capable of binding TRAF proteins .
+Examination of the protein sequence within the COOH-terminal 72-amino acid RANK domain capable of TRAF binding 610Z '01 Aepy uo 4g wo ; popeoumog 34122 Fig .
+1 .
+Interaction of TRAFs with the RANK cytoplasmic region .
+A , schematic representation of RANK cytoplasmic mutant constructs .
+The amino acid positions of the cytoplasmic region of RANK are shown for the full-length RANK beginning at residue 206 .
+The stippled box from amino acid 218 to 233 represents the transmembrane region , and the shaded boxes marked with Roman numerals I , II , and III represent putative TRAF binding sites as discussed under `` Results . ''
+The COOH-terminal deletions ( RANK A constructs ) are shown , including the position of the COOH-terminal amino acid .
+The constructs containing point mutations are described with the amino acid substitutions above the putative TRAF binding sites .
+The RANK A840-421 mutation is an internal in-frame deletion of residues 340-420 including the TRAF binding site I .
+These mutants were expressed either in bacteria as GST fusion proteins with the RANK sequence beginning at position 206 or in mammalian cells within the context of the remaining NH , -terminal RANK se-quence .
+B , TRAF binding to RANK was measured by incubating purified GST fusion proteins containing the RANK cytoplasmic domain ( and COOH-terminal RANK deletions ) separately with TRAF proteins 1-6 translated in vitro with [ ®°S ) methionine/cysteine .
+Bound complexes were precipitated with glutathi-one-agarose as described under `` Materials and Methods , '' resolved by SDS-PAGE , and visualized by fluorography .
+A fraction of the labeled input protein ( 2 % ) has also been directly run on the gel .
+As a specificity control , GST beads were also incubated with labeled TRAFs .
+Each of the GST fusion proteins were used at the same concentration , and equal loading of lanes was confirmed by visualization with Coomassie Brilliant Blue R-250 staining .
+revealed multiple regions with limited homology with experimentally defined TRAF binding sites ( TBS ) in other TNFR family members .
+We defined two potential RANK TBS in this TRAFs Mediate RANK Signaling A RANK full-length RANK A544 RANK A476 RANK A421 RANK A339 ( QEE- > AAA ) RANK 571-573 ( QEE- > AAA ) RANK 609-610 ( QE- > AA ) 206 616 RANK 571-573 ( QEE- > AAA ) + 609-610 ( QE- > AA ) 339/422 RANK A340-421 -79 TRAFG « muh come que -40 -31 ( kDa ) ( kDa ) region ( residues 569-574 ( P-V-Q-E-E-T ) and residues 607-611 ( P-V-Q-E-Q ) ) due to their similarity to the P-X-Q-X-T TBS found in CD40 and CD30 ( 22 ) as well as the HVEM TBS 610Z '01 Aepy uo 4g wo ; popeoumog TRAFs Mediate RANK Signaling Y ~ > Y 45 ?
+x I ¢ § & £0 um S0 my b m ~.0 Jr dG - S S S Ss § - & & 48 F TRAF 1 Cope Cp « ca TRAF2 wiz gos TRAF3 TRAFS5 -- » « saan .
+TRAFG -- > Cue - . , Fic .
+2 .
+Mapping of critical amino acid residues of RANK for TRAF1 , TRAF2 , TRAF3 , TRAF5 , and TRAF6 binding .
+GST fusion proteins with different RANK mutations were used for in vitro binding assays with radiolabeled TRAF proteins ( as described in Fig .
+1 ) .
+The alanine substitutions were made in the context of the full-length RANK cytoplasmic domain ( residues 206-616 ) .
+The position and the amino acid sequences of the mutated residues in RANK are indicated .
+( V-E-E-T ) ( 9 ) and the OX40 TBS ( P-I-Q-E-E ) ( 12 ) .
+To determine if these residues in RANK were important for TRAF binding , we substituted certain amino acids within these putative TBS with alanine and assayed TRAF binding .
+Mutagenesis of amino acids 609-610 ( Q-E ) to alanine within the full-length RANK cytoplasmic domain significantly abolished TRAF1I , TRAF2 , and TRAF5 binding ( Fig .
+2 ) , similar to that seen with the GST-RANK A544 deletion .
+Binding of TRAF3 and TRAF6 were unaffected .
+Substitution of residues 571-573 ( Q-E-E ) with alanine resulted in a loss of TRAF3 binding without reducing the binding of any other TRAF .
+These results identify two separate regions critical for binding TRAFs 1 , 2 , 3 , and 5 .
+By combining mutations of these two sites ( 571-573 and 609-610 ) , loss of TRAFs 1 , 2 , and 3 binding was more pronounced ( Fig .
+2 ) , suggesting that these two sites cooperate in binding .
+None of the mutations examined , either alone or in combination , reduced TRAF6 binding , indicating that TRAF6 recognizes distinct TBS in RANK .
+RANK Stimulation Induces the Activation of NF- « B-We have previously reported that activation of RANK either by receptor overexpression or by RANKL treatment leads to the activation of NF- « B complexes ( 1 ) .
+In order to study the role of RANK cytoplasmic sequences and other cellular protein effec-tors in RANK signaling , we established a transient transfec-tion/NF- « B-responsive reporter system .
+We first examined reporter activity resulting from increased RANK expression in the 293 cells .
+NF- « B-dependent reporter activity increased in a 34123 A 40 , 30 4 aam 20 4 ( 5 0 B3 O 3 10 ke ] .E GC `` O 0 5 w= RANKDNA | u - t 0 To s -so © @ - ( ngiweln _ 3 ° 9° c= ® '' g _ » o & B @ © ' i Nes » ao -b- 3 O © 20 4 o D h ber & 10 fs 3 wal 0. z ] RANK ( O .4 ) = = + + + SSIRANKL ( SO ) - - + -~ + @ @ lmRanKL ( 500 ) - - - - - _+ Fic .
+3 .
+Transcription factor NF- « B is activated by overexpression of RANK or by RANKL treatment of RANK in 293 cells .
+A , overexpression of RANK is sufficient to activate NF- « B .
+Expression vectors containing RANK ( at the indicated concentrations ) were cotransfected with a NF- « B-responsive luciferase reporter gene ( IL-8/ REP ) and pDC304/LACZ into 298 cells as described under `` Materials and Methods . ''
+Relative luciferase activities were normalized to B-galactosidase expression levels and are reported as mean values + S.E .
+from triplicate transfections .
+The data are representative of three experiments .
+B , soluble and transmembrane forms of RANKL activate NF- « B in RANK transfected cells .
+Cells were co-transfected with RANK expression vector ( 0.4 ng ) , NF-kB responsive luciferase reporter plasmid ( pIL-8/REP ) , and pDC304/6-galactosidase .
+Cells were treated for 18 h with 500 ng/m !
+soluble recombinant human RANKL-leucine zipper ( rhRANKL ) ( see `` Materials and Methods '' ) .
+Luciferase activity were measured as described under `` Materials and Methods . ''
+In order to determine the activity of transmembrane ligand expression on RANK-mediated reporter activity , cells were also cotransfected with expression vectors for the full-length RANKL .
+Transfection of the transmembrane ligand had no significant affect on reporter activity in the absence of transfected receptors ( not shown ) .
+RANK dose-dependent manner until optimal ( 30-fold ) induction was achieved with 6.4 ng of RANK DNA transfected ( Fig .
+3A ) .
+These data illustrate that ectopic overexpression of RANK can lead to ligand-independent NF- « B signaling , similar to that seen with other TNFR family members , p80 TNFR and CD40 ( 7 , 23 ) .
+RANKL-dependent signaling was next examined by the transfection/reporter system using a suboptimal RANK DNA concentration ( 0.4 ng/transfection ) .
+Co-transfection of RANK and the transmembrane form of RANKL stimulated the NF- « B-reporter more than that seen after transfection with RANK only ( Fig .
+3B ) .
+We also demonstrated that soluble RANKL protein enhanced reporter activity ( Fig .
+3B ) .
+Similar effects of RANK overexpression or RANKL treatment were also seen with a minimal NF-kB promoter ( data not shown ) , confirming 610Z '01 Aepy uo 4g wo ; popeoumog 34124 that these responses are due to NF- « B activation .
+The Induction of NF- « B Is Mediated by Two Separate RANK Cytoplasmic Domains-The interaction of TRAFs with multiple RANK cytoplasmic domains and the ability of some TRAF 's to mediate NF-B activation ( 7 , 24 ) suggests that the deletion of TBS may abrogate NF- « B-dependent signaling .
+To address this possibility , COOH-terminal cytoplasmic deletions of RANK were expressed in 293 cells and reporter activity was measured .
+Equivalent expression levels of each RANK construct were confirmed by immunoprecipitation of metabolically labeled proteins and by flow cytometry ( data not shown ) .
+Transfection of 293 cells with the RANK deletion construct lacking the COOH-terminal 72 amino acids ( RANK A544 ) resulted in reduced NF- « B reporter activity in the absence of RANKL activation ( Fig .
+4A ) .
+However , RANKL treatment of RANK A544-expressing cells induced NF- « B activation to levels similar to that seen with full-length RANK .
+Further deletion of COOH-terminal sequences had minimal effects on the constitutive and RANKL-mediated reporter activity until the removal of amino acids 339-422 ( construct RANK A339 ) , which completely abrogated both constitutive signaling and responsiveness to RANKL .
+The deletion of RANK cytoplasmic determinants had similar effects on NF- « B activation as determined by direct EMSA assays ( Fig .
+4B ) .
+Taken together , these data suggest that RANK contains two domains ( amino acids 339-422 and 544-616 ) within its cytoplasmic tail important for NF- « B signaling .
+These two RANK functional regions correspond with the two domains that affect binding of TRAFs 1 , 2 , 3 , 5 , and 6 ( amino acids 544-616 ) and TRAF6 ( amino acids 339-422 ) .
+Moreover , the deletional analysis of RANK domains important for NF- « B signaling expose differences between RANK signal transduc-tion as a result of receptor overexpression and RANKL treatment .
+Constitutive signaling resulting from RANK overexpression was significantly affected by the loss of the COOH-terminal 72 amino acids ( RANK A544 ) .
+However , RANKL-mediated signaling was only affected by the deletion of amino acids 339-422 correlating to the loss of direct TRAF6G binding in vitro .
+Activation of NF- « B by RANK/RANKL Is Mediated by TRAFs-In the absence of receptor expression , TRAF 's 2 , 5 , and 6 activated NF- « B ( data not shown ) as has been reported previously ( 7 , 24 ) .
+To examine the functional involvement of these TRAFs in RANK-mediated NF- « B activation , 293 cells were co-transfected with RANK and expression vectors encoding truncations of TRAF2 , TRAF5 , and TRAF6 , each of which has been demonstrated to suppress NF-kB signaling in a dominant negative manner ( 7 , 18 , 24 ) .
+Co-expression of the zinc ring-deleted forms of TRAFs 2 , 5 , or 6 each inhibited the RANKL-inducible reporter activity in a concentration-depend-ent fashion ( Fig .
+5 ) .
+However , only NH-truncated TRAF2 and TRAF5 suppressed constitutive signaling from the full-length RANK .
+The TRAF6 selectively inhibited RANKL-induced signaling , but not constitutive signaling , revealing a specific role for TRAF6 in RANKL-induced signaling .
+Activation of JNK by RANK-To determine whether human RANK receptor will lead to activation of JNK , protein kinase assays were performed in 293 cells overexpressing RANK .
+Transfection of RANK significantly induced JNK activity to levels exceeding that seen with TNFa treatment or overexpression of p60 TNFR ( Fig .
+6 ) .
+Truncation of the COOH-terminal 72 amino acids of RANK abrogated the majority of JNK activity .
+The residual JNK activity was completely inhibited after the truncation of amino acids 339-422 in the RANK cytoplasmic domain ( RANK A339 ) .
+These results demonstrate that two distinct RANK cytoplasmic domains ( residues 544-616 and TRAFs Mediate RANK Signaling A £03 Dmm P marra 40 4 T 2 7 0 a B 3 0 F tt 2 2 ** } 0 ind ® Fo £ $ 0 104 ' o 3 - L 0 +_-__-+ £._____4 £._._-4 p ... i_ } 6 A ® & xi ? ‘ if } ?
+& '' i a* '' & € F $ Jo Jo , C < < his < 3° B DNA TRANSFECTED _o 20 R0 0 WT MUT 2 2 ~ E UNLABELED COMPETITOR OLIGOS Fig .
+4 .
+Effect of COOH-terminal deletions of RANK on NF- « B signaling .
+A , luciferase analysis of lysates prepared from 298 cells transfected with the indicated RANK construct .
+Reporter assays were performed as described in Fig .
+3 and under `` Materials and Methods . ''
+Where indicated , cells were treated with recombinant human RANKL-leucine zipper ( rhRANKL ) at 500 ng/ml for 18 h. The bottom panel summarizes the in vitro TRAF binding data shown in Fig .
+1 .
+B , EMSA analysis of nuclear extracts prepared from cells transfected with various RANK constructs .
+Nuclear lysates were prepared 24 h after transfection of 293 cells with 2.5 ug of each plasmid .
+The position of the inducible NF- « B DNA/protein complex is indicated by the arrow .
+The empty vector ( pDC304 ) did not activate NF- « B .
+As positive controls , either mock-transfected cells were treated with TNFa ( 50 ng/m ! )
+for 20 min or cells were transfected with 2.5 ug of an expression vector containing the p60 TNFR .
+The specificity of the reaction was confirmed by competition with 50-fold molar excess of non-labeled oligonucleotides containing either the wild-type or mutated NF-kB binding site ( as indicated ) .
+339-422 ) play functional roles in JNK activation , similar to the domains necessary for NF- « B activation described above ( Figs .
+4 and 5 ) .
+Essential Role of the TRAFG6 Binding Site in NF-kB , but Not JNK , Signaling by RANK-The experiments utilizing overexpression of COOH-terminal RANK truncation mutants demonstrate that TBS II and III contribute to JNK and NF- « B activation .
+However , treatment of these RANK mutants with exogenously added RANKL revealed that the region which binds TRAF6 in vitro ( residues 340-421 ) plays the most critical role in NF- « B activation .
+To test the role of this domain directly , we constructed an in-frame deletion ( RANK A340- 610Z '01 Aepy uo 4g wo ; popeoumog TRAFs Mediate RANK Signaling E ] RANK I manceonnanke 50 Luciferase activity { fold induction ) DN-TRAF cDNA so - 250 so _ 250 so _ 250 ( { ng/well ) DN-TRAF2 DN-TRAFS Fic .
+5 .
+Involvement of TRAF2 , TRAF5 , and TRAF6 in RANKL-and overexpression-induced NF-B activation .
+293 cells were transiently co-transfected with the full-length RANK and the NF- « B-responsive IL-8 luciferase reporter plasmid .
+In addition , expression vectors for the indicated dominant negative TRAF2 , TRAF5 , or TRAFG constructs were also co-transfected in increasing concentrations ( 50-250 ng/transfection ) .
+The amounts of DNA were equalized for each transfection by the addition of empty vector pDC304 .
+Cells were treated with 500 ng/ml recombinant human RANKL-leucine zipper ( rhRANKL ) where indicated , and luciferase activities were measured 16-18 h after treatment .
+As a specificity control for the dominant negative activity of the TRAF 's , transfection of cells with up to 250 ng of pDC304/LACZ did not affect RANK- or RANKL-dependent signaling ( not shown ) .
+Relative luciferase activities were normalized to -galactosidase expression levels and are reported as mean values + S.E .
+from triplicate transfections .
+The data are representative of three experiments .
+DN-TRAF6 DNA TRANSFECTED | I , # .
+@ m 0 § { §4¢ ¢ $ S § S5 $ - _- ZS ZC C € $ 8 _- 97 - 69 - 46 Fe U - ~- cam phosphorylated `` GST-c-jun ( 1-169 ) -39 ( - 22 ( kDa ) Fic .
+6 .
+Activation of JNK by RANK .
+298 cells were transiently transfected with empty vector ( pDC304 ) control , p60 TNFR expression construct , full-length RANK , or the indicated COOH-terminal RANK deletion expression vectors .
+After 24 h , cells were treated with TNF- @ ( 50 ng/ml ) for 20 min or left untreated .
+Cell lysates were immunopre-cipitated with anti-JNK antibodies and the JNK activity was determined by an immune-complex kinase assay using GST-c-Jun- ( 1-169 ) as a substrate .
+The products of the kinase assay were resolved by SDS-PAGE and visualized by autoradiography .
+The position of phosphorylated GST-c-Jun is indicated by the arrow .
+421 ) , which removes the TRAF6G binding site and leaves intact the downstream domains capable of interacting with TRAF 's 1 , 2 , 3 , and 5 ( TBS II and III ) .
+As shown in Fig .
+7A , there was no detectable NF- « B activation resulting from either overexpression or RANKL activation of RANK A340-421 as compared with full-length RANK .
+This lack of response was very similar to that of the RANK A339 mutant , which has been shown to be incapable of binding any TRAF ( Fig .
+1 ) .
+This result confirms the critical requirement for TRAF6 binding to this region for NF- « B activation and illustrates that the downstream TBS II and III can not function independently to mediate NF- « B activation .
+Deletion of RANK residues 340-421 reduced JNK activity relative to that seen with full-length RANK ( Fig .
+7B ) ; 34125 A r= [ _ ] Medium ff rhRANKL 0 20 28 is > 0 5 3 16 0T 14 © 2 an | mZ 10 © oO ; hs Yom & o 6 `` O2 4 z “ 34 2 o - o _ Vector - FL _ RANK RANK RANK RANK A421 A339 A340-421 P & aad G g € ao & & § ¢ $ eZ k & if ?
+“ k ?
+4.57 * .J .
+PRansrectep : $ $ § vet ve- é .
+@ @ C C & - « wane Wh < -- -anl phosphorylated GST c-Jun ( 1-169 ) DNA TRANSFECTED : 99 .
+& o T `` phosphorylated GST c-Jun ( 1-169 ) soluble RANKL treatment : po ® $ ® + Fic .
+7 .
+An internal deletion of the TRAFG binding site completely inhibits RANK-mediated NF- « B activation but only partially inhibits JNK activation .
+A , human 298 cells were transiently transfected with the expression vector DNA and relative luciferase activities were measured as described under `` Materials and Methods '' and Fig .
+3 .
+The RANK A840/421 mutation is an internal in-frame deletion of residues 340-420 including the TRAFG binding site .
+B , human 298 cells were transiently transfected with 2.5 ug of each plasmid and JNK activity was measured as described under `` Materials and Methods '' 24 h after transfection .
+C , to examine RANKL-induced JNK activation , 298 cells were transiently transfected with 50 ng of each expression vector and JNK activity was measured using GST-c-Jun- ( 1-169 ) as a substrate 24 h later .
+This concentration of full-length RANK expression vector did not activate JNK in the absence of added RANKL .
+Where indicated , cells were treated with 1 ug/ml soluble rhRANKL for 20 min prior to cell lysis .
+For each experiment , immunoprecipitation of *°S-labeled RANK demonstrated equivalent expression of each protein construct ( data not shown ) .
+The data shown are representative of three independent transfections .
+however , in contrast to the NF- « B results , this internal deletion still retained some activation of JNK above the vector control .
+This reduced , yet detectable , JNK activity was also 610Z '01 Aepy uo 4g wo ; popeoumog 34126 exhibited after RANKL activation of the RANK A340-421 construct ( Fig .
+7C ) .
+Therefore , this region ( 340-421 ) , which we have shown to be capable of binding TRAF6 directly , is required for NF- « B and contributes to JNK activation by RANK .
+DISCUSSION The TNFR superfamily consists of type I membrane proteins that can mediate diverse effects including apoptosis , differen-tiation , and survival upon ligand-mediated receptor activation .
+To date , each TNFR family member without a death domain has been shown to interact with cytoplasmic TRAF adaptor proteins either directly or indirectly .
+However , signaling pathways affected by different TNFR members are unique and frequently non-redundant .
+The specificity of RANK signaling through TRAF 's may then be determined by multiple factors : 1 ) the cellular abundance and localization of the TRAF proteins ; 2 ) the relative affinity of TRAFs for cytoplasmic TRAF-binding proteins including other TRAF 's , I-TRAF/TANK , TRIP , C-IAPs , and A20 ( reviewed in Ref .
+6 ) ; and 3 ) the relative affinity of these adaptor/effector proteins for the RANK cytoplasmic domain .
+We have shown that five of the six known TRAF can directly bind RANK cytoplasmic determinants , constituting the largest complement of TRAF proteins known to bind any TNFR family member and suggesting that RANK may utilize a versatile cast of effector molecules to transmit signals .
+RANK contains two independent TRAF binding regions : amino acids 544-616 , which affects binding of multiple TRAFs ( TRAFs 1 , 2 , 3 , 5 , and 6 ) ; and 340-421 , which binds TRAF6 only .
+We engineered specific point mutants of the putative RANK TBS in order to reveal critical RANK features for TRAF binding in vitro .
+Alanine substitutions within positions 571-573 uncovered selective binding determinants for TRAF3 at this site .
+Point mutations at positions 609-610 significantly affected TRAFs 1 , 2 , and 5 binding to RANK without affecting TRAF3 or TRAF6 binding .
+The critical Q-E element of these two TBS in RANK is similar to TRAF binding elements found in CD30 ( 22 ) and OX40 ( 12 ) .
+However , receptor-specific selectivity and affinity of TRAF binding appears to be influenced by sequences surrounding this core region .
+Deletion analysis clearly shows that TRAF6 directly binds to RANK within amino acids 340-421 ( Fig .
+1 ) .
+Removal of amino acids 544-616 resulted in a 50 % loss of TRAF6G binding inten-sity , but direct binding of TRAF6 to this latter region of RANK was not unambiguously determined .
+Since alanine substitutions of TBS within this COOH-terminal 72 amino acids did not reduce TRAF6 binding , either TRAF6 binds to two disparate sites ( within positions 340-421 and 544-616 ) independently of other TRAF proteins or some structure within the COOH-terminal tail can positively affect TRAFG binding to the upstream ( 840-421 ) region .
+Current experiments are under way to distinguish these possibilities .
+We have demonstrated that RANK triggering of both the NF- « B and JNK pathways requires cytoplasmic elements necessary for TRAF binding .
+The deletion of the COOH-terminal 72 residues ( RANK A544 ) , which decreases binding of TRAFs 1 , 2 , 3 , 5 , and 6 , resulted in a major reduction of RANK overexpression-induced NF-kB and JNK activity ( Figs .
+4 and 6 ) .
+Any residual NF- « B or JNK activity was eliminated when the TRAF6 binding region ( amino acids 340-421 ) was removed .
+RANKL treatment of RANK A544-expressing cells induced NF- « B activation to levels equivalent to full-length RANK ( Fig .
+4A ) , suggesting that the ability to directly bind TRAF6 , in the absence of direct binding of other TRAF 's , allows optimal RANK signaling .
+Although we identified a region with limited homology to other TBS at residues 353-357 ( site I ; P-S-Q-P-T ) within the upstream region important for RANK signal transduction , we TRAFs Mediate RANK Signaling were unable to identify the specific binding site for TRAF6G by site-directed mutagenesis ( data not shown ) .
+Therefore , to directly test the hypothesis that TRAFG binding is pivotal for RANK-mediated NF- « B and JNK activation , we constructed an in-frame deletion of amino acids 340-421 ( RANK A340-421 ) .
+The deletion of this region resulted in complete inhibition of NF- « B activation , while JNK activation was inhibited to a lesser degree .
+Thus , two separate regions of RANK ( 340-421 and 544-616 ) can independently activate JNK by virtue of the appropriate TRAF binding to each of these domains .
+These data also suggest that for activation of JNK , TRAF6 is functionally redundant with other TRAFs ( TRAF2 and TRAF5 ) binding downstream .
+Since residues 340-421 are necessary for NF- « B signaling by RANK in this model cell system , TRAFG binding and coupling to the appropriate downstream effector proteins plays a critical role in this pathway .
+Similar to TRAF2 and TRAF5 , TRAF6 has been shown to act upstream of both NF- « B and JNK pathways ( 24 ) ; however , these data suggest that , after RANK activation , TRAF6 may couple to distinct downstream effector proteins from those activated by TRAF2 or TRAFS5 .
+The ability of TRAF6 to functionally complement NF- « B signaling in RANK is reminiscent of its role in CD40 signaling ( 8 ) .
+Similar to RANK , CD40 binds TRAF6 via a distinct domain independently of other TRAF interactions and can mediate NF- « B signaling in the absence of direct TRAF2 or TRAFS5 binding .
+The NH , -terminal deletion of TRAFG only affects RANKL-induced reporter activity , while the deletions of TRAFs 2 and 5 affected signals resulting from both RANKL treatment and RANK overexpression ( Fig .
+5 ) .
+This illustrates another unique feature of TRAF6 in RANK signaling , and also suggests that there may be qualitative differences in TNFR family signaling resulting from the normal interaction of ligand and receptor versus the artificial signal emanating from overexpressed receptor .
+This latter observation has implications for the signaling mechanisms of the Epstein-Barr virus latent membrane protein 1 ( LMP1 ) , which mimics a con-stitutively active receptor by aggregating in the plasma membrane ( 25 ) and utilizes TRAF proteins for the activation of NF-kB ( 26-29 ) and other pathways ( 30 ) .
+Although it is not clear whether RANK may utilize TRAF-independent signaling mechanisms during activation or differentiation of RANK-expressing cells , we show here that the functional consequence of TRAF binding to RANK appears to be the downstream regulation of multiple gene activation path-ways .
+The resulting activation of nuclear transcription factors NF- « B and AP-1 play an unequivocal role to trigger inflamma-tory , immune , and acute phase gene expression .
+While these studies expose a particular role for TRAF6G in RANK signal transduction , the exact localization of the TRAF6 binding sites will help to further elucidate the role of TRAF6 binding in RANKL-induced signaling events .
+The examination of RANK constructs incapable of binding each of the different TRAF 's in the context of cellular activation ( e.g .
+DC ) or differentiation will be important to evaluate TRAF-dependent and independent RANK signaling mechanisms .
+Acknowledgments-We thank Kathy Maggiora for cell transfection help ; Dirk Smith for the pDC304 TRAF6- ( 289-522 ) construct ; Jeanette Bertles , Chang-Pin Huang , Marty Timour and Gordana Sapina for DNA sequencing ; Drs .
+Doug Williams and Timothy Bird for critically reading the manuscript ; Mari Hall and Gary Carlton for graphics as-sistance ; and Anne Aumell for editorial assistance .
+Addendum-While this paper was under review , Darnay ef al .
+( 81 ) also described the association of RANK with TRAFs 2 , 5 , and 6 .
+In contrast to our observations here , these authors did not detect TRAFG binding to RANK cytoplamic elements upstream of residue 530 .
+This discrepancy may be explained by the use of RANK purified from trans- 610Z '01 Aepy uo 4g wo ; popeoumog TRAFs Mediate RANK Signaling fected cells ( 81 ) , which may already have bound cytoplasmic proteins capable of competing with exogenously added TRAFs .
+Our data reported in the current study , using bacterially expressed RANK cytoplasmic domain and in vitro translated TRAF 's , clearly show the direct association of TRAF6 with RANK residues 340-421 .
+In addition , Darnay et al .
+( 81 ) did not observe a role for residues upstream of RANK 580 in NF-kB activation , while we demonstrate here a critical role of residues 340-421 in NF- « B activation in response to receptor overexpression and RANKL-mediated activation using two separate assay sys-tems .
+The reasons for this discrepancy are not clear and may be due to subtle differences in the experimental systems used .
+REFERENCES 1 .
+Anderson , D. M. , Maraskovsky , E. , Billingsley , W. L. , Dougall , W. C. , Tometsko , M. E. , Roux , E. R. , Teepe , M. C. , Dubose , R. F. , Cosman , D. & Galibert , L. ( 1997 ) Nature 890 , 175-179 2 .
+Wong , B. R. , Rho , J. , Arron , J. , Robinson , E. , Orlinick , J. , Chao , M. , Kalachikov , S. , Cayani , E. , Bartlett , F. S. , III , Frankel , W. N. , Lee , S. Y .
+& Choi , Y .
+( 1997 ) J. Biol .
+Chem .
+272 , 25190-25194 3 .
+Yasuda , H. , Shima , N. , Nakagawa , N. , Yamaguchi , K. , Kinosaki , M. , Mochizuki , S. , Tomoyasu , A. , Yano , K. , Goto , M. , Murakami , A. , Tsuda , E. , Morinaga , T. , Higashio , K. , Udagawa , N. , Takahashi , N. & Suda , T. ( 1998 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+95 , 3597-3602 4 .
+Lacey , D. L. , Timms , E. , Tan , H.-L. , Kelley , M. J. , Dunstan , C. R. , Burgess , T. , Elliott , R. , Colombero , A. , Elliott , G. , Scully , S. , Hsu , H. , Sullivan , J. , Hawkins , N. , Davy , E. , Capparelli , C. , Eli , A. , Qian , Y.-X. , Kaufman , S. , Sarosi , L. , Shalhoub , V. , Senaldi , G. , Guo , J. , Delaney , J .
+& Boyle , W. J .
+( 1998 ) Cell 98 , 165-176 5 .
+Wong , B. R. , Josien , R. , Lee , S. Y. , Sauter , B. , Li , H.-L. , Steinman , R. M. & Choi , Y .
+( 1997 ) J. Exp .
+Med .
+186 , 2075-2080 .
+Darnay , B. G. & Aggarwal , B .
+B .
+( 1997 ) J. Leukocyte .
+Biol .
+61 , 559-566 .
+Rothe , M. , Sarma , V. , Dixit , V. M. & Goeddel , D. V. ( 1995 ) Science 269 , 1424-1427 8 .
+Ishida , T. , Mizushima , S. , Azuma , S. , Kobayashi , N. , Tojo , T. , Suzuki , K. , Aizawa , S. , Watanabe , T. , Mosialos , G. , Kieff , E. , Yamamoto , T. & Inoue , J .
+( 1996 ) J. Biol .
+Chem .
+271 , 28745-28748 9 .
+Hsu , H. , Solovyev , I. , Colombero , A. , Elliott , R. , Kelley , M. & Boyle , W. J .
+( 1997 ) J. Biol .
+Chem .
+272 , 18471-13474 10 .
+Marsters , S. A. , Ayres , T. M. , Skubatch , M. , Gray , C. L. , Rothe , M. & Ashkenazi , A .
+( 1997 ) J. Biol .
+Chem .
+272 , 14029-14032 ~ 11 .
+12 .
+18 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+28. .
+Song , H. Y. , Régnier , C. H. , Kirschning , C. J. , Goeddel , D. V. & Rothe , M. 25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+34127 Gedrich , R. W. , Gilfillan , M. C. , Duckett , C. S. , Van Dongen , J. L. & Thompson , C. B .
+( 1996 ) J. Biol .
+Chem .
+271 , 12852-12858 Arch , R. H. & Thompson , C. B .
+( 1998 ) Mol .
+Cell .
+Biol .
+18 , 558-565 Akiba , H. , Nakano , H. , Nishinaka , S. , Shindo , M. , Kobata , T. , Atsuta , M. , Morimoto , C. , Ware , C. F. , Malinin , N. L. , Wallach , D. , Yagita , H. & Okumura , K. ( 1998 ) J. Biol .
+Chem .
+278 , 18353-13358 Smith , D. B .
+& Johnson , K. S. ( 1988 ) Gene ( Amast . )
+67 , 31-40 Bonnert , T. P. , Garka , K. E. , Parnet , P. , Sonoda , G. , Testa , J. R. & Sims , J. E. ( 1997 ) FEBS Lett .
+402 , 81-84 Mosley , B. , Beckmann , M. P. , March , C. J. , Idzerda , R. L. , Gimpel , S. D. , VandenBos , T. , Friend , D. , Alpert , A. , Anderson , D. , Jackson , J. , Wignall , J. M. , Smith , C. , Gallis , B. , Sims , J. E. , Urdal , D. , Widmer , M. B. , Cosman , D. & Park , L. S. ( 1989 ) Cell 59 , 335-348 Rothe , M. , Wong , S. C. , Henzel , W. J .
+& Goeddel , D. V. ( 1994 ) Cell 78 , 681-692 Nakano , H. , Oshima , H. , Chung , W. , Williams-Abbott , L. , Ware , C. F. , Yagita , H. & Okumura , K. ( 1996 ) J. Biol .
+Chem .
+271 , 14661-14664 Cao , Z. , Xiong , J. , Takeuchi , M. , Kurama , T. & Goeddel , D. V. ( 1996 ) Nature 383 , 443-446 Fanslow , W. C. , Srinivasan , S. , Paxton , R. , Gibson , M. G. , Spriggs , M. K. & Armitage , R. J .
+( 1994 ) Semin .
+Immunol .
+6 , 267-278 Yao , Z. , Fanslow , W. C. , Seldin , M. F. , Rousseau , A.-M. , Painter , S. L. , Comeau , M. R. , Cohen , J. I .
+& Spriggs , M. K. ( 1995 ) Immunity 8 , 811-821 Boucher , L.-M. , Marengéore , L. E. , Lu , Y. , Thukral , S. & Mak , T. W. ( 1997 ) Biochem .
+Biophys .
+Res .
+Commun .
+288 , 592-600 Cheng , G. & Baltimore , D. ( 1996 ) Genes Dev .
+10 , 963-973 ( 1997 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+94 , 9792-9796 Gires , O. , Zimber-Strobl , U. , Gonnella , R. , Ueffing , M. , Marschall , G. , Zeidler , R. , Pich , D. & Hammerschmidt , W. ( 1997 ) EMBO J .
+16 , 6131-6140 Mosialos , G. , Birkenbach , M. , Yalamanchili , R. , VanArsdale , T. , Ware , C. & Kieff , E. ( 1995 ) Cell 80 , 389-399 Devergne , O. , Hatzivassiliou , E. , Izumi , K. M. , Kaye , K. M. , Kleijnen , M. F. , Kieff , E. & Mosialos , G. ( 1996 ) Mol .
+Cell .
+Biol .
+16 , 7098-7108 Kaye , K. M. , Devergne , O. , Harada , J. N. , Izumi , K. M. , Yalamanchili , R. , Kieff , E. & Mosialos , G. ( 1996 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+98 , 11085-11090 Sandberg , M. , Hammerschmidt , W. & Sugden , B .
+( 1997 ) J. Virol .
+71 , 4649-4656 Miller , W. E. , Mosialos , G. , Kieff , E. & Raab-Traub , N. ( 1997 ) J. Virol .
+71 , 586-594 Darnay , B. G. , Haridas , V. , Ni , J. , Moore , P. A .
+& Aggarwal , B .
+( 1998 ) J. Biol .
+Chem .
+278 , 20551-20555 610Z '01 Aepy uo 4g wo ; popeoumog The Involvement of Multiple Tumor Necrosis Factor Receptor ( TNFR ) -associated Factors in the Signaling Mechanisms of Receptor Activator of NF- < B , a Member of the TNFR Superfamily Laurent Galibert , Mark E. Tometsko , Dirk M. Anderson , David Cosman and William C. Dougall J. Biol .
+Chem .
+1998 , 273:34120-34127. doi : 10.1074/jb0.273.51.34120 Access the most updated version of this article at http : /www.jbe.org/content/273/51/34120 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 31 references , 18 of which can be accessed free at http : //www 20 .full.html # ref-list-1 610Z '01 Aepy uo 4g wo ; popeoumog

@@ -1,0 +1,774 @@
+The EMBO Journal Vol.18 No.12 pp.3419-3430 , 1999 Aiolos transcription factor controls cell death in T cells by regulating Bcel-2 expression and its cellular localization Francisco Romero `` , Carlos Martinez-A `` , Jacques Camonis* and Angelita Rebollo ' `` Laboratoire d'Oncologie Cellulaire et Moleculaire , INSERM U363 , Hopital Cochin , 27 rue du Faubourg Saint-Jacques , F-75014 Paris , France , *Department of Immunology and Oncology , Centro Nacional de Biotecnologia , Campus de Cantoblanco UAM , E-28049 Madrid , Spain and `` Institut Curie , INSERM U248 , 26 rue d'Ulm , F-75248 , Paris Cedex 05 , France *Present address : Department of Microbiology , Facultad de Biologia , Apdo .
+1095 , E-41080 Seville , Spain 3Corresponding author e-mail : arebollo @ cnb.uam.es We searched for proteins that interact with Ras in interleukin ( IL ) -2-stimulated or IL-2-deprived cells , and found that the transcription factor Aiolos interacts with Ras .
+The Ras-Aiolos interaction was confirmed in vitro and in vivo by co-immunoprecipitation .
+Indirect immunofluorescence shows that IL-2 controls the cellular distribution of Aiolos and induces its tyrosine phosphorylation , required for dissociation from Ras .
+We also identified functional Aiolos-binding sites in the Bcl-2 promoter , which are able to activate the luciferase reporter gene .
+Mutation of Aiolos-binding sites within the Bel-2 promoter inhibits transactivation of the reporter gene luciferase , suggesting direct control of Bel-2 expression by Aiolos .
+Co-transfection experiments confirm that Aiolos induces Bcl-2 expression and prevents apoptosis in IL-2-deprived cells .
+We propose a model for the regulation of Bel-2 expression via Aiolos .
+Keywords : Aiolos/apoptosis/Bcl-2/phosphorylation Introduction The Aiolos transcription factor has been identified as a homologue of the Ikaros transcription factor , whose expression is restricted to the lymphoid lineage .
+Aiolos homodimers are potent transcriptional activators , whereas the transcriptional activity of Aiolos-Ikaros heterodimers ranges from low to undetectable .
+Aiolos was first described in committed lymphoid progenitors , and is strongly up-regulated as these progenitors become restricted into T-and B-lymphoid pathways ( Morgan et al .
+, 1997 ) .
+Aiolos plays an important role as a regulator of B-cell differenti-ation , proliferation and maturation to an effector state ( Wang et al .
+, 1998 ) .
+The interplay between these proteins in the regulation of gene expression is further complicated by additional Ikaros isoforms or by other proteins that can sequester either Ikaros or Aiolos in transcriptionally inert complexes ( Morgan et al .
+, 1997 ) .
+Ras proteins are involved in cell proliferation , differentiation and apoptosis .
+Their function is controlled by a © European Molecular Biology Organization GTP-GDP cycle that is regulated by at least two distinct classes of regulatory proteins ( Boguski and McCormick , 1993 ; McCormick , 1998 ) .
+The relevance of Ras proteins in cell proliferation is best exemplified by the high frequency of mutated Ras genes in neoplasia .
+Ras acts at several phases of the cell cycle and is required soon after the release of cells from quiescence ( Dobrowolski et al .
+, 1994 ; Pan et al .
+, 1994 ) .
+There are two peaks of Ras activation before the S phase ; the earlier one is growth-factor triggered , whereas the second , which is stronger than the first , is growth-factor independent ( Taylor and Shalloway , 1996 ; Winston et al .
+, 1996 ) .
+Several reports have suggested that Ras activation can promote either proliferation or apoptosis ( Ferrari and Greene , 1994 ; Gulbins et al .
+, 1995 ; Gomez et al .
+, 1996 , 1997 , 1998b ; Wilson ef al .
+, 1996 ) .
+Ras mediates the apoptotic effect triggered by deprivation of growth factors such as serum , interleukin ( IL ) -3 or IL-2 ( Reed , 1994 ; Consiglio and Formisano , 1995 ; Wang et al .
+, 1995 ; Gomez et al .
+, 1997 ) .
+According to the pro- or anti-apoptotic role of Ras , we can propose that two different Ras-mediated pathways may be triggered by an external stimulus , one involved in cell proliferation and the other in apoptosis .
+Alternatively , one Ras-mediated pathway may trigger either proliferation or apoptosis , depending on external signals and/ or associated pathways .
+Apoptotic cell death is a process ultimately leading to the activation of endogenous nucleases that promote internucleosomal DNA - degradation ( Wyllie , 1980 ) .
+Apoptosis can be induced by growth-factor deprivation ( Duke and Cohen , 1986 ; Nufiez et al .
+, 1990 ; Williams et al .
+, 1990 ) , signalling via surface receptors ( Smith et al .
+, 1989 ; Baumon et al .
+, 1990 ) and exposure to drugs ( Zubiaga et al .
+, 1992 ) .
+Many components of the machinery that regulates and executes programmed cell death have been identified ( Nagata , 1997 ) .
+Numerous studies have demonstrated that Bcel-2 is a positive regulator of cell survival , protecting various cell types from death induced by growth factor deprivation , heat shock and viral agents ( Reed , 1994 ; Park and Hockembery , 1996 ; White , 1996 ; Gomez et al .
+, 1997 ) , but the biochemical mechanism by which this protein prevents apoptosis remains enigmatic ( Yang and Korsmeyer , 1996 ) .
+Bcel-2 has been reported to interact with members of the Ras superfamily of proteins ( Fernandez-Sarabia and Bischoff , 1993 ; Chen and Faller , 1996 ) .
+IL-2-dependent T cells die by apoptosis after IL-2 withdrawal , and transfection of Bcel-2 promotes survival in the absence of IL-2 ( Broome et al .
+, 1995 ; Minami and Taniguchi , 1995 ; Miyazaki et al .
+, 1995 ; Gomez et al .
+, 1996 ) .
+Bcel-2 is expressed in the IL-2-dependent murine T-cell line TS1oB , and its expression decreases when cells are deprived of IL-2 .
+Overexpression of Bcel-2 in these cells extends their survival time in the absence of IL-2 ( Gomez et al .
+, 1996 ) .
+The Ras pathway induces expression 3419 FRomero et al .
+of genes necessary for cell survival ; accordingly , it has been demonstrated that the Ras signalling pathway induces and regulates Bcel-2 expression ( Kinoshita et al .
+, 1995 ) .
+We used the yeast two-hybrid method to identify proteins that interact with Ras in IL-2-stimulated or IL-2-deprived cells .
+The transcription factor Aiolos was identified as interacting with Ras in IL-2-deprived cells .
+The results were confirmed by a genetic approach , by co-immunoprecipitation and by indirect immunofluorescence .
+They suggest a physiological role for a Ras-Aiolos interaction in the control of Bcel-2 expression .
+They also indicate a mechanism by which Ras and Aiolos interact only in the absence of IL-2 , and require reassessment of the meaning of the fact that Ras is inactive in its GDP-bound form .
+The relevance of these findings is discussed in the context of apoptosis .
+Results Isolation of Ras-interacting proteins in IL-2-stimulated or IL-2-deprived TS1o0f cells We have described how Ras activation leads to cell proliferation or apoptotic cell death after IL-2 stimulation or IL-2 deprivation of the murine cell line , respectively ( Gomez et al .
+, 1997 ) .
+We asked whether two different Ras-mediated pathways are triggered by an external stimulus , one involved in cell proliferation and the other in apoptosis using different effectors , or alternatively , whether one Ras-mediated pathway might trigger either cell proliferation or apoptosis .
+To identify proteins that interact with Ras in IL-2-stimulated or IL-2-deprived cells , Ras wild-type was used as bait to screen , using the two-hybrid method , cDNA libraries made from IL-2-stimulated or IL-2-deprived TS1afB cells .
+The nucleotide sequence of one specific clone ( Figure 1A ) isolated from the cDNA library of IL-2-deprived cells showed a 100 % match to a partial cDNA encoding the proximal C-terminal region of the Aiolos murine transcription factor ( Figure 1B ) .
+cDNA encoding full-length Aiolos was cloned in pLex10 and tested for interaction with Ras wild-type ; both the full-length protein and the truncated form isolated during screening , interact with Ras .
+Aiolos was then tested for interaction with Ras mutants .
+Aiolos does not interact with N17 or V12 Ras mutants , suggesting that this protein probably requires the GDP form of Ras for interaction ( Figure 1A ) .
+Other related members of the Ras family , such as Racl , RacZ , Rap1lA or RalB , do not interact with Aiolos ( Figure 1A ) , suggesting that the Ras wild-type-Aiolos interaction is specific for Ras .
+Binding of Aiolos and Ras wild-type probably occurs through the effector domain of Ras , since the Ras effector domain mutant L35R37 does not interact with Aiolos .
+Association of Ras wild-type and Aiolos in vivo and in vitro To validate the results obtained using the yeast two-hybrid system , the interaction of Ras wild-type and Aiolos was studied in intact cells by co-immunoprecipitation using Aiolos- and Ras-specific antibodies .
+We performed reciprocal co-immunoprecipitation experiments of cytoplasmic proteins under IL-2 stimulation or deprivation conditions in TS1aB cells ( Figure 2A ) .
+High Ras levels 3420 2-HYBRID 2-HYBRID DB AD DB AD rus wi atoros* ity $ t - ( 2D tats Ras wt Aiolos Ras wi = -- th lh age # = Aiolos Ras wi Raf .
+~ RasV12 Aiolos* RasN17 - Ajoles® s -- RalB wt Aijolos Reci wt Ajolos paly `` ~A * Rac wt Raplawt Ajiolos |_ coe - « Weel _ ResL3SR37 Atolos NH2 COOH Binding Activation Dimerization e I o IL __ T _ Domain Domain Domain AIOLOS* Fig .
+1 .
+Interaction of wild-type Ras with Aiolos in the two-hybrid system .
+( A ) Interaction of wild-type Ras with Aiolos .
+The S.cerevisice L40 reporter strain was co-transfected with the indicated plasmids .
+The interaction between the two-hybrid proteins is indicated by the induction of lacZ expression ( blue patches ) .
+There are two patches for each strain and each patch represents an independent transformant .
+L40 carrying wild-type Ras and Raf was used as a positive control .
+DB , fusion with the DNA-binding domain of Lex10 .
+AD , fusion with the activation domain of Gal4 .
+Interaction of full-length Aiolos with other Ras superfamily members is also shown .
+( B ) Schematic representation of full-length Aiolos and the positive clone derived from Aiolos ( marked as Aiolos® ) obtained upon screening of the cDNA library of IL-2-deprived TS1 @ B cells .
+The different Aiolos domains are shown .
+were detected by Western blot in anti-Aiolos immunoprecipitates of cells deprived of IL-2 for 24 h. The amount of Ras detected in cytoplasm decreased slightly in 12 h IL-2-deprived cells , with minimum Ras levels detected in cytoplasmic Aiolos immunoprecipitates of IL-2-stimulated cells .
+Reprobing the membrane with anti-Aiolos antibody shows different amounts of Aiolos in the cytoplasm of IL-2-stimulated ( low levels ) or IL-2-deprived cells ( high levels ) .
+In reciprocal experiments , high Aiolos levels were detected by Western blot in anti-Ras immunoprecipitates from IL-2-deprived cells ( 24 h ) .
+The amount of cytoplasmic Aiolos detected decreased after 12h of IL-2 deprivation , reaching the minimum level in IL-2-stimulated cells .
+The Ras protein level did not diminish , as evidenced by probing the membrane with anti-Ras antibody .
+These results show that Ras interacts with Aiolos in vivo and that this interaction is specific , since immunoprecipitation of cytoplasmic lysates with an irrelevant antibody ( anti-IL-2 ) detects neither Aiolos nor Ras .
+Co-immunoprecipitation of cytoplasmic proteins isolated by digitonin lysis of the cells showed similar results ( data not shown ) .
+These findings reveal that Ras complexed to Aiolos is recovered from cells , confirming the results obtained in the two-hybrid system .
+Total lysates from IL-2-stimulated or IL-2-deprived cells show the same level of Aiolos expression ( Figure 2B ) , in contrast to the levels detected in the cytoplasmic fraction ; this suggests a distinct cellular distribution of Aiolos rather than differences in the total protein level .
+We addressed this question a- } A 24 h 12 h 5 £ D IL-2 +o - +0 - E kDa IP Aiolos ( tl wB Ras « # 21 IP Aiolos y A9 `` , « ep 56 wB Aiolos nuke IP Ras wB Aiolos ” ﬁl- yp 56 IP Ras cums omm « mmm .
+21 WB Ras -e j B 12 h 24 h IL-2 + - e Aiolos 56 c N C 12 h 24 h 24 h IL-2 y : = + - es kDa a-Aiolos AR rete HUEY - vac w. on ... ... cations 56 p R a-Ras @ 21 = -- & 1 u- » a-Histones tun cme Ras and Aiolos interaction in IL-2-deprived cells by analysing whether Aiolos could be detected in the nuclei of IL-2-stimulated cells .
+Aiolos was detected by Western blot in nuclear extracts of IL-2-stimulated cells ( Figure 2C ) .
+The amount of Aiolos decreased with the length of the IL-2 deprivation period , reaching minimum levels at 24 h of IL-2 deprivation .
+This deprivation period corresponds to the maximum Aiolos level detected in the cytoplasm of IL-2-deprived cells , suggesting the trafficking of Aiolos from the cytoplasm to the nucleus , depending on the presence or absence of IL-2 .
+As internal control of protein fractionation , the blot was probed with pan-Ras ( cytoplasmic marker ) and anti-histone antibodies ( nuclear marker ) .
+The Ras-Aiolos interaction was also studied in in vitro binding experiments .
+Aiolos was produced as a glutathione S-transferase ( GST ) fusion protein and purified on glutathione-agarose beads .
+The Vav SH2 domain fused to GST was used as a negative control .
+Cytoplasmic lysates from IL-2-stimulated or IL-2-deprived cells were incubated with GST-Aiolos and with GST-Vav SH2 and , after several washing steps , proteins were resolved in SDS-PAGE and the blot developed with anti-Ras antibody .
+Figure 3A shows that Ras interacts with the GST-Aiolos fusion protein , whereas there is no interaction with GST alone or with GST-Vav .
+In reciprocal experiments , GST-Ras proteins were purified on glutathione-agarose beads , and the SH2/Vav construct was used as a negative control .
+The GST-Ras proteins were loaded with guanine nucleotides by incubation with GDP or GTP-yS .
+Aiolos interacts with GST-Ras/GDP in cytoplasmic lysates of IL-2-deprived or IL-2-stimulated cells , although in the latter case , the amount of Aiolos that interacts with GST-Ras/GDP is greatly reduced ( Figure 3B ) .
+This observation is consistent with the two-hybrid results obtained using Ras alleles ( Figure 1A ) , in which Aiolos interacts with the GDP form of Ras .
+To confirm Aiolos interaction with the GDP Ras form , GST-Ras proteins were loaded with the nonhydrolysable GTP analogue GTP-yS .
+Aiolos interacts weakly with Ras-GTP-yS in cytoplasmic lysates of IL-2-stimulated cells ( Figure 3C ) , and we were unable to detect Fig .
+2 .
+Reciprocal co-immunoprecipitation of wild-type Ras and Aiolos .
+( A ) Cytoplasmic lysates from IL-2-stimulated ( 5 ng/m ! )
+or IL-2-deprived cells ( 1X10 `` ) were immunoprecipitated with anti-Aiolos or irrelevant antibody ( anti-IL-2 ) , washed , transferred to nitrocellulose and immunoblotted with a pan-Ras antibody .
+The blot was stripped and reprobed with anti-Aiolos antibody .
+Similarly , cytoplasmic lysates from IL-2-stimulated or IL-2-deprived cells were immunoprecipitated with pan-Ras , washed , transferred to nitrocellulose and immunoblotted with anti-Aiolos .
+The blot was reprobed with pan-Ras .
+Protein bands were detected using the ECL system .
+Molecular weight markers are indicated .
+Similar results were obtained in three independent experiments .
+( B ) Total lysates from IL-2-stimulated ( 5 ng/m ! )
+or IL-2-deprived cells ( 5X10° ) were resolved in SDS-PAGE , transferred to nitrocellulose , probed with anti-Aiolos , and protein bands detected as above .
+Molecular weight markers are shown .
+Similar results were obtained in two independent experiments .
+( C ) Nuclear proteins were isolated from IL-2-stimulated ( 5 ng/ml ) or IL-2-deprived cells ( 2X10 `` ) .
+After quantification , 20 ug of protein were resolved in SDS-PAGE , transferred to nitrocellulose and immunoblotted sequentially with anti-Aiolos , pan-Ras ( cytoplasmic marker ) and anti-histone H1 , H2a , H2b , H3 and H4 antibodies ( nuclear marker ) .
+As internal control of cytoplasmic ( C ) and nuclear ( N ) fractionation , cytoplasmic proteins from IL-2-stimulated or IL-2-deprived cells were used and also blotted with anti-Aiolos , pan-Ras and anti-histone antibodies .
+Protein bands were detected as above .
+Molecular weight markers are indicated .
+Similar results were obtained in two independent experiments .
+3421 FRomero et al .
+A GST-Yav/SH2 GST-Yav/SH2 GST-Aiolos GST-Aiolos GST IL-2 + I # I I kDa Ras t 21 GST-Ras/GDP GST-Ras/GDP GST-Yav/SH2 GST-Yav/SH2 GST IL-2 # I + | I kDa Aiolos 56 , E C GST-Ras/GTP-y- $ GST-Ras/GTP-y- $ GST-Yav/SH2 GST-Yav/SH2 GST 1 [ + | + I I kDa Aiolos 56 Fig .
+3 .
+Aiolos interacts with Ras in vitro .
+( A ) Expression of the GST-Aiolos fusion protein was induced by IPTG addition and proteins were isolated from bacterial lysates by affinity chromatography with glutathione-agarose beads and incubated with cytoplasmic lysates from IL-2-stimulated or IL-2-deprived cells ( 7X 10° ) .
+After several washing steps , eluted proteins were resolved in SDS-PAGE , transferred to nitrocellulose and immunoblotted with pan-Ras .
+Protein bands were detected using the ECL system .
+Molecular weight markers are indicated .
+Data are representative of two independent experiments .
+Similarly , GST-Ras/GDP ( B ) or GST-Ras/GTP-yS ( C ) proteins were incubated with cytoplasmic lysates from IL-2-stimulated or IL-2-deprived cells 10° ) .
+Eluted proteins were immunoblotted with anti-Aiolos antibody , and protein bands detected using ECL or ECL Plus .
+Molecular weight markers are indicated .
+Similar results were obtained in two independent experiments .
+this interaction in cytoplasmic lysates of IL-2-deprived cells .
+We did not observe Aiolos interaction with GST-SH2/Vav .
+Aiolos mRNA expression is not modified in IL-2-stimulated or IL-2-deprived cells It was of interest to determine whether IL-2 could modulate Aiolos mRNA levels .
+Total mRNA was isolated from IL-2-stimulated or IL-2-deprived cells , electrophoresed and hybridized with an Aiolos-specific probe that does not cross-react with Ikaros .
+The result shows that the presence or absence of IL-2 does not modulate the Aiolos 3422 IL-2 ~IL-2 Kb AIOLOS .. 4.4 285 tn we 185 tuccusts Fig .
+4 .
+Aiolos mRNA expression in IL-2-stimulated or IL-2-deprived cells .
+Total RNA was isolated from 20 % 10° IL-2-stimulated ( 5 ng/ml ) or IL-2-deprived cells ( 24 h ) .
+RNA ( 15 ug ) was electrophoresed in 1 % agarose with formaldehyde , blotted and hybridized in high stringency conditions with a °°P-labelled 300 bp DNA probe that does not cross-react with Ikaros .
+After elution of this probe , the blot was rehybridized with a °P-labelled 600 bp probe for B-actin .
+DNA probes were labelled by random priming .
+Both 288 and 188 are also shown to estimate RNA levels .
+Data are representative of two independent experiments .
+mRNA level ( Figure 4 ) .
+The B-actin levels , as well as 288 and 188 mRNAs , were similar in both cases .
+IL-2 controls the cellular localization of Aiolos As nuclear and cytoplasmic fractionation procedures can lead to protein leakage or contamination from one compartment to another , Aiolos localization was studied in intact cells using indirect fluorescence microscopy .
+IL-2-stimulated or -deprived cells were attached to cover-slips , fixed , permeabilized with lysophosphatidylcholine and , after blocking of non-specific binding , were incubated with anti-Aiolos antibody followed by fluorescein isothi-ocyanate ( FITC ) -conjugated secondary antibody .
+Labelled cells were observed using fluorescence microscopy .
+IL-2-stimulated cells show strong punctate nuclear stain-ing , whereas in the cytoplasm only very weak staining is observed ( Figure 5 ) .
+After 3 h of lymphokine deprivation , the punctate nuclear staining began to redistribute gradu-ally .
+The picture after 6-9 h of IL-2 deprivation shows staining in the nucleus and in the cytoplasm .
+Staining distribution at 12 h of deprivation is localized progressively throughout the cytoplasm rather than in the nucleus and at 24 h after withdrawal the staining is mainly detected in the cell cytoplasm .
+This result suggests that IL-2 controls cellular Aiolos distribution .
+Role of Aiolos transcription factor in the activation of the Bel-2 promoter IL-2 deprivation induces apoptosis and Bcl-2 downregulation in TS1 @ f cells ( Gomez et al .
+, 1998a ) .
+Given that one of the differences between IL-2-stimulated and IL-deprived cells is Bcel-2 expression , and that Aiolos is mainly detected associated with Ras in the cytoplasm of IL-2-deprived cells , we hypothesize that Bel-2 transcription may be activated by Aiolos .
+Bcl-2 expression is driven by two promoters , P1 and P2 ( Figure 6B ) .
+Transient transfection was therefore performed with plasmids in which luciferase expression is under the control of P1 , P2 Ras and Aiolos interaction in IL-2-deprived cells a-Aiolos t : 24 Fig .
+5 .
+Immunolocalization of Aiolos .
+IL-2-stimulated ( 5 ng/ml ! )
+cells or cells deprived of IL-2 for different periods ( 3-24 h ) were attached to a glass slide , fixed , permeabilized with lysophosphatidylcholine and stained with anti-Aiolos antibody , followed by FITC-conjugated secondary antibody .
+After several washing steps , samples were mounted in the surface coating Mowiol with anti-fading agents , analysed using fluorescence microscopy and photographed using a phase-contrast fluorescence photomicroscope .
+Similar results were obtained in two independent experiments .
+or P1+P2 alone or in combination with plasmid expressing Aiolos .
+After transfection , cells were stimulated with IL-2 or deprived for 24 h and luciferase expression was analysed .
+Transfection of Aiolos with an irrelevant promoter ( A7mp55 IL-2R ) was used as a control .
+Co-transfection experiments in cells revealed that Aiolos is capable of activating the P1+P2 or P1 Bcl-2 promoter and , at lower levels , the P2 promoter in the absence of IL-2 , compared with control cells transfected with luciferase reporter constructs only ( Figure 6A ) .
+Cells co-transfected with the different Bel-2 promoter constructs and an Aiolos dimerization domain mutant in the absence of IL-2 show no transactivation of the luciferase reporter ( data not shown ) .
+Aiolos is able to activate the Bcl-2 promoter construct , even in IL-2-stimulated cells .
+IL-2-stimulated cells transfected only with Bel-2 promoter reporter constructs show lower luciferase activity than those co-transfected with Aiolos ( Figure 6A ) , indicating that Aiolos is able to activate the Bel-2 promoter construct even in IL-2-stimulated cells .
+Aiolos had no effect on the activation of the murine A7mp55-IL-2R promoter , in either the presence or absence of IL-2 .
+These results suggest that the enhanced reporter gene activation may be an effect of Aiolos on the Bel-2 promoter .
+It is interesting to note that we detected Aiolos-binding sites on the Bcl-2 promoter identical to the Aiolos DNA-binding sequence described by Morgan et al .
+( 1997 ) ( Figure 6B ) .
+To prove direct control of Bel-2 expression by Aiolos , electrophoretic mobility shift assay ( EMSA ) and mutation of putative Aiolos-binding sites within the Bel-2 promoter were performed .
+DNA-binding activity for Aiolos was detected in IL-2-stimulated cells .
+Inhibition of Aiolos DNA-binding activity was detected using mutated Aiolos-binding sites .
+The specific DNA-Aiolos interaction was confirmed by competition with unlabelled oligonucleotide ( Figure 7 ) .
+Cells co-transfected with different Bel-2 promoter constructs containing mutated Aiolos-binding sites and Aiolos expression vector in the absence of IL-2 show no transactivation of the luciferase reporter gene compared with cells transfected with wild-type Bcel-2 promoter constructs ( Figure 7 ) .
+Taken together , these results suggest a direct effect of Aiolos on the Bel-2 promoter .
+Aiolos induces Bel-2 expression and prevents apoptosis in the absence of IL-2 To characterize the extent to which Aiolos activates the Bcl-2 promoter , transiently transfected cells with the Aiolos expression vector were analysed for Bcl-2 expression ( Figure 8 ) .
+Cells maintained in IL-2 or IL-4 were used as positive and negative Bcel-2 expression controls , respectively .
+Upon IL-2 stimulation , mock transfectants or cells transfected with Aiolos show Bcel-2 expression levels comparable with those of control IL-2-stimulated cells .
+Mock transfectants maintained in the absence of IL-2 show no Bcl-2 expression .
+Interestingly , when cells are transfected with Aiolos , weak Bcl-2 expression is induced without IL-2 addition .
+Unaltered Ras expression is shown 3423 FRomero et al .
+A + Aiolos _I— - Aiolos 51 -IL2 -IL2 - } - RLU x 103 a los _- Aad + Aiolos +1L-2 = Aiolos + IL-2 o—I—c RLU x 103 ATmp55 IL-2R RLU x 103 IL-2 +o + - AIOLOS Fo - + B A 7 mp55 IL-2R PROMOTER TATAr > TATA|— > | Bcl-2 PROMOTER P1 P2 ( * [ * orr AIOLOS BINDING SITE : T G G G A A Aiolos 1* ; G A C G A A Aiolos 2* : A T G G A A Aiolos 3* : T G C A G A P1 LUCIFERASE [ ° T OJ P2 LUCIFERASE CITI P1 P2 LUCIFERASE Fig .
+6 .
+Effect of Aiolos on transactivation of P1 , P2 or P1+P2 Bel-2 promoter .
+( A ) TS1GB cells were transiently co-transfected by the DEAE-dextran procedure with PI-Luc , P2-Luc , P1+P2-Luc or an irrelevant promoter ( A7 murine p55 IL-2R promoter ) , with or without Aiolos .
+After transfection , cells were IL-2 stimulated ( 5 ng/m ! )
+or IL-2 deprived for 24 h , collected , washed and assayed for luciferase activity .
+The efficiency of transfection was monitored by the -galactosidase activity .
+Relative light units ( RLU ) were normalized to protein concentration .
+Standard deviation ( SD ) is shown where r = 4 .
+B , buffer ; V , empty vector .
+( B ) Schematic representation of murine A7mpS5IL-2R and Bel-2 promoters showing DNA-binding sites for some transcription factors .
+The Aiolos DNA-binding sequence and the mutated Aiolos-binding sites ( Aiolos 1* , Aiolos 2* and Aiolos 3* ) are shown .
+The schematic representation of P1 , P2 and P1+P2-luciferase constructs is also shown .
+under all transfection conditions as an internal protein loading control .
+Expression of transiently transfected Aiolos was confirmed by direct comparison of Aiolos protein levels in transfected cells and in mock-transfected controls .
+This suggests that Aiolos is able to induce Bcl-2 expression in the absence of IL-2 and confirms the previous result of Bel-2 promoter activation .
+As IL-2 deprivation in TS1 @ f® cells correlates with Bcl-2 downregulation and apoptosis , and Aiolos is able to induce Bcel-2 expression in the absence of IL-2 , we hypothesized that Aiolos may prevent apoptosis .
+Mock transfectants or cells transfected with the Aiolos expression vector were selected from a mixed population of transfected and non-transfected cells .
+Cells transfected with Aiolos and deprived of IL-2 for 24 h show a strong reduction in the fraction of apoptotic cells compared with IL-2-deprived mock-transfected control cells ( Figure 9A ) .
+The frequency of apoptotic cells remains similar in all transfected cells in the presence of IL-2 .
+Figure 9A also shows the percentage of apoptosis in non-transfected cells alone or cultured in IL-2 .
+Similar results were obtained when the percentage of apoptotic cells was estimated by annexin staining ( Figure 9B ) .
+IL-2 induces tyrosine phosphorylation of Aiolos To further study the mechanism by which Ras and Aiolos interact in the cytoplasm of IL-2-deprived cells , we 3424 analysed whether IL-2 could induce Aiolos phosphorylation , which may be responsible for its dissociation .
+Tyrosine phosphorylated Aiolos was detected in Aiolos immunoprecipitates of IL-2-stimulated cell cytoplasmic lysates .
+The amount of cytoplasmic tyrosine phosphorylated Aiolos in IL-2-deprived immunoprecipitates decreases notably after 12 h of starvation , and is almost undetectable after 24 h of deprivation ( Figure 10A ) .
+Cytoplasmic Aiolos immunoprecipitated from IL-2-stimulated or IL-2-deprived cells was detected by reprobing the blot with anti-Aiolos antibody , showing the highest levels at 24 h of starvation and confirming the results shown in Figure 2A .
+Tyrosine-phosphorylated Aiolos was also detected in immunoprecipitates of nuclear proteins from IL-2-stimulated cells , decreasing strongly with the starvation period ( Figure 10B ) .
+Nuclear Aiolos immunoprecipitated from IL-2-stimulated or IL-2-deprived cells was detected by reprobing the blot with anti-Aiolos antibody , with the highest Aiolos levels in IL-2-stimulated cells .
+The relative amount of tyrosine-phosphorylated Aiolos in cytoplasmic and nuclear extracts normalized to total Aiolos protein is shown in Figure 10C .
+This result suggests that IL-2 induces phosphorylation of Aiolos and may control its dissociation from Ras .
+Alternatively , IL-2 may influence the state of Ras and , consequently , its dissociation from Aiolos .
+B +Aiolos « IL-2 6 m 4 4 x ® g J 0 e moo L4 m |_| C ] B vo PbO P2 PLP ] oB vo oP oP ?
+rie ?
+Fig .
+7 .
+DNA-binding and activation properties of the Aiolos transcription factor .
+( A ) Nuclear proteins from IL-2-stimulated ( 5 ng/m ! )
+cells were incubated with oligonucleotide containing the wild-type ( TGGGAA ) or mutated ( GACATG ) Aiolos-binding site .
+For oligonucleotide sequence , see Materials and methods .
+Protein-DNA complexes were separated from free oligonucleotide in 5 % polyacrylamide gel , dried and exposed to X-ray film .
+Lane 1 , mutated Aiolos-binding site ; lane 2 , Aiolos-binding site ; lane 3 , Aiolos-binding site competed by a 20-fold molar excess of unlabelled Aiolos-binding site .
+Data are representative of two independent experiments .
+( B ) TS1 ( @ B cells were transiently co-transfected with P1-Luc , P2-Luc , P1 +P2-Luc orP1*-Luc , P2*-Luc , P1*+P2*-Lue with Aiolos .
+After transfection , cells were IL-2-deprived for 24 h , collected , washed and analysed for luciferase activity .
+The efficiency of transfection was monitored by the B-galactosidase activity .
+Relative light units ( RLU ) were normalized to protein concentration .
+B , buffer ; V , empty vector .
+P1* , P2* or P1*+P2* represent the fragments of Bcl-2 promoter with mutated Aiolos-binding sites .
+For oligonucleotide sequence , see Materials and methods and Figure 6B .
+Discussion Using the yeast two-hybrid approach ( Fields and Song , 1989 ) , we have shown that Ras wild-type interacts with the Aiolos transcription factor .
+The interaction of Ras with both C-terminal and full-length Aiolos probably requires the GDP form of Ras , since Ras V12 or N17 mutants , which exist in GTP-bound or nucleotide free forms , respectively ( Lai et al .
+, 1993 ) , fail to interact with Aiolos .
+This result was confirmed by in vitro binding of purified fusion proteins containing Ras preincubated with GDP or GTP-yS .
+Aiolos interacts with Ras-GDP in IL-2-deprived cells , and only traces of Aiolos are detected in association with Ras-GDP in IL-2-stimulated cells .
+In addition , no Aiolos association with Ras-GTP is detected in IL-2-deprived cells .
+Traces of Aiolos were associated with Ras-GTP in IL-2-stimulated cells , although this interaction was not detected using the yeast two-hybrid approach .
+Binding probably occurs through the Ras effector domain , since a Ras L35R37 effector domain mutant does not Ras and Aiolos interaction in IL-2-deprived cells c 3 w in = OE zx 2 x- 2 $ o f $ G jo f LJ Uo E < % L < IL-2 + +00 +0 IL-4 + kDa Bcel-2 « amie : a » cap 26 Ras « tz @ - als tam Goo 21 Aiolos P smut tut Ament 56 Fig .
+8 .
+Transfection of Aiolos induces Bel-2 expression in IL-2-deprived cells .
+Cells were transiently transfected with or without Aiolos using the DEAE-dextran method and stimulated with or deprived of IL-2 for 24 h. After transfection , protein extracts from 6X10° cells were separated in SDS-PAGE , transferred to nitrocellulose and probed with anti-Bcl-2 antibody .
+IL-2- ( 5 ng/ml ! )
+or IL-4-stimulated ( 60 U/ml ! )
+cells were used as positive and negative Bel-2 expression controls , respectively .
+Protein bands were developed using ECL .
+Hybridization with pan-Ras is shown as an internal protein loading control .
+Expression of the transiently transfected Aiolos was confirmed by direct comparison of Aiolos protein levels in transfected and mock transfected controls .
+Molecular markers are shown .
+Similar results were obtained in three independent experiments .
+interact with Aiolos in the yeast two-hybrid system .
+Binding of Ras wild-type to Aiolos appears to be Ras protein specific , since other Ras superfamily members such as Racl , RacZ , RaplA or RalB do not bind Aiolos in the yeast two-hybrid method .
+The results obtained using the two-hybrid system were confirmed by in vivo experiments .
+In co-immunoprecipitation experiments , we recovered Aiolos or Ras from cytoplasmic lysates using Ras- or Aiolos-specific antibodies .
+It is of interest to note that Aiolos is detected in the nucleus of IL-2-stimulated cells , whereas it is mainly found in the cytoplasm of IL-2-deprived cells .
+This suggests a distinct cellular distribution of Aiolos depending on the presence or absence of IL-2 .
+This differential Aiolos distribution was confirmed by Western blot of total extracts and by immunofluorescence of IL-2-stimulated or IL-2-deprived cells , which showed no differences in total protein , ruling out the possibility that the distribution difference is due to variation in the amounts of protein .
+Our results suggest that IL-2 controls the cellular distribution of Aiolos .
+Growth factor deprivation induces translocation of Aiolos to cytoplasm , coincident with induction of apoptosis and downregulation of Bel-2 expression .
+Whereas Bcl-2 is regulated in both a tissue- and time-specific manner , little is known about the regulatory mechanism governing its transcription .
+Two promoter regions have been identified in the 5 ' regulatory region of the bei-2 gene .
+P1 is a TATA-less , GC-rich region containing several SP1 and Rl recognition elements ( Young and Korsmeyer , 1993 ; Chen and Boxer , 1995 ; Wilson et a/ .
+, 1996 ) .
+P2 , located ~1.3 kb downstream of 3425 FRomero et al .
+A + IL-2 - IL-2 2+1 % 21+4 % Control | j E © c sh bis Tozd a rus 1024 7+3 % 30+5 % Mock | $ G c c s a fis Toz ] d is 1024 4+3 % 10+2 % Aiolos | i 3 c c « I = a * ' dead a 0C i ~ ead FLs rus B + IL-2 - IL-2 4 % 27 % 3 `` 1 Control J E f auc r lin 09d *A Tadd anexth exexth 5 % 38 % # ul Mock 6 & M “ N r .
+1 1008 7 % 14 % ] & .
+{ dub Aiolos B E r G & = t ql `` ' _ ' _ i008 a rt `` anExXIN Fig .
+9 .
+Cell-cycle analysis of TS1 @ B cells transfected with Aiolos .
+( A ) Cells were transfected with or without Aiolos and pHook3 using the DEAE-dextran method and maintained for 24 h after transfection with or without IL-2 .
+Cells were washed , selected using the Capture-Tec kit from Invitrogen , permeabilized and stained with PI .
+Samples were analysed by flow cytometry .
+The most proximal region of the fluorescence scale represents the subG ; region .
+The percentages of apoptotic cells in each sample are superimposed .
+Non-transfected cells maintained in the presence or absence of IL-2 for 24 h were also used as controls .
+Similar results were obtained in four independent experiments .
+Standard deviation is shown .
+( B ) Cells were treated as in ( A ) .
+After selection , samples were diluted in ice-cold binding buffer , stained with annexin and PI , then analysed by flow cytometry .
+Percentage of apoptotic cells is superimposed .
+P1 , contains a CCAAT box , an octamer motif and a TATA element .
+Although transcriptional regulators of Bel-2 have been identified ( Miyashita et al .
+, 1994 ; Miyashita and Reed , 1994 ; Taylor et al .
+, 1996 ; Frampton et al .
+, 1996 ; Hewitt et al .
+, 1996 ; Heckman et al .
+, 1997 ) , the identity of the transcription factors that regulate its expression in T cells remains uncharacterized .
+The data presented here identify Aiolos as the first transcription factor shown to regulate the Bcel-2 promoter in TS1o @ fB cells .
+We have identified putative Aiolos-binding sites in the Bel-2 promoter identical to the Aiolos DNA-binding sites described previously .
+Here we show that Aiolos is indeed able to transactivate the Bcl-2 promoter .
+The Aiolos-binding sites mentioned above are probably involved in this effect , since mutation of binding sites inhibits transactivation of the reporter gene .
+We do not know whether other adjacent sequences or proteins are also necessary and we can not exclude the possibility that Aiolos is also involved in the expression control of genes other than Bcl-2 .
+It has recently been shown that Bcl-2 transcription from the proximal P2 promoter is activated in neuronal cells by the Brn3a family of transcription factors , which specifically regulate the proximal P2 promoter region , the predominant promoter in neuronal cells ( Smith et al .
+, 1998 ) .
+Aiolos is also able to prevent apoptosis through the induction of Bcl-2 expression .
+3426 Aiolos is first detected at low levels in double negative ( CD4-CD8~ ) thymocyte precursors and is greatly upregul-ated as these progress to double positive ( CD4*CD8* ) differentiation stages .
+Aiolos expression decreases in splenic T cells ( Wang et al .
+, 1998 ) .
+In thymus , Bcel-2 is expressed in double negative ( CD4~-CD8~ ) cells and in a few double positives ( CD4*CD8* ) , as well as in nearly all single-positive cells .
+In addition , Bel-2 is expressed in mature T cells ( Gratiot-Deans et al .
+, 1993 ; Veis et al .
+, 1993 ; Chao and Korsmeyer , 1998 ) .
+These observations suggest that Aiolos and Bel-2 expression occur in parallel throughout the lymphocyte differentiation stages .
+The physiological effects of lack of Aiolos are an increase in B-cell precursors , breakdown in B-cell tolerance and development of B-cell lymphomas .
+In addition , nonconventional peritoneal B cells and recirculating bone marrow B cells are depleted , suggesting that Aiolos plays distinct roles in signalling cascades that control differentiation or proliferation of nonconventional versus conventional B cells ( Wang et al .
+, 1998 ) .
+We propose that IL-2 starvation induces Ras-A¥iolos association and , consequently , inhibition of Bel-2 expression and the resulting apoptotic cell death .
+One of the functional consequences of the Ras-Aiolos interaction is the blockade of Aiolos translocation from the cytoplasm to the nucleus .
+In the absence of IL-2 , dephosphorylated A -IL-2 IL-2 12 24 kDa IP Aiolas 56 wB PTyr |= + I IP Aiolos « itm .
+Speer 56 wB Aiolos 1 IP Ajolos I ~- `` .
+a* wB PTyr k `` > > ... s cams `` IP Aiolos s a 56 wB Aiolos Ras and Aiolos interaction in IL-2-deprived cells C 150 Cytoplasmic Integrated Density ( Arbitrary Units ) 200 Nuclear Integrated Density ( Arbitrary Units ) IL-2-deprivation Time ( h ) Fig .
+10 .
+IL-2 induces tyrosine phosphorylation of Aiolos .
+( A ) Cytoplasmic lysates from IL-2-stimulated ( 5 ng/ml ) or IL-2-deprived cells ( 1X10 `` ) were immunoprecipitated with anti-Aiolos , washed , transferred to nitrocellulose and probed with anti-PTyr antibody .
+To detect cytoplasmic Aiolos , the blot was stripped and probed with anti-Aiolos antibody .
+Protein bands were detected using the ECL system .
+Molecular weight markers are indicated .
+( B ) Nuclear proteins isolated from IL-2-stimulated ( 5 ng/ml ! )
+or IL-2-deprived cells were immunoprecipitated with anti-Aiolos , washed , transferred to nitrocellulose and probed with anti-PTyr antibody .
+To detect nuclear Aiolos , the blot was stripped and probed with anti-Aiolos antibody .
+Protein bands were detected using ECL .
+Molecular weight markers are shown .
+( C ) Densitometric analysis of phosphorylated Aiolos ( dotted bar ) versus total Aiolos protein ( grey bar ) of cytoplasmic and nuclear extracts .
+Blots from Figure 10A and B were measured by densitometry using the NIH program .
+After background subtraction , tyrosine-phosphorylated Aiolos was normalized to total Aiolos protein .
+Aiolos is sequestered in the cytoplasm by Ras , there is no Bcl-2 expression , and apoptosis is induced as a consequence .
+The suppression of Aiolos nuclear translocation is blocked by IL-2 addition , which in turn induces tyrosine phosphorylation of Aiolos and probably dissociation from Ras .
+Alternatively , IL-2 may influence the state of Ras and , consequently , its dissociation from Aiolos .
+Based on our results , we hypothesized that IL-2 plays a key role in the control of Ras-Aiolos interaction .
+IL-2-induced tyrosine phosphorylation of Aiolos probably diminishes the affinity of Aiolos for Ras , inducing its dissociation and translocation to the nucleus .
+In parallel , in IL-2-starved cells , Ras will be in a so-called inactive GDP-bound state and will therefore be able to bind Aiolos , working as a cytoplasmic trap for Aiolos .
+We can not exclude the possibility that phosphorylated Aiolos increases its affinity for other partners that would allow its translocation to the nucleus , and that Ras might also increase its affinity for other effectors .
+In addition , we do not know whether the pool of transcription factor Aiolos involved in Bel-2 expression control is in a phosphorylated or unphosphorylated form .
+Our data demonstrate a specific interaction between Aiolos and Ras in IL-2-deprived cells , and provide an explanation for the disruption of Bel-2 expression due to the cytoplasmic localization of the Aiolos transcription factor .
+In addition , it is the first report describing the role of Aiolos in Bel-2 promoter activation .
+We do not exclude the possibility that the Ras-Aiolos interaction could also be regulated by other proteins .
+The finding reported here suggests a novel role for Ras in IL-2-deprived cells as a blocker of Bcel-2 expression through the cytoplasmic sequestering of unphosphorylated Aiolos .
+Materials and methods Cells and cultures TSlaB is a murine T-cell line stably transfected with the - and B-chains of the human IL-2 receptor ( Pitton etal .
+, 1993 ) , and can be maintained independently in the presence of IL-2 , IL-4 or IL-9 .
+Cells were cultured in RPMI-1640 ( BioWhittaker , Walkersville , MD ) supplemented with 5 % heat-inactivated fetal calf serum ( FCS ; Gibco-BRL , Gaithersburg , MD ) , 2 mM glutamine , 10 mM HEPES , 0.55 mM arginine , 0.24 mM asparagine , 50 uM 2-ME and 5 ng/ml of recombinant IL-2 ( IL-2 ) or 60 U/ ml of IL-4 .
+Lymphokines , antibodies , reagents , plasmids and probes Human IL-2 was provided by Roussel Uclaf ( Paris , France ) .
+Murine rIL-4 or supernatant of a HeLa subline transfected with pKCRIL-4.neo was used as source of murine IL-4 .
+Mouse pan-Ras was from Oncogene Science ( Cambridge , MA ) , anti-mouse Bcl-2 monoclonal antibody ( mAb ) was from PharMingen ( San Diego , CA ) , and anti-mouse Aiolos polyclonal antibody was generated in our laboratory .
+Peroxidase-conjugated ( PO ) goat anti-rabbit or anti-mouse Ig antibody was from Dako ( Glostrup , Denmark ) .
+ECL or ECL Plus and y-°°P reagents were from Amersham ( Amersham , UK ) .
+NP-40 was from Boehringer-Mannheim ( Mannheim , Germany ) .
+Propidium iodide ( PD ) , Mowiol , anti-histone antibodies and glutathione-agarose beads were from Sigma ( St Louis , MO ) , DEAE-dextran was from Pharmacia ( Uppsala , Sweden ) , and the Capture-Tec pHook-3 kit was from Invitrogen ( San Diego , CA ) .
+The annexin kit was from Immunotech ( Marseille , France ) and the QuikChange site-directed mutagenesis kit from Stratagene ( La Jolla , CA ) .
+P1 , P2 or P1+2 Bcl-2 promoter region cloned upstream of the luciferase reporter gene have been described previously and were kindly provided by Dr N.Israel ( Paris , France ) .
+The mouse B-actin probe was a Clal-BamHI 600 bp fragment .
+The Aiolos probe was a 330 bp fragment from the last exon of Aiolos , which does not cross-react with Ikaros .
+Probes were labelled 3427 FRomero et al .
+with [ P°PJATP .
+The pS5-Luc IL-2R promoter was provided by Dr M.Nabholz ( Lausanne , Switzerland ) .
+Anti-IL-2 antibody was provided by Dr A.Dautriche ( Paris , France ) , pGEX-Vav-SH2 was given by Dr $ .Fischer ( Paris , France ) and the Ras mutant L35R37 by Dr A.Vojtek ( Ann Arbor , MI ) .
+The RapA construct was a gift of Dr J.de Gunzburg ( Paris , France ) .
+cDNA library and the two-hybrid screen Two cDNA libraries from IL-2-stimulated or 16 h IL-2-deprived TS1a $ B cells from polyadenylated RNA were constructed in fusion with Gal4 activation domain ( AD ) in pGAD10 ( Bartel et al .
+, 1993 ) .
+Wild-type Ras cloned into the pLex10 vector was used as bait to screen both cDNA libraries in the Saccharomyces cerevisiae LAO strain ( MATa trp !
+leu ?
+his3 LYSZ : =lexA-His3 , URA3 : : lexA-lacZ ) using standard procedures ( Bartel and Field , 1997 ) .
+Sequence analysis Sequencing of PCR fragments and cDNA inserts from positive clones of the two-hybrid screening was performed on both strands with an automatic sequencer ( Applied Biosystems model 373A ) .
+Sequences were compared using the FASTA program .
+Cloning of Aiolos According to the published sequence , Aiolos was cloned by PCR using the following primers : 5'-ATGGAAGATATACAACCG and 3'-GTGTCT-CGGTACAACTTC .
+Amplified DNA of the correct size was confirmed by sequencing and was cloned in the pcDNA expression vector .
+Immunoprecipitation and Western blotting Cells ( 1X10 ' ) were IL-2 stimulated or IL-2 deprived , and lysed for 20 min at 4°C in lysis buffer ( 50 mM Tris-HCI ] pH 7.5 , 1 % NP-40 , 150 mM NaCl , 5 mM EDTA and protease inhibitor cocktail ) .
+Lysates were immunoprecipitated with the appropriate antibody .
+Protein A-Sepharose was added for 1h at 4°C and , after washing , immunoprecipitates were separated by SDS-PAGE .
+Alternatively , cells ( 1X10° ) were lysed in Laemmli sample buffer and protein extracts separated by SDS-PAGE , transferred to nitrocellulose , blocked with 5 % non-fat milk in Tris-buffered saline ( TBS ; 20 mM Tris-HCI pH 7.5 , 150 mM NaC ) ] ) and incubated with primary antibody in TBS/0.5 % non-fat dry milk .
+Membranes were washed with 0.05 % Tween-20 in TBS and incubated with PO-conjugated second antibody .
+After washing , proteins were developed using the ECL or ECL Plus system .
+When stripping was required , membranes were incubated with 62.5 mM Tris-HCI ] pH 6.8 , 2 % SDS and 0.1 M 2-ME for 1 h at 65°C and washed extensively with TBS buffer before reblocking and probing .
+Nuclear extracts and electrophoretic mobility shift assay IL-2-stimulated or IL-2-deprived cells ( 2 X10 `` ) were resuspended for 2 min in 1 ml of buffer A ( 50 mM NaCl , 10 mM HEPES pH 8 , 0.5 M sucrose , 1 mM EDTA , 0.5 mM spermidine , 0.15 mM spermine and 0.2 % Triton X-100 ) .
+Lysates were centrifuged ( 4500 g , 3 min , 4°C ) .
+Nuclei were resuspended in 1 ml buffer B ( 50 mM NaCl , 10 mM HEPES pH 8 , 25 % glycerol , 0.1 mM EDTA , 0.5 mM spermidine and 0.15 mM spermine ) and centrifuged ( 4500 g , 3 min , 4°C ) .
+Nuclear proteins were extracted at 4°C for 30 min in 60 pul of buffer C ( 350 mM NaCl , 10 mM HEPES pH 8 , 25 % glycerol , 0.1 mM EDTA , 0.5 mM spermidine and 0.15 mM spermine ) .
+Supernatants were cleared by centrifugation and stored at -80°C .
+Protein concentration was determined using the Bradford method ( Bio-Rad , Hercules , CA ) .
+All buffers were supplemented with protease inhibitors .
+End-labelled oligonucleotides ( 0.2 ng ) were incubated ( room temperature , 15 min ) with 3 ug of nuclear proteins in the presence of 0.25 ng of single-stranded ( ss ) DNA , 60 mM KCI , 0.01 % NP-40 , 0.1 mg/ml bovine serum albumin ( BSA ) and 4 % Ficoll .
+Protein-DNA complexes were separated from free probe on 5 % polyacrylamide gels in 0.5 X TBE ( 90 mM Tris , 90 mM boric acid , 1.5 mM EDTA , pH 8 ) at room temperature , after which gels were dried and exposed to X-ray film .
+A 20-fold molar excess of cold oligonucleotide was used to compete for protein binding to the radiolabelled probe .
+The oligonucleotide containing a single Aiolos-binding site was as follows : 5'-TCAGCTTTIGGG-AATACCCTGTCA .
+The oligonucleotide containing a single mutated Aiolos binding site was : Preparation of GST fusion proteins Aiolos was inserted in the pGEX 4T1 vector ( Pharmacia Biotech ) .
+Expression of the GST fusion proteins was induced by the addition of 1 mM isopropyl-B-p-thiogalactopyranoside ( IPTG ) and the fusion pro 3428 teins were isolated from bacterial lysates by affinity chromatography with glutathione-agarose beads .
+For purity control , proteins were eluted from agarose beads in SDS sample buffer , separated in 10 % PAGE and stained with Coomassie Blue .
+For the GST-Ras expression plasmid , cells were harvested after induction , resuspended in phosphate-buffered saline ( PBS ) supplemented with 20 mM EDTA , 2 mg/ml lysozyme , 10 mM GDP or GTP-yS and protease inhibitors .
+Following 10 min incubation on ice , the suspension was supplemented with 25 mM 500 mM NaCl , 1 % Triton X-100 and 5 mM EDTA .
+Cells were broken by sonication , the supernatant removed after centrifugation and incubated at 4°C with a suspension of glutathione-agarose beads .
+The agarose was washed with washing buffer ( Tris pH 7.5 , 10 % glycerol , 1 mM DTT , 5 mM MgCl , , 0.1 mM GDP or GTP-yS , 100 mM NaCl and protease inhibitors ) .
+RNA isolation Total RNA was isolated following the method of Maniatis et al .
+( 1989 ) .
+For Northern blot analysis , 15 ug of RNA samples were electrophoresed in a 1 % agarose gel in the presenceof formaldehyde and transferred to a nitrocellulose filter .
+After hybridization with the probe , the filter was washed and exposed to X-ray film at -70°C with an intensifying screen .
+The filter was stripped and rehybridized with a cDNA probe encoding B-actin .
+Luciferase assay Cells were transiently co-transfected with or without the peDNA Aiolos plasmid plus Pl-Luc , P2-Lue or P1+P2-Luc .
+Alternatively , cells were transiently co-transfected with Aiolos plus P1*-Luc , P2*-Luc or P1*+P2* Luc .
+In addition , cells were transiently co-transfected with peDNA Aiolos and A7mpS5IL-2R-Luc or empty vector pcDNA .
+After transfection , cells were unstimulated or stimulated with 5 ng/ml of rIL-2 for 24 h , then washed in cold PBS and lysed in Luc buffer ( 25 mM Tris-phosphate pH 7.8 , 8 mM MgC ) ; , 1 mM DTT , 1 mM EDTA , 1 % Triton X-100 , 1 % BSA and 15 % glycerol ) at 4°C .
+The protein concentration was determined using the Bio-Rad protein assay .
+Extracts were diluted in Luc buffer and the reaction mixture prepared with 91 ul of 25 mM luciferin , 330 pul of 20 mM ATP and 4606 ul of Luc buffer .
+Luciferase activity in protein extracts was measured using a Berthold LB9501 luminometer .
+Transient transfection TSlaB cells were transiently transfected using the DEAE-dextran method .
+Cells 10° ) in exponential growth were washed with TS buffer ( 25 mM Tris-HCI , 137 mM NaCl , 5 mM KCl , 0.7 mM CaC ) ; , 0.5 mM MgC ) ; and 0.6 mM Na ; HPO , pH 7.4 ) .
+Cells were co-transfected with the plasmid pHook-3 and pcDNA Aiolos or an irrelevant plasmid .
+pHook-3 vector expresses a hapten-specific single chain antibody ( sFv ) on the surface of transfected cells .
+A total of 5 ug of each plasmid , 375 ul of TS buffer and 375 pul of freshly prepared DEAE-dextran ( 1 mg/m ! )
+in TS buffer were mixed successively .
+Cells were incubated ( 20 min , room temperature ) and 13 ml of RPMI-1640/5 % FCS were added .
+Cells were incubated ( 1 h , 37°C ) , centrifuged and resuspended in 12 ml of RPMI-1640/5 % FCS alone or supplemented with 5 ng/ml of rIL-2 .
+Cells expressing the sFV were isolated from the culture by binding to hapten-coated ( pHOX ) magnetic beads .
+Transfected cells were selected and analysed .
+Cell-cycle analysis A total of 2.5X10° cells were washed and resuspended in PBS , permeabilized with 0.1 % NP-40 and stained with 50 ug/ml PI immediately before analysis .
+Samples were analysed using an EpicsXL flow cytometer ( Coulter , Miami , FL ) .
+Apoptosis was measured as the percentage of cells in the subG ; region of the fluorescence scale having a hypodiploid DNA content .
+Alternatively , cells were diluted in ice-cold binding buffer , stained with annexin and PI , then analysed by flow cytometry .
+Indirect immunofluorescence IL-2-stimulated cells , or cells IL2 deprived for different periods were harvested and centrifuged in a cytospin ( Heraeus ) for 10 min at 600 g on glass slides .
+Cells were methanol fixed for 2 min at -20°C and permeabilized with 50 ug/ml of lysophosphatidylcholine in PBS for 2 min at room temperature in 1 % PBS/BSA .
+Polyclonal anti-Aiolos antibody diluted in PBS/BSA was added to the slides under a cover-slip and incubated in a humidified chamber ( 1 h , room temperature ) .
+After washing once with PBS and twice with PBS/BSA , secondary fluores-ceinated antibody was added and incubated for 45 min in a humidified chamber at room temperature .
+After washing three times with PBS/BSA and once with PBS , slides were mounted in Mowiol with antifading agent .
+Samples were analysed by fluorescence microscopy and photographed using a Nikon Optiphot2 phase-contrast fluorescence photomicroscope .
+Peptide synthesis and antibody production A specific peptide of the Aiolos amino acid sequence 368-384 was synthesized on an automated multiple peptide synthesizer ( AMS422 , Abimed , Langefeld , Germany ) using the solid phase procedure and standard Fmoc chemistry .
+Purity and peptide composition were confirmed in reverse-phase HPLC and by amino acid analysis in a Beckman 6300 amino acid analyser .
+The peptide , glutaraldehyde-coupled to KLH via N-terminal lysine , was injected into outbred New Zealand rabbits .
+Sera were collected 7-10 days after the last injection .
+Site-directed mutagenesis Site-directed mutagenesis was performed using the QuikChange site-directed mutagenesis kit .
+The primers used for mutation were : Aiolos 1* : 5-GAAGCAGAAGTCGACGAATCGATCTGGAAATCC ; Aiolos 2* : 5 `` -CTCCTGATTCATATGGAAGTTTITTCAAATCAGCTA ; Aiolos 3* : 5-TTTTCCTCTGCAGAGGATG .
+The putative Aiolos-binding site is underlined .
+Point mutations are shown in bold .
+Acknowledgements We would like to thank Drs N.Israel , M.Nabholz , A.Dautriche , S.Fischer , A.Vojtek and J.de Gunzburg for gifts of reagents used in this study , Ms IPoveda for help with photographic work and C.Mark for editorial assistance .
+This work was also partially supported by grants from ARC and the EC ( BIO4-CT96-1110 ) .
+The Department of Immunology and Oncology was founded and is supported by the Spanish Research Council ( CSIC ) and Pharmacia & Upjohn .
+References Bartel , PL .
+and Field , S .
+( 1997 ) The Yeast Two-Hybrid System .
+Oxford University Press , New York , NY .
+Bartel , PL .
+, Chien , C.T .
+, Sternglanz , R .
+and Field , S8 .
+( 1993 ) Using the two-hybrid system to detect protein-protein interaction .
+In Cellular Interactions in Development : A Practical Approach .
+Oxford University Press , Oxford , UK , pp .
+153-179 .
+Baumon , L.E .
+, Cazenave , P.A .
+and Srthou , P .
+( 1990 ) Anti-immunoglobulins induce death by apoptosis in WEHI-231 B lymphoma cells .
+Eur J .
+Immunol .
+, 20 , 1405-1407 .
+Boguski , M.S .
+and McCormick , F .
+( 1993 ) Proteins regulating Ras and its relatives .
+Nature , 366 , 643-654 .
+Broome , H.E .
+, Dargan , C.M .
+, Bressent , E.F. , Krajewski , S .
+and Reed , J.C .
+( 1995 ) Apoptosis and Bcl-2 expression in cultured murine splenic T cells .
+Immunology , 84 , 375-381 .
+Chao , D.T .
+and Korsmeyer , S .
+( 1998 ) Bel-2 family : regulator of cell death .
+Annu .
+Rev .
+Immunol .
+, 16 , 395-419 .
+Chen , C .
+and Faller , D.V .
+( 1996 ) Phosphorylation of Bel-2 protein and association with p21 Ras in Ras-induced apoptosis .
+J. Biol .
+Chem .
+, 271 , 2376-2379 .
+Chen , H.M .
+and Boxer , L.M .
+( 1995 ) P1 binding sites are negative regulators of be/-2 expression in pre-B cells .
+Mol .
+Cell .
+Biol .
+, 15 , 3840-3847 .
+di-Jeso , B. , - Ulianich , L. , Racioppi , L. , D'Armiento , F , Feliciello , A. , Pacifico , F. , Consiglio , E .
+and Formisano , S .
+( 1995 ) Serum withdrawal induces apoptotic cell death in K-ras transformed but not in normal differentiated thyroid cells .
+Biockem .
+Biophys .
+Res .
+Commun .
+, 214 , 819-824 .
+Dobrowolski , S. , Harte , M. and Staicy , D.W .
+( 1994 ) Cellular Ras activity is required for passage through multiple points of the Gy-G ; phase in BALB-c 3T3 cells .
+Mol .
+Cell .
+Biol .
+, 14 , 5441-5449 .
+Duke , R.C .
+and Cohen , J.J .
+( 1986 ) IL-2 addition : withdrawal of growth factor activates a suicide progamm in dependent T cells .
+Lymphokine Res .
+, 5 , 289-299 .
+Fairbaimm , L.J .
+, Cowling , G.J .
+, Reipert , B.M .
+and Dexter , L.M .
+( 1993 ) Suppression of apoptosis allows differentiation and development of multipotent hematopoietic cell line in the absence of added growth factors .
+Cell , 74 , 823-832 .
+Fernandez-Sarabia , J .
+and Bischoff , J.R .
+( 1993 ) Bel-2 associates with the Ras-related protein R-Ras p23 .
+Nature , 366 , 274-275 .
+Ferrari , G .
+and Greene , L.A .
+( 1994 ) Proliferative inhibition by dominant Ras and Aiolos interaction in IL-2-deprived cells negative Ras rescues naive and neuronally differentiated PC12 cells from apoptotic death .
+EMBO J. , 13 , 5922-5928 .
+Fields , S .
+and Song,0.K .
+( 1989 ) A novel genetic system to detect protein-protein interactions .
+Nature , 340 , 245-246 .
+Frampton , J. , Ramqvist , T .
+and Graf , T .
+( 1996 ) V-Myc of E26 leukemia virus upregulates Bcl-2 expression and suppresses apoptosis in myeloid cells .
+Genes Dev .
+, 10 , 2720-2731 .
+Gomez , J. , Martinez-A , C. , Fernandez , B. , Garcia , A. and Rebollo , A .
+( 1996 ) Critical role for Ras the proliferation and prevention of apoptosis mediated by IL-2 .
+J .
+Immunol .
+, 157 , 2772-2781 .
+Gomez , J. , Martinez-A , C. , Fernandez , B. , Garcia , A. and Rebollo , A .
+( 1997 ) Ras activation leads to cell proliferation or apoptotic cell death on IL-2-stimulated or lymphokine-deprivation , respectively .
+Eur J .
+Immunol .
+, 27 , 1610-1618 .
+Gomez , J. , Martinez-A , C. , Gonzélez , A. , Garcia , A. and Rebollo , A .
+( 1998a ) The Bcel-2 gene is differentially regulated by IL-2 and IL-4 : role of the transcription factor NF-AT .
+Oncogene , 17 , 1235-1243 .
+Gomez , J. , Martinez-A , C. , Gonzdlez , A .
+and Rebollo , A .
+( 1998b ) Dual role of Ras and Rho proteins : at the cutting edge of life and death .
+Immunol .
+Cell Biol .
+, 76 , 125-134 .
+Gratiot-Deans , J. , Ding , L. , Turka , L.A .
+and Nufiez , G .
+( 1993 ) Bei-2 proto-oncogene expression during human T cell development .
+Evidence for biphasic regulation .
+J .
+Immunol .
+, 151 , 83-91 .
+Gulbins , E. , Bissonnette , R .
+and Mahbouhi , A .
+( 1995 ) Fas-induced apoptosis is mediated via ceramide-initiated Ras signaling pathway .
+Immunity , 2 , 341-351 .
+Hannon , G.J .
+, Demeftrick , D .
+and Beach , D .
+( 1993 ) Isolation of the Rb-related p130 through its interaction with CDK2 and cyclins .
+Genes Dev .
+, 7 , 2378-2391 .
+Heckman , C. , Mochon , E. , Arcinas , M .
+and Boxer , L.M .
+( 1997 ) The WT 1 protein is a negative regulator of the normal Bei-2 allele in lymphomas .
+J. Biol .
+Chem .
+, 272 , 19609-19614 .
+Hewitt , S.M .
+, _ Hamada , S. , - McDonnelL , T.J. , - Rauscher , FJ .
+- and Saunders , G.F .
+( 1996 ) Differential spliced exon 5 of the Wilm 's tumor gene WTI modifies gene function .
+Cancer Res .
+, 55 , 5386-5389 .
+Kinoshita , T. , Yokota , T. , Arai , K .
+and Miyajima , A .
+( 1995 ) Regulation of Bcl-2 expression by oncogenic ras protein in hematopoietic cells .
+Oncogene , 10 , 2207-2212 .
+Lai , C.C .
+, Bogulski , M. , Broek , D .
+and Powers , S .
+( 1993 ) Influence of guanine nucleotides complex formation between Ras and CDC25 proteins .
+Mol .
+Cell .
+Biol .
+, 13 , 1345-1352 .
+Maniatis , T. , Frisch , E.F .
+and Sambrook , J .
+( 1989 ) Molecular Cloning : A Laboratory Manual .
+2nd edn .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY .
+McCormick , F .
+( 1998 ) Going for the GAP .
+Curr .
+Biol .
+, 8 , 673-674 .
+Minami , Y .
+and Taniguchi , T .
+( 1995 ) IL-2 signaling : recruitment and activation of multiple protenin tyrosine kinases by components of the IL-2R .
+Curr .
+Opin .
+Cell Biol .
+, 7 , 156-162 .
+Miyashita , T .
+and Reed , J.C .
+( 1995 ) Tumor suppressor p53 is a direct transcriptional activator of the human bax gene .
+Cell , 80 , 293-299 .
+Miyashita , T. , Harigai , M. , Hanada , M. and Reed , J.C .
+( 1994 ) Identification of p53-dependent negative response element in the Bci-2 gene .
+Cancer Res .
+, 54 , 3131-3135 .
+Miyazaki , T. , Liu , Z.J .
+, Kawajar , A. , Minami , Y. , Yamada , K. , Tsujimoto , Y. , Barsouimian , L. , Pelmutter , R.M .
+and Taniguchi , T .
+( 1995 ) Three distinct IL-2 signaling pathways mediated by Bel-2 , c-Myc and Lck cooperate in hemapoietic cell proliferation .
+Cell , 81 , 223-231 .
+Morgan , B. , Sun , L. , Avitahl , N. , Andrikopoulus , K. , Ikeda , T. , Gonzales , E. , Wu , P. , Neben , S .
+and Georgopoulus , K .
+( 1997 ) Aiolos , a lymphoid restricted transcription factor that interacts with Ikaros to regulate lymphocyte differentiation .
+EMBO J. , 16 , 2004-2013 .
+Nagata , S .
+( 1997 ) Apoptosis by death factors .
+Cell , 88 , 355-365 .
+Nufiez , G. , London , L. , Hockenbery , D. , Alexander , M. , McDearn , J.P .
+and Korsmeyer , S.J .
+( 1990 ) Deregulated Bci-2 gene expression selectively prolongs survival of growth factor-deprived hemopoietic cell line .
+J .
+Immunol .
+, 144 , 3602-3610 .
+Pan , B.T .
+, Chen , C.T .
+and Lin , S.M .
+( 1994 ) Oncogenic Ras blocks cell cycle progression and inhibits p34 cdc2 kinase in activated Xenopus egg extracts .
+J. Biol .
+Chem .
+, 269 , 5968-5975 .
+Park , J.R .
+and Hockenbery , D.M .
+( 1996 ) Bel-2 , a novel regulator of apoptosis .
+J .
+Cell .
+Biochem .
+, 60 , 12-17 .
+Pitton , C. , Rebollo , A. , Van Snick , J. , Theze , J .
+and Garcia , A .
+( 1993 ) High affinity and intermediate affinity forms of the human IL-2R , expressed in an IL-9-dependent murine T cell line deliver proliferative signals via differences in their transduction pathways .
+Cytokine , 5 , 362-371 .
+Reed , J.C .
+( 1994 ) Bel-2 and the regulation of programmed cell death .
+J .
+Cell Biol .
+, 124 , 1-6 .
+3429 FRomero et al .
+Smith , C.A .
+, Williams , G.T .
+, Kingston , R. , Jenkinson , E.J .
+and Owen , J.T .
+( 1989 ) Antibodies to CD3/T cell receptor complex induce cell death by apoptosis in immature T cell in thymic culture .
+Nature , 337 , 181-184 .
+Smith , M.D .
+, Ensor , E.A .
+, Coffin , R.S .
+, Boxer , L.M .
+and Latchman , S .
+( 1998 ) Bel-2 transcription from the proximal P2 promoter is activated in neuronal cells by the Bm-3a POU family transcription factors .
+J. Biol .
+Chem .
+, 273 , 16715-16722 .
+Taylor , D. , Badiani , P .
+and Weston , K .
+( 1996 ) A dominant interferin Myb mutant causes apoptosis in T cells .
+Genes Dev .
+, 10 , 2732-2744 .
+Taylor , S.J .
+and Shalloway , D .
+( 1996 ) Cell cycle-dependent activation of Ras .
+Curr .
+Biol .
+, 6 , 1621-1627 .
+Veis , D.J .
+, Sentman , C.L .
+, Bach , E.A .
+and Korsmeyer , S .
+( 1993 ) Expression of the Bel-2 protein in murine and human thymocytes and in peripheral T lymphocytes .
+J .
+Immunol .
+, 151 , 2546-2554 .
+Vojtek , A. , Hollenberg , S.M .
+and Cooper , J.A .
+( 1993 ) Mammalian Ras interacts directly with the serine/threonine kinase Raf .
+Cell , 74 , 205-241 .
+Wang , H.G .
+, Millan , J.A .
+, Cox , A.D. , Der , C.J .
+, Rapp , U.R .
+, Beck , T. , Zha , H .
+and Reed , J.C. ( 1995 ) R-Ras promotes apoptosis caused by growth factor deprivation via Bcl-2 suppressible mechanism .
+J .
+Cell Biol .
+, 129 , 1103-1114 .
+Wang , J.H .
+et al .
+( 1998 ) Aiolos regulates B cell activation and maturation to effector stage .
+Immunity , 9 , 543-553 .
+White , E .
+( 1996 ) Life , death and the pursuit of apoptosis .
+Genes Dev .
+, 10 , 1-15 .
+Williams , G.T .
+, Smith , C.A .
+, Spooncer , E. , Drexter , T.M .
+and Taylor , D.R .
+( 1990 ) Haematopoietic colony-stimulating factor promotes cell survival by suppressing apoptosis .
+Nature , 343 , 76-79 .
+Wilson , B.E .
+, Mochon , E .
+and Boxen , L.B .
+( 1996 ) Induction of Bcl-2 expression by phosphorylated CREB protein during B cell activation and rescue from apoptosis .
+Mol .
+Cell .
+Biol .
+, 16 , 5546-5556 .
+Wilson , D.J .
+, Fortner , K.A .
+and Lynch , D.H .
+( 1996 ) JNK , but not MAPK , activation is associated with Fas-mediated apoptosis in human T cells .
+Eur .
+J .
+Immunol .
+, 26 , 989-994 .
+Winston , J.T .
+, Coats , S.R .
+, Wang , Y.Z .
+and Pledger , W.J .
+( 1996 ) Regulation of the cell cycle machinery by oncogenic Ras .
+Oncogene , 12 , 127-134 .
+Wyllie , A.H. ( 1980 ) Glucocorticoid-induced thymocyte apoptosis is associated with endogenous nuclease activation .
+Nature , 284 , 555-556 .
+Yang , E .
+and Korsmeyer , S .
+( 1996 ) Molecular thanatopsis : a discourse on the Bcl-2 family and cell death .
+Blood , 88 , 386-402 .
+Young , R.L .
+and Korsmeyer , S.J .
+( 1993 ) A negaitve regulatory element in the Bcl-2 5 ' untranslated region inhibits expression from an upstream promoter .
+Mol .
+Cell .
+Biol .
+, 13 , 3683-3697 .
+Zubiaga , A.M. , Mufioz , E .
+and Huber , B.T .
+( 1992 ) IL-2 and IL-4 selectively rescue Th cells subsets from glucocorticoid-induced apoptosis .
+J .
+Immunol .
+, 149 , 107-112 .
+Received February 1 , 1999 ; revised April 13 , 1999 ; accepted April 26 , 1999 3430

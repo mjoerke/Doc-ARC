@@ -1,0 +1,929 @@
+MOLECULAR AND CELLULAR BIOLOGY , Sept. 1998 , p. 5157-5165 0270-7306/98/ $ 04.00+0 Vol .
+18 , No .
+9 Copyright © 1998 , American Society for Microbiology .
+All Rights Reserved .
+Human T-Cell Leukemia Virus Type 1 Tax Induction of Involves Activation of the IxB Kinase « ( IKKa ) and IKKB Cellular Kinases ROMAS GELEZIUNAS , '* SHARON FERRELL , ' XIN LIN , '' YAJUN MU , EMMETT T. CUNNINGHAM , JR. , MARK GRANT , '' MARGERY A. CONNELLY , '' JOHN E. HAMBOR , * KENNETH B. MARCU , '' anp WARNER C .
+GREENE !
+* Gladstone Institute of Virology and Immunology and Departments of Medicine , Microbiology , and Immunology* University of California , San Francisco , San Francisco , California 94141-9100 ; Department of Biochemistry and Cell Biology , State University of New York at Stony Brook , Stony Brook , New York 11794-5215 '' ; and Central Research Division , Pfizer Inc. , Groton , Connecticut 06340° Received 20 January 1998/Returned for modification 7 March 1998/Accepted 2 June 1998 Tax corresponds to a 40-kDa transforming protein from the pathogenic retrovirus human T-cell leukemia virus type 1 ( HTLV-1 ) that activates nuclear expression of the NF-B/Rel family of transcription factors by an unknown mechanism .
+Tax expression promotes N-terminal phosphorylation and degradation of a principal cytoplasmic inhibitor of NF-KB .
+Our studies now demonstrate that HTLV-1 Tax activates the recently identified cellular kinases IB kinase « ( IKKa ) and IKK , which normally phosphorylate IxBa on both of its N-terminal regulatory serines in response to tumor necrosis factor alpha ( INF- « ) and interleukin-1 ( IL-1 ) stimulation .
+In contrast , a mutant of Tax termed M22 , which does not induce NF-KB , fails to activate either IKKa « or IKKB .
+Furthermore , endogenous IKK enzymatic activity was significantly elevated in HTLV-1-infected and Tax-expressing T-cell lines .
+Transfection of kinase-deficient mutants of IKKa « and IKKB into either human Jurkat T or 293 cells also inhibits reporter gene expression induced by Tax .
+Similarly , a kinase-deficient mutant of NIK ( NF-KB-inducing kinase ) , which represents an upstream kinase in the TNF- « and IL-1 signaling pathways leading to IKKa and IKKf activation , blocks Tax induction of NF-KB .
+However , plasma membrane-proximal elements in these proinflammatory cytokine pathways are apparently not involved since dominant negative mutants of the TRAF2 and TRAF6 adaptors , which effectively block signaling through the cytoplasmic tails of the TNF-a @ and IL-1 receptors , respectively , do not inhibit Tax induction of NF-KB .
+Together , these studies demonstrate that HTLV-1 Tax exploits a distal part of the proinflammatory cytokine signaling cascade leading to induction of NF-KB .
+The pathological alteration of this cytokine pathway leading to NF-KB activation by Tax may play a central role in HTLV-1-mediated transformation of human T cells , clinically manifested as the adult T-cell leukemia .
+Human T-cell leukemia virus type 1 ( HTLV-1 ) represents the first pathogenic human retrovirus identified ( 49 , 78 ) .
+After a long latency period , approximately 0.05 to 0.1 % of individuals infected with this retrovirus develop an often aggressive and fatal proliferation of activated CD3 ¢ CD4 * T cells , termed adult T-cell leukemia ( ATL ) ( 66 ) .
+HTLV-1 has also been etiologically linked with a progressive neurodegenerative syndrome termed HTLV-1-associated myelopathy/tropical spastic paraparesis ( 13 , 46 ) .
+HTLV-1 encodes a 40-kDa regulatory protein termed Tax that appears to play a central role in cell transformation ( 18 , 36 , 50 , 58 , 64 , 74 ) .
+Although Tax does not bind directly to DNA , it alters the activity of several host transcription factors , notably cyclic AMP responsive element ( CRE ) binding protein ( CREB ) /activating transcription factor ( ATF ) , serum response factor ( SRF ) , and NF-kB/Rel ( 79 ) .
+Tax-induced transactiva-tion of the HTLV-1 long terminal repeat ( LTR ) is mediated through the CREB/ATF pathway ( 5 , 15 , 63 ) .
+In this response , Tax participates in the formation of a ternary complex that includes the viral CREs and CREB , appears to enhance CREB * Corresponding author : Mailing address : Gladstone Institute of Virology and Immunology , P.O .
+Box 419100 , San Francisco , CA 94141-9100 .
+Phone : ( 415 ) 695-3825 .
+Fax : ( 415 ) 826-1514 .
+E-mail : Romas_Geleziunas @ quickmail.ucsf.edu .
+5157 dimerization , and stabilizes CREB binding to the CREs ( 3 , 6 , 48 , 63 , 69 , 81 ) .
+Additionally , the indirectly tethered Tax protein facilitates recruitment of the transcriptional coactivator CREB binding protein ( CBP ) , through an interplay with the KIX domain of CBP ( 16 , 28 , 76 ) .
+Tax also modulates transcription of various cellular genes , some of which may be involved in T-cell transformation ( 19 , 57 , 77 , 79 ) .
+Many of these genes are regulated by members of the NF- « B/Re ! l family of transcription factors .
+For example , Tax induces various cytokines and the interleukin-2 ( IL-2 ) receptor « -chain gene via the NF- « B pathway ( 19 , 57 , 77 ) .
+Tax also induces the c-fos oncogene through SRF ( 11 , 12 ) .
+Of note , Tax induction of the CREB/ATF , SRF , and NF- « B/Rel pathways is selectively impaired by the introduction of site directed mutations into Tax ( 36 , 55 , 56 , 74 ) .
+For example , the M22 mutant of Tax ( T1308 L131 ) retains CREB/ATF-stimulatory activity but is strongly impaired in its ability to activate NF-kB ( 56 ) .
+These findings raise the possibility that different subre-gion domains of Tax mediate the activation of these various host transcription factor pathways .
+The precise role of each of these pathways in Tax-induced cellular transformation remains unresolved ( 36 , 58 , 74 ) .
+The prototypical NF- « kB complex corresponds to a hetero-dimer of the p50 ( NFKB1 ) and RelA ( p65 ) members of the NF-kB/Rel family of transcription factors ( 1 , 2 , 68 ) .
+Other 5158 GELEZIUNAS ET AL .
+factors in this family include RelB , c-Rel , and p52 ( NFKB2 ) .
+Prior to activation , NF-kB is sequestered in the cytoplasm by its physical interaction with a set of inhibitors termed the IxBs ( IxBa , IxBB , and IxBg ) , p105 and p100 ( NFKB2 ) ( 1 , 2 , 68 ) .
+Stimulation of the cell with proinflammatory cytokines ( e.g. , tumor necrosis factor alpha [ TNF- « ] and interleukin-1 [ IL-1 ] ) , phorbol esters , lipopolysaccharide , and several other activators leads to the phosphorylation of IkBa on two N-terminal serine residues located at positions 32 and 36 .
+This posttranslational modification targets the inhibitor for rapid ubiquitination and degradation within the 268 proteasome .
+The proteolysis of cytoplasmic IxBa allows nuclear translocation of NF-kB ( 1 , 2 , 68 ) .
+How cytoplasmic sequestration of NF-kB by the p100 and p105 inhibitors is relieved remains largely unknown .
+The molecular basis for Tax induction of NF-kB has been a topic of extensive investigation .
+Tax has been reported to interact physically with many members of the family ( 2 , 21 , 79 ) but appears to display highest affinity for the p100 product of the NFKB2 gene ( 4 , 26 , 31 , 44 ) .
+The amino terminus of p100 , which contains p52 and its Rel homology domain , appears to mediate this interaction ( 4 , 26 , 44 ) .
+Expression of Tax has also been reported to overcome the cytoplasmic sequestration property of p100 and p105 , permitting the release and nuclear translocation of NF- « B ( 26 , 43 , 44 ) .
+However , a convincing series of studies has shown that Tax promotes the phosphorylation and degradation of both IxBa and IxBB , suggesting that this HTLV-1 regulatory protein may induce nuclear translocation of NF- « B by acting prior to or at the level of IKB phosphorylation ( 7 , 17 , 24 , 29 , 39 , 62 ) .
+This notion is further strengthened by the finding that degradation-resistant IxBa mutants lacking the two N-terminal serine phosphorylation sites effectively block Tax-induced « B-dependent transcription ( 7 , 25 ) .
+Together , these findings suggest that Tax may coopt a signaling pathway that leads to IxB phosphoryla-tion .
+Three cellular kinases involved in TNF- « and IL-1 induction of NF-kB have recently been identified .
+These include the NF-kB-inducing kinase ( NIK ) , a mitogen-activated protein kinase kinase kinase ( MAP3K ) -related kinase that associates with various TNF receptor ( TNFR ) -associated factors ( TRAFs ) and corresponds to a strong inducer of NF-kB .
+When rendered catalytically inactive , NIK functions as a dominant-negative inhibitor of TNF- « - and IL-1-induced NF-kB activation ( 35 , 59 ) .
+However , NIK does not directly phosphorylate the IKBs but instead associates with and activates ( 51 ) the recently recognized IxB kinase a ( IKKa ) ( 10 , 40 , 51 ) , previously designated the conserved helix-loop-helix ubiquitous kinase ( 9 ) .
+IKKa « has been shown to phosphorylate both N-terminal serines of IxBa and preferentially serine 23 of IxBB ( 10 , 39 , 50 ) .
+A second related IKB kinase , termed IKK $ , has also been isolated and characterized ( 40 , 72 , 80 ) .
+This enzyme phosphorylates the regulatory serines of both IxBa and IxBB .
+These « and B IKKs can form hetero- and homodimers ( 40 , 72 , 80 ) via their leucine zipper domains , although heterodimers appear to be favored in vivo .
+The studies described in this report were aimed at identifying the cellular signaling intermediates involved in HTLV-1 Tax induction of nuclear NF- « B expression .
+We demonstrate that Tax activates the enzymatic activity of ectopically expressed IKKa and IKKB and that the enzymatic activity of endogenous IKKs is elevated in HTLV-1-infected and Tax-expressing T-cell lines .
+In addition , we report that kinase-deficient versions of NIK , IKKa , and IKKS effectively block Tax action .
+In contrast , based on the use of dominant negative mutants , Tax induction of NF-kB does not appear to involve Mor .
+CELL .
+BioL .
+the TRAFZ2 and TRAF6 adaptor proteins which represent more proximal components of the TNFa and IL-1 signaling pathways .
+These findings suggest that distal components of the proinflammatory cytokine signaling pathway are selectively co-opted by Tax , leading to the activation of NF-kB .
+MATERIALS AND METHODS Expression vectors , biological reagents , and cell lines .
+Plasmids pCMV4-HA-IxBa ( SS32/36AA ) , « B-TATA-luciferase , pCMV4Tax , and pCMV4TaxM22 have been previously described ( 4 , 61 ) .
+The HTLV-1 LTR luciferase reporter ( pLuc HTLV-1 LTR ) was generated by introducing the full-length HTLV-1 LTR into the pGL2-Basic vector ( Promega , Madison , Wis. ) .
+The Rous sarcoma virus LTR-driven LacZ reporter construct ( 6RZ ) was obtained from D. Pearce ( University of California , San Francisco ) and has been previously described ( 47 ) .
+The wild-type FLAG-TRAF2 and dominant negative FLAG-TRAF2 ( 87-501 ) expression plasmids were provided by D. V. Goeddel ( Tularik Inc. , South San Francisco , Calif. ) .
+The expression vector for the N-terminal truncated constitutively active MEKK1 was provided by G. L. Johnson ( National Jewish Medical and Research Center , Denver , Colo. ) .
+The Myc-PAK1 K299R expression plasmid was provided by G. M. Bokoch and U. Knaus ( Scripps Research Institute , La Jolla , Calif. ) .
+The FLAG-JNK1 expression vector was provided by M. Karin ( University of California , San Diego ) .
+Murine IKKa was amplified by PCR from a previously described vector ( 9 ) and subcloned either into pEV3S ( 37 ) , in frame with a C-terminal T7 tag to generate pEV-IKKa-T7 , or into pcDNA 3.1 ( Invitrogen , Carlsbad , Calif. ) , in frame with a C-terminal hemagglutinin ( HA ) epitope tag to generate peDNA-IKKa-HA .
+The human IKKB cDNA was amplified by PCR using a 3 ' oligonucleo-tide encoding a FLAG epitope tag and subcloned into peDNA3.1 to generate peDNA-IKKB-FLAG .
+The TRAF6 ( 289-522 ) and NIK cDNAs were generated by reverse transcription-PCR using Jurkat E6-1 mRNA ; the TRAF2 cDNA was amplified by PCR from the vector described above .
+Each of these cDNAs was then subcloned in frame with an N-terminal Myc epitope tag in the pRK6 vector .
+The kinase-deficient K44M IKKo , K44A IKK $ , and KK429/430AA NIK mutants were generated by PCR .
+Recombinant human TNF- « and IL-1 were purchased from Endogen ( Cam-bridge , Mass . ) .
+The 293 human embryonic kidney and HeLa cell lines were maintained in Dulbecco modified Eagle medium supplemented with 10 % heat-inactivated fetal bovine serum and antibiotics .
+Jurkat E6-1 cells as well as the HTLV-1-infected T-cell lines C8166 and HUT102 were maintained in RPMI 1640 medium supplemented with 10 % heat-inactivated fetal bovine serum and antibiotics .
+The previously described ( 70 ) Jurkat-Tax and Jurkat-anti-Tax cell lines were maintained in the same medium .
+Transfections and reporter assays .
+293 cells ( 7 X 10° cells per well ) or HeLa cells ( 2 x 10° cells per well ) were seeded into six-well ( 35-mm-diameter ) plates and transfected the following day with 4 ug of DNA by the calcium phosphate precipitation method ( 53 ) .
+Transfection of Jurkat E6-1 cells ( 2 X 10° ) was performed as follows .
+Cells were incubated with 4.25 mg of DNA and 8 pl of DMRIE-C ( Gibco-BRL Life Technologies , Gaithersburg , Md . )
+for 4 h in serum-free medium ( OPTIMEM ; Gibco-BRL Life Technologies ) in 35-mm-diameter wells .
+Cells were then suspended in RPMI 1640 supplemented with 10 % heat-inactivated fetal bovine serum .
+Luciferase activity was determined 18 to 24 h later , using an enhanced luciferase assay kit and a Monolight 2010 luminometer ( Analytical Luminescence Laboratory , Ann Arbor , Mich. ) .
+All transfections included the 6RZ plasmid to allow normalization for differences in gene transfer efficiency by assay of B-galactosidase activity .
+Immune complex kinase assays .
+For the IKK assays , HeLa cells were transfected by the calcium phosphate precipitation method and lysed 24 to 48 h posttransfection in a buffer containing 1 % Nonidet P-40 , 250 mM NaCl , 50 mM HEPES ( pH 7.4 ) , 1 mM EDTA , and the protease inhibitors phenylmethylsul-fonyl fluoride ( 1 mM ) , antipain ( 5 pg/ml ) , aprotinin ( 5 pg/ml ) , leupeptin ( 5 g/ ml ) , pepstatin ( 0.5 g/ml ) , bestatin ( 7.5 pg/ml ) , phosphoroamidon ( 4 g/m ! )
+and trypsin inhibitor ( 5 ug/ml ) .
+Lysates were immunoprecipitated with either anti-HA monoclonal antibody covalently linked to Sepharose ( BABCO , Richmond , Calif. ) or anti-FLAG M2 antibody covalently attached to agarose ( Eastman Kodak Company , New Haven , Conn. ) .
+Immunoprecipitates were washed three times in lysis buffer and then once in kinase buffer containing 10 mM HEPES ( pH 7.4 ) , 1 mM MnCl ; , 5 mM MgCl , , 12.5 mM B-glycero-2-phosphate , 50 uM Na ; VO , , 2 mM NaF , 50 M dithiothreitol , and 10 wM ATP .
+To assess endogenous IKKa/B enzymatic activity , 25 X 10° cells were lysed and immunoprecipitated with the anti-IKKa antibody H744 ( Santa Cruz Biotechnology , Santa Cruz , Calif. ) , which cross-reacts with IKKB .
+After suspension in 20 pl of kinase buffer , the immunoprecipitates were incubated with 5 mCi of [ y- '' '' P ] JATP ( 6,000 Ci/ mmol ) and 1 pg of recombinant glutathione S-transferase ( GST ) -IxBa ( 1-62 ) as an exogenous substrate for 30 min at 30°C .
+The kinase reactions were terminated by the addition of sodium dodecyl sulfate ( SDS ) sample buffer .
+The samples were analyzed by SDS-polyacrylamide gel electrophoresis ( PAGE ) followed by transfer to nitrocellulose membranes and exposure to Hyperfilm MP ( Amersham Life Sciences ) .
+The membranes were subsequently probed with either anti-HA , anti-FLAG M2 , or anti-IKKae H744 antibody to determine the amount of immunoprecipitated kinase .
+Cell lysates were immunoblotted with peptide-specific anti Vou .
+18 , 1998 IL-18V/ TNFR1 IL-1R1AcP CDC42 Rac TRADD MyD88 / \ __/ MEKK1 [ Nk ] NO NX , MKK4 [ ikke ] [ IKKB JNK -- pp3Orsk } c-Jun NF- « B FIG .
+1 .
+Overview of the identified signaling pathways leading to JNK and NF- « B activation .
+Question marks indicate points in these signaling cascades that require confirmation .
+Components of these pathways that are boxed were examined for their involvement in HTLV-1 Tax action .
+RIP , receptor-interacting protein .
+Tax antibodies to assess the levels of Tax protein expression .
+The JNK1 kinase assays were performed in a similar fashion except that ( i ) 293 cells were transfected with FLAG-JNK1 and ( ii ) GST-c-Jun ( 1-79 ) ( Santa Cruz Biotechnology ) was used as an exogenous substrate in the kinase reaction .
+RESULTS Signaling pathways leading to JNK and NF-KB activation .
+A summary of the recognized signaling pathways leading to NF- « B and c-Jun activation is schematically presented in Fig .
+1 .
+TRAFZ and TRAF6 represent proximal signaling intermediates that are recruited to the cytoplasmic tail of the type 1 TNFR ( TNFR1 ) and the type 1 IL-1 receptor ( IL-1R1 ) , respectively , following ligand binding ( 8 , 22 ) .
+TRAF2 is recruited through an interaction with TRADD , while TRAF6 appears to associate with MyD88 and IRAK ( IL-1 R-associated kinase ) ( 8 , 22 , 45 , 71 ) .
+Both of these TRAFs are capable of engaging NIK , a MAP3K-related kinase , which thus forms a nexus in these two proinflammatory cytokine signaling pathways leading to NF-kB activation ( 35 , 59 ) .
+In turn , NIK associates with and activates IKKa and -B ( 51 , 72 ) .
+The IKKs phosphorylate the IxBs on two N-terminal serine residues ( 10 , 40 , 51 , 72 , 80 ) , leading to the ubiquitination and degradation of these inhibitors in the 268 proteasome ( 1 , 2 , 68 ) .
+MEKK1 corresponds to a second MAP3K that forms a key signaling intermediate in the TNFR1 pathway leading to JNK activation .
+MEKK1 is also capable of activating NF- « B when ectopically expressed , but its role in TNF- « induction of this transcription factor remains controversial ( 20 , 32 , 34 , 59 ) .
+PAK1 corresponds to a kinase that is activated by small GTPases of the Rho family that has also been shown to activate JNK ( 27 ) .
+The precise involvement of PAK1 in these signaling pathways is not yet clear .
+Finally , pp90 ' '' is a phorbol ester-activated kinase , positioned downstream of the extracellular response kinases ( ERKs ) ( 60 ) , that has been shown to directly phosphorylate IxBa on serine 32 in vitro and to induce degradation of this inhibitor ( 14 , 54 ) .
+We have explored the participation of several of these signaling components in the HTLV-1 Tax response leading to induction .
+The IxBa $ $ 32/36AA mutant blocks HTLV-1 Tax induction of NF-B in 293 cells .
+As a starting point in our studies , we verified that a constitutive repressor mutant of IxBa ( the S§32/ 36AA mutant ) , in which serines 32 and 36 were substituted with alanines , effectively blocked Tax induction of xB-depen- Tax INDUCTION OF NF- « B INVOLVES IKKe AND IKKB - 5159 dent luciferase activity in human 293 cells .
+These cells were cotransfected with a Tax expression vector and increasing amounts of the IxBa S§32/36AA mutant ( 25 to 400 ng of expression plasmid [ Fig .
+2AJ ) .
+In these cells , the IxBa S§32/ 36AA mutant functioned as a potent inhibitor of Tax-induced NF-kB expression .
+This finding confirms for 293 cells the results of prior studies performed with different cell types ( 7 , 25 ) and suggests that Tax activates NF-kB by entering a signaling pathway prior to or at the level of IxBa .
+Kinase-deficient mutants of IKKa « and IKK block HTLV-1 Tax induction of NF-KB in 293 cells .
+The effects of both wild-type and kinase-deficient mutants of IKKa ( K44M ) and IKKS A B 8 o £ 5 r 0 & 150 S `` E 8 3 $ - 100 § 4 I = 2 I E 50 2 2 6 o a [ ea 5 \ 25 100 400 z 25 100 400 25 100 400 E A ‘ g A A +1KBO , SS32/36AA lal +1KKo : +1IKK $ 300 0 ® & 0 a .
+8 200 cC 3 b— 3 i_1 ( J0 I 6 & 25 100 400 25 100 400 SAAF “ i 25 100 400 25 100 400 3 +IKKo .
+K44M +IKKo .
++IKKB K44A +IKK $ B FIG .
+2 .
+Functional analysis of the roles of IKKa and IKKB in HTLV-1 Tax induction of NF-xB .
+( A ) IxBa mutant HA-IkBae $ §32/36AA , which fails to undergo stimulus-coupled phosphorylation and degradation , blocks Tax activation of NF- « B in human 293 cells .
+Cells were transfected with 1 ug of Tax expression vector , 200 ng of xB-TATA-luciferase , 20 ng of 6RZ ( -galactosidase reporter ) , and 25 , 100 , or 400 ng of HA-IxBa $ $ 32/36AA .
+The total DNA concentration was held constant at 4 pg by supplementation with the parental pCMV4 vector .
+To control for differences in transfection efficiency , luciferase activity was normalized to B-galactosidase activity .
+The results presented represent the means ( + standard deviations ) derived from at least three independent transfections .
+All values were first calculated as fold induction relative to cells transfected with reporter plasmids only .
+These values were then expressed as percentages of the response obtained with Tax alone .
+( B ) Transfection of 293 cells with various amounts of wild-type IKKa-T7 and IKKB-FLAG , 200 ng of « B-luciferase reporter plasmid , and 20 ng of 6RZ .
+Activity is expressed as arbitrary light units normalized to B-galactosidase activity .
+Error bars depict standard deviations obtained from triplicate determinations .
+( C ) Functional effects of wild-type and kinase-deficient forms of IKKa-T7 and IKKB-FLAG on HTLV-1 Tax activation of « B-luciferase activity .
+Human 293 cells were transfected with 1 pug of Tax expression vector , 200 ng of xB-TATA-luciferase plasmid , 20 ng of 6RZ , and 25 , 100 , or 400 ng of either the wild-type IKKs or the kinase-deficient mutant of IKKa-T7 ( K44M ) or IKKB-FLAG ( K44A ) .
+« B-dependent luciferase activity is depicted as a percentage of the response obtained in the presence of Tax alone as described for panel A .
+The inset depicts the level of Tax protein expressed in each of the cultures assessed by immunoblotting with an anti-Tax antibody .
+5160 GELEZIUNAS ET AL .
+a 180 xB Luciferase HTLV-I LTR Luciferase xB Luciferase HTLV-I LTR Luciferase a C o a .
+8 E100 x ol T 2 ; so I * 0 ® % 4 2 x o1 03 1 x of 03 i x 01 030 d x of 03 1 i- i- - +IKKo .
+K44M +IKKo : K44M +IKKB K44A +1KKB K44A FIG .
+3 .
+Functional effects of kinase-deficient IKKe and IKKB mutants on HTLV-1 Tax induction of NF- « B in human Jurkat T cells .
+Cells were transfected by using DMRIE-C with 350 ng of Tax , 0.1 , 0.3 , or 1 ug of the K44M mutant of IKKa-T7 or the K44A mutant of IKKB-FLAG , and 500 ng of either the « B-luciferase or the HTLV-1 LTR luciferase reporter plasmid .
+Each transfection also contained 250 ng of 6RZ and was supplemented to 4.25 pg of DNA with a pCMV4-based CD8 expression vector .
+Luciferase results were normalized to B-galactosidase activity , expressed as fold induction relative to cells transfected with reporters only and finally as a percentage of the HTLV-1 Tax response .
+( K44A ) on Tax-induced NF-kB expression were next assessed in 293 cells .
+Since the wild-type IKKs were included as controls for their kinase-deficient mutant counterparts , the functional effects of wild-type IKKa and IKKS were first evaluated ( Fig .
+2B ) .
+IKKa produced only a twofold increase in « kB-luciferase activity at the highest dose of expression vector ( 400 ng ) , while IKKS mediated a sevenfold increase in luciferase activity at the same dose of expression vector ( 400 ng ) .
+The addition of increasing amounts of either the IKKa ( KA44M ) or IKKS ( KA44A ) kinase-deficient expression vector produced a dose-dependent suppression of the Tax response ( Fig .
+2C ) .
+In contrast , addition of increasing amounts of the wild-type IKKa and IKKf expression vectors did not inhibit the Tax response and in some cases produced a slight amplification of the response .
+Immunoblotting of the cell lysates confirmed the presence of comparable levels of Tax protein expression in each of the transfection conditions ( Fig .
+2C , inset ) , eliminating suppressive effects of the IKKa and IKK kinase-deficient mutants on Tax expression as the cause of the observed inhibition .
+Kinase-deficient IKKa and IKK mutants inhibit HTLV-1 Tax-mediated activation of NF-KB in Jurkat T cells .
+Since HTLV-1 preferentially infects human T cells , which in some cases leads to ATL , the effects of the kinase-deficient mutants of IKKa and IKKB on Tax induction of xB-luciferase activity were evaluated in human Jurkat T cells ( Fig .
+3 ) .
+As a control for these experiments , the effects of these IKK mutants on Tax-mediated activation of the HTLV-1 LTR , which involves the CREB/ATF rather than NF- « B/Re ! l family of transcription factors , was evaluated in parallel .
+Transfection of escalating doses ( 0.1 , 0.3 , and 1 ug ) of the expression vectors encoding either IKKa ( KA44M ) or IKKB ( K44A ) resulted in dose-dependent inhibition of Tax activation of xB-luciferase activity ( Fig .
+3 ) .
+In contrast , over these same doses , the kinase-deficient IKK mutants produced no significant inhibition of Tax-induced HTLV-1 LTR luciferase activity .
+These results suggest that Tax induction of NF- « B in human Jurkat T cells , as in 293 cells , involves the participation of IKKa and IKK .
+HTLV-1 Tax activates IKKa and IKKRB enzymatic activity .
+To independently assess whether HTLV-1 Tax induction of NF-kB proceeds through IKKa and IKKB , we examined whether Tax , like TNF- « , stimulates the enzymatic activity of IKKa and IKKS ( Fig .
+4 ) .
+We chose to perform these experiments with HeLa cells because of a failure to observe induction of IKK enzymatic activity by either Tax or TNF- « in 293 cells .
+Mor .
+CELL .
+BioL .
+This result most likely reflects a high constitutive enzymatic activity due to overexpression of these kinases .
+Thus , HeLa cells were cotransfected with expression vectors encoding either IKKa or IKK and wild-type Tax or the M22 mutant of Tax .
+M22 Tax fails to induce NF- « xB expression ; however , it continues to activate the HTLV-1 LTR via the CREB/ATF pathway , indicating that it is not completely misfolded ( 55 ) .
+As an additional control , selected cell aliquots were stimulated with TNF-a for 10 min .
+Kinase activity for IKKa ( Fig .
+4A ) and IKKS ( Fig .
+4B ) was assessed in in vitro kinase assays involving immunoprecipitation of the kinases and the addition of recombinant GST-IxBo ( 1-62 ) as an exogenous substrate .
+As shown in Fig .
+4A and B , wild-type Tax , like TNF- « , but not M22 Tax activated the enzymatic activity of the IKKa and IKKS proteins .
+The levels of immunoprecipitated IKKa and IKKB , as well as the levels of Tax in the cell lysates , in each transfection condition are also shown .
+Of note , the M22 Tax mutant was consistently expressed at lower levels than wild-type Tax ; however , when comparable levels of protein expression were examined ( for example , wild-type Tax at 0.1 wg and M22 Tax at A B & ® C °§Q°5 % Q2\QQ ( 3 $ 0 N $ §3PQ roS - puras Y pka « P C\ AA « IPS $ « e Pox x `` x ' x ¢¢lxex x o. alie -C GST-IxBo- » » Wi we om GST-IxBa ( 1-62 ) ( 1-62 ) IKKo-HA -- « « - I E A 8 - S -Tax- i wa -- Tax- 5 & C ( sq D a & A 4 C 6 } a « 0+ 7,6 ” & F & & « & ¢ y » & ¢ y GST-IxBa ( 1-62 ) ~ « - < » IKKO/IKKB - « ous cas -- - am- wan cme Tax - coum ques muz FIG .
+4 .
+HTLV-1 Tax activates ectopically expressed and endogenous IKKa and IKKB enzymatic activity .
+( A ) Approximately 4 X 10° Hela cells were transfected with 1 ug of IKKa-HA expression plasmid and various amounts of wild-type ( WT ) Tax ( 0.3 or 1 ug ) or M22 Tax ( 3 or 1 ug ) expression vector .
+As a control , cells transfected with IKKa-HA only were stimulated with medium or TNF-a ( 20 ng/m ! )
+for 10 min .
+Cell lysates were then immunoprecipitated with anti-HA antibodies and subjected to in vitro kinase assay in the presence of GST-IxBa ( 1-62 ) as an exogenous substrate .
+Levels of immunoprecipitated IKKa-HA and levels of wild-type and M22 Tax present in the cell lysates are also shown .
+( B ) Approximately 10 '' HeLa cells were transfected with 900 ng of IKKB-FLAG expression plasmid and either 1.8 mg of wild-type Tax or 5.4 pg of M22 Tax expression vector .
+Cell lysates were then immunoprecipitated with anti-FLAG M2 antibody and subjected to in vitro kinase assay in the presence of GST-IxBa ( 1-62 ) as an exogenous substrate .
+Levels of immunoprecipitated IKKB-FLAG and levels of wild-type and M22 Tax present in the lysates are also shown .
+In vitro kinase assays were performed on endogenous IKKa/B immunoprecipitated with antibody H744 , which cross-reacts with both enzymes .
+GST-IxBa ( 1-62 ) fusion protein was added as an exogenous substrate , and activities were compared for unstimulated and TNF- « ( 20 ng/ml for 30 min ) -induced Jurkat E6-1 cells and HTLV-1-infected HUT102 and C8166 T cells ( C ) or Jurkat T cells stably transfected with a sense ( Jurkat-Tax ) or antisense ( Jurkat-anti-Tax ) expression vector ( D ) .
+Levels of H744-immunoprecipitated endogenous IKKo/B proteins and levels of Tax in the cell lysates are also shown .
+Vou .
+18 , 1998 1 ug ) , wild-type Tax significantly activated the enzymatic activity of IKKa compared with the M22 Tax mutant ( Fig .
+4A ) .
+Similarly , when 1.8 pg of wild-type Tax was compared to 5.4 ug of M22 Tax , a significant induction in IKK enzymatic activity was observed in response to Tax expression ( Fig .
+4B ) .
+Utilization of a GST -IxBa substrate containing alanine substitutions for serine at positions 32 and 36 demonstrated that the measured Tax response involved phosphorylation at the two N-terminal serine residues of IkxBa ( data not shown ) .
+Together , these findings demonstrate that like the proinflammatory cytokine TNF-a , HTLV-1 Tax , but not M22 Tax , augments the enzymatic activity of both IKKa and IKK .
+Endogenous IKKs are enzymatically more active in HTLV-1-infected T-cell lines and Jurkat T cells expressing Tax .
+To assess whether Tax also activates the endogenous IKKa and IKKS enzymes , we analyzed the HTLV-1-infected HUT102 or C8166 T-cell lines and Jurkat T cells engineered to stably express Tax or antisense Tax ( 70 ) .
+Endogenous IKKa and IKKB were immunoprecipitated from these cells with antibody H744 , which cross-reacts with both enzymes , and analyzed in an in vitro kinase assay ( Fig .
+4C ) .
+Although somewhat less IKKa/B was immunoprecipitated from HUT102 and C8166 cells than from Jurkat E6-1 cells , both HTLV-1l-infected cell lines displayed significantly higher levels of endogenous IKKa/B enzymatic activity .
+Indeed these levels of activity exceeded that obtained in Jurkat E6-1 cells stimulated with TNF-a .
+While the HUT102 and C8166 cells expressed large amounts of Tax ( Fig .
+4C ) , it was possible that other differences in these cells from Jurkat T cells were responsible for the altered IKKa/B activity .
+Accordingly , we compared Jurkat-Tax and Jurkat-anti-Tax cell lines , which are identical except for the presence of Tax ( 70 ) .
+Although expressing comparable amounts of IKKa/B , the Jurkat-Tax cells displayed moderately increased IKKa/B enzymatic activity relative to the Jurkat-anti-Tax cell line ( Fig .
+4D ) .
+The small increase in IKK activity paralleled the relatively low level of Tax expression observed in the Jurkat-Tax cells ( Fig .
+4D ) .
+These results demonstrate that IKKa/B enzymatic activity is constitutively elevated in T-cell lines expressing HTLV-1 Tax .
+Kinase-deficient mutants of NIK , but not PAK1 , inhibit HTLV-1 Tax induction of The potential involvement of NIK in Tax induction of NF- « B was next evaluated .
+As noted , NIK represents the next upstream component of the TNF-a and IL-1 signaling pathways ( Fig .
+1 ) .
+When introduced into 293 cells alone , NIK functioned as a potent activator of < B-lucif-erase activity ( Fig .
+5A ) as previously reported ( 35 ) .
+Cotransfection of 293 cells with Tax and increasing amounts of the kinase-deficient NIK mutant ( KK429/430¥AA ) produced a dose-dependent inhibition of « B-luciferase reporter activity in these cells ( Fig .
+5B ) .
+In contrast , cotransfection of matching amounts of the wild-type NIK expression vector led to enhancement rather than inhibition of the Tax response .
+Immunoblotting of the cell lysates verified the presence of comparable levels of Tax in the presence of the NIK KK429/430AA mutant ( Fig .
+5B , inset ) .
+The potential role of PAK1 in the Tax response was similarly evaluated .
+PAK1 is activated by certain small GTPases of the Rho family ( Rac and CDC42 ) ( 67 ) .
+PAK1 , like the small GTPases , activates JNK , suggesting that it may be a downstream effector of the Rho GTPases ( 27 ) .
+However , the role of PAK1 in NF- « B activation is unknown .
+Cotransfection of increasing amounts of a kinase-deficient mutant ( K299R ) of PAK1 had no effect on Tax induction of NF-kB ( Fig .
+5D ) .
+Blotting of the cellular lysates confirmed dose-related expression of PAK1 and comparable levels of Tax expression ( Fig .
+5D , inset ) .
+Tax INDUCTION OF NF- « B INVOLVES IKKe AND IKKB - 5161 A € so-2 s 4 407 P FA § 304 £ § 204 30 B 5 < 0 o ( £ & 25 100 400 8 A > « NIK Bwsoo ' @ a ® a & e ee -Tax F 5 9 400 4 F ] & y 3004 ( 3 200 A iE T 1004 0 a o % 25 100 400 25 100 400 `` ~ h -- -+NIK KK429 ( 430AA +NIK C g 1594 xB Luciferase .
+HTLV-I LTR Luciferase C 0 a .
+$ @ 1004 % & T > 2 504 iT pre 0 ® ox 0.1 03° 1 3 01 030 d `` ~ _ ~ ___ +NIK KK429 ( 430AA +NIK KK429/430AA D E _ , 200 `` .= © g 20° xB Luciferase _ HTLV-I LTR Luciferase & Kagan 5 S w o > er we ® - Tax a .
+§ $ 8 & e x ( E s i- = 3 3 jar E E T T e + g 0 x o 3 a x 25 100 400 1600 x 01 03 1 x 01 03 1 L E - le +PAK1 K209R +PAK1 K2o9R +PAK1 K299R FIG .
+5 .
+Functional effects of wild-type and kinase-deficient NIK on HTLV-1 Tax-induced NF- « B expression .
+( A ) 293 cells were transfected with various amounts of wild-type Myc-NIK expression vector , 200 ng of « B-luciferase re-porter , and 20 ng of the 6RZ plasmid ; 18 to 24 h later , cell lysates were prepared and « B-luciferase activity was determined .
+Results are presented as relative light units normalized to B-galactosidase activity .
+Error bars depict standard deviations obtained for triplicate transfections .
+( B ) 293 cells were transfected with 1 g of Tax expression vector , 200 ng of « B-TATA-luciferase , 20 ng of 6RZ , and 25 , 100 , or 400 ng of the kinase-deficient KK429/430AA mutant of Myc-NIK or wild-type Myc-NIK .
+Results are presented relative to the response obtained with Tax alone as described in the legend to Fig .
+2 .
+The inset shows the level of Tax expression in each of the cultures determined by immunoblotting .
+( C ) Functional effects of a kinase-deficient NIK mutant on Tax induction of NF- « B expression in Jurkat T cells .
+Jurkat T cells were transfected as described in the legend to Fig .
+3 with various amounts ( 0.1 , 0.3 , or 1 ag ) of the KK429/430AA mutant of Myc-NIK and 350 ng of Tax and 500 ng of the or HTLV-1 LTR luciferase reporter plasmid .
+Results are expressed as a percentage of the response obtained in the presence of Tax alone .
+( D ) The same experiment as described for panel B was performed except that 293 cells were transfected with the K299R kinase-deficient mutant of Myc-PAK1 .
+Levels of Tax and Myc-PAK1 K299R expressed in these cultures are shown in the inset .
+( E ) The same experiment as described for panel C was performed except that Jurkat T cells were transfected with the kinase-deficient mutant Myc-PAK1 K299R .
+5162 GELEZIUNAS ET AL .
+The effects of the kinase-deficient NIK and PAK1 mutants on Tax induced NF- « B expression were also assessed in Jurkat T cells .
+The NIK KK429/430AA mutant produced dose-dependent inhibition of Tax-induced « B-luciferase activity but had essentially no effect on Tax induction of HTLV-1 LTR luciferase activity , which occurs independently of NF-kB ( Fig .
+5C ) .
+As observed in 293 cells , the kinase-deficient PAK1 K299R mutant did not inhibit « B-luciferase activity induced by Tax , nor did it alter the Tax induction of the HTLV-1 LTR ( Fig .
+5E ) .
+' % he lack of effect of the kinase-deficient PAK1 mutant further supports a specific effect for the kinase-deficient NIK mutant .
+Together , these findings raise the possibility that Tax action proceeds through the activation of NIK enzymatic activity .
+However , the observed inhibitory effects of the NIK KK429/430AA mutant observed in both 293 and Jurkat T cells could also result from its binding to and inactivation of IKKs , making these latter kinases unresponsive to Tax .
+These two possibilities could be distinguished by assessing the effects of Tax on NIK enzymatic activity .
+However , our studies indicate that ectopically expressed NIK is constitutively active and not induced further by TNF- « , TRAF2 , or Tax ( data not shown ) .
+Resolution of this issue thus awaits the development of an im-munoprecipitating anti-NIK antibody that will allow assessment of endogenous NIK activity in the presence and absence of Tax .
+Dominant negative mutants of TRAF2 and TRAF6 fail to inhibit HTLV-1 Tax induction of NF- « B .
+TRAF2 interacts with TRADD and activates NF- « kB presumably through its interaction with NIK ( 35 , 52 ) .
+An amino-terminal deletion mutant of TRAF2 [ TRAF2 ( 87-501 ) ] , lacking its RING finger domain , functions as a dominant negative inhibitor in the TNF- « /TNFR1 signaling pathway , blocking both NF-kB and JNK activation ( 22 , 34 , 59 ) .
+When cotransfected with Tax , the dominant negative TRAF2 mutant did not alter Tax activation of NF- « B ( Fig .
+6B ) .
+However , in agreement with prior studies ( 22 ) , this same mutant significantly inhibited the TNF- « -in-duced NF- « B response ( Fig .
+6A ) .
+This result suggests that Tax enters the TNF-a signaling pathway downstream of TRAF2 or perhaps through a different TRAF .
+In this regard , TRAF6 is recruited to IL-1R1 by the MyD88 adaptor and a serine/thre-onine kinase termed IRAK ( 8 , 45 , 71 ) .
+To rule out that Tax activates NF-kB via TRAF6 , the amino-terminal deletion mutant TRAF6 ( 289-522 ) was cotransfected with Tax .
+While the TRAF6 dominant negative mutant effectively blocked IL-1 signaling ( Fig .
+6C ) ( 8 ) , no significant inhibitory effects were obtained for Tax induction of NF- « B ( Fig .
+6D ) .
+These results indicate that Tax induction of NF-kB involves neither TRAF2 nor TRAF6 and suggest that Tax enters this proinflammatory cytokine signaling pathway downstream of the site of action of these TRAFs .
+HTLV-1 Tax is a weak inducer of JNK1 enzymatic activity in 293 cells .
+MEKK1 represents another kinase of the MAP3K level that acts immediately downstream of TRAF2 ( 34 , 59 ) .
+MEKK1 acting through the stimulation of MKK4 is a critical signaling intermediate for TNF- « activation of JNK , which in turn phosphorylates the transcription factor c-Jun ( 41 , 75 ) .
+MEKK1 has also been reported to activate NF-kB when ectopically expressed , but its role in the NF- « B arm of the TNF-a signaling pathway ( Fig .
+1 ) is controversial ( 20 , 32 , 34 , 59 ) .
+Having established that Tax enters the TNF- « /TNFR1 pathway downstream of TRAF2 and perhaps at the level of NIK , we next explored whether the MEKK1-MKK4-JNK axis ( Fig .
+1 ) was activated by Tax .
+For these studies , we examined whether HTLV-1 Tax activated JNK1 enzymatic activity .
+293 cells were transfected with both « B-luciferase and FLAG-JNK .
+Co Mor .
+CELL .
+BioL .
+200 g 200 g 5 2 a. G 150 g 150 a cC A & 3 3 199 E- 100 5 T Es i- -J w 50 E so o I ® 6 0 yo 0 so 040 03001 oo 01 0304 i o z - A A +TRAF2 ( B7-501 ) +TRAF2 ( 87-501 ) o 200 $ 200 3 3 5 150 g 150 g CC o is CC 100 E- 100 ~ T - > _ B so ' : |- : 50 at ut 0 & 0 0.1 0.3 1 0 A * z 0.1 0.3 & +TRAFE ( 289-522 ) +TRAF6 ( 298-522 ) FIG .
+6 .
+Effects of dominant negative mutants of TRAF2 and TRAF6 on Tax induction of « B-luciferase activity .
+( A ) 293 cells were transfected with 200 ng of « B-TATA-luciferase , 20 ng of 6RZ , and 0.1 , 0.3 , or 1 ug of a dominant negative FLAG-TRAF2 ( 87-501 ) mutant .
+Approximately 24 h after transfection , the cells were stimulated with TNF- « ( 10 ng/m ! )
+for 6 h. ( B ) 293 cells were transfected with 1 pg of the Tax expression vector , 200 ng of xB-TATA-luciferase , 20 ng of 6RZ , and 0.1 , 0.3 , or 1 mg of FLAG-TRAF2 ( 87-501 ) .
+Luciferase activity was determined approximately 30 h later and normalized to B-galactosidase activity .
+( C ) HeLa cells were transfected with 200 ng of xB-TATA-luciferase , 20 ng of 6RZ , and 0.1 , 0.3 , or 1 ug of a dominant negative Myc-TRAF6 ( 289-522 ) mutant .
+At approximately 24 h posttransfection , the cells were stimulated with IL-1B ( 10 ng/ ml ) for 6 h. ( D ) HeLa cells were transfected with 1 g of Tax expression vector , 200 ng of « B-TATA-luciferase , 20 ng of 6RZ , and 0.1 , 0.3 , or 1 ug of Myc-TRAF6G ( 289-522 ) .
+Luciferase activity was determined at approximately 30 h posttransfection .
+The total amount of DNA in each transfection was kept constant at 4 pg by supplementation with pCMV4 .
+Luciferase activity was normalized to B-galactosidase activity , and the values represent the means ( + standard deviations ) of three independent transfections .
+The values were first expressed as fold induction relative to cells transfected with reporters only .
+Final values were expressed as percentages of the TNF- « , IL-1 , or Tax response .
+transfection of an N-terminally truncated MEKK1 mutant ( 30 ) which is constitutively active led to substantial activation of JNK1 as assessed by phosphorylation of GST-c-Jun ( 1-79 ) substrate in vitro ( Fig .
+7A ) .
+At the highest dose of MEKK1 expression vector ( 2 ug ) , NF-xB was also activated ( Fig .
+7B ) .
+Cotransfection of Myc-TRAF2 or treatment of cells with TNF-a for 30 min also led to enhanced JNK1 activity ( Fig .
+7A ) .
+Myc-TRAF2 expression as well as treatment of cells with TNF-a for 6 h also led to NF-KB activation ( Fig .
+7B ) .
+In contrast , cotransfection of Tax caused only a modest induction of JNK1 activation compared to the other agonists despite causing substantial NF-kB activation in these same transfected cells ( Fig .
+7 ) .
+This finding is consistent with a previous report demonstrating a similar modest induction of JNKI1 enzymatic activity by Tax in other cell types ( 23 ) .
+These results suggest that in contrast to its ability to activate NF-kB , Tax does not significantly activate the MEKK1-MKK4-JNK1 pathway .
+Vou .
+18 , 1998 A MEKKI r 6 _- ff “ » ¢ 6 .
+f & 4°C } cg » o° a 65° « « é ‘ GST-c-Jun _ ( 1-79 ) - .
+a » `` FLAG-INK1 - am » dilb aan « « n dite « 3000 2000 1000 Relative Luciferase Activity myc-TRAF2 Tax TNFa : 6 hrs FIG .
+7 .
+Effect of Tax on JNK1 enzymatic activity .
+( A ) 293 cells were transfected with 500 ng of xB-TATA-luciferase , 500 ng of FLAG-JNK1 , and 50 ng of 6RZ and either 0.125 , 0.5 , or 2 ug of an N-terminally truncated but constitutively active form of MEKKI or 1 ug of either Myc-TRAF2 or HTLV-1 Tax .
+Finally , 293 cells transfected with reporters only were treated for 30 min and 6 h with 100 ng of TNF-a per ml .
+Cell lysates were prepared to determine luciferase activity and B-galactosidase activity and were used for immunoprecipitation with anti-FLAG M2 antibody .
+Anti-FLAG M2 immunoprecipitates from each transfection were subjected to in vitro kinase assays in the presence of GST-c-Jun ( 1-79 ) as an exogenous substrate .
+In vitro kinase reactions were subjected to SDS-PAGE and transferred to nitrocellulose .
+Membranes were subsequently probed with anti-FLAG M2 antibody to establish levels of immunoprecipitated FLAG-JNK1 .
+( B ) « B-luciferase activity was measured in the same cell lysates as used for panel A and normalized to B-galactosidase activity to control for differences in transfection efficiency .
+The data are presented as relative luciferase activity based on arbitrary light units .
+DISCUSSION To identify the molecular mechanism ( s ) underlying HTLV-1 Tax induction of NF-kB , we have explored the potential involvement of several components of the TNF- « and IL-1 signaling pathways .
+These studies have revealed that kinase-deficient forms of IKKa , IKKB , and NIK , but not PAK1 , effectively inhibit Tax induction of NF-kB in both human 293 and Jurkat T cells .
+Further , these investigations have demonstrated that wild-type Tax enhances both IKKa and IKKB enzymatic activities .
+In contrast , the M22 Tax mutant , which manifests a specific defect in NF- « B activation , does not significantly stimulate these kinases .
+Additionally , we have found that the endogenous IKKa and IKKB enzymes present in HTLV-1-infected and Tax-expressing T-cell lines are quite ac-tive .
+Further , we have detected Tax activation of endogenous IKKa/B in Jurkat T cells stably expressing Tax compared with matched Jurkat anti-Tax controls .
+These results thus significantly extend our prior study in which we demonstrated the involvement of pp90'* in phorbol ester- but not Tax-induced phosphorylation and degradation of IxBa ( 14 ) .
+These findings indicate that the HTLV-1 transactivator protein activates only a subset of the cellular kinases capable of phosphorylating IxBa .
+The ability of Tax to activate the IKKs appears to be quite specific since a parallel pathway which is initiated by TRAF and involves MEKK1-MKK4 activation of JNK1 does not appear to be significantly induced by Tax .
+Thus , although MEKK1 has been proposed as an inducer of NF- « B , it seems unlikely that Tax activation of NF- « B proceeds through MEKK1 .
+For this to occur , Tax would have to activate MEKK1 in a manner not leading to standard JNKI activation .
+Tax INDUCTION OF NF- « B INVOLVES IKKe AND IKKB - 5163 The ability of a kinase-deficient form of NIK to block Tax induction of NF- « B raised the distinct possibility that Tax action involved this component of the TNF-a and IL-1 signaling cascade .
+However , the high constitutive activity of this enzyme obtained following its ectopic expression coupled with a lack of response of the kinase to TNF- « , TRAF2 , or Tax precluded firm assignment of this enzyme to the intracellular pathway utilized by Tax .
+The involvement of NIK in this reaction could be evaluated if an active inducible form of endogenous NIK could be immunoprecipitated from cells expressing Tax .
+Un-fortunately , reagents to perform such an experiment are not available at the present time .
+In addition , we can not completely exclude the involvement of yet another MAP3K in the Tax response whose activity is inhibited by expression of kinase-deficient NIK .
+However , it is interesting that both Tax and NIK possess similar properties with regard to activation of IKKs and JNK .
+Specifically , Tax ( Fig .
+4 ) , like NIK ( 51 , 72 ) , activates both IKKs , while neither of these proteins significantly activates JNK1 ( 23 , 59 , 73 ) ( Fig .
+7 ) .
+While Tax utilizes the IKKa , IKKB , and perhaps NIK components of the TNF-a and IL-1 signaling pathways , more proximal components of these pathways , specifically TRAF2 and TRAF6 , do not appear to be involved in Tax induction of NF-xB .
+This conclusion is based on the fact that dominant negative mutants of TRAF2 and TRAF6 , which effectively block TNF-a and IL-1 signaling , respectively , fail to inhibit Tax induction of NF-kB .
+These findings further suggest that Tax does not activate NF-kB via the induced transcription and autocrine action of TNF-a or IL-1 .
+However , our results do not formally exclude the possibility that Tax activates the expression of another cytokine that is secreted and binds to a receptor that functions independently of TRAF2 and TRAF6 , leading to the stimulation of NIK and IKKs .
+It remains unknown whether Tax subverts the TNF- @ /IL-1 signaling pathway by directly interacting with and activating NIK and/or IKKa or IKKS or by indirectly altering the expression levels of various components of this pathway .
+However , enhanced levels of IKKs in HTLV-1 Tax-expressing cell lines is unlikely to be the cause of increased NF-KB activity since the levels of endogenous IKKs were comparable to levels in cells that did not express Tax ( Fig .
+4C and D ) .
+A prior report indicating that Tax induces nuclear NF- « B expression in the absence of de novo protein synthesis further argues against an indirect effect involving new gene transcription ( 33 ) .
+Although Tax has been reported to be principally a nuclear protein , it is also present in the cytoplasm ( 4 , 26 , 43 ) .
+Indeed , Tax avidly binds to the p100 product of the NF- « xB2 gene , an exclusively cytoplasmic member of the IxB family of proteins ( 4 , 26 , 31 , 44 ) .
+This interaction may thus ensure a cytoplasmic pool of Tax to mediate subsequent activation of IKKa , IKKB , and perhaps NIK .
+If Tax does in fact act in a direct manner at the level of NIK , our findings raise the intriguing possibility that Tax functions as a TRAF-like molecule .
+The TRAFs may act by producing oligomerization of the downstream kinase , leading to altered enzymatic activity .
+In this regard , the M22 mutant of Tax , which fails to activate IKKa and IKKB catalytic activities , also fails to dimerize ( 65 ) .
+Alternatively , Tax may function through an as yet unidentified TRAF to promote aggregation of NIK .
+Indeed , biological precedence exists for such a mechanism .
+Specifically , the cytoplasmic domain of the transforming LMP1 protein encoded by Epstein-Barr virus has been shown to associate with TRAFs and to induce NF-kB ( 42 ) .
+It has been suggested that LMP1 causes aggregation of TRAFs and may mimic the effects of TNF binding to its trimeric receptor ( 42 ) .
+It is also possible that Tax induces nuclear NF- « B expression 5164 GELEZIUNAS ET AL .
+by altering the levels of endogenous NIK .
+In this regard , NIK expression levels have been shown to correlate with NF-kB activation ( 35 ) ( Fig .
+SA ) .
+Finally , it is possible that Tax induces the expression of an unknown activator of the NIK or IKK enzymes or perhaps down-regulates the expression or activity of an inhibitor of these kinases such as protein phosphatase 2A ( 10 ) .
+Future studies will help delineate which of these mechanisms of action is utilized by Tax .
+In terms of the biology of HTLV-1 infection , Tax induction of NF- « B in virally infected T cells may play a central role in cellular transformation leading to the ATL .
+One possible role for Tax-induced NF- « B expression would be to inhibit apoptosis in infected T cells .
+In this regard , it has recently been shown that expression is induced by transforming Ras mutants and that NF-kB production inhibits a p53-independent pathway of apoptosis in these cells ( 38 ) .
+In conclusion , our studies reveal how HTLV-1 Tax subverts specific plasma membrane-distal components of the physiological proinflammatory signaling pathway leading to the pathologically sustained induction of NF-kB .
+These findings thus provide new insights into the molecular basis of Tax action , emphasizing its ability to directly or indirectly alter the activity of cytoplasmic kinases pivotally involved in signal-coupled degradation of IxB .
+Should the abnormal expression of NF- « B play a central role in -associated leukemogenesis , the development of inhibitors of NIK or IKKa and IKKB might serve not only as anti-inflammatory agents but also as novel chemotherapeutics potentially active against HTLV-1-induced ATL .
+ACKNOWLEDGMENTS R.G .
+is supported by a Centennial Fellowship from the Medical Research Council of Canada .
+E.T.C .
+is supported by NIH grant KO8-EY00352 .
+This work was supported by grants from the UCSF Center for AIDS Research ( P30A127763 ) and from Pfizer .
+R.G. , S.F. , and XL .
+contributed equally to this work .
+We thank G. Bokoch and U. Knaus for providing the PAK1 K299R expression vector , D. Goeddel for the TRAF2 and TRAF2 ( 87-501 ) vectors , G. Johnson for the MEKK1 vector , D. Pearce for the 6RZ reporter construct , M. Karin for the FLAG-JNKI1 construct , Christo-phe Beraud for helpful discussions , Weiduan Xu for technical support , and John Carroll , Neile Shea , Stephen Gonzales , and Chris Goodfel-low for preparation of the figures .
+REFERENCES 1 .
+Baeuerle , P. A. , and D. Baltimore .
+1996 .
+NF- « B : ten years after .
+Cell 87:13-20 .
+2 .
+Baldwin , A. J .
+1996 .
+The NF- « B and I xB proteins : new discoveries and insights .
+Annu .
+Rev .
+Immunol .
+14:649-683 .
+3 .
+Baranger , A. M. , C. R. Palmer , M. K. Hamm , H. A. Giebler , A. Brauweiler , J. K. Nyborg , and A. Schepartz .
+1995 .
+Mechanism of DNA-binding enhancement by the human T-cell leukaemia virus transactivator Tax .
+Nature 376 : 606-608 .
+4 .
+Beraud , C. , S. C. Sun , P. Ganchi , D. W. Ballard , and W. C. Greene .
+1994 .
+Human T-cell leukemia virus type I Tax associates with and is negatively regulated by the NF-xB2 p100 gene product : implications for viral latency .
+Mol .
+Cell .
+Biol .
+14:1374-1382 .
+5 .
+Brady , J. , K. T. Jeang , J. Duvall , and G. Khoury .
+1987 .
+Identification of p40x-responsive regulatory sequences within the human T-cell leukemia virus type I long terminal repeat .
+J. Virol .
+61:2175-2181 .
+6 .
+Brauweiler , A. , P. Garl , A .
+A. Franklin , H. A. Giebler , and J. K. Nyborg .
+1995 .
+A molecular mechanism for human T-cell leukemia virus latency and Tax transactivation .
+J. Biol .
+Chem .
+270:12814-12822 .
+7 .
+Brockman , J .
+A. , D. C. Scherer , T. A. McKinsey , S. M. Hall , X. Qi , W. Y. Lee , and D. W. Ballard .
+1995 .
+Coupling of a signal response domain in IxBa to multiple pathways for NF-kB activation .
+Mol .
+Cell .
+Biol .
+15:2809-2818 .
+8 .
+Cao , Z. , J. Xiong , M. Takeuchi , T. Kurama , and D. V. Goeddel .
+1996 .
+TRAF6 is a signal transducer for interleukin-1 .
+Nature 383:443-446 .
+9 .
+Connelly , M. A. , and K. B. Marcu .
+1995 .
+CHUK , a new member of the helix-loop-helix and leucine zipper families of interacting proteins , contains a serine-threonine kinase catalytic domain .
+Cell .
+Mol .
+Biol .
+Res .
+41:537-549 .
+10 .
+DiDonato , J .
+A. , M. Hayakawa , D. M. Rothwarf , E. Zandi , and M. Karin .
+11 .
+12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+Mor .
+CELL .
+BioL .
+1997 .
+A cytokine-responsive IxB kinase that activates the transcription factor NF- « B .
+Nature 388:548-554 .
+Fujii , M. , C. P. Sassone , and I. M. Verma .
+1988. c-fos promoter trans-activation by the tax1 protein of human T-cell leukemia virus type I. Proc .
+Natl .
+Acad .
+Sci .
+USA 85:8526-8530 .
+Fujii , M. , H. Tsuchiya , T. Chubjo , T. Akizawa , and M. Seiki .
+1992 .
+Interaction of HTLV-1 Tax1 with p67SRF causes the aberrant induction of cellular immediate early genes through CArG boxes .
+Genes Dev .
+6:2066-2076 .
+Gessain , A. , F. Barin , J. C. Vernant , O. Gout , L. Maurs , A. Calender , and G. de The .
+1985 .
+Antibodies to human T-lymphotropic virus type-I in patients with tropical spastic paraparesis .
+Lancet ii:407-410 .
+Ghoda , L. , X. Lin , and W. C. Greene .
+1997 .
+The 90-kDa ribosomal S6 kinase ( pp9Orsk ) phosphorylates the N-terminal regulatory domain of IxBa « and stimulates its degradation in vitro .
+J. Biol .
+Chem .
+272:21281-21288 .
+Giam , C. Z. , and Y. L. Xu .
+1989 .
+HTLV-1 tax gene product activates transcription via pre-existing cellular factors and cAMP responsive element .
+J. Biol .
+Chem .
+264:15236-15241 .
+Giebler , H. A. , J. E. Loring , K. van Orden , M. A. Colgin , J. E. Garrus , K. W. Escudero , A. Brauweiler , and J. K. Nyborg .
+1997 .
+Anchoring of CREB binding protein to the human T-cell leukemia virus type 1 promoter : a molecular mechanism of Tax transactivation .
+Mol .
+Cell .
+Biol .
+17:5156-5164 .
+Good , L. , and S. C. Sun .
+1996 .
+Persistent activation of NF- « B/Re !
+by human T-cell leukemia virus type 1 Tax involves degradation of IxBB .
+J. Virol .
+70 : 2730-2735 .
+Grassmann , R. , C. Dengler , F. I. Muller , B. Fleckenstein , K. McGuire , M. C. Dokhelar , J. G. Sodroski , and W. A. Haseltine .
+1989 .
+Transformation to continuous growth of primary human T lymphocytes by human T-cell leukemia virus type I X-region genes transduced by a herpesvirus saimiri vector .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 86:3351-3355 .
+Greene , W. C. , E. Bohnlein , and D. W. Ballard .
+1989 .
+HIV-1 , HTLV-1 and pormal T-cell growth : transcriptional strategies and surprises .
+Immunol .
+Today 10:272-278 .
+Hirano , M. , S. Osada , T. Aoki , S. Hirai , M. Hosaka , J. Inoue , and S. Ohno .
+1996 .
+MEK kinase is involved in tumor necrosis factor alpha-induced NF- « B activation and degradation of IxBae .
+J. Biol .
+Chem .
+271:13234-13238 .
+Hiscott , J. , L. Petropoulos , and J. Lacoste .
+1995 .
+Molecular interactions between HTLV-1 Tax protein and the NF- « B/IkB transcription complex .
+Virology 214:3-11 .
+Hsu , H. , H. B. Shu , M. G. Pan , and D. V. Goeddel .
+1996 .
+TRADD-TRAF2 and TRADD-FADD interactions define two distinct TNF receptor 1 signal transduction pathways .
+Cell 84:299-308 .
+Jin , D. Y. , H. Teramoto , C. Z. Giam , R. F. Chun , J. S. Gutkind , and K. T. Jeang .
+1997 .
+A human suppressor of c-Jun N-terminal kinase 1 activation by tumor necrosis factor alpha .
+J. Biol .
+Chem .
+272:25816-25823 .
+Kanno , T. , K. Brown , G. Franzoso , and U. Siebenlist .
+1994 .
+Kinetic analysis of human T-cell leukemia virus type 1 Tax-mediated activation of NF- « B .
+Mol .
+Cell .
+Biol .
+14:6443-6451. .
+Kanno , T. , K. Brown , and U. Siebenlist .
+1995 .
+Evidence in support of a role for human T-cell leukemia virus type I Tax in activating NF- « B via stimulation of signaling pathways .
+J. Biol .
+Chem .
+270:11745-11748 .
+Kanno , T. , G. Franzoso , and U. Siebenlist .
+1994 .
+Human T-cell leukemia virus type I Tax-protein-mediated activation of NF-xB from p100 ( NF- « B2 ) -inhibited cytoplasmic reservoirs .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 91:12634-12638 .
+Knaus , U. G. , S. Morris , H. J. Dong , J. Chernoff , and G. M. Bokoch .
+1995 .
+Regulation of human leukocyte p21-activated kinases through G protein-coupled receptors .
+Science 269:221-223 .
+Kwok , R. P. , M. E. Laurance , J. R. Lundblad , P. S. Goldman , H. Shih , L. M. Connor , S. J. Marriott , and R. H. Goodman .
+1996 .
+Control of cAMP-regulated enhancers by the viral transactivator Tax through CREB and the co-activator CBP .
+Nature 380:642-646 .
+Lacoste , J. , L. Petropoulos , N. Pepin , and J. Hiscott .
+1995 .
+Constitutive phosphorylation and turnover of IxBa « in human T-cell leukemia virus type T-infected and Tax-expressing T cells .
+J. Virol .
+69:564-569 .
+Lange , C. C. , C. M. Pleiman , A. M. Gardner , K. J. Blumer , and G. L. Johnson .
+1993 .
+A divergence in the MAP kinase regulatory network defined by MEK kinase and Raf .
+Science 260:315-319 .
+Lanoix , J. , J. Lacoste , N. Pepin , N. Rice , and J. Hiscott .
+1994 .
+Overproduction of NFKB2 ( lyt-10 ) and c-Rel : a mechanism for HTLV-I Tax-mediated trans-activation via the NF- « B signalling pathway .
+Oncogene 9:841-852 .
+Lee , F. S. , J. Hagler , Z. J. Chen , and T. Maniatis .
+1997 .
+Activation of the IxBa kinase complex by MEKK1 , a kinase of the JNK pathway .
+Cell 88:213-222 .
+Lindholm , P. F. , R. L. Reid , and J. N. Brady .
+1992 .
+Extracellular Taxl protein stimulates tumor necrosis factor beta and immunoglobulin kappa light chain expression in lymphoid cells .
+J. Virol .
+66:1294-1302 .
+Liu , Z. G. , H. Hsu , D. V. Goeddel , and M. Karin .
+1996 .
+Dissection of TNF receptor 1 effector functions : JNK activation is not linked to apoptosis while NF- « B activation prevents cell death .
+Cell 87:565-576 .
+Malinin , N. L. , M. P. Boldin , A. V. Kovalenko , and D. Wallach .
+1997 .
+MAP3K-related kinase involved in NF- « B induction by TNF , CD95 and IL-1 .
+Nature 385:540-544 .
+Matsumoto , K. , H. Shibata , J. I. Fujisawa , H. Inoue , A. Hakura , T. Tsuka- Vou .
+18 , 1998 37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+57 .
+58. hara , and M. Fujii .
+1997 .
+Human T-cell leukemia virus type 1 Tax protein transforms rat fibroblasts via two distinct pathways .
+J. Virol .
+71:4445-4451 .
+Matthias , P. , M. M. Muller , E. Schreiber , S. Rusconi , and W. Schaffner .
+1989 .
+Eukaryotic expression vectors for the analysis of mutant proteins .
+Nucleic Acids Res .
+17:6418 .
+Mayo , M. W. , C.-Y .
+Wang , P. C. Cogswell , K. S. Rogers-Graham , S. W. Lowe , C. J .
+Der , and A. S. Baldwin , Jr. 1997 .
+Requirement of NF-kB activation to suppress p53-independent apoptosis induced by oncogenic Ras .
+Science 278 : 1812-1815 .
+McKinsey , T. A. , J .
+A. Brockman , D. C. Scherer , M. S. Al , P. L. Green , and D. W. Ballard .
+1996 .
+Inactivation of IxBB by the Tax protein of human T-cell leukemia virus type 1 : a potential mechanism for constitutive induction of NF- « B .
+Mol .
+Cell .
+Biol .
+16:2083-2090 .
+Mercurio , F. , H. Zhu , B. W. Murray , A. Shevchenko , B. L. Bennett , J. Li , D. B .
+Young , M. Barbosa , M. Mann , A. Manning , and A. Rao .
+1997 .
+IKK-1 and IKK-2 : cytokine-activated IxB kinases essential for NF-kB activation .
+Science 278:860-866 .
+Minden , A. , A. Lin , M. McMahon , C. C. Lange , B. Derijard , R. J. Davis , G. L. Johnson , and M. Karin .
+1994 .
+Differential activation of ERK and JNK mitogen-activated protein kinases by Raf-1 and MEKK .
+Science 266:1719-1723 .
+Mosialos , G. , M. Birkenbach , R. Yalamanchili , T. VanArsdale , C. Ware , and E. Kieff .
+1995 .
+The Epstein-Barr virus transforming protein LMP1 engages signaling proteins for the tumor necrosis factor receptor family .
+Cell 80:389-399 .
+Munoz , E. , G. Courtois , P. Veschambre , P. Jalinot , and A. Israel .
+1994 .
+Tax induces nuclear translocation of NF- « B through dissociation of cytoplasmic complexes containing p105 or p100 but does not induce degradation of IxBa/MAD3 .
+J. Virol .
+68:8035-8044 .
+Murakami , T. , H. Hirai , T. Suzuki , J. Fujisawa , and M. Yoshida .
+1995 .
+HTLV-1 Tax enhances NF- « B2 expression and binds to the products p52 and p100 , but does not suppress the inhibitory function of p100 .
+Virology 206:1066-1074 .
+Muzio , M. , J. Ni , P. Feng , and V. M. Dixit .
+1997 .
+IRAK ( Pelle ) family member IRAK-2 and MyD88 as proximal mediators of IL-1 signaling .
+Science 278:1612-1615 .
+Osame , M. , K. Usuku , S. Izumo , N. Ijichi , H. Amitani , A. Igata , M. Matsumoto , and M. Tara .
+1986 .
+HTLV-I associated myelopathy , a new clinical entity .
+Lancet ii1031-1032 .
+Pearce , D. , and K. R. Yamamoto .
+1993 .
+Mincralocorticoid and glucocorticoid receptor activities distinguished by nonreceptor factors at a composite response element .
+Science 259:1161-1165 .
+Perini , G. , S. Wagner , and M. R. Green .
+1995 .
+Recognition of bZIP proteins by the human T-cell leukaemia virus transactivator Tax .
+Nature 376:602-605 .
+Poiesz , B. J. , F. W. Ruscetti , A. F. Gazdar , P. A. Bunn , J. D. Minna , and R. C. Gallo .
+1980 .
+Detection and isolation of type C retrovirus particles from fresh and cultured lymphocytes of a patient with cutaneous T-cell lymphoma .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 77:7415-7419 .
+Pozzatti , R. , J. Vogel , and G. Jay .
+1990 .
+The human T-lymphotropic virus type I fax gene can cooperate with the ras oncogene to induce neoplastic transformation of cells .
+Mol .
+Cell .
+Biol .
+10:413-417 .
+Regnier , C. H. , H. Y .
+Song , X. Gao , D. V. Goeddel , Z. Cao , and M. Rothe .
+1997 .
+Identification and characterization of an IxB kinase .
+Cell 90:373-383 .
+Rothe , M. , S. C. Wong , W. J. Henzel , and D. V. Goeddel .
+1994 .
+A novel family of putative signal transducers associated with the cytoplasmic domain of the 75 kDa tumor necrosis factor receptor .
+Cell 78:681-692 .
+Sambrook , J. , E. F. Fritsch , and T. Maniatis .
+1989 .
+Molecular cloning : a laboratory manual , 2nd ed .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , N.Y. Schouten , G. J. , A. C. Vertegaal , S. T. Whiteside , A. Israel , M. Toebes , J. C. Dorsman , A. J. van der Eb , and A. Zantema .
+1997 .
+IxBa is a target for the mitogen-activated 90 kDa ribosomal S6 kinase .
+EMBO J .
+16:3133-3144 .
+Semmes , O. J. , and K. T. Jeang .
+1992 .
+Mutational analysis of human T-cell leukemia virus type I Tax : regions necessary for function determined with 47 mutant proteins .
+J. Virol .
+66:7183-7192 .
+Smith , M. R. , and W. C. Greene .
+1990 .
+Identification of HTLV-I tax transactivator mutants exhibiting novel transcriptional phenotypes .
+Genes Dev 4 : 1875-1885 .
+Smith , M. R. , and W. C. Greene .
+1991 .
+Molecular biology of the type I human T-cell leukemia virus ( HTLV-I ) and adult T-cell leukemia .
+J. Clin .
+Investig .
+87:761-766 .
+Smith , M. R. , and W. C. Greene .
+1991 .
+Type I human T cell leukemia virus tax protein transforms rat fibroblasts through the cyclic adenosine mono-phosphate response element binding protein/activating transcription factor pathway .
+J. Clin .
+Investig .
+88:1038-1042 .
+Tax INDUCTION OF NF- « B INVOLVES IKKe AND IKKB 59 .
+60 .
+61 .
+62 .
+63 .
+64 .
+65 .
+66 .
+67 .
+68 .
+69 .
+70 .
+71 .
+72 .
+73 .
+74 .
+75 .
+76 .
+77 .
+78 .
+79 .
+80 .
+81 .
+5165 Song , H. Y. , C. H. Regnier , C. J. Kirschning , D. V. Goeddel , and M. Rothe .
+1997 .
+Tumor necrosis factor ( TNF ) -mediated kinase cascades : bifurcation of nuclear factor- « B and c-jun N-terminal kinase ( JNK/SAPK ) pathways at TNF receptor-associated factor 2 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 94:9792-9796 .
+Sturgill , T. W. , L. B. Ray , E. Erikson , and J. L. Maller .
+1988 .
+Insulin-stimulated MAP-2 kinase phosphorylates and activates ribosomal protein S6 kinase II .
+Nature 334:715-718 .
+Sun , S. , J. Elwood , and W. C. Greene .
+1996 .
+Both amino- and carboxy ! -terminal sequences within IxBa regulate its inducible degradation .
+Mol .
+Cell .
+Biol .
+16:1058-1065 .
+Sun , S. C. , J. Elwood , C. Beraud , and W. C. Greene .
+1994 .
+Human T-cell leukemia virus type I Tax activation of NF-xB/Re !
+involves phosphorylation and degradation of IxBa « and RelA ( p63 ) -mediated induction of the cel gene .
+Mol .
+Cell .
+Biol .
+14:7377-7384 .
+Suzuki , T. , J. I Fujisawa , M. Toita , and M. Yoshida .
+1993 .
+The transactivator tax of human T-cell leukemia virus type 1 ( HTLV-1 ) interacts with cAMP-responsive element ( CRE ) binding and CRE modulator proteins that bind to the 21-base-pair enhancer of HTLV-1 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:610-614 .
+Tanaka , A. , C. Takahashi , S. Yamaoka , T. Nosaka , M. Maki , and M. Hatanaka .
+1990 .
+Oncogenic transformation by the tax gene of human T-cell leukemia virus type I in vitro .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 87:1071-1075 .
+Tie , F. , N. Adya , W. C. Greene , and C. Z. Giam .
+1996 .
+Interaction of the human T-lymphotropic virus type 1 Tax dimer with CREB and the viral 21-base-pair repeat .
+J. Virol .
+70:8368-8374 .
+Uchiyama , T. 1997 .
+Human T cell leukemia virus type I ( HTLV-I ) and human diseases .
+Annu .
+Rev .
+Immunol .
+15:15-37 .
+Van Aelst , L. , and C. D'Souza-Schorey .
+1997 .
+Rho GTPases and signaling networks .
+Genes Dev .
+11:2295-2322 .
+Verma , I. M. , J. K. Stevenson , E. M. Schwarz , A. D. Van , and S. Miyamoto .
+1995 .
+Rel/NF- « B/IxB family : intimate tales of association and dissociation .
+Genes Dev .
+92723-2735 .
+Wagner , S. , and M. R. Green .
+1993 .
+HTLV-1 Tax protein stimulation of DNA binding of bZIP proteins by enhancing dimerization .
+Science 262:395-399 .
+Wano , Y. , M. Feinberg , J .
+B. Hosking , H. Bogerd , and W. C. Greene .
+1988 .
+Stable expression of the tax gene of type I human T-cell leukemia virus in human T cells activates specific cellular genes involved in growth .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 85:9733-9737 .
+Wesche , H. , W. J. Henzel , W. Shillinglaw , S. Li , and Z. Cao .
+1997 .
+MyD88 : an adapter that recruits IRAK to the IL-1 receptor complex .
+Immunity 7 : 837-847 .
+Woronicz , J. D. , X. Gao , Z. Cao , M. Rothe , and D. V. Goeddel .
+1997 .
+IxB kinase-B : NF- « B activation and complex formation with IxB kinase- « and NIK .
+Science 278:866-869 .
+Xu , X. , O. Heidenreich , I. Kitajima , K. McGuire , Q. Li , B. Su , and M. Nerenberg .
+1996 .
+Constitutively activated JNK is associated with HTLV-1 mediated tumorigenesis .
+Oncogene 13:135-142 .
+Yamaoka , S. , H. Inoue , M. Sakurai , T. Sugiyama , M. Hazama , T. Yamada , and M. Hatanaka .
+1996 .
+Constitutive activation of NF- « B is essential for transformation of rat fibroblasts by the human T-cell leukemia virus type I Tax protein .
+EMBO J .
+15:873-877 .
+Yan , M. , T. Dai , J. C. Deak , J. M. Kyriakis , L. I. Zon , J. R. Woodgett , and D. J. Templeton .
+1994 .
+Activation of stress-activated protein kinase by MEKK1 phosphorylation of its activator SEK1 .
+Nature 372:798-800 .
+Yin , M. J. , and R. B. Gaynor .
+1996 .
+HTLV-1 21 bp repeat sequences facilitate stable association between Tax and CREB to increase CREB binding affinity .
+J. Mol .
+Biol .
+264:20-31 .
+Yoshida , M. 1993 .
+HTLV-1 Tax : regulation of gene expression and discase .
+Trends Microbiol .
+1:131-135 .
+Yoshida , M. , I. Miyoshi , and Y. Hinuma .
+1982 .
+Isolation and characterization of retrovirus from cell lines of human adult T-cell leukemia and its implication in the disease .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 79:2031-2035 .
+Yoshida , M. , T. Suzuki , J. Fujisawa , and H. Hirai .
+1995 .
+HTLV-1 oncopro-tein tax and cellular transcription factors .
+Curr .
+Top .
+Microbiol .
+Immunol .
+193:79-89 .
+Zandi , E. , D. M. Rothwarf , M. Delhase , M. Hayakawa , and M. Karin .
+1997 .
+The IxB kinase complex ( IKK ) contains two kinase subunits , IKKa and IKKB , necessary for IxB phosphorylation and NF- « B activation .
+Cell 91 : 243-252 .
+Zhao , L. J. , and C. Z. Giam .
+1992 .
+Human T-cell lymphotropic virus type I ( HTLV-1 ) transcriptional activator , Tax , enhances CREB binding to HTLV-I 21-base-pair repeats by protein-protein interaction .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 89:7070-7074 .

@@ -1,0 +1,546 @@
+THE JOURNAL oF BIOLOGICAL CHEMISTRY © 1998 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+273 , No .
+23 , Issue of June 5 , pp .
+14119-14129 , 1998 Printed in U.S.A. Molecular Mechanisms of Promoter Regulation of the gp34 Gene That Is Trans-activated by an Oncoprotein Tax of Human T Cell Leukemia Virus Type I* ( Received for publication , March 5 , 1998 ) Kiyoshi Atsumi Tsujimoto $ , Tomonori Tsukaharaj§ , Noboru Numata1 , Shigeto Miural** , Kazuo Sugamural , and Masataka Nakamurat $ # From the { Human Gene Sciences Center and the §Department of Immunotherapeutics , Medical Research Division , Tokyo Medical and Dental University , 1-5-45 Yushima , Bunkyo-ku , Tokyo 113-8510 , the Department of Microbiology , Sendai Municipal Institute of Public Health , 2-5-10 Oroshimachi-higashi , Wakabayashi-ku , Sendai 983-0002 , the Department of Microbiology and Immunology , Tohoku University School of Medicine , 2-1 Seiryo-machi , Aoba-ku , Sendai 980-8575 , and **Core Research for Evolutional Science and Technology , Japan Science and Technology Corp. , 4-1-8 Honcho , Kawaguchi 332-0012 , Japan We investigated the molecular mechanism of transcriptional activation of the gp34 gene by the Tax oncoprotein of human T cell leukemia virus type I ( HTLV-D. gp34 is a type II transmembrane molecule belonging to the tumor necrosis factor family and is constitutively expressed on HTLV-I-producing cells but not normal resting T cells .
+The transcriptional regulatory region of the gp34 gene was activated by HTLV-I Tax in the human T cell line Jurkat , in which endogenous gp34 is induced by Tax .
+Sequence analysis demonstrated that two NF- « B-like elements ( 1 and 2 ) were present in the regulatory region .
+Both NF-xB-like elements were able to bind to NF -B or its related factor ( s ) in a Tax-dependent manner .
+Chloramphenicol acetyltransferase assays indicated that NF-B-like element 1 was Tax-responsive , although the activity was lower than that the native promoter .
+NF-B-like element 2 elevated promoter activity when combined with NF-B-like element 1 , indicating cooperative function of the elements for maximum promoter function .
+Unlike typical NF- « B elements , the NF- « B-like elements in gp34 were not activated by treatment of Jurkat cells with phorbol ester despite induction of the binding activity .
+Chloramphenicol acetyltransferase reporter assays using the region upstream of the NF- « B-like elements identified an upstream region that reduced transcription from cognate and noncognate core promoters in a Tax-indepen-dent manner .
+Our results imply complex regulation of expression of the gp34 gene and suggest implication of gp34 in proliferation of HTLV-I infected T cells .
+Human T cell leukemia virus type I ( HTLV-I ) is an etiologic * This work was supported in part by a grant for Core Research for Evolutional Science and Technology of the Japan Science and Technology Corp. , a grant-in-aid for scientific research on priority areas from the Ministry of Education , Science , Sports and Culture of Japan , a grant from the Inamori Foundation , a grant from the Mochida Memorial Medical and Pharmaceutical Research Foundation , and a grant from the Ichiro Kanehara Foundation .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 U.S.C .
+Section 1734 solely to indicate this fact .
+The nucleotide sequence ( s ) reported in this paper has been submitted to DNA Data Bank of Japan , the GenBank `` `` /EBI Data Bank with accession number ( s ) ABOO7839 .
+{ f To whom correspondence should be addressed .
+Tel .
+: 81-8-5803-5795 ; Fax : 81-8-5808-0234 ; E-mail : naka.gene @ cmn.tmd.ac.jp .
+* The abbreviations used are : HTLV-I , human T cell leukemia virus type I ; IL-2 , interleukin 2 ; CAT , chloramphenicol acetyltransferase ; This paper is available on line at http : //www.jbc.org agent of adult T cell leukemia ( 1-3 ) and HTLV-I-associated myelopathy/tropical spastic paraparesis ( 4 , 5 ) .
+At least two regulatory molecules , Tax and Rex , are encoded by the HTLV-I genome ( 6 ) .
+Tax was initially found to be a trans-acting transcriptional activator of viral gene expression ( 7-9 ) and was subsequently shown to induce or enhance the expression of a myriad of cellular genes , most of which are implicated in cell growth .
+These include genes for growth factors ( interleukin 2 ( IL-2 ) and granulocyte/macrophage colony-stimulating factor ) ( 10-14 ) , growth factor receptors ( IL-2 receptor « and y sub-units ) ( 15-17 ) , a cytoplasmic signal mediator ( lyn ) ( 18 ) , and nuclear transcription factors ( c-fos and c-jun ) ( 19-21 ) .
+Modulation of expression of these genes is thought to be closely associated with disease .
+Nevertheless , the mechanisms of Tax-induced cellular gene expression and involvement in disease onset are yet to be elucidated .
+Analyses of target DNA sequences showed that three enhancer elements that bound to cyclic AMP-responsive element binding factor ( CREB/ATF ) ( 22-25 ) , NF- « B ( 26-28 ) , and serum-responsive factor ( 29 ) were activated by Tax .
+Tax itself can not bind directly to target DNA sequences , although it activates via direct association with the cellular transcription factors , cyclic AMP-responsive element binding factor , NF-kB and serum-responsive factor ( 29-32 ) , and an inhibitor of NF-kB , I « B ( 83 , 34 ) .
+We cloned a cellular gene encoding a type II membrane glycoprotein , named gp34 , which was expressed on HTLV-I-producing cells ( 35 , 36 ) .
+gp34 has been also shown to bind OXA40 , a marker of activated T cells , which is also expressed on HTLV cells ( 37-39 ) .
+Apart from HTLV-I-producing T cells , gp34 and OX40 are also expressed on activated normal T and B cells ( 388-40 ) .
+Transcriptional transactivation of the gp34 and OX40 genes by Tax has been demonstrated ( 36 , 41 ) .
+OX40 is a member of the tumor necrosis factor ( TNF ) receptor family , which includes FAS and CD40 ( 42 , 43 ) , and gp34 belongs to the TNF family ( 39 , 44 ) .
+Functions of the TNF receptor/ TNF and FAS/FAS ligand systems are well documented with regard to cell proliferation and apoptosis ( 43 ) .
+Defects of the CD40 ligand are associated with hyper-IgM syndrome ( 45-47 ) .
+Interestingly , unlike those molecules , gp34 and OX40 are not detected on the cell surface until lymphocytes are activated , suggesting that they function at later stages of lymphocyte activation and proliferation .
+However , little is known about the TPA , 12-O-tetradecanoylphorbol-l8-acetate ; PHA , phytohemaggluti-nin ; CREB/ATF , cyclic AMP -responsive element binding factor ; TNF , tumor necrosis factor ; bp , base pair ( s ) ; PIPES , 1,4-piperazinediethane-sulfonic acid .
+14119 610Z '01 Aepy uo 4g wo ; popeoumog 14120 function of the gp34/0X40 system .
+Recent studies indicate that both gp34 and OX40 transmit signals into the cytoplasm ( 38-40 , 48 ) .
+Unlike other cellular genes transactivated by HTLV-I Tax , gp34 is not induced on T cells by stimulation with mitogens , phorbol ester , or IL-2 ( 35 ) .
+These observations imply that the gp34/0X40 system may be involved in growth regulation of T cells during immune responses and in growth of HTLV-I-infected T cells .
+Thus , elucidation of the molecular mechanisms of gp34 and OX40 expression would be useful in understanding normal and cancerous proliferation of T cells .
+In this study , we analyzed the mechanism of Tax-induced transcriptional regulation of gp34 .
+Tax-induced gp34 transactivation was mediated through a unique NF- « B-like element that was not activated by phorbol ester .
+We detected a region upstream of the NF- « B-like element that suppressed transcription from cognate and noncognate core promoters .
+The array of these regions may contribute to the strict and complex regulation of gp34 expression in T cells .
+EXPERIMENTAL PROCEDURES Cells-TL-Mor ( 49 ) and MT-2 ( 50 ) are HTLV-I-producing human T cell lines .
+Jurkat ( 51 ) is a human acute lymphocytic leukemia T cell line negative for HTLV-I .
+JPX-9 is a Jurkat subline that stably carries Tax expression plasmid , in which expression of Tax is inducible by the addition of CdCl , ( 20 , 52 ) .
+Cells were cultured in RPMI 1640 medium supplemented with 10 % fetal calf serum , 10 mM L-glutamine , and antibiotics at 5 % CO , in air .
+DNA Cloning and Sequencing-A human genomic DNA library was constructed by introduction of Sau8AI partially digested genomic DNA from normal peripheral blood lymphocytes into the BamHI site of phage vector EMBL3 .
+The library ( 5 X 10° plaques ) was screened by plaque hybridization using the 5'-most EcoRI fragment of gp34 cDNA as a probe .
+Nucleotide sequencing was performed by the dideoxy chain termination method using Sequenase 2.0 ( United States Biochemicals ) according to the protocol recommended by the manufacturer .
+S1 Nuclease Mapping and Primer Extension-Total RNA was isolated from MT-2 and Jurkat cells by the guanidium thiocyanate method as described previously ( 58 ) .
+The probe used for S1 mapping was the 499-base pair ( bp ) Alul genomic DNA fragment .
+The end-labeled Alul fragment was annealed with 20 ug of RNA in 20 ul of solution containing 80 % formamide , 20 mM PIPES ( pH 6.4 ) , 0.5 mM EDTA , and 200 mM NaCl at 52 °C for 3 h after initial incubation at 85 °C for 5 min .
+The annealed products were digested with S1 nuclease ( 100 units ) in 100 ul of solution containing 270 mM NaCl , 1 mm ZnSO , , 30 mM sodium acetate ( pH 4.6 ) at 37 °C for 80 min .
+The reaction was terminated by phenol/chloroform extraction .
+DNA was ethanol-precipitated and analyzed by electrophoresis in an 8 % acrylamide sequencing gel with 7 M urea .
+The primer used for primer extension was a 30-mer oligonucleotide ( CTTGTTCCTCTCGAATCTTGGCCTGGCTGC ) corresponding to the 5'-end of the minus strand of the S1 mapping probe .
+End-labeled primer was annealed to 20 pg of RNA in 30 ul of solution containing 80 % formamide , 100 mM Tris-HCl ( pH 8.0 ) , 120 mM KCl , and 20 mM MgC ] , at 30 °C for 8 h after initial incubation at 85 °C for 5 min .
+The annealed product was ethanol-precipitated and resuspended in 20 pl of solution containing 50 mM Tris-HCl ( pH 7.6 ) , 60 mm KCl , 10 mm MgCl , , 1 mM dNTPs , 1 mM dithiothreitol , and 1 unit/ul human placental ribonuclease inhibitor .
+The extension reaction was initiated by adding 50 units of reverse transcriptase and incubated at 37°C for 2 h. The products were analyzed by electrophoresis along with the S1 mapping product .
+Size markers were sequencing ladders of the gp34 genomic DNA fragment using a 17-mer primer corresponding to the 5-end of the 30-mer oligonucleotide used for primer extension analysis .
+Plasmids-The 9-kbp fragment ( -9000 ) -Avall ( +27 ) ) upstream of the first exon of the gp34 gene was inserted in front of the chloramphenicol acetyltransferase ( CAT ) gene in a reporter plasmid , pSVOCAT ( 54 ) , to generate pGP ( -9000 ) CAT .
+Deletion mutants of both 5'- and 3'-ends of the genomic fragment were generated by digestion from restriction sites with exonuclease III and mung bean nuclease .
+The 5 deletion mutants were derived from pGP ( -92000 ) CAT .
+The 3 ' deletion mutants were prepared by insertion of a series of 3 ' deletion mutants of the -823 to -54 fragment into the -31 CAT reporter plasmid , pGP ( -81 ) CAT , which contained the 58-bp ( -81 to +27 ) genomic fragment .
+Plasmids with mutant fragments were named according to the numbers of the 5'- or 8'-end of the fragments .
+pGP ( -31 ) CAT was also used as a backbone vector to be introduced with HTLV-I Tax-mediated Activation of the gp34 Gene Promoter the -100 to -54 fragment , NF- « B-like elements 1 and 2 , and the HTLV-I enhancer fragment .
+The -100 to -54 fragment was introduced into the pGP ( -31 ) CAT plasmid in single form ( pGP ( -100~-54 ) CAT ) and four tandem repeat form ( pGP ( -100~-54 ) x4CAT ) .
+Similarly , NF-xB-like elements 1 and 2 were inserted into the pGP ( -31 ) CAT plasmid in single and four tandem repeat forms , yielding pGPxB1CAT , pGP « B2CAT , pGP « B1X4CAT , and pGPrB2X4 CAT , respectively .
+pHE ( -31 ) CAT is a derivative of the pGP ( -31 ) CAT plasmid carrying the 267-bp HTLV-I enhancer fragment ( 55 ) .
+pdHE4 is a CAT plasmid containing the HTLV-I core promoter ( 55 ) .
+pdHExB-4 carries four tandemly repeated SV40 NF- « B sites in pdHE4 ( 56 ) .
+pdHE ( -823~-54 ) CAT is a derivative of the pdHE4 having the -828 to -54 fragment of the gp34 gene promoter .
+pMAXneo is a Tax expression vector in which the Tax gene is regulated by the mouse metallothionein promoter , whereas pMAXneo/M is a nonfunctional Tax mutant ( 55 ) .
+Reexamination of the DNA sequence for the Tax mutant demonstrated that the mutant gene has a 3-base insertion at the Miul site in the coding region , rather than a 4-base insertion as reported initially ( 55 ) , resulting in a mutant with an additional Arg residue between amino acids 62 and 63 .
+Tax mutants TaxM22 , Tax703 , and Taxd8 , which are not effective in activation of the NF- « B , serum-responsive factor , and CREB/ATF binding sites , respectively , have been described previously ( 82 , 57 , 58 ) .
+Wild type Tax and these Tax mutant genes were cloned into pHBAPr-1-neo , which has a B-actin promoter ( 59 ) .
+CAT Assay-Plasmid DNA was transfected into Jurkat cells by the DEAE-dextran method and assayed for CAT activity as described previously ( 55 ) .
+CAT activities were shown as percent acetylation , and transactivation was expressed as fold induction of CAT activity with pMAXneo compared with that with pMAXneo/M .
+In CAT assays with 12-O-tetradecanoylphorbol-18-acetate ( TPA ) , TPA was added to cells transfected with CAT plasmids at a concentration of 20 nM , 12 h after transfection , and incubation was continued for a further 36 h. We also compared CAT activity with TPA to that without TPA .
+All CAT assays were carried out at least three times in duplicate .
+Repeated assays showed similar results , and representative data are presented .
+Gel Shift Assay-The gel shift assay was performed as described previously ( 56 ) .
+DNA probes were end-labeled with polynucleotide kinase and [ y-* `` P ] ATP ( 5000 Ci/mmol ; Amersham ) .
+Nuclear extracts were prepared from TL-Mor , Jurkat , and JPX-9 cells as described previously ( 56 ) .
+Oligonucleotides used as probes and competitors were as follows : bases-100~-54 .
+5'-cgatGAAAGAAAGTAAAGGGGAAATTCAGATTAGTCACAAAGAAGTTICCCCat-3 ' 3'-taCTTICITICATITCCCCTTITAAGTCTAATCAGTGTITICTITICAAGGGGtage-5 ' NF- « B-like element 1 .
+5'-cgatAAAGGGGAAATTCAGat-3 ' 3'-taTTTCCCCTTTAAGTCtage-5 ' NF- « B-like element 1 mutant .
+5'-cgatAAAGGAACAATTCAGat-3 ' 3'-taTTTCCTTGTTAAGTCtage-5 ' NF- « B-like element 2 .
+5'-cgatGCGGGGGAACTTCTTat-3 ' 3'-taCGCCCCCTTGAAGAAtage-5 ' NF- « B-like element 2 mutant .
+5'-cgatGCGGGAACACTTCTTage-5 ' 3'-taCGCCCTTGTGAAGAAtage-5 ' Typical NF- « B .
+5'-cgatAGAGGGGACTTTCCGat-3 ' 3'-taTCTCCCCTGAAAGGCtage-5 ' HTLV-I C26 .
+5'-cgatCCGGGAAGCCACCGGAACCACCTATTat-3 `` 3'-taGGCCCTTCGGTGGCCTTGGTGGATAAtage-5 ' HTLV-I 21-bp motif .
+5'-cgatAAGGCTCTGACGTCTCCCCCCat-3 ' 3'-taTTCCGAGACTGCAGAGGGGGGtage-5 ' Antibodies used for gel mobility supershift assay were anti-NF- « B p65 ( sc-372X ) , anti-NF-xB p50 ( sc-114X ) , anti-c-Rel ( sc-1827X ) , anti-RelB ( sc-226X ) , and anti-NF- « B p52 ( sc-298X ) antibodies ( Santa Cruz Biotechnology ) .
+610Z '01 Aepy uo 4g wo ; popeoumog HTLV-I Tax-mediated Activation of the gp34 Gene Promoter RESULTS Cloning of the gp34 Regulatory Region-In order to analyze the regulatory mechanism of gp34 gene transcription , we cloned the promoter region of the gp34 gene .
+A human genomic DNA library constructed with EMBL3 was screened with the 5'-most EcoRI fragment of the gp34 cDNA .
+Several positive clones were identified , and one clone , which contained sequences 9 kbp upstream of the ATG initiation codon for gp34 , was further analyzed .
+The promoter activity of this region was examined by CAT assays .
+The 9-kbp 5'-flanking fragment was isolated and ligated to the CAT reporter gene .
+CAT activity was examined with or without a Tax expression vector , pMAXneo , in the human Jurkat T cell line .
+As expected , in Jurkat cells , the 9-kbp fragment showed little or no promoter activity in the absence of Tax ( Fig .
+14 ) .
+Tax expression induced promoter activity of this fragment .
+Thus , the promoter of the gp34 gene was present in this region , and its activity was dependent on Tax .
+Experiments using 5 ' deletion mutants of the 9-kbp fragment showed that most , if not all , of the promoter activity was associated with the 850-bp KpnI-Avall fragment in the 9-kbp 5 ' -flanking region .
+The nucleotide sequence of the 850-bp fragment was then determined ( Fig .
+1B ) .
+To confirm that the transcriptional start site was contained in this fragment , S1 mapping and primer extension analyses were performed .
+Total RNA was isolated from an HTLV-I infected T cell line ( TL-Mor ) and an HTLV-I [ -unrelated T cell line ( Jurkat ) .
+RNA was hybridized with an S1 mapping probe of the 497-bp Alul genomic fragment .
+A 224-base fragment protected from nuclease digestion was detected using RNA from TL-Mor but not Jurkat cells ( Fig .
+1C ) .
+A product of the same size was observed using TL-Mor but not Jurkat RNA by primer extension analysis using a 30-mer primer with the same 5'-end as the minus strand of the 81 probe .
+These results showed that the transcriptional start site was located 154 bp upstream of the ATG initiation codon and that most of the promoter activity resided in the region extending from -824 to +27 .
+Sequence analysis showed that there were two NF-KB site-like sequences ( -87 to -77 and -64 to -54 ) and one AP-1 site-like sequence ( -74 to -68 ) between the two NF- « B-like sequences ( Fig .
+1B ) .
+Although a typical TATA box sequence was not found around 30 bp upstream of the transcriptional start site , it is possible that the TTAAA sequence located at -29 might be TATA-related .
+Promoter Activities of Deletion Mutants-In order to examine the function of each subregion in the regulatory region , a series of deletion mutants of the regulatory region was generated , and the mutants were assayed for their promoter activities with or without Tax .
+A 5'-end deletion ( up to -31 ) of the -824 to +27 fragment completely abolished Tax responsiveness ( Fig .
+2 ) .
+This -31 mutant retained the TATA-related sequence TTAAA and was thought to contain the core promoter as evidenced by the fact that addition of the HTLV-I enhancer to the -31 mutant restored Tax responsiveness .
+Thus , the core promoter of the gp34 gene seemed to be Tax-independent , and the upstream region appeared to be responsible for Tax-dependent activation .
+As expected , the -31 mutant linked to the -823 to -54 fragment exhibited the same CAT activity in response to Tax as did the -823 mutant .
+Combination of the -823 to -54 fragment with the HTLV-I core promoter also showed Tax-dependent activation .
+These results indicate that the region between -823 and -54 of the gp34 gene mediates transactivation by Tax .
+Note that the -31 mutant showed higher CAT activity than the -823 mutant in the absence of Tax .
+Similarly , the -823 to -54 fragment , when linked to the HTLV-I core promoter , significantly reduced CAT activity in the absence of Tax , although 14121 it endowed Tax-dependent activation .
+These results indicate that in addition to a region enhancing transcription in response to Tax , there is a region in the -823 to -54 fragment that suppresses basal transcription in the absence of Tax .
+The Tax-responsive region was further localized by CAT assays using 5 ' and 3 ' deletion mutants of the 5'-flanking fragment .
+A mutant with a -106 deletion at the 5'-end retained Tax responsiveness although it showed an increased inherent CAT activity without Tax .
+This result suggests that an element responsible for Tax-dependent activation is retained in a region downstream of -106 and that the suppressive activity is associated with a region upstream of -106 .
+To determine the 3'-border of the Tax-responsive region , a set of 3 ' deletion mutants of the -823 to -54 fragment were linked to the -31 mutant and assayed for their Tax-dependent activation .
+Addition of the -823 to -54 fragment to the -31 core CAT vector gave as high an activation ( more than 30-fold induction ) in response to Tax as did the native -823 to +27 fragment ( Fig .
+2 ) .
+A 3 ' mutant deleted to -57 exhibited a profoundly reduced response to Tax with induction of only 7.7-fold .
+Further deletion to -118 completely abolished Tax-dependent activation .
+Collectively , these results indicate that a Tax-responsive element is present in the region between -106 and -54 .
+Interestingly , all 3 ' deletion mutants exhibited reduced CAT activity as compared with the -31 mutant in the absence of Tax ( Fig .
+2 ) .
+This implies that suppressive activity is associated with a region upstream of -118 , consistent with observations from the 5 deletion mutants .
+Tax-responsive Element-To identify an element responsible for Tax-dependent activation , an isolated sequence from -106 to -54 was assayed for its ability to mediate Tax-dependent activation .
+The nucleotide sequence spanning bases -100 to -54 was synthesized and linked to the -31 mutant as either a single copy or four tandem repeats in the sense orientation , yielding pGP ( -100~-54 ) CAT and pGP ( -100~-54 ) x4CAT , respectively .
+Reporter plasmids were introduced into Jurkat cells and examined for CAT activity in the absence or presence of Tax .
+Introduction of one copy of the synthetic sequence reproducibly induced slight but significant activation in response to Tax with a 4-fold activation ( Fig .
+3A ) .
+Four tandem repeats mediated profound ( up to 90-fold ) Tax-dependent activation .
+Introduction of three tandem repeats in the antisense orientation induced 6-fold activation , demonstrating that the sequence from -100 to -54 contains an element ( s ) that functions as an enhancer and is transactivated by Tax .
+Sequence analysis revealed that there were two NF- « B binding site-related sequences in the region .
+These sequences were therefore possible candidates for the Tax-responsive element .
+We thus examined the NF- « B-like sequences for their ability to be activated by Tax .
+The wild type oligonucleotides ( NF - « B-like elements 1 and 2 ; see Fig .
+1B and Table I ) and their mutants ( NF- « B-like element 1 and 2 mutants ) were introduced into the -31 core CAT plasmid in the sense orientation in single copy and four tandem repeat form .
+Introduction of one copy of NF- « B-like elements 1 and 2 induced little or no activation in response to Tax .
+The tandem repeat form of NF- « B-like element 1 induced 14-fold activation .
+Mutation of NF- « B-like element 1 abolished Tax-dependent activation .
+Unexpectedly , four tandem copies of NF- « B-like element 2 exhibited CAT activity as low as its corresponding mutant in the presence of Tax .
+These results showed that NF- « B-like element 1 is , at least in part , a Tax-responsive element of the gp34 gene promoter .
+However , CAT activity induced by NF- « B-like element 1 in the presence of Tax was less than that induced by the original -100 to -54 fragment , suggesting that NF- « B-like 610Z '01 Aepy uo 4g wo ; popeoumog 14122 HTLV-I Tax-mediated Activation of the gp34 Gene Promoter Sau3Al Avail Kpnl Ays ) SaugAl Fold // 1 I ivi ﬁ // CAT Activity ( % ) Activation Exon 1 Tax 0 5 10 15 -3000 | -- /Z CAT 5.4 + -2700 I CAT 19.1 + -823 | -- -- -H_ CAT R 28.6 B L823 GGT ACCTGGTGTC TATTGATAGA -800 ATACCCTTAC TTTCCAAGTT CTGAGGCCAG CCACAACCTC AAAGAAAGAA ATAATCTTCA AAGCTTATTT ACATCTATTC ATTTGTTCAT TCATGGAAAA -700 ATTATGTACG GGAAAAATGT GAAGTGGAAG GAAAGGAGAC AAGGATACCC TTCTGCTTCT TTTCTGGTAT GCAGAAAATT AATCATATAA TTGTTTATTG -600 AATTTGCCTC AAAGGGTTAA ATGAGAGAAA GATTGCAAGT CCATCTAACA CAGTGTCTGA CACATAGTAA ATGCTTCCAA AAGGTAGTTT ATTTTTATGC -500 AATAGACTAC AACCAAGGAT CTCTCCTTTA CCTTCTGCAT GACCCAGTGT CCTATTTTCT TGTTTTGTCT TTTTCATTCA AGAATGATCT GTGTGTGCTT -400 TCTTTCTGAA TCTGTGAGAG GGGTTCAATG TTTAGTTACA TAGTAAAGTG CAGATAAGAA CCTTGGGCCA GCATTTCCCC TAAATCTTTT CTATGATTTA -300 AGACACCTTG GGGAAGGGAT ATATGAGCTG CTACATTAAC GGATGATGAT TTTTATCTTT ACCAAGTGAC CCACAATTTG TTACTGGTGC AATAAGTTAA -200 GAAAATAGCA TACTTTTATG ACTGTCATTT CACAGTCACT CAAATCAGAA CTGGAATGTC ACAAAAACAA CTCCCTGTTA GCCCAGAGGA AAAAAAAAAA xB like 1 AP-1 like xB like 2 -100 GAAAGAAAGT AAAGGGGAAA TTCAGATIAG TCACAAMGAA GTTCCCCCGC CTGCCTGCAA AAGTTGCAGC GTIAAAACTG AGAGAGTCCG CTTTGCTCTT +1 TCAATCGCCT TTTATCTCTG GCCCTGGGAC CTTTGCCTAT TTTCTGATTG ATAGGCTTTG TTTTGTCTTA CCTCCTTCTT TCTGGGAAAA CTCAGTTTTA +100 _ TCGCACGTTC CCCTTTTCCA TATCTTCATC TTCCCTCTAC CCAGATTGTG AAGATG C 1 23 4 PF a OL- « 1 | + OL+ Fig .
+1 .
+The regulatory region of the gp34 gene .
+A , Tax-dependent promoter activity of the gp34 gene .
+Jurkat cells were transfected with CAT reporter plasmids carrying the 9-kbp Seu8AI-Avall , 2.7-kbp Avall-Avall , and 850-bp KpnI-Avall fragments with and without pMAXneo and examined for CAT activity after 86 h of culture in the presence of 10 uM CdCl , .
+Restriction sites in the 5'-flanking region , first exon , and translation initiation codon are indicated .
+B , nucleotide sequence of the 5'-flanking region .
+The nucleotide sequence from the KpnI site to the initiation codon ( underlined ) is shown .
+The transcription initiation site determined from S1 nuclease mapping and primer extension is numbered +1 .
+NF- « B-like elements 1 and 2 are boxed .
+The AP-1 site-like sequence is double underlined .
+The TATA-like sequence is indicated by a dashed underline .
+C , transcriptional start site .
+RNA from Jurkat ( Zanes 1 and 3 ) and MT-2 ( Zanes 2 and 4 ) cells was subjected to S1 nuclease mapping ( lanes 1 and 2 ) and primer extension ( Zanes 3 and 4 ) .
+Size markers are sequencing ladders of the -flanking region using the same primer as for primer extension .
+element 1 is not sufficient for full Tax-mediated activation and that another sequence or proper organization of elements in the region may be required for full activity ( see below and under `` Discussion `` ) .
+To test this possibility , we introduced a mutation into either element 1 or element 2 in the -100 to -54 fragment .
+Neither CAT reporter constructs with element 1 mutant or element 2 mutant were activated by Tax ( Fig .
+34 ) .
+The results indicate that element 2 is critically involved in Tax-induced full activation , consistent with the results with the -823 to -69 fragment 610Z '01 Aepy uo 4g wo ; popeoumog HTLV-I Tax-mediated Activation of the gp34 Gene Promoter CAT Activity ( % ) n etustion 0 5 10 15 i -323 .
+C. T_ I 16.9 516. mms ( __ I 15.6 -- _ mm I 163. me- ___ 8.6 __J f im ] -106. meum 4.5 om 31 @ { ___ | 1.4 _. HTLV-I Enh .
+.
+- 6.4 oo HTLV-I Core Prom .
+.
+( eee 1.2 ooo 54 [ d 823. memes 7777777777727 ) | e 3.2 54 I 823 _— -- | pe os -57 I sommes - is-ma 7.7 -69 ___ | L___________ L a 3.0 ~89 - I CI -Ta = l— I - Tax 2-1 118 I mmm -- in | ___ | _ 1.0 Fic .
+2 .
+Analysis of deletion mutants of the gp34 gene regulatory region .
+Progressive 5 ' or 3 ' deletion mutants of the gp34 promoter are schematically illustrated .
+Fragments of the upstream region of gp34 gene are shown as solid boxes .
+The HTLV-I enhancer and HTLV-I core promoter are indicated by § and & , respectively .
+These reporter plasmids were co-transfected into Jurkat cells with or without the Tax expression vector pMAXneo and assayed for CAT activity .
+( Fig .
+2 ) .
+In addition , Tax mutants differing in properties in activation of target elements , NF- « B , CREB/ATF , and serum-responsive factor binding sites , were examined for their ability to activate the gp34 promoter .
+The CAT reporter plasmid ( -823 ) was transfected into Jurkat cells along with Tax mutant expression vectors TaxM22 ( M22 ) , Tax703 ( 703 ) , and Taxd3 ( d3 ) , which are not effective in activation of the NF-KB , serum-responsive factor , and CREB/ATF binding sites , respectively .
+Tax mutants 703 and d3 , but not M22 , were able to activate the gp34 promoter ( Fig .
+3B ) , as expected , suggesting the implication of the NF- « B activation pathway in gp34 gene expression .
+Cellular Factor ( s ) Bound to the Tax-responsive Element-To investigate the cellular factor ( s ) that bind to the Tax-responsive element and to examine effects of Tax on such factor ( s ) , we performed gel mobility shift assays using nuclear extracts from HTLV-I-expressing TL-Mor cells and HTLV -I-unrelated Jurkat cells .
+When the -100 to -54 fragment was used as a probe , a clear shifted band was observed with TL-Mor nuclear extract but not Jurkat nuclear extract ( Fig .
+44 ) .
+The shifted complex was specific to the fragment because complex formation was competed away by addition of excess cold probe but not by unrelated competitors such as the 21-bp motif sequence in the HTLV-I enhancer .
+As expected , addition of either a typical NF- « B consensus sequence or NF- « B-like element 1 abolished complex formation , suggesting that the factor ( s ) that interacts with the -100 to -54 fragment is an NF- « B-related mole-cule ( s ) .
+Surprisingly , this complex formation was also competed away by NF- « B-like element 2 , which was not Tax-responsive by itself in CAT assays ( Fig .
+44 ) .
+Gel shift assays were similarly performed using NF- « B-like elements 1 and 2 as probes .
+Combination of NF- « B-like element 1 and TL-Mor nuclear extract , but not Jurkat nuclear extract , resulted in complex formation ( Fig .
+4B ) .
+This binding 14123 was competed away by the typical NF- « B sequence and also by NF- « B-like element 2 .
+NF- « B-like element 2 essentially showed the same pattern of complex formation as NF- « B-like element 1 ( Fig .
+4B ) .
+Mutant sequences of NF- « B-like elements 1 and 2 were not effective in complex formation even with TL-Mor nuclear extract ( data not shown ) .
+That binding activity was observed only with nuclear extracts of TL-Mor indicates that the binding activity was Tax-induced .
+This notion was confirmed by observations with the Tax-inducible T cell line , JPX-9 , in which induction of Tax expression resulted in induction of complex formation with NF- « B-like elements 1 and 2 ( Fig .
+4C ) .
+Thus , Tax induces gp34 gene expression , at least in part , through binding of NF- « B-like factor ( s ) to NF- « B-like elements in the enhancer .
+Bands representing the complex between elements 1 and 2 and NF- « B-like factors showed very close migration by electrophoresis to that with the typical NF-kB sequence ( Fig .
+4D ) .
+Furthermore , to identify factors bound to gp34 gene NF - « B-like elements , we performed gel shift assay using antibodies specific for members of the NF- « B family .
+Supershifts were seen with anti-p65 , anti-p50 , and anti-RelB antibodies in both elements 1 and 2 , illustrating that the complex with elements 1 and 2 contains p50 and p65 subunits of NF- « B and RelB , as shown with the consensus NF- « B sequence ( Fig .
+46 ) .
+Because a typical NF- « B binding site is activated by TPA in Jurkat cells , we examined whether NF- « B-like element 1 in the gp34 promoter region was affected by TPA .
+Jurkat cells were transfected with CAT reporter plasmids and , 12 h later , treated with 20 ny TPA .
+The four tandem repeat form of NF- « B-like element 1 did not respond to TPA ( Fig .
+5A ) , in contrast to responsiveness of the same fragment to Tax , although treatment of Jurkat cells with TPA induced complex formation with elements 1 and 2 in gel shift assay similar to TL-Mor ( Fig .
+5B ) .
+Consistent with this , the native gp34 promoter fragment ( -823 to +27 ) and the -100 to -54 fragment with the -31 core promoter linked to the CAT plasmid did not show appreciable elevation of CAT activity in response to TPA .
+Upstream Suppressive Region-Several lines of evidence as shown above suggest that there is a negatively acting sequence upstream of the NF- « B-like elements .
+To examine this notion , we tested whether the isolated upstream sequence demonstrated suppressive effects .
+The upstream fragment spanning bases -823 to -155 was introduced into the -113 and -105 deletion mutants ( pGP ( -113 ) CAT and pGP ( -105 ) CAT ) , which retained the NF- « B-like elements .
+The -113 mutant exhibited CAT activities of 7.8 and 3.6 % conversions with and without Tax , respectively , showing 2.2-fold activation .
+Introduction of the upstream fragment reduced CAT activities to 2.4 and 0.26 % in the presence and absence of Tax , respectively , resulting in 8.8-fold activation ( Fig .
+6 ) .
+Similar results were observed with the -105 mutant construct , which showed an increase in fold activation from 2.7 to 5.6 by introduction of the upstream sequence .
+The -31 mutant , carrying only the core promoter , showed basal promoter activity irrespective of Tax ; however , addition of the upstream sequence significantly reduced the promoter activity .
+These results illustrated that the upstream sequence , which lacks Tax responsiveness can suppress basal promoter activity .
+Thus , the upstream fragment reduced CAT activity to a greater extent in the absence of Tax than in its presence , generating a higher activation in response to Tax .
+Alterna-tively , Tax may be able to relieve the suppressive effect of the upstream fragment .
+DISCUSSION Initial studies of gp34 demonstrated that its expression was restricted to cells expressing HTLV-I .
+It was therefore specu- 610Z '01 Aepy uo 4g wo ; popeoumog 14124 HTLV-I Tax-mediated Activation of the gp34 Gene Promoter Fold A CAT Activity ( % ) n ecfrstion 0 20 40 60 80 -31 EMH CAT 1.4 ( -100 -- 54 ) me -_ 4.5 ( -100~-54 ) - = 1.8 ( -100~-54 ) - mee - [ __ 1.8 ( -100~-54 ) eam ~~ 1.6 ( -100~-54 ) x 4 94.0 ( -100~-54 ) R x 3 - ( -= [ =~ < = < r [ _ 5.8 [ I NF-x8 like 1 .
+( RR ___ a 1 .
+=x [ =+ |= > B- ___ NF-xB like 1 x 4 i 14.0 I NF-xB like 1 Mut x 4 _ 1.5 a 8 NF-x8 like 2 RM ___ & 1.0 a. NF-xB lik g F-xB like 2 x 4 - ___ *** HH +7 1.6 = % g NF-xB like 2 Mut x 4 1.1 g HTLV-I Core Prom .
+: | Uy , NF-x8 x 4 12.6 @ mp ___| § 49 .
+B CAT Activity ( % ) Fold Activation 4 Tax E o 100 200 30 40 50 60 2 o 3 # < & wT 38 5 +27 3 -823 CAT .
+M22 3.8 G 703 27 d3 35 wT 42 HTLV-I Core Prom .
+NF- « 8x4 ] H M22 1.5 703 42 d3 42 Fic .
+3 .
+Involvement of NF- « B pathway in Tax-mediated activation of the gp34 promoter .
+A , Tax-responsive region in the gp34 gene regulatory region .
+CAT reporter plasmids were transfected into Jurkat cells together with or without pMAXneo .
+Cells were then cultured in the presence of CdCl , for 36 h and CAT activity in the cell lysates was determined .
+The reporter plasmids carried the isolated -100 to -54 fragment and synthesized NF- « B-like elements 1 and 2 in single and tandem repeat forms in a CAT reporter plasmid pGP ( -31 ) CAT with the gp34 core promoter .
+Mutant fragments of NF- « B-like elements 1 and 2 , indicated by dotted arrows , were similarly tested .
+CAT activities in cells with and without pMAXneo were compared .
+B , responsiveness of the gp34 promoter to Tax mutants .
+pGP ( -823 ) CAT was cotransfected along with vectors for wild type Tax ( pMT2Tax ) ( WT ) or Tax mutants TaxM22 , Tax703 and Taxd8 into Jurkat cells , and CAT activity in the cell lysates was determined .
+pHBAPr-l-neo was used as a control .
+HTLV-I Tax-mediated Activation of the gp34 Gene Promoter TaBLE I Nucleotide sequences of the NF- « B binding sites Ref .
+gp34 NF- « B-like 1 GGGGAAATTCA gp34 NF- « B-like 2 GGGGAACTTCT HTLV-I C26 GGTGGcTTCCcC 60 Immunoglobulin GGGGACTTTCC 64 SV40 GGGGACcTTTCC 56 HIV* GGGGACcTTTCC 65 HIV AGGGACTTTCC 65 * HIV , human immunodeficiency virus .
+lated that gp34 was a product of HTLV-I , because treatment with phytohemagglutinin ( PHA ) , which is thought to mimic antigen-dependent stimulation , was not effective in inducing gp34 expression in normal human T cells and T cell lines ( 35 ) .
+However , we previously demonstrated that gp34 is encoded by a cellular gene that is a target of the transcriptional transactivation function of HTLV-I Tax ( 86 ) .
+Tax activates several cellular genes , most of which are involved in cellular signals for growth .
+gp34 differs from other cellular genes transactivated by Tax in that other Tax-responsive genes , such as the gene for IL-2 receptor a chain , the gene for IL-6 , c-fos , and c-jun , are induced by mitogens , phorbol ester , ionophores , and IL-2 , whereas gp34 is not .
+gp34 is expressed on normal T and B cells activated by antigen stimulation and physically associates with OX40 ( 38-40 and unpublished data ) .
+OX40 has also been shown to be transcriptionally activated by Tax ( 41 ) .
+Recently , gp34 and OX40 have been shown to transduce intracytoplasmic signals upon association ( 38-40 ) , implying that the gp34/OX40 system may be involved in the growth of normal and malignant T cells .
+In this report , we examined the gp34 gene promoter region that is transactivated by Tax .
+Our data provide important features of the transcriptional regulatory mechanism of the gp34 gene .
+First , transactivation of the gp34 gene by Tax is mediated through a 46-bp sequence carrying two NF- « B-like elements .
+An increase in binding of the NF- « B family members to the elements could be a mechanism for transactivation .
+Second , the upstream region can suppress promoter-driven basic transcription .
+Two distinct NF- « B-like sequences exist in the Tax-responsive region of gp34 .
+Both sequences bound the NF- « B family members in Tax-expressing cell extracts in vitro ; however , two elements seemed to be different in binding affinity of the NF- « B family members : element 1 showed higher affinity than element 2 .
+This may be one reason that NF- « B-like element 1 alone , when repeated , is sufficient for conferring Tax responsiveness , whereas no Tax-induced activation was seen with NF- « B-like element 2 , even with the tandemly repeated form .
+It is thus obvious that there is a functional difference between NF-B-like elements 1 and 2 .
+NF- « B-like element 1 behaves much like typical NF- « B sites in the SV40 early promoter and human immunodeficiency virus long terminal repeat ( Table I ) , both of which are transactivated by Tax via increased binding of NF- « B ( 27 , 56 ) .
+NF- « B-like element 1 differs in sequence by three bases from the SV40 NF- « B site .
+NF- « B-like element 2 also has three base substitutions from the SV40 NF- « B site , which are also distinct from those in NF- « B-like element 1 .
+The NF- « B-like element l-mediated response to Tax in a tandemly repeated form was much lower than the native -100 to -54 fragment , which carries one copy of NF- « B-like elements 1 and 2 .
+The three base substitutions in NF- « B element 1 may reduce binding affinity to the NF- « B family members ( see Fig .
+4D ) , resulting in a weaker response to Tax than the typical NF- « B site .
+This result suggests a possible participation 14125 of another element ( s ) in Tax-induced gp34 activation .
+Coexistence of NF- « B-like elements 1 and 2 in the -100 to -54 fragment may stabilize the association between the factors and DNA elements , presumably efficiently , to render the complex active .
+A particular configuration of NF- « B and its binding sites may be required for active transcription .
+The location of NF- « B-like elements 1 and 2 , with a space between them , may be adequate for formation of complexes of binding factors and DNA elements .
+NF- « B-like element 2 is reminiscent of another NF- « B-like element , the C26 element in the HTLV-I enhancer ( 60 ) .
+This element has also been shown to bind an NF- « B-like factor but does not activate transcription in response to Tax by itself , even in tandem repeat form , whereas it can cooperate with Tax to augment transactivation of the 21-bp motif in the HTLV-I enhancer .
+The C26 element also differs by three bases from the typical NF- « B sequence , and it competed partially in complex formation with NF- « B-like elements 1 and 2 ( Fig .
+4B ) .
+Apart from NF- « B-like elements 1 and 2 , there may be other elements in the -100 to -54 fragment that are involved in activation by Tax .
+An AP-1 site-like sequence between NF- « B-like elements 1 and 2 may be effective in formation of more stable configuration of the factor/DNA element complex .
+This may involve a factor bound to the AP-1 site-like element .
+This notion is supported by recent observations of functional interactions between NF- « B and other cellular transcription factors , for example , C/EBP , the ATF family , and Jun/Fos ( 61-63 ) .
+NF- « B-like element 2 of the gp34 gene and the C26 element in the HTLV-I enhancer may constitute a new subfamily of NF- « B binding sites , which can not activate transcription despite being able to bind NF- « B and augment transcription by cooperation with other enhancers .
+Many transcriptional regulatory regions containing NF- « B binding sites are activated by TPA .
+In this context , the NF- « B-like elements of the gp34 gene are unique in that they are not activated by TPA treatment , even though complex formation with the elements was induced by treatment of Jurkat cells with TPA .
+This presumably accounts for the unresponsiveness of the native gp34 promoter to TPA and further suggests unresponsiveness of the gp34 gene to PHA .
+Stimulation with PHA is generally accepted to mimic antigen stimulation .
+Indeed , parameters of T cell activation , such as IL-2 production , nuclear oncogene expression , and cell proliferation , are indistinguishable between antigen and PHA stimulation .
+However , gp34 differs in that its expression is not induced in normal T cells and T cell lines by PHA stimulation .
+We found transcriptionally suppressive activity associated with the upstream region .
+This region alone profoundly prevented basic promoter activity .
+The suppression was independent of the core promoter .
+Tax appeared not to affect the suppressive region by itself .
+The strictly regulated gp34 expression may be attributed to the suppressive activity of the upstream region .
+Exactly how the upstream sequence suppresses transcription is presently unknown .
+Further experiments are required to precisely identify the suppressive region and factor ( s ) associated with such a region .
+Kinetics of Tax-induced gp34 expression were far slower than those of other genes induced by Tax ( 86 ) .
+Our results indicate that the intrinsic gp34 promoter has weak activity even in the presence of Tax ( Fig .
+1A ) .
+Sequences upstream of -823 may contain some other suppressive activity because the -9000 fragment exhibited lower promoter activity than the -2700 and -823 fragments .
+In addition , a preliminary Northern blot demonstrated that the half-life of gp34 mRNA was quite long ( 12-24 h ) . ``
+Taken together , it is likely that gp34 2 K. Ohtani and M. Nakamura , unpublished data .
+610Z '01 Aepy uo 4g wo ; popeoumog HTLV-I Tax-mediated Activation of the gp34 Gene Promoter 14126 TL-Mor Extract Extract E ¢ Oui Bx-4N 5 3 TL-Mor F iz uH 970 FATLH @ -aN ini £ 9411 @ -1 9x11 @ x-4N in 2 oll z sull @ -a4Nn Competitor E 7 !
+£ # 11 12 FPMLH 979 FTLH @ rean .| .
+10W 2 941 @ +-4N m 2 oxi @ -4N 2 WNW 1 OH ! ]
+L 9M Extract Competitor 12 FAMTLH 929 FATLH ini 2 0x1 ] g*-4N coun gx -- n $ nw Lown gx-3Nn fp Lox !
+gx-4N # ( rs-~o01- ) | Competitor Downloaded from http : //www by guest on May 10 , 2019 11 12 2 8 4 5 6 7 8 9 10 1 § 6 7 80 9 10 1112 2 3 4 Element 2 Element 1 2 3 4 5 6 7 8 9 10 11 12 1 TL-Mor Extract Element 2 Element 1 Competitor JON TL 10W ( + ) 6-XaP ( + ) 6-XaP ( - ) 6-xar JOW TL JOW-T. ( + ) 6-XdP ( + ) 6-XaP { - ) 6-xar Extract Competitor Typical NF-kB Element 2 € © E ® w asd 1 gick P ley-o ® osd R g9d I - 1 2gd 8 194 | ogd * god oquo9 asd !
+g lod ( ley-o 4 Antibodies l < < -- .
+b - » Element 2 Typical NF-xB Element 1 Fig .
+4 .
+HTLV-I Tax-mediated Activation of the gp34 Gene Promoter 14127 yx Fold CAT Activity ( % A £86 ) Activation 20 40 +27 s23 & am | CAs 0.9 [ ] -tra -31 He- ___ 1.1 | n ( -100~-54 ) - ( = > -I- ___ 1 .
+NF- B like 1 x 4 _ [ wt [ mate [ mad [ mt | 0.6 NF-xB like 2 x 4 | 1.0 HTLV-I Core Prom .
+___ Copppopaf _C ~*~ 5.0 | 610Z '01 Aepy uo 4g wo ; popeoumog Element 1 Element 2 | 1 1 EE .
+ff Extract -P p 5 5 q Fl 3 3 Competitor ooc JV .
+Fic .
+5 .
+Effect of TPA on the gp34 gene regulatory region .
+A , no activation of gp34 promoter by TPA .
+CAT reporter plasmids were transfected into Jurkat cells .
+Cells were cultured with 20 nM TPA for 36 h , and CAT activities were compared between TPA-treated and untreated cells .
+B , TPA-induced complex formation of Jurkat extract with NF- « B-like elements .
+NF-xB-like element 1 or 2 was mixed with extracts from TL-Mor and Jurkat cells treated with 20 nM TPA for 7 h. Specific binding with the same mobility as TL-Mor extract is indicated by an arrow .
+Fig .
+4.Tax-dependent binding of NF- « B-like factor ( s ) to the Tax-responsive elements .
+A and B , complex formation between the Tax-responsive element and NF- « B-like factor ( s ) .
+Nuclear extracts of TL-Mor ( Zanes 2-10 ) and Jurkat ( Zanes 11 and 12 ) were mixed with the -100 to -54 fragment ( A ) , NF- « B-like element 1 , or NF- « B-like element 2 ( B ) .
+Lane 1 , no nuclear extract .
+The protein-DNA fragment complexes were separated on a 4 % nondenaturing polyacrylamide gel .
+Competitors used were the -100 to -54 fragment , NF- « B-like element 1 , NF- « B-like element 1 mutant , NF- « B-like element 2 , and NF- « B-like element 2 mutant .
+The C26 element and 21-bp motif of the long terminal repeat of HTLV-I were also used as competitors .
+Competitor fragments were added at a 100-fold molar excess .
+Specific bands are indicated by arrows .
+C , Tax-dependent binding activity to the NF- « B-like elements .
+Nuclear extracts of JPX-9 cells treated with or without CdCl , ( 20 nm CdCl , for 24 h ) were mixed with NF- « B-like element 1 or 2 .
+The same element was used as a competitor for each probe .
+The band with the same mobility as that with TL-Mor extract is indicated by an arrow .
+D , the same mobility of complexes with NF- « B-like elements as with typical NF-KB site .
+TL-Mor extract was mixed either with NF- « B-like element 1 or 2 or with a typical NF- « B binding site .
+The same element was used as a competitor for each probe .
+The band with the same mobility is indicated by an arrow .
+E , gel mobility supershift assay with antibodies against NF-B family members .
+Gel shift assay reaction mixtures containing TL-Mor extract and indicated antibodies were incubated for 3 h , and then a probe , NF-xB-like element 1 or 2 , or a typical NF- « B binding site was added .
+Supershifted bands with anti-NF-xB p65 , anti-NF- « B p50 , and anti-RelB antibodies are indicated by arrows with a , b , and c , respectively .
+14128 HTLV-I Tax-mediated Activation of the gp34 Gene Promoter mas Fold CAT Activity ( % ) Activation oe b 0 pug s27 ___ ] 413 C -- -- H car 2.2 p Fic .
+6 .
+Suppressive effects of the 154 | upstream region of the gp34 gene 823 { ___ m 8.3 regulatory region .
+The upstream fragment ( -828 to -154 ) was inserted into j pGP ( -113 ) CAT , pGP ( -105 ) CAT , and 105 C -- -- H 2.7 pGP ( -31 ) CAT .
+These plasmids were _ transfected into Jurkat cells with and without pMAXneo .
+Cells were cultured `` 154 with CdCl , for 36 h , and CAT activity was 823 e |7 5.6 measured .
+m [ ] -tax 31 CH 1.1 - + Tax -154 +2 .
+- - ( ___ 1.5 mRNA requires a couple of days to accumulate to a sufficient level for detection by Northern blotting , and thereafter , expression is maintained at that level for a certain period .
+This may reflect the function of gp34 , although the essential role of the gp34/0X40 system remains obscure .
+gp34 is induced during immune activation , and the inducible mechanism of the gp34 gene is strictly controlled .
+OX40 is also inducible , unlike other members of the TNF receptor family ( FAS , TNF receptor , and CD40 ) .
+Thus , production of gp34 may be important in either maintaining or terminating immune reactions .
+Acknowledgments-We are grateful to Dr. T. Kanno for helpful dis-cussion .
+We thank Drs .
+M. Yoshida , T. Akagi , and W. Green for providing Tax mutant plasmids ; Y. Matsumura for technical assistance ; and H. Shimizu for assistance in the preparation of the manuscript .
+REFERENCES 1 .
+Hinuma , Y. , Nagata , K. , Hanaoka , M. , Nakai , M. , Matsumoto , T. , Kinoshita , K. L. , Shirakawa , S. , and Miyoshi , I .
+( 1981 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+78 , 6476-6480 2 .
+Poiesz , B. J. , Ruscetti , F. W. , Gazdar , A. F. , Bunn , P. A. , Minna , J. D. , and Gallo , R. C. ( 1980 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+77 , 7415-7419 3 .
+Yoshida , M. , Miyoshi , I. , and Hinuma , Y .
+( 1982 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+79 , 2031-2035 4 .
+Gessain , A. , Barin , F. , Vernant , J. C. , Gout , O. , Maurs , L. , Calender , A. , and de The , G. ( 1985 ) Lancet 2 , 407 5 .
+Osame , M. , Igata , A. , Usuku , K. , Rosales , R. L. , and Matsumoto , M. ( 1986 ) Lancet 1 , 1031 .
+Nagashima , K. , Yoshida , M. , and Seiki , M. ( 1986 ) J. Virol .
+60 , 894-399 .
+Felber , B. K. , Paskaris , H. , Kleinman-Ewing , C. , Wong-Staal , F. , and Pavlakis , G. N. ( 1985 ) Science 229 , 675-679 8 .
+Sedroski , J. , Rosen , C. , Goh , W. C. , and Haseltine , W. ( 1985 ) Science 228 , 1430-1484 9 .
+Seiki , M. , Inoue , J. , Takeda , T. , and Yoshida , M. ( 1986 ) EMBO J .
+5 , 561-565 10 .
+Ruben , S. , Poteat , H. , Tan , T. H. , Kawakami , K. , Roeder , R. , Haseltine , W. , and Rosen , C. A .
+( 1988 ) Science 241 , 89-92 11 .
+Li , M. , and Siekevitz , M. ( 1993 ) Mol .
+Cell .
+Biol .
+18 , 6490-6500 12 .
+McGuire , K. L. , Curtiss , V. E. , Larson , E. L. , and Haseltine , W. A .
+( 1993 ) J. Virol .
+67 , 1590-1599 13 .
+Himes , S. R. , Coles , L. S. , Katsikeros , R. , Lang , R. K. , and Shannon , M. F. ( 1993 ) Oncogene 8 , 3189-3197 14 .
+Nimer , S. ( 1991 ) New Biol .
+8 , 997-1004 15 .
+Inoue , J. , Seiki , M. , Taniguchi , T. , Tsuru , S. , and Yoshida , M. ( 1986 ) EMBO J .
+5 , 2883-2888 16 .
+Maruyama , M. , Shibuya , H. , Harada , H. , Hatakeyama , M. , Seiki , M. , Fujita , T. , Inoue , J. , Yoshida , M. , and Taniguchi , T. ( 1987 ) Cell 48 , 848-350 17 .
+Ohbo , K. , Takasawa , N. , Ishii , N. , Tanaka , N. , Nakamura , M. , and Sugamura , K. ( 1995 ) J. Biol .
+Chem .
+270 , 7479-7486 18 .
+Uchiumi , F. , Semba , K. , Yamanashi , Y. , Fujisawa , J. , Yoshida , M. , Inoue , K. , Toyoshima , K. , and Yamamoto , T. ( 1992 ) Mol .
+Cell .
+Biol .
+12 , 3784-3795 19 .
+Fujii , M. , Sassone , C. P. , and Verma , I. M. ( 1988 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+85 , 8526-8530 20 .
+Nagata , K. , Ohtani , K. , Nakamura , M. , and Sugamura , K. ( 1989 ) J. Virol .
+63 , 3220-3226 21 .
+Fujii , M. , Niki , T. , Mori , T. , Matsuda , T. , Matsui , M. , Nomura , N. , and Seiki , M. ( 1991 ) Oncogene 6 , 1023-1029 22 .
+Jeang , K. T. , Shank , P. R. , and Kumar , A .
+( 1988 ) Proc .
+Natl .
+Acad .
+Sei .
+U. S. A .
+85 , 8291-8295 28 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43. .
+Gruss , H. J. , and Dower , S. K. ( 1995 ) Blood 85 , 3878-3404 45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+Nakamura , M. , Niki , M. , Ohtani , K. , and Sugamura , K. ( 1989 ) Nucleic Acids Res .
+17 , 5207-5221 Poteat , H. T. , Chen , F. Y. , Kadison , P. , Sodroski , J. G. , and Haseltine , W. A .
+( 1990 ) J. Virol .
+64 , 1264-1270 Tan , T. H. , Horikoshi , M. , and Roeder , R. G. ( 1989 ) Mol .
+Cell .
+Biol .
+9 , 1733-1745 Ballard , D. W. , Bohnlein , E. , Lowenthal , J. W. , Wano , Y. , Franza , B. R. , and Greene , W. C. ( 1988 ) Science 241 , 1652-1655 Bohnlein , E. , Lowenthal , J. W. , Sickevitz , M. , Ballard , D. W. , Franza , B. R. , and Greene , W. C. ( 1988 ) Cell 58 , 827-836 Leung , K. , and Nabel , G. J .
+( 1988 ) Nature 888 , 776-778 Fujii , M. , Tsuchiya , H. , Chubjo , T. , Akizawa , T. , and Seiki , M. ( 1992 ) Genes Dev .
+6 , 2066-2076 Zhao , L. J. , and Giam , C. Z .
+( 1992 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+89 , 7070-7074 Suzuki , T. , Fujisawa , J. L. , Toita , M. , and Yoshida , M. ( 1993 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+90 , 610-614 Suzuki , T. , Hirai , H. , Fujisawa , J. , Fujita , T. , and Yoshida , M. ( 1993 ) Oncogene 8 , 2391-2397 Hirai , H. , Fujisawa , J. , Suzuki , T. , Ueda , K. , Muramatsu , M. , Tsuboi , A. , Arai , N. , and Yoshida , M. ( 1992 ) Oncogene 7 , 1737-1742 Watanabe , M. , Muramatsu , M. , Hirai , H. , Suzuki , T. , Fujisawa , J. , Yoshida , M. , Arai , K. , and Arai , N. ( 1998 ) Oncogene 8 , 2949-2958 Tanaka , Y. , Inoi , T. , Tozawa , H. , Yamamoto , N. , and Hinuma , Y .
+( 1985 ) Int .
+J .
+Cancer 86 , 549-555 Miura , S. , Ohtani , K. , Numata , N. , Niki , M. , Obbo , K. , Ina , Y. , Gojobori , T. , Tanaka , Y. , Tozawa , H. , Nakamura , M. , and Sugamura , K. ( 1991 ) Mol .
+Cell .
+Biol .
+11 , 1313-1325 Paterson , D. J. , Jefferies , W. A. , Green , J. R. , Brandon , M. R. , Corthesy , P. , Puklavec , M. , and Williams , A. F. ( 1987 ) Mol .
+Immunol .
+24 , 1281-1290 Baum , P. R. , Gayle , R. B. r. , Ramsdell , F. , Srinivasan , S. , Sorensen , R. A. , Watson , M. L. , Seldin , M. F. , Baker , E. , Sutherland , G. R. , Clifford , K. N. , Alderson , M. R. , Goodwin , R. G. , and Franslow , W. C. ( 1994 ) EMBO J .
+18 , 3992-4001 Godfrey , W. R. , Fagnoni , F. F. , Harara , M. A. , Buck , D. , and Engleman , E. G. ( 1994 ) J. Exp .
+Med .
+180 , 757-762 Stuber , E. , Neurath , M. , Calderhead , D. , Fell , H. P. , and Strober , W. ( 1995 ) Immunity 2 , 507-521 Higashimura , N. , Takasawa , N. , Tanaka , Y. , Nakamura , M. , and Sugamura , K. ( 1996 ) Jpn .
+J .
+Cancer Res .
+87 , 227-281 Mallett , S. , Fossum , S. , and Barclay , A. N. ( 1990 ) EMBO J .
+9 , 1063-1068 Smith , C. A. , Farrah , T. , and Goodwin , R. G. ( 1994 ) Cell 76 , 959-962 Allen , R. C. , Armitage , R. J. , Conley , M. E. , Rosenblatt , H. , Jenkins , N. A. , Copeland , N. G. , Bedell , M. A. , Edelhoff , S. , Disteche , C. M. , Simoneaux , D. K. , Fanslow , W. C. , Belmont , J. , and Springgs , M. K. ( 1993 ) Science 259 , 990-993 Aruffo , A. , Farrington , M. , Hollenbaugh , D. , Li , X. , Milatovich , A. , Nonoyama , S. , Bajorath , J. , Grosmaire , L. S. , Stenkamp , R. , Neubauer , M. , Roberts , R. L. , Nuelle , R. J. , Ledbetter , J .
+A. , Francke , U. , and Ochs , H. D. ( 1993 ) Cell 72 , 291-300 DiSanto , J. P. , Bonnefoy , J. Y. , Gauchat , J. F. , Fischer , A. , and de Saint Basile , G. ( 1993 ) Nature 361 , 541-543 Stuber , E. , and Strober , W. ( 1996 ) J. Exp .
+Med .
+183 , 979-989 Sugamura , K. , Fujii , M. , Kannagi , M. , Sakitani , M. , Takeuchi , M. , and Hinuma , Y .
+( 1984 ) Inf .
+J .
+Cancer 84 , 221-228 Miyoshi , I. , Kubonishi , I. , Yoshimoto , S. , Akagi , T. , Ohtsuki , Y. , Shiraishi , Y. , Nagata , K. , and Hinuma , Y .
+( 1981 ) Nature 294 , 770-771 Kaplan , J. , Tilton , J. , and Peterson , W. D. , Jr. ( 1976 ) Am .
+J. Hematol .
+1 , 219-223 Ohtani , K. , Nakamura , M. , Saito , S. , Nagata , K. , Sugamura , K. , and Hinuma , Y .
+( 1989 ) Nucleic Acids Res .
+17 , 1589-1604 Sakitani , M. , Nakamura , M. , Fujii , M. , Sugamura , K. , and Hinuma , Y .
+( 1987 ) Virus Genes 1 , 85-47 610Z '01 Aepy uo 4g wo ; popeoumog 54 .
+55 .
+56 .
+57 .
+58 .
+59 .
+HTLV-I Tax-mediated Activation Gorman , C. M. , Moffat , L. F. , and Howard , B. H. ( 1982 ) Mol .
+Cell .
+Biol .
+2 , 1044-1051 Ohtani , K. , Nakamura , M. , Saito , S. , Noda , T. , Ito , Y. , Sugamura , K. , and Hinuma , Y .
+( 1987 ) EMBO J .
+6 , 389-395 Nakamura , M. , Niki , M. , Nagata , K. , Ohtani , K. , Saito , S. , Hinuma , Y. , and Sugamura , K. ( 1989 ) J. Biol .
+Chem .
+264 , 20189-20192 Akagi , T. , Ono , H. , Nyunoya , H. , and Shimotohno , K. ( 1997 ) Oncogene 14 , 2071-2078 Smith , M. R. , and Greene , W. C. ( 1992 ) Virology 187 , 316-320 Gunning , P. , Leavitt , J. , Muscat , G. , Ng , S. Y. , and Kedes , L. ( 1987 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+84 , 4881-4885 60 .
+61 .
+62 .
+63 .
+64 .
+65 .
+14129 .
+Numata , N. , Ohtani , K. , Niki , M. , Nakamura , M. , and Sugamura , K. ( 1991 ) New Biologist 8 , 896-906 Stein , B. , Cogswell , P. C. , and Baldwin , A. S. , Jr. ( 1998 ) Mol .
+Cell .
+Biol .
+18 , 3964-3974 Kaszubska , W. , Hooft van Huijsduijnen , R. , Ghersa , P. , DeRaemy-Schenk , A. M. , Chen , B. P. , Hai , T. , DeLamarter , J. F. , and Whelan , J .
+( 1993 ) Mol .
+Cell .
+Biol .
+18 , 7180-7190 Stein , B. , Baldwin , A. S. , Jr. , Ballard , D. W. , Greene , W. C. , Angel , P. , and Herrlich , P. ( 1993 ) EMBO J .
+12 , 3879-3891 Sen , R. , and Baltimore , D. ( 1986 ) Cell 47 , 921-928 Nabel , G. , and Baltimore , D. ( 1987 ) Nature 826 , 711-713 of the gp34 Gene Promoter 610Z '01 Aepy uo 4g wo ; popeoumog Molecular Mechanisms of Promoter Regulation of the gp34 Gene That Is Trans-activated by an Oncoprotein Tax of Human T Cell Leukemia Virus Type I Kiyoshi Ohtani , Atsumi Tsujimoto , Tomonori Tsukahara , Noboru Numata , Shigeto Miura , Kazuo Sugamura and Masataka Nakamura J. Biol .
+Chem .
+1998 , 273:14119-14129. doi : 10.1074/jb0.273.23.14119 Access the most updated version of this article at http : /www.jbe.org/content/273/23/14119 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 65 references , 30 of which can be accessed free at http : //www 610Z '01 Aepy uo 4g wo ; popeoumog

@@ -1,0 +1,999 @@
+Activation of the CDC42 Effector N-WASP by the Shigella flexneri Ics A Protein Promotes Actin Nucleation by Arp2/3 Complex and Bacterial Actin-based Motility Coumaran Egile , * Thomas P. Loisel , } Valérie Laurent , } Rong Li , * Dominique Pantaloni , ' Philippe J. Sansonetti , * and Marie-France Carlier® *Department of Cell Biology , Harvard Medical School , Boston , Massachusetts 02115 ; *U nité de Pathogénie Microbienne Moléculaire , INSERM U 389 , Institut Pasteur , 75724 Paris Cedex 15 ; and Dynamique du Cytosquelette , Laboratoire d'Enzymologie et Biochimie Structurale , Centre National de la Recherche Scientifique , Gif-sur-Yvette , 91198 France Abstract .
+To propel itself in infected cells , the pathogen Shigella flexneri subverts the Cdc42-controlled machinery responsible for actin assembly during filopodia formation .
+U sing a combination of bacterial motility assays in platelet extracts with Escherichia coli expressing the Shigella IcsA protein and in vitro analysis of reconstituted systems from purified proteins , we show here that the bacterial protein IcsA binds N-WA SP and activates it in a Cdc42-like fashion .
+Dramatic stimulation of actin assembly is linked to the formation of a ternary IecsA-N-WA SP-A rp2/3 complex , which nucle-ates actin polymerization .
+The Arp2/3 complex is essential in initiation of actin assembly and Shigella movement , as previously observed for L isteria monocy-to genes .
+Activation of N-WA SP by IecsA unmasks two domains acting together in insertional actin polymer ization .
+The isolated COOH-terminal domain of N-WA SP containing a verprolin-homology region , a cofilin-homology sequence , and an acidic terminal segment ( VCA ) interacts with G-actin in a unique profilin-like functional fashion .
+Hence , when N-WA SP is acti-vated , its COOH -terminal domain feeds barbed end growth of filaments and lowers the critical concentration at the bacterial surface .
+On the other hand , the NH , -terminal domain of N-WA SP interacts with F-actin , mediating the attachment of the actin tail to the bacterium surface .
+VA SP is not involved in Shigella movement , and the function of profilin does not require its binding to proline-rich regions .
+Key words : - Shigella flexneri® IcsA « N-WASP ® Arp2/3 complex ® actin stimuli is mediated by a highly integrated signaling cascade that transduces external signals to the actin cytoskeleton to elicit spatially controlled actin polymerization .
+Many of the components playing a role in this cascade have been identified .
+Among them , Rho , Rac , and Cdc42 , small GTPases of the Rho family , act as molecular regulators of actin assembly and control the formation of focal adhesions , lamellipodia , and filopodia , respectively ( Kozma et al .
+, 1995 ; Nobes and Hall , 1995 ) .
+On the other hand , the molecular mechanisms connecting Rac and Cdc42 to actin filament assembly during cell locomotion are still unknown .
+Intracellular actin-based propulsion of pathogens provides an invaluable tool for the mechanistic analysis of the THE motile response of living cells to extracellular C. Egile and T.P .
+Loisel contributed equally to this work .
+Address correspondence to M.-F. Carlier , Dynamique du Cytosquelette , LEBS , CNRS , Gif-sur-Yvette , 91198 France .
+Tel .
+: ( 33 ) 1 69 82 31 65 .
+Fax : ( 33 ) 1 69 82 34 65 .
+E-mail : carlier @ lebs.cars-gif.fr © The Rockefeller University Press , 0021-9525/99/09/1319/14 $ 5.00 small GTPase effectors involved in the regulation of actin assembly ( Beckerle , 1998 ) .
+Shigella flexneri , Listeria mono-cytogenes , or the vaccinia virus ( Higley and Way , 1997 ) induce polarized constitutive actin assembly at their surface into a reticulated meshwork ( Bernardini et al .
+, 1989 ; Pre-vost et al .
+, 1992 ; Goldberg et al .
+, 1993 ; Nhieu and Sansonetti , 1999 for a recent review ) , and use the resulting propulsive force to move at rates of 1-50 m/min and spread from cell to cell by membrane invagination and ly-sis .
+A single bacterial surface protein , ActA on Listeria ( Domann et al .
+, 1992 ; Kocks et al .
+, 1992 ) , or IcsA ( VirG ) on Shigella ( Bernardini et al .
+, 1989 ; Lett et al .
+, 1989 ) , is necessary and sufficient ( Goldberg and Theriot , 1995 ; Kocks et al .
+, 1995 ) to induce actin-based motility of the bacterium .
+The Listeria system has been extensively stud-ied .
+The multidomain ActA protein recruits two essential factors in motility .
+The NH -terminal domain of ActA interacts with the Arp2/3 complex ( Welch et al .
+, 1997 ) and activates its actin nucleating activity ( Welch et al .
+, 1998 ) .
+The central proline-rich domain of ActA interacts with the The Journal of Cell Biology , Volume 146 , Number 6 , September 20 , 1999 1319-1332 http : //www .jcb.org 1319 focal adhesion protein VASP ( Smith et al .
+, 1996 ; Niebuhr et al .
+, 1997 ) , which links the actin tail to the bacterium surface , allowing directed insertional polymerization ( Laurent et al .
+, 1999 ) .
+Although the IcsA protein has no sequence similarity to ActA , the physical features of Shigella actin-based movement are identical to L isteria , suggesting that at least some of the key players involved in movement are the same in the two systems .
+Two proteins have been reported to interact with IcsA , vinculin ( Suzuki et al .
+, 1996 ) and N-W ASP ( Suzuki et al .
+, 1998 ) .
+Vinculin was postulated to associate with VASP via its ActA -like proline-rich seg-ment , suggesting that VASP would play in Shigella movement the same role as in L isteria ( Laine et al .
+, 1997 ) .
+However , Shigella moves well in cells that do not express vinculin ( Goldberg , 1997 ) .
+N-W ASP is a member of the WASP family of proteins , which thus far includes Las17/ Beel in Saccharomyces cerevisiae ( Lechler and Li , 1997 ; Li , 1997 ) ; Scarl/WAVE in Dictyostelium discoideum , Cae-norhabditis elegans , Drosophila melanogaster , mouse , and humans ( Bear et al .
+, 1998 ; Miki et al .
+, 1998a ) ; and WA SP ( Derry et al .
+, 1994 ) and its close homologue N-WASP ( Miki et al .
+, 1996 ) in humans .
+Mutations in the WASP protein result in the Wiskott-Aldrich syndrome ( Ramesh et al .
+, 1999 ) .
+Among WASP proteins , only WASP and N-W ASP contain a consensus CRIB motif for Cde42 binding .
+N-WASP enhances Cdc42-induced formation of filopodia ( Miki et al .
+, 1998b ) .
+It has been proposed that N-W A SP is activated by the N-W ASP-Cdc42 interaction .
+In vitro , Cdc42 drives actin polymerization in acellular extracts ( Ma et al .
+, 1998a ; Zigmond et al .
+, 1998 ) .
+WASP and N-W A SP therefore are thought to link Cde42 to actin polymerization ( Bi and Zigmond , 1999 , for a recent review ) .
+Proteins of the WASP family also contain a proline-rich region thought to bind SH3 domains , as well as profilin ( Suetsugu et al .
+, 1998 ) , and a COOH-terminal domain containing a verprolin-homology region , a cofilin-homology sequence , and an acidic terminal segment ( VCA ) .
+The actin filament severing and depolymerizing activities of the VCA region are thought to be involved in microspike formation ( Miki et al .
+, 1998b ) and in actin-based motility of Shigella ( Suzuki et al .
+, 1998 ) .
+The recent discovery that the acidic extreme COOH-terminal region of Scarl interacts with p21-Arc , a component of the Arp2/3 complex ( Machesky and Insall , 1998 ) , and enhances its actin nucleating activity ( Machesky et al .
+, 1999 ) was a landmark in the field .
+The Arp2/3 complex then was reported to mediate actin polymerization induced by Cdcd42 ( Ma et al .
+, 1998b ) .
+Recently , activation of Arp2/3 by N-W ASP was found enhanced by Cdc42 ( Ro-hatgi et al .
+, 1999 ) .
+In yeast , the Arp2/3 complex is activated by the COOH -terminal domain of Beelp ( Winter et al .
+, 1999 ) .
+However , the molecular mechanism for site-directed actin assembly and production of force and movement remains unknown .
+The goal of our work was to understand how the different components of the actin assembly machinery are se 1 .
+Abbreviations used in this paper : AR3 , anti-Arp3 polyclonal antibodies ; K4 , dissociation constant ; Nt , NH-terminal domain ; VCA , COOH-terminal domain containing a verprolin-homology region , a cofilin-homology sequence , and an acidic terminal segment .
+The Journal of Cell Biology , Volume 146 , 1999 quentially switched on to elicit actin nucleation and insertional polymerization to produce Shigella movement .
+To address this issue , we have used a combination of bacterial motility assays using IcsA -expressing Escherichia coli in platelet and brain extracts , immunodepletion and add-back methods , and in vitro steady state and kinetic measurements of actin polymerization in the presence of individual and combined components of the machinery , using purified IcsA , N-WASP , VCA , Arp2/3 complex , Cdc42 , VASP , and wild-type and mutated profilins .
+We 've come up with a working model for Shigella movement that provides a general insight into the mechanism of actin-based cellular extensions .
+Materials and Methods Bacterial Strains E. coli BUG 968 strain and BUG 896 strain expressing the membrane form of IcsA ( BUG 968 harboring pHS3199 , a pUC8 plasmid containing IcsA gene ; Kocks et al .
+1995 ) were grown at 37°C in 2YT in the presence of 100 pg/ml ampicillin until midexponential phase was reached .
+Listeria strain Lut1l2 ( pActA3 ) overexpressing ActA ( Kocks et al .
+, 1992 ) was grown at 37°C in brain/heart infusion medium in the presence of 7 pg/ml chloramphenicol and 5 ug/ml erythromycin until midexponential phase was reached .
+Bacteria were kept frozen in 30 % glycerol at -80°C .
+Antibodies Polyclonal rabbit antibodies were raised against human N-WASP protein residues *°-EVMQKRSKAIHSSDED-*** ( C412 antibodies ) and against recombinant human N-W A SP protein obtained from baculovirus ( NWO11 antibodies ) .
+Anti-Arp3 polyclonal antibodies ( AR3 ) were raised in rabbits against Arp3 residues YEEIGPSIVRHNPVFGVMS .
+A ffinity-purified C421 , NWO11 , and AR3 antibodies were used for Western blot and immunofluorescence , respectively , at 10 jig/ml concentration .
+Antibovine profilin polyclonal antibodies were raised in rabbits and used in Western blots at a 1:5,000 dilution .
+Platelet and Brain Extracts Human platelet extracts were prepared from outdated unstimulated preparations as previously described ( Laurent and Carlier , 1997 ) .
+Bovine brain extracts were prepared as follows .
+Brain was homogenized in 1 vol of 0.1 M MES , pH 6.8 , 1 mM EGTA , 0.5 mM MgC ) ; , 0.1 mM EDTA , 1 mM DTT , and clarified by centrifugation at 10,000 g for 30 min at 4°C .
+Tubulin and neurofilaments were removed by centrifugation for 1 h at 150,000 g after one cycle of microtubule assembly at 37°C for 30 min in the presence 0.5 mM GTP , 4 M glycerol , and 0.25 mM MgC ) .
+The supernatant ( S ; ) was stored at -80°C .
+Recombinant Proteins Expression and Purification Histidine-tagged human N-WA SP was expressed in High Five insect cells .
+Human cDNA was cloned in pFast Bac Htb ( Life Technologies , Inc. ) and recombinant baculovirus constructed using standard protocol of transfec-tion-recombination in insect cell lines .
+High Five insect cells were infected at a multiplicity of infection of 2 .
+Cell culture was performed in suspension , in High Five serum-free medium , under vigorous shaking at 27°C for 40 h. Protein purification was performed by DEAE cellulose at pH 7.8 and cobalt affinity chromatography , as described by Laurent et al .
+( 1999 ) .
+Recombinant histidine-tagged human VASP was expressed and purified as described previously ( Laurent et al .
+, 1999 ) .
+The NH ; -terminal ( Nt ) and COOH-terminal domains ( VCA ) of human N-WASP were expressed and purified as GST fusion proteins in E. coli .
+Human cDNA regions encoding N-WASP Nt ( residues 1-276 ) and VCA ( residues 392-505 ) were amplified by PCR from human brain cDNA using oligonucleotides phNW1 ( 5'-ceggaattcATGAGCTCCGTCCAG-CAGCAG-3 ' ) , phNW276 ( 5'-cegetegagTCACTTGCCTCCGCAGTTC-ATTTTTAAC-3 ' ) , and oligonucleotides phNW392 ( 5'-ceggaattcCCT-TCTGATGGGGACCATCAG-3 ' ) , phNW505 ( 5'-cegetegagTCAGTC-TTCCCACTCATCATC-3 ' ) , respectively .
+N-WASP Nt and VCA PCR 1320 fragments were cloned in EcoRI and Xhol sites in pGEX4T-1 plasmid , respectively , to generate pCENHN and pCECHN plasmids .
+GST-Nt and GST-VCA protein expressions were obtained using BL21 E. coli strain according to standard induction and purification procedures .
+GST-Nt and GST-VCA glutathione Sepharose beads were kept at 4°C until use .
+GST-Nt protein was eluted from beads and VCA protein was obtained by thrombin cleavage .
+Both proteins were dialyzed against 10 mM Tris-C1~ , pH 7.5 , 1 mM DTT , 50 mM KCI , and 0.01 % NaN , frozen on liquid nitrogen and stored at -80°C .
+The concentration of VCA was determined spectrophotometrically using an extinction coefficient eg ; , , of 0.467 cm- ' at 278 nm calculated from the amino acid sequence , and a mol wt of 12,900 D. Due to the acidic character of VCA , the Bradford protein assay gave underestimated values of the concentration .
+Human Cde42 was also expressed as a GST fusion protein in £ .
+coli .
+Human cDNA was cloned in pGEX2T expression plasmid and was a kind gift from Dr. Alan Hall ( Medical Research Council , University College , Lon-don , UK ) .
+Protein was expressed in E. coli JM109 , purified on glutathione Sepharose as described , and kept on beads at 4°C in 10 mM Tris-C1~ , pH 7.6 , 150 mM NaCl , 2 mM MgC ) , 0.1 mM DTT , and 0.1 mM GTP .
+When required , GST-Cdc42 was loaded with GDP or GTPyS on beads by a 1-h incubation at room temperature on a wheel in 50 mM Tris-C1~ , pH 7.6 , 150 mM NaCl , 2 mM MgCl , , 1 mM DTT , 10 mM EDTA , and 0.1 mM GDP or GTPyS .
+The exchange reaction was stopped by addition of 10 mM MgC ) , IcsAs3.5p4 protein was purified as a GST fusion protein as described in Suzuki et al .
+( 1996 ) .
+Purification of Arp2/3 Complex from Bovine Brain Bovine Arp2/3 complex was purified from bovine brain extracts by a novel two step method as follows .
+100 ml of S , was dialyzed against 50 mM MES , pH 6.8 , containing 1 mM DTT , 1 mM EDTA , and 1 mM MgC ) , ( buffer A ) , and loaded on an SP-Trisacryl column ( 2.5 X 12 ecm ) equilibrated in buffer A .
+After a wash step with 30 mM KCIJ , the Arp2/3 complex was eluted with 80 mM KCI in buffer A .
+This fraction was equilibrated in 20 mM Tris-C1~ , pH 7.5 , containing 25 mM KCI , 1 mM DTT , 1 mM MgC ) , 0.5 mM EDTA , and 0.1 mM ATP-Tris , pH 7.5 ( buffer B ) , and loaded on a GST-VCA glutathione Sepharose column ( 0.5 X 1 cm ) in buffer B .
+Most of the proteins were washed off the column by buffer B , the remaining non-Arp2/3 proteins were eluted by 0.2 M KCI in buffer B , pending a small loss of Arp2/3 activity , and the pure Arp2/3 complex was eluted with 0.2 M MgC ) , in buffer B ( see Fig .
+2 b for the purity of the Arp2/3 complex ) .
+A fter dialysis against buffer B , the protein was concentrated using a Centriprep 30 cartridge ( Amicon ) .
+The Arp2/3 complex was supplemented with 0.2 M sucrose and stored at -80°C .
+The activity of Arp2/3 along the purification steps was monitored spectrofluorimetrically , using the ability of Arp2/3 to activate the branched polymerization of actin filaments in the presence of VCA .
+The assay ( 80 pl ) contained 2.5 uM Mg-G-actin ( 10 % pyrenyl-labeled ) , 0.5 uM VCA , and 10 pl of the tested fraction in 5 mM Tris-C1~ , pH 7.8 buffer , 1 mM DTT , 0.2 mM ATP , 0.1 M KCl , and 1 mM MgC ) .
+The time course of increase in pyrenyl-actin fluorescence was followed .
+The activity of Arp2/3 was detected by the steep sigmoidal increase in fluorescence , indicative of branched polymerization .
+The activity of Arp2/3 was easily observed , even in the S , fraction .
+Alter-natively , the activity of Arp2/3 was detected by the video-microscopy bacterial motility assay , using the property of Arp2/3 to initiate the formation of actin clouds at the surface of L isferia incubated in 4 M rhodamine-labeled actin .
+The results of the two tests were in good agreement with each other , but the spectrofluorometric assay was more convenient and easily amenable to a quantitative estimate of the amount of Arp2/3 in the tested fractions by comparison with a calibration series of time courses performed with known concentrations of pure Arp2/3 .
+The concentration of Arp2/3 complex was determined spectrophotometrically using an extinction coefficient of 224,480 M + cm~ ' at 278 nm , derived from the amino acid sequence of the seven polypeptides composing the 223,949-D complex .
+A good agreement was obtained between the spectrophotomet-ric measurement and the bicinchoninic acid assay , with BSA as a standard .
+Typically , 1.2 nmol ( 0.26 mg ) of pure Arp2/3 complex was obtained from 100 ml brain S ; supernatant .
+Depletion of Arp2/3 Complex , VASP , and Profilin from Platelet Extracts Arp2/3 complex was depleted from platelet extracts using a variation of the coprecipitation method described by Machesky and Insall ( 1998 ) .
+Various amounts of glutathione Sepharose-coupled GST-VCA beads ( 20 , 40 , Egile et al .
+Shigella flexneri Actin-based Motility and 80 g ) were incubated with 25 pl of platelet extracts for 30 min at 4°C on a rotating wheel .
+Beads were pelleted at 5,000 g for 15 s. Depletion of the Arp2/3 complex was monitored by Western blotting of aliquots of protein extracts and beads .
+Add-back was done using the Arp2/3 complex purified from bovine brain .
+VASP immunodepletion was carried out as described previously ( Laurent et al .
+, 1999 ) .
+Add-back was done using the recombinant VASP purified from insect cells .
+Profilin depletion was carried out by two consecutive poly-L-proline chromatography steps , as described by Laurent et al .
+( 1999 ) .
+Profilin depletion was monitored by Western blotting .
+Add-back was done using the purified wild-type profilin or the H1338 mutant profilin , described as unable to bind poly-L-proline ( Bjorkegren-Sjogren et al .
+, 1997 ) .
+Actin and Regulatory Proteins Actin was purified from rabbit muscle and isolated as Ca-ATP-G -actin by gel filtration on Sephadex G-200 in G buffer ( 5 mM Tris-C1~ , pH 7.8 , containing 0.1 mM CaC ] ; , 0.2 mM ATP , and 1 mM DTT ) .
+Actin was pyrenyl-or rhodamine-labeled , and converted into Mg-G-actin before polymerization , as described by Carlier et al .
+( 1997 ) .
+Mg-actin was polymerized by addition of 1 mM MgCl ; and 0.1 M KCI ( physiological ionic conditions ) .
+When actin was polymerized in the presence of gelsolin , no EGTA was added to the solution , and Ca-ATP-G-actin supplemented with the desired amount of gelsolin was polymerized by addition of 2 mM MgC ) ; and 0.1 M KCI Thymosin B4 was purified from bovine spleen as described by Panta-loni and Carlier ( 1993 ) .
+Gelsolin purified from human plasma was a kind gift from Dr. Yukio Doi ( University of Kyoto , Kyoto , Japan ) .
+Spectrin-actin seeds were isolated from human erythrocytes as described by Casella et al .
+( 1986 ) .
+Actin Polymerization Assays Critical concentration plots were performed by serial dilution of pyrenyl-labeled F-actin solutions in F buffer ( 5 mM Tris-C1~ , pH 7.8 , containing 1 mM DTT , 0.2 mM ATP , 0.1 mM CaCl , 1 mM MgC ) , and 0.1 M KC ] and incubated overnight at room temperature .
+Polymerization assays were performed using the change in pyrenyl-actin fluorescence .
+Measurements were carried out in a Spex Fluorolog 2 instrument thermostated at 20°C , with excitation and emission wavelengths of 366 and 407 nm , respectively , and appropriate filters placed on the excitation and emisssion beams to eliminate stray light and bleaching , which interfere in polymerization in the presence of Arp2/3 ( Pantaloni , D. , manuscript in preparation ) .
+The G-actin sequestering activity was measured by the shift in critical concentration plots with gelsolin-capped filament barbed ends .
+The equilibrium dissociation constant , K , , for the actin-sequestering protein complex was derived from the measurements of the concentration , [ Ap ] , of unassembled actin at steady state ( abscissa intercept of the critical concentration plots ) and of the critical concentration , [ A , ] , determined in the absence of sequestering agent .
+The following equation was used : K , = [ Ac ] * ( Sql - [ Ap ] + [ Ac ] / [ Apl - [ Ac ] ) , in which [ S , ] represents the total concentration of sequestering protein .
+Rates of filament growth from barbed and pointed ends were measured using spectrin-actin seeds or gelsolin-capped filaments , added at time zero to a solution of 1 uM MgATP-G-actin ( 10 % pyrenyl-labeled ) in polymerization buffer .
+The gelsolin-capped filament solution contained 5 uM F-actin polymerized in the presence of 16.7 nM gelsolin for 2 h , and diluted 20-fold into the G-actin solution .
+Motility Assays Frozen bacteria were thawed and spun down at 4,000 g for 5 min at 22°C , resuspended at 6 X 10° bacteria/ml in XB buffer ( 10 mM Hepes , pH 7.7 , 0.1 M KCI , 1 mM MgC ) , 0.1 mM CaC ) ; , and 50 mM sucrose ) .
+Motility assays were performed by mixing 4 pl of thawed extracts supplemented with 12 pl of a mixture containing 5 M F-actin , 0.38 % methyl cellulose , 6 mM DTT , 2 mM ATP/MgC ) , , 1.5 X 105 % DABCO , 1 M rhodamine-actin , and 2 X 10° bacteria/ml .
+An aliquot of 2.5 jul was squashed between a 22 X 22 mm coverslip and a slide , sealed with VALAP , and incubated for 5 min at room temperature before motility measurements .
+Fluorescence microscopy observations and data acquisition were carried out as previously described ( Laurent et al .
+, 1999 ) .
+N-WASP-coated E. coli ( IcsA ) were prepared as follows : 20 pl of a suspension of 6 X 10° bacteria/ml were incubated with 5 pl of 1 uM N-WASP for 5 min at room temperature .
+1321 Bacteria were pelleted , washed , and resuspended in 20 pl of XB buffer and kept on ice .
+The N-WASP-IcsA complex remains stable for several hours on ice .
+Immunofluorescence Analysis of Shigella-infected Hela Cells HeLa cells were infected as follows : overnight culture of Shigella M90T strain was diluted in tryptic soy broth , grown to midexponential phase , centrifuged at 5,000 g for 5 min , washed , and resuspended at 10° bacteria/ml ( M9O0T ) in MEM , 50 mM Hepes , pH 7.5 .
+HeLa cells , seeded on glass cov-erslips , were washed three times with MEM , overlaid with the bacterial suspension , and centrifuged for 10 min at 800 g. Bacterial entry was allowed by 30 min incubation at 37°C .
+Infected cells were washed with MEM five times and incubated with MEM , 50 mM Hepes , pH 7.5 , with 50 ug/ml of gentamicin for a further 1 h at 37°C , to allow intracellular spread .
+For immunofluorescence staining , infected cells were permeabilized with 0.2 % Triton X-100 in 0.1 M MES , pH 7.4 , 1 mM MgC ) , 1 mM EGTA , 4 % PEG 6000 , and then fixed for 30 min in 3.7 % paraformalde-hyde in PBS .
+After quenching with NH , Cl 50 mM in PBS for 10 min and saturation for 30 min in PBS-BSA 2 % , infected cells were incubated with specific mono- or polyclonal antibodies .
+A ffinity-purified antihu-man N-WASP polyclonal NWO11 antibodies and polyclonal Arp3 antibodies were used at 10 pg/ml concentration .
+Texas red-conjugated secondary antibodies ( Nycomed Amersham Inc. ) were used .
+F-actin was visualized by FITC-phalloidin ( 0.1 mg/ml ; Sigma Chemical Co. ) .
+Preparations were examined with a confocal laser scanning microscope ( Zeiss Axiophot ) .
+In Vitro Protein Binding Assays Glutathione Sepharose coupled to GST-IesA or to GST was equilibrated in buffer P ( 20 mM Tris-Cl~ , pH 7.5 , 100 mM KCI , 1 mM MgC ) , and 0.1 % BSA ) .
+100 pmol of protein-bound beads and 80 pmol of purified N-W A SP or VCA were mixed in 100 il ( total vol ) and incubated for 1 h at 4°C on a rotating wheel .
+Supernatants were collected .
+Beads were rinsed twice with buffer P. Free and bound N-WASP and VCA were detected by Western blotting after resolving the proteins by SDS-PAGE .
+Results Association of N-WASP to IcsA Is Required for Actin-based Motility of E. coli ( IcsA ) in Platelet Extracts A ctin-based motility of £ .
+coli ( IcsA ) has been observed in Xenopus egg extracts ( Goldberg and Theriot , 1995 ; Kocks et al .
+, 1995 , Suzuki et al .
+, 1998 ) .
+Motility was observed as well in HeLa cell extracts and murine or bovine brain extracts , but not at all in human platelet extracts , which , in contrast , supports actin-based motility of Listeria .
+This puzzling observation suggested that an essential factor for Shigella motility is missing in platelets .
+The requirement of N-W ASP for Shigella motility in Xenopus egg extracts has recently been demonstrated ( Suzuki et al .
+, 1998 ) .
+Immunoblotting using polyclonal NW O11 antibodies that recognize both WASP and N-WASP ( Fig .
+1 a ) , showed that N-W ASP was present in brain extracts , but absent in platelets , which , in contrast , contain the lower molecular weight WASP homologous protein mainly expressed in hematopoietic cells ( Fig .
+1 a ) , whose mutations result in the Wiskott-Aldrich syndrome ( Ramesh et al .
+, 1999 ) .
+The endogenous WASP protein , homologue of N-W ASP in platelets , apparently can not bind IcsA .
+To check whether the absence of N-W ASP was responsible for the lack of E. coli ( IcsA ) motility in platelet extracts , recombinant human N-W ASP was expressed using the baculovirus system and purified ( Fig .
+1 b ) .
+The interaction of recombinant N-W ASP with IcsA was verified by successful binding of The Journal of Cell Biology , Volume 146 , 1999 N-WASP on glutathione Sepharose beads to which the GST-IcsA fusion protein was attached ( Fig .
+1 c ) .
+The isolated VCA of N-W ASP , in contrast , did not bind to IcsA ( Fig .
+1 c ) .
+Actin-based motility of E. coli ( IcsA ) was restored by addition of N-W ASP to platelet extracts .
+Specifically , upon addition of 10 nM N-W ASP , actin clouds were observed .
+Comets were observed upon addition of 50 nM N-W A SP , optimum movement was seen at 100 nM N-W A SP , and inhibition occurred at 1 wM N-W ASP .
+Neither bacterial motility nor actin polymerization were observed under the same conditions with control BUG 968 E. coli bacteria that did not express IcsA ( see Materials and Methods ) .
+Consistent with the apparent high affinity of N-W ASP for IcsA , when E. coli ( IcsA ) bacteria were incubated with N-W ASP at concentrations as low as 0.1 mM , washed , and added to platelet extracts , bacterial actin-based motility was readily observed ( Fig .
+1 d ) .
+Bacteria induced actin polymerization and moved at rates similar to Listeria ( 4 pm/ min , SD = 1 , n = 20 ) .
+In contrast , when control BUG 968 E. coli bacteria that did not express IcsA were preincubated with N-WASP , washed , and added to platelet extracts , they failed to induce actin assembly and to move .
+Consistent with these results , beads coated with GST-IcsA 53.593 induced actin assembly at their surface in platelet extracts only when they were first preincubated with N-W ASP ( Fig .
+1 e ) .
+Control GST beads , preincubated in the same N-W ASP solution , and washed , failed to induce actin assembly in platelet extracts .
+Neither actin assembly nor movement was observed when bacteria or GST-IcsA beads were preincubated with VCA instead of N-W ASP .
+Accordingly , bacterial movement and actin assembly were not inhibited by the presence of a 20-fold molar excess of VCA over N-WASP in the preincubation step .
+Hence , VCA does not displace IcsA -bound N-W A SP .
+These results demonstrate that interaction of IcsA with ASP is crucial for IcsA -mediated actin polymerization and bacterial motility , and that VCA does not interact with IcsA .
+Association of Arp2/3 Complex with N-WASP Bound to IcsA at the Surface of E. coli ( IcsA ) Is Necessary and Sufficient for Initiation of Actin Assembly The N-WASP protein was proposed to initiate actin assembly at the surface of bacteria by interacting with actin via its two verprolin homology regions and/or its cofilin homology sequence ( Miki et al .
+, 1998b ; Suzuki et al .
+, 1998 ) .
+However , when either the £ .
+coli ( IcsA ) bacteria or the GST-IcsA beads precoated with N-W ASP were incubated in a solution of rhodamine-labeled F-actin , no initiation of actin assembly was observed at their surface ( data not shown ) , indicating that , in itself , the actin-binding property of N-W ASP is not sufficient for inducing the actin assembly seen in platelet extracts .
+Recently , the association of the Arp2/3 complex with Scarl , a member of the WASP family , was demonstrated to enhance the actin nucleation activity of Arp2/3 complex in vitro ( Machesky and Insall , 1998 ; Machesky et al .
+, 1999 ) .
+To investigate the role of Arp2/3 complex in Shigella motility , platelet extracts were at least 80 % depleted in Arp2/3 complex by GST-VCA beads ( Fig .
+2 a ) .
+Actin polymerization and motility of £ .
+coli ( IcsA ) coated with 1322 a 1 2 3 4 b 1 2 p 205 - ) .
+210= | } 121= 137= 77. s sa- ® px Tes N-WASP WASP 40 = 44 -32- § GSI GST-lcsA GST __ GST-lesA C 10 F s `` F s ' F slr B ) 205 - N-WASP VCA 2223 121 - - 77 IcsA |- ® N-WwaASP ux » a =- 43 _- 32 40 = I VCA =16.7 -- wig eee | NWASP Figure 1 .
+N-WASP is required for actin-based motility of E. coli ( IcsA ) .
+a , N-W ASP is not detected in platelet extracts .
+N-W ASP - expression was analyzed by SDS-PAGE in brain extracts ( lanes 1 and 3 ) and in platelet extracts ( lanes 2 and 4 ) .
+Lanes 1 and 2 , Coomassie blue staining ; lanes 3 and 4 , immunoblotting with anti-N-WASP .
+Note | the presence of WASP , but no N-WASP , in platelets ( lane 4 ) .
+b , Purified recombinant histidine-tagged human N-WASP protein .
+SDS-PAGE patterns of insect cell extracts ( lanes 1 and 3 ) and purified recombinant human N-WASP ( lanes 2 and 4 ) .
+Lanes 1 and 2 , Coomassie blue staining ; lanes 3 and 4 , immunoblotting with anti-N-W ASP .
+c , Full-length N-W ASP , but not the isolated VCA , binds to IcsA .
+GST-IcsAs3.s5p $ Or GST beads were incubated with N-WASP or VCA in a pull-down as-say .
+Free protein ( F ) and protein bound to the beads ( B ) were detected by immunoblotting with C412 anti N-WASP poly- clonal antibodies .
+Lane 1 , SDS-PAGE ( Coomassie blue staining ) of GST-IcsA .
+d , Binding of N-WASP to E. coli ( IcsA ) induces bacterial motility in platelet extracts .
+1 , Actin tails formed by N-WASP-coated E. coli ( IcsA ) incubated in platelets extracts ; 2 , absence of actin tails upon incubation of £ .
+coli ( IcsA ) in platelet extracts ; left panels , phase-contrast ; right panels : rhodamine-actin fluorescence .
+Bars , 10 wm .
+e , Actin polymerization is induced at the surface of Sepharose-coupled GST 10 ma J ICSA 53.593 beads coated with N-WA SP .
+Actin polymerization occurs at the surface of Sepharose-coupled GST-IcsA ; ; 393 beads when recombinant N-WASP is added to platelet extracts ( 1 ) .
+No polymerization is detected in the absence of N-WASP ( 2 ) .
+Left panels : phase-contrast ; right panels : rhodamine-actin fluorescence .
+Bars , 10 jm .
+N-WASP and of Listeria were completely abolished in those Arp2/3-depleted extracts .
+Add-back of 0.15 pM pure Arp2/3 from bovine brain to the depleted platelet extracts restored bacterial movement at a rate of 1 + 0.2 pum/ min , i.e .
+, 30 % of the speed observed in the mock-depleted extracts .
+The N-WASP-coated E. coli ( IcsA ) bacteria , N-W A SP-bound GST-IcsA beads , or Listeria bacteria were then incubated in a solution of rhodamine-labeled F-actin containing pure Arp2/3 from bovine brain ( Fig .
+2 b ) .
+Formation of actin clouds around the bacteria and the beads was immediately observed ( Fig .
+2 c ) .
+These results demonstrate that IcsA -bound N-WASP interacts with Arp2/3 complex , and that the IcsA-N-WASP-Arp2/3 complex is able to initiate local actin assembly in a solution of pure actin .
+Previously , we have shown , using phalloidin , that Egile et al .
+Shigella flexneri Actin-based Motility G-actin , not F-actin , was recruited by Arp2/3 at the L isteria surface ( Marchand et al .
+, 1995 ) .
+Even though actin was polymerized in the assay , it is the G-actin that coexists at steady state with the filaments that are shuttled onto barbed ends created by Arp2/3 .
+To get more insight into the respective roles of N-WASP and Arp2/3 in Shigella movement , immunolocalization of the two proteins in infected cells was carried out .
+N-W ASP colocalized with IcsA at the surface of Shigella , whereas the Arp2/3 complex was found in the entire actin tail ( Fig .
+3 ) .
+In conclusion , Arp2/3 interacts with N-W A SP to initiate actin assembly at the surface of Shigella , but the interaction of Arp2/3 with N-W ASP is not permanent , and the Arp2/3 complex remains incorporated into the assembled filaments .
+In contrast , the interaction of N-W ASP with IcsA is probably very strong and in slow equilibrium .
+1323 a Extracts Beads b [ a all e al KD = GST-VCA GST _GST-VCA _ GST if ” ~ op D2 3 40 50 6 708 % 9 10 1 12 13 ' 43.3 _ === =- - - -- « - .
+/ , cmon @ @ < eArp3 31.6 I cuase 16.7 C < t % 2 a = o ° € © ; fax ] W a .
+_ < % +o os A .
+2 & ~ ] P ins # , * a 2 ed 3 “ 5 I & G © - o o_ W , a .
+| L_ < 1 S us| .
+e © # a 4 -| # dm N-WASP Enhances the Actin Nucleation Activity of Arp2/3 in a Cdc42-activated Fashion To understand how the interaction between IcsA -bound N-W ASP with Arp2/3 complex leads to the initiation of actin filament assembly at the surface of Shigella , the biochemical properties of the individual proteins of this complex machinery were examined in in vitro experiments .
+The Arp2/3 complex purified from bovine brain was able to induce the branched polymerization of actin filaments ( Ressad et al .
+, 1999 ) , like the Acanthamoeba complex ( Mullins et al .
+, 1998 ) .
+The activity of the Arp2/3 complex appeared enhanced by either the VCA domain of N-W ASP ( Fig .
+4 a ) or by the entire N-W ASP protein ( Fig .
+4 b ) in the same concentration-dependent manner .
+At 2.5 M actin , the optimum activation was observed at 0.5 M VCA or N-W ASP .
+The activation decreased at higher concentrations of VCA or N-W ASP ( Fig .
+4 c ) .
+The maximum The Journal of Cell Biology , Volume 146 , 1999 Arp3 Arp2 < -- p41 -Arc < - p34-Arc p21 -Are £- p20- Arc *- pl9-Are Figure 2 .
+Arp2/3 complex is essential for actin nucleation at the surface of E. coli ( IcsA ) and Listeria .
+a , Arp2/3 complex depletion in platelet extracts .
+Increasing amounts ( 20 , 40 , and 80 pug ) of glutathione Sepharose-coupled GST or GST-VCA beads were incubated with 25 wl of platelet extracts .
+Arp2/3 depletion is monitored by immunoblotting using anti-Arp3 polyclonal antibody .
+1 , Arp3 in untreated platelet extracts ; 2-4 , Arp2/ 3-depleted extracts ; 5-7 , mock-depleted extracts ; 8-10 , Arp3 associated with GST-VCA beads ; and 11-13 , Arp3 associated with GST beads .
+b , VCA affinity-purified Arp2/3 complex from bovine brain .
+The composition of the Arp2/3 complex is shown .
+The seven polypeptides are detected by Coomassie blue staining after SDS-PAGE .
+c , In vitro reconstitution of actin filaments assembly on £ .
+coli ( IcsA ) and Listeria surface .
+N-WASP-coated E. coli ( IcsA ) or Listeria were incubated in a solution of pure rhodamine-labeled F-actin ( 10 M ) with or without 0.15 wM pure Arp2/3 complex as indicated .
+Left panels , phase-contrast ; right panels , fluorescence .
+Bar , 5 um .
+extent of activation was fourfold higher with VCA than with N-W ASP .
+The effect of N-WASP , but not of VCA , was further stimulated ( about threefold ) by Cdc42-GTPyS , not by Cde42-GDP ( Fig .
+4 d ) , in agreement with Rohatgi et al .
+( 1999 ) .
+In conclusion , in the whole N-W ASP protein , the VCA domain is accessible to Arp2/3 complex and capable of activating Arp2/3 function in actin assembly .
+IcsA Mimics Cdc42-induced Activation of N-WASP The recombinant IcsA protein greatly stimulated the N-WASP-Arp2/3-induced polymerization of actin in a concentration-dependent , saturable fashion ( Fig .
+4 e ) .
+In the presence of 20 nM Arp2/3 complex and 130 nM N-W ASP , 80 % of the maximal polymerization rate was reached upon addition of 30 nM IesA , indicating that maximal activity is associated with the formation of a ternary Arp2/3 1324 N-WASP-IcsA complex in which the equilibrium K , of IcsA is in the nanomolar range .
+The activation reached with IcsA was greater than with Cdc42 .
+Interestingly , IcsA by itself did not affect the polymerization of actin alone , but at concentrations as low as 0.1 M , it activated the Arp2/3 complex to some extent in the absence of N-W ASP ( control curves in Fig .
+4 e ) , which indicates that IcsA interacts with Arp2/3 complex .
+In the presence of N-W ASP , IcsA , and Arp2/3 , a true triangular complex is formed between the three proteins at the surface of Shigella , enhancing the stability of the edifice .
+The Isolated VCA of N-WASP Binds G-actin and Affects Actin Assembly in a Profilin-like Fashion The VCA of N-W ASP was described as a filament depolymerizing filament severing protein ( Miki et al .
+, 1996 , 1998b ; Suzuki et al .
+, 1998 ) .
+These conclusions do not appear confirmed in the present work .
+The interaction of isolated VCA with actin was examined in steady state and kinetic experiments , on the dynamics of pointed and barbed ends separately .
+When filament barbed ends are capped by gelsolin , VCA induced a shift in the critical concentration plots ( Fig .
+5 a ) .
+Addition of increasing amounts of VCA to F-actin at a given concentration caused a linear decrease in F-actin at steady state , leading to eventual complete depolymerization at high concentration of VCA .
+The slope of the plot ( Fig .
+5 b ) was independent of the actin concentration .
+Hence , VCA behaves like a G-actin sequestering protein when barbed ends are capped .
+A value of 0.8 + 0.1 wM was derived for the equilibrium K , of the VCA-G-actin complex , from analysis of the data in Fig .
+5 , a and b .
+When barbed ends were free , the behavior of VCA was different .
+No efficient sequestration of actin was observed .
+Egile et al .
+Shigella flexneri Actin-based Motility Figure 3 .
+Immunolocalization of N-WASP and Arp2/3 complex in HeLa cells infected with Shigella forming actin tails .
+Shigella-infected cells were fixed and im-munolabeled with NWO11 anti-N-WASP polyclonal antibodies ( A ) or with AR3 anti-Arp3 polyclonal antibodies ( C ) and with FITC-phalloidin ( B and D ) .
+A and B represent the sum of all optical sections and C and D represent a single optical section close to focal plaques .
+Texas red-coupled secondary antibody was used to detect both immunocomplexes .
+Localization of N-W ASP on the bacterium surface is indicated by an arrowhead .
+Bars , 10 pm .
+In the presence of 5 M VCA , a modest shift of the critical concentration plots from 0.12 to 0.21 wM unassembled actin was observed , while a 3.5-fold larger shift ( up to 0.7 M unassembled actin ) was expected , using the K , value of 0.8 wM .
+These results are reminiscent of the effect of profilin in actin assembly ( Pantaloni and Carlier , 1993 ) and they demonstrate that when barbed ends are free , the concentration of ATP-G-actin at steady state is lowered by VCA , suggesting that VCA-actin complex , like profilin-actin , participates in barbed end assembly .
+Specifically , in the experiment shown in Fig .
+5 c , the amount of unassembled actin , [ A ] , at steady state is 0.21 M , which distributes into free G-actin , [ A ] , and VCA-actin complex , [ VA ) .
+The concentrations of free G-actin and VCA -actin are linked by the law of mass action : ( [ A ] < ( [ V lion [ VA ) ) / [ VA ] = K , ) ; and by the sum : [ A ] ) , = [ A ] + resulting in a quadratic equation that has a single solution : [ A ] = 0.03 wM , [ VA ] = 0.18 mM .
+The concentration of free actin , thus , appears fourfold lower than 0.12 M , the value that is measured in the absence of VCA .
+Evidence for the participation of VCA-actin complex in barbed end assembly was directly provided by measurements of the rate of filament growth .
+The rate of elongation from G-actin at pointed ends , initiated by gelsolin-actin complex , was totally inhibited by VCA ( Fig .
+5 c ) , confirming that the VCA-actin complex does not polymerize onto pointed ends .
+In contrast , growth of barbed ends initiated by spectrin-actin seeds , was inhibited only by 30 % at saturation by VCA , indicating that the VCA-actin complex associates to barbed ends with a rate constant 30 % lower than G-actin ( Fig .
+5 d ) .
+Again , this result is strikingly similar to the one obtained with profilin ( Gutsche-Perelroizen et al .
+, 1999 ) .
+Like profilin , VCA delivers G-actin subunits to growing barbed ends and disso-ciliates from the barbed end after incorporation of actin , in 1325 Fluorescence { cpm/1000 ) _s l= ] Fluorescence ( cpm/1000 ) 5 5 Effect of VCA Effect of N-WASP O i i i i 0 500 1000 00 500 1000 Time , seconds Time , seconds 0.15- - r C 20 } edc42-GTPyS N-WASP a ede42-GDP & + IcsA f= ] o 1 } oom 2 15 ) 0 ede42 - £ a & o 2 8 a 0 o & QC ) 10 } $ 0.05 } 5 3 LL 5 Effect of cdc42 0 T 1 R 0 1 2 o0 500 20 10 Fluorescence ( cpm/1000 ) N-WASP or VCA , uM 15 } ( + N-WASP ) 0 500 1000 Time , seconds Fluorescence ( cpm/1000 ) Time , seconds Effect of N-WASP ( +lcsA ) 500 Time , seconds Figure 4 .
+IcsA mimics Cdcd42 in activating N-WASP and stimulating actin polymerization by Arp2/3 complex .
+Mg-G-actin ( 2.5 uM , 9 % pyrenyl-labeled ) was induced to polymerize by addition of 0.1 M KCI and 1 mM MgCl , in the presence or absence of Arp2/3 complex ( 9.5 nM ) and other reagents as indicated .
+a , VCA activates Arp2/3 complex .
+X , Control ( actin alone ) .
+For all other curves , Arp2/3 ( 9.5 nM ) and VCA are at the following concentrations : O , 0 ; V , 0.06 uM ; A , 0.12 uM ; , 0.24 pM ; 0 , 0.62 uM ; ¥ , 1.24 pM ; @ , 2.48 pM ; E , 3.7 uM .
+b , N-WASP activates Arp2/3 complex .
+Same conditions as in a , except N-WASP varied as follows : O , 0 ; © , 0.115 uM ; 0 , 0.23 uM ; A , 0.46 pM ; A , 0.70 M ; @ , 0.93 uM .
+c , Dependence of the activation of Arp2/3 on VCA and N-W ASP concentrations .
+The maximum rate of polymerization recorded in panels a , b , and f ( in the presence of IcsA ) is plotted versus the concentrations of VCA ( O ) or N-WASP ( @ ) .
+d , Cdc42 activates N-WASP-Arp2/3 - complex .
+Same as in b , with 0.2 M N-WASP , in the absence ( A ) or in the presence of GDP-Cdcd42 ( O ) or GTPyS-Cdc42 ( @ ) .
+e , IcsA activates N-WASP-Arp2/3 complex .
+Actin was polymerized alone ( A ) ; in the presence of 19 nM Arp2/3 ( O0 ) , 0.25 M IcsA ( © ) or 0.13 M N-WASP ( small © ) ; in the presence of Arp2/3 and 0.25 mM IcsA ( A ) ; Arp2/3 and 0.13 uM N-WASP ( 0 ) ; Arp2/3 , 0.13 M N-WASP and 30 nM ( O ) , or 0.25 M ( @ ) IcsA .
+f , Activation of Arp2/3 complex by N-W ASP is more pronounced in the presence of IcsA .
+Actin was polymerized in the presence of Arp2/3 , 0.1 wM IcsA and 0 ( O0 ) , 0.042 aM ( D0 ) , 0.087 pM ( A ) , and 0.55 wM ( @ ) N-WA SP .
+a manner coupled to ATP hydrolysis .
+The coupling to ATP hydrolysis was demonstrated to be thermodynami-cally required to account for the decrease in partial critical concentration of actin ( Pantaloni and Carlier , 1993 ) .
+Spontaneous polymerization of actin was inhibited by The Journal of Cell Biology , Volume 146 , 1999 VCA , exactly as observed with profilin ( data not shown ) .
+Hence , VCA-actin complex , like profilin-actin complex , is able to productively associate to barbed ends , but not to nucleate F-actin .
+This result accounts for the decrease observed in the activation of Arp2/3 complex at high VCA or 1326 , , Figure 5 .
+Isolated VCA acts in a profilin-like fashion in actin assembly .
+a , Critical concentration plots for assembly Actin concentration | a : 4.5 uM of gelsolin-capped filaments , ( gelsolin : actin = 1:300 ) in the a b : 3.0 pM | absence ( O ) or in the pres ence of VCA at 1 M ( ) or 2 M ( 0 ) .
+Pyrenyl fluorescence was measured at steady state .
+b , VCA sequesters actin when barbed ends are capped .
+- Gelsolin-capped F-actin ( gelsolin : actin = 1:300 , 9 % pyrenyl-labeled actin ) was incubated overnight c : 1.5 uM VCA , total concentration , uM 10 15 29 __ at 4.5 uM ( a ) , 3.0 uM ( b ) , and 1.5 M ( c ) , in the presence of VCA at the indicated concentrations .
+- Pyrenyl - fluores- cence was measured at steady state .
+c , VCA does not efficiently sequester actin when barbed ends are free .
+Critical concentration plots were monitored in the absence ( O ) and in the presence of 5 pM VCA ( @ ) .
+Inset , Increasing amounts of VCA - were added to 0.75 M F-actin .
+Pyrenyl fluorescence - was monitored at steady state .
+Note that 30 uM VCA appear required to depolymer-ize 0.6 pM F-actin when barbed ends are capped , 10 0.7 b 0.6 3 8 LU } 3 0.5 } & 0 gl é § 0.4 8 4 } p 3 o L 3 LL 2 .
+0 0 0 1 2 3 0 Actin , uM 4 C d 1 3 : c ls 8 - G 8 N 9.75 5 $ o 3 8 ° a g $ 0.5 } LL 6 a 1 } C ® & © 0.25 0 0 « : : 0 0 0.5 1 1.5 2 0 Actin , uM whereas 4.6 uM VCA would be expected to be required , assuming a pure sequestering activity and a K4 of 0.8 M 4 6 8 10 VCA , uM for the -actin complex .
+d , VCA-G-actin does not assemble onto pointed ends , but participates in barbed end assembly with the same kinetic parameters as profilin-actin .
+Rates of pointed end assembly from gelsolin-actin ( 0 ) and of barbed end assembly from spectrin-actin seeds ( @ ) were measured at 1 M G-actin and the indicated concentrations of VCA .
+N-W ASP concentration ( Fig .
+4 , a and b ) , which correlates with the saturation of G-actin by VCA .
+At low concentra-tions , VCA -actin interacts with Arp2/3 complex to enhance nucleation , but when all G-actin is bound to VCA , actual inhibition of nucleation occurs .
+The NH -terminal Domain of N-WASP Binds and Stabilizes F-Actin in an Ics A-enhanced Fashion Full-length N-W ASP did not display the G-actin sequestering activity of VCA , when barbed ends were capped by gelsolin .
+No depolymerization of gelsolin-capped F-actin was measured at steady state , and only weak inhibition in the rate of growth at the pointed ends of gelsolin-capped filaments was detected by addition of N-W ASP .
+Instead , N-W ASP bound to F-actin and stabilized the filaments , as shown by the observed decrease in critical concentration ( Fig .
+6 a ) .
+A slight decrease in the slope of the pyrenyl fluorescence critical concentration plots indicated that the Egile et al .
+Shigella flexneri Actin-based Motility fluorescence of F-actin was partially quenched upon binding N-W ASP .
+The binding to F-actin and the decrease in critical concentration were also observed in a sedimentation assay ( Fig .
+6 a , inset ) .
+The NH-terminal fragment of N-W ASP protein ( Nt , residues 1-276 ) stabilized the filaments and affected the slope of the critical concentration plots of gelsolin-capped filaments exactly like the full-length protein ( Fig .
+6 a ) , and bound to F-actin in sedimentation assays , which indicates that the Nt contains the F-actin binding site .
+The affinity of N-WASP for F-actin was roughly estimated to 2 to 5 10° M~ ' from these data .
+The binding to F-actin presumably counteracted and prevented observation of the sequestering activity of the COOH -terminal part of N-W A SP in solutions of F-actin .
+When barbed ends are free , the critical concentration is low ( 0.1 M ) , hence , the stabilizing effect of N-W ASP ( de-crease in critical concentration ) was best observed in the presence of a sequestering protein like thymosin B4 .
+The amount of unassembled actin at steady state then is ampli- 1327 8 | a Pa $ ; 0°P , $ .
+, P , $ ,0P oS `` 7F GST-Nt - > | f : actin - > !
+~~ * s-z 6 } § , Po § ; P ; § , P ; S , P ; N-WASP - > actin - > -.. u Fluorescence , cpm/1000 F-actin , uM 0 CC C3 3 N-WASP , uM c P , Py o P3 < - GST-lesA summ commie | < NW ASP « m » mmr io h -scin Figure 6 .
+An NH -terminal region in N-W ASP binds F-actin in an IcsA-enhanced fashion .
+a , Critical concentration plots for assembly of gelsolin-capped filaments in the absence ( O and A ) and in the presence ( @ ) of 3.6 wM ASP , or 2 LM GST-N-WASP-Nt fragment ( A ) .
+Inset , SDS-PAGE patterns of the pellets ( P ) and supernatants ( S ) of samples of 2 M gelsolin-capped F-actin incubated in the presence of 0 Sy ) , 1.6 wM ( P ; and S ; ) , 2.12 M ( P ; and S ; ) , and 3.6 pwM ( P ; and S ; ) N-WA SP , and 0 ( P ' , and S'pq ) , 1 M ( P ' ; and S ' ; ) , 2 M ( P ' , and S ' , ) GST-N-WASP-Nt fragment .
+P `` and S `` represent the pellet and supernatant of 2 uM GST-N-WASP-Nt alone .
+Note the decrease in actin in the supernatants , and the associated binding of N-W ASP and its NH -terminal fragment to F-actin .
+b , N-WASP promotes actin polymerization from a pool of T B4-actin complex when barbed ends are free .
+N-W ASP was incubated at the indicated concentrations with 2 wM F-actin ( 9 % pyrenyl-labeled ) in the presence of 30 M TBA .
+Pyrenyl fluorescence was measured at steady state , and converted in F-actin concentrations using a critical concentration plot carried out in parallel using the same F-actin solution .
+Inset , SDS-PAGE pattern of the pellets ( P ) and supernatants ( S ) of sedimented samples ( marked with an arrow in the main frame ) containing 2 M F-actin , 30 wM TBA4 , and 0 The Journal of Cell Biology , Volume 146 , 1999 fied by the sequestering effect of thymosin B4 , making any change in critical concentration easily measurable .
+The sequestering effect of thymosin B4 was drastically reduced by N-W ASP , as the result of the decrease in critical concentration ( Fig .
+6 b ) .
+Addition of 30 wM thymosin B4 to 2 M F-actin caused depolymerization of 1.28 M actin into thymosin B4-actin complex , consistent with a value of 0.1 + ( 30 - 1.28 ) / 1.28 = 2.2 wM for the K , of the thymosin B4-actin complex .
+Upon addition of N-W ASP to this solution , the concentration of F-actin at steady state increased .
+At saturation by N-W ASP , only 0.5 mM actin was unas-sembled , which , by solving the quadratic equation expressing the combination of the laws of mass conservation and mass action , corresponded to 0.47 wM thymosin B4-actin complex and 0.03 wM G-actin .
+Hence , the barbed end critical concentration was decreased three- to fourfold by N-W ASP .
+Sedimentation assays confirmed the conclusions derived from fluorescence measurements ( Fig .
+6 b , inset ) .
+In the presence of IcsA , the binding of N-W A SP to F-actin was strengthened ( Fig .
+6 c ) , and N-WASP-bound IcsA then cosedimented with F-actin .
+In conclusion , binding of IecsA to N-W ASP enhances the affinity of both its COOH terminal domain for Arp2/3 complex and its NH -terminal domain for F-actin .
+Removal of VASP Does Not Affect Actin-based Movement of Shigella To test the postulate that the binding of vinculin to IcsA would serve to recruit VASP ( Laine et al .
+, 1997 ) , which would have the same function in Shigella and Listeria movement , immunodepletion of VASP in platelet extracts was performed as described ( Laurent et al .
+, 1999 ) .
+Total depletion of VASP was checked by immunoblotting .
+The movement of E. coli ( IcsA ) precoated with N-WASP was not affected by removal of VASP ( Table I ) .
+Control samples were prepared in parallel to verify that Listeria , in contrast , did not move at all in VASP-depleted extracts , in agreement with previous observations ( Laurent et al .
+, 1999 ) .
+In conclusion , the putative vinculin-V ASP interaction is unlikely to play a role in Shigella movement .
+Profilin Is Not Required , but Enhances Actin-based Movement of Shigella Via Binding to Actin , Not to Proline-rich Proteins Depletion of profilin from platelet extracts by extensive poly-L-proline chromatography led to a 40 % decrease in the rate of propulsion of both Listeria and E. coli ( IcsA ) .
+Add-back of pure bovine spleen profilin ( 1 wM ) restored 80 % of the rate measured in mock-depleted extracts .
+It has been postulated ( Suetsugu et al .
+, 1998 ; Suzuki et al .
+, 1998 ) that binding of profilin to the proline-rich regions of N-W ASP could play a functional role in filopodium ex-tension , which is , like Shigella movement , mediated by ( P , and S , ) , 2.09 mM ( P ; and S ; ) , and 4.65 j_M ( P ; and S , ) N-W ASP , respectively .
+c , IcsA strengthens the binding of N-WASP to F-actin .
+SDS-PAGE patterns of the pellets ( P ) and supernatants ( S ) of samples of F-actin ( 2 M ) incubated in the presence of 2 M N-WASP and in the absence ( Pp and S , ) or in the presence of 0.15 wM ( P ; ) , 0.3 M ( P ; ) , and 0.6 M ( P ; ) GST-IcsA .
+1328 Table I .
+Role of Profilin and VASP in the Movement of E. coli ( IcsA ) Experiment Conditions Rate of movement um/min A Full platelet extract 3.1 + 0.2 VASP depletion Mock-depleted extract 2.6 + 0.6 VASP-depleted extract 2.6 + 0.8 VASP-depleted extract + 1 uM purified recombinant VASP 2.3 + 0.1 B Full platelet extract 2.5 + 0.2 Profilin depletion Mock-depleted extract 2.0 + 0.3 Profilin-depleted extract 1.3 + 0.1 Profilin-depleted extract + 1 wM wild-type profilin 1.7 + 0.1 Profilin-depleted extract + 1 wM H133S-mutant profilin 1.7 + 0.2 A , VASP is not involved in movement of E. coli ( IcsA ) .
+Platelet extracts were depleted from VASP as described in Materials and Methods , and assayed for movement of N-WASP-coated £ .
+coli ( IcsA ) .
+B , Profilin accelerates the movement of E. coff ( Ics A ) in a fashion that does not require its binding to proline-rich proteins .
+Profilin was depleted from 50 pl of platelet extracts as described in Materials and Methods .
+The extracts were assayed for motility of N-WASP-coated £ .
+coli ( IcsA ) .
+Rates of movement were measured using a Hamamatsu image analyzer .
+Average rates were derived from the distances moved over a period of 1 min ( 10 + 2 rate measurements ) .
+Error represents calculated SD .
+N-W ASP -induced actin polymerization .
+To test this pos-sibility , the add-back of profilin was performed using H133S-mutated profilin that fails to bind to poly-L-proline ( Bjorkegren-Sjogren et al .
+, 1997 ) .
+We first checked that the mutated profilin bound actin in a functional fashion strictly identical to either the bovine profilin or the recombinant human wild-type profilin .
+In brief , H133S profilin sequestered actin when barbed ends were capped , participated in barbed end assembly when they were uncapped , and the H1338 profilin-actin complex associated to barbed ends in a growth assay ( Gutsche-Perelroizen et al .
+, 1999 ) at the same rate as the wild-type profilin-actin complex ( data not shown ) .
+H 1338 profilin enhanced the rate of bacteria movement in profilin-depleted extracts to the exact same extent as bovine profilin in three reproducible experiments ( Table I ) , demonstrating that , by interacting directly with actin and not with a proline-rich protein , profilin enhances actin-based motility .
+Accordingly , we recently showed ( Laurent et al .
+, 1999 ) that the function of profilin in Listeria movement is independent of VASP , another proline-rich protein also initially thought to act by recruiting profilin .
+Discussion The stimulation of local actin assembly by Arp2/3 complex in response to different stimuli is thought to be pivotal in the generation of a large diversity of cellular extensions ( lamellipodia , filopodia , neural growth cone , etc . )
+, suggesting that a variety of connectors must link the different members of the Rho family to the Arp2/3 complex and activate actin polymerization by a common mechanism , with different partners .
+Our work shows that lessons can be learned from Shigella to understand the molecular mechanism of Cdc42-induced filopodium extension mediated by actin polymerization .
+The IcsA-N-WASP-Arp2/3 Ternary Complex Is Responsible for the Stimulation of Actin Assembly at the Surface of Shigella Recently , Rohatgi et al .
+( 1999 ) showed that N-W ASP relays Cdc42 signals and directly activates the Arp2/3 complex in Xenopus egg extracts and in vitro with purified Egile et al .
+Shigella flexneri Actin-based Motility N-WASP and Arp2/3 complex .
+We extend this work to show that the Shigella IcsA protein mimics Cdc42 , to greatly enhance the affinity of N-W ASP for Arp2/3 complex , thus assembling a tight Ics ternary complex at the bacterial surface , in a conformation that has maximal activity in actin assembly .
+N-W ASP activation by IcsA explains why Shigella actin-based motility is independent of the Rho GTPases ( Mounier et al .
+, 1999 ) .
+Our findings , combined with results from other laboratories ( Machesky and Insall , 1998 ; Miki et al .
+, 1998b ; Rohatgi et al .
+, 1999 ) , can be summarized using a thermodynamic scheme expressing that : both Arp2/3 complex and N-W ASP exist in solution in two conformations , inactive ( X ) and active ( X* ; Scheme 1 ) .
+The active form of Arp2/3 complex ( A* ) stimulates actin polymerization .
+The active form of N-WASP ( W* ) exposes two functionally active domains involved in actin-based motility , which may be masked in the inactive state by intramolecular interaction ( Miki and Takenawa , 1998 ; Miki et al .
+, 1998b ) .
+The VCA binds Arp2/3 complex and G-actin , and the NH -terminal domain binds F-actin .
+Our data ( Fig .
+6 b ) indicate that the F-actin binding site is most likely located in the WH 1 domain , which also interacts with the verprolin homologue WIP .
+This formulation accounts for the fact that the Arp2/3 complex by itself has a weak nucleating activity ( Mullins et al .
+, 1998 ; Machesky et al .
+, 1999 ) and that N-WASP by itself is able to bind F-actin and G-actin IosA N-WASP -- - -- - » N-WASPUlcsA Arp2/3*.N-WASP ¢ o/ .
+`` \ % , a/ ' Wi ® N-WASP*.lesA Arp¥M3 -- - `` Arp2/3* > r -f a Xd AX /o igAn { a `` X » Z74 Arp2/3*.IcsA Arp2/3*.N-WASP*.lcsA Scheme 1 1329 weakly ( this work ) .
+Binding of IesA ( I ) to N-W ASP shifts the N-WASP equilibrium toward the W* form , exposing the VCA domain and the F-actin binding domain , thus enhancing the affinity of N-W A SP for active Arp2/3 complex ( Fig .
+4 e ) and F-actin ( Fig .
+6 c ) .
+Binding of N-W ASP to Arp2/3 complex shifts the Arp2/3 equilibrium toward the A* form , increasing the amount of nucleating complex .
+It is implicit here that to nucleate actin polymerization , Arp2/3 complex binds G-actin .
+In the presence of IcsA and N-W ASP , the Arp2/3 complex equilibrium is maximally shifted toward the A * form , in a triangular A*-W*-I complex .
+In this complex , pro-tein-protein bonds are formed between the three partners ( A-W , W-I , and A- ) .
+Hence , each of the three components increases the stability of the complex .
+It is very likely that in vivo the actin-polymerization machinery is highly integrated and works on an all-or-none basis , i.e .
+, the Arp2/3 complex switches from an inactive to a fully active form upon interacting with the COOH -terminal region of N-W ASP , which itself is exposed only when Cdc42 has switched to its active conformation by binding GTP .
+Separating the components of this machinery by purification may cause structural alterations that partially unmask the protein interfaces normally buried in the inactive state .
+Detailed studies of the effect of solution variables on the activity of pure Arp2/3 complex will certainly help to understand the physical-chemical basis of N-W ASP and Arp2/3 activation .
+VCA has a high affinity for Arp2/3 complex ( a rough estimate of 10 `` M~ ' can be derived from the polymerization curves ) , allowing easy depletion of Arp2/3 from extracts and a straightforward purification procedure by affinity chromatography .
+At variance with a previous report ( Suzuki et al .
+, 1998 ) , VCA does not appear to bind to IcsA and elicit actin polymerization at the surface of Shigella .
+The reason for the discrepancy with Suzuki et al .
+( 1998 ) remains obscure , but may relate to the different methods used to probe the interaction .
+We conclude that VCA is not sufficient for IcsA binding and that this interaction probably also requires residues present outside of the VCA domain .
+Since WASP and N-W ASP are very similar in sequence , it is surprising that WASP , which is abundant in platelets , does not appear able to bind IcsA .
+A possible explanation is that WASP in platelets may be in strong interaction with other ligands , competing with IcsA binding .
+It may be noted , in this respect , that while the CRIB domains of WASP and N-W ASP are very similar in sequence , differences exist in the binding of Cdc42-Y40C ( Miki et al .
+, 1998b ) .
+Whether Cdc42 and IcsA directly compete for the same site to activate N-W ASP is not known , but raises an interesting issue concerning the possible multiple ways of activation of N-W ASP .
+The interface of the CRIB domain of N-WASP with GMPPCP-Cdc42 is known from NMR studies ( Abdul-Manan et al .
+, 1999 ) .
+It is also known that the glycine-rich regions of IcsA are involved in the association with N-W ASP ( Suzuki et al .
+, 1998 ) .
+The structural aspects of N-W ASP activation await more detailed investi-gation .
+Like Shigella , other pathogen model systems may help discover the multiple effectors linking Arp2/3 complex to different signaling pathways .
+The Journal of Cell Biology , Volume 146 , 1999 Insertion Propulsion Nucleation Cle , IesA ( 302 > active active N-WASP ARP 23 A A ¥ ¥ 32 a 5 a ¥ .If CBB & inactive Inactive N-WASP ARP 29 actin network Figure 7 .
+Working model for actin-based movement of Shigella .
+Left , Binding of N-WASP to IcsA at Shigella surface activates the connector , exposing the Arp2/3 complex , G-actin , and F-actin binding sites .
+Center , Nucleation : interaction of VCA with G-actin and Arp2/3 complex in a ternary complex in which the G-actin is positioned at the barbed end .
+Right , Barbed end growth and movement : the VCA domain of N-W ASP shuttles G-actin subunits to the growing barbed end .
+The filament is maintained in close vicinity to the bacterium surface by binding to the NH , -terminal domain of N-W A SP .
+The Arp2/3-N-WASP Complex Works with Actin as a Motor at the Surface of Shigella Analysis of the interaction of the COOH-terminal and NH -terminal domains of N-W A SP with actin provides insight in the mechanism by which actin polymerizes at the surface of Shigella .
+The two domains of N-W ASP that become exposed upon binding to IcsA fulfill different func-tions .
+The COOH-terminal domain binds G-actin and Arp2/3 complex .
+The nucleation and filament branching activities of Arp2/3 imply that G-actin binds to Arp2/3 complex , perhaps by interacting with Arp2 or Arp3 ( Pantaloni , D. , manuscript in preparation ) .
+We propose , in agreement with Machesky and Insall ( 1998 ) and Rohatgi et al .
+( 1999 ) , that the binding of G-actin in the nucleation complex is facilitated by association of the VCA domain to Arp2/3 complex , because in the VCA-actin complex , actin is positioned in the right orientation to interact with Arp2/3 , in the structure of a barbed end nucleus , hence the free energy of G-actin binding to Arp2/3 is lowered .
+Second , in the filament elongation step , while the VCA domain functions like profilin in barbed end assembly , shuttling actin subunits onto growing barbed ends , the NH -terminal domain of N-W ASP maintains the filament in the vicinity of Shigella surface .
+We propose that the two domains of N-W ASP work together with actin as expected for a motor of insertional polymerization at the surface of Shigella ( Fig .
+7 ) .
+Note that it is the treadmilling of actin filaments ( which is a dissipative process ) that supports unidirectional filament growth and promotes steady movement .
+N-W ASP acts as a molecular ratchet that transduces actin polymerization into force .
+N-W ASP is the first protein described thus far that possesses an integrated profilin-like 1330 function and locally lowers the critical concentration of G-actin .
+Whether other proteins share the same property in different cellular contexts is an exciting possibility .
+The observed localization of Arp2/3 complex in the actin tail of L isteria ( Welch et al .
+, 1997 ) and of Shigella ( Fig .
+3 in the present work ) correlates with its localization in the lamellipodium ( Bailly et al .
+, 1999 ; Svitkina and Borisy , 1999 ) .
+In the present work , the combination of motility assays with the biochemical analysis of the effects of Arp2/3 complex and N-WASP on actin polymerization brings a functional insight into the immunolocalization studies .
+While N-W ASP remains bound to IcsA as the bacterium is moving ( Fig .
+3 ) , the Arp2/3 complex is activated by interacting with N-W ASP transiently to nucleate and branch the filaments , then Arp2/3 complex remains incorporated in the actin meshwork as it is formed .
+We conclude that the Arp2/3 complex present in the actin tail ( and in the lamellipodium ) is no longer activated by N-W ASP .
+This view is quite different from the currently expressed one ( Mullins et al .
+, 1998 ; Machesky et al .
+, 1999 ) .
+The Shigella bacterial model , therefore , proves to be a good tool to understand the mechanics of lamellipodium extension .
+Comparison of the Listeria and Shigella actin-based motility mechanisms provides interesting information on the different strategies available to induce actin assembly .
+Listeria does not harness a cellular activator of Arp2/3 complex .
+Instead , the ActA protein itself elicits the two functions of activated N-W ASP .
+The central proline-rich domain of ActA binds VASP , which in turn binds F-actin , thus mediating the attachment of the filaments to the bac-terium , as does the NH-terminal domain of N-W ASP in Shigella .
+Whether the NH-terminal domain of ActA , which activates nucleation by Arp2/3 complex , acts like VCA by interacting with the p21-Arc subunit of Arp2/3 complex and with G-actin , possibly in a profilin-like fash-ion , is an open issue that may be of general relevance in the stimulation of actin assembly and which deserves in-vestigation .
+Remarkably , the NH » -terminal domain of ActA contains the acidic sequence DEWEE homologue of the DEWED in the extreme COOH-terminal region A of VCA , and a sequence KKRRKAIASS similar to the QKRSKAIHSS sequence in the cofilin homology region of VCA , but does not contain the verprolin homology regions present in VCA .
+The possibility is raised that Arp2/3 complex is activated in a similar way by different effectors .
+VASP Is Not Involved in Shigella Movement Removal of VASP from platelet extracts does not affect the movement of Shigella , while VASP is essential in the propulsion of Listeria .
+This result rules out the postulated mechanism according to which VASP would work , in both Shigella and Listeria systems , as a profilin recruiter , to enhance actin assembly in an actin-based motility ( ABM ) complex ( Z eile et al .
+, 1998 ) .
+Incidentally , the physical relevance of that mechanism was questionable , since diffusion of profilin-actin is very fast and dissociation of profilin from a proline-rich target would introduce a kinetically limiting step in filament assembly .
+Overall , our results are in general agreement with the conclusion derived by Goldberg ( 1997 ) that vinculin , hence the vinculin-V ASP interaction , is not required in Shigella motility .
+Our Egile et al .
+Shigella flexneri Actin-based Motility data further show that the function of profilin in actin-based Shigella movement is mediated by binding actin di-rectly , without interacting with the proline-rich region of N-W ASP .
+Similarly , we demonstrated that the function of profilin in Listeria movement is independent of VASP ( Laurent et al .
+, 1999 ) .
+VASP in Listeria and N-W ASP in Shigella mediate attachment of the actin tail to the bacterial surface .
+Hence , the mechanisms of movement of these two pathogens are similar in their physical principles , and some of the operators are the same ( Arp2/3 complex and actin ) , whereas some functions are elicited by different players .
+From Actin Polymerization to Movement Although the interaction of IcsA with N-W ASP is essential in generating Shigella motility , N-W A SP -coated bacteria fail to actively move in a solution of F-actin at steady state in the presence of Arp2/3 complex .
+As pointed out earlier ( Carlier , 1998 ) , regulatory factors that maintain G-actin at a high steady state concentration , by regulating the dynamics of actin assembly , are important missing ingredients in the reconstitution of movement ( Loisel et al .
+, 1999 ) .
+We thank Dr. Sally Zigmond for a generous gift of recombinant wild-type and H133S profilins , and Dr. Jiirgen Wehland for anti-VASP and anti-Arp3 antibodies .
+M.-F. Carlier acknowledges partial support from the Association pour la Recherche contre le Cancer ( ARC ) , the Association Frangaise contre les Myopathies ( AFM ) , and a Human Frontier in Science grant .
+P.J .
+San-sonetti acknowledges support from Ministére de la Recherche , Direction des Recherches et Techniques ( DRET ) , and a grant from the Fondation Louis Jeantet de Médecine .
+The confocal microscope was bought with a donation from Marcel and Liliane Pollack .
+C. Egile is supported by the Fondation pour la Recherche Médicale .
+TP .
+Loisel is supported by a fellowship from the Natural Sciences and Engineering Research Council of Canada .
+Submitted : 19 May 1999 Revised : 22 July 1999 Accepted : 20 August 1999 References Abdul-Manan , N. , B. Aghazadeh , G.A .
+Liu , A. Majumdar , O. Ouerfelli , K.A .
+Siminovitch , and M.K .
+Rosen .
+1999 .
+Structure of Cdc42 in complex with the GTPase-binding domain of the Wiskott-Aldrich syndrome protein .
+Nature .
+399:379-383 .
+Bailly , M. , F. Macaluso , M. Cammer , A. Chan , J.E .
+Segall , and J.S .
+Condeelis .
+1999 .
+Relationship between Arp2/3 complex and the barbed ends of actin filaments at the leading edge of carcinoma cells after EGF stimulation .
+J .
+Cell Biol .
+145:331-346 .
+Bear , J.E .
+, J.F .
+Rawls , and C.L .
+Saxe III .
+1998 .
+SCAR , a WA SP-related protein , isolated as a suppressor of receptor defects in late Dictyostelium develop-ment .
+J .
+Cell Biol .
+142:1325-1335 .
+Beckerle , M.C .
+1998 .
+Spatial control of actin filament assembly : lessons from Listeria .
+Cell .
+95:741-748 .
+Bernardini , ML .
+, J. Mounier , H. d'Hauteville , M. Coquis-Rondon , and P. Sansonetti .
+1989 .
+Identification of IcsA , a plasmid locus of Shigella flexneri that governs bacterial intra and intercellular spread through interaction with F-actin .
+Proc .
+Natl .
+A cad .
+Sci .
+USA .
+86:3867-3871 .
+Bi , E. , and S.H .
+Zigmond .
+1999 .
+Actin polymerization : where the WASP stings .
+Curr .
+Biol .
+9 : R160-R 163 .
+Bjorkegren-Sjogren , C. , E. Korenbaum , P. Nordberg , U. Lindberg , and R. Karlsson .
+1997 .
+Isolation and characterization of two mutants of human profilin I that do not bind poly ( L-proline ) .
+FEBS L eff .
+418:258-264 .
+Carlier , M.-F. 1998 .
+Control of actin dynamics .
+Curr .
+Opin .
+Cell Biol .
+10:45-51 .
+Carlier , M.-F. , V. Laurent , J. Santolini , D. Didry , R. Melki , Y. Hong , G.-X .
+Xia , N.-H. Chua , and D. Pantaloni .
+1997 .
+ADF/cofilin enhances the turnover of actin filaments .
+Implication in actin-based motility .
+J .
+Cell Biol .
+136:1307-1322 .
+Casella , J.F .
+, D .J .
+Maack , and S. Lin .
+1986 .
+Purification and initial characteriza- 1331 tion of a protein from skeletal muscle that caps the barbed ends of actin filaments .
+J. Biol .
+Chem .
+261:10915-10921 .
+Derry , J.M .
+, HD .
+Ochs , and U. Francke .
+1994 .
+Isolation of a novel gene mutated in Wiskott-Aldrich syndrome .
+Cell .
+78:635-644 .
+Domann , E. , J. Wehland , M. Rhode , S. Pistor , M. Hartl , W. Goebel , M. Leis-meister-Wiichter , M. Wuenscher , and T. Chakraborty .
+1992 .
+A novel bacterial virulence gene in L isteria monocytogenes required for host cell microfil-ament interaction with homology to the proline-rich region of vinculin .
+EMBO ( Eur .
+Mol .
+Biol .
+Organ . )
+J .
+11:1981-1990 .
+Goldberg , M.B .
+1997 .
+Shigella actin-based motility in the absence of vinculin .
+Cell Motil .
+Cytoskeleton .
+37:44-53 .
+Goldberg , M.B .
+, and J.A .
+Theriot .
+1995 .
+Shigella flexneri surface protein IcsA is sufficient to direct actin-based motility .
+Proc .
+Natl .
+A cad .
+Sci .
+USA .
+92:6572-6576 .
+Goldberg , M.B .
+, O. Barzu , C. Parsot , and P. Sansonetti .
+1993 .
+Unipolar localization and ATPase activity of IcsA , a Shigella flexneri protein involved in intracellular movement .
+J. Bacteriol .
+175:2189-2196 .
+Gutsche-Perelroizen , I. , J. Lepault , A. Ott , and M.-F. Carlier .
+1999 .
+Filament assembly from profilin-actin .
+J. Biol .
+Chem .
+274:6234-6243 .
+Higley , S. , and M. Way .
+1997 .
+Actin and cell pathogenesis .
+Curr .
+Opin .
+Cell Biol .
+9:62-69 .
+Kocks , C. , E. Gouin , M. Tabouret , P. Berche , H. Ohayon , and P. Cossart .
+1992 .
+L. monocytogenes-induced assembly requires actA gene product , a surface protein .
+Cell .
+68:521-531 .
+Kocks , C. , J.-B .
+Marchand , E. Gouin , H. d'Hauteville , P. Sansonetti , M.-F. Carlier , and P. Cossart .
+1995 .
+The unrelated surface proteins ActA of Listeria monocytogenes and IcsA of Shigella flexneri are sufficient to confer actin-based motility on Listeria innocua and E. coli respectively .
+Mol .
+Microbiol .
+18413-423 .
+Kozma , R. , S. Ahmed , A .
+Best , and L. Lim .
+1995 .
+The ras-related protein Cdc42Hs and bradykinin promote formation of peripheral actin microspikes and filopodia in Swiss 3T3 fibroblasts .
+Mol .
+Cell .
+Biol .
+15:1942-1952 .
+Laine , R.O .
+, W. Zeile , F. Kang , D.L .
+Purich , and F.S .
+Southwick .
+1997 .
+Vinculin proteolysis unmasks an ActA homolog for actin-based Shigella motility .
+J .
+Cell Biol .
+138:1255-1264 .
+Laurent , V. , and M.-F. Carlier .
+1997 .
+Use of platelet extracts for actin-based motility of Listeria monocytogenes .
+In Cell Biology Laboratory Handbook .
+E. Celis , editor .
+Academic Press , San Diego , CA .
+359-365 .
+Laurent , V. , T.P .
+Loisel , B. Harbeck , A. Wehman , L. Grobe , B.M .
+Jockusch , J. Wehland , F.B .
+Gertler , and M.-F. Carlier .
+1999 .
+Role of the proteins of the Ena/V ASP family in actin-based motility of Listeria monocytogenes .
+J .
+Cell Biol .
+144:1245-1258 .
+Lechler , T. , and R. Li .
+1997 .
+In vitro reconstitution of cortical actin assembly sites in budding yeast .
+J .
+Cell Biol .
+138:95-103 .
+Lett , M.C .
+, C. Sasakawa , N. Okada , T. Sakai , S. Makino , M. Yamada , K. Ko-matsu , and M. Yoshikawa .
+1989 .
+VirG , a plasmid-coded virulence gene of Shigella flexneri : identification of the virG protein and determination of the complete coding sequence .
+J. Bacteriol .
+171:353-359 .
+Li , R. 1997 .
+Beel , a yeast protein with homology to Wiskott-Aldrich syndrome protein , is critical for the assembly of cortical actin cytoskeleton .
+J .
+Cell Biol .
+136:649-658 .
+Loisel , T.P .
+, R. Boujemaa , D. Pantaloni , and M.-F. Carlier .
+1999 .
+Reconstitution of actin-based motility of Listeria and Shigella from pure proteins .
+Nature .
+In press .
+Ma , L. , C. Cantley , P.A .
+Janmey , and M.W .
+Kirschner .
+1998a .
+Corequirement of specific phosphoinositides and small GTP-binding protein Cdc42 in inducing actin assembly in Xenopus egg extracts .
+J .
+Cell Biol .
+140:1125-1136 .
+Ma , L. , R. Rohatgi , and M.W .
+Kirschner .
+1998b .
+The Arp2/3 complex mediates actin polymerization induced by the small GTP-binding protein Cdc42 .
+Proc .
+Natl .
+A cad .
+Sci .
+USA .
+95:15362-15367 .
+Machesky , L.M .
+, and RH .
+Insall .
+1998 .
+Scarl and the related Wiskott-Aldrich syndrome protein , WA SP , regulate the actin cytoskeleton through the Arp2/3 complex .
+Curr .
+Biol .
+8:1347-1356 .
+Machesky , L.M .
+, R.D .
+Mullins , H.N .
+Higgs , D.A .
+Kaiser , L. Blanchoin , R.C .
+May , M.E .
+Hall , and T.D .
+Pollard .
+1999 .
+Scar , a WASp-related protein , activates dendritic nucleation of actin filaments by the Arp2/3 complex .
+Proc .
+Natl .
+A cad .
+Sci .
+USA .
+96:3739-3744 .
+Marchand , J.-B .
+, P. Moreau , A. Paoletti , P. Cossart , M.-F. Carlier , and D. Pantaloni .
+1995 .
+Actin-based movement of Listeria monocytogenes in Xenopus egg extracts is due to the maintenance of uncapped barbed ends at the bacterium surface .
+J .
+Cell Biol .
+130:331-343 .
+Miki , H. , and T. Takenawa .
+1998 .
+Direct binding of the verprolin-hology domain in N-WASP to actin is essential for cytoskeletal reorganization .
+Bio-chem .
+Biophys .
+Res .
+Commun .
+243:73-78 .
+The Journal of Cell Biology , Volume 146 , 1999 Miki , H. , K. Miura , and T. Takenawa .
+1996 .
+N-W ASP , a novel actin-depolymerizing protein , regulates the cortical cytoskeletal rearrangement in a PIP ; -dependent manner downstream of tyrosine kinases .
+EMBO ( Eur .
+Mol .
+Biol .
+Organ . )
+J .
+15:5326-5335 .
+Miki , H. , S. Suctsugu , and T. Takenawa .
+1998a .
+WAVE , a novel W A SP-family protein involved in actin reorganization induced by rac .
+EMBO ( Eur .
+Mol .
+Biol .
+Organ . )
+J .
+17:6932-6941 .
+Miki , H. , T. Sasaki , Y. Takai , and T. Takenawa .
+1998b .
+Induction of filopodium formation by a N-WASP-related actin-depolymerizing factor .
+Nature .
+391 : 93-96 .
+Mounier , J. , V. Laurent , A .
+Hall , P. Fort , M.-F. Carlier , P.J .
+Sansonetti , and C. Egile .
+1999 .
+Rho family GTPases control entry of Shigella flexneri into epi-thelial cells but not intracellular motility .
+J .
+Cell Sei .
+112:2069-2080 .
+Mullins , R.D .
+, J.A .
+Heuser , and T.D .
+Pollard .
+1998 .
+The interaction of Arp2/3 complex with actin : nucleation , high affinity pointed end capping and formation of branching networks of actin filaments .
+Proc .
+Natl .
+A cad .
+Sci .
+USA .
+95 : 6181-6186 .
+Nhicu , G.T .
+, and P.J .
+Sansonetti .
+1999 .
+Mechanism of Shigella entry into epithe-lial cells .
+Curr .
+Opin .
+Microbiol .
+2:51-55 .
+Niebuhr , K. , F. Ebel , R. Frank , M. Reinhardt , E. Domann , U.D .
+Carl , U. Walter , F.B .
+Gertler , J. Wehland , and T. Chakraborty .
+1997 .
+A novel proline-rich motif present in ActA and cytoskeletal proteins is the ligand for the EVH1 domain , a protein module present in the Ena/VASP family .
+EMBO ( Eur .
+Mol .
+Biol .
+Organ . )
+J .
+16:5433-5444 .
+Nobes , C.D .
+, and A .
+Hall .
+1995 .
+Rho , Rac , and Cdc42 GTPases regulate the assembly of multimolecular focal complexes associated with actin stress fibers , lamellipodia , and filopodia .
+Cell .
+81:53-62 .
+Pantaloni , D. , and M.-F. Carlier .
+1993 .
+How profilin promotes actin filament assembly in the presence of thymosin B4 .
+Cell .
+75:1007-1014 .
+Prevost , M.-C. , M. Lesourd , M. Arpin , F. Vernel , J. Mounier , R. Hellio , and P. Sansonetti .
+1992 .
+Unipolar reorganization of F-actin layer at bacterial division and bundling of actin filaments by plastin correlate with movement of Shigella flexneri within HeLa cells .
+Infect .
+Immun .
+60:4088-4099 .
+Ramesh , N. , LM .
+Anton , N. Martinez-Quiles , and R.S .
+Geha .
+1999 .
+Waltzing with WASP .
+Trends Cell Biol .
+9:15-19 .
+Ressad , F. , D. Didry , C. Egile , D. Pantaloni , and M.-F. Carlier .
+1999 .
+Control of the turnover and length distribution of actin filaments by ADF/cofilin in the presence of capping proteins and Arp2/3 complex .
+J. Biol .
+Chem .
+274:20970-20976 .
+Rohatgi , R. , M. Le , H. Miki , M. Lopez , T. Kichhausen , T. Takenawa , and M.W .
+Kirschner .
+1999 .
+The interaction between N-WA SP and the Arp2/3 complex links Cdc42-dependent signals to actin assembly .
+Cell .
+97:221-231 .
+Smith , G.A .
+, J.A .
+Theriot , and D.A .
+Portnoy .
+1996 .
+The tandem repeat domain in the Listeria monocytogenes ActA protein controls the rate of actin-based motility , the percentage of moving bacteria , and the localization of VASP and profilin .
+J .
+Cell Biol .
+135:647-660 .
+Suctsugu , S. , H. Miki , and T. Takenawa .
+1998 .
+The essential role of profilin in the assembly of actin for microspike formation .
+EMBO ( Eur .
+Mol .
+Biol .
+Organ . )
+J .
+17:6516-6526 .
+Suzuki , T. , S. Saga , and C. Sasakawa .
+1996 .
+Functional analysis of Shigella VirG domains essential for interaction with vinculin and actin-based motility .
+J. Biol .
+Chem .
+271:21878-21885 .
+Suzuki , T. , H. Miki , T. Takenawa , and C. Sasakawa .
+1998 .
+Neural Wiskott-Aldrich syndrome protein is implicated in the actin-based motility of Ski-gella flexneri .
+EMBO ( Eur .
+Mol .
+Biol .
+Organ . )
+J .
+17:2767-2776 .
+Svitkina , T.M .
+, and G.G .
+Borisy .
+1999 .
+Arp2/3 complex and actin depolymerizing factor/cofilin in dendritic organization and treadmilling of actin filament array in lamellipodia .
+J .
+Cell Biol .
+145:1009-1026 .
+Welch , M.D .
+, A. Iwamatsu , and T.J. Mitchison .
+1997 .
+Actin polymerization is induced by the Arp2/3 complex at the surface of Listeria monocytogenes .
+Nature .
+385:265-269 .
+Welch , M.D .
+, J. Rosenblatt , J. Skoble , D.A .
+Portnoy , and T.J. Mitchison .
+1998 .
+Interaction of human Arp2/3 complex and the Listeria monocytogenes ActA protein in actin filament nucleation .
+Science .
+281:105-108 .
+Winter , D. , T. Lechler , and R. Li .
+1999 .
+Activation of the Arp2/3 complex by Beelp , a WA SP-family protein .
+Curr .
+Biol .
+9:501-504 .
+Zeile , W.L .
+, R.C .
+Condit , J.I .
+Lewis , D.L .
+Purich , and F.S .
+Southwick .
+1998 .
+Vaccinia locomotion in host cells : evidence for the universal involvement of actin-based motility sequences ABM-1 and ABM-2 .
+Proc .
+Natl .
+Acad .
+Sci USA .
+95:13917-13922 .
+Zigmond , S.H .
+, M. Joyce , C. Yang , K. Brown , M. Huang , and M. Pring .
+1998 .
+Mechanism of Cdc42-induced actin polymerization in neutrophil extracts .
+J .
+Cell Biol .
+142:1001-1012 .
+1332

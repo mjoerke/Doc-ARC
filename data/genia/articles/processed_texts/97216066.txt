@@ -1,0 +1,932 @@
+Common and Distinct Intracellular Signaling Pathways in Human Neutrophils Utilized by Platelet Activating Factor and FMLP Jerry A. Nick , ** Natalie J. Avdi , * Scott K. Young , * Cindy Knall , $ !
+Par Gerwins , $ Gary L .
+Johnson , $ ! ``
+and G. Scott Worthen* !
+t *Department of Medicine , Division of Basic Sciences , and \Program in Molecular Signal Transduction , National Jewish Center for Immunology and Respiratory Medicine ; and *Department of Medicine and Department of Pharmacology , University of Colorado School of Medicine , Denver , Colorado 80206 Abstract Stimulation of human neutrophils with chemoattractants FMLP or platelet activating factor ( PAF ) results in different but overlapping functional responses .
+We questioned whether these differences might reflect patterns of intracellular signal transduction .
+Stimulation with either PAF or FMLP resulted in equivalent phosphorylation and activation of the mitogen-activated protein kinase ( MAPK ) homologue 38-kD murine MAP kinase homologous to HOG-1 ( p38 ) MAPk .
+Neither FMLP nor PAF activated c-jun NH , -terminal MAPk ( JNKs ) .
+Under identical conditions , FMLP but not PAF , resulted in significant p42/44 ( ERK ) MAPK activation .
+Both FMLP and PAF activated MAP kinase kinase-3 ( MKK3 ) , a known activator of p38 MAPk .
+Both MAP ERK kinase kinase-1 ( MEKK1 ) and Raf are activated strongly by FMLP , but minimally by PAF .
+Pertussis toxin blocked FMLP-induced activation of the p42/44 ( ERK ) MAPK cas-cade , but not that of p38 MAPK .
+A specific p38 MAPK inhibitor ( SK & F 86002 ) blocked superoxide anion production in response to FMLP and reduced adhesion and chemotaxis in response to PAF or FMLP .
+These results demonstrate distinct patterns of intracellular signaling for two chemoattractants and suggest that selective activation of intracellular signaling cascades may underlie different patterns of functional responses .
+( J. Clin .
+Invest .
+1997 .
+99:975-986 . )
+Key words : MAP kinases + superoxide « adhesion « neutrophil activation « pertussis toxins Introduction Stimulation of human neutrophils by chemoattractants results in their accumulation at sites of inflammation and the initiation of a spectrum of responses that may contribute to tissue injury .
+In the adult respiratory distress syndrome ( ARDS ) massive neutrophil accumulation in the lung is associated with significant lung injury , while in other disease processes neutrophil accumulation can result in negligible tissue injury ( 1 , 2 ) .
+The observation that different stimuli can result in different responses appears to offer clues as to the regulatory mechanism J .
+A. Nick and N.J. Avdi contributed equally to this work .
+Address all correspondence to Jerry A. Nick , M.D .
+, c/o G. Scott Worthen , M.D .
+, National Jewish Center for Immunology and Respiratory Medicine , 1400 Jackson Street , Denver , CO 80206 .
+Phone : 303-398-1171 ; FAX : 303-398-1851 ; E-mail : worthens @ njc.org Received for publication 4 September 1996 and accepted in revised form 12 December 1996 .
+J. Clin .
+Invest .
+© The American Society for Clinical Investigation , Inc. 0021-9738/97/03/0975/12 $ 2.00 Volume 99 , Number 5 , March 1997 , 975-986 by which neutrophils routinely function ; in host defense neutrophils are activated without significant injurious effects ( i.e .
+, bacterial pneumonia ) , compared with situations where neutrophil accumulation contributes to substantial lung injury .
+Two stimuli that highlight potential differences in events leading to neutrophil activation are the chemoattractants FMLP ( 3 ) , and platelet-activating factor ( PAF ) ( 4 ) .
+While both of these compounds are potent stimulators of multiple functional responses in human neutrophils , the repertoire of responses elicited by each is distinctly different .
+Exposure to FMLP results in a broad range of rapid functional responses including actin assembly , adherence , calcium influx , chemokinesis , chemotaxis , superoxide production and granule enzyme release ( 5 ) .
+While a number of functional responses induced by PAF stimulation are similar to those induced by FMLP , some important differences have been noted .
+Of particular interest is the relative inability of neutrophils to produce superoxide anion after PAF stimulation .
+At high concentrations PAF is a much weaker agonist for release of superoxide anion and granule constituents than is FMLP , and under physiologic conditions PAF-induced superoxide anion release is minimal ( 6 , 7 ) .
+Superoxide production has long been recognized as an important component in host defense , as well as a contributor to the pathogenesis of lung injury in certain inflammatory dis-eases .
+Individuals whose neutrophils lack the ability to produce superoxide , as in chronic granulomatous disease ( CGD ) , suffer from recurrent bacterial and fungal infections ( 8 ) .
+Whereas excess superoxide production contributes to the pathogenesis of acute lung injury ( 9 ) .
+Both FMLP ( 10 ) and PAF ( 11 , 12 ) bind to the neutrophil cell surface via members of the seven trans-membrane spanning G-protein linked receptor family .
+After receptor activa-tion , specificity of the functional response might occur through activation of distinct and separate effector pathways ( as shown in yeast ) , or through combinatorial mechanisms .
+We have begun to address the central hypothesis that specific functional responses in neutrophils are regulated through the preferential utilization of intracellular signaling pathways resulting from the binding of stimuli to cell surface receptors .
+Recent studies 1 .
+Abbreviations used in this paper : ATF-2 , activated transcription factor-2 ; EGFR , epidermal growth factor receptor ; ERK , extracellu-lar signal-regulated kinases ; JNK , c-Jun NH ; -terminal kinase ; KRPD , Krebs ringer phosphate buffer with dextrose ; MAPk , mitogen-activated protein kinase ; Recombinant kinase-inactive MAPk ; MAPk , , , Recombinant wild-type MAPk ; MEK , MAP/ERK kinase ( also termed MAP kinase kinase ) ; MEK recombinant kinase-inactive MEK1 ; MKK3 , MAP kinase kinase 3 ; MKK4 , MAP kinase kinase 4 ( JNKK ) ; MEKK , MEK kinase ( MAPk kinase kinase ) ; p38 , 38-kD murine MAP kinase homologous to HOG-1 MAPk ( yeast ) ; PAF , platelet activating factor ; PKC , protein kinase C ; PMA , phorbol myristate acetate ; PTX , pertussis toxin .
+Platelet Activating Factor and FMLP Induced Intracellular Signaling in Neutrophils 975 have indicated that the binding of FMLP to a seven transmembrane spanning receptor on the surface of human neutrophils initiates a sequence of protein phosphorylation events including the activation of the Ras-dependent kinases [ Raf and MAP/ERK kinase kinase-1 ( MEKK-1 ) ] ( 13 ) which then phosphorylate and activate the MAP/ERK kinases ( MEK-1 and MEK-2 ) which in turn activate the p42/44 ( ERK ) mitogen activated protein kinase ( MAPk ) ( 14-16 ) .
+The activation of kinases in this pathway is maximal within 1-2 min after exposure to FMLP .
+Little is known about the intracellular signaling pathway utilized by the human neutrophil in response to PAF stimulation .
+PAF binding to its seven trans-membrane spanning G-protein linked receptor stimulate tyrosine phosphorylation of several intracellular proteins ( 17 ) , these intracellular signaling events do not appear to include significant activation of either MEK-1 ( 18 ) or MEK-2 ( 19 ) .
+If heterogeneity of neutrophil responses is reflected in selective utilization of intracellular signaling pathways , these differences might ultimately result in distinct patterns of MAP kinase activation .
+In addition to p42/44 ( ERK ) MAPK , at least two distinct families of MAP kinase exist in mammalian cells .
+Known MAP kinase family members include the c-Jun N-terminal MAPk ( JNKs ) , and the 38-kD murine MAP kinase homologous to HOG-1 ( p38 ) MAPk ( named based on its molecular weight in murine cells ) both of which can be activated by various `` stress `` stimuli in mammalian cells ( 20-23 ) .
+We now report that FMLP strongly activates both p38 MAPk and p42/44 ( ERK ) MAPk , while PAF preferentially activates p38 MAPk .
+The activation of p42/44 ( ERK ) MAPk by FMLP occurs through activation of MEK1/MEK2 , while activation of p38 MAPk by FMLP and PAF appears to occur through the activation of MAP kinase kinase 3 ( MKK3 ) .
+Specific inhibition of p38 MAPk by a bicyclic imidazole ( SK & F 86002 ) results in selective loss of functional responses to FMLP or PAF stimulation .
+These results allow for the most complete analysis to date of intracellular signaling pathways used by two distinct chemoattractants via seven-transmembrane spanning receptors , corresponding to different functional responses .
+Methods Materials .
+Endotoxin free reagents and plastics were used in all experiments .
+Neutrophils were resuspended in Krebs ringer phosphate buffer ( KRPD ) pH 7.2 with 0.2 % dextrose .
+Salts used in the buffer were purchased from Mallinckrodt Specialty Chemicals ( Paris , KY ) .
+KRPD components were diluted in endotoxin free saline ( 0.9 % saline for irrigation ; Abbott Laboratories ) and prepared , fresh daily .
+Phorbol myristate acetate ( PMA ) , cytochalasin B , aprotinin , leupep-tin , PMSF , FMLP , Bovine serum albumin fraction V , and protein A-Sepharose were purchased from Sigma Chemical Co. ( St. Louis , MO ) .
+IP-20 ( TTYADFIASGRTGRRNAIHD ) and a ( RRELVEPLTPSGEAPNQALLR ) peptides were synthesized by Macromolecular Resources ( Fort Collins , CO ) .
+PAF was purchased from Avanti Polar Lipids , Inc. ( Alabaster , AL ) and fura-2 from Molecular Probes ( Eugene , OR ) .
+SK & F 86002-A2 [ 6- ( 4-Fluorophenyl ) -2,3-dihydro-5- ( 4-pyridinyl ) imidazo ( 2,1-b ) thiazole dihydrochloride ] was provided by SmithKline Beecham Pharmaceuticals ( King of Prussia , PA ) .
+Antibodies .
+A polyclonal anti-p38 antiserum was raised by conjugating a 14-amino acid peptide CFVPPPLDQEEMES corresponding to the COOH of HOG-1/p38 to keyhole limpet hemocyanin ( KLH ) and used to immunize rabbits .
+The specificity of the p38 MAP kinase antibody was defined by immunoblotting of recombinant p38 and cell lysates .
+Anti-phosphotyrosine and anti-MKK3 were obtained 976 - Nick et al .
+from Upstate Biotechnology Incorporated ( Lake Placid , NY ) .
+Anti-p38 MAPk , anti-c-Raf-1 , anti-B-Raf , anti-ERK1 ( p44 MAPk ) , and anti-ERK2 ( p42 MAPk ) were obtained from Santa Cruz Biotechnology ( Santa Cruz , CA ) .
+Anti-MEKK-1 was raised against a recombinant fragment of MEKK-1 ( 24 ) .
+Expression and purification of recombinant proteins .
+GST -c-Junj » and activated transcription factor-2 ( ATF-2 ) ; _ ; , were prepared using methods previously described ( 25 ) .
+Kinase inactive MEK 1 ( MEK 1 } , , ) and wild type MEK1 ( MEK1 , , , ) were expressed in E. coli as previously described ( 26 ) .
+The p38 and p38 MAPk , , , were expressed utilizing a construct designed with a polyhistidine sequence at the prepared by ligating NspB11-digested HL60 cell p38 MAPk cDNA with Pvull-digested bacterial expression vector pRSETC .
+A kinase-inactive p38 MAPk fusion protein was created by site-directed mutagenesis in which the active site lysine-53 is converted to methionine using the oligonucleotide 5-TGCATAT-CAT*GAAAATCAG-3 ' .
+After expression by E. coli , the identity of the recombinant p38 MAPk was confirmed by resequencing .
+Neutrophil function assays .
+Neutrophil adherence after stimulation with PAF or FMLP was measured as previously described ( 27 ) .
+Actin assembly was determined in triplicate by NBD-phallacidin staining and analyzed by a Coulter EPICs C cytofluorograph ( 28 ) .
+Release of superoxide anion was determined in triplicate experiments using methods previously described ( 29 ) .
+Neutrophils were pretreated with cytochalasin B ( 5 pg/ml ) for 5 min before stimulation in all superoxide anion release assays .
+Neutrophil migration was measured by a standard micropore filter assay using blind well Boyden chambers .
+Briefly , the lower well of the chamber was filled with KRPD-HSA with or without FMLP or PAF .
+The well was then overlaid with an 8 M pore size , 150-uM thick nitrocellulose filter ( Sartorius ) prewetted in KRPD-HSA .
+The upper well was screwed down onto the filter and 10° neutrophils in 200 pl were added to the upper well .
+The chambers were then incubated in a humidified , CO , incubator at 37°C for 1-2 h. After incuba-tion , the filters were harvested and fixed in 70 % ethanol .
+The filters were then stained with hematoxylin , dehydrated , cleared and mounted as previously described ( 30 ) .
+All samples were tested in triplicate with three independent cell counts per replicate filter at 400 % and at a specific depth of field from the top of the filter for a total of nine readings per sample .
+Mobilization of intracellular calcium [ Ca®* ] ; was analyzed by incubation of neutrophils ( 10 % /ml ) with fura-2 ( 1.5 M , final concentra-tion ) ( 31 ) for 45 min at 37°C .
+The cells were washed with 50 ml KRPD and resuspended at 5 X 10° % /ml in KRPB containing a range of concentrations of SK & F 86002 .
+The cells were incubated in SK & F 86002 for 60 min at 37°C .
+Fluorescence of the neutrophil population after stimulation with FMLP or PAF was then determined by dual ex-citation-emission spectofluorimeter using excitation wavelengths of 340 and 380 nm with an emission wavelength of 510 nm .
+The ratio of fluorescence intensity at 340 and 380 nm is proportional to [ Ca®* ] ; , The maximum [ Ca** ] ; measured after stimulation of cells pretreated with SK & F 86002 was expressed as a ratio of the maximum after stimulation of cells not exposed to SK & F 86002. p38 MAPk immunoprecipitation and kinase assay ( 25 ) .
+Briefly , neutrophils isolated by the plasma percoll method ( 32 ) were stimulated and lysed .
+Immunoprecipitation of p38 MAPk was achieved using p38 MAPk antisera .
+Beads were resuspended in 25 pl kinase mix containing 20 mM Hepes , pH 7.6 , 200 mM MgCl , , 20 uM ATP , 20 Ci [ y-P ] ATP , 2 mM dTT , 100 M sodium orthovanadate , 25 mM B-glyc-erolphosphate ( pH 7.2 ) and a recombinant fragment of activated transcription factor 2 ( ATF-2 , ; ; , ) .
+Reactions were terminated with 2 % Laemmli buffer and proteins were separated by SDS-PAGE , with quantification of activity by autoradiography and phosphorimaging , and qualitative analysis of enzyme presence and phosphorylation by immunoblotting .
+JNK , Raf , and MKK3 immunoprecipitation and kinase assay .
+JNK immunoprecipitation and kinase assay ( 25 ) and anti c-Raf-1 immunoprecipitation and kinase assay were performed as previously described ( 16 , 33 ) .
+MKK3 : Neutrophils , stimulated with either 10-8 M FMLP or 10-8 M PAF for 90 s were lysed and subjected to in vitro kinase assay as described for MEK1/MEK2 ( 25 ) with minor modifica-tions .
+Lysates were immunoprecipitated with an anti-MKK3 antibody and p38 was used as substrate for the kinase assay .
+Anion exchange separation of MAP kinases .
+The identity and activity of MAPk family members was determined by Mono-Q/ion-exchange chromatography ( at 4°C with a BioLogic FPLC System ) of neutrophil lysates followed by assessment of kinase activity and immunoblotting as previously described ( 16 ) .
+P42/44 ( ERK ) MAP kinase immunoprecipitation , kinase assay , and identification .
+Neutrophils resuspended at 20 X 10 % /ml were incubated in complete KRPD for 30 min and stimulated with either FMLP or PAF as indicated in the text .
+Cell pellets were lysed in RIPA buffer and the triton-soluble lysates , precleared with protein A-Sepharose , were immunoprecipitated in the presence of anti-p42/ 44 ( ERK ) MAPk .
+Protein A-Sepharose beads were washed once in RIPA buffer , twice in PAN and then subjected to an in vitro kinase assay with the addition of a 50 pl reaction mix ( containing 50 mM B-gly-cerophosphate [ pH 7.2 ] , 100 wM Na ; VO4 , 20 mM MgCl , , 200 uM ATP , 50 g/ml IP20 , 1 mM EGTA , 400 pM 4 & , peptide , and 2 Ci [ y-P ] -ATP ) for 30 min at 30°C .
+The reaction was terminated with a 10-s centrifugation at 5,000 rpm and the bead supernatant was treated in two ways : ( a ) 25 pl supernatant was added to tubes containing 25 pl 25 % ( wt/vol ) TCA solution and 45 pl from mixture was spotted on P81 filter discs .
+These were washed three times in 75 mM phosphoric acid and once in acetone before being dried and counted in a B-counter ; ( b ) 25 pl of 2X Laemmli sample buffer containing 40 mM DTT was added to the tubes containing the protein A-Sepharose beads and the remainder of the supernatant .
+Samples were boiled for 5 min at 100°C , subjected to SDS-PAGE , transferred to ni trocellulose and then probed with anti-phosphotyrosine and then anti-p42/44 ( ERK ) MAP kinase antibodies .
+Inhibitor studies .
+Inhibition of Gi-proteins was performed by incubation of neutrophils in KRPD containing 500 ng/ml pertussis toxin ( List Biologicals , Campbell , CA ) for 2 h at 37°C before stimulation .
+In vivo inhibition of p38 MAPk was performed by incubation of neutrophils in a range of concentrations of SK & F 86002 for 60 min at 37°C .
+In vitro inhibition of MAPks were performed by adding a range of concentrations of SK & F 86002 to immunoprecipitated p38 MAPk or p42/44 ( ERK ) MAPk followed immediately by the kinase assays described above .
+Results Partial purification of p42/44 ( ERK ) MAPk and p38 MAPK by anion-exchange chromatography .
+To evaluate simultaneously the activation and phosphorylation of p38 MAPk distinct from the p42/44 ( ERK ) MAPk , human neutrophils were stimulated with FMLP or PAF for 90 s ( Figs .
+1 and 2 ) or left unstimulated ( Fig .
+3 ) and the proteins in each cell lysate were separated by anion exchange chromatography .
+Fig .
+1 demonstrates that exposure of human neutrophils to FMLP or PAF results in activation of p38 MAPk , as assessed by the ability of the kinase to phosphorylate ATF 2 ; j ; , ( 22 , 23 , 25 ) .
+Lysates from neutrophils stimulated with FMLP ( Fig .
+1 4 ) or PAF ( Fig .
+1 D ) demonstrated equivalent amounts of kinase activity eluting in fractions 29-31 .
+As phosphorylation of a specific tyrosine ( and threonine ) residue is required for activation of all known MAPks , proteins from each fraction were electrophoretically FMLP o Pr d 3 & Go Figure 1 .
+Anion exchange chromatography elution profile of lysates from neutrophils stimulated with FMLP ( 10-8 M ) or PAF ( 10~ % M ) for 90 s identifying the phosphorylation and ac-p _ tivation of the p38 MAPk .
+( A4 ) Activity of p38 MAPK isolated from FMLP-stimulated neutrophil lysates .
+Kinase activity present in each fraction was de- « - dt ~ PAF ation of ATF-2 ( anti-PY F ant-p38 a » 20 3 4 5 6 70 8 9 10 I1 12 13 14 IS 16 17 18 19 20 21 22 23 24 25 26 27 2 % 29 30 31 32 3 % A4 AS is Fraction Number termined by incorporation of *P into a p38 MAPk substrate ( re-combinant ATF-2-1 , , ) .
+Peak enzymatic activity eluted in fractions 29-31 .
+( B ) Elution of tyrosine phosphorylated proteins from FMLP-stimulated neutrophil lysates .
+Proteins in each fraction shown in A were further separated by SDS-PAGE and blots were stained with an anti-phosphotyrosine antibody .
+Proteins containing a phosphorylated tyrosine residue were present in fraction 29-31 , corresponding to the peak of p38 MAPK activity .
+( C ) Elution of p38 MAPk from FMLP-stimulated neutrophil lysates .
+Blots shown in B were restained with anti-p38 MAPk antibody , confirming the localization of p38 MAPk to fractions 29-31 .
+A small amount of unphosphorylated and inactive p38 MAPk eluted from the column in fraction 11 .
+( D ) Activity of p38 MAPk from PAF-stimulated neutrophil lysates .
+Kinase activity present in each fraction was measured as in A .
+Peak enzymatic activity eluted in fractions 29-31 , and is equivalent in magnitude to the activity from cells stimulated with FMLP .
+( £ ) Elution of tyrosine phosphorylated proteins from PAF-stimulated neutrophil lysates .
+Proteins in each fraction shown in D were further separated by SDS-PAGE and blots were stained with an anti-phosphotyrosine antibody .
+Proteins containing a phosphorylated tyrosine residue were present in fraction 29-31 , corresponding to the peak of p38 MAPK activity .
+( F ) Elution of p38 MAPk from PAF-stimulated neutrophil lysates .
+Blots shown in £ were restained with anti-p38 MAPk antibody , confirming the localiza- tion of p38 MAPk to fractions 29-31 .
+As with FMLP-stimulated cells , a small amount of unphosphorylated and inactive p38 MAPk eluted from the column in fraction 11 .
+Platelet Activating Factor and FMLP Induced Intracellular Signaling in Neutrophils 977 Figure 2 .
+Anion exchange chromatography elution profile of lysates from neutrophils stimulated with FMLP ( 10-8 M ) or PAF ( 10-8 M ) for 90 s identifying the phosphorylation and ac tivation of the p42/44 ( ERK ) ® MAP kinases .
+( A ) Activity of p42/44 ( ERK ) MAP kinases from FMLP-stimulated neutrophil lysates .
+Kinase activity present in each fraction was measured by incorporation of P into Peak enzymatic activity eluted in fractions 20-22 .
+( B ) Elution of tyrosine phosphorylated proteins from m A E FMLP -a P © E £ 6 & .5 3 % $ = & .
+$ & U T T T T T T T T T T T T T T T T T T T T T T T T T T T L T I I 1 « - & « B anti-PY C _ anti-MAPK D & § _ | rar C E s & Fig £ % | if £5 i _ eso Sea * * ~8-0-0-90-9-4 `` P I T 1 I I I U I I I T u I I I I 1 I I I T u U I I I I I I I I I © tag , he wa aa E anti-PY g- 4 F _ anti- MAPK Fraction Number = 2 3 4 S 6 7 8 9 10 11 12 13 14 1S 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 3 % 34 35 36 FMLP -stimulated neutrophil lysates .
+Proteins in each fraction shown in A were further separated by SDS-PAGE and blots were stained with an anti-phosphotyrosine antibody .
+Proteins containing a phosphorylated ty rosine residue were present in fraction 20-22 , corresponding to the peak of p42/44 ( ERK ) MAPk activity , as well as fractions 29-31 ( p38 MAPK ) .
+( C ) Elution of p42/44 ( ERK ) MAPk from FMLP-stimulated neutrophil lysates .
+Blots shown in B were restained with anti-p42/44 ( ERK ) MAPk antibody , confirming the localization of p42/44 ( ERK ) MAPk to fractions 18-22 .
+The p42/44 ( ERK ) MAP kinase eluting in fractions 18-19 was not phosphorylated or activated .
+( D ) Activity of p42/44 ( ERK ) MAP kinase from PAF-stimulated neutrophil lysates .
+Kinase activity present in each fraction was measured as in A .
+( F ) Elution of tyrosine phosphorylated proteins from PAF-stimulated neutrophil lysates .
+Proteins in each fraction shown in D were further separated by SDS-PAGE and blots were stained with an anti-phosphotyrosine antibody .
+Although some tyrosine phosphorylation was detected in the fractions 18-22 which contain p42/44 ( ERK ) MAP kinase , the immunoprobing of fractions 20-22 was distinctly different then in cells stimulated with FMLP ( B ) .
+Proteins containing a phosphorylated tyrosine residue were also present in fraction 29-31 , corresponding to the elution of p38 MAPk .
+( F ) Elution of p42/44 ( ERK ) MAPk from PAF-stimulated neutrophil lysates .
+Blots shown in E were restained with anti-p42/44 ( ERK ) MAPk antibody , confirming the localization of p42/44 ( ERK ) MAPK to fractions 18-22 , in similar quantities to the cell lysate from neutrophils stimulated with FMLP ( C ) .
+separated by SDS-PAGE , transferred to nitrocellulose , and stained with an anti-phosphotyrosine antibody ( Fig .
+1 , B and E ) demonstrating equivalent tyrosine phosphorylation of p38 MAPk after stimulation with either FMLP or PAF .
+The blots were then restained with an anti-p38 MAPk antibody ( Fig .
+1 , C and F ) to independently confirm the location of the p38 MAPk .
+Immunoblotting revealed p38 MAPk eluting at two locations of the gradient : a small peak eluted at fraction 11 , and an apparently larger peak at fractions 29-31 that corresponded to the enzymatic activity .
+An aliquot from each fraction shown in Fig .
+1 was removed to determine for p42/44 ( ERK ) MAPk activity .
+Fig .
+2 demonstrates that stimulation of human neutrophils with FMLP , but not PAF , results in activation and phosphorylation of p42/44 ( ERK ) MAPk .
+Activity of the p42/p44 ( ERK ) MAPk was measured by the ability of a sample from each fraction to phosphorylate EGFRe , , _45 ; .
+Cell lysates of human neutrophils exposed to FMLP for 90 s demonstrated a robust peak of activity in fractions 20-22 ( Fig .
+2 A ) , but cell lysate from neutrophils stimulated with PAF showed no significant p42/44 ( ERK ) MAPk activation ( Fig .
+2 D ) .
+Staining of immunoblots from each fraction with an anti-ERK1/ERK2 antibody confirms that p42/44 ( ERK ) elute at fractions 18-22 ( Fig .
+2 , C and F ) .
+Restaining of the blots with an anti-phosphotyrosine antibody confirmed specific tyrosine phosphorylation of the p42/ 44 ( ERK ) MAPk corresponding to fractions with enzymatic activity in cells stimulated by FMLP ( Fig .
+2 B ) .
+Cells stimu- 978 - Nick et al .
+lated with PAF demonstrated trace amounts of tyrosine phosphorylation of p42/44 ( ERK ) MAPk in fractions 20-22 , as well as several broad bands of a higher and lower molecular weight then p42/44 MAPk in fractions 18-20 ( Fig .
+2 £ ) .
+An equivalent pattern of anti-phosphotyrosine antibody binding is seen in unstimulated cells ( Fig .
+3 B ) , and is distinctly different from the phosphorylation of p42/44 ( ERK ) MAPk seen in FMLP-stimulated neutrophils ( Fig .
+2 B ) .
+Cell lysates from unstimulated neutrophils demonstrated the presence of equivalent amounts of p42/44 ( ERK ) MAPk ( Fig .
+3 C ) and p38 MAPk ( Fig .
+3 F ) as compared with stimulated samples in Figs .
+1 and 2 .
+However , no significant activation ( Fig .
+3 , A and D ) or specific tyrosine phosphorylation ( Fig .
+3 , B and E ) was present .
+Together , these results demonstrate stimulation with FMLP results in the activation of p38 MAPk and p42/44 ( ERK ) MAPk , while stimulation with PAF results in preferential activation of p38 MAPk .
+Concentration dependence of FMLP and PAF activation of p38 MAPK .
+To determine whether activation and phosphorylation of p38 MAPk in response to stimulation by FMLP and PAF occurs in a concentration dependent fashion , human neutrophils were exposed for 90 s with concentrations of stimuli ranging from 10- ' M to 10- `` ' M. The p38 MAPK was then immunoprecipitated from lysed cells and the activity was measured as described above .
+The relative amount of p38 MAPk tyrosine phosphorylation ( as measured by anti-phosphotyrosine antibody binding ) increased with increasing concentra- Figure 3 .
+Anion exchange chromatography elution profile of lysates from unstimulated neutrophils demonstrating the absence of phosphorylation and activation of the p42/44 ( ERK ) MAP A x 3 _ | Unstimulated 3 6 E g 5 3 S > 2 = Fa € C 1 1 I t L t 1 1 t u T T t u T YO t T T `` Uo 5 w ; w B anti-PY % C __ anti- MAPK cs 30 & .
+D Les z 28 Unstimulated 55 » 2 p 3 gis E : F 45 10 § % € .
+0 ~ us .
+w E anti-PY anti-p38 C 2 3 4 S 6 1708 9IIUII 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 20 30 31 32 33 34 35 36 Fraction Number kinases and p38 MAP kinase .
+( A ) Activity of p42/44 ( ERK ) MAP kinase from unstimulated neutrophil lysates .
+Kinase activity present in each fraction was measured by incorporation of P into EGFReq-ey1 .
+( B ) Elution of tyrosine phosphorylated proteins from unstimulated neutrophil lysates .
+Proteins in each fraction shown in A were further separated by SDS-PAGE and blots were stained with an anti-phosphotyrosine antibody .
+Immunoblots of each Mono-Q fraction corresponding to the activity plot above .
+A band of tyrosine phosphorylation of a « - » d - higher molecular weight than p42/44 ( ERK ) MAP k is seen in fractions 18-21 , and of lower molecular weight at fraction 18 , similar to PAF stimulated neutrophils ( £ ) .
+( C ) Elution of p42/44 ( ERK ) MAPk from PAF-stimulated neutrophil lysates .
+Blots shown in B were restained with anti-p42/44 ( ERK ) MAPk antibody , confirming the localization of p42/44 ( ERK ) MAPk to fractions 18-22 , in similar quantities to cell lysates from neutrophils stimulated with FMLP ( C ) or PAF ( Fig .
+2 F ) .
+( D ) Activity of p38 MAPk from unstimulated neutrophil lysates .
+Kinase activity present in each fraction was measured by incorporation of P into recombinant ATF-2 , _ ; ; , .
+( £ ) Elution of tyrosine phosphorylated proteins from unstimulated neutrophil lysates .
+Proteins in each fraction shown in D were further separated by SDS-PAGE and blots were stained with an anti-phosphotyrosine antibody .
+No tyrosine phosphorylation in the region of p38 MAP k elution ( fractions 29-31 ) was detected .
+( F ) Elution of p38 MAPk from unstimulated neutrophil lysates .
+Blots shown in £ were restained with anti-p38 MAPk antibody , confirming the localization of p38 MAPk to fractions 29-31 , in similar quantities to the cell lysate from neutrophils stimulated with FMLP ( Fig .
+1 C ) or PAF ( Fig .
+1 F ) .
+FMLP PAF A kD 0 01 Uf £ 10100 0 .01 1 1 10 100 50 i+ # G tase wa ag @ P \ = -- p38 MAPK 35 B 6 Activity ( fold increase ) 4n -- -su- 0 .01 l 1 10100 0.01 .I 1 10 100 fMLP PAF Concentration ( nM ) Figure 4 .
+Concentration-dependence of p38 MAPk phosphorylation and activation after stimulation of human neutrophils with FMLP or PAF .
+( A ) Western blot ( representative of three experiments ) comparing phosphorylation of p38 MAPk after a 90 s stimulation of human neutrophils by a range of concentrations ( 10~ `` M to 10~ `` ' M ) of FMLP or PAF .
+The p38 MAPk was immunoprecipitated with p38 MAPk antisera and the immunoblot was stained with an anti-phosphotyrosine antibody .
+Tyrosine phosphorylation of p38 MAPk is visible after stimulation with 1 nM ( 10~° M ) for both stimuli .
+( B ) Activity of p38 MAPk was determined by *P phosphorylation of ATF-21_110 for each concentration of FMLP or PAF .
+The activity was quantified tions of both FMLP and PAF in a roughly equivalent manner ( Fig .
+4 A ) .
+Similarly , the relative amount of p38 MAPk enzymatic activity as measured by the P phosphorylation of ATF-211 ; , increased with increasing concentrations of stimuli ( Fig .
+4 B ) .
+Restaining of the blot from Fig .
+4 A with an anti-p38 MAPk antibody confirmed equal amounts of enzyme were immunoprecipitated in each sample ( not shown ) .
+Time course of p38 MAPK activation and phosphorylation after exposure to FMLP or PAF .
+The time course of phosphorylation of p38 MAP k after stimulation with FMLP ( 10-8 M ) or PAF ( 10-8 M ) was determined by immunoprecipitation of neutrophil cell lysates with p38 MAPk antisera followed by immunoblotting with an anti-phosphotyrosine antibody .
+The activity of the p38 MAP kinase was measured by its ability to phosphorylate ATF-2 j , .
+The tyrosine phosphorylation of p38 MAPk in neutrophils stimulated with FMLP is greatest at ~ 90 s , while the phosphorylation of p38 MAPk in PAF stimulated cells peaks at about 120 s ( Fig .
+5 B ) .
+The time course of p38 MAPk activity is seen to closely reflect the phosphorylation of the protein ( Fig .
+5 C ) .
+All blots were restained with an anti-p38 MAPk antibody to confirm equal amounts of enzyme were immunoprecipitated during the separation of p38 MAPk by phosphorimaging of autoradiographs .
+The plot shows the activity expressed as a fold increase over the basal activity of unstimulated cell for each concentration , and represents mean values and SEM from three experiments .
+Platelet Activating Factor and FMLP Induced Intracellular Signaling in Neutrophils 979 % FMLP U PAF A kDa Sinn \ 40 -= 8 K E E C 6 a H B @ P _ pis ark 35 B 40-_ -- @ @ GB®B - pus vars 35 -- 0 30 60 90 120600 600 30 60 90 120 600 Time ( sec ) 15 7 7 C I FMLP PAF AN 11 } `` 100 || Activity ( arbitrary units ) \ FI— _|_|_|_ ” T—'I__ ‘ ( 600 0 30 60 90 120 600 Time ( see ) 0 30 60 90 120 Time ( sec ) Figure 5 .
+Time course of p38 MAPk phosphorylation and activation .
+( A ) A representative immunoblot of cell lysates after stimulation of neutrophils with FMLP or PAF for a range of time intervals compared to cells left unstimulated ( U ) .
+The p38 MAPk was immunoprecipitated with p38 MAPk antisera , and the immunoblot stained with an anti-p38 antibody , demonstrating equivalent amounts of p38 MAPk present in each sample .
+( B ) Restaining of the above immunoblot with an anti-phosphotyrosine antibody to probe for tyrosine phosphorylation of the kinase .
+Maximal p38 MAPk phosphorylation is seen within 90 to 120 s after exposure to either FMLP or PAF .
+( C ) Activity of p38 MAP kinase determined by *P phosphorylation of ATF-2 ; _i , for each time point , and quantified by phosphorimaging of an autoradiograph .
+The plot shows the activity expressed in arbitrary units for each time interval , and represents mean values and SEM from three experiments .
+Maximal activity of p38 MAP k is seen at approximately 90 s after exposure to either FMLP or PAF , corresponding closely with the time course of tyrosine phosphorylation shown in B. from the cell lysate ( Fig .
+5 A ) .
+Together the results from Figs .
+1 , 4 , and 5 demonstrate that FMLP and PAF have equivalent capacity to induce phosphorylation and activation of p38 MAPk .
+Concentration dependence of FMLP and PAF activation of p42/44 ( ERK ) MAPK .
+The activation and phosphorylation of p42/44 ( ERK ) MAPk was also determined after exposure of cells to a range of FMLP and PAF concentrations ( Fig .
+6 ) .
+FMLP was found to be a significantly more potent activator of p42/44 ( ERK ) MAPk than PAF at each concentration tested .
+The p42/44 ( ERK ) MAPk tyrosine phosphorylation ( Fig .
+6 B ) was relatively greater with increasing concentrations of FMLP ( but not PAF ) , corresponding to the kinase activity ( Fig .
+6 C ) .
+Some activation of p42/44 ( ERK ) MAPK was detected in cells 980 - Nick et al .
+MLP PAF 0 b 10 100 0 i_ 10 100 kD A 50 -- - - o- « t im TA D a » to io Fo < 4- p42/44M APK B 50 « ib a » dip Op « =~ ~- ~- ~* < 4-p42/44MAPK C 1107 100-4 I & 904 .
+> e 804 E 104 9 & 6047 8 504 g 404 a 304 4 & 204 he T < a 104 a- `` a _I 10 100 o_ i i0 100 fMLP PAF Concentration ( nM ) Figure 6 .
+Concentration dependence of FMLP and PAF phosphorylation and activation of p42/44 MAPk .
+( A ) Western blot ( representative of three experiments ) comparing the amount of p42/44 ( ERK ) MAPk present in each sample after a 90 s stimulation of human neutrophils by a range of concentrations ( 10- ' M to 10~° M ) of FMLP or PAF .
+The p42/44 ( ERK ) MAPk was immunoprecipitated with an anti-p42/44 ( ERK ) MAPk antibody , separated by SDS-PAGE , and the immunoblot was stained with a different anti-p42/44 ( ERK ) MAPk antibody .
+Equivalent amounts of p42/44 ( ERK ) MAPk were immunoprecipitated for each condition tested .
+( B ) Western blot ( representative of three experiments ) comparing tyrosine phosphorylation of p42/44 ( ERK ) MAPK after a 90 s stimulation of human neutrophils by a range of concentrations ( 10~ ' M to 10~° M ) of FMLP or PAF .
+The immunoblot shown in A was restained with an anti-phosphotyrosine antibody .
+Tyrosine phosphorylation of p42/44 ( ERK ) MAPk is visibly increased after stimulation with 10 nM ( 107° M ) FMLP compared with unstimulated cells .
+No increased tyrosine phosphorylation was seen after stimulation of neutrophils by PAF .
+( C ) Activity of p42/44 ( ERK ) MAPk present in each sample after a 90 s stimulation of human neutrophils by a range of concentrations ( 10 M to 10~ `` ' M ) of FMLP or PAF , corresponding to A and B .
+Activity of p42/44 ( ERK ) MAPk was determined by *P phosphorylation of EGFRe , , _,5 , for each concentration of stimuli .
+The plot shows activity expressed as counts per minute ( CPM ) and represents mean values and SEM from three consecutive experiments .
+stimulated with 10- ' M PAF , corresponding approximately to the activation induced by a 100-fold lower concentration of FMLP .
+Restaining of the immunoblot with an anti-ERK MAPk antibody demonstrates equal amounts of p42/44 ( ERK ) MAPk were immunoprecipitated for each condition ( Fig .
+6A ) .
+Time course of p42/44 ( ERK ) MAPK activation after exposure to FMLP and PAF .
+Activation of p42/44 ( ERK ) MAPk after stimulation of human neutrophils with FMLP has been shown previously to occur in a time and dose dependent manner ( 14 , 15 ) .
+As demonstrated in Fig .
+2 , the p42/44 ( ERK ) MAPk in human neutrophils is not activated after 90 s of exposure to PAF ( 10-8 M ) .
+To determine whether PAF results in a delayed activation of p42/44 ( ERK ) MAPk , neutrophils were exposed to either FMLP or PAF over a range of time intervals 807 707 T so- T 1 I so- mil | 40 MAP kinase activity ( cpm x10 ) I I I I I I I I 1 1 0 O1 2 3 4 5 60 70 8 9 10 Time ( min ) Figure 7 .
+Time course of p42/44 MAPk activation .
+Neutrophils stimulated with 10 M FMLP ( EM ) or 10 M PAF ( O ) over a range of time intervals were immunoprecipitated with anti-p42/44 ( ERK ) MAPk antibody .
+Kinase activity for each sample was determined by P phosphorylation of EGFReq-45 ; .
+The plot shows activity expressed as CPM for each time interval , and represents mean values and SEM from three consecutive experiments .
+( 30 s to 10 min ) using a concentration shown to induce detectable activation for both ( 10 M ) ( Fig .
+7 ) .
+At all times indi-cated , the activity of p42/44 ( ERK ) MAPk immunoprecipitated from neutrophils stimulated by FMLP is significantly greater than the activity in cells exposed to PAF .
+Both chemoattractants achieve maximal p42/44 ( ERK ) MAPk phosphorylation of EGFRsyq-4s , within 2 min , but the relatively small PAF induced response declines thereafter , while the response to FMLP is maintained through 10 min .
+Together , the results from Figs .
+2 , 6 , and 7 demonstrate stimulation of neutrophils with FMLP results in significantly greater activation of p42/44 ( ERK ) MAPk then does PAF over the identical range of stimuli concentration and time intervals .
+Activation of MKK3 after exposure of human neutrophils to FMLP and PAF .
+Two recently cloned human MAP kinase kinases ( MKK3 and MKK4 ) have been shown to phosphorylate and activate p38 MAPk ( but not p42/44 [ ERK ] MAPK ) when overexpressed in COS cells .
+To determine whether MKK3 may play a role in the activation of p38 MAPk after exposure to FMLP or PAF , we expressed recombinant human kinase active p38 MAPk , , and inactive p38 MAPK , , forms of p38 MAPk .
+These were utilized as substrates for an in vitro kinase assay in which immunoprecipitated MKK3 was incubated with p38 MAP k ; , in the presence of [ y-*P ] ATP followed by separation with SDS-PAGE .
+Neutrophils stimulated with FMLP or PAF demonstrated equivalent amounts of MKK3 activation as quantified by phosphorimaging of °P phosphorylation of p38 MAPk , , ( Fig .
+8 C ) and in a representative autoradiograph ( Fig .
+8 B ) .
+Restaining of the immunoblot with an anti-MKK3 antibody confirms equal amounts of MKK3 were immunoprecipitated for each stimuli ( Fig .
+8 A ) .
+In contrast , FMLP is capable of significant activation of MEK1/MEK2 , but PAF stimulation results in only slight activation of MEK1 and negligible activation of MEK2 ( 13 , 19 ) .
+> 38 « & % z & a kD Q ?
+( g ?
+q ?
+A 48 -- hes `` ma z l l MKK3 50 e B somme .
+@ b Alie - p38 MAPK ) .
+, 40 - .
+3.0 7 4 to n a -- -4+4 Activity ( fold increase ) - DJ n o U __FE _P Figure 8 .
+Activation of MKK3 by FMLP or PAF stimulation of neutrophils .
+( A ) Immunoblot ( representative of three ) of MKK3 immunoprecipitated from human neutrophils after a 90 s exposure of cells to FMLP ( 107 % M ) or PAF ( 107 % M ) , compared with an unstimulated sample .
+The immunoblot was stained with a second anti-MKK3 antibody to demonstrate equivalent amounts of MKK3 immunoprecipitated for each condition .
+( B ) Autoradiograph comparing *P phosphorylation of p38 MAPk ; , , , by MKK3 immunoprecipitated in A .
+( C ) Activity of MKK3 as determined by P phosphorylation of p38 MAP k ; , in cell stimulated with FMLP ( F ) , PAF ( P ) , or unstimulated ( U ) .
+The activity was quantified by phosphorimaging of autoradiographs .
+The plot shows the activity expressed as a fold increase over the basal activity of unstimulated cell for each condition , and represents mean values and SEM from three experiments .
+PAF weakly activates Raf and MEKK1I .
+The chemoattractant FMLP has been shown to robustly activate both C-Raf-1 and B-Raf in a time dependent manner ( 16 ) .
+We questioned whether PAF would similarly activate c-Raf-1 .
+Neutrophils were stimulated by either PAF or FMLP for varying time intervals and lysates immunoprecipitated by anti-c-Raf-1 antise-rum .
+Activation of Raf was determined by in vitro kinase assays in which P phosphorylation of the substrate MEK ; , , was qualified by autoradiography after separation by SDS-PAGE .
+As shown in Fig .
+9 A , PAF ( 107 M ) stimulation of neutrophils induces slight activation of c-Raf-1 , resulting in weak phosphorylation of MEK I ; , as compared with neutrophils stimulated with FMLP ( 107 M ) for 60 s. Raf activation in response to FMLP occurs within 30 s , is optimal by 2 min and plateaus over a 5-min interval ( 13 ) .
+In contrast , the activation of this kinase in response to PAF appears to be delayed and of a much lesser magnitude , when compared with FMLP .
+Recently , we have demonstrated that in FMLP stimulated neutrophils , MEKK1 is activated and in turn phosphorylates a recombinant human kinase inactive MEK 1L , , , ( 13 ) .
+The ability of PAF stimulation to induce activation of MEKK1 was tested in an identical manner ( Fig .
+9 B ) .
+PAF stimulated neutrophils show slightly enhanced MEKK1 activity as determined by phosphorylation of MEK However , this activity is meager Platelet Activating Factor and FMLP Induced Intracellular Signaling in Neutrophils 981 c-Raf-1 MEK , , _U MLP PAF ’ .
+« -- l a- MEK !
+.. , 60 60 30 4s 60 90 120 300 Time ( sec ) 60 120 30 60 120 300 Figure 9 .
+Effect of FMLP or PAF stimulation on MEKK1 RAF and MEKK1 activation .
+( A ) Autoradiograph U fMLP PAF ( representative of three ) CX i comparing activation of i < 4-MEEKl jo , c-Raf-1 after stimulation of neutrophils by FMLP or PAF .
+Activation of c-Raf-1 immunoprecipitated from neutrophils stimulated with FMLP ( 10- `` M ) for 60 s was compared to cells stimu- Time ( sec ) lated with PAF ( 10- M ) over a range of times or left unstimulated ( U ) .
+Activity was determined by P phosphorylation of MEK 11 , , , , followed by SDS-PAGE and viewed by autoradiography .
+( B ) Autoradiograph ( representative of three ) comparing activation of MEKK1 after stimulation of neutrophils by FMLP or PAF .
+Activation of MEKK1 immunoprecipitated from neutrophils stimulated with FMLP ( 10- ' M ) for 120 s was compared with cells stimulated with PAF ( 10- `` M ) over a range of times or left unstimulated ( U ) .
+Activity was determined by P phosphorylation of MEK followed by SDS-PAGE and viewed by autoradiography .
+in comparison to that of induction by FMLP and follows the pattern of c-Raf-1 activation .
+Effect of pertussis toxin preincubation on p38 MAP kinase activation after stimulation with PAF or FMLP .
+Neutrophils A 20 40 lj I JTJ [ _ ] without PTX Activity ( arbitrary units ) FH [ - ] - without PTX 60 - N with PTX 40 Activity ( arbitrary units ) 20 - = o - -- -- peeeem __ U F Figure 10 .
+Effect of PTX on p38 MAPk and p42/44 ( ERK ) MAPk activation .
+( A ) Activity of p38 MAPK from neutrophils incubated in PTX ( 500 ng/ml ) for 2 h and then stimulated with 10° M FMLP ( F ) or PAF ( P ) for 60 and 120 s ( not shown ) was compared to unstimulated ( U ) cells .
+Each value represents mean activity and SEM from three experiments .
+( B ) Neutrophils incubated in PTX ( 500 ng/ml ) were stimulated with FMLP ( 10° M ) for 90 s. P42/44 ( ERK ) MAPK was immunoprecipitated and activity was measured by *P phosphorylation of Each value represents mean activity and SEM from three experiments .
+982 - Nick et al .
+incubated in the presence of pertussis toxin ( PTX ) , an inhibitor of G , , , and G , , ; ( « subunits of heterotrimeric G-proteins ) , were compared with neutrophils incubated in the absence of PTX .
+After stimulation with FMLP or PAF , the activity of the p38 MAPk was not clearly suppressed by PTX pre-incubation ( Fig .
+10 A ) .
+Simultaneously , neutrophils incubated with PTX and then stimulated with FMLP were shown to have significant inhibition of p42/44 ( ERK ) MAPk activity ( Fig .
+10 B ) .
+A relatively high level of p38 MAPK activity in unstimulated samples was noted for both neutrophils incubated with PTX as well as those incubated in buffer , due to non-specific activation of the cells as a result of the prolonged incubation .
+This result indicates that substantial p38 MAPk activation occurs through a pertussis toxin-insensitive pathway .
+Effect of p38 MAPK inhibition on neutrophil responses after stimulation with FMLP or PAF .
+A bicyclic imidazole , SK & F 86002 , is a member of a class of compounds that has been demonstrated to specifically inhibit p38 MAPk activity with negligible effect on other MAP kinase members , MEK1 , or c-Raf ( 34-36 ) .
+Immunoprecipitated p38 MAPk from PAF or FMLP activated neutrophils was inhibited in a concentration dependent manner by SK & F 86002 with a greater then 95 % decrease in activity at the highest level of inhibitor studied ( Fig .
+11 A ) .
+In contrast , p42/44 ( ERK ) MAPk immunoprecipitated from neutrophils after FMLP stimulation showed ~ 20 % reduction of activity in the presence of 10 uM SK & F 86002 ( Fig .
+11 A ) .
+Tyrosine phosphorylation of p38 MAPk was equivalent for each concentration of SK & F 86002 studied ( data not shown ) , confirming earlier reports that this compound does not inhibit `` upstream `` activators of p38 MAPk .
+Neutrophils incubated in identical concentrations of SK & F 86002 ( 0.1-10 M ) for 60 min demonstrated a concentration dependent loss of superoxide anion production in response to stimulation by FMLP ( Fig .
+11 B ) .
+PMA , a direct activator of protein kinase C ( PKC ) is known to induce the respiratory burst in neutrophils independent of mechanisms utilized by FMLP ( 37 ) .
+PMA-induced superoxide anion release was not inhibited by SK & F 86002 , demonstrating that pretreatment with SK & F 86002 does not result in a nonspecific loss of the respiratory burst or decreased cellular activity .
+PAF stimulated neutrophils produce little superoxide anion under physiologic conditions , and preincubation with SK & F 86002 did not affect this response so A B prs mark D A12 MB Chomonxis F C | pe2/d4 ( BRK ) MAP E10 Chemokinesis 4 0 bs T j 5 , B 30 5 € £ § 3° 3.20 8 B §4 < 10 B P 2 o B 0 ol 1 -do 0 10 SK & PF 86002 SK & F 86002 Pa S & 60 & 4 & $ 3 3 E § ao 5 £7 $ & g s 2 .
+E G20 4 o El : 2 0 o oi _ to 0 or 1 _ do SK & F s6002 SK & F 86002 Pi s é & B E 3 € 3 8 e a & § § 3 < 0 0.1 I 10 0 0.1 I 10 SK & F 86002 SK & F 86002 Figure 11 .
+Effect of p38 MAPk inhibition on functional responses induced of the neutrophil after stimulation with FMLP or PAF .
+( A ) In vitro inhibition of p38 MAPk by SK & F 86002 .
+P38 MAPk was immunoprecipitated from neutrophils stimulated with FMLP or PAF .
+Activity of p38 MAPk was measured by *P phosphorylation of ATF-2 in the presence of a range of SK & F 86002 ( 0.1-10 pM ) .
+Under identical conditions , activity of p42/44 ( ERK ) MAPk immunoprecipitated from neutrophils stimulated with FMLP was tested in the presence of SK & F 86002 ( 0.1-10 M ) .
+The figure represents mean activity and SEM for three experiments ( B ) .
+Effect of in vivo inhibition of p38 MAPk on superoxide anion production .
+Neutrophils incubated for 60 min in SK & F 86002 ( 0.1-10 M ) were stimulated with FMLP ( 10~ 'M ) or PMA ( 1 ng/ml ) .
+The amount of superoxide anion released by stimulated cells in excess of that released by unstimulated cells is expressed in nanomoles ( nM ) of cytochrome C reduced and plotted for each concentration of SK & F 86002 .
+The figure represents mean activity and SEM for three experiments .
+( C ) Effect of in vivo inhibition of p38 MAPk on neutrophil adhesion .
+Neutrophils incubated for 60 min in SK & F 86002 ( 0.1-10 M ) were stimulated with FMLP ( 107 M ) or PAF ( 10~ `` M ) for 15 min .
+The fold increase of stimulated neutrophil adherence compared to unstimulated cells was plotted for each concentration of SK & F 86002 .
+The figure represents mean activity and SEM of a representative experiment done in triplicate .
+( D ) Effect of in vivo inhibition of p38 MAPk on chemokinesis and chemotaxis .
+Neutrophil migration in response to FMLP ( 2.5 x 10~° M ) was analyzed in the presence of SK & F 86002 ( 10 uM ) .
+The figure represents mean activity and SEM for three experiments .
+( F ) Effect of in vivo inhibition of p38 MAPk on actin assembly .
+Neutrophils incubated for 60 min in SK & F 86002 ( 0.1-10 M ) were stimulated with FMLP ( 107 M ) or PAF ( 10- `` M ) .
+The relative fluorescence index ( RFI ) of stimulated neutrophils compared to unstimulated cells was plotted for each concentration of SK & F 86002 .
+The figure represents mean activity and SEM for three consecutive experiments .
+( F ) Effect of in vivo inhibition of p38 MAPk on [ Ca®* ] ; .
+Maximum [ Ca®+* ] ; mobilization after FMLP or PAF stimulation of neutrophils incubated in SK & F 86002 ( 0.1-10 uM ) were expressed as a ratio of the maximum fMLP PAF Raf\ MEKK-1 MEKK-X MEKI/MEK2 MKK-3 ( ? )
+ERK1/ERK2 ap .
+p42/44 ( ERK ) MAPK + p38 MAP kinase Lo 4 nd superoxide anion release adhesion chemotaxis phosphorylation of ePLAq Figure 12 .
+Scheme depicting proposed intracellular signaling pathways in response to stimulation of human neutrophils with FMLP or PAF .
+( data not shown ) .
+Pretreatment with SK & F 86002 resulted in significant decrease in neutrophil adhesion in response to PAF , and to a lesser extent with FMLP ( Fig .
+11 C ) .
+Chemotaxis in response to FMLP was significantly inhibited by 10 pM SK & F 86002 , while chemokinesis was unchanged ( Fig .
+11 D ) .
+Similar effects in response to PAF were observed , although relatively low levels of chemotaxis and chemokinesis in response to PAF made these differences statistically not significant ( data not shown ) .
+Inhibition of p38 MAPk with SK & F 86002 did not result in substantial changes in actin assembly ( Fig .
+11 E ) or intracellular calcium mobilization ( Fig .
+11 F ) in response to either PAF or FMLP .
+These results support the conclusion that activation of p38 MAPk contributes to FMLP-induced superoxide anion release , adhesion and chemotaxis as well as PAF-induced adhesion .
+Discussion The stimulation of human neutrophils with FMLP or with PAF occurs via binding of distinct seven transmembrane G protein-linked cell surface receptors .
+Exposure of the cell to FMLP then results in the activation of Ras , which activates the serine/threonine kinase Raf .
+Ras also regulates the activation of MEKK-1 .
+Both MEKK-1 and Raf when activated have been shown to phosphorylate and activate MEK1/MEK2 , which in turn serves to activate p42/44 ( ERK ) MAP kinases .
+In this report we demonstrate that stimulation of neutrophils with [ Ca®+* ] ; mobilization after FMLP or PAF stimulation of neutrophils not exposed to SK & F 86002 .
+Each value represents the mean and SEM from three experiments .
+Platelet Activating Factor and FMLP Induced Intracellular Signaling in Neutrophils 983 PAF results in minor utilization of this intracellular signaling pathway , with only slight activation of p42/p44 ( ERK ) MAP kinases , MEK1/MEK2 , Raf , or MEKK-1 .
+To a much greater extent , intracellular signal transduction after exposure of the neutrophil to PAF occurs through a parallel signaling pathway resulting in the activation of MKK3 and subsequent phosphorylation and activation of p38 MAPk ( Fig .
+12 ) .
+In addition , we report that stimulation with FMLP also results in the activation of MKK3 and p38 MAP k in a time and concentration dependent manner equivalent to PAF .
+In contrast to FMLP activation of the Raf , MEK1/MEK2 and p42/44 ( ERK ) MAPk cascade ( 16 , 38 ) , the activation of p38 MAPk appears to be largely independent of inhibition by PTX .
+Neither FMLP or PAF were shown to activate JNKs in the human neutrophil ( data not shown ) .
+The ability of FMLP to robustly activate at least two members of the MAP kinase family as opposed to PAF which predominantly activates p38 MAPk is reflected in a wider range of functional responses evoked by FMLP stimulation .
+FMLP and PAF induce comparable neutrophil adhesion and actin assembly , but only FMLP stimulation results in significant superoxide production .
+Through use of the specific p38 MAPK inhibitor SK & F 86002 ( 35 , 36 ) we have shown that the FMLP induced release of superoxide anion is dependent on the activation of p38 MAPk .
+However , p38 MAPk activation alone is not sufficient , as demonstrated by the relative inability of PAF stimulation to induce superoxide anion release .
+The ability of PMA , ( a direct activator of PKC , but a weak activator of p38 MAPk in the human neutrophil ( 25 ) to induce superoxide release not inhibited by SK & F 86002 supports the conclusion that mechanisms independent of p38 MAPk activation can also mediate superoxide anion release .
+Both adhesion after PAF or FMLP stimulation , and FMLP-induced chemotaxis were reduced by p38 MAPk inhibition , but the responses were not eliminated .
+In contrast , FMLP-induced chemokinesis , as well as actin assembly and intracellular calcium mobilization after stimulation with FMLP or PAF do not appear to be specifically inhibited by SK & F 86002 .
+These findings support the conclusion that p38 MAPk activation is involved in adhesion and chemotaxis of the neutrophil in response to FMLP , but that other signaling events are required as well .
+Involvement of p38 MAPk in actin assembly , chemokinesis or intracellular calcium mobilization is not supported by our data .
+Important clues as to the functional roles of MAP kinase family members in human neutrophils will come from determination of the substrates for these kinases .
+In a number of cell lines , activation of MAP kinases has been shown to result in increased transcription , either directly or through phosphorylation of transcription factors .
+However , the rapid functional response of human neutrophils to pro-inflammatory stimuli occurs independent of protein synthesis , and thus other substrates are likely involved .
+To date , several direct actions of MAP kinases have been identified .
+Activated p42 ( ERK ) MAPk directly phosphorylates cytoplasmic phospholipase A ; ( ecPLA ; ) , allowing for the release of arachidonic acid ( 39 , 40 ) .
+Recently it has been demonstrated that p38 MAPk phosphorylates and activates MAP kinase-activated protein ( MAPKAP ) kinase-2 ( 36 , 41 ) and MAPKAP kinase-3 ( 42 ) which in turn phosphorylates heat shock protein ( HSP ) 27 in certain cell lines in response to pro-inflammatory stimuli or hyperosmotic conditions .
+The substrates phosphorylated by p38 MAPk in the neutrophil resulting in superoxide anion release , adhesion , and chemotaxis have yet to be identified .
+984 - Nick et al .
+Of considerable interest is the upstream regulation event that enables FMLP to activate parallel intracellular signaling pathways , while limiting activation in response to PAF to a single MAP kinase cascade .
+One point of possible signal divergence is the activation of G-proteins linked to seven transmembrane-spanning receptors .
+Activation of human neutrophils with FMLP has been shown to utilize the G-protein « subunit a ; , as PTX can inhibit the majority of Raf and Ras activation ( 16 ) .
+Lack of significant PTX inhibition of p38 MAPK activity after stimulation of neutrophils with FMLP or PAF argues for signal transduction mediated in part by PTX-insensitive G-proteins .
+The PAF receptor expressed in COS cells has been shown to interact with PTX-insensitive G-proteins ( possibly G. , , and G , , ) ( 43 ) .
+The PAF receptor transfected in CHO cells allows for p42/44 ( ERK ) MAPk activation in response to PAF stimulation , with evidence for PAF receptor coupling to both PTX-sensitive and -insensitive G proteins ( 44 ) .
+Early reports of inhibition of PAF mediated response by PTX utilized a 30-fold greater concentration of inhibitor than used here , and the effect reported may not have been specific to G-protein inhibition ( 45 , 46 ) .
+Complete definition of the pattern of MEKK and MKK activation in response to stimulation with FMLP and PAF will provide important clues as to the point of convergence for the FMLP and PAF signaling pathway .
+Recent identification and cloning of MKK3 and MKK4 has established that both MKK3 and MKK4 can phosphorylate recombinant p38 MAP k in vitro ( although MKK4 is also capable of activating JNK ) .
+When MKK3 and MKK4 were transfected and overexpressed in COS-1 cells a resulting activation of p38 MAP kinase was observed ( MKK4 overexpression also led to increased JNK activ-ity ) ( 47 ) .
+Exposure of human neutrophils to FMLP or PAF resulted in activation of MKK3 as determined by the ability of the immunoprecipitated kinase to phosphorylate kinase inactive recombinant human p38 MAPk ( p38 MAPk ; , , ) .
+The phosphorylation of p38 MAPk by activated MKK3 could also result in activation of wild type recombinant human p38 MAPk ( p38 MAPk , , , ) , confirming the specificity of the phosphorylation ( data not shown ) .
+Our observation that JNK is not activated in response to FMLP or PAF supports the suggestion that the MKK responsible for the phosphorylation and activation of mammalian p38 MAP kinase is probably not MKK4 which has been implicated as upstream in the JNK signaling pathway ( 47 , 48 ) .
+The exact relationship of the MAPk cascades to other known signaling events in human neutrophils remains unclear .
+Stimulation of neutrophils with FMLP via G protein-coupled receptors results in rapid activation of phospholipase C ( 49 , 50 ) , phosphatidylcholine-specific phospholipase D ( 51 ) , inosi-tol-1,4,5-triphosphate induced mobilization of [ Ca `` + ] ; ( 52 ) and PKC ( 53 , 54 ) .
+Activation of MAPk-family members ( via MEKK and MEK homologues ) may occur `` downstream `` to the activation of phospholipase C , D , and PKC or alternatively be activated in parallel to earlier described signaling mechanisms .
+Important functional responses such as activation of NAPDH oxidase leading directly to superoxide anion production likely occurs through more then one signal transduction pathway , depending on the type and concentration of stimuli tested .
+Inhibitors against various signaling events have provided clues , but relative lack of specificity of these agents in vivo limit the usefulness of these studies .
+Systematic elucidation of the hierarchy of signaling events that occurs under physiologic conditions in response to a wide variety of stimuli in neutrophils will present a formidable challenge , and will likely require a variety of new techniques , including genetic manipulation of primary cells .
+The selective activation of MAP kinase family members by different stimuli provides a framework in which to study the range of potential neutrophil response in the setting of inflam-mation .
+To date , p38 MAPK has been classified as a `` stress activated `` MAP kinase homologue , as initial activation was reported in response to such agents as hyperosmolarity , endo-toxin , and TNF .
+More recently , such stimuli as thrombin have been reported to activate p38 MAPk in platelets ( 55 ) .
+This report of p38 MAPk activation in response to chemoattractants via two serpentine receptors establishes that p38 MAPk is widely utilized , and activation of this kinase is associated with a number of functional responses in neutrophils .
+Our findings support the idea that fine regulation of neutrophil activation occurs through differences in activation of a spectrum of signaling pathways .
+For each stimuli capable of a unique set of cellular responses , a distinctive `` fingerprint `` of signal protein activation may exist , or instead , various combinations of signaling pathways may be used .
+Ultimately , through more complete understanding of intracellular signaling , sophisticated approaches to selective inflammatory blockade can be designed .
+Acknowledgments The authors acknowledge the helpful comments of Dr. Brent Winston and Dr. Kevin Brown .
+Advice on techniques in molecular biology was provided by James Nichol .
+This work was supported by a SCOR in ARDS ( HL-40784 ) , HL-34303 , HL-09640 , and GM-30324 from the National Institutes of Health .
+Pir Gerwins was supported by the Fulbright Commission , the Wennergren Foundation and the Swedish Medical Research Council , Swedish Cancer Foundation , Swedish Society of Medicine , and Swedish Institute .
+References 1 .
+Webster , R.O .
+, G.L .
+Larsen , B.C .
+Mitchell , A.J .
+Gains , and P.M. Henson .
+1982 .
+Absence of inflammatory injury in rabbits challenged intravascularly with complement-derived chemotactic factors .
+Am .
+Rev .
+Respir .
+Dis .
+125:335-340 .
+2 .
+Martin , T.R .
+, B.P .
+Pistorese , E.Y .
+Chi , R.B .
+Goodman , and M.A .
+Mat-thay .
+1989 .
+Effects of leukotriene B4 in the human lung : recruitment of neutrophils into the alveolar spaces without a change in protein permeability .
+J. Clin .
+Invest .
+84:1609-1616 .
+3 .
+Schiffman , E. , B.A .
+Corcoran , and S.M .
+Wahl .
+1975 .
+N-formyl methionyl peptides as chemoattractants for leukocytes .
+Proc .
+Natl .
+Acad .
+Sci .
+USA .
+72 ; 1059-1062 .
+4 .
+Snyder , F. 1995 .
+Platelet-activating factor and its analogs : metabolic pathways and related intracellular processes .
+Biochim .
+Biophys .
+Acta .
+1254:231-249 .
+5 .
+Sandborg , R.R .
+, and J.E .
+Smolen .
+1988 .
+Biology of disease : early biochemical events in leukocyte activation .
+Lab Invest .
+59:300-320 .
+6 .
+Goetzl , E.J .
+, CK .
+Derian , A.I .
+Tauber , and F.H .
+Valone .
+1980 .
+Novel effects of 1-0-hexadecyl-2-acyl-sn-glycero-3-phosphorylcholine mediators on human leukocyte function : Delineation of the specific roles of the acyl substitu-ents .
+Biochem .
+Biophys .
+Res .
+Commun .
+94:881-888 .
+7 .
+Ingraham , LM .
+, T.D .
+Coates , J.M .
+Allen , C.P .
+Higgins , R.L .
+Bachner , and L.A. Boxer .
+1982 .
+Metabolic , membrane , and functional responses of human polymorphonuclear leukocytes to platelet-activating factor .
+Blood .
+59 : 1259-1266 .
+8 .
+Thrasher , A.J .
+, N.H. Keep , F. Wientjes , and A.W .
+Segal .
+1994 .
+Chronic granulomatous disease .
+Biochim .
+Biophys .
+Acta .
+1227:1-24 .
+9 .
+Henson , P.M. , and R.B .
+Johnston , Jr. 1987 .
+Tissue injury in inflammation : oxidants , proteinases , and cationic proteins .
+J. Clin .
+Invest .
+79:669-674 .
+10 .
+Boulay , B. , M. Tardif , L. Brouchon , and P. Vignais .
+1990 .
+The human N-formylpeptide receptor .
+Characterization of two cDNA isolates and evidence for a new subfamily of G-protein-coupled receptors .
+Biochemistry .
+29 : 11123-11133 .
+11 .
+Nakamura , M. , Z.-i .
+Honda , T. Izumi , C. Sakanaka , H. Mutoh , M. Mi nami , H. Bito , Y. Seyama , T. Matsumoto , M. Noma , and T. Shimizu .
+1991 .
+Molecular cloning and expression of platelet-activating factor receptor from human leukocytes .
+J. Biol .
+Chem .
+266:20400-20405 .
+12 .
+Kunz , D. , N.P .
+Gerard , and C. Gerard .
+1992 .
+The human leukocyte platelet-activating factor receptor : cDNA cloning , cell surface expression , and construction of a novel epitope-bearing analog .
+J. Biol .
+Chem .
+267:9101-9106 .
+13 .
+Avdi , N. , B.W .
+Winston , M. Russel , S.K .
+Young , G.L .
+Johnson , and G.S .
+Worthen .
+1996 .
+Activation of MEKK by FMLP in human neutrophils : mapping pathways for MAP kinase activation .
+J. Biol .
+Chem .
+271:33598-33606 .
+14 .
+Thompson , HL .
+, M. Shiroo , and J. Saklatvala .
+1993 .
+The chemotactic factor N-formylmethionyl-leucyl-phenylalanine activates microtubule-associated protein 2 ( MAP ) kinase and a MAP kinase kinase in polymorphonuclear leukocytes .
+Biochem .
+J .
+290:483-488 .
+15 .
+Grinstein , S. , and W. Furuya .
+1992 .
+Chemoattractant-induced tyrosine phosphorylation and activation of microtubule-associated protein Kinase in human neutrophils .
+J. Biol .
+Chem .
+267:18122-18125 .
+16 .
+Worthen , G.S .
+, N. Avdi , A.M. Buhl , N. Suzuki , and G.L .
+Johnson .
+1994 .
+FMLP activates ras and raf in human neutrophils : potential role in activation of MAP kinase .
+J. Clin .
+Invest .
+94:815-823 .
+17 .
+Gomez-Cambronero , J. , E. Wang , G. Johnson , C.-K. Huang , and RL Sha'afi .
+1991 .
+Platelet-activating factor induces tyrosine phosphorylation in human neutrophils .
+J. Biol .
+Chem .
+266:6240-6245 .
+18 .
+Grinstein , S. , J.R. Butler , W. Furuya , G. L ' Allemain , and G.P .
+Downey .
+1994 .
+Chemotactic peptides induce phosphorylation and activation of MEK-1 in human neutrophils .
+J. Biol .
+Chem .
+269:19313-19320 .
+19 .
+Downey , G. , J. Butler , J. Brumell , N. Borregaard , L. Kjeldsen , A. Sue-A-Quan , and S. Grinstein .
+1996 .
+Chemotactic peptide-induced activation of MEK-2 , the predominant isoform in human neutrophils .
+J. Biol Chem .
+271 : 21005-21011 .
+20 .
+Galcheva-Gargova , Z. , B. Dérijard , I.-H. Wu , and R.J. Davis .
+1994 .
+An Osmosensing signal transduction pathway in mammalian cells .
+Science ( Wash. DC ) .
+265:806-811 .
+21 .
+Dérijard , B. , M. Hibi , I.-H. Wu , T. Barrett , B. Su , T. Deng , M. Karin , and R. J. Davis 1994 .
+JNK1 : A protein kinase stimulated by UV light and Ha-Ras that binds and phosphorylates the c-Jun activation domain .
+Cell .
+76:1025-1037 .
+22 .
+Minden , A. , A. Lin , F.-X .
+Claret , A. Abo , and M. Karin .
+1995 .
+Selective activation of the JNK signaling cascade and c-Jun transcriptional activity by the small GTPases Rac and Cded2Hs .
+Cell .
+81:1147-1157 .
+23 .
+Raingeaud , J. , S. Gupta , J.S .
+Rogers , M. Dickens , J. Han , R.J. Ulevitch , and R.J. Davis .
+1995 .
+Pro-inflammatory cytokines and environmental stress cause p38 mitogen-activated protein kinase activation by dual phosphorylation on tyrosine and threonine .
+J. Biol .
+Chem .
+270:7420-7426 .
+24 .
+Lange-Carter , C.A .
+, C.M .
+Pleiman , A.M. Gardner , K.J .
+Blumer , and G.L .
+Johnson .
+1993 .
+A divergence in the MAP kinase regulatory network defined by MEK kinase and Raf .
+Science ( Wash. DC ) .
+260:315-319 .
+25 .
+Nick , J.A .
+, N.J. Avdi , P. Gerwins , G.L .
+Johnson , and G.S .
+Worthen .
+1996 .
+Activation of a p38 mitogen-activated protein kinase in human neutrophils by lipopolysaccharide .
+J. Immunol .
+156:4867-4875 .
+26 .
+Gardner , A.M. , R.R .
+Vaillancourt , and G.L .
+Johnson .
+1993 .
+Activation of mitogen-activated protein kinase/extracellular signal-regulated kinase kinase by G protein and tyrosine kinase oncoproteins .
+J. Biol .
+Chem .
+268:17896-17901 .
+27 .
+Worthen , G.S .
+, N. Avdi , S. Vukajlovich , and P.S .
+Tobias .
+1992 .
+Neutrophil adherence induced by lipopolysaccharide in vitro : Role of plasma component interaction with lipopolysaccharide .
+J. Clin .
+Invest .
+90:2526-2535 .
+28 .
+Erzurum , S.C. , G.P .
+Downey , D.E .
+Doherty , B. Schwab , III , E.L. Elson , and G.S .
+Worthen .
+1992 .
+Mechanisms of lipopolysaccharide-induced neutrophil retention : relative contributions of adhesive and cellular-mechanical properties .
+J. Immunol .
+149:154-162 .
+29 .
+Guthrie , L.A. , L.C .
+McPhail , P.M. Henson , and R.B .
+Johnston , Jr. 1984 .
+Priming of neutrophils for enhanced release of oxygen metabolites by bacterial lipopolysaccharide : evidence for increased activity of the superoxide-producing enzyme .
+J. Exp .
+Med .
+160:1656-1671 .
+30 .
+Hiester , A. , D. Metcalf , and P. Campbell .
+1992 .
+Interleukin-4 is chemotactic for mouse macrophages .
+Cell .
+Immunol .
+139:72-80 .
+31 .
+Grynkiewicz , G. , M. Poenie , and R. Tsien .
+1985 .
+A new generation of calcium indicators with greatly improved fluorescence properties .
+J. Biol .
+Chem .
+260:3440-3450 .
+32 .
+Haslett , C. , L.A. Guthrie , M.M .
+Kopaniak , R.B .
+Johnston , Jr. , and P.M. Henson .
+1985 .
+Modulation of multiple neutrophil functions by preparative methods or trace concentrations of bacterial lipopolysaccharide .
+Am .
+J. Pathol .
+119:101-110 .
+33 .
+Buhl , A.M. , N. Avdi , G.S .
+Worthen , and G.L .
+Johnson .
+1994 .
+Mapping of the CSa receptor signal transduction network in human neutrophils .
+Proc .
+Natl .
+Acad .
+Sci .
+USA .
+91:9190-9194 .
+34 .
+Griswold , D.E .
+, P.J .
+Marshall , E.F. Webb , R. Godfrey , J. Newton , Jr. , M.J. DiMartino , H.M. Sarau , J.G .
+Gleason , G. Poste , and N. Hanna .
+1987 .
+SK & F 86002 : A structurally novel anti-inflammatory agent that inhibits lipoxy-genase- and cyclooxygenase-mediated metabolism of arachidonic acid .
+Biochem .
+Pharmacol .
+36:3463-3470 .
+35 .
+Lee , J.C. , J.T .
+Laydon , P.C .
+McDonnell , T.F .
+Gallagher , S. Kumar , D. Green , D. McNulty , M.J. Blumenthal , J.R. Heys , S.W .
+Landvatter , et al .
+1994 .
+A protein kinase involved in the regulation of inflammatory cytokine biosyn- Platelet Activating Factor and FMLP Induced Intracellular Signaling in Neutrophils 985 thesis .
+Nature ( Lond . )
+.
+372:739-746 .
+36 .
+Cuenda , A. , J .
+Rouse , Y.N .
+Doza , R. Meier , P. Cohen , T.F .
+Gallagher , P.R .
+Young , and J.C. Lee .
+1995 .
+SB 203580 is a specific inhibitor of a MAP kinase homologue which is stimulated by cellular stresses and interleukin-1 .
+FEBS Lett .
+64:229-233 .
+37 .
+Morel , F. , J. Doussiere , and P.V .
+Vignais .
+1991 .
+The superoxide-generat-ing oxidase of phagocytic cells .
+Eur .
+J. Biochem .
+201:523-546 .
+38 .
+Bokoch , G.M .
+1995 .
+Chemoattractant signaling and leukocyte activation .
+Blood .
+86:1649-1660 .
+39 .
+Nemenoff , R.A. , S. Winitz , N.-X .
+Qian , V. Van Putten , G.L .
+Johnson , and LE .
+Heasley .
+1993 .
+Phosphorylation and activation of a high molecular weight form of phospholipase A ; by p42 microtubule-associated protein 2 kinase and protein kinase C. J. Biol .
+Chem .
+268:1960-1964 .
+40 .
+Lin , L.-L. , M. Wartmann , A. Y. Lin , J.L .
+Knopf , A. Seth , and R.J. Davis .
+1993. cPLA , is phosphorylated and activated by MAP kinase .
+Cell .
+72:269-278 .
+41 .
+Ben-Levy , R. , I .
+A. Leighton , Y.N .
+Doza , P. Attwood , N. Morrice , C.J .
+Marshall , and P. Cohen .
+1995 .
+Identification of novel phosphorylation sites required for activation of MAPKAP kinase-2 .
+EMBO ( Eur .
+Mol .
+Biol .
+Organ ) J .
+14:5920-5930 .
+42 .
+McLaughlin , M.M .
+, S. Kumar , P.C .
+McDonnell , S. Van Horn , J.C. Lee , G.P .
+Livi , and P.R .
+Young .
+1996 .
+Identification of mitogen-activated protein ( MAP ) kinase-activated protein kinase-3 , a novel substrate of CSBP p38 MAP kinase .
+J. Biol .
+Chem .
+271:8488-8492 .
+43 .
+Amatruda , TT .
+, N.P .
+Gerard , C. Gerard , and M.I .
+Simon .
+1993 .
+Specific interactions of chemoattractant factor receptors with G-proteins .
+J. Biol .
+Chem .
+268:10139-10144 .
+44 .
+Honda , Z. , T. Takano , Y. Gotoh , E. Nishida , K. Itoh , and T. Shimizu .
+1994 .
+Transfected platelet-activating factor receptor activates mitogen-activated ( MAP ) kinase and MAP kinase kinase in Chinese hamster ovary cells .
+J. Biol .
+Chem .
+269:2307-2315 .
+45 .
+Lad , P.M. , C.V. Olson , and I.S .
+Grewal .
+1985 .
+Platelet-activating factor mediated effects on human neutrophil function are inhibited by pertussis toxin .
+Biochem .
+Biophys .
+Res .
+Commun .
+129:632-638 .
+986 - Nick et al .
+46 .
+Lad , P.M. , C.V. Olson , IS .
+Grewal , and S.J .
+Scott .
+1985 .
+A pertussis toxin-sensitive GTP-binding protein in the human neutrophil regulates multiple receptors , calcium mobilization , and lectin-induced capping .
+Proc .
+Natl .
+Acad .
+Sci .
+USA .
+82:8643-8647 .
+47 .
+Dérijard , B. , J. Raingeaud , T. Barrett , L-H. Wu , J. Han , R.J. Ulevitch , and R.J. Davis .
+1995 .
+Independent human MAP kinase signal transduction pathways defined by MEK and MKK isoforms .
+Science ( Wash. DC ) .
+267:682-685 .
+48 .
+Lin , A. , A. Minden , H. Martinetto , F.-X .
+Claret , C. Lange-Carter , F. Mercurio , G.L .
+Johnson , and M. Karin .
+1995 .
+Identification of a dual-specificity kinase that activates the Jun kinases and p38-Mpk2 .
+Science ( Wash. DC ) .
+268 : 286-290 .
+49 .
+Cockcroft , S. 1992 .
+G-protein-regulated phospholipase C , D and A2Z-mediated signalling in neutrophils .
+Biochim .
+Biophys .
+Acta .
+1113:135-160 .
+50 .
+Mullmann , T. , B. Cheewatrakoolpong , J. Anthes , M. Siegel , R. Egan , and M. Billah .
+1993 .
+Phospholipase C and phospholipase D are activated independently of each other in chemotactic peptide-stimulated human neutrophils .
+J. Leuk .
+Biol .
+53:630-635 .
+51 .
+Billah , M. , S. Eckel , T. Mullmann , R. Egan , and M. Siegel .
+1989 .
+Phos-phatidylcholine hydrolysis by phospholipase D determines phosphatidate and diglyceride levels in chemotactic peptide-stimulated human neutrophils .
+J. Biol .
+Chem .
+264:17069-17077 .
+52 .
+Bradford , P. , and R. Rubin .
+1986 .
+Quantitative changes in inositol 1,4,5-triphosphate in chemoattractant-stimulated neutrophils .
+J. Biol .
+Chem .
+261 : 15644-15647 .
+53 .
+Tauber , A .
+1987 .
+Protein kinase C and the activation of the human neutrophil NADPH-oxidase .
+Blood .
+69:711-720 .
+54 .
+Dang , P. , J. Hakim , and A. Perianin .
+1994 .
+Immunochemical identification and translocation of protein kinase C zeta in human neutrophils .
+FEBS Lett .
+349:388-342 .
+55 .
+Kramer , R.M .
+, E.F. Roberts , B.A .
+Strifler , and E.M. Johnstone .
+1995 .
+Thrombin induces activation of p38 MAP kinase in human platelets .
+J. Biol .
+Chem .
+270:27395-27398 .

@@ -1,0 +1,697 @@
+Monocytic Cell Type-specific Transcriptional Induction of Collagenase R.A. Pierce , S. Sandefur , G.A.R .
+Doyle , and H.G .
+Welgus Division of Dermatology , Department of Internal Medicine , Washington University School of Medicine at Jewish Hospital , St. Louis , Missouri 63110 Abstract Interstitial collagenase ( MMP-1 ) , a metalloproteinase produced by resident and inflammatory cells during connective tissue turnover , cleaves type I collagen fibrils .
+This catalytic event is rate limiting in remodeling of tissues rich in fibrillar collagen such as the skin and lungs .
+The regulation of collagenase expression is cell-type specific ; bacterial LPS and zymosan , a yeast cell wall derivative , are potent inducers of collagenase expression in macrophages , but do not alter fibroblast collagenase expression .
+Since promoter elements controlling collagenase transcription in monocytic cells have not been previously defined , we sought to delineate responsive cis-acting elements of the collagenase promoter in transiently transfected human ( U937 ) and murine ( J774 ) monocytic cell lines .
+Deletion constructs containing as little as 72 bp of 5 ' -flanking sequence of the collagenase promoter were sufficient for LPS- or zymosan-mediated transcriptional induction , whereas phorbol inducibility exhibited an absolute requirement for upstream elements including the polyoma enhancer A-binding protein-3 site ( -83 to -91 ) and TTCA sequence ( -102 to -105 ) in both monocytic cells and fibroblasts .
+Mutagenesis of the activator protein-1 [ AP-1 ] site at -72 abolished basal promoter activity and LPS/zymosan inducibility , while mutagenesis of an NF-kB-like site at -20 to -10 had no effect .
+Nuclear extracts from LPS- and zymosan-treated cells showed strong AP-1 activity by gel-shift analysis , and supershift analysis showed the AP-1 complexes contained specific members of both the jun and fos gene families .
+These data indicate that , in contrast to most LPS effects , AP-1 , but not nuclear factor-k B , mediates LPS induction of collagenase transcription in macrophagelike cells .
+Furthermore , as compared to regulation by phorbol ester , collagenase induction in monocytic cells by cell wall derivatives of bacteria or yeast is largely independent of upstream promoter sequences .
+( J. Clin .
+Invest .
+1996 .
+97:1890-1899 . )
+Key words : collagenase « transcription « monocytic « LPS » AP-1 Address correspondence to Dr. Richard A .
+Pierce , Division of Dermatology , Jewish Hospital , 216 South Kingshighway , St. Louis , MO 63110 .
+Phone : 314-454-8284 ; FAX : 314-454-8293 ; E-mail : rpierce @ imgate.wustl.edu Received for publication 9 November 1995 and accepted in revised form 16 January 1996 .
+J. Clin .
+Invest .
+© The American Society for Clinical Investigation , Inc. 0021-9738/96/04/1890/10 $ 2.00 Volume 97 , Number 8 , April 1996 , 1890-1899 1890 R.A. Pierce , S. Sandefur , G. A. Doyle , and H.G .
+Welgus Introduction In vertebrate tissues , abundant fibrillar collagens , which are resistant to most proteinases , provide a durable architecture .
+Only three vertebrate proteinases efficiently degrade fibrillar collagens ; thus , this step is often rate limiting in tissue remod-eling .
+These collagenases , which are interstitial collagenase ( MMP-1 ) ( 1 , 2 ) , neutrophil collagenase ( MMP-8 ) ( 3 ) , and col-lagenase-3 ( MMP-13 ) ( 4 , 5 ) , are members of the matrix metalloproteinase ( MMP ) family of enzymes .
+Collectively , MMPs can degrade virtually all components of the extracellular matrix ( 6 ) .
+In humans , MMP-1 is the predominant collagenase of resident cells such as fibroblasts and keratinocytes , and also of tissue macrophages .
+MMP-13 expression in humans is apparently much more restricted , being observed in breast carcinomas ( 5 ) and articular cartilage ( Welgus , H. , unpublished observa-tions ) , but not in tissue macrophages .
+However , in rodents MMP-13 is the only collagenase thus far identified ; MMP-1 apparently does not exist as a functional gene in rodents .
+In humans , neutrophil collagenase is largely restricted to PMNs and is the sole collagenolytic enzyme of those cells .
+Interestingly , the regulation of interstitial collagenase ( MMP-1 ) is cell-type specific .
+Resident cells ( e.g .
+, fibroblasts , keratinocytes , endothelial cells ) can produce interstitial collagenase and other metalloproteinases in response to growth factors such as EGF ( 7 ) and basic fibroblast growth factor ( 8 ) , and in response to inflammatory cytokines such as TNF- ( 9 ) and IL-1 ( 10 ) , but macrophages are not responsive to these factors .
+In contrast , mediators such as LPS ( 11 ) and zymosan ( 12 ) induce collagenase production in cells of the monocytic lineage , but have no effect on production of collagenase or other metalloproteinases by resident cells of epithelial or mesenchymal origin .
+The induction of collagenase expression in monocytic cells is likely transcriptionally mediated , as the monocytic cell line U937 , when differentiated with phorbol ester , increases collagenase transcription when exposed to LPS ( 13 ) .
+The molecular mechanisms controlling metalloproteinase expression in resident cells such as fibroblasts and kerati-nocytes have been exclusively studied .
+The promoters of the interstitial collagenase and stromelysin-1 genes are similar in overall structure ( 14 ) , and these genes are often coordinately regulated .
+Transcriptional induction of the collagenase and stromelysin promoters in fibroblasts is dependent not only on the prototypical activator protein-1 ( AP-1 ) ' sites found near the transcription start sites of these promoters , but also upon upstream sequences including a polyoma enhancer A-binding protein-3 ( PEA-3 ) site and TTCA element ( 10 , 14 , 15 ) .
+Thus , in resident cells of mesenchymal or epithelial origin , upstream sequences are critical for inducibility of collagenase expression .
+1 .
+Abbreviations used in this paper : AP-1 , activator protein-1 ; NF-kB , nuclear factor-kB ; PEA-3 , polyona enhancer A-binding protein-3 .
+In contrast to such resident cells , the gene regulation of metalloproteinase expression in mononuclear phagocytes has not been studied , at least in part because of the difficulty in transfecting these populations .
+Yet collagenase expression by macrophages is prominent in inflammatory and matrix-destructive diseases including rheumatoid arthritis ( 16,17 ) , atherosclerosis ( 18 , 19 ) , and idiopathic pneumonia syndrome ( Welgus , H. G. , unpublished observations ) .
+Bacterial LPS activation of macrophages causes a marked induction of interstitial collagenase expression ( 11 ) , as well as the induction of proinflammatory cytokines such as IL-1 ( 20 ) , TNF- ( 21 ) , and IL-6 ( 22 ) .
+Similarly , phagocytosis of zymosan , a yeast cell wall derivative , results in activation of diverse macrophage func-tions , including the production of interstitial collagenase ( 12 ) .
+Induction of many inflammatory genes in macrophages such as TNF-a ( 23-25 ) , IL-1 ( 26 ) , and tissue factor ( 27 ) by LPS is mediated , in large part , by nuclear factor ( NF ) - « B , a pleiotropic transcriptional transactivator ( 28 ) .
+Interestingly , the collagenase promoter contains a sequence at -20 to -10 which is similar to consensus NF-xB-binding sequences .
+In this manuscript , we have delineated promoter sequences necessary for monocytic transcriptional induction of collagenase in response to the cell type-specific stimulating agents LPS and zymosan by employing a transient transfection strategy with promoter chloramphenicol transferase ( CAT ) constructs derived from the collagenase gene .
+Interestingly , we found that maximal fold induction of collagenase promoter activity by LPS or zymosan was conferred by constructs containing as little as 72 bp of 5'-flanking sequence .
+Mutation of the AP-1 site abolished both basal activity and induction of promoter activity .
+In contrast , mutation of the NF- « B-like site did not affect either basal activity or induction of transcription .
+Binding of specific members of the jun and fos gene family to the collagenase AP-1 site was strongly induced by LPS treatment , implicating AP-1 in transactivation .
+Thus , in cells of monocytic origin , in contrast to resident cells such as fibroblasts , induction of collagenase transcription is mediated almost entirely through proximal promoter elements involving mainly the AP-1 site .
+Methods U937 Cell culture , transfections , and CAT assay .
+Human U937 cells ( CLR 1593 ; American Type Culture Collection , Rockville , MD ) were cultured in serum-containing RPMI 1640 medium as described previously ( 13 ) .
+Cells were cultured at 5 X 10° cells/ml for all treatments and at 1.8 x 10 % /cm on tissue culture plastic ( Costar Corp. , Cam-bridge , MA ) .
+To differentiate U937 cells for adherence and to prime for LPS stimulations , PMA ( Sigma Chemical Co. , St. Louis , MO ) in DMSO was added at 50 ng/m !
+to the medium alone or simultaneously with LPS ( Sigma Chemical Co. ) .
+Control cultures received vehicle alone .
+For each promoter-CAT construct , 1 X 10 `` U937 cells in 1.5 ml of medium were transiently transfected in suspension by exposure to 75 g DEAE-Dextran ( Profection kit ; Promega Corp. , Madison , WI ) and 10 pg of supercoiled column-purified DNA ( QIAGEN , Inc. , Chatsworth , CA ) at room temperature for 20 min .
+After pelleting by gentle centrifugation , cells were resuspended in 60 ml of medium and divided into three 100-cm > dishes to recover overnight .
+Next , the cultures were washed and treated with control medium , medium containing PMA at 50 ng/ml , or medium containing PMA at 50 ng/ml plus LPS at 10 pg/ml .
+U937 cells were harvested after 24 h with a cell scraper .
+Equivalent amounts of lysates , normalized for total protein ( Bradford protein assay ; Bio-Rad Laboratories , Palo Alto , CA ) , were assayed for CAT activity as described above .
+J774 Cell culture , transfections , and CAT assay .
+Murine J774 cells ( TIB 67 ; American Type Culture Collection ) were cultured in DMEM supplemented with 10 % heat-denatured FBS , nonessential amino acids , L-glutamine , and penicillin-streptomycin .
+These spontaneously adherent , macrophagelike cells were cultured in 6-well cluster dishes containing 5 X 10° cells/well .
+Liposome-mediated cotransfection of these cells used LipofectAMINE ( GIBCO BRL , Gaithersburg , MD ) at 10 mg/ml and 2 ug of supercoiled promoter-CAT construct with 1 g of plasmid cytomegalovirus ( pCMV ) -B-ga-lactosidase as a control for transfection efficiency .
+After transfection , cells were treated with control medium or medium containing LPS at 10 pg/ml or zymosan at 1 mg/ml .
+After 24 h , cells were harvested for preparation of lysates as described previously ( 29 ) .
+Lysates were assayed for B-galactosidase activity as described ( 30 ) and subsequently for CAT activity using acetyl CoA ( Sigma Chemical Co. ) and [ !
+*CJchloramphenicol ( DuPont-NEN , Boston , MA ) , followed by TLC and autoradiography .
+Human skin fibroblast culture .
+Primary cultures of human skin fibroblasts were obtained by explanting from newborn foreskins .
+Cultures were maintained in supplemented DMEM identical to the culture medium used for J774 cells .
+Passage 3-8 cells were plated in P-100 dishes at 1.5 % 10° cells per dish and cotransfected by calcium phosphate precipitation as described ( 31 ) with 20 g of each collagenase-CAT construct and 5 g of pCMV-B-galactosidase as a control for transfection efficiency .
+After 6 h , cells were shocked with 15 % glycerol for 2 min , then treated with either control medium , medium containing PMA at 50 ng/ml , or medium containing LPS at 10 ug/ml for 24 h before harvest by scraping .
+Lysates were prepared , assayed for B-galactosidase activity , and subsequently for CAT activity as described above .
+RNA isolation and hybridization .
+Northern analyses were done to determine the degree of induction of collagenase gene expression with various treatments .
+Total RNA was isolated from 10 `` treated or control cells as described ( 32 ) .
+Northern hybridizations were done as described previously ( 29 ) .
+DNA probes were radiolabeled by random priming with [ « -P ] dCTP .
+Human procollagenase mRNA from U937 cells was hybridized with a full-length human procollagenase cDNA ; mouse collagenase mRNA from J774 cells was detected with pUMR Case , a 2.2-kb rat collagenase cDNA clone ( 4 ) .
+For glyceraldehyde-3-phosphate dehydrogenase ( GAPDH ) mRNA , pRGAPDH13 , a 1.3-kb rat cDNA , was used as described ( 33 ) .
+After stringent washing , membranes were exposed to AR x-ray film ( Eastman Kodak Co. , Rochester , NY ) at -70°C for 4 to 24 h with an intensifying screen .
+Construction of reporter constructs .
+The construct pCLCAT , containing sequences from -2278 to +36 of the human collagenase promoter , was a generous gift from Dr. Stephen Frisch ( La Jolla Cancer Research Foundation , La Jolla , CA ) .
+The PstI site was mutated to an Xhol site , then the HindIII/Xhol fragment containing the human collagenase promoter sequences of pCLCAT was subcloned into HindIII/Xhol digested pBLCAT2 ( 34 ) , giving rise to pCL-2278CAT .
+A series of deletion constructs were synthesized by PCR amplification of linearized pCL-2278CAT , in each case using a unique 5 ' primer with an engineered HindIII site and a common 3 ' primer within the CAT gene .
+The resultant PCR products were digested with HindIII and Xhol and subcloned into the HindIII/Xhol digested pBLCAT2 backbone .
+The 5 ' primers used in the PCR amplification , named for the most 5 ' nucleotide with identity to collagenase promoter sequences , were as follows : -511 : 5CAGGAAGCTTAACAAAGGCAGAAAGG3 ' , -179 ; 5'TTTGAAGCTTATCATGACATTGCAAF ' , -95 : STTCAAAGCTTATCAAGAGGATGTTA3 ' , -72 : STATAAAGCTTGAGTCAGACACCTCT3 ' , -55 : 5 `` CCTCAAGCTTTCTGGAAGGGCAAGGA3 ' , -34 : 5°GGGCAAGCTTTCTATATATACAGAG3 ' .
+The sequence of the 3 ' primer , complementary to sequences within the bacterial chloramphenicol ( CAT ) gene contained in pCL- Cell Type-specific Collagenase Transcription 1891 2278CAT , was 5 `` TTCATTGCATACGGAATTCCGGATG3 ' .
+A mutant construct , pCL-2278CATmAP-1 , with the AP-1 site replaced by an Smal restriction site , was constructed by overlapping PCR mutagenesis as described ( 35 ) .
+The sequences of the overlapping primers were as follows : ( forward primer ) : SGCACCCGGGAGACACCT CTGGCTTTCT3 ' , ( reverse primer ) : S'TCTCCCGGGTGCTTITTAT AAC ATATCCTCT3 ' .
+The external primers were : ( forward primer ) : S'AAGCCATGGTCGTATCGC3 ' , ( reverse primer ) 5°CCAATTCC CTCGAGCCCGTAAGTGATG3 ' .
+The resultant mutated PCR product was digested with KpnI and Xhol .
+The digested fragment was then ligated with the HindIII/KpnI fragment of the pCL-2278CAT vector and HindIII/Xhol digested pBLCAT2 .
+Constructs =-511mAP-1 , -179mAP-1 , and -95mAP-1 were synthesized by PCR amplification of pCL-2278CATmAP-1 using the specific forward primers described above and the common reverse primer complementary to sequences within the CAT gene , followed by restriction digestion with HindIII and Xhol and subcloning into HindIII/Xhol digested pBLCAT2 .
+Constructs -179mNFkB and -95mNFkB were constructed by overlapping PCR mutagenesis using pCL-2278CAT as a template .
+The sequences of the overlapping PCR primers were as follows : ( forward primer ) : SGAGAACTACCA AGCTGGGATATTGGAGC3 ' , ( reverse primer ) : S'TTGGTA-GTTCACTCTGTATATATAGAGT3 ' .
+The sequences of all constructs were verified by dideoxy sequencing of plasmid DNA ( Seque-nase ; Amersham Corp. , Arlington Heights , IL ) .
+Preparation of nuclear extracts .
+Nuclear extracts were prepared from U937 cells treated with control medium containing PMA ( 50 ng/ ml ) or PMA + LPS ( 10 pg/ml ) as described ( 36 ) .
+Nuclear extracts were also isolated from 2 x 10° J774 cells treated with control medium or medium containing LPS at 10 pg/ml or zymosan at 1 mg/ml for 24 h. Nuclear extracts were aliquoted and frozen over liquid N , until use .
+Electrophoretic mobility shift assays .
+To determine the binding of nuclear factors to regions of the collagenase promoter , double-stranded oligonucleotides were synthesized , end labeled with [ P ] -y-ATP ( ICN , Biomedicals , Inc. , Irvine , CA ) and polynucleotide kinase ( Boehringer Mannheim Biochemicals , Indianapolis , IN ) , incubated with 5 mg of nuclear extract protein , and electrophoresed through 5 % nondenaturing polyacrylamide gels essentially as described ( 37 ) .
+Extracts were incubated with 1 g poly ( dL : dC/dI : dC ) and 5- to 50-fold excess of specific or mutant unlabeled competitors for 15 min at 25°C , then 40,000 to 100,000 cpm of probe was added and incubated for 30 min at 25°C .
+For supershift assays , the reaction mixture was chilled on ice , 1 pg of antibody was added , and the incubation was continued overnight at 4°C .
+Antibodies were rabbit polyclonals ( Santa Cruz Biotechnology , Santa Cruz , CA ) raised against specific fos or jun peptide sequences as follows : the pan-jun-specific antibody ( c-jun/AP-1 [ D ] ) recognizes the COOH terminus of mouse c-Jun p39 ; the c-Jun antibody ( c-jun/AP-1 [ N ] ) recognizes amino acids 95-105 of mouse c-Jun p39 ; the Jun B antibody ( jun B [ N-17 ] ) recognizes amino acids 45-61 of mouse Jun B p39 ; the pan-Fos-specific antibody ( c-fos- [ K-25 ] ) was raised against amino acids 128-152 of human c-fos p62 ; the c-fos-specific antibody ( c-fos [ 4 ] ) was raised to amino acids 3-16 of human c-Fos p62 ; and the Fos B-specific antibody was raised to amino acids 102-117 of the mouse fos B gene product .
+Binding reactions were centrifuged at 4,000 g for 5 min at 4°C , then electrophoresed through 5 % acrylamide gels at 250 V for 2 h at 4°C .
+Gels were dried and exposed to x-ray film for 12-30 h. Results LPS treatment upregulates collagenase mRNA expression in monocytic cell lines .
+To demonstrate the induction of interstitial collagenases in monocytic cells by LPS treatment , Northern blot analysis was performed on total RNA isolated from PMA-differentiated , LPS-treated , human U937 cells .
+Interstitial collagenase mRNA was undetectable in control cells , in 1892 - R.A. Pierce , S. Sandefur , G.A .
+Doyle , and H.G .
+Welgus Figure 1 .
+Northern analysis of collagenase mRNA in U937 and J774 cells .
+( A ) Human U937 cells were treated with control medium ( C ) , 50 ng/ml of PMA ( P ) , or with 50 ng/ml of PMA plus 10 pg/ml of LPS ( P+L ) for 24 h , then harvested for RNA isolation and Northern blot analysis of collagenase mRNA levels .
+Collagenase mRNA is induced by PMA and further induced by LPS treatment .
+( B ) Murine J774 cells were treated with control medium ( C ) or with 10 ug/ml of LPS ( L ) for 24 h , then harvested for RNA isolation and Northern blot analysis of collagenase mRNA levels .
+Collagenase mRNA is induced by LPS .
+ap -- Human Case -- GAPDH .
+-- Murine Case @ a= - GAPDH duced by PMA differentiation , and markedly potentiated by LPS treatment , as described previously ( Fig .
+1 A ) ( 13 ) .
+In spontaneously adherent mouse J774 cells , collagenase mRNA was undetectable in control cultures , but was markedly induced in LPS-treated cultures ( Fig .
+1 B ) .
+These results were uniformly seen in multiple experiments .
+LPS-responsive elements of the human collagenase MMP-1 promoter differ from PMA-responsive elements and reside near the transcription start site .
+Previous studies indicate that LPS stimulation of collagenase expression in monocytic cells was transcriptionally mediated ( 13 ) .
+To delineate LPS-responsive elements in the collagenase ( human MMP-1 ) promoter , a series of collagenase promoter-CAT constructs ( Fig .
+2 4 ) were used in transient transfections of PMA-differentiated human U937 cells .
+As shown in Fig .
+2 B , induction of promoter activity of LPS treatment was evident in all constructs containing the AP-1 site , including pCL-72CAT .
+Furthermore , as quantified in Table I , the fold induction by LPS was very similar in pCL-72CAT to all other constructs containing additional upstream sequences .
+In contrast , the fold induction of transcription with PMA treatment diminished markedly with deletion of the sequences between -179 and -95 ( lacking TTCA ) and no PMA-mediated induction was observed with pCL-72CAT ( Lacking TTCA and PEA-3 , but containing AP-1 ) .
+These data indicate that in monocytes , as reported in fibroblasts ( 14 , 15 ) , PMA induction of collagenase transcription is dependent upon Table I .
+Induction of Collagenase Promoter Activity by PMA and LPS Promoter U937 cells .
+U937 cells , J774 cells .
+construct LPS/PMA PM A/control LPS/control -2278 4.7 6.4 4.1 -551 3.9 4.8 4.6 -179 4.3 3.3 4.8 -95 2.8 1.3 8.5 -72 3.8 0.7 4.8 -55 1.0 0.8 1.4 -34 1.3 0.8 1.1 Data are derived from scintillation counting of the thin layer chromato-graphs which were exposed for autoradiography and shown in Fig .
+2 , B and C. Control values are set to 1.0 and numbers presented indicate fold stimulation relative to control .
+In the case of LPS/PMA for U937 cells , PMA values are set to 1.0 and numbers presented indicated LPS stimulation relative to PMA .
+A pOL-2278CAT 1 / arc 150 poust1cat ise Api [ ran |- +s6 pCL-179CAT- pCL-72CAT NF-kB +36 pCL-55CAT NF-kB +36 Figure 2 .
+Deletion analysis indicates LPS-responsive elements reside near the collagenase transcription start site .
+( A ) A deletion series , containing from 2278 to 34 nucleotides of 5 ' -flanking sequence of the human collagenase ( MMP-1 ) promoter and extending to +36 relative to the transcription start site , was con-structed .
+( B ) U937 cells were ATCATGACATTGCAACAC CZIXAGTGATTCCMATAATCTGCIITAGGAGTCAIC CATTTCTAA 179 -170 -160 +150 ~140 TTCA PEA-3 AP-1 TGATTGCCTAQTCTATTCATQGCTAATCAAIGAGGATGTTA ‘ II ‘ TAAAGCATGIILGTCAGACAC +120 110 ~100 90 80 TATA NF- KB-like ICTCTGGCTTTQTGGAAGGGCIAAGGACTCTATATATACAGAQGGAGCTTCC'ZFAGCTGGGAT -60 ~50 A0 30 -20 B Construct +2278 transiently transfected with collagenase promoter-CAT constructs , divided into treatment groups , then treated for 24 h with control medium , 50 ng/ml of PMA or 50 ng/ml of PMA plus 10 ug/ml LPS .
+Cells were then harvested and lysates prepared for analysis of CAT activity .
+Constructs containing from 2278 to 179 nucleotides of 5 ' -flanking sequence were induced by PMA , 130 10 10 J00 e0e000 o 000 while induction by LPS occurred with the -95 and -72 constructs as well .
+( C ) J774 cells were transiently cotransfected with collagenase promoter-CAT con pma + + + + + + LPS + + + + C Construct 2278 11 179 -95 -72 -55 34 f « > * e * a __ & C * Lrs -o 0 - # o- # 0 + # - $ o - # - + D Construct Construct 511 « 95 2278 179 structs and CMV-BGal , treated for 24 h with 10 g/ml LPS , then harvested for analysis of CAT activity normalized for B-galactosidase activity .
+Note that LPS-mediated induction of transcriptional activity was evident in constructs containing from 2278 to 72 nucleotides of 5 ' -flanking sequence .
+( DD ) Human dermal fibroblasts were transiently cotransfected with collagenase promoter-CAT constructs and CMV-BGal , treated for 24 h with ng/ml PMA , then harvested for + + + ++ 95 12 -55 ( TRE ) , TK ® a a * # 8 % » « analysis of CAT activity normalized for B-galactosidase activity .
+Transcriptional induction was evident in the -511 construct , but absent in both the -95 and -72 PMA ime - + - + + LPS - + constructs .
+( E ) Human dermal fi- - % wop : ( - } $ ) = « - < h broblasts were transiently cotransfected with either collagenase promoter-CAT-deletion constructs or a heterologous construct containing three tandem AP-1 sites and the HSV TK promoter , and CMV-BGal , treated for 24 h with LPS at 10 pg/ml , then harvested for analysis for CAT activity normalized for B-galactosidase activity .
+No induction was observed .
+upstream sequences , such as TTCA and PEA-3 .
+However , LPS-induced collagenase transcription exhibited no such de-pendence .
+Similarly , in J774 cells treated with control medium or LPS at 10 ug/ml for 24 h ( Fig .
+2 C ) , LPS induction persisted in all constructs containing the AP-1 site .
+In fact , fold induction of the -72 construct in response to LPS was nearly identical in magnitude to that exhibited by the -511 , -179 , and -95 constructs ( Table I ) .
+Both basal promoter activity and LPS induction were absent in the -55 and -34 constructs that do not contain the AP-1 sequence .
+To compare induction of collagenase transcription in monocytic cells with interstitial cells , human dermal fibroblasts were transfected with collagenase promoter deletion constructs and treated with either PMA or LPS for 24 h. In these cells , as previously reported ( 38 ) , sequences 5 ' of the AP-1 site were required for PMA responsiveness ; in fact , a -95 construct containing AP-1 and PEA-3 elements , but lacking TTCA , exhibited no phorbol induction ( Fig .
+2 D ) .
+As antici-pated , human dermal fibroblasts were not competent to upregulate collagenase promoter activity in response to LPS ( Fig .
+2 E ) .
+In all experiments using constructs containing from 2278 to 34 bp of 5'-flanking sequence of the collagenase promoter , LPS induction was never evident .
+These data indicate that LPS induction of collagenase transcription is cell type specific and Cell Type-specific Collagenase Transcription 1893 A B Construct « 2278 2278 Construct « 2278 TK cat ( TREp : TKCat 72 e e « & = @ @ e « = tin « tte o o o 0 | | o o e o ee0c0e o @ cce eoce a s C C P 0 C U e - % e _ e e e e a e e e e e e % Time 40 B 12 24 40 8 12 24 LPS o 2 10 0 2 10 0 a r 10 oo o 2 a0 0 PMA £0 0s % -o- + so- < % -o > > + Treatment Control LPS Figure 3 .
+Time course and dose response of LPS induction of collagenase transcription .
+( A ) J774 cells were transfected with -2278CLCAT , treated with LPS at 10 pg/ml for 4 , 8 , 12 , or 24 h , then cell lysates were assayed for CAT activity .
+Induction of transcription was evident by 12 h , and continued at 24 h. ( B ) Dose response of LPS induction .
+J774 cells were transiently transfected with collagenase promoter-CAT constructs or heterologous promoter-CAT constructs , treated with PMA at 50 ng/ml or LPS at 2 or 10 pg/ml for 24 h. Cell lysates were assayed for CAT activity .
+PMA-mediated transcriptional induction was evident in -2278CLCAT and a heterologous construct containing three tandem repeats of the collagenase AP-1 site , but not in the minimal thymidine-kinase promoter or the native collagenase -72CLCAT construct .
+In contrast , LPS-mediated transcriptional induction was complete and dose dependent in the native collagenase -72CLCAT construct .
+differs from PMA induction of collagenase in requirements for sequences upstream of the AP-1 site .
+Time course of LPS induction of collagenase promoter activity .
+We were interested in determining the time course of induction of collagenase promoter activity by LPS treatment of monocytic cells and chose to perform these studies in the murine J774 cells , which respond directly to LPS without requiring PMA differentiation .
+J774 cells were transiently transfected , then treated with LPS for 4 , 8 , 12 , or 24 h. Collagenase promoter activity was slightly induced by LPS treatment at 8 h over control levels , was fully induced by 12 h , and continued at high levels through 24 h ( Fig .
+3 A ) .
+In some experiments , the A pCL-227BmAP-1CAT / / meegy tag _ : pCL-179mNF- « BCAT [ Trca ] pEA-s ] Ap | TATA | Nggel -- +36 pCL-95mNF-xBCAT- [ PEA-s ] APA [ TATA | Y & B +36 pou-9smap-1cat - Pers [ K - +26 Wild-type AP-1 sequence ( -72 to -65 ) TGAGTCAG Mutated AP-1 sequence ( -72 to -65 ) cocecceac Figure 4 .
+The AP-1 site is necessary for LPS-mediated transcriptional induction .
+( A ) The collagenase AP-1 site and Consensus NF-KB sequence cecceactrrcec a putative NF-kB-like site were mu- , ¢ NF-kB tated in the context of deletion con-Tissue-factor NF-KB sequence CccecactTTTccr structs .
+( B ) U937 cells were transiently Collagenase NF-xB-like sequence ( -20 to -10 ) - AGGGAGCTTCCT transfected , treated with PMA at 50 Mutated NF-KB-like sequence ( -20 to -10 ) AGAGCAACTACCT ng/ml or PMA at 50 ng/ml plus LPS at 10 g/ml for 24 h , then harvested and B cell lysates were assayed for CAT activ-Construct _ 2278 2278 mAP1 179 179mapP-1 -95 -95mAP-1 -34 ity .
+LPS 1ndqc1p111ty was evident in constructs containing 2278 , 179 , or 95 nucle-ing * eo * o ® otides of promoter sequences , but © mutation of the AP-1 site eliminated e @ 00 O00 000 @ 00 se0e06 ee0 e00 both basal activity ar'ld inducibility .
+( C ) ok. 0+ $ 0 a 0 % 406 b e e i % % 5 on % J774 cells were transiently transfected , PMA + % £ `` % +o+ + + + + + 0+ 3 < > treated with LPS at 10 pg/ml for 24 h , LFS * * M * * * * then harvested and cell lysates were assayed for CAT activity .
+Two separate C experiments , one testing mAP-1 con-Construct 2278 - -2278mAP-A | 479 _ 179mAPA1 | 95 _ A5mAP1 179 ~179mNF~B structs and another , the mNF- « B construct , are presented .
+Note that muta-© % tion of the AP-1 site in the context of the -2278 , -179 , and -95 constructs abolished basal activity and LPS induc-se 00 00 ee o 0 ® 0 ee ee ibility .
+In contrast , mutation of the NF- « B-like site had no effect on LPS induc-LPS - & sot nook ol c # o- # 00 o- : # - © = + ibility .
+1894 _ R.A. Pierce , S. Sandefur , G.A .
+Doyle , and H.G .
+Welgus increase at 8 h was quite evident ; however , a high level of induction was always observed at 12 h. LPS induction of collagenase promoter activity is dose re-sponsive .
+To determine if the LPS-mediated induction of collagenase transcription was dose dependent , transiently transfected J774 cells were treated with 2 to 10 ug/ml of LPS or with PMA at 50 ng/ml for 24 h ( Fig .
+3 B ) .
+Constructs containing 2278 or just 72 bp of 5 ' -flanking sequence were equally LPS responsive and a dose-dependent increase in transcriptional activity was observed .
+While transcriptional activity from the -2278 construct was highly responsive to PMA , the -72 construct was completely unresponsive to PMA treatment , similar to Fig .
+2 B .
+A control plasmid containing the herpes simplex virus thymidine kinase promoter linked to the CAT gene ( 34 ) exhibited no transcriptional activity , while a derived construct that contains three tandem repeats of the Ap-1 site inserted 5 of the thymidine kinase promoter exhibited basal activity , PMA responsiveness , and dose-dependent induction with LPS treatment of J774 cells .
+These data further support the hypothesis that the single collagenase AP-1 site linked to minimal downstream sequences is necessary and sufficient for LPS-mediated induction of collagenase transcription , but not for PMA-induced transcription .
+The AP-1 site , but not the NF- « kB-like site , is necessary for LPS-mediated transcriptional induction .
+To determine whether an intact AP-1 site was necessary for collagenase transcription in the context of larger collagenase promoter fragments , site-directed mutagenesis of the collagenase promoter AP-1 site was performed ( Fig .
+4 A ) .
+In U937 cells , mutation of the AP-1 site ablated transcriptional activation by LPS in the context of the -2278 , -179 , and -95 collagenase promoter-CAT constructs ( Fig .
+4 B ) .
+Similarly , the constructs -2278mAP-1 , -179mAP-1 , and -I95mAP-1 all lacked basal activity and LPS inducibility in transfected J774 cells ( Fig .
+4 C ) .
+The human collagenase promoter contains a site similar to consensus sequences for the transcription factor NFkB between the TATA box and the transcription start site ( Figs .
+2 A and 4 A ) .
+Because NF-KB is a common transactivator of LPS-responsive genes associated with inflammation ( 28 ) , we mutated the collagenase NF- « kB-like site to test whether this site is important in the LPS-mediated induction of collagenase transcription ( Fig .
+4 C ) .
+Mutation of this NF-kB-like site had no effect on LPS inducibility of the transcriptional activity of B « 2278 72 © © C ZYM -- Murine Case < a e o © e tap @ @ | - capou P 4 Co Z Co Z Figure 5 .
+Zymosan induction of collagenase transcription .
+( A ) J774 cells were treated with control medium ( C ) or zymosan ( ZYM ) at 1 mg/ml for 24 h , then harvested for RNA isolation and Northern analysis of murine collagenase mRNA .
+Note that zymosan treatment induced collagenase mRNA .
+( B ) J774 cells were transfected with CL-2278CAT or CL-72 CAT , treated with zymosan at 1 mg/ml for 24 h , and then cell lysates were assayed for CAT activity .
+Transcriptional activity was potently induced by zymosan treatment and equivalently in the -2278 , and -72 constructs .
+the -179 promoter-CAT construct in J774 cells .
+In this experi-ment , which was performed separately from the experiment testing the AP-1 mutants , a lower level of CAT activity was due to a lower level of transfection efficiency .
+However , LPS inducibility over the zero background was evident with or without mutation of the NF- « kB-like site .
+Together , these data argue that the AP-1 site , but not the NF-kB-like site , is necessary for LPS-mediated induction of collagenase transcription in monocytic cells .
+Zymosan induction of collagenase in J774 cells .
+Our experiments indicated that LPS induction of collagenase transcription was mediated primarily through the AP-1 site and was much less dependent on upstream sequences than the induction of collagenase in fibroblasts or monocytic cells by PMA .
+We were therefore interested in determining whether similar regulatory mechanisms would be characteristic of zymosan induction of collagenase , as this is another agent that , like LPS , activates human macrophage collagenase expression , but has no effect on collagenase expression in other cells such as fibroblasts ( 12 ) .
+The spontaneously adherent J774 cells respond to zymosan by upregulation of collagenase mRNA ( Fig .
+5 A ) ; however , the PMA -differentiated U937 cells did not respond to zymosan treatment ( data not shown ) .
+Therefore , we tested the response of the collagenase promoter to zymosan in J774 cells .
+Transiently transfected , zymosan-treated J774 cells exhibited marked and near-equivalent induction of collagenase promoter activity with deletion constructs containing 2278 and 72 bp of 5'-flanking sequence of the collagenase promoter ( Fig .
+5 B ) .
+Similar results were obtained with deletion constructs containing from 511 to 95 bp of 5'-flanking sequence ( data not shown ) .
+LPS and zymosan treatment results in induction of AP-1 and NF-kB .
+Because our transient transfection analysis of the collagenase promoter implicated the AP-1 element in both LPS- and zymosan-mediated induction , we were interested in analyzing the induction of AP-1 complexes in U937 and J774 cells .
+Nuclear extracts were prepared from U937 cells treated for 24 h with PMA or PMA plus LPS and from J774 cells treated for 24 h with LPS or zymosan as described above .
+The quality of all extracts was assessed by mobility-shift assays using the constitutive nuclear protein Oct 1 ( data not shown ) .
+Extracts were incubated with P-radiolabeled double-stranded oligonucleotides containing the collagenase promoter wild-type AP-1 site ( Fig .
+6 A ) .
+Extracts from untreated U937 cells exhibited little binding to the AP-1 oligonucleotide , while extracts prepared from LPS-treated , PMA-differentiated U937 cells exhibited greater binding to the AP-1 site than extracts derived from cells treated with PMA alone ( Fig .
+6 B ) .
+Competition with fivefold excess unlabeled AP-1 oligonucleotide diminished binding and a 50-fold excess abolished bind-ing , while mutant competitor had no effect on binding activity .
+Thus , specific binding to the collagenase AP-1 site is potentiated by LPS treatment of PMA-differentiated U937 cells .
+Similarly , extracts from control J774 cells exhibited some binding to the AP-1 site , which was markedly increased in extracts from LPS treated cells ( Fig .
+6 C ) .
+This binding was competed by a fivefold molar excess of unlabeled competitor , indicating a high degree of specificity of binding .
+Further increases in unlabeled competitor abolished specific binding completely , while a mutated competitor was ineffective in competing for binding even at a 50-fold excess concentration .
+In nuclear extracts from zymosan-treated J774 cells , a marked , specific in Cell Type-specific Collagenase Transcription 1895 A l 5 'CATCAAAGCATCAGTCAGACACCT3® Collagenase AP-1 probe '3TPPCGTACTCAGTCTETGGAcTAc ' s L 5'GATCAAAGCA GAGACACCT3 : Collagenase mAP-1 probe TCTGTGGACTAG ' 5 _ 5 - AcTTeaceccactrrcccacec : ' Consensus NF-B probe ' 3 TCAACTCCCCTGAAAGGGTCce 's 5 ' TATACAGACGGACCTTCCTAcCTEG : ® Collagenase NF-KB-like probe ' 2ATATGTCTCCCTCGAAGGATCGAC 's C Extract - Control LPS Competitor | - sx | 10 % ] 50 % ) 5X | 10 % ] SOX Mutcompetitor| - 50X 5 |50X B |_ Extract __| - Emmi PMA PMA +LPS |_ Competitor | - __| sx sx | 10x ] 50 % sx | 10 % ] sox [ Mutcumpetrlur ] - J 50X 50X w I J6 18 tt b E Figure 6 .
+AP-1 and -- NF- « B are induced by Extract Control pma LPS treatment .
+( A4 ) D __ + + Oligonucleotides used Extract - Control Zymosan 1 Eﬁﬂﬁfﬁgf x + + in gel-Shift assays in-Competitor | - sx |1ox|sox| __| 5x | rox ] sox clude the human colla-mutcompetitor| - E _ t* u t genase MMP-1 AP-1 site , the human colla- f H « g- - genase NF- « B-like site , and a consensus H - NF-kB sequence .
+( B ) ® wt d ' il `` Gel-shift assay using the collagenase AP-1 site and 5 pg of nuclear extracts derived from U937 cells treated for 24 h with either control medium , PMA at 50 ng/ml , or MPA at 50 ng/ml plus i i LPS at 10 pg/ml .
+Note . '
+.
+. '
+.
+G i that specific binding activity is low in the extracts from unstimulated cells , is induced in extracts from PMA-differentiated cells , and is augmented further in nuclear extracts from LPS-treated cells .
+( C ) Gel-shift assay using the collagenase AP-1 site and 5 pg of nuclear extracts derived from J774 cells treated for 24 h with control medium or LPS at 10 g/ml .
+Note that binding activity is present in the unstimulated cells and is specifically competed by unlabeled excess oligo , but not by mutant competitor .
+LPS treatment results in markedly increased specific binding activity .
+( D ) Gel-shift assay using 5 g of nuclear extracts prepared from control- or zymosan-treated J774 cells .
+Zymosan treatment results in increased specific binding to the collagenase AP-1 site .
+( £ ) Gel-shift assay using a consensus NF-kB sequence and nuclear extracts from PMA and LPS-treated U937 cells .
+Binding activity is increased by PMA and LPS-treatment of U937 cells .
+Note that specific binding ( arrows ) is competed by excess unlabeled consensus competitor , but not by the collagenase NF-kB-like sequence .
+1896 _ R.A. Pierce , S. Sandefur , G.A .
+Doyle , and H.G .
+Welgus duction of binding activity to the collagenase AP-1 site was also evident ( Fig .
+6 D ) .
+To determine whether the NF- « B-like site in the collagenase promoter is functional in binding NF- « B , this sequence was used to compete binding to an NF-kB consensus sequence ( Fig .
+6 E ) .
+Extracts from control U937 cells exhibited some basal level of binding activity for the consensus NFkB sequence .
+This was readily competed by 25-fold excess unlabeled consensus competitor , but not by a 25-fold excess of double-stranded oligonucleotide derived from the collagenase pro-moter .
+Specific binding to the consensus NF-kB oligonucleotide was increased in extracts from PMA-differentiated cells and markedly induced by LPS treatment .
+However , similar to the binding activity exhibited in extracts from control cells , this activity was not competed by excess oligonucleotide derived from the collagenase NF-xB-like site .
+These data indicate that while NF- « B activity is induced by LPS treatment , the NF- « kB-like site identified in the collagenase promoter does not specifically bind the NF-kB complexes .
+C-Jun , Jun B , Jun D , and c-Fos are present in LPS-induced AP-1 complexes .
+To define the specific proteins present in the shifted complexes , antibodies to specific components of AP-1 complexes were used in supershift assays involving LPS stimulation of human U937 cells .
+Supershifted bands were detected when binding reactions included antibodies to c-Jun , Jun B , and Jun D , indicating these components are present in the AP-1 complexes induced by LPS stimulation of U937 cells ( Fig .
+7 ) .
+Similarly , an anti-Fos antibody which recognizes all members of the fos gene family and a specific antibody to c-Fos were used in supershift assays , resulting in altered mobility of the DNA-protein complexes and indicating the presence of c-Fos .
+In supershift assays employing this same panel of antibodies , but using nuclear extracts from LPS or zymosan-treated J774 cells , the same pattern of results was obtained ( data not shown ) .
+Thus , the AP-1 complexes induced by LPS in mono Antibody | - | - | - |panJun ] eJun | JunB | JunD |panfos| c-Fos Camper-km - -| + _ [ I+ - ] + _|+ _|+ _l+ -|+ extract _| - + ] + ] + ] + ] + ] + ] + [ + ] + ] + ] + ] +|+ - # am webs 1 `` A > p WoW ow = w | + % I “ Uu : uguul'lui Figure 7 .
+Supershift analysis of nuclear extracts from PMA and LPS-treated U937 cells .
+Gel-shift assay using the collagenase AP-1 site and 5 g of nuclear extracts derived from U937 cells treated for 24 h with PMA at 50 ng/ml plus LPS at 10 pg/ml .
+Anti-pan-Jun , c-Jun , Jun B , Jun D , pan-Fos , and c-Fos antibodies added to the incubation resulted in a further decrease in mobility of the PMA and LPS-induced AP-1 complexes ( arrow , shifted band ; arrowheads , supershifted band ) .
+cytic cells contain specific members of both the Jun and Fos families of DNA binding proteins .
+Discussion In this manuscript , we present the novel finding that a 72-bp sequence of the interstitial collagenase promoter , from the transcription start site to the AP-1 site , is sufficient for maximal fold induction of transcription in monocytic cells .
+It is widely recognized that AP-1 plays a vital role in transcriptional regulation of matrix metalloproteinases , including interstitial collagenase .
+There is , however , strong evidence that sequences upstream of the AP-1 site are necessary for maximal fold induction of collagenase transcription in resident cell types .
+In 1990 , Gutman and Wasylyk ( 15 ) reported that in mouse fibroblasts ( LMTK~ ) , the human collagenase promoter uses a phorbol- and oncogene-responsive unit that encompasses the PEA-3- and AP-1-binding sites .
+They named this unit TORU ( TPA and oncogene-responsive unit ) .
+Mutation of the PEA-3 site resulted in markedly lower fold induction of transcription upon phorbol stimulation or cotransfection with oncogene expression vectors .
+In 1991 , two reports from Brinckerhoff and co-workers ( 10 , 14 ) indicated that upstream elements , cooperating with the AP-1 site , were necessary for induction of transcription in fibroblasts .
+They reported that a PEA-3-like element and also a TTCA sequence were necessary for phorbol inducibility of collagenase transcription in fibroblasts .
+The minimal promoter fragment which was phorbol responsive was 127 bp in length ( 14 ) .
+Similarly , they found that both IL-1 and phorbol induction of the stromelysin promoter requires an upstream element that cooperates with the AP-1 site ( 10 ) .
+The fold induction of transcriptional activity in the shortest AP-1-containing construct was two- to threefold with IL-1 or phorbol treatment in human skin fibroblasts , but five- to sixfold in constructs containing upstream sequences , indicating that cooperation between the AP-1 site and upstream elements is required for maximal fold induction of stromelysin in fibroblasts .
+Also in 1991 , Buttice et al .
+( 39 ) reported that the AP-1 site is necessary for basal and maximal activity of the stromelysin promoter , but not for phorbol induction , in human and mouse cells .
+In 1993 , Buttice and Kurkinen ( 38 ) demonstrated that the PEA-3 site , 5 `` of the AP-1 site , plays a major role in phorbol induction of the stromelysin gene .
+Together , these studies emphasize that in human and mouse fibroblasts , with a variety of stimuli , elements upstream to AP-1 are critical for maximal fold induction of metalloproteinase transcription .
+Indeed , fold induction was increased by a factor of two to five by inclusion of upstream sequences in these studies .
+The previous reports contrast strongly with our findings regarding collagenase induction in monocytic cells .
+In PMA ferentiated U937 cells , the fold induction of the -72 construct on LPS treatment was similar to the fold induction observed with constructs containing additional 5 `` flanking sequences up to 2278 bp .
+Similarly , in murine J774 cells , the magnitude of LPS induction of a construct containing only 72 bp of 5 flanking sequence was equal to constructs containing 179 , 511 , or 2278 bp of 5 ' flanking sequences ( Table I ) .
+While absolute promoter activity is maximal with larger constructs in our studies , this finding does not indicate that upstream elements are LPS-or zymosan-responsive , but rather that upstream elements are Cell Type-specific Collagenase Transcription 1897 necessary for full basal and induced transcriptional activity .
+This is fundamentally different from the previous studies in resident cells outlined above , where upstream elements were clearly responsive to either phorbol ester or IL-1 .
+In those studies , additional sequences conferred greater fold induction of transcription in response to stimulation .
+To our knowledge , this study is the first to delineate collagenase promoter elements responsive to macrophage-specific mediators and to suggest that elements of the collagenase promoter from -72 to the transcription start site alone can be sufficient to mediate this gene 's induction in monocytic cells .
+The cell model systems we used included both PMA -differentiated U937 human monocytic cells and macrophage-like murine J774 cells .
+Each of these two cell lines offered advantages for this study .
+Notably , there are no spontaneously adherent human monocytic cell lines capable of responding directly to LPS .
+Therefore , we used PMA-differentiated human U937 cells , which responded potently to LPS stimulation .
+We also studied murine J774 cells to complement and validate our studies in the human U937 cells , because these cells are pheno-typically very similar to tissue macrophages .
+They are spontaneously adherent and respond directly to LPS .
+In murine cells and tissues , however , MMP-13 appears to be the only collagenase present .
+Indeed , expression of MMP-13 was induced by LPS ( Fig .
+1 B ) , indicating that these cells possess all the machinery necessary to upregulate metalloproteinase expression , precisely as pulmonary alveolar macrophages do .
+The identity of results between the phorbol-differentiated U937 cells and J774 cells strongly suggests that the responsive elements of MMP genes and the nuclear factors conferring transactivation operate across mammalian species .
+In our studies , induction of nuclear proteins capable of binding the collagenase AP-1 site was markedly upregulated by LPS treatment of PMA-differentiated U937 cells and by LPS or zymosan treatment of J774 cells .
+Further analysis using antibodies specific for individual components of the AP-1 complexes identified c-Jun , Jun B , Jun D , and c-Fos in protein complexes bound to the AP-1 site .
+Because the antibodies used may differ in their affinities and efficiency of binding under experimental conditions , these assays do not ascertain which of these components are predominant .
+Angel and Karin ( 1992 ) showed that c-Jun is necessary for collagenase activation ( 40 ) .
+If this requirement for c-Jun is operative in transactivation of monocytic cells as well , c-Jun/c-Fos heterodimers may predominate in LPS- or zymosan-stimulated macrophagelike cells .
+LPS binding to CD14 on the cell surface ( 41 ) starts a cascade of signal transduction which ultimately results in the activation of the AP-1 and NF-kB transcription factors , among others ( 28 ) .
+We identified an NF-xB-like sequence in the collagenase promoter between the TATA box and transcription initiation site , yet mutation of this site failed to affect LPS-mediated transactivation .
+The binding of nuclear proteins from LPS-stimulated cells to a consensus NF-kB site derived from the immunoglobulin kappa gene enhancer indicated that NF-kB was strongly upregulated by LPS treatment ; however , this binding activity was not efficiently competed by excess unlabeled collagenase NF-kB-like sequences .
+In contrast , deletion or mutagenesis of the AP-1 site completely abrogated collagenase transactivation in response to LPS treatment .
+Therefore , collagenase transactivation by LPS in dependent upon AP-1 , but exhibits no involvement of this NF- « B-like 1898 _ R.A. Pierce , S. Sandefur , G.A .
+Doyle , and H.G .
+Welgus site .
+While we can not rule out participation of other sequences of the collagenase gene ( in addition to -2278 to +36 ) in the LPS-mediated transcriptional induction in macrophages , it is clear that the sequences between -72 and -55 , including the AP-1 site , are critical for this response .
+In this report , we have shown that upstream promoter elements such as PEA-3 and TTCA , which are required for resident cell induction of collagenase expression , contribute little or nothing to transcriptional activation of the collagenase gene in monocytic cells .
+Indeed , our data suggest that elements of the collagenase promoter from -72 to the transcription start site alone can be sufficient to mediate this gene 's induction in response to macrophage-specific mediators such as LPS and zymosan .
+These results emphasize the cell type-specific differences which exist in metalloproteinase expression and may have important implications for understanding pathogenetic mechanisms in diseases such as atherosclerosis and rheumatoid arthritis .
+Acknowledgments We thank Dr. William Parks for helpful discussions and Dr. Stephen Frisch for providing pCLCAT .
+This work was supported by grants HL-29594 and HL-54049 from the National Institutes of Health and a Career Development Award from the Dermatology Foundation .
+References 1 .
+Welgus , H.G .
+, J.J. Jeffrey , and A.Z .
+Eisen .
+1981 .
+The collagen substrate specificity of human skin fibroblast collagenase .
+J. Biol .
+Chem .
+256:9511-9515 .
+2 .
+Goldberg , G.1 .
+, S.M .
+Wilhelm , A. Kronberger , E.A .
+Bauer , G.A .
+Grant , and A.Z .
+Eisen .
+1986 .
+Human fibroblast collagenase .
+Complete primary structure and homology to an oncogene transformation-induced rat protein .
+J. Biol .
+Chem .
+261:6600-6605 .
+3 .
+Hasty , K.A .
+, T.F .
+Pourmotabbed , G.I .
+Goldberg , J.P. Thompson , D.G .
+Spinella , R.M .
+Steens , and C.L .
+Mainardi .
+1990 .
+Human neutrophil collagenase .
+A distinct gene product with homology to other matrix metalloproteinases .
+J. Biol .
+Chem .
+265:11421-11424 .
+4 .
+Quinn , C.O .
+, D.K .
+Scott , C.E .
+Brinckerhoff , L.M .
+Matrisian , J.J. Jeffrey , and N.C. Partridge .
+1990 .
+Rat collagenase : cloning , amino acid sequence com-parison , and parathyroid hormone regulation in osteoblastic cells .
+J. Biol .
+Chem .
+265:22342-22347 .
+5 .
+Freije , J.M.P .
+, I. Diez-Itza , M. Balbin , L.M .
+Sanchez , R. Blasco , J. To-livia , and C. Lopez-Otin .
+1994 .
+Molecular cloning and expression of collage-nase-3 , a novel human matrix metalloproteinase produced by breast carcino-mas .
+J. Biol .
+Chem .
+269:16766-16773 .
+6 .
+Murphy , G. , M.L .
+Crockett , R.V .
+Ward , and A.J.P .
+Docherty .
+1991 .
+Matrix metalloproteinase degradation of elastin , type IV collagen and proteogly-can .
+A quantitative comparison of the activities of 95 kDa and 75 kDa gelati-nases , stromelysins-1 and -2 and punctuated metalloproteinase ( PUMP ) .
+Biochem .
+J .
+277:277-279 .
+7 .
+McDonnell , S.E .
+, L.D .
+Kerr , and LM .
+Matrisian .
+1990 .
+Epidermal growth factor stimulation of stromelysin mRNA in rat fibroblasts requires induction of protooncogenes c-fos and c-jun and activation of protein kinase C. Mol .
+Cell .
+Biol .
+10:4284-4293 .
+8 .
+Edwards , D.R .
+, G. Murphy , J.J. Reynolds , S.E .
+Whitham , A.J.P .
+Do-cherty , P. Angel , and J.K. Heath .
+1987 .
+Transforming growth factor modulates the expression of collagenase and metalloproteinase inhibitor .
+EMBO ( Eur .
+Mol .
+Biol .
+Organ . )
+J .
+6:1899-1904 .
+9 .
+Brenner , D.A .
+, M. O'Hara , P. Angel , M. Chojkier , and M. Karin .
+1989 .
+Prolonged activation of jun and collagenase genes by tumor necrosis factor- « .
+Nature ( Lond . )
+.
+337:661-663 .
+10 .
+Sirum-Conolly , K. , and C.E .
+Brinckerhoff .
+1991 .
+Interleukin-1 or phorbol induction of the stromelysin promoter requires an element that cooperates with AP-1 .
+Nucleic Acids Res .
+19:335-341 .
+11 .
+Cury , J.D .
+, E.J .
+Campbell , C.J .
+Lazarus , R.J. Albin , and H.G .
+Welgus .
+1988 .
+Selective upregulation of human alveolar macrophage collagenase production by lipopolysaccharide and comparison to collagenase production in fibroblasts .
+J. Immunol .
+14:4306-4312 .
+12 .
+Shapiro , S.D .
+, D.K .
+Kobayashi , and H.G .
+Welgus .
+1992 .
+Identification of TIMP-2 in human alveolar macrophages .
+Regulation of biosynthesis is opposite to that of metalloproteinases and TIMP-1 .
+J. Biol .
+Chem .
+267:13890-13894 .
+13 .
+Saarialho-Kere , U.K. , H.G .
+Welgus , and W.C .
+Parks .
+1993 .
+Divergent mechanisms regulate interstitial collagenase and 92 dKa gelatinase expression in human monocytic-like cells exposed to bacterial endotoxin .
+J. Biol .
+Chem .
+268:17354-17361 .
+14 .
+Auble , D.T .
+, and C.E .
+Brinkerhoff .
+1991 .
+The AP-1 sequence is necessary but not sufficient for phorbol induction of collagenase in fibroblasts .
+Bio-chemistry .
+30:4629-4635 .
+15 .
+Gutman , A. , and B. Wasylyk .
+1990 .
+The collagenase gene promoter contains a TPA and oncogene-responsive unit encompassing the PEA3 and AP-1 binding sites .
+EMBO ( Eur .
+Mol .
+Biol .
+Organ . )
+J .
+92241-2246 .
+16 .
+Firestein , G.S .
+, M.M .
+Paine , and B.H .
+Littman .
+1991 .
+Gene expression ( collagenase , tissue inhibitor of metalloproteinases , complement , and HLA-DR ) in rheumatoid arthritis and osteoarthritis synovium .
+Quantitative analysis and effect of intraarticular corticosteroids .
+Arthritis & Rheum .
+34:1094-1105 .
+17 .
+McCachren , $ .S .
+1991 .
+Expression of metalloproteinases and metalloproteinase inhibitor in human arthritic synovium .
+Arthritis & Rheum .
+34:1085-1093 .
+18 .
+Galis , Z.S .
+, M.W .
+Suckhova , M.W .
+Lark , and P. Libby .
+1994 .
+Increased expression of matrix metalloproteinases and matrix degrading activity in vulnerable regions of human atherosclerotic plaques .
+J. Clin .
+Invest .
+94:2493-2503 .
+19 .
+Nikkari , S.T .
+, K.D .
+O'Brien , M. Ferguson , T. Hatsukami , H.G .
+Welgus , C.E .
+Alpers , and A.W .
+Clowes .
+1995 .
+Interstitial collagenase ( MMP-1 ) expression in human carotid atherosclerosis .
+Circulation .
+92:1393-1398 .
+20 .
+Hazuda , D.J .
+, J.C. Lee , and P.R .
+Young .
+1988 .
+The kinetics of IL-1 secretion from activated monocytes .
+Differences between interleukin 1 « and interleukin 1B .
+J. Biol .
+Chem .
+263:8473 .
+21 .
+Beutler , B. , N. Krochin , I. W. Milsark , C. Leudke , and A. Cerami .
+1986 .
+Control of cachectin ( tumor necrosis factor ) synthesis : mechanisms of endo-toxin resistance .
+Science ( Wash. DC ) .
+249:977 .
+22 .
+Bauer , J. , U. Ganter , T. Geiger , U. Jacobshagen , T. Hirano , T. Matsuda , T. Kishimoto , T. Andus , G. Acs , W. Gerok , et al .
+1988 .
+Regulation of interleu-kin-6 expression in cultured human blood monocytes and monocyte-derived macrophages .
+Blood .
+72:1134 .
+23 .
+Collart , M.A .
+, P. Bauerle , and P. Vassali .
+1990 .
+Regulation of tumor necrosis factor alpha transcription in macrophages : involvement of four xB-like motifs and of constitutive and inducible forms of NF-kB .
+Mol .
+Cell .
+Biol .
+10 : 1498-1506 .
+24 .
+Goldfield , A.E .
+, C. Doyle , and T. Maniatis .
+1990 .
+Human tumor necrosis factor a gene regulation by virus and lipopolysaccharide .
+Proc .
+Natl .
+Acad .
+Sci .
+USA .
+87:9769-9773 .
+25 .
+Drouet , C. , A.N .
+Shakhov , and C.V. Jongeneel .
+1991 .
+Enhancers and transcription factors controlling the inducibility of the tumor necrosis factor-a promoter in primary macrophages .
+J. Immunol .
+147:1694-1700 .
+26 .
+Ways , J.P. , and J.G .
+Gray .
+1994 .
+NF-kappa B regulates IL-1 beta transcription through a consensus NF-kappa B binding site and a nonconsensus CRE-like site .
+J. Immunol .
+153:712-723 .
+27 .
+Mackman , N. , K. Brand , and T.S .
+Edgington .
+1991 .
+Lipopolysaccharide-mediated transcriptional activation of the human tissue factor gene in THP-1 monocytic cells requires both activator protein 1 and nuclear factor kB binding sites .
+J. Exp .
+Med .
+174:1517-1526 .
+28 .
+Lenardo , M.J. , and D. Baltimore .
+1989 .
+NF-kB : a pleiotropic mediator of inducible and tissue-specific gene control .
+Cell .
+58:227-229 .
+29 .
+Pierce , R.A. , W.I .
+Mariencheck , S. Sandefur , E.C .
+Crouch , and W.C .
+Parks .
+1995 .
+Glucocorticoids upregulate tropoelastin expression during late stages of fetal lung development .
+Am .
+J. Physiol .
+268 : L491-L500 .
+30 .
+An , G. , K. Hidaka , and L. Siminovitch .
+1982 .
+Expression of bacterial B-galactosidase in animal cells .
+Mol .
+Cell .
+Biol .
+2:1628-1632 .
+31 .
+Gorman , C.M .
+, L.F. Moffat , and B.H .
+Howell .
+1982 .
+Recombinant genes which express chloramphenicol acetyltransferase in mammalian cells .
+Mol .
+Cell .
+Biol .
+2:1044-1051 .
+32 .
+Chomezynski , P. , and N. Sacchi .
+1987 .
+Single-step method of RNA isolation by acid guanidinium thiocyanate-phenol-chloroform extraction .
+Anal .
+Biochem .
+162:156-159 .
+33 .
+Fort , P. , M. Piechacezyk , S. El Sabrouty , C. Danz , I. Jeatner , and J.M .
+Blanchard .
+1985 .
+Various rat adult tissues express only one major mRNA species from the glyceraldehyde-3-phosphate multigene family .
+Nucleic Acids Res .
+13:1431-1442 .
+34 .
+Luckow , B. , and G. Schutz .
+1987 .
+CAT constructions with multiple unique restriction sites for the functional analysis of eukaryotic promoters and regulatory elements .
+Nucleic Acids Res .
+15:5490 .
+35 .
+Ho , S.N .
+, HD .
+Hunt , R.M .
+Horton , J.K. Pullen , and L.R .
+Pease .
+1989 .
+Site-directed mutagenesis by overlap extension using the polymerase chain re-action .
+Gene ( Amst . )
+.
+77:51-59 .
+36 .
+Dignam , J. , P. Martin , B. Shastry , and R. Roeder .
+1983 .
+Eucaryotic gene transcription with purified components .
+Methods Enzymol .
+101:582-598 .
+37 .
+Ausubel , FM .
+, R. Brent , RE .
+Kingston , D.D .
+Moore , J.G .
+Seidman , J.A .
+Smith , and K. Struhl .
+1987 .
+Current Protocols in Molecular Biology .
+John Wiley and Sons , Inc. , New York .
+12.1.1-12.1.10 .
+38 .
+Buttice , G. , and M. Kurkinen .
+1993 .
+A Polyoma Enhancer A-binding Protein-3 site and Ets protein have a major role in the 12-O-tetradecanoylphor-bol-13-acetate response of the human stromelysin gene .
+J. Biol .
+Chem .
+268 : 7196-7204 .
+39 .
+Buttice , G. , S. Quinines , and M. Kurkinien .
+1991 .
+The AP-1 site is required for basal expression but is not necessary for TPA-response of the human stromelysis gene .
+Nucleic Acids Res .
+19:3723-3731 .
+40 .
+Angel , P. , and MI .
+Karin .
+1992 .
+Specific members of the jun protein family regulate collagenase expression in response to various extracellular stimuli .
+In Matrix Metalloproteinases and Inhibitors .
+H. Birkedahl-Hansen , Z. Werb , H.G .
+Welgus , and H.E .
+van Wart , editors .
+Gustav Fischer , Stuttgart .
+156-164 .
+41 .
+Wright , S.D .
+, R.A. Ramos , P.S .
+Tobias , R.J. Ulevitch , and J.C. Mathi-son .
+1990 .
+CD14 , a receptor for complexes of lipopolysaccharide ( LPS ) and LPS binding protein .
+Science ( Wash. DC ) .
+249:1431-1433 .
+Cell Type-specific Collagenase Transcription 1899

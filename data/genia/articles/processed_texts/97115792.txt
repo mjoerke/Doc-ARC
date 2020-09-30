@@ -1,0 +1,536 @@
+THE JOURNAL oF BIOLOGICAL CHEMISTRY © 1996 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+271 , No .
+51 , Issue of December 20 , pp .
+32644-32652 , 1996 Printed in U.S.A. Mutation of Tyrosines 492/493 in the Kinase Domain of ZAP-70 Affects Multiple T-cell Receptor Signaling Pathways* ( Received for publication , July 26 , 1996 ) Dominique Mége , Vincenzo Di Valérie Germain , Loretta Tuosto§ , Fredérique Michel , and Oreste Acuto1 From the Molecular Immunology Unit , Department of Immunology , Pasteur Institute 25 , rue du Dr. Roux , 75724 Paris , Cedex 15 , France The protein-tyrosine kinase ZAP-70 is implicated , together with the Sre kinase p56'** , in controlling the early steps of the T-cell antigen receptor ( TCR ) signaling cascade .
+To help elucidate further the mechanism by which ZAP-70 regulates these initial events , we used a dominant-negative mutant approach .
+We overexpressed in the Jurkat T-cell line ZAP-70 mutated on Tyr-492 and Tyr-493 in the putative regulatory loop of its kinase domain .
+This mutant inhibited TCR-induced activation of nuclear factor of activated T cells by interfering with both intracellular calcium increase and Ras-regulated activation of extracellular signal-regulated kinases .
+Moreover , TCR-induced phosphorylation of pp36-38 , thought to play a role upstream of these pathways , was found to be reduced .
+In contrast , overexpression of wild-type ZAP-70 induced constitutive activation of nuclear factor of activated T cells .
+The ZAP-70 mutant studied here could be phosphorylated on tyrosine when associated to the TCR { chain and was able to bind p56 `` .
+This result demonstrates that Tyr-492 and Tyr-493 are not responsible for the Sre homology domain 2-mediated association of p56 `` with ZAP-70 .
+Our data are most consistent with a model in which recruitment to the TCR allows ZAP-70 autophosphorylation and binding to p56 `` , which in turn phosphorylates Tyr-492 and/or Tyr-493 with consequent up-regulation of the ZAP-70 kinase activity .
+ZAP-70 will then be able to effectively control phosphorylation of its substrates and lead to gene activation .
+Biochemical and genetic studies have indicated that cytoplasmic protein-tyrosine kinases ( PTKs ) ' of the Src and Syk families control the early steps of the signaling cascade initi- * This work was supported by grants from the Pasteur Institute , the Association pour la Recherche sur le Cancer , the Centre National de la Recherche Scientifique , and the European Economic Community .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` adver-tisement `` in accordance with 18 U.S.C .
+Section 1734 solely to indicate this fact .
+7 Supported by fellowships from the European Economic Community and from the Association pour la Recherche sur le Cancer .
+§ Recipient of a fellowship for AIDS research from the Istituto Supe-riore di Sanita , Rome , Italy .
+« To whom correspondence should be addressed .
+Tel .
+: 33- ( 1 ) 4568-8637 ; Fax : 33- ( 1 ) 4061-3204 .
+E-mail : oacuto @ pasteur.fr .
+*The abbreviations used are : PTK , protein-tyrosine kinase ; TCR , T-cell antigen receptor ; mAb , monoclonal antibody ; ITAM , immunoreceptor tyrosine-based activation motif ; SH2 , Sre homology domain 2 ; NFAT , nuclear factor of activated T cells ; VSV-G , vesicular stomatitis virus glycoprotein ; bp , base pair ( s ) ; PCR , polymerase chain reaction ; PMA , phorbol 12-myristate 18-acetate ; AU , arbitrary unit ; [ Ca**1 ; , concentration of free cytosolic calcium ; ERK , extracellular signal-regulated kinase ; IL-2 , interleukin-2 .
+32644 ated by T-cell antigen receptor ( TCR ) triggering ( 1 ) .
+The TCR signal-transducing subunits ( y , 3 , and e chains of the CD3 complex and the { homodimer ) do not possess intrinsic PTK activity ; yet , TCR ligation by antigen/major histocompatibility complex or by anti-TCR mAbs induces rapid tyrosine phosphorylation of the immunoreceptor tyrosine-based activation motifs ( ITAMs ) present in their cytoplasmic tails ( 2 , 3 ) , an event essential for activation of lymphokine genes ( 4 , 5 ) .
+Several lines of evidence suggest that the Src family PTKs p56 `` ** and p59 `` mediate phosphorylation of the ITAM ( 6-9 ) , although the former may have a prominent role ( 10 ) .
+ITAM phosphorylation allows recruitment of the Syk-related PTK ZAP-70 to the TCR ( 11 ) via binding of the two tandemly arranged ZAP-70 SH2 domains to the two phosphotyrosines of ITAMs ( 8 , 12 , 13 ) .
+As a consequence , ZAP-70 itself is phosphorylated on tyrosine resi-dues , a modification contributing to its catalytic activation ( 14-16 ) .
+The importance of ZAP-70 in TCR signaling has been established by studies of a rare human immunodeficiency caused by the absence of ZAP-70 ( 17 , 18 ) .
+In these individuals , only CD4* T cells develop but fail to proliferate in response to TCR ligation and show a largely compromised activation-in-duced tyrosine phosphorylation of intracellular proteins and calcium increase .
+The mechanism whereby ZAP-70 , once recruited to the ITAMs , becomes tyrosine-phosphorylated and the functional consequences of this event on TCR-controlled signaling pathways remain partly unclear .
+Biochemical studies have shown that Tyr-492 and Tyr-493 within the kinase domain of ZAP-70 are phosphorylated after TCR stimulation ( 15 , 19 ) .
+Homolo-gous tyrosines are found in a number of PTKs ( 20 ) , and their phosphorylation is thought to regulate the enzymatic activity ( 21 ) .
+Although in vitro ZAP-70 is essentially unable to auto-phosphorylate Tyr-492 and Tyr-493 ( 19 ) , studies in heterolo-gous cell systems and in vitro indicated that p56'** efficiently phosphorylates ZAP-70 on Tyr-492 and Tyr-493 ( 14 , 15 ) , suggesting a regulatory role of p56 `` ** on ZAP-70 .
+In these studies , mutational analysis of ZAP-70 suggested that the kinase activity was positively regulated by phosphorylation of Tyr-493 , whereas a negative regulatory function was proposed for Tyr-492 .
+Consistently , it was shown that a ZAP-70 Y493F mutant failed to complement , whereas a Y492F mutant enhanced BCR-stimulated IL-2 gene promoter activity in a Syk-null chicken B-cell line ( 15 ) .
+However , the double mutant Y492F/Y493F was ineffective in activating the IL-2 promoter .
+We have reported previously that after TCR triggering , p56 `` associates via its SH2 domain to tyrosine-phosphorylated ZAP-70 bound to & ( 22 , 23 ) and proposed that p56 `` ** recruitment may be important for regulating ZAP-70 activity and/or for phosphorylating other substrates .
+In vitro studies have shown that binding of ZAP-70 to phosphorylated £ chain , in the absence of Src kinases , resulted in enhanced ZAP-70 This paper is available on line at http : //www-jbc.stanford.edu/jbc/ 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog ZAP-70 Regulation of T-cell Activation autophosphorylation ( 24 ) .
+ZAP-70 autophosphorylated under those conditions was able to bind to the SH2 domains of Abl and ras-GAP , and an association in Jurkat cells with these proteins was detected after TCR activation ( 24 ) .
+Collectively , these results showed that tyrosine phosphorylation of ZAP-70 is also important for recruiting signaling proteins to the activated TCR , although the functional consequences of these associations remain to be elucidated .
+In this work , we sought to further understand the regulation of ZAP-70 by tyrosine phosphorylation following TCR stimulation and the consequences of these modifications on the ensuing signaling cascade .
+To this end , we analyzed in the Jurkat T-cell line the effect of overexpressing ZAP-70 mutated on both Tyr-492 and Tyr-493 on early TCR signaling events leading to the activation of nuclear factor of activated T cells ( NFAT ) .
+This study provided additional clues on the mechanistic basis for ZAP-70 implication in T-cell activation .
+MATERIALS AND METHODS Cell Lines and Antibodies-The human leukemia Jurkat T-cell line was maintained in RPMI 1640 supplemented with 10 % fetal cal serum , L-glutamine , penicillin , and streptomycin ( Life Technologies , Inc. ) .
+The following mouse mAbs were used : 101.5.2 ( anti-human TCR V B8 , IgM , kindly provided by E. L. Reinherz , Dana-Farber Cancer Institute , Bos-ton , MA ) ; 4G10 , ( anti-phosphotyrosine IgGZb ( purchased from Upstate Biotechnology , Inc. , Lake Placid , NY ) .
+Rabbit polyclonal antibodies were : anti-human p56** C-term ( 2102 ) , anti-Grb2 ( C-28 ) , anti-ERK ( K-23 ) ( all purchased from Santa Cruz Biotechnology , Inc. , Santa Cruz , CA ) ; anti- { chain , raised against the entire recombinant protein ( a gift of J. Ravetch , Memorial Sloan-Kettering Institute , New York , NY ) ; anti-ZAP-70 antiserum ( 4.06 ) directed against a synthetic peptide corresponding to amino acids 106-117 of the human sequence was produced in our laboratory using keyhole limpet hemocyanin as a carrier ; anti-VSV-G epitope antiserum ( kindly provided by M. Arpin , Institut Curie , Paris , France ) was raised against an 11-amino acid determinant derived from a vesicular stomatitis virus glycoprotein ( VSV-G ) ( 25 ) .
+Plasmids and Constructs-NFAT-luciferase reporter construct ( kindly provided by C. Baldari , University of Siena , Siena , Italy ) , derived from pUBT-luc plasmid ( 26 ) , contained the luciferase gene under the control of the human IL-2 promoter NFAT binding site ( 27 ) .
+pSV-fBgal vector ( Promega Corp. , Madison , WI ) contained the B-galactosidase gene driven by the SV40 promoter/enhancer .
+The full-length EcoRI fragment encoding the human ZAP-70 cDNA ( 11 ) in pBluescript ( pBS ) vector was a kind gift of A. Weiss ( University of California at San Francisco , San Francisco , CA ) .
+The VSV-G-pBS plasmid ( kindly provided by M. Arpin ) contained the sequence coding for the epitope tag derived from VSV-G .
+The VSV-G tag at the C terminus of ZAP-70 was added by PCR .
+A 3 ' primer , which introduced a PspAlI cloning site instead of the stop codon , combined with 5 primer encompassing the Nsil unique site ( position 1734 ) generated a 350-bp Nsil-PspAl PCR fragment that was ligated together with the EcoRI-Nsil ZAP-70 cDNA fragment ( 1-1734 ) to VSV-G-pBS vector restricted with EcoRI and PspAl .
+The resulting ZAP-70-VSV-G comprised the entire 619 residues of ZAP-70 followed by a 7-amino acid `` spacer `` ( REGPPGP ) and by the 11-amino acid epitope tag ( YTDIEMNRLGK ) .
+In addition , the first 208 bp of the 5 `` untranslated region of ZAP-70 cDNA were removed , and a 5 ' Pst ] cloning site was introduced .
+A 5 ' primer containing a Psfl site at nucleotide position 198 and a 3 ' primer lying downstream of the XhoI unique site ( position 530 ) allowed us to isolate a PsfI-Xhol 888-bp PCR fragment that was ligated together with a 1.6-kb Xhol-Bg/lI fragment from the ZAP-70-VSV-G construct and a pBS-KS vector digested with Pstl and BamHI .
+The 1951-bp ZAP-70-VSV-G construct ( ZAP-ZOWT ) was excised with Eco RI and Xbal and subcloned into the pSRapuro vector ( a kind gift of R. Sekaly , Institut de Recherches Cliniques de Montreal , Montreal , Canada ) , which is a derivative of the pSRa296 mammalian vector ( 28 ) and conferred the resistance to puromycin .
+Kinase mutants were generated by three PCR reactions using for the third reaction the same couple of external primers , because both mutations were targeted to the same SaclI-Nsil fragment ( bp 1179-1734 ) .
+For the ZAP-7OKD construct , the first PCR used a 5 primer , including bp 1141-1160 upstream of a SacI site and a 3 ' primer containing a mutation of Asp-461 ( AAC ) to Asn ( GAC ) , encompassing bp 1583-1608 .
+The second PCR used a 5 primer complementary to the 3 ' primer of the first PCR and a 3 ' primer including bp 1796-1815 downstream from the Nsil site .
+For the ZAP-70FF construct , two other complementary inter 32645 nal primers creating a double mutation of Tyr-492/4938 ( TACTAC ) to FF ( TTCTTC ) and encompassing bp 16783-1697 were used .
+The final PCR products were restricted by Sacl and Nsil , and the resulting 558-bp fragment ligated with both a 466-bp Mi/ul-Sacl fragment ( bp 718-1179 ) and a 3.8-kb ZAP-70-VSV-G pBS fragment restricted with M/ul and Nsil .
+The sequences of all PCR products and the junctions were confirmed by standard dideoxy DNA sequencing .
+Cell Transfection , Activation , and Luciferase Assays-Transient transfections were performed by electroporating ( at 260 V , 960 uF ) 10 `` Jurkat cells in 0.5 ml of RPMI 1640 supplemented with 20 % fetal calf serum in a Gene Pulse cuvette ( Bio-Rad ) with the indicated doses of pSRapuro vector without insert ( empty vector ) or containing ZAP-7ZOWT or mutants , 10 ug of NFAT-luciferase plasmid , and 30 ug of pSV-gal plasmid .
+The total amount of DNA was equalized with empty pSRapuro vector .
+Transfected cells were cultured in 10 ml of growth medium for 24 h and then seeded at 10° cells/100 ul into U-bottomed , 96-well plates .
+Cells were left unstimulated or stimulated at 37 °C for 8 h with 101.5.2 anti-TCR mAb precoated to wells at 1:1000 dilution of ascites or with PMA ( 50 ng/m ! )
+( Sigma ) and the calcium ionophore A23187 ( 2 ug/ml ) ( Sigma ) .
+B-Galactosidase and luciferase assays were performed according to the manufacturer 's instructions ( Promega Corp. , Madison , WI ) .
+Luciferase activity , determined in duplicate samples using an automated luminometer ( Lumat LB 9501 , EG & G Berthod , Wildbad , Germany ) , was expressed in arbitrary units ( AU ) after normalization to the B-galactosidase values to correct for variation in transfection efficiency .
+For stable transfections , Jurkat cells were washed twice and resuspended at 10 `` cells/ml in HeBS buffer , pH 7.05 ( 0.8 my NaHPO , .2H,0 , 20 mM Hepes , 137 mM NaCl , 5 mM KCl , and 5.5 mM D-glucose ) , mixed with 30 ug of plasmid DNA , and electroporated at 250 V , 960 uF in a Gene Pulse cuvette .
+After 72 h in growth medium , cells were seeded at 10 % cells/well in flat-bottomed , 96-well plates and placed under selection in the presence of 10 ug/ml puromycin ( Sigma ) .
+Puromycin-resistant clones expressing ZAP-70-tag were analyzed by FACS for the expression of CD3 .
+Immunoprecipitations and Immunoblotting-Jurkat cell transfectants were preincubated for 5 min at 37 °C and then stimulated with anti-TCR mAb 101.5.2 at 1:200 dilution of ascites for 2-3 min .
+Cells were immediately centrifuged and solubilized at 10° cells/ml for 15 min in ice-cold lysis buffer containing 1 % Nonidet P-40 , 20 mM Tris-HCl , pH 7.5 , 150 mM NaCl , 1 mm MgCl , , and 1 mM EGTA in the presence of inhibitors of proteases and phosphatases ( 10 pg/ml leupeptin , 10 ug/ml aprotinin , 1 mM Pefabloc-se , 50 mM NaF , 10 mM Na , P,0 , , and 1 mM NaVO , ) .
+Postnuclear lysates were precleared and subjected to immunoprecipitation with the indicated antisera preadsorbed to protein A-Sepharose as described ( 22 ) .
+For precipitation of p56 `` **SH2-bound pro-teins , maltose-binding protein-p56 `` **SH2 fusion protein covalently coupled to Sepharose ( Pharmacia Biotech Inc. ) ( at 3-5 mg/m !
+of beads ) was used ( 22 ) .
+Immunoprecipitates were washed twice in 1 % Nonidet P-40 lysis buffer , twice with 0.05 % Nonidet P-40 lysis buffer , and boiled in sample buffer before SDS-polyacrylamide gel electrophoresis .
+Immunoblotting and detection of proteins by enhanced chemiluminescence ( Amersham Corp. ) were performed as described previously ( 22 ) .
+In the experiments where '* `` I-labeled protein A ( 2-5 Ci ) ( Amersham Corp. ) was used , blots were blocked with 5 % skimmed milk in 10 mM Tris-HCl , 50 mM NaCl , 2.5 mM EDTA , pH 7.5 , buffer containing 0.1 % Tween 20 .
+Quantitation of ***I-labeled proteins was performed using Image Quant software after scanning in a PhosphorImager ( Molecular Dynamics ) .
+In Vitro Kinase Assays-Anti-VSV-G tag immunoprecipitates were washed twice in 1 % Nonidet P-40 lysis buffer , once in 10 mM Tris , pH 74 , 0.5 M LiCl and once in kinase buffer ( 10 mM Tris , pH 7.4 , 10 mM MgC ] , and 10 mM MnCl , ) as described previously ( 14 ) .
+Reactions were performed at room temperature for 5 min in 25 ul of kinase buffer containing 10 uCi of [ y- `` °P ] ATP ( 4500 Ci/mmol , ICN Pharmaceuticals , Orsay , France ) , 5 uM of cold ATP , and 1 ug of band 3 ( a kind gift of R. Wange , National Institutes of Health , Bethesda , MD ) as an exogenous substrate .
+The reactions were stopped by adding an equal volume of 2 X LaemmIi sample buffer containing 200 mM dithiothreitol , 10 mM EDTA and boiling for 5 min .
+Samples were resolved by SDS-polyacrylamide gel electrophoresis ; gels were treated with KOH for 1 h at 55 °C and dried , and phosphorylated proteins were visualized by autoradiography .
+Quantitation of '* `` I-labeled ZAP-70 and *°P-labeled ZAP-70 and band 3 was performed as described above .
+Gels were stained with Coomassie Blue to ascertain that equal amounts of band 3 were added to the reactions .
+Determination of the Intracellular Free Calcium Concentration-Measurements of free cytosolic calcium concentration were performed using a method described previously ( 29 ) .
+Three X 10° cells were incubated for 1 h at 10 `` /ml in RPMI without serum containing 20 uM of the 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog 32646 180 | A { ZAP-70WT 1607 ZAP-70FF Fo ZAP-70KD ~ 4404 35 i > 1207 3 led 1007 jod $ CG oo 8057 3 | = so-® 12 * 407 @ CC 20 o 3 1 5 Expression vector ( ug ) 220 2001 B O zar7z0owt ZAP-70FF $ 180-4 3 zaPr70kD > 160 > # 1407 o o 1297 ® g 100 - y/J S # 3 so { % g so- # 30 `` P E 40 7 ¢ so g 0-0,2 1 5 Expression vector ( ug ) 100 1 C C zaAP70WT 90 7 < ~~ 80 4 > s 797 ‘ 05 © 604 P © 507 £2 4 § 404 -- -8 so-E « ® -I & 20-10 7 Ill o .
+0,2 1 5 Expression vector ( ug ) Fic .
+1 .
+Effect of wild-type ZAP-70 and mutants on NFAT activation .
+Jurkat cells were cotransfected with NFAT-luciferase and pSV -- galactosidase reporter plasmids ( 10 and 30 ug , respectively ) together with pSRapuro expression vector either empty ( 5 ug ) or containing the ZAP-70 Regulation of T-cell Activation calcium-sensitive fluorescent dye fluo 3-acetoxymethyl ester ( Molecular Probes , Eugene , OR ) .
+After washing with RPMI containing 1 % fetal calf serum , cells were resuspended in the same medium at 1.5 X 10° cell/ml and stimulated with anti-TCR mAb ( 101.5.2 ) at 1:500 dilution of ascites or thapsigargin ( 1 uM ) .
+Mean fluorescence intensity ( F ) was recorded every 30 s in a FACScan cytometer ( Beckton & Dickinson Co. , Mountain View , CA ) and represents the average response of 2000 viable cells .
+Each recording was calibrated by determining the maximal uptake of calcium ( Fmax ) in the presence of 2 ug/ml calcium ionophore A283187 as well as the level of autofluorescence ( Fmin ) , after quenching fluo S-ace-toxymethyl ester fluorescence with 1 mM Mn2* .
+Intracellular calcium concentration , [ Ca®* ] 1 ; , was calculated using the equation ( 80 ) : [ Ca®* ] ; = K , ( F - Fmin ) / ( Fmax - F ) , where K , is the dissociation constant of fluo 8-acetoxymethyl ester set to 400 nM .
+RESULTS Overexpression of a Y492F/Y493F ZAP-70 Mutant in Jurkat Cells Inhibits TCR-induced NFAT Activation-A transient transfection assay was used to assess whether TCR-mediated activation of Jurkat cells was affected by overexpressing ZAP-70 in which both Tyr-492 and Tyr-493 were mutated to F ( ZAP-70FF mutant ) .
+As a read-out , we measured the activation of NFAT , a nuclear factor enhancing IL-2 gene transcription ( 31 ) .
+We used an NFAT-luciferase reporter construct ( NFAT-luc ) containing a trimer of an IL-2-derived cis-acting element that binds the NFAT transcription complex ( 31 ) .
+A constitutive SV40 promoter-B-galactosidase reporter plasmid was used to normalize for transfection efficiency .
+Jurkat cells transfected with the empty vector used to express ZAP-70 , together with NFAT-luc , displayed an approximately 100-fold induction of luciferase activity ( set to 100 % , Fig .
+1A ) , when stimulated with an optimal dose of anti-TCR mAb .
+In contrast , the vector containing the ZAP-70FF mutant cDNA markedly reduced TCR-stimulated luciferase activity in a dose-dependent fashion , whereas no inhibition was observed with wild-type ZAP-70 cDNA ( ZAP-7ZOWT ) ( Fig .
+14 ) .
+A similar dose-dependent inhibition was also found when expressing a kinase-defective ZAP-70 mutant ( ZAP-70KD ) in which Asp-461 , a highly conserved residue in the kinase domain of PTKs essential for catalytic activity , was substituted by N ( 82 ) .
+The expression of ZAP-70 constructs , all VSV-G-tagged at their COOH termini ( see `` Ma-terials and Methods `` ) , was confirmed by Western blotting ( data not shown ) .
+Moreover , no apparent inhibition was noticed on constitutive B-galactosidase activity in any one of the transfections ( data not shown ) , thus excluding a generalized suppres-sive effect on transcription by the expressed mutants .
+Fig .
+1B shows that the inhibitory effect of ZAP-70 mutants on NFAT activity was essentially overcome by stimulating transfected cells with the combination of PMA and calcium ionophore .
+Both of these pharmacological agents are required for inducing an active NFAT transcriptional complex , bypassing proximal TCR-induced signals ( 33 , 34 ) .
+Altogether , these experiments cDNA of ZAP-70 wild-type ( WT ) or ZAP-70 mutants ( FF or KD ) at the indicated doses .
+The DNA content of each transfection was made even with empty expression vector .
+After 24 h incubation , cells were stimulated for an additional 8 h with anti-TCR mAb precoated to plastic wells ( A ) or with PMA ( 50 ng/ml ) plus calcium ionophore ( A23187 ) ( 2 pg/ml ) ( B ) .
+Luciferase activity was determined and normalized to B-galactosidase activity to correct for transfection efficiency .
+Basal luciferase activity in unstimulated cells transfected with empty vector or ZAP-70 mutants was routinely about 300 AU , whereas it increased with the dose of ZAP-7Z0WT construct ( C ) .
+Data in A and B indicate in percentage the induced luciferase activity measured in cells transfected with ZAP-7OWT or mutants divided by the activity measured with empty expression vector ( approximately 30,000 AU in A and 100,000 AU in B ) and represent the average of two to five independent experiments .
+C , constitutive luciferase activity in cells transfected with the indicated doses of ZAP-TZOWT construct represents in percentage the luciferase activity of unstimulated cells divided by the activity after anti-TCR stimulation .
+The data are the average of three independent experiments .
+Bars , S.E .
+610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog ZAP-70 Regulation of T-cell Activation FF 18-22 ZAP-70tag ~ woe : lts Sulen ZAP-70end `` ng Transfectants WT 15-8 FF 18-22 FF 10 KD 12 exogenous/endogenous 1.9 + 0.1 5.0 £ 0.8 1.3 £0.2 2.6 £ 0.3 ZaP-70 ( n=3 ) ( n=3 ) ( n=6 ) ( { n=4 ) Fic .
+2 .
+Quantitation of VSV-G-tagged ZAP-70 and mutants stably expressed in Jurkat cell transfectants and comparison with endogenous ZAP-70 .
+Upper panel , 5 X 10° cells from the indicated transfectants were lysed in 1 % Nonidet P-40-containing buffer and immunoprecipitated with an anti-ZAP-70 antiserum ( 4.06 ) .
+Immunoprecipitates were loaded on a 7 % polyacrylamide SDS-gel , immunoblotted with the same antiserum , probed with '**I-labeled protein A , and exposed for autoradiography .
+ZAP-70tag and ZAP-70end indicate the relative position of exogenous and endogenous ZAP-70 , respectively .
+Lower panel , ratios of exogenous over endogenous ZAP-70 expressed in Jurkat transfectants .
+Quantitation of the bands corresponding to the 71-kDa ( ZAP-70tag ) and 69-kDa ( ZAP-7O0end ) molecular species was performed by scanning the blots in a PhosphorImager and by analysis with Image Quant software for analysis .
+The means of ratios calculated from the indicated number of experiments are + S.E .
+suggested that , similarly to the kinase-defective ZAP-70 , ZAP-70FF acted as a dominant-negative mutant in Jurkat cells to suppress TCR-mediated NFAT activation by blocking proximal TCR-stimulated signaling events .
+Interestingly , the expression of ZAP-7ZOWT construct induced a substantial dose-dependent increase of NFAT activity in unstimulated cells .
+At the maximal amount of ZAP-7ZO0WT construct tested ( 5 ug ) , unstimulated cells displayed an NFAT activity that represented approximately 40 % of the level induced by TCR stimulation ( Fig .
+1C ) .
+These data demonstrate that overexpression of ZAP-70 in Jurkat cells is sufficient per se to activate the signaling pathways leading to NFAT activation in the absence of TCR cross-linking .
+Establishment of Jurkat Cell Lines Stably Expressing ZAP-70FF Mutant-To analyze the biochemical basis of the sup-pressive effect of ZAP-7OFF on TCR-mediated NFAT activation , Jurkat cells stably overexpressing this mutant were obtained .
+Expression of VSV-G-tagged ZAP-70FF was assessed by immunoblotting , and clones expressing different levels of ZAP-70FF but comparable levels of cell surface CD3 were further characterized .
+A similar procedure was applied to isolate stable transfectants expressing ZAP-7ZOWT , ZAP-70KD mutant as well as the empty vector to be used as controls in some experiments .
+The increase in molecular weight due to the 18-amino acid-long sequence containing the VSV-G tag allowed us to resolve the exogenous and endogenous ZAP-70 by SDS-polyacrylamide gel electrophoresis .
+Thus , we could estimate their relative expression levels after immunoprecipitation and immunoblotting using an anti-ZAP-70 antiserum and revelation with ' `` T-la-beled protein A .
+A typical autoradiography is presented in Fig .
+2 ( fop ) and shows that a 71-kDa molecular species was only present in Jurkat cells transfected with tagged ZAP-70 ( WT , FF and KD ) but not in cells transfected with empty vector ( JO 5.2 ) .
+This protein was identified as the exogenous ZAP-70 ( ZAP-70tag ) by immunoblotting with an anti-tag antiserum ( data not shown ) .
+A faster migrating molecular species of 69 kDa representing endogenous ZAP-70 ( ZAP-7Oend ) was de 32647 tected in all transfectants .
+The 71 kDa:69 kDa ratios in representative transfectants expressing ZAP-7ZOWT , ZAP-70FF and ZAP-70KD are summarized in Fig .
+2 ( bofftom ) .
+FF18-22 and FF1O transfectants expressed 5- and 1.3-fold excess of ZAP-70FF mutant over endogenous ZAP-70 , respectively .
+Expression of exogenous ZAP-7O0WT and KD mutant in the WT1I5-8 and KD12 transfectants were about 1.9- and 2.6-fold higher than endogenous ZAP-70 , respectively .
+Jurkat Cells Stably Overexpressing ZAP-7O0FF Mutant Are Defective for TCR-induced NFAT Activation and Intracellular Calcium Increase -We tested the ability of the transfectants expressing ZAP-70FF to activate NFAT upon TCR triggering compared to JO5.2 control cells .
+Fig .
+3A shows that FF18-22 was severely impaired ( 80-90 % reduction ) in its ability to activate NFAT after TCR stimulation , whereas the response of FF1O was only reduced by 45 % compared to JO 5.2 cells .
+This is consistent with the levels of ZAP-70O0FF mutant expressed in the two cell lines .
+The experiment presented in Fig .
+3B indicates that transfection of ZAP-7ZOWT in FF18-22 cells reversed NFAT activation inhibition whereas the empty vector had no restoring effect .
+This result supports the conclusion that the strongly reduced NFAT activity in FF18-22 cells was directly caused by ZAP-70FF interference with the normal function of ZAP-70 .
+Because the levels of inhibition observed in FF1O cells were rather weak , further experiments were focused on transfectants overexpressing ZAP-7O0FF .
+NFAT activation requires both calcium/calcineurin- and Ras-regulated pathways ( 34 ) .
+We , therefore , initially investigated whether TCR-induced increase of free cytosolic calcium concentration ( [ Ca2+ ] i ) was inhibited as a consequence of ZAP-7OFF overexpression .
+A typical experiment is presented in Fig .
+44 .
+JQ 5.2 cells demonstrated a transient and marked [ Ca2+ ] i in-crease , later reaching a plateau at a lower level .
+By contrast , FF18-22 cells responded by a weak , yet sustained , increase in [ Ca®* ] ; , reaching a maximum which was only 18 % of that of control cells .
+Similar reductions of [ Ca2+ ] i increase were seen with another clone , FF18-21 , which expressed levels of ZAP-70FF comparable to those detected in FF18-22 cells ( data not shown ) .
+As a control , cells were stimulated with thapsigargin , a drug able to induce calcium release from internal stores and provoke extracellular calcium influx ( 85 , 36 ) .
+Fig .
+4B shows that thapsigargin ( 1 um ) induced [ Ca** ] ; increase in FF18-22 at even higher levels than in JO 5.2 cells .
+We , therefore , attempted to reverse the inhibition by adding either calcium ionophore or PMA to TCR-stimulated ZAP-70FF-expressing cells to test the possibility that only one of the two pathways leading to NFAT activation ( e.g .
+calcineurin or Ras ) was blocked .
+Neither calcium ionophore ( Fig .
+3A ) nor PMA ( data not shown ) treatment was able to restore the response when combined with anti-TCR stimulation , compared with similarly treated JO 5.2 cells .
+Comprehensively , these data suggested that ZAP-7O0FF mutant inhibited both calcium/calcineurin and PMA ( e.g .
+most likely protein kinase C/Ras ) regulated pathways needed to form an active NFAT transcriptional complex .
+The ZAP-7Z0FF Mutant Binds to the TCR { Subunit and Can Be Tyrosine -phosphorylated-To investigate whether more proximal TCR-mediated signaling events were inhibited , we first asked if the ZAP-7ZOFF mutant was still able to bind to the TCR £ subunit and to be phosphorylated on tyrosine after TCR stimulation .
+To this end , anti- { immunoprecipitates from untreated and TCR-stimulated FF18-22 and control JO 5.2 cell transfectants were analyzed by anti-phosphotyrosine immunoblotting ( Fig .
+5 ) .
+JO 5.2 cells displayed a weak basal tyrosine phosphorylation of / that was substantially increased after stimulation with an anti-TCR mAb and led to the recruitment 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog 32648 ZAP-70 Regulation of T-cell Activation 140 100 A C medium B 120 - EH anti-tcr anti-TCR+ A23187 so o A 0 C § 100 { to ® g 60-® so- .
+$ ' o 3 a so 4 E 40 { I © E 40 { 5 & e 20 20 { o- o- ea 105.2 FF10 FF18-22 FF18-22 FF18-22 + vector + ZAP-7OWT Fic .
+3 .
+Inhibition of TCR-induced NFAT activity in Jurkat cells stably transfected with ZAP-70FF mutant .
+A , the indicated cell lines were transiently transfected with 10 ug of NFAT-lue and with 30 ug of pSV-Bgal reporter plasmids as a control of transfection efficiency .
+Twenty-four h after electroporation , cells were divided equally and treated with medium , anti-TCR mAb , anti-TCR plus calcium ionophore ( A23187 , 2 ug/ml ) , or PMA ( 50 ng/ml ) plus calcium ionophore ( 2 ug/ml ) .
+Cells were then incubated for 8 h and lysed ; then luciferase and -galactosidase activities were measured .
+Basal and stimuli-induced luciferase activities in each cell line are presented as the percentage of maximal activity obtained after stimulation with PMA plus ionophore ; maximal luciferase activities for JO 5.2 , FF18-22 , and FF1O cells were approximately 43,000 , 35,000 , and 14,000 AU , respectively ( with S.E .
+not exceeding 20 % ) .
+TCR-induced NFAT activity in JO 5.2 cells was found to be very close ( about 90 % ) to that measured with PMA plus ionophore in these experimental conditions .
+The results are expressed as the means of values determined from three independent experiments .
+Bars , S.E .
+B , reversion of the inhibition of TCR-induced NFAT activity in FF18-22 cells by transfection with ZAP-7ZOWT-containing expression vector .
+FF18-22 cells were transfected with reporter plasmids as above together with 5 ug of empty or ZAP-ZOWT cDNA-containing expression vector , and luciferase activity was measured after anti-TCR stimulation .
+Data are expressed as percentages of maximal luciferase activity measured with PMA plus calcium ionophore .
+A representative experiment is presented of three that gave similar results ( recovery of luciferase activity in FF18-22 transfected with ZAP-7O0WT ranged between 45 and 80 % ) .
+of ZAP-70 ( ZAP-70end ) .
+Remarkably , in unstimulated FF18-22 , the { chain was strongly tyrosine -phosphorylated and was associated with ZAP-70FF , itself phosphorylated on tyrosine .
+Upon TCR activation , phosphorylated & and ZAP-70FF in-creased , and a 69-kDa species migrating as endogenous ZAP-70 also appeared .
+The elevated basal and TCR-induced phosphorylation of { in FF18-22 cells was most likely due to the overexpression of ZAP-70FF .
+Indeed , in FF1O cells that expressed approximately 5-fold less mutant basal as well as induced phosphorylation of £ was similar to that observed in control JO 5.2 cells ( data not shown ) .
+These data demonstrate that ZAP-70FF was fully able to associate to £ and that , when overex-pressed , it was predominantly binding to / compared to the endogenous wild-type ZAP-70 , providing , therefore , an explanation for the inhibitory effects on downstream signaling events .
+ZAP-70FF could still be phosphorylated in vivo on tyrosine residue ( s ) .
+Thus , we measured the i7 vitro autophosphorylation capacity of ZAP-70FF and its kinase activity on the exogenous substrate band 3 and compared them with the activity of ZAP-7OWT and ZAP-7ZO0KD .
+Anti-tag immunoprecipitates from the transfectants FF18-22 , WT15.8 , and KD12 were split and subjected to either an in vitro kinase assay ( Fig .
+6 ) or to a quantitative immunoblotting with anti-ZAP-70 antibody and ** `` I-labeled protein A to normalize for the same amounts of protein ( data not shown ) .
+As expected , the ZAP-70KD mutant did not have significant kinase activity .
+The in vitro autophosphorylation of ZAP-7OFF was found to be increased with respect to ZAP-7ZO0WT ( after normalization for the levels of precipitated ZAP-70-tagged proteins ) .
+Moreover , the ZAP-7O0FF displayed a 3-fold increased basal kinase specific activity on band 3 compared with ZAP-7ZO0WT .
+Similar results were found with ZAP-70FF immunoprecipitated from FF1O cells ( data not shown ) .
+This result may at least in part explain why Z-associated ZAP-70FF was highly phosphorylated in vivo ( Fig .
+5 ) , although it lacked two major sites of phosphorylation .
+ZAP-70FF Mutant Is Able to Interact with p56 `` *-We have previously provided evidence that p56 `` * binds directly , via its SH2 domain , to tyrosine-phosphorylated , Z-associated ZAP-70 shortly after TCR triggering ( 22 , 23 ) .
+To know if this physical association could still occur between p56 `` and the ZAP-70FF mutant , lysates of FF18-22 or JO5.2 cells , unstimulated or stimulated by TCR cross-linking , were immunoprecipitated by anti-p56 `` * antibody , and the associated ZAP-70 was detected by an anti-phosphotyrosine immunoblot ( Fig .
+7A , left panel ) .
+In JO 5.2 cells , tyrosine-phosphorylated ZAP-70 coprecipitated with p56 `` ** after activation , and smaller amounts were seen in nonactivated cells .
+The results presented above in Fig .
+5 demonstrated that in nonactivated FF18-22 cells , overexpressed ZAP-70FF mutant was already tyrosine -phosphorylated to a sizable level .
+Consistent with this , the ZAP-70FF mutant coprecipitated with p56 `` ** from unstimulated FF18-22 cells , and the level of associated phosphorylated ZAP-70FF increased after TCR stimulation .
+Similar amounts of p56** were expressed by JO 5.2 and FF18-22 cells , as demonstrated by anti-p56 `` Western blots on total lysates of stimulated cells ( Fig .
+7A , right panel ) .
+The position of p56 `` ** and p60 `` * are indicated , the latter being mostly visible after TCR stimulation ( 87 ) .
+In agreement with the above results , recombinant p56 `` **SH2 domain bound ZAP-70FF before activation , and the amounts increased after activation as revealed by Western blot with anti-tag antiserum ( Fig .
+7B ) .
+These data indicate that Tyr-492 and Tyr-493 are not required for p56 `` ** binding to ZAP-70 .
+Overexpression of ZAP-70FF Results in Reduced Phosphorylation of the Grb2-associated pp36-38 Phosphoprotein and Electrophoretic Mobility Shift of ERKs-Grb2 , a well characterized 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog ZAP-70 Regulation of T-cell Activation 2000 A -- & -- FF18-22 -- - JQ 5.2 1800 7 1600 1400 -~ ] 1200 -I 1000 ~ [ Ca2+ ] ; ( nM ) 800 -I 600 ~ 400 -I - « « 4 -- anti-TCR 200 Time ( min . )
+2000 1800 - E3 1600 - ] -- & -- FF18-22 JO 5.2 1400 ~ = 1200 £ ._ £ égﬁ 1000 - a ?
+h & CO , 800 - f o .
+€00 - S a 409 4 l 1 200 4 Time ( min . )
+Fig .
+4 .
+Overexpression of ZAP-70FF inhibits the TCR-mediated calcium flux .
+FF18-22 and JO 5.2 transfectants ( 1.5 X 10° cells/ ml ) were loaded with fluo 3-acetoxymethyl ester and stimulated at time zero ( indicated by the arrow ) with an anti-TCR mAb ( A ) or 1 uM thapsigargin ( B ) .
+Fluorescence of cell suspension was monitored every 30 s with a FACScan cytometer .
+Intracellular free calcium concentration [ Ca®* ] ; was calibrated and calculated as described under `` Materi-als and Methods . ``
+Maximal [ Ca®* ] ; obtained with A28187 ionophore ( 2 ug/ml ) was similar for both cell lines .
+These experiments were repeated four times and gave similar results with S.E .
+of the maximal [ Ca**1 ; < 30 % .
+adapter protein playing a central role in the activation of the Ras pathway ( 38 ) , associates with a number of tyrosine-phosphorylated proteins after TCR stimulation ( 39-43 ) .
+These phosphoproteins , including pp36-38 , may have a role in connecting the TCR-activated PTKs to several signaling pathways such as those controlled by Ras and phospholipase Cyl .
+We , therefore , examined whether in cells overexpressing the ZAP-70FF mutant , the association of phosphoproteins to Grb2 was altered .
+Cell lysates from FF18-22 , FF18-21 , and control JO 5.2 transfectants were subjected to immunoprecipitation with an anti-Grb2 antibody , and associated proteins were revealed by anti-phosphotyrosine immunoblotting .
+Fig .
+8A shows that in J05.2 cells , pp36-38 was coprecipitated with Grb2 after TCR activation consistent with previous reports ( 39 , 41 ) .
+In contrast , both clones overexpressing the ZAP-70FF mutant ( FF18-22 and FF18-21 ) , a marked inhibition of tyrosine -phosphorylated pp36-38 associated with Grb2 was observed .
+A strong decrease of an unidentified 60-kDa phosphoprotein coprecipitating with Grb2 was also seen in these cell lines .
+Anti-Grb2 immunoblots 32649 IP : anti-10 5.2 FFI8-22 anti-TCR : - 4+ - + -97 ZAP-70 FF \ @ ___ _ s CW _ ig ZAP-70end 7 +- # 80 -5 phospho-L [ g ” -215 Fic .
+5 .
+Tyrosine phosphorylation of ZAP-70FF mutant and its association with TCR { before and after TCR stimulation .
+FF18-22 and JO 5.2 Jurkat transfectants ( 4 X 10° cells ) were left unstimulated ( - ) or stimulated ( + ) with anti-TCR mAb for 3 min and lysed in 1 % Nonidet P-40-containing buffer .
+Anti- { immunoprecipitates were separated on a 12 % polyacrylamide SDS-gel followed by immunoblotting with anti-phosphotyrosine mAb 4G10 .
+Molecular weight markers ( kDa ) are indicated on the right .
+Positions of endogenous wild-type ZAP-70 and ZAP-70FF , respectively , are indicated on the left .
+Ig , im-munoglobulin heavy chains of the immunoprecipitating antibody ; IP , immunoprecipitation .
+» & & & § 97 69 - eae < - ZAP-70 tag 55 -- - % < - band 3 36.5 Fic .
+6 .
+ZAP-70FF mutant expressed in Jurkat cells has an increased basal kinase activity .
+5 X 10° cells from the transfectants WT15.8 , FF18-22 , and KD12 were lysed in 1 % Nonidet P-40-containing buffer and immunoprecipitated with the anti-VSV-G-tag antiserum .
+Immunoprecipitates were subjected to an in vitro kinase assay in the presence of [ °°P ] ATP using 1 ug of band 3 , and the reaction mixture was separated on a 12 % polyacrylamide SDS-gel .
+Gels were treated with KOH and dried , and quantitation of band 3 phosphorylation was performed by PhosphorImager scanning followed by analysis with Image Quant software .
+Molecular weight markers ( in thousands ) are indicated on the left .
+Under the assay conditions used , p56 `` ** kinase activity could not be detected ( data not shown ) .
+on the immunoprecipitates showed similar amounts of Grb2 protein ( Fig .
+8A , lower panel ) .
+We next examined whether a more distal event in the Ras pathway , the activation of ERKs ( 44 , 45 ) , was also affected by the overexpressed ZAP-70FF mutant .
+To test this hypothesis , we investigated whether ERK-1 ( 44 kDa ) and ERK-2 ( 42 kDa ) electrophoretic mobility shift , an alteration associated to their activation , was inhibited after TCR stimulation in FF18-22 and FF18-21 cells .
+Fig .
+8C shows that the mobility shift of both ERKs was considerably reduced in these cells lines but was clearly detectable in JO 5.2 control cells .
+The visibility of the mobility change of the 42-kDa molecular species representing ERK-2 is partially hindered by the unshifted 44-kDa ERK-1 .
+These data provide evidence that the dominant-negative ZAP-70 mutated in the regulatory loop of the kinase domain affects both the SH2-mediated association of pp36-38 with Grb2 and on the activation of ERKs .
+DISCUSSION In this report , we demonstrated that in Jurkat T cells , overexpression of ZAP-70 mutated on both Tyr-492 and Tyr-493 inhibited TCR-mediated signaling pathways controlling tran 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog 32650 A ZAP-70 Regulation of T-cell Activation B IP : anti-p56 !
+¢ Total cell lysate MBP-SH2 J0 5.2 FF18-22 105.2 FFI822 JO 5.2 FF18-22 anti-TCR : - + -o + + % + R 4 a- Tip ZAP-70 FF © tuk Wliil® .
+__ Go __ ZAP-70end * -- wi 69 Blot : anti-tag ps6 [ ' i .. oe - @ Ig Blot : anti-PTyr Blot : anti-p56 !
+¢k Fic .
+7 .
+ZAP-70FF mutant can associate with p56 `` * .
+JO 5.2 and FF18-22 transfectants ( 8 X 10° cells ) were left unstimulated ( - ) or stimulated with anti-TCR mAb for 2 min ( + ) .
+A , left panel : after solubilization in 1 % Nonidet P-40-containing buffer , p56** was immunoprecipitated , and proteins were separated on 8 % polyacrylamide SDS-gel and analyzed by immunoblotting using anti-phosphotyrosine mAb 4G10 .
+A , right panel : 1/50 of the total cell lysates prepared from stimulated cells ( + ) was loaded on the same gel and analyzed by anti-p5 6 `` ** immunoblotting .
+B , Nonidet P-40 lysates from JO 5.2 and FF18-22 cells ( 10° ) unstimulated ( - ) or stimulated ( + ) as above were incubated with maltose-binding protein-p56**SH2 covalently coupled to Sepharose beads .
+Bound proteins were separated on a 7 % polyacrylamide SDS-gel , transferred to nitrocellulose , and analyzed by immunoblotting with anti-tag antiserum .
+Molecular weight markers are indicated in thousands .
+A IP : anti-Grb2 e ka & ' & `` & ( 8x « ﬁx s +00 - + - o+ 69 , hs I lis/f-n.-i-—- Blot : $ anti-PTyr dik i wal < -pp36-38 Blot : Grh2 - can cus a » cus cm » can ant i-Grb2 B A v v I+ T & ' 6 & a A + + + ® ERK-1 ERK-2 me w Yer < ee - .
+®ERK2 > _ == as & as == `` ~ERkq Blot : - anti-ERK Fic .
+8 .
+Inhibition of pp36-38 association to Grb2 and ERKs electrophoretic mobility shift in cells overexpressing ZAP-70FF .
+A , upper panel : the indicated cells ( 10 `` ) were left unstimulated ( - ) or stimulated for 2 min with anti-TCR mAb ( + ) .
+Nonidet P-40 cell lysates were subjected to immunoprecipitation with anti-Grb2 antibody , and immunocomplexes were separated on 10 % polyacrylamide SDS-gel and analyzed by anti-phosphotyrosine mAb 4G10 immunoblotting .
+Positions of molecular weight markers and immunoprecipitating antibodies ( Ig ) are indicated on the left .
+A , lower panel : the same blot was stripped and reprobed with the anti-Grb2 antibody .
+B , equal amount of proteins ( determined by Bradford assay ) from total cell lysates from unstimulated ( - ) or anti-TCR-stimulated cells ( + ) were separated on a 12.5 % polyacrylamide SDS-gels ( acrylamide : bis-acrylamide ratio , 149:1 ) and then immunoblotted using anti-ERK antibody .
+Position of unphospho-rylated and phosphorylated forms of ERK-1 and ERK-2 are indicated on the right and on the left , respectively .
+scriptional activation of NFAT .
+We showed that ZAP-T70FF reduced NFAT activation in a dose-dependent fashion and that this block was proximal in the TCR signaling cascade because it can be bypassed with PMA plus calcium ionophore .
+Because an excess of wild-type ZAP-70 reversed the inhibitory effect on NFAT activation ( this was also true when the ZAP-7O0FF construct was transiently cotransfected with an excess of wild-type ZAP-70 , data not shown ) , it is unlikely that the ZAP-70FF mutant exerted this inhibition beyond the signaling steps nor mally controlled by ZAP-70 .
+Binding to ITAM and subsequent phosphorylation/activation of ZAP-70 appear to be obligatory events for TCR-mediated NFAT activation ( 5 ) , and ZAP-70FF might primarily interfere at this level .
+Using stable transfectants expressing different amounts of ZAP-70FF , it was evident that NFAT inhibition directly correlated with the levels of the mutant bound to the TCR £ chain .
+However , even in cells with the highest levels of ZAP-7ZO0FF , tyrosine-phosphorylated endogenous ZAP-70 bound to the £ chain could be detected after TCR stimulation .
+Thus , the substantial inhibitory effect by ZAP-70FF might not be simply due to competition for ITAM binding .
+It is possible that an excess of mutant provoked an encumbrance on the ITAMs such that either adequate phosphorylation/activation of , or access to substrates by endogenous ZAP-70 or both events were affected .
+Alternatively , ZAP-7OFF could impede the association to { ITAM of other signaling components , such as the She adapter protein , which has been shown to bind with low affinity to phosphorylated £ ITAM ( 46 , 47 ) and suggested to be a possible connection between the TCR and the Ras pathway .
+If this had been true , we should have observed an inhibition of NFAT activation also when wild-type ZAP-70 was overexpressed .
+However , our results indicate that this was not the case .
+Taken together , the evidence presented is consistent with the idea that the ZAP-70FF mutant interfered specifically in a dominant-negative fashion with the normal function of ZAP-70 .
+Formation of an active NFAT requires both calcium-regu-lated calcineurin and Ras-regulated mitogen-activated protein kinase ( ERK ) pathways ( 34 ) .
+Our data indicated that ZAP-70FF overexpression negatively affected both pathways because it reduced TCR-mediated intracellular calcium concentration increase and ERK protein mobility shift .
+Upon TCR stimulation , pp36-38 , probably the Link protein whose gene has been recently cloned ( 48 ) , binds to Grb2 and phospholipase Cyl and has been proposed to play a role in connecting TCR-regu-lated PTKs to the Ras pathway and phospholipase Cy1 activation ( 39 , 41 , 49 ) .
+Reduced levels of tyrosine-phosphorylated pp36-38 bound to Grb2 were observed in Jurkat cell transfectants overexpressing ZAP-70FF compared with control cells .
+In agreement with our data , overexpression of the ZAP-70 SH2 domains alone ( SH2 N+C ) , which inhibited TCR-induced NFAT activation , was also shown to provoke a similar effect on pp36-38 ( 50 ) .
+Our preliminary results indicate that lower amounts of tyrosine-phosphorylated pp36-38 were associated with phospholipase Cy1 as a consequence of ZAP-7OFF overexpression .
+Thus , the inhibition of both calcium increase and ERK activation by the ZAP-70 mutant might be the conse- 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog ZAP-70 Regulation of T-cell Activation quence of diminished phosphorylation of pp36-38 .
+However , recent data suggest that ERK activation may not necessarily be related to phosphorylation of pp36-38 ( 49 ) .
+In any event , the present as well as previous results ( 50 ) suggest that ZAP-70 may contribute to phosphorylation of pp36-38 .
+Several lines of evidence have suggested that p5 may have a regulatory role on ZAP-70 by phosphorylating Tyr-492 and Tyr-493 ( 14 , 15 ) .
+Other studies have implied that the interaction of these two PTKs is required for effective signaling in T cells ( 51 ) .
+We and others have reported that p56kk associates via its SH2 domain to tyrosine-phosphorylated ZAP-70 ( 22 , 23 , 52 ) .
+Although the functional consequences of this physical interaction are not yet known , important effects in TCR signaling may be hypothesized , such as p56 `` *-mediated ZAP-70 phosphorylation on regulatory tyrosines and/or p56 `` ** colocalization with the activated TCR , an event that could facilitate phosphorylation of additional substrates .
+The association of these two PTKs is most reminiscent of the SH2-mediated interaction of Sre kinases with focal adhesion kinase , implicated in integrin-mediated signal transduction ( 53 ) or with platelet-derived growth factor and colony-stimulating fac-tor-1 receptor tyrosine kinases ( 54 , 55 ) .
+In all three cases , the relevant tyrosine-containing motif has been mapped outside of the kinase domain .
+TCR Z-associated ZAP-7O0FF was phosphorylated on tyrosines other than Tyr-492 and Tyr-493 by a mechanism that is still unclear ( discussed below ) , and this resulted in its efficient in vitro binding to the p56 `` ** SH2 domain and association with p56 `` in vivo .
+These data formally rule out that these two tyrosines of ZAP-70 mediate the association with p56 `` ** .
+In the case of focal adhesion kinase , in vivo and in vitro studies have shown that Tyr-397 , responsible for the SH2-mediated Sre kinase binding , is the major autophosphorylation site ( 53 , 56 ) .
+Moreover , phosphorylation of Tyr-576 and Tyr-577 , in the putative activation loop of focal adhesion kinase domain , as well as two other tyrosines , is essentially mediated by Sre PTKs ( 56 ) .
+Indeed , mutation of Tyr-397 dramatically reduced tyrosine phosphorylation of focal adhesion kinase and its in vitro kinase activity ( 56 ) .
+It is tempting to speculate that an analogous scheme applies to ZAP-70 .
+Once recruited to the ITAMs , ZAP-70 , which possesses a basal kinase activity ( Refs .
+14-16 and the present study ) may undergo autophosphorylation ( 24 ) to generate the binding site for p56 `` * which , in turn , would phosphorylate ZAP-70 on Tyr-492 and/or Tyr-493 ( and perhaps on other tyrosines ) , resulting in up-regulation of ZAP-70 kinase activity and efficient phosphorylation of its substrates .
+In keeping with this model , p56'* `` * , carrying a point mutation that abolished binding of its SH2 domain to phosphotyrosine , was shown to be unable to reconstitute TCR-induced NFAT activation in a p56 `` *-null Jurkat cell line ( 52 ) .
+Our results suggest that p56 `` ** recruited by ZAP-70 may not be directly implicated in the activation of the calcineurin and Ras pathways .
+However , because our observations were restricted to TCR-mediated NFAT activation , we can not exclude that in normal T cells , p56 `` ** controls key events of those pathways mediated through , for instance , the CD4/CD8 co-receptors ( 57 ) .
+It has been reported recently that overexpression of ZAP-70 SH2 ( N+C ) domains alone in unstimulated Jurkat cells resulted in increased basal levels of tyrosine phosphorylation of £ ( 50 ) and that a kinase domain-deleted Syk mutant provoked the same effect on the FceeRI B and y chains in unstimulated RBL cells ( 58 ) .
+This receptor clustering-independent ITAM phosphorylation was also observed by overexpressing ZAP-7OFF .
+As discussed previously ( 58 ) , this effect may be best explained by assuming that an ongoing ITAM phosphorylation is carried out under basal conditions by Sre kinases , but accu- Glck 32651 mulation of phosphorylated ITAMs is prevented by the action of a phosphatase that dephosphorylates them faster than they are phosphorylated .
+Thus , an excess of ZAP-70 mutant or wild type may lead to the protection of ITAM tyrosine residues by the SH2 domains and accumulation of phosphorylated ITAMs .
+Under normal circumstances , TCR engagement may create the conditions for accelerating ITAM phosphorylation or reducing their dephosphorylation ( e.g .
+by sequestration from phosphata-ses ) .
+It is interesting that , as reported here , wild-type ZAP-70 transiently overexpressed in Jurkat cells was able to induce NFAT activation in the absence of TCR cross-linking .
+This suggests that clustering onto the ITAMs and subsequent activation of ZAP-70 ( probably by p56 `` ** ) is , by itself , not only necessary but also sufficient to ignite the signaling cascade leading to calcium/calcineurin and Ras pathway activation .
+The dominant-negative effect on NFAT activation by ZAP-70FF was of similar magnitude to that observed with the ZAP-70 kinase-defective mutant , yet the former bound to TCR £ was found to be effectively phosphorylated on tyrosine .
+Which then was the PTK responsible for phosphorylating ZAP-70FF ?
+Others have reported that a kinase-deleted mutant of Syk associated to /y ITAM of the FeeRI receptor in RBL cells could be tyrosine-phosphorylated when overexpressed ( 58 ) , and we have obtained similar data with the ZAP-70 kinase-defective mutant transiently expressed in Jurkat cells ( data not shown ) .
+Thus , endogenous ZAP-70 may in part contribute to phosphorylate the expressed mutants and , by the mechanism proposed above , another PTK , such as p56 `` ** , may further mediate this event .
+However , in the case of the ZAP-7OFF mutant , there was an additional complication because its in vitro kinase activity was found to be augmented .
+Similar results were obtained by analyzing Y492F or Y492F/Y493F ZAP-70 mutants expressed in Cos cells ( 14 ) , and it was speculated that these tyrosines have distinct roles in the activation of the kinase .
+Our data suggest that ZAP-70 mutated on both Tyr-492 and Tyr-493 was able to ( trans ) phosphorylate itself when bound to the ITAM but was unable to phosphorylate cellular substrates , possibly reflecting a fine mechanism of kinase activity regulation by Tyr-492 and Tyr-493 .
+Perhaps phosphorylation of Tyr-492 ( or the phenylanine substitution ) may unlock the catalytic site , thus facilitating the autophosphorylation step , whereas phosphorylation of Tyr-493 may be essential for stabilizing the kinase activation loop ( 21 ) important for full accessibility to more distal and/or less available cellular substrates .
+Acknowledgments-We thank Drs .
+A. Weiss , E. L. Reinherz , M. Arpin , C. T. Baldari , J. Ravetch , R. Sekaly , F. Denis , and R. Wange for providing reagents , cDNAs , and expression vectors .
+We also thank Drs .
+A. Alcover , S. Pellegrini , R. Weil , and G. Langsley for reading the manuscript and for suggestions and W. Houssin for excellent secretarial assistance .
+REFERENCES .
+Weiss , A. , and Littman , D. R. ( 1994 ) Cell 76 , 263-274 .
+Baniyash , M. , Garcia-Morales , P. , Luong , E. , Samelson , L. E. , and Klausner , R. D. ( 1988 ) J. Biol .
+Chem .
+268 , 18225-18230 3 .
+Qian , D. , Griswold-Prenner , I. , Rosner , M.R .
+, and Fitch , F. W. ( 1993 ) J. Biol .
+Chem .
+268 , 4488-4493 4 .
+Frank , S. J. , Cenciarelli , C. , Niklinska , B .
+B. , Letourneur , F. , Ashwell , J. D. , and Weissman , A. M. ( 1992 ) J. Biol .
+Chem .
+267 , 13656-13660 5 .
+Irving , B .
+A. , Chan , A. C. , and Weiss , A .
+( 1998 ) J. Exp .
+Med .
+177 , 1098-1103 6 .
+Straus , D. B. , and Weiss , A .
+( 1992 ) Cell 70 , 585-598 7 .
+Karnitz , L. , Sutor , S. L. , Torigoe , T. , Reed , J. C. , Bell , M. P. , McKean , D. J. , Leibson , P. J. , and Abraham , R. T. ( 1992 ) Mol .
+Cell .
+Biol .
+12 , 4521-4530 8 .
+Iwashima , M. , Irving , B .
+A. , van Oers , N. S. C. , Chan , A. C. , and Weiss , A .
+( 1994 ) Science 268 , 1186-1139 9 .
+Hall , C. G. , Sancho , J. , and Terhorst , C. ( 1998 ) Science 261 , 915-918 10. van Oers , N. S. C. , Killeen , N. , and Weiss , A .
+( 1996 ) J. Exp .
+Med .
+183 , 1053-1062 11 .
+Chan , A. C. , Iwashima , M. , Turck , C. W. , and Weiss , A .
+( 1992 ) Cell 71 , 649-662 12 .
+Wange , R. L. , Malek , S. N. , Desiderio , S. , and Samelson , L. E. ( 1998 ) J. Biol .
+Chem .
+268 , 19797-19801 13 .
+Koyasu , S. , Tse , A. G. D. , Moingeon , P. , Hussey , R. E. , Mildonian , A. , Hanni- lled 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog 32652 14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+28 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+82 .
+38 .
+84 .
+35. sian , J. , Clayton , L. K. , and Reinherz , E. L. ( 1994 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+91 , 6693-6697 Wange , R. L. , Guitian , R. , Isakov , N. , Watts , J. D. , Aebersold , R. , and Samelson , L. E. ( 1995 ) J. Biol .
+Chem .
+270 , 18730-18733 Chan , A. C. , Dalton , M. , Johnson , R. , Kong , G.-H. , Wang , T. , Thoma , R. , and Kurosaki , T. ( 1995 ) EMBO J .
+14 , 2499-2508 Burkhardt , A. L. , Stealey , B. , Rowley , R. B. , Mahajan , S. , Prendergast , M. , Fargnoli , J. , and Bolen , J .
+B .
+( 1994 ) J. Biol .
+Chem .
+269 , 23642-23647 Arpaia , E. , Shahar , M. , Dadi , H. , Cohen , A. , and Roifman , C. M. ( 1994 ) Cell 76 , 947-958 Chan , A. , Kadlecek , T. A. , Elder , M. , Filipovich , A. H. , Kuo , W.-L. , Iwashima , M. , Parslow , T. G. , and Weiss , A .
+( 1994 ) Science 264 , 1599-1601 Watts , J. D. , Affolter , M. , Krebs , D. L. , Wange , R. L. , Samelson , L. E. , and Aebersold , R. ( 1994 ) J. Biol .
+Chem .
+269 , 29520-29529 Hanks , S. , and Hunter , T. ( 1995 ) in The Protein Facts Book ( Hardie , G. , and Hanks , S. , eds ) Vol .
+1 , pp .
+7-47 , Academic Press , London Johnson , L. N. , Noble , M. E. M. , and Owen , D. J .
+( 1996 ) Cell 85 , 149-158 Duplay , P. , Thome , M. , Herve , F. , and Acuto , O .
+( 1994 ) J. Exp .
+Med .
+179 , 1163-1172 Thome , M. , Duplay , P. , Guttinger , M. , and Acuto , O .
+( 1995 ) J. Exp .
+Med .
+181 , 1997-2006 Neumeister , E. N. , Zhu , Y. , Richard , S. , Terhorst , C. , Chan , A. C. , and Shaw , A. S. ( 1995 ) Mol .
+Cell .
+Biol .
+15 , 8171-3178 Kreis , T. E. ( 1986 ) EMBO J .
+5 , 981-941 de Martin , R. , Strasswimmer , J. , and Philipson , L. ( 1993 ) Gene ( Amst . )
+124 , 137-138 Emmel , E. A. , Verweij , C. L. , Durand , D. B. , Higgins , K. M. , Lacy , E. , and Crabtree , G. R. ( 1989 ) Science 246 , 1617-1619 Takebe , Y. , Seiki , M. , Fujisawa , J. I. , Hoy , P. , Yokota , K. , Arai , K. I. , Yoshida , M. , and Arai , N. ( 1988 ) Mol .
+Cell .
+Biol .
+8 , 466-472 Kao , J. P. Y. , Harootunian , A. T. , and Tsien , R. Y .
+( 1989 ) J. Biol .
+Chem .
+264 , 8179-8184 Lewis , R. S. , and Calahan , M. D. ( 1989 ) Cell Regul .
+1 , 99-112 Durand , D. B. , Shaw , J.-P. , Bush , M. R. , Replogle , R. E. , Belagaje , R. , and Crabtree , G. R. ( 1988 ) Mol .
+Cell .
+Biol .
+8 , 1715-1724 Tan , J. K. , Nocka , R. , Prabir , P. , Traktman , R. , and Besmer , P. ( 1990 ) Science 247 , 209 Crabtree , G. R. , and Clipstone , N. A .
+( 1994 ) Annu .
+Rev .
+Biochem .
+68 , 1045-1083 Woodrow , M. , Clipstone , N. A. , and Cantrell , D. ( 1998 ) J. Exp .
+Med .
+178 , 1517-1522 Thastrup , O. , Cullen , P. J. , Drobak , B. K. , Hanley , M. R. , and Dawson , A. P. ( 1990 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+87 , 2466-2470 36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 58 .
+54 .
+55 .
+ZAP-70 Regulation of T-cell Activation Lytton , J. , Westlin , M. , and Hanley , M. R. ( 1991 ) J. Biol .
+Chem .
+266 , 17067-17071 Danielian , S. , Fagard , R. , Alcover , A. , Acuto , O. , and Fischer , S. ( 1989 ) Eur .
+J. Immunol .
+19 , 2183-2189 Schlessinger , J .
+( 1993 ) Trends Biochem .
+Sci .
+8 , 278-275 Buday , L. , Egan , S. E. , Viciana , P. R. , Cantrell , D. A. , and Downward , J .
+( 1994 ) J. Biol .
+Chem .
+269 , 9019-9028 Reif , K. , Buday , L. , Downward , J. , and Cantrell , D. A .
+( 1994 ) J. Biol .
+Chem .
+269 , 14081-14087 Sich , M. , Batzer , A. , Schlessinger , J. , and Weiss , A .
+( 1994 ) Mol .
+Cell .
+Biol .
+14 , 44835-4442 Motto , D. G. , Ross , S. E. , Jackman , J. K. , Sun , Q. , Olson , A. L. , Findell , P. R. , and Koretzky , G. A .
+( 1994 ) J. Biol .
+Chem .
+269 , 21608-21613 Meisner , H. , Conway , B. R. , Hartley , D. , and Czech , M. P. ( 1995 ) Mol .
+Cell .
+Biol .
+15 , 3571-3578 Leevers , S. J. , and Marshall , C. J .
+( 1992 ) EMBO J .
+11 , 569-574 Nel , A. E. , Hanekom , C. , Rheeder , A. , Williams , K. , Pollack , S. , Katz , R. , and Landreth , G. E. ( 1990 ) J. Immunol .
+144 , 2683-2689 Ravichandran , K. , Kay Lee , K. , Songyang , Z. , Cantley , L. , Burn , P. , and Burakoff , S. ( 1993 ) Science 262 , 902-905 Osman , N. , Lucas , S. C. , Turner , H. , and Cantrell , D. ( 1995 ) J. Biol .
+Chem .
+270 , 13981-13986 Huang , X. L. , Li , K. , Tanaka , K. , Moore , K. , and Hayashi , J .
+( 1995 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+92 , 11618-11622 Motto , D. G. , Musci , M. A. , Ross , S. E. , and Koretzky , G. A .
+( 1996 ) Mol .
+Cell .
+Biol .
+16 , 2823-2829 Qian , B. D. , Mollenauer , M. N. , and Weiss , A .
+( 1996 ) J. Exp .
+Med .
+183 , 611-620 .
+Kolanus , W. , Romeo , C. , and Seed , B .
+( 1993 ) Cell 74 , 171-183 52 .
+Straus , D. B. , Chan , A. C. , Patai , B. , and Weiss , A .
+( 1996 ) J. Biol .
+Chem .
+271 , 9976-9981 Shaller , M. D. , Hildebrand , J. D. , Shannon , J. D. , Fox , J. W. , Vines , R. R. , and Parsons , J. T. ( 1994 ) Mol .
+Cell .
+Biol .
+14 , 1680-1688 Mori , S. , Rénnstrand , L. , Yokote , K. , Engstrom , A. , Courtneidge , S. A. , Claesson-Welsh , L. , and Heldin , C. H. ( 1993 ) EMBO J .
+12 , 2257-2264 Alonso , G. , Koeg !
+, M. , Mazurenko , N. , and Courtneidge , S. A .
+( 1995 ) J. Biol .
+Chem .
+270 , 9840-9848 .
+Calalb , M. B. , Polte , T. R. , and Hanks , S. K. ( 1995 ) Mol .
+Cell .
+Biol .
+15 , 954-963 .
+Baldari , C. T. , Pelicci , G. , Di Somma , M. M. , Milia , E. , Giuli , S. , Pelicci , P. G. , and Telford , J. L. ( 1995 ) Oncogene 10 , 1141-1147 .
+Scharenberg , A. M. , Lin , S. , Cuenod , B. , Yamamura , H. , and Kinet , J.-P. ( 1995 ) EMBO J .
+14 , 3385 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog Mutation of Tyrosines 492/493 in the Kinase Domain of ZAP-70 Affects Multiple T-cell Receptor Signaling Pathways Dominique Mége , Vincenzo Di Bartolo , Valérie Germain , Loretta Tuosto , Fredérique Michel and Oreste Acuto J. Biol .
+Chem .
+1996 , 271:32644-32652. doi : 10.1074/jb0.271.51.32644 Access the most updated version of this article at http : /www.jbe.org/content/271/51/32644 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 58 references , 40 of which can be accessed free at http : //www 610Z '01 uo 1son $ 4q /S10°0q [ 'mmmy/ : dyy wrojr popeopumog

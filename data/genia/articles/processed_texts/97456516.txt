@@ -1,0 +1,699 @@
+JouRrnaL or Oct. 1997 , p. 7509-7517 0022-538X/97/ $ 04.00+0 Copyright © 1997 , American Society for Microbiology Vol .
+71 , No .
+10 The Ability of BHRF1 To Inhibit Apoptosis Is Dependent on Stimulus and Cell Type LASSE FOGHSGAARD anp MARJA JAATTELA* Apoptosis Laboratory , Division for Cancer Biology , Danish Cancer Society , DK-2100 Copenhagen , Denmark Received 14 May 1997/Accepted 16 July 1997 The development of resistance to host defense mechanisms such as tumor necrosis factor ( TNF ) - and Fas-mediated apoptosis of transformed or virus-infected cells may be a critical component in the development of disease .
+To find genes that protect cells from apoptosis , we used an expression cloning strategy and identified BHRF1 , an Epstein-Barr virus ( EBV ) early-lytic-cycle protein with distant homology to Bcl-2 , as an antiapoptosis protein .
+Expression of BHRF1 in MCF-Fas cells conferred nearly complete resistance against both anti-Fas antibody and TNF-mediated apoptosis .
+In addition , BHRF1 protected these cells from monocyte-mediated killing but failed to protect them from killing mediated by lymphokine-activated killer cells .
+The ability of BHRF1 to protect MCF-Fas cells from apoptosis induced by various stimuli was identical to that of Bel-2 and Bcel-x , .
+Moreover , the mechanism of action of BHRF1 resembled that of Bel-2 and Bel-x , , as it inhibited TNF- and anti-Fas-induced activation of two enzymes participating in the apoptosis pathway , cytosolic phospholipase A , and caspase-3/CPP32 , but did not interfere with the activation of NF-B-like transcription factors .
+A putative function of BHRF1 in EBV-infected epithelial cells may be to protect virus-infected cells from TNF- and/or anti-Fas-induced cell death in order to maximize virus production .
+Surprisingly , expression of neither BHRF1 nor Bel-2 in a B-cell line , BJAB , protected the cells from anti-Fas-mediated apoptosis even though they increased the survival of serum-starved cells .
+Thus , the protective role of BHRF1 against apoptosis resembles that of Bcl-2 in being cell type specific and dependent on the apoptotic stimulus .
+Tumor necrosis factor ( TNF ) is a multifunctional cytokine capable of inducing apoptosis in a number of transformed or virus-infected cells ( 10 , 18 , 44 ) .
+The pleiotropic effects of TNF are mediated by two distinct but structurally related cell surface receptors , TNF-R1 and TNF-R2 ( 47 , 51 ) .
+TNF receptors are members of a larger family of related membrane proteins which are defined by the presence of extracellular cysteine-rich repeats ( 40 ) .
+Two members of this so-called TNF receptor superfamily , TNF-R1 and Fas ( APO1/CD95 ) , also share a region of intracellular homology designated the `` death domain `` ( 15 , 46 ) .
+This domain is an essential component of the signal pathway that triggers apoptosis .
+Fas ligand ( FasL ) is expressed predominantly in activated T cells and shows strong cytotoxic activity against Fas-expressing cells ( 43 ) .
+FasL , like TNF , has antiviral activity and is also involved in the downregulation of immune responses ( 31 ) .
+Like other apoptotic stimuli , signaling from TNF and FasL converges into a common cell death pathway ( for a review , see reference 30 ) .
+This common pathway is tightly regulated by intracellular decision points ( 34 ) .
+One is constituted by the Bcl-2 family of proteins , which is comprised of positive and negative regulators of cell death ( for a review , see reference 57 ) .
+The different members share three Bel-2 homology domains ( BH1 , BH2 , and BH3 ) which enable the proteins to homo- or heterodimerize , and the ratio of death antagonists ( Bel-2 , Bel-x , , Mecl-1 , and A1 ) to death agonists ( Bax , Bak , Bel-xg , and Bad ) dictates whether a cell will respond to apoptotic stimuli ( 57 ) .
+The new and growing family of caspases , cysteine proteases related to interleukin-1B-converting enzyme ( ICE/caspase-1 ) , are activated in apoptosis and are now recognized as major * Corresponding author .
+Mailing address : Apoptosis Laboratory , Division for Cancer Biology , Danish Cancer Society , Strandboule-varden 49 , DK-2100 Copenhagen , Denmark .
+Phone : 45-35257318 .
+Fax : 45-35257721 .
+E-mail : mhji @ biobase.dk .
+7509 effectors of apoptotic cell death ( for a review , see reference 33 ) .
+The importance of caspases in TNF- and Fas-mediated apoptosis has been clearly demonstrated by studies showing that ( i ) receptor activation leads to proteolytic activation of at least three family members , FLICE/MACH/caspase-8 , CPP32/ caspase-3 , and ICE-LAP3/caspase-7 ( 8 , 29 , 37 ) ; ( ii ) inhibitors of caspases effectively block TNF- and Fas-mediated apoptosis ( 9 , 24 , 48 ) ; and finally , ( iii ) ectopic expression of caspases in several cells results in apoptosis ( 27 , 55 , 59 ) .
+One of the sub-strates for caspases is poly ( ADP-ribose ) polymerase ( PARP ) , which is involved in DNA repair ( 49 ) .
+It is cleaved and inac-tivated by CPP32/caspase-3 during apoptosis ( 49 ) .
+Recently , TNF was shown to induce caspase-dependent cleavage and activation of cytosolic phospholipase A ; , ( cPLA , ) ( 58 ) .
+As inhibitors of cPLA , partially inhibit TNF-induced apoptosis without inhibition of caspase activity , cPLA , is likely to be a mediator of TNF-induced cell death acting downstream of the caspases ( 58 ) .
+The activity of cPLA ; has also been shown to be crucial for TNF-induced lysis of adenovirus-infected cells ( 52 ) .
+Viruses have evolved different strategies affecting different parts of the apoptotic pathway in order to avoid apoptosis ( for a review , see reference 38 ) .
+For example , establishment of an effective adenoviral infection depends on the function of the 19-kDa E1B protein , which shows distant homology to Bel-2 and is able to protect cells from TNF- and Fas-mediated apoptosis ( 56 ) .
+Other examples are the p35 protein of baculovirus and CrmA of cowpox virus , which are able to bind and inhibit multiple members of the caspase family and thereby to prevent apoptosis induced by various stimuli ( 3 , 4 , 9 , 48 ) .
+In this study , using a cDNA expression cloning strategy , we have identified BHRF1 , an Epstein-Barr virus ( EBV ) early lytic protein with sequence homology to Bcel-2 , as an antiapoptosis protein .
+Expression of BHRF1 in MCF-Fas cells renders them nearly completely resistant against both anti-Fas-and TNF-mediated apoptosis .
+However , our data also show that expression of BHRFI in a B-cell line , BJAB , does not 7510 FOGHSGAARD AND JAATTELA protect them from anti-Fas-mediated apoptosis , suggesting that the protective role of BHRF1 is cell type dependent , like that of Bel-2 .
+Furthermore , we show that the TNF- and anti-Fas-induced activation of cPLA ; and caspase-3/CPP32 is inhibited in BHRF1-expressing MCF-Fas cells , whereas TNF-induced NF- « B-activation is not affected .
+A putative role of BHRF1 in virus infection is discussed .
+MATERIALS AND METHODS Cell lines , culture conditions , and treatments .
+The MCF7S1 cell line is a subclone of MCF7S breast carcinoma cells selected by limiting dilution of MCF7S cells for high sensitivity to recombinant human TNF ( 17 ) .
+The Fas-sensitive MCF-Fas subclone was obtained by transfecting a Fas receptor expression construct into the MCF7S cells ( 17 ) .
+MCF-Bel-2.1 and MCF-Bcl-2.2 are two pooled populations of MCF-Fas cells successfully transfected with a pEBS7 expression construct coding for human Bcl-2 .
+MCF-Bcl-x.1 and MCF-Bcl-x.2 are two pooled populations of the same cells successfully transfected with a similar expression construct coding for human Bcl-x ; , and MCF-V.1 and MCF-V.2 are pools of MCF-Fas cells transfected with an empty vector ( 17 ) .
+The Fas-sensitive BJAB cells , a B-cell line , were kindly provided by F. Wang ( Harvard Medical School , Cambridge , Mass . )
+.
+All cells were cultured at 37°C in a humidified air atmosphere with 5 % CO , .
+RPMI 1640 medium , with ( Gibco Ltd. , Paisley , United Kingdom ) supplemented with 10 % heat-inactivated fetal calf serum ( FCS ) ( HyClone ) , streptomycin ( 10 mg/ml ) , and penicillin ( 100 U/m1 ) , was used as a growth medium for all cell lines and is referred to as complete medium ( CM ) .
+The medium used for the culture of cell lines transfected with either pREP4- or pEBS7-based plasmids was supplemented with hygromycin ( Calbiotech , La Jolla , Calif. ) : 0.15 mg/ml for MCF7S1 and MCF-Fas cells and 0.5 mg/ml for BJAB cells .
+The growth medium for MCF-Fas cells was further supplemented with 0.2 mg of G418 ( Gibco ) per ml .
+Recombinant human TNF was from Genentech , San Francisco , Calif. , and monoclonal anti-Fas antibody ( anti-APO1 [ 54 ] ) was kindly provided by P. Krammer ( German Cancer Research Center , Heidelberg , Germany ) .
+Plasmids .
+pREP4 ( Invitrogen ) is an episomal eucaryotic expression vector in which the presence of both the EBV origin for plasmid replication ( orfP ) and the gene encoding Epstein-Barr nuclear antigen 1 allow the vector to replicate extrachromosomally .
+The plasmid contains a gene coding for hygromycin phos-photransferase , which confers resistance to hygromycin B. Inserted cDNA in a multicloning site is under the transcriptional control of the Rous sarcoma virus 3 ' long terminal repeat .
+pRP-BHRF1 is the pREP4 plasmid containing cDNA coding for BHRF1 .
+pRP-Bgal is the pREP4 plasmid containing cDNA coding for the Escherichia coli enzyme B-galactosidase .
+pEBS7 is also an EBV-based episomal vector , which differs from pREP4 only by having a cytomegalovirus promoter ( 17 ) .
+pEBS7-Bcl-2 is the pEBS ?
+7 plasmid containing the cDNA coding for human Bel-2 ( 17 ) .
+Functional expression , cloning , and sequencing .
+A poly ( T ) -primed cDNA library ( kindly provided by M. Buchwald , University of Toronto , Toronto , On-tario , Canada [ 42 ] ) made from mRNA from TNF-resistant EBV-transformed lymphoblasts cloned into vector pREP4 was used in the expression study .
+The cDNA library consisted of 5 x 10° individual colonies , and gel electrophoresis of released inserts revealed a continuous DNA smear ranging in size from approximately 300 to 4,000 bp .
+The cDNA library was introduced to the highly TNF-sensitive MCF7S1 cells by electroporation ; 4 X 10° cells were transfected with 20 to 60 g of library DNA ml~* , resuspended in CM , transferred to tissue culture flasks , and incubated at 37°C .
+Two days later hygromycin ( 150 U/m !
+1 ) was added , and the incubation was continued for 5 to 8 days to allow drug-resistant clones to reach confluence .
+To obtain TNF-resistant clones , hygromycin-resistant clones were treated with 50 to 100 ng of TNF per ml for 24 h and incubated in CM containing hygromycin ( 150 U/m ! )
+until they reached subconfluence .
+Thereafter , the cells were trypsinized and plated on petri dishes , and treatment with TNF was repeated .
+When the cells reached confluence following the second TNF treat-ment , episomal plasmid DNA was recovered by Hirt extraction ( 14 ) and introduced into DH10B electrocompetent bacteria ( Gibco ) by electroporation , as recommended by the manufacturer .
+Transformants were plated on Luria-Bertani agar-ampicillin ( 120 ug/ml ! )
+plates and incubated for 16 h at 37°C .
+Colonies were resuspended in Luria-Bertani medium ( by using a rubber policeman ) and incubated in a bacterial shaker for 24 h at 37°C , and large-scale plasmid DNA was prepared by standard methods .
+DNA sequences were determined by T7 DNA polymerase ( Sequenase , version 2.0 ; U.S. Biochemicals , Cleveland , Ohio ) following the protocol suggested by the manufacturer .
+Electroporation .
+Circular plasmid DNA was introduced into cells by electroporation ; 2 X 10 `` to 4 X 10 `` cells in logarithmic growth were trypsinized , resuspended in 0.8 ml of phosphate-buffered saline ( PBS ) containing 20 to 60 ug of plasmid DNA , incubated at room temperature for 10 min , and transferred to an electroporation cuvette .
+Following delivery of an electric pulse ( capacitance , 960 wF ; voltage , 850 V/cm ; resulting time constant , 11 to 13 ms ) , cells were incubated in the cuvette at room temperature for 5 min before resuspension in 20 ml of CM and transfer into 75-cm > tissue culture flasks .
+After 48 h at 37°C , J. Viror .
+hygromycin was added and the incubation was continued until drug-resistant clones reached confluence .
+Western blot analysis .
+Cells , 1 X 10° to 3 X 10° per lane , lysed in Laemmli sample buffer ( 23 ) or urea buffer followed by sonication , were resolved in a sodium dodecyl sulfate-12 % polyacrylamide gel and transferred to Hybond ECL filter paper ( Amersham International , Buckinghamshire , United Kingdom ) with an electroblotter ( Millipore ) .
+Filters were blocked by incubation with 5 % low-fat milk powder in Tris-buffered saline ( TBS ) at 25°C for 1 h and washed twice in TBS containing 0.05 % Tween 20 ( washing buffer ) .
+The filters were incubated for 1 h at 25°C or for 18 h at 4°C with primary antibodies diluted in the following concentrations in washing buffer containing 0.5 % low-fat milk powder : anti-BHRF1 , from Advanced Biotechnologies Inc. , 1:4,000 ; anti-Bcl-2 , kindly provided by G. Nunez , 1:500 ; and anti-PARP , kindly provided by G. G. Poirier , 1:10,000 .
+Following three washes , the filters were incubated for 30 min at 25°C in washing buffer containing a 1:40,000 dilution of peroxidase-conjugated secondary antibody ( Dako Immunoglobulins , Glostrup , Denmark ) and 5 % low-fat milk powder .
+After the filters were washed thoroughly , the chemiluminescence reaction was performed and they were exposed to ECL hyperfilm according to the manufacturer 's instructions ( Amersham ) .
+Cell viability assay .
+The microculture tetrazolium assay was used to measure the viability of cells ( 28 ) .
+Briefly , approximately 5,000 ( MCF7S1 or MCF-Fas ) or 20,000 ( BJAB ) target cells per well were plated in 96-well microtiter plates in 0.1 ml of CM , in medium containing the indicated amounts ( see the legend to Fig .
+2 ) of TNF and anti-Fas antibody together with 1 ug of protein A ( Sigma Chemical Co. , St. Louis , Mo . )
+per ml , or in RPMI supplemented with the indicated concentrations of FCS .
+After the indicated times ( see the legend to Fig .
+2 ) at 37°C , 25 pil of dimethylthiazoly ] tetrazolium solution ( MTT ) ( 5 mg/ml ; Sigma ) was added and the incubation was continued for 3 h before addition of 100 pl of lysis buffer ( 20 % sodium dodecyl sulfate in a 50 % solution of N , N-dimethylformamide [ pH 4.5 ] ) .
+Forming formazan crystals were allowed to dissolve for 16 h before the plates were read on a microplate reader , using a wavelength of 550 nm .
+Effector cells .
+Peripheral blood mononuclear cells ( PBMC ) were isolated from fresh heparinized blood obtained from healthy donors at the University Hospital of Copenhagen ( Rigshospitalet ) .
+Sixty milliliters of blood was mixed and resuspended in 60 ml of PBS .
+PBMC were obtained by centrifugation of erythrocytes through a Ficoll-Pague Plus ( Pharmacia , Uppsala , Sweden ) layer and collection of cells in the interphase .
+The cells were washed two times in PBS , resuspended in CM , and incubated on petri dishes for 1 h at 37°C at a concentration of 1 10° to 3 X 10 % /cm > in order to isolate the monocytes ; the monocytes adhered to the surface while the rest of the mononuclear cells rested in solution .
+To obtain lymphokine-activated killer ( LAK ) cells , the nonadherent cells were resuspended at a concentration of 1 X 10° to 2 X 10° cells/ml in CM supplemented with interleukin-2 ( 300 U/ml ; Amersham ) and incubated for 3 to 5 days at 37°C .
+To obtain monocytes , the adherent cells were collected with a rubber policeman , resuspended in 4 ml of CM and centrifuged through a Percoll layer consisting of 43 % Percoll ( Pharmacia ) and 57 % CM .
+The cell layer in the interphase was collected , washed , and resuspended at a concentration of 10° cells/ml in CM supplemented with £ .
+coli lipopolysaccharide ( 0.5 ug/ml ; Sigma ) and incubated at 37°C for 1 h. Cytotoxicity assay .
+Target cells ( 1 X 10° to 2 X 10° cells/ml ) were labeled with sodium ( 0.1 NEN , Boston , Mass . )
+in CM for 1 h and washed twice in PBS .
+The assay was set up in triplicate in 96-well microtiter plates ( Greiner ) .
+Target cell suspension , 5,000 cells in 0.1 ml of CM , was added to each well with 0.1-ml dilutions of effector cells , TNF , or anti-Fas antibody in CM .
+After incubation for the required time at 37°C , `` Cr released into 0.1 ml of supernatant from each well was determined with an automatic gamma counter .
+Assay for phospholipase A ; activity .
+The incorporation of acid into membrane phospholipids of intact cells was done essentially as described previously ( 16 ) .
+Briefly , 5 X 10° cells in 5 ml of CM supplemented with [ 5,6,8,9,11,12,14,15-N-*HJarachidonic acid ( 0.3 mCi/ml ; NEN ) were plated in 10-cm-diameter petri dishes .
+After 16 h at 37°C , cells were scraped with a rubber policeman , washed three times with PBS , and resuspended in CM at a concentration of 4 X 10° % /ml .
+The assay was set up in triplicate in 24-well microtiter plates by adding 0.5 ml of cell suspension to each well with 0.1 ml of CM or medium containing the indicated dilutions ( see Fig .
+5 ) of TNF or anti-Fas antibody .
+After 18 h at 37°C , the plates were centrifuged at 1,000 x g and 0.3 ml of the supernatant was collected , mixed with 3 ml of Ecosint A scintillation fluid ( National Diagnostics , Manville , N.J. ) , and analyzed in a scintillation counter .
+The radioactivity of °H released from cells treated with TNF or anti-Fas antibody was compared with the average radioactivity of °H released from cells incubated with medium alone and was expressed as a percentage , with the spontancous value being 100 % .
+The spontaneous release of arachidonic acid from untreated cells was always less than 10 % of the total .
+Transient transfection and luciferase assay .
+Five micrograms of plasmid pBlIx , containing NF-kB binding sequences from human immunodeficiency virus , or pAP-LUC , containing an AP-1 binding site from the human collagenase gene upstream from the luciferase reporter gene , was cotransfected with 3 ug of plasmid pEBS-BGal into 2 X 10° to 5 X 10° cells , essentially as described previously ( 18 , 22 , 36 ) .
+Two days after transfection , the cells were left untreated or were treated with the indicated concentrations ( see Fig .
+4 ) of TNF 4 h before harvesting .
+Luciferase activity was measured with the Promega luciferase assay voL .
+71 , 1997 system .
+The lysates used for the luciferase assay were also tested for B-galacto-sidase activity ( control for transfection efficiency ) by using ortho-nitrophenyl-B-p-galactopyranoside ( Sigma ) as a chromogenic substrate , and the values from the luciferase assay were corrected accordingly .
+RESULTS Cloning of BHRF1 by functional expression cloning .
+To identify proteins that protect cells from the cytotoxic effects of TNF , a cDNA library originating from TNF-resistant EBV-transformed lymphoblasts was transfected into MCF7S1 cells by electroporation .
+Hygromycin-resistant cells were exposed to 50 ng of TNF per ml for 24 h , and surviving cells ( 0.1 to 1 % ) were allowed to reach subconfluence before another 24-h exposure to TNF .
+Episomal plasmid DNA from surviving cells was recovered by HIRT extraction ( 14 ) and amplified in bac-teria ; the selection process was repeated three times .
+The resistance of transfected cells to TNF clearly increased by each round , and a plasmid containing a cDNA insert of approximately 1.7 kb was enriched .
+After three selection rounds , the 1.7-kb insert was found in approximately 5 % of the plasmids .
+The rescued plasmid containing the 1.7-kb insert was transfected into MCF7S1 cells , and hygromycin-resistant cells were tested for their sensitivity to TNF in a 48-h MTT cell viability assay ( 28 ) .
+The sensitivity was compared with that of hygromycin B-resistant MCF7S1 cells transfected in parallel with an empty control vector , pEBS7 .
+The 1.7-kb insert clearly protected cells from the TNF-induced cytotoxicity , as it conferred 80 to 90 % resistance to TNF killing at concentrations of up to 100 ng/ml ( data not shown ) .
+The cDNA was then sequenced , and comparison of the obtained sequence with the GenBank database revealed nearly complete homology ( 99 % ) to published cDNA sequences encoding BHRF1 .
+BHRF1 is an EBV early lytic protein with a molecular mass of 17 kDa .
+BHRF1 displays limited homology to Bcl-2 , with the alignment of BHRF1 and Bcl-2 revealing approximately 25 % amino acid identity .
+BHRF1 protects MCF-Fas cells from TNF- and Fas-mediated apoptosis .
+To allow a comparison of TNF- and Fas-induced killing in the same cell line , MCF7 cells successfully transfected with human Fas cDNA ( MCF-Fas ) were used ( 17 ) .
+To test the ability of BHRF1 to protect MCF-Fas cells from anti-Fas- and TNF-mediated apoptosis , cells were transfected with pREP4 expression vector containing the cDNA encoding BHRF1 ( pRP-BHRF1 ) .
+The cells were , in parallel , transfected with the pREP4 vector containing cDNA coding for B-galac-tosidase or with a closely related pEBS7 expression plasmid ( empty vector ) .
+Two independent transfections of pRP-BHRF1 generated two hygromycin B-resistant cell populations ( MCF-BHRF1.1 and MCF-BHRF1.2 ) that stably expressed BHRF1 , as analyzed by Western blotting ( Fig .
+1 ) .
+The sensitivity of transfected MCF-Fas cells to TNF- and anti-Fas-mediated apoptosis was analyzed in a 48-h MTT cell viability assay .
+As shown in Fig .
+2 , the control cells ( MCF-pEBS7 and MCF-Bgal ) were killed in a dose-dependent man-ner .
+In contrast , MCF-Fas cells expressing BHRF1 were nearly completely resistant to apoptosis mediated by either TNF or anti-Fas .
+The degree of resistance conferred by BHRF1 was identical to that obtained by overexpression of either Bel-2 or Bcl-x , in MCF-Fas cells ( 17 ) .
+The protective effect of BHRF1 was emphasized by the morphological changes of control cells versus BHRF1-expressing cells after stimulation with TNF or anti-Fas .
+As shown in Fig .
+2¢ , untreated MCF-pEBS7 and MCF-BHRF1.1 cells grew equally well and were morphologi-cally alike , whereas the difference was clear for cells treated with TNF .
+After 24 h with TNF , control cells displayed morphological alterations typical of adherent cells undergoing ap- BHRFI AND APOPTOSIS - 7511 po ' A & y & 4 ¥ $ § 4 G44 .
+€ 16 kD -m me < 4- BHREF !
+6 kD -- FIG .
+1 .
+Detection of BHRF1 expression in transfected MCF-Fas cells by Western blot analysis .
+MCF-Fas cells were transfected with pRP-BHRF1 ( MCF-BHRFL.1 and MCF-BHRFL2 ) , pRP-fgal ( MCF-Bgal ) , or pEBS7 ( MCF-pEBS7 ) by electroporation .
+Cell lysates from approximately 3 x 10° hygromycin-resistant cells were analyzed by Western blot analysis employing anti-BHRF1 antibody ( Advanced Biotechnologies Inc. ) and ECL reagents ( Amersham ) .
+Molecular mass markers are indicated on the left .
+optosis , becoming rounded , condensed , and detached from the dish , whereas BHRF1-expressing cells did not show any morphological changes .
+The same pattern of morphological changes was seen following treatment with anti-Fas ( data not shown ) .
+BHRF1 protects MCF-Fas cells from cytotoxicity mediated by monocytes and serum starvation but not from LAK cells .
+To test whether BHRF1 protects cells from mediators of cell death other than TNF or anti-Fas , the killing of cells by activated monocytes , LAK cells , and serum starvation were tested .
+The sensitivity of transfected MCF-Fas cells to killing by activated monocytes was analyzed by an 18-h chromium release assay with MCF-Fas transfectants as target cells and activated monocytes as effector cells .
+Control cells were killed in a dose-dependent manner ranging from 3 to 38 % at effector-to-target ratios ranging from 1:1 to 64:1 ( Fig .
+3a ) .
+BHRF1 protected cells from killing by monocytes in a manner similar to that in which cells were protected from killing by TNF ( Fig .
+3a and 2a ) .
+A 4-h chromium release assay with LAK cells as effector cells and MCF-Fas transfectants as target cells showed that BHRF1 was unable to protect cells from LAK-cell-mediated killing : 7 to 90 % of the target cells were killed in 4 h at effector-to-target cell ratios ranging from 1:1 to 64:1 .
+There was no significant difference in killing of cells expressing BHRF1 and vector-transfected cells ( Fig .
+3a ) .
+Similar results were obtained with MCF-Fas cells overexpressing either Bel-2 or Bel-x ; , both proteins conferring resistance against monocyte-mediated cytotoxicity but failing to protect cells against LAK -cell-mediated killing ( Fig .
+3b ) .
+To test whether BHRF1 was able to protect cells from serum starvation , the survival of transfected MCF-Fas cells in low serum concentrations ( 0.5 to 2 % ) was tested by a 7-day MTT assay .
+The survival of BHRF1-expressing cells was approximately twice as high as that of vector-transfected control cells ( Fig .
+3¢c ) .
+Thus , the ability of BHRF1 to protect MCF-Fas cells from serum starvation is of a magnitude similar to that of Bel-2 or Bel-x , , ( 18 ) .
+BHRF1 does not interfere with activation of NF-KB-like and AP-1 transcription factors .
+TNF , but not anti-Fas , activates NF-kB-like and AP-1-like transcription factors in MCF-Fas cells ( 17 ) .
+In order to analyze if the expression of BHRF1 interferes with the activation of these two transcription factors , a luciferase reporter gene assay was used employing MCF-Fas cells transiently transfected with a plasmid containing two kB 7512 FOGHSGAARD AND JAATTELA a 19 “ \A ’ / ‘ 80 A a - @ - - MCF-pEBST7 a A - =O - - MCF-betagal s A -- & - - MCF-BHAF11 G. A -- - - MCF-BHRF1.2 # 0 91 a_ \ s ] *a 1 .S ~I » \\ ‘ b .
+Ca 40 7 ~ : *~ `` 3 ~ ~ o 20 r 0 5 25 125 TNF Concentration of TNF ( ng/ml ) b 19 80 { 4 `` -o- MCF-pEBST ~ `` has - ® - MCF-betagal ® - so- ~ -R- - MCF-BHRF11 la a * -i- - MCE-BHRE1.2 > .
+4 \ * = A € 7 * ~ .3 40 = A \ > 4 N ~ ~ `` o .
+~ - wo T & bud ~ ® 20 = m 0 r 0 1 5 25 anti-Fas Concentration of anti-Fas ( ng/ml ) C MCF-pEBS7 : -TNF _ MCF-pEBS7 : +INF \le `` y. Ts ry `` , ¥ I ‘ ) # a* s 4 < 4 J f : rap `` ® : % ¥ e * £ * ¥f 7 .
+4 $ % * -s > * > P P / * , 3 » * : » Py 3 m Pr ay } * LIE C _ ¥ MCF-BHRF1.1 : -TNF MCF-BHRFI.1 : ; +INF FIG .
+2 .
+BHRF1 protects MCF-Fas cells from TNF-mediated ( a , c ) and anti-Fas antibody-mediated ( b ) apoptosis .
+Approximately 5,000 cells per well were plated in 96-well plates with the indicated concentrations of TNF or anti-Fas antibody with 1 mg of protein A per ml , and the percentage of surviving cells was analyzed by MTT assay after a 2-day incubation ( a and b ) .
+Cell pools are as described for Fig .
+1 .
+To show the morphological features of MCF-Fas transfectants treated with 50 ng of TNF per ml for 24 h , approximately 200,000 cells per well were plated in 24-well plates in CM or CM containing TNF ( c ) .
+binding motifs ( pBIIX ) or a human AP-1 binding motif ( pAP-LUC ) and a minimal mouse fos promoter upstream from the firefly luciferase gene ( 17 , 18 , 36 ) .
+Exposure of vector-transfected cells to 10 ng of TNF per ml for 4 h resulted in a 100-fold increase in NF- « B-driven luciferase activity and a J. Viror .
+E morpess ?
+Q mor-sHaria D0 mcoreHrfi2 80 3 .
+3.5 s. ad 60 40 Specific cytotoxicity ( % ) 20 E 0 4 64d 16:1 4:11 dif 6490 464 493 49 monocytes LAK cells effector : target ratio p 19 ] ® M 7 ] a £9 ® mcrBoxs L -F x MCF-Bol-x.2 r ?
+[ A ~ 1 ] Q mor-Bc-21 1 L ( al Q MCF-Be-22 A [ 4 E 60 ~ f : [ § 0 l A [ A H HP o - 404 f : a 3 A | 800 .
+A C 3 [ 2 ] 9 H I4 a & m F4 | ] f [ 4 F F | [ 16:1 64:1 monocytes LAK cells effector : target ratio Cc 70 60 < 50 + © s ~- 40 4 2 18 30 7 .3 P on < , `` morpcssr & -a- - MCF-BHRF1.1 -- - - MCF-BHRF1.2 10 4 0 u u u t 0.0 0.5 1.0 1.5 2.0 FCS ( % ) FIG .
+3 .
+Effect of BHRF1 , Bcl-2 , or Bel-x , , on the sensitivity of MCF-Fas cells to monocytes , LAK cells , and serum starvation .
+The sensitivity of transfected MCF-Fas cells to lipopolysaccharide-stimulated monocytes or LAK cells was analyzed by chromium release assay .
+Approximately 5,000 cells labeled with sodium were plated in 96-well plates with the indicated effector-to-target cell ratios for 18 h in the monocyte assay and 4 h in the LAK cell assay ( a and b ) .
+To test the sensitivity of cells to serum starvation , approximately 5,000 cells per well were plated in 96-well plates with the indicated concentrations of FCS , and the percentage of surviving cells was analyzed by MTT assay after a 7-day incubation ( c ) .
+Experiments were repeated three times with essentially the same results .
+vou .
+71 , 1997 a 80 MCF-pEBS7 n MCF-BHRFI.1 ‘ é q MCF-BHRFL2 2 60 3 6 400 l f : -D = S L4 p 40 - 4 i A 3 4 | M eI & 20- e k 3 5 n ' 3 0 4 fA G =/ 0-—== -- _m .
+spon 0,1 1 10 b > =n MCF-pEBS ?
+( 2 MCF-BHRF1.1 MCF-BHRF1.2 fay £ 2 & d k .Z 3 o 3 9 % S B o 3 ~ .d 0 spon 1 10 100 Concentration of TNF ( ng/m ! )
+FIG .
+4 .
+BHRF1 does not affect TNF-induced activation of NF- « B-like ( a ) and AP-1 ( b ) transcription factors .
+Luciferase activity was measured in cells transiently transfected with plasmid pBIIX , containing two copies of NF-kB binding sites ( a ) , or pAP-LUC , containing an AP-1 binding site upstream of the Photinus pyralis luciferase coding sequence ( b ) .
+The efficiency of each transfection was monitored by a cotransfected cytomegalovirus promoter-driven LacZ construct ( pEBS7-Bgal ) .
+Forty-eight hours after transfection , cells were either left unstimulated or stimulated for 4 h with the indicated concentrations of TNF before harvesting .
+The lysates were tested for luciferase activity and B-galacto-sidase activity .
+1.5-fold increase in AP-1-driven luciferase activity ( Fig .
+4 ) .
+The expression of BHRF1 did not affect the activation of either NF-kB-like or AP-1-like transcription factors ( Fig .
+4 ) .
+Similar results have been obtained with MCF-Fas cells overexpressing Bel-2 or Bel-x , , ( 17 ) .
+Activation of cPLA , by TNF and anti-Fas is inhibited by BHRF1 .
+The release of arachidonic acid from membrane phospholipids by cPLA ; has been suggested to be an essential link in TNF- and anti-Fas-mediated cytotoxicity and has been shown to be inhibited by overexpression of Bel-2 or Bel-x , ( 17 ) .
+To test whether BHRF1 was able to inhibit TNF- or anti-Fas-induced activation of cPLA , , the release of radioactivity from cells labeled with [ °HJarachidonic acid was measured .
+An 18-h exposure of vector-transfected MCF-Fas cells ( MCF-pEBS $ 7 ) to TNF ( 1 to 100 ng/ml ) or anti-Fas ( 1 to 25 ng/ml ) induced a dose-dependent release of radioactivity , the maximum release being 2.0-fold ( TNF ) or 2.1-fold ( anti-Fas ) higher than the release from cells incubated in medium alone .
+The TNF- or anti-Fas-induced activation of cPLA , in MCF-Fas cells expressing BHRF1 was almost completely inhibited when com BHRFI AND APOPTOSIS - 7513 200 A m MCFpEBS7 A vcreHrrid Mor-BHRr12 100 7 PLA2-activity ( in % ) 0 A u spon TNF 100 Concentration of TNF or anti-Fas ( ng/ml ) anti-Fas 25 spontane | TNF30 | Fas 10 FIG .
+5 .
+BHRF1 inhibits the activation of cPLA ; ( a ) and caspase-3 ( b ) induced by cither TNF or anti-Fas in MCF-Fas cells .
+cPLA , activity was measured in cells labeled with [ *HJarachidonic acid .
+The assay was set up in triplicate in 24-well microtiter plates by adding 2 X 10° cells in 0.6 ml of medium or medium containing the indicated concentrations of TNF or anti-Fas plus protein A ; after 18 h of incubation at 37°C , 0.3 ml of the supernatant was collected and the radioactivity released was analyzed in a scintillation counter .
+The spontancous release was set to 100 % .
+In the PARP analysis , MCF-Fas transfectants were exposed to TNF ( 30 ng/m ! )
+or anti-Fas ( 10 ng/m ! )
+for 24 h , after which cell lysates were prepared for immunoblotting with the anti-PARP monoclonal antibody as described in Materials and Methods .
+The upper band represents the intact protein , and the lower band denotes the signature cleavage product .
+The migration of a 98-kDa molecular mass marker is indicated on the left .
+pared to the vector-transfected control cells ( Fig .
+5a ) .
+The level of inhibition by BHRFI1 is comparable to that of Bel-2 or Bel-x , , in MCF-Fas cells ( 17 ) .
+BHRF1 inhibits the activation of caspase-3 .
+To see whether BHRF1 was able to inhibit the TNF- and anti-Fas-induced activation of CPP32/caspase-3 , the integrity of the death substrate PARP was analyzed .
+Vector-transfected MCF-Fas cells revealed partial cleavage of the native 116-kDa PARP to the signature 85-kDa proteolytic fragment within a 24-h exposure to TNF ( 30 ng/ml ) or anti-Fas ( 10 ng/ml ) .
+In MCF-Fas cells expressing BHRF1 there were no detectable levels of the 85-kDa proteolytic product , indicating that BHRF1 inhibits the activation of CPP32/caspase-3-like proteases ( Fig .
+5b ) .
+Simi-larly , TNF and anti-Fas failed to induce cleavage of PARP to the 85-kDa fragment in MCF-Fas cells overexpressing either Bel-2 or Bel-x , , ( data not shown ) .
+BHRF1 does not protect BJAB cells from Fas-mediated apoptosis .
+As shown above , BHRF1 is able to protect MCF-Fas cells from various apoptotic stimuli , such as TNF , Fas , monocytes , and serum starvation .
+This suggests that BHRF1 is a general inhibitor of apoptosis and functions where the various apoptotic stimuli converge into a common death pathway .
+To test whether protection against apoptosis is a universal feature of BHRF1 , which could contribute to the pathogenesis of EBV , we extended the studies to another cell line , a human 7514 FOGHSGAARD AND JAATTELA A ~ a & & Cy & 3 & 3 £ p° @ A $ J $ $ @ @ @ .
+& 16 kD - » sites < - BHRFI 6 kD -m A ~ b al w $ o qo £ $ A & & a ad $ o 2 $ ° $ is 4 .
+& & a 36 kD -m » 30 kD -m « Wt -a- Bci-2 FIG .
+6 .
+Detection of BHRF1 ( a ) or Bcl-2 ( b ) in transfected BJAB cells by Western blot analysis .
+BJAB cells were transfected with plasmid pRP-BHRF1 ( BJAB-BHRF1 } , pEBS7-Bcl-2 ( BJAB-Bcl-2 ) , pRP-Bgal ( BJAB-fgal ) , or pEBS7 ( BJAB-pEBS7 ) by electroporation .
+Cell lysates from approximately 3 X 10° hygromycin-resistant cells were analyzed by Western blot analysis .
+Molecular mass markers are indicated on the left .
+EBV-negative B-cell line , BJAB , which is sensitive to Fas-mediated cytotoxicity but resistant to killing by TNF .
+pRP-BHRF1 was transfected into BJAB cells to create a cell population constitutively expressing BHRF1 .
+In parallel , BJAB cells were transfected with the pRP-fgal expression plasmid or an empty expression vector , pEBS7 , creating two control cell populations .
+In order to compare the effect of BHRF1 with that of Bel-2 , BJAB cells were also transfected with the pEBS7-Bcl-2 expression plasmid .
+A Western blot analysis showed expression of BHRF1 in BJAB-BHRF1 cells and overexpression of Bel-2 in BJAB-Bcl-2 cells , compared to the endogenous expression in control transfected cells ( Fig .
+6 ) .
+The sensitivity of transfected cells to anti-Fas was tested by a 6-h MTT assay .
+A comparison between BJAB cells expressing BHRF1 and the parental cell line , the control transfected cells , or Bel-2-ex-pressing cells did not show any significant difference in sensitivity towards anti-Fas ( Fig .
+7a ) .
+Thus , forced expression of BHRF1 or Bel-2 did not protect BJAB cells from Fas-mediated killing .
+BHRF1 protects BJAB cells from serum starvation .
+As the expression of BHRF1 did not affect the sensitivity of BJAB cells to anti-Fas-mediated apoptosis , we tested whether BJAB-BHRF1 cells were protected from another apoptotic stimulus , serum starvation .
+The four BJAB transfectants were then screened for survival over a 9-day period after transfer into medium with a reduced ( 0.5 % ) FCS content .
+An aliquot was tested for cell viability by MTT assay every day from day 1 to day 7 .
+Every second day , the MTT assay was accompanied by counting of the cells in trypan blue to verify that the cells were actually dying by serum starvation .
+BHRF1-expressing BJAB cells showed significantly enhanced survival compared to control cells ( Fig .
+7b ) .
+After 5 days of incubation , 30 % of the BHRF1-expressing cells had survived serum starvation while only 5 % of the control cells were alive .
+After 9 days of incu- J. Viror .
+a 100 - -M- - BJAB « - -O- - BJAB-pEBS7 8o < =- ® - - BJAB-betagal `` -=- - BJAB-BHRF1 BJAB-Bcl-2 © é , 60 3 § 404 - > 20 A \\ % 0 T T u T T 0,0 0,2 0,4 0,6 0,8 1,0 Concentration of anti-Fas ( ng/ml ) 40 loa K BJAR-pEBST [ ] BJAB-betagal E ] BJAB-BHARF1 F BJAB-Bci-2 Viability ( percent of day 0 , % ) verenencces days FIG .
+7 .
+Expression of BHRF1 or overexpression of Bel-2 does not protect BJAB cells from anti-Fas-mediated apoptosis ( a ) , but it enhances the survival of serum-starved BJAB cells ( b ) .
+To measure the sensitivity of cells to anti-Fas , approximately 20,000 cells per well were plated in 96-well plates with the indicated concentrations of anti-Fas antibody with 1 ug of protein A per ml .
+The percentage of surviving cells was analyzed by MTT assay after a 6-h incubation .
+In the serum starvation assay , cells were grown in medium containing 0.5 % FCS with an initial cell concentration of 400,000 cells/ml .
+On a daily basis , an aliquot was tested for cell viability .
+Every second day the MTT assay was accompanied by counting of the cells in trypan blue .
+Cell pools are as described for Fig .
+6. bation , all of the control cells were dead whereas 10 % of the BHRF1-expressing cells were alive .
+The BJAB cells overexpressing Bel-2 showed a pattern of survival similar to that of BHRF1-transfected cells ( Fig .
+7b ) .
+DISCUSSION This study was undertaken to investigate signal transduction pathways involved in apoptosis induced by cross-linking and activation of cell surface receptors for TNF and FasL .
+Our first aim was to identify gene products that inhibit this pathway .
+By functional expression cloning , the EBV early-lytic-cycle protein BHRF1 was identified as an antiapoptosis protein .
+Expression of BHRF1 in MCF-Fas cells led to nearly complete inhibition of cell death induced by TNF , anti-Fas antibody , monocytes , and serum starvation .
+EBV is a human herpesvirus with oncogenic potential and is predominantly associated with infection of two target tissues in vivo : B lymphocytes , where the infection is largely nonproduc-tive , and stratified squamous epithelium , in which virus repli- voL .
+71 , 1997 cation occurs ( 26 ) .
+Both cell types are susceptible to EBV-associated transformation , resulting in tumors of B-cell origin , Burkitt 's lymphoma and immunoblastic lymphoma , or of epithelial cell origin , nasopharyngeal carcinoma and gastric ade-nocarcinoma ( 26 ) .
+BHRF1 is an EBV gene product of undetermined function .
+It is a constituent of all EBV genomes , suggesting that it has an important role in the viral life cycle ( 21 ) .
+Spliced BHRF1 transcripts have been identified in latently infected B cells , although the 17-kDa protein has yet to be detected in these cells ( 35 ) .
+However , in the early phase of the viral replicative cycle both BHRF1 protein and transcripts are expressed in abundance ( 35 ) .
+The expression of BHRF1 is not required for viral replication or B-cell transformation , since recombinant virus in which BHRF1 has been deleted in vitro is both transforming and able to enter the replicative cycle ( 25 ) .
+These BHRF1-negative transformed B cells express the full range of viral latent gene products , suggesting an essential role for these proteins ( 25 ) .
+The influence of BHRF1 , however , is much more likely to be felt in the lytic cycle , in which the protein is abundantly expressed and the expression of latent genes is turned off .
+The BHRF1 protein of EBV may be a structural homolog of the Bcel-2 protein .
+Alignment of BHRF1 and Bel-2 has revealed some 25 % amino acid identity ( 25 ) , in which the sequences corresponding to the BH1 , BH2 , and BH3 domains are highly conserved ( 7 ) .
+This and previous studies indicate that BHRF1 is also functionally related to Bel-2 and the other family member , Bcl-x ; Previous functional studies have shown that ectopic expression of BHRF1 can block apoptosis induced by various stimuli , such as withdrawal of serum ( 13 ) , withdrawal of other growth factors , treatment with anticancer agents , infection with heterologous virus ( 45 ) , and ectopic expression of the tumor suppres-sor protein p53 ( 50 ) .
+This study shows that expression of BHRF1 in MCF-Fas cells nearly completely blocks the apoptotic pathway induced by TNF or anti-Fas even in long-term assays with high concentrations of effector molecules .
+Moreover , we show that expression of BHRF1 protects MCF-Fas cells from monocyte-mediated killing in a manner similar to that of Bel-2 and Bcel-x , , .
+TNF is the major mediator of cell death used by monocytes ( 1 , 19 ) ; thus , this result emphasizes the protective effect of BHRF1 against this cytokine .
+The ability of BHRFI1 to protect epithelial cells from TNF- and anti-Fas-mediated apoptosis is supported by a recent publication showing that expression of BHRF1 protected 407 intestinal epithelial cells against apoptosis induced by combination of cycloheximide and TNF or anti-Fas antibody ( 20 ) .
+Therefore , BHRF1 may , like Bcel-2 in epithelial cells , be a general inhibitor of apoptosis , acting at a point at which the different signaling pathways converge into a common apoptotic pathway .
+Surprisingly , however , expression of BHRF1 or overexpression of Bel-2 did not protect BJAB cells from anti-Fas-mediated apoptosis .
+BHRF1 and Bel-2 did , however , increase the survival of BJAB cells deprived of serum .
+Two other groups have obtained similar results with Bel-2 in lymphocytes : overexpression of Bel-2 protected lymphocytes from gamma radiation , staurosporine , and serum deprivation but not from anti-Fas-mediated apoptosis ( 5 , 41 ) .
+Those authors raised the possibility that Bel-2 and anti-Fas may regulate distinct pathways to apoptosis .
+In contrast , however , a recent study shows very clearly that overexpression of Bel-2 inhibits Fas-induced activation of caspase-3/CPP32 and apoptosis in lymphocytes ( 2 ) .
+Our present and previous results ( 17 ) showing complete inhibition of anti-Fas-mediated apoptosis by BHRF1 , Bel-2 , and Bcl-x , in MCF-Fas cells suggest that these proteins can regulate Fas BHRFI AND APOPTOSIS - 7515 induced apoptosis but that their effect upon it is dependent on the cell type .
+The different results obtained with MCF-Fas and BJAB cells may be explained through different expression levels of positive and negative regulators of apoptosis .
+The protective effect seen in the MCF-Fas cells may be due to the high expression levels of BHRF1 , which can overcome and prevent homodimerization between preexisting low levels of death-promoting proteins .
+In contrast , the expression levels of BHRF1 or Bcel-2 in BJAB cells may be too low to prevent homodimerization of a high level of preexisting positive regu-lators .
+But why then do we see an effect by BHRF1 and Bel-2 in serum starvation of BJAB cells ?
+This difference might be explained by the strength of the given stimuli .
+The anti-Fas stimulus in BJAB cells is very strong , resulting in complete killing of target cells in 6 h , whereas withdrawal of growth factors is a weak death stimulus , with killing taking several days .
+It is important to note that anti-Fas-induced cell death in MCF-Fas cells takes 24 to 48 h. Thus , one possibility is that the Fas-induced death signal in BJAB cells is so strong that it breaks through the checkpoint regulated by the Bcl-2 family .
+Contrary to monocyte-mediated killing , BHRF1 , Bel-2 , or Bcl-x , , expression did not protect MCF-Fas cells from LAK-cell-mediated killing .
+Recent results have demonstrated that the perforin-granzyme B-mediated and Fas-mediated pathways are the two most important mechanisms used by LAK cells in mediating cytotoxicity ( 39 , 53 ) .
+As anti-Fas killing takes 24 to 48 h , and as BHRF1 , Bel-2 , and Bel-x , , protected MCF-Fas cells from anti-Fas-mediated apoptosis , it is likely that the killing of MCF-Fas cells by LAK cells in the 4-h assay was mediated through the perforin-granzyme B pathway .
+In the perforin-granzyme B pathway , the LAK cells deliver lethal hits by releasing their granule contents after binding to the target cell .
+The inability of BHRF1 , Bel-2 , or Bel-x , , to protect MCF-Fas from perforin-granzyme B-mediated cell death may be explained in one of two ways .
+Pores formed by perforin may induce a loss of cell membrane integrity , which may result in a necrotic form of cell death unpreventable by BHRF1 , Bel-2 , or Bcl-x , or the entrance of granzyme B to the cell may be responsible for induction of apoptosis and bypass the otherwise protective effect of BHRF1 , Bel-2 , or Bel-x , .
+Apoptosis induced by granzyme B can not be inhibited by Bel-2 , and recent findings suggest that granzyme B-induced cell death occurs via direct activation of downstream caspases , thus bypassing the inhibitory effect of the Bel-2 family ( 5 , 6 ) .
+Our data show that BHRF1 , Bel-2 , and Bcl-x , are able to inhibit cyto-kine-induced activation of caspase-3/CPP32 , making the latter hypothesis possible .
+Several lines of evidence suggest the involvement of cPLA ; in the cytotoxic pathway of TNF and Fas ( 11 , 17 , 32 , 52 , 58 ) .
+This idea is further supported by our data showing that expression of BHRF1 inhibited the activation of cPLA ; by TNF and anti-Fas in a manner that paralleled their ability to inhibit cell death .
+Interestingly , other inhibitors of TNF-induced apoptosis , such as heat shock protein 70 , Bel-2 , and Bcl-x , , also inhibit TNF-induced activation of cPLA , ( 16 , 17 ) .
+Activated cPLA , releases arachidonic acid from the s » -2 position of phospho-lipids , which provides a source for the production of biologically active lipid mediators such as prostaglandins and leuko-trienes ( 12 ) .
+Thus , BHRF1 may , through its inhibition of cPLA ; , also act as an anti-inflammatory factor .
+A putative function of BHRFI1 could be to protect EBV-infected epithelial cells from TNF- and/or Fas-induced cell death in order to maximize virus production .
+Both TNF and Fas exhibit antiviral activity and may be two components of the immune system 's response to viral infection .
+Another putative role of BHRF1 may be inhibition of apoptosis during malig- 7516 FOGHSGAARD AND JAATTELA nant transformation of infected cells .
+Although BHRF1 ( like Bcl-2 ) alone is insufficient to cause transformation , the surviving cells could provide the substrate for further genetic changes in conventional oncogenes such as c-myc .
+The role of BHRF1 in EBV-infected lymphoid cells remains unclear .
+ACKNOWLEDGMENTS We thank Manuel Buchwald ( University of Toronto , Toronto , On-tario , Canada ) for the pREP-cDNA library and pREP-BGal plasmid , Peter Krammer ( German Cancer Research Center , Heidelberg , Ger-many ) for anti-APO-1 antibody , Gabriel Nufiez ( University of Michi-gan , Ann Arbor ) for anti-Bcl-2 antibody , and Guy G. Poirier ( Univer-sité Laval Research Center , Laval , Quebec , Canada ) for anti-PARP antibody .
+The excellent technical assistance provided by Helle Mourit-zen is acknowledged .
+This work was supported by grants from the Danish Cancer Society , the Novo Nordisk Foundation , the Danish Medical Research Council , the Bernhard and Meta Rasmussen Foundation , the Jeppe and Ovita Juhl Foundation , and the Astrid Thaysen Foundation .
+REFERENCES 1 .
+Adams , D. , and C. F. Nathan .
+1983 .
+Molecular mechanisms in tumor cell killing by activated macrophages .
+Immunol .
+Today 4:166-170 .
+2 .
+Armstrong , R. C. , T. Aja , J. Xiang , S. Gaur , J. F. Krebs , K. Hoang , X. Bai , S. J. Korsmeyer , D. S. Karanewsky , L. C. Fritz , and K. J. Tomaselli , 1996 .
+Fas-induced activation of the cell death-related protease CPP32 is inhibited by Bcl-2 and by ICE family protease inhibitors .
+J. Biol .
+Chem .
+271:16850-16855 .
+3 .
+Beidler , D. R. , M. Tewari , P. D. Friesen , G. Poirier , and V. M. Dixit .
+1995 .
+The baculovirus p35 protein inhibits Fas- and tumor necrosis factor-induced apoptosis .
+J. Biol .
+Chem .
+270:16526-16528 .
+4 .
+Bump , N. J. , M. Hackett , M. Hugunin , S. Seshagiri , K. Brady , P. Chen , C. Ferenz , S. Franklin , T. Gbayur , P. Li , P. Licari , J. Mankovich , L. Shi , A. H. Greenberg , L. K. Miller , and W. W. Wong .
+1995 .
+Inhibition of ICE family proteases by baculovirus antiapoptotic protein p35 .
+Science 269:1885-1888 .
+5 .
+Chinnaiyan , A. M. , K. Orth , K. O'Rourke , H. Duan , G. G. Poirier , and V. M. Dixit .
+1996 .
+Molecular ordering of the cell death pathway .
+J. Biol .
+Chem .
+271:4573-4576 .
+6 .
+Darmon , A. J. , D. W. Nicholson , and R. C. Bleackley .
+1995 .
+Activation of the apoptotic protease CPP32 by cytotoxic T-cell-derived granzyme B .
+Nature 377:446-448 .
+7 .
+D'Sa-Eipper , C. , T. Subramanian , and G. Chinnadurai .
+1996. bfl-1 , a bel-2 homologue , suppresses p53-induced apoptosis and exhibits potent cooperative transforming activity .
+Cancer Res .
+56:3879-3882 .
+8 .
+Duan , H. , A. M. Chinnaiyan , P. L. Hudson , J. P. Wing , W.-W .
+He , and V. M. Dixit .
+1996 .
+ICE-LAP3 , a novel mammalian homologue of the Caenorhab-ditis elegans cell death protein ced-3 is activated during Fas- and tumor necrosis factor-induced apoptosis .
+J. Biol .
+Chem .
+271:1621-1625 .
+9 .
+Enari , M. , H. Hug , and S. Nagata .
+1995 .
+Involvement of an ICE-like protease in Fas-mediated apoptosis .
+Nature 375:78-81 .
+10 .
+Gooding , L. R. , L. W. Elmore , A. E. Tollefson , H. A. Brady , and W. S. M. Wold .
+1988 .
+A 14,700 MW protein from E3 region of adenovirus inhibits cytolysis by tumor necrosis factor .
+Cell 53:341-346 .
+11 .
+Hayakawa , M. , N. Ishida , K. Takeuchi , S. Shibamoto , T. Hori , N. Oku , F. Ito , and M. Tsujimoto .
+1993 .
+Arachidonic acid-selective cytosolic phospholipase A2 is crucial in the cytotoxic action of tumor necrosis factor .
+J. Biol .
+Chem .
+268:11290-11295 .
+12 .
+Heller , R. A. , and M. Kronke .
+1994 .
+Tumor necrosis factor receptor-medi-ated signalling pathways .
+J .
+Cell Biol .
+126:5-9 .
+13 .
+Henderson , S. , D. Huen , M. Rowe , C. Dawson , G. Johnson , and A. Rickin-son .
+1993 .
+Epstein-Barr virus-coded BHRF1 protein , a viral homologue of bel-2 , protects B cells from programmed cell death .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:8479-8483 .
+14 .
+Hirt , B .
+1967 .
+Selective extraction of polyoma DNA from infected mouse cell cultures .
+J. Mol .
+Biol .
+26:365-369 .
+15 .
+Itoh , N. , and S. Nagata .
+1993 .
+A novel protein domain required for apoptosis .
+J. Biol .
+Chem .
+268:10932-10937 .
+16 .
+M. 1993 .
+Overexpression of major heat shock protein hsp70 inhibits TNF-induced activation of phospholipase A ; .
+J. Immunol .
+151:4286-4294 .
+17 .
+M. , M. Benedict , M. Tewari , J .
+A. Shayman , and V. M. Dixit .
+1995 .
+Bcl-x and Bel-2 inhibit TNF and Fas-induced apoptosis and activation of phospholipase A ; in breast carcinoma cells .
+Oncogene 10:2297-2305 .
+18 .
+Jiiitteli , M. , H. Mourizen , F. Elling , and L. Bastholm .
+1996 .
+A20 zinc finger protein inhibits TNF and IL-1 signaling .
+J. Immunol .
+156:1166-1173 .
+19 .
+M. , and D. Wissing .
+1993 .
+Heat shock proteins protect cells from monocyte cytotoxicity : possible mechanism of self-protection .
+J. Exp .
+Med .
+177:231-236 .
+20 .
+Kawanishi , M. 1997 .
+Epstein-Barr virus BHRF1 protein protects intestine 21 .
+22 .
+23 .
+24 .
+26 .
+27 .
+28 .
+29 .
+30. .
+Nagata , S. , and P. Golstein .
+1995 .
+The Fas death factor .
+Science 267:1449- 32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+46 .
+47 .
+J. Viror .
+407 epithelial cells from apoptosis induced by tumor necrosis factor alpha and anti-Fas antibody .
+J. Virol .
+71:3319-3322 .
+Kieff , E. , and D. Liebowitz .
+1990 .
+Epstein-Barr virus and its replication , p. 1889-1920 .
+In B. N. Fields et al .
+( ed . )
+, Fields virology , 2nd ed .
+Raven , New York , N.Y. Krasnow , S. W. , L. Zhang , K. Leung , L. Osborn , S. Kunkel , and G. J. Nabel .
+1991 .
+Tumor necrosis factor-alpha , interleukin 1 , and phorbol myristate acetate are independent activators of NF-kappa B which differentially activate T cells .
+Cytokine 3:372-379 .
+Laemmli , U. K. 1970 .
+Cleavage of structural proteins during the assembly of the head of bacteriophage T4 .
+Nature 227:680-685 .
+Los , M. , M. Van de Craen , L. C. Penning , H. Schenk , M. Westendorp , P. A. Baeuerle , W. Drige , P. H. Krammer , W. Fiers , and K. Schultze-Osthoff .
+1995 .
+Requirement of an ICE/CED-3 protease for Fas/Apo-1-mediated apoptosis .
+Nature 375:81-83. .
+Marchini , A. , B. Tomkinson , J. I. Cohen , and E. Kieff .
+1991 .
+BHRF1 , the Epstein-Barr virus gene with homology to Bel2 , is dispensable for B-lym-phocyte transformation and virus replication .
+J. Virol .
+65:5991-6000 .
+Miller , G. 1990 .
+Epstein-Barr virus : biology , pathogenesis , and medical as-pects , p. 1921-1958 .
+In B. N. Fields et al .
+( ed . )
+, Fields virology , 2nd ed .
+Raven , New York , N.Y. Miura , M. , H. Zhu , R. Rotello , E. A. Hartwieg , and J. Yuan .
+1993 .
+Induction of apoptosis in fibroblasts by IL-1B-converting enzyme , a mammalian homolog of the C. elegans cell death gene ced-3 .
+Cell 75:653-660 .
+Mosmann , T. 1983 .
+Rapid colorimetric assay for cellular growth and survival : application to proliferation and cytotoxicity assays .
+J. Immunol .
+Methods 65:55-63 .
+Muzio , M. , A. M. Chinnaiyan , F. C. Kischkel , K. O'Rourke , A. Shevchenko , J. Ni , C. Scaffidi , J. D. Bretz , M. Zhang , R. Gentz , M. Mann , P. H. Krammer , M. E. Peter , and V. M. Dixit .
+1996 .
+FLICE , a novel FADD-homologous ICE/CED-3-like protease , is recruited to CD95 ( Fas/APO-1 ) death-inducing signaling complex .
+Cell 85:817-827 .
+Nagata , S. 1997 .
+Apoptosis by death factor .
+Cell 88:355-365 .
+1456 .
+Neale , M. L. , A. Fiera , and N. Matthews .
+1988 .
+Involvement of phospholipase A ; activation in tumour cell killing by tumour necrosis factor .
+Immunology 64:81-85 .
+Nicholson , D. W. 1996 .
+ICE/CED3-like proteases as therapeutic targets for the control of inappropriate apoptosis .
+Nat .
+Biotechnol .
+14:297-301 .
+Oltvai , Z. N. , and S. J. Korsmeyer .
+1994 .
+Checkpoints of dueling dimers foil death wishes .
+Cell 79:189-192 .
+Pearson , G. R. , J. Luka , L. Petti , J .
+Sample , M. Birkenbach , D. Braun , and E. Kieff .
+1987 .
+Identification of an Epstein-Barr virus early gene encoding a second component of the restricted carly antigen complex .
+Virology 160 ; 151-161 .
+Saksela , K. , and D. Baltimore .
+1993 .
+Negative regulation of immunoglobulin kappa light-chain gene transcription by a short sequence homologous to the murine B1 repetitive element .
+Mol .
+Cell .
+Biol .
+13:3698-3705 .
+Schlegel , J. , I. Peters , S. Orrenius , D. K. Miller , N. A. Thornberry , T.-T. Yamin , and D. W. Nicholson .
+1996 .
+CPP32/Apopain is a key interleukin 1B converting enzyme-like protease involved in Fas-mediated apoptosis .
+J. Biol .
+Chem .
+271:1841-1844 .
+Shen , Y. , and T. E. Shenk .
+1995 .
+Viruses and apoptosis .
+Curr .
+Opin .
+Genet .
+Dev .
+§105-111 .
+Shresta , S. , D. M. Maclvor , J. W. Heusel , J. H. Russell , and T. J. Ley .
+1995 .
+Natural killer and lymphokine-activated killer cells require granzyme B for the rapid induction of apoptosis in susceptible target cells .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 92:5679-5683 .
+Smith , C. A. , T. Farrah , and R. G. Goodwin .
+1994 .
+The TNF receptor superfamily of cellular and viral proteins : activation , costimulation and death .
+Cell 76:959-962 .
+Strasser , A. , A. W. Harris , D. C. S. Huang , P. H. Krammer , and S. Cory .
+1995 .
+Bcl-2 and Fas/APO-1 regulate distinct pathways to lymphocyte apoptosis .
+EMBO J .
+14:6136-6147 .
+Strathdee , C. A. , H. Gavish , W. R. Shannon , and M. Buchwald .
+1992 .
+Cloning of cDNAs for Fanconi 's anaemia by functional complementation .
+Nature 356:763-767 .
+Suda , T. , and S. Nagata .
+1994 .
+Purification and characterization of the fas-ligand that induces apoptosis .
+J. Exp .
+Med .
+179:873-879 .
+Sugarman , B. J. , B .
+B. Aggarwal , P. E. Hass , I. S. Figari , M. A. J. Palladino , and H. M. Shepard .
+1985 .
+Recombinant tumor necrosis factor- « : effects on proliferation of normal and transformed cells in vitro .
+Science 230:943-945. .
+Tarodi , B. , T. Subramanian , and G. Chinnadurai .
+1994 .
+Epstein-Barr virus BHRFI protein protects against cell death induced by DNA-damaging agents and heterologous virus infection .
+Virology 201:404-407 .
+Tartaglia , L. A. , T. M. Ayers , G. H. W. Wong , and D. V. Goeddel .
+1993 .
+A novel domain within the 55 kd TNF receptor signals cell death .
+Cell 74:845-853 .
+Tartaglia , L. A. , R. F. Weber , I. S. Figari , C. Reynolds , M. A. Palladino , and D. V. Goeddel .
+1991 .
+The two different receptors for tumor necrosis factor voL .
+71 , 1997 48 .
+49 .
+50 .
+51 .
+52 .
+53. mediate distinct cellular responses .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 88:9292-9296 .
+Tewari , M. , and V. M. Dixit .
+1995 .
+Fas- and tumor necrosis factor-induced apoptosis is inhibited by poxvirus ern4 gene product .
+J. Biol .
+Chem .
+270 : 3255-3260 .
+Tewari , M. , L. T. Quan , K. O'Rourke , S. Desnoyers , Z. Zeng , D. R. Beidler , G. G. Poirier , G. S. Salvesen , and V. M. Dixit .
+1995 .
+Yama/CPP32 $ B , a mammalian homolog of CED-3 , is a crmA-inhibitable protease that cleaves the death substrate poly ( ADP-ribose ) polymerase .
+Cell 81:801-809 .
+Theodorakis , P. , C. D'Sa-Eipper , T. Subramanian , and G. Chinnadurai .
+1996 .
+Unmasking of a proliferation-restraining activity of the anti-apoptosis gene EBV BHRFL .
+Oncogene 12:1707-1713 .
+Thoma , B. , M. Grell , K. Pfizenmaier , and P. Scheurich .
+1990 .
+Identification of a 60-KD tumor necrosis factor ( TNF ) receptor as the major signal trans-ducing component in TNF responses .
+J. Exp .
+Med .
+172:1019-1023 .
+Thorne , T. E. , C. Voelkel-Johnson , W. M. Casey , L. W. Parks , and S. M. Laster .
+1996 .
+The activity of cytosolic phospholipase A ; is required for the lysis of adenovirus-infected cells by tumor necrosis factor .
+J. Virol .
+70:8502-8507 .
+Trapani , J .
+A. , K. A. Browne , M. J. Smyth , and D. A. Jans .
+1996 .
+Localization 54 .
+55 .
+56 .
+57 .
+58 .
+59 .
+BHRFI AND APOPTOSIS - 7517 of granzyme B in the nucleus ( a putative role in the mechanism of cytotoxic lymphocyte-mediated apoptosis ) .
+J. Biol .
+Chem .
+271:4127-4133 .
+Trauth , B. C. , C. Klas , A. M. J. Peters , S. Matzku , P. Moller , W. Falk , K.-M. Debatin , and P. H. Krammer .
+1989 .
+Monoclonal antibody-mediated tumor regression by induction of apoptosis .
+Science 245:301-305 .
+Wang , L. , M. Miura , L. Bergeron , H. Zhu , and J. Yuan .
+1994 .
+Ich-7 , an Ice/ced-3-related gene , encodes both positive and negative regulators of programmed cell death .
+Cell 78:739-750 .
+White , E. 1993 .
+Regulation of apoptosis by the transforming genes of the DNA tumor virus adenovirus .
+Proc .
+Soc .
+Exp .
+Biol .
+Med .
+204:30-39 .
+White , E. 1996 .
+Life , death , and the pursuit of apoptosis .
+Genes Dev .
+10:1-15 .
+Wissing , D. , H. Mouritzen , M. Egeblad , G. G. Poirier , and M. 1997 .
+Involvement of caspase-dependent activation of cytosolic phospholipase A2 in tumor necrosis factor-induced apoptosis .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 94:5073-5077 .
+Yuan , J. , S. Shaham , S. Ledoux , H. M. Ellis , and H. R. Horvitz .
+1993 .
+The C. elegans cell death gene ced-3 encodes a protein similar to mammalian interleukin-18-converting enzyme .
+Cell 75:641-652 .

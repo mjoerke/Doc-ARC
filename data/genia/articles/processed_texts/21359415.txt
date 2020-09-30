@@ -1,0 +1,620 @@
+THE JOURNAL oF BIOLOGICAL CHEMISTRY © 2001 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+276 , No .
+30 , Issue of July 27 , pp .
+27806-27815 , 2001 Printed in U.S.A .
+Identification of Phosphorylation Sites for Bruton 's Tyrosine Kinase within the Transcriptional Regulator BAP/TFII-I* Received for publication , April 25 , 2001 Published , JBC Papers in Press , May 28 , 2001 , DOI 10.1074/jbe.M103692200 Ann Marie Egloff and Stephen Desideriof From the Department of Molecular Biology and Genetics and Howard Hughes Medical Institute , The Johns Hopkins University School of Medicine , Baltimore , Maryland 21205 Bruton 's tyrosine kinase ( Btk ) , a member of the Tec family of cytosolic kinases , is essential for B cell development and function .
+BAP/TFII-I , a protein implicated in transcriptional regulation , is associated with Btk in B cells and is transiently phosphorylated on tyrosine following B cell receptor engagement .
+BAP/TFII-I is a substrate for Btk in vitro and is hyperphosphorylated on tyrosine upon coexpression with Btk in mammalian cells .
+In an effort to understand the physiologic consequences of BAP/TFII-I tyrosine phosphorylation following B cell receptor stimulation , site-directed mutagenesis and phosphopeptide mapping were used to locate the predominant sites of BAP/ TFII-I phosphorylation by Btk in vitro .
+These residues , Tyr `` , Tyr® `` `` , and Tyr** `` , were also found to be the major sites for Btk-dependent phosphorylation of BAP/TFII-I in vivo .
+Residues Tyr®* `` and Tyr are contained within the loop regions of adjacent helix-loop-helix-like repeats within BAP/TFIl-L Mutation of either Tyr®* `` , Tyr® `` , or Tyr `` to phenylalanine reduced transcription from a c-fos promoter relative to wild-type BAP/TFII-I in transfected COS-7 cells , consistent with the interpretation that phosphorylation at these sites contributes to transcriptional activation .
+Phosphorylation of BAP/TFII-I by Btk may link engagement of receptors such as surface immunoglobulin to modulation of gene expression .
+Bruton 's tyrosine kinase ( Btk ) , which is expressed in B cells and cells of the myeloid lineage , was initially identified as the target of mutations responsible for X-linked agammaglobulinemia in humans ( 1 , 2 ) .
+Patients with X-linked agammaglobulinemia exhibit an intrinsic defect in B cell development ; peripheral B cells are rare and of an immature phenotype , but the number of pre-B cells in the bone marrow is not significantly reduced , consistent with impairment of the pre-B to B cell transition ( 3 ) .
+A point mutation in the orthologous tyrosine kinase is responsible for an X-linked deficiency of B cell function ( X-linked immunodeficiency , or xid ) in the mouse ( 4 , 5 ) .
+The mouse xid phenotype is distinct from X-linked agammaglobulinemia ( 6 ) .
+Antibody responses to some T cell-independent antigens are ab-sent , but responses to most T cell-dependent antigens are intact .
+* This work was supported by the Howard Hughes Medical Institute and NCI , National Institutes of Health Grant CA16519 .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 U.9.C .
+Section 1734 solely to indicate this fact .
+J To whom correspondence should be addressed : Dept .
+of Molecular Biology and Genetics , The Johns Hopkins University School of Medicine , 725 N. Wolfe St. , Baltimore , MD 21205 .
+Tel .
+: 410-955-4785 ; Fax : 410-955-9124 .
+*The abbreviations used are : Btk , Bruton 's tyrosine kinase ; SH1 , SH2 , and SH3 , Sre homology 1 , 2 , and 8 , respectively ; HLH , helix-loop-helix ; MBP , maltose-binding protein ; DMEM , Dulbecco 's modified Eagle 's medium ; PVDF , polyvinylidene difluoride ; TK , thymidine kinase .
+27806 Peripheral B cells are slightly reduced and skewed toward an immature phenotype .
+Survival of peripheral B cells is dimin-ished , and the peritoneal B-1 B cell population is absent .
+Notably , xid mice do not exhibit the block in early B cell development observed in patients with X-linked agammaglobulinemia .
+Btk null mice exhibit a phenotype resembling xid , suggesting that B cell development has a more stringent requirement for Btk in humans than in mice ( 7-10 ) .
+Btk belongs to the Tec family of cytosolic protein-tyrosine kinases , which includes Btk , Itk , Tec , and Bmx .
+This group of kinases is related to the Src family by the presence of SH3 , SH2 , and SHI ( catalytic ) domains .
+It is distinguished from the Sre family by 1 ) the presence of pleckstrin homology and Tec homology domains , which serve as binding sites for phospho-lipids and SH3 domains , respectively ; 2 ) the absence of an N-terminal myristoylation site ; and 3 ) the lack of a regulatory tyrosine residue near the carboxyl terminus ( 11-14 ) .
+An atypical member of the Tec family , Rlk/I'xk , lacks a pleckstrin homology domain but has 54-62 % amino acid identity to Btk in the remainder of its sequence ( 15 , 16 ) .
+Btk has been implicated as important in signaling from the B cell receptor for antigen , the interleukin-5 and -6 receptors , and CD38 on B cells ( 17-19 ) ; the FeeRI receptor on mast cells ( 20 ) ; the FeyRI on macrophages ; and the thrombin receptor on platelets ( 21 ) .
+Upon engagement of the B cell receptor , Btk is phosphorylated by the tyrosine kinase Lyn at residue Tyr® `` ' .
+This permits Btk to undergo autophosphorylation at residue Tyr® `` `` , after which kinase activity is increased ( 22 ) .
+The activity of Btk can also be modulated by association with G , « proteins ( 23 ) , GBy proteins ( 24 ) , or phosphatidylinositol phosphates ( 25 ) .
+A fraction of Btk coimmunoprecipitates with a protein of ~135 kDa termed BAP ( for Btk-associated Brotein ) ; based on this association , BAP was purified , and its cDNA was molecu-larly cloned ( 26 ) .
+BAP is identical to the putative transcription factor TFII-I ( 27 ) , which was identified by its ability to stimulate transcription from initiator elements ( 27 ) and its synergy with Phox I and serum response factor in enhancing transcription from the c-fos promoter ( 28 ) .
+A distinctive feature of BAP/TFII-I is the occurrence of six helix-loop-helix ( HLH ) -like repeats .
+In contrast to typical HLH motifs , however , which contain loop regions of between 6 and 20 amino acids ( 29 ) , the HLH-like repeats of BAP/TFII-I contain extended loop regions of ~70 amino acids ( 27 ) .
+Four isoforms of BAP/TFII-I , generated by alternative splicing of primary RNA transcripts , are differentially expressed in various tissues .
+Amino acid sequence differences among these four isoforms are confined to the interval between the first and second HLH-like domains ( 80 ) .
+Two sequence motifs resem- ° H. Taylor , and S. Desiderio , unpublished results .
+This paper is available on line at http : //www.jbc.org 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Btk Phosphorylation Sites in BAP/TFILI-I bling the Sre kinase autophosphorylation consensus sequence ( EDXDY ) are present within this interval and are preserved in all four BAP/TFII-I isoforms .
+BAP/TFII-I is transiently phosphorylated on tyrosine following B cell receptor engagement , with kinetics that closely follow tyrosine phosphorylation of Btk ( 26 ) .
+Increased tyrosine phosphorylation of BAP/TFII-I is also observed upon cotransfection with Btk into fibroblastoid cells .
+This response is dependent upon Btk kinase activity , since cotransfection with the kinase-inactive mutant Btk ( K430E ) fails to enhance tyrosine phosphorylation of BAP/TFII-I ( 26 ) .
+These observations and the physical association of Btk with BAP/TFII-I in B lymphoid cells ( 26 ) suggested that BAP/TFII-I is a physiologic substrate for phosphorylation by Btk following B cell receptor stimulation .
+Several lines of evidence suggest that phosphorylation modulates the ability of BAP/TFII-I to stimulate transcription .
+First , dephosphorylation impairs the ability of BAP/TFII-I to stimulate transcription from a VB promoter in vitro , while sparing its ability to bind the VB initiator element ( 81 ) .
+Second , stimulation of VB transcription by BAP/TFII-I in transfected cells is enhanced by wild-type Btk but not by a kinase-inactive mutant ( 32 ) .
+Third , the transcriptional activity of BAP/TFII-I in transfected cells is impaired by mutation of a site conforming to the Sre autophosphorylation consensus ( 31 ) .
+Fourth , epidermal growth factor , which enhances c-fos promoter activity , induces tyrosine phosphorylation of BAP/TFII-I ( 83 ) .
+While these observations are consistent with the interpretation that Btk activates BAP/TFII-I by tyrosine phosphorylation , definitive evidence is lacking .
+As an essential step in defining a regulatory relationship between Btk and BAP/TFII-I , we have mapped the major Btk phosphorylation sites in BAP/TFII-I .
+Bacterially expressed , purified Btk phosphorylates BAP/TFII-I at three predominant sites : Tyr®** , Tyr® `` `` , and Tyr*© `` .
+The first site lies in the inter-repeat region between the first and second HLH-like domains ; the two other sites are at analogous positions in putative loop regions of the second and third HLH-like domains .
+When Btk is coexpressed with BAP/TFII-I in mammalian cells , BAP/TFII-I is specifically hyperphosphorylated at the same three sites .
+Btk-specific hyperphosphorylation of a BAP/TFII-I fragment in vivo was eliminated by mutation of these sites to phenylalanine .
+The ability of BAP/TFII-I to stimulate expression of a c-fos reporter , in COS-7 cells was impaired by mutation of Tyr `` , Tyr® `` `` , or Tyr*® to phenylalanine , consistent with the interpretation that phosphorylation of these sites plays a role in transcriptional activation .
+Phosphorylation of BAP/TFII-I by Btk , and perhaps other Tec-related kinases , may link engagement of receptors such as surface immunoglobulin to modulation of gene expression .
+MATERIALS AND METHODS Plasmids and Cell Lines-Plasmid pBAPmyc , encoding the shortest isoform of BAP/TFII-I ( BAP/TFII-I A ) , fused at the carboxyl terminus to a Pro-Gily linker and the c-Myc epitope EQKLISEEDL , was constructed from a BAP cDNA clone ( 26 ) by polymerase chain reaction .
+The plasmid pBAPmyc ( BN ) was generated from pBAPmyc by introduction of Sail , Xbal , and in-frame BamHI sites 5 ' of the BAP/TFII-I coding sequence .
+The following BAP/TFII-I carboxy- and amino-truncations were constructed from pBAPmyc ( BN ) using polymerase chain reaction : pBAP-N-1R ( residues 1-189 ) , pBAP-N-NR2 ( residues 1-303 ) , pBAP-N-2R ( residues 1-898 ) , pBAP-N-8R ( residues 1-508 ) , pBAP-4R-CT ( residues 514-957 ) , and pBAP-5R-CT ( residues 675-957 ) .
+All constructs share an identical initiation sequence ( 34 ) and a carboxyl-terminal c-Myc epitope .
+Tyrosine to phenylalanine point mutations were introduced using divergent polymerase chain reaction ( 85 ) .
+The identities of mutant constructs were verified by nucleotide sequence analysis .
+For expression of c-Myc-tagged BAP/TFII-I and BAP truncation proteins in Escherichia coli under inducible control of the araBAD promoter , the BamHI/EcoRV fragments of pBAPmyc ( BN ) and its derivatives , encoding full-length BAP/TFII-I or BAP/TFII-I truncation pro 27807 teins , were inserted between the Bg/II and Poul !
+sites of pBADHisB ( Invitrogen ) .
+For eukaryotic expression studies , the SaZl/NofI fragments of pBAPmyc ( BN ) and its derivatives , encoding full-length or truncated BAP/TFII-I proteins , were inserted between the XhoI and NotI sites of pCIS2 ( 86 ) .
+Btk pCIS2 and Btk mutant K4830EK pCIS2 have been described ( 87 ) .
+Plasmids for bacterial expression of Btk ( pMal-C2Btk ) or Btk ( KA80E ) ( pMal-C2Bke ) , fused at the amino terminus to maltose-binding protein ( MBP ) , were constructed by inserting the 2-kilobase pair BamHI fragments of pCIS2Btk and pCIS2Btk ( K430E ) into the BamHI site of pMal-C2 ( New England Biolabs ) .
+A reporter construct containing the murine c-fos wild-type promoter ( 33 ) was a kind gift of D. Kim and B. Cochran .
+The HindlI fragment containing the c-fos promoter was cloned into the HindII site upstream of the firefly luciferase gene within the Promega PGL3 basic vector , and orientation was confirmed by sequence analysis .
+The herpes simplex thymidine kinase Renilla vector ( pRL-TK ) was purchased from Promega .
+The human embryonic kidney fibroblast cell line 298 and the simian fibroblast cell line COS-7 were maintained in Dulbecco 's modified Eagle 's medium ( DMEM ) supplemented with 10 % fetal bovine serum , 50 ug/ml streptomycin , and 50 units/ml penicillin .
+Purification of Recombinant Btk and Btk ( K430E ) -E. coli BL21 , transformed with either pMal-C2Btk or pMal-C2Bke , was cultured overnight at 37° C in 50 ml of rich medium containing 2 g/liter glucose and 50 ug/ml carbenicillin .
+The overnight cultures were diluted 1:20 in the same medium and grown at 37 °C until Ag , , was 0.5 .
+Expression was then induced by the addition of isopropyl-l-thio-B-D-galac-topyranoside to 0.3 mM , and incubation was continued for 3 h at 37 °C .
+Cells were collected by centrifugation and resuspended in 25 ml of buffer F ( 50 mm HEPES ( pH 7.5 ) , 10 mm MgCl , , 20 ug/ml aprotinin , 20 pg/ml leupeptin , 2 ug/ml chymostatin , 2 ug/ml pepstatin , and 2 pg/ml antipain ) per 500-ml culture .
+Lysozyme and phenylmethylsulfonyl fluoride were added to 1 mg/ml and 1 mM , respectively .
+After incubation for 30 min on ice , bacterial suspensions were frozen in liquid nitrogen and stored at -80 °C .
+MBP-Btk and MBP-Btk ( K430E ) fusion proteins were purified by amylose affinity chromatography ( New England Biolabs ) .
+Frozen bacterial suspensions were thawed in a 30°C water bath with gentle agitation and then placed on ice .
+Ice-cold EDTA was added for a final concentration of 2 mM , and EGTA was added for a final concentration of 10 mM .
+After mixing by inversion , the lysate was sonicated for three cycles of 10 pulses each with a Branson microtip sonifier ( power output 5 , duty cycle 50 % ) .
+An equal volume ( 25 ml ) of lysate dilution buffer ( 800 mM NaCl , 100 my Tris-HCl ( pH 7.4 ) , 10 mM EGTA , 2 mM EDTA , 0.2 mM dithiothreitol , 2 % Nonidet P-40 , 20 ug/ml aprotinin , 20 ug/ml leupeptin , 2 ug/ml chymostatin , 2 ug/ml pepstatin , and 2 ug/ml antipain ) was added to 25 ml of bacterial suspension .
+Suspensions were mixed by inversion , incubated on ice for 20 min , and then clarified by centrifugation at 30,000 x g for 20 min at 4 °C .
+The supernatant was loaded twice over a 2-ml amylose resin , pre-equilibrated with wash buffer 1 ( 150 mm NaCl , 50 mm Tris-HCl ( pH 7.4 ) , 10 mM EGTA , 2 mm EDTA , 0.1 mM dithiothreitol , 1 % Nonidet P-40 , 20 pg/ml aprotinin , 20 pg/ml leupeptin , 2 ug/ml chymostatin , 2 ug/ml pepstatin , and 2 ug/ml antipain ) .
+The column was washed sequentially with 10 ml of wash buffer 1 , 10 ml of wash buffer 1 supplemented to 1 M NaCl , and 10 ml of wash buffer 2 ( 100 mm NaCl , 50 mm Tris-HCl ( pH 7.4 ) , 0.1 mM dithiothreitol , 10 % glycerol ) .
+Bound protein was eluted with 3 ml of elution buffer ( 100 mM NaCl , 50 mm Tris-HCl ( pH 7.4 ) , 10 mM maltose , 0.1 mM dithiothreitol , and 10 % glycerol ) .
+Eluates were dialyzed against elution buffer lacking maltose , frozen in liquid nitrogen , and stored at -80 °C .
+Expression and Purification of Polyhistidine-tagged BAP/TFIL-I Fragments-Wild-type and mutant BAP/TFII-I fragments , tagged at the amino terminus with polyhistidine , were expressed from the BAP pBAD HIS constructs in E. coli ( TOP10 ; Invitrogen ) .
+Bacterial cultures were grown overnight at 37 °C in 2 % YT containing 50 ug/ml carbeni-cillin , diluted 1:10 in the same medium , and incubated for 1 h at 37 °C .
+Expression was induced by the addition of arabinose to 0.002 % ( w/v ) and further incubation for 4 h at 87 °C .
+Cells were collected by centrifugation and resuspended in buffer F ( 25 ml per 500-ml culture ) .
+After the addition of lysozyme to 1 mg/ml and phenyImethylsulfonyl fluoride to 1 mM , bacterial suspensions were incubated on ice for 30 min , frozen in liquid nitrogen , and stored at -80 °C .
+Bacterial suspensions were thawed with gentle agitation in a 30 °C water bath and placed on ice immediately upon thawing .
+Samples were sonicated for three cycles of 10 pulses each with a Branson microtip sonifier ( power output 5 , duty cycle 50 % ) .
+One volume of 2 % imidazole wash buffer ( 500 mM NaCl , 100 mm Tris-HCl ( pH 7.4 ) and 40 mM 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 27808 imidazole ) containing 0.4 % Tween 20 was added , and samples were incubated on ice for 20 min .
+Lysis was completed by sonication for two cycles of 10 pulses each ( output 5 , duty cycle 50 % ) .
+Lysates were clarified by centrifugation at 80,000 X g for 30 min at 4 °C , diluted 2-fold with imidazole wash buffer ( 250 mM NaCl , 50 my Tris-HCl ( pH 74 ) , 20 mM imidazole ) and loaded twice onto Ni**-nitrilotriacetic acid ( Invitrogen ) .
+Columns were washed with 50 bed volumes of imidazole wash buffer , followed by 2 volumes of imidazole pre-elution buffer ( 250 mM NaCl , 50 mM Tris-HCl ( pH 7.4 ) , 25 mM imidazole , 15 % glycerol ) .
+Samples were eluted with 1 bed volume of imidazole elution buffer ( 300 mM NaCl , 250 mM imidazole , 50 mM Tris-HCl ( pH 7.4 ) , and 10 % glycerol ) ; dialyzed against a buffer containing 50 mM NaCl , 50 mM Tris-HCl ( pH 7.4 ) , 1 mM phenylmethylsulfonyl fluoride , 0.1 mM dithiothreitol , and 10 % glycerol ; frozen in liquid nitrogen ; and stored at -80 °C .
+In Vitro Phosphorylation-Purified BAP/TFII-I substrate was combined with 20 ul of 2X kinase buffer ( 40 mM Tris-HCl ( pH 7.2 ) , 4 mM MnCl , , 2 mM Na , MoO , ) , 6 pl of distilled H , O , and 10 uCi of [ y- `` `` P ] ATP ( 6000 Ci/mmol ; PerkinElmer Life Sciences ) .
+Purified MBP-Btk or MBP-Btk ( KA30E ) ( 2 ug in 5 pl ) was added to a total volume of 40 pl , and samples were incubated at 37 °C for 30 min .
+Reactions were terminated by the addition of SDS-polyacrylamide gel loading buffer .
+Products were fractionated by gel electrophoresis and transferred to PVDF ( Millipore Corp. ) for tryptic phosphopeptide mapping .
+Metabolic Labeling-Transient transfections were performed by the calcium phosphate method ( 88 ) .
+293 cells were transiently transfected with 5 ug of wild-type or mutant BAP/TFII-I expression constructs in pCIS2 , 5 ug of pCIS2Btk or pCIS2Btk ( K430E ) , and 1 ug of pRSVT .
+At 40 h after transfection , cells were labeled for 4 h at 87°C with 250 pCi/ml [ *Plorthophosphate in phosphate-free DMEM supplemented with 10 % dialyzed fetal bovine serum , 50 ug/ml streptomycin , and 50 units/ml penicillin .
+Cells were treated for 10 min at 37 °C with 1 mM sodium pervanadate , washed once with 5 ml of cold PBS containing 1 mM Na , VO , and 1 mM EDTA , collected by centrifugation , frozen on dry ice , and stored at -80 °C .
+Immunoprecipitation of Epitope-tagged BAP/TFII-I-Cells were lysed in radioimmune precipitation buffer ( 150 mM NaCl , 50 mM Tris-HCl ( pH 8.0 ) , 1 mM Na , VO , , 1 mM Na , MoO0 , , 1 mM phenylmethylsulfonyl fluoride , 1 % Nonidet P-40 , 1 % sodium deoxycholate , 0.5 % SDS , 10 ug/ml aprotinin , 10 ug/ml leupeptin , 2.5 ug/ml pepstatin , 2.5 ug/ml antipain , and 1 ug/ml chymostatin ) for 30 min on ice .
+Lysates were clarified by centrifugation at 15,000 % g for 30 min at 4 °C .
+Epitope-tagged BAP/TFII-I was immunoprecipitated by incubation with anti-c-Myc monoclonal antibody 9E10 for 1 h on ice .
+Following the addition of 25 ul of protein A/G-Sepharose beads ( Santa Cruz Biotechnology , Inc. , Santa Cruz , CA ) , suspensions were rocked for 1 h at 4 °C .
+Beads were washed three times for 10 min each in radicimmune precipitation buffer ; immunoprecipitated proteins were solubilized in SDS-loading buffer and resolved by polyacrylamide gel electrophoresis .
+Protein was transferred to PVDF ( Millipore ) for tryptic phosphopeptide mapping .
+Analysis of Tryptic Phosphopeptides-Tryptic phosphopeptides were prepared according to methods previously described ( 89 ) and analyzed by alkaline gel electrophoresis ( 40 ) .
+Briefly , PVDF membrane slices containing phosphoproteins were excised , washed with water , and then soaked in 0.5 % polyvinylpyrolidone ( Sigma ) for 30 min at 37 °C .
+Membranes were then washed five times with water and once with freshly prepared 0.05 1 NH , HCO , .
+Immobilized proteins were digested with 1 ml of 0.3 mg/ml trypsin ( L-l-tosylamido-2-phenylethyl chloromethyl ketone-treated , Sigma ) in 0.05 1 NH , HCO , overnight at 87 °C .
+Super-natants were dried under vacuum and washed three times in water .
+Dried pellets were dissolved in 10 ul of sample buffer ( 0.125 M Tris-HCl ( pH 6.8 ) , 6 M urea ) and fractionated on a 40 % alkaline gel as described ( 40 ) .
+Phosphopeptides were detected by a PhosphorImager ( Molecular Dynamics , Inc. , Sunnyvale , CA ) .
+Analysis of c-Fos Transcriptional Activity-The ability of BAP/TFII-I to stimulate transcription from the c-fos promoter was assessed as previously described ( 83 ) with modifications .
+COS-7 cells , grown to 80-90 % confluence , were trypsinized , resuspended in DMEM containing 10 % FBS and 0.1 mM nonessential amino acids ( NEAA ) , and seeded in 24-well plates at 6 X 10° cells/well .
+Cells were transfected 16-20 h later using LipofectAMINE 2000 ( Life Technologies , Inc. ) .
+Each well was transfected with 0.1 ug of c-fos in PGL3 , 0.1 ug of pRL-TK , and 0.6 ug of either pCIS2 or wild-type or mutant BAPmyc in pCIS2 .
+For each well , 1 pl of LipofectAMINE 2000 was diluted in 50 ul of OPTI-MEM ( Life Technologies ) , incubated for 5 min at room temperature , and then combined with DNA diluted in 50 pl of OPTI-MEM .
+Complexes were allowed to form for 30 min at room temperature and then added to each well , which contained 250 ml of fresh DMEM containing 0.1 mM NEAA .
+Btk Phosphorylation Sites in BAP/TFILI-I A LI ILI M lil Ul .
+I1 l BAP _ |NRi iR NR2 2R sr ar __ 5r _ eR | [ AGpSETpovorkaptekpLa ) - [ Petanvpserseppevevne ] I H Louie o oo mano 5 Bi a+ £s ses ___ ss ?
+BAP NR11R NR2 2R 3R 4R 5R _ 6R 19 68 503 606 ro 902 ~ FL k N-3R ¥ N-2R 1 N-NR2 | N1R | 4R-CT 5R_CT 57s fiﬁ- ‘ L ar 1 Fic .
+1 .
+Organization of BAP/TFII-I and truncation mutants used in this study .
+A , large rectangle , BAP/TFII-I ; shaded boxes , HLH-like domains 1R through 6R .
+The first ( NRL ) and second ( NRZ ) nonrepeat regions are labeled .
+Tyrosine residues in the context of the Sre autophosphorylation consensus sequence EDXDY are indicated by filled arrows .
+The remaining tyrosine residues are indicated by open arrows .
+Amino acid residues encoded by alternative exons are indicated in the rectangles labeled I and II .
+B , BAP/TFII-I truncation mutants .
+Large rectangle , BAP/TFII-I A. HLH-like domains and nonrepeat regions are indicated as in A. Amino acid residues at the ends of HLH-like domains and at the termini are numbered .
+Heavy lines , BAP/TFII-I A sequences retained in epitope-tagged fusion constructs .
+Numbers correspond to amino acid residues of BAP/TFII-I A .
+The c-Myc epitope is indicated by a small rectangle .
+Mutant proteins are designated at the left .
+FL , full-length .
+After 5 h at 37°C , medium was replaced with DMEM supplemented with 0.5 % FBS , 50 ug/ml streptomycin , and 50 units/ml penicillin .
+At 36-40 h after transfection , cells were stimulated with 10 % FBS for 5 h. Cells were then lysed in 100 ml of passive lysis buffer and assayed for firefly and Renilla luciferase activity using the Promega dual luciferase kit , and c-fos reporter activity was assessed as the ratio of firefly to Renilla activities .
+The effects of Btk and BAP/TFII-I on the activity of the c-fos promoter were assessed as above , except that transfections contained 0.4 ug of pCIS2 vector or pCIS2-BAP/TFII-I and 0.3 ug of pCIS2Btk or pCIS2Btk ( KA30E ) .
+RESULTS Expression and Purification of BAP/ TFII-I and BAP/ TFII-I Fragments-The overall strategy used in these phosphorylation site mapping studies was 1 ) to determine which portions of BAP/TFII-I are phosphorylated by Btk in vitro ; 2 ) to define the specific tyrosine residues phosphorylated by Btk in vitro by a combination of phosphopeptide mapping and site-directed mu-tagenesis ; and 3 ) to verify that the same tyrosine residues are hyperphosphorylated in vivo upon coexpression of BAP/TFII-I with active Btk .
+The shortest BAP/TFII-I isoform , BAP/TFII-I A , contains all 24 tyrosine residues present in the larger isoforms ( Fig .
+14 ) . ``
+This isoform and its derivative polypeptide fragments were therefore used for in vitro phosphorylation site mapping .
+The following BAP/TFII-I protein fragments , fused at the amino terminus to polyhistidine and the carboxyl terminus to a c-Myc epitope , were expressed in bacterial cells and purified by Ni** nitrilotriacetic acid affinity chromatography ( Fig .
+1B ) ; BAP 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Btk Phosphorylation Sites in BAP/TFILI-I 27809 A B MBP Bik MBP Bke MBP Bik MBP Bke [ MBP atk Bke Prom !
+< €-MBP Btk MBP Btk -g. N-2R -g | i * 1 2 3 4 5 6 7 8 9 10 11 12 1 2 3 4 5 6 7 32p silver stain C Mn : Mg 100:1 Mn 10007 MBP Btk __|__ MBP Bke MBP Btk _|_ MBP Bke -B- Bik Mn : Mg 100:1 | -e- Bke Mn : Mg 100:1 [ { Me2 : ] mm [ io ] s |2 ] + [ .2 ] i0 [ s [ 2 ] i ] 2 ] i0|s [ 2 ] 1|2 ] i0|5 ] 2 ] 1 -m- Bik Mn MBP Bik -q » =® ® # w # ® 3 8 a00 |M [ out a ams < = amas am aus ~ As ds s as < > an ats d it ( + r 200 N- 22 -s » | With wo w t wa e t=o -- -o -- -- - 6 B d 6 i $ O [ Me 2+ ] mM 1 2 3 4 5 6 7 8 9 10 111213141516 17 18 19 Fic .
+2 .
+Phosphorylation of a BAP/TFII-I-derived protein fragment in vitro by bacterially expressed MBP-Btk .
+A , autophosphoryla- tion of recombinant MBP-Btk in vitro .
+Btk , fused at the amino terminus to maltose-binding protein ( MBP-Btk ) , was expressed in E. colt and purified by amylose affinity chromatography .
+A similar fusion containing catalytically inactive Btk ( K430E ) ( MBP-Btk ( KA80E ) ) was expressed and purified in parallel .
+Fusion proteins were assayed for autokinase activity in vitro .
+2 ul ( Zanes 1 and 4 ) , 5 ul ( lanes 2 and 5 ) , or 10 ul ( lanes 3 and 6 ) of MBP-Btk ( lanes 1-3 ) or MBP-Btk ( KA4830E ) ( Zanes 4-6 ) were incubated with 10 uCi of [ y- `` `` P ] JATP for 80 min at 37 °C in a buffer containing 20 mM Tris-HCl ( pH 7.2 ) , 2 mM MgCl , , and 10 mM MnCl , .
+Products were fractionated by SDS-PAGE and detected by PhosphorImager ( /eft pane ? )
+or silver stain ( right panel ) .
+The arrows indicate the position of MBP-Btk and MBP-Btk ( K4830E ) .
+The product of a contaminating bacterial protein kinase is marked by an asterisk .
+B , phosphorylation of the BAP/TFII-I N-2R fragment by Btk in vitro .
+MBP-Btk ( 10 ul , lanes 1-3 ) , MBP-Bke ( 10 ul , lanes 5-7 ) , or kinase dialysis buffer ( 10 ul , lane 4 ) was combined with 10 ul ( Zanes 1 , 4 , and 5 ) or 2 ul ( lanes 2 and 6 ) BAP/TFII-I N-2R .
+BAP/TFII-I N-2R was omitted from reactions analyzed in lanes 3 and 7 .
+Reaction conditions were identical to those in A .
+Following fractionation by SDS-PAGE , protein was transferred to PVDF and treated with 1 N KOH for 2 h at 55 °C .
+Radiolabeled protein was detected by PhosphorImager .
+The positions of MBP-Btk and BAP/TFII-I N-2R are indicated by arrows .
+A contaminating phosphoprotein is indicated by an asterisk .
+C , metal dependence of MBP-Btk activity .
+MBP-Btk ( 10 ul , lanes 1-5 and 17-15 ) or MBP-Bke ( 10 pl , lanes 6-10 and 16-19 ) was incubated with 4 ul of BAP N-2R in 20 mM Tris-HCl ( pH 7.2 ) , 1 mM Na , MoO , , 10 uCi of [ y-*°P ] JATP , and the indicated concentrations of 100:1 manganese/magnesium ( lanes 1-10 ) or manganese alone ( lanes 11-19 ) .
+Protein was fractionated by SDS-PAGE , transferred to PVDF , and stained with Ponceau S. Radiolabeled protein was detected by PhosphorImager panel ) .
+The amount of radiolabel incorporated into BAP/TFII-I N-2R , as quantitated by scintillation counting , is plotted as a function of [ Me** ] ( right panel ) .
+N-3R ( residues 1-503 ) , BAP N-2R ( residues 1-398 ) , BAP N-NR2 ( residues 1-303 ) , BAP N-1R ( residues 1-189 ) , BAP 4R-CT ( residues 514-957 ) , and BAP 5R-CT ( residues 675-957 ) .
+Wild-type BAP/TFII-I , tagged with polyhistidine and a c-Myc epitope , was expressed and purified in parallel .
+Expression and Purification of Btk-To define the sites at which Btk phosphorylates BAP/TFII-I in vitro , it was essential to obtain active Btk in a form free of contaminating tyrosine kinases .
+Btk immunoprecipitated from mammalian cells was unsatisfactory for this purpose , since pilot experiments with a kinase-inactive mutant Btk revealed the presence of additional tyrosine kinase activities in such preparations .
+Recovery of catalytically active Btk , expressed in E. coli , has been demonstrated ( 23 ) .
+We therefore employed recombinant Btk , obtained from bacterial cells , since prokaryotes are devoid of tyrosine kinases .
+Btk , fused at the amino terminus to MBP , was expressed in E. coli BL21 and purified by amylose affinity chromatography .
+Btk ( KA430E ) , a kinase-inactive mutant , was prepared in parallel for use as a control .
+Btk activity was initially assessed by autophosphorylation and by phosphorylation of the BAP truncation substrate BAP N-2R .
+Increasing amounts of the MBP-Btk and MBP-Btk ( K430E ) preparations were incubated with [ y-°°P ] ATP as described in Fig .
+2 .
+Following polyacrylamide gel electrophoresis , protein was detected by PhosphorImager ( Fig .
+2A , left ) and by silver staining ( Fig .
+2A , right ) .
+A prominent phosphorylated species was observed at the position of MBP Btk in reactions containing wild-type protein ( Fig .
+2A , lanes 1-3 and 7-9 ) ; in reactions containing similar amounts of the kinase-inactive mutant , the corresponding fusion protein was phosphorylated at levels at least 3.6-fold lower ( Fig .
+24 , lanes 4-6 and 10-12 ) .
+A prominent 75-kDa phosphorylated species was observed in all reactions .
+This protein is of bacterial origin , since it is also present in Ni nitrilotriacetic acid affinity preparations of BAP/TFII-I fragments ( Fig .
+2B , lane 4 ) .
+Phosphorylation of this protein and the trace phosphorylation of MBP-Btk ( K430E ) are likely carried out by a contaminating , bacterial serine/threonine kinase .
+To assess phosphorylation activity in frans , equivalent amounts of MBP-Btk and MBP-Btk ( K430E ) were incubated with decreasing amounts of the BAP N-2R fragment and [ y-°°P ] JATP .
+BAP N-2R was phosphorylated in reactions containing MBP-Btk ( Fig .
+2B , lanes 1 and 2 ) but not in reactions containing MBP-Btk ( KA430E ) ( Fig .
+2B , lanes 5 and 6 ) or in a reaction from which enzyme was omitted ( Fig .
+2B , lane 4 ) .
+Consistent with autokinase activity , a phosphorylated species corresponding in size to the input MBP fusion protein was present in reactions containing wild-type MBP-Btk ( Fig .
+2B , lanes 1-3 ) but not in reactions containing the kinase inactive mutant ( Fig .
+2B , lanes 5-7 ) .
+These results indicated that the MBP-Btk preparation obtained from bacterial cells possesses autokinase activity as well as activity toward a BAP/TFII-I fragment .
+Before proceeding to phosphorylation site mapping studies , 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 27810 the divalent cation dependence of MBP-Btk in vitro was opti-mized .
+Autophosphorylation and phosphorylation of the BAP N-2R fragment were assessed at various concentrations of Mg** or Mn** , alone or in combination ( Fig .
+2 , C ) .
+Reaction products were resolved by polyacrylamide gel electrophoresis , transferred to PVDF membrane , and visualized by Phospho-rlmager ( Fig .
+2C , leff panel ) .
+As observed above , MBP-Btk exhibited autokinase activity as well as activity against BAP N-2R ( Fig .
+2C , lanes 1-5 and 11-15 ) , while MBP-Btk ( KA430E ) exhibited neither activity ( Fig .
+2C , lanes 6-10 and 15-19 ) .
+Membrane slices containing BAP N-2R , visualized by staining with Ponceau S , were excised , and °°P was quantitated ( Fig .
+2C , right panel ) .
+MBP-Btk was most active in reactions containing 2 mx Mn** , and these conditions were used in all subsequent in vitro reactions .
+Localization of Btk Phosphorylation Sites within BAP !
+TFILI-I-Similar amounts of purified , epitope-tagged BAP/ TFII-I or BAP/TFII-I truncation mutants , as assessed by immunoblotting with an anti-Myc antibody ( Fig .
+3A ) , were incubated with MBP-Btk in the presence of [ 7-32P ] ATP .
+Kinase reactions were performed in triplicate .
+Full-length BAP/TFII-I was incubated with MBP-Btk ( KA30E ) as a control .
+Products were fractionated by gel electrophoresis , transferred to PVDF , and visualized by phosphorimaging ; a representative experiment is shown ( Fig .
+3B ) .
+The amount of radioactivity in each BAP/TFIL-I fragment was assessed ( Fig .
+3C ) .
+These experiments localized the major sites of phosphorylation by Btk in vitro to the region of BAP/TFII-I extending from the amino terminus through the third HLH-like repeat , although phosphorylation to a lesser extent in other regions could not be excluded ( Fig .
+3C ) .
+We proceeded to map the major sites of phosphorylation by Btk in vitro .
+One-dimensional tryptic phosphopeptide mapping by 40 % alkaline gel electrophoresis ( 40 ) confirmed that while Btk phosphorylation sites are distributed throughout BAP/TFII-I , the principal sites of phosphorylation in vitro are located within the interval extending from the amino terminus through the third HLH-like repeat ( Fig .
+44 , compare lanes 1 , 2 , and 5 with lanes 3 and 4 ) .
+Importantly , most phosphopeptides present in full-length BAP/TFII-I were also present in the BAP N-3R fragment ( Fig .
+44 , compare lanes 2 and 5 ) .
+Comparison of the phosphopeptide patterns obtained from BAP N-2R and BAP N-3R ( Fig .
+44 , lanes 1 and 2 ) revealed the presence of at least one Btk phosphorylation site between amino acid residues 398 and 503 ( 3R ) of BAP/TFII-I ( Fig .
+4A , filled arrows ) .
+The weak phosphorylation of BAP 4R-CT and BAP 5R-CT ( Fig .
+44 , lanes 3 and 4 ) and the presence of at least one phosphopeptide in full-length BAP/TFII-I that is not found in BAP N-3R ( Fig .
+44 , open arrow ) indicate that one or more minor Btk phosphorylation sites probably exist within the C-terminal portion of BAP .
+Further dissection of the amino portion of BAP ( Fig .
+4B ) revealed that , in addition to the 398-503 region ( 3R ) , the intervals spanning residues 304-398 ( 2R ) and 189-303 ( NR2 ) of BAP/TFII-I each contain at least one Btk phosphorylation site ( Fig .
+4B , compare lanes 1 , 2 , 4 , 6 , and 7 ) ; peptides corresponding to these three intervals are indicated ( Fig .
+4B , filled arrows ) .
+While one phosphopeptide fragment was recovered from a reaction containing BAP N-1R , this may not represent a specific phosphorylation site , since a comigrating species was present in all samples .
+Taken together , the data obtained from phosphopeptide mapping of truncation mutants indicated that the principal targets of phosphorylation by Btk lie in three discrete intervals of BAP/TFII-I , comprising the second nonrepeat region , the second HLH-like region , and the third HLH-like region ( Fig .
+4C ) .
+Fine Mapping of Major Btk Phosphorylation Sites in BAP !
+TFII-I by Site-directed Mutagenesis-Site-directed mutagene- Btk Phosphorylation Sites in BAP/TFILI-I A B Btk Bke A A ¢ & .2 .S ¢ & .8 , o & yoy C # ( 01636558 : ng * MBP-Btk - » Q ' .
+‘ cut # B us m -- > > , mm mme opp ons aas aum pf On Alli 1 _ 2 3 4 5 10 2 3 40 5006 a myc In vitro kinase 400 300 200 CPM 100 FL N-2R N-3R _ 4R-CT _ SR-CT FL Btk Bke Fic .
+3 .
+Btk preferentially phosphorylates sites within the ami-no-terminal 508 residues of BAP/TFII-I in vitro .
+A , quantitation of full-length and truncated BAP/TFII-I proteins .
+Full-length ( FL ; lane 1 ) and truncated ( N-2R , N-3R , 4R-CT , and 5R-CT ; lanes 2-5 ) BAP/TEFII-I proteins , fused to polyhistidine and a c-Myc epitope , were expressed in E. coli , purified by Ni°*-nitrilotriacetic acid chromatography , fractionated by SDS-PAGE , and detected by immunoblotting with an anti-Myc antibody .
+B , phosphorylation of BAP/TFII-I fragments by Btk in vitro .
+Equimolar amounts of full-length ( Zanes 1 and 6 ) or truncated ( Zanes 2-5 ) BAP/TFII-I proteins , as assessed in A , were incubated with 5 ul of MBP-Btk ( Zanes 1-5 ) or MBP-Btk ( K430E ) ( Zane 6 ) and 10 uCi [ y-* `` PJATP in a buffer containing 20 mM Tris-HCl ( pH 7.2 ) , 2 mM MnCl , , and 1 mM Na , Mo0 , .
+After 30 min at 37°C , products were fractionated by SDS-PAGE , transferred to PVDF , and detected by PhosphorImager .
+The positions of full-length , N-2R , and N-3R BAP/TFII-I are indicated by the open , filled and shaded arrowheads , respectively .
+A contaminating phosphoprotein is indicated by an asterisk .
+C , radiolabeled substrates were excised from PVDF membranes , and radioactivity ( Cerenkov ) was quantitated .
+The results of three independent experiments are plotted .
+Bik , reactions performed with MBP-Btk ; Bke , reactions performed with MBP-Btk ( KA80E ) .
+Full-length ( FL ) and truncated ( N-2R , N-3R , 4R-CT , and 5R-CT ) substrates are indicated .
+sis was used to identify the specific tyrosine residues targeted for phosphorylation by Btk in each of the three intervals identified in the previous experiments .
+There are four tyrosine residues , Tyr®* , Tyr®* , Tyr `` , and Tyr® `` `` , within the second nonrepeat region ( residues 190-303 ) of BAP/TFII-I .
+Simultaneous mutation of these tyrosine residues to phenylalanine in BAP N-2R and BAP N-3R ( BAP N-2R ( 4F ) and BAP N-3R ( 4F ) ) specifically eliminated phosphopeptides previously mapped to the second nonrepeat region ( Fig .
+4B , compare lanes 3 and 5 with lane 6 ) .
+Thus , at least one of these four tyrosine residues is a target for phosphorylation by Btk in vitro .
+Tryptic phosphopeptides derived from outside of the second nonrepeat region of BAP/TFII-I were unaffected by these point mutations .
+Phosphorylation of other sites within BAP/TFII-I by Btk is therefore independent of phosphorylation in the 190-303 interval .
+To determine which of the four tyrosines in the second nonrepeat region are phosphorylated by Btk in vitro , full-length , 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Btk Phosphorylation Sites in BAP/TFILI-I J > ue !
+MBP-Btk MBP-Btk & & A A ® `` a £ & .9 , G ¢ ¢ & & & & x & C £ o o_ s [ y § & C § 3R - > titis Altice .
+# aand < - SR ps e `` o - He a aes ey : * « comm n - » ates .
+-s -+ = tes 28 h « ume !
+mons : \ : : < Aek NRZ -o- ) ue | mame : | ... .
+sane |___ , « a-wod we- | < -3R - NR2 mi- wn : Jags .
+= , e 3R - » « tin .
+oms .
+1 2 3 4 5 1 2 3 4 50 6 7 C - BAP ( Nmr Nrz ar ar ar ( sr 6Rr ] Btk D Fig .
+4 .
+Phosphorylation of BAP/TFII-I within the second and third HLH-like domains and the second nonrepeat region by Btk in vitro .
+A , one-dimensional tryptic phosphopeptide analysis of full-length and truncated BAP/TFII-I , phosphorylated by Btk in vitro .
+Lanes 1-4 , truncation mutants N-2R , N-3R , 4R-CT , and 5R-CT , respectively .
+Lane 5 , full-length BAP/TFII-I .
+Phosphopeptides derived from the third HLH-like repeat are indicated by closed arrows .
+A minor phosphopeptide present in the full-length protein but not contained within the N-3R mutant is indicated by the open arrow .
+B , one-dimensional tryptic phosphopeptide analysis of wild-type and mutant BAP/ TFII-I , phosphorylated by Btk in vitro .
+Lane 1 , full-length , wild-type BAP/TFII-I ; lare 2 , BAP/TFII-I N-2R ; lane 3 , BAP/TFII-I N-2R ( 4F ) , which carries phenylalanine substitutions at Tyr `` , Tyr `` * `` , Tyr `` , and Tyr `` ; lane 4 , BAP/TFII-L N-8R ; lane 5 , BAP/TFII-L N-8R ( 4F ) , which carries phenylalanine substitutions at Tyr®* `` , Tyr `` , Tyr® `` `` , and Tyr `` `` `` ; lane 6 , BAP/TFIl-L N-NR2 ; lane 7 , BAP/TFII-I N-1R .
+Phosphopeptides derived from the second HLH-like domain ( 28 ) , the third HLH-like domain ( 3R ) , and the second nonrepeat region ( NRZ ) are indicated by closed arrows .
+wild-type BAP/TFII-I and BAP/TFII-I mutants were phosphorylated in vitro by MBP-Btk , and tryptic phosphopeptides were resolved by electrophoresis ( Fig .
+5A ) .
+In addition to a BAP/ TFII-I mutant carrying phenylalanine replacements at all four tyrosines in the second nonrepeat region ( BAP/TFII-I ( 4F ) ) , mutants carrying phenylalanine substitutions for tyrosines 248 ( Y248F ) , 277 ( Y277F ) , and 248 and 277 ( Y248F , Y277F ) were tested .
+The pattern of tryptic phosphopeptides obtained from BAP/TFII-I ( Y277F ) ( Fig .
+5A , lane 3 ) was identical to that of wild-type BAP/TFII-I ( Fig .
+54 , lane 1 ) .
+In contrast , at least one tryptic phosphopeptide present in the wild-type protein was eliminated by the Y248F mutation ( Fig .
+5A , lane 2 ; filled arrow ) .
+The appearance of a novel species , which probably represents a partial proteolytic fragment , is correlated with the Y248F mutation ( Zanes 2 , 4 , and 5 , open arrow ) .
+Mutation of additional tyrosines had no further effect on the pattern of tryptic phosphopeptides , since the profiles obtained for BAP/ TFII-I ( Y248F , Y277F ) and BAP/TFII-I ( 4F ) are identical to that of the Y248F mutant ( Fig .
+5A , lanes 4 and 5 ) .
+We conclude that Tyr `` ( Fig .
+5D ) is a site of phosphorylation by Btk in vitro .
+Four tyrosine residues , Tyr®* `` , Tyr®** , Tyr® `` `` , and Tyr® `` * , lie within the second HLH-like repeat of BAP/TFII-I .
+To determine sites of phosphorylation in this region , the corresponding phenylalanine substitutions were introduced into BAP/TFII-I , 27811 and their effects on tryptic phosphopeptide patterns were analyzed ( Fig .
+5B ) .
+In addition , the double Y346F , Y357F mutant was analyzed because these residues lie within a single tryptic fragment .
+The Y357F mutation was sufficient to eliminate the two predominant phosphopeptides present in the wild-type substrate ( Fig .
+5B , compare lanes 4 and 1 ) .
+Mutation of Tyr®** had no additional effect ( Fig .
+5B , lane 5 ) .
+The phosphopeptide pattern was unchanged by individual mutations at Tyr®* `` , Tyr `` , or Tyr®'* .
+We conclude that Tyr `` ( Fig .
+5D ) is phosphorylated by Btk in vitro .
+Similar mutational analysis revealed that residue Tyr'© `` , which lies within the third HLH-like repeat , is phosphorylated in vitro by Btk , because a Y462F mutation , in the context of full-length BAP/TFII-I , eliminated both of the tryptic phosphopeptide fragments specific to this region ( Fig .
+5C , compare lane 3 with lanes 6 and 7 ; relevant peptides are marked by closed arrows ) .
+Mutation of residues Tyr** `` and Tyr* `` ® did not alter the tryptic phosphopeptide pattern , relative to that of the wild-type protein ( Fig .
+5C , lanes 2 and 5 ) .
+Moreover , the phosphopeptide pattern of the Y451F , Y462F double mutant was identical to that of the Y462F single mutant .
+Thus Tyr** ( Fig .
+5D ) is the predominant site of in vitro phosphorylation by Btk within the third HLH-like region of BAP/TFII-L. To determine the contribution of Btk phosphorylation of BAP/TFII-I at the identified sites relative to total phosphorylation by Btk in vitro , BAP/TFII-I full-length protein bearing phenylalanine mutations at residues Tyr®** , Tyr® `` `` , and Tyr*4* ?
+( BAP/TFII-I ( 3YF ) ) was expressed in E. coli and purified in parallel with the wild-type BAP/TFII-I protein ( Fig .
+5D ) .
+BAP/ TFII-I ( 3YF ) was phosphorylated to a substantially lesser extent than the wild-type protein in in vifro kinase reactions performed in duplicate with MBP-Btk ; control reactions were run in the presence of kinase-defective MBP-Btk ( K4830E ) ( Fig .
+56 ) .
+Quantitation of phosphorylated products ( Fig .
+5F ) indicated that the majority of Btk-specific phosphorylation was eliminated by the mutation of Tyr `` , Tyr® `` `` , and Tyr* `` to phenylalanine .
+The Btk-specific phosphorylation remaining in BAP/TFII-I ( 3YEF ) is consistent with data presented in Fig .
+44 , which indicated that at least one site for Btk phosphorylation resides outside of the N-3R region of BAP/TFII-I .
+Correspondence between Phosphorylation Sites in Vitro and in Vivo-We next wished to determine whether the phosphorylation sites defined in vitro correspond to sites at which BAP/TFII-I is hyperphosphorylated in vivo upon cotransfection of Btk .
+Epitope-tagged BAP/TFII-I or the BAP N-3R fragment was expressed in 293 cells with cotransfected Btk or kinase-inactive Btk ( K430E ) .
+Protein was labeled metabolically with °°P and recovered by immunoprecipitation with an anti-c-Mye antibody .
+Immunoprecipitates were fractionated by polyacrylamide gel electrophoresis , and radiolabeled BAP/TFII-I species were isolated .
+Phosphoamino acid analysis of gel-purified BAP/ TFII-I revealed the presence of radiolabeled phosphotyrosine upon coexpression with active Btk but not with Btk ( K430E ) ( data not shown ) .
+Tryptic digestion of BAP N-3R , labeled in vivo , revealed that a subset of peptides were preferentially phosphorylated in the presence of Btk , relative to Btk ( KA430E ) ( Fig .
+6A , compare lanes 2 and 3 ) .
+The majority of these phosphopeptides corresponded to tryptic fragments phosphorylated by Btk in vitro ( Fig .
+6A , lane 1 ; relevant peptides are marked by arrows ) , consistent with the interpretation that they contain target sites for direct phosphorylation by Btk in vivo .
+The major sites at which BAP/TFII-I is hyperphosphorylated upon cotransfection with Btk were determined by site-directed mutagenesis ( Figs .
+6 , B and C ) .
+A Btk-enhanced , in vivo labeled phosphopeptide from BAP N-3R was absent in the BAP N-3R ( 4F ) mutant ( Fig .
+6B , compare lanes 1 and 3 ; the relevant 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 27812 Btk Phosphorylation Sites in BAP/TFILI-I & % o .¥ ¢ & # A « .P & £ & « _ & o ® b © A 6° ® O a ~ C ¢ & sﬁ ‘ if .
+Ari/10 K\ { é ( bu ) ( bu ( 3g ?
+{ 5h 4:31 } Q6 “ lib “ 05° 513363 “ it ; ‘ yq ’ ‘ xﬁ * Yo - ~ » eee 10 2 3 4 50 6 » -- ] at 4 a _4 Nlt : Alas i 1 2 3 4 5 m * wT ayr w -- |I -- 3E -|- s00 MBP-| _ Btk Bke Btk Bke _ Btk|Bke 500 mo wa- up way ~~ « » BAP .. with @ » ) 400 .
+Ss MBP'BTK—Q , .. feal g 300 mat * 200 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 9 10 100 0 WT 3YF Fic .
+5 .
+Phosphorylation of BAP/TFII-I at residues Tyr®* `` , Tyr® `` , and Tyr** > by Btk in vitro .
+Full-length wild-type or mutant BAP/TFIL-I was purified and phosphorylated in vitro by MBP-Btk .
+Products were analyzed by one-dimensional tryptic phosphopeptide mapping .
+A , the second nonrepeat region of BAP/TFII-I is phosphorylated by Btk at Tyr® `` in vitro .
+Lane 1 , wild-type protein ; lane 2 ; BAP/TFII-I ( Y248F ) ; lane 3 , BAP/TFII-I ( Y277F ) ; lane 4 , BAP/TFII-I ( Y248F , Y277F ) ; lane 5 , BAP/TFII-I ( 4F ) .
+A phosphopeptide eliminated by the mutation of Y248F ( Zane 2 ) is indicated ( closed arrow ) , as is the altered mobility of a likely partial peptide containing the same mutation ( open arrow ) .
+B , the second HLH-like domain of BAP/TFII-I is phosphorylated by Btk at Tyr® `` `` in vitro .
+Lane 1 , wild-type protein ; lane 2 ; BAP/TFII-I ( Y382F ) ; lane 3 , BAP/TFII-I ( Y846F ) ; lane 4 , BAP/TFII-I ( Y357F ) ; lane 5 , BAP/TFII-I ( Y346F , Y857F ) ; lane 6 , BAP/TFII-I ( Y378F ) .
+The Y357F mutation eliminated two prominent tryptic phosphopeptides ( closed arrows ) .
+C , the third HLH-like domain of BAP/TFII-I is phosphorylated by Btk at Tyr** `` in vitro .
+Lane 1 , wild-type protein ; lane 2 , BAP/TFII-I ( Y419F ) ; lane 3 , BAP/TFII-I ( Y462F ) ; lane 4 , BAP/TFII-I ( Y451F , Y462F ) ; lane 5 , BAP/TFII-I ( Y478F ) ; lane 6 , BAP/TFII-I N-2R ; lane 7 , BAP/TFII-L N-3R .
+Comparison of lanes 6 and 7 identifies phosphopeptides derived from the third HLH-like domain that are present in the wild-type protein ( closed arrows ) .
+These phosphopeptides were eliminated by mutation of Tyr `` alone ( Zane 3 ) or in combination with Tyr* `` ( lane 4 ) .
+D , purified BAP/TFII-I and Y248F , Y357F , Y462F BAP/TFII-I ( 3YF ) .
+Full-length BAP/TFII-I wild-type ( WT ) ( anes 1-4 ) and 3YF ( lanes 5-8 ) were expressed in £ .
+coli and purified in parallel by metal ion affinity chromatography .
+Following fractionation by SDS-PAGE , protein was detected by staining with Coomassie Blue .
+£ , phosphorylation of full-length BAP/TFII-I and mutant BAP/TFII-I ( Y248F , Y357F , Y462F ) proteins by MBP-Btk in vitro .
+MBP-Btk ( lanes 1 , 2 , 5 , 6 , and 9 ) or MBP-Btk ( K4830E ) ( anes 3 , 4 , 7 , 8 , and 10 ) were incubated with equivalent amounts of purified BAP/TFII-I ( WT ) ( Zanes 1-4 ) or 3YF ( lanes 5-8 ) or without BAP/TFII-I ( Zanes 9 and 10 ) in a buffer containing 20 mM Tris-HCl ( pH 7.2 ) , 2 mm MnCl , 1 mM Na , MoO0 , , and 10 uCi of [ y-*P ] ATP for 80 min at 87 °C .
+Products were fractionated by SDS-polyacrylamide gel electrophoresis , transferred to PVDF , and detected by PhosphorImager .
+Phosphorylated BAP/TFII-I ( BAP ) and autophosphorylated MBP-Btk are indicated .
+F , phosphorylation of BAP/TFII-I in vitro by Btk is reduced in the BAP/TFII-I ( Y248F , Y857F , Y462F ) mutant .
+Radiolabeled substrates were excised from the PVDF membranes in E , and radioactivity ( Cerenkov ) was quantitated .
+The results of two independent experiments are plotted .
+Bik , reactions performed with MBP-Btk ; Bke , reactions performed with MBP-Btk ( KA80E ) .
+peptide is marked by the open arrow ) , consistent with identification of Tyr® `` * `` as a target site for Btk in vitro .
+A pair of Btk-independent radiolabeled phosphopeptides ( Fig .
+6B , lanes 1 and 2 , closed circles ) are absent in the BAP N-3R ( 4F ) mutant and its derivatives ( Fig .
+6B , lanes 3-6 ) , indicating that one or more of the four tyrosines in the second nonrepeat region of BAP/TFII-I is a target for phosphorylation by an endogenous tyrosine kinase other than Btk .
+Additional mutation of Tyr** ' and Tyr** > to phenylalanine eliminated a Btk-dependent phosphopeptide ( Fig .
+6B , closed arrow ) , consistent with the identification of Tyr*© `` as a target for Btk phosphorylation in vitro .
+Last , examination of the in vivo phosphopeptide pattern from full-length BAP/TFII-I revealed that a Btk-dependent species was absent from BAP/TFII-I ( Y357F ) but unperturbed by mutations at Tyr®** , Tyr® `` `` , or Tyr*® ?
+( Fig .
+6C ) .
+Thus , residue Tyr® `` `` of BAP/TFII-I is hyperphosphorylated in the presence of cotransfected Btk in vivo .
+If residues Tyr® `` `` , and Tyr*© `` are indeed major sites of Btk phosphorylation within BAP/TFII-I in vivo , then BAP/ TFII-I ( 3YF ) , in which these residues are mutated , should exhibit reduced Btk-dependent tyrosine phosphorylation in transfected cells .
+BAP/TFII-I N-3R became hyperphosphorylated on tyrosine when coexpressed with Btk in 293 cells ( Fig .
+6D , compare lanes 1 and 2 ) .
+This is in contrast to the mutant BAP/TFII-I N-3R ( 3YF ) , which showed no increase in tyrosine phosphorylation when coexpressed with Btk ( Fig .
+6D , compare lanes 3 and 4 ) .
+Quantitation indicated that tyrosine phosphorylation of unmutated BAP N-3R increased at least 2-fold in the presence of Btk , while there was no discernible Btk-dependent tyrosine phosphorylation of the 3YF mutant ( Fig .
+6KE ) .
+We conclude that the major sites at which BAP/TFII-I is phosphorylated in mammalian cells upon cotransfection with Btk correspond to the predominant targets of phosphorylation by Btk in vitro .
+To assess the functional significance of phosphorylation at residues Tyr®** , Tyr® `` `` , and we examined the transcriptional activity of wild-type and phenylalanine-substituted BAP/TFII-I on the c-fos promoter , which is responsive to BAP/ TFII-I ( 82 , 33 ) .
+Transfection of COS-7 cells with wild-type BAP/TFII-I stimulated expression of the c-fos luciferase reporter gene relative to the vector-transfected control ( Fig .
+7A ) .
+Mutation of Tyr®** , Tyr® `` `` , or Tyr*® > individually to phenylalanine impaired the ability of BAP/TFII-I to stimulate c-fos activity .
+Interestingly , cotransfection of BAP/TFII-I ( Y248F ) suppressed expression from the c-fos promoter , relative to the samples cotransfected with vector alone , suggesting that this mutant may have repressive activity .
+The BAP/TFII-I ( 3YF ) triple mutant also displayed reduced activity relative to wild 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Btk Phosphorylation Sites in BAP/TFILI-I 30 p % I j | Arbitrarty units [ = s © 1 2 3 4 WIT 3YF Fic .
+6 .
+Btk phosphorylates BAP at similar positions in vivo and in vitro .
+A , comparison of tryptic phosphopeptides from BAP/ TFII-I N-3R , phosphorylated in vitro by Btk or in vivo upon cotransfection with Btk .
+Lane 1 , tryptic phosphopeptides from BAP/TFII-I N-3R , phosphorylated in vitro by MBP-Btk .
+Lanes 2 and 3 , tryptic phosphopeptides from BAP/TFII-I , labeled metabolically in 298 cells cotransfected with Btk ( Zane 2 ) or Btk ( KA80E ) ( Zane 3 ) .
+Tryptic phosphopeptides from metabolically labeled BAP/TFII-I N-3R that are enhanced by co-expression of Btk ( Zane 2 ) relative to co-expression with Btk ( KA30E ) ( Zane 3 ) correspond to phosphopeptides derived from BAP/ TFII-I phosphorylated by Btk in vitro ( closed arrows ) .
+B , effects of point mutations within the second nonrepeat or third HLH-like region on phosphorylation of BAP/TFII-IL N-3R in vivo .
+Wild-type ( Zanes 1 and 2 ) or mutant ( Zanes 3-6 ) BAP/TFII-I N-3R was co-expressed with Btk ( lanes 1 , 3 , 4 , 5 , and 6 ) or Btk ( KA430E ) ( Zane 2 ) , labeled metabolically , and analyzed by one-dimensional tryptic phosphopeptide mapping .
+Mutations in the second nonrepeat region ( NRZ ) or the third HLH-like domain ( 3R ) are identified at the top .
+4F , phenylalanine substitutions at Tyr `` , Tyr `` , Tyr `` , and Tyr `` `` `` .
+wt , wild-type .
+Btk-dependent phosphopeptides are marked by arrows .
+Closed circles , Btk-independent phosphopeptides eliminated by the 4F mutation ; open arrow , Btk-dependent phosphopeptide eliminated by the 4F mutation ; filled arrow , Btk-dependent phosphopeptide eliminated by the Y451F , Y462F muta-tion .
+C , tyrosine 857 of BAP/TFII-I is a target for Btk-dependent phosphorylation in vivo .
+Full-length , wild-type ( Zanes 5 and 6 ) or mutant ( lanes 1-4 and 7-10 ) BAP/TFII-I was coexpressed with Btk ( Btk , lanes 1-5 ) or Btk ( KA30E ) ( Bke , lanes 6-10 ) in 298 cells , labeled metabolically with °°P , and analyzed by one-dimensional tryptic phosphopeptide mapping .
+Mutants ( Y248F , Y277F , Y357F , and Y462F ) are identified .
+A Btk-dependent tryptic phosphopeptide is eliminated by the Y857F mutation ( arrow ) .
+D , hyperphosphorylation of BAP/TFII-I N-3R on tyrosine in the presence of coexpressed Btk is eliminated in the BAP/ TFII-I ( Y248F , Y857F , Y462F ) N-3R mutant .
+Myc-tagged , BAP/TFIL-I N-3R fragment ( lanes 1 and 2 ) or the mutant BAP/TFII-I ( Y248F , Y357F , Y462F ) N-3R fragment ( lanes 3 and 4 ) were coexpressed in 298 cells with Btk ( Zanes 1 and 3 ) or Btk ( KA30E ) ( Zanes 2 and 4 ) .
+BAP/TFII-L N-3R protein was immunoprecipitated using the anti-Myc antibody 9E10 .
+Following immunoprecipitation , gel fractionation , and transfer to membrane , immunoblotting was performed with the anti-phosphotyrosine antibody 4G10 ( upper panel ) or the anti-Myc antibody 9E10 ( lower panel ) .
+E , densitometric quantitation of the anti-phosphotyrosine immunoblot of D. 27813 A 0.40 4 Relative activity 0 o o o o z ho to o o o [ = ] C-CLeecw ~~ m Bik C Bke 1.0 0.0 & € & g & & Qé P ® © `` $ BAP 243 s ® D P D Y Y Q Y N I 253 352 H V E D L ¥ V E G L P 362 457 # P N D L Y V E G L P 467 BTK 218 K v v A L ¥ D Y M P M 228 Fic .
+7 .
+Mutation of Btk phosphorylation sites impairs BAP/TFII-I activity at the c-fos promoter in vivo .
+A , involvement of BAP/TFII-I residues Tyr `` , Tyr `` `` `` , and Tyr `` in Btk-independent activation of the c-fos promoter .
+COS-7 cells were transfected with 0.1 ug of cfos in PGL3 , 0.1 ug of pRL-TK , and 0.6 ug of vector , wild-type BAP/TFII-I , or mutant BAP/ TFII-I , as indicated .
+Following serum stimulation , cell lysates were assayed for c-fos and TK transcriptional activity .
+The activity of the cfos promoter was analyzed relative to that of TK .
+Means and S.E .
+of three independent transfections are plotted .
+B , evaluation of BAP/TFII-I expression in transfected COS-7 cells .
+Equal volumes of cell lysate from the experiment in A were fractionated by SDS-polyacrylamide gel electrophoresis and immuno-blotted with the anti-Myc antibody 9E10 .
+C. BAP/TFII-I residues Tyr `` * `` and Tyr® `` `` are implicated in Btk-dependent activation of a c-fos reporter construct in vivo .
+COS-7 cells were transfected with 0.1 ug of c-fos in PGL3 ; 0.1 ug of pRL-TK ; 0.3 ug of Btk ( Bik ) or Btk ( KA480E ) ( Bke ) , and 0.4 ug of wild-type BAP/TFII-I , mutant BAP/TFII-I , or vector DNA .
+Following serum stimulation , cells lysates were analyzed for c-fos and TK promoter activities .
+The activity of the c-fos promoter was analyzed relative to that of TK .
+Means and S.E .
+of three independent transfections are plotted .
+D , alignment of amino acid sequences in the vicinity of BAP/TFII-I tyrosine residues phosphorylated in vitro by MBP-Btk and the corresponding amino acid sequence of a previously described Btk autophosphorylation site ( 22 ) .
+type .
+Interestingly , the effects of the combined mutations were not additive .
+The debilitating effects of the phosphorylation site mutations were specific , as mutation of residue Tyr** `` , which is not phosphorylated by Btk in vitro or in vivo , had no effect on 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 27814 BAP/TFII-I activity in this assay .
+Btk has been shown to enhance the transcriptional activity of BAP/TFII-I at the c-fos promoter in fibroblastoid cell lines ( 82 ) .
+In experiments presented above , transfection was performed under conditions that maximized the effect of BAP/ TFII-I on transcription from the c-fos promoter .
+Under these conditions , mutation of Btk phosphorylation sites in BAP/ TFII-I reduced the stimulatory effect of BAP/TFII-I .
+We next wanted to determine the effects of the same mutations on enhancement of BAP/TFII-I activity by Btk .
+These experiments were performed using transfection conditions in which stimulation of c-fos activity was dependent on the presence of both BAP/TFII-I and Btk ( see `` Materials and Methods `` ) ; transfection of BAP/TFII-I in the absence of active Btk , or of Btk in the absence of BAP/TFII-I , had no effect on c-fos promoter activity ( Fig .
+7C ) .
+Mutation of Tyr® `` `` , and to phenylalanine , singly or in combination , impaired ( Fig .
+7C , Y462F and 3YF ) or eliminated ( Fig .
+7C , Y248F and Y357F ) stimulation of c-fos promoter activity by Btk and BAP/TFII-I .
+The BAP/TFII-I ( Y248F ) mutant , moreover , consistently suppressed basal expression of the c-fos reporter construct as well ( Fig .
+7C ) .
+These results are consistent with roles for residues Tyr®** and Tyr® `` `` , and perhaps also for Tyr** > , in mediating synergistic effects of BAP/TFII-I and Btk at the c-fos promoter .
+DISCUSSION While the participation of Btk in signaling pathways essential to B cell development and activation is clear , relatively little is known concerning the targets of this kinase and the consequences of their phosphorylation .
+BAP/TFII-I , phospho-lipase Cy , protein kinase CB , and Wiskott-Aldrich syndrome protein have all been identified as possible Btk substrates in vivo ( 26 , 41-43 ) .
+Until now , however , direct phosphorylation of these substrates by Btk has not been documented .
+Results presented in this communication suggest strongly that Btk is capable of phosphorylating BAP/TFII-I directly , thereby providing one means by which Btk activation may mediate cellular responses to antigen receptor engagement .
+Several lines of evidence support this conclusion .
+First , BAP/ TFII-I is a substrate for bacterially expressed , purified Btk in vitro .
+Second , there exists a correspondence between tryptic phosphopeptides from BAP/TFII-I phosphorylated by Btk in vitro and Btk-dependent tryptic phosphopeptides from BAP/ TFII-I expressed in mammalian cells .
+Third , mutation of BAP/ TFII-I at tyrosine residues phosphorylated by Btk in vitro eliminated Btk-dependent phosphopeptides from metabolically labeled BAP/TFII-I .
+We have relied on deletion and point mutagenesis to locate sites of protein phosphorylation .
+In pursuing this approach , we considered the possibility that truncation might permit phosphorylation at sites that are inaccessible in the intact protein or that a point mutation might indirectly impair phosphorylation at a different residue .
+In the studies presented here , however , the predominant patterns of phosphorylation within individual BAP/TFII-I fragments were recapitulated in the full-length protein , arguing that truncation did not generate artifactual phosphorylation sites .
+Moreover , within each phosphorylated region of BAP/TFII-I , as defined by nested trunca-tions , mutation of a single tyrosine residue affected phosphorylation , eliminating only phosphopeptides mapping to that region .
+Taken together , these observations are consistent with the interpretation that tyrosine residues 248 , 357 , and 462 of BAP/TFII-I represent sites of direct phosphorylation by Btk .
+We note , however , that identification of phosphorylation sites by the methods employed here is limited by the stoichiometry of phosphorylation and , in the case of metabolic labeling , by the flux of phosphate through tyrosine .
+Thus , we can not exclude Btk Phosphorylation Sites in BAP/TFILI-I the existence of additional Btk target sites within BAP/TFII-I .
+The substrate specificities of Btk and other tyrosine kinases of the Tec family are as yet poorly defined .
+Of the three residues of BAP/TFII-I shown here to be phosphorylated by Btk ( Fig .
+7D ) , two ( Tyr® `` `` and Tyr*® ? )
+occur in similar sequence contexts ( nine identities among the 11 residues from the -5-position through the +5-position ) within the loop regions of consecutive HLH-like domains .
+The context of Tyr®** is dis-tinct , differing from the corresponding sequence surrounding Tyr® `` `` in all of the 11 residues from -5 through +5 , except the target tyrosine .
+The contexts of all three Btk phosphorylation sites in BAP/TFII-I differ substantially from that of the Btk autophosphorylation site at Tyr® `` `` ( 22 ) .
+Thus , any features of primary sequence that might confer specificity for Btk remain obscure .
+BAP/TFII-I is able to associate with Btk and other kinases in vivo ( 26 , 44 ) , and Btk has a modest stimulatory effect on transcriptional activation by BAP/TFII-I in transfected cells ( 82 ) .
+These observations as well as an apparent requirement for phosphorylation of BAP/TFII-I in transcriptional assays in vitro ( 81 ) have suggested that Btk and perhaps other kinases may regulate the activity of BAP/TFII-I .
+In support of this possibility , a BAP/TFII-I mutant carrying phenylalanine substitutions at both Tyr®** and Tyr®* `` exhibited impaired transcriptional activity in transfected cells ( 32 ) .
+Although the Btk dependence of BAP/TFII-I activity was not addressed in that study , one interpretation is suggested by our identification of Tyr®* `` as a target site for phosphorylation of BAP/TFII-I .
+The effect of the mutations at Tyr®* `` and Tyr®* `` on transcription , however , would also be consistent with phosphorylation at Tyr `` by a kinase other than Btk , including members of the Tec family that are more broadly expressed .
+Consistent with this notion , we have observed that overexpression of the BAP/ TFII-I ( Y248F ) mutant consistently impairs basal expression from a transfected c-fos reporter construct ( Fig .
+7A ) .
+Our findings suggest that two other Btk targets within BAP/TFII-I , residues Tyr® `` `` and Tyr** `` , may be phosphorylated by more broadly expressed kinases as well , because phenylalanine substitutions at these sites also impair Btk-independent transcription from the c-fos promoter ( Fig .
+7A ) .
+Our studies implicate phosphorylation of BAP/TFII-I at residues Tyr®** and Tyr `` , and perhaps at Tyr** > , in Btk-dependent stimulation of transcription from the c-fos promoter .
+Interestingly , the debilitating effects of these mutations were not additive .
+This suggests the existence of one or more functional interactions among these three sites ; an understanding of these interactions may warrant further study .
+Two of the Btk phosphorylation sites within BAP/TFII-I occur within loop regions of helix-loop-helix-like domains .
+This suggests that these loop domains are available for modification by phosphorylation and perhaps for interactions with other proteins .
+BAP/TFII-I promotes the formation of a ternary complex involving serum response factor , Phox1 and the c-fos promoter ( 28 ) .
+On this basis , BAP/TFII-I has been proposed to act as a scaffold that assists in the assembly of multicomponent transcription complexes ( 28 , 33 ) .
+Phosphorylation of BAP/ TFII-I , in particular within the loop regions of HLH-like domains , may facilitate the construction of such complexes , perhaps through the creation of binding sites for specific proteins .
+REFERENCES 1 .
+Tsukada , S. , Saffran , D. C. , Rawlings , D. J. , Parolini , O. , Allen , R. C. , Klisak , I. , Sparkes , R. S. , Kubagawa , H. , Mohandas , T. , Quan , S. , Belmont , J. , Cooper , M. , Conley , M. , and Witte , O .
+( 1998 ) Cell 72 , 279-290 2 .
+Vetrie , D. , Vorechovsky , I. , Sideras , P. , Holland , J. , Davies , A. , Flinter , F. , Hammarstrom , L. , Kinnon , C. , Levinsky , R. , Bobrow , M. , Smith , E. , and Bentley , D. R. ( 1993 ) Nature 861 , 226-233 3 .
+Pearl , E. R. , Vogler , L. B. , Okos , A. J. , Crist , W. M. , Lawton , A. R. D. , and Cooper , M. D. ( 1978 ) J. Immunol .
+120 , 1169-1175 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 10 .
+11 .
+12 .
+13 .
+14. .
+Haire , R. N. , Ohta , Y. , Lewis , J. E. , Fu , S. M. , Kroisel , P. , and Litman , G. W. 16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+Btk Phosphorylation Sites in BAP/TFILI-I .
+Rawlings , D. J. , Saffran , D. C. , Tsukada , S. , Largaespada , D. A. , Grimaldi , J. C. , Cohen , L. , Mohr , R. N. , Bazan , J. F. , Howard , M. , Copeland , N. G. , Jenkins , N. A. , and Witte , O .
+( 1993 ) Science 261 , 358-361 .
+Thomas , J. D. , Sideras , P. , Smith , C. I. , Vorechovsky , I. , Chapman , V. , and Paul , W. E. ( 1993 ) Science 261 , 355-358 .
+Scher , L ( 1982 ) Adv .
+Immunol .
+88 , 1-71 .
+Hardy , R. R. , Hayakawa , K. , Parks , D. R. , and Herzenberg , L. A .
+( 1983 ) Nature 306 , 270-272 .
+Hayakawa , K. , Hardy , R. R. , and Herzenberg , L. A .
+( 1986 ) Eur .
+J. Immunol .
+16 , 450-456 .
+Perlmutter , R. M. , Nahm , M. , Stein , K. E. , Slack , J. , Zitron , I. , Paul , W. E. , and Davie , J. M. ( 1979 ) J. Exp .
+Med .
+149 , 993-998 Khan , W. N. , Nilsson , A. , Mizoguchi , E. , Castigli , E. , Forsell , J. , Bhan , A. K. , Geha , R. , Sideras , P. , and Alt , F. W. ( 1997 ) Int .
+Immunol .
+9 , 395-405 Siliciano , J. D. , Morrow , T. A. , and Desiderio , S. V. ( 1992 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+89 , 11194-11198 Mano , H. , Mano , K. , Tang , B. , Koehler , M. , Yi , T. , Gilbert , D. J. , Jenkins , N. A. , Copeland , N. G. , and Thle , J. N. ( 19983 ) Oncogene 8 , 417-424 Tamagnone , L. , Lahtinen , L. , Mustonen , T. , Virtaneva , K. , Francis , F. , Muscatelli , F. , Alitalo , R. , Smith , C. I. , Larsson , C. , and Alitalo , K. ( 1994 ) Oncogene 9 , 3683-3688 Vihinen , M. , Nilsson , L. , and Smith , C. I .
+( 1994 ) FEBS Lett .
+350 , 263-265 ( 1994 ) Hum .
+Mol .
+Genet .
+8 , 897-901 Hu , Q. , Davidson , D. , Schwartzberg , P. L. , Macchiarini , F. , Lenardo , M. J. , Bluestone , J .
+A. , and Matis , L. A .
+( 1995 ) J. Biol .
+Chem .
+270 , 1928-1934 Koike , M. , Kikuchi , Y. , Tominaga , A. , Takaki , S. , Akagi , K. , Miyazaki , J. , Yamamura , K. , and Takatsu , K. ( 1995 ) Int .
+Immunol .
+7 , 21-80 Matsuda , T. , Takahashi-Tezuka , M. , Fukada , T. , Okuyama , Y. , Fujitani , Y. , Tsukada , S. , Mano , H. , Hirai , H. , Witte , O. N. , and Hirano , T. ( 1995 ) Blood 85 , 627-633 Santos-Argumedo , L. , Lund , F. E. , Heath , A. W. , Solvason , N. , Wu , W. W. , Grimaldi , J. C. , Parkhouse , R. M. , and Howard , M. ( 1995 ) Int .
+Immunol .
+7 , 163-170 Kawakami , Y. , Yao , L. , Miura , T. , Tsukada , S. , Witte , O. N. , and Kawakami , T. ( 1994 ) Mol .
+Cell .
+Biol .
+14 , 5108-5113 Rawlings , D. J .
+( 1999 ) Clin .
+Immunol .
+91 , 248-2583 Rawlings , D. J. , Scharenberg , A. M. , Park , H. , Wahl , M. I. , Lin , S. , Kato , R. M. , Fluckiger , A. C. , Witte , O. N. , and Kinet , J. P. ( 1996 ) Science 271 , 822-825 28 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+27815 Bence , K. , Ma , W. , Kozasa , T. , and Huang , X. Y .
+( 1997 ) Nature 889 , 296-299 Langhans-Rajasekaran , S. A. , Wan , Y. , and Huang , X. Y .
+( 1995 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+92 , 8601-8605 Scharenberg , A. M. , El-Hillal , O. , Fruman , D. A. , Beitz , L. O. , Li , Z. , Lin , S. , Gout , L. , Cantley , L. C. , Rawlings , D. J. , and Kinet , J. P. ( 1998 ) EMBO J .
+17 , 1961-1972 Yang , W. , and Desiderio , S. ( 1997 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+94 , 604-609 Roy , A. L. , Du , H. , Gregor , P. D. , Novina , C. D. , Martinez , E. , and Roeder , R. G. ( 1997 ) EMBO J .
+16 , 7091-7104 Grueneberg , D. A. , Henry , R. W. , Brauer , A. , Novina , C. D. , Cheriyath , V. , Roy , A. L. , and Gilman , M. ( 1997 ) Genes Dev .
+11 , 2482-2493 Ferre-D'Amare , A. R. , Prendergast , G. C. , Ziff , E. B. , and Burley , S. K. ( 1998 ) Nature 868 , 38-45 Cheriyath , V. , and Roy , A. L. ( 2000 ) J. Biol .
+Chem .
+275 , 26300-26308 Novina , C. D. , Cheriyath , V. , and Roy , A. L. ( 1998 ) J. Biol .
+Chem .
+278 , 33448-33448 Novina , C. D. , Kumar , S. , Bajpai , U. , Cheriyath , V. , Zhang , K. , Pillai , S. , Wortis , H. H. , and Roy , A. L. ( 1999 ) Mol .
+Cell .
+Biol .
+19 , 5014-5024 Kim , D. W. , Cheriyath , V. , Roy , A. L. , and Cochran , B. H. ( 1998 ) Mol .
+Cell .
+Biol .
+18 , 3310-3320 Kozak , M. ( 1989 ) Mol .
+Cell .
+Biol .
+9 , 5073-5080 Jones , D. H. , and Winistorfer , S. C. ( 1992 ) BioTechniques 12 , 528-530 , 532 , 534-535 Gorman , C. M. , Gies , D. R. , and McCray , G. ( 1990 ) DNA Protein Eng .
+Tech .
+2 , 3-10 Yang , W. , Malek , S. N. , and Desiderio , S. ( 1995 ) J. Biol .
+Chem .
+270 , 20832-20840 Paborsky , L. R. , Fendly , B. M. , Fisher , K. L. , Lawn , R. M. , Marks , B. J. , McCray , G. , Tate , K. M. , Vehar , G. A. , and Gorman , C. M. ( 1990 ) Protein Eng .
+8 , 547-553 Hunter , T. , and Sefton , B. M. ( 1991 ) Methods Enzymol .
+210 , 110-153 West , M. H. P. , Wu , R. S. , and Bonner , W. M. ( 1984 ) Electrophoresis 5 , 183-138 Takata , M. , and Kurosaki , T. ( 1996 ) J. Exp .
+Med .
+184 , 31-40 Yao , L. , Kawakami , Y. , and Kawakami , T. ( 1994 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+91 , 9175-9179 Baba , Y. , Nonoyama , S. , Matsushita , M. , Yamadori , T. , Hashimoto , S. , Imai , K. , Arai , S. , Kunikata , T. , Kurimoto , M. , Kurosaki , T. , Ochs , H. D. , Yata , J. , Kishimoto , T. , and Tsukada , S. ( 1999 ) Blood 98 , 2003-2012 Kim , D. W. , and Cochran , B. H. ( 2000 ) Mol .
+Cell .
+Biol .
+20 , 1140-1148 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Identification of Phosphorylation Sites for Bruton 's Tyrosine Kinase within the Transcriptional Regulator BAP/TFII-I Ann Marie Egloff and Stephen Desiderio J. Biol .
+Chem .
+2001 , 276:27806-27815. doi : 10.1074/jbc.M103692200 originally published online May 23 , 2001 Access the most updated version of this article at doi : 10.1074/jbe.M103692200 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 44 references , 24 of which can be accessed free at http : //www .
+full.html # ref-list-1 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ;

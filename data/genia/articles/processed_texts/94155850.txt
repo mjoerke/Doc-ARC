@@ -1,0 +1,720 @@
+The EMBO Journal vol.13 no.4 pp.861-870 , 1994 Calcineurin acts in synergy with PMA to inactivate IxB/MAD3 , an inhibitor of NF-xB Betsy Frantz `` , Eric C.Nordby ' , Gary Bren , Nora Steffan `` , Carlos V.Paya2 , Randall L.Kincaid® , Michael J.Tocci ' , Stephen J.O'Keefe ' and Edward A.O'Neill ' * 'Department of Molecular Immunology , Merck Research Laboratories , Rahway , NJ 07065 , @ Department of Immunology , Mayo Clinic , Rochester , MN 55905 and Section on Immunology , Laboratory of Molecular and Cellular Neurobiology , National Institute on Alcohol Abuse and Alcoholism , Rockville , MD 20852 , USA 4Corresponding author Communicated by A.R .
+Williamson The interleukin-2 ( IL-2 ) promoter consists of several independent T cell receptor ( TcR ) responsive elements .
+The induction of promoters dependent on these elements is inhibitable by the immunosuppressants cyclosporin A ( CsA ) and tacrolimus ( FK-506 ) .
+Calcineurin , a Ca*+*/calmodulin-dependent protein phosphatase , is the FK-506- and CsA-sensitive enzyme required for TcR mediated activation of the IL-2 promoter .
+We report that a constitutively active form of calcineurin partially substitutes for the Ca®+* co-stimulus required to activate the IL-2 promoter elements IL-2A ( which binds the factors OAP and Oct-1 ) and IL-2E ( which binds NF-AT ) , and completely substitutes for the co-stimulus required to stimulate an NF-xB-dependent element .
+Calcineurin stimulates the NF-xB element by enhancing inactivation of IxB/MAD3 , an inhibitor of NF-xB , thereby increasing the amount of nuclear NF-xB DNA binding activity .
+These data provide the first demonstration in vivo that activation of a protein phosphatase can inactivate IxB , and suggest one possible explanation for mechanism-based toxicities associated with FK-506 and CsA by demonstrating that these drugs can inhibit the calcineurin-dependent activation of a virtually ubiquitous transcription factor .
+Key words : calcineurin/cyclosporin A/interleukin-2/tacro-limus/transcription Introduction Intracellular Ca * release plays an important role in many fundamental cellular activities ( Berridge , 1993 ) .
+One series of events in which the importance of Ca * release has been very well documented is the activation of T cells in response to antigen stimulation .
+As with numerous other receptor-initiated cellular processes ( Berridge , 1993 ) , interaction of the T cell antigen receptor ( TcR ) with an appropriately presented antigen results in activation of phospholipase C ( PLC ) which hydrolyzes phosphatidylinositol 4,5-bisphos-phate ( PIP ; ) to inositol 1,4,5-trisphosphate ( IP ; ) and 1,2-sn-diacylglycerol ( DAG ) .
+IP ; binds an intracellular receptor ( IP ; R ) causing stored Ca*+ to be released , while DAG causes the activation of protein kinase C ( PKC ) .
+The importance of Ca** in TcR signal transduction can be demonstrated by the fact that removal of extracellular Ca ?
+* can block T cell activation ( Alford , 1970 ) .
+Furthermore , the same cellular events initiated by receptor mediated activation of PLC can also be initiated by treatment with the combination of a Ca + ionophore , raising intracellular Ca + levels , and a phorbol ester , presumably activating PKC ( Truneh et al .
+, 1985 ) .
+While the importance of Ca+* for T cell activation has been appreciated for many years , an immediate target of free Ca°+ has only recently been documented .
+Calcineurin , a Ca**/calmodulin-activated phosphatase , has been demonstrated to be an important component of the TcR signal transduction network ( Clipstone and Crabtree , 1992 ; Liu et al .
+, 1992 ; O'Keefe et al .
+, 1992 ) .
+The most direct evidence supporting this conclusion was obtained in a model of early T cell activation events , the induction of interleukin-2 ( IL-2 ) promoter activity in the human leukemic cell line Jurkat .
+This model recapitulates two important characteristics of normal T cells .
+First , the Ca @ +* ionophore , ionomycin , and the phorbol ester , phorbol myristyl acetate ( PMA ) , act in synergy to induce transcription from the IL-2 promoter in both normal T cells and Jurkat cells ( Manger et al .
+, 1985 ) .
+Second , the immunosuppressant molecules tacrolimus ( FK-506 ) and cyclosporin A ( CsA ) , which prevent T cell activation by inhibiting the antigen-dependent induction of IL-2 gene transcription in T cells also inhibit the ionomycin-and PMA-induction of IL-2 promoter activity in both normal T cells and Jurkat cells ( Sigal and Dumont , 1992 ) .
+In the Jurkat model system a deletion mutant of calcineurin providing Ca**-independent , constitutive phosphatase activity can substitute for ionophore , acting in synergy with PMA to induce transcription from the IL-2 promoter ( O'Keefe et al .
+, 1992 ) .
+Activation of the IL-2 promoter by the Ca*+*-independent mutant calcineurin is sensitive to FK-506 .
+Increased expression of either a wild-type or mutant calcineurin causes Jurkat cells to be more resistant to the immunosuppressant drugs ( Clipstone and Crabtree , 1992 ; O'Keefe eral .
+, 1992 ) .
+In addition , calcineurin is known to be expressed in normal T cells ( Kincaid eral .
+, 1987 ) and the phosphatase activity of calcineurin is inhibited by immunosuppressive analogs of both FK-506 and CsA and resistant to non-immuno-suppressive analogs ( Fruman et al .
+, 1992 ; Liu et al .
+, 1992 ) .
+No other enzyme with these characteristics has been identified , thus calcineurin is now considered to be an essential mediator of one signal through which antigen stimulation of the TcR leads to the activation of T cells .
+To determine the mechanism by which calcineurin participates in T cell activation we examined its role in events leading to induction of the IL-2 promoter .
+The activity of specific enhancer-binding transcription factors regulates initiation of transcription from the IL-2 promoter ( Riegel et al .
+, 1992 ) .
+DNA sequences recognized by these factors 861 B.Frantz et al .
+are found within the 300 base pairs preceding the IL-2 gene transcription start site .
+There are minimally five factors , uniquely defined by nucleotide sequence recognition , essential for ( ionomycin + PMA ) -induced transcription from the IL-2 gene promoter : NF-AT , which binds the IL-2E element ( Durand et al .
+, 1988 ) , NF-xB , which binds the IL-2C element ( Baumann et al .
+, 1991 ; Briegel et al .
+, 1991 ; Hoyos et al .
+, 1989 ; Shibuya et al .
+, 1989 ) , AP-1 , which recognizes a sequence within the IL-2B element ( Jain et a/ .
+, 1992a , b ; Northrop et al .
+, 1992 ) , and OAP ( Ullman et al .
+, 1991 ) and Oct-1 ( Kamps etal .
+, 1990 ) , which function together , each recognizing an independent sequence within the IL-2A element ( Durand et a/ .
+, 1988 ) .
+In T cells the DNA binding activity of each of these factors except Oct-1 is induced to varying degrees by ionomycin and PMA , either alone or in combination .
+Similarly , when artificial enhancers consisting of multiple copies of the binding sites for these factors are linked to otherwise inactive enhancerless promoters different levels of transcription activity can be observed in response to ionomycin and/or PMA .
+When the responses of each artificial enhancer to ionomycin , PMA , and FK-506 or CsA , are compared , they fall into three classes .
+( i ) NF-AT- and OAP/Oct-dependent enhancers are slightly responsive to ionomycin , unresponsive to PMA , but very responsive to PMA in the presence of ionomycin .
+Their activation is completely inhibited by CsA ( Mattila et al .
+, 1990 ) .
+( ii ) An NF-xB-dependent enhancer is responsive to PMA , unresponsive to ionomycin , but very responsive to ionomycin in the presence of PMA .
+The ionomycin-dependent but not the PMA-dependent activity of the NF-xB enhancer is sensitive to the immunosuppressants ( Mattila et al .
+, 1990 ) .
+( iii ) An AP-1-dependent enhancer is very responsive to PMA and does not respond to ionomycin alone .
+The PMA-dependent activation of AP-1 is inhibited by the presence of ionomycin and FK-506 prevents this inhibition ( Ullman et al .
+, 1993 ) .
+When these data are considered within the context of the preceding discussion it seems likely that calcineurin would have a role in activating the factors defined as NF-AT , OAP/Oct and NF-xB , and perhaps has a role in suppressing the activity of AP-1 .
+If so , any of these factors might be a substrate for calcineurin or , perhaps , a target several steps removed from calcineurin .
+To assess the role of calcineurin in activating these transcription factors we tested the effect of the Ca*+*-independent calcineurin mutant on the activity of the artificial enhancers described above .
+The data we present suggest that in Jurkat T cells Ca*+ affects all of the transcription factors tested through calcineurin and , in addition , Ca* affects all but the NF-xB transcription factor through another non-calcineurin Ca*+*-responsive activity .
+To discern the mechanism by which calcineurin can activate a transcription factor we determined how calcineurin participates in the activation of the NF- xB-enhancer-dependent promoter .
+We demonstrate that through calcineurin , acts in synergy with PMA to inactivate IxB/MAD3 , an inhibitor of NF-xB , thus increasing NF-xB DNA binding activity resulting in increased NF-xB-dependent enhancer activity .
+Results Calcineurin affects the activity of several transcription factors in Jurkat T cells Transient expression of ACaM-AI , a Ca*+*-independent calcineurin catalytic subunit , in Jurkat T cells partially 862 SS + I Fig .
+1 .
+A graphic representation of the chloramphenicol acetyl transferase ( CAT ) activity produced by transiently transfected Jurkat cells .
+All transfections included the indicated promoter-reporter plasmid , encoding CAT , either a control expression vector pSRae ( - ) or the expression vector , pSRa4ACaM-AI , encoding a constitutively active calcineurin catalytic subunit ( + ) , and a control reporter , pCMV.Gal , which encodes -galactosidase .
+The promoter-reporter constructs each consist of an artificial enhancer fused to an enhancerless gamma-fibrinogen Spl/TATA element controlling expression of the CAT gene .
+The artificial enhancers are ( A ) four copies of the IL-2A element ( pTAn.A.4 ) , ( B ) three copies of the IL-2E element ( pTAn.E.3 ) , ( C ) six copies of an NF-xB binding site ( pTAn.xB.6 ) or ( D ) three copies of an AP-1 binding site ( pDAn.AP-1.3 ) .
+When the enhancerless promoter ( pDAn.yf.CAT ) was tested in this experiment no CAT activity was detected .
+Transfected cells were untreated ( MW ) or treated with PMA ( MA ) , ionomycin ( M ) , PMA +ionomycin ( @ ) , or PMA + ionomycin+FK-506 ( 0 ) .
+For each promoter the CAT activity induced by the indicated treatment is shown relative to the ( PMA + ionomycin ) -induced CAT activity of the pSRa control , which was set to 100 .
+In each experiment the amount of CAT activity produced was normalized to both the protein concentration in the extract and the amount of -galactosidase activity in extracts of PMA-treated cells from the same transfection .
+Each data set is the average of three or four independent experiments .
+substitutes for the increased concentration of intracellular Ca `` + required as a co-inducer of the IL-2 promoter ( O'Keefe et al .
+, 1992 ) .
+To identify transcription factors activated by calcineurin we compared the activities of promoters dependent on multimers of individual enhancer elements in the absence or presence of ACaM-AI ( Figure 1 ) .
+Three of the elements tested , IL-2 ( recognized by Oct-1 and OAP ) , IL-2E [ recognized by NF-AT and Ets factors ( Thompson et al .
+, 1992 ) ] and NF-xB , were induced by a synergistic interaction between either PMA and ionomycin ( a Ca*+ ionophore ) or PMA and ACaM-AI .
+In each case the effect of either ionomycin or ACaM-AI was sensitive to FK-506 .
+ACaM-AlI substituted for ionomycin co-induction of IL-2 but the combination of ACaM-AI and ionomycin with PMA was consistently more effective at activating this promoter than either separately with PMA ( Figure 1A ) .
+ACaM-AI only partially substituted for ionomycin co-induction of IL-2E ( Figure 1B ) , and in contrast to both IL-2A and NF-xB , the presence of ACaM-AI does not increase A > bed ind be bud bad bod bed bd bub bud be but - bud B ( D l but tnd but bns - buf tout bud E ind ind ind bad bd bad ind but but » C “ 54 102 3 4 § 60 7 8 9 10 42 13 44 15 16 17 18 Fig .
+2 .
+Gel electrophoresis DNA binding assay for NF-xB and Oct-1 in extracts of Jurkat cells .
+In all panels the arrow indicates the inducible NF-xB species , p indicates treatment with PMA ; i , ionomycin and 5 , FK-506 .
+( A ) Jurkat T cells were transfected with the control expression vector , pSRa ( lanes 1-12 ) , or the vector encoding the constitutively active calcineurin catalytic subunit , pSRa4ACaM-AI ( lanes 13-24 ) , and activated as indicated .
+Nuclear extracts were prepared from these cells and NF-xB-specific ( lanes 1-7 and 13-19 ) or Oct-specific ( lanes 8-12 and 20-24 ) DNA binding activities in samples of each extract were measured .
+Lanes 6 and 18 show competition with a 200-fold molar excess with unlabeled NF-xB DNA fragment ; lanes 7 and 19 show competition with the same amount of unlabeled Oct DNA fragment .
+( B ) The cytosolic fraction from uninduced Jurkat T cells , untreated ( lanes 1 and 4 ) or treated with deoxycholate ( lanes 2 and 5 ) was tested for NF-xB ( lanes 1 and 2 ) or Oct-1 ( lanes 4 and 5 ) DNA binding activities .
+NF-xB DNA binding activity in a nuclear extract from ( PMA +ionomycin ) -treated cells is shown in lane 3 for comparison .
+( C ) Nuclear extract from ( PMA + ionomycin ) -treated cells pre-incubated with 0 ( lanes 1 and 4 ) , 0.5 ( lane 2 ) or 2 ul ( lanes 3 and 5 ) of anti-p65 affinity-purified antibody before carrying out the standard DNA binding assay .
+NF-xB probe was used for lanes 1-3 and Oct probe for lanes 4 and 5 .
+( D ) Nuclear extract from ( PMA +ionomycin ) -treated cells pre-incubated with 0 ( lanes 1 and 4 ) , 0.5 ( lane 2 ) or 2 ul ( lanes 3 and 5 ) of anti-p50 antiserum before carrying out the standard DNA binding assay .
+NF-xB probe was used for lanes 1-3 and Oct probe was used for lanes 4 and 5 .
+( E ) Nuclear extracts prepared from untreated Jurkat cells ( lane 1 ) or cells treated with cycloheximide ( 10 pg/ml ! )
+( C ) for 30 min and then treated for 3 h as indicated .
+DNA binding activity in each extract was measured .
+In lanes 1-9 NF-xB probe was used ; in lanes 10-18 Oct probe was used .
+the activity of IL-2E at all .
+ACaM-AI completely substituted for ionomycin co-induction of NF-xB ( Figure 1C ) and provides significantly more NF-xB activity than does the combination of ionomycin and PMA .
+These data suggest that the only event required for induction of the NF-xB element is activation of calcineurin , while the IL-2A and IL-2E elements are affected by both calcineurin activation and other Ca*+*-dependent events .
+The AP-1-dependent promoter , unlike the other three elements , reflects no positive interaction between calcineurin and PMA .
+Rather , in the presence of PMA and ionomycin this enhancer is stimulated by FK-506 ( Figure 1D ) .
+This FK-506-dependent stimulation does not occur in PMA-treated cells that have not been exposed to ionomycin ( data not shown ) suggesting that induction of the AP-1 element is inhibited by calcineurin but stimulated by another Ca*+*-dependent enzyme .
+Calcineurin stimulates inactivation of IxB Calcineurin is a co-inducer of NF-xB DNA binding activity There are several mechanisms by which calcineurin might act in synergy with PMA to increase transcription from one of the enhancers described above .
+Calcineurin could stimulate ( i ) PMA-dependent induction of a transcription factor , ( ii ) the transcription activation potential of a PMA-induced factor , or ( iii ) the function of a general transcription factor through which a PMA-inducible factor must act .
+To explore these alternative possibilities we chose to focus on calcineurin 's ability to stimulate transcription from the NF-xB-dependent enhancer .
+By measuring the NF-xB DNA binding activity in the nuclei of cells stimulated with PMA and either co-stimulated with ionomycin or transfected with ACaM-AI ( Figure 2A ) we can demonstrate that the latter two explanations need not be invoked to understand the effect of calcineurin .
+Cells treated with PMA and ionomycin produce 4-fold more NF-xB DNA binding activity than cells treated with PMA alone ( Figure 2A , compare lanes 2 and 4 ) .
+This correlates exactly with the fold stimulation observed for enhancer activation under similar conditions .
+Similarly , ACaM-Al-transfected PMA-treated cells produced 3-fold more nuclear NF-xB DNA binding activity than control PMA -treated cells ( Figure 2A , compare lanes 2 and 14 ) .
+In these experiments FACS quantitation of transfected cells using B-galactosidase produced by co-transfected DNA ( pCMV-Gal ) as a marker indicated that 25 % of the cell population express the gene product ( data not shown ) .
+Therefore in populations of cells transfected with a plasmid encoding ACaM-AI the observed 3-fold increase of total NF-xB DNA binding activity within the whole population represents a 12-fold increase within cells actually expressing ACaM-AI .
+This number correlates very well with the observed 15-fold increase in NF-xB-dependent promoter activity ( Figure 1C ) .
+In addition , the NF-xB DNA binding activity induced by expression of ACaM-AI was qualitatively similar to that induced by treatment with ionomycin ( Figure 2A , compare lanes 2 and 4 , 2 and 14 ) .
+These results demonstrate that no Ca*+*-dependent event other than calcineurin activation need be invoked to explain the effects of ionomycin on NF-xB-dependent enhancer activity .
+Further , the effect of ACaM-AI on induction of NF-xB DNA binding activity , like that of the Ca*+ ionophore , is sensitive to FK-506 ( Figure 2A , compare lanes 4 and 5 , 14 and 15 ) , demonstrating that the effect of ACaM-AI is through its phosphatase activity rather than any non-specific effect of mutant protein over-expression .
+Note that in all cases the effects of both PMA and calcineurin are specific for NF-xB .
+As expected ( Ullman et al .
+, 1991 ) , Oct-1 DNA binding activity was not affected by any treatment ( Figure 2A , lanes 8-12 and 20-24 ) .
+These results indicate that , in Jurkat cells , a rise in intracellular activates calcineurin , which in turn enhances PMA-dependent induction of NF-xB DNA binding activity and thus of an NF-xB-dependent enhancer .
+The NF-xB induced by calcineurin consists of p50/p65 heterodimers Members of a family of DNA binding proteins , consisting most notably of p50 , p65 and c-Rel , are known to have relatively high affinity for the DNA sequences defined as NF-xB binding sites ( Baeuerle , 1991 ) .
+These proteins have been observed to bind DNA in a variety of dimeric configurations .
+A p50/p65 heterodimer is the prototypic NF- 863 B.Frantz et al .
+ACaM-Al = = S , x NL is o Ss ACaM-Al + + Fig .
+3 .
+A graphic representation of the CAT activity produced by transiently transfected Jurkat cells .
+Jurkat cells were transfected with increasing concentrations of pSRaMAD3 and the promoter-reporter-CAT plasmids pTAn.xB.6 ( A ) , pTAn.E.3 ( B ) or pTAn.IL ( C ) or with reporter plasmid pTAn.xB.6 without ( - ) or with ( + ) without ( D ) or with ( E ) the calcineurin expression plasmids pSRa4ACaM-AI and Transfected cells were untreated ( lI ) or treated with PMA ( & ) or PMA + ionomycin ( MB ) .
+For each promoter the CAT activity induced by the indicated treatment is shown relative to the CAT activity of the 0 ug pSRaMAD3 control induced with PMA +ionomycin , which was set to 100 .
+2.5 ug of pTAn.xB.6 or pTAn.E.3 and 4 ug of pTAn.IL were used and for the experiments represented by panels A-C the indicated quantities of pSRaMAD3 were used , the total amount of DNA in the transfection being maintained by varying the concentration of pSRa .
+The titrations of IxB were repeated three times , each yielding the same trend demonstrated by panels A-C .
+Panels D and E are single representative points taken from an experiment in which pSRaMAD3 was titrated into transfections with or without a constant concentration of pSRa4ACaM-AI and pSReCaNB .
+To simplify presentation we selected a point in the titration at which both IxB-dependent inhibition of enhancer activity and reversal by calcineurin were observed .
+At high concentrations of pSRaMAD3 calcineurin no longer reverses inhibition of NF-xB-dependent enhancer activity ( data not shown ) .
+In the experiments represented by panels D and E , 1.25 ug of pSRaMAD3 , 10 ug of pSRa4ACaM-AlI and 5 ug of pSRoCaNB were used where indicated , and again the total amount of DNA in the transfection was maintained by addition of pSR « .
+xB , and it normally exists in the cytoplasm of uninduced non-B cells in a non-DNA binding state complexed with a third protein , IxB , the inhibitor of NF-xB .
+This NF-xB DNA binding activity can be released by treating cytoplasm from uninduced cells with deoxycholate ( Baeuerle and Baltimore , 1988a , b ) .
+To characterize the NF-xB-like DNA binding activity observed in Figure 2A we treated the cytosolic fraction from uninduced Jurkat cells with deoxycholate ( Figure 2B , lanes 1 and 2 ) , revealing NF-xB .
+The mobility of the deoxycholate-induced cytoplasmic activity is identical to the ( ionomycin+PMA ) -induced nuclear species ( Figure 2B , lanes 2 and 3 ) .
+In addition , pre-incubation of nuclear extracts from ( ionomycin+PMA ) -treated cells with antibodies to the NF-xB subunits p65 ( Figure 2C , lanes 1-3 ) and p50 ( Figure 2D , lanes 1-3 ) specifically eliminated a large proportion of the induced DNA binding complex and caused the appearance of new , diffuse complexes that had lower mobility .
+The p65-specific antibody was raised against a peptide unique to the p65 protein .
+The p50 antibody was raised against full length p50 protein and has been demonstrated not to cross-react with other Rel-related proteins ( Kieran et al .
+, 1990 ) ; similar 864 results were obtained with antibodies raised against the nuclear localization signal of p50 which is conserved between p50 and p49/p50B ( Schmid et al .
+, 1991 ) but not other Rel proteins .
+Taken together these data indicate that in Jurkat cells calcineurin enhances PMA-dependent activation of the prototypic p50/p65 NF-xB transcription factor .
+Calcineurin acts in synergy with PMA to inactivate IxB There are several ways in which calcineurin could act in synergy with PMA to induce NF-xB DNA binding activity .
+Two of these do not depend on new protein synthesis .
+The p50 ( 50 kDa ) subunit of NF-xB is derived from a 105 kDa precursor protein ( Fan and Maniatis , 1991 ) .
+The rate of processing of precursors to p50-related proteins could be increased by calcineurin , generating higher levels of cytoplasmic NF-xB while PMA would be required to release the NF-xB from IxB ( Ghosh and Baltimore , 1990 ; Shirakawa and Mizel , 1989 ) .
+Alternatively , PMA alone could stimulate inactivation of IxB at some rate and calcineurin could increase that rate .
+Other calcineurin-dependent mechanisms of increasing the amount of NF-xB released by PMA , such as increasing the rate of subunit synthesis , would entail new protein synthesis .
+To distinguish between a pre- and post-synthetic mechanism of calcineurin action we measured the level of nuclear NF-xB induced by PMA and ionomycin , after cycloheximide pretreatment , and in the presence or absence of FK-506 ( Figure 2E ) .
+Cycloheximide treatment did not prevent the ionomycin-dependent enhancement of PMA-induced NF-xB DNA binding activity ( Figure 2E , compare lanes 4 and 8 ) .
+As expected the PMA-dependent induction is resistant to FK-506 ( Figure 2E , compare lanes 4 and 5 ) and the ionomycin effect is still completely sensitive to the drug ( Figure 2E , compare lanes 8 and 9 ) .
+Induction of NF-xB by a post-translational event might be accomplished by calcineurin stimulating an increase in either p50 precursor processing or IxB inactivation .
+Since others have observed only low levels of proteolytic processing of p105 in Jurkat cells stimulated with PMA and PHA ( Mercurio et al .
+, 1993 ) we decided to assess the effect of calcineurin on IxB function .
+One of the prevalent species of mammalian IxB ( IxBa ) is encoded by the cDNA identified as MAD3 ( Haskill et al .
+, 1991 ; Beg et al .
+, 1992 ) .
+In transient transfection experiments expression of a cDNA encoding the c-Rel-associated IxB , pp40 , has been demonstrated to decrease expression of NF-xB-dependent promoters ( Inoue et al .
+, 1992 ) .
+In our Jurkat cells co-transfection of an expression vector encoding IxB/MAD3 inhibited NF-xB-dependent promoter activity 80 % without inhibiting activity of an IL-2E-dependent promoter ( Figure 3A and B ) .
+The IL-2 promoter was also inhibited by co-transfection of the IxB/MAD3 cDNA , directly demonstrating the importance of NF-xB in IL-2 transcription ( Figure 3C ) .
+If calcineurin induces NF-xB DNA binding activity by stimulating the inactivation of IxB , and if calcineurin activity is limiting for the inactivation of IxB , then over-expression of calcineurin should compensate for expression of the MAD3 cDNA and prevent the MAD3-dependent inhibition of NF-xB-dependent promoter activity .
+Co-transfection of an appropriate concentration of IxB expression plasmid inhibited 60-70 % of PMA- or ( PMA + ionomycin ) -induced NF-xB-dependent enhancer activity ( Figure 3A and D ) .
+When ACaM-AI was included in the transfection ( Figure 3E ) the same amount of IxB expression plasmid had no effect on PMA induction and only slightly inhibited PMA and ionomycin induction of NF-xB-dependent enhancer activity .
+Increased concentrations of IxB caused greater inhibition of the NF-xB-dependent enhancer ( Figure 3A ) and ACaM-AI can no longer reverse its inhibitory effect ( data not shown ) .
+These data are consistent with the hypothesis that calcineurin induces NF-xB by participating in the inactivation of IxB , but because we are measuring IxB activity indirectly , other explanations can not be ruled out by this experiment .
+We therefore proceeded to measure directly the effect of calcineurin activity on IxB protein .
+Events which induce nuclear localization of NF-xB also cause degradation of IxB protein ( Beg et al .
+, 1993 ; Brown et al .
+, 1993 ; Sun et al .
+, 1993 ) .
+To demonstrate directly a calcineurin-dependent effect on IxB we measured the level of endogenous IxB in Jurkat cells after treatment with PMA and ionomycin .
+FK-506 inhibited the ionomycin-dependent decrease in the amount of IxB ( Figure 4A , compare lanes 2 , 3 and 4 ) .
+To prove that the reduction of IxB induced by Calcineurin stimulates inactivation of IxB A ( J - 8 & -s an Fig .
+4 .
+( A ) Assay for endogenous IxB by immunoprecipitation and Western blot .
+Jurkat cells were treated for 15 min as indicated : p , PMA ; i , ionomycin ; 5 , FK-506 .
+Whole cell extracts were prepared by detergent lysis and IxB was precipitated from the extracts with rabbit antiserum prepared against bacterially produced recombinant MAD3 .
+Precipitates were further fractionated by denaturing PAGE and then transferred to PVDF membrane .
+IxB was visualized by immunostaining with the MAD3 antiserum .
+IxB is marked with an arrow , a non-specific protein that cross-reacts with this antiserum is indicated by 'ns ' .
+( B ) Assay for transfected IxB/MAD3-hisg by NiZ* -agarose precipitation and Western blot .
+For each lane 108 Jurkat cells were transfected with 12.5 ug of pSRuMAD3-hisg and the calcineurin expression plasmids pSRo4ACaM-AI ( 100 ug ) and pSRaCaNB ( 5 ug ) as indicated .
+After 16 h transfected cells were treated for 30 min with PMA and FK-506 as indicated .
+Whole cell extracts were prepared by guanidinium lysis and the IxB/MAD3-his , was precipitated with -agarose and visualized by immunostaining with the MAD3 antiserum as above .
+Bacterially produced IxB ( rIxB ) , marked with an arrow , is present in lane 5 ; a non-specific protein that precipitates with Ni # +-agarose and cross-reacts with the antiserum is indicated by 'ns ' .
+ionomycin results from calcineurin activity we transiently co-expressed an IxB/MAD3-his4 fusion protein and ACaM-AI in Jurkat cells and compared the levels of before and after treatment with PMA in the presence or absence of FK-506 ( Figure 4B ) .
+The calcineurin activity provided by ACaM-AI significantly increased degradation of IxB/MAD3-his4 initiated by PMA ( Figure 4B , compare lanes 3 and 4 ) .
+Thus , as with induction of NF-xB-dependent enhancer activity , and induction of nuclear NF-xB DNA binding activity , the ionomycin-dependent , FK-506-sensitive reduction of cytoplasmic IxB can be fully explained by the activation of calcineurin phosphatase activity resulting from increased levels of intracellular Ca** .
+A comparison of the data in Figures 1C ( PMA without or with ionomycin and 2A ( lanes 2 and 4 ) with those in Figure 4A ( lanes 2 and 3 ) would seem to suggest that the effect of calcineurin on reduction of IxB might not be as great as its effect on the induction of NF-xB-dependent transcription or DNA binding activity .
+Our experiments do not rule out the possibility that calcineurin can activate NF-xB-dependent transcription activation by mechanisms in addition to reducing the amount of IxB .
+However , the apparent discrepency can be explained at least in part by considering differences in the nature of the events being assayed in the different experiments .
+The induction of transcription activity or DNA binding activity is apparent as an accumulation of material , and so an integration of the signal across time is inherent in a single measurement .
+In contrast , no matter how effective the events causing a reduction in the amount of IxB are , the concentration of IxB can not decrease beyond zero ; however , the rate at which IxB is eliminated or the duration of its reduction can be affected as well and these changes would not be apparent from a single time point .
+Thus if calcineurin activity causes 865 B.Frantz et al .
+either a more rapid or a longer-lived reduction in the amount of IxB the result will be an observed increase in the amount of nuclear NF-xB , related to both the extent of IxB degradation and its duration .
+However , the change in NF-xB is an indirect measure ; a direct measure would require a time course of IxB degradation and resynthesis .
+Such an experiment is shown in Figure 5 .
+It is apparent that co-treatment with ionomycin causes the degradation of IxB to occur more quickly and to a greater degree than treatment with PMA alone ( Figure 5 ) .
+It is important that both of these effects be taken into account when comparing the increase in NF-xB-dependent transcription and NF-xB DNA binding activity caused by calcineurin with its effects on IxB .
+It has been proposed that inactivation of IxB is a two-step process during which IxB is first covalently modified and then rapidly degraded ( Beg et al .
+, 1993 ; Brown et al .
+, 1993 ) .
+Calcineurin might increase the rate of IxB degradation by stimulating either step .
+These alternative possibilities can not be distinguished by the experiments described above as we saw no evidence of a modified version of either endogenous or transiently expressed IxB in response to either PMA treatment alone or together with calcineurin activation ( Figure 4A and B ) .
+In an attempt to distinguish between modification and degradation as the step at which calcineurin acts we overwhelmed the degradation pathway by increasing the amount of IxB in the cytoplasm of Jurkat cells to extremely high levels .
+If calcineurin increases the rate of IxB modification we might then observe the short-lived intermediate , dependent on calcineurin activity .
+If , on the other hand , calcineurin stimulates the proteolysis there could be no calcineurin-dependent increase in this species .
+In Jurkat cells transfected with 10 times more IxB/MAD3-hisg cDNA than in the experiment shown in Figure 4B there was virtually no reduction in the amount of cytoplasmic IxB after treatment with PMA in the presence of calcineurin activity ( Figure 6A , compare lanes 1 and 3 ) ; however , a novel , more slowly migrating species of IxB appeared under these conditions ( Figure 6A , lane 3 ) .
+This species has a similar mobility to a modified endogenous IxB that has been observed in different cell types after treatment with other inducers of NF-xB ( Beg et al .
+, 1993 ; Brown et al .
+, 1993 ) .
+The more slowly migrating species was not apparent after treatment with FK-506 ( Figure 6A , compare lanes 3 and 2 ) demonstrating that calcineurin phosphatase activity participates in generating this form of IxB .
+This species of IxB was eliminated by treatment with alkaline phosphatase ( Figure 6B , compare lanes 2 and 3 ) suggesting that it results from the phosphorylation of IxB .
+A simple interpretation of these data is that calcineurin acts in synergy with PMA to inactivate IxB by co-activating a kinase .
+Further speculation about the mechanism of calcineurin function in this regard will have to await phosphopeptide mapping of IxB before and after treatment with calcineurin as well as the identification of a calcineurin-responsive kinase .
+Discussion With the identification of calcineurin as the CsA/FK-506-sensitive enzyme essential for T cell activation ( Liu er al .
+, 1991 ; Clipstone and Crabtree , 1992 ; O'Keefe et al .
+, 1992 ) , numerous observations of Ca +*-dependent , FK-506/CsA-sensitive promoter activities ( Kronke et al .
+, 1984 ; Granelli-Piperno et al .
+, 1986 ; Durand et al .
+, 1988 ; 866 Fig .
+5 .
+Assay for endogenous IxB by Western blot .
+Jurkat cells were treated with PMA ( 20 ng/ml ! )
+alone or both PMA and ionomycin and at the indicated times after treatment cells were harvested and lysed as described in Materials and methods .
+Equal quantities of protein from these whole cell extracts were separated by electrophoresis , transferred to membrane and probed with anti-MAD3 antiserum .
+Cells labeled as O min were untreated .
+Fig .
+6 .
+( A ) Assay for transfected IxB/MAD3-hisg by Ni # Z+ -agarose precipitation and Western blot .
+10 % Jurkat cells were transfected with 100 ug of pSRaMAD3-hisg and the calcineurin expression plasmids pSRa4ACaM-AI ( 100 ug ) and pSRaCaNB ( 5 ug ) as indicated .
+After 16 h the cells were treated for 10 min as indicated : p , PMA ; i , ionomycin ; 5 , FK-506 .
+Extracts were prepared and IxB/MAD3-his , was purified and visualized as in Figure 4B .
+Normal IxB/MAD3-hisg is marked with an arrow and a lower mobility species is marked with an asterisk .
+( B ) Calf intestinal alkaline phosphate treatment of Ni * -agarose precipitated IxB/MAD3-hiss .
+Jurkat cells were transfected as in panel A and treated for 10 min as indicated .
+After the was precipitated from PMA-treated cells it was divided into three aliquots and left untreated ( lane 2 ) , treated with 30 U of calf intestinal alkaline phosphatase ( CIP , lane 3 ) , or 30 units of CIP in the presence of the phosphatase inhibitors Na ; VO4 and NaF ( lane 4 ) .
+Emmel et al .
+, 1989 ; Gunter et al .
+, 1989 ; Tocci et al .
+, 1989 ; Randak et al .
+, 1990 ; Schmidt et al .
+, 1990 ; Todd et al .
+, 1993 ) imply that this protein phosphatase is a key co-inducer of either a variety of transcription factors or a single , broadly acting transcription co-activator .
+The FK-506/CsA-sensitive induction of several DNA binding factors by a combination of Ca `` +* and PMA ( Brabletz et al .
+, 1991 ; Emmel et al .
+, 1989 ; Flanagan et al .
+, 1991 ; Schmidt et al .
+, 1990 ) supports the former conclusion but no direct evidence has yet been offered .
+Since Ca°+* activates both CsA/FK-506-sensitive and -resistant signal transduction pathways in a T cell ( Mattila et al .
+, 1990 ; Altmeyer et al .
+, 1991 ) the function of a Ca* *-activated transcription factor might appear drug-sensitive , even though it is not activated by calcineurin , because it is dependent on the function of another , calcineurin-activated , factor .
+This potential complexity would make it impossible to distinguish , simply by sensitivity to the immunosuppressants , the specific transcription factors that are activated by through calcineurin from those molecules that are activated by Ca** through another mechanism but which are dependent on calcineurin-mediated events for their function .
+Further , promoter activation in response to a combination of calcineurin , and PMA ( Clipstone and Crabtree , 1992 ; O'Keefe et al .
+, 1992 ) might be the result of a single transcription factor requiring all three stimuli for activation , or of promoter activity requiring multiple factors , each activated by a different combination of stimuli .
+The work described in this communication was undertaken to assess whether calcineurin activation can account for all of the effects of free intracellular and to define specific calcineurin-mediated events required for induction of the IL-2 promoter .
+To achieve this goal we have used transient transfection of a Ca `` *-independent , constitutively active form of calcineurin , ACaM-AlI , to demonstrate that the Ca*+-dependence of certain events can either be attributed to the requirement for calcineurin activity , as is the case with NF-xB activation , or a requirement for both calcineurin activity and another Ca*+*-dependent event , as is the case with the NF-AT and OAP/Oct enhancer element induction .
+We are also able to demonstrate that , in the case of NF-xB , PMA and ionomycin synergize by virtue of the ability of calcineurin to enhance the PMA-initiated degradation of an NF-xB inhibitor protein ( IxB ) .
+Two distinct Ca +-dependent enzymes participate in activation of the IL-2 promoter In Jurkat T cells accumulation of c-fos mRNA is increased by treatment with Ca*+* ionophore ( Mattila ert al .
+, 1990 ) .
+This Ca** response is not mediated by calcineurin since it can not be inhibited by either FK-506 or CsA .
+Despite the fact that the c-fos gene product is a component of the transcription factor AP-1 , which is believed to participate in transcription from the IL-2 promoter both alone ( Jain et al .
+, 1992a ) and as a component of NF-AT ( Jain et al .
+, 1992b ) , there has been no indication that this non-calcineurin , Ca `` event plays a role in IL-2 transcription .
+Through use of the Ca**+-independent deletion mutant of calcineurin , ACaM-AI , we have demonstrated that , like the complex IL-2 promoter , three of four enhancer elements associated with the IL-2 promoter can not be maximally activated by the combination of PMA and calcineurin alone ; treatment with ionophore is also required ( Figure 1A , B and D ) .
+One explanation for this observation is that a non-calcineurin , Ca `` *-dependent event results in the production or activation of transcription factors ( such as c-Fos ) that are necessary but not sufficient for maximal IL-2- , IL-2A¥- , IL-2E- or AP-l-dependent promoter activities .
+Another possible explanation for this observation , in the case of the IL-2 , IL-2A and IL-2E enhancers , is that transfection of ACaM-AI provides only a small fraction of the calcineurin activity obtained by treatment of cells with ionomycin .
+However , we think this possibility is unlikely since the enhancer element which depends on NF-xB was two to three times more active when co-transfected with ACaM-AI than when treated with ionomycin and was not further activated by treatment with ionomycin after co-transfection with ACaM-AI .
+Therefore we conclude that ACaM-AI co-transfection provides at least two to three times as much calcineurin activity as treatment with ionomycin and thus that the increase in IL-2 , IL-2A and IL-2E enhancer activities observed after co-transfection with ACaM-AlI and treatment with ionomycin can not be the result of activating endogenous , wild-type calcineurin , but must reflect activation of a non-calcineurin , Ca**+-dependent pathway of transcription activation that can stimulate specific enhancer elements .
+Calcineurin stimulates inactivation of IxB As noted , the B-dependent enhancer is two to three times more active in PMA-treated cells that have been transfected with ACaM-AI than in control transfected cells treated with PMA and ionomycin ( Figure 1C ) .
+This strongly suggests that in these cells calcineurin activity limits NF-xB activity .
+Similarly , in cells treated with PMA and ionomycin the IL-2A element is more active in the presence of ACaM-AI than in its absence ( Figure 1A ) .
+Thus in our Jurkat cells the activity of this element is also limited by the availability of active calcineurin .
+By the converse argument , activity of the IL-2E element must be limited by some other activation event ( Figure 1B ) .
+It could be argued that the NF-xB-dependent enhancer is not stimulated by treatment with ionomycin after co-transfection with ACaM-AI because either the transfection process itself creates a signal that makes treatment with ionomycin superfluous or the overexpression of a constitutive calcineurin provides increased levels of intracellular Ca*+ .
+This seems unlikely for two reasons .
+First , this enhancer is dependent on ionomycin treatment for maximal activity when it is co-transfected with a control DNA which does not express ACaM-AI , thus the transfection process itself is not providing a signal that obviates the need for ionomycin .
+Second , since the IL-2 , IL-2A and IL-2E enhancers all demonstrate a requirement for ionomycin co-stimulation in the presence of co-transfected ACaM-AlI , the expression of this mutant calcineurin is not causing a significant rise in the level of intracellular Ca** .
+It is interesting to note that despite the fact that the act1v1ty of the IL-2A element is completely sensitive to both FK-506 and CsA , no drug-sensitive biochemical event relevant to this element has yet been documented .
+Furthermore , there is no direct evidence , of the kind we have provided in this communication , demonstrating the role of calcineurin in the induction of NF-AT ( IL-2E ) DNA binding activity .
+Thus there remain unidentified , calcineurin-dependent transcription activation events which function through IL-2 and perhaps also through IL-2E .
+Calcineurin can negatively modulate promoter activity Treatment with ionomycin or the presence of the constitutive mutant calcineurin has a deleterious effect on activation of an AP-1-dependent enhancer by PMA ( Figure 1D ) .
+While treatment with FK-506 has no effect on the activity of this enhancer after induction with PMA alone ( data not shown ) , FK-506 , in the presence of both PMA and ionomycin , always increases promoter activity .
+These observations suggest that in T cells AP-1-dependent transcription activation can be both positively and negatively regulated by Ca** : negatively through calcineurin and positively through a non-calcineurin , Ca*+-responsive effector .
+Qualitatively similar data have been reported previously , though with greater suppression of PMA induction by ionomycin , and only recovery to PMA-induced levels by treatment with FK-506 ( Ullman et al .
+, 1993 ) .
+This would be consistent with varying ratios of positive and negative regulators , depending on the cell line .
+These observations suggest the possibility that one function of calcineurin in any cell type may be negative regulation of promoters that are very dependent on AP-1 for activity and thus that FK-506 and CsA toxicities could result from transcription activation rather than suppression .
+867 B.Frantz et al .
+Calcineurin activates NF-xB by inactivating IxB NF-xB is a paradigm for a class of transcription factors which can initiate a cascade of transcription-dependent events , such as is required for T cell activation ( Crabtree , 1989 ) , because their activation is due to release from inhibition rather than de novo synthesis ( Baeuerle , 1991 ; Blank er al .
+, 1992 ) .
+This transcription factor plays an important role in activating the IL-2 promoter in T cells ( Hoyos et al .
+, 1989 ; Shibuya et al .
+, 1989 ; Baumann et al .
+, 1991 ; Briegel eral .
+, 1991 ) ( and Figure 3 ) as well as numerous other promoters , in many cell types ( Baeuerle , 1991 ) .
+Therefore understanding how calcineurin activates NF-xB might provide generalizable insights into the mechanisms by which this transcription factor is controlled .
+The NF-xB-dependent enhancer , like the others tested , requires both PMA and Ca** initiated events to achieve maximal activity in Jurkat T cells and , as previously observed ( Mattila eral .
+, 1990 ) , Ca°+ activation of the NF-xB-dependent enhancer is sensitive to FK-506 .
+However , as defined by the extent of its response to ACaM-AI , the NF-xB-dependent enhancer is unique in responding to Ca*+ only through calcineurin ( Figure 1C ) .
+Thus NF-xB activity provides the simplest available assay for calcineurin function in T cells .
+The data presented above demonstrate calcineurin-dependent post-translational activation of NF-xB by inactivation of IxB .
+Several protein kinases inactivate IxB in vitro ( Ghosh and Baltimore , 1990 ; Shirakawa and Mizel , 1989 ) and are thought to play a role in the activation of NF-xB in vivo .
+The data presented here constitute the first demonstration in vivo of the involvement of a protein phosphatase in the activation of NF-xB through inactivation of IxB .
+In vitro , dephosphorylation of IxB-8 inactivates it ( Kerr et al .
+, 1991 ; Link et al .
+, 1992 ) suggesting that this class of IxB may be a substrate for calcineurin .
+However , the FK-506-sensitive appearance of a phosphorylated form of IxB ( Figure 6A and B ) suggests the possibility that calcineurin activates a protein kinase , which inactivates IxB by phosphorylation .
+While there are no data yet available to prove that the modification is an essential prelude to degradation of IxB , and thus activation of NF-xB , the events required to cause the induction of nuclear NF-xB and the reduction of cytoplasmic IxB correlate extremely well with the appearance of the more slowly migrating , phosphorylated IxB species .
+A model explaining the participation of calcineurin in IxB modification as well as its dependence on PMA for activity can be found in the activation of the cell cycle regulated kinase ( Minshull , 1993 ) .
+This kinase must be phosphorylated at certain amino acids and dephosphorylated at others in order to achieve maximal activity .
+Perhaps a similarly regulated kinase modifies IxB at a certain rate when specific sites are phosphorylated by a kinase activated by PMA ( e.g .
+protein kinase C ) and at a higher rate when dephosphorylated at other sites by activation of calcineurin .
+This would be one mechanism by which two independent signals emanating from the T cell antigen receptor could be integrated and regulated .
+NF-xB is virtually ubiquitous ( Baeuerle , 1991 ) and therefore some of the mechanism-based toxicities associated with FK-506 and CsA might result from inhibition of calcineurin-dependent NF-xB induction .
+Alternatively , a kinase activated by calcineurin could have roles in non-T cells other than inactivation of IxB .
+Thus further analysis 868 determining whether calcineurin can induce NF-xB in non-T cells and the identification of a calcineurin-activated kinase might lead to a better understanding of the toxicities of these drugs .
+Materials and methods Tissue culture Jurkat T cells were passaged and transfected , and reporter genes were assayed as described ( O'Keefe er al .
+, 1992 ) .
+Briefly , cells were grown to a density of 4-6 x 105/ml .
+Transfection was by electroporation ( 10 ' cells in 300 ul of RPMI , 10 % FCS ; room temperature , 960 uF , 250 V , 0.4 cm cuvette , Bio-Rad Gene Pulser ) .
+Final concentrations of inducers ( except where noted ) and inhibitors were : PMA , 25 ng/ml ; ionomycin , 3.5 ug/ml ; FK-506 , 10 ng/ml .
+Before activation or drug treatment each culture of transfected cells was divided into the appropriate number of aliquots .
+After treatment ( 12-16 h ) cells were harvested , lysed and assayed for CAT ( Gorman et al .
+, 1982 ) and B-galactosidase ( Hollon and Yoshimura , 1989 ) activities .
+Plasmid constructs The test promoters are in either pDAn.O0.CAT or pTAn.0.CAT ( as indicated ) which were derived from pSV2cat ( Gorman er al .
+, 1982 ) by deleting the NdeI - HindIII fragment ( containing the SV40 early promoter ) and replacing it with a polylinker ( Ndel , BgM , Smal , Clal , HindIII ) and then inserting two ( D ) or three ( T ) tandem copies of an SV40 polyadenylation sequence , bp 2532-2774 of SV40 ( Tooze , 1982 ) from plasmid p63-29 , kindly provided by Dr G. Hollis ( MRL ) into the Bg/II site .
+pDAn.yf.CAT contains a gamma-fibrinogen basal element ( Durand er al .
+, 1988 ) inserted between the polyadenylation sequences and the CAT gene .
+pTAn.A.4 and pTAn.E.3 contain the synthetic promoters from pA 4.1 and pE 3.1 ( Durand et al .
+, 1988 ) similarly inserted .
+pTAn.xB.6 contains a promoter consisting of six copies of an NF-xB binding site from the CMV-IE promoter ( CTAACGGGACTTTCCAA ) derived from a plasmid provided by M. Stinski ( University of Iowa , Iowa City ) fused to the y-fibrinogen basal element and inserted as the others .
+pDAn.AP-1.3 contains a promoter consisting of three copies of the AP-1 binding site found in the human metallothionein IIA promoter ( GTGACTCAGCGCG ) ( Angel et al .
+, 1987 ; Lee et al .
+, 1987 ) fused to the same basal element and inserted as the others .
+pTAn.IL is similar to p ( An ) IL2.CAT ( O'Keefe er al .
+, 1992 ) , except that it contains a series of three SV40 polyadenylation signals rather than one .
+pCMV.Gal and peDL-SRa296 were previously described ( O'Keefe et al .
+, 1992 ) .
+pSRa4ACaM-Al is similar to the previously described pSRa-ACaM-AI ( O'Keefe et al .
+, 1992 ) except that it contains an additional 75 bp of 5 ' untranslated sequence from CNo4 ( Kincaid er al .
+, 1990 ) .
+pSRoCaNB contains the coding region of the regulatory subunit of murine calcineurin ( Ueki er al .
+, 1992 ) inserted between the Psfl and KpnI sites of peDL-SRo296 .
+pSRaMAD3 contains the coding region of the cDNA MAD3 ( Haskill et al .
+, 1991 ) from the plasmid pC3a/MAD3 inserted between the EcoRI site of the expression plasmid peDL-SRa296 .
+pSRaMAD3-hisg is identical to pSRaMAD3 except that it has six histidine codons fused to the 3 ' end of MAD3 .
+Extract preparation When extracts were made from transfected cells each was generated from 2 x 10 `` cells transfected with 30 ug of DNA .
+16-18 h after transfection cultures were treated as indicated and incubated for varying lengths of time .
+Cells were harvested by centrifugation , washed once with PBS , resuspended in 300 al of buffer A and incubated on ice ( in a 1.5 ml Eppendorf tube ) for 15 min .
+15 gl of 10 % NP-40 was then added and immediately thereafter the nuclei were separated from the cytosol by centrifugation at high speed in an Eppendorf centrifuge .
+The supernatant , referred to as the cytosolic fraction , was removed and stabilized by the addition of 60 gl of 50 % glycerol .
+The nuclear peliet was resuspended in 100 41 of buffer C by vigorous pipetting and then gently rocked for 30 min at 4°C .
+The nuclei were removed by high speed centrifugation for 5 min in an Eppendorf centrifuge .
+This supernatant is referred to as the nuclear extract .
+Cytoplasmic fraction or nuclear extract were used immediately or aliquoted and frozen in liquid N ; .
+Buffer A contains 10 mM HEPES ( pH 7.5 ) , 2 mM MgCl , , 15 mM KCl , 0.1 mM EDTA , 0.1 mM EGTA , 1 mM DTT , 0.5 mM PMSF , 2 ug/ml leupeptin and 2 ug/ml aprotinin .
+Buffer C contains 25 mM HEPES ( pH 7.5 ) , 400 mM NaCl , 1 mM EDTA , 20 % glycerol , 1 mM DTT , 0.1 % NP-40 , 0.5 mM PMSF , 2 ug/ml leupeptin and 2 ug/ml aprotinin .
+When extracts were generated from non-transfected cells , similar cell numbers and volumes were used .
+DNA binding assay Binding reactions were carried out in 20 al volumes consisting of 12.5 mM HEPES pH 7.5 , 10 mM Tris pH 7.5 , up to 200 mM NaCl , 50 mM KCI , 0.5 mM EDTA , 0.5 mM DTT , 0.05 % NP-40 , 12 % glycerol , 250 ug/ml BSA , 2 ug poly ( dI-dC ) and 100 pg of end-labeled double-stranded oligonucleotide .
+To visualize NF-xB DNA-protein complexes 15 ug of cytosolic fraction or 8 ug of nuclear extract was used ; to visualize Oct-1 DNA-protein complexes , 15 pg of cytosolic fraction or 4 ug of nuclear extract was used .
+Anti-p65 antibody [ sc-109X % X , raised against an amino-terminal peptide ( ELFPLIFPAEPAQASGP ) ] and the anti-peptide antibody to p50 ( p50 AX , NLS raised against the peptide CYPEIKDKEEVQRKR ) were purchased from Santa Cruz Biotechnology Inc. ( Santa Cruz , CA ) .
+The anti-p50 antiserum was raised against recombinant KBF1 ( Kieran ert al .
+, 1990 ) .
+Protein fractions were mixed with all components of the reaction except labeled probe , which was added last .
+When extracts were treated with DOC the protein component of a reaction was brought to a volume of 10 pl .
+Sequentially , 2 al of 10 % DOC , the other reaction components , the labeled probe and 2 al of 10 % NP-40 were added .
+Reactions were incubated on ice for 30 min and protein-DNA complexes were resolved by electrophoresis ( Fried and Crothers , 1981 ; Garner and Revzin , 1981 ) on a 5 % polyacrylamide gel in 0.5 x TBE ( Maniatis et al .
+, 1982 ) .
+The sequence of the NF-xB probe was 5'-CTAGACTAACGGGACTITT-CCAAGAG-3 ' .
+The sequence of the Oct probe was 5'-CTAGATATGCAA-ATCATTG-3 ' .
+Probes were end-labeled with 32P by T4 polynucleotide kinase using standard procedures .
+Images of the dried gel and quantitation of protein-DNA complexes were obtained from 12-24 h exposures with a PhosphorImager ( Molecular Dynamics , Sunnyvale , CA ) .
+Visualization of IxB For Western blotting of whole cell lysates 4 x 106 Jurkat cells were washed once in 1 ml of cold PBS containing 1 mM Na ; VO , and lysed on ice for 20 min in 250 gl of a buffer containing 50 mM Tris-HCl ( pH 7.5 ) , 150 mM NaCl , 1 % Triton X-100 , 2 mM EDTA , 1 mM EGTA , 50 mM NaF , 1 mM PMSF , 10 pg/ml aprotinin , 10 ug/ml leupeptin , 10 pg/ml pepstatin and 1 mM Na ; VO4 .
+Protein concentrations were determined using standard Bradford Reagent ( Bio-Rad ) .
+100 ug of protein were separated by electrophoresis in a 10 % polyacrylamide gel under denaturing and reducing conditions , transferred to PVDF ( Millipore ) membrane , immunoblotted with anti-MAD3 antiserum , and visualized by the ECL system ( Amersham ) .
+For immunoprecipitations cells were lysed in a buffer containing 50 mM Tris-HCI ( pH 7.5 ) , 150 mM NaCl , 1 % Triton X-100 , 2 mM EDTA , 1 mM EGTA , 50 mM NaF , 1 mM PMSF , 10 pg/ml aprotinin , 10 pg/ml leupeptin , 10 pg/ml pepstatin , 10 ug/ml antipain .
+Antibody -protein complexes were precipitated with protein G-agarose beads ( Gibco ) by standard procedures .
+For NiZ*t-agarose ( Qiagen , Chatsworth , CA ) precipitations 4 x 10 `` cells were lysed by a 30 min incubation in 1 ml of a buffer containing 6 M guanidine- HCl , 100 mM NaH , PO , ( pH 8 ) , 10 mM Tris-HCl ( pH 8 ) .
+Lysed cells were sheared with a 20g needle and then incubated with 100 L1 of Niz* -agarose beads .
+Protein was eluted in 500 gl of 4 M urea , 50 mM NaH ; PO , ( pH 8 ) , 5 mM Tris-HCl ( pH 8 ) , 500 mM imidazole ( pH 8 ) .
+The eluted protein was concentrated to 50 ul by ultrafiltration with a Millipore Ultrafree/MC ( 10 000 nominal mol .
+wt cut-off ) filtration unit .
+Precipitated proteins were separated by electrophoresis in a 5 % polyacrylamide gel under denaturing and reducing conditions .
+Proteins were transferred to PVDF membrane and immunoblotted by standard methods .
+Anti-MAD3 antiserum was raised against bacterially produced recombinant MAD3 .
+CIP treatment of precipitated IxB/MAD3-hisg was carried out with bovine alkaline phosphatase ( Sigma , P5521 ) for 15 min at 37°C in a buffer containing 10 mM Tris-HCl ( pH 8 ) , 20 ug/ml aprotinin , 10 ug/ml leupeptin , 10 ug/ml pepstatin , 1 mM PMSF .
+Phosphatase inhibitors used were 1 mM Na ; VO , and 1 mM NaF .
+Acknowledgements We are grateful to R.Boris for providing FK-506 , N. Arai ( DNAX , Palo Alto , CA ) for providing the plasmid , pecDL-SRa29 % 6 , G. Crabtree ( Stanford University , Palo Alto , CA ) for providing plasmids pA4.1 and pE3.1 , J.Siekierka for providing Jurkat cells , A.Israél ( Institute Pasteur , Paris , France ) for providing antibodies to p50 , G.Engler ( Chiron Corp. , Emeryville , CA ) for providing the plasmid pC3a , R.Hay ( University of St Andrews , St Andrews , Fife , Scotland ) for providing antibodies to MAD3 , P. Fischer and Dutch Boltz for help with FACS analysis and D. Weinberg , A. Williamson and R.Wobbe for critical reading of the manuscript .
+Calcineurin stimulates inactivation of xB References Alford , R.H .
+( 1970 ) J .
+Immunol .
+, 104 , 698-703 .
+Altmeyer , A. , Staruch , M.-J .
+, Fischer , P.A .
+, Durette , P.L .
+, Tocci , M.J. , Sigal , N.H .
+and Dumont , .F.J .
+( 1991 ) Int .
+J .
+Immunopharmac .
+, 13 , 1187-1199 .
+Angel , P. , Imagawa , M. , Chiu , R. , Stein , B. , Imbra , R.J. , Rahmsdorf , H.J .
+, Jonat , C. , Herrlich , P .
+and Karin , M .
+( 1987 ) Cell , 49 , 729-739 .
+Bacuerie , P.A .
+( 1991 ) Biochim .
+Biophys .
+Acta , 1072 , 63-80 .
+Bacuerle , P.A .
+and Baitimore , D .
+( 1988a ) Cell , 53 , 211-217 .
+Bacuerle , P.A .
+and Baitimore , D .
+( 1988b ) Science , 242 , 540-546 .
+Baumann , G. , Geisse , S .
+and Sullivan , M .
+( 1991 ) New Bio/ .
+, 3 , 270-278 .
+Beg , A.A. , Ruben , S.M .
+, Scheinman , R.I. , Haskill , S. , Rosen , C .
+and Baldwin , A.S. ( 1992 ) Genes Dev .
+, 6 , 1899-1913 .
+Beg , A.A. , Finco , T. $ .
+, Nantermet , P.V .
+and Baldwin , A.S. ( 1993 ) Mol .
+Cell .
+Biol .
+, 13 , 3301-3310 .
+Berridge , M.J. ( 1993 ) Nature , 361 , 315-325 .
+Blank , V. , Kourilsky , P .
+and Israél , A .
+( 1992 ) Trends Biochem .
+Sci .
+, 17 , 135-140 .
+Brabletz , T. , Pictrowski , L .
+and Serfling , E .
+( 1991 ) Nucleic Acids Res .
+, 19 , 61-67 .
+Briegel.K .
+, Hentsch , B. , Pfeuffer.I .
+and Serfling , E .
+( 1991 ) Nucleic Acids Res .
+, 19 , 5929-5936 .
+Brown , K. , Park , S. , Kanno , T. , Franzoso , G .
+and Sicbenlist , U .
+( 1993 ) Proc .
+Natl Acad .
+Sci .
+USA , 90 , 2532-2536 .
+Clipstone , N.A .
+and Crabtree , ( 1992 ) Nature , 357 , 695-697 .
+Crabtree , G.R .
+( 1989 ) Science , 243 , 355-361 .
+Durand , D.B .
+, Shaw , J.-P. , Bush , M.R .
+, Replogle , Belagaje , R .
+and Crabtree , G.R .
+( 1988 ) Mol .
+Cell .
+Biol .
+, 8 , 1715-1724 .
+Emmel , E.A .
+, Verweij , C.L .
+, Durand , D.B .
+, Higgins , K.M .
+, Lacy , E .
+and Crabtree , G.R .
+( 1989 ) Science , 246 , 1617-1620 .
+Fan , C.-M. and Maniatis , T .
+( 1991 ) Nature , 354 , 395-398 .
+Flanagan , M .
+W. , Corthesy , B. , Bram , R.J .
+and Crabtree , ( 1991 ) Nature , 352 , 803-807 .
+Fried , M. and Crothers , D. M. ( 1981 ) Nucleic Acids Res .
+, 9 , 6505-6525 .
+Fruman , D.A .
+, Klee , C.B .
+, Bierer , B.E .
+and Burakoff , S.J .
+( 1992 ) Proc .
+Nat !
+Acad .
+Sci .
+USA , 89 , 3686-3690 .
+Garner , and Revzin , A .
+( 1981 ) Nucleic Acids Res .
+, 9 , 3047-3060 .
+Ghosh , S .
+and Baltimore , D. ( 1990 ) Nature , 344 , 678-682 .
+Gorman , C .
+M. , Moffat , L.F .
+and Howard , B.H .
+( 1982 ) Mol .
+Cell .
+Biol .
+, 2 , 1044-1051 .
+Granelli-Piperno , A. , Andrus , L. and Steinman , R.M .
+( 1986 ) J. Exp .
+Med .
+, 163 , 922-937 .
+Gunter , Irving , $ .G .
+, Zipfel , P.F .
+, Siebenlist , U .
+and Kelly , K .
+( 1989 ) J .
+Immunol .
+, 142 , 3286-3291 .
+Haskill , $ .
+, Beg , A.A. , Tompkins , S.M .
+, Morris , J.S .
+, Yurochko , A.D. , Sampson-Johannes , A. , Mondal , K. , Ralph , P .
+and Baldwin , A.S. ( 1991 ) Cell , 65 , 1281-1289 .
+Hollon , T .
+and Yoshimura , F.K .
+( 1989 ) Anal .
+Biochem .
+, 182 , 411-418 .
+Hoyos , B. , Ballard , D.W. , Bohnlein , E. , Siekevitz , .M .
+and Greene , W.C. ( 1989 ) Science , 244 , 457-460 .
+-I. , Kerr , L.D .
+, Rashid , D. , Davis , N. , Bose , H.R .
+and Verma , L .
+M. ( 1992 ) Proc .
+Natl Acad .
+Sci .
+USA , 89 , 4333-4337 .
+Jain , J. , Valge-Archer , V.E .
+and Rao , A .
+( 1992a ) J .
+Immunol .
+, 148 , 1240-1250 .
+Jain , J. , McCaffrey , P.G .
+, Valge-Archer , V.E .
+and Rao , A .
+( 1992b ) Nature , 356 , 801-804 .
+Kamps , M.P .
+, Corcoran , L. , LeBowitz , J.H .
+and Baltimore , D. ( 1990 ) Mol .
+Cell .
+Biol .
+, 10 , 5464-5472 .
+Kerr , L.D .
+, Inoue , J.-i .
+, Davis , N. , Link , E. , Baeuerle , P .
+A. , Bose , H.R .
+and Verma , I.M .
+( 1991 ) Genes Dev .
+, 5 , 1464-1476 .
+Kieran , M. , Blank , V. , Logeat , F. , Vandekerckhove , J. , Lottspeich , F. , Le Bail , O. , Urban , M.B .
+, Kourilsky , P. , Bacuerle , P .
+A. and Israél , A .
+( 1990 ) Cell , 62 , 1007-1018 .
+Kincaid , R.L .
+, Takayama , H. , Billingsley , M.L .
+and Sitkovsky , M.V .
+( 1987 ) Nature , 330 , 176-178 .
+Kincaid , R.L .
+, Giri , P.R .
+, Higuchi , $ .
+, Tamura , J. , Dixon , $ S.C. , Marietta , C .
+A. , Amorese , D. A. and Martin , B.M .
+( 1990 ) J. Biol .
+Chem , 265 , 11312-11319 .
+Kronke , M. , Leonard , W.J .
+, Depper , J.M .
+, Arya , S.K .
+, Wong-Staal , F. , Gallo , R.C .
+, Waldman , T .
+A. and Greene , W.C. ( 1984 ) Proc .
+Nat !
+Acad .
+Sci .
+USA , 81 , 5214-5218 .
+Lee , W. , Mitchell , P .
+and Tjian , R .
+( 1987 ) Cell , 49 , 741-752 .
+Link , E. , Kerr , L.D .
+, Schreck , R. , Zabel , U. , Verma , I .
+and Bacuerle , P.A .
+( 1992 ) J. Biol .
+Chem .
+, 267 , 239-246 .
+Liv , J. , Farmer , J.D .
+, Lane , Friedman , J. , Wiessman , L and Schreiber , S.L .
+( 1991 ) Cell , 66 , 807-815 .
+869 B.Frantz et al .
+Liu , J. , Albers , M. W. , Wandless , T.J. , Luan , $ .
+, Alberg , D.G .
+, Belshaw , P.J .
+, Cohen , P. , MacKintosh , C. , Klee , C.B .
+and Schreiber , S.L .
+( 1992 ) Biochemistry , 31 , 3896-3901 .
+Manger , B. , Weiss , A. , Weyand , C. , Goronzy , J .
+and Stobo , J.D .
+( 1985 ) J. Immunol .
+, 135 , 3669-3673 .
+Maniatis , T. , Fritsch , E.F .
+and Sambrook , J .
+( 1982 ) Molecular Cloning .
+A Laboratory Manual .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY .
+Mattila , P.S .
+, Ullman , K.S .
+, Fiering , $ .
+, Emmel , E.A .
+, McCutcheon , M. , Crabtree , G.R .
+and Herzenberg , .
+A .
+( 1990 ) EMBO J. , 9 , 4425-4433 .
+Mercurio , F. , DiDonato.J .
+A. , Rosette , C .
+and Karin , M. ( 1993 ) Genes Dev .
+, 7 , 705-718 .
+Minshull , J .
+( 1993 ) BioEssays , 15 , 149-155 .
+Northrop , J.P. , Crabtree , G.R .
+and Mattila , P.S .
+( 1992 ) J. Exp .
+Med .
+, 175 , 1235-1245 .
+O'Keefe , S.J .
+, Tamura , J. , Kincaid , R.L .
+, Tocci , M.J .
+and O'Neill , E.A .
+( 1992 ) Nature , 357 , 692-694 .
+Randak , C. , Brabletz , T. , Hergenrother , M. , Sobotta , I .
+and Serfling , E .
+( 1990 ) EMBO J. , 9 , 2529-2536 .
+Riegel , J.S .
+, Corthesy , B. , Flanagan , W.M .
+and Crabtree , G.R .
+( 1992 ) In Kishimoto , T .
+( ed . )
+, Interleukins : Molecular Biology and Immunology .
+Karger , Basel , Vol .
+51 , 266-298 .
+Schmid , R.M .
+, Perkins , Duckett , C.S .
+, Andrews , P.C .
+and Nabel , G.J .
+( 1991 ) Nature , 352 , 733-736 .
+Schmidt , A. , Hennighausen , L .
+and Siebenlist , U .
+( 1990 ) J .
+Virol .
+, 64 , 4037-4041 .
+Shibuya , H. , Yoneyama , M .
+and Taniguchi , T .
+( 1989 ) Int .
+Immunol .
+, 1 , 43-49 .
+Shirakawa , F .
+and Mizel , $ .B .
+( 1989 ) Mol .
+Cell .
+Biol .
+, 9 , 2424-2430 .
+Sigal , and Dumont , F.J .
+( 1992 ) Annu .
+Rev .
+Immunol .
+, 10 , 519-560 .
+Sun , $ .-C. , Ganchi , P .
+A. , Ballard , D. W. and Greene , W.C. ( 1993 ) Science , 259 , 1912-1915 .
+Thompson , C.B .
+, Wang , C.-Y .
+, Ho , I.-C. , Bohjanen , P.R .
+, Petryniak , B. , June , C.H .
+, Miesfeldt , S. , Zhang , L. , Nabel , G.J .
+, Karpinski , B .
+and Leiden , J.M .
+( 1992 ) Mol .
+Cell .
+Biol .
+, 12 , 1043-1053 .
+Tocci , M.J. , Matkovich , D.A .
+, Collier , K.A .
+, Kwok , P. , Dumont , F. , Lin , C.S .
+, DeGudicibus , S. , Siekierka , J.J. , Chin , J .
+and Hutchinson , N.I .
+( 1989 ) J .
+Immunol .
+, 143 , 718-726 .
+Todd , M.D .
+, Grusby , M.J. , Lederer , J.A .
+, Lacy , E. , Lichtman , A.H .
+and Glimcher , L.H .
+( 1993 ) J. Exp .
+Med .
+, 177 , 1663-1674 .
+Truneh , A. , Albert , F. , Golstein , P .
+and Schmitt-Verhulst , A.-M. ( 1985 ) Nature , 313 , 318-320 .
+Ueki , K. , Muramatsu , T .
+and Kincaid , R.L .
+( 1992 ) Biochem .
+Biophys .
+Res .
+Commun .
+, 187 , 537-543 .
+Ullman , K.S .
+, Flanagan , W.M .
+, Edwards , C .
+A. and Crabtree , G.R .
+( 1991 ) Science , 254 , 558-562 .
+Ullman , K.S .
+, Northrop , J.P. , Admon , A .
+and Crabtree , G. R. ( 1993 ) Genes Dev .
+, 7 , 188-196 .
+Received on September 3 , 1993 ; revised on November 24 , 1993 870

@@ -1,0 +1,974 @@
+MoLEcULarR anp CELLULAR BroLoogy , Nov. 1993 , p. 7056-7070 0270-7306/93/117056-15 $ 02.00/0 Copyright © 1993 , American Society for Microbiology Vol .
+13 , No .
+11 Identification and Characterization of an Alu-Containing , T-Cell-Specific Enhancer Located in the Last Intron of the Human CD8a Gene JOHN E. HAMBOR , * JOHN MENNONE , * MICHAEL E. COON , 't JEFFREY H. HANKE , ' anp PAULA KAVATHAS* > ** Department of Molecular Genetics and Protein Chemistry , Pfizer Central Research , Groton , Connecticut 06340 , and Departments of Immunobiology , '' Genetics , '' and Laboratory Medicine , ** Yale University School of Medicine , 333 Cedar Street , P.O .
+Box 208035 , New Haven , Connecticut 06520-8035 Received 14 December 1992/Returned for modification 9 April 1993/Accepted 9 August 1993 Expression of the human CDS gene is restricted to cells of the lymphoid lineage and developmentally regulated during thymopoiesis .
+As an initial step towards understanding the molecular basis for tissue-specific expression of this gene , we surveyed the surrounding chromatin structure for potential cis-acting regulatory regions by DNase I hypersensitivity mapping and found four hypersensitive sites , three of which were T cell restricted .
+By using a reporter-based expression approach , a T-cell-specific enhancer was identified by its close association with a prominent T-cell-restricted hypersensitive sites in the last intron of the CD8a « gene .
+Deletion studies demonstrated that the minimal enhancer is adjacent to a negative regulatory element .
+DNA sequence analysis of the minimal enhancer revealed a striking cluster of consensus binding sites for Ets-1 , TCF-1 , CRE , GATA-3 , LyF-1 , and bHLH proteins which were verified by electrophoretic mobility shift assays .
+In addition , the 5 ' end of the enhancer was composed of an 4/u repeat which contained the GATA-3 , bHLH , and LyF-1 binding sites .
+Site-directed mutation of the Ets-1 and GATA-3 sites dramatically reduced enhancer activity .
+The functional importance of the other binding sites only became apparent when combinations of mutations were analyzed .
+Taken together , these results suggest that the human CD8a « gene is regulated by the interaction of multiple T-cell nuclear proteins with a transcriptional enhancer located in the last intron of the gene .
+Comparison of the CD8 « enhancer with other recently identified T-cell-specific regulatory elements suggests that a common set of transcription factors regulates several T-cell genes .
+The T-lymphocyte differentiation marker CD8 identifies a distinct T-cell subset which can be triggered to express cytotoxic and/or suppressor activity upon recognition of antigenic peptides presented in the context of class I major histocompatibility complex ( MHC ) molecules ( 46 , 62 , 75 ) .
+Expressed on the T-cell surface as either an « /a homodimer or « /B heterodimer , CD8 is capable of direct extracellular interaction with the « 3 domain of MHC class I molecules ( 12 , 60 , 63 , 68 ) and intracellular association with the tyrosine kinase p56 '' ( 3 , 8 ) , assisting both the T-cell receptor ( TCR ) in antigen recognition and the CD3 complex in signal trans-duction .
+Thus , CD8 serves as an integral part of a complex recognition/response apparatus which functions to initiate antigen-driven activation of mature effector T cells in the periphery as well as differentiation of immature T cells in the thymus .
+Tissue-specific expression of CD8 is under precise developmental control .
+When bone marrow-derived precursor cells begin the process of thymopoiesis , a panel of T-cell-specific genes ( TCR , CD2 , CD3 , and CD4 ) including CD8a « and CD8f are coordinately expressed in a defined temporal sequence ( 10 , 32 , 45 ) .
+Early in this differentiation pathway , the most immature T cells ( CD4~ CD8~T ) progress to an intermediate phenotype expressing both CD4 and CD8 .
+These CD4* CD8* T cells , representing the majority of thymocytes , subsequently undergo a further differentiation * Corresponding author .
+{ Present address : Department of Molecular and Cellular Biology , University of Connecticut , Storrs , CT 06269 .
+7056 step in which the specificity of the TCR repertoire is selected by both positive and negative pressures , a process mediated , in part , by CD8 ( 1 , 19 , 35 , 70 , 84 ) .
+The outcome of this developmental event is the maturation of T cells which express either CD4 or CD8 , but not both .
+These mature cells , representing for the most part either the MHC class II-restricted helper subset ( CD4+* CD8~ ) or the MHC class TI-restricted cytotoxic/suppressor subset ( CD4~ CD8* ) , exit the thymus and seed the peripheral lymphoid tissues .
+In contrast to these thymus-dependent T cells which generally express both CD8a « and CD8B during at least one stage of their development , extrathymically derived intraepithelial lymphocytes and natural killer lymphocytes express only CD8a ( 36 , 62 , 77 ) .
+Thus , expression of CD8a and CD8B may be both coordinately and independently regulated , in that both of these genes are expressed at distinct stages of thymic ontogeny , yet only CD8a is expressed in specific subsets of extrathymic lymphocytes .
+While the function of CD8 and its differential expression pattern have been extensively studied , the mechanisms governing transcription of both the CD8a « and CD8B genes during these developmental processes remain poorly under-stood .
+Since these two distinct genes are closely linked on human chromosome 2 ( 7 , 56 ) and on mouse chromosome 6 ( 25 ) , they may be coordinately regulated by a locus control region ( 15 , 33 ) .
+However , these genes may also be independently controlled , given that only CD8a « is expressed in some cell types .
+In this regard , each gene appears to have its own promoter element , on the basis of studies determining the transcriptional start sites for each gene ( 57-59 , 72 ) .
+In light of Vor .
+13 , 1993 the recent observations that the tissue-specific enhancers of other T-cell-restricted genes such as TCR , CD2 , CD3 , and CD4 ( 5 , 6 , 20 , 23 , 31 , 37 , 38 , 41 , 44 , 45 , 50 , 51 , 64-66 , 69 , 74 , 76 , 79 , 81 ) bind a common set of transcription factors ( some of which are found only in lymphoid cells ) , CD8 expression may also be controlled by a similar T-cell-specific enhancer .
+Furthermore , a negative regulatory element may influence transcription of the CD8 « and CD8B genes , since CD8 expression is down-regulated as helper T cells ( CD4* CD8~ ) mature at the final stage of thymic ontogeny .
+To define the molecular mechanisms that regulate CD8 gene expression , we searched for potential regulatory regions by DNase I hypersensitivity mapping .
+In the studies described in this report , we have identified a T-cell-specific transcriptional regulatory region found in the last intron of the human CD8a « gene .
+The nucleotide sequence of this region contains Alu repeats and a cluster of motifs sharing homology with previously described core enhancers for other T-cell-specific genes ( 20 , 23 , 31 , 38 , 41 , 44 , 45 , 50 , 51 , 64-66 , 74 , 76 , 81 ) .
+Preliminary characterization of this enhancer indicates that a functional hierarchy exists among the individual cis-acting elements .
+MATERIALS AND METHODS Cell culture .
+All T- and B-lymphoid cell lines were grown in RPMI 1640 medium supplemented with 2 mM 1-glu-tamine , 100 U of penicillin per ml , 100 ug of streptomycin per ml , and 10 % fetal calf serum ( Hyclone , Laboratories , Inc. , Logan Utah ) .
+Human T-cell lines ( 53 ) used included Jurkat ( CD4+* CD8~ ) , JM ( CD4+* CD8a « *B~ ) , Molt4 ( CD4* CD8a*fB~ ) , and HPB.ALL ( CD4+* CD8a « *B* ) .
+Epstein-Barr virus-transformed human B-cell lines used included Raji and UC ( 24 ) .
+The non-lymphoid cell lines HeLa and HepG2 were grown in minimal essential medium supplemented as described above .
+All cells were cultured at 37°C in a water-saturated atmosphere of 5 % CO , .
+DNase I hypersensitivity mapping .
+The positions of hypersensitive sites ( HS ) were mapped by the indirect end labeling technique developed by Wu ( 83 ) , with some modifications ( 33 ) .
+Briefly , 10° cells were swollen on ice for 10 min by incubation in hypotonic reticulocyte standard buffer , lysed with 0.5 % Nonidet P-40 , and immediately disrupted by Dounce homogenization with 10 strokes of a type B homogenization pestle .
+Nuclei were isolated by centrifugation ( 250 x g ) , resuspended in 1 ml of reticulocyte standard buffer , divided into 100-pl aliquots , and digested with various amounts of pancreatic DNase I ( 0 , 0.25 , 0.5 , 1.0 , 2.0 , 3.0 , and 4.0 pg per 100-pll aliquot ) .
+After incubation for 5 min at 37°C , an equal volume of 2 % stop solution ( 600 mM NaCl , 20 mM Tris-HCl [ pH 7.4 ] , 10 mM EDTA [ pH 8.0 } , 1 % sodium dodecyl sulfate , and 500 ug of proteinase K per ml ) was added to terminate the reaction , lyse the nuclei , and digest nuclear proteins .
+Following overnight incubation at 37°C , the DNA was extensively extracted with phenol-chloroform and then precipitated with ethanol .
+DNA ( 20 ug ) from each sample was digested overnight with HindIII , electrophore-sed on a 0.6 % agarose gel , and transferred to NitroPlus bybridization transfer membranes ( Micron Separations , Inc. ) .
+Prehybridized blots were hybridized overnight with a random-primed , *°P-labeled 752-bp HindIII-Pstl probe encompassing the first intron , first exon , and 5'-flanking region of the human CD8a « gene and then washed under high-stringency conditions ( 73 ) and exposed to Kodak X-Omat AR film .
+Construction of expression vectors .
+The pTKLux plasmid Alu-CONTAINING T-CELL-SPECIFIC CD8 « ENHANCER 7057 ( 29 ) was derived from the firefly luciferase-containing reporter plasmid pLuxF47 ( a gift of John Thompson ) by inserting a polylinker ( annealed oligonucleotides TCCGCGGCGGCCGCCTCGAGAGTCGACATGCATA-3 ' and - 5-GATCTATGCATGTCGACTCTCGAGGCGGCCG CCGCGGA-3 ' , which result in 5'-overhanging ends that are compatible with HindIII and Be/ll or BamHI between the HindIII and BgillI sites upstream of the minimal thymidine kinase ( TK ) promoter ( 52 ) .
+A 1,149-bp SphI-XmnI fragment from the last intron of the human CD8a « gene was isolated from the plasmid pgCD8/322 ( 40 ) , inserted into the SpAI and blunted XbelI sites of pBLCAT2 ( 48 ) , and then reisolated after digestion with HindIII and BamHI .
+This HindlIII-BamHI fragment containing the 1,149-bp CD8 insert was used to generate the plasmids pTKCD8U+ , pTKCD8U- , pTKCD8D+ , and pTKCD8D- by placing the fragment in either orientation ( + and - ) both upstream ( U ) and downstream ( D ) of the TK promoter ( see Fig .
+2A ) .
+The plasmids pTKCD8U+ and pTKCD8U- were constructed by inserting this CD8 fragment with the same polylinker ( see above ) into pLuxF47 upstream of the TK promoter at either the HindIII or the Bgill site , respectively .
+The plasmids pTKCD8D+ and pTKCD8D- were created by bidirection-ally inserting this fragment with the polylinker into pLuxF47 at the BamHI site located downstream of the simian virus 40 poly ( A ) splice sequences .
+Generation of CD8 enhancer deletions .
+Nested unidirectional deletions from the 3 ' and 5 ' ends of the 1,149-bp CD8 intronic enhancer fragment were generated in the plasmids pTKCD8U+ and pTKCD8U- , respectively ( Pharmacia double-stranded nested deletion kit ; see Fig .
+3A ) .
+Prior to timed digestion with exonuclease III and subsequent digestion with S1 nuclease , pTKCD8U+ was cut with Xhol ( located in the polylinker ) and PstI ( located between the polylinker and TK promoter ) and pTKCD8U- was cut with Xhol and NsiI ( both located in the polylinker ) .
+Sequence analysis of the resulting deletion-containing plasmids was used to determine the exact extent of deletion in each subclone .
+The nomenclature of these constructs reflects both the extent of the deletion and the end from which the deletion was made with respect to the original 1,149-bp CD8 fragment ( 3 ' and 5 ' ends correspond to the XmnI and SphI sites , respectively ) .
+For example , p3 ' A-280 is a plasmid in which the CD8 fragment was deleted 280 bp from the 3 ' end .
+Preparation of nuclear extracts .
+Nuclear extracts were prepared from each cell line according to the method described by Dignam ( 14 ) and stored at -70°C .
+The protein concentration of each extract was determined by the Bradford method ( Bio-Rad ) .
+Electrophoretic mobility shift assays ( EMSA ) .
+Binding reactions were performed essentially as described ( 18 ) , except that 7.5 ug of nuclear extract was used in each binding reaction .
+Previously described sequence from the human CD8a intron was used as a guide for the synthesis of all oligonucleotides corresponding to each protein binding site ( 57 ) .
+Double-stranded oligonucleotide probes were generated by first annealing a 31- to 33-base oligomer template to a 10-base oligomer primer ( complementary to the 3 ' terminal 10 bases of the template ) and subsequently labeled with [ a « - '' °P ] dATP and [ « -**P ] dCTP by using the Klenow fragment of DNA polymerase I. Oligomers ( template and primer ) for each binding site are listed in Table 1 .
+In each case , the core consensus binding site is underlined and lowercase letters are used to indicate the mutated nucleotides .
+For cold competition studies , unlabeled wild-type and mutant templates were similarly produced by using unlabeled deoxynu- 7058 HAMBOR ET AL .
+TABLE 1 .
+Binding site oligomers Mor .
+CELL .
+BioL .
+TABLE 2 .
+Single-stranded oligomers used as primers Site and template or Sequence primer LyF-1U Wild-type template 5-CCTGCCTCAACCTCCCAAGTAGCTGGGAC-3 ' Mutant template 5-CCTGCCTCAACCgcatgcGTAGCTGGGAC-3 ' Primer 3'-ATCGACCCTG-5 ' LyF-1D Wild-type template 5'-CCCGCCTTGGCCTCCCAAAGTGCTGGGAT-3 ' Mutant template 5-CCCGCCTTGGCCaggecctAGTGCTGGGAT-3 ' Primer 3 -CACGACCCTA-5 ' TCF-1 Wild-type template 5'-CGAATAACTGAGAATAAAGTTCTGCCTTAAG-3 ' Mutant template 5'-CGAATAACTGAGcegeggtTTCTGCCTTAAG-3 ' Primer 3'-GACGGAATTC-5 GATA-3 Wild-type template 5'-GACGGAGTCTCGCTATCTCGCCCAGGCTGGA-3 ' Mutant template 5'-GACGGAGTCTCGaagctTCGCCCAGGCTGGA-3 ' Primer 3'-GGTCCGACCT-5 ' ETS Wild-type template 5'-GATTTGCTCACATCCTCCTCTCTCCCTGTCA-3 ' Mutant template 5'-GATTTGCTCACAcatatgTCTCTCCCTGTCA-3 ' Primer 3'-GAGGGACAGT-5 ' cleotides .
+The protein-DNA complexes formed in all binding reactions were resolved by using nondenaturing 5 % polyacrylamide gels as previously described ( 18 ) .
+Site-directed mutagenesis .
+A 653-bp minimal CD8 enhancer fragment was isolated from p3 ' A-280 by double digestion with TH1111 ( located 216 bp from the 5 ' end ) and Eagl ( located between the 280-bp 3 ' deletion site in the CD8 enhancer and the TK promoter ) , blunted by a Klenow fill-in reaction , ligated to EcoRI linkers , digested with EcoRI , and subcloned into the EcoRI site of pBluescriptSK+ ( Strata-gene ) .
+This plasmid ( pBSCD8min ) was used as the template for site-directed mutagenesis of the minimal CD8a « enhancer according to the method of Kunkel ( 42 ) ( Bio-Rad Muta-gene Kit ) .
+Single-stranded oligomers containing mutations in individual transcription factor binding sites , identical to the mutant templates used to generate probes for EMSA ( see method for EMSA described above ) , were used as primers for the mutagenesis reactions .
+In order to mutate the CRE and basic helix-loop-helix ( bHLH ) protein binding sites , the single-stranded oligomers listed in Table 2 were used as primers .
+The nucleotides in lowercase letters represent the changes introduced into the wild-type CD8 sequence of the minimal enhancer .
+The wild-type sequence , shown merely for comparison to the consensus sequences for each binding site , was not used in these mutagenesis reactions .
+Both single and double mutants for each site were produced .
+All mutants , as well as the wild-type minimal CD8 enhancer , were sequenced , isolated from pBSCD8min by digestion Site and primer Sequence CRE Consensus motif TGACGTCA Wild-type 5'-AGAGTGCAGACATGACGTCATGATGAATTAG-5 ' Mutant 5'-AGAGTGCAGACActecgagCATGATGAATTAG-3 ' bHLH Consensus motif CANNTG Wild-type 5'-GATCTCCTGACCACGTGATCCGCCCGCCTTG-3 ' Mutant 5'-GATCTCCTGACgeggecegeCCGCCCGCCTTG-3 ' with HindIII and BamHI , and then subcloned into pTKLux between the HindIII and Bg/ll sites upstream of the TK promoter .
+Of these constructs , the plasmid designated pTKCD8min contains the wild-type minimal CD8 enhancer .
+Single and double mutants for each site are designated by pm followed by the site name .
+For example , the plasmid in which the Ets-1 site was mutated is designated pmEts-1 , whereas the plasmid containing mutations in both the GATA-3 and LyF-lu sites is designated pmGATA-3/LyF-lu .
+Transfection of DNA into tissue culture cells .
+All cell lines were cotransfected with 30 ug of each luciferase reporter construct and 10 pg of the reference plasmid pCMVB-gal ( 49 ) used to determine transfection efficiency .
+In each transfection , 10 '' cells in 800 pl of serum-free medium ( RPMI 1640 for JM , Jurkat , and Raji cells and minimal essential medium for HeLa cells ) were electroporated by using a Gene Pulsar ( Bio-Rad ) set at 960 uF and either 250 V for Jurkat , Raji , and HeLa cells or 270 V for JM cells .
+Transfected cells were cultured in complete medium for 40 to 48 h , harvested , and washed twice with phosphate-buffered saline .
+Cell pellets were lysed ( luciferase assay system ; Promega , Madison , Wis. ) and extracts quantitated for protein concentration by the Bradford method ( Bio-Rad ) .
+Luciferase and B-galactosidase assays .
+Cell lysates containing an equivalent amount of protein were assayed for luciferase activity ( luciferase assay system ; Promega ) , by using a modification of the method described by deWet et al .
+( 13 ) , and for B-galactosidase activity as described elsewhere ( 16 ) .
+For each transfection , a standardized luciferase value was derived ( luciferase activity/B-galactosidase activity ) in order to adjust for variability in transfection efficiency .
+Standardized values for enhancer-containing luciferase reporter constructs were subsequently normalized to those obtained for either pTKLux ( see Fig .
+2 and 3 ) or pTKCD8min ( see Fig .
+4 ) .
+The Student ¢ test ( P < 0.05 ) was used to address the statistical significance of these results .
+Nucleotide sequence accession number .
+The GenBank accession number M27161 has been assigned to the human CD8a intron sequence .
+RESULTS Mapping of DNase I HS .
+The first step towards an understanding of the molecular mechanisms involved in CD8 gene regulation requires the identification of cis-acting DNA regulatory elements .
+In many developmentally regulated and tissue-specific genes such as CD8 , DNase I HS have been associated with regions active in transcriptional control , and Vor .
+13 , 1993 their appearance has been correlated with both gene expression and the binding of trans-acting regulatory factors ( 2 , 4 , 26 , 27 , 30 , 33 , 69 , 82 , 83 ) .
+To locate regions potentially accessible to DNA-binding proteins , the chromatin structure surrounding the human CD8a gene was mapped for sites that are hypersensitive to digestion with DNase I .
+In order to identify tissue-specific DNase I HS , two human leukemic T-cell lines , HPB.ALL ( CD8a « *B* CD4* ) and Jurkat ( CD87 CD4* ) , as well as control non-T -cell lines , Raji ( an Epstein-Barr virus-transformed B-cell line ) and HeLa ( a fibroblast cell line ) , were analyzed .
+DNA was prepared from DNase I-digested nuclei , restricted with HindIII , electrophoresed , blotted , and hybridized to a 762-bp HindIII-PstI 5° probe which detects a 14-kb genomic band in HindIII-digested DNA from untreated nuclei .
+By using this approach , four subfragments representing distinct DNase I HS were identified ( Fig .
+1 ) .
+HS1 , found in both T-and non-T-cell lines , mapped to the intron between exons IV and V , while HS2 and HS3 , found in the last intron , appear exclusively in T cells .
+The intensity and broadness of HS3 , the most predominant T-cell-specific site identified , may reflect the presence of multiple HS sites in this region .
+HS4 , located downstream of the last exon , is also very prominent in the two T-cell lines , less prominent in the B-cell line , and absent in the fibroblast cell line .
+A computer-assisted search of the known human CDSa genomic sequence ( 57 ) for potential transcription factor binding sites ( 17 ) revealed a striking cluster of consensus motifs for DNA-binding proteins near the location of HS2 and HS3 within the last intron .
+Many of these motifs are homologous to those found in the tissue-specific regulatory regions of other T-cell-specific genes ( 20 , 23 , 31 , 38 , 41 , 44 , 45 , 50 , 51 , 64-66 , 74 , 76 , 81 ) .
+As shown in Fig .
+1A and C , putative DNA-binding sites for GATA-3 ( 37 ) , TCF-1 ( 45 , 79 ) , Ets-1 ( 80 ) , and LyF-1 ( 47 ) ( two sites ) were identified within a 700-bp region of this last intron ( see Fig .
+5 , 6 , 7 , and 8 for consensus sequences for each motif ) .
+In addition , a potential cyclic AMP response element ( CRE ) ( 11 , 21 , 39 , 43 , 65 ) and a binding site for a bHLH protein ( 28 , 54 , 55 , 61 ) were found within this region ( see Table 2 and Fig .
+5 to 8 for consensus sequences for each motif ) .
+We also found a full-length Alu repeat next to an inverted half-4/u repeat .
+The full-length Alu sequence contained the binding sites for GATA-3 , LyF-1 , and bHLH proteins .
+Nucleotide sequence of the intronic region containing the putative transcription factor binding sites and the AZu repeats is shown in Fig .
+1C .
+A T-cell-specific enhancer resides in the last intron of the human CDS8 « gene .
+The correlation between the appearance of a strong T-cell-specific HS and the location of several consensus motifs suggested that a tissue-specific regulatory region resides within the last intron of the CD8a « gene .
+To determine whether a transcriptional enhancer element was present within the last intron , a 1,149-bp fragment generated by SphI-XmnI double digestion was subcloned into an expression vector ( pTKLux ) in which the firefly luciferase reporter gene is driven by a minimal heterologous promoter element from the herpes simplex virus TK gene .
+Recombi-nant plasmids with this CDS8a « intronic fragment inserted in both orientations ( + and - ) , both upstream ( pTKCD8U-and pTKCD8U+ ) and downstream ( pTKCD8D- and pTKCD8D+ ) of the TK promoter , as well as the pTKLux parent plasmid lacking this CD8 fragment , were independently transfected into a panel of T- and non-T-cell lines and assayed for luciferase activity 40 to 48 h later .
+This CD8a intronic fragment enhanced expression by the TK promoter by 15- to 30-fold in the T-cell lines Jurkat ( CD87 CD4* ) and Alu-CONTAINING T-CELL-SPECIFIC CD8 « ENHANCER 7059 JM ( CD8a*B~ CD4* ) but had no effect on expression in two non-T-cell lines , Raji and HeLa ( Fig .
+2 ) .
+The results also demonstrate that the last intron contains an enhancer element that functions in an orientation- and position-independent fashion and may play a role in directing T-cell-specific expression of the CD8a gene .
+Delineation of the minimal enhancer element .
+In order to define the boundaries of the minimal enhancer element , deletions from the 3 ' and 5'° ends of the 1,149-bp CD8 intronic enhancer fragment were generated ( see Fig .
+3A for location of each deletion ) and tested for enhancer activity by using the reporter-based transient expression system .
+As shown in Fig .
+3B and C , these constructs produced similar results when tested in two T-cell lines , JM and Jurkat , but were not active in non-T-cell lines ( data not shown ) .
+Removal of up to 280 bp from the 3 ' end of this fragment ( deletion constructs p3 ' A-95 , p3 ' A-219 , p3 ' A-250 , and p3 ' A-280 ) did not significantly affect enhancer activity ( Fig .
+3B ) .
+However , further deletion of 52 bp ( p3 ' A-332 ) , including DNA sequences containing the putative Ets binding site , dramatically reduced enhancer activity .
+Truncation of an additional 178 bp ( p3 ' A-510 ) resulted in total loss of activity .
+The site of the 280-bp deletion in the plasmid p3'A280 therefore represents the 3 ' boundary of this T-cell-specific enhancer .
+Analysis of deletion constructs from the 5 ' end of the 1,149-bp enhancer fragment revealed a more complicated set of results ( Fig .
+3C ) .
+Whereas deletion of 18 bp ( pS ' A-18 ) was inconsequential , loss of 203 or 204 bp ( pS and pS ' A-204 , respectively ) encompassing the entire half-4/u repeat significantly augmented the strength of this enhancer by an additional fivefold .
+Although this result suggests that a negative regulatory element is present in this half-4/u repeat at the 5 ' end of the 1,149-bp fragment , this sequence did not have any effect when added back to p5 ' A-203 downstream of the simian virus 40 polyadenylation/splice signal ( data not shown ) , indicating that the position of this region is critical for its negative effect on the adjacent enhancer .
+The deletion construct p5 ' A-290 , which lacks 290 bp of sequence from the 5 ' end , including the putative GATA-3 binding site , demonstrated less activity than either pS5 ' A-203 or p5 ' A-204 but functioned as well as pTKCD8U- ( containing the full-length 1,149-bp fragment ) .
+Further truncation of an additional 99 bp ( pS A-389 ) including the putative upstream LyF-1 site ( LyF-1u ) resulted in almost complete loss of enhancer activity .
+These results suggest the 5 ' border of the intronic region possessing maximal enhancer activity is delimited at the 203-or 204-bp deletion site .
+Subsequently , the minimal T-cell-specific enhancer fragment with maximal activity was further localized to a 653-bp fragment defined at the 3 ' end by the 280-bp deletion site and the 5 end by a THh1111 site representing a deletion of 216 bp ( see Fig .
+4 for location of deletion sites ) .
+The resulting plasmid containing this 653-bp fragment , pTKCD8min , was as active in T-cell lines as either pS A-203 or p5 ' A-204 in the transient transfection assay ( data not shown ) .
+However , this minimal enhancer was not active in the B-lymphoblastoid line Raji .
+Thus , this 653-bp fragment , containing the putative nuclear protein binding sites for GATA-3 , LyF-1 ( two sites ) , bHLH , TCF-1 , CRE , and Ets-1 , represents the core CD8a enhancer which possesses T-cell-specific activity .
+Mutational analysis of the minimal CD8 enhancer .
+In order to determine the functional importance of each of the putative nuclear protein binding sites in the CD8a « enhancer , a series of site-directed mutants were generated and tested for their effects on enhancer activity in both JM and Jurkat T 7060 HAMBOR ET AL .
+Mor .
+CELL .
+BroL .
+A HS1 ns2 HS3 HS4 _1 Kb _ H P S X H Jt _| | | L_ Exons : I II IIIV V VI 100 bp LyF-1 LyF-1 CRE lst GATA-3 bHLH TCF-1 Ets-1 gor sou I } -- half Alu full-length Alu B. HeLa Raji HPB.ALL Jurkat e cca ~- m < - HS4 j *- HS3 -- HS2 J < HS1 FIG .
+1 .
+DNase I hypersensitivity mapping of the human CD8a gene .
+( A ) Partial restriction map of the human CD8a gene with the six exons denoted by roman numerals and represented by solid boxes .
+The 5 ' and 3 ' untranslated regions are represented by open boxes .
+DNase I HS ( HS1 to HS4 ) are marked with vertical arrows ; the more prominent HS are depicted by the thicker arrows .
+The thin vertical bars designated H , P , S , and X represent sites for the restriction enzymes HindlIH , Psfl , SphI , and Xmnl , respectively .
+Within the 1,149-bp enhancer fragment , isolated by SphI and XmnI digestion , the locations of the protein binding site consensus motifs for GATA-3 , LyF-1 , TCF-1 , Ets-1 , CRE , and bHLH proteins are depicted .
+For the exact sequence of each consensus motif , see Tables 1 and 2 or Fig .
+5 , 6 , 7 , and 8 .
+The locations of the full-length and half-4/u repeats are shown beneath the 1,149-bp SphI-BamHI fragment .
+Size markers ( 1 kb and 100 bp ) for the 14-kb HindIII genomic fragment and the 1,149-bp SphI-XmnI enhancer fragment are shown .
+( B ) Southern analysis demonstrating the position , strength , and tissue distribution of HS1 to HS4 .
+As described in Materials and Methods , nuclei from the human cell lines HeLa ( nonlymphoid ) , Raji ( B cell ) , HPB.ALL ( CD4* CD8 « *B* ) , and Jurkat ( CD4* CD8~ ) were either untreated or treated with increasing concentrations of DNase I ( indicated by the wedges , representing 0.25 , 0.5 , 1.0 , 2.0 , 3.0 , and 4.0 g/100 pl ) prior to isolation of genomic DNA , restriction with HindIII , and Southern analysis with a 752-bp *°P-labeled probe isolated from the 5 ' end of the gene by HindIII and Psfl digestion .
+The locations of the 9.5- , 5.0- , 4.0- , and 2.5-kb fragments corresponding to HS1 to HS4 , respectively , are indicated along the right side of the figure .
+( C ) Nucleotide sequence of the CD8 intronic enhancer .
+This sequence is identical to that published by Nakayama et al .
+( 56 ) except for the deletion of a 24-bp sequence ( 5'-CAGCTGGGACTACAGGCACCCGCC-3 ' , corresponding to positions 345 to 367 ) that was tandemly duplicated in their sequence .
+The positions of the SpAI , THh1111 , and A-280 sites are shown with arrowheads .
+Sequences encoded by an Alu repeat are underlined , and sequences composing a protein binding site are overlined and labeled .
+Position 1 corresponds to the first nucleotide of the half-4lu repeat .
+cells ( Fig .
+4 ) .
+While mutation of the putative core sequences in individual binding sites for GATA-3 , LyF-1u ( upstream site ) , LyF-1d ( downstream site ) , bHLH , CRE , and TCF-1 resulted in incomplete but significant ( 12 to 60 % ) reductions in enhancer activity , mutation of the core sequence for the putative Ets binding site was most deleterious to enhancer function .
+Analysis of these single-site mutants indicated that the function of the minimal enhancer is most dramatically affected by mutation of either the putative GATA-3 or Ets-1 DNA motifs which are located at either end of the minimal enhancer fragment .
+This finding is consistent with that of the deletion analysis , which demonstrated a dramatic decline in enhancer activity upon removal of sequences containing either the putative GATA-3 or Ets-1 binding sites .
+Since other enhancer regions have been shown to be composed of functionally redundant cis-acting elements , the contribution of each binding site was further studied by using a combinational mutagenesis approach in which a series of double mutants were produced ( Fig .
+4 ) .
+The activity of the enhancer was nearly ablated when dual mutations were Vor .
+13 , 1993 Alu-CONTAINING T-CELL-SPECIFIC CD8 « ENHANCER 7061 90 100 110 120 GGAGGCCGAG CGTTGCAGTGA GCTGAGATCG TACCACTGCA CTCCAGCCTG CGTAACAGAG CAAGATITCCA TCTCACAAAA 130 140 150 160 170 180 190 200 210 220 230 240 AAAAAAAAAA GTGGGGGGGG AAGTTTTTAG CTTTTCTTTT CTTTTCTTTT CTTTTITTTTT TTTTTTTITTT TTT Tthl11-I 250 260 270 280 290 300 310 320 CA GATA-3 330 340 350 360 370 380 390 400 TA LyF-1 410 420 430 440 450 460 470 480 G bELH LyF-1 490 500 510 520 530 540 550 560 CTGGGATTAT AGGCGTGAGC TACCGCACCC GGCCAGTTTT TAGCATTTTT ATTATICAGG GTGCACTTTG GAACTTTTGC 570 580 590 600 AGAAGGACCA TCCCTTTTCT CGATCTTTTC TGAAAACTCT CATTGTGAGA TGAATAACTG AGAATAAAGT TCTGCCTTAA 650 660 670 680 610 620 630 640 TCF-1 690 700 710 720 AATACAAAGC TATACAGATT AAACACACCT GGGAAATTCC AACACCCGAG TTAATATACT CAGTGATGAT GGTGGGCCGC 730 740 750 760 TCAGCTTCAA CAGAGAGGTT TTAGAGGGCT GAGAGTGCAG ACATGACGTC ATGATGAATT AGCATGTTTA CAAGGTGCTA 810 820 830 840 770 780 790 800 CRE 850 860 870 880 GCCTGGTGCT GAATTAACAC GTTTTTAGCG TAACATCATT TGGCTGATGG TGGTGATTITG CTCACATCCT CCTCTCTCCC 890 900 910 TGTCATCCTC CGGGGCTGAG AATCAGGTCA A-280 A Ets-1 FIG .
+1-Continued .
+introduced into the GATA-3/LyF-lu , LyF-lu/LyF-1d , and bHLH/LyF-1d sites .
+A significant loss of enhancer function was also observed in bHLH/TCF-1 and bHLH/CRE double mutants , whereas mutational combinations of the LyF-lu/ bHLH , LyF-1u/CRE , LyF-1d/ITCF-1 , and LyF-1d/CRE sites had very little effect compared with single mutants for each individual site .
+The results of this mutational analysis indicate that a functional hierarchy exists among the putative cis-acting elements , with the Ets-1 and GATA-3 sites appearing most important to CD8 « intronic enhancer function in the T-cell lines that were analyzed .
+Characterization of nuclear proteins binding to individual cis-acting elements within the CD8 « enhancer by EMSA .
+To further characterize individual protein binding sites within the minimal CD8a « enhancer , EMSA were performed with oligonucleotides corresponding to the LyF-1 , TCF-1 , GATA-3 , and Ets-1 binding sites .
+Protein-DNA complexes , formed by incubation of labeled synthetic oligonucleotides with nuclear extracts from both T- and non-T-cell lines , were resolved by using nondenaturing polyacrylamide gels .
+In each case , specific protein-DNA interactions were identified by the ability to block complex formation with competing wild-type oligonucleotides but not with mutant oligonucleotides .
+These mutant oligonucleotides , containing changes in the consensus core motif for each binding site , were identical to those previously used in the mutational analysis of the minimal CD8a enhancer ( see above ) .
+The DNA-binding protein LyF-1 , shown to interact with the core consensus sequence 5'-YYTGGGAGR-3 ' ( Interna-tional Union of Biochemistry [ IUB ] nucleotide code ) , has been implicated as a general transcription factor for genes whose expression is restricted to the lymphoid lineages ( 47 ) .
+Sequence comparison of the putative upstream and downstream LyF-1 sites ( LyF-1u and LyF-1d , respectively ) in the CD8a enhancer revealed a high degree of homology with one another as well as with previously described LyF-1 sites in the promoters and enhancers of other lymphoid cell-specific genes ( Fig .
+5 ) .
+Incubation of a P-labeled oligonucleotide 7062 HAMBOR ET AL .
+A .
+B. Mor .
+CELL .
+Bor .
+Plasmid pTKLux « fmm D8 ENHANCER pTKCDBU-fommmmemmm -at or a r a oor iii } pTKCD8D+ haes pTKCD8D- 0 10 20 30 Relative Activity FIG .
+2 .
+Orientation and position independence of the T-cell-specific CD8a intronic enhancer .
+( A ) The 1,149-bp Sp/hI-XmnI fragment from the last intron of the human CD8 « gene ( black box ; see Fig .
+1A for fragment origin ) was subcloned into the luciferase-reporter plasmid pTKLux in both orientations ( - and + ; note arrows over the black enhancer box ) both upstream ( U ) and downstream ( D ) of a minimal heterologous promoter from the herpes simplex virus TK gene ( open box with arrowhead ) .
+In all of the constructs , the firefly luciferase gene ( speckled box ) is used as a reporter gene whose mRNA is stabilized by a polyadenylation/splice signal from the simian virus 40 ( cross-hatched box ) .
+( B ) JM ( G2 ) , Jurkat , Raji , and HeLa cells were cotransfected with the above constructs and with the plasmid pCMVB-gal and then assayed for both B-galactosidase and luciferase activities 40 to 48 h later .
+To adjust for differences in transfection efficiencies , luciferase values were standardized to B-galactosidase values .
+Relative activities of plasmids with the 1,149-bp CD8 fragment ( pTKCD8U- , pTKCD8D+ , and pTKCD8D- ) were determined by normalizing these standardized values to pTKLux .
+probe containing the LyF-1d site with nuclear extracts from the T-cell lines Molt4 , Jurkat , and HPB.ALL , as well as from the B-cell line Raji ( data not shown ) , but not from the nonlymphoid cell lines HeLa and HepG2 , resulted in the formation of a single protein-DNA complex ( Fig .
+5 ) .
+The formation of this complex was effectively prevented by the addition of excess unlabeled specific competitor oligonucleotides containing the wild-type LyF-1d motif ( Fig .
+5 , lane 7 ) but not by an excess of unlabeled competitor oligonucleotides in which the LyF-1d site had been mutated ( Fig .
+5 , lane 8 ) .
+EMSA using a labeled oligonucleotide probe containing the LyF-1u site also produced a similar protein-DNA complex that could be specifically inhibited by the wild-type , but not the mutant , LyF-1u oligonucleotides ( data not shown ) .
+In addition , the LyF-lu and LyF-1d sites could cross-compete in these assays , indicating that each site was binding a common protein ( data not shown ) .
+Two distinct lymphoid cell-restricted transcription factors , TCF-1 and TCF-la « ( or LEF-1 ) , have been reported to bind to an identical pyrimidine-rich sequence ( 5'-Y¥CTCTK WW-3 ' ; IUB nucleotide code ) found in the enhancers of a number of lymphoid cell-specific genes ( 45 , 79 ) .
+Examination of the CD8a enhancer revealed a homologous sequence which could function as a TCF-1 binding site ( Fig .
+6 ) .
+EMSA using an oligonucleotide from the CD8a « enhancer containing the putative TCF-1 site demonstrated that nuclear extracts from the T-cell lines Molt4 , HPB.ALL , JM ( G2 ) , and Jurkat contained two DNA-binding activities with different electrophoretic mobilities resulting in the resolution of two distinct bands ( Fig .
+6 ) .
+In contrast , only the lower band representing a faster mobility complex was formed with nuclear extracts from the non-T-cell lines HeLa ( Fig .
+6 , lane 5 ) and Raji ( data not shown ) .
+Competition experiments using unlabeled oligonucleotides containing wild-type and mutant TCF-1 sites demonstrated that the slower mobility complex ( upper band ; see arrow in Fig .
+6 ) contained a specific DNA-binding activity that was present only in T-cell nuclear extracts .
+The lower band represents a nonspecific DNA-binding activity that was present in all nuclear extracts tested ( data not shown ) .
+In addition , the specific DNA-protein complex represented by the upper band could be inhibited by a previously described oligonucleotide ( 79 ) from the CD3s enhancer ( MWS56 ) which contains a TCF-1 site ( data not shown ) .
+These results indicate that the CD8 « enhancer contains a TCF-1 binding site which is equivalent to the one found in the CD3s enhancer .
+The CD8 « enhancer also contains a consensus motif ( 5'-WGATAR-3 ' ; IUB nucleotide code ) for a GATA binding protein .
+A T-cell-restricted GATA binding protein , GATA-3 , has been shown to specifically bind to this motif ( 37 ) .
+EMSA using a labeled oligonucleotide containing the GATA-3 motif revealed a very slow mobility complex ( see arrow in Fig .
+7 ) which only formed with the addition of nuclear extracts from T-cell lines Jurkat , Molt4 , JM ( G2 ) , and HPB.ALL .
+Cold Vor .
+13 , 1993 A 3 ' END 100 bp a- 3 ' A-95 -a- 3'A219 -a- 3 ' A-250 -a- 3 ' A-280 a sy Ets-1 - SR _ ggg » CRE « a -- 3 ' A-510 Tcri am LyF-1 bHLH 5 -a- 5 ' A-389 LyF-1 | H -a- 5 ' A-290 GATA-3 | S5 .. == $ 803 « a- 5 ' A-18 5° END Alu-CONTAINING T-CELL-SPECIFIC CD8 « ENHANCER Deletions of CD8 Enhancer from 3 ' End Plasmid pTKCDpsu+ F 22 peazig 22A paaeso 22 para 2 p3 ' A-332 Jurkat p3 ' A-510 m JM o 20 40 60 so 100 Relative Activity Deletions of CD8 Enhancer from 5 '' End p5 ' A-389 p5 ' A-290 p5 ' A-204 p5 ' A-203 p5'A18 pTkcosu- | T u T T T 0 20 40 60 so 100 Relative Activity 7063 FIG .
+3 .
+Deletional analysis of the CD8a enhancer .
+( A ) The extent of unidirectional exonuclease III deletions from the 5 ' and 3 ' ends of the 1,149-bp enhancer fragment is shown by horizontal arrows pointing to the site of deletion .
+Also depicted are the consensus motifs for GATA-3 , LyF-1 , bHLH , TCF-1 , CRE , and Ets-1 binding proteins .
+The vertical arrows at the 5 ' end of the fragment represent an inverted repeat that is formed by the Alu sequences .
+A 100-bp size marker is also shown .
+( B ) Functional analysis of deletion mutants from the 3 ' end .
+The activity of the plasmid pTKCD8U+ used to generate the 3 ' deletion mutants is shown for comparison .
+( C ) Functional analysis of deletion mutants from the 5 ' end .
+The activity of the plasmid pTKCD8U- used to generate the 5 ' deletion mutants is shown for comparison .
+( B and C ) Jurkat and JM ( G2 ) cells were cotransfected with the deletion constructs and the reference plasmid pCMVB-gal .
+Relative activity was calculated as for Fig .
+2 .
+The name of each plasmid denotes the end from which the deletion was made and the exact amount of sequence that was deleted .
+For example , in the plasmid p3 ' A-280 , the CD8a enhancer was deleted 280 bp from the 3 ' end .
+7064 HAMBOR ET AL .
+Mor .
+CEL .
+® Plasmid Yur 0 ig A A } men .
+fF $ o SL < 4 & & yarso pTKLux gi 0 Sug g EL { } { -- - [ T prkoosu .
+2 ooo -O-D -- OO -- O -- 1-D- ~ ~~ [ TK ) pTKGDBmin Single Mutants 4-O -- OO -- O -- O- { - ~ ~~ [ TK ) pmeatas pmiyriu P -O -- O -- KO -- -O -- -t -- + pmbHLH moo -O-O -- O # -- O -- O-O- poly- 10 rrr O-O -- 0O0 -- I # -- O -- pmTor1 oars . ''
+pmone eam pmets-1 @ i Double Mutants 4-I -- -OQ -- { -- -UJ-F- pmGATA-3/LyF-1u .
+\ -O-K -- KH } -- -O -- -t -- F Pee - « O-B -- O -- -O -- -OJ -- F- pmLyF-1wLyF-10 .
+-O -- K -- -OO -- -O -- AI -- - pmilyr1wone P o - « O-O -- M -- -DO -- UO -- - pmbHLH/LyF-10 .
+( Wi pmphietcra AZZ - « O-O -- BO -- O -- I -- pmpriwons rrr rrr ror rrr orr rare -O-L -- -HMR -- AB -- O -- } pmLyFAd4TCF-1 ans -O -- O -- -O # -- -O -- AAI -- - pmiyr14ione P m m ® A A A A I `` I `` I `` I `` I CC PF £ 4 & ® Y & V as 0 25 50 75 100 Relative Activity FIG .
+4 .
+Site-directed mutagenesis of the minimal CD8a « enhancer .
+The minimal CD8 « enhancer ( pTKCD $ 8 min ) , defined on the 5 ' end by a Tth1111 site representing deletion of 216 bp and on the 3 ' end by a 3 ' A-280 site representing deletion of 280 bp , is depicted at the top of the figure .
+Also shown are the consensus nucleoprotein binding motifs .
+The 653-bp minimal enhancer fragments which have wild-type ( open box ) or mutant ( solid box ) nuclear protein binding sites were inserted upstream of the herpes simplex virus TK promoter in its native 5'-to-3 ' orientation in the luciferase-reporter plasmid pTKLux .
+The sequences of the mutant oligomers used to introduce these site-directed changes into the minimal enhancer are depicted in Fig .
+5 , 6 , 7 , and 8 and also in Table 2 .
+Both single and double mutants were generated .
+JM ( G2 ) and Jurkat T-cell lines were cotransfected with the mutant reporter constructs and the reference plasmid pCMVB-gal .
+Relative activity was determined by normalizing standardized values to pTKCD8min ( set at a value of 100 ) .
+competition assays ( Fig .
+7 , lanes 7 , 8 , and 9 ) demonstrated that this more slowly migrating complex contains a GATA binding protein specific for the GATA site , since formation of this complex was inhibited only by the wild-type GATA oligomer .
+Two faster-migrating , nonspecific complexes were also observed in all cell lines examined that were not inhibited by the wild-type GATA oligomer .
+These results demonstrate that the consensus GATA-3 site in the CD8a enhancer specifically binds a T-cell-restricted nuclear factor .
+The Ets-l proto-oncogene , which encodes a sequence-specific DNA-binding protein that recognizes the consensus motif 5'-RRSMGGAWVWR-3 ' ( IUB nucleotide code ) , is preferentially expressed in thymocytes , T cells , and B cells ( 45 ) .
+This motif , found in the enhancers of other T-cell-specific genes ( 80 ) , is also present in the CD8 « enhancer .
+A cluster of three T-cell-restricted DNA-protein complexes was formed with nuclear extracts from the T-cell lines Jurkat , Molt4 , JIM ( G2 ) , and HPB.ALL ( see bracketed bands in Fig .
+8 ) , but not from the nonlymphoid cell lines HeLa and HepG2 or from the B-cell line Raji ( data not shown ) .
+The formation of this cluster of complexes could be inhibited by a competitor oligonucleotide containing an Ets-1 consensus sequence , but not by a related oligonucleotide in which the Ets-1 motif was mutated .
+It is unclear whether the observed cluster of DNA-protein complexes represents the modification or degradation of a single nucleoprotein or the binding of three unique nucleoproteins .
+Thus , the Ets-1 motif in the CD8a enhancer also appears to function as a binding site for T-cell-specific nuclear factors .
+The enhancer is partially composed of an A/z repeat .
+Sequence analysis revealed an Alu repeat at the 5 ' end of the minimal enhancer ( Fig .
+1 ) .
+A comparison of this sequence with known Alu consensus sequences ( 71 ) indicated that there is 96 % homology to the precise consensus , with nucleotide changes at only 12 positions ( Fig .
+9 ) .
+Alu family members with characteristics of the precise consensus are believed to have been more recently inserted into the ge-nome .
+Six of the 12 changes from the precise consensus Vor .
+13 , 1993 Consensus 5 '' -YYTGGGAGR-3 ' CD8 Enhancer upstream wild-type GTCCCAGCTACTTGGGAGGTTGAGGCAGG mutant ___ __ __ __ ___ _ -- -- -- -- -- =- GCAT-C -- -- -- -- -- -- downstream wild-type ATCCCAGCACTTTGGGAGGCCAAGGCGGG mutant __ AGGCCT -- -- -- -- -- -- Related Genes hTdT TATTGGACA TTTGGCAGG mTdT TTTGGGAGA TTCAGCAGG hLCK CCTGGGAGA GTTGGGAGG CCTGGGACA Ccressceer mLCK TCTGGGGGA TTTGGGGGA Molt 4 ad s é o § £ { & 14° % ¢ & o 3 M [ T ] u ML -l s 53 E I £ | j f A 10 mn @ !
+471 §m0Ge Zo -B FIG .
+5 .
+EMSA analysis of the downstream LyF-1 binding site .
+The upper portion of the figure compares the consensus sequence of the LyF-1 binding site with aligned sequences of LyF-1 binding sites found in the transcriptional regulatory region of the human CD8a « gene and other related T-cell-specific genes .
+The sequence of synthetic oligonucleotides from the CD8a enhancer representing the upstream ( positions 353 to 324 from Fig .
+1C , in the reverse orientation ) and downstream ( positions 487 to 458 from Fig .
+1C , in the reverse orientation ) wild-type LyF-1 sites and flanking sequence , as well as oligonucleotides containing mutations in the upstream and downstream LyF-1 binding sites , are shown .
+The dashes indicate identical sequences in the wild-type and mutant oligonucleotides .
+The lower portion of the figure shows an EMSA with the radiolabeled wild-type LyF-1 ( downstream site ) oligonucleotide probe and nuclear extracts from the cell lines Molt4 , Jurkat , HPB.ALL , HeLa , and HepG2 .
+The arrow indicates bands of altered mobility representing specific protein-DNA complexes .
+Lanes 6 , 7 , and 8 , competition experiments in which the Molt4 nuclear extract was preincubated ( 5 min ) with either no competitor ( lane 6 ) or with a 20-fold molar excess of unlabeled wild-type ( w ; lane 7 ) or mutant ( m ; lane 8 ) LyF-1 competitor oligonucleotides .
+Alu-CONTAINING T-CELL-SPECIFIC CD8 « ENHANCER 7065 Consensus 5 '' -Y¥CTYTEKWW-3 ' CD8 Enhancer wild-type TTTAAGGCAGAACTTTATTCTCAGTTATTCA Mutant ___ ________ _ -- -- -- -- -- -- ACCGCGG -- -- -- -- -- -- Related Genes mCD4 TAGGCCCTTTGTT TCRa GGCACCCTTTGAA TCRS CCTCCCCTCTGAA TCRSé AAAGCCCTTTGAA CD37 TGCCTTCTCTCAA AGATGCCTTTTGT CD36 GAAACACTTTCAA AGCACCCTTACCC CD3e AGAGCGCTTTGTT AGCACACTCTGCT CD2 CTAACACTTTGGG ADA AGTCTCCTTTGTT LCK GGCCTCCTGTGAA AAAAGCCTGTTTG GAAACTCTCTGAA GGATGTCTCATGT -I Jurkat 4 & s u .
+§ sig f 1 59 s & § G P1 ; f “ than ” S Siva cits 1 C2 .
+4 5 .
+# 7-8 FIG .
+6 .
+EMSA analysis of the TCF-1 binding site .
+The upper portion of the figure compares the consensus sequence of the TCF-1 binding site with aligned sequences of the TCF-1 binding site found in the transcriptional regulatory region of the human CD8 « gene and other related T-cell-specific genes .
+The sequence of synthetic oligonucleotides from the CD8a « enhancer representing the wild-type TCF-1 site ( positions 641 to 611 from Fig .
+1C , in the reverse orientation ) and mutant are shown .
+The dashes indicate identical sequences in the wild-type and mutant oligonucleotides .
+The lower portion of the figure shows an EMSA with the radiolabeled wild-type TCF-1 oligonucleotide probe and nuclear extracts from the cell lines Molt4 , HPB.ALL , JM ( G2 ) , Jurkat , and HeLa .
+The arrow indicates bands of altered mobility representing specific protein-DNA complexes .
+Lanes 6 , 7 , and 8 , competition experiments in which Jurkat nuclear extract was preincubated ( 5 min ) with either no competitor ( lane 6 ) or with a 20-fold molar excess of unlabeled wild-type ( w ; lane 7 ) or mutant ( m ; lane 8 ) TCF-1 competitor oligonucleotides .
+occurred at CG dinucleotides , which could be explained by an accelerated transition rate of C to T due to CG methyla-tion .
+Four of the protein binding sites we have described are present within this 4/u repeat .
+While one of the LyF-l binding sites is exactly conserved in all Alu consensus sequences ( positions 38 to 46 ) , the other LyF-1 site ( positions 172 to 180 ) arose by a single C-to-T change at position 174 corresponding to a CG dinucleotide .
+It is unknown whether this change , a characteristic of all polymorphic 7066 HAMBOR ET AL .
+Consensus 5 '' -WGATAR-3 ' CD8 Enhancer wild-type TCCAGCCTGGGCGAGATAGCGAGACTCCGTC MUt @ nt =_ _______ _ - < -- -- -- -- -- ~ -- - AGCTT -- -- -- -- -- -- Related Genes TCRa TAGATAGC TCRB GAGATAAA TCRSé TTGATAAC TTGATAAC __ JM ( G2 ) = < ' @ i s a < -o-f Piff .
+f : i 2 E 5 s E I | & E dnl Wows Ned bent < 1002 .
+3. iq a- 50 Gi 7 ig .
+ig FIG .
+7 .
+EMSA analysis of the GATA-3 binding site .
+The upper portion of the figure compares the consensus sequence of the GATA-3 binding site with aligned sequences of GATA-3 binding sites found in the transcriptional regulatory region of the human CD8a gene and other related T-cell-specific genes .
+The sequences of synthetic oligonucleotides from the CD8a « enhancer representing the wild-type GATA-3 site ( positions 266 to 235 from Fig .
+1C , in the reverse orientation ) and mutant are shown .
+Dashes indicate identical sequences in the wild-type and mutant oligonucleotides .
+The lower portion of the figure shows an EMSA with the radiolabeled wild-type GATA-3 oligonucleotide probe and nuclear extracts from the cell lines HepG2 , HeLa , Jurkat , Molt4 , JM ( G2 ) , and HPB .
+ALL .
+The arrow indicates bands of altered mobility representing specific protein-DNA complexes .
+Lanes 7 , 8 , and 9 , competition experiments in which the JM ( G2 ) nuclear extract was preincubated ( 5 min ) with either no competitor ( lane 7 ) or with a 20-fold molar excess of unlabeled wild-type ( w ; lane 8 ) or mutant ( m ; lane 9 ) GATA-3 competitor oligonucleotides .
+variant ( PV ) subfamily members , is necessary for the generation of this functional LyF-1 binding site .
+The other two binding sites for the bHLH and GATA-3 proteins were also created by specific mutations from the precise consensus .
+It is striking that of the 12 bp differences between the precise consensus 4/u and the Alu sequence in the CD8 « enhancer , four are in positions leading to the creation of transcription factor binding sites , suggesting that selection potentially maintains the functionality of these motifs .
+In addition to the full-length 4/4 , there is half of an Alu Mor .
+CEL .
+BioL .
+Consensus 5 -RRSMGGAWVWR-3 ' CD8 Enhancer wild-type TGACAGGGAGAGAGGAGGATGTGAGCAAATC mutant - -CATATG -- -- -- -- -Related Genes TCRa CAGAGGATGTG TCRB ACCAGGATGTC TCR GAAAGGATTAG GCAAGGAAACC ACAAGGAAACC CD37y6 TTGAGGATGAG CD3e TGAAGGAGGGA CD2 CAGAGGAAAAA ADA GGGAGGATCAG Molt4 _ ] < I i T bus a é ( j ) < 7 ) § $ 4 .
+5k f .
+$ 5 E é ) 3 s E T | 3 E JETS les ins Win , # s 1° 20 3 ~a `` pong '' Fe mea s : 10 FIG .
+8 .
+EMSA analysis of the Ets-l binding site .
+The upper portion of the figure compares the consensus sequence of the Ets-1 binding site with aligned sequences of Ets-1 binding sites found in the transcriptional regulatory region of the human CD8a gene and other related T-cell-specific genes .
+The sequences of synthetic oligonucleotides from the CD8a enhancer representing the wild-type Ets-1 site ( positions 885 to 855 from Fig .
+1C , in the reverse orientation ) and mutant are shown .
+Dashes indicate identical sequences in the wild-type and mutant oligonucleotides .
+The lower portion of the figure shows an EMSA with the radiolabeled wild-type Ets-1 oligonucleotide probe and either no extract ( lane 1 ) or nuclear extracts from the cell lines HeLa , HepG2 , Jurkat , Molt4 , JM ( G2 ) , and HPB .
+ALL .
+Bracket indicates bands of altered mobility representing specific protein-DNA complexes .
+Lanes 8 , 9 , and 10 , competition experiments in which the Molt4 nuclear extract was preincubated ( 5 min ) with either no competitor ( lane 6 ) or with a 20-fold molar excess of unlabeled wild-type ( w ; lane 8 ) or mutant ( m ; lane 9 ) Ets-1 competitor oligonucleotides .
+repeat located immediately 5 ' in an inverted orientation ( Fig .
+1 ) .
+This half-4/u repeat is more similar to the major consensus Alu ( Fig .
+9 ) representative of older Alu family members , suggesting that the more recent full-length Alu sequence was inserted next to the older half-4/z sequence .
+While no protein binding sites were detected in the half-4/u sequence by computer search , it is possible that this inverted sequence could form a cruciform structure with the linked Alu repeat Vou .
+13 , 1993 Alu-CONTAINING T-CELL-SPECIFIC CD8 « ENHANCER 7067 10 20 30 40 50 60 70 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .cr .
+kkk } .
+Major Consensus ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... PV Consensus GGCCGGGCGC GGTGGCTCAC GCCTGTAATC CCAGCACTTT GGGAGGCCGA GGCGGGCGGA TCAC—-GAGGTC Precise Consensus ... ... . T. « Aviv v vs ok k k k e e e ea oe e e e e e ee e e e e e ea e Au lvn k eee ee CCB .
+CD8 full-length Alu LyF-1 YYT GGGAGR bEHLH CAN NTG 80 90 100 110 120 130 140 ... .. T. kk .
+ok kkk s G. v kk ok Cv vs Pak vv k k e eve ee aa e e a n e e ee ne e e e a a e ee e ee ee ees Major Consensus ... ... ... ... ... ... C. ... ..A. PV Consensus ... ... ... .
+Precise Consensus CD8 full-length Alu CD8 half Alu Major Consensus PV Consensus Precise Consensus CD8 full-length Alu 150 160 170 180 ... ... ... . & CRY ... ... lke .
+.e keel kere erk eck .
+.l } ccereercec T..T ... .. « T .
+kaal .
+eek ... . .. T ... ... CA T.C ... C.A .
+.A ... GG ~ATT LyF-1 YYTGGGAGR 220 230 240 250 ... ... . G.. kkk ease ees ake eee Pik leke reek ke elk } .
+... ... ... ... ... ... ... ... .. C.. k kaka kk eave eek es GcAGTGAGCC GAGATCGCGC CACTGCACTC ... ... ... ... ... ... ... ... ... . A. ake ... ... ... . G.. PA. .k ... ... .. C..T GT.. CD8 half Alu 260 270 280 ... ... ... ... ... ... ... ... . Major Consensus ... ... ... ... ... ... ... ... . PV Consensus Precise Consensus CD8 full-length Alu CD8 half Alu GATA-3 WGATAR FIG .
+9 .
+Alignment of A4/u consensus sequences with the A4/z sequences in the CD8a intronic enhancer .
+Alu consensus sequences representing major , polymorphic variant ( PV ) , and precise subfamily members ( 71 ) , as well as the full-length and half-4/u sequences , in the CD8 intronic enhancer are shown .
+Dots indicate identical nucleotides , and dashes correspond to gaps or deletions .
+The insertion of three nucleotides ( ~ATT ) into the CD8 half-4/u sequence at position 142 is indicated .
+The consensus binding sites for LyF-1 , bHLH , and GATA-3 proteins are shown in boldface type and have been aligned to the Alu consensus sequences .
+( greater than 90 % homology ) under some circumstances .
+The formation of such a secondary structure may account for the apparent silencer activity we detected when we removed the half-4/u repeat during our deletional analysis ( Fig .
+3C ) .
+This would be consistent with the finding that the fragment did not display silencer activity when placed at a distance from the enhancer ( data not shown ) .
+DISCUSSION In this report , we identified a prominent tissue-restricted DNase I HS in the last intron of the human CD8a gene and found that a fragment containing this site exhibited the properties of a T-cell-specific transcriptional enhancer .
+We found a number of protein binding sites ( Ets-1 , GATA-3 , LyF-1 , TCF-1 , CRE , and bHLH ) and demonstrated a functional role for these elements in both a nucleoprotein binding assay ( EMSA ) and a reporter-based expression assay by using site-directed mutagenesis of the consensus protein binding site for each motif .
+A minimal 653-bp enhancer with maximal activity was delimited on the 5¢ and 3 ' ends by consensus GATA-3 and Ets-1 binding sites , respectively , both of which were critical for enhancer function .
+In addition , we found that the 5 ' portion of the minimal enhancer encoded an Alu repeat which contained four consensus motifs for DNA-binding proteins .
+Deletion experiments suggested that a negative regulatory element containing at least half of an Alu repeat is adjacent to the minimal enhancer .
+Taken together , our results indicate that the CD8a « enhancer described in this study is a complex transcriptional regulatory element that potentially contributes to the T-cell specificity of human CD8a gene expression .
+The existence of an Alu repeat within the enhancer indicates the potential role of Alu sequences in cell-specific regulation .
+While the function of Alu sequences is largely unknown , there are accumulating examples of their role in gene regulation ( 6 , 34 , 67 ) .
+For instance , DNA-binding proteins are known to bind to Alu repeats ( 6 , 9 , 78 ) .
+Some characterized regulatory elements , such as a positive and a negative element in the promoter of the y chain subunit of the high-affinity immunoglobulin E receptor , contain parts of Alu repeats ( 6 ) .
+The insertion of Alu repeats into or near a gene , such as occurred in the CD8 gene , may contribute to the evolution of regulatory elements controlling the expression of that gene .
+Because Alu repeats are found only in primate species , it would imply that the existence of this regulatory element within the CD8a intron would be restricted to primates .
+In fact , this is supported by sequence comparisons performed between human and murine sequences in the last intron of the CD8a gene ( data not shown ) which showed no homology in the region of the human enhancer .
+In addition , we searched the murine intron for the presence of the protein binding motifs that we found in the human intron and did not find any of these sites .
+Therefore , we propose that insertion of the Alu sequences apparently contributed to the evolution of this regulatory element .
+A detailed comparison of all the characterized T-cell-specific enhancers , including the human CD8a « enhancer identified in this study , revealed that many are patchwork composed of a mutual set of nuclear protein binding sites for GATA , TCF , Ets , CREB/ATF , and bHLH proteins ( 20 , 23 , 31 , 38 , 41 , 44 , 45 , 50 , 51 , 64-66 , 74 , 76 , 81 ) .
+Thus , it seems likely that a consortium of a relatively limited number of 7068 HAMBOR ET AL .
+transcription factors , many exclusively found in T cells , may coordinately regulate the expression of multiple T-cell genes .
+Although tied together by this common thread , each regulatory region is organized into a unique pattern of cis-acting elements .
+Cross-talk amongst an assemblage of trans-acting factors , determined to a certain extent by the geometric spacing of the cis elements , as well as the interaction affinity of each cis element with related or posttran-scriptionally modified members of an individual transcription factor gene family , could ultimately influence the temporal and spatial expression of individual T-cell-specific genes and potentiate differential gene expression during T-cell development and activation .
+For instance , the relative location of TCF-1 , a protein capable of bending DNA ( 22 ) , may be critical for determining what types of protein-protein interactions may occur within an enhancer .
+While the importance of some motifs such as GATA-3 and Ets-1 were apparent from single-site mutations , the functional importance of the binding motifs for the LyF-1 , TCF-1 , CRE , and bHLH nucleoproteins only became apparent when mutations in these sites were analyzed in pairs .
+This finding suggests that the CD8a enhancer , like other T-cell-specific enhancers , is composed of a set of partially redundant cis-acting elements which are able to compensate for the functional loss of other individual elements .
+Alternatively , the functional importance of these individual elements may change during T-cell differentiation or activation , since it has been shown that the genes for these lymphoid-restricted transcription factors are first expressed at different periods of thymocyte development ( 10 , 45 , 79 ) .
+Since we have thus far characterized previously described protein binding motifs , the existence of additional cis-acting elements in the CD8a « enhancer remains a distinct possibil-ity .
+Indeed , preliminary DNase I footprint analysis allowed the identification of a protected region close to , but not encompassing , the TCF-1 consensus motif ( data not shown ) .
+To the best of our knowledge , this sequence does not conform to any previously described cis-acting element and therefore may represent a binding site for a novel transacting factor .
+In this study , we have investigated the properties of a CD8a « enhancer that is active in all T-cell lines tested , including the Jurkat T-cell line , which does not express the endogenous CD8 « gene .
+The fact that the intronic region containing the CD8a « enhancer is hypersensitive to DNase I digestion in Jurkat cells suggests that this enhancer is poised to receive the proper trans-regulatory information .
+While it is unknown why Jurkat cells do not express their endogenous CD8a gene , it is possible that the activity of this enhancer in Jurkat cells may reflect an abnormal property of this cell line .
+It is plausible that the endogenous CD8a enhancer or some other important endogenous regulatory region ( such as the promoter ) is defective in Jurkat cells .
+Alternatively , the CD8a enhancer may be inactivated by a negative regulator , in addition to the adjoining silencer element , which is missing in the reporter-based plasmids .
+The latter possibility is particularly appealing , since an additional silencer element outside of the TCRa enhancer was recently shown to down-regulate the function of the TCRa enhancer in T cells of the y8 lineage ( 81 ) .
+Thus , additional cis-acting elements may be required to fine-tune expression of the CD8a gene in specific T-cell subsets .
+While this initial characterization of the CD8a « intronic enhancer will significantly facilitate future studies , many unanswered questions remain .
+What is the nature of negative regulation during selection of CD4* T cells in the thymus ?
+Mor .
+CELL .
+BioL .
+How are these cis-acting elements able to mediate temporal signals during the process of thymic differentiation ?
+Once all of the cis-regulatory elements have been identified and characterized , a better understanding of the molecular mechanisms governing CD8a gene expression will be possible .
+ACKNOWLEDGMENTS We thank Sue Williams , Mike Fogliano , and Laura Elsenboss for sequencing the deletional and site-directed mutants ; John Thompson ( Pfizer , Inc. ) for providing the plasmid pLuxF47 ; David Dean for densitometry scanning ; and Mei-hua Gao , Patricia Giblin , Kevin Ogborne , and Lois Nichols for valuable advice .
+We are grateful to Ian Williams and Alan Proctor for critical reading of the manuscript and support of this project .
+J.E.H .
+was supported by a postdoctoral fellowship from Pfizer , Inc. P.K .
+is a scholar of the Leukemia Society of America .
+REFERENCES 1 .
+Aldrich , C. J. , R. E. Hammer , S. Jones-Youngblood , U. Koszi-nowski , L. Hood , I. Stroynowski , and J. Forman .
+1991 .
+Negative and positive selection of antigen-specific cytotoxic T lymphocytes affected by the « 3 domain of MHC class I molecules .
+Nature ( London ) 352:718-721 .
+2 .
+Aronow , B. J. , R. N. Silbiger , M. R. Dusing , J. L. Stock , K. L. Yager , S. Potter , J. J. Hutton , and D. A. Wiginton .
+1992 .
+Functional analysis of the human adenosine deaminase gene thymic regulatory region and its ability to generate position-independent transgene expression .
+Mol .
+Cell .
+Biol .
+12:4170-4185 .
+3 .
+Barber , E. K. , J. D. Dasgupta , S. F. Schlossman , J. M. Trevil-lyan , and C. E. Rudd .
+1989 .
+The CD4 and CD8 antigens are coupled to a protein-tyrosine kinase ( pS56 '' * ) that phosphorylates the CD3 complex .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 86:3277-3281 .
+4 .
+Bier , E. , Y. Hashimoto , M. I. Greene , and A. M. Maxam .
+1985 .
+Active T-cell receptor genes have intron deoxyribonuclease hypersensitive sites .
+Science 229:528-534 .
+5 .
+Bories , J. C. , P. Loiseau , L. d'Auriol , C. Gontier , A. Bensussan , L. Degos , and F. Sigaux .
+1990 .
+Regulation of transcription of the human T cell antigen receptor 8 chain gene .
+A T lineage-specific enhancer element is located in the J8-C38 intron .
+J. Exp .
+Med .
+171:75-83 .
+6 .
+Brini , A. T. , G. M. Lee , and J.-P. Kinet .
+1993 .
+Involvement of Alu sequences in the cell-specific regulation of transcription of the y chain of Fc and T cell receptors .
+J. Biol .
+Chem .
+268:1355-1361 .
+7 .
+Bruns , G. , P. Kavathas , Y. Shiloh , K. Sakai , J. Schwaber , S. A. Latt , and L. A. Herzenberg .
+1985 .
+The human T cell antigen Leu-2 ( T8 ) is encoded on chromosome 2 .
+Human Genet .
+70:311-314 .
+8 .
+Chalupny , N. J. , J .
+A. Ledbetter , and P. Kavathas .
+1991 .
+Association of CD8 with p56 '' is required for early T cell signalling events .
+EMBO J .
+10:1201-1207 .
+9 .
+Chesnokov , I. , V. Bozhkov , B. Popov , and N. Tomilin .
+1991 .
+Binding specificity of human nuclear protein interacting with the Alu-family DNA repeats .
+Biochem .
+Biophys .
+Res .
+Commun .
+178:613-619 .
+10 .
+Clevers , H. C. , and M. J. Owen .
+1991 .
+Towards a molecular understanding of T-cell differentiation .
+Immunol .
+Today 12:86 92 .
+11 .
+Comb , M. , N. C. Birnberg , A. Seasholtz , E. Herbert , and H. M. Goodman .
+1986 .
+A cAMP and phorbol ester inducible DNA binding element .
+Nature ( London ) 323:353-356 .
+12 .
+Connolly , J. M. , T. A. Potter , E. M. Wormstall , and T. H. Hansen .
+1988 .
+The Lyt-2 molecule recognizes residues in the class I a3 domain in allogeneic cytotoxic T cell responses .
+J. Exp .
+Med .
+168:325-341 .
+13. deWet , J. R. , K. V. Wood , M. DeLuca , D. R. Helinski , and S. Subramani .
+1987 .
+Firefly luciferase gene : structure and expression in mammalian cells .
+Mol .
+Cell .
+Biol .
+7:725-737 .
+14 .
+Dignam , J. D. , R. M. Lebovitz , and R. G. Roeder .
+1983 .
+Accurate transcription initiation by RNA polymerase HI in a soluble extract from isolated mammalian nuclei .
+Nucleic Acid Vor .
+13 , 1993 15 .
+16 .
+17 .
+18 .
+19 .
+21 .
+22 .
+23 .
+24 .
+26 .
+27 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+Res .
+11:1475-1489 .
+Enver , T. , N. Raich , A. J. Ebens , T. Papayannopoulou , F. Constantini , and G. Stamatoyannopoulos .
+1990 .
+Developmental regulation of human fetal-to-adult globin gene switching in transgenic mice .
+Nature ( London ) 344:309-313 .
+Eustice , D. C. , P. A. Feldman , A. M. Colberg-Poley , R. M. Buckery , and R. H. Neubauer .
+1991 .
+A sensitive method for detection of B-galactosidase in transfected mammalian cells .
+BioTechniques 11:739-742 .
+Faisst , S. , and S. Meyer .
+1992 .
+Compilation of vertebrate-encoded transcription factors .
+Nucleic Acids Res .
+20:3-26 .
+Fried , M. , and D. M. Crother .
+1984 .
+Equilibrium and kinetics of lac repressor-operator interactions by polyacrylamide gel electrophoresis .
+J. Mol .
+Biol .
+172:263-282 .
+Fung-Leung , W. , M. W. Schilham , A. Rabemtulla , T. M. Kun-dig , M. Vollenweider , J. Potter , W. van Ewijk , and T. W. Mak .
+1991 .
+CD8 is needed for development of cytotoxic T cells but not helper T cells .
+Cell 6§:443-449. .
+Georgopoulos , K. , D. Galson , and C. Terhorst .
+1990 .
+Tissue specific nuclear factors mediate expression of the CD36 gene during T cell development .
+EMBO J .
+9:109-115 .
+Georgopoulos , K. , B .
+A. Morgan , and D. D. Moore .
+1992 .
+Functionally distinct isoforms of the CRE-BP DNA-binding protein mediate activity of a T-cell specific enhancer .
+Mol .
+Cell .
+Biol .
+12:747-757 .
+Giese , K. , J. Cox , and R. Grossched ] .
+1992 .
+The HMG domain of lymphoid enhancer factor 1 bends DNA and facilitates assembly of functional nucleoprotein structures .
+Cell 69:185-195 .
+Gill , L. L. , D. Zaninetta , and K. Karjalainen .
+1991 .
+A transcriptional enhancer of the mouse T cell receptor 8 gene locus .
+Eur .
+J. Immunol .
+21:807-810 .
+Glassy , M. C. , H. H. Handley , H. Hagiwara , and I. Royston .
+1983 .
+UC 729-6 , a human lymphoblastoid B-cell line useful for generating antibody-secreting human-human hybridomas .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 80:6327-6331. .
+Gorman , S. D. , Y. H. Sun , R. Zamoyska , and J. R. Parnes .
+1988 .
+Molecular linkage of the Ly-3 and Ly-2 genes .
+J. Immunol .
+140:3646-3653 .
+Greaves , D. R. , F. D. Wilson , G. Lang , and D. Kioussis .
+1989 .
+Human CD2 3'-flanking sequences confer high-level , T cell-specific , position-independent gene expression in transgenic mice .
+Cell 56:979-986 .
+Gross , D. S. , and W. T. Garrard .
+1988 .
+Nuclease hypersensitive sites in chromatin .
+Annu .
+Rev .
+Biochem .
+57:159-197. .
+Halazonetis , T. D. , and A. N. Kandil .
+1992 .
+Predicted structural similarities of the DNA binding domains of bHLH proteins and endonuclease EcoRI .
+Science 255:464-466 .
+Hanke , J. H. , L. N. Nichols , and M. E. Coon .
+1992 .
+FK506 and rapamycin selectively enhance degradation of IL-2 and GM-CSF mRNA .
+Lymphokine Cytokine Res .
+11:221-231 .
+Hashimoto , Y .
+1989 .
+T cell receptor B gene has two downstream DNase I hypersensitive regions .
+Possible mechanisms of tissue-and stage-specific gene regulation .
+J. Exp .
+Med .
+169:2097-2107 .
+Hashimoto , Y. , A. M. Maxam , and M. I. Greene .
+1990 .
+Identification of tissue specific nuclear proteins : DNA sequence and protein binding regions in the T cell receptor beta J-C intron .
+Nucleic Acids Res .
+18:3027-3033 .
+Haynes , B. F. , S. M. Denning , K. H. Singer , and J. Kurtzberg .
+1989 .
+Ontogeny of T-cell precursors : a model for the initial stages of human T-cell development .
+Immunol .
+Today 10:87-91 .
+Higgs , D. R. , W. G. Wood , A. P. Jarman , J. Sharpe , J. Lida , I.-M. Pretorius , and H. Ayyub .
+1990 .
+A major positive regulatory region located far upstream of the human « -globin gene locus .
+Genes Dev .
+4:1588-1601 .
+Howard , B. H. , and K. Sakamoto .
+1990 .
+Alu interspersed repeats : selfish DNA or a functional gene family ?
+New Biol .
+2:759-770 .
+Ingold , A. L. , C. Landel , C. Knail , G. A. Evens , and T. A. Potter .
+1991 .
+Co-engagement of CD8 with the T cell receptor is required for negative selection .
+Nature ( London ) 352:721-723 .
+Jarry , A. , N. Cerf-Bensussan , N. Brousee , F. Selz , and D. Guy-Grand .
+1990 .
+Subsets of CD3* ( T cell receptor o/B or 4/8 ) and CD3~ lymphocytes isolated from normal human gut epithe- Alu-CONTAINING T-CELL-SPECIFIC CD8 « ENHANCER 37 .
+38 .
+39 .
+41 .
+42 .
+43 .
+45 .
+47 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+7069 lium display phenotypical features different from their counterparts in peripheral blood .
+Eur .
+J. Immunol .
+20:1097-1103 .
+Joulin , V. , D. Bories , J.-F. Eleouet , M.-C. Labastie , S. Chretien , M.-G. Mattei , and P.-H. Romeo .
+1991 .
+A T-cell specific TCR 8 DNA binding protein is a member of the human GATA family .
+EMBO J .
+10:1809-1816 .
+Kappes , D. , C. P. Browne , and S. Tonegawa .
+1991 .
+Identification of a T-cell-specific enhancer at the locus encoding T-cell antigen receptor y chain .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 88:2204-2208 .
+Karpinski , B .
+A. , G. D. Moore , J. Huggenvik , M. D. Uhler , and J. M. Leiden .
+1992 .
+Molecular cloning of human CREB-2 : and ATF/CREB transcription factor that can negatively regulate transcription from the cAMP response element .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 89:4820-4824. .
+Kavathas , P. , V. P. Sukhatme , L. A. Herzenberg , and J. R. Parnes .
+1984 .
+Isolation of the gene encoding the human T-lymphocyte differentiation antigen Leu-2 ( T8 ) by gene transfer and cDNA subtraction .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 81:7688-7692 .
+Krimpenfort , P. , R. de Jong , Y. Uematsu , Z. Dembic , S. Ryser , H. von Boehmer , M. Steinmetz , and A. Berns .
+1988 .
+Transcription of T cell receptor B-chain genes is controlled by a downstream regulatory element .
+EMBO J .
+7:745-750 .
+Kunkel , T. A .
+1985 .
+Rapid and efficient site-specific mutagenesis without phenotypic selection .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 82:488-492 .
+Landschultz , W. H. , P. F. Johnson , and S. L. McKnight .
+1988 .
+The leucine zipper : a hypothetical structure common to a new class of DNA binding proteins .
+Science 240:1759-1764. .
+Lee , M.-R. , C.-S. Chung , M.-L. Liou , M. Wu , W.-F. Li , Y.-P. Hsueh , and M.~Z .
+Lai .
+1992 .
+Isolation and characterization of nuclear proteins that bind to T cell receptor VB decamer motif .
+J. Immunol .
+148:1906-1912 .
+Leiden , J. M. 1992 .
+Transcriptional regulation during T-cell development : the « TCR gene as a molecular model .
+Immunol .
+Today 13:22-30. .
+Littman , D. R. 1987 .
+The structure of the CD4 and CD8 genes .
+Annu .
+Rev .
+Immunol .
+5:561-584 .
+Lo , K. , N. R. Landau , and S. T. Smale .
+1991 .
+LyF-l , a transcriptional regulator that interacts with a novel class of promoters for Iymphocyte-specific genes .
+Mol .
+Cell .
+Biol .
+11 : 5229-5243. .
+Luckow , B. , and G. Schutz .
+1987 .
+CAT constructions with multiple unique restriction sites for the functional analysis of eukaryotic promoters and regulatory elements .
+Nucleic Acids Res .
+15:5490 .
+MacGregor , G. R. , and C. T. Caskey .
+1989 .
+Construction of plasmids that express E. coli B-galactosidase in mammalian cells .
+Nucleic Acids Res .
+17:2365 .
+Mauxion , F. , M. G. Pray , and R. Sen. 1990 .
+Multiple nuclear factors interact with sequences within the JB2-CB2 intron of the murine T cell receptor B-chain gene .
+J. Immunol .
+145:1577-1582 .
+McDougall , S. , C. L. Peterson , and K. Calame .
+1988 .
+A transcriptional enhancer 3 ' of CB2 in the T cell receptor B locus .
+Science 241:205-208 .
+McKnight , S. L. , and R. Kingsbury .
+1982 .
+Transcriptional control signals of a eukaryotic protein-coding gene .
+Science 217:316-324 .
+Minowada , J .
+1988 .
+Leukemia cell lines .
+Cancer Rev .
+10:1-18 .
+Murre , C. , M. Schonleber , P. McCaw , H. Vaessin , M. Caudy , L. Y. Jan , C. V. Cabrera , J. Buskin , S. D. Hauschka , A .
+B. Lassar , H. Weintraub , and D. Baltimore .
+1989 .
+Interactions between heterologous helix-loop-helix proteins generate complexes that bind specifically to a common DNA sequence .
+Cell 58:537-544 .
+Murre , C. , P. Schonleber-McCaw , and D. Baltimore .
+1989 .
+A new DNA binding and dimerization motif in immunoglobulin enhancer binding , daughterless , MyoD , and myc proteins .
+Cell 56:777-783 .
+Nakayama , K.-I. , Y. Kawachi , S. Tokito , N. Minami , R. Ya-mamoto , T. Imai , G. Gachelin , and H. Nakauchi .
+1992 .
+Recent duplication of the two human CD8 B-chain genes .
+J. Immunol .
+148:1919-1927 .
+7070 57 .
+58 .
+59 .
+60 .
+61 .
+62 .
+63 .
+65 .
+66 .
+67 .
+68 .
+69 .
+70 .
+HAMBOR ET AL .
+Nakayama , K. , S. Tokito , K. Okumura , and H. Nakauchi .
+1989 .
+Structure and expression of the gene encoding CD8a chain ( Leu-2/T8 ) .
+Immunogenetics 30:393-397 .
+Norment , A. M. , and D. R. Littman .
+1988 .
+A second subunit of CD8 is expressed in human T cells .
+EMBO J .
+7:3433-3439 .
+Norment , A. M. , N. Lonberg , E. Lacy , and D. R. Littman .
+1989 .
+Alternatively spliced mRNA encodes a secreted form of human CD8a .
+J. Immunol .
+142:3312-3319 .
+Norment , A. M. , R. D. Salter , P. Parham , V. H. Engelhard , and D. R. Littman .
+1988 .
+Cell-cell adhesion mediated by CD8 and MHC class I molecules .
+Nature ( London ) 336:79-81 .
+Olson , E. N. 1990 .
+MyoD family : a paradigm for development ?
+Genes Dev .
+4:1454-1461 .
+Parnes , J. R. 1989 .
+Molecular biology and function of CD4 and CD8 .
+Adv .
+Immunol .
+44:265-311 .
+Potter , T. A. , T. V. Rajan , R. F. Dick II , and J .
+A. Bluestone .
+1989 .
+Substitution at residue 227 of H-2 class I molecules abrogates recognition by CD8-dependent , but not CD8-indepen-dent , cytotoxic T lymphocytes .
+Nature ( London ) 337:73-75. .
+Prosser , H. M. , R. A .
+Lake , D. Wotton , and M. J. Owen .
+1991 .
+Identification and functional analysis of the transcriptional enhancer if the human T cell receptor B gene .
+Eur .
+J. Immunol .
+21:161-166 .
+Prosser , H. M. , D. Wotton , A. Gegonne , J. Ghysdael , S. Wang , N. A. Speck , and M. J. Owen .
+1992 .
+A phorbol ester response element within the human T-cell receptor B-chain enhancer .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 89:9934-9938 .
+Redondo , J. M. , J. F. Pfohl , and M. S. Krangle .
+1991 .
+Identification of an essential site for transcriptional activation within the human T-cell receptor 8 enhancer .
+Mol .
+Cell .
+Biol .
+11:5671-5680 .
+Saffer , J. D. , and S. J. Thurston .
+1989 .
+A negative regulatory element with properties similar to those of enhancers is contained within an Alu sequence .
+Mol .
+Cell .
+Biol .
+9:355-364 .
+Salter , R. D. , R. J. Benjamin , P. K. Wesley , S. E. Buxton , T. P. J. Garrett , C. Clayberger , A. M. Krensky , A. M. Norment , D. R. Littman , and P. Parkam .
+1990 .
+A binding site for the T-cell co-receptor CD8 on the « 3 domain of HLA-A2 .
+Nature ( London ) 345:41-46 .
+Sawada , S. , and D. R. Littman , 1991 .
+Identification and characterization of a T-cell-specific enhancer adjacent to the murine CD4 gene .
+Mol .
+Cell .
+Biol .
+11:5506-5515 .
+Sha , W. C. , R. D. Newberry , D. M. Kranz , J. H. Russell , and D. Y. Loh .
+1988 .
+Selective expression of an antigen receptor on CD8-bearing T lymphocytes in transgenic mice .
+Nature ( London ) 335:271-274 .
+71 .
+72 .
+73 .
+74 .
+75 .
+76 .
+77 .
+78 .
+79 .
+80 .
+81 .
+82 .
+83 .
+84 .
+Mor .
+CELL .
+Bror .
+Shen , M. R. , M. A. Batzer , and P. L. Deininger .
+1991 .
+Evolution of master Alu gene ( s ) .
+J. Mol .
+Evol .
+33:311-320 .
+Shiue , L. , S. D. Gorman , and J. R. Parnes .
+1988 .
+A second chain of human CD8 is expressed on peripheral blood lymphocytes .
+J. Exp .
+Med .
+168:1993-2005 .
+Southern , E. M. 1975 .
+Detection of specific sequences among DNA fragments separated by gel electrophoresis .
+J. Mol .
+Biol .
+98:503-517 .
+Spencer , D. M. , Y.-H. Hsiang , J. P. Goldman , and D. H. Raulet .
+1991 .
+Identification of a T-cell-specific transcriptional enhancer located 3 ' of Cyl in the murine T-cell receptor y locus .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 88:800-804 .
+Swain , S , L. 1983 .
+T cell subsets and recognition of MHC class .
+Immunol .
+Rev .
+74:129-142 .
+Takeda , J. , A. Cheng , F. Mauxion , C. A. Nelson , R. D. Newberry , W. C. Sha , R. Sen , and D. Y. Loh .
+1990 .
+Functional analysis of the murine T-cell receptor B enhancer and characteristics of its DNA-binding proteins .
+Mol .
+Cell .
+Biol .
+10:5027-5035 .
+Terry , L. A. , J. P. DiSanto , T. N. Small , and N. Flomenberg .
+1990 .
+Differential expression and regulation of the human CD8a and CD8 chains .
+Tissue Antigens 35:82-91 .
+Tomilin , N. V. , V. M. Bozhkov , E. M. Bradbury , and C. W. Schmid .
+1992 .
+Differential binding of human nuclear proteins to Alu subfamilies .
+Nucleic Acids Res .
+20:2941-2945. van de Wetering , M. , M. Oosterwegal , D. Dooijes , and H. Clevers .
+1991 .
+Identification and cloning of TCF-1 , a T lympho-cyte-specific transcription factor containing sequence-specific HMG box .
+EMBO J .
+10:123-132 .
+Wang , C.-Y. , B. Petryniak , I.-C. Ho , C. B. Thompson , and J. M. Leiden .
+1992 .
+Evolutionarily conserved Ets family members display distinct DNA binding specificities .
+J. Exp .
+Med .
+175 : 1391-1399 .
+Winoto , A. , and D. Baltimore .
+1989. af } lineage-specific expression of the a T cell receptor gene by nearby silencer .
+Cell 59:649-655 .
+Wotton , D. , B. F. Flanagan , and M. J. Owen .
+1989 .
+Chromatin configuration of the human CD2 gene locus during T-cell development .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 86:4195-4199 .
+Wu , C. 1980 .
+The 5° ends of drosophila heat shock genes in chromatin are hypersensitive to DNase I .
+Nature ( London ) 286:854-860 .
+Zuniga-Pflucker , J. C. , L. A. Jones , D. L. Longo , and A. M. Kuisbeek .
+1990 .
+CD8 is required during positive selection of CD4~/CD8+* T cells .
+J. Exp .
+Med .
+171:427-437 .

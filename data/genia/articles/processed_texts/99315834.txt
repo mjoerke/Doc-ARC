@@ -1,0 +1,503 @@
+THE JOURNAL oF BIOLOGICAL CHEMISTRY © 1999 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+274 , No .
+27 , Issue of July 2 , pp .
+18981-18988 , 1999 Printed in U.S.A. 3-Deazaadenosine , a S-Adenosylhomocysteine Hydrolase Inhibitor , Has Dual Effects on NF- « B Regulation INHIBITION OF NF- « B TRANSCRIPTIONAL ACTIVITY AND PROMOTION OF I « xBa DEGRADATION*® ( Received for publication , November 19 , 1998 , and in revised form , March 22 , 1999 ) Seong-Yun Jeong+ # , Sang-Gun Ahnt , Jeong-Hwa Leet , Ho-Shik Kim ?
+# , Jin-Woo Kim { , Hyangshuk Rhim§ , Seong-Whan Jeongt # , and In-Kyung Kim # §1 From the { Department of Biochemistry , §Research Institute of Molecular Genetics , College of Medicine , The Catholic University of Korea , Seoul 137-701 , Korea Previously we reported that 3-deazaadenosine ( DZA ) , a potent inhibitor and substrate for S-adenosylhomocysteine hydrolase inhibits bacterial lipopolysaccharide-induced transcription of tumor necrosis factor- « and interleukin-1 in mouse macrophage RAW 264.7 cells .
+In this study , we demonstrate the effects of DZA on nuclear factor- « B ( NF- « B ) regulation .
+DZA inhibits the transcriptional activity of NF- « B through the hindrance of p65 ( Rel-A ) phosphorylation without reduction of its nuclear translocation and DNA binding activity .
+The inhibitory effect of DZA on transcriptional activity is potentiated by the addition of homocysteine .
+Taken to-gether , DZA promotes the proteolytic degradation of IxBa , but not IBB , resulting in an increase of DNA binding activity of NF-B in the nucleus in the absence of its transcriptional activity in RAW 264.7 cells .
+The reduction of IxBa by DZA is neither involved in IB kinase complex activation nor modulated by the addition of homocysteine .
+This study strongly suggests that DZA may be a potent drug for the treatment of diseases in which NF-xB plays a central pathogenic role , as well as a useful tool for studying the regulation and physiological functions of NF-KB .
+Nuclear factor- « B ( NF- « B ) , `` a ubiquitous transcription fac-tor , is a pivotal regulator of immune responses , inflammation , cell proliferation , oncogenesis , and apoptosis ( 1-3 ) .
+A prototype member of the Rel family , hetero- or homodimeric NF- « B , is made from monomers that have a highly conserved approximately 300-amino acid amino-terminal domain , which is called the Rel homology domain , which functions in DNA binding , * This work was supported in part by funding from the 1995 and 1997 Basic Research Promotion Fund of the Ministry of Education , Korea , and the Korea Science and Engineering Foundation ( KOSEF ) , Cancer Research Center at Seoul National University , Grant 97K4-0401-00-01-3 .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 U.S.C .
+Section 1784 solely to indicate this fact .
+« ] To whom correspondence should be addressed : Dept .
+of Biochemistry , College of Medicine , The Catholic University of Korea , Seoul 1837-701 , Korea .
+Tel .
+: 82-2-590-1175 ; Fax : 82-2-596-4485 ; E-mail : ikkim @ eme.culk.ac.kr .
+* The abbreviations used are : NF- « B , nuclear factor- « B ; DZA , 8-dea-zaadenosine ; Hey , homocysteine ; LPS , lipopolysaccharide ; TNF , tumor necrosis factor ; IKK , IxB kinase ; PBMC , human peripheral blood mono-cytes ; DZA-Hey , S3-deazaadenosylhomocysteine ; IL-1 , interleukin-1 ; DZAri , 8-deaza- ( +* ) -aristeromycin ; EMSA , electrophoretic mobility shift assay ; CAT , chloramphenicol acetyltransferase ; PKAc , catalytic subunit of protein kinase A ; GST , glutathione S-transferase ; DTT , dithio-threitol ; PAGE , polyacrylamide gel electrophoresis ; HIV , human immunodeficiency virus .
+This paper is available on line at http : //www.jbc.org nuclear translocation , formation of dimers , and I « B binding .
+Most of the dimeric NF- « B complexes are stored in the cytoplasm of unstimulated cells as inactive complexes through interactions with a group of inhibitory proteins called IB .
+Recently , the vertebrate I « B family such as IxBa , IxBB , Bel-3 , precursor proteins p105 and p100 , and IxBe were reported ( 4 , 5 ) .
+Inactive cytoplasmic NF-kB can be activated by stimulation of cells with a broad range of NF- « B-inducing agents including bacterial lipopolysaccharide ( LPS ) and tumor necrosis factor-a ( TNF-a ) .
+Despite differences among these stimuli , one of their common targets is the cytoplasmic NF- « B-IxB complexes .
+These signals known to activate NF- « B result in phosphoryla-tion , subsequent ubiquitination , and proteasome-mediated degradation of the IxB proteins , allowing NF-B to translocate into the nucleus , bind to specific kB sites and thereby activate target genes such as various cytokines , cell adhesion molecules , acute-phase proteins , and immunoreceptors ( 6 ) .
+Researchers have long searched to identify IxB kinase which phosphoryl-ates the IxB proteins to initiate the activation cascade of NF- « B .
+Recently , IxB kinase « ( IKKa ) and IB kinase B ( IKKB ) were reported as essential kinases for NF- « B activation downstream of TNF-a and interleukin-1 ( IL-1 ) receptors ( 7-9 ) .
+Activation of NF- « B could be inhibited through diverse mechanisms by manifold compounds at distinct positions in the activation cascade .
+One group of NF- « B inhibitors which share the property of being anti-oxidative , includes N-acetyl-L-cys-teine ( 10 ) , acetylsalicylic acid ( 11 ) , and pyrrolidine dithiocar-bamate ( 12 ) .
+Some inhibitors interrupt the induced degradation of IB proteins by the inhibition of 26 S protease ( 13 ) , or by increase of IxBa synthesis ( 14 , 15 ) .
+Another group of inhibitors hinders the transcriptional activity of NF- « B already bound to DNA .
+This group includes SB203580 , a specific inhibitor of p38 mitogen-activated protein kinase ( 16 ) , and elevated intracellular cyclic AMP ( cAMP ) ( 17 ) .
+3-Deazaadenosine ( DZA ) was developed to be one of the most potent inhibitors of S-adenosylhomocysteine hydrolase ( EC 3.8.1.1 ) ( 18 ) .
+This agent binds to S-adenosylhomocysteine hydrolase resulting in the accumulation of S-adenosylhomocysteine and S-adenosylmethionine , and serves as a substrate for the enzyme resulting in the huge accumulation of 3-deazaade-nosylhomocysteine ( DZA-Hcy ) in cultured cells ( 18 , 19 ) , especially in liver tissue ( 20 ) .
+DZA exerts a number of interesting biological properties , such as anti-human immunodeficiency virus ( HIV ) activity ( 21 , 22 ) , immunosuppressive and anti-inflammatory effects ( 23 , 24 ) , inhibition of lymphocyte-medi-ated cytolysis ( 25 ) , inhibition of cytokine expression including TNF- « and IL-18B ( 26 ) , inhibition of cell adhesion molecule expression ( 27 , 28 ) , and induction of apoptosis in human and mouse leukemia cells ( 29 , 30 ) .
+Although the wide variety of biological properties underscores that DZA is to be an effective 18981 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 18982 drug for treatment of many human diseases , the action mechanism of DZA is not yet fully understood .
+Previously , we reported that DZA inhibits LPS-induced TNF- « and IL-1B transcription in mouse macrophage RAW264.7 cells ( 26 ) .
+In this study , elementary experiments confirming DZA inhibition of TNF- « transcription in human monocytic macrophage THP-1 cells and human peripheral blood monocytes ( PBMC ) encouraged us to investigate the effect of DZA on NF-KB activation with the intention of understanding the cellular mechanism of DZA .
+DZA potently inhibited the transcriptional activity of NF- « B through the hindrance of p65 phosphorylation without reduction of nuclear translocation and DNA binding activity of NF- « B .
+In RAW 264.7 cells , DZA promoted the proteolytic degradation of IxBa resulting in an increase of DNA binding activity of NF- « B in the nucleus .
+These results strongly suggest that DZA may serve as a potent drug for the treatment of diseases in which NF- « B plays an important pathogenic role , as well as a useful tool for studying the regulation and physiological functions of NF-kB .
+MATERIALS AND METHODS Chemicals-DZA , 3-deaza- ( * ) -aristeromycin ( DZAri ) , and DZA-Hey were donated by Dr. Chiang of the Walter Reed Army Institute of Research , Washington , D.C. Hcy-thiolactone and LPS ( Escherichia coli , No .
+0127 B-8 ) were purchased from Sigma .
+Recombinant glutathione S-transferase ( GST ) fusion protein of human TNF- « and GST human I « Ba were kindly provided by Dr. Dae-Myung Jue in our de-partment .
+Unless specified otherwise , all reagents were purchased from Sigma .
+Cell Culture-Mouse macrophage RAW 264.7 , human monocytic THP-1 , and SV40-transformed African green monkey kidney COS-7 cells were obtained from the American Type Culture Collection ( ATCC , Manassas , VA ) .
+PBMC were isolated from defibrinated blood using Ficoll-Hypaque ( Amersham Pharmacia Biotech , Uppsala , Sweden ) by density-gradient separation , followed by adherence to tissue culture dish for 2 h at 37 °C .
+Nonadherent cells were removed by washing the monolayer four times with phosphate-buffered saline .
+All cells were cultured in RPMI 1640 medium supplemented with 20 mM HEPES , 25 mM sodium bicarbonate , 50 ug/ml gentamicin , and 10 % heat-inacti-vated ( 56 °C for 30 min ) fetal bovine serum ( Hyclone Laboratories Inc. , Logan , UT ) at 37 °C in an atmosphere of 5 % CO , , .
+Northern Blot Analysis-Total cellular RNA was isolated from cells at 2 h after LPS ( 1 ug/ml ) stimulation according to a previously described method ( 31 ) .
+Five ug of total RNA was separated on a 1 % agarose gel containing 2.2 M formaldehyde .
+Northern blot analysis was performed as described ( 26 ) .
+All of the digoxigenin ( Roche Molecular Biochemicals , Mannheim , Germany ) -labeled probes were prepared from each specific primer and cDNA fragments of amplimer sets ( CLONTECH , Palo Alto , CA ) by polymerase chain reaction .
+Preparation of Cytoplasmic Fraction and Nuclear Extract-After RAW 264.7 cells were stimulated with LPS ( 1 mg/m ! )
+for 1 h and COS-7 cells were stimulated with recombinant GST-human TNF-a protein ( 50 ng/ml ) for 1 h , cells were washed twice with phosphate-buffered saline .
+Cytosolic fraction and nuclear extract for Western blot analysis and electrophoretic mobility shift assay ( EMSA ) were prepared as described by Dignam et al .
+( 82 ) .
+Concentration of protein was determined using Coomassie Plus Protein Assay Reagent ( Pierce ) .
+EMSA-Five ug of nuclear protein and 1 ug of poly ( dI-dC ) ( Roche Molecular Biochemicals ) per reaction were incubated for 15 min at room temperature with NF-kB consensus sequence ( Santa Cruz Biotechnol-ogy , Santa Cruz , CA ) , which was 3'-end labeled with `` °P , in binding buffer ( 20 mm HEPES , pH 7.6 , 1 mM EDTA , 10 my ( NH , ) ,80 , , 1 mM DTT , 0.2 % ( w/v ) Tween 20 , 30 mM KCl ) .
+After the binding reaction , samples were analyzed by electrophoresis on a 6 % native polyacrylamide gel that was run in 0.5 % Tris borate-EDTA ( TBE ) buffer , pH 8.0 , and then the dried gel was subjected to autoradiography .
+For competi-tion , 50-fold unlabeled NF- « B or AP-1 consensus sequence ( Santa Cruz Biotechnology ) were used .
+Western Blot Analysis-Ten ug of proteins were subjected to 10 % SDS-polyacrylamide gel electrophoresis ( SDS-PAGE ) for NF- « B proteins or 12.5 % SDS-PAGE for IxB proteins , and transferred to a nitro-cellulose membrane in transfer buffer ( 25 mM Tris base , 198 mM gly-cine , 20 % methanol ) at 500 mA for 4 h. Western blot analysis was The Effects of 3-Deazaadenosine on NF-kB Regulation performed as described ( 26 ) .
+All primary antibodies used in this study ( anti-p65 ( C-20 ) , anti-p50 ( NLS ) , anti-c-Rel ( N ) , anti-IkB @ /MAD-8 ( C-21 ) , and anti-IxBB ( C-20 ) ) were purchased from Santa Cruz Biotechnology .
+Plasmids and Transient Transfection Analysis-Plasmid J16 containing two copies of the wild-type NF- « B-binding site , and J82 containing two copies of the mutant NF- « B-binding site , upstream of a truncated c-fos promoter which was linked to the chloramphenicol acetyltransferase ( CAT ) gene ( 838 ) , were kindly provided by Dr. David Baltimore of California Institute of Technology , Pasadena , CA .
+pSVL65 expressing p65 of NF- « B from a SV40 promoter was kindly donated by Dr. Mahnhoon Park of Mogam Biotechnology Research Institute , Yon-gin , Kyunggi-do , Korea .
+pSVL ( Amersham Pharmacia Biotech ) was used as a control taking the place of pSVL65 .
+To assess variations in transfection efficiencies , a control plasmid pCMVB ( CLONTECH ) which expresses the LacZ gene was used .
+Transfection of cells was performed using FuGENE 6 Transfection Reagent ( Roche Molecular Biochemicals ) according to a procedure recommended by the manufac-turer .
+Cells transfected with either J16 or J82 were cultured for 18 h , and then exposed to LPS or TNF-a in the presence or absence of DZA alone or DZA with Hey together .
+For the pSVL65 transfection , cells were exposed to 100 uM DZA at 6 h after transfection , and further incubated for 18 h. Induction of CAT expression was determined using CAT enzyme-linked immunosorbent assay ( Roche Molecular Biochemicals ) according to the manufacturer 's instructions , and standardized to constitutive levels of B-galactosidase activity .
+In Vivo Labeling and Immunoprecipitation-Confluent monolayers of RAW 264.7 cells in 10-cm tissue culture dishes were washed twice with phosphate-free Dulbecco 's minimum essential medium and incubated in phosphate-free Dulbecco 's minimal essential medium for 1 h. Media was replaced by fresh phosphate-free Dulbecco 's minimal essential medium containing 100 mCi of °°P ; per ml ( ICN , Costa Mesa , CA ) , and the cells were incubated for 2 h. Cells were pretreated with or without DZA ( 100 uM ) for 1 h , and stimulated by the addition of LPS ( 1 ug/ml ) .
+After incubation for 1 h , the cells were washed , and p65 was recovered by immunoprecipitation with anti-p65 ( C-20 , Santa Cruz Biotechnology ) and protein A-Sepharose ( Amersham Pharmacia Bio-tech ) .
+The immunopellets were fractionated by SDS-PAGE , and the gel was stained with Coomassie Brilliant Blue R-250 to confirm that the equal amount of protein was loaded in each wall .
+Dried gel was subjected to autoradiography .
+IKK Assay-RAW 264.7 cells were treated with 100 um DZA for various time intervals , and subjected to IKK assay .
+IKK activity was measured as described ( 84 ) , using recombinant protein of GST-human IkBa as a substrate .
+A polyclonal antibody to IKKa ( M-280 ) was obtained from Santa Cruz Biotechnology .
+RESULTS LPS-induced Expression of TNF-a mRNA Is Inhibited by DZA-Transcription of TNF-a and IL-1 was inhibited by DZA in a dose-dependent manner in RAW 264.7 cells stimulated by LPS ( 26 ) .
+To investigate the effects of DZA on the expression of TNF-a in other types of cells , THP-1 cells and PBMC were pretreated with increasing concentrations of DZA for 1 h , and stimulated by the addition of LPS at a final concentration of 1 ug/ml .
+As shown in Fig .
+1 , LPS stimulation increased the steady-state levels of TNF-a mRNA as early as 2 h. Treatment of DZA inhibited the LPS-induced expression of TNF-a mRNA dose dependently in both THP-1 cells and PBMC in the same manner as in RAW 264.7 cells .
+Expression of B-actin mRNA as a control was not affected by DZA in any of the cells .
+These results show that DZA efficiently inhibits the LPS-induced expression of TNF-a mRNA and this potency is not only restricted to murine macrophage cells .
+DNA Binding Activity of NF- « B Is Increased by DZA-Since the activation of transcription factor NF- « B has been shown to be indispensable for TNF-a expression induced by LPS ( 85 ) , we examined the effect of DZA on DNA binding activity of NF- « B in the nucleus of RAW 264.7 cells by EMSA , using °°P-labeled NF-kB specific oligonucleotides .
+An inducible protein-DNA complex was observed in the nuclear extracts from LPS-stimulated RAW 264.7 ( Fig .
+24 ) .
+Unexpectedly , cells pretreated with DZA revealed no significant decrease of the LPS-induced 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; The Effects of 3-Deazaadenosine on NF-kB Regulation DZA - - 1 10 10 1 1 10 LPS - t to t to - o+ + +o + RAW 264.7 ( v e o o # THP-1 w w @ 000 ® PBMC we + ... `` TNF- a B -actin Fig .
+1 .
+LPS-induced expression of TNF-a « mRNA is inhibited by DZA .
+Cells were pretreated with DZA at the indicated dosages ( uM ) for 1 h before stimulation with LPS .
+At 2 h after addition of LPS ( 1 ug/m1 ) , total RNAs were extracted and Northern blot analysis was performed .
+Data illustrated are from a single experiment and are representative of a total of three separate experiments .
+A DZA _ - - 1 # 10 1 9 10 LPS - + k 40A - -o B x B willie dili =s Sy om - + AP-1 0 - - 400 - bo o- - + eo W A A A AoA LPS A P LPS+DZA __ DZ C DIA : -== # % CPS : = % # > NF- « 6 > > p ) ( iG ) for w/o DTT Fic .
+2 .
+DNA binding activity of is increased by DZA .
+A , dose-response effect of DZA in RAW 264.7 cells .
+The cells were pretreated with or without DZA at the indicated concentrations ( uM ) for 1 h , and then stimulated by the addition of LPS ( 1 ug/ml ) or not stimulated .
+Nuclear extracts were prepared at 1 h after stimulation .
+5 ug of each nuclear protein were subjected to a DNA binding reaction with `` °P-end-labeled NF- « B consensus sequence , and then DNA-protein complexes were separated by native polyacrylamide gel electrophoresis .
+B , competition experiments in RAW 264.7 cells using 50-fold cold NF-kB binding oligonucleotide or AP-1 .
+C , removal of DTT in EMSA .
+Preparation of nuclear extracts in RAW 264.7 cells and DNA binding reactions were accomplished without DTT .
+Data illustrated are from a single experiment and are representative of a total of three separate experiments .
+DNA binding activity of NF- « B , even though expression of the TNF-a gene was potently inhibited by exposure to DZA .
+More-over , DNA binding activity was potentiated in nuclear extracts dose dependently by DZA , irrespective of LPS stimulation .
+In competition experiments , a 50-fold amount of unlabeled NF- « B-specific oligonucleotide absolutely inhibited typical binding activities , but the same amount of unlabeled AP-1 oligonucleotide failed to inhibit binding activities , confirming their speci-ficities ( Fig .
+2B ) .
+These results suggest that the inhibition of TNF-a gene expression by DZA occurred without down-regula-tion of NF- « B DNA binding activity , and that DZA increases DNA binding activity of NF- « B in RAW 264.7 cells .
+Since the presence of a reducing agent such as DTT in preparation of the nuclear extract and the execution of EMSA could mask lost DNA binding activity of NF-kB , we repeated the EMSA assay 18983 A DZA - - ++ LPS - + + pes ( wwe ne pN -e @ @ « ¢-Higl mme B - DZA - - 1 i010 1 10 100 LPS tot $ o # - PGS = - « -- - @ m - -- « m » G Min 0 5 10 15 x 3 60 120 p65 -- Fig .
+3 .
+Nuclear translocation of is increased by DZA .
+A , the effect of DZA in RAW 264.7 cells .
+The cells were pretreated with or without 100 uM DZA for 1 h , and then stimulated by the addition of LPS ( 1 ug/ml ) .
+After 1 h , nuclear extracts were prepared .
+10 ug of each nuclear protein was fractionated by SDS-PAGE , and then subjected to Western blot analysis with specific antibodies against p65 , p50 , c-Rel , respectively .
+B , dose-response effect of DZA .
+RAW 264.7 cells were pretreated with DZA at the indicated concentrations ( uM ) for 1 h , and then stimulated by the addition of LPS ( 1 pg/ml ! )
+or not stimulated .
+After 1 h , nuclear extracts were prepared .
+10 pg of each nuclear protein was separated by SDS-PAGE , and then Western blot analysis with specific antibody against p65 was performed .
+C , time-response effect of DZA .
+RAW 264.7 cells were treated with 100 uM DZA for the indicated times .
+At the end of the times , nuclear extracts were prepared .
+10 ug of each nuclear protein was separated by SDS-PAGE , and then Western blot analysis with specific antibody against p65 was performed .
+Data illustrated are from a single experiment and are representative of a total of three separate experiments .
+without DTT ( Fig .
+2C ) .
+Removal of DTT from the assay could not modulate each of the DNA binding activities which were presented by DTT in an assay with DTT , indicating that the DZA inhibition of TNF-a gene expression is not caused by a loss of NF-kB DNA binding activity .
+Nuclear Translocation of NF-kB Is Increased by DZA-We examined the effects of DZA on the translocation of p65 ( Rel-A ) , p50 ( NF- « B1 ) , and c-Rel into the nucleus of RAW 264.7 cells stimulated with or without LPS using Western blot analysis .
+LPS stimulation increased protein levels of each NF- « B subunit in the nucleus .
+Treatment of DZA at a concentration of 100 uM induced an increase of Rel family proteins in the nucleus of RAW 264.7 cells regardless of LPS stimulation ( Fig .
+34 ) .
+These results are in exact agreement with the results in Fig .
+24 , which shows that DZA induces nuclear translocation of NF- « B and potentiates its LPS-induced translocation in RAW 264.7 cells .
+We next established the modulation of p65 in the nucleus of RAW 264.7 cells by DZA at either various concentrations or various time intervals .
+Similar to the results in Fig .
+24 , DZA at 100 um concentration increased the levels of p65 in the nucleus regardless of LPS stimulation ( Fig .
+3B ) .
+Fig .
+3C shows the modulation of p65 level in the nucleus by treatment of DZA at various time intervals .
+p65 in the nucleus increased remarkably at 60 and 120 min after treatment with DZA , even though there was a slight decrease at 15 min .
+The total amount of cellular p65 was not modulated by DZA , whereas the amount of cytoplasmic p65 decreased proportionally to the increase of nuclear p65 by DZA as measured in a Western blot analysis of total cellular extracts and cytoplasmic fractions ( data not shown ) .
+These results demonstrate that DZA increases the amount of p65 nuclear translocation in RAW 264.7 cells , and that the increase of p65 in the nucleus by DZA is caused only by 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 18984 nuclear translocation , and not by the enhancement of p65 expression .
+LPS-induced NF- « B Transcriptional Activity Is Inhibited by DZA , and This Inhibitory Effect Is Augmented by the Addition of Hcey-Since DZA is known to inhibit the expression of TNF-a mRNA without a diminution of NF- « B nuclear translocation and DNA binding activity , we proved the effects of DZA on the NF- « B transcriptional activity by transient transfection experiments of RAW 264.7 cells using reporter gene constructs carrying two copies of the wild-type ( J16 ) NF-kB binding sequence or mutant ( J32 ) NF-kB binding sequence in front of the CAT gene , which have been shown to specifically respond to NF- « B activation ( 83 ) .
+LPS stimulation of cells transfected with J16 resulted in a 4.7-fold induction of CAT expression ( Fig .
+44 ) , whereas no induction of CAT expression by LPS was observed in cells transfected with J32 .
+Treatment of the cells with 100 uM DZA for 1 h before LPS stimulation resulted in a drastic inhibition of LPS-induced CAT expression .
+LPS-induced transcriptional activity of NF- « B was dose dependently inhibited by DZA ( Fig .
+4B ) .
+These results strongly suggest that DZA potently inhibits NF- « B transcriptional activity in RAW 264.7 cells stimulated by LPS , even though it more intensely provokes the nuclear translocation and DNA binding activity of NF- « B .
+The effect of Hey on DZA inhibition of NF- « B transcriptional activity was examined .
+There was a tendency to inhibit NF- « B transcriptional activity more than the inhibition observed by DZA alone ( Fig .
+4B ) .
+These results imply that DZA inhibition of NF- « B transcriptional activity is involved in the accumulation of DZA-Hey in RAW 264.7 cells .
+To determine the effect of DZA on CAT expression induced by expression of p65 , RAW 264.7 cells were co-transfected with CAT-reporter plasmids and pSVL65 that express large amounts of p65 .
+As a control , cells were transfected with pSVL substituting for pSVL65 .
+After 6 h of transfection , one group of cells was exposed for 18 h to 100 um DZA and the other was not ( Fig .
+4C ) .
+Expression of p65 induced a 5.9-fold increase of CAT protein , driven from J16 under the absence of DZA treatment , but did not induce CAT protein expression from J32 .
+The expression of CAT protein was completely inhibited from the cells transfected with pSVL65 when DZA was treated into cells at the concentration of 100 um , although the induction of CAT expression in the cells transfected with pSVL 65 was higher than that in the cells only stimulated with LPS .
+The production of p65 was not affected by DZA as monitored by Western blot analysis using anti-p65 ( data not shown ) .
+These results , together with the results in Fig .
+4 , A and B , showing DZA inhibition of LPS-induced NF-KB transcriptional activity , suggest that DZA directly inhibits the transcriptional activity of p65 but not at the signal cascade of LPS-induced NF- « B activation .
+To elucidate whether any of the observed effects could be due to DZA-Hey , cells to be exposed to 100 um DZA for 1 h before LPS stimulation were pretreated with a more specific and potent inhibitor of S-adenosylhomocysteine hydrolase , DZAri , to block the intracellular accumulation of DZA-Hey ( Fig .
+4D ) .
+Treatment of DZAri almost completely abrogated the inhibition of NF- « B transcriptional activity in cells treated with 100 um DZA , indicating a central role for DZA-Hcy in the DZA inhibition of NF-kB transcriptional activity .
+No inhibition of NF- « B transcriptional activity was observed in cells treated with DZAri alone .
+To investigate whether exogenous DZA-Hcy is capable of inhibition , cells were exposed to 100 um DZA-Hcy for 1 h before LPS stimulation .
+As shown in Fig .
+4D , exogenous DZA-Hcy failed to inhibit NF- « B transcriptional activity in the cells stimulated with LPS , demonstrating that DZA-Hecy is incapable of inhibition when given exogenously .
+LPS-induced Phosphorylation of p65 Is Inhibited by The Effects of 3-Deazaadenosine on NF-kB Regulation DZA-To determine if DZA might inhibit the functional activation of NF- « B by modifying phosphorylation of p65 , we examined the phosphorylation of p65 in LPS-stimulated RAW 264.7 cells in the presence or absence of DZA .
+As shown in Fig .
+5 , LPS induced a strong phosphorylation of p65 .
+In cells pretreated with 100 um DZA , however , LPS-induced phosphorylation of p65 was markedly reduced .
+A low constitutive phosphorylation of p65 was observed in unstimulated cells , which was reduced by treatment of the cells with DZA alone .
+These results strongly suggest that DZA inhibits the transcriptional activity of NF- « B by the hindrance of p65 phosphorylation required for the functional activation of NF- « B .
+TNF-induced NF- « B Transcriptional Activity Is Inhibited by DZA-We tried to determine if DZA could inhibit NF- « B transcriptional activity without affecting nuclear translocation in non-hematopoietic cells stimulated by other inducers of NF-kB .
+TNF- « stimulation of COS-7 cells prominently induced the nuclear translocation of NF- « B and the DNA binding activity of NF-kB , which was not observed in unstimulated cells ( Fig .
+6A ) .
+The addition of 100 um DZA to COS-7 cells before TNF- @ stimulation had no effect on nuclear translocation or DNA binding activity of NF- « B , suggesting that DZA did not affect TNF- « -induced nuclear translocation of NF- « B in COS-7 cells .
+DZA alone did not induce the nuclear translocation of NF- « B in the cells .
+In transient transfection experiments of COS-7 cells using reporter gene constructs ( J16 or J32 ) , TNF - « stimulation of cells transfected with J16 resulted in CAT expression that was 2.6-fold greater ( Fig .
+6B ) .
+No induction of CAT expression by TNF-a was observed in cells transfected with J32 .
+Treatment of these cells with 100 um DZA for 1 h before TNF- @ stimulation resulted in complete inhibition of CAT protein expression .
+These results reveal that DZA is a common and potent inhibitor of NF- « B transcriptional activity induced by distinct stimuli .
+The effect of Hey on DZA inhibition of NF- « B transcriptional activity was examined .
+As shown in Fig .
+6C , DZA dose dependently inhibited the transcriptional activity of NF-KB in cells stimulated by TNF-a .
+Combination of DZA and Hey more potently inhibited NF- « B transcriptional activity than inhibition observed by DZA alone .
+These results show that DZA inhibition of NF- « B transcriptional activity is involved in the accumulation of DZA-Hey in COS-7 cells stimulated with TNFa .
+Cells co-transfected with pSVL65 and CAT-reporter plasmid ( J16 or J32 ) showed a 3.0-fold expression of CAT protein driven from J16 , but not from J32 ( Fig .
+6D ) .
+100 um DZA strongly inhibited the induction of CAT protein in cells expressing p65 , suggesting that DZA directly inhibits the transcriptional activity of p65 .
+DZA Induces Proteolytic Degradation of IxBa , but Not IxBB-Translocation of NF- « B into the nucleus is linked to proteolytic degradation of IB proteins ( 1 ) , and as we have described above , DZA increases NF- « B nuclear translocation in RAW 264.7 cells .
+To test whether DZA promotes proteolytic degradation of I « B proteins , RAW 264.7 cells were pretreated with DZA following stimulation with or without LPS .
+As shown in Fig .
+7A , the level of IxBa protein was notably reduced by treatment of DZA alone for 2 h at a concentration of 100 unm .
+The I « Ba protein was fully recovered at 1 h after LPS stimulation without DZA , since IxBa is autoregulated through the activation of NF- « B ( 3 , 36 ) .
+Notably , DZA pretreatment before LPS prevented synthesis of IxBa which was recovered when treated with LPS alone , indicating that DZA interfered with the synthesis of IxBa because the transcriptional activity of NF- « B was inhibited by DZA .
+Resynthesis of IxBa after stimulation of LPS was more potently prevented by the addition of Hey plus DZA ( data not shown ) .
+We also examined the effect of DZA on IxBa levels in RAW 264.7 cells at various time inter 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; The Effects of 3-Deazaadenosine on NF-kB Regulation MJ16 ( wt ) CJ32 ( mt ) Fold Induction LPs - + + DZA - - + + 5 none O Hey Fold Induction t LPs - + + + + DZA - - 1 10 __ 100 MJ16 ( wt ) AJ32 ( mt ) moo B a ® ~ Fold Induction Fold Induction 1 0 LPS - + + DZA - - + DZAri - - - + DZA-Hcy - - - - - + + + ++ + Fig .
+4 .
+LPS-induced NF- « B transcriptional activity is inhibited by DZA in RAW 264.7 cells .
+The cells were transiently transfected with reporter gene constructs carrying two copies of the wild type ( J16 , M ) NF- « B binding sequence or mutant type ( J32 , ] ) NF- « B binding sequence in front of the CAT gene .
+A , the effect of DZA on NF-xB transcriptional activity .
+At 18 h after transfection with J16 ( ® or J82 ( C ] ) , cells were treated with or without 100 uM DZA for 1 h before stimulation .
+After 18 h of stimulation by the addition of LPS ( 1 pg/ml ) , cells were lyzed to determine the expression of CAT .
+B , the effect of Hey on the inhibitory effect of DZA .
+At 18 h after transfection with J16 , cells were treated for 1 h with or without DZA at the indicated dosages ( uM ) , in the absence ( @ ) or presence ( C ) ) of Hey ( 100 uM ) .
+After 18 h of stimulation by the addition of LPS ( 1 ug/ml ) , cells were lysed to determine the expression of CAT .
+C , the effect of DZA in the cells transfected with pSVL65 expressing p65 .
+The cells were co-transfected with pSVL65 and J16 ( ® , or with pSVL65 and J32 ( ] ) .
+As a control , cells 18985 DZA LPS | - + + > & © Fig .
+5 .
+LPS-induced phosphorylation of p65 is inhibited by DZA .
+Phosphate-labeled RAW 264.7 cells were pretreated with or without DZA ( 100 pM ) for 1 h , and stimulated with the addition of LPS ( 1 ug/ml ) .
+After incubation for 1 h , p65 was recovered by immunoprecipitation using specific antibody and fractionated by SDS-PAGE , followed by autoradiography .
+Similar results were obtained in an independent experiment .
+p65 vals .
+IxBa levels were reduced from their level at 60 min to their level at 120 min after treatment with DZA , and this reduction was continued to 240 min ( Fig .
+7B ) .
+Thus , these results demonstrate that DZA promotes the degradation of IxBa and prevents its resynthesis .
+Furthermore , these results reasonably support that DZA increases nuclear translocation and DNA binding activity of NF-kB in RAW 264.7 cells .
+A different I « B isoform , IBB is one of the major regulators of NF- « B activity , whose kinetics is slower than that of IxBa in response to NF-kB inducers such as LPS ( 6 ) .
+We investigated the effect of DZA on IxBB in RAW 264.7 cells ( Fig .
+7 , C and D ) .
+Stimulation of LPS for 1 h without pretreatment of DZA led to the disappearance of IBB , which would normally exist in Western blot analysis using unstimulated RAW 264.7 cells ( Fig .
+7C ) .
+The disappearance of I « BB was also observed in cells pretreated for 1 h with DZA at increasing concentrations following stimulation with LPS .
+Interestingly , treatment of 100 uM DZA alone for 2 h at several concentrations could not reduce the level of IxBB ( Fig .
+7C ) , and IxBB remained continuously until 4 h after exposure of 100 um DZA ( Fig .
+7D ) , implying that DZA can not lead to I « BB down-regulation , and the down-reg-ulation of I « B # is not involved in enhanced nuclear translocation of NF- « B , mediated by DZA in RAW 264.7 cells .
+DZA-induced Proteolytic Degradation of IxBa Is Neither Modulated by Hey nor Involved in IKK Complex Activation-The addition of 100 um Hey potentiated the inhibitory effect of DZA on NF- « B transcriptional activity .
+To investigate whether Hey can potentiate the effect of DZA on proteolytic degradation of IxBa in RAW 264.7 cells , cells were treated with increasing concentrations of DZA in the presence or absence of 100 uM Hey .
+As shown in Fig .
+8A , additional treatment of Hey could not modulate the proteolytic effect of DZA on IxBa .
+The treatment of Hey alone could not reduce IxBa at all .
+In addition , the synergic effect of Hcy was not observed in cells treated with 100 uM DZA for increasing times ( Fig .
+8B ) .
+These results indicate that DZA-induced proteolytic degradation of IxBa in RAW 264.7 cells is dissociated from the accumulation of DZA-Hey .
+Recently , it was reported that IKK complexes consisting of IKKa and IKK control phosphorylation of IB proteins in cytokine-induced activation pathway ( 7-9 ) .
+We tried to determine if IKK complexes can participate in the down-regu- were transfected with pSVL substituting pSVL65 .
+At 6 h after transfection , cells were treated with or without 100 uM DZA , and incubated for a further 18 h. And then cells were lysed to determine the expression of CAT .
+D , the effect of DZA derivatives .
+At 18 h after transfection with J16 , cells were treated for 1 h with 100 pM DZA or 100 um DZA-Hey before stimulation .
+For the DZAri treatment , 100 uM DZAri was given 1 h before DZA treatment .
+After 18 h of stimulation by the addition of LPS ( 1 ug/m !
+l ) , cells were lysed to determine the expression of CAT .
+Determination of CAT expression was performed using CAT enzyme-linked immunosorbent assay kit .
+Values are mean + S.D .
+( r = 8 ) .
+610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 18986 A DZA = - - + + TNF = - + + -NF- « B MJ16 ( wt ) OJ32 ( mt ) Fold Induction D DZA = = + + C 4 none 5 3 OHey 6 3 £ ; k= ] 2 1 0 TNF - + + + + DZA =- - 1 10 100 ( wt ) g ( mt ) C 0 3 C A- < G LL .
+p6S = + + # DZA = = + + Fig .
+6 .
+TNF-induced NF- « B transcriptional activity is inhibited by DZA in COS-7 cells .
+A , the effect of DZA on NF- « B binding activity .
+The cells were pretreated with or without 100 uM DZA for 1 h before stimulation , and then stimulated by the addition of recombinant GST-human TNF- @ ( 50 ng/ml ) .
+Nuclear extracts were prepared at 1 h after stimulation .
+5 ug of each nuclear protein were subjected to a DNA binding reaction with °*P-end-labeled NF- « B consensus sequence , and then DNA-protein complexes were separated by native polyacrylamide gel electrophoresis .
+B , the effect of DZA on NF-KB transcriptional activity .
+The cells were transiently transfected with reporter gene constructs carrying two copies of the wild type ( J16 , IB ) or mutant type ( J82 , C ] ) NF- « B binding sequence in front of the CAT gene .
+At 18 h after transfection , cells were treated with or without 100 uM DZA for 1 h before stimulation .
+After 18 h of stimulation by the addition of TNF-a ( 50 ng/m1 ) , cells were lysed to determine the expression of CAT .
+C , the effect of Hey on the inhibitory effect of DZA .
+At 18 h after transfection with J16 , cells were treated for 1 h with or without DZA at the indicated dosages ( M ) , in the absence ( ® ) or presence ( C ] ) of Hey ( 100 um ) .
+After 18 h of stimulation by the addition of TNF-a ( 50 ng/m1 ) , cells were lysed to determine the expression of CAT .
+D , the effect of DZA in the cells transfected with pSVL65 expressing p65 .
+The cells were co-transfected with pSVL65 and J16 ( R , or with pSVL65 and J82 ( ] ) .
+As a control , cells were transfected with pSVL substituting pSVL65 .
+At 6 h after transfection , cells were treated with or without 100 uM DZA , and incubated for a further 18 h. And then cells were lysed to determine the The Effects of 3-Deazaadenosine on NF-kB Regulation A -_ DZA _ - - 1 10 100 1 10 100 LPS -o t # 40 ko- -o-izbe B Min __ 0 5 15 30 60 90 120 240 Ix B a we- sem mao _-_ C DZA - - 1 10 100 1 10 100 LPS -o to # # 0 $ 0- -o-| « B B band we we ue D Min 0 5 15 30 60 90 120 240 Ix B B « » oo co or oP on on op Fic .
+7 .
+DZA induces proteolytic degradation of IxBa .
+A , dose-response effect of DZA on IxBa in RAW 264.7 cells .
+The cells were pretreated with DZA at the indicated concentrations ( uM ) for 1 h , and then stimulated by the addition of LPS ( 1 pg/ml ! )
+or not stimulated .
+After 1 h , cytosolic fractions were prepared .
+10 ug of each protein was separated by SDS-PAGE , and then Western blot analysis with specific antibody against IxBa was performed .
+B , time-response effect of DZA on IkxBa .
+RAW 264.7 cells were treated with 100 uM DZA for the indicated times .
+At the end of the times , cytosolic fractions were prepared .
+10 ug of each protein was separated by SDS-PAGE , and then Western blot analysis with specific antibody against IxBa was performed .
+C , dose-response effect of DZA on IBB in RAW 264.7 cells .
+The cells were pretreated with DZA at the indicated concentrations ( M ) for 1 h , and then stimulated by the addition of LPS ( 1 ug/ml ) or not stimulated .
+After 1 h , cytosolic fractions were prepared .
+10 pug of each protein was separated by SDS-PAGE , and then Western blot analysis with specific antibody against IBB was performed .
+D , time-response effect of DZA on RAW 264.7 cells were treated with 100 uM DZA for the indicated times .
+At the end of the times , cytosolic fractions were prepared .
+10 ug of each protein was separated by SDS-PAGE , and then Western blot analysis with specific antibody against IBB was performed .
+Data illustrated are from a single experiment and are representative of a total of three separate experiments .
+lation of IxBa by DZA in RAW 264.7 cells .
+As shown in Fig .
+8C , treatment of cells with LPS for 15 min severely activated IKK complexes leading to excessive phosphorylation of recombinant IxBa protein .
+However , exposure with 100 um DZA from 15 to 240 min never activated IKK complexes , showing that DZA-induced proteolytic degradation of IxBa in RAW 264.7 cells is independent of activation of IKK complexes .
+DISCUSSION In this study , we demonstrated the dual effects of DZA on the regulation of NF-KB , inhibition of NF- « B transcriptional activity , and promotion of IxBa degradation .
+A hypothetical diagram of the effects of DZA is illustrated in Fig .
+9 .
+There have been many reports that described some interesting properties of DZA , including the inhibitory effect on the expression of cytokines and cell adhesion molecules , the induction of apoptosis and an anti-HIV effect .
+The involvement of NF- « B in the expression of numerous cytokines and adhesion molecules which promote several diseases is well known ( 1 ) .
+Our previous study ( 26 ) and this paper shows that DZA potently inhibited the transcription of cytokines such as TNF-a « and IL-1 .
+Additionally , other researchers reported that the adherence of cells was inhibited through the suppression of adhesion molecule expression of CAT .
+Determination of CAT expression was performed using CAT enzyme-linked immunosorbent assay kit .
+Values are mean * S.D .
+( n = 8 ) .
+610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; The Effects of 3-Deazaadenosine on NF-kB Regulation A - DZA 1 10 100 1 10 100 Hey _o e - - t t + o+ # lea < n come come cas came -- cae B DZA - 15 30 60 120 15 30 60 120 Hey < 0 - - - - 404 +o 1x B a wee toes eme *-* e 's se « C_ DZA - 6 D @ W2MAM- - Min LPS - - - - - 15 Min 1x B a C Fic .
+8 .
+DZA-induced proteolytic degradation of IxBa is neither modulated by Hey nor involved in IKK complex activation .
+A , RAW 264.7 cells were treated with increasing concentrations of DZA for 2 h in the presence or absence of 100 uM Hey , and then cytosolic fractions were prepared .
+10 ug of each protein was subjected to Western blot analysis using specific antibody against IxBa .
+B , the cells were treated for the indicated times with 100 uM DZA , in the absence or presence of Hey ( 100 uM ) .
+At the end of the times , cytosolic fractions were prepared .
+10 ug of each protein was separated by SDS-PAGE , and then Western blot analysis with specific antibody against IxBa was performed .
+C , the cells were treated with 100 uM DZA or LPS ( 1 ug/ml ) for the indicated times .
+At the end of the times , total cell lysates were prepared , and IKK complexes were recovered by immunoprecipitation .
+IKK assay was accomplished using recombinant protein of GST-IxBa as a substrate .
+Similar results were obtained in an independent experiment .
+3-deazaadenosine \ homocysteine 1 3-deazaadenosyIhomocysteine a / 7 / Ix Ba degradation NF- x B translocation & DNA—bind ‘ mg/ 2 NF- x B-mediated ( T & transcription Inhibition of Cytokine Expression Induction of Apoptosis Anti-HIV Effect Fic .
+9 .
+Hypothetical diagram illustrating the effects of DZA on NF- « B regulation .
+expression by DZA ( 27 , 28 ) .
+Even though they provided for the possibility of DZA as a potent therapeutic agent for diseases in which these cytokines and adhesion molecules play a central pathogenic role , the mechanism has not been elucidated .
+Since these cytokines and adherence molecules are included in specific target genes of NF-KB , this study successfully explains how DZA inhibits the expression of cytokines and adhesion molecules .
+Beg et al .
+( 37 ) reported that a phenotype of the p65 '~ mice died during embryonic development through massive apoptosis of hepatocytes , suggesting that NF- « B might play an important role in protecting cells from apoptosis , instead of promoting growth of cells .
+Additionally , recent reports ( 38-41 ) have described a role for NF-KB in blocking apoptosis induced by TNF .
+18987 Interestingly , this protective function of NF- « B was apparent not only against TNF but also against cells treated with ionizing radiation or chemotherapeutic agents ( 89 ) .
+On the other hand , the role of the Rel proteins in oncogenic transformation is quite well established , and it is now clear that Rel proteins malignantly transform and immortalize cells by inducing expression of specific genes .
+These findings suggest the possibility that some of the target genes for Rel-mediated oncogenesis and for NF- « B-mediated blockage of apoptosis may be identi-cal .
+Thus , it is strongly suggested that agents which inhibit NF- « B transcriptional activity may have both direct anti-can-cer effects and effects that facilitate apoptosis in tumor cells .
+Recently , we reported that DZA induced apoptosis in lympho-cytic mouse leukemia L1210 cells ( 30 ) .
+The report showed that even though DZA raised the NF- « B binding activity during apoptosis induction , e-mye transcription that is a downstream target gene of NF- « B ( 1 , 42 ) was markedly reduced at the early stage of apoptosis induction .
+Similarly , the reduction of e-mye transcription in DZA-induced apoptosis was also observed in human promyelocytic leukemia HL-60 cells by other researchers ( 43 , 44 ) .
+Collectively , it is reasonable that DZA inhibition of NF- « B transcriptional activity may entirely serve as a potent inducing factor or may participate at least in part of the induction of apoptosis by DZA in tumor cells .
+Finally , these findings point to DZA as a useful chemotherapeutic agent which may prevent malignant transformation of normal cells into tumor cells and induce apoptosis of tumor cells through the inhibition of NF- « B transcriptional activity .
+NF- « B , whose enhancer elements are located in HIV-long terminal repeats , is a key molecule of HIV replication for the pathogenesis of AIDS ( 45 ) , suggesting that NF-kB may be a target for the therapy of AIDS .
+Previously , other researchers described that DZA may have an anti-HIV effect ( 21 , 22 ) , but the mechanism of this effect has not been understood .
+The finding of DZA inhibition of NF-kB transcriptional activity described in this study explains how DZA can exert an anti-HIV effect as described by other researchers .
+The inhibition of NF- « B transcriptional activity by DZA suggests that DZA may inhibit the replication of HIV , implying that DZA may be a useful drug for the therapeutic treatment of AIDS .
+Naumann and Scheidereit ( 46 ) described that p65 is strongly phosphorylated during the activation of NF- « B in vivo .
+A recent study demonstrated that the transcriptional activity of NF- « B is regulated through phosphorylation of p65 by cAMP-independent activation of a catalytic subunit of protein kinase A ( PKAc ) associated with IB proteins by a mechanism which signals caused degradation of IxB proteins results in the activation of PKAc and subsequent phosphorylation of p65 ( 47 ) .
+In this study , we showed that DZA disturbed the phosphorylation of p65 induced by LPS .
+So , we suggest a possibility that accumulated cellular DZA-Hey , caused by treatment of cells with DZA , might inhibit the activation of PKAc associated with IB proteins , or interrupt the PKAc-mediated phosphorylation of p65 directly or indirectly .
+SB203580 , a specific inhibitor of p38 mitogen-activated protein kinase , and elevated intracellular cAMP has been represented as an inhibitor of NF- « B , which inhibit NF- « B transcriptional activity already bound to DNA in the nucleus ( 16 , 17 ) .
+Even though , DZA and these inhibitors share a similarity that all of them inhibit NF- « B transcriptional activity without affecting its nuclear translocation and DNA binding activity , there is a definite difference in the mechanism of NF- « B inhibition .
+In contrast to SB203580 and elevated cellular cAMP , DZA inhibits the phosphorylation of p65 .
+This study indicates that DZA inhibits NF- « B transcriptional activity through a hindrance of p65 phosphorylation by 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 18988 the accumulation of DZA-Hcy in cells .
+Nevertheless , we can not totally rule out that DZA independent of cellular DZA-Hey accumulation , may have interfered with NF- « B transcriptional activity .
+In the report by Backlund et al .
+( 48 ) , treatment with 100 um DZA resulted in significant accumulation of DZA-Hey in RAW 264.7 cells .
+The addition of Hey to DZA increased the accumulation of DZA-Hey to about 5 times the level caused by DZA alone .
+In contrast to a greatly increased accumulation of DZA-Hcy by the addition of Hey to DZA treatment in the cells , we observed a slightly potentiated inhibition of NF- « B transcriptional activity by the addition of Hey to DZA .
+We described that DZA promotes the proteolytic degradation of « Ba , but not IxBfB in RAW 264.7 cells , leading to an increase of nuclear translocation and DNA binding activity .
+Increased DNA binding activity of NF- « B in the nucleus by DZA was also observed in DZA-induced apoptosis in L1210 cells ( 30 ) , and DZA might reduce I « Ba in this case .
+However , a DZA-mediated increase of NF- « B DNA binding activity in the nucleus was not discernable in COS-7 cells , suggesting that DZA-mediated IxBa degradation is cell-type specific .
+A number of kinases have been suggested to phosphorylate IxBa , and recently a high molecular mass , approximately 700 kDa , kinase complex termed IKK ( 7-9 ) was identified .
+However , DZA mediates IxBa degradation through an IKK-independent pathway and DZA can stimulate other kinase pathways .
+We conclude this because IKK was not activated at all by DZA while it was intensely activated by LPS in this study .
+One notable fact is that DZA stimulates proteolytic degradation of IxBa but not IBB .
+Among kinases which have been reported to induce degradation of I « B proteins , including IKK , none can selectively differentiate between IxBa and I « xBB .
+Thus , we expect that DZA might be a valuable probe to identify kinases that function with only I « Ba .
+In conclusion , we demonstrate that DZA has dual effects on NF- « B regulation .
+One is an inhibitory effect on NF- « B transcriptional activity already bound to target DNA , and another is the promotion of proteolytic degradation of IxBa .
+Although the wide variety of biological properties observed with DZA has emphasized that DZA is to be an effective drug for treatment of human diseases including inflammation , infections , and tu-mors , the mechanism and target molecules of DZA 's action have never been elucidated .
+This study is the first to demonstrate that NF- « B is a specific target molecule of DZA and suggests that DZA may be a potent drug for the treatment of diseases in which NF-kB plays an important pathogenic role , as well as a useful tool for studying the regulation and physiological functions of NF- « B .
+Acknowledgment-We appreciate Dr. David Baltimore , California Institute of Technology , Pasadena , CA , for the kind donations of J16 and J82 .
+REFERENCES .
+Bacuerle , P. A. , and Henkel , T. ( 1994 ) Annu .
+Rev .
+Immunol .
+12 , 141-179 .
+Gilmore , T. D. , Koedood , M. , Piffat , K. A. , and White , D. W. ( 1996 ) Oncogene 13 , 1367-1378 3 .
+Ghosh , S. , May , M. J. , and Kopp , E. B .
+( 1998 ) Annu .
+Rev .
+Immunol .
+16 , 225-260 4 .
+Verma , I. M. , Stevenson , J. K. , Schwarz , E. M. , Antwerp , D. V. , and Miyamoto , S. ( 1995 ) Genes Dev .
+9 , 2723-2735 5 .
+Whiteside , S. T. , Epinat , J.-C. , Rice , N. R. , and Israél , A .
+( 1997 ) EMBO J .
+16 , lled ~ o 10 : Kopp , E. , and Ghosh , S. ( 1994 ) Science 265 , 956-959 12 .
+18 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20. .
+Flexner , C. W. , Hildreth , J. E. , Kuncl , R. W. , and Drachman , D. B .
+( 1992 ) 22 .
+28 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38. .
+Wang , C.-Y .
+, Mayo , M. W. , and Baldwin , A. S. , Jr. ( 1996 ) Science 274 , 784-787 40 .
+41 .
+42 .
+43 .
+45. .
+Naumann , M. , and Scheidereit , C. ( 1994 ) EMBO J .
+18 , 4597-4607 47 .
+48 .
+The Effects of 3-Deazaadenosine on NF-kB Regulation 1413-1426 .
+Baldwin , A. S. , Jr. ( 1996 ) Annu .
+Rev .
+Immunol .
+14 , 649-681 .
+Mercurio , F. , Zhu , H. , Murray , B. W. , Schevchenko , A. , Bennett , B. L. , Li , J. , Young , D. B. , Barbosa , M. , and Mann , M. ( 1997 ) Science 278 , 860-866 .
+Woronicz , J. D. , Gao , X. , Cao , Z. , Rothe , M. , and Goeddel , D. V. ( 1997 ) Science 278 , 866-869 .
+Zandi , E. , Rothwarf , D. W. , Delbase , M. , Hayakawa , M. , and Karin , M. ( 1997 ) Cell 91 , 248-252 Schreck , R. , Rieber , P. , and Bacuerle , P. A .
+( 1991 ) EMBO J .
+10 , 2247-2258 Schreck , R. , Meier , B. , Mannel , D. N. , Droge , W. , and Bacuerle , P. A .
+( 1992 ) J. Exp .
+Med .
+175 , 1181-1194 Griscavage , J. M. , Wilk , S. , and Ignarro , L. J .
+( 1996 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+98 , 3308-3312 Scheinman , R. L. , Cogswell , P. C. , Lofquist , A. K. , and Baldwin , A. S. , Jr. ( 1995 ) Science 270 , 283-286 Auphan N. , DiDonato , J .
+A. , Rosette , C. , Helmberg , A. , and Krin , M. ( 1995 ) Science 270 , 286-290 Wesselborg , S. , Bauer , M. K. A. , Vogt , M. , Schmitz , M. L. , and Schulze-Osthoff , K. ( 1997 ) J. Biol .
+Chem .
+272 , 12422-12429 Ollivier , V. , Parry , G. C. N. , Cobb , R. R. , de Prost , D. , and Mackman , N. ( 1996 ) J. Biol .
+Chem .
+271 , 20828-20885 Chiang , P. K. , Richards , H. H. , and Cantoni , G. L. ( 1977 ) Mol .
+Pharmacol .
+18 , 939-947 Aksamit , R. R. , Falk , W. , and Cantoni , G. L. ( 1982 ) J. Biol .
+Chem .
+257 , 621-625 Chiang , P. K. , and Cantoni , G. L. ( 1979 ) Biochem .
+Pharmacol .
+28 , 1897-1902 Lancet 889 , 488 Mayers , D. L. , Mikovits , J .
+A. , Joshi , B. , Hewlett , I. K. , Estrada , J. S. , Wolfe , A. D. , Garcia , G. E. , Doctor , B. P. , Burke , D. S. , Gordon , R. K. , Lane , J. R. , and Chiang , P. K. ( 1995 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+92 , 215-219 Medzibradsky , J. L. , Zimmerman , T. P. , Wolberg , G. , and Elion , G. B .
+( 1982 ) J. Immunopharmacol .
+4 , 29-41 Krenitsky , T. A. , Rideout , J. L. , Chao , E. Y. , Koszalka , G. W. , Gurney , F. , Crouch , R. C. , Cohn , N. K. , Wolberg , G. , and Vinegar , R. ( 1986 ) J. Med .
+Chem .
+29 , 138-148 Zimmerman , T. P. , Wolberg , G. , and Duncan , G. S. ( 1978 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+75 , 6220-6224 Jeong , S.-Y .
+, Lee , J.-H. , Kim , H.-S. , Hong , S.-H. , Cheong , C.-H. , and Kim , L -K. ( 1996 ) Immunology 89 , 558-562 Jurgensen , C. H. , Huber , B. E. , Zimmerman , T. P. , and Wolberg , G. ( 1990 ) J. Immunol .
+144 , 653-661 Shankar , R. , de la Motte , C. A. , and DiCorleto , P. E. ( 1992 ) J. Biol .
+Chem .
+267 , 9376-9382 Endresen , P. C. , Eide , T. J. , and Aarbakke , J .
+( 1998 ) Biochem .
+Pharmacol .
+46 , 1898-1901 Kim , L-K. , Li , C.-C. H. , Young , H. A. , Lee , J.-H. , Kim , H.-S. , Pardhasaradhi , K. , Garcia , G. E. , and Chiang , P. K. ( 1997 ) J. Biomed .
+Sci .
+4 , 83-90 Chomezynski , P. , and Sacchi , N. ( 1987 ) Anal .
+Biochem .
+162 , 156-159 Dignam , J. D. , Lebovitz , R. M. , and Roeder , R. G. ( 1983 ) Nucleic Acids Res .
+11 , 1475-1489 Lenardo , M. J. , Fan , C.-H. , Maniatis , T. , and Baltimore , D. ( 1989 ) Cell 57 , 287-294 DiDonato , J .
+A. , Hayakawa , M. , Rothwarf , D. M. , Zandi , E. , and Karin , M. ( 1997 ) Nature 888 , 548-554 Shakhov , A. N. , Collart , M. A. , Vassalli , P. , Nedospasov , S. A. , and Jongeneel , C. V. ( 1990 ) J. Exp .
+Med .
+171 , 35-47 Chiao , P. J. , Miyamoto , S. , and Verma , I. M. ( 1994 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+91 , 28-32 Beg , A .
+A. , Sha , W. C. , Bronson , R. T. , Ghosh , S. , and Baltimore , D. ( 1995 ) Nature 876 , 167-170 Beg , A .
+A. , and Baltimore , D. ( 1996 ) Science 274 , 782-784 Antwerp , D. J. V. , Martin , S. J. , Kafri , T. , Green , D. R. , and Verma , I. M. ( 1996 ) Science 274 , 187-789 Liu , Z.-G. , Hsu , H. , Goeddel , D. V. , and Karin , M. ( 1996 ) Cell 87 , 565-576 Duyao , M. P. , Buckler , A. J. , and Sonenshein , G. E. ( 1990 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+87 , 4727-4731 Duerre , J .
+A. , Buttz , H. R. , and Ackerman , J. J .
+( 1992 ) Biochem .
+Cell Biol .
+70 , 703-711 .
+Loennechen , T. , Moens , U. , Kildalsen , H. , Andersen , A. , Rekvig , O. P. , and Aarbakke , J .
+( 1997 ) Pharmacol .
+Toxicol .
+81 , 199-204 Nabel , G. , and Baltimore , D. ( 1987 ) Nature 826 , 711-713 Zhong , H. , Su¥Yang , H. , Erdjument-Brommage , H. , Tempst , P. , and Ghosh , S. ( 1997 ) Cell 89 , 413-424 Backlund , P. S. , Jr. , Carotti , D. , and Cantoni , G. L. ( 1986 ) Eur .
+J. Biochem .
+160 , 245-251 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 3-Deazaadenosine , a S-Adenosylhomocysteine Hydrolase Inhibitor , Has Dual Effects on NF- KB Regulation : INHIBITION OF NF- « xB TRANSCRIPTIONAL ACTIVITY AND PROMOTION OF I xBo DEGRADATION Seong- Yun Jeong , Sang-Gun Ahn , Jeong-Hwa Lee , Ho-Shik Kim , Jin-Woo Kim , Hyangshuk Rhim , Seong-Whan Jeong and In-Kyung Kim J. Biol .
+Chem .
+1999 , 274:18981-18988. doi : 10.1074/jb0.274.27.18981 Access the most updated version of this article at http : /www.jbe.org/content/274/27/18981 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 48 references , 23 of which can be accessed free at http : //www .
+full.html # ref-list-1 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ;

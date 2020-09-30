@@ -1,0 +1,650 @@
+JOURNAL OF VIROLOGY , Jan. 2001 , p. 979-987 0022-538X/01/ $ 04.00+0 - DOI : 10.1128/JV1.75.2.979-987.2001 Vol .
+75 , No .
+2 Copyright © 2001 , American Society for Microbiology .
+All Rights Reserved .
+Strict Control of Human Immunodeficiency Virus Type 1 Replication by a Genetic Switch : Tet for Tat KOEN VERHOEF , ' { GIUSEPPE MARZIO , !
+WOLFGANG HILLEN , * HERMANN BUJARD , * Anp BEN BERKHOUT'* Department of Human Retrovirology , Academic Medical Center , University of Amsterdam , Amsterdam , The Netherlands , '' and Friedrich-Alexander University , Erlangen , '' and Zentrum fiir Molekulare Biologie , University of Heidelberg , Heidelberg , * Germany Received 25 July 2000/Accepted 11 October 2000 Live-attenuated human immunodeficiency virus type 1 ( HIV-1 ) variants have shown great promise as AIDS vaccines , but continued replication can lead to the selection of faster-replicating variants that are pathogenic .
+We therefore designed HIV-1 genomes that replicate exclusively upon addition of the nontoxic effector doxycycline ( dox ) .
+This was achieved by replacement of the viral TAR-Tat system for transcriptional activation by the Escherichia coli-derived Tet system for inducible gene expression .
+These designer `` HIV-rtTA '' viruses replicate in a strictly dox-dependent manner both in a T-cell line and in primary blood cells , and the rate of replication can be fine-tuned by simple variation of the dox concentration .
+These HIV-rtTA viruses provide a tool to perform genetics , e.g. , selection and optimization experiments , with the E. coli-derived Tet reagents in a eukaryotic background .
+Furthermore , such viruses may represent improved vaccine candidates because their replication can be turned on and off at will .
+Live-attenuated virus vaccines ( such as vaccinia , polio , and measles viruses ) have been enormously successful and have made a dramatic and historic impact on public health .
+Replicating virus vaccines also demonstrated superior performance in AIDS vaccine trials ( 1 , 14 , 32 , 40 , 45 , 46 , 49 , 54 ) .
+However , safety concerns remain for the human immunodeficiency virus type 1 ( HIV-1 ) about either the reversion of attenuated vaccine strains to virulent phenotypes or the induction of fulmi-nant infection in ( immunocompromised ) individuals .
+Testifying to the genetic instability of such strains is the recent demonstration that the HIV-1 A3 vaccine candidate , which contains three deletions in nonessential parts of the genome , is able to regain full replication capacity within 4 months of replication in tissue culture ( 11 ) .
+It has also been reported that the viral load of attenuated simian immunodeficiency virus ( SIV ) variants increased after several years in some infected monkeys , concomitant with the onset of AIDS ( 2 ) .
+Furthermore , although there is some evidence that attenuated HIV-1 variants lacking the nef gene result in a benign course of infection in humans ( 17 ) , a decline in CD4* T-cell numbers has been reported recently for some of these individuals , which is an early sign that these persons could develop AIDS ( 20 , 25 ) .
+To improve the safety of potential HIV-1 vaccine strains , we designed an HIV-1 variant for which replication depends on the addition of the nontoxic , selective effector doxycycline ( dox ) .
+This was done by incorporation of the Tet system for inducible gene expression ( 5 , 23 , 24 ) into the viral genome .
+This system is based on two elements from the Escherichia coli tet operon , the tetracycline-inducible repressor protein ( TetR ) * Corresponding author .
+Mailing address : Department of Human Retrovirology , Academic Medical Center , University of Amsterdam , Meibergdreef 15 , 1105 AZ Amsterdam , The Netherlands .
+Phone : ( 31-20 ) 566-5822 .
+Fax : ( 31-20 ) 566-9064 .
+E-mail : b.berkhout @ ame.uva.nl .
+i Present address : Department of Biochemistry , University of Oxford , Oxford , England .
+979 that has been converted into a eukaryotic transcriptional activator ( tTA or rtTA ) , and the fetO operator DNA sequence .
+The Tet system has found wide application and allows strict and graded regulation of gene expression in many experimental setups , for example , in the breeding of transgenic animals and in gene therapy approaches .
+The Tet system has been successfully used to regulate the expression of transgenes in a variety of viral vector systems , including lentiviral vectors .
+We now report a completely novel strategy to impose control over HIV-1 replication by replacement of the viral frams-activator protein Tat and its binding site TAR by the two components of the Tet system , such that an exogenous agent ( dox ) can be used to turn virus replication on in a reversible manner .
+MATERIALS AND METHODS Construction of the HIV-rtTA molecular clones .
+The following primers were used in mutagenesis and cloning : BglIINef ( 5'-AGCTGTAGATCTTAGCCAC-3 ' , sense ) , deltaU3 TAGAGTGGAGGT-3 ' , sense ) , Sp6BspEI ( 5'-A4TTTAGGTGACACTATAGGT ACTCCGGATGCAGCTCTCG-3 ' , antisense ) , TARBI23L13 ( 5 '' -CCAGAGA GCTCCAATGCTCCTTTCTGGTCTAACCAGAGAGACC-3 ' , antisense ) , XemldeltaNef ( 5 % -GCTTGGAAAGGATTITTGCTATAACCATGTCTAGACT GG-deletion-CCAGTCACACCTCAGGTACC-3 ' , sense ) , BamHIEny ( 5 '' -GAA CTAGTGGATCCTTAGCACTTATC-3 ' , sense ) , Smalanti-Nef ( 5-TCCCCCG GGGTGGCTAAGATCTACAGCTGC-3 ' , antisense ) , Anti-UBatt ( 5'-GGAGT GAATTAGCCCTTCCA-3 ' , antisense ) , SallSpl TACAA-deletion-GTCGACAGGGAGGCGTGGCCTG-3 ' , sense ) , xBSallSpl sense ) , Spéanti-lue ( 55-ATTTAGGTGACACTATAGGCAGTTGCTCTCCAGC GGTTCC-3 ' , antisense ) , KB12- ( 5-CTGGAAAGTCCCCAGCGGAAAGTC CCIT-3 ' , antisense ) , M13reverse ( 5'-AGGAAACAGCTATGACCAT-3 ' , sense ) , and ExtN4Not ( 5-NNCGCCGGCGACTCAAGGCAAGCTTTATTGAGGCT TAAG-3 ' , antisense ) .
+Changes compared with the sequence of LAI are marked as follows : insertions are underlined , substitutions are in boldface , deletions are denoted as such , and non-template 5 ' extensions are shown in italics .
+The following tetO motif was used : 5'-CTCGAGTTTACCACTCCCTATCA GTGATAGAGAAAAGTGAAAGTCGAC-3 ' and 3'-GAGCTCAAATGGTG AGGGATAGTCACTATCTCTTTTCACTTTCAGCTG-5 ' .
+The sequence of a single fefO double-stranded DNA site is shown ( underlined ) , flanked by XhoI and Sall restriction sites .
+The dimeric , tetrameric , and hexameric fefO linkers 980 VERHOEF ET AL .
+were generated by Xhol/Sall digestion and subsequent ligation of the compatible sticky ends .
+Because ligation of the Xhol/Sa/lI sticky ends does not reform these restriction enzyme sites , the multimerized head-to-tail fefO elements could be cloned as Xhol/Sall fragments in pBluescript II SK ( + ) ( R. Loew , personal communication ) .
+We used standard DNA cloning and amplification methods ( 41 ) , and all mutations were verified by dideoxy sequencing using ET Dyeprimer technology ( Amersham ) on an Applied Biosystems automated DNA sequencer .
+The stepwise cloning procedure was as follows .
+Cloning .
+( i ) Introduction of a Sa/l site and deletion of NF- < B elements in the HIV-1 LTR promoter .
+To facilitate the introduction of tefO operator elements in the long terminal repeat ( LTR ) promoter , a Sall restriction site was introduced immediately upstream of the Sp1 sites .
+A mutagenesis PCR ( 42 ) was done on pBlue3'LTR-luc ( 31 ) with one of the mutagenic primers ( xBSallSp1 or SallSp1 [ primer MJ ) and the general primers M13reverse ( primer 1 ) , ExtN4Not ( primer 2 ) , and Sp6anti-lue ( primer 3 ) .
+After we performed separate PCR reactions with primer sets 1+2 and M+3 , the PCR products were purified from a gel and used as templates in a final PCR with primer set 1+3 .
+The PCR products from the final reactions were digested with Xhol and HindIII and used to replace the corresponding fragments in the pBlue3'LTR-luc construct , thereby generating plasmids pBlue3'LTR-lue- « kBSallSp1 ( K promoter ) and pBlue3'LTR-lue-SallSp1 ( S promoter ; NF-xB sequences deleted ) .
+( ii ) Introduction of fefO elements in the HIV-1 LTR promoter .
+The pBlue3'LTR-luc-kBSallSp1 and pBlue3'LTR-lue-SallSp1 constructs were linearized by Sall digestion .
+The 2-mer , 4-mer , and 6-mer tefO repeats were isolated from the pBluescript backbone through digestion with XhoI and SalI and then ligated into the linearized luciferase reporter construct .
+Clones were selected in which the operator sequences are present in the sense orientation .
+We thus generated LTR -luc constructs containing 2 , 4 , and 6 tefO element repeats placed between the NF-kB and Sp1 binding sites ( xB-2xtetO-Sp1/ « kB-4xtetO-Sp1/kB-6xtetO-Sp1 ) and a similar set of reporter constructs in which both NF-xB elements are deleted ( 2xtetO-Sp1/4xtetO-Sp1/6xtetO-Sp1 ) .
+Fortuitously , we isolated a clone in which two tetrameric fefO repeats were ligated in tandem , yielding a promoter with eight fefO elements between the NF-kB and Sp1 sites ( B-8xtetO-Sp1 ) .
+( iii ) Inactivation of the TAR RNA element .
+Mutation of the TAR bulge and loop sequences was performed in a PCR on the pBlue3'LTR-lue plasmid ( 31 ) with the primers xBSallSp1 and TARB123L13 .
+The PCR product was cut with Sall and Sacl and exchanged with the homologous fragment from the xB-SxtetO-Sp1 and 6xtetO-Sp1 LTR-luc constructs .
+This procedure generated plasmids pBlue3'LTR-luc-kB-8xtetO-Sp1TAR* ( pBlue3'LTR-lucK8TAR* ) and pBlue3'LTR-luc-6xtetO-Sp1TAR* ( pBlue3'LTR-lucS6TAR* ) .
+( iv ) Construction of a Nef-3'LTR shuttle vector .
+To facilitate the modification of the 3 ' end of the HIV-1 genome , we constructed a shuttle vector to exchange Nef-3'LTR sequences with the full-length HIV-1 infectious clone pLAI ( 43 ) .
+To this end , pLAI was cut with BamHI and Bg/I enzymes , and the resulting 2.3-kb fragment was cloned into the corresponding sites of pBluescript KS ( + ) , generating plasmid pBlue3'LTRext .
+( v ) Deletion of U3 sequences .
+Mutagenesis PCRs ( 42 ) were performed on pBlue3'LTRext with mutagenic primer deltaU3 ( primer M ) and general primers BgiIINef ( primer 1 ) , Sp6BspEI ( primer 2 ) , and KB12- ( primer 3 ) .
+Separate PCRs were performed with primer sets 1+2 and M+3 , after which the products were purified from a gel and used as templates in a final PCR with primer set 1+3 .
+The resulting PCR product was digested with Bg/II and BspEI and used to replace the corresponding fragment of plasmid pBlue3'LTRext , generating pBlue3'LTRext-deltaU3 .
+( vi ) Deletion of nef sequences and introduction of an XerI site .
+A mutagenesis PCR ( 42 ) was performed on pBlue3'LTRext-deltaU3 with mutagenic primer XemlIdeltaNef ( primer M ) and general primers BamHIEny ( primer 1 ) , Smalanti-Nef ( primer 2 ) , and Anti-U3att ( primer 3 ) .
+Separate PCRs were performed with primer sets 1+2 and M+3 , after which the PCR products were purified from a gel and used as templates in a final PCR with primer set 1+3 .
+The resulting PCR product was used to replace wild-type nef sequences in the pBlue3'LTRext-deltaU3 construct through the Spel ( vector-encoded ) and Bg/II sites , generating pBlue3'LTRext-deltaU3Xcml .
+( vii ) Insertion of the rtTA gene in the nef locus .
+The plasmid pUHD 52-1 , containing the novel rtTA-S2 gene ( 48 ) , was cut with XemI and BamHI , and the rtTA gene fragment was ligated into the nef locus via XemI and Bg/II restriction sites in pBlue3'LTRext-deltaU3XcmI .
+The resulting construct was named pBlue3'LTRext-deltaU3rtTA .
+( viii ) Introduction of fefO elements and TAR mutations in the 5 ' and 3 ' LTR shuttle vectors .
+pBluc3'LTR-lucK8TAR* and pBlue3'LTR-lucS6TAR* were cut with BspEI and HindIII and used to replace the homologous wild-type fragments J. of pBlueS'LTR ( 36 ) and pBlue3'LTRext-deltaU3rtTA .
+Constructs were named pBlue5'LTRK8TAR*/pBlue5'LTRS6TAR* and pBlue3'LTRext-deltaU3rtTA-K8TAR*/pBlue3'LTRext-deltaU3rtTA-S6TAR* .
+At this step all the desired modifications have been introduced in the 5 ' and 3 ' LTR shuttle vectors , and these modified LTRs can now be introduced in the full-length HIV-1 molecular clone pLAL .
+( ix ) Introduction of the Tet system elements in the 5° and 3 ' LTRs of pLAL The constructs pBlueS'LTR-K8TAR* and pBlueS'LTR-S6TAR* were amplified in the methylation-deficient E. coli strain 3902 and cut with Xbel and Clel restriction enzymes .
+Unmethylated wild-type pLAI and Tat mutant pLAI Y26A ( 51 ) DNA was cut with these two enzymes , and the U3/R region of the 5 ' LTR of these constructs was replaced by the K8TAR* and S6TAR* fragments , yielding constructs KW , KY , SW , and SY ( `` K '' and `` S '' denote the promoter configuration « B-8xtetO-Sp1-TARB123L13 [ K ] or 6xtetO-Sp1-TARB123L13 [ S ] ; `` W '' and `` Y '' indicate the status of the Tat gene [ W , wild type ; Y , inactive Y26A Tat mutant ] ) .
+The rtTA gene and fefO elements were introduced at the 3 ' end of the infectious clones by cutting the KW , KY , SW , and SY constructs with BamHI and Bg/I and replacing this 3 ' LTR fragment by the BamHI/Bg ! I fragments of the pBlue3'LTRext-deltaU3rtTA-K8TAR */pBlue3'LTRext-deltaU3rtTA-S6TAR* shuttle vectors , such that identical promoter sequences are present in both the 5 ' and the 3 ' LTRs ( constructs KWK , KYK , SWS , and SYS ) .
+Cells and viruses .
+The SupT1 T-cell line was grown and transfected by electroporation as described previously ( 3 ) .
+Infection of SupT1 cells with the SWS virus was performed by incubating 6 X 10° cells with 2,200 ng of CA-p24 of a SupT1-produced virus stock for 4 h at 37°C .
+Subsequently , the cells were washed twice to remove residual dox that was present in the virus stock and split into six different culture wells , after which each culture received the appropriate addi-tives .
+In some cultures , dox was added at a final concentration of 1,000 ng/ml ; zidovudine ( AZT ) and saquinavir ( SQV ) were used at 1,000 and 200 nM , re-spectively .
+The culturing and transfection by CaPO , precipitation of the adherent C33A cervical carcinoma cell line was as described previously ( 16 ) .
+Peripheral blood mononuclear cells ( PBMCs ) were isolated , cultured , and transfected by electroporation as described earlier ( 3 ) .
+At 7 days after transfection , half of the culture medium was replaced by medium containing 2 x 10° freshly stimulated PBMCs .
+Virus production in the culture medium was quantitated in a CA-p24 antigen enzyme-linked immunosorbent assay ( ELISA ) .
+RESULTS Construction of HIV-rtTA viruses .
+The full-length , infectious HIV-1 molecular clone pLAI was used for construction of an HIV-rtTA virus genome , the transcription of which can be controlled by dox .
+The viral transcriptional elements TAR and Tat ( marked red in Fig .
+1A ) were replaced by the pro-karyotic tetO-rtTA elements ( green ) .
+In total , nine cloning steps were required to construct these putative dox-dependent viral genomes , and all details of the construction are provided in Materials and Methods .
+In general , we took a conservative approach with regard to the type of mutations that were introduced in the HIV-1 genome in order to minimize the chance of inactivating important sequences that constitute replication signals .
+TAR and Tat inactivation .
+The TAR RNA hairpin motif of nascent HIV-1 transcripts is recognized by the viral Tat protein and the cellular cyclin T cofactor ( 19 , 53 ) .
+Both TAR and Tat are essential for transcription from the viral LTR promoter and virus replication .
+TAR was inactivated by mutation of multiple nucleotides in the single-stranded bulge and loop domains , the binding sites for Tat and cyclin T , respectively ( Fig .
+1B ) .
+This produces a fully inactive TAR motif because even single point mutations in one of these single-stranded TAR domains have a dramatic effect on LTR transcription and virus replication ( 8 , 9 , 21 ) .
+We did not introduce more gross sequence changes or deletions in TAR because this sequence is also essential for virus replication as a repeat-R region during strand transfer of reverse transcription ( 10 ) .
+Although we demonstrated previously that the TAR element of the 5 LTR Vor .
+75 , 2001 A tetO TAR insertion - mutation HIV-1 m _ rev a_ CONDITIONAL HIV-1 REPLICATION _ 981 o HTA _ tetO __ TAR * insertion insertion mutation /tat\ \ ¢ / -m 5 ' LTR l L l l f V U L_ _P J deletions HIV-rtT A { r gag a 16h , l pol | vpr | | Pk vou U AJ B u 6G c C L tetO oo ng A , < < -U - “ Egoigb AAAAAAOOO é OO0aAAAAAAAAOOO =| TAR hairpin FIG .
+1 .
+Design of dox-dependent HIV-1 variants .
+( A ) HIV-1 genome and modifications that were introduced to construct HIV -rtTA .
+Details of the nine-step construction are provided in Materials and Methods .
+In brief , we inactivated the TAR-Tat transcriptional axis ( marked in red ) , which was replaced by the tetracycline-inducible rerO-rtTA system ( marked in green ) .
+Inactivation of TAR and Tat is indicated by crosses through the motifs .
+The size of the HIV-rtTA genome is larger than that of HIV-1 ( the maps are not drawn to scale ) .
+The RNA genome of HIV-1 LAI is 9,229 nt , and HIV-rtTA is either 9,767 nt ( the SYS and SWS variants ) or 9,875 nt ( KYK and KWK variants ) .
+( B ) TAR hairpin structure and inactivating mutations that were introduced in the bulge ( triple-nucleotide substitution ) and in the loop ( two point mutations ) .
+This RNA target binds the Tat-cyclin T1 complex during transcriptional activation of the LTR promoter ( 53 ) .
+Panel C provides some details of the fefO insertion in the LTR promoter .
+The U3 region of the wild-type LTR ( left ) encodes two NF-kB sites ( C ) ) and three Sp1 sites ( 0 ) .
+The modified LTR ( right ) contains either six or eight refO operators ( & ) upstream of the Sp1 sites .
+The six refO variant ( mutant S ) has no sites , whereas both NF-kB sites are present upstream of the eight rerO operators ( mutant K ) .
+The arrow marks the transcription start site at the U3-R border , which also denotes the 5 ' border of the TAR RNA hairpin motif .
+is inherited in both LTRs of the viral progeny ( 38 ) , the inactive TAR motif was inserted in both LTRs to minimize the chance of reversion to the wild-type virus by a recombination event .
+Inactivation of the Tat protein was accomplished by introduction of the Tyr26Ala point mutation .
+This single amino acid change results in a severe loss of Tat transcriptional activity and virus replication ( 51 ) .
+The corresponding codon change ( UAU to GCC ) was designed to restrict the likelihood of simple reversion to the wild-type amino acid , which requires at least two nucleotide substitutions ( 50 ) .
+It has been suggested that Tat may play additional roles in the replication cycle besides its transcriptional function ( 26 , 28 , 47 ) .
+Thus , Tat may facilitate HIV-rtTA replication even in the absence of an intact TAR element , and we therefore also constructed viruses that retained the wild-type fat gene .
+These constructs are referred to here as Y ( tyrosine mutant ) and W ( wild-type ) .
+rtTA and fefO insertion .
+Two deletions were introduced in the 3'-terminal nef gene of the HIV-1 genome to create space for insertion of the components of the Tet system ( Fig .
+1A ) .
+We removed a 250-nucleotide ( nt ) upstream nef fragment and a 200-nt downstream fragment overlapping the U3 region of the 3 ' LTR .
+This U3 deletion will be inherited by the viral progeny in both LTRs .
+The exact borders of the nef and U3 deletions were carefully chosen such that important cis-acting sequences for virus replication were not affected .
+In particular , we maintained approximately 80 nt around the 5 ' end of the 3 ' LTR ( Fig .
+1A ) .
+This region encodes multiple sequence elements that are critical for reverse transcription ( 30 ) and integration ( 12 ) .
+In fact , we tried to mimic spontaneous deletions that have been observed in the nef-U3 region of several HIV and SIV variants in a variety of replication studies ( 22 , 29 , 33 , 34 ) .
+To prepare for the insertion of the exogenous rtTA gene 982 VERHOEF ET AL .
+TABLE 1 .
+HIV-rtTA constructs HIV-rtTA Promoter tat gene TAR variant configuration '' type type KWK Wild type Mutant KYK Mutant Mutant SWS AAAAAAOOO Wild type Mutant SYS AAAAAAOOO Mutant Mutant `` C , NF-xB ; A , refO ; O , Sp1 .
+into the position of the nef gene , a short synthetic sequence was inserted that provides a translational start codon ( underlined ) in an optimized sequence context ( CCAUGU [ 39 ] ) and convenient restriction enzyme recognition sites .
+We used the novel rtTA-S2 variant with improved properties for insertion in frame with the optimized start codon ( 48 ) .
+Thus , rtTA translation should occur from the subgenomic mRNA that was originally meant for expression of the Nef protein .
+To identify the optimal configuration of an LTR promoter with rtTA-responsive fefO elements , we performed transient transfection studies with a variety of LTR-luc constructs ( K. Verhoef et al. , manuscript in preparation ) .
+We varied the number of tetO motifs ( 2 , 4 , 6 , or 8 ) that were inserted upstream of the three Sp1 binding sites of the HIV-1 LTR promoter ( Fig .
+1C ) .
+We also tested constructs with or without the two upstream NF- « kB elements .
+The two promoters that provided most robust dox-inducible transcriptional activation were selected for insertion into the HIV-1 genome , and these LTRs are schematically depicted in Fig .
+1C .
+They will be referred to as the K mutant ( 2 NF-kB + 8 tetO +3 Sp1 sites ) and the S mutant ( 6 tetO +3 Sp1 sites ) .
+Although insertion into the U3 region of the 3 ' LTR will be sufficient to produce a mutant 10000000 1000000 | AWK 100000 7-~ = 10000 B ) 1000 8 100 xe x x o 2 4 6 8 < F COU © 10000000 7 < T 1000000 | SwsS o 100000 10000 { 1000 100 xe x x o 2 4 6 8 J. ViroL .
+progeny , we also introduced the fetO motifs in the 5 ' LTR to generate molecular clones of which the initial round of gene expression in transfected cells is also dox dependent .
+Thus , both LTRs were modified , and this was done in the wild-type ( W ) and mutant ( Y ) Tat backgrounds , resulting in four HIV-rtTA constructs : KWK , KYK , SWS , and SYS .
+All HIV-rtTA molecular clones have the TAR inactivation and rtTA insertion in common , but they differ in the status of the tat gene and the type of fetO insert ( summarized in Table 1 ) .
+The virus variant KWXK is most wild type-like because it maintained the NF-B sites and a wild-type Tat protein , and SYS is the most minimal HIV-rtTA version .
+HIV-rtTA replicates in a dox-dependent manner .
+The four pLAI plasmids were individually transfected into the SupT1 T-cell line to test for their replication capacity .
+The culture was maintained at various dox levels , and virus replication was monitored by measuring the amount of CA-p24 produced in the culture medium ( Fig .
+2 ) .
+In the presence of optimal dox levels ( 1,000 ng/m !
+) , we measured profound replication of all four HIV-rtTA viruses .
+No virus replication was observed in the absence of dox , indicating that replication is strictly dependent on the inserted Tet system .
+The Tet system is ideally suited to modulate the level of transcriptional activation in a stepwise manner by changing the amount of dox ( 4 ) .
+Indeed , replication of the HIV-rtTA viruses can also be modulated at suboptimal concentrations of the inducing dox reagent ( Fig .
+2 ) .
+A progressive reduction in replication rates of all four rtTA-viruses was observed at 300 and 100 ng of dox per ml , and virus replication was nearly abolished at 30 ng/ml .
+The SupT1 cells were killed within 1 week by massive virus-induced syncytia , and the peak CA-p24 production is similar to what we regularly observe in infections with the wild-type LAI 10000000 1000000 { KYK 100000 10000 1 1000 - dox `` a a `` a , .
+~ , _ ( Nym | -x-0Q 10000000 ' -- 30 1000000 - SYS ‘ Il ’ gg 100000 [ rﬂg 10000 { 1000 { 100 x x x 0 2 4 6 8 days post transfection FIG .
+2. dox-controlled replication of the HIV-rtTA viruses .
+The SupT1 T-cell line was electroporated with 10 pg of the indicated molecular clones , and cells were cultured without or with an increasing concentration of dox ( 0 to 1,000 ng/ml ) .
+Some of the cultures were stopped at day 5 because of massive HIV-induced syncytium formation and cell death .
+Virus production was measured by CA-p24 ELISA on culture supernatant samples .
+vor .
+75 , 2001 100000 10000 { 1000 CA-p24 ( pg/ml ! )
+100 0 5 10 15 days post transfection FIG .
+3. dox-dependent replication of HIV-rtTA viruses in primary cells .
+PBMCs were electroporated with the KWK ( diamonds ) and KYK ( triangles ) constructs ( 20 g ) , and the cultures were maintained without ( open symbols ) or with ( 1,000 ng/ml ! )
+( solid symbols ) dox .
+Fresh uninfected cells were added immediately after transfection and at day 6 postinfection .
+Virus production was measured by CA-p24 ELISA on culture supernatant samples .
+virus .
+Nevertheless , the HIV-rtTA variants have significantly reduced replication capacity compared to wild-type HIV-1 ( re-sults not shown ) .
+We managed to passage all four HIV-rtTA viruses as cell-free inocula onto fresh , uninfected T cells , and a spreading infection was sustained for at least 5 weeks ( five passages ) .
+The combined results of several independent replication assays , either started by transfection or infection , indi- CONDITIONAL HIV-1 REPLICATION _ 983 cated that there are modest but reproducible differences in the replication efficiency of the four HIV-rtTA constructs .
+The most efficient replication was measured for the KWK variant that maintained both the NF-KB sites and a functional tat gene , but the other variants were not much delayed .
+As expected , the minimal SYS virus replicated most weakly , but this variant also induced a spreading infection .
+From these experiments the following ranking order of replication was apparent : LAI ( wild type ) > KWK > KYK , SWS > SYS .
+Putative HIV-rtTA vaccine viruses should be able to replicate in primary cells .
+The LAI molecular clone used in these studies represents a primary isolate that is able to efficiently infect primary cells ( 43 , 52 ) , but a complication of our design is that we removed the nef gene that contributes to optimal virus replication in primary cells ( 18 ) .
+We transfected pooled PBMCs by means of electroporation with the KWK and KYK molecular clones and measured CA-p24 production in the culture supernatant for up to 2 weeks ( Fig .
+3 ) .
+Both HIV-rtTA variants , with or without a functional tat gene , replicated in the presence of 1,000 ng of dox per ml , whereas no replication was detectable without dox .
+These results demonstrate that the HIV-rtTA viruses can replicate in primary cells , despite the absence of the nef function .
+Turning virus replication on and off in a reversible manner .
+Subsequent tests were performed with the SWS virus in SupT1 infections ( Fig .
+4 ) .
+First , we repeated the dox response exper-iment .
+Efficient virus replication was observed at 1,000 ng of dox per ml , but 100 ng of dox per ml was not sufficient to support a spreading infection in this more sensitive replication 10000000 - 10000000 1000000 | A 1000000 | B e 100000 -e- - dox 100000 -- - dox + 10000 -- + dox ( 100 ) | 10000 -s-+ dox ( day 0 ) i dox ( 1000 ) -o-+ dox ( day 3 ) 3 1000 1000 -2- + GOxt cay & 100 - 100 _-_ , Fea 0 0 5 0 100 as 0 0 § 100 45 CL Ne '' v CO © 1000000 10000000 < 100000 1000000 | D ee O — ’ -s-+ dox -=- + dox 100000 10000 -o- - dox ( day 3 ) | 10000 -o- + dox + SQV : - dOx ( da h —y ) J !
+-s-+ dox + AZT | 1000 1000 - @ -+dox + AZT | 100 100 0 0 5 0 100 45 days post infection FIG .
+4 .
+Replication of HIV-rtTA can be turned on and turned off .
+These experiments were performed with the SWS virus , but similar experiments have been performed with the other HIV-rtTA variants .
+We used the SWS virus ( 2,200 ng of CA-p24 ) to infect 6 x 10° SupT1 cells at day 0 .
+( A ) Replication potential with 0 , 100 , and 1,000 ng of dox per ml .
+( B ) Effect of delayed addition of dox ( 1,000 ng/m ! )
+at day 3 after infection .
+( C ) Infected cells were grown in 1,000 ng of dox per ml for 3 days , at which point the cells were washed and incubated in the absence or presence of dox .
+( D ) Infected cells were maintained in the presence of dox and either the Pro inhibitor SQV ( 200 nM ) or the RT inhibitor AZT ( 1 wM ) .
+984 VERHOEF ET AL .
+TABLE 2 .
+Transient HIV-rtTA production in C33 and SupT1 cells HIV-rtTA production ( pg of CA-p24 per ml ) * Th cepa =CMV-rtTA +CMV-rtTA variant -dox +dox _ .
+F014 -dox +dox .
+F014 induction induction C33A cells KWK 11,600 545,000 47 91,500 715,000 7.8 SWS 11,350 560,000 49 49,500 560,000 11.3 KYK 4,850 580,000 120 47,500 500,000 10.5 SYS 5,950 455,000 76 32,500 520,000 16 LAI 635,000 520,000 0.8 SupT1 cells KWK 110 - 54,000 491 SWS 30 65,000 2,167 KYK 10 39,000 3,900 SYS 20 7,800 390 `` Production was measured for the variants with ( + ) or without ( - ) dox and CMV-rtTA as indicated .
+assay ( Fig .
+4A ) .
+We next analyzed virus replication kinetics when dox was added 3 days after infection of the cells ( Fig .
+4B ) .
+This resulted in a delay of virus production of approximately 3 days .
+In the absence of dox , the HIV-rtTA virus can still infect cells , reverse transcribe its RNA genome , and integrate the DNA into the host genome .
+In other words , the provirus form can be established , but replication is blocked at the level of viral transcription .
+These latently infected cells will remain present in the culture and can be activated by dox after 3 days to produce new , infectious particles .
+A key feature of the Tet system is that it provides reversible regulation .
+To test this , SupT1 cells were infected with the SWS virus and cultured in the presence of dox ( Fig .
+4C ) .
+At day 3 , the cells were washed to remove extracellular dox and resuspended in medium either with or without dox .
+Indeed , replication can be stopped abruptly by the removal of dox .
+These combined results confirm that replication of the HIV-rtTA virus is absolutely dependent on dox , and the level of virus replication can be strictly controlled in a graded and reversible manner .
+Gene expression characteristics of the HIV-rtTA variants .
+We next set out to accurately measure the level of gene expression and virus production of the HIV-rtTA variants compared with the wild-type LAI construct .
+These experiments were performed by transient transfection of C33 cells , which allows virus production without replication due to the absence of appropriate receptors for virus entry .
+The results are summarized in Table 2 .
+We measured low virus production for all HIV-rtTA constructs in the absence of dox , ranging from 4,850 to 11,600 pg of CA-p24 per ml .
+By comparing the KWK and SWS versus KYK and SYS constructs , it is clear that the wild-type Tat protein makes a modest , twofold contribution to gene expression without dox .
+This basal activity is 0.8 to 2.1 % of the virus production measured by the wild-type LAI plasmid , which is an excellent value compared with the `` leakiness '' measured in transient LTR-luc assays ( 7 to 10 % ; results not shown ) .
+Profound dox induction was measured for all constructs , ranging from 47- to 120-fold induction over the level of basal activity .
+In fact , virus production levels ( 455,000 to J .
+580,000 pg of CA-p24 per ml ) are similar to that of LAI , indicating that gene expression and virion production are efficiently executed by the HIV-rtTA variants .
+Comparable results were recently presented for SIV constructs with a similarly modified LTR promoter ( 55 ) .
+Consistent with the replication ranking order of the HIV-rtTA variants , SYS produced the least amount of virus .
+Establishment of an rtTA-fetO autoregulatory loop .
+The previous results indicate that gene expression and replication of HIV-rtTA are strictly dependent on dox .
+The excellent performance of the HIV-rtTA viruses is novel due , at least in part , to the use of the rtTA-S2 reagent , which was shown to exhibit no measurable basal activity in the uninduced state ( 48 ) .
+More-over , we have placed rtTA expression under control of an rtTA-regulated LTR promoter , a situation that mimics the natural autoregulatory loop of the TAR-Tat axis .
+This means that both the activity of rtTA and its synthesis are dox dependent .
+Thus , only minute amounts of rtTA protein will be present in the absence of dox , resulting in an extremely low basal level of gene expression , and consequently a more-pro-found dox induction .
+In other Tet-controlled gene expression systems , the tTA or rtTA protein is produced in a constitutive manner from a second locus , e.g. , the CMV-rtTA plasmid , which causes a significant level of gene activation in the off state .
+We next designed an experiment to critically test whether an autoregulatory loop is established in HIV-rtTA .
+We mimicked the regular Tet system by cotransfection of HIV-rtTA with CMV-rtTA .
+The latter plasmid will produce a constitutive level of rtTA protein ( even in the absence of dox ) , which is expected to enhance the level of virus production in the uninduced state .
+This is indeed what we observed ( Table 2 ) .
+The uninduced level of virus production was increased 5- to 10-fold with CMV-rtTA .
+The results in Table 2 also indicate that additional synthesis of rtTA protein from the cotransfected CMV-rtTA plasmid does not increase the level of virus production in the presence of dox , indicating that all HIV-rtTA constructs are able to produce saturating amounts of rtTA frans-activator .
+Due to increased basal expression levels in cotransfections with CMV-rtTA , we measured only 8- to 16-fold dox induction levels .
+In fact , these results are very similar to the results obtained with the corresponding LTR-lue constructs ( K. Verhoef et al. , manuscript in preparation ) .
+These LTR-luc transfection experiments also revealed that higher dox induction levels ( up to 80-fold ) can be obtained in the T-cell line SupT1 .
+Although we currently do not understand this effect , the responsiveness of the Tet system has been reported to differ in different cell types ( 27 ) .
+We therefore tested all four HIV-rtTA variants in SupT1 cells .
+The transfected cells were cultured with or without dox , and virus production was measured at 2 days posttransfection .
+The latter point is critical because SupT1 cells support virus replication , which will eventually disturb the transient expression data .
+However , we have demonstrated previously that replication does not contribute to virus production measured at day 2 ( 15 ) , and the transient virus production results are summarized in Table 2 .
+Indeed , a more profound dox effect was measured in SupT1 cells , an effect ranging from 390- to 3,900-fold induction for the different HIV-rtTA constructs .
+These values are somewhat inaccurate because of the extremely low level of virus production in Vor .
+75 , 2001 the uninduced state , which hardly exceeds the cutoff value of the CA-p24 assay .
+However , it is obvious that dox inducibility is 5- to 10-fold more profound in SupT1 cells than in C33A cells .
+The combined effects of the autoregulatory loop established in HIV-rtTA and the T-cell-specific augmentation of the dox response result in rather dramatic induction levels .
+In SupT1 cells , an extremely low basal level of virus production is measured , which is estimated to be approximately 0.03 to 0.2 % of the dox-induced state .
+Safety issues .
+The finding that HIV-rtTA has an extremely low level of virus expression in the absence of dox seems the ideal situation concerning the safety of a vaccine strain .
+We performed some additional assays to address safety aspects .
+First , we screened for leaky virus replication in the absence of dox in prolonged cultures .
+For instance , the SupT1 cultures that were transfected with the four different HIV-rtTA constructs ( Fig .
+2 ) were maintained up to day 170 , but no virus production was measured .
+Similarly , no replicating virus was observed in primary cell cultures without dox ( Fig .
+3 ) .
+Second , HIV-rtTA virus spreading in SupT1 cultures could be `` turned off '' effectively by the removal of dox ( see , e.g. , Fig .
+4C for the SWS virus ) , without any sign of virus production .
+Third , we analyzed the sensitivity of the HIV-rtTA virus to antiretroviral drugs that are in current clinical use .
+Because we did not alter the basic set of viral genes in HIV-rtTA , including the genes encoding protease ( Pro ) and reverse transcriptase ( RT ) , these viruses are expected to remain fully sensitive to well-known drugs that target these essential enzymes .
+As shown in Fig .
+4D , replication of the dox-dependent SWS virus can be inhibited efficiently either by 3'-azido-3'-deoxythymidine ( AZT ; a nucle-oside RT inhibitor ) or saquinavir ( SQV ; a Pro inhibitor ) .
+These experiments may be viewed as the first safety tests of these putative vaccine strains .
+DISCUSSION We have incorporated the Tet regulatory system in the HIV-1 genome such that virus transcription and replication can now be controlled from the outside by addition of a nontoxic inducer molecule such as dox .
+Specifically , we constructed replicating HIV-1 variants with inactivating mutations in both arms of the Tat-TAR axis through replacement with the rtTA-tetO elements of the Tet system .
+Replication experiments in a T-cell line and primary cells demonstrate that we have successfully designed dox-dependent HIV-1 variants .
+Replication of these designer HIV-rtTA viruses is regulatable in a graded and reversible manner .
+Although leakiness , that is , residual activity of the rtTA activator in the absence of dox , has been a problem in some applications of the rtTA system , we have not observed any virus replication in the absence of dox .
+This may be due , at least in part , to the superior performance of the improved rtTA-S2 protein that was used in these experiments ( 48 ) .
+Another possibility is that expression of the rtTA trans-activator in the viral context is fully dependent on the presence of dox .
+Indeed , we demonstrated that an autoregulatory loop is established that resembles the natural situation with the TAR-Tat axis .
+This mechanism restricts leakiness or dox-independent replication , thereby providing an additional safety feature .
+The HIV-rtTA viruses have some unique properties that make them ideal reagents for a variety of biological experi- CONDITIONAL HIV-1 REPLICATION _ 985 ments .
+The most obvious application for such a virus is in the field of live-attenuated vaccines , and a similar approach may be used to put control over other retroviral pathogens ( e.g. , HIV-2 and human T-cell leukemia virus type 1 ) , pararetrovi-ruses ( e.g. , hepatitis B virus ) , or DNA viruses ( e.g. , herpesvirus or adenovirus ) .
+The HIV-rtTA viruses will improve the current generation of live-attenuated HIV-1 variants as potential vaccine strains because the conditional replication provides a unique safety feature .
+Of the variants constructed in this study , the SYS variant has the most minimal `` genotype '' : TAR~ Tat~ AU3 ANF- « kB Anef .
+However , it should be possible to further delete some of the `` accessory '' genes such as vpr and vpu .
+The absence of functional Tat seems particularly attractive because this viral protein is known to have several adverse effects on the host cell .
+It is anticipated that HIV-rtTA vaccine viruses will be able to induce a protective immune response by dox-induced replication , after which replication can be turned off by the withdrawal of dox , such that the virus will remain nonpathogenic .
+In case a booster vaccination is required to mount an optimal immune response , replication can be switched on transiently at later times by dox .
+Experiments in mice indicate that the expression of a transgene can be regulated by simply adding or removing dox from the drinking water ( 35 ) .
+Our tissue culture experiments also indicate that the level of virus replication can be fine-tuned by varying the dox level .
+We demonstrate that the HIV-rtTA viruses are inhibited by antiviral drugs such as the RT inhibitor AZT and the Pro inhibitor SQV .
+These viruses will await extensive replication tests to verify their genetic stability , followed by animal tests with homologous SIV constructs to screen for their pathogenic potential and their ability to induce a protective immune response .
+Because the TAR RNA and fet gene may have become nonessential parts of the HIV-rtTA genome , these elements may be `` free '' to evolve .
+If these transcriptional elements have no other function in the viral replication cycle , one would predict that they would eventually be lost either by deletion or by accumulation of point mutations .
+This would further reduce the likelihood of a wild-type-like reversion , thereby making the vaccine strain more safe .
+However , the situation may be more complex since additional roles have been proposed for both motifs ( reviewed in reference 6 ) .
+This is most obvious for the TAR motif , which is part of the R ( repeat ) region that is critical in strand transfer during reverse transcription .
+But TAR has also been reported to contribute to RNA packaging in virion particles .
+The Tat protein has also been implicated in nontranscriptional roles , e.g. , during mRNA translation and the process of reverse transcription ( 13 , 26 , 28 , 44 ) .
+Prolonged culture experiments and the analysis of revertant viruses may provide more insight into some of these possibilities .
+The HIV-1 TAR-Tat axis was successfully replaced by the tetO-rtTA system , and the latter elements appear to have become essential viral functions .
+This may preclude the spontaneous loss of these exogenous elements by simple deletion , thereby enhancing the genetic stability of vaccine strains based on HIV-rtTA .
+On the other hand , the current HIV-rtTA viruses do replicate suboptimally .
+The advantage of working with HIV is that even if a poorly replicating virus is identified , the error-prone nature of the RT enzyme will allow for the generation and outgrowth of faster-replicating variants by a meth- 986 VERHOEF ET AL .
+od termed forced evolution ( 7 , 37 ) .
+This evolutionary refinement of the initial designer HIV-rtTA viruses provides a powerful genetic method to identify modified forms of the E. coli-derived rtTA protein and/or the tefO sites that are better suited for their transcription function in a eukaryotic background .
+Consistent with this idea , we recently observed improved replication of the HIV-rtTA viruses in long-term infection experiments , apparently without repair of the Tat-TAR axis .
+ACKNOWLEDGMENTS We thank Rainer Loew and Maz Hasan for providing several re agents of the Tet system .
+We thank Wim van Est for excellent artwork .
+Research within the Berkhout laboratory is sponsored by the Dutch AIDS Fund ( AIDS Fonds , Amsterdam , The Netherlands ) , the Dutch Cancer Society ( KWF , Amsterdam , The Netherlands ) , the Technology Foundation ( STW , Utrecht , The Netherlands ) , and the National Institutes of Health ( NIH , Bethesda , Md . ) .
+G.M .
+was supported by EMBO and HFSP fellowships , and K.V .
+was supported by a short-term EMBO fellowship .
+10 .
+11 .
+12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+REFERENCES .
+Almond , N. , K. Kent , M. Cranage , E. Rud , B. Clarke , and E. J. Stott .
+1995 .
+Protection by attenuated simian immunodeficiency virus in macaques against challenge with virus-infected cells .
+Lancet 345:1342-1344. .
+Baba , T. W. , V. Liska , A. H. Khimani , N. B. Ray , P. J. Dailey , D. Penninck , R. Bronson , M. F. Greene , H. M. McClure , L. N. Martin , and R. M. Rup-recht .
+1999 .
+Live attenuated , multiply deleted simian immunodeficiency virus causes AIDS in infant and adult macaques .
+Nat .
+Med .
+5:194-203. .
+Back , N. K. T. , M. Nijhuis , W. Keulen , C. A .
+B. Boucher , B .
+B. Oude Essink , A .
+B. P. van Kuilenburg , A. H. Van Gennip , and B. Berkhout .
+1996 .
+Reduced replication of 3TC-resistant HIV-1 variants in primary cells due to a proces-sivity defect of the reverse transcriptase enzyme .
+EMBO J .
+15:4040-4049. .
+Baron , U. , M. Gossen , and H. Bujard .
+1997 .
+Tetracycline-controlled tran scription in eukaryotes : novel transactivators with graded transactivation potential .
+Nucleic Acids Res .
+25:2723-2729. .
+Baron , U. , and H. Bujard .
+2000 .
+Tet repressor-based system for regulated gene expression in eukaryotic cells : principles and advances .
+Methods En-zymol .
+327:401-421. .
+Berkhout , B .
+2000 .
+Multiple biological roles associated with the repeat ( R ) region of the HIV-1 RNA genome .
+Adv .
+Pharmacol .
+48:29-73. .
+Berkhout , B. , and A. T. Das .
+1999 .
+Functional analysis of RNA signals in the HIV-1 genome by forced evolution , p. 249-275 .
+In J. Barciszewski and B. F. C. Clark ( ed .
+) , RNA biochemistry and biotechnology .
+Kluwer Academic Publishers , Dordrecht , The Netherlands .
+.
+Berkhout , B. , and K. T. Jeang .
+1989 .
+Transactivation of human immunode- ficiency virus type 1 is sequence specific for both the single-stranded bulge and loop of the frans-acting-responsive hairpin : a quantitative analysis .
+J. Virol .
+63:5501-5504. .
+Berkhout , B. , and B. Klaver .
+1993 .
+In vivo selection of randomly mutated retroviral genomes .
+Nucleic Acids Res .
+21:5020-5024 .
+Berkhout , B. , J. van Wamel , and B. Klaver .
+1995 .
+Requirements for DNA strand transfer during reverse transcription in mutant HIV-1 virions .
+J. Mol .
+Biol .
+252:59-69 .
+Berkhout , B. , K. Verhoef , J. L. B. van Wamel , and N. K. T. Back .
+1999 .
+Genetic instability of live attenuated human immunodeficiency virus type 1 vaccine strains .
+J. Virol .
+73:1138-1145 .
+Brown , P. O .
+1997 .
+Integration , p. 161-204 .
+In J. M. Coffin , S. H. Hughes , and H. E. Varmus ( ed .
+) , Retroviruses .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , N.Y. Cullen , B. R. 1986 .
+Trans-activation of human immunodeficiency virus occurs via a bimodal mechanism .
+Cell 46:973-982 .
+Daniel , M. D. , F. Kirchhoff , S. C. Czajak , P. K. Sehgal , and R. C. Desrosiers .
+1992 .
+Protective effects of a live attenuated SIV vaccine with a deletion in the nef gene .
+Science 258:1938-1941 .
+Das , A. T. , B. Klaver , and B. Berkhout .
+1995 .
+Reduced replication of human immunodeficiency virus type 1 mutants that use reverse transcription primers other than the natural tRNA ( 3Lys ) .
+J. Virol .
+69:3090-3097 .
+Das , A. T. , B. Klaver , and B. Berkhout .
+1999 .
+A hairpin structure in the R region of the human immunodeficiency virus type 1 RNA genome is instrumental in polyadenylation site selection .
+J. Virol .
+73:81-91 .
+Deacon , N. J. , A. Tsykin , A. Solomon , K. Smith , M. Ludford-Menting , D. J. Hooker , D. A. McPhee , A. L. Greenway , A. Ellett , C. Chatfield , V. A. Lawson , S. Crowe , A. Maerz , S. Sonza , J. Learmont , J. S. Sullivan , A. Cunningham , D. Dwyer , D. Dowton , and J .
+Mills .
+1995 .
+Genomic structure of an attenuated 18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+J. quasi species of HIV-1 from blood transfusion donor and recipients .
+Science 270:988-991. de Ronde , A. , B. Klaver , W. Keulen , L. Smit , and J. Goudsmit .
+1992 .
+Natural HIV-1 NEF accelerates virus replication in primary human lymphocytes .
+Virology 188:391-395 .
+Dingwall , C. , I. Ernberg , M. J. Gait , S. M. Green , S. Heaphy , J. Karn , A. D. Lowe , M. Singh , M. A. Skinner , and R. Valerio .
+1989 .
+Human immunodeficiency virus 1 Tat protein binds trans-activating-responsive region ( TAR ) RNA in vitro .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 86:6925-6929 .
+Dyer , W. B. , G. S. Ogg , M.-A .
+Demoitie , X. Jin , A. F. Geczy , S. L. Rowland-Jones , A. J. McMichael , D. F. Nixon , and J. S. Sullivan .
+1999 .
+Strong human immunodeficiency virus ( HIV ) -specific cytotoxic T-lymphocyte activity in Sydney blood bank cohort patients infected with nef-defective HIV type 1 .
+J. Virol .
+73:436-443 .
+Feng , S. , and E. C. Holland .
+1988 .
+HIV-1 tat trans-activation requires the loop sequence within tar .
+Nature 334:165-167 .
+Fisher , J. , and S. P. Goff .
+1998 .
+Mutational analysis of stem-loops in the RNA packaging signal of the Moloney murine leukemia virus .
+Virology 244 : 133-145 .
+Gossen , M. , S. Freundlieb , G. Bender , G. Muller , W. Hillen , and H. Bujard .
+1995 .
+Transcriptional activation by tetracyclines in mammalian cells .
+Science 268:1766-1769 .
+Gossen , M. , and H. Bujard .
+1992 .
+Tight control of gene expression in mammalian cells by tetracycline-responsive promoters .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 89:5547-5551 .
+Greenough , T. C. , J. L. Sullivan , and R. C. Desrosiers .
+1999 .
+Declining CD4 T-cell counts in a person infected with nef-deleted HIV-1 .
+N. Engl .
+J. Med .
+340:236-237 .
+Harrich , D. , C. Ulich , L. F. Garcia-Martinez , and R. B. Gaynor .
+1997 .
+Tat is required for efficient HIV-1 reverse transcription .
+EMBO J .
+16:1224-1235 .
+Howe , J. R. , B. V. Skryabin , S. M. Belcher , C. A. Zerillo , and C. Schmauss .
+1995 .
+The responsiveness of a tetracycline-sensitive expression system differs in different cell lines .
+J. Biol .
+Chem .
+270:14168-14174 .
+Huang , L. M. , A. Joshi , R. Willey , J. Orenstein , and K. T. Jeang .
+1994 .
+Human immunodeficiency viruses regulated by alternative trans-activators : genetic evidence for a novel non-transcriptional function of Tat in virion infectivity .
+EMBO J .
+13:2886-2896 .
+Ilyinskii , P. O. , M. D. Daniel , M. A. Simon , A .
+A. Lackner , and R. C. Desrosiers .
+1994 .
+The role of the upstream U3 sequences in the pathogenesis of simian immunodeficiency virus-induced AIDS in rhesus monkeys .
+J. Virol .
+68:5933-5944 .
+Ilyinskii , P. O. , and R. C. Desrosiers .
+1998 .
+Identification of a sequence element immediately upstream of the polypurine tract that is essential for replication of simian immunodeficiency virus .
+EMBO J .
+17:3766-3774 .
+Jeeninga , R. E. , M. Hoogenkamp , M. Armand-Ugo , M. de Baar , K. Verhoef , and B. Berkhout .
+2000 .
+Functional differences between the LTR transcriptional promoters of HIV-1 subtypes A through G. J. Virol .
+74:3740-3751 .
+Johnson , R. P. , J. D. Lifson , S. C. Czajak , K. Stefano Cole , K. H. Manson , R. L. Glickman , J. Q. Yang , D. C. Montefiori , R. C. Montefioro , M. S. Wyand , and R. C. Desrosiers .
+1999 .
+Highly attenuated vaccine strains of simian immunodeficiency virus protect against vaginal challenge : inverse relationship of degree of protection with level of attenuation .
+J. Virol .
+73 : 4952-4961 .
+Kirchhoff , F. , T. Greenough , D. B. Brettler , J. L. Sullivan , and R. C. Desrosiers .
+1995 .
+Absence of intact nef sequences in a long-term survivor with nonprogressive HIV-1 infection .
+N. Engl .
+J. Med .
+332:228-232 .
+Kirchhoff , F. , H. W. Kestler IHH , and R. C. Desrosiers .
+1994 .
+Upstream U3 sequences in simian immunodeficiency virus are selectively deleted in vivo in the absence of an intact nef gene .
+J. Virol .
+68:2031-2037 .
+Kistner , A. , M. Gossen , F. Zimmermann , J. Jerecic , C. Ullmer , H. Lubbert , and H. Bujard .
+1996 .
+Doxycycline-mediated quantitative and tissue-specific control of gene expression in transgenic mice .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 93:10933-10938 .
+Klaver , B. , and B. Berkhout .
+1994 .
+Comparison of 5 ' and 3 ' long terminal repeat promoter function in human immunodeficiency virus .
+J. Virol .
+68 : 3830-3840 .
+Klaver , B. , and B. Berkhout .
+1994 .
+Evolution of a disrupted TAR RNA hairpin structure in the HIV-1 virus .
+EMBO J .
+13:2650-2659 .
+Klaver , B. , and B. Berkhout .
+1994 .
+Premature strand transfer by the HIV-1 reverse transcriptase during strong-stop DNA synthesis .
+Nucleic Acids Res .
+22:137-144 .
+Kozak , M. 1989 .
+The scanning model for translation : an update .
+J .
+Cell Biol .
+108:229-241 .
+Lohman , B. L. , M. B. McChesney , C. J. Miller , E. McGowan , S. M. Joye , K. K. van Rompay , E. Reay , L. Antipa , N. C. Pedersen , and M. L. Marthas .
+1994 .
+A partially attenuated simian immunodeficiency virus induces host immunity that correlates with resistance to pathogenic virus challenge .
+J. Virol .
+68 : 7021-7029 .
+Maniatis , T. , E. F. Fritsch , and J. Sambrook .
+1982 .
+Molecular cloning : a laboratory manual .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. Mikaelian , I. , and A .
+Sergeant .
+1992 .
+A general and fast method to generate Vor .
+75 , 2001 43 .
+44 .
+45 .
+46 .
+47 .
+48. multiple site directed mutations .
+Nucleic Acids Res .
+20:376 .
+Peden , K. , M. Emerman , and L. Montagnier .
+1991 .
+Changes in growth properties on passage in tissue culture of viruses derived from infectious molecular clones of HIV-1 ; aj , and HIV-15 ; j. Virology 185:661-672 .
+SenGupta , D. N. , B. Berkhout , A. Gatignol , A. M. Zhou , and R. H. Silver-man .
+1990 .
+Direct evidence for translational regulation by leader RNA and Tat protein of human immunodeficiency virus type 1 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 87:7492-7496 .
+Shibata , R. , C. Siemon , S. C. Czajak , R. C. Desrosiers , and M. A. Martin .
+1997 .
+Live , attenuated simian immunodeficiency virus vaccines elicit potent resistance against a challenge with a human immunodeficiency virus type 1 chimeric virus .
+J. Virol .
+71:8141-8148 .
+Stahl-Hennig , C. , U. Dittmer , T. Nisslein , H. Petry , E. Jurkiewicz , D. Fuchs , H. Wachter , K. Matz-Rensing , E. M. Kuhn , F. J. Kaup , E. W. Rud , and G. Hunsmann .
+1996 .
+Rapid development of vaccine protection in macaques by live-attenuated simian immunodeficiency virus .
+J. Gen. Virol .
+77:2969-2981 .
+Ulich , C. , A. Dunne , E. Parry , C. W. Hooker , R. B. Gaynor , and D. Harrich .
+1999 .
+Functional domains of Tat required for efficient human immunodeficiency virus type 1 reverse transcription .
+J. Virol .
+73:2499-2508 .
+Urlinger , S. , U. Baron , M. Thellmann , M. T. Hasan , H. Bujard , and W. Hillen .
+2000 .
+Exploring the sequence space for tetracycline-dependent transcriptional activators : novel mutations yield expanded range and sensitivity .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 97:7963-7968 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 .
+CONDITIONAL HIV-1 REPLICATION - 987 van Rompay , K. K. A. , A. Spinner , M. Otsyula , M. B. McChesney , and M. L. Marthas .
+1995 .
+Attenuated retrovirus vaccines and AIDS .
+Science 270:1218 .
+Verhoef , K. , and B. Berkhout .
+1999 .
+A second-site mutation that restores replication of a Tat-defective human immunodeficiency virus .
+J. Virol .
+73 : 2781-2789 .
+Verhoef , K. , M. Koper , and B. Berkhout .
+1997 .
+Determination of the minimal amount of Tat activity required for human immunodeficiency virus type 1 replication .
+Virology 237:228-236 .
+Wain-Hobson , S. , J.-P. Vartanian , M. Henry , N. Chenciner , R. Cheynier , S. Delassus , L. Pedroza Martins , M. Sala , M. T. Nugeyre , D. Guétard , D. Klatzmann , J.-C. Gluckman , W. Rozenbaum , F. Barré-Sinoussi , and L. Montagnier .
+1991 .
+LAV revisited : origins of the early HIV-1 isolates from Institut Pasteur .
+Science 252:961-965 .
+Wei , P. , M. E. Garber , S.-M. Fang , W. H. Fisher , and K. A. Jones .
+1998 .
+A novel CDK9-associated C-type cyclin interacts directly with HIV-1 Tat and mediates its high-affinity , loop-specific binding to TAR RNA .
+Cell 92:451-462 .
+Wyand , M. S. , K. H. Manson , M. Garcia-Moll , D. Montefiori , and R. C. Desrosiers .
+1996 .
+Vaccine protection by a triple deletion mutant of simian immunodeficiency virus .
+J. Virol .
+70:3724-3733 .
+Xiao , Y. , T. Kuwata , T. Miura , M. Hayami , and H. Shida .
+2000 .
+Dox-dependent SIVmac with tetracycline-inducible promoter in the U3 promoter region .
+Virology 269:268-275 .

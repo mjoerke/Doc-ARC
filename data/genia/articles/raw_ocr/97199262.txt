@@ -1,0 +1,525 @@
+Immunity , Vol .
+6 , 165-174 , February , 1997 , Copyright ©1997 by Cell Press c-Rel Is a Target of Pentoxifylline-Mediated Inhibition of T Lymphocyte Activation Weihong Wang , * Winnie F. Tam , * Christopher C. W. Hughes , + Satyajit Rath , t and Ranjan Sen* *Rosenstiel Basic Medical Sciences Research Center and Department of Biology Brandeis University Waltham , Massachusetts 02254 TtNational Institute of Immunology Aruna Asaf Ali Marg New Delhi India *Department of Molecular Biology and Biochemistry Bio Sci II University of California at Irvine Irvine , California 92717 Summary The possible clinical use of the methyl xanthine deriva-tive , pentoxifylline ( PF ) , for the treatment of T cell-dependent diseases is being noted with increasing interest .
+In this paper , we studied the molecular consequences of PF treatment during lymphocyte activation .
+We found that in T cells , anti-CD3-induced c-Rel expression was blocked by PF , whereas the induction of other NF- « B family members was not significantly affected .
+However , induction of NF-AT , which has the same signaling requirements as c-Rel induction , was not inhibited by PF .
+Among genes that respond to these transcription factors , IL-2 mRNA induction was suppressed by PF , whereas IL-2Ra « chain mRNA induction was not affected .
+These observations implicated c-Rel as an IL-2 promoter factor , for which experimental support was obtained from transient transfection experiments .
+In contrast with the observation in T cells , c-Rel induction was not blocked by PF in B cells .
+The greater selectivity of PF , compared with FK506 , at both the molecular and cellular levels may prove advantageous in manipulating T cell responses in vivo .
+Introduction Lymphocyte activation via the antigen receptors results in clonal expansion and differentiation that is critical for subsequent immune responses .
+Signals initiated at the plasma membrane culminate in the induction of transcription factors that reprogram cellular gene expression .
+The induction patterns of two factors , NF-AT and c-Rel , correlate most closely with proliferation of B and T cells , because both proteins are induced only in response to the `` complete '' proliferative signal provided by the combined action of phorbol ester and a calcium ionophore , such as ionomycin ( Utz et al. , 1988 ; Venkataraman et al. , 1995 ) .
+Their importance in lymphocyte function is further highlighted by the observation that induction of both factors is suppressed by the immunosuppressive drugs cyclosporin A and FK506 ( Emme !
+et al. , 1989 ; Venkataraman et al. , 1995 ) .
+Moreover , lymphocyte proliferation in response to antigen receptor signals was shown to be severely inhibited in c-Rel-deficient mice ( Kontgen et al. , 1995 ) .
+Therefore , it is likely that drugs affecting c-Rel and NF-AT induction will provide a means of regulating lymphocyte activation for therapeutic purposes .
+Pentoxifylline ( PF ) is a vasoactive drug that is widely used in the clinic as an anti-inflammatory and for the treatment of endotoxin shock .
+Although its efficacy has been attributed primarily to the inhibition of tumor necrosis factor « ( TNFa ) production by monocytes and macro-phages ( Streiter et al. , 1988 ) , it is clear that PF affects diverse cell types .
+For example , effects have been noted on endothelial cells ( Kovach et al. , 1994 ; Tozawa et al. , 1995 ) , smooth muscle cells ( Bellas et al. , 1995 ) , fibrosarcoma cell lines ( Takahashi et al. , 1994 ) , neuroblastoma cells ( Yang et al. , 1995 ) , embryonic kidney cells ( Biswas et al. , 19933 ) , and lymphocytes ( Biswas et al. , 1993b ; Tozawa et al. , 1995 ) .
+The known effects on lymphocytes are briefly described below .
+Injection of anti-CD3 antibodies in vivo has been shown to induce TNFa as well as soluble TNF receptors .
+PF reduced systemic TNFa and p75 TNF receptor levels , suggesting that it interfered with the anti-CD3 activation pathways ( Bemelmans et al. , 1994 ) .
+Furthermore , in two rodent autoimmune models , PF conferred significant protection against disease progression .
+Immunization with myelin basic protein induces experimental autoimmune encephalomyelitis in rats , which is characterized by loss of weight and paralysis of hind legs .
+These disease symptoms were almost completely abolished by PF administration ( Rott et al. , 1993 ) .
+Similarly , mercuric chloride induced arthritis in rats , which is a model of a Th2-type T cell disease , was also significantly decreased by PF ( Kiley et al. , 1995 ) .
+These observations not only suggest that PF may be an excellent therapeutic agent to control aberrant T cell responses , but also indicate that PF may have significant immunomodulatory effects when administered for other reasons .
+Because little is known about the signaling pathways affected by PF , we were prompted to initiate a systematic analysis of the molecular consequences of PF treatment .
+Our interest in PF originated from a proposed connection between NF-kB and this drug in various cell types .
+In early studies , activation of the HIV long terminal repeat ( LTR ) in 293 embryonic kidney cells was shown to be diminished by nontoxic doses of PF ( Biswas et al. , 19933 ) .
+Because induced transcriptional activity of the HIV LTR depends on two NF- « B-binding sites in the enhancer region , these observations suggested that NF-B-dependent transcription was a target of PF .
+Biswas et al .
+( 1993b ) extended their analysis to Jurkat cells , where a 50 % decrease in DNA binding was seen when the cells were stimulated with phorbol ester in the presence of PF .
+More recently , Bellas et al .
+( 1995 ) reported that smooth muscle cells from bovine aorta contained constitutive nuclear DNA-binding NF- « B , which was reflected in transcriptional activity of a transfected c-myc promoter-directed reporter gene .
+Immunity 166 Treatment of these cells with PF decreased c-myc promoter activity approximately 2-fold .
+Although NF-kB levels were not directly assessed , these results were consistent with the interpretation that decreased c-myc promoter activity may be due to reduction of NF- « B by PF .
+Finally , PF was shown to block the binding of human cancer cells to vascular endothelial cells ( Tozawa et al. , 1995 ) .
+This interaction is mediated by several endothelial cell adhesion molecules such as ICAM-1 , VCAM-1 , and E-selectin whose expression is believed to be regulated by NF-kB proteins ( Ledebur and Parks , 1995 ; Montgomery et al. , 1991 ; Neish et al. , 1992 ; Schindler and Baichwal , 1994 ) .
+In this report we examined the effects of PF on lymphocyte activation .
+In T cells we found that c-Rel induction , which requires the dual signal of phorbol ester and ionomycin or anti-CD3 treatment , was suppressed by PF .
+This effect was not a common feature of all Rel family members because induction of NF- « B ( p50/p65 heterodimer ) was variably affected , and Rel B was not affected at all by this drug .
+In its effects on NF-kB family proteins , we found PF treatment to be indistinguishable from our earlier analysis of the immunosuppressive drug FK506 ( Venkataraman et al. , 1995 ) .
+However , in contrast with cyclosporin A or FK506 , PF treatment did not suppress NF-AT induction or NF-AT-dependent transcription activation in activated T cells .
+Because c-Rel induction , like NF-AT , requires a calcineurin-dependent step , these observations suggest that PF affects c-Rel induction downstream of calcineurin .
+Suppression of some , but not all , inducible transcription factors was reflected in inhibition of interleukin-2 ( IL-2 ) gene expression , but not interleukin-2 receptor « chain ( IL-2Ra ) gene induction .
+Interestingly , c-Rel induction in B cells activated by phorbol ester and ionomycin was not blocked by PF , suggesting that PF may differentially affect B and T cell responses .
+Anti-CD3+PF Anti-CD3+FK506 Untreated Anti-CD3 Anti-CD3+FK506 Untreated Anti-CD3 Anti-CD3+PF < - NF-AT < - NF-xB t 1 2 3 4 1 2 3 4 Untreated Anti-CD3 Anti-CD3+FK506 Anti-CD3+PF < -AP- 1020 3 4 < - NF-ATp Results PF Inhibits NF- « B Induction in D5h3 ( T ) Cells To investigate the effects of PF on lymphocytes , we activated D5h3 T cells in the presence or absence of the drug and assayed the induction of transcription factors by electrophoretic mobility shift assays ( EMSA ) and immunoblotting .
+Activation by anti-CD3 cross-linking or by treatment with phorbol ester and ionomycin ( data not shown ) strongly induced NF-kB DNA binding activity ( Figure 1A , lane 2 ) .
+We have previously shown by antibody supershifts that this induced complex contains both p65 ( Rel A ) and c-Rel proteins ( Venkataraman et al. , 1996 ) .
+However , it is difficult to estimate accurately the proportion of the available nuclear DNA binding activity that is either the p50/p65 or p50/c-Rel heterodim-ers , because these proteins have different affinities for the probe DNA and the antisera recognize the DNA-bound proteins with different efficiencies .
+In the presence of either PF ( Figure 1A , lane 3 ) or the immunosuppressive drug FK506 ( lane 4 ) , induction of proteins binding to this kB DNA probe was significantly reduced .
+In the experiments described above , PF and FK506 affected the induction of NF-kB proteins similarly .
+To extend these observations , we examined the effect of PF on two other well-characterized activated T cell factors .
+Unlike NF-kB , induction of NF-AT by anti-CD3 ( Figure 1B , lane 2 ) was not affected by PF ( lane 3 ) .
+As expected , NF-AT induction was abolished by FK506 ( Figure 1B , lane 4 ) .
+Finally , neither PF nor FK506 had any effect on the induction of AP-1 in these cells ( Figure 1C ) .
+In these assays , treatment of cells with FK506 or PF alone ( in the absence of cell stimulation ) had no effect on the constitutive levels of NF-kB or NF-AT protein ( data not shown ) .
+These observations indicate that PF and FK506 differentially affect inducible nuclear factors in activated D5h3 cells ; FK506 blocks c-Rel and NF-AT induction , Figure 1 .
+Comparison of the Effects of PF and FK506 on Activation of Inducible Transcription Factors in D5h3 T Cells { A ) Analysis of NF- « B DNA binding activity in nuclear extracts prepared from D5h3 cells treated as indicated above the lanes .
+Anti-CD3 refers to activation of cells by plate-bound anti-CD3 antibodies for 4 hr .
+Drugs were added to the cells 10 min prior to cell activation .
+EMSA analysis was carried out using a palindromic NF- « B-binding site from the major histocompatibility complex class | gene pro-moter ; this sequence is referred to as the H2K probe .
+The arrow indicates the position of the major inducible NF-kB complex , which contains both p50/p65 and p50/c-Rel heterodimers .
+The lower , unlabeled band contains p50/p50 homodimers .
+{ B ) Analysis of NF-AT DNA binding activity in D5h3 nuclear extracts .
+NF-AT probe is an oligonucleotide containing the NF-AT-binding site from the murine IL-2 gene promoter .
+The upper arrow ( labeled NF-AT ) is the major inducible complex that contains both the NF-AT , , cytoplasmic component and the AP-1 component .
+The lower arrow ( labeled NF-AT , ) contains only the preexisting NF-AT subunits without the AP-1 components .
+{ C ) Analysis of AP-1 binding activity in D5h3 nuclear extracts .
+An oligonucleotide - ( TCGACCCACATTAGCATGACTCATTIGTTTCTGC ) containing the AP-1 site from the metallothioenine gene promoter was used in EMSA with extracts derived from D5h3 cells treated in various ways .
+The major inducible complex is labeled as AP-1 to the right of the gel .
+The identity of the slower mobility complex present equally in all lanes is presently unknown .
+Regulation of Rel Proteins in Lymphocytes Untreated Anti-CD3 Anti-CD3+PF Anti-CD3+FK506 Untreated Anti-CD3 N C N C N C N C N C N C 101 e __ 51 101 83 ~- > 51 a _ -s a_ - < - c-Rel 35 - 35 Anti-CD3+PF C ~- cae -- atte -- ee < 4-Rel B Figure 2 .
+Effect of PF and FK506 on individual Rel Family Proteins Analysis of c-Rel induction in D5h3 cells treated as indicated above the lanes .
+Cell treatments are summarized in the legend of Figure 1 .
+Nuclear ( N ) and cytoplasmic ( C ) extracts ( 6 g ) were fractionated by SDS-PAGE , transferred to nitrocellulose paper , and probed using an anti-c-Rel antiserum ( A ) or an anti-Rel B antiserum ( B ) .
+Arrows indicate the positions of c-Rel and Rel B proteins .
+Anti-CD3+FK506 N C 10 20 3 4 50 60 7 8 3 4 50 60 7 8 but not induction of AP-1 , whereas PF is more specific and blocks only the induction of NF- « B , but not NF-AT .
+Induction of specific Rel family members was further monitored by immunoblotting .
+c-Rel expression was induced in both the cytoplasm and the nucleus by anti-CD3 treatment ( Figure 2A , lanes 3 and 4 ) and was abrogated by both PF and FK506 ( lanes 5-8 ) .
+In contrast , Rel B expression in the nucleus was not significantly affected by activation , either in the presence or absence of the drugs ( Figure 2B ) .
+Interestingly , activation of these cells increased total cellular Rel B expression , but most of the protein remained in the cytoplasmic fraction ( Figure 2B , lanes 4 , 6 , and 8 ) , suggesting that Rel B nuclear translocation required additional signals .
+We conclude that NF- « B and c-Rel induction in activated D5h3 cells is inhibited by PF , whereas Rel B induction is not affected .
+Thus , PF blocks the induction of a subset of Rel family members .
+Properties of NF-AT in PF-Treated D5h3 Cells To investigate further the apparent lack of effect of PF on NF-AT induction in these cells , we examined the subunit composition and transcription activation properties of NF-AT in PF-treated cells .
+In EMSA , most of the anti-CD3 induced NF-AT in the presence or absence of PF was supershifted with antisera directed against NF-AT , ( Figure 3A , compare lanes 2 and 5 with lanes 1 and 4 ) .
+Both upper and lower NF-AT complexes were significantly diminished , giving rise to two new bands whose positions are indicated by the arrows on the side of the gel ( Figure 3A ) .
+Consistent with the bulk of the activity being NF-AT , derived , the NF-AT , antisera did not yield significant supershifted complexes ( Figure 3A , compare lanes 3 and 6 with lanes 1 and 4 ) .
+Longer exposures of these gels revealed weak supershift bands that were not significantly different in the two sets of extracts ( data not shown ) .
+It is likely that the residual slower migrating complex left at the position of the NF-AT-DNA complex after anti-NF-AT , treatment represents NF-AT ; containing induced proteins .
+Comparison of this complex in lanes 2 and 5 confirmed that the levels of NF-AT ; were also not affected by PF treatment .
+The transcription activation properties of NF-AT were examined by transient transfection assays using reporter plasmids containing multimerized NF-AT-binding sites .
+Activity of the reporter in D5h3 cells was significantly induced by treatment of the cells with phorbol ester and a calcium ionophore ( Figure 3B , first two bars ) , but not after treatment with phorbol ester alone ( data not shown ) , as expected based on the known properties of NF-AT .
+Induced activity was efficiently suppressed by FK506 ; however , treatment of cells with PF resulted in somewhat higher levels of transcription from this vector ( Figure 3B , last two bars ) .
+We reproducibly observed increased reporter activity in cells treated with PF .
+Although the reason for this is not clear at present , one possibility is that other DNA-binding proteins that are suppressed by PF may compete with NF-AT for binding to the NF-AT site , thus decreasing the effective transcription activation potential of NF-AT in such assays .
+Inhibition of IL-2 Gene Induction by PF in D5h3 Cells Several genes are activated in response to T cell stimulation ( Ullman etal. , 1990 ) .
+Among these , the genes encoding IL-2 and IL-2Re play a critical role in subsequent T cell proliferation and clonal expansion .
+The promoters of both genes are regulated by a complex array of transcription factors , some of which are induced in activated cells and others of which are constitutively expressed .
+NF-AT was first identified as an inducible factor that bound to the IL-2 promoter , and it is well established that it is a key component required for IL-2 expression ( Emmel et al. , 1989 ; Flanagan et al. , 1991 ; Utz et al. , 1988 ) .
+NF- « B-binding sites have been identified in both the IL-2Ra ( Cross et al. , 1989 ; Leung and Nabel , 1988 ; Lowenthal et al. , 1989 ; Ruben et al. , 1988 ) and IL-2 pro-moters .
+Mutation of the NF- « B site in the IL-2R « promoter abolishes inducible promoter activity , indicating that inducible kB-binding proteins are required for IL-2Ra expression .
+The role of kB proteins in the regulation of IL-2 is less clear .
+Of the two kB elements identified in the IL-2 promoter , one has been implicated in the costimulatory response mediated via CD28 ( Fraser et al. , 1991 ; Verweij et al. , 1991 ) and the second in the activation of the promoter by transactivator ( tax ) of type 1 human T lymphotropic virus ( HTLV-1 ) ( Ruben et al. , 1988 ) .
+Neither site had been considered crucial for IL-2 induction by the T cell receptor ; however , a recent study found that the distal NF- « B-binding site was important for IL-2 induction by phytohemagglutinin ( PHA ) plus phorbol myristate acetate ( PMA ) in human peripheral blood lymphocytes ( Hughes and Pober , 1996 ) .
+Because of the importance of IL-2 and IL-2Ra « genes in T cell Immunity 168 Anti-CD3 - Anti-CD3+PF £ G 2 V O F & & S Antiserum & £ « ¢ £ & & € J J C & & nub j supershifts 10 203 4 5 6 0° Untreated CAT concentration ( ng/m ! )
+Pil Figure 3 .
+Characterization of Inducible NF-AT Activity in Cells Treated with PF { A ) Electrophoretic mobility supershift assays .
+Standard in vitro binding reactions were carried out using the NF-AT probe for 15 min at room temperature , followed by addition of normal rabbit serum ( NRS ) , anti-NF-AT antiserum ( NF-AT , } , and anti-NF-AT ; monoclonal antibody 7A6 ( NF-AT , ) to the reactions and further incubation for 1 hr on ice .
+Subsequent analysis by nondenaturing electrophoresis was as usual for EMSA .
+Nuclear extracts analyzed were obtained from D5h3 cells activated by plate-bound anti-CD3 antibodies for 4 hr in the absence { lanes 1-3 ) or presence of PF ( lanes 4-6 ) .
+The two major bands seen PIPE in lane 1 represent the complete NF-AT complex ( including AP-1 ; upper band ) and the , , ; complex alone ( lower band ) .
+Positions of supershifted bands induced by anti-NF-AT , antibodies are indicated to the right of the figure ; the upper supershift band presumably represents the complete NF-AT complex , and the lower supershift band presumably represents the partial NF-AT , , , complex .
+{ B ) Transcription activation properties of NF-AT .
+A CAT reporter plasmid containing multimerized NF-AT-binding sites upstream of a truncated c-fos gene promoter ( Venkataraman et al. , 1995 ) was transiently transfected into D5h3 cells .
+After 24 hr , cells were left untreated or were treated with phorbol ester plus ionomycin alone ( P+ ! )
+or in the presence of PF { labeled P+I+F ) or FK506 ( labeled P+I+FK ) .
+Cells were harvested 4 hr after treatment , and CAT enzyme levels in equal amounts of whole-cell extracts were determined by ELISA .
+Results shown are derived from two sets of transfections carried out in duplicate .
+activation , and the possible involvement of NF- « B proteins for expression , we examined the effects of PF on the induction of IL-2 and IL-2Re mRNA .
+Northern blot analysis of RNA isolated from DS5h3 cells showed that both IL-2Re and IL-2 mRNAs were induced with anti-CD3 treatment ( Figures 4A and 4B ) .
+When the cells were activated in the presence of PF , we observed a partial suppression of IL-2R « mRNA levels ( Figure 4A , lanes 2 and 3 ) .
+However , a small difference in the RNA loading , as assessed by reprobing the filters with a glyceraldehyde phosphate dehydrogenase ( GAPDH ) probe A B L L es es C C $ A A $ A A $ 9 9 $ Q9 9 2 EE Bog # g C E c C C 3 < < 3 < < wee IL-2Ra .
+< - IL-2 1 2 3 1° 203 C Untreated Anti-CD3 Anti-CD3+PF * o > As = I aa No Figure 4 .
+Analysis of Inducible Gene Expression in D5h3 Cells Total RNA isolated from cells ( 10 ug ) treated as indicated was fractionated through formaldehyde-containing agarose gels , transferred to nitrocellulose filters , and hybridized to radioactive probes derived from IL-2Ra ( A ) and IL-2 ( B ) .
+Expression of glyceraldehyde phosphate dehydrogenase ( GAPDH ) ( C ) was used as a control for RNA loading .
+( Figure 4C ) , may account for most of the difference in IL-2Ra mRNA expression .
+Thus , IL-2R « mRNA expression was not significantly affected by PF , despite the reduction of NF- « B DNA binding activity .
+A possible explanation may be that the lower levels of NF- « B are sufficient for IL-2Ra « induction or , alternatively , that a Rel protein with low DNA binding affinity ( such as a p65 homodimer ) may be the functional IL-2Ra « promoter factor .
+In contrast , IL-2 mRNA induction was completely suppressed by PF ( Figure 4B ) , despite the negligible effect of this drug on NF-AT induction and transcription activation by NF-AT .
+These observations indicate that NF-AT , and by extrapolation AP-1 proteins , are not sufficient for IL-2 expression and that other inducible factors are required to synergize with NF-AT to activate this promoter .
+Based on the observed inhibition of Rel proteins by PF , it is likely that NF- « B proteins may be the missing components necessary for IL-2 gene induction .
+PF Inhibits c-Rel and IL-2 Induction in Splenic T Cells To rule out the possibility that the observations described above were due to the transformed nature of D5h3 cells , we examined the effects of PF on the activation of primary , untransformed T cells .
+Concanavalin A ( ConA ) blasts of splenic cells were activated by anti-CD3 cross-linking in the presence or absence of PF and FK506 and assayed by EMSA , immunoblotting and Northern blots .
+NF-kB DNA binding was strongly induced by anti-CD3 stimulation ( Figure 5A , lanes 1 and 2 ) .
+The induced nucleoprotein complex contained both p65 and c-Rel ( probably in p50/p65 and p50/c-Rel heter-odimeric forms ) , as ascertained by supershift analysis with anti-p65 as well as anti-c-Rel antibody ( data not shown ) .
+In contrast with the observation in D5h3 cells , NF-kB binding was not inhibited when the cells were activated in the presence of PF ( Figure 5A , lane 3 ) ; however , inclusion of FK506 reduced NF- « B induction significantly ( Figure 5A , lane 4 ) .
+Effects of the drugs on NF-AT induction closely paralleled the pattern seen in D5h3 Regulation of Rel Proteins in Lymphocytes A B © & D a $ “ ( 0mm C € o A o 8 § $ g 9 9 § 9 € E # T Eo z 20 c C C 2 C 3 < < < S < `` I1 4 1 203 4 © 1 2 3 4 & D u. P4 e C c g - Bo B 8 8 9 9 9 E T T E has < < I N Cc N c Nn c noc 101 - @ - | - go « -_ » ~ o -- = < 4 c-Rel 51 35 cells .
+Specifically , NF-AT induction ( Figure 5B , lanes 1 and 2 ) was not blocked by PF ( lane 3 ) , but was totally abrogated by FK506 ( lane 4 ) .
+We conclude that PF does not suppress either NF-kB or NF-AT induction in primary T cells , whereas FK506 suppresses both inducible factors .
+Because most of the DNA binding NF- « B activity observed involves the p50/p65 heterodimer , we surmise that the lack of an effect of PF on NF- « B induction measured by EMSA indicates that p50/p65 heterodimer induction is unaffected by this drug .
+However , as shown below , c-Rel induction by anti-CD3 was inhibited by PF .
+We assayed specific Rel family members by immunoblotting .
+Nuclear and cytoplasmic extracts prepared from cells treated in various ways were fractionated by SDS-polyacrylamide gel electrophoresis ( SDS-PAGE ) , transferred to nitrocellulose membranes , and probed with anti-c-Rel or anti-Rel B antisera .
+Because equal amounts of nuclear and cytoplasmic extracts were used , the relative distribution of the proteins in the nucleus is overestimated 3- to 4-fold .
+In untreated T cells , c-Rel protein was mostly restricted to the cytoplasmic fraction ( Figure 5C , lanes 1 and 2 ) .
+Anti-CD3 treatment resulted in increased c-Rel expression in both the nucleus and the cytoplasm ( Figure 5C , lanes 3 and 4 ) , and the induction was blocked by both PF and FK506 ( lanes 5-8 ) .
+Rel B expression was not significantly affected by PF ( data not shown ) , as seen above in D5h3 cells .
+We conclude that induction of certain Rel proteins such as c-Rel , but not other Rel proteins such as NF- « B ( p50/p65 ) or Rel B , is blocked by PF in untransformed T cells .
+Thus , both PF and FK506 block c-Rel induction , but in addition FK506 blocks NF- « B and NF-AT induction as well .
+To examine the effects of PF on inducible T cell genes , Anti-CD3+PF Ae Figure 5 .
+Comparison of Nuclear Factor Induction in Splenic T Cells Activated in the Presence of PF or FK506 { A ) Analysis of NF-kB DNA binding activity in nuclear extracts prepared from splenic T cell ConA blasts treated as indicated above the lanes .
+EMSA assays were performed using the H2K probe and 3 g of nuclear extracts .
+The arrow indicates the position of the major inducible NF-kB nucleoprotein complex .
+The lower , unlabeled band contains p50/p50 homodimers .
+{ B ) Analysis of NF-AT induction in the same extracts .
+Positions of the AP-1-containing complete NF-AT complex and the partial , preexisting NF-AT complex are indicated by the upper and lower arrows , respectively .
+{ C ) Effect of PF and FK506 on c-Rel induction in splenic T cells .
+Nuclear ( N ) and cytoplasmic { C ) extracts ( 6 mg ) from cells activated as indicated were fractionated by SDS-PAGE and transferred to nitrocellulose membranes , which were probed with anti-c-Rel antiserum .
+Position of the c-Rel protein is shown by the arrow .
+Anti-CD3+FK506 < - NF-AT < < 4- NF-ATp we assayed IL-2 and IL-2R « e mRNA expression by Northern blotting .
+Both genes were strongly induced by anti-CD3 treatment ( Figures 6A and 6B , lanes 1 and 2 ) , and neither drug affected IL-2Ra « expression .
+Previously , it has been noted that IL-2Ra « expression decreased approximately 2-fold in peripheral human mononuclear cells activated for 3 days with PHA in the presence of PF .
+This small quantitative difference from our results could be due to the extended period of stimulation used in that study , the cell type and activation agent used , or a combination of these parameters .
+We conclude that PF does not significantly affect IL-2R « mRNA induction .
+However , IL-2 expression was inhibited by both PF and FK506 ( Figure 6A , lanes 3 and 4 ) .
+These observations are similar to those in D5h3 cells and show that the IL-2 gene is suppressed by PF , even though this drug does not affect either NF- « B or NF-AT induction .
+Based on the suppression of c-Rel induction by PF and the possible involvement of a kB element in IL-2 gene induction , we suggest that c-Rel may be a critical component of the IL-2 promoter .
+c-Rel and NF-AT , , Activate the IL-2 Promoter To test whether the c-Rel gene product could activate the IL-2 gene promoter , we carried out the following transfection experiments .
+A reporter plasmid containing the 600 bp complete IL-2 promoter fragment ( Hughes and Pober , 1996 ) was cotransfected along with expression vectors for c-Rel ( Pierce et al. , 1995 ) and NF-AT ; ( Northrop et al. , 1994 ) into 293 ( nonlymphoid ) cells , and promoter activity was measured using a luciferase assay .
+As expected , the IL-2 reporter was inactive in Immunity 170 A B w w & & in 5 wo L MC 15 5 $ I 2 ® o I 2 a a - o o o a o o o 8000 8 o 0 o © ob Ao L @ b L L Bo wou & Bo ou & g C C C g C C C o < 4 4 3 < < 4 < .
+< - IL-2 ww oan wn - < - 1L-2Rc : 102 3 4 102 3 4 C w o G wo # $ I 9 o o 2 o o o 8 9 9 Q9 Eo ® s c C C C o 4G 4 4 ae as 4s < - GAPDH 102 3 4 Figure 6 .
+Expression of Inducible Genes in Splenic T Cells Total RNA isolated from the cells ( 10 pg ) treated as indicated was fractionated through formaldehyde-containing agarose gels and transferred to nitrocellulose filters , which were hybridized to radioactive probes derived from IL-2 ( A ) and IL-2R « ( B ) .
+Equivalent RNA loading was determined by assaying GAPDH expression ( C ) .
+these cells in the absence of cotransfected transactivators ( Figure 7 ) .
+Neither the expression of c-Rel nor NF-AT alone activated the IL-2 promoter significantly under these experimental conditions ( Figure 7 , first three bars ) .
+However , coexpression of both c-Rel and NF-AT ; together resulted in synergistic transactivation of the IL-2 promoter ( Figure 7 , fourth bar ) , strengthening our hypothesis that c-Rel is a functional IL-2 promoter factor .
+While carrying out these studies , we noticed that the IL-2 promoter was also transactivated to low levels with either c-Rel or NF-AT ; when these factors were expressed individually at higher levels , and coexpression resulted in transcriptional synergy similar to the results shown in Figure 7 ( data not shown ) .
+An additional point needs to be clarified .
+Because it was recently shown that both NF-AT , and NF-AT , activated a cotransfected IL-2 promoter to equivalent levels ( Timmerman et al. , 1996 ) , we have not repeated the studies described here with NF-AT , .
+Our observations provide direct evidence for functional cooperation between NF-AT and Rel proteins , and implicate both factors in the regulation of IL-2 gene expression .
+PF Does Not Inhibit c-Rel Induction in B Cells Activated B and T cells share many common features .
+For example , both cell types require the dual signal provided by phorbol ester and ionomycin to proliferate ; both cell types induce NF-AT and c-Rel proteins only in response to this `` complete '' proliferative signal ( Venkataraman et al. , 1994 , 1995 ) ; and immunosuppressive drugs such as cyclosporin A and FK506 have similar 107 8 [ 3 2 B PS 64 ® y £ 2 ® & - 24 0 - NF-ATe c-Rel _ NF-ATc+c-Rel Figure 7 .
+Transactivation of IL-2 Promoter by c-Rel and NF-AT A luciferase reporter plasmid containing the wild-type human IL-2 gene promoter was cotransfected into 293 human embryonic kidney cells together with expression vectors for c-Rel and NF-AT , , as indicated .
+Cell extracts prepared 40 hr after transfection were assayed for luciferase expression .
+Activity of the reporter plasmid is shown normalized to that seen in the absence of cotransfected transactivators ( first bar ) .
+The results shown are derived from two sets of transfections carried out in duplicate .
+effects on both cell types .
+We therefore investigated whether PF would have the same effect on B cells as we observed in T cells .
+Bal 17 B lymphoma cells were activated with PMA and ionomycin in the presence or absence of PF and assayed for NF- « B expression by EMSA and immunoblotting .
+These cells contain constitutive nuclear NF- « B that is detectable by EMSA in uninduced cells ( Figure 8A , lane 1 ) .
+Increased NF- « B was evident after stimulation with phorbol ester and ionomycin ( Figure 8A , lane 2 ) , which was not suppressed in the presence of either PF or FK506 ( lanes 3 and 4 ) .
+A lack of sensitivity to PF is reminiscent of our observation in primary T cells ; however , insensitivity to FK506 is clearly different from the effects in T cells .
+Surprisingly , unlike T cells , PF did not affect c-Rel induction in Bal 17 B cells ( Figure 8B ) .
+Indeed , in several independent experiments we noted that the total cellular levels of c-Rel ( cytoplasmic plus nuclear ) were detectably enhanced in PF-treated cells ( for example in Figure 8B compare lanes 7 and 8 with lanes 3 and 4 ) .
+The lack of an effect of PF on c-Rel induction in B cells was further confirmed in primary splenic B cells activated with either phorbol ester plus ionomycin or anti-immunoglobulin ( data not shown ) .
+Phorbol ester and ionomycin treatment strongly induced nuclear Rel B expression ( Figure 8C , lanes 2 and 4 ) , which was unaffected by either PF or FK506 ( lanes 6 and 8 ) .
+Interestingly , whereas most of the newly expressed Rel B in activated T cells was located in the cytoplasmic fraction ( Figure 2B ) , most of the Rel B in activated B cells was found in the nuclear fraction .
+These observations suggest that nuclear translocation of Rel B may be differently regulated in B and T cells .
+We conclude that PF suppresses c-Rel induction in T cells , but not in B cells .
+This observation suggests that PF Regulation of Rel Proteins in Lymphocytes Untreated P+I+FK506 Untreated P+I+FK506 P+l C N c N C 101 83 51 4 35 1 2 3 4 10 20 3 4 Untreated P+I+FK506 P+l+PF C N C N C N C N 101 83 51 - - dk _ dum - sae 35 1020 3 40 50 60 7T 8 may be used to manipulate T cell activation without affecting B cell responses .
+Discussion In this report we describe the effects of the drug PF on lymphocyte activation .
+In T cells , three general features were noted .
+First , PF suppressed the induction of c-Rel protein in response to stimulation via the T cell receptor or its pharmacologic equivalent , phorbol ester and ionomycin .
+Its effect on the other Rel family proteins was more variable , with induction of Rel B being virtually unaffected and the induction of NF- « B ( p50/p65 ) depending on the cells examined .
+Specifically , NF- « B induction was unimpaired in PF-treated splenic T cells , but significantly reduced in D5h3 hybridoma cells .
+It is unlikely that the effect in D5h3 cells was solely due to its transformed nature , because anti-CD3-induced NF-kB was also suppressed in the Th1 clone AEZ ( W. W. , T. L. Rothstein , and R. S. , unpublished data ) .
+Second , induction of NF-AT or AP-1 was not suppressed by PF .
+We previously showed that c-Rel and NF-AT shared indistinguishable activation characteristics , both requiring the dual signal of phorbol ester plus ionomycin , both requiring new protein synthesis , and both proteins being inhibited by the immunosuppressive drug FK506 .
+Our present findings show that the activation of these two key regulatory proteins can be distinguished by PF .
+Furthermore , PF must affect the c-Rel activation pathway downstream of calcineurin , because continued NF-AT induction suggests that calcineurin activation is unaffected by this drug .
+Third , induction of IL-2 gene , but not the IL-2Re gene , was blocked by PF .
+In contrast with the observations in T cells , we found that c-Rel induction was not blocked by PF in B cells .
+Thus , the greater specificity of PF compared with FK506 is reflected both at the molecular level ( suppression of N < RelB C MCAI 5 6 7 8 Figure 8 .
+Effect of PF on the Induction of Rel Family Proteins in Bal 17 B Cells { A ) Analysis of NF-kB DNA binding .
+Nuclear extracts were prepared from Bal 17 B lymphoma cells activated with phorbol ester and N ionomycin , in the presence or absence of FK506 or PF , as indicated above the lanes .
+The H2K probe was used for EMSA ; the arrow indicates the position of the inducible NF-kB-DNA complex .
+Lane 1 shows the constitutive nuclear NF- « B activity that is characteristic of mature B cells .
+{ B and C ) Expression of c-Rel and Rel B proteins .
+Nuclear ( N ) or cytoplasmic ( C ) extracts { 6 ug ) were fractionated by SDS-PAGE , transferred to nitrocellulose membranes , and probed with anti-c-Rel or anti-Rel B antiserum .
+Positions of c-Rel and Rel B proteins are indicated by the arrows .
+P+I+PF only c-Rel , and not NF-AT , in T cells ) and at the cellular level ( c-Rel suppression occurs in T cells , but not in B cells ) .
+Although the mechanistic basis for the differential effect of PF on B and T cells is not yet understood , two alternative models could account for these observa-tions .
+First , c-Rel may be induced by different pathways in B and T cells , with only the T cell pathway being sensitive to PF .
+Alternatively , the induction pathway may be the same in both cell types , but B cells may have compensatory mechanisms to circumvent the block by PF .
+Several lines of evidence make us favor the second model .
+First , the requirements for c-Rel induction are similar in both cell types ( Venkataraman et al. , 1996 ) , suggesting a common mechanism for the induction of this gene .
+Second , with respect to NF-kB proteins , the physiology of B and T cells differ in at least three ways : B cells contain constitutively nuclear NF- « B , whereas T cells do not ; B cells rapidly translocate cytoplasmic c-Rel , whereas T cells do not ( Venkataraman et al. , 1996 ) ; and Rel B translocation to the nucleus is more efficient in B cells compared with T cells ( see Figures 2B and 7C ) .
+Regardless of the mechanism , these observations suggest that PF may be used to manipulate T cell responses selectively in vivo .
+Our studies have other interesting implications .
+We chose to analyze IL-2 and IL-2Ra « gene expression to get an idea of the consequences of transcription factor dysregulation by PF in activated T cells .
+In both transformed and untransformed T cells , we found that IL-2Ra expression was essentially unaffected , whereas IL-2 gene induction was abolished .
+The regulatory sequence that governs IL-2R « induction depends primarily on NF- « B and serum response factor-binding sites .
+We have previously shown that this inducible enhancer can be synergistically transactivated by serum response factor together with either p65 or a p50/c-Rel heterodimer ( Pierce et al. , 1995 ) .
+Because IL-2Ra Immunity 172 expression was not affected by PF whereas c-Relinduc-tion was diminished , we propose that c-Rel is not the major IL-2Ra kB site-binding protein in activated T cells .
+Continued IL-2Ra gene induction even when NF-kB levels were low ( Figure 3 ) suggested that these low levels may be sufficient for gene induction or that strong transactivators with low binding affinities ( such as p65 homo-dimers , which would be difficult to detect in these binding assays ) may be directing IL-2Ra « gene expression .
+Results with the IL-2 gene are exactly reversed : gene induction is suppressed independent of the levels of NF-kB .
+Extensive analysis of the IL-2 promoter has identified three main categories of inducible protein-binding sites : NF-AT , AP-1 , and NF-kB .
+Because neither DNA binding nor transcriptional activation by NF-AT and AP-1 was affected by PF , and the effects on NF- « B were variable , the simplest interpretation of our observations is that the IL-2 promoter is a target of c-Rel .
+Although it is possible that induced c-Rel activates other transcription factor genes that are the functional IL-2 promoter factors , the similar time course of IL-2 and c-Rel activation leads us to propose that c-Rel is the functional Rel protein that activates IL-2 transcription .
+In support of this , we found that c-Rel acted synergistically with NF-AT ; to activate the IL-2 promoter in transient transfection assays in nonlymphoid cells .
+However , it is not our intent to suggest that c-Rel and NF-AT are the only IL-2 promoter factors or that the complete activity of the promoter has been reconstituted in our experiments .
+In addition , we note that the possibility that PF affects a previously unidentified IL-2 promoter factor can not be unequivocally ruled out .
+Families of transcription factors often share similar DNA recognition sites ; consequently it has been difficult to identify gene targets of specific family members .
+Our proposal that the IL-2 gene may be regulated primarily by c-Rel and the IL-2R « gene by p65 provides an intriguing insight into the division of labor among Rel family proteins during T cell activation .
+Our results are also consistent with the activation phenotype of c-Rel-deficient animals ( Kontgen et al. , 1995 ) .
+Kontgen et al .
+showed that B and T lymphocytes from c-Rel-deficient mice did not proliferate in response to signals initiated at the respective antigen receptors .
+In T cells , the effect was primarily due to lack of IL-2 synthesis , whereas IL-2Ra induction was not affected .
+Our studies with normal mature T cells complement the analysis of c-Rel '~ animals and argue against the possibility that the lack of proliferation in c-Rel'~ animals is due to a developmental defect caused by the lack of c-Rel .
+We do not mean to imply that Rel family members never compensate for each other .
+It is possible that the endogenous IL-2Ra « promoter is also activated by c-Rel protein , as has been observed in transactivation assays .
+However , in the absence of c-Rel , another Rel protein ( most probably p65 ) is clearly sufficient for gene induction .
+That this is not the case for IL-2 suggests a more strict requirement for a specific Rel family protein for IL-2 promoter activity , presumably to coordinate interactions with other promoter factors .
+Based on its chemical structure , PF is believed to function as a phosphodiesterase inhibitor that raises intracellular cyclic AMP ( cAMP ) levels .
+Although this may be true in some situations , several observations suggest that this may not be its only mode of action .
+For example , PF can augment differentiation of a neuroblastoma cell line , but this activity was not mimicked by cAMP ( Yang et al. , 1995 ) ; PF did not cause a significant increase of intracellular cAMP in human peripheral blood mononuclear cells , whereas the combined action of PF plus prostanoids did elevate cAMP levels in the same cells ( Sinha et al. , 1995 ) ; in 702 pre-B cells , cAMP has been found to activate x light chain expression ( Shirakawa et al. , 1989 ) , whereas we found that PF inhibited LPS-mediated k expression ( W. W. , J. Durdik , S. R. , and R. S. , unpublished data ) .
+Furthermore , in peripheral human T lymphocytes , the effects of PF were not blocked by HA1004 , an inhibitor of cAMP-dependent protein kinase ( Rao et al. , 1991 ) .
+Thus , the mechanism of PF action remains unclear .
+It has been previously shown that cAMP and cAMP agonists such as prostaglandin E1 and E2 inhibit IL-2 gene induction in T cells .
+The molecular mechanism of inhibition by cAMP has been investigated in EL-4 cells and found to correlate with NF-kB ( Chen and Rothenberg , 1994 ) and , in particular , the Rel A component of NF-kB ( Neuman et al. , 1995 ) .
+However , as described above , we found that PF had variable effects on Rel A , but consistently inhibited c-Rel induction in T cells .
+Based on these observations , we consider it likely that PF action on T cells is amore complex phenomenon than simply raising intracellular cAMP .
+A possible relationship of PF to calcium mobilization ( Yang et al. , 1995 ) is particularly interesting because optimal c-Rel induction requires the dual signal of PMA plus ionomycin .
+PF may therefore inhibit c-Rel induction by attenuating a component of the calcium response .
+Experimental Procedures Cells and Cell Activation D5h3 ( T ) cells and Bal 17 ( B ) cells were grown as previously described ( Venkataraman et al. , 1996 ) .
+Concanavalin A ( ConA ) blasts of splenic T cells were prepared by activating a single cell suspension of spleen cells with 2 ug/ml ConA ( Calbiochem ) in DMEM , 10 % FCS , penicillin , and streptomycin for 3 days .
+IL-2 ( 10 U/ml ) was added to the cultures every 2 days .
+After approximately 7 days , the cells were rested in the absence of ConA or IL-2 for 16 hr prior to activation .
+For cell activation , phorbol ester ( Sigma ) and ionomycin ( Calbiochem ) were used at 50 ng/ml and 2 wM , respectively .
+CD3 cross-linking was carried out using plate-bound antibody .
+In brief , a solution of rabbit anti-hamster ( Cappel ) antibodies in PBS ( 100 pg/ml ) was placed in 6-well tissue culture dishes for 12 hr at 4°C .
+The supernatant was removed , and the plates were washed three times with cold PBS to remove unbound antibody .
+Prior to cell activation , anti-CD3 antibody was added to the cells at a concentration of 6 g/ml , followed by addition of cells at a density of 5 X 10° per milliliter in complete medium .
+After activation , cells were scraped off the plates with a rubber policeman , washed three times with PBS ( 4°C ) , and used to prepare RNA or nuclear extracts .
+For drug treatment , PF at 300 g/ml or FK506 at 2 nM was added to the cultures 10 min prior to activation .
+PF concentration was chosen based on earlier studies that used this drug at doses of 150-900 pg/ml !
+( Biswas et al. , 1993a , 1993b ; Rao et al. , 1991 ; Streiter et al. , 1988 ) .
+In our own dose-response titrations , the observed effects were significantly reduced at 150 pg/ml and unchanged at higher ( 600 g/m ! )
+drug concentrations .
+Nuclear Extracts , EMSA , and Western Blots All procedures have been previously described ( Venkataraman et al. , 1996 ) .
+Probes for EMSA were the H2K ( Mauxion et al. , 1991 ; Regulation of Rel Proteins in Lymphocytes Mauxion and Sen , 1989 ) kB sequence and the murine NF-AT sequence that we used previously ( Venkataraman et al. , 1994 ) .
+For immunoblotting , anti-c-Rel antibodies ( SC 71 ; Santa Cruz Biotech-nology ) and anti-Rel B antibodies ( SC 226 % ; Santa Cruz Biotechnol-ogy ) were used at a 1:500 dilution .
+Northern Blots Total cellular RNA was isolated using the ultraspec ( Biotecx Labora-tories , Houston , TX ) RNA isolation solution procedure , and 10 ug was fractionated through 1 % agarose gels containing formaldehyde and transferred to nitrocellulose filters .
+Prehybridization was carried out for 30 min in 50 % deionized formamide , 5x SSPE , 5 % Denhardt 's solution , 0.5 % SDS , 100 ug/ml salmon sperm DNA at 42°C .
+Probes { described below ) were radiolabeled by random priming and used at a concentration of 2 x 10° cpm per milliliter of hybridization buffer .
+Probes Probes were as follows : IL-2 , a 900 bp Pst !
+fragment was isolated from pIL-2-sense ( gift of Dr. B. Huber , Tufts University School of Medicine , Boston , MA } ; IL-2Ra , 1 kb EcoRl-Xbal fragment containing the murine IL-2Ra cDNA was isolated from pGEM-1-R8-1000Exb ( Miller et al. , 1985 ; gift of Dr. A. Rao , Dana-Farber Cancer Institute , Boston , MA } ; GAPDH , a 750 Pstl-Kpnl fragment was isolated from pBSKII* rat GAPDH clone ( gift of Dr. M. Baron , Harvard University , Cambridge , MAJ } .
+Transient Transfections D5h3 { T hybridoma } cells ( 5 X 10° ) were transfected with 10 ug of reporter plasmids using DEAE-dextran ( Nelsen et al. , 1990 ) .
+At 24 hr posttransfection , cells were treated with phorbol ester , ionomycin , and PF as indicated for an additional 4 hr .
+Cells were harvested and 50 mug of whole-cell extracts was assayed for CAT enzyme by ELISA ( Boehringer Mannheim ) .
+293 ( human embryonic kidney ) cells were transfected using calcium phosphate with a wild-type IL-2 promoter luciferase reporter plasmid ( Hughes and Pober , 1996 ) in the presence or absence of 2 ug of expression vectors for transactivators c-Rel and NF-AT ; { Northrop et al. , 1994 ; Venkataraman et al. , 1995 ) .
+When no or only one transactivator was present , the total DNA was held constant at 6 g using an expression vector containing no insert .
+Cells were lysed in lysis buffer 48 hr after transfection ( Analytic Luminescence Laboratory , Ann Arbor , MI ) , and 20 ug of extract was used for the luciferase assay .
+Luciferase activity was normalized to that seen in the absence of cotransfected transactivator plasmids .
+Acknowledgments Correspondence should be addressed to R. S. We thank Dr. Steve Burakoff for the gift of FK506 used in these studies , Dr. Anjana Rao for probes and protocols for growth of splenic ConA blasts , Dr. Gerald Crabtree for NF-AT ; antisera and vector , Dr. Henry Wortis for NF-AT , antisera , Drs .
+Tom Rothstein and Jyoti Sen for helpful discussions , and Ms. Elaine Ames for preparation of the manuscript .
+This work was supported , in part , by National Institutes of Health grant CAG66626 .
+Received August 19 , 1996 ; revised December 18 , 1996 .
+References Bellas , R.E. , Lee , J.S. , and Sonenshein , G.E .
+( 1995 ) .
+Expression of a constitutive NF-xB-like activity is essential for proliferation of culture bovine vascular smooth muscle cells .
+J. Clin .
+Invest .
+96 , 2521-2527 .
+Bemelmans , M.H. , Abramowicz , D. , Gouma , D.J. , Goldman , M. , and Buurman , W.A .
+( 1994 ) .
+in vivo T cell activation by anti-CD3 monoclonal antibody induces soluble TNF receptor release in mice : effects of pentoxifylline , methylprednisolone , anti-TNF , and anti-IFN-y antibodies .
+J. Immunol .
+153 , 499-506 .
+Biswas , D.K. , Dezube , B.J. , Ahlers , C.M. , and Pardes , A.B .
+( 19932 ) .
+Pentoxifylline inhibits HIV-1 LTR-drivengene expression by blocking NF- « B action .
+J. Acquir .
+Immune Defic .
+Syndr .
+6 , 778-786 .
+Biswas , D.K. , Ahlers , C.M. , Dezube , B.J. , and Pardes , A.B .
+( 1993b ) .
+Cooperative inhibition of NF- « B and Tat-induced superactivation of human immunodeficiency virus type 1 long terminal repeat .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90 , 11044-11048 .
+Chen , D. , and Rothenberg , EV .
+( 1994 ) .
+Interleukin 2 transcription factors as molecular targets of cAMP inhibition : delayed inhibition kinetics and combinatorial transcription roles .
+J. Exp .
+Med .
+179 , 931-942 .
+Cross , S.L. , Halden , N.F. , Lenardo , M.J. , and Leonard , W.J .
+( 1989 ) .
+Functionally distinct NF- « B binding sites in the immunoglobulin k and IL-2 receptor a chain genes .
+Science 244 , 466-469 .
+Emmel , EA. , Verweij , C.L. , Durand , D.B. , Higgins , K.M. , Lacy , E. , and Crabtree , G.R .
+( 1989 ) .
+Cyclosporin A specifically inhibits function of nuclear proteins involved in T cell activation .
+Science 246 , 1617-1620 .
+Flanagan , W.M. , Corthesy , B. , Bram , R.J. , and Crabtree , G.R .
+( 1991 ) .
+Nuclear association of a T-cell transcription factor blocked by FK506 and cyclosporin A .
+Nature 352 , 803-807 .
+Fraser , J.D. , Irving , B.A. , Crabtree , G.R. , and Weiss , A .
+( 1991 ) .
+Regulation of interleukin-2 gene enhancer activity by the T cell accessory molecule CD28 .
+Science 251 , 313-316 .
+Hughes , C.C. , and Pober , J.S .
+( 1996 ) .
+Transcriptional regulation of the interleukin-2 gene in normal human peripheral blood T cells : convergence of costimulatory signals and differences from transformed T cells .
+J. Biol .
+Chem .
+271 , 5369-5377 .
+Kiley , P.D. , Gillespie , K.M. , and Oliveira , D.B .
+( 1995 ) .
+Oxpentifylline inhibits tumor necrosis factor- « mRNA transcription and protects against arthritis in mercuric chloride-treated brown Norway rats .
+Eur .
+J. Immunol .
+25 , 2899-2906 .
+Kontgen , F. , Grumont , R.J. , Strasser , A. , Metcalf , D. , Li , R. , Tarlintou , D. , and Gerondakis , S. ( 1995 ) .
+Mice lacking the c-rel proto-oncogene exhibit defects in |ymphocyte proliferation , humoral immunity , and interleukin-2 expression .
+Genes Dev .
+9 , 1965-1977 .
+Kovach , N.L. , Lindgren , C.G. , Fefer , A. , Thompson , J.A. , Yednock , T. , and Harlan , J.M .
+( 1994 ) .
+Pentoxifylline inhibits integrin-mediated adherence of interleukin-2-activated human peripheral blood lymphocytes to human umbilical vein endothelial cells , matrix compo-nents , and culture tumor cells .
+Blood 84 , 2234-2242 .
+Ledebur , H.C. , and Parks , T.P .
+( 1995 ) .
+Transcriptional regulation of the intercellular adhesion molecule-1 gene by inflammatory cyto-kines in human endothelial cells : essential roles of a variant NF-kB site and p65 homodimers .
+J. Biol .
+Chem .
+270 , 933-943 .
+Leung , K. , and Nabel , G.J .
+( 1988 ) .
+HTLV-1 transactivator induces interleukin-2 receptor expression through an NF- « B-like factor .
+Nature 333 , 776-778 .
+Lowenthal , J.W. , Ballard , D.W. , Bonhlein , E. , and Greene , W.C. ( 1989 ) .
+Tumor necrosis factor a induces proteins that bind specifically to « B-like enhancer elements and regulate interleukin-2 receptor « -chain gene expression in primary human T lymphocytes .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 86 , 2331-2335 .
+Mauxion , F. , and Sen , R. ( 1989 ) .
+Alteration of a single nucleotide allows efficient binding of H2TF1/kBF1 to immunoglobulin x enhancer B motif .
+Mol .
+Cell .
+Biol .
+9 , 3548-3552 .
+Mauxion , F. , Jamieson , C. , Yoshida , M. , Arai , K. , and Sen , R. ( 1991 ) .
+Comparison of constitutive and inducible transcriptional enhancement mediated by « B-related sequences : modulation of activity in B cells by human T-cell leukemia virus type | fax gene .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 88 , 2141-2145 .
+Miller , J. , Malek , T.R. , Leonard , W.J. , Greene , W.C. , Shevack , E.M. , and Germain , R.N .
+( 1985 ) .
+Nucleotide sequence and expression of a mouse interleukin 2 receptor cDNA .
+J. Immunol .
+134 , 4212-4217 .
+Montgomery , K.F. , Osborn , L. , Hession , C. , Tizard , R. , Goff , D. , Vas-sallo , C. , Tarr , P.J. , Bomsztyk , K. , Lobb , R. , and Harlan , J.M .
+( 1991 ) .
+Activation of endothelial-leukocyte adhesion molecule 1 ( ELAM-1 ) gene transcription .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 88 , 6523-6527 .
+Neish , A.S. , Williams , A.J. , Palmer , H.J. , Whiteley , M.Z. , and Collins , T. ( 1992 ) .
+Functional analysis of the human vascular cell adhesion molecule 1 promoter .
+J. Exp .
+Med .
+176 , 1583-1593 .
+Nelsen , B. , Kadesch , T. , and Sen , R. ( 1990 ) .
+Complex regulation Immunity 174 of the immunoglobulin heavy-chain gene enhancer : 1B , a new determinant of enhancer function .
+Mol .
+Cell .
+Biol .
+10 , 3145-3154 .
+Neuman , M. , Grieschammer , T. , Chuvpilo , S. , Kneitz , B. , Lohoff , M. , Schimpl , A. , Franza , B.R. , and Serfling , E. ( 1995 ) .
+RelA/p65 is a molecular target for the immunosuppressive action of protein kinase A. EMBO J .
+14 , 1991-2004 .
+Northrop , J.P. , Ho , S.N. , Chen , L. , Thomas , D.J. , Timerman , LA. , Nolan , G.P. , Admon , A. , and Crabtree , G.R .
+( 1994 ) .
+NF-AT components define a family of transcription factors targeted in T-cell activation .
+Nature 369 , 497-502 .
+Pierce , J.W. , Jamieson , C.A. , Ross , J.L. , and Sen , R. ( 1995 ) .
+Activation of IL-2 receptor « -chain gene by individual members of the rel oncogene family in association with serum response factor .
+J. Immunol .
+155 , 1972-1980 .
+Rao , K.M. , Currie , M.S. , McCachren , S.S. , and Cohen , H.J .
+( 1991 ) .
+Pentoxifylline and other methyl xanthines inhibit interleukin-2 receptor expression in human lymphocytes .
+Cell .
+Immunol .
+135 , 314-325 .
+Rott , O. , Cash , E. , and Fleischer , B .
+( 1993 ) .
+Phosphodiesterase inhibitor pentoxifylline , a selective suppressor of T helper type 1- but not type 2-associated lymphokine production , prevents induction of experimental autoimmune encephalomyelitis in Lewis rats .
+Eur .
+J. Immunol .
+23 , 1745-1751 .
+Ruben , S. , Poteat , H. , Tan , T.-H. , Kawakami , K. , Roeder , R. , Hasel-tine , W. , and Rosen , C. ( 1988 ) .
+Cellular transcription factors and regulation of IL-2 receptor gene expression by HTLV-I fax gene product .
+Science 241 , 89-92 .
+Schindler , U. , and Baichwal , V.R .
+( 1994 ) .
+Three NF- « B binding sites in the human E-selectin gene required for maximal tumor necrosis factor « -induced expression .
+Mol .
+Cell .
+Biol .
+14 , 5820-5831 .
+Shirakawa , F. , Chedid , M. , Suttles , J. , Pollok , B.A. , and Mizel , S.B .
+( 1989 ) .
+Interleukin 1 and cyclic AMP induce k immunoglobulin light-chain expression via activation of an NF- « B-like DNA-binding pro-tein .
+Mol .
+Cell .
+Biol .
+9 , 959-964 .
+Sinha , B. , Semmler , J. , Eisenhut , T. , Eigler , A. , and Endres , S. ( 1995 ) .
+Enhanced tumor necrosis factor suppression and cyclic adenosine monophosphate accumulation by combination of phosphodiesterase inhibitors and prostanoids .
+Eur .
+J. Immunol .
+25 , 147-153 .
+Streiter , R.M. , Remick , D.G. , Ward , P.A. , Spengler , R.N. , Lynch , J.P. , Larrick , J. , and Kunkel , S.L .
+( 1988 ) .
+Cellular and molecular regulation of tumor necrosis factor-a production by pentoxifylline .
+Biochem .
+Biophys .
+Res .
+Commun .
+155 , 1230-1236 .
+Takahashi , G.W. , Montgomery , R.B. , Stahl , W.L. , Crittenden , C.A. , Valentine , M.A. , Thorning , D.R. , Andrews , D.V. , and Lilly , M.B .
+( 1994 ) .
+Pentoxifylline inhibits tumor necrosis factor- « -mediated cytotoxicity and cytostasis in L929 murine fibrosarcoma cells .
+Int .
+J. Immuno-pharmacol .
+16 , 723-736 .
+Timmerman , LA. , Clipstone , N.A. , Ho , S.N. , Northrop , J.P. , and Crabtree , G.R .
+( 1996 ) .
+Rapid shuttling of NF-AT in discrimination of signals and immunosuppression .
+Nature 383 , 837-840 .
+Tozawa , K. , Sakurada , S. , Kohri , K. , and Okamoto , T. ( 1995 ) .
+Effects of anti-nuclear factor kB reagents in blocking adhesion of human cancer cells to vascular endothelial cells .
+Cancer Res .
+55 , 4162-4267 .
+Ullman , K.S. , Northrop , J.P. , Verweij , C.L. , and Crabtree , G.R .
+( 1990 ) .
+Transmission of signals from the T lymphocyte antigen receptor to the genes responsible for cell proliferation and immune function : the missing link .
+Annu .
+Rev .
+Immunol .
+8 , 421-452 .
+Utz , P.J. , Durand , D.B. , Toole , J.J. , Emmel , EA. , and Crabtree , G.R .
+( 1988 ) .
+Identification of a putative regulator of early T cell activation genes .
+Science 241 , 202-205 .
+Venkataraman , L. , Francis , D. , Liu , J. , Rothstein , T.L. , and Sen , R. ( 1994 ) .
+Cyclosporin-A sensitive induction of NF-AT in murine B cells .
+Immunity 1 , 189-196 .
+Venkataraman , L. , Burakoff , S.J. , and Sen , R. ( 1995 ) .
+FK506 inhibits antigen receptor-mediated induction of c-rel in B and T lymphoid cells .
+J. Exp .
+Med .
+181 , 1091-1099 .
+Venkataraman , L. , Wang , W. , and Sen , R. ( 1996 ) .
+Differential regulation of c-Rel translocation in activated B and T cells .
+J. Immunol .
+157 , 1149-1155 .
+Verweij , C.L. , Geerts , M. , and Aarden , L.A. ( 1991 ) .
+Activation of interleukin-2 gene transcription via the T-cell surface molecule CD28 is mediated through an NF- « B-like response element .
+J. Biol .
+Chem .
+266 , 14179-14182 .
+Yang , K.D. , Chuen , H.L. , and Shaio , M.F .
+( 1995 ) .
+Pentoxifylline augments but does not antagonize TNFa-mediated neuroblastoma cell differentiation : modulation of calcium mobilization but not cAMP .
+Biochem .
+Biophys .
+Res .
+Commun .
+211 , 1006-1014 .

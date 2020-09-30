@@ -1,0 +1,1022 @@
+CD30-dependent degradation of TRAF2 : im plications for negative regulation of TRAF signaling and the control of cell survival Colin S. Duckett ' and Craig B. Thompson `` Howard Hughes Medical Institute , Gwen Knapp Center for Lupus and Immunology Research , and Department of Medicine , The University of Chicago , Chicago , Illinois 60637 USA CD30 is a cell-surface receptor that can augment lymphocyte activation and survival through its ability to induce the transcription factor NF-KB .
+CD30 , however , has also been implicated in the induction of apoptotic cell death of lymphocytes .
+Here we show that one of the effects of CD30 signal transduction is to render cells sensitive to apoptosis induced by the type 1 tumor necrosis factor receptor ( INFR1 ) .
+This sensitization is dependent on the TRAF-binding sites within the CD30 cytoplasmic domain .
+One of the proteins that binds to these sites is TRAF2 , a signal transduction molecule that is also utilized by TNFR1 to mediate the activation of several downstream kinases and transcription factors .
+During CD30 signal transduction , we found that binding of TRAF2 to the cytoplasmic domain of CD30 results in the rapid depletion of TRAF and the associated protein TRAF1 by proteolysis .
+These data suggest a model in which CD30 limits its own ability to transduce cell survival signals through signal-coupled depletion of TRAF2 .
+Depletion of intracellular TRAF and its coassociated proteins also increased the sensitivity of the cell to undergoing apoptosis during activation of death-inducing receptors such as TNFR1 .
+Consistent with this hypothesis , expression of a dominant-negative form of TRAF was found to potentiate TNFR1-mediated death .
+These studies provide a potential mechanism through which CD30 , as well as other TRAF-binding members of the TNFR superfamily , can negatively regulate cell survival .
+[ Key Words : Apoptosis ; NF-kB ; CD30 ; TRAF ; TNF ; proteases ] Received July 7 , 1997 ; revised version accepted August 27 , 1997 .
+An essential feature of the immune system is the ability to tolerate large fluctuations in cell number .
+Homeosta-sis is thought to be achieved through the integration of intracellular and extracellular signals that function to balance the degree of cell proliferation with the rate of cell death ( Oltvai and Korsmeyer 1994 ; Allison and Krummel 1995 ) .
+Lymphocyte activation and proliferation is initiated by the engagement of antigen with its clonotypic cell-surface receptor ( Weiss and Littman 1994 ) .
+Additional costimulatory signals , however , are also required .
+For example , costimulatory signals can be mediated in T cells by signaling through the CD28 receptor ( Allison and Krummel 1995 ) and in B cells through the CD40 receptor , a member of the tumor necrosis factor/nerve growth factor ( INF/NGF ) receptor superfamily ( Choi et al .
+1995 ) .
+The TNF/NGF receptor superfamily is a group of re 'Present address : Metabolism Branch , National Cancer Institute , National Institutes of Health , Bethesda , MD 20892 .
+*Corresponding author .
+E-MAIL Craig @ Knapp.uchicago.edu ; FAX ( 773 ) 702-1576. lated cell-surface receptors that include the types 1 and 2 TNF receptors ( INFR1 and TNFR2 ) , Fas , CD27 , 4-1BB , and CD30 ( Vassalli 1992 ; Armitage 1994 ; Beyaert and Fiers 1994 ; Gruss and Dower 1995 ) .
+Many of these receptors have been found to play costimulatory roles in cell proliferation , whereas others have been shown to induce apoptosis .
+Interestingly , several members of this family , such as TNFR2 ( Tartaglia et al .
+1993 ; Zheng et al .
+1995 ) , CD40 ( Foy et al .
+1996 ; Rathmell et al .
+1996 ) , and CD30 ( see below ) , have been shown to play dual roles , although the mechanism ( s ) underlying this apparent am biguity is unknown .
+To understand this phenomenon , we have examined the signaling properties of one of these receptors , CD30 .
+CD30 is a lymphoid cell-restricted receptor ( Diirkop et al .
+1992 ) that is normally expressed on activated and memory T cells ( Ellis et al .
+1993 ) .
+CD30 was originally identified on the surface of Hodgkin 's lymphoma cells ( Schwab et al .
+1982 ; Stein et al .
+1985b ; Falini et al .
+1995 ) , and high levels of CD30 expression have also been found to correlate with disease progression in anaplastic large cell lymphoma ( Nadali et al .
+1995 ) .
+Signal transduction 2810 GENES & DEVELOPMENT 11:2810-2821 © 1997 by Cold Spring Harbor Laboratory Press ISSN 0890-9369/97 $ 5.00 through CD30 has been found to augment T-cell receptor-mediated proliferation under some circumstances ( Smith et al .
+1993 ) , but in other cases to potentiate apoptosis ( Lee et al .
+1996 ) .
+Activation of CD30 has also been shown to stimulate HIV expression ( Maggi et al .
+1995 ) , probably through its ability to activate the transcription factor NF-kB ( Siebenlist et al .
+1994 ; Biswas et al .
+1995 ) .
+Targeted disruption of the murine CD30 gene , however , has implicated CD30 in thymic negative selection ( Amakawa et al .
+1996 ) .
+The signaling properties of TNFR-related receptors are being rapidly elucidated .
+Several TNF receptor family members , including Fas , TNFR1 , and DR3/Wsl/ Apo-3 , have been found to contain an ~80-residue motif designated the death domain ( Tartaglia et al .
+1993 ; Takahashi et al .
+1994 ; Chinnaiyan et al .
+1996 ; Kitson et al .
+1996 ; Marsters et al .
+1996 ; Pan et al .
+1997 ) , and signaling through these receptors has been shown to induce apoptosis in a manner that is dependent on dimerization of the death domain of the receptor with similar death domains of cytoplasmic factors such as FADD , TRADD , and RIP ( Chinnaiyan et al .
+1995 ; Hsu et al .
+1995 ; Stanger et al .
+1995 ) .
+In contrast , the cytoplasmic domains of a num ber of other TNF receptor family members , including TNFR2 and CD40 , have been shown to interact with members of the recently described TNF receptor-associated factor ( TRAF ) family of signaling molecules ( Baker and Reddy 1996 ) .
+We and others have recently identified TRAF1 , TRAF2 , TRAF3 , and TRAFS as factors that can be recruited to the cytoplasmic domain of CD30 and have shown that these molecules play central roles in signal transduction through this receptor ( Ansieau et al .
+1996 ; Gedrich et al .
+1996 ; Lee et al .
+1996 ; Aizawa et al .
+1997 ; Duckett et al .
+1997 ; Tsitsikov et al .
+1997 ) .
+Six mammalian TRAF proteins have been identified to date ( Baker and Reddy 1996 ) .
+These factors have been shown to possess distinct affinities for different members of the TNF receptor superfamily .
+The TRAF proteins have been suggested to be important in promoting cell survival because of their role in promoting NF-kB activation through receptors of the TNF receptor family ( Beg and Baltimore 1996 ; Liu et al .
+1996 ; Van Antwerp et al .
+1996 ; Wang et al .
+1996 ) .
+In addition , animals with a targeted TRAF3 disruption ( Xu et al .
+1996 ) and trans-genic mice expressing TRAF1 ( Speiser et al .
+1997 ) have both been reported to display defects in lymphocyte development and survival .
+In this report we describe a mechanism by which signaling through CD30 can both promote initial cell survival while at the same time setting in motion a signal-ing-dependent mechanism to leave the cell subsequently more susceptible to apoptosis through death domain-containing receptors .
+The ability of CD30 to promote cell survival is dependent on its ability to recruit a TRAP-dependent signal transduction complex ( Duckett et al .
+1997 ) .
+Now , we show that the recruitment of TRAF2 into this complex results in the signal-coupled depletion of TRAF2 and its coassociated signaling molecule TRAF1 .
+This depletion in TRAFZ correlates with increased cellular sensitivity to cell death in response to Degradation of TRAF2 by CD30 TNFR1 signal transduction .
+This phenomenon is not unique to CD30 signal transduction , but also occurs following TNFR2 signal transduction .
+Consistent with the central role of the TRAF2 signaling complex in modulating the apoptotic sensitivity of cells in response to TNFR1 engagement , dominant-negative TRAF2 was found to directly mimic the ability of CD30 signal transduction to sensitize cells to TNFR1-induced apoptosis .
+Results CD30 signaling potentiates TNFR ediated apoptosis Recent papers have shown an important role for NF-kB activation in the regulation of cell survival ( Beg and Bal-tim ore 1996 ; Liu et al .
+1996 ; Van Antwerp et al .
+1996 ; Wang et al .
+1996 ) , and we have shown that CD30 is a potent activator of NF-kB ( Duckett et al .
+1997 ) .
+The human em bryonic kidney cell line 293 previously has been shown to express TNFR1 but not TNFR2 ( Liu et al .
+1996 ; C.S .
+Duckett and C.B .
+Thompson , unpubl . )
+293 cells were transfected with expression vectors encoding green fluorescent protein ( GFP ) as a marker of transfection , together with a plasmid encoding a chimeric protein comprised of the cytoplasmic domain of CD30 fused to the extracellular and transmembrane domains of CD28 .
+This chimeric protein is expressed on the cell surface as a constitutive homodimer , and this dimerization is sufficient to initiate CD30 signal transduction in a ligand-independent manner ( Duckett et al .
+1997 ) .
+Expression of this protein on the cell surface results in potent NF-kB activation .
+In contrast , a CD28 deletion mutant lacking a cytoplasmic domain ( CD28ATail ) has no effect on NF-kB activation ( Duckett et al .
+1997 ) .
+The present experiments were initiated to determine whether CD30 signal transduction could inhibit the ability of death domain-containing proteins such as TNFR1 from inducing apoptosis .
+In our initial experiments , cells were stimulated with recombinant TNF- « 12 hr after transfection and subsequently evaluated for viability by nuclear staining with 4',6'-diamidino-2-phenylindole ( DAPI ) and fluorescence microscopy .
+Contrary to our expectations , TNF- « had no effect on the viability of parental 293 cells or the cells transfected with the tailless CD28 construct .
+In contrast , 70 % of the CD30 transfectants died in response to 18 hr of TNF-a treatment ( Fig .
+1A ) .
+The nuclear condensation and morphological changes as observed by DAPI staining and analysis by fluorescence microscopy were indicative of apoptosis ( data not shown ) .
+This cell death was dependent on TNF- « , as the CD30 chimera in the absence of TNF-a had no significant effect on viability .
+Flow cytometric analysis of cells transfected with the CD28-CD30 and the CD28AT ail vectors surface expression revealed very similar levels of CD28 surface expression ( data not shown ) .
+Previous work has shown that CD30 signal transduction is dependent on a TRAP-binding region located within the carboxy-terminal 36 amino acids of the cytoplasmic domain ( Duckett et al .
+1997 ) .
+To determine the role of the TRAF-binding domain of CD30 in the poten- GENES & DEVELOPMENT 2811 Duckett and Thompson Figure 1 .
+Potentiation of TNFR1-mediated cell death by constitutively activated chi meric CD30 .
+( 4 ) 293 cells were transfected with a vector ( 100 ng ) encoding GFP together A eo with expression vectors ( 1 ug ) encoding a fu- sion between CD28 and CD30 , a mutated CD28-CD30 vector lacking the carboxy-ter- minal TRAF-binding sites ( ATraf ) , or a con- % 60 60 % o Apoptotic | 4 , Cells 20 trol CD28 mutant lacking a cytoplasmic tail Apggltlgtlc 40 ( AT ail ) , as indicated .
+Twelve hours following transfection , cells were stimulated with hu- 20 0 5 = in in a man TNF- « ( 200 U/m1 ) or a medium control 5 a < zf 2 .
+€ for a further 24 hr , and viability of GFP-ex- é o a g $ pressing cells was determined by fluores- TNF-ex : rary g “ a 9 cence microscopy as described in Materials coso - CDso 9 o 8 and Methods .
+( B ) CD3O-enhanced death is ATraf 8 blocked by apoptosis inhibitors .
+293 cells were transfected either with the CD28 ATail control vector ( Control ) or with the CD28-CD30 chimera ( CD30 ) , together with the indicated expression vectors .
+Transfectants were stimulated with recom binant TNF- « and viability determined as described above and in Materials and Methods .
+tiation of TNF- « -induced death , we examined the ability of a mutant of CD28-CD30 chimera that lacks the TRAFP-binding motifs ( ATraf ) to potentiate TNF-a « -m ediated death .
+In contrast to the vector containing the full-length CD30 tail , this mutant was unable to induce the sensitivity to TNF- « ( Fig .
+1A ) .
+Thus , contrary to our expectations , these data suggest that CD30 can potentiate TNF-mediated apoptosis .
+This potentiation is dependent on the TRAF-binding sites in CD30 .
+To characterize the mechanism of cell death induced by the combination of CD30 signaling and expression vectors were cotransfected encoding viral proteins that are known to block apoptotic cell death induced by mem bers of the caspase family of cysteine pro-teases .
+Expression of either the baculoviral apoptotic inhibitor , P35 ( Clem et al .
+1991 ; Bump et al .
+1995 ) , or the cowpox virus inhibitor , Crm A ( Gagliardini et al .
+1994 ; Komiyama et al .
+1994 ) , completely abrogated the cell death induced by TNF-a plus CD30 signaling ( Fig .
+1B ) , indicating the involvement of caspases and confirming that the cell death was caused by apoptosis .
+TRA F2 is degraded upon recruitment to CD30 The experiments described above suggested a role for the TRAF proteins in the potentiation of TNFR1-mediated death .
+Because TRAF2 has also been found to be involved in TNFR1-mediated signaling ( Hsu et al .
+1996 ) , we sought to characterize cellular TRAFZ .
+Endogenous TRAF2 protein in 293 cells was not detectable by immunoblot analysis with commercially available TRAF2-spe-cific antibodies ( Fig .
+2A ; data not shown ) , indicating that TRAF2 is normally expressed at levels below the threshold of detection in this cell type .
+Therefore , a mammalian expression vector encoding human TRAF2 was transfected into 293 cells together with either the chimeric CD28 vector containing the CD30 cytoplasmic tail , or the CD28 vector lacking a cytoplasmic tail .
+Sur-prisingly , whereas TRAF2 protein was easily detected in 2812 GENES & DEVELOPMENT lysates from cells cotransfected with the TRAF2 plus control CD28 tailless vectors , TRAF2 was virtually undetectable when cotransfected with the CD28-CD30 chimera ( Fig .
+2A ) .
+This effect was not observed when TRAF2 was coexpressed with a CD30 vector lacking the TRAF-binding domains .
+High levels of TRAF2 protein were also detected when the TRAF2 vector was transfected alone or with a variety of additional control vectors ( data not shown ) .
+To investigate why we failed to detect TRAF2 protein in cells transfected with TRAFZ in the presence of the A A A CD30 CD30 : Tail - Tail CD30 ATraf TRAFR - 0 4 % 04 % 0+ « am ___ IP le B .
+.
+.
+-- TRAF2 « -- 28S « -- 188 Figure 2 .
+TRAF2 is destabilized by CD30 .
+293 cells were cotransfected with TRAF2 and CD28 chimera expression vectors as indicated .
+( 4 ) Cells were lysed 18 hr following transfection , standardized for protein levels , and TRAF2 levels were detected by immunoblot analysis as described in Materials and Methods .
+( B ) Total RN A was prepared from an equivalent aliquot of cells used for A , and TRAF2 mRNA was evaluated by Northern analysis with a TRAF2 cDNA probe .
+( Bottom ) An ethidium bromide-stained agarose gel to standardize the RNA samples ; ( fop ) an autoradiograph of the TRAF2-probed blot .
+chimeric CD28-CD30 receptor , the levels of TRAF2 RN A were examined by Northern analysis .
+The amounts of TRAF2 RNA were similar in cells cotransfected with the ail , CD28-CD30 , and CD28-CD30ATraf vectors ( Fig .
+2B ) .
+These data suggest that TRAF2 is being transcribed at equivalent rates in the presence or absence of the CD28-CD30 receptor .
+The failure of TRAF2 protein to accumulate appears to be mediated by post-tran-scriptional mechanisms .
+CD30-induced destabilization of TRA F2 can be blocked by protease inhibitors To further characterize the process of CD3O0-induced TRAF2 destabilization , a panel of protease inhibitors were tested for their ability to inhibit CD3O0-induced TRAF2 degradation ( Fig .
+3 ) .
+Lactacystin , a specific inhibitor of the ubiquitin-proteasome pathway ( Krap-pm ann et al .
+1996 ) , was unable to rescue the degradation of TRAF2 ( Fig .
+3 ) , although a number of less specific compounds such as E64 and TLCK were able to inhibit TRAF2 degradation .
+In addition , several inhibitors of the calpain family of cysteine proteases were found to efficiently block CD3O0-induced TRAF2 degradation .
+The calpains are a family of cytoplasmic , calcium -activated cysteine proteases that have been implicated in the induction of apoptosis ( Squier and Cohen 1997 ) .
+These data suggest that the binding of TRAF2 to the cytoplasmic tail of CD30 activates a protease or proteases that result in the degradation of TRAFZ .
+Heterom eric com plexes containing TRA F2 are also degraded upon recruitment to CD30 It has previously been shown that TRAF1 , TRAF2 , and TRAF3 can be directly recruited to the cytoplasmic domain of CD30 ( Ansieau et al .
+1996 ; Gedrich et al .
+1996 ; Lee et al .
+1996 ) .
+More recently , three additional mem bers of the TRAF family have also been identified , TRAF4 , TRAF5 , and TRAF6 ( Tomasetto et al .
+1995 ; Cao et al .
+Clee 2 E E & > go g a o Bot t 5 x op 2 =- 2 % U a 5 § § 3 & 2 - -o4 $ 4 $ 4 4 4 4 + TRAFR : - 4 4 $ 4 $ 4 4 4 4+ 4 I 1 ¢ « -- TRAF2 Figure 3 .
+TRAF2 destabilization can be blocked by protease inhibitors .
+293 cells were transfected with TRAF2 and chimeric CD28-CD30 expression vectors as indicated .
+Parallel wells were stimulated 36 hr following transfection with the indicated protease inhibitors each at a final concentration of 50 uM or with a DMSO solvent control at a final concentration of 0.001 % , and lysates were prepared 48 hr after transfection .
+Standardized extracts were examined for TRAF2 by immunoblot analysis as described in Materials and Methods .
+Degradation of TRAF2 by CD30 Table 1 .
+Comparison of the ability of CD30 to bind the six known TRAF proteins with its degradative properties Binding to CD30 Degradation by CD30 TRAFI +++ TRAF2 +++ +++ TRAF3 +++ + TRAF4 - TRAFS +++ + TRAFG - The Cd30 binding column has been amalgamated from current published data ( Ansieau et al .
+1996 ; Gedrich et al .
+1996 ; Lee et al .
+1996 ) and unpublished data .
+The degradation by CD30 column summarizes the data obtained by coexpression of CD28-CD30 chimeras with expression vectors encoding wild-type TRAF1 , TRAF2 , or TRAF3 , with Myc epitope-tagged TRAF4 and TRAFS5 , or with FLAG epitope-tagged TRAF6 , followed by immunoblot analysis , as indicated .
+( +++ ) The respective TRAF protein was reduced > 80 % by coexpression with the CD30 chimera , as determined by immunoblot analysis , ( + ) a reduction of 50 % or less ; ( - ) no change .
+1996 ; Ishida et al .
+1996a , b ; Nakano et al .
+1996 ; Aizawa et al .
+1997 ) .
+Therefore , the six known TRAF proteins were assessed for their abilities to be degraded upon CD30 signaling ( Table 1 ) .
+Interestingly , TRAF2 , TRAF3 , and TRAFS were degraded , presumably upon binding to CD30 , whereas the levels of TRAF1 , TRAFA4 , and TRAF6 were not evidently affected by coexpression of CD30 ( Table 1 ) .
+TRAFI is able to bind to the CD30 tail , but was not degraded , suggesting that additional determinants may be present in TRAFs 2 , 3 , and 5 which confer bind-ing-specific degradation .
+As shown in Table 1 , TRAFl was not degraded by CD30 signal transduction .
+Because TRAFl and TRAF can form heterodimers ( Rothe et al .
+1994 , 1995b ) , we tested the possibility that TRAF might function to stabilize TRAF2 .
+Expression vectors encoding TRAFl and TRAF2 were cotransfected into 293 cells together with either the CD28-CD30 vector or the control vector lacking a cytoplasmic tail .
+Cotransfection of TRAF1l had no stabilizing effect on TRAF2 ( Fig .
+4A ) .
+In fact , whereas expression of TRAFI alone was not affected by the presence of CD30 , coexpression of TRAFl with TRAFZ resulted in the almost complete disappearance of TRAF1 , suggesting that recruitment by TRAF2 of TRAFI into a heteromeric complex with CD30 resulted in degradation of both TRAF proteins .
+The RING finger of TRA F2 is required for CD30-m ediated degradation Both TRAF1 and TRAF2 possess similar characteristics of recruitment to the two TRAP-binding sites in CD30 ( Gedrich et al .
+1996 ) , but as shown in Figure 4A , TRAF was not degraded directly by CD30 signal transduction .
+The principal structural difference between TRAF1 and TRAF2 is the presence of a RING finger domain in TRAF2 .
+Therefore , the properties of a mutant version of GENES & DEVELOPMENT 2813 Duckett and Thompson A Atail coo TRAFI : 40-00 % # -+ TRAFR : - 40 # - # O+ ( tlk ( wns O « - TRAF1 tee .
+- Waite *- TRAF2 B CD8 | 4 % 4+ - Loge 2 - 0 - 4 - # - 04 % - 0 4 & 0 40 - 0-0 # $ % TRAFZ { BT-§0k - 0-0-0 40 4 40 % CH « » M < -- < -- TRAFZ ( 1-501 ) cue emm ( k < > 4 Figure 4 .
+Determinants of TRAF degradation .
+( 4 ) 293 cells were transfected with expression vectors encoding the indicated proteins .
+Lysates were prepared 48 hr following transfection and standardized aliquots were subjected to immunoblot analysis with a polyclonal antibody to TRAFI ( fop ) or TRAF2 ( bottom ) .
+( B ) 293 cells were transfected with the indicated plasmids , including either wild-type TRAF2 ( 1-501 ) or a dominant-negative mutant ( 87-501 ) lacking a functional RING finger , as indicated .
+Cells were prepared 24 hr follow ing transfection and analyzed as described in A with a TRAF2 polyclonal antibody .
+TRAF2 that lacks the RING finger domain were examined .
+Deletion of the amino-terminal 86 residues of TRAF2 has previously been reported to disrupt the RING finger domain of TRAF2 without diminishing its ability to bind to CD30 ( Gedrich et al .
+1996 ) .
+This mutant , TRAF2 ( 87-501 ) , functions in a dominant-negative manner to inhibit CD30-mediated signaling ( Duckett et al .
+1997 ) .
+As shown in Figure 4B , TRAF2 ( 87-501 ) was not degraded by coexpression with CD30 , whereas in control transfections , the level of full-length TRAF2 was dramatically reduced .
+These findings suggest that the amino terminus of TRAF2 , which contains a RING finger , is required for degradation following recruitment to the cytoplasmic tail of CD30 .
+Previous studies have shown that TRAF2 is able to form homodimers , as well as heterodimers with TRAF1I ( Rothe et al .
+1995b ) .
+Because TRAF1 was degraded when coexpressed with TRAF2 and CD30 , we reasoned that the dominant-negative TRAF2 ( 87-501 ) , which is not degraded when coexpressed with CD30 ( Fig .
+4B ) , might become subject to degradation if coexpressed with full-length TRAF2 .
+As shown in Figure 4B , levels of cotransfected full-length TRAF2 and truncated TRAF2 ( 87-501 ) were dramatically reduced on coexpression with the CD28-CD30 chimera .
+This suggests that a complex containing both the full-length and the truncated ( 87-501 ) forms of TRAF2 is degraded upon recruitment to CD30 .
+2814 GENES & DEVELOPMENT Both TRA F-binding sites in CD30 contribute to TRAF degradation Previously we have shown that TRAFZ2 can bind independently to either of two 5-7 residue elements in CD30 ( domains 2A and 2B ) , and that each of these elements are independently capable of recruiting TRAF proteins and inducing NF- « B activation ( Gedrich et al .
+1996 ; Duckett et al .
+1997 ) .
+Therefore , additional mutants of the CD30 cytoplasmic tail were tested to determine which of the two TRAF-binding elements was required to produce destabilization of TRAFZ2 .
+The TRAF2 expression vector was cotransfected into 293 cells together with chimeric CD30 variants lacking the TRAP-binding domain 2A only , 2B only , or both 2A and 2B .
+Individual disruption of either TRAF-binding domain 2A or 2B resulted in mutants that induced intermediate levels of TRAF2 degradation ( Fig .
+5 ) .
+In control transfections , wild-type CD30 resulted in the almost complete loss of TRAF2 .
+These data suggest that whereas either TRAP-binding site is capable of partially destabilizing TRAF2 , both sites are required for maximal destabilization .
+TNFR2 can also enhance TNFR1 sensitivity and induce TRAF degradation To determine whether the ability to heighten sensitivity to TNFR1 signals and to induce the degradation of TRAF2 is a unique property of CD30 or is shared by other TNF receptor family members , we examined the properties of TNFR2Z .
+A chimeric vector was constructed encoding the cytoplasmic domain of TNFR2 fused to the extracellular and transmembrane domains of CD28 .
+Transfection of this vector into 293 cells resulted in comparable levels of both surface CD28 expression and NF-KB induction to those observed after transfection of the CD28-CD30 chimera or the control CD28 vector ( data not shown ) .
+Similar to the results found with the CD28-CD30 protein , cells transfected with the CD28-TNFR2 chimera were also sensitized to TNFR1 < 0 ® oy 0 os 0 E E E o 9 9 _- To G G 8 0 « < 0 40 « 4 o - 9 o o =- = o ® ® 2 £ A a a a a 4 g- U QO o TRAFR |- 004 # 0 # 0 # % omm » fl aun .
+f- TRAFZ Figure 5 .
+Both TRAF-binding sites in CD30 contribute to TRAF degradation .
+293 cells were cotransfected with TRAF2 and CD28 chimera expression vectors encoding wild-type CD30 , tailless CD28 ( ATail ) , or mutated proteins lacking both TRAF-binding motifs ( A dom 2 ) or each of the individual TRAF-binding domains ( A dom 2A or A dom 2B ) , as indicated .
+Cells were lysed 18 hr following transfection and standardized for protein levels , and TRAF2 levels were detected by immunoblot analysis as described in Materials and Methods .
+80 A 60 % Apoptotic R Cells _ 40 @ @ 20 aA 4 TRAF : - % 0 TNF- « : - + - o-p o - f ne ATail CD30 __ TNFR2 mediated death .
+The degree of sensitization was almost identical to that found for the CD28-CD30 chim era ( Fig .
+6A ) .
+In addition , cotransfection of CD28-TNFR2 with TRAF2 also induced the degradation of TRAF ( Fig .
+6B ) , revealing that the enhancement of TNFR1 sensitivity , as well as the TRAF2 degradation following recruitment to the receptor , is not restricted to CD30 , but can occur with other members of the TNF receptor superfamily .
+Blockade of TRA F2 signaling can potentiate TNFR ediated death The experiments described above show that the recruitment of TRAF2 to CD30 results in its destabilization by a mechanism that involves proteolysis .
+Activation of TNFR1 has also been shown to effect the recruitment of TRAF2 to the TNFR1 cytoplasmic tail , by virtue of a TNFR1-TRADD-TRAF2 interaction ( Hsu et al .
+1996 ) , and this recruitment has been implicated in the activation of downstream signals , notably NF-kB ( Rothe et al .
+1995b ) and JNK ( Natoli et al .
+1997 ) activation .
+One consequence of TRAF2 degradation by CD30 might be to inhibit TRAF-mediated signaling by TNFR1 .
+To test this possibility , 293 cells were transfected with the dominant-negative TRAF2 ( 87-501 ) vector , treated with either recombinant TNF- « or a media control for 24 hr , and assayed for viability .
+As shown in Figure 7 , similar to the effect of the constitutively active CD30 chimera , expression of dom inant-negative TRAF2 greatly sensitized the cells TNF-a « -mediated death , suggesting that blocking the ability of TRAF proteins to participate in TNFR1-dependent signal transduction can enhance the sensitivity to TNF-a @ .
+CD30 signaling abrogates the induction of NF-kB by TNF-a Previous studies have found that the induction of NF-kB can confer protection from TNF-a « -mediated death ( Beg # CD30 = TNFR2 Degradation of TRAF2 by CD30 Figure 6 .
+TNFR2 can enhance TNFR1 sensitivity and induces TRAF2 degradation .
+( 4 ) 293 cells were transfected with the indicated CD28 chimeric vectors ( 1 ug ) , along with a GEFP vector ( 100 ng ) , exactly as described in the legend to Fig .
+1 .
+Transfectants were stimulated with TNF- « ( 200 U/ml ) and cell viability was determined by DAPI staining and fluorescence microscopy as described in Materials and Methods .
+( B ) 293 cells were transfected with the TRAF2 expression vector along with the indicated chimeric vectors .
+Twelve hours following transfection , cells were either mock treated or treated with human TNF- « ( 200 U/ml ) as indicated .
+Cells were harvested 24 hr following transfection , standardized by protein content and TRAF2 was detected by immunoblot analysis as described in Materials and Methods .
+ATall + TNF-q a a and Baltimore 1996 ; Liu et al .
+1996 ; Van Antwerp et al .
+1996 ; Wang et al .
+1996 ) .
+Because TRAF2 has been reported to play an integral role in the activation of NF-kB by TNFR 1 ( Hsu et al .
+1996 ) , the ability of cells to respond to TNF-a following prolonged CD30 signal transduction was examined .
+Cells were transfected with the chimeric CD28-CD30 plasmid or with the tailless control plas-mid .
+Forty-eight hours later , cells were stimulated with TNF- « and then evaluated for NF- « B levels by luciferase reporter gene assays .
+Cells transfected with the CD28-CD30 plasmid were unable to induce NF-kB in response to TNF- « treatment ( Fig .
+8 ) , whereas cells transfected with the control plasmid induced NF- « B-dependent reporter gene activity in response to TNF- « .
+Discussion A subfamily of TNF receptor superfamily members has recently been defined that shares the common ability to 80 60 % Apoptotic Cells 40 20 0 TNF-a : -o +00 - o $ O- + ATail _ TRAF2 CD30 ( 87-501 ) Figure 7 .
+Dominant-negative TRAF2 can potentiate TNFR1-mediated death .
+293 cells were transfected with 100 ng of GFP plasmid , together with 1 ug of the indicated plasmids , and either mock treated or treated with human TNF- « ( 200 U/m1 ) , and cell viability was determ ined as described in the legend to Fig .
+1 and in Materials and Methods .
+GENES & DEVELOPMENT 2815 Duckett and Thompson 200 150 Inchoase 100 50 o Control CD30 Figure 8 .
+CD30 signaling abrogates NF- « B induction by TNF- « .
+293 cells were transfected with 50 ng each of « B-luciferase reporter plasmid and B-galactosidase plasmid , along with 100 ng of either CD28-CD30 vector or tailless CD28 as indicated .
+Cells were stimulated with TNF- « 48 hr following transfection , and incubated further for 10 hr prior to harvest .
+The induction of NF- « B is presented as the percentage increase in NF- « B of TNF- « -treated samples over the activity of the reporter plasmid in mock-treated cells .
+Luciferase assays were performed as described in Materials and Methods .
+initiate signal transduction through TRAF proteins , leading to the induction of NF-KB .
+In most cases , this promotes cell survival .
+These same receptors , however , have been implicated in cell death , under some circum-stances .
+Unlike TNFR1 , Fas and DR3/Wsl/ Apo-3 ( Tartaglia et al .
+1993 ; Takahashi et al .
+1994 ; Chinnaiyan et al .
+1996 ; Kitson et al .
+1996 ; Marsters et al .
+1996 ; Pan et al .
+1997 ) , which contain death domains capable of inducing apoptosis through the recruitment and activation of caspases ( Nagata 1996 ) , it is not known how these receptors can induce apoptosis .
+As an example , CD30 appears to play dual roles in the cell .
+CD30 has been reported to promote the development and differentiation of T helper type 2 ( Th2 ) cells ( Del Prete et al .
+1995 ) , and , therefore , has been associated with cellular survival and proliferation .
+In contrast , other findings have implicated CD30 in the activation of cell death ( Lee et al .
+1996 ) .
+Disruption of murine CD30 by homologous recombination ( Amakawa et al .
+1996 ) has implicated a role for this receptor in thymic negative selection .
+Similar to CD30 , TNFR2 has been shown to exert both pro-survival and pro-death effects on the cell .
+TNFR2 can confer protection from cell death , and cellular proliferation ( Rothe et al .
+1994 ) .
+In contrast , TNFR2 has been reported to play a role in apoptosis of mature T cells ( Zheng et al .
+1995 ) .
+Several models have been proposed to account for the opposing properties of TNFR2 .
+The rapid association/dissociation kinetics of TNFR2 for its 2816 GENES & DEVELOPMENT ligand have led to the ligand passing hypothesis ( Tartaglia et al .
+1993 ) , in which TNFR2 is postulated to recruit TNF- « and provide a source of ligand for TNFR1 , thus suggesting a passive role for TNFR2 in signaling .
+Grell and coworkers have suggested that TNFR2 specifically binds mem brane-associated TNF- « and thereby induces cell death ( Grell et al .
+1995 ) , although this does not necessarily exclude the ligand-passing model .
+More recently , it has been shown that the cytoplasmic domain of TNFR2 is required for the potentiation of TNFR1-mediated death ( Weiss et al .
+1997 ) , suggesting that cooperative signaling through these receptors , perhaps by li-gand-induced oligomerization , may play a role in this cooperative response .
+The experiments described here m ay provide an explanation for the dual effects of CD30 and TNFR2 .
+Stimulation of 293 cells with TNF- « alone did not induce a significant degree of cell death ( Fig .
+1 ) .
+Although 293 cells contain the product of the antiapoptotic adenovirus gene E1B 19K , which may function to raise the cellular apoptotic threshold , constitutive signal transduction mediated either by a CD28-CD30 or a CD28-TNFR2 chimera potentiated TNFR1-induced cell death ( Figs .
+1A and 6A ) .
+The TRAP-binding domain in CD30 was required for potentiation ( Fig .
+1A ) , and other reports have shown that the TRAP-binding element in TNFR2 is required for sensitization by this receptor ( Weiss et al .
+1997 ) .
+This suggests that CD30 signaling functions by the same mechanism as TNFR2 to potentiate TNFR1-mediated death .
+Because CD30 and TNFR2 are norm ally activated by independent ligands , this raises the possibility that other mem bers of the TNF receptor superfam ily that utilize the TRAF signaling pathway may also function to potentiate TNFR1-mediated death by a similar mechanism..
+It is formally possible that the apoptotic properties of CD30 and TNFR2 are mediated by recruitment and activation of caspases , for example , through the formation of a TRAF2-TRADD-FADD-caspase complex .
+Because CD30 was unable to induce cell death in the absence of a TNFR1 signal , however , it is more likely that CD30 functions as a cofactor to potentiate the cytotoxic effects of TNFR1 .
+As shown in Figure 2A , we found that TRAF2 protein was alm ost completely degraded by activation of CD30-mediated , TRAF-dependent signals .
+This destabilization did not occur at the transcriptional level ( Fig .
+2B ) , but could be inhibited by several protease inhibitors ( Fig .
+3 ) , suggesting the involvement of a proteolytic program that specifically degrades TRAFZ .
+Degradation of TRAF2 could be induced by recruitment to either of the two TRAP-binding domains in CD30 ( Fig .
+5 ) that have previously been identified ( Gedrich et al .
+1996 ) .
+Degradation could also be induced by recruitment to TNFR2 ( Fig .
+6B ) , suggesting a shared pathway .
+Signal transduction mediated by CD30 and TNFR2 utilizes TRAF2 , which subsequently leads to NF-KB activation .
+This activation has been previously shown to involve the degradation of IKB by the ubiquitin-proteasome pathway ( Palom bella et al .
+1994 ; Chen et al .
+1995 , 1996 ; Henkel et al .
+1995 ; DiDonato et al .
+1996 ; Hateboer et al .
+1996 ) .
+Signaling through endogenous TNFR1 , however , which also results in the TRAF2-me-diated activation of NF- « B ( Hsu et al .
+1996 ) and induces the degradation of IxB ( Chen et al .
+1995 ; DiDonato et al .
+1995 ; Henkel et al .
+1995 ) , did not result in the destabilization of TRAF2 ( Fig .
+6B ) .
+Although it is possible that ectopically expressed , activated TNFR1 might also induce TRAF2 degradation , these findings suggest that the determinants of TRAF2 degradation are distinct from those of IxB degradation .
+Signaling through CD30 does not induce a general degradation of all TRAF proteins ( Table 1 ) .
+Moreover , binding of TRAF proteins to CD30 is not sufficient to induce degradation , because TRAF binds directly to CD30 ( Gedrich et al .
+1996 ) but is not degraded .
+One difference that may account for this is the absence of a RING finger domain in TRAF1 .
+As shown in Figure 4B , the disruption of the RING finger of TRAF2 abrogated degradation , suggesting that the RING finger of TRAF2 may play a role in destabilization .
+Interestingly , the RING finger has also been reported to be required for NF-KB activation by TRAF2 ( Rothe et al .
+1995b ) , suggesting that the RING finger may be required both for protein-protein interactions with downstream signaling components as well as for the targeting of TRAF2 for degradation .
+Thus , the TRAF2 ( 87-501 ) mutant is not subject to degradation and so might block NF-KB activation by competitively binding to CD30 , thereby preventing recruitment of endogenous TRAF2 to CD30 .
+The construction of fusion proteins between TRAFl and TRAF2 , however , have so far failed to generate a chimeric TRAFI-TRAF2 molecule that could be degraded by CD30 signaling ( C.S .
+Duckett and C.B .
+Thompson , unpubl . )
+, suggesting that additional determinants in TRAF2 may also be required .
+Also noteworthy is the observation that TRAF1l can be degraded when coexpressed with TRAF2 .
+This finding suggests that the degradation of TRAF2 can extend to additional molecules associated with TRAF2 , and this might also be the case for factors unrelated to the TRAFs such as the c-IAPs , TANK/I-TRAF , Nik , A20 and TRIP , all of which have been shown to associate directly with TRAF2 ( Rothe et al .
+1995a , 1996 ; Cheng and Baltimore 1996 ; Song et al .
+1996 ; Lee et al .
+1997 ; Malinin et al .
+1997 ) .
+TRAF2 is a signaling intermediate that is also utilized by TNFR1 ( Hsu et al .
+1996 ) .
+Whereas TRAF2 can bind directly to the cytoplasmic domains of TNFR2 and CD30 , it is recruited indirectly to TNFR1 through a TNFR1-TRADD-TRAF2 interaction ( Hsu et al .
+1996 ) , where it is thought to mediate NF- « B activation .
+Several groups have reported that NP- « B induction can confer antiapoptotic properties on the cell ( Beg and Baltimore 1996 ; Van Antwerp et al .
+1996 ; Wang et al .
+1996 ) .
+Expression of a dominant-negative mutant of TRAF2 , which blocks NF-KB induction by TNFR1 , potentiated TNFR1-mediated death ( Fig .
+7 ) .
+Therefore , the inhibition of TRAF2-induced signaling , either by expression of a dominant-negative TRAF2 or by the CD30-induced degradation of TRAF2 , can sensitize cells to TNFR1-mediated death .
+Consistent with this hypothesis , CD30 signal transduction and concomitant TRAF2 degradation Degradation of TRAF2 by CD30 abrogated the ability of TNF-a to induce NF-KB ( Fig .
+8 ) .
+A further prediction of this model is that the treatment of cells with protease inhibitors that can block TRAF2 degradation might confer protection to death induced by TNFR1 plus CD30 signal transduction .
+Preliminary studies suggest that this is the case ( C.S .
+Duckett and C.B .
+Thompson , unpubl . )
+.
+The compounds that inhibit TRAF2 degradation , however , also cross-react with the ubiquitin-proteasome pathway and have been shown to block NF- « B induction by TNF-a , and the combined treatment of TNF- « plus protease inhibitors was found to be toxic to the untransfected and control transfected populations of cells ( C.S .
+Duckett and C.B .
+Thompson , unpubl . )
+.
+These studies describe a mechanism by which members of the tum or necrosis receptor superfamily may cooperate to modulate cell survival .
+The recruitment of TRAF2 to the cytoplasmic tails of CD30 or to TNFR2 is followed by its degradation .
+There are at least two consequences of this event .
+First , the removal of TRAF2 would be predicted to limit the duration of the receptor-induced signal , thus ensuring that the signal is self regu-lating .
+Second , several TNFR2Z-associated proteins , such as TRAF2 and the c-IAPs , have been found to possess antiapoptotic properties ( Liston et al .
+1996 ; Liu et al .
+1996 ; Uren et al .
+1996 ) , and because TRAFZ-associated proteins were also found to be degraded by CD30 , elimination of these factors might be predicted to sensitize the cell to additional signals such as those mediated by TNFR1 ( Fig .
+9 ) .
+The observation that CD30 and TNFR2 signaling can sensitize cells to death in the context of TNFR1 signals might also explain how signaling through CD30 or through TNFR2 can induce disparate effects ranging from cellular proliferation to apoptosis ( Smith et al .
+1993 ; Stein et al .
+1985a , b ) .
+The removal of TRAF2 by degradation might therefore be expected to interfere with the induction by TNFR1 of antiapoptotic signals , resulting in a shift to the remaining TRADD-FADD-caspase pathway ( Fig .
+9 ) .
+The induction of proteolytic degradation of TRAF2 following recruitment to CD30 and TNFR2 will result in the termination of signal transduction through these receptors .
+Following decay of the NF- « kB-mediated survival signal , cells will be subsequently more susceptible to dying if activated by death domain-containing receptors such as TNFR1 , unless TRAF2 and its coassociated signaling molecules can be regenerated during this interval .
+Factors that increase the expression of these proteins are , therefore , likely to help maintain the duration of survival signaling through CD30 and TNFR2 .
+These data suggest that the rate of receptor-mediated TRAF2 consumption and TRAF2 translation are likely to play a dynamic role in the regulation of cell survival .
+Materials and methods Plasm ids The chimeric CD28-CD30 vectors , the Atail control plasmid , and the expression vectors encoding TRAF1l , TRAF2 , and GENES & DEVELOPMENT 2817 Duckett and Thompson CD30 TNFRA1 TNFR2 TRADD ~a @ .. / _Fuice I TRaF2 |_ TRAF2 ( Casp 8 ) i DEGRADATION 1 flute | `` J 4 NF- « B | APOPTOSIS SURVIVAL activation Figure 9 .
+Model : Control of TRAF2 levels may modulate the sensitivity of cells to TNFR1 signals ( see text for details ) .
+TRAF3 have been described previously ( Duckett et al .
+1997 ) .
+The ATraf vector encodes the CD28 extracellular domain fused to residues 410-531 of CD30 , a deletion that previously has been shown to abrogate TRAF binding ( Gedrich et al .
+1996 ; Duckett et al .
+1997 ) .
+The CD28-TNFR2 chimera was constructed by PCR amplification of the TNFR2 cytoplasmic tail from a human T-cell cDNA library with the following primers : S'-ATACTCGAGACAGGTGAAAAAGAAGCCCTTGTGCC-3 ' and S'-AATTCTAGACCACCTTGGCTACGACACAGCC-CAC-3 ' .
+The PCR product was subcloned in-frame into the modified CD28 expression vector described previously ( Duckett et al .
+1997 ) .
+The GFP expression vector was obtained from Clon-tech laboratories .
+The Myc epitope-tagged human TRAPF4/ CART1 expression vector was kindly provided by C. Rudin and J .
+Van Dongen ( both at University of Chicago , IL ) .
+The murine TRAFS vector was kindly provided by R. Arch ( University of Chicago , IL ) ; the amino terminus was modified to incorporate the Myc epitope tag ( Duckett et al .
+1996 ) prior to subcloning into the peDNA3 mammalian expression vector ( Invitrogen ) .
+Human TRAF6 was obtained by PCR amplification from a human T-cell cDNA library followed by subcloning into the pFLAG-CMV-2 expression vector ( Kodak ) .
+Cells and transfections Human embryonic kidney 293 cells were maintained in Dul-becco 's modified Eagle 's medium ( DMEM ) with 10 % fetal bovine serum , 2 mM glutamine , 100 U/ml of penicillin and 100 ug/ml of streptomycin , and grown at 37°C in 5 % CO , .
+Six-well plates were seeded with 2 x 10° cells per well in 2 ml of me-dium .
+The medium was replaced the following day , and cells were transfected by the calcium phosphate procedure as described previously ( Duckett et al .
+1997 ) .
+Viability assays Cells were cotransfected with 100 ng of GFP plasmid and 1 ug of CD28 chimeric plasmid as indicated in the text .
+Unless 2818 GENES & DEVELOPMENT stated otherwise , the medium was removed 12 hr post-transfec-tion and replaced either with fresh medium containing human recombinant TNF- « ( Boehringer Mannheim ) at 200 U/ml or with medium alone , and cells were maintained for a further 18 to 24 hr as indicated , before harvest .
+Medium from transfected cells was collected , cells were washed once with phosphate buffered saline ( PBS ) supplemented with 1 mM ethylenedi-aminetetraacetic acid ( EDTA ) , and cells were detached from the plate in the same buffer .
+Cells , washes , and medium were pooled , and cells were pelleted by centrifugation at 1500 rpm at 4°C .
+Pellets were washed once in PBS/EDTA and fixed in PBS containing 1.25 % glutaraldehyde ( 1 ml ) Fixed cells were washed once with PBS , resuspended in 1 ml PBS containing 4',6'-diamidino-2-phenylindole ( DAPD ) at 20 ng/ml , and incubated for 10 min at room temperature .
+Stained cells were washed once in PBS and resuspended in 1 ml PBS .
+Aliquots ( typically 50 ul ) were spun onto microscope slides with a Cy-topro cytocentrifuge ( Wescor ) , and cells were examined by fluorescence microscopy by use of a Leitz DM-RB microscope .
+Analysis of TRAF protein levels Cells were cotransfected with 100 ng of the indicated CD28 chimeric vector and 1 ug of TRAF expression vector .
+Lysates were prepared 12-48 hr after transfection as indicated in the figure legends , as follows : Cells were washed once in PBS and lysed in 0.5 m1 of lysis buffer [ 25 mm HEPES at pH 7.9 , 100 mM NaCl , 1 mm EDTA , 1 % Triton X-100 , 10 % glycerol , 1 mm di-thiothreitol , 0.1 mM phenylmethanesulfonyl fluoride , and a cocktail of protease inhibitors ( Boehringer Mannheim ) ] .
+Protein levels were standardized with the Bradford reagent ( Bio-Rad ) .
+Samples were electrophoresed on 9.5 % SDS-polyacrylamide gels and immunoblotted with commercial rabbit polyclonal antibodies to human TRAF1 , TRAF2 , or TRAF3 ( Santa Cruz Bio-technologies ) or with murine monoclonal antibodies to the Myc epitope ( Pharmingen ; clone 9E10 ) or FLAG ( Kodak ; M2 ) as indicated in the text .
+Blots were subsequently probed with horseradish peroxidase-conjugated anti-rabbit or anti-mouse monoclonal antibodies ( Amersham ) as required and developed with an enhanced chemiluminescence detection system ( Am-ersham ) .
+RNA extraction and Northern blot analysis Total cellular RNA was isolated with the TRIzol protocol ( Life Technologies ) .
+RN A quantitation , electrophoresis , and transfer to nitrocellulose were performed as described ( Yang et al .
+1995 ) , and blots were probed with a nick-translated *°P-labeled DNA fragment encompassing residues 87-501 of human TRAF2 .
+Reporter gene analysis Six-well plates were seeded with 293 cells at a density of 5 x 10° cells per well in 2 ml of medium , and triplicate wells were transfected with 50 ng each of a « B-responsive luciferase reporter plasmid containing two canonical kB sites ( Klug et al .
+1994 ) and a B-galactosidase transfection efficiency control plasmid , together with 100 ng of either the CD28-CD30 or the Atail control plasmid , as indicated .
+Transfectants were maintained for 48 hr and stimulated where indicated with recombinant human TNF- « @ 00 U/ml ; Boehringer Mannheim ) or a medium control for 10 hr .
+Cells were harvested and luciferase reporter gene activity assayed as described previously ( Duckett et al .
+1997 ) .
+Acknowledgments We thank R. Arch , R. Gedrich , M. Gilfillan , A. Minn , C. Rudin , and members of the Thompson lab for thoughtful discussions and critical review of the manuscript ; R. Arch , C. Rudin , and J .
+Van Dongen for providing TRAF4 and TRAFS5 cDN As ; H. Singh for providing luciferase plasmids ; and T. Lindsten for assistance with Northern blots .
+This work was supported by research grant PO1 DK49799 ( to C.B.T . )
+from the National Institutes of Health .
+C.S.D .
+is a Special Fellow of the Leukemia Society of America .
+The publication costs of this article were defrayed in part by payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 USC section 1734 solely to indicate this fact .
+References Aizawa , S. , H. Nakano , T. Ishida , R. Horie , M. Nagai , K. Ito , H. Yagita , K. Okumura , J. Inoue , and T. Watanabe .
+1997 .
+Tumor necrosis factor receptor-associated factor ( TRAF ) 5 and TRAF2 are involved in CD30-mediated NF- « B activation .
+J Biol .
+Chem .
+2721 : 2042-2045 .
+Allison , J. and M.F .
+Krummel .
+1995 .
+The yin and yan of T cell costimulation .
+Science 270:932-933 .
+Amakawa , R. , A. Hakem , TM .
+Kundig , T. Matsuyama , JJ.L .
+Simard , E. Timms , A. Wakeham , H.-W. Mittruecker , H. Griesser , H. Takimoto , R. Schmits , A. Shahinian , P.S .
+Ohashi , J.M .
+Penninger , and T.W .
+Mak .
+1996 .
+Impaired negative selection of T cells in Hodgkin 's disease antigen CD30-defi-cient mice .
+Cell 84 : 551-562 .
+Ansieau , S. , I. Scheffrahn , G. Mosialos , H. Brand , J. Duyster , K. Kaye , J. Harada , B. Dougall , G. Hiibinger , E. Kieff , F. Her-mann , A. Leutz , and H.-J .
+Gruss .
+1996 .
+Tum or necrosis factor receptor-associated factor ( TRAF ) 1 , TRAF-2 , and TRAF-3 interact in vivo with the CD30 cytoplasmic domain ; TRAF-2 mediates CD30-induced nuclear factor kappa B activation .
+Proc .
+Natl .
+Acad .
+Sei .
+931 14053-14058 .
+Armitage , R.J. 1994 .
+Tumor necrosis factor receptor superfamily members and their ligands .
+Curr .
+Opin .
+Immunol .
+61407-413 .
+Baker , S.J .
+and E.P .
+Reddy .
+1996 .
+Transducers of life and death : TNF receptor superfamily and associated proteins .
+Onco-gene 1211-9 .
+Beg , A.A. and D. Baltimore .
+1996 .
+An essential role for NF-KB in preventing TNF- « -induced cell death .
+Science 274 : 782-784 .
+Beyaert , R. and W. Fiers .
+1994 .
+Molecular mechanism s of tumor necrosis factor-induced cytotoxicity .
+What we do understand and what we do not .
+FEBS Lett .
+340 : 9-16 .
+Biswas , P. , C.A .
+Smith , D. Goletti , E.C .
+Hardy , R.W .
+Jackson , and A.S. Fauci .
+1995 .
+Cross-linking of CD30 induces HIV expression in chronically infected T cells .
+Immunity 21 587-596 .
+Bump , N.J. , M. Hackett , M. Hugunin , S. Seshagiri , K. Brady , P. Chen , C. Ferenz , S. Franklin , T. Ghayur , P. Li , P. Licari , J. Mankovich , L. Shi , A.H. Greenberg , LK .
+Miller , and W.W. Wong .
+1995 .
+Inhibition of ICE family proteases by baculovirus antiapoptotic protein p35 .
+Science 269 : 1885-1888 .
+Cao , Z. , J. Xiong , M. Takeuchi , T. Kurama , and D.V .
+Goeddel .
+1996 .
+TRAF6 is a signal transducer for interleukin-1 .
+Nature 383 : 443-446 .
+Chen , Z. , J. Hagler , V.J .
+Palom bella , F. Melandri , D. Scherer , D. Ballard , and T. Maniatis .
+1995 .
+Signal-induced site-specific phosphorylation targets IxBa « to the ubiquitin-proteasome pathway .
+Genes & Dev .
+9 : 1586-1597 .
+Chen , Z. , L. Parent , and T. Maniatis .
+1996 .
+Site-specific phosphorylation of IkB « by a novel ubiquitination-dependent Degradation of TRAF2 by CD30 protein kinase activity .
+Cell 84 : 853-862 .
+Cheng , G. and D. Baltimore .
+1996 .
+TANK , a co-inducer with TRAF2 of TNF- and CD4O0L-mediated NF- « B activation .
+Genes & Dev .
+10:963-973 .
+Chinnaiyan , A.M. , K. O'Rourke , M. Tewari , and V.M .
+Dixit .
+1995 .
+FADD , a novel death domain-containing protein , interacts with the death domain of Fas and initiates apoptosis .
+Cell 81 : 505-512 .
+Chinnaiyan , A.M. , K. O'Rourke , G.-L. Yu , R.H. Lyons , M. Garg , D.R .
+Duan , L. Xing , R. Gentz , J. Ni , and V.M .
+Dixit .
+1996 .
+Signal transduction by DR3 , a death domain-containing receptor related to TNFR-1 and CD95 .
+Science 274 : 990-992 .
+Choi , M.S .
+, LH .
+Boise , A.R .
+Gottschalk , J. Quintans , C.B .
+Thompson , and G.G .
+Klaus .
+1995 .
+The role of bel-x , , in CD40-mediated rescue from anti-u-induced apoptosis .
+Eur .
+J Immunol .
+251 1352-1357 .
+Clem , R.J. , M. Fechheimer , and L.K .
+Miller .
+1991 .
+Prevention of apoptosis by a baculovirus gene during infection of insect cells .
+Science 254 : 1388-1390 .
+Del Prete , G. , M. De Carli , M.M .
+D'Elios , K.C .
+Daniel , F. Alm erigogna , M. Alderson , C.A .
+Smith , E. Thomas , and S. Romagnani .
+1995 .
+CD30-mediated signaling promotes the development of human T helper type 2-like cells .
+L Exp .
+Med .
+182 : 1655-1661 .
+DiDonato , JA .
+, F. Mercurio , and M. Karin .
+1995 .
+Phophoryla-tion of IxBa precedes but is not sufficient for its dissociation from NF-kB .
+Mol .
+Cell .
+Biol .
+15:1302-1311 .
+DiDonato , J. , F. Mercurio , C. Rosette , J. Wu-Li , H. Suyang , S. Ghosh , and M. Karin .
+1996 .
+Mapping of the inducible IxB phosphorylation sites that signal its ubiquitination and degradation .
+Mol .
+Cell .
+Biol .
+16 : 1295-1304 .
+Duckett , C.S .
+, V.E .
+Nava , RW .
+Gedrich , R.J. Clem , J.L .
+Van Dongen , M.C .
+Gilfillan , H. Shiels , JLM .
+Hardwick , and C.B .
+Thompson .
+1996 .
+A conserved family of cellular genes related to the baculovirus fap gene and encoding apoptosis inhibitors .
+EMBO J 15 : 2685-2694 .
+Duckett , C.S .
+, RW .
+Gedrich , M.C .
+Gilfillan , and C.B .
+Thompson .
+1997 .
+Induction of nuclear factor kB by the CD30 receptor is mediated by TRAFl and TRAF2 .
+Mol .
+Cell .
+Biol .
+17 : 1535-1542 .
+Diirkop , H. , U. Latza , M. Hummel , F. Eitelbach , B .
+Seed , and H. Stein .
+1992 .
+Molecular cloning and expression of a new member of the nerve growth factor receptor family that is characteristic for Hodgkin 's disease .
+Cell 68 : 421-427 .
+Ellis , TM .
+, P.E .
+Simms , D.J .
+Slivnick , H.-M. Jick , and R. Fisher .
+1993 .
+CD30 is a signal-transducing molecule that defines a subset of human activated CD45RO* T cells .
+J Im m unol .
+151 : 2380-2389 .
+Falini , B. , S. Pileri , G. Pizzolo , H. Diirkop , L. Flenghi , F. Stirpe , M.F .
+Martelli , and H. Stein .
+1995 .
+CD30 ( Ki-1 ) molecule : A new cytokine receptor of the tumor necrosis factor receptor superfamily as a tool for diagnosis and immunotherapy .
+Blood 8511-14 .
+Foy , T.M .
+, A. Aruffo , J. Bajorath , JE .
+Buhlmann , and R.J. Noelle .
+1996 .
+Immune regulation by CD40 and its ligand gp39 .
+Annu .
+Rev .
+Immunol .
+141 591-617 .
+Gagliardini , V. , P.A .
+Fernandez , R.K. Lee , H.C. Drexler , R.J. Ro-tello , M.C .
+Fishman , and J. Yuan .
+1994 .
+Prevention of vertebrate neuronal death by the crm A gene .
+Science 263:826-828 .
+Gedrich , RW .
+, M.C .
+Gilfillan , C.S .
+Duckett , J.L .
+Van Dongen , and C.B .
+Thompson .
+1996 .
+CD30 contains two binding sites with different specificities for members of the TRAF family of signal transducing proteins .
+J Biol .
+Chem .
+271:12852-12858 .
+Grell , M. , E. Douni , H. Wajant , M. Lohden , M. Clauss , B. Max GENES & DEVELOPMENT 2819 Duckett and Thompson einer , S. Georgopoulos , W. Lesslauer , G. Kollias , K. Pfizen-maier , and P. Scheurich .
+1995 .
+The transmembrane form of tumor necrosis factor is the prime activating ligand of the 80 kDa tum or necrosis factor receptor .
+Cell 83 : 793-802 .
+Gruss , H.-J .
+and S.K .
+Dower .
+1995 .
+Tumor necrosis factor ligand superfamily : Involvement in the pathology of malignant lymphomas .
+Blood 85 : 3378-3404 .
+Hateboer , G. , R.M .
+Kerkhoven , A. Shvarts , R. Bernards , and RL .
+Beijersbergen .
+1996 .
+Degradation of E2F by the ubiquitin-proteasome pathway : Regulation by retinoblastoma family proteins and adenovirus transforming proteins .
+Genes & Dev .
+10 : 2960-2970 .
+Henkel , T. , T. Machleidt , I. Alkalay , M. Krdnke , Y. Ben-Neriah , and P.A .
+Bacuerle .
+1995 .
+Rapid proteolysis of IxB- « is necessary for activation of transcription factor NF-kB .
+Nature 365 : 182-185 .
+Hsu , H. , J. Xiong , and D.V .
+Goeddel .
+1995 .
+The TNF receptor l-associated protein TRADD signals cell death and NF-kB activation .
+Cell 81:495-504 .
+Hsu , H. , H.-B .
+Shu , M.-G. Pan , and D.V .
+Goeddel .
+1996 .
+TRADD-TRAF2 and TRADD-FADD interactions define two distinct TNF receptor 1 signal transduction pathways .
+Cell 84 : 299-308 .
+Ishida , T. , S.-I .
+Mizushima , S. Azuma , N. Kobayashi , T. Tojo , K. Suzuki , S. Aizawa , T. Watanabe , G. Mosialos , E. Kieff , T. Yamamoto , and J.-L. Inoue .
+19962 .
+Identification of TRAF6 , a novel tumor necrosis factor receptor-associated factor protein that mediates signaling from an amino-terminal domain of the CD40 cytoplasmic region .
+J Biol .
+Chem .
+271 : 28745-28748 .
+Ishida , T. , T. Tojo , T. Aoki , N. Kobayashi , T. Ohishi , T. Watanabe , T. Yamamoto , and J.-I .
+Inoue .
+1996b .
+TRAF5 , a novel tumor necrosis factor receptor-associated factor family protein , mediates CD40 signaling .
+Proc .
+Natl .
+Acad .
+Sci .
+93 : 9437-9442 .
+Kitson , J. , T. Raven , Y.-P. Jiang , D.V .
+Goeddel , K.M .
+Giles , K.-T. Pun , C.J .
+Grinham , R. Brown , and S.N .
+Farrow .
+1996 .
+A death-domain containing receptor that mediates apoptosis .
+Nature 3841 372-375 .
+Klug , C.A .
+, S.J .
+Gerety , P.C .
+Shah , Y.-Y .
+Chen , N.R .
+Rice , N. Rosenberg , and H. Singh .
+1994 .
+The v-abl tyrosine kinase negatively regulates NF-B/Rel factors and blocks x gene transcription in pre-B lymphocytes .
+Genes & Dev .
+8:1678-687 .
+Komiyama , T. , C.A .
+Ray , D.J .
+Pickup , A.D. Howard , N.A .
+Thornberry , E.P .
+Peterson , and G. Salvesen .
+1994 .
+Inhibition ofinterleukin-1 beta converting enzyme by the cow pox virus serpin CrmA .
+An example of cross-class inhibition .
+J Biol .
+Chem .
+269 : 19331-19337 .
+Krappm ann , D. , F.G. Wulezyn , and C. Scheidereit .
+1996 .
+Different mechanisms control signal-induced degradation and basal turnover of the NF-kB inhibitor IxBa in vivo .
+EMBO J 15 : 6716-6726 .
+Lee , S.Y .
+, C.G .
+Park , and Y. Choi .
+1996 .
+T cell receptor-depen-dent cell death of T cell hybridomas mediated by the CD30 cytoplasmic domain in association with tumor necrosis factor receptor-associated factors .
+J Exp .
+Med .
+183 : 669-674 .
+Lee , S.Y .
+, S.Y .
+Lee , and Y. Choi .
+1997 .
+TRAF-interacting protein ( TRIP ) : A novel component of the tumor necrosis factor receptor ( TNFR ) and CD30-TRAF signaling complexes that inhibits TRAFZ-mediated NF- « B activation .
+J Exp .
+Med .
+185 : 1275-1285 .
+Liston , P. , N. Roy , K. Tamai , C. Lefebvre , S. Baird , G. Cherton-Horvat , R. Farahani , M. McLean , J.-E. Ikeda , A. MacKenzie , and R.G .
+Korneluk .
+1996 .
+Suppression of apoptosis in mammalian cells by NAIP and a related family of IAP genes .
+2820 GENES & DEVELOPMENT Nature 3791 349-353 .
+Liu , Z.G .
+, H. Hsu , D.V .
+Goeddel , and M. Karin .
+1996 .
+Dissection of TNF receptor 1 effector functions : JNK activation is not linked to apoptosis , while NF-kB activation prevents cell death .
+Cell 87 : 565-576 .
+Maggi , E. , F. Annunziato , R. Manetti , R. Biagiotti , M.G .
+Giudizi , A. Ravina , F. Almerigogna , N. Boiani , M. Alderson , and S. Romagnani .
+1995 .
+Activation of HIV expression by CD30 triggering in CD4* cells from HIV-infected individuals .
+Immunity 3 : 251-255 .
+Malinin , N.L .
+, M.P .
+Boldin , A. Kovalenko , and D. Wallach .
+1997 .
+MAP3K-related kinase involved in NF-kB induction by TNF , CD95 and IL-1 .
+Nature 385 : 540-544 .
+Marsters , S.A. , J.P. Sheridan , C.J .
+Donahue , R.M .
+Pitti , C.L .
+Gray , A.D. Goddard , K.D .
+Bauer , and A. Ashkenazi .
+1996 .
+Apo-3 , a new member of the tumor necrosis factor receptor family , contains a death domain and activates apoptosis and NF-kB .
+Curr .
+Biol .
+6 : 1669-1676 .
+Nadali , G. , F. Vinante , H. Stein , G. Todeschini , C. Tecchio , L. Morosato , M. Chilosi , F. Menestrina , M.C .
+Kinney , J.P. Greer , U. Latza , G. Perona , and G. Pizzolo .
+1995 .
+Serum levels of the soluble form of CD30 molecule as a tumor marker in CD30® anaplastic large-cell lymphoma .
+J Clin .
+Oncol .
+13 : 1355-1360 .
+Nagata , S. 1996 .
+Apoptosis : Telling cells their time is up .
+Curr .
+Biol .
+61 1241-1243 .
+Nakano , H. , H. Oshima , W. Chung , L. William C.F .
+Ware , H. Yagita , and K. Okumura .
+1996 .
+TRAF5 , an activator of NF- « B and putative signal transducer for the lympho-toxin-B receptor .
+X Biol .
+Chem .
+271 : 14661-14664 .
+Natoli , G. , A. Costanzo , A. Ianni , D.J .
+Templeton , JR. Woodgett , C. Balsano , and M. Levrero .
+1997 .
+Activation of SAPK/JINK by TNF receptor 1 through a noncytotoxic TRAF2Z-dependent pathway .
+Science 275 : 200-203 .
+Oltvai , Z.N .
+and S.J .
+Korsmeyer .
+1994 .
+Checkpoints of dueling dimers foil death wishes .
+Cell 79 : 189-192 .
+Palombella , V.J .
+, O.J .
+Rando , A.L .
+Goldberg , and T. Maniatis .
+1994 .
+The ubiquitin-proteasome pathway is required for processing the NF-kB1 precursor protein and the activation of NF-kB .
+Cell 78 : 773-785 .
+Pan , G. , K. O'Rourke , A.M. Chinnaiyan , R. Gentz , R. Ebner , J. Ni , and V.M .
+Dixit .
+1997 .
+The receptor for the cytotoxic ligand TRAIL .
+Science 276 : 111-113 .
+Rathmell , J.C. , S.E .
+Townsend , J.C. Xu , R.A. Flavell , and C.C .
+Goodnow .
+1996 .
+Expansion or elimination of B cells in vivo : Dual roles for CD40- and Fas ( CD95 ) } -ligands modulated by the B cell antigen receptor .
+Cell 87 : 319-329 .
+Rothe , M. , S.C. Wong , W.J .
+Henzel , and D.V .
+Goeddel .
+1994 .
+A novel family of putative signal transducers associated with the cytoplasmic domain of the 75 kDa tum or necrosis factor receptor .
+Cell 781 681-692 .
+Rothe , M. , M.-G. Pan , W.J .
+Henzel , T.M .
+Ayres , and D.V .
+Goeddel .
+1995a .
+The TNFR2-TRAF signaling complex contains two novel proteins related to baculoviral inhibitor of apoptosis proteins .
+Cell 83 : 1243-1252 .
+Rothe , M. , V. Sarma , V.M .
+Dixit , and D.V .
+Goeddel .
+19956 .
+TRAF2Z-mediated activation of NF- « B by TNF receptor 2 and CD40 .
+Science 2691 1424-1427 .
+Rothe , M. , J. Xiong , H.-B .
+Shu , K. Williamson , A. Goddard , and D.V .
+Goeddel .
+1996 .
+I-TRAF is a novel TRAF-interacting protein that regulates TRAF-mediated signal transduction .
+Proc .
+Natl .
+Acad .
+Sci .
+931 8241-8246 .
+Schwab , U. , H. Stein , J. Gerdes , H. Lemke , H. Kirchner , M. Schaadt , and V. Diehl .
+1982 .
+Production of a monoclonal antibody specific for Hodgkin and Sternberg-Reed cells of Hodgkin 's disease and a subset of normal lymhoid cells .
+Ne ture 2991 65-67 .
+Sicbenlist , U. , G. Franzoso , and K. Brown .
+1994 .
+Structure , regulation and function of NF- « B .
+Annu .
+Rev .
+Cell Biol .
+10 : 405-455 .
+Smith , C.A .
+, H.J .
+Gruss , T. Davis , D. Anderson , T. Farrah , E. Baker , G.R .
+Sutherland , C.I Brannan , N.G .
+Copeland , N.A .
+Jenkins , K.H .
+Grabstein , B. Gliniak , LB .
+McAlister , W. Fans-low , M. Alderson , B. Falk , S. Gimpel , S. Gillis , W.S .
+Din , R.G .
+Goodwin , and R.J. Armitage .
+1993 .
+CD30 antigen , a marker for Hodgkin 's lymphoma , is a receptor whose ligand defines an emerging family of cytokines with homology to TNF .
+Cell 73 : 1349-1360 .
+Song , H. Y. , M. Rothe , and D.V .
+Goeddel .
+1996 .
+The tumor necrosis factor-inducible zinc finger protein A20 interacts with TRAFI/TRAF2 and inhibits NF-kB activation .
+Proc .
+Natl .
+Acad .
+Sci .
+9316721-6725 .
+Speiser , D.E .
+, S.Y .
+Lee , B. Wong , J. Arron , A. Santana , Y.-Y .
+Kong , P.S .
+Ohashi , and Y. Choi .
+1997 .
+A regulatory role for TRAF !
+in antigen-induced apoptosis of T cells .
+J Exp .
+Med .
+185 : 1777-1783 .
+Squier , M.K .
+and J.J. Cohen .
+1997 .
+Calpain , an upstream regulator of thymocyte apoptosis .
+X Immunol .
+158 : 3690-3697 .
+Stanger , B.Z .
+, P. Leder , T.H .
+Lee , E. Kim , and B .
+Seed .
+1995 .
+RIP : A novel protein containing a death domain that interacts with Fas/APO-1 ( CD95 ) in yeast and causes cell death .
+Cell 81 : 513-523 .
+Stein , H. , J. Gerdes , H. Lemke , and D.Y .
+Mason .
+19852 .
+Evidence of Sternberg-Reed cells being derived from activated lymphocytes .
+In Modern trends in hum an leukemia VI ( ed .
+R.C .
+Gallo , R. Neth , M.F .
+Greaves , and G. Janka ) , pp .
+441-444 .
+Springer-Verlag , Heidelberg , Germany .
+Stein , H. , D.Y .
+Mason , J. Gerdes , N. O'Connor , J. Wainscoat , G. Pallesen , K. Gatter , B. Falini , G. Delsol , H. Lemke , R. Schwarting , and K. Lennert .
+1985b .
+The expression of the Hodgkin 's disease associated antigen Ki-1 in reactive and neoplastic lymphoid tissue : Evidence that Reed-Sternberg cells and histiocytic malignancies are derived from activated lymphoid cells .
+Blood 66 : 848-858 .
+Takahashi , T. , M. Tanaka , C.I .
+Brannan , N.A .
+Jenkins , N.G .
+Copeland , T. Suda , and S. Nagata .
+1994 .
+Generalized lym-phoproliferative disease in mice caused by a point mutation in Fas ligand .
+Cell 76:969-976 .
+Tartaglia , L.A. , TM .
+Ayres , G.H .
+Wong , and D.V .
+Goeddel .
+1993 .
+A novel domain within the 55 kd TNF receptor signals cell death .
+Cell 741 845-853 .
+Tartaglia , L.A. , D.V .
+Goeddel , C. Reynolds , LS .
+Figari , R.F .
+We-ber , B.M .
+Fendly , and M.A .
+Palladino , Jr. 1993 .
+Stimulation of human T-cell proliferation by specific activation of the 75-kDa tumor necrosis factor receptor .
+J Immunol .
+151 : 4637-4641 .
+Tartaglia , LA .
+, D. Pennica , and D.V .
+Goeddel .
+1993 .
+Ligand passing : The 75-kDa tumor necrosis factor ( TNF ) receptor recruits TNF for signaling by the 55-kDa TNF receptor .
+Z Biol .
+Chem .
+2681 : 18542-18548 .
+Tomasetto , C. , C.H .
+Régnier , C. Moog-Lutz , M.G .
+Mattei , M.P .
+Chenard , R. Lidereau , P. Basset , and M.C .
+Rio .
+1995 .
+Identification of four novel human genes amplified and overex-pressed in breast carcinoma and localized to the q11-q21.3 region of chromosome 17 .
+Genomics 28 : 367-376 .
+Tsitsikov , E. , D.A .
+Wright , and R.S .
+Geha .
+1997 .
+CD30 induction of human immunodeficiency virus gene transcription is mediated by TRAF2 .
+Proc .
+Natl .
+Acad .
+Sci .
+941 1390-1395 .
+Uren , A. , M. Pakusch , C. Hawkins , K.L .
+Puls , and D.L .
+Vaux .
+1996 .
+Cloning and expression of apoptosis inhibitory proteins homologs that function to inhibit apoptosis and/or bind tumor necrosis factor receptor-associated factors .
+Proc .
+Degradation of TRAF2 by CD30 Natl .
+Acad .
+Sci .
+931 4974-4978 .
+Van Antwerp , D.J .
+, S.J .
+Martin , T. Kafri , D. Green , and LM .
+Verma .
+1996 .
+Suppression of TNF- « -induced apoptosis by Science 2741 787-789 .
+Vassalli , P. 1992 .
+The pathophysiology of tumor necrosis factors .
+Annu .
+Rev .
+Immunol .
+10 : 411-452 .
+Wang , C.-Y .
+, M.W .
+Mayo , and A.S.J .
+Baldwin .
+1996 .
+TNF- and cancer therapy-induced apoptosis : Potentiation by inhibition of NF-kB .
+Science 2741784-787 .
+Weiss , A. and D.R .
+Littman .
+1994 .
+Signal transduction by lymphocyte antigen receptors .
+Cell 76 : 263-274 .
+Weiss , T. , M. Grell , B. Hessabi , S. Bourteele , G. Miiller , P. Scheurich , and H. Wajant .
+1997 .
+Enhancement of TNF receptor p6O-mediated cytotoxicity by TNF receptor p80 .
+J Im m unol .
+1581 2398-2404 .
+Xu , Y. , G. Cheng , and D. Baltimore .
+1996 .
+Targeted disruption of TRAF3 leads to postnatal lethality and defective T-depen-dent immune responses .
+Immunity 5:407-415 .
+Yang , H. , C.S .
+Duckett , and T. Lindsten .
+1995. iPABP , an inducible poly ( A ) -binding protein detected in activated human T cells .
+Mol .
+Cell .
+Biol .
+1516770-6776 .
+Zheng , L. , G. Fisher , R.E .
+Miller , J. Peschon , D.H. Lynch , and M.J. Lenardo .
+1995 .
+Induction of apoptosis in mature T cells by tumour necrosis factor .
+Nature 377 : 348-351 .
+GENES & DEVELOPMENT 2821

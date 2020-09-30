@@ -1,0 +1,474 @@
+Brief Definitive Report An Instructive Component in T Helper Cell Type 2 ( Th2 ) Development Mediated by GATA-3 By J. David Farrar , * Wenjun Ouyang , * Max Lohning , * Mario Assenmacher , !
+Andreas Osami Kanagawa , * and Kenneth M. Murphy* From the *Department of Pathology and Center for Immunology , Howard Hughes Medical Institute , Washington University School of Medicine , St. Louis , Missouri 63110 ; the *Deutsches Rheumaforschungszentrum , 10115 Berlin , Germany ; the Department of Experimental Rheumatology , Charite , Humboldt University , 10115 Berlin , Germany ; and Miltenyi Biotec , 51429 Bergisch Gladbach , Germany Abstract Although interleukin ( IL ) -12 and IL-4 polarize naive CD4* T cells toward T helper cell type 1 ( Th1 ) or Th2 phenotypes , it is not known whether cytokines instruct the developmental fate in uncommitted progenitors or select for outgrowth of cells that have stochastically committed to a particular fate .
+To distinguish these instructive and selective models , we used surface affinity matrix technology to isolate committed progenitors based on cytokine secretion phenotype and developed retroviral-based tagging approaches to directly monitor individual progenitor fate decisions at the clonal and population levels .
+We observe IL-4-dependent redirection of phenotype in cells that have already committed to a non-IL-4-producing fate , inconsistent with predictions of the selective model .
+Further , retroviral tagging of naive progenitors with the Th2-specific transcription factor GATA-3 provided direct evidence for instructive differentiation , and no evidence for the selective outgrowth of cells committed to either the Th1 or Th2 fate .
+These data would seem to exclude selection as an exclusive mechanism in Th1/Th2 differentiation , and sup port an instructive model of cytokine-driven transcriptional programming of cell fate decisions .
+Key words : Introduction Antigen-activated CD4* T cells differentiate into either Th1 or Th2 cells , producing proinflammatory or proaller-gic cytokines , respectively .
+The best understood mode of regulating Th cell differentiation is the cytokine environment during primary T cell activation , with IL-12 associated with Th1 development and IL-4 with Th2 development .
+However , it is still uncertain how these cytokines mediate their effect on differentiation ( 1 ) .
+Coffman and Reiner ( 1 ) recently articulated three competing models , each compatible with the observed effects of cytokines on differentiation .
+In the instructive model , cytokine signaling precedes progenitor commitment ; that is , cytokines direct each progenitor towards a defined fate through a program of molecular cues .
+In the selective model , progenitor commitment is independent of cytokines ; that is , progenitor Address correspondence to K.M .
+Murphy , Department of Pathology , Washington University School of Medicine , 660 S. Euclid Ave. , St. Louis , MO 63110 .
+Phone : 314-362-2009 ; Fax : 314-747-4888 ; E-mail : murphy @ immunology .
+wustl.edu GATA-3 ® instruction ® stochastic * T lymphocytes ® cytokine cells stochastically commit to various fates , and cytokines subsequently act by favoring the selective outgrowth of a particular lineage .
+In a hybrid instructive-selective model , the ratio of progenitors initially committing to each fate may be altered by cytokines , but cytokine-driven selective outgrowth of committed cells is retained as a required mechanism of polarization .
+An instructive model seemed compatible with known molecular processes in T cells , such as cytokine regulation of transcription factor expression and cytokine-dependent chromatin alterations in the IL-4 locus ( 2 , 3 ) .
+Further , the specific requirement of the transcription factors signal transducer and activator of transcription ( Stat ) 4 ( 4 , 5 ) and Stat6 ( 6 , 7 ) in Th1 and Th2 development , respectively , was generally interpreted to indicate an instructive role for cytokines in Th differentiation .
+However , the analysis of Stat4- and Stat6é-deficient T cells was done on bulk populations and not performed specifically to distinguish instructive or selective models of development .
+Stat4 and Stat6 activation could either initiate an instructive program or alternately might 643 J. Exp .
+Med .
+© The Rockefeller University Press « 0022-1007/2001/03/643/07 $ 5.00 Volume 193 , Number 5 , March 5 , 2001 643-649 http : //www.jem.org/cgi/content/full/193/5/643 simply mediate signals for selective outgrowth of committed Th1 or Th2 cells Moreover , certain findings , such as monoallelic cytokine expression ( 8-10 ) , a role of cell cycle in cytokine regulation ( 11-13 ) , and Stat6-independent Th2 development ( 14-16 ) have provided an impetus to reconsider the issue of instructive versus selective differentiation .
+The difficulty in distinguishing between these models by previous studies arises from their inability to directly track fates and measure relative outgrowth of individual progeni-tors .
+Initial bulk population analysis suggested that Th2 development was absolutely IL-4 dependent , consistent with either model ( 6 , 7 ) .
+However , recent results have modified this thinking ( 15-17 ) .
+Th2 development has recently been reported to occur in Stat6-deficient animals ( 15 , 16 ) and to be dependent on GATA-3 expression independently of IL-4 and Stat6 ( 17 ) .
+GATA-3 expression , although augmented by IL-4 through Stat6 , can also be achieved independently of IL-4 , involving a Stat6-independent pathway of autoacti-vation .
+This feature of GATA-3 expression allows progenitors to acquire a stable , cytokine-independent phenotype in which GATA-3 directs the elaboration of downstream hallmarks of Th2 development that occur in response to IL-4 .
+Importantly , ectopic GATA-3 expression in Staté-deficient T cells induces all developmental components of the Th2 phenotype such as c-Maf expression , chromatin remodeling of the IL-4 locus , and Th2 cytokine gene expression ( 17 ) .
+Further , Th2 commitment need not be absolutely IL-4 dependent , as other factors , such as TCR/CD28 signaling ( 18 ) and IL-12 ( 17 , 19 ) can regulate GATA-3 expression .
+Thus , any signal that can regulate GATA-3 expression would also be expected to regulate Th2 development .
+In this study , we have used two recently described tech-nologies , cellular affinity matrix sorting and retroviral tag-ging , to determine whether GATA-3 functions to promote outgrowth of cells that have stochastically committed to IL-4 production ( selection ) , or whether GATA-3 mediates pro-grammatic alterations in gene expression without affecting outgrowth of uncommitted progenitors ( instruction ) .
+To accommodate the known effects of GATA-3 expression in Statb-deficient T cells , the selective model must adopt GATA-3 , rather than Stat6 , as a mediator of selective outgrowth of Th2 cells .
+However , in a direct test of this hy-pothesis , we found no evidence that GATA-3 influences selective outgrowth when expressed in Stat6é-deficient T cells developing under any conditions .
+Rather , GATA-3 expression increased the proportion of IL-4-committed progenitors , even when developing in the presence of IL-12 , a condition predicted by the selective model to inhibit the outgrowth of cells committed to the Th2 phenotype .
+These data exclude purely selective models of Th2 development and provide strong evidence that GATA-3 instructs Th2 development without inducing selective outgrowth .
+Materials and Methods Sorting of Live IL-4-secreting Cells by Cellular Affinity Matrix Technology .
+- In vitro cultures of DO11.10 TCR transgenic wild-type and DO11.10* X Staté~'~ CD4* T cells were stimulated with OVA protein under neutralizing conditions in the presence of a-IL-4 ( 11B11 , 10 pg/ml ) , a-IL-12 ( Tosh , 10 ug/ml ) , and o-IFN-y ( H22 , 10 pg/ml ) .
+7 d after primary activation , live CD4*/IL-4-secreting cells were purified as described previously ( 17 ) with the following modifications .
+Cell cultures were restimulated with PMA/ionomycin for 2.5 h and subsequently labeled with the bifunctional Ab conjugate specific for CD45 ( 30-F11 ) and IL-4 ( BVD6-24G2 ) for surface-capture of secreted IL-4 .
+The cells were then diluted in medium and allowed to secrete IL-4 for 30 min at 37°C as described ( 17 ) .
+IL-4-secreting CD4* T cells were identified by staining with a secondary mAb o-IL-4-PE ( 11B11-PE ; BD PharMingen ) and a-mCD4-TriColor ( GK1.5-TC ; Caltag ) .
+IL-4* and IL-4~7 cells were purified by FACS® sorting as described ( 20 , 21 ) .
+Retroviral Transduction .
+- DO11.10* X Stat6~'~ CD4* T cells were activated for 36 h with OVA under Th1 ( rmIL-12 [ 10 U/ml ] , and a-IL-4 ) or Th2 ( @ -IL-12 , and a-IFN-y and/or rmIL-4 [ 100 U/ml ] ) conditions .
+T cell cultures were then transduced with retroviral culture supernatants derived from the transient transfection of the Phoenix-ecotropic retrovirus packaging cell line ( 19 ) .
+Percentages of retroviral-transduced cells were monitored for the expression of retroviral marker proteins green fluorescence protein ( GFP ) and hCD4 by FACS® analysis .
+T Cell Cloning .
+DO11.10* X Staté~'~ CD4* T cells were activated with OVA protein under either Th1 or Th2 conditions and transduced with retroviral vectors as described in the text .
+Cells were rested in bulk culture to day 7 of activation and CD4*GFP+* cells were purified by FACS® sorting .
+Purified T cells were cloned by single-cell deposition cloning by FACS® sorting into 96-well plates containing 5 X 10° irradiated BALB/c splenocytes , OVA protein ( 0.5 mg/ml ) , and rhIL-2 ( 50 U/ml ! )
+in 200 pl medium ( DMEM supplemented with L-glutamine [ 0.2 mM ] , nonessential amino acids [ 10 M each ] , sodium pyruvate [ 100 wMJ , B-mercaptoethanol [ 50 uM ] , and penicillin/strepto-mycin [ 100 U/ml each ] ) .
+Cellular outgrowth was monitored between days 10-15 of plating , and individual clones were expanded by restimulation with irradiated BALB/c splenocytes , OVA protein , and rhIL-2 ( 50 U/ml ) .
+Identification of GFP-expressing Retrovirus and GATA-3-GFP-transduced T Cell Clones by PCR .
+Genomic DNA derived from independent T cell clones were amplified for the detection of both the control GFP-expressing retrovirus ( GFPRV ) and the GATA3-GFP integrated retroviral vectors by a two-step nested PCR tech-nique .
+These PCR reactions were performed with the following primers : GFPRV , first set : 5-CCTACATCGTGACCTGG-GAAGCCTTGG , 5-GTTCCGCTGCCTGCAAAGGCGTCGC , nest : 5-GGTCAAGCCCTTTGTACACCCTAAGCCTCC , 5'-CCTAGGAATGCTCGTCAAGAAGACAGGGC ; GATA-3-GFP , first set : 5-GGTGAAGAGATGAGGACTGGAGTGGCC , nest : TTGTACACCCTAAGCCTCCGCC , 5-GGAGGGTAAACG-GACAGAGGCCCC .
+As controls , genomic DNA from nontransduced and single-transduced T cells from bulk culture populations were amplified in parallel PCR reactions .
+Clones used in the study were infected by one type of retrovirus , positive for either GFPRV or GATA-3-GFP , but not both .
+Results and Discussion The observation that both IL-4- and IFN-y-producing T cells can emerge under nonpolarizing conditions has been interpreted to suggest that a random , or stochastic 644 GATA-3 Instructs Th2 Development process generates the initial phenotype repertoire , motivating the selective model ( 1 , 9 , 11 ) .
+Indeed , when naive progenitors are activated under conditions in which IL-12 , IL-4 , and IFN-y are all neutralized , a persistent population of cells was still observed that committed to the production of either IL-4 or IFN-y ( Fig .
+1 C ) .
+By the selective model , the increase in populations developing in fully polarizing conditions ( Fig .
+1 , A and B ) arise from the selective outgrowth of cells that stochastically commit even in the absence of these conditions ( i.e .
+, from the populations in Fig .
+1 C ) .
+Moreover , this interpretation is consistent with persistence of a small IL-4-producing population even in Stat6-deficient mice ( Fig .
+1 , E and F ) , which are proposed to represent committed progenitors whose phenotypes are fixed and awaiting selective outgrowth via the effects of polarizing cytokines .
+However , the instructive and selective models differ in their predictions of how committed cells should respond to subsequent IL-4 exposure .
+In the selective model , commitment is permanent , with subsequent cytokine exposure altering cell growth , but not differentiation .
+In the instructive model , commitment results from cytokine-derived signals , which could be delivered even after initial activation .
+These predictions can be distinguished by testing responses of committed progenitors to the polarizing effects of IL-4 .
+To test this experimentally , cells initially committed to an IL-4-producing phenotype or IL-4-nonproducing phenotype would need to be separated and analyzed independently for differentiation when exposed to IL-4 ( Fig .
+2 a ) .
+To separate IL-4-producing from IL-4-nonproducing committed cells , we used the novel cellular affinity matrix technology for purifying live cells based on their IL-4 Th1 Tha Tho 10° ( G A & A & 6.7 C Wild Type 46 3.6 10° ore !
+rot 403 10° ao !
+402 an `` a ' , 3 & a 2 < 1 2 is r = a 10 aot a 10° ast ant a IL+4 -- -- -- -gm 180° ao `` aot ret ne 103 .
+10° State `` & Figure 1 .
+IL-4- and Stat6-independent commitment to IL-4-producing phenotype .
+DO11.10 TCR transgenic wild-type ( A-C ) or DO11.10 Stat6-deficient ( Stat6 `` ~ , D-F ) T cells were stimulated with OVA ( 0.5 mg/ml chicken OVA ) with the addition of IL-12 ( 10 U/ml ) and 11B11 ( 10 ug/ml ; Th1 ; A and D ) , the addition of IL-4 ( 100 U/ml ) , anti-IFN-y ( H22 , 10 pg/ml ! )
+and anti-IL-12 ( Tosh , 10 pg/ml ; Th2 ; B and E ) , or with addition of anti-IL-12 , anti-IFN-y , and anti-IL-4 ( ThQ ; C and F ) , as described ( reference 17 ) .
+7 d after activation , cells were restimulated with PMA and ionomycin for 4 h followed by analysis of IL-4 and IFN-y production by intracellular staining as described previously ( references 20 , 21 , and 26 ) .
+Gates for analysis excluded dead cells and quadrants were set based on isotype control stainings ( reference 26 ) .
+The percentages displayed indicate the frequency of cells positive for IL-4 or IFN-y within the live cell gates .
+secretion ( 17 ) .
+Wild-type and Stat6é-deficient ( Stat6~'~ ) DO11.10 naive T cells were activated in the presence of anti-IL-4 , anti-IL-12 , and anti-IFN-y .
+On day 7 , cells were reactivated with PMA and ionomycin ( Fig .
+2 b , A ) , and CD4* T cells were sorted into IL-4-nonsecreting cells ( Fig .
+2 b , B ) and IL-4-secreting cells ( Fig .
+2 b , C ) .
+Each population was then divided and restimulated either in the presence of IL-4 or anti-IL-4 mAb ( 11B11 ) for 7 d. Upon restimulation , IL-4 and IFN-y production by individual cells was measured by intracellular staining ( Fig .
+2 b , D-S ) .
+Cells that had initially committed to IL-4 production ( Fig .
+2 b , C ) retained this property at a frequency compatible with differentiated Th2 cells ( Fig .
+2 b , F and G ) .
+The frequency of IL-4-positive cells in both wild-type and Stat6-deficient populations was only slightly increased by exposure to IL-4 in secondary culture ( Fig .
+2 b , compare G to F and O to NJ .
+Cells that initially had not produced IL-4 and were not exposed to IL-4 in secondary culture remained negative for IL-4 production later ( Fig .
+2 b , D and L ) , as predicted by both models .
+However , wild-type cells that were initially IL-4 negative ( Fig .
+2 b , B ) , and were exposed to IL-4 in secondary culture showed a significantly increased frequency of IL-4-producing cells ( compare Fig .
+2 b , E to D ) , consistent with redirection to an IL-4-producing fate .
+This increase in IL-4 frequency was not observed in Stat6-deficient cells ( Fig .
+2 b , compare M to L ) , suggesting that the effect required an intact IL-4 signaling pathway .
+Thus , this effect can not be explained as a continued stochastic generation of IL-4-producing cells , as the selective model would predict this to also occur in Stat6-deficient cells as well as in wild-type cells exposed to anti-IL-4 mAb .
+In addition , we observed only a minor population of cells committed to producing IFN-y in wild-type cells sorted for being IL-4 negative ( Fig .
+2 b , H and I ) .
+The percentage of this population in wild-type and Stat6b-defi-cient cells was not influenced by either the presence or absence of IL-4 ( Fig .
+2 b , H to K and P to S ) .
+Thus , in these experiments , the expansion of IFN-y-producing Th1 cells was not seen , eliminating its potential influence on inhibiting Th2 development in Stat6é-deficient T cells .
+In sum-mary , IL-4 exposure appears to direct Th2 commitment even after the initial period predicted by the selective model to generate the stochastic fixed repertoire .
+Due to the kinetics of gene activation , the frequency of IL-4 staining in activated Th2 cells is not 100 % , but ~30-50 % , consistent with previous reports ( 20-23 ) .
+Thus , it is still possible to interpret the above results as consistent with the selective model by explaining the apparent redirection of cells in Fig .
+2 as the IL-4-dependent outgrowth of Th2-committed cells that simply happened to not produce IL-4 at the time of sorting .
+Thus , to rigorously distinguish these aspects of selection from instruction , it is therefore necessary to track progenitor fates and frequencies as they expand in culture .
+To do this , we developed a retroviral-based tagging system in which either a GFP retrovirus or a GATA-3-expressing retrovirus is used to mark cells by infection during the initial activation ( Fig .
+3 a ) .
+Instructive and selec- 645 Farrar et al .
+- Brief Definitive Report a b Selective Differentiation Committed Secondary Progenitor Stimulation Phenotype : [ 4 IL-4-producing + IL-4 O O O O `` | - IL-4 GO IL-4-non-producing + IL-4 O O f ) C ( _ Z - IL-4 ~* # ~ % L_ ext __ , O ( 3° ) NZ RZ Instructive Differentiation IL-4-producing + IL-4 © 000 =t @ 0 0 nt on ant -- CD4 -- - » n° .
+in !
+IL-4-non-prod IL-4 non 5 lucing + O O O - IL-4 COO Figure 2 .
+Redirection of committed non-IL-4- _ Wild Type producing progenitors is IL-4 dependent and requires Stat6 .
+( a ) Comparison of predictions of selective and instructive models .
+Cells that have either committed to an IL-4-producing phenotype ( shaded circles ) or a non-IL-4-producing phenotype ( open circles ) are separately reactivated in a secondary stimulation .
+The in- < ta | `` m “ .
+105 aet ad a “ w `` - T F T n t m F P w CD structive differentiation model allows cytokine-depen- IFN-y dent redirection , whereas the selective model does not .
+( b ) Wild-type or Staté-deficient ( Stat6 `` ~ ) DO11.10 cells were activated by OVA in the presence of anti-IL-12 , anti-IFN-y , and anti-IL-4 for 7 d as described ( reference 17 ; A ) .
+Cells were reactivated and purified by cellular affinity matrix technology and flow cyto- wo a State `` `` metric sorting into IL-4-nonsecreting ( IL-4 Negative ; B ) and IL-4-secreting ( IL-4 Positive ; C ) populations .
+After sorting , cells were returned to culture and were reactivated with OVA and irradiated BALB/c spleno- cytes either in the presence of IL-4 ( 100 U/ml ; E , G , I , K , M , O , Q , and S ) or neutralizing anti-IL-4 mAb a { S f sot aet `` io ao !
+ao `` ao n 10 o wf as `` aot aot ao ( 11B11 ; D , F , H , J , L , N , P , and R ) .
+After 7 d , cells were stimulated with PMA and ionomycin for 4 h fol- lowed by analysis of mCD4 expression and IL-4 ( D to G and L to O ) and IFN-y ( H to K and P to S ) production by intracellular staining .
+Analysis gates exclude dead cells .
+Quadrants were set based on isotype control staining as described ( reference 26 ) , and the percentage in the top right quadrant indicates the frequency of cells positive for cytokine production .
+These experiments were performed three times with consistent results .
+tive models differ in how they predict progenitors will respond to tagging by the GATA-3-expressing retroviruses .
+To account for the known effects of GATA-3 , the selective model predicts that cells committing to either IL-4-positive or IL-4-negative fates should each expand in response to GATA-3 , but should not alter their respective fates ( Fig .
+3 a ) .
+In contrast , the instructive model predicts that , independent of initial commitment , progenitors tagged by GATA-3 may undergo redirection of fate toward IL-4 production .
+The control retrovirus expressing only the GFP tag is not predicted to alter fates in either model .
+In es-sence , the selective model predicts outgrowth of both GATA-3-expressing Th1 and Th2 clones , whereas the instructive model predicts that GATA-3 infected clones will be strongly skewed to a Th2 fate , with marked reduction in the numbers of GATA-3-infected Th1 clones .
+To eliminate any bias , we blinded this tagging experiment to the identity of the retrovirus by infecting progeni- 646 tors with a mixture of control and GATA-3 retroviruses , both expressing GFP as the retroviral marker .
+The identity of the retrovirus infecting each clone was revealed by PCR only at the end of the experiment .
+Stat6-deficient progenitors were infected with GFP and GATA-3 retroviruses and activated in either Th1 or Th2 conditions .
+On day 7 , single retrovirally infected CD4* cells were directly cloned into nonselecting conditions ( i.e .
+, in the absence of IL-12 , IL-4 , or IFN-y ) .
+Clones were expanded and characterized for IL-4 and IFN-y expression by ELISA to assign phenotype ( Fig .
+3 b ) , and only then was the identity of the infecting retrovirus determined .
+Cytokine production by all clones is presented in Fig .
+3 b for progenitors activated in Th1 ( Fig .
+3 b , A ) or Th2 ( Fig .
+3 b , B ) conditions .
+The majority of clones exhibit cytokine production that is near to one of the cytokine axes , consistent with polarization observed in bulk populations .
+The phenotype of each clone was assigned based on its cy- GATA-3 Instructs Th2 Development a Selective Differentiation Committed Ifrogenitor—z l—FMWB—t Tha O\—- 0 0 0 GATA-3 _/ Ti £ ] -- -- { YOO Instructive Differentiation m @ -- - @ 00 JGATA-ii _/ m C -- -- - © @ @ b Thi Th2 ao .A 13 40 6 19 a = Ais ) = _ .
+13 € € & ® & i R 5 20 a 5 20 ie % B $ o [ < - !
+dof ® = 10 % ' .
+* U LJ U U DO 25 50 £73 100 125 .
+150 0 $ 5 ‘ 50 75 1-00 195 - 150 IFN-y ( ng/m ! )
+IFN-y ( ng/m ! )
+GFPRV GATA3-GFP GFPRV GATA3-GFP a |C 3 D - 10,1 |E 5,7 ] [ F _ 14 € ® 15 , » 3 | » 13 » 0 E , 20 20 : so .
+zol ® Tode 10P ® tol 10 a R 4 R -= + & a F 25 So 7s 100 125 150 2s So Te 19s iso co 25 So 7s 100 12s 180 0 2s so 7s 100 126 150 IFN-y { ng/ml ) -- -- -- -- -- -- _® Figure 3 .
+- Clonal analysis of commitment in Staté-deficient T cells in fected with control or GAT A-3-expressing retroviruses .
+( a ) Comparisons of predictions of selective and instructive models .
+Progenitors committed to either an IL-4-producing ( shaded circles ) or a non-IL-4-producing phenotype ( open circles ) are infected with control retrovirus or GATA-3-expressing retrovirus .
+The selective model predicts GATA-3 to promote outgrowth of cells and not to affect their differentiation , whereas the instructive model predicts that GATA-3 should promote the differentiation of all progenitors to the IL-4-producing fate .
+( b ) Staté-deficient DO11.10 cells were activated with OVA under Th1 or Th2 conditions ( reference 17 ) .
+36 h after activation , cells were infected with a mixture of two retroviruses , GFPRV and a GATA-3-expressing retrovirus ( GATA3-GEP ; reference 27 ) .
+7 d after activation , GFP-expressing CD4+* T cells were purified and cloned by flow cytometric sorting and single-cell deposition into 96-well plates containing irradiated BALB/c splenocytes and OVA .
+After expansion , independent clones were restimulated on anti-CD3-coated plates for 24 h and supernatants analyzed for IL-4 and IFN-y secretion by ELISA ( reference 28 ) .
+The retrovirus infecting the clone was then determined by genomic PCR analysis .
+Cytokine production by individual clones derived from Th1 or Th2 conditions is presented in A and B. Cytokine production of clones segregated by the identity of the infecting retrovirus is presented in C-F. tokine production being above or below the diagonal , after which the retrovirus identity was determined ( Fig .
+3 b , C-F ) .
+Stat6-deficient cells that were infected with control GFP retrovirus were strongly skewed to the Th1 pheno- type , regardless of initial activation conditions ( Fig .
+3 b , C and E ) .
+The low number of IL-4-producing clones is compatible with the observed frequency of IL-4-positive cells in bulk populations ( Fig .
+1 E ) .
+However , Stat6-deficient clones infected with the GATA-3 retrovirus were markedly skewed to the Th2 fate , even in those clones whose progenitors were activated under Th1-inducing conditions ( Fig .
+3 b , D and F ) .
+Further , there was no apparent difference in the numbers of clones obtained under various conditions , arguing against any gross differences in selective outgrowth .
+Thus , the results of this retroviral tagging experiment are inconsistent with predictions of the selective model described above .
+To try to accommodate for this last experiment , the selective model could be slightly revised to propose that the growth-promoting effects of GATA-3 can only be exerted in cells that are also committed to IL-4 production , and not in other cells .
+In this revised selective model , the decreased number of GATA-3-infected Th1 clones would be due to the inability of GATA-3 to promote outgrowth of non-IL-4-producing cells , rather than from the conversion of their phenotype from Th1 to Th2 fate .
+Although it may be conceivable to construct a selective mechanism to restrict the effects of GATA-3 in this way , importantly this possibility can be tested using a dual-marker retroviral system to simultaneously track both fate and expansion of committed cells over time .
+We carried out this approach using unique markers to distinguish two retroviruses , with the control retrovirus expressing hCD4 , and GATA-3 retrovirus expressing GFP .
+In these experiments ( Fig .
+4 ) , Stat6-deficient progenitors were infected with a mixture of control retrovirus and GATA-3 retrovirus in the same cultures , and activated under either Th1 or Th2 conditions .
+Cells were expanded together in bulk culture , and IL-4 production by individual cells was analyzed on day 7 and on day 14 after secondary stimulation , allowing direct measurement of the frequency and phenotype of cells over time .
+On day 7 and day 14 , cells were activated with PMA/ ionomycin for 4 h and stained for intracellular production of IL-4 .
+Cells were gated for expression of a single retroviral marker ( Fig .
+4 , A and B ) , and the percentage of IL-4-positive cells in each gate was measured by intracellular IL-4 staining ( Fig .
+4 C ) .
+Last , the proportion of each retrovirally infected population is expressed as a percentage of the whole population ( Fig .
+4 D ) .
+Infection by the control virus had no effect on IL-4 production by cells over time , either in the Th1- or Th2-activated conditions ( Fig .
+4 C ) , as ex-pected .
+In contrast , infection by the GATA-3 retrovirus ( GFP-positive cells ) markedly increased the percentage of IL-4-positive cells between day 7 and day 14 .
+This effect occurred in both Th1 and Th2 conditions , and these data were highly reproducible in replicate experiments ( Table I ) .
+Importantly , the percentage of IL-4-producing cells within the GATA-3 population increased even though the total percentage of GATA-3-infected cells remains constant over time , consistent with a continuing developmental effect .
+Finally , the prediction of the revised selective model is not observed ; that is , we observe a constant ratio 647 Farrar et al .
+- Brief Definitive Report Thi Th2 CD4RV - » `` 10 GATAI-GFP -|- » CD4RV GAIA3 CD4RV GATAS so C 8 eo » ERE % 40 = zo 22.1 a » M6 ) 127 e ( eer 100 D Retroviral Marker ( % cells ) me 20 is CB 182 z _ 2 % 8s 0 T y t r r r Days Post-Infection 7 14 7 14 7 14 7 14 Retroviral Vector CD4RV GATAG-GFP | CD4RV __ Primary Conditions Thi Tha Figure 4 .
+| Intrinsic GATA-3-mediated signaling induces IL-4 expression without promoting selective cell outgrowth .
+Staté-deficient DO11.10 splenocytes were activated with OVA under Th1 or Th2 conditions ( reference 17 ) .
+36 h after activation , cells were infected with a mixture of two retroviral vectors containing control retrovirus expressing human CD4 extracellular domain marker protein ( CD4RV ) and the GATA-3-expressing retrovirus expressing a GFP marker protein ( GATA3-GFP ; reference 17 ) .
+7 d after primary activation , each culture was analyzed for GFP , hCD4 , and intracellular IL-4 by FACS® analysis ( A and B ) .
+The remaining cells were restimulated with irradiated BALB/c splenocytes and OVA for an additional 7 d. After secondary stimulation , the cells were analyzed for expression of GFP , hCD4 , and intracellular IL-4 .
+Shown are FACS® analyses of T cell cultures developed under Th1 ( A ) or Th2 ( B ) conditions and analyzed for the expression of the retroviral markers GFP ( bottom right polygon ) and human CD4 ( top left polygon ) .
+( C ) T cells expressing intracellular IL-4 are calculated as a percentage of cells expressing the gated retroviral marker proteins from cultures analyzed 7 d ( white bars ) and 14 d ( stippled bars ) after primary activation .
+( D ) T cells expressing the retroviral marker proteins ( polygon gates , top pan-els ) are expressed as a percentage of the total number of live cells .
+Data from replicate analyses are presented in Table I. of cells infected with control or GATA-3 retrovirus over time in both conditions , rather than an increase in the proportion of GAT A-3-expressing cells as predicted by the selective model .
+These results strongly argue against a purely selective mechanism in GATA-3-dependent Th2 development .
+First , we observed an apparent redirection of fate caused by exposure of previously non-IL-4-producing cells to an IL-4A-producing phenotype , inconsistent with the selective model .
+Second , we observed that GATA-3 strongly skewed the frequency of individual clones that commit to IL-4 production but did not exert selective outgrowth of clones already committed to the Th1 fate , as would be predicted by the selective model .
+Finally , using dual-tag retroviral infection , we directly measured the fate and expansion Table I .
+_ Intrinsic GATA-3-mediated Signaling Induces IL-4 Expression without Promoting Selective Cell Outgrowth Infecting retrovirus CD4RV - GATA-3-GFP Culture Day Day Day - Day conditions __ Analysis gait 7 14 7 14 % - % % % Expt .
+2 Thi IL-4 44 4.3 - 2.9 7.4 Retroviral marker 2.4 1.3 - 4.4 5.4 Th2 IL-4 8.2 5.7 - 7.6 - 22.5 Retroviral marker 2.6 2.1 4.2 6.0 Expt .
+3 Thi IL-4 6.4 2.1 8.6 22.9 Retroviral marker 11.7 4.6 _ 7.6 10.8 Th2 IL-4 5.2 12.1 11.0 56.1 Retroviral marker 13.8 16.0 12.8 16.5 Data from two additional replicate experiments ( as shown in Fig .
+4 ) are represented as percentage of cells expressing the retroviral marker and percentage of cells within each retroviral marker gait that express IL-4 by intracellular staining .
+Expt .
+, experiment .
+of distinctly committed cells , which revealed an increasing frequency of IL-4 production in the absence of any apparent increase in size of this committed population .
+Taken together , these results strongly support an instructive interpretation of recent findings regarding the transcriptional regulation of GATA-3-induced Th2 development .
+The initial production of IL-4 by small numbers of Stat6-deficient T cells is consistent with either the stochastic expression of GATA-3 in a small percentage of T cells or with the regulated expression of GATA-3 by additional factors , including the TCR/CD28 signaling pathway , as described recently ( 18 ) .
+Importantly , either explanation is consistent with an instructive model for GATA-3-induced Th2 development .
+However , it is possible that IL-4 could exert some selective/growth-promoting effects on committed Th2 cells that may not completely involve Stat6-dependent GATA-3 regulation ( 24 ) .
+For example , we observed a 10 % increase in the proportion of IL-4-producing cells in both wild-type and Stat6-deficient Th2 cells after secondary exposure to IL-4 ( Fig .
+2 b , F to G and N to O ) .
+However , this observation may be consistent with either instructive or selective models ; instructive , if IL-4 could augment expression of GATA-3 or other transcription factors through Stat6-independent pathways , which we have not excluded ; selective , if IL-4 could alter cell survival or proliferation through a Stat6-independent pathway such as insulin receptor substrate ( IRS ) -1 ( 25 ) .
+Regardless , our results exclude models exclusively requiring selection to explain GATA-3-induced Th2 development , and strongly support the existence of an instructive component in this process .
+648 GATA-3 Instructs Th2 Development This study was supported by the Deutsche Forschungsgemeinschaft ( SFB 421 ) , the Bundesministerium fiir Forschung und Technologie ( BEO/21/11340 ) , and the Senatsverwaltung fiir Wissenschaft of the State of Berlin , and National Institutes of Health grants Al31238 and 56419 .
+Max Lohning is a fellow of the Studienstiftung des deutschen Volkes .
+Submitted : 14 November 2000 Revised : 17 January 2001 Accepted : 22 January 2001 References 1 .
+2 .
+10 .
+11 .
+12 .
+13 .
+14 .
+Coffman , RL .
+, and S.L .
+Reiner .
+1999 .
+Instruction , selection , or tampering with the odds ?
+Science .
+284:1283 .
+Agarwal , S. , and A. Rao .
+1998 .
+Modulation of chromatin structure regulates cytokine gene expression during T cell differentiation .
+Immunity .
+9:765-775. .
+Murphy , K.M .
+, W. Ouyang , J.D .
+Farrar , J. Yang , S. Ranga- nath , H. Asnagli , M. Afkarian , and T.L .
+Murphy .
+2000 .
+Signaling and transcription in T helper development .
+Annu .
+Rev .
+Immunol .
+18:451-494. .
+Kaplan , M.H .
+, Y.L .
+Sun , T. Hoey , and M.J. Grusby .
+1996 .
+Impaired IL-12 responses and enhanced development of Th2 cells in Stat4-deficient mice .
+Nature .
+382:174-177. .
+Thierfelder , W.E .
+, J.M .
+van Deursen , K. Yamamoto , R.A. Tripp , SR. Sarawar , R.T. Carson , M.Y .
+Sangster , D.A .
+Vignali , P.C .
+Doherty , G.C .
+Grosveld , and J.N .
+Ihle .
+1996 .
+Requirement for Stat4 in interleukin-12-mediated responses of natural killer and T cells .
+Nature .
+382:171-174. .
+Kaplan , M.H .
+, U. Schindler , S.T .
+Smiley , and M.J. Grusby .
+1996 .
+Stat6 is required for mediating responses to IL-4 and for development of Th2 cells .
+Immunity .
+4:313-319. .
+Shimoda , K. , J. van Deursen , M.Y .
+Sangster , S.R .
+Sarawar , R.T. Carson , R.A. Tripp , C. Chu , FW .
+Quelle , T. Nosaka , D.A .
+Vignali , et al .
+1996 .
+Lack of IL-4-induced Th2 response and IgE class switching in mice with disrupted Stat6 gene .
+Nature .
+380:630-633. .
+Hollander , G.A .
+, S. Zuklys , C. Morel , E. Mizoguchi , K. Mo bisson , S. Simpson , C. Terhorst , W. Wishart , D.E .
+Golan , AK .
+Bhan , and S.J .
+Burakoff .
+1998 .
+Monoallelic expression of the interleukin-2 locus .
+Science .
+279:2118-2121. .
+Bix , M. , and R.M .
+Locksley .
+1998 .
+Independent and epige- netic regulation of the interleukin-4 alleles in CD4* T cells .
+Science .
+281:1352-1354 .
+Riviere , I. , M.J. Sunshine , and D.R .
+Littman .
+1998 .
+Regulation of IL-4 expression by activation of individual alleles .
+Immunity .
+9:217-228 .
+Bird , J.J. , D.R .
+Brown , A.C. Mullen , N.H. Moskowitz , M.A .
+Mahowald , J.R. Sider , T.F .
+Gajewski , C.R .
+Wang , and S.L .
+Reiner .
+1998 .
+Helper T cell differentiation is controlled by the cell cycle .
+Immunity .
+9:229-237 .
+Gett , A.V .
+, and P.D .
+Hodgkin .
+1998 .
+Cell division regulates the T cell cytokine repertoire , revealing a mechanism underlying immune class regulation .
+Proc .
+Natl .
+Acad .
+Sci .
+USA .
+95 : 9488-9493 .
+Richter , A. , M. Lohning , and A. Radbruch .
+1999 .
+Instruction for cytokine expression in T helper lymphocytes in relation to proliferation and cell cycle progression .
+J. Exp .
+Med .
+190:1439-1450 .
+Dent , A.L .
+, J. Hu-Li , W.E .
+Paul , and L.M .
+Staudt .
+1998 .
+T helper type 2 inflammatory disease in the absence of interleu- 649 16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+25 .
+26 .
+27 .
+28. kin 4 and transcription factor STAT6 .
+Proc .
+Natl .
+Acad .
+Sd .
+USA .
+95:13823-13828. .
+Finkelman , F.D .
+, S.C. Morris , T. Orekhova , M. Mori , D. Donaldson , S.L .
+Reiner , N.L .
+Reilly , L. Schopf , and J.F .
+Ur-ban .
+2000 .
+Stat6 regulation of in vivo IL-4 responses .
+J. Immunol .
+164:2303-2310 .
+Jankovic , D. , M.C .
+Kullberg , N. Noben-Trauth , P. Caspar , W.E .
+Paul , and A. Sher .
+2000 .
+Single cell analysis reveals that IL-4 receptor/Stat6 signaling is not required for the in vivo or in vitro development of CD4* lymphocytes with a Th2 cytokine profile .
+J. Immunol .
+164:3047-3055 .
+Ouyang , W. , M. Lohning , Z. Gao , M. Assenmacher , S. Ranganath , A. Radbruch , and K.M .
+Murphy .
+2000 .
+Staté-inde-pendent GATA-3 autoactivation directs IL-4-independent Th2 development and commitment .
+Immunity .
+12:27-37 .
+Rodriguez-Palmero , M. , T. Hara , A. Thumbs , and T. Hunig .
+1999 .
+Triggering of T cell proliferation through CD28 induces GATA-3 and promotes T helper type 2 differentiation in vitro and in vivo .
+Eur .
+J. Immunol .
+29:3914-3924 .
+Ouyang , W. , S.H .
+Ranganath , K. Weindel , D. Bhattacharya , T.L .
+Murphy , W.C. Sha , and K.M .
+Murphy .
+1998 .
+Inhibition of Th1 development mediated by GATA-3 through an IL-4-independent mechanism .
+Immunity .
+9:745-755 .
+Openshaw , P. , EE .
+Murphy , N.A .
+Hosken , V. Maino , K. Davis , K. Murphy , and A. O'Garra .
+1995 .
+Heterogeneity of intracellular cytokine synthesis at the single-cell level in polarized T helper 1 and T helper 2 populations .
+J. Exp .
+Med .
+182:1357-1367 .
+Assenmacher , M. , J. Schmitz , and A. Radbruch .
+1994 .
+Flow cytometric determination of cytokines in activated murine T helper lymphocytes : expression of interleukin-10 in inter-feron-gamma and in interleukin-4-expressing cells .
+Eur .
+J. Immunol .
+24:1097-1101 .
+Murphy , E. , K. Shibuya , N. Hosken , P. Openshaw , V. Maino , K. Davis , K. Murphy , and A. O'Garra .
+1996 .
+Re-versibility of T helper 1 and 2 populations is lost after long-term stimulation .
+J. Exp .
+Med .
+183:901-913 .
+Bucy , RP .
+, L. Karr , G.Q .
+Huang , J. L1 , D. Carter , K. Honjo , J.A .
+Lemons , K.M .
+Murphy , and C.T .
+Weaver .
+1995 .
+Single cell analysis of cytokine gene coexpression during CD4* T-cell phenotype development .
+Proc .
+Natl .
+Acad .
+Sa .
+USA .
+92:7565-7569 .
+Kaplan , MH .
+, A.L .
+Wurster , S.T .
+Smiley , and M.J. Grusby .
+1999 .
+Staté-dependent and -independent pathways for IL-4 production .
+J. Immunol .
+163:6536-6540 .
+Keegan , A.D. , K. Nelms , M. White , LM .
+Wang , J.H .
+Pierce , and WE Paul .
+1994 .
+An IL-4 receptor region containing an insulin receptor motif is important for IL-4-mediated IRS-1 phosphorylation and cell growth .
+Cell .
+76:811-820 .
+Carter , LL .
+, and K.M .
+Murphy .
+1999 .
+Lineage-specific requirement for signal transducer and activator of transcription ( Stat ) 4 in interferon gamma production from CD4 , versus CD8+* T cells .
+J. Exp .
+Med .
+189:1355-1360 .
+Ranganath , S. , W. Ouyang , D. Bhattarcharya , W.C. Sha , A. Grupe , G. Peltz , and K.M .
+Murphy .
+1998 .
+GATA-3-dependent enhancer activity in IL-4 gene regulation .
+J. Immunol .
+161:3822-3826 .
+Hsieh , C.S .
+, S.E .
+Macatonia , A. O'Garra , and K.M .
+Murphy .
+1993 .
+Pathogen-induced Th1 phenotype development in CD4* alpha beta-TCR transgenic T cells is macrophage de-pendent .
+Int .
+Immunol .
+5:371-382 .
+Farrar et al .
+- Brief Definitive Report

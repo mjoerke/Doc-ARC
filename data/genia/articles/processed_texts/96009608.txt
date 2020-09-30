@@ -1,0 +1,985 @@
+MoLECULAR AND CELLULAR BroLoGy , Oct. 1995 , p. 5789-5799 0270-7306/95/ $ 04.00+0 Copyright © 1995 , American Society for Microbiology Vol .
+15 , No .
+10 Transcriptional Repression of the Interleukin-2 Gene by Vitamin D ; : Direct Inhibition of NFATp/AP-1 Complex Formation by a Nuclear Hormone Receptor IRIS ALROY , TERRI L. TOWERS , anp LEONARD P. FREEDMAN®* Cell Biology and Genetics Program , Memorial Sloan-Kettering Cancer Center and Cornell University Graduate School of Medical Sciences , New York , New York 10021 Received 30 March 1995/Returned for modification 17 May 1995/Accepted 13 July 1995 T-lymphocyte proliferation is suppressed by 1,25-dihydroxyvitamin D , [ 1,25 ( OH ) ; D ; ] , the active metabolite of vitamin D ; , and is associated with a decrease in interleukin 2 ( IL-2 ) , gamma interferon , and granulocyte-macrophage colony-stimulating factor mRNA levels .
+We report here that 1,25 ( OH ) ; , D ; , -mediated repression in Jurkat cells is cycloheximide resistant , suggesting that it is a direct transcriptional repressive effect on IL-2 expression by the vitamin D , receptor ( VDR ) .
+We therefore examined vitamin D , -mediated repression of activated IL-2 expression by cotransfecting Jurkat cells with IL-2 promoter/reporter constructs and a VDR overexpression vector and by DNA binding .
+We delineated an element conferring both DNA binding by the receptor in vitro and 1,25 ( OH ) , D ; , -mediated repression in vivo to a short 40-bp region encompassing an important positive regulatory element , NF-AT-1 , which is bound by a T-cell-specific transcription factor , NFATp , as well as by AP-1 .
+VDR DNA-binding mutants were unable to either bind to this element in vitro or repress in vivo ; the VDR DNA-binding domain alone , however , bound the element but also could not repress IL-2 expression .
+These results indicate that DNA binding by VDR is necessary but not sufficient to mediate IL-2 repression .
+By combining partially purified proteins in vitro , we observed the loss of the bound NFAT 1-DNA complex upon inclusion of VDR or VDR-retinoid X receptor .
+Order of addition and off-rate experiments indicate that the VDR-retinoid X receptor heterodimer blocks NFATp/AP-1 complex formation and then stably associates with the NF-AT-1 element .
+This direct inhibition by a nuclear hormone receptor of transcriptional activators of the IL-2 gene may provide a mechanistic explanation of how vitamin derivatives can act as potent immunosuppressive agents .
+1,25-Dihydroxyvitamin D ; [ 1,25 ( OH ) , D ; ] , the active metabolite of vitamin D ; , is a seco-steroid hormone that binds with high affinity to a nuclear receptor , the vitamin D ; , receptor ( VDR ) .
+This receptor selectively associates with recognition sequences in the promoter region of target genes , thereby regulating the transcription of those genes .
+The principal functions of 1,25 ( OH ) ; , D ; are the stimulation of intestinal calcium and phosphorus absorption , mediation of bone remodeling , and conservation of minerals in the kidney ( for reviews , see references 46 and 63 ) .
+In addition to its action in these tissues , however , 1,25 ( OH ) ; , D ; has been found in skin , testes , breast , muscle , pan-creas , endocrine glands , thymus , and bone marrow , suggesting additional regulatory functions for the hormone .
+Notably , 1,25 ( OH ) ; , D ; appears to play an important role in modulating the growth of cells of the immune system : the hormone can induce the differentiation of myeloid leukemia cells along a monocyte/ macrophage lineage ( 1 , 4 , 6 , 49 ) and can inhibit T-lymphocyte proliferation and activation both in vivo and in vitro ( 8 , 10 , 37 , 43 , 44 ) .
+Interleukin-2 ( IL-2 ) , gamma interferon , and granulocyte-macrophage colony-stimulating factor ( GM-CSF ) mRNA levels all decrease after T cells are exposed to 1,25 ( OH ) , D ; , , but the molecular mechanisms mediating these changes have not been fully described ( 9 , 58 , 66-69 , 79 ) .
+T-cell activation is a key step in the initiation of an immu-nological response .
+Upon receipt of the appropriate stimulus , * Corresponding author .
+Mailing address : Cell Biology & Genetics Program , Memorial Sloan-Kettering Cancer Center and Cornell University Graduate School of Medical Sciences , 1275 York Ave. , New York , NY 10021 .
+Phone : ( 212 ) 639-2976 .
+Fax : ( 212 ) 717-3298 .
+Electronic mail address : 1-freedman @ ski.mskec.org .
+5789 a complex signaling cascade is initiated , resulting in cell proliferation and secretion of cytokines that enhance the immune response .
+One of the first genes to be expressed postactivation is the IL-2 gene .
+The lymphokine IL-2 exerts its influence by interacting with the IL-2 receptor on the surface of activated T cells , and this interaction is required for progression through the cell cycle ( transition from G , to S phase ) .
+The kinetics of IL-2 induction are quite rapid , with transcripts detectable within 30 to 45 min after activation .
+A complex enhancer , which includes 275 bp just downstream from the transcription start site ( -52 to -326 ) , has been exhaustively studied ( 16 , 24 , 75 ) .
+Binding sites for several ubiquitous and T-cell-specific transcription factors were defined in this region , and the proteins that bind to these sites , including Oct-1 , AP1 , NF-kB , and NFATp/c , have been identified ( 65 ) .
+Several agents , including the drugs cyclosporin A and FK506 ( 18 , 51 ) , as well as glucocorticoids ( 25 , 80 , 81 ) and retinoids ( 13 , 19 ) appear to act as immunosuppressors by targeting IL-2 expression .
+1,25 ( OH ) ; , D , inhibits the entry of activated T cells into S phase ( 68 ) ; similar blocks at this point in the cell cycle have been demonstrated for other inhibitors of IL-2 synthesis , such as the synthetic glucocorticoid dexamethasone ( 7 ) , further implicating IL-2 as a target for vitamin D ; , 's immunosuppressive effect .
+These observations demonstrate an important role for 1,25 ( OH ) ; , D ; , in the immunomodulation of T lymphocytes but not the actual mechanism by which this regulation is carried out .
+Since the signal transduction pathway of vitamin D , works directly through a hormone-inducible transcription factor , the VDR , we have focused our attention on how this nuclear receptor might mediate T-cell suppression .
+Interestingly , only 5790 ALROY ET AL .
+phytohemagglutinin ( PHA ) -activated , normal human T lymphocytes express VDR ( 8 ) .
+Two potential ways the suppression might occur are ( i ) VDR enhances the transcription of a negative regulator of a key gene involved in T-cell activation , such as IL-2 , or ( ii ) VDR directly represses the transcription of such a gene ; several members of the steroid/nuclear receptor superfamily have been shown to act as both activators and repressors of transcription , depending on the particular gene and/or cell type ( for reviews , see references 56 , 62 , 64 , 73 , and 82 ) .
+We demonstrate here that repression of IL-2 transcription by 1,25 ( OH ) ; D ; is a direct , VDR-dependent effect .
+Further , we delineate a region within the IL-2 promoter that mediates the repression ; this region coincides with the binding site for a complex critical for IL-2 transcriptional activation , NFAT ( nu-clear factor of activated T cells ) .
+NFAT induction requires two activation-dependent events ; the cyclosporin A-sensitive trans-location of a lymphoid-specific , preexisting component , NFATp , and the protein kinase C-mediated stimulation of Jun and Fos ( 13 , 26 , 65 ) .
+VDR , together with its heterodimeric partner RXR ( retinoid X receptor ) , targets this complex by blocking NFATp/AP-1 complex formation .
+This process appears to require DNA binding by VDR to the composite NFATp/AP-1 element .
+The net result is a loss of activated transcription of the IL-2 gene .
+MATERIALS AND METHODS Antibodies .
+Rabbit anti-Jun polyclonal antibody was purchased from Santa Cruz Biotechnology Inc. Rat anti-VDR monoclonal antibody 9A7 ( 5 ) was the kind gift of J. W. Pike .
+Proteins .
+Escherichia coli-expressed purified NFATp DNA-binding domain ( DBD ; residues 1 to 297 of NFATpXS [ 32 ] ) was generously provided by A. Rao .
+His-tagged , £ .
+coli-expressed purified full-length c-Jun and c-Fos were supplied both by G. Parsons and K. R. Yamamoto and by T. Kerppola and T. Curran .
+RXRB was the kind gift of K. Ozato .
+Purification of E. coli-expressed VDR and a protein containing only the DBD of human VDR ( VDRF ) has been described previously ( 12 , 23 ) .
+VDR-R50G purification was exactly as described for VDR .
+Plasmids .
+A minimal promoter/luciferase reporter , pE1b-LUC , was constructed by cloning the Elb TATA box from pElb-CAT ( obtained from R. Roeder ) as a BamHI-Xhol fragment into the HindII-Xhol sites in pGL2-basic ( Promega ) .
+Both BamHI in pE1b-CAT and HindIII in pGL2-basic were blunt ended by Klenow enzyme .
+All upstream IL-2 reporter constructs were generated from pUPSTIL2-CAT .
+The latter construct was derived from p41 ( 30 ) , containing 3.7 kb of the human IL-2 promoter and coding region .
+p41 ( provided by U. Sicbenlist ) was digested with Clel , and the fragment was cloned into pSP73 , generating p41-SP73 .
+An Ndel-PstI fragment of p41-SP73 was then cloned into pOTCO , a chloramphenicol acetyltransferase ( CAT ) reporter plasmid , generating p41-TCO .
+The resulting construct contained 200 bp of the coding sequence of the IL-2 gene which were deleted by exonuclease III digestion .
+The resulting construct , pUPSTIL2-CAT , contained 2 kb of IL-2 enhancer sequences , the IL-2 RNA start site , and 45 bp of the IL-2 leader .
+To construct p ( -1000 ) IL2-CAT , pUPSTIL2-CAT was digested with Bg/II and HindIII ( which was filled in with Klenow enzyme ) , deleting 1,000 bp of the upstream region .
+The fragment was ligated into pOTCO which was cut with Sa/l ( the ends blunted by Klenow enzyme ) and Bg/lI .
+The new construct encompassed 1,000 bp of the IL-2 enhancer/promoter .
+Both p ( -800 ) IL2-CAT and p ( -428 ) IL2-CAT were generated by exonuclease III digestion of p ( -1000 ) IL2-CAT .
+p ( -321 ) IL2-CAT was gen-crated by digesting pUPSTIL2-CAT with XmnI , and the ends were filled in by Klenow enzyme .
+Subsequently , the vector was cut with Bg/II , and a 350-bp fragment was ligated into pOTCO which was cut with Se/l and Bg/IL p ( -321 ) IL2-LUC was generated from p ( -321 ) IL2-CAT by digestion with HindIII , and the ends were filled in by Klenow enzyme .
+The DNA was then cleaved with a second restriction enzyme , Bg/lI .
+The fragment was cloned into pGL2-basic ( Promega ) which was digested with and Bg/lI .
+To construct p ( 100 ) ; E1b-LUC , 100 bp from the IL-2 enhancer ( -319 to -215 , relative to the start site ) were cloned 5 ' to the Elb TATA box in the pE1b-LUC reporter vector ( 45 ) .
+To construct p ( NFAT-1 ) 4 ; E1b-LUC , an NFAT-1 oligonucleotide duplex ( top strand , 5'-CTA GCAGAAAGGAGGAAAAACTGTITTCATACAGAAGGCGTT-3 ) was phos-phorylated with T4 kinase ( Bethesda Research Laboratories ) and then cloned into the Nhe !
+site of pE1b-LUC ( the annealed oligonucleotide was designed to have an NheI site at the 5 ' end and an Xbal site at the 3 ' end ) .
+After dideoxy sequencing , it was established that the phagemid contained five copies of the NFAT-1 oligonucleotide , all in the same orientation .
+The pSP6S-B-gal construct was generated by cloning the KprI-Pvul fragment from the B-galactosidase ( B-Gal ) gene ( 168 bp ) ( pCH110 ; Pharmacia ) into the polylinker of pSP6S .
+Mor .
+CELL .
+BioL .
+Expression plasmids were generated using the cytomegalovirus-driven pRC vector ( Invitrogen ) .
+To create pCMV-hVDR , the VDR coding sequence was isolated from the £ .
+coli overexpression vector pT7-hVDR ( 78 ) as an NheT ( filled in ) -4pal fragment into pRe-CMV , which had been digested with Xbel , filled in by Klenow enzyme , and then cut with Apel .
+To construct pCMV-VDRF , VDRF was cloned as an Xbel-EcoRI fragment from the E. coli overexpression vector pT7-VDRF ( 22 ) into pSELECT-1 ( Promega ) , ( creating pSELECT-VDRF ) .
+pRC-CMV was first cut with Xbel , and the 5 ' overhang was blunt ended with Klenow enzyme and then digested with HindIII .
+VDRF was then cloned into this plasmid as an EcoRV-HindIII fragment from pSELECT-VDRF .
+pCMV-RXRa was obtained from R. Evans ( Salk Institute ) .
+Oligonucleotide-directed in vitro mutagenesis .
+Single-stranded DNA preparation and double-primer mutagenesis were carried out as described previously ( 3 ) .
+To generate mutations in the DBD , base changes were introduced into pCMV-hVDR by using the mutagenic oligonucleotides that changed E-42 , G-43 , and G-46 simultaneously to G , S , and V , or R-50 to G , or G-46 and R-49 to A and K , respectively .
+A detailed description of the construction of these mutants will appear elsewhere ( 22 ) .
+The mutated VDR cDNAs were also transferred to a T7 overexpression vector , pAR3040 , and overexpressed in £ .
+coli and purified as previously described ( 12 ) .
+Cell transfections and reporter assays .
+The T-cell line Jurkat was transfected by the DEAE-dextran/chloroquine method .
+Cells were grown in RPMI medium containing sodium pyruvate , glutamine , and penicillin-streptomycin .
+Fetal calf serum was added to 10 % and cells , were maintained at a density of ~5 X 10°/ml .
+Cells were gently suspended ( 10 `` /ml ) in transfection cocktail ( 0.6 mM chloro-quine diphosphate [ Sigma ] ) , 0.25 mg of DEAE-dextran [ Pharmacia ] per ml in minimal essential medium containing 10 pg of reporter plasmid per ml and 2 pg of producer plasmid per ml ) .
+Cells were incubated in transfection cocktail for 2.5 h in an incubator ( 5 % CO , , 37°C ) , and then the cells were washed .
+Subsequently , the cells were resuspended ( 10/15 ml ) in RPMI-sodium pyruvate-glutamine-penicillin-streptomycin medium containing 10 % charcoal-stripped fetal calf serum .
+At 40 h posttransfection , cells were treated in one of the following ways for 8 h : no treatment ; addition of 2 x 10~° M 1,25 ( OH ) , D ; , ( Biomol ) ; addition of PHA ( 2 pg/ml ; Sigma ) and tetradecanoyl phorbol acetate ( TPA ; 50 ng/ml ; Sigma ) ( activating agents ) ; or addition of horm one and activating agents to-gether .
+Experiments were normalized to protein concentration when CAT reporters were used ; when luciferase reporters were used , Rous sarcoma virus-CAT supercoiled DNA ( 10 ug/ml ) was added to the transfection cocktail and relative light units were normalized to CAT activity .
+To determine CAT activity , cell extracts were obtained and assayed by ethyl acetate phase extraction of `` *C-acetylated chloramphenicol and quantitated by scintillation counting .
+When luciferase constructs were transfected , the cell pellet was divided into two ; half was used for CAT assays as described above , and the second half was used to determine luciferase activity as described previously ( 72 ) .
+RNA analysis .
+Jurkat cells ( 10 ' per treatment ) were transfected with p ( -321 ) IL2-LUC ( 10 pg ) , pCMV-VDR ( 2 pg ) , and pRSV-B-gal ( 10 ug ) vectors as described for the transfection protocol .
+At 40 h posttransfection , the cells were treated with different combinations of 10 mM cycloheximide ( 10 mM ) , PHA ( 2 pg/tol ) , and TPA ( 50 ng/ml ) , and 1,25 ( OH ) ; D ; ( 2 x 10~® M ) , as specified .
+At the end of each treatment ( total of 4 h ) , the cells were washed twice in ice-cold 1 % phosphate-buffered saline and cytoplasmic RNA was prepared by Nonidet P-40 lysis .
+Luciferase riboprobe was synthesized with T7 RNA polymerase from plasmid pGEM-LUC ( Promega ) linearized with EcoRV ; the probe extended 400 bp , which were all protected by luciferase RNA .
+The B-gal riboprobe was transcribed by T7 RNA polymerase from pSP65-B-gal linearized by EcoRI , resulting in 200 bp , 180 of which hybridized to B-gal RNA .
+RNA from the indicated treated transfected cells was analyzed by RNase protection assay of luciferase and B-gal antisense probes ( 50 and 20 jg cytoplasmic RNA , respectively ) except that 40 ug of RNase A ( Sigma ) per ml and 2 pg of RNase T ; ( Bethesda Research Laboratories ) per ml were used .
+Gel mobility shift electrophoresis .
+VDR DNA binding was assessed by gel mobility shift electrophoresis as described previously ( 3 , 21 ) .
+For gel shifts from Jurkat cell extracts , nuclear extracts were prepared from Jurkat cells ( 2 x 10°/ml , 400 ml ) as described previously ( 16 ) .
+Purified VDR , mutant protein derivatives , and nuclear extract were incubated with 0.1 to 0.5 ng ( 30,000 to 50,000 cpm ) of labeled NFAT-1 oligonucleotide probe at room temperature for 20 min , together with 1 ng of poly ( dI-dC ) and a binding buffer to final concentrations of 20 mM Tris-HCl ( pH 7.9 ) , 1 mM EDTA , 0.05 % Nonidet P-40 , 10 % glycerol , 50 mM KCI , and 1 mM dithiothreitol .
+Protein-DNA complexes were then resolved by electrophoresis on 6 % nondenaturing acrylamide gels ( 75:1 acrylamide/bisacryl-amide ) run in 0.5 % Tris-borate-EDTA , at 26 V/cm at 4°C .
+Gels were dried and subjected to autoradiography overnight with a screen .
+When purified Jun , Fos , and NFATp proteins were used , the binding buffer was supplemented with bovine serum albumin to 0.3 % .
+VDR and its derivatives and/or RXR were preincubated with Jun and Fos for 10 min at 30°C unless otherwise indicated .
+Tubes were transferred to ice and cooled for 5 min , and the protein mixture was added to DNA .
+NFATp was then added , and the proteins were incubated with DNA for 20 min on ice .
+Protein-DNA complexes were separated from free DNA on a 4 % nondenaturing polyacrylamide gel in 0.25 % Tris-borate-EDTA .
+DNase I footprinting .
+A 600-bp fragment encompassing the IL-2 enhancer/ promoter ( -321 to +45 ) was Klenow labeled at the 5 ' end .
+Approximately 50,000 epm of labeled DNA was incubated for 30 min at room temperature with Vou .
+15 , 1995 TRANSCRIPTIONAL REPRESSION OF THE IL-2 GENE 5791 ame 1° ; isp 1400 20 10m ap e » ap xp EcoRI HindIII UPSTIL2CAT 1 Hind1I ( -1000 ) IL2CAT ( -800 ) L2CAT ( ~428 ) IL2CAT ( 321 ) 1L2CAT B_ 1.2 5 A vVD3 Activation % o B Activation VDg+Activation pCMV-VDR p ( -1000 ) IL2 p ( -800 ) 1L2 p ( 428 ) IL2 | p ( -321 ) lL2 FIG .
+1 .
+( A ) Exonuclease-generated IL-2 enhancer constructs .
+The IL-2-CAT reporters were generated beginning with 2 kb of the promoter/enhancer as described in Materials and Methods .
+( B ) VDR represses transcriptional activation of the IL-2 enhancer/promoter .
+A VDR producer plasmid ( pCMV-VDR ) was used to cotransfect the human T-cell line Jurkat with the indicated CAT reporter constructs , p ( -1000 ) IL2-CAT , p ( -800 ) IL2-CAT , p ( -428 ) IL2-CAT , and p ( -321 ) IL2-CAT .
+The cells were transfected by the DEAE-dextran method , using 10 pg of reporter and 5 jg of producer DNA .
+At 40 h posttransfection , the cells were untreated ( - ) or treated with 1,25 ( OH ) , D ; ( VD ; ; 2 x 10~°M ) , with PHA ( 2 pg/ml ) and TPA ( 50 ng/m ! )
+( Activation ) , or with both PHA-TPA and hormone .
+Cells were incubated for an additional 8 h and then harvested .
+CAT enzyme activity was quantitated , and values were normalized to protein concentration .
+Percent activation was calculated by dividing normalized values for each treatment , i.c .
+, - , VD ; , and Activation + VD ; by the value for Activation .
+The data represent the averages of three different experiments .
+the indicated amounts of VDR protein in a reaction mixture containing 20 mM Tris-HCl ( pH 7.9 ) , 1 mM EDTA , 0.1 % Nonidet P-40 , 1 mM dithiothreitol , and 50 mM KCI ( 100 J , final volume ) .
+An equal volume of a mixture of 10 mM MgCl , and 5 mM CaCl , was added at the end of the incubation , and samples were digested for 1 min at room temperature with DNase I ( 5 pl of a 1:20,000 dilution ) ( Bethesda Research Laboratories ) .
+Immediately at the end of this incubation , 200 pl of a solution containing 200 mM NaCl , 40 mM EDTA , 1 % sodium dodecyl sulfate ( SDS ) , 100 pg of proteinase K per ml , and 125 ug of glycogen ( Boehringer Mannheim ) per ml was added , and the reaction mixture was incubated for 15 min at 37°C .
+The samples were then extracted with phenol-chloroform-isoamyl mixture and then ethanol precipitated .
+Subsequently , equal values of precipitated counts from all samples were separated on an 8 M urea-8 % polyacrylamide gel , and the gel was dried and exposed to film with a screen at -70°C .
+RESULTS Repression by VDR is mediated directly on the IL-2 enhancer .
+To localize the region conferring inhibition by 1,25 ( OH ) , D ; , , four deletion derivatives of the IL-2 enhancer fused to the CAT gene , p ( -1000 ) IL2-CAT , p ( -800 ) IL2-CAT , p ( -428 ) IL2-CAT , and p ( -321 ) IL2-CAT ( Fig .
+1A ) , were generated by exonuclease digestion of the upstream 2,000 nucle-otides ; these constructs were used to cotransfect Jurkat cells with or without a VDR producer plasmid .
+The cells were untreated , treated for 8 h with the activating agents phorbol myristate acetate ( PMA ) or TPA and with phytochemaggluti-nin ( PHA ) , with 1,25 ( OH ) , D ; alone , or with activating agents and 1,25 ( OH ) , D ; , .
+Activation levels were reduced 70 to 80 % in the presence of 1,25 ( OH ) ; D ; , and VDR in all of the IL-2 enhancer/deletion constructs ( Fig .
+1B ) , indicating that the proximal 321 bp of the enhancer contained a region which is sufficient to mediate the repression by the receptor .
+The 1,25 ( OH ) , D , -mediated repression was always stronger when the VDR producer plasmid was cotransfected , since T cells express VDR only 6 to 8 h postactivation ( 8 ) .
+This finding also indicates that VDR is limiting in these cells for the repression .
+5792 ALROY ET AL .
+The 321-bp region corresponds to the minimal enhancer region which was previously characterized as mediating IL-2-specific activation in response to signals originating from the cell surface ( 16 , 24 , 75 ) .
+Repression of IL-2 transcription by VDR could occur by one of at least three mechanisms : ( i ) VDR binds directly to an element within the IL-2 enhancer and/or interacts with positive factors that bind to this element , inhibiting the action of that factor ( direct effect ) ; ( ii ) VDR represses the expression of a key positive regulator of IL-2 expression ( indirect ) ; or ( iii ) VDR induces the expression of a repressor that in turn inhibits IL-2 transcription ( indirect ) .
+If the effect is direct , then VDR-mediated repression should not be expected to be sensitive to protein synthesis inhibitors .
+Repression of IL-2 transcription by 1,25 ( OH ) ; D ; , was therefore analyzed in Jurkat cells in the presence of cycloheximide and anisomycin .
+Cells were cotransfected with an IL-2 reporter carrying the IL-2 promoter/enhancer driving luciferase expression [ p ( -321 ) IL2-LUC ] , a VDR producer ( pCMV-VDR ) , and RSV-B-gal as a normalizing reporter .
+In all cases , cells were allowed to express VDR for 40 h following transfection prior to treatment with the protein synthesis inhibitors and/or hormone ( Fig .
+2A ) .
+No effect of VDR was expected during this time period , since the receptor was expressed in the absence of any added ligand in cells growing in charcoal-stripped serum .
+Activation of IL-2 and luciferase message synthesis by PHA and phorbol myristate acetate in the presence and absence of 1,25 ( OH ) ; , D ; was then monitored by RNase protection .
+IL-2 activation itself is dependent on de novo protein synthesis and thus served as a positive control for inhibition by cycloheximide and anisomycin .
+Cells were treated with protein synthesis inhibitors 30 min before activation , and as expected , no IL-2 mRNA was detected in response to activation ( Fig .
+2B , lane 3 ) .
+When cells were activated in the presence of 1,25 ( OH ) , D ; , the luciferase-specific mRNA was inhibited ( compare lanes 4 and 5 ) .
+Importantly , this inhibition was apparent even when 1,25 ( OH ) , D ; treatment was preceded by the addition of protein synthesis inhibitors ( Fig .
+2B , lanes 6 and 7 ) .
+Thus , repression of IL-2 mRNA synthesis by 1,25 ( OH ) ; D ; is independent of de novo protein synthesis and represents a direct effect on the IL-2 enhancer by VDR .
+A short subregion in the IL-2 enhancer mediates repression by VDR .
+The promoter-proximal 321-bp segment of the IL-2 promoter contains several binding sites for a variety of transcription factors that mediate the induction of IL-2 expression ( 13 , 26 , 28 ) .
+We were concerned that any attempt to delete further downstream in order to map the subregion mediating vitamin D ; , repression might compromise activation , resulting in a concomitant lower sensitivity to repression .
+We therefore chose to delineate the repression site by assaying for in vitro DNA binding by the receptor , initially using the 321-bp IL-2 enhancer element as a probe in a DNase I footprinting assay ( Fig .
+3A ) .
+Two closely linked protected regions were iden-tified ; the first footprint is from -283 to -278 , and the second spans -266 to -252 .
+The footprinted region overlaps an important positive IL-2 recognition element , called NF-AT-1 ( 52 ) , that contains a weak API site and a binding site for an inducible factor in T cells , NFATp ( 65 ) .
+A 41-bp oligonucleotide duplex corresponding to the sequence shown in Fig .
+3A and containing both the NF-AT-1 element and the putative VDR-binding site was synthesized and used as a probe in a gel shift assay ; as little as 20 ng of purified VDR shifted this element ( Fig .
+3B ) .
+To test if the NF-AT-1 site alone could mediate 1,25 ( OH ) , D ; -specific repression in vivo , five copies of this oligonucleotide were cloned into an Elb TATA-driving luciferase reporter and used in transfec- Mor .
+CELL .
+BioL .
+A. p ( -321 ) 1L2-LUC , pCMV-VDR , pRSV-Bgal transfected Jurkat cells 3 4 5 \ 6 7 CHX+Anisomycin 30 miﬁutes ¥ ¥ ¥ PHA+TPA PHA+TPA| PHA+TPA PHA+ITPA PHATTPA 60 milnutes 30 minutes 30 minutes CHX+Anisomycin || CHX+Anisomycin 30 m3nutes 1,25 ( OH ) ; D4 1,25 ( OH ) , Dg B .
+« [ |2 ] 1 [ 1 |1 |1 | PHA+PMA g €11 [ -|-| 2 |2 | CHX+Anisomycin r 2 !
+- !
+-| 2 |-|s | 1,25 ( OH ) 2D3 UN Luc - =s -506—Luc - 396 - 344 - 298 UN Bgal - - 220 - 201 | `` =u - gal ~154 1 2 3 4 5 6 7 FIG .
+2 .
+VDR-mediated repression on the IL-2 promoter constitutes a direct effect .
+( A ) Schematic outline of the cell treatments .
+Numbers correspond to lanes indicated in the gel shown in panel B. CHX , cycloheximide .
+( B ) RNase protection assay of cells transfected with p ( -321 ) IL2-LUC , pCMV-VDR , and pRSV-B-gal as an internal control .
+Cell treatments are indicated above each lane ; numbers correspond to the order of addition ( see panel A ) .
+The positions of the undigested riboprobes ( UN ) are indicated at the left ; on the right , the positions of the digested probe are shown .
+Lane 2 contains a negative control ( no RNA was included in the hybridization ) .
+Numbers on the right correspond to sizes ( in bases ) of DNA molecular weight markers .
+Luc , luciferase .
+tion assays .
+At least three copies of the NF-AT-1 element have been previously shown to confer strong transcriptional activation in response to cell surface activation signals ( 17 ) .
+When Jurkat cells were cotransfected with this construct and with a VDR producer , 1,25 ( OH ) , D , -specific repression of luciferase activity was observed ( Fig .
+3C ) .
+A much lower , but detectable , repression due to endogenous VDR was also seen .
+These results demonstrate that VDR can bind to and mediate its repressive effect through the same minimal element is required for IL-2 transcriptional activation , namely , the NFAT-1 site .
+RXR enhances the inhibition conferred by VDR .
+RXR is considered to be the heterodimeric partner of VDR .
+It strongly enhances VDR 's binding to a positive vitamin D response element in vitro and has been shown to be important in mediating 1,25 ( OH ) ; D ; transcription activation in vivo ( 12 , 39 , 48 , 76 ) .
+Therefore , RXR 's contribution to transcriptional repression was tested ( Fig .
+4 ) .
+An RXR overexpression plasmid Vou .
+15 , 1995 A .
+B .
+# 2 # 1 5-CTAGCAGAAAGGAGGAAAAACTGTTICATACAGAAGGCGTT-s 288 NFATp AP-1 248 0 10 20 4080100150 | ng VDR - » us tn \a < a me as TRANSCRIPTIONAL REPRESSION OF THE IL-2 GENE 5793 C. p ( NF-AT-1 ) x5-E1b-LUC 1.4 g [ q YD3 1.24 IR Activation VD3+Activation « ~ Bound % Activation __________J -288 to -248 ( NF-AT-1 ) FIG .
+3 .
+DNA binding and transcriptional repression by VDR is localized to the NFAT region of the IL-2 enhancer .
+( A ) DNase I protection of the IL-2 enhancer by VDR .
+£ .
+coli-expressed purified VDR protein ( 50 to 1,000 ng ) was used in the DNase I footprint analysis on the proximal 321 bp of the IL-2 enhancer , which conferred inhibition in the transactivation assays .
+Indicated below is the NF-AT-1 element and surrounding sequences .
+The NFATp- and Jun-Fos-binding sites are underlined , and the two VDR protected regions are overlined .
+( B ) VDR binding to a 41-bp element containing the distal NF-AT-1 site .
+An oligonucleotide duplex ( top strand , 5'-CTAGCAGAAAGGAGGAAAAACTGTITTCATAGAGAAGGCGTT-3 ' ) was used as a probe and incubated with 0 to 150 ng of purified VDR , and binding was assayed by gel shift .
+( C ) VDR mediates repression of IL-2 activation in vivo through the NF-AT-1 site .
+Cells were transfected with a luciferase reporter plasmid containing five copies of the NF-AT-1 oligonucleotide [ p ( NF-AT-1 ) , -E1b-LUC ] and with pCMV-VDR or pRC-CMV .
+Cell treatment and normalization were as described for Fig .
+1B .
+The data represent the averages of three independent experiments .
+was used to cotransfect Jurkat cells with wild-type VDR together with the p ( -321 ) IL2-LUC reporter , and cells were treated as before .
+1,25 ( OH ) ; , D , repression was nearly twofold higher when both VDR and RXR were cotransfected than when VDR was transfected alone .
+Levels of repression with VDR alone are lower in this assay than in previous experiments ( i.e .
+, 40 % in this assay versus 60 to 70 % in the assay shown in Fig .
+2B ) since half as much VDR producer plasmid was used in this experiment .
+Transfection of the RXR producer alone augmented the repression seen by the endogenous VDR receptor somewhat but not to the level observed when VDR is overexpressed , indicating that VDR and not RXR is the limiting factor for repression ( Fig .
+4 ) .
+RXR therefore plays a role in the vitamin D , repression of IL-2 transcription , presumably through heterodimerization with VDR .
+Consistent with this inference , in vitro DNA binding of VDR to the NFAT-1 element is enhanced by RXR ( see Fig .
+5B ) .
+VDR DNA binding alone is necessary but not sufficient for repression .
+Transcriptional repression by steroid and nuclear receptors appears to require an intact DBD and in some cases DNA binding ; however , in several examples , protein-protein interactions independent of DNA binding are sufficient for repression ( 27 , 38 , 40 , 73 , 83 ) .
+To determine the contributions of both the DBD and direct DNA binding by VDR to the NFAT-1 site in mediating the IL-2 repression , several mutant VDR derivatives were generated ( Fig .
+SA ) .
+Changes were introduced at various positions within the first zinc module of the VDR DBD that forms a specificity « -helix ; in a variety of nuclear receptor DBD crystal structures , side chain contacts with bases occur exclusively within this subregion of the DBD ( 47 ) .
+Thus , the expectation was that amino acid changes at G-46 and R-49 to A and K , respectively ( residues found in several other nuclear receptors at these positions ) , changing R-50 to G , or changing the P-box triplet EGG at positions 42 , 43 , and 46 to GSV ( the corresponding residues in the glucocorticoid receptor ) would drastically alter or abolish VDR-DNA binding .
+Three such mutant derivatives , EGG-GSV , G46A/ R49K , and R50G , were all overexpressed in £ .
+coli , purified to homogeneity , and tested for their relative abilities to bind to the NFAT-1 element in vitro .
+As shown in Fig .
+5B , all three mutant proteins were unable to bind the NFAT probe , in the presence or absence of RXR , under conditions in which the wild-type VDR bound the element with high affinity .
+Importantly , the EGG-GSV mutant bound a chimeric direct repeat element with high affinity in the presence of RXR , indicating that these amino acid changes did not disrupt the overall fold of the DBD ( 42 ) but rather only altered its specificity ( 22 ) .
+A fourth derivative , the VDR DBD alone ( VDRF ; residues 14 to 114 ) , which binds selectively and with high affinity to a positive vitamin D response element ( 23 ) , was also assayed for binding to the NF-AT-1 element .
+In contrast to the other mutants , this derivative was able to bind strongly to the NF-AT-1 probe ( Fig .
+5B , lanes 14 to 18 ) .
+To test the activities of these mutant VDRs in vivo , Jurkat cells were cotransfected with wild-type VDR , the three mutant VDRs , or VDRF , together with p ( -321 ) IL2-LUC , and repression of activation was assessed .
+As seen in Fig .
+5C , the ability of each of the mutants and VDRF to repress IL-2 expression was abolished or significantly less than that of wild-type VDR .
+The residual repression detected from the mutant receptors most likely derives from the 10 % inhibition attributed to the endogenous VDR in Jurkat cells .
+One mutant , G46A/R49K , partially repressed beyond the endogenous level ( i.e .
+, 33 % ) and was in fact able to bind very weakly but reproducibly to the NFAT-1 element in vitro ( Fig .
+5B , lane 10 , and data not shown ) .
+Note that VDRF , which lacks the ligand-binding do-main , should have repressed independently of hormone if it were functional .
+Immunoblotting revealed that these proteins were expressed at the same levels as wild-type VDR following transfection ( data not shown ) .
+Taken together , these results indicate that DNA binding by VDR is necessary for the repression of IL-2 expression , since the VDR DBD mutants were 5794 ALROY ET AL .
+1.8- D 161| A ) vo ; W Activation 144 ] & VDyActivation % Activation 0.4- 0.27 0.0 - VDR RXR - VDR : RXR FIG .
+4 .
+1,25 ( OH ) , D , -mediated repression is enhanced by RXR .
+Jurkat cells were cotransfected with an RXRa or VDR producer plasmid ( 1 ug ) alone or together , or with the parent vector pRe-CMV ( - ) , and with p-321 ( IL2-LUC ) .
+Cells were also transfected with RSV-CAT ( 10 pg ) , and luciferase activities ( light units ) were normalized to CAT levels , as described for Fig .
+1B .
+unable to either bind in vitro to the NF-AT-1 element or repress in vivo .
+DNA binding alone , however , is apparently not sufficient , because the VDR DBD bound the element but nevertheless could not repress activated IL-2 transcription .
+VDR inhibits NFAT complex formation on DNA in vitro .
+The results shown in Fig .
+5 suggest that other interactions in addition to simple DNA binding by VDR are implicated in 1,25 ( OH ) , D , -mediated repression of IL-2-activated transcription .
+This would most likely involve protein-protein contacts between VDR and the positive components that bind to the NF-AT-1 site , namely , NFATp and Jun-Fos ( 11 , 33-35 , 54 , 55 , 60 , 61 ) .
+To more carefully examine VDR 's role in NFAT complex formation , nuclear extracts were made from resting and activated Jurkat cells , and their levels of binding to the NFAT-1 oligonucleotide probe were assessed by gel mobility shift assay .
+A PMA- and PHA -inducible complex was detected with nuclear extracts from activated cells and to a much lower extent with extracts from resting cells ( Fig .
+6A ; compare lanes 1 and 3 ) .
+The weak shift detected with extracts from resting cells was probably due to some leaking of NF-ATp protein from the cytoplasm during extract preparation .
+Interestingly , both activated and resting cells extract shifts were inhibited when E. coli-expressed purified VDR was added to the reaction ( lanes 2 and 4 ) .
+When the £ .
+coli-expressed and purified components of the NFAT-1 binding complex , i.e .
+, the DBD fragment of murine NFATp and full-length human Jun and Fos , were incubated together with the NF-AT-1 oligonucleotide probe , two specific shifts were detected ( Fig .
+6B , lane 9 ) .
+The lower complex corresponds to the NFATp protein bound to DNA , and the more slowly migrating complex corresponds to a Jun-Fos-NFATp-DNA complex ( 54 ) .
+Jun and Fos were unable to bind on their own to this element ( Fig .
+6B , lane 2 ) , since the AP-1 site here constitutes a very weak recognition sequence ( 55 ) .
+When VDR alone or the VDR-RXR heterodimer was combined with Jun , Fos , and NFATp , complex formation was significantly inhibited , with the heterodimer inhibiting to a greater extent ( compare lanes 3 and 7 with lane 9 ) .
+Neither the DNA-binding-defective VDR-R50G , the DBD ( VDRF ) , nor RXR alone inhibited the formation of the NFATp-Jun-Fos complex ( lanes 4 to 6 ) .
+In addition , the inhibition by VDR-RXR was specific for the functional heterodimer , since VDR-R50G together with RXR was unable to affect the complex Mor .
+CELL .
+BioL .
+A. p G H T F D A N Ko N R A T R D M I R bov A , e v \ /aE-G GDC\ / a Zn N Zn a _/ \se-s r / \_ A C C as _ ans C C m Ktli FFTTSMKRKAMFT ALKRCVDIGMMKEFILTDEEVORKR EMILKHKEHE ‘ V/A KG > G B. vorm EGG > BHS nso RXR |- = + + ] ~ + + ] - + + ] ++ VDR [ > + t + ] 4+ t + ] + > + ] + > + VDR : RXR -- | VDR _ ue -VDRF re- WOUW-UOWWUUWUWWW _ ... .
+1 2 3 4 5 6 7 8 9 10111213 1415 16 17 18 C. 42 g 161 |Q VDs .
+E Activation 3 VDg+Activation Activation % VDR EGG- > GAGA R50G VDRF GSV R49K FIG .
+5 .
+Mutations in the VDR DBD abolish in vitro DNA binding and in vivo IL-2 repression .
+( A ) Mutations generated in the VDR DBD .
+Numbering corresponds to that of the translated full-length human VDR cDNA .
+( B ) Binding profiles of wild-type ( wt ) VDR ( lanes 2 to 4 ) or mutants EGG-GSV ( lanes 5 to 7 ) , G46A/R49 ( lanes 8 to 10 ) , and R50G ( lanes 11 to 13 ) to the NF-AT-1 element .
+In each series , 40 ng of purified VDR or mutant VDR was incubated alone or together with 80 ng of glutathione S-transferase-RXR and then mixed with the NF-AT-1 oligonucleotide probe .
+Lane 1 contains the probe alone .
+The positions of VDR and VDR-RXR complexes are indicated .
+In lanes 14 to 18 , binding of the VDR DBD ( VDRF ) to the NF-AT-1 probe is shown ; 0 , 10 , 20 , 40 , and 80 ng of purified VDRF protein was used .
+( C ) In vivo regulation of VDR derivatives on IL-2 expression in Jurkat cells .
+Cells were cotransfected with 10 pg of p ( -321 ) IL2-LUC reporter and the indicated VDR derivatives or the parent vector , pRe-CMV ( - ; 2 ug ) .
+Cells were also transfected with pRSV-CAT ( 10 ug ) , and luciferase activities ( light units ) were normalized to CAT levels .
+Cell treatment and normalization were as described for Fig .
+1B .
+The data represent the averages of five independent experiments .
+( lane 8 ) .
+These results recapitulate the transfection data in that the most potent species for repression appears to be VDR-RXR .
+VDR-R50G and VDRF , both of which were unable to inhibit IL-2 transcriptional activation in vivo , could not block formation of an NFAT complex on DNA in vitro .
+NFATp binds to DNA on its own and then recruits Jun and Vou .
+15 , 1995 B .
++/+ A .
+Rest .
+PHA+ NE TPA + [ NFAT vor - [ + ] - [ + hVDR-R50G NFAT -f » < - Jun-Fos-NFATp ¥ b ® w b W i < b Free 1 2 3 4 5 6 7 8 9 Free =i I .
+10 20 3 4 FIG .
+6 .
+E. coli-expressed purified VDR is able to inhibit NFAT complex formation on DNA in vitro .
+( A ) Nuclear extracts ( NE ; 4 ug ) from either resting ( lanes 1 and 2 ) or PHA ( 2 pg/ml ) - and TPA ( 50 ng/ml ) -activated ( lanes 3 and 4 ) Jurkat cells were incubated with the NFAT-1 oligonucleotide probe in the presence or absence of purified VDR ( 50 ng ) ( lanes 2 and 4 ) .
+Free and bound DNA were resolved by gel shift analysis .
+( B ) Inhibition of Jun-Fos-NFATp complex formation by VDR .
+Gel mobility shift assay with purified c-Jun ( 10 ng ) proteins ( lanes 2 to 9 ) , 2 ng of NFATp DBD ( amino acids 1 to 297 ) ( lanes 3 to 9 ) , human VDR ( hVDR ; 50 ng ) ( lanes 3 and 7 ) , VDR-R50G ( 50 ng ) ( lanes 4 and 8 ) , or VDRF ( 20 ng ; equal molar amount to VDR ) ( lane 5 ) and baculovirus-expressed RXRB ( 1.5 mg/ml ; 1:20 dilution ) ( lanes 6 to 8 ) .
+Indicated above each lane are the proteins used in the binding reaction .
+VDR , VDR-RXR , or one of the VDR derivatives was preincubated for 10 min with Jun and Fos in binding buffer .
+NFATp was then added for a 5-min incubation , after which the NFAT-1 oligonucleotide probe was added for a further 5-min incubation .
+Arrows indicate positions of protein-DNA complexes and free DNA .
+Fos to DNA , thus stabilizing the Jun-Fos-NFATp complex on the NF-AT-1 element ( 34 , 55 ) .
+The VDR-RXR heterodimer may act to inhibit the interaction between NFAT p and Jun-Fos prior to their DNA binding , or it may destabilize the complex itself once bound to DNA .
+To distinguish between these two possibilities , the VDR-RXR heterodimer was added to the gel shift reaction either before or after the NFATp-Jun-Fos complex was combined with the DNA probe .
+As shown in Fig .
+7 , the VDR-RXR heterodimer was able to repress the NFAT-specific complex only when added before , not after , the addition of DNA ( compare lanes 3 and 4 ) .
+This result suggests that the receptor interferes with the NFAT recruitment of Jun-Fos to DNA but can not displace the complex once it is bound .
+To examine this observation in more detail , an off-rate experiment was carried out by simultaneously mixing Jun , Fos , NFATp , and DNA in the presence or absence of VDR-RXR and allowing them to incubate together for 1 h. At the end of this incubation , equal aliquots were removed and added to a 20-fold molar excess of unlabeled NF-AT-1 competitor DNA for times ranging from 0 to 60 min .
+As shown in Fig .
+8 , in the absence of VDR-RXR , a 30-min half-life for the NFATp-Jun- TRANSCRIPTIONAL REPRESSION OF THE IL-2 GENE 5795 NFATp i. VOR : RXR+Jun : Fos Mrs— ” K DNA NFATp VDR : RXR ii .
+Jun+Fos 10 min A5 min 5miq\ Smie D NA VDR : RXR -J-|+ } + Jun : Fos , NFATp |- [ + ] + [ + Order of addition |i | i | i | ii Jun : Fos : NFATp - » _ W # “ b 1 2 3 4 FIG .
+7 .
+VDR and RXR act to destabilize the interaction between Jun-Fos and NFATp prior to DNA binding .
+A schematic representation of the order of addition of proteins and DNA in the gel mobility shift assay is depicted above the gel .
+The gel mobility shift assay conditions and the amounts of proteins used are exactly as described in the legend to Fig .
+6 .
+Above each lane , the order of addition is indicated .
+Fos complex was observed ; NFATp alone was considerably more unstable ( half-life of < 2 min ) .
+When VDR-RXR was included in the reaction , however , very little NFATp-Jun-Fos complex was detected , even at the earliest time point .
+Instead , VDR and VDR-RXR complexes were apparent and were stable through 60 min of competition .
+The NFATp complex alone displayed the same kinetics as it does in the absence of VDR-RXR , implying that on its own , this protein is not the target of the receptors .
+Taken together , these results indicate that VDR-RXR can block NFAT complex formation on DNA both by interfering with the assembly of the complex on DNA and by slow-kinetic binding to an overlapping DNA sequence .
+Since some residual NFAT p is always bound to DNA ( Fig .
+7 and reference 55 ) , an effective way to block the recruitment of Jun and Fos to the NFAT-1 element is by the formation of a stable VDR-RXR complex on DNA , which may subsequently displace NFAT p from DNA and preclude additional binding .
+5796 ALROY ET AL .
+Time ( min ) NFATp/Jun/Fos -B » NFATp - > Free - > 102 3 4 50 60 7 8 9 0 2 5 10 20 30 45 60 minune Mor .
+CELL .
+BioL .
+0 2 5 10 20 30 45 60 < G-VDRRXR < G-VDR 10 11 12 13 14 15 16 17 FIG .
+8 .
+The VDR-RXR heterodimer inhibits NFATp-Jun-Fos complex formation and stably binds to the NF-AT-1 element over a 60-min period .
+The NF-AT-1 oligonucleotide probe was incubated with Jun ( 10 ng ) , Fos ( 10 ng ) , and NFATp ( 2 ng ) in the absence ( lanes 2 to 9 ) and presence of VDR ( 50 ng ) and RXRB ( 50 ug of total protein ) ( lanes 10 to 17 ) for 1 h ; equal aliquots were removed , added to a 20-fold molar excess unlabeled NF-AT-1 oligonucleotide , and incubated for 0 to 60 min as indicated .
+At the end of the incubation , reaction mixtures were loaded on a 4 % native polyacrylamide gel .
+The positions of protein-DNA complexes and free DNA are indicated by arrows .
+DISCUSSION Repression of T-cell proliferation and IL-2 gene expression by the active metabolite of vitamin D , 1,25 ( OH ) ; D ; , has been documented in the literature .
+However , the molecular mechanism underlying this repression has not been characterized .
+In this work , we have attempted to elucidate the mechanism of IL-2 transcriptional repression by this hormone .
+We have found that the repression of IL-2 transcriptional activation by 1,25 ( OH ) , D ; is mediated directly on the IL-2 promoter by VDR .
+Both transfection and in vitro DNA-binding assays indicate that the receptor confers this repression most effectively in the form of a VDR-RXR heterodimer .
+The specific target for VDR is a protein complex composed of a lymphoid cell-specific transcription factor , NFATp , and the ubiquitous transcription factors Jun and Fos .
+This complex binds to a site centered at -270 in the IL-2 enhancer and alone can mediate IL-2 activation .
+This short element is therefore able to confer both the activation and repression of IL-2 transcription .
+Different repression mechanisms have been proposed for steroid/nuclear receptor family members .
+In some cases , DNA binding is required ( 2 , 14 , 15 , 31 , 70 , 71 , 84 ) , while in other examples , protein-protein interactions appear to be sufficient in conferring repression ( 36 , 38 , 40 , 41 , 70a , 74 , 83 , 85 ) .
+We have demonstrated here that DNA binding by VDR occurs within or just proximal to the NF-AT-1 element and that DNA binding is necessary but does not appear to be sufficient for the repression .
+On the one hand , we introduced into the VDR DBD several point mutations that abolish both in vitro DNA binding to the NF-AT-1 element and transrepression of IL-2-activated transcription ( Fig .
+5 ) .
+On the other hand , regions outside the VDR DBD must also be required , since a derivative encompassing just the DBD , VDRF , was capable of binding the NF-AT-1 element with high affinity but was unable to inhibit IL-2 gene transcription ( Fig .
+5 ) .
+These results suggest that VDR may interact with NFATp , Fos , or Jun , in addition to binding directly to DNA .
+Coimmunoprecipitation experiments in the presence of a reversible cross-linker have been carried out that indeed demonstrate an in vitro interaction of Jun or Fos with VDR in the absence of DNA ( 2a ) .
+Of the transcription factors that bind to the NF-AT-1 element , it is NFATp that primarily determines the DNA-binding specificity of the NFAT complex in vivo and in vitro , whereas at least a portion of the transcriptional activity is provided by Jun and Fos ( 54 , 64a ) .
+NFAT complex assembly occurs via high-affinity binding of NFATp to DNA , which in turn recruits Jun and Fos and in the process stabilizes the whole complex on DNA ( 59 ) .
+The interactions that take place between these factors and VDR were tested in a gel mobility shift blocking assay .
+Purified , full-length VDR was able to inhibit NFAT complex formation on DNA when the source of NFAT was an activated T-cell nuclear extract .
+Similarly , VDR inhibited the assembly of purified Jun , Fos , and NFATp on the NF-AT-1 element ( Fig .
+6 ) .
+The addition of RXR enhanced the ability of VDR to inhibit NFATp-Jun-Fos complex formation on DNA .
+This result is in agreement with our transfection results , which indicated that RXR enhanced the observed repression of IL-2 transcription by VDR .
+Moreover , the VDR-RXR heterodimer was able to inhibit complex formation only when added before the addition of DNA ; a prebound NFATp-Jun-Fos complex was not destabilized by the receptor ( Fig .
+7 ) .
+Importantly , both VDRF and VDR-R50G , neither of which could repress IL-2 expression in vivo , were unable to inhibit NFATp-Jun-Fos-DNA complex formation in vitro ( Fig .
+6B ) .
+That one of these VDR mutants binds DNA ( VDRF ) and the other does not ( VDR-R50G ) again points to a repression model that requires both protein-protein interactions and DNA binding .
+How then might VDR mediate the 1,25 ( OH ) , D , -dependent repression of IL-2 transcription in T cells ?
+The data presented here indicate that VDR-RXR heterodimers , which would form in response to the intracellular presence of 1,25 ( 0OH ) ; , D ; , could interfere with the assembly of the transcriptionally active NFATp-Jun-Fos-DNA complex by precluding the interaction between Jun-Fos and NFATp , since prebound NFATp-Jun-Fos can not be destabilized by VDR-RXR ( Fig .
+7 ) .
+Even if , as suggested from the off-rate experiment shown in Fig .
+8 , VDR Vou .
+15 , 1995 inhibits only Jun-Fos and permits NFATp protein to bind the DNA element , NFATp 's half-life on the NFAT-1 element is extremely short ( 33 ) , and so it would in turn dissociate from the DNA .
+The stable association of VDR-RXR on the NFAT-1 element ( Fig .
+8 ) would presumably block any subsequent assembly of the NFAT complex .
+The NF-AT-1 site in the IL-2 promoter could be an example of a complex composite DNA recognition element for NFATp , Jun-Fos , and VDR , since it appears to selectively bind all of these factors .
+Similar composite elements have been described for other examples of steroid receptor-mediated repression ( 14 , 56 , 57 , 73 ) .
+Given that glucocorticoids are known to be potent inhibitors of IL-2 transcription and that the glucocorticoid receptor interacts with Jun-Fos , it is possible that the mechanism that we propose here for VDR might be a paradigm for how steroids and vitamin derivatives ( i.e .
+, vitamin D ; and retinoids ) down-regulate the transcription of cytokines such as IL-2 , resulting in a suppression of the immune response .
+Several cytokine genes other than the IL-2 gene may be regulated by NFATp or a growing list of NFAT family mem-bers , such as NFAT c ( 20 ) , NFAT ' x ( 50 ) , NFAT-3 , and NFAT -4 ( 29 ) .
+GM-CSF , IL-3 , IL-4 , and tumor necrosis factor alpha all have NFAT elements in their promoters ( 65 ) .
+The NFAT-binding sites identified in the GM-CSF promoter differ from the IL-2 element in that the AP-1 sites are of high affinity and the NFAT sites are weak .
+The IL-4 enhancer harbors five independent NFAT sites , and at least four of these sites , including one strong NFATp-binding site , are required for promoter induction and also may form complexes with Jun and Fos ( 64a ) .
+The NFAT element in the tumor necrosis factor alpha gene appears to have diverged considerably from other NFAT -binding sites ; it binds two molecules of NFAT p as well as Jun but does not contain Fos ( 52 ) .
+It is not known whether VDR represses the transcription of these genes , but GM-CSF mRNA levels are negatively regulated by 1,25 ( OH ) , D ; , as assessed by Northern ( RNA ) blot analysis ( 77 ) .
+The work presented here suggests that the presence of an AP-1 site as part of a composite NFAT element in these cytokine promoters may mediate 1,25 ( OH ) , D ; repression or repression by other steroid/nuclear hormone receptors in a manner similar or identical to what we have described here for IL-2 .
+ACKNOWLEDGMENTS We thank M. Jasin , U. Sicbenlist , R. Roeder , R. Evans , A. Rao , G. Parsons , K. Yamamoto , T. Kerppola , T. Curran , K. Ozato , and J. W. Pike for cell lines , plasmids , proteins , and antibodies .
+We are especially grateful to A. Rao , R. Benezra , and M. Jasin , as well as members of the Freedman laboratory , for ongoing suggestions and criticisms during the course of this work , and we thank B .
+Lemon and M. Bommakanti for help with experiments .
+This work was supported by Public Health Service grants CA-08748 and CA-29502 from the National Cancer Institute .
+LP.F .
+is a Scholar of the Leukemia Society of America .
+REFERENCES 1 .
+Abe , E. , C. Miyaura , H. Sakagami , M. Takeda , K. Konno , T. Yamaaki , S. Yoshiki , and T. Suda .
+1981 .
+Differentiation of mouse myeloid leukemia cells induced by 1a , 25-dihydroxyvitamin D ; .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 78:4990-4994 .
+2 .
+Akerblom , I. E. , E. P. Slater , M. Beato , J. D. Baxter , and P. L. Mellon .
+1988 .
+Negative regulation by glucocorticoids through interference with a cAMP responsive enhancer .
+Science 241:350-353 .
+2a.Alroy , I .
+1995 .
+Ph.D. thesis .
+Cornell University , Ithaca , N.Y. 3 .
+Alroy , L , and L. P. Freedman .
+1992 .
+DNA binding analysis of glucocorticoid receptor specificity mutants .
+Nucleic Acids Res .
+20:1045-1052 .
+4 .
+Amento , E. P. , A. K. Bhalla , R. L. Kurnick , T. L. Kradin , S. A. Clemens , M. F. Holick , and S. M. Krane .
+1984 .
+1 « , 25-Dihydroxyvitamin D ; induces the maturation of the human monocyte cell line U937 , and in association TRANSCRIPTIONAL REPRESSION OF THE IL-2 GENE 10 .
+11 .
+12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+26 .
+27 .
+28 .
+29 .
+5797 with a factor from human T lymphocytes , augments production of the mono-kine , mononuclear cell factor .
+J. Clin .
+Invest .
+73:731-740. .
+Baker , A. R. , D. P. McDonnell , M. Hughes , T. M. Crisp , D. J. Mangelsdorf , M. R. Haussler , J. W. Pike , J .
+Shine , and B. W. O'Malley .
+1988 .
+Cloning and expression of full-length cDNA encoding human vitamin D receptor .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 85:3249-3298. .
+Bar-Shavit , Z. , S. L. Teitelbaum , P. Reitsma , A .
+Hall , L. E. Pegg , J .
+Trial , and A. J. Kahn .
+1983 .
+Induction of monocytic differentiation and bone resorption by 1,25-dihydroxyvitamin D ; .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 80:5907-5911. .
+Bettens , F. , F. Kristensen , C. Walker , U. Schwulera , G. D. Bonnard , and A. L. Week .
+1984 .
+Lymphokine regulation of activated ( G1 ) lymphocytes .
+II .
+Glucocorticoid and anti-Tac-induced inhibition of human T lymphocytes .
+J. Immunol .
+132:261-267. .
+Bhalla , A. K. , E. P. Amento , T. L. Clemens , M. F. Holick , and S. M. Krane .
+1983 .
+Specific high-affinity receptors for 1,25-dihydroxyvitamin D ; in human peripheral blood mononuclear cells : presence in monocytes and induction in T lymphocytes following activation .
+J. Clin .
+Endocrinol .
+Metab .
+57:1308-1310. .
+Bhalla , A. K. , E. P. Amento , and S. K. Krane .
+1986 .
+Differential effects of 1,25-dihydroxyvitamin D ; on human lymphocytes and monocyte/macro-phages : inhibition of interleukin-2 and augmentation of interleukin-1 production .
+Cell .
+Immunol .
+98:311-322 .
+Bhalla , A. K. , E. P. Amento , B. Serog , and L. H. Glimcher .
+1984 .
+1,25-Dibydroxyvitamin D ; inhibits antigen-induced T cell activation .
+J. Immunol .
+133:1748-1754 .
+Boise , L. H. , B. Petryniak , X. Mao , C. H. June , C.-Y .
+Wang , T. Lindsten , R. Bravo , K. Kovary , J. M. Leiden , and C. B. Thompson .
+1993 .
+The NFAT-1 DNA binding complex in activated T cells contains Fra-1 and JunB .
+Mol .
+Cell .
+Biol .
+13:1911-1919 .
+Cheskis , B. , and L. P. Freedman .
+1994 .
+Ligand modulates the conversion of DNA-bound vitamin D ; receptor ( VDR ) homodimers into VDR-retinoid X receptor heterodimers .
+Mol .
+Cell .
+Biol .
+14:3329-3338 .
+Crabtree , G. R. , and N. A. Clipstone .
+1994 .
+Signal transmission between the plasma membrane and nucleus of T lymphocytes .
+Annu .
+Rev .
+Biochem .
+63:1045-1083 .
+Diamond , M. I. , J. N. Miner , S. K. Yoshinaga , and K. R. Yamamoto .
+1990 .
+Transcription factor interactions : selectors of positive or negative regulation from a single DNA element .
+Science 249:1266-1272 .
+Drouin , J. , Y. L. Sun , M. Chamberland , Y. Gauthier , A. D. Lean , M. Nemer , and T. J. Schmidt .
+1993 .
+Novel glucocorticoid receptor complex with DNA element of the hormone-repressed POMC gene .
+EMBO J .
+12:145-156 .
+Durand , D. B. , M. R. Bush , J. G. Morgan , A. Weiss , and G. R. Crabtree .
+1987 .
+A 275 basepair fragment at the 5° end of the interleukin 2 gene enhances expression from a heterologous promoter in response to signals from the T cell antigen receptor .
+J. Exp .
+Med .
+165:395-407 .
+Durand , D. B. , J.-P. Shaw , M. R. Bush , R. E. Replogle , R. Belagaje , and G. R. Crabtree .
+1988 .
+Characterization of antigen response elements within the interleukin-2 enhancer .
+Mol .
+Cell .
+Biol .
+8:1715-1724 .
+Emmel , E. A. , C. L. Verweij , D. B. Durand , K. M. Higgins , E. Lacy , and G. R. Crabtree .
+1989 .
+Cyclosporin A specifically inhibits function of nuclear proteins involved in T cell activation .
+Science 246:1617-1619 .
+Felli , M. P. , A. Vacca , D. Meco , I. Scepanti , A. R. Farina , M. Maroder , S. Martinotti , E. Petrangeli , L. Frati , and A. Gulino .
+1991 .
+Retinoic acid-induced down-regulation of the interleukin-2 promoter via cis-regulatory sequences containing an octamer motif .
+Mol .
+Cell .
+Biol .
+11:4771-4778 .
+Flanangan , W. M. , B. Corthesy , R. J. Bram , and G. R. Crabtree .
+1991 .
+Nuclear association of a T-cell transcription factor blocked by FK-506 and cyclosporin .
+Nature ( London ) 352:803-807 .
+Freedman , L. P. , V. Arce , and R. Perez-Fernandez .
+1994 .
+DNA sequences that act as high affinity targets for the vitamin D ; receptor in the absence of the retinoid X receptor .
+Mol .
+Endocrinol .
+8265-273 .
+Freedman , L. P. , and B .
+Lemon .
+Unpublished data .
+Freedman , L. P. , and T. L. Towers .
+1991 .
+DNA binding properties of the vitamin D ; receptor zinc finger region .
+Mol .
+Endocrinol .
+5:1815-1826 .
+Fujita , T. , H. Shibuya , T. Ohashi , K. Yamanishi , and T. Taniguchi .
+1986 .
+Regulation of human interleukin-2 gene : functional DNA sequences in the 5 ' flanking region for the gene expression in activated T lymphocytes .
+Cell 46:401-407. .
+Gillis , S. , G. R. Crabtree , and K. A. Smith .
+1979 .
+Glucocorticoid-induced inhibition of T cell growth factor production .
+J. Immunol .
+123:1624-1631 .
+Goodbourn , S. 1994 .
+Transcriptional regulation in activated T cells .
+Curr .
+Biol .
+4:930-932 .
+Heck , S. , M. Kullmann , A. Gast , H. Ponta , H. J. Rahmsdorf , P. Herrlich , and A. C. B. Cato .
+1994 .
+A distinct modulating domain in glucocorticoid receptor monomers in the repression of activity of the transcription factor AP-1 .
+EMBO J .
+13:4087-4095 .
+Hentsch , B. , A. Mouzaki , I. Pfeuffer , D. Rungger , and E. Serfling .
+1992 .
+The weak , fine-tuned binding of ubiquitous transcription factors to the IL-2 enhancer contributes to its T cell-restricted activity .
+Nucleic Acids Res .
+20:2657-2665 .
+Hoey , T. , Y.-L. Sun , K. Williamson , and X. Xu .
+1995 .
+Isolation of two new 5798 30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+ALROY ET AL .
+members of the NF-AT gene family and functional characterization of NF-AT proteins .
+Immunity 2461-472 .
+Holbrook , N. J. , K. A. Smith , J. Fornace , C. M. Comeau , R. L. Wiskocil , and G. R. Crabtree .
+1984 .
+T-cell growth factor : complete nucleotide sequence and organization of the gene in normal and malignant cells .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 81:1643-1638 .
+Hudson , L. G. , J .
+B. Santon , C. K. Glass , and G. N. Gill .
+1990 .
+Ligand-activated thyroid hormone and retinoid acid receptors inhibit growth factor receptor promoter expression .
+Cell 62:1165-1175 .
+Jain , J. , E. Burgeon , T. M. Badalian , P. G. Hogan , and A. Rao .
+1995 .
+A similar DNA-binding motif in NFAT family proteins and the Rel homology region .
+J. Biol .
+Chem .
+270:4138-4195 .
+Jain , J. , Z .
+Miner , and A. Rao .
+1993 .
+Analysis of the preexisting and nuclear forms of nuclear factor of activated T cells .
+J. Immunol .
+151:837-848 .
+Jain , J. , P. G. McCaffrey , Z .
+Miner , T. K. Kerpolla , J. N. Lambert , G. L. Verdine , T. Curran , and A. Rao .
+1993 .
+The T-cell transcription factor NFATp is a substrate for calcineurin and interacts with Fos and Jun .
+Nature ( London ) 365:352-355 .
+Jain , J. , P. G. McCaffrey , V. E. Valge-Archer , and A. Rao .
+1992 .
+Nuclear factor of activated T cell contains Fos and Jun .
+Nature ( London ) 356:801-804 .
+Jonat , C. , H. J. Rahmsdorf , K.~K .
+Park , A. C. B. Cato , S. Gebel , H. Ponta , and P. Herrlich .
+1990 .
+Antitumor promotion and antiinflammation : down-modulation of AP-1 ( Fos/Jun ) activity by glucocorticoid hormone .
+Cell 62 : 1189-1204 .
+Kankova , M. , W. Luini , M. Pedrazzoni , F. Riganti , M. Sironi , and B. Bot-tazzi .
+1991 .
+Impairment of cytokine production in mice fed a vitamin D ; -deficient dict .
+Immunology 73:466-471 .
+Kerppola , T. K. , D. Luk , and T. Curran .
+1993 .
+Fos is a preferential target of glucocorticoid receptor inhibition of AP-1 activity in vitro .
+Mol .
+Cell .
+Biol .
+13:3782-3791 .
+Kliewer , S. A. , K. Umesono , D. J. Mangelsdorf , and R. M. Evans .
+1992 .
+Retinoid X receptor interacts with nuclear receptors in retinoic acid , thyroid hormone and vitamin D ; signalling .
+Nature ( London ) 355:446-449 .
+Konig , H. , H. Ponta , H. J. Rahmsdorf , and P. Herrlich .
+1992 .
+Interference between pathway-specific transcription factors : glucocorticoids antagonize phorbol ester-induced AP-1 activity without altering AP-1 site occupation in vivo .
+EMBO J .
+11:2241-2246 .
+Kutoh , E. , P.-E. Stromstedt , and L. Poellinger .
+1992 .
+Functional interference between the ubiquitous and constitutive octamer transcription factor 1 ( OTF-1 ) and the glucocorticoid receptor by direct protein-protein interaction involving the homeo subdomain of OTF-1 .
+Mol .
+Cell .
+Biol .
+12:4960-4969 .
+Leftsin , J .
+A. , J. R. Thomas , and K. R. Yamamoto .
+1994 .
+Influence of a steroid receptor DNA-binding domain on transcriptional regulatory func-tions .
+Genes Dev .
+8:2842-2856 .
+Lemire , J. M. , J. S. Adams , V. Kermani-Arab , A. C. Bakke , R. Sakai , and S. C. Jordan .
+1985 .
+1,25-Dihydroxyvitamin D , suppresses human T helper/ inducer lymphocyte activity in vitro .
+J. Immunol .
+134:3032-3039 .
+Lemire , J. M. , J. S. Adams , R. Sakai , and S. C. Jordan .
+1984 .
+1,25-Dihydroxyvitamin D ; suppresses proliferation and immunoglobulin production by normal human blood mononuclear cells .
+J. Clin .
+Invest .
+74:1451-1462 .
+Liu , M. , and L. P. Freedman .
+1994 .
+Transcriptional synergism between the vitamin D3 receptor and other nonreceptor transcription factors .
+Mol .
+Endocrinol .
+8:1593-1604 .
+Lowe , K. E. , A. C. Maiyar , and A. W. Norman .
+1992 .
+Vitamin D-mediated gene expression .
+Crit .
+Rev .
+Eukaryotic Gene Expression 2:65-109 .
+Luisi , B. F. , W. X. Xu , Z. Otwi ki , L. P. Freed K. R. Y to , and P. B. Sigler .
+1991 .
+Crystallographic analysis of the interaction of the glucocorticoid receptor with DNA .
+Nature ( London ) 352:497-505 .
+MacDonald , P. N. , D. R. Dowd , S. Nakajama , M. A. Galligan , M. C. Reeder , C. A. Haussler , K. Ozato , and M. R. Haussler .
+1993 .
+Retinoid X receptors stimulate and 9-cis retinoic acid inhibits 1,25-dihydroxyvitamin D ; -activated expression of the rat osteocalcin gene .
+Mol .
+Cell .
+Biol .
+13:5907-5917 .
+Mangelsdorf , D. J. , J. W. Pike , and M. R. Haussler .
+1984 .
+1,25-Dihydroxyvitamin D3-induced differentiation in a human promyelocytic leukemia cell line ( HL-60 ) : receptor-mediated maturation to macrophage-like cells .
+J .
+Cell .
+Biol .
+98:391-398 .
+Masuda , E. S. , Y. Naito , H. Tokumitsu , D. Campbell , F. Saito , C. Hannum , K.-I .
+Arai , and N. Arai .
+1995 .
+NFATx , a novel member of the nuclear factor of activated T cells family that is expressed primarily in the thymus .
+Mol .
+Cell .
+Biol .
+15:2697-2706 .
+Mattila , P. S. , K. S. Ullman , S. Fiering , E. A. Emmel , M. McCutcheon , G. R. Crabtree , and L. A. Herzenberg , .
+1990 .
+The actions of cyclosporin A and FK506 suggest a novel step in the activation of T lymphocytes .
+EMBO J .
+9:4425-4433 .
+McCaffrey , P. G. , A. E. Goldfeld , and A. Rao .
+1994 .
+The role of NFATp in cyclosporin A-sensitive tumor necrosis factor- « gene transcription .
+J. Biol .
+Chem .
+269:30445-30450 .
+McCaffrey , P. G. , J. Jain , C. Jamieson , R. Sen , and A. Rao .
+1992 .
+A T cell nuclear factor resembling NFAT binds to an NF- « B site and to the conserved lymphokine promoter sequence `` cytokine-1 . ``
+J. Biol .
+Chem .
+267 : 1864-1871 .
+McCaffrey , P. G. , C. Luo , T. K. Kerppola , J. Jain , T. M. Badalian , A. M. Ho , 55 .
+56 .
+57 .
+58 .
+59 .
+60 .
+61 .
+62 .
+63 .
+64 .
+Mor .
+CELL .
+BioL .
+E. Burgeon , W. S. Lane , J. N. Lambert , T. Curran , G. L. Verdine , A. Rao , and P. G. Hogan .
+1993 .
+Isolation of the cyclosporin-sensitive T cell transcription factor NFATp .
+Science 262:750-754 .
+McCaffrey , P. G. , B .
+A. Perrino , T. R. Soderling , and A. Rao .
+1993 .
+NF-ATp , a T lymphocyte DNA-binding protein that is a target for calcineurin and immunosuppressive drugs .
+J. Biol .
+Chem .
+268:3747-3752 .
+Miner , J. N. , and K. R. Yamamoto .
+1991 .
+Regulatory crosstalk at composite response elements .
+Trends Biochem .
+Sci .
+16:423-426 .
+Miner , J. N. , and K. R. Yamamoto .
+1992 .
+The basic region of AP-1 specifies glucocorticoid receptor activity at a composite response clement .
+Genes Dev .
+62491-2501 .
+Natsui , T. , R. Takahashi , Y. Nakao , T. Koizumi , Y. Katakami , K. Mibara , T. Sugiyama , and T. Fujita .
+1986 .
+1,25-Dibydroxyvitamin D ; -regulated expression of genes involved in human T-lymphocyte proliferation and differenti-ation .
+Cancer Res .
+46:5827-5831 .
+Nolan , G. P. 1994 .
+NF-AT-AP-1 and Rel-bZIP : hybrid vigor and binding under the influence .
+Cell 77:795-798 .
+Northrop , J. P. , S. N. Ho , L. Chen , D. J. Thomas , L. A. Timmerman , G. P. Nolan , A. Admon , and G. R. Crabtree .
+1994 .
+NF-AT components define a family of transcription factors targeted in T-cell activation .
+Nature ( London ) 369:497-502 .
+Northrop , J. P. , K. S. Ullman , and G. R. Crabtree .
+1993 .
+Characterization of the nuclear and cytoplasmic components of the lymphoid-specific nuclear factor of activated T cell ( NF-AT ) complex .
+J. Biol .
+Chem .
+268:2917-2923 .
+Pfahl , M. 1993 .
+Nuclear receptor/AP-1 interaction .
+Endocrine Res .
+14:651-658 .
+Pike , J. W. 1991 .
+Vitamin D , receptors : structure and function in transcription .
+Annu .
+Rev .
+Nutr .
+11:189-216 .
+Ponta , H. , A. C. B. Cato , and P. Herrlich .
+1992 .
+Interference of pathway specific transcription factors .
+Biochim .
+Biophys .
+Acta 1129:255-261 .
+64a.Rao , A .
+Personal communication .
+65 .
+66 .
+67 .
+68 .
+69 .
+70 .
+Rao , A .
+1994 .
+NF-ATp : a transcription factor required for the co-ordinate induction of several cytokine genes .
+Immunol .
+Today 15:274-281 .
+Rigby , W. F. C. 1988 .
+The immunobiology of vitamin D. Immunol .
+Today 8:54-58 .
+Rigby , W. F. C. , S. Denome , and M. W. Fanger .
+1987 .
+Regulation of lymphokine production and human T lymphocyte activation by 1,25-dihydroxyvitamin D , .
+J. Clin .
+Invest .
+79:1659-1664 .
+Rigby , W. F. C. , R. J. Noelle , K. Krause , and M. W. Fanger .
+1985 .
+The effects of 1,25-dihydroxyvitamin D ; on human T lymphocyte activation and prolif-eration : a cell cycle analysis .
+J. Immunol .
+135:2279-2285 .
+Rigby , W. F. C. , T. Stacy , and M. W. Fanger .
+1984 .
+Inhibition of T lymphocytes mitogenesis by 1,25-dihydroxyvitamin D ; ( calcitriol ) .
+J. Clin .
+Invest .
+74:1451-1455 .
+Sakai , D. D. , S. Helms , J. Carldtedt-Duke , J.-A .
+Gustafsson , F. M. Rottman , and K. R. Yamamoto .
+1988 .
+Hormone-mediated repression : a negative glucocorticoid response element from the bovine prolactin gene .
+Genes Dev .
+2:11144-1154 .
+70a.Salbert , G. , A. Fanjul , F. J. Piedrafira , X. P. Lu , S.-J .
+Kim , P. Tran , and M. 71 .
+72 .
+73 .
+74 .
+75 .
+76 .
+77 .
+78 .
+79 .
+Pfahl .
+1993 .
+Retinoid acid receptors and retinoid X receptor- down regulate the transforming growth factor-B1 promoter activity by antagonizing AP-1 activity .
+Mol .
+Endocrinol .
+7:1347-1356 .
+Schena , M. , L. P. Freedman , and K. R. Yamamoto .
+1989 .
+Mutations in the glucocorticoid zinc finger region that distinguish interdigitated DNA binding and transcriptional enhancement activities .
+Genes Dev .
+3:1590-1601 .
+Schorlemmer , J. , A. V. Puijenbroek , M. van den Eijnden , L. Jonk , C. Pals , and W. Kruijer .
+1994 .
+Characterization of a negative retinoic acid response element in the murine Oct4 promoter .
+Mol .
+Cell .
+Biol .
+14:1122-1136 .
+Schule , R. , and R. M. Evans .
+1991 .
+Cross-coupling of signal transduction pathways : zinc finger meets leucine zipper .
+Trends Genet .
+7:377-381 .
+Schule , R. , P. Rangarajan , S. Kliewer , L. J. Ransone , J. Bolado , N. Yang , I. M. Verma , and R. M. Evans .
+1990 .
+Functional antagonism between onco-protein c-Jun and the glucocorticoid receptor .
+Cell 62:1217-1226 .
+Siebenlist , U. , D. B. Durand , P. Bressler , N. J. Holbrook , C. A. Norris , M. Kamoun , J .
+A. Kant , and G. R. Crabtree .
+1986 .
+Promoter region of interleukin-2 gene undergoes chromatin structure changes and confers inducibil-ity on chloramphenicol acetyltransferase gene during activation of T cells .
+Mol .
+Cell .
+Biol .
+6:3042-3049 .
+Sone , T. , S. Kerner , and J. W. Pike .
+1991 .
+Vitamin D receptor interaction with specific DNA .
+J. Biol .
+Chem .
+266:23296-23305 .
+Tobler , A. , J. Gasson , H. Reichel , A. W. Norman , and H. P. Koeffler .
+1987 .
+Granulocyte-macrophage colony-stimulating factor sensitive and receptor-mediated regulation by 1,25-dihydroxyvitamin D ; in normal human peripheral blood monocytes .
+J. Clin .
+Invest .
+79:1700-1705 .
+Towers , T. L. , B. F. Luisi , A. Asianoy , and L. P. Freedman .
+1993 .
+DNA target selectivity by the vitamin D ; receptor : mechanism of dimer binding to an asymmetric repeat element .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:6310-6314 .
+Tsoukas , C. D. , D. M. Provvedini , and S. C. Manolagas .
+1984 .
+1,25-Dihydroxyvitamin D ; : a novel immunoregulatory hormone .
+Science 224:1438-1441. .
+Vacca , A. , M. P. Felli , A. R. Farina , S. Martinotti , M. Maroder , I. Screpanti , D. Meco , E. Petrangeli , L. Frati , and A. Gulino .
+1992 .
+Glucocorticoid recep- Vou .
+15 , 1995 81 .
+82. tor-mediated suppression of the interleukin 2 gene expression through impairment of the cooperativity between nuclear factor of activated T cells and AP-1 enhancer elements .
+J. Exp .
+Med .
+175:637-646 .
+Vacca , A. , S. Martinotti , I. Screpanti , M. Maroder , M. P. Felli , A. R. Farina , A. Gismondi , A. Santoni , L. Frati , and A. Gulino .
+1990 .
+Transcriptional regulation of the interleukin 2 gene by glucocorticoid hormones .
+Role of steroid receptor and antigen-responsive 5 ' flanking sequences .
+J. Biol .
+Chem .
+265:8075-8080 .
+Wahli , W. , and E. Martinez .
+1991 .
+Superfamily of steroid nuclear receptors : positive and negative regulators of gene expression .
+FASEB J .
+5:2243-2249 .
+TRANSCRIPTIONAL REPRESSION OF THE IL-2 GENE 83 .
+84 .
+85 .
+5799 Yang-¥en , H.-F. , J.-C. Chambard , Y.-L. Sun , T. Smeal , T. J. Schmidt , J. Drouin , and M. Karin .
+1990 .
+Transcriptional interference between c-Jun and the glucocorticoid receptor : mutual inhibition of DNA binding due to direct protein-protein interaction .
+Cell 62:1205-1215 .
+Zhang , X.-K. , J.-M. Dong , and J.-F. Chiu .
+1991 .
+Regulation of a-fetoprotein gene expression by antagonism between AP-1 and the glucocorticoid receptor at their overlapping binding site .
+J. Biol .
+Chem .
+266:8248-8254 .
+Zhang , X.-K. , K. N. Wills , M. Husmann , T. Hermann , and M. Pfahl .
+1991 .
+Novel pathway for thyroid hormone receptor action through interaction with jun and fos oncogene activities .
+Mol .
+Cell .
+Biol .
+11:6016-6025 .

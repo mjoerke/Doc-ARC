@@ -1,0 +1,952 @@
+MOLECULAR AND CELLULAR BIOLOGY , Dec. 1996 , p. 6829-6840 0270-7306/96/ $ 04.00+0 Copyright © 1996 , American Society for Microbiology Vol .
+16 , No .
+12 Elf-1 and StatS5 Bind to a Critical Element in a New Enhancer of the Human Interleukin-2 Receptor « Gene PATRICK LECINE , * MICHELE ALGARTE , '¢ PASCAL RAMEIL , ' CAROL BEADLING , `` % PHILIPP BUCHER , `` MARKUS NABHOLZ , ° anp JEAN IMBERT'* INSERM U119 , 13009 Marseille , France ' ; Lymphocyte Activation Laboratory , Imperial Cancer Research Fund , London WC2A 3PX , United Kingdom `` ; and Swiss Institute for Experimental Cancer Research , CH-1066 Epalinges , Switzerland `` Received 5 June 1996/Returned for modification 9 July 1996/Accepted 23 September 1996 The interleukin 2 receptor « -chain ( IL-2Ra « ) gene is a key regulator of lymphocyte proliferation .
+IL-2Ra is rapidly and potently induced in T cells in response to mitogenic stimuli .
+Interleukin 2 ( IL-2 ) stimulates IL-2Ra transcription , thereby amplifying expression of its own high-affinity receptor .
+IL-2Ra « transcription is at least in part controlled by two positive regulatory regions , PRRI and PRRII PRRI is an inducible proximal enhancer , located between nucleotides -276 and -244 , which contains NF-KB and SRE/CArG motifs .
+PRRII is a T-cell-specific enhancer , located between nucleotides -137 and -64 , which binds the T-cell-specific Ets protein Elf-1 and HMG-I ( Y ) proteins .
+However , none of these proximal regions account for the induction of IL-2Ra « transcription by IL-2 .
+To find new regulatory regions of the IL-2Ra gene , 8.5 kb of the 5 ' end noncoding sequence of the IL-2Ra « gene have been sequenced .
+We identified an 86-nucleotide fragment that is 90 % identical to the recently characterized murine IL-2-responsive element ( mIL-2rE ) .
+This putative human IL-2rE , designated PRRIII , confers IL-2 responsiveness on a heterologous promoter .
+PRRIII contains a Stat protein binding site that overlaps with an EBS motif ( GASd/EBSd ) .
+These are essential for IL-2 inducibility of PRRIII/CAT reporter constructs .
+IL-2 induced the binding of StatSa and b proteins to the human GASd element .
+To confirm the physiological relevance of these findings , we carried out in vivo footprinting experiments which showed that stimulation of IL-2Ra « expression correlated with occupancy of the GASd element .
+Our data demonstrate a major role of the GASd/EBSd element in IL-2Ra « regulation and suggest that the T-cell-specific Elf-1 factor can serve as a transcriptional repressor .
+Interleukin-2 ( IL-2 ) , a key regulator of the immune re-sponse , is secreted by activated T cells upon antigenic stimulation .
+Binding of IL-2 to its high-affinity receptor induces proliferation as well as functional differentiation of T and B lymphocytes and natural killer activation ( 63 , 68 , 69 , 74 ) .
+The high-affinity IL-2 receptor ( IL-2R ) consists of three chains : IL-Z2Ra , IL-2R $ B , , and IL-Z2Ry , , ( 7 , 35 , 67 , 71 ) .
+The two latter subunits are shared by other cytokine receptors : IL-2R $ B , , is part of the IL-15R ( 16 ) , and IL-2Ry , , is part of IL-4R , IL-7R , IL-9R , and IL-15R ( 31 , 48 , 59 ) .
+IL-2RB , , and IL-2Ry , are present constitutively on resting T lymphocytes ( reviewed in reference 42 ) .
+In contrast , the « chain of IL-Z2R appears at the cell surface only after activation ( reviewed in reference 34 ) .
+Expression of the human IL-Z2R « gene is regulated by two positive regulatory regions within its proximal enhancer/promoter region , located between nucleotides -276 and -244 and between nucleotides -137 and -64 , designated PRRI and PRRII , respectively , by John et al .
+( 26 ) .
+PRRI contains kB and SRE/CArG box regulatory elements and is required for activation of IL-2Ra expression by Tax ( transcription activator protein of human T-cell leukemia virus type 1 ) as well as by stimulation with phorbol myristate acetate and IL-1 .
+Transient * Corresponding author .
+Mailing address : INSERM U119 , 27 Boulevard Lei Roure , 13009 Marseille , France .
+Phone : ( 33 ) 4 91 75 84 04 .
+Fax : ( 33 ) 4 91 26 03 64 .
+Electronic mail address : imbert @ infobiogen.fr .
+{ Present address : Lady Davis Institute for Medical Research , The Sir Mortimer B. Davis-Jewish General Hospital , Montréal , Québec H3T 1E2 , Canada . }
+Present address : Division of Allergy-Immunology , Department of Medicine , The New York Hospital-Cornell Medical Center , New York , NY 10021 .
+6829 transfection experiments have suggested that NF-kB and an SRE-related protein control the activity of PRRI ( 33 , 36 , 52 ) .
+We have recently provided strong evidence for a major role of these sites by in vivo genomic footprinting ( 1 ) .
+PRRII contains binding sites for an Ets family protein , Elf-1 , and the nonhis-tone chromatin-associated protein , HMG-I ( Y ) , and is involved in basal promoter activity and T-cell specificity of IL-2Ra expression ( 26 ) .
+Binding of IL-2 to its receptor induces activation of cytoplasmic tyrosine kinases belonging to the Janus kinase ( Jak ) family ( 58 ) .
+To date , the Jak family consists of Jak1 , Jak2 , Jak3 , and Tyk2 ( 13 , 21 , 32 , 79 ) .
+Cytokine receptor subunits selectively associate with one Jak kinase ( reviewed in references 24 and 60 ) .
+The IL-2Ry , , chain is associated with Jak3 , and IL-2RB , is associated with Jak1 ( 27 , 28 , 43 , 80 ) .
+Downstream effectors of the Jak kinases are the signal transducers and activators of transcription ( Stat proteins ) .
+This family of proteins at present includes seven mammalian members : Statl , 2 , 3 , 4 , 5a , 5b , and 6 ( 38 , 56 , 72 , 82 , 83 ) .
+Stat5 proteins are activated by IL-2 , IL-3 , IL-7 , IL-9 ( 29 ) , IL-15 , erythropoietin ( 10 ) , and prolactin ( 19 , 37 , 44 , 72 ) .
+Activation of Jak kinases following ligand-mediated oligomerization leads to tyrosine phosphorylation of Stat proteins .
+Phosphorylated Stat proteins dimerize via their SH2 domains ( 62 ) .
+Dimers can enter the nucleus and bind to specific DNA sequences ( reviewed in references 22 , 24 , and 60 ) .
+The transcriptional activity of Stat complexes including StatS5 is controlled by both tyrosine and serine phosphorylation ( 5 , 78 ) .
+IL-2 stimulation of T or NK cells results in activation of Stat3 and Stat5 ( 6 , 15 , 37 , 73 ) .
+It has previously been shown that IL-2 stimulates IL-Z2Ra « transcription , thereby amplifying expression of its own high 6830 LECINE ET AL .
+affinity receptor ( 11 , 39 , 54 ) .
+More recently , the physiological relevance of the positive regulation of IL-2Ra « gene transcription by IL-2 has been demonstrated in both humans ( 53 ) and mice ( 64 ) .
+In transgenic mice , the role of the 5 ' flanking region of the IL-2Ra gene for this regulation has been demonstrated ( 64 ) , and an IL-2-responsive enhancer ( IL-2rE ) has been identified in the murine IL-2Ra « gene .
+This 78-nucleotide segment maps 1.3 kb upstream of the major transcription site and contains two potential binding sites for Stat family proteins ( GAS motif ) and a potential Ets-binding site ( EBS ) ( 65 ) .
+Using nucleotide sequence analysis , we have identified an 876-nucleo-tide segment in the 5° flanking region of the human IL-2Ra gene that is 66 % identical with the region between nucleotides -900 and -1700 in the murine gene .
+It includes a stretch of 86 nucleotides which is 90 % identical to the murine IL-2rE .
+By transient transfection experiments we show that this putative human IL-2rE , here designated PRRIII , confers IL-2 responsiveness on a heterologous promoter .
+PRRIII contains two Stat binding sites , one GATA site , and two EBS motifs .
+We have identified the constitutive and inducible factors which bind to IL-2rE cis-acting elements by electrophoretic mobility shift assays ( EMSAs ) and DNA affinity purification .
+Point mutations and in vivo footprinting analysis revealed a major role of the distal Stat-binding site which overlaps with an EBS motif .
+PRRIII and its mouse homolog are the first clearly identified natural IL-2 responsive enhancers , and the functional characterization of PRRIII presented here contributes to the elucidation of IL-2-stimulated transcription in general and significantly improves our understanding of the transcriptional regulation of the IL-2Ra « gene .
+It thereby opens new perspectives for the comprehension of the role of IL-Z2Ra « expression in immune responses .
+( This paper partially fulfills the requirements for the doctoral degrees of P. Lécine and P .
+Rameil . )
+MATERIALS AND METHODS Cell culture .
+The IL-2-dependent human T-cell line Kit225 ( 18 ) was maintained in RPMI 1650 with 10 % fetal calf serum containing 2 mM 1.-glutamine and 1 nM recombinant IL-2 ( Eurocetus ) .
+The cells were arrested in a quiescent state by washing them twice in phosphate-buffered saline ( PBS ) and culturing in RPMI 1650 with 10 % fetal calf serum in the absence of IL-2 for 20 h ( for transient transfection experiments ) or for 48 h ( for EMSA and affinity purification of DNA binding proteins ) .
+Ba/F3 , a murine proB cell line , was grown in RPMI 1650 with 10 % fetal calf serum containing 2 mM 1-glutamine and murine IL-3 .
+Murine IL-3 was obtained as a supernatant of COS-1 cells transiently transfected with a plasmid containing the murine IL-3 cDNA ( a generous gift of F. Lee , DNAX ) .
+Human peripheral blood mononuclear cells ( PBMC ) were isolated from voluntary , healthy blood donors and maintained for 3 days with 2.5 ug of phytohemagglutinin ( Sigma ) per ml in RPMI 1650 with 10 % fetal calf serum containing 2 mM L-glutamine .
+PBMC were arrested in a quiescent state by two washes in PBS and cultured in RPMI 1650 with 10 % fetal calf serum in the absence of IL-2 for 20 h before stimulation with 50 U of recombinant IL-2 per ml as indicated in figure legends .
+EMSAs , affinity purification of DNA binding proteins , and Western blots ( immunoblots ) .
+Whole-cell extracts were prepared by lysis of 4 x 10 `` cells per ml for 20 min at 40°C in lysis buffer ( 50 mM Tris-HCl [ pH 8.0 ] , 0.5 % Nonidet P-40 , 150 mM NaCl , 10 % glycerol , 0.1 mM EDTA , 10 mM NaF , 1 mM Na , VO , , 1 mM phenyl methylsulfonyl fluoride , 1 mM dithiothreitol , 1 ug of aprotinin per ml , 1 ug of leupeptin per ml , 1 ug of chymostatin per ml ) .
+Cell extracts were precleared by centrifugation at 13,000 rpm for 5 min at 4°C .
+Synthetic oligonucleotide probes were end labeled with [ y- `` `` P ] JATP .
+The following probes were used ( GAS motifs are underlined ; EBS and GATA motifs are doubly underlined ; the mutated nucleotides are in boldface ) : FeyRI-GAS , GTATITCCCAGAAAAG GAAC ; - FeyRI-mGAS , GTATTGACCAGAAAAGGAAC ; - IL-2Ra-GASd/ EBSd , TTTCTTCTAGGAAGTACC ; IL-2R « -m1GASd , TTTCTGATAGGAA GTACC ; TTTCGGCTAGGAAGTACC ; IL-2R « -mEBSd , TTTCTTCTCCGAAGTACC ; IL-2R « -GASp/GATA , ACATITCTGATAATAG AATT ; EBSa , GATAACAGGAAGTGGTTGTA ; EBSz , GATAAACACCAAGT GGTTGTA .
+To reveal GAS-binding proteins , 8 wl of whole-cell extracts , equivalent to 3 10° cells , was incubated for 10 min at room temperature in the presence of 1.2 ul of poly ( dI-dC ) ( 1 mg/ml in H , O ) ; 5 x 10* cpm of labeled probe ( approxi-mately 1 ng ) was then added , and the binding reaction was allowed to proceed for Mor .
+CELL .
+BioL .
+an additional 15 min at room temperature in a final volume of 20 pl containing 10 mM HEPES ( N-2-hydroxyethylpiperazine-N ' -2-ethanesulfonic acid ) ( pH 7.9 ) , 1.5 mM MgCl ; , 0.1 mM EGTA [ ethylene glycol-bis ( B-aminoethyl ether ) -N-N-N'-N ' -tetraacetic acid ] , 5 % glycerol , 1 mg of bovine serum albumin per ml , 0.25 mg of tRNA per ml , and 2 % Ficoll .
+Complexes were separated on 5 % nondenaturing polyacrylamide gels in 0.5 % TBE and detected by autoradiography .
+For competition experiments , unlabeled oligonucleotides were preincubated with cell extracts for 10 min at room temperature prior to addition of the probe .
+Supershift assays of GAS-binding proteins were performed by incubating the extracts 30 min at room temperature with either anti-MGF/StatSa ( 17 ) or anti-StatS C-17 , directed against amino acids 711 to 727 of murine StatSb ( Santa Cruz Biotechnology ) .
+Anti-Stat5 C-17 recognizes both Stata and StatSb proteins including their alternatively spliced forms or anti-Stat3 ( UBI ) before the addition of *°P-labeled probe .
+Supershift experiments of EBS binding proteins were performed by incubating the binding reactions with either anti-Elf-1 or anti-Ets-1/Ets-2 ( Santa Cruz Biotechnology ) or with anti-Ets1/2 # 8 , anti-Fli-1 # 61 , or anti-Tel # 69 ( 2 , 55 ) before the addition of *°P-labeled probe .
+DNA binding proteins were isolated from whole-cell extracts from 2 x 10 `` cells , precleared for 15 min at 4°C with insolubilized protein A ( Sigma ) , by incubation with 2 ug of 5'-biotinylated oligonucleotides for 1 h at 4°C as described ( 4 ) .
+In competition experiments , nonbiotinylated oligonucleotides were added 30 min at 4°C before addition of biotinylated oligonucleotides .
+Complexes were washed twice in lysis buffer , eluted in sample buffer , separated by sodium dodecyl sulfate-polyacryl-amide gel electrophoresis ( SDS-PAGE ) , and transferred to polyvinylene difluo-ride membranes .
+Bound proteins were detected by Western blot analysis using the StatSa- and Stat5b-specific antisera purchased from R & D Systems and the anti-Elf-1 from Santa Cruz Biotechnology .
+Plasmids and mutagenesis .
+A genomic 8.5-kb EcoRI fragment containing the 5'-end noncoding sequence of the human IL-2Re gene was subcloned from the Charon 4A phage clone A39 ( 23 ) into pUC18 .
+The complete sequence was determined by shotgun and oligo-primed gene walking and will be published elsewhere ( 332 ) .
+The different fragments of DNA ( Fig .
+1A ) were subcloned into the pTK4-CAT .
+This vector was derived ( 41 ) by inserting the multiple cloning site of pSP73 ( Promega ) into NdeI- and HindIIl-digested pTK3-CAT .
+pTK4-CAT/963 ( 5'-3 ' ) contains the Pvull/SphI fragment of IL-2Ra genomic DNA .
+pTK4-CAT/250 ( 5'-3 ' ) and pTK4-CAT/250 ( 3'-5 `` ) contain the 250-nucleotide Xbal fragment of the IL-2Ra 5° flanking region in alternative orientations .
+pCMV-CAT has been described previously ( 14 ) , and GRR3 was obtained from D. Cantrell .
+Expression vectors for MGF/StatSa ( pXM/StatSa ) and mStatSb ( pXM/StatSb ) were obtained from F. Gouilleux ( 38 , 72 ) , for Elf-1 from J. M. Leiden ( 70 ) , and for Ets-1 from J. Ghysdael .
+Mutagenesis was performed with a Transformer Site-Directed Mutagenesis Kit ( Clontech ) and pUC19 according to the manufacturer 's instructions .
+The oligonucleotide primers used to disrupt the GASd and EBSd motifs were mGASd ( CCGCTGTTCTGAGCAGTTTC GGCTAGGAAGTACC ) and mEBSd ( CTGTTCTGAGCAGTTTCTTCTCCG AAGTACCAAAC ) .
+The choice for the underlined nucleotide substitutions was based on previous studies in which either factor binding or functional activity of the particular binding site was destroyed ( 5 , 77 ) .
+Transient transfections and CAT assays .
+IL-2-starved Kit225 cells ( 1.5 x 10 `` ) were electrotransfected in a BioRad Gene Pulser ( 330 V , 9505F ) with 25 ug of IL-2Re enhancer constructs or 10 pg of pCMV-CAT and GRR3-CAT plasmids .
+Amounts of expression vectors used in transfections are indicated in figure legends .
+Following transfection , half of the cells were maintained for 12 to 16 h in RPMI 1650 with 10 % fetal calf serum in the absence of IL-2 and half were maintained in the presence of 20 nM IL-2 .
+Cell lysis and chloramphenicol acetyltransferase ( CAT ) assays were performed with the CAT enzyme-linked immunosorbent assay kit ( Boehringer Mannheim ) according to the manufacturer 's instructions with 50 ug of cell extracts .
+In vivo footprint analysis .
+Genomic footprint analyses were performed as previously described ( 1 ) by the dimethyl sulfate ( DMS ) /ligation-mediated PCR ( LM-PCR ) method with in vitro and in vivo methylated genomic DNA purified from Kit225 and primary human T cells .
+The following oligonucleotide primers were used for the coding strand : primer 1 , GGAACAAGTTCAAGAAAGG AAC ( [ -4043 , -4064 ] , T , , 59°C ) ; primer 2 , TAACTAGGTCATCCAGGACA GCCG ( [ -4078 , -4102 ] , T , , 63°C ) ; primer 3 , CATCCAGGACAGCCGGTCA ACAGTGCAAG ( [ -4088 , -4116 ] , T , , 68°C ) .
+For the noncoding strand , we used primer 4 , TCACCCCACTGTACGTCTA ( [ -4175 , -4157 ] , T , , 60°C ) ; primer 5 , AGTGGTCITAAACCTAAGGGAAGGC ( [ -4249 , -4225 ] , T , , 63°C ) ; and primer 6 , CCTAAGGGAAGGCAGTCTAGGTCAG ( [ -4237 , -4213 ] , T , , 68°C ) .
+At least three independent experiments were performed to analyze cach strand of the PPRIII in both Kit225 and primary human T cells .
+RESULTS A fragment of the human IL-2Ra gene 5 ' flanking region is highly homologous to the mouse IL-2Ra IL-2rE .
+The proximal enhancer/promoter region of the human IL-2R « gene characterized to date does not fully account for the cell type specificity and the activation-dependent regulation of human IL-Z2Ra gene transcription ( 8 , 26 , and our unpublished obser- Vou .
+16 , 1996 Jak-Stat ACTIVATION OF IL-2Re « GENE 6831 A Xbal | HindIII 11 Pyull i- Xbal Kbal EcoRI i - Xbal i EcoRI | Pstl Pstl i [ BamHI EcoRI i || Sphl _ |_ Pst Pst i Sphl PoP } i SSII i0 i_- Hind { fI - Psi i I i EcoRI Human - L- L_ J L_ j L_ _ [ -1242 , +251 ] | o | Byull/SphI [ -4473 , -3510 ] C Xbal [ -4260 , -40101 Mouse H -- A [ -1726 , -894 ] [ -818 , -602 ] 1-370 , 1651 B Human : GASsd/Epsd GASp/GATA EBSp -4190 -4180 -4170 -4160 -4150 -4140 -4130 -4120 GCTGTTCTCAGCAGTTTCTTCTAGGAACTACCAAACATTTCTGATAATACAATTGACCAATTTCCTCATGCAACTGAGACTCAGCTT oo GATATGATCTGCAGTTTCTTCTGAGAACTACCACACAT TTCTGATAACAGACTTGAGCAACTTCCTSAT - ATGTGAGACTCAGCT ' P -1380 -1370 -1360 -1350 -1340 -1330 -1320 -1310 -1300 Mouse : GASd GASp/GATA EBSp FIG .
+1 .
+Schematic representation of the -flanking region of the human IL-2Ra gene .
+( A ) Restriction map of the genomic 8.5-kb EcoRI fragment containing the 5 ' end noncoding sequence of the human IL-2Ra gene .
+The portion previously reported from position -1242 to +251 ( 8 ) is represented by a striped arrow .
+Nucleotide numbers refer to the major site of transcription initiation ( +1 ) .
+The Pvull/SpAI fragment ( position -4473 to -3510 , 963 nucleotides ) and the Xbel fragment ( position -4260 to -4010 , 250 nucleotides ) are indicated by two open boxes .
+The regions conserved in the mouse IL-2Ra « gene are indicated by three lines at the bottom of panel A .
+( B ) Partial sequence comparison of the distal region conserved between the human and mouse IL-2Ra genes .
+The mouse sequence corresponds to the murine IL-2rE C3 fragment ( 65 ) .
+The consensus binding sites for known transcription factors are in boldface .
+The putative GAS elements are underlined ( single line ) , and the putative EBS and GATA elements are double underlined .
+The suffixes d and p indicate distal and proximal elements within the conserved core region .
+vations ) .
+The sequence of its 5 flanking region has only been reported up to nucleotide position - 1422 relative to the major transcription initiation site ( 76 ) .
+To further investigate the organization of the human IL-2Ra « chain locus , the nucleotide sequence of the 5 ' flanking region was determined up to position -9365 bp ( EMBL accession number , Z70243 ) ( 33a ) .
+Computer searches revealed that , apart from the already reported proximal segment ( 66 ) , two other conserved regions are shared by human and murine IL-2Ra « 5'-flanking regions ( Fig .
+1A ) .
+The first is a short fragment of 222 nucleotides ( position -2297 to -2084 in humans and -818 to =-602 in mice ) with 60 % identity .
+The second fragment encompasses 876 nucleotides ( position -4522 to -3676 in humans and -1726 to -894 in mice ) and displays 66 % identity between the two species .
+It contains a core sequence of 86 nucleotides that shows 90 % identity and corresponds to the recently identified mouse IL- 2-responsive C3 region ( 65 ) .
+The alignment between this portion ( position -4199 to -4114 ) of the human gene and the mouse IL-2rE ( position -1383 to -1299 ) is shown in Fig .
+1B .
+Four out of five putative regulatory elements present in the human gene are conserved in the mouse : two GAS sites , GASd [ TTC ( N ) , GAA ] and GASp [ TT ( N ) ; AA ) ( 61 ) , a GATA site ( WGATAR ) ( 30 ) which overlaps with GASp and the proximal EBS consensus site ( AGGAA ) ( 51 ) .
+Analysis of the mouse gene has shown that these sites are required for IL-2rE function ( 65 ) .
+Interestingly , the distal human GAS element ( GASd ) overlaps with another EBS motif ( EBSd ) .
+In the mouse sequence , the EBSd is disrupted by an inversion ( AdG ) ( Fig .
+1B ) .
+Identification of PRRIII , a new positive regulatory region in the human IL-2Ra gene .
+We screened the human IL-2Ra -flanking region for regulatory elements , upstream of PRRI 6832 LECINE ET AL .
+( 5-3 ) ( 53 ) pTK4 2.50 3.00 3.50 4.090 4.50 5.00 5.50 IL-2 induction FIG .
+2 .
+Functional analysis of the human IL-2rE segment .
+Kit225 T cells were starved for 20 h and transfected with various constructions containing the putative human IL-2rE .
+The plasmid pCMV-CAT was used to control the physiological state of the cell after IL-2 starvation and IL-2 stimulation .
+pCMV-CAT was strongly expressed and not affected by IL-2 stimulation ( data not shown ) .
+To control IL-2 induction , we used the plasmid GRR3 , which contains three copies of the FoyRI GAS site .
+Expression of this plasmid was increased 10- to 20-fold by IL-2 ( data not shown ) .
+pTK4 , HSV TK minimal promoter CAT construct ; pTK4/250 ( 5'- > 3 ' ) , 250-nucleotide Xbel fragment ( nucleotides -4260 to -4010 ) inserted upstream of HSV TK promoter into pTK4 in its natural orientation ; pTK4/250 ( 3'-5 ' ) , 250-nucleotide Xbal fragment inserted in the reverse orientation into pTK4 ; pTK4/963 ( 5'-3 ' ) , Pvull/SphI fragment ( nucleotides -4473 to -3510 ) inserted into pTK4 .
+The data presented are the means of four independent determinations .
+The error bars represent standard deviations of the mean .
+and PRRII , by transient transfection assays .
+For this purpose , a series of fragments derived from the 8.5-kb fragment between nucleotides -9365 and -1238 were inserted upstream of the minimal promoter of the herpes simplex virus thymidine kinase gene ( HSV TK ) in pTK4-CAT .
+The transcriptional activity of these constructs was tested in the IL-2-dependent human Kit225 cell line ( data not shown ) .
+The results revealed that a 250-nucleotide Xbal fragment conferred transcriptional responsiveness to IL-2 ( Fig .
+2 ) .
+A similar induction was observed when this fragment was inserted in reverse orientation and with a construct containing the 963-nucleotide Pvull/SphI fragment that includes the Xbel fragment ( Fig .
+1A ) .
+These experiments identify a novel positive cis-acting regulatory region in the 5 ' flanking region of the human IL-2Ra gene , and they show that this region acts as an IL-2rE like its murine counterpart .
+In line with the designation introduced by John et al .
+( 26 ) , we call this element PRRIII .
+It does not have any enhancer activity in Jurkat cells , nor does it confer responsiveness to PMA plus ionomycin in these cells ( data not shown ) .
+Constitutive and inducible factors bind to PRRIII elements in vitro .
+Factors binding to PRRIII were identified by EMSAs with whole-cell extracts from unstimulated and IL-2-stimulated Kit225 cells and different oligonucleotide probes containing the putative GAS , EBS , and GATA elements .
+Since among these three putative regulatory elements , only the GAS sites are known to bind IL-2-induced transcription factors ( 4 , 19 , 73 ) , we investigated the ability of the GAS-containing probes to bind Stat proteins , a transcription factor family directly involved in IL-2 signal transduction .
+One constitutive ( C1 ) and two IL-2-induced ( C2 and C3 ) DNA-protein complexes were identified with the human GASd/EBSd probe ( Fig .
+3A , lanes 1 to 4 ) .
+C2 and C3 were detected as early as 5 min after IL-2 addition and persisted up to 30 min .
+In contrast , no inducible complex was revealed with the GASp/GATA probe ( Fig .
+3A , lanes 5 to 8 ) .
+As previously described ( 4 ) , the FeyRI-GAS Mor .
+CELL .
+BioL .
+A GAS d GAS p FoyRI min : _ 0 5 15 30 0 5 15 30 0 5 15 30 dhe cmm diem coh Cs I > tms Gung Game < G C2 Ip tind Aumat Sut ci Wth but bb fot 1 20 3 4 50 6 7 8 9 10 11 12 B GAS d 4 & « o_ _a 4 # 4 4 C3 Ip haved toa bicut Ned C2 I > `` Ci += \d - post 1 2 3 4 50 6 7 FIG .
+3 .
+In vitro complexes formed by GASd/EBSd , GASp/GATA , and FeyRI-GAS sites , detected by EMSA .
+( A ) IL-2-deprived Kit225 cells were stimulated with IL-2 and harvested at the times indicated at the top of each lane .
+Then , 8 pl of whole-cell extracts was incubated with `` P-labeled probes ( 5 x 10° cpm per reaction ) .
+The DNA-protein complexes are analyzed in nondenaturing acrylamide gels and revealed by autoradiography .
+( B ) Identification of the specific DNA-protein complexes by competition experiments .
+Whole-cell extracts from Kit225 cells , untreated ( lane 1 ) or stimulated for 15 min with IL-2 ( lanes 2 to 7 ) , were incubated with the IL-2R « -GASd/EBSd probe by using Stat-binding conditions .
+Competitions were performed with a 100 % excess of the following unlabeled competitors : wild-type IL-2R « -GASd/EBSd ( lane 3 , wt ) ; IL-2Ro-m1GASd ( GASd mut , mutated in the GASd site , lane 4 ) , or IL-2Ra-mEBSd ( EBS mut , mutated in the EBSd site , lane 5 ) .
+Competition with IL-2Ro-m2GASd gave the same result as that obtained with IL-2Ra-m1GASd ( data not shown ) .
+To address the putative involvement of Ets-related proteins in the complexes revealed by the GASd/RBSd probes , competition with a 100 % excess of a high-affinity EBS binding site ( EBSa , lane 6 ) or with a nonbinding mutant ( EBSz , lane 7 ) was performed .
+probe revealed only two inducible complexes ( Fig .
+3A , lanes 9 to 12 ) .
+To characterize the proteins forming complexes with the GASd/EBSd probe , we tested the effect of competitors for Stat and Ets proteins ( Fig .
+3B ) .
+Competition with an excess of Vou .
+16 , 1996 unlabeled wild-type GASd/EBSd abolished both inducible complexes ( C2 and C3 ) but hardly affected the constitutive complex ( C1 ) ( Fig .
+3B , lane 3 ) .
+In contrast , two mutant GASd/ EBSd oligonucleotides , in which the GAS but not the EBS motif was disrupted , had no effect on C2 and C3 but almost abolished C1 ( Fig .
+3B , lane 4 and data not shown ) .
+The oligonucleotide containing an intact GAS and a disrupted EBS motif had the same effect as the wild-type probe ( Fig .
+3B , lane 5 ) .
+C2 and C3 were efficiently competed by a 100 % excess of unlabeled FeyRI oligonucleotide ( data not shown ) .
+A 100 % excess of the EBSa oligonucleotide completely abolished C1 without affecting the inducible C2 and C3 complexes ( Fig .
+3B , lane 6 ) .
+The mutant EBSz competitor had no effect on any of the complexes ( Fig .
+3B , lane 7 ) .
+Together our results show that the IL-2-induced C2 and C3 complexes are due to the GAS consensus sequence present within the human GASd/EBSd element while the constitutive C1 complex depends on the EBSd motif .
+The finding that the EBSa oligonucleotide containing a high-affinity Ets-binding site was able to compete for the formation of the C1 much more efficiently than the GASd/ EBSd oligonucleotide itself suggests that the GASd/EBSd is a low-affinity binding site for Ets proteins .
+Identification of the constitutive and IL-2-induced proteins binding to the human GASd/EBSd element .
+Since IL-2 has been shown to activate Stat5 in T lymphocytes , we hypothesized that the inducible complexes present in IL-2-treated Kit225 cells contain Stat5-related proteins .
+Supershift experiments were performed with two antisera recognizing Stat5 .
+Addition of anti-sheep MGF/StatSa ( 17 ) , a serum that recognizes preferentially Stat5a in supershift assays ( 16a ) , to binding reactions with Kit225 extracts and the GASd/EBSd probe ( Fig .
+4A , lane 4 ) did not result in a clear supershift of any of the specific complexes , while the same antiserum efficiently supershifted the complexes formed by cytoplasmic extracts of IL-3-stimulated Ba/F3 and the GASd/EBSd probe ( data not shown ) .
+In contrast , the anti-Stat5 serum C-17 , which recognizes both StatSa and b , supershifted almost completely the two inducible complexes ( Fig .
+4A , lane 5 ) .
+To characterize the EBS-binding proteins in the C1 complex , supershift experiments with unstimulated whole-cell extracts from Kit225 and commercial Elf-1- , Ets-1/2- , or Stat3-specific antisera were performed ( Fig .
+4B ) .
+A partial but reproducible supershift with anti-Elf-1 serum was observed ( Fig .
+4B , lane 2 ) , whereas the commercially available Ets-1/2 and Stat3 antisera had no effect ( Fig .
+4B , lanes 3 and 4 ) .
+This suggested that at least part of the C1 complexes contained Elf-1 .
+Additional supershift experiments with different antisera directed against Ets-1/2 ( # 8 ) , Fli-1 ( # 61 ) , or Tel ( # 69 ) ( 2 , 55 ) , showed that the anti-Ets1/2 and -Fli-1 reagents partially supershifted complex C1 ( Fig .
+4B , lanes 6 and 7 ) , whereas the anti-Tel antibodies had no detectable effect ( Fig .
+4B , lane 8 ) .
+An anti-Elf-1 monoclonal antibody ( 81 ) gave the same pattern as the commercial anti-Elf-1 polyclonal serum presented in Fig .
+4B ( data not shown ) .
+Thus , among the Ets family members tested , Elf-1 , Ets-1 , and/or Ets-2 and Fli-1 may all contribute to the formation of complex C1 .
+As an alternative method to identify the Stat5 and Ets proteins binding to the GASd/EBSd motif , we used biotinylated oligonucleotide probes to affinity purify proteins from Kit225 and PBMC whole-cell extracts .
+The proteins bound to the GASd/EBSd or the FeyRI oligonucleotide were Western blotted and analyzed with various Stat5- and Ets-specific antisera .
+These assays revealed that Elf-1 bound to the GASd/EBSd probe but not the FeyRI oligonucleotide ( Fig .
+5C , compare lanes 1 to 3 and lanes 4 to 6 ) .
+Elf-1 binding was constitutive and unaffected by IL-2 .
+The anti-Ets-1/2 , -Fli-1 , and -Tel sera Jak-Stat ACTIVATION OF IL-2Re « GENE 6833 showed no specific reaction with any proteins on the same blots ( data not shown ) .
+Together with the observation that only a small fraction of complex C1 was supershifted by the anti-Ets1/2 and anti-Fli-1 sera , this suggests that Ets-1 and/or -2 and Fli-1 only make a minor contribution to the formation of C1 .
+As expected IL-2 induced Stat5b bound to the GASd/EBSd probe , but we failed to detect StatSa proteins in Kit225 cell extracts ( data not shown ) .
+To determine if this result was due to an unexpected difference between the binding specificities of StatSa and b or a particularly of Kit225 cells , the experiment was repeated with whole-cell extracts from IL-2-stimulated PHA blasts .
+IL-2 stimulation induced the specific binding of both StatSa and StatSb proteins to the GASd/EBSd and the FoeyRI oligonucleotide ( Fig .
+5A and B ) .
+Together these experiments demonstrate that both StatSa and b proteins can bind the GASd site of the human PRRIII and that the IL-2-induced C2 and C3 complexes in Kit225 cell extracts contain StatSb proteins .
+Our observations also show that Elf-1 can bind to the GASd/EBSd site and confirm its presence in the constitutive complex C1 .
+IL-2 stimulation of Kit225 T cells and mitogenic stimulation of human primary T cells result in the in vivo occupancy of the GASd/EBSd site within the PRRIII Changes in the pattern of in vivo protein-DNA interactions in the PRRIII that correlate with activation of the IL-Z2Ra locus were analyzed by ligation-mediated PCR footprint assays .
+Living T cells were treated with DMS , which methylates G residues in the major groove of DNA and to some extent A residues in the minor groove ( 40 ) .
+DNA-binding proteins can protect nucleotides in the binding site from being , or make bases in or around the binding site , hypersensitive to methylation .
+Kit225 cells , exponentially growing or IL-2 starved for 48 h , were treated with DMS and harvested .
+Their DNA was isolated and used for LM-PCR footprinting .
+The most striking difference between the two cell populations was the disappearance , upon IL-2 starvation , of the protection of the G residue at position -4176 within GASd/EBSd on the coding strand ( Fig .
+6A , compare lanes 2 and 3 ) .
+Note that of the two G residues -4175 and -4176 , only the latter appears to be methylated by DMS .
+This is true also for in vitro methylation of naked DNA .
+At present we have no explanation of this phenomenon .
+Intriguingly , a similar insensitivity to methylation has been observed for the G residue in the mouse gene that is homologous to residue -4175 .
+IL-2-dependent protection of G-4176 correlates with the presence of active Stat5b in IL-2-stimulated but not in IL-2-deprived Kit225 cells .
+On the noncoding strand ( Fig .
+6B ) , we observed constitutive protection of G residues -4182 and -4179 .
+This may reflect in vivo occupation of the GASd/EBSd site by the constitutively active ETS proteins revealed in the EMSA experiments .
+In addition , G residue -4159 in the GASp/GATA site was also protected in both IL-2-starved and IL-2-induced Kit225 cells , as expected from the characterization of constitutive DNA-protein complexes by EMSA ( data not shown ) .
+To determine if these differences could be directly correlated with Stat5 activation by IL-2 , the same experiment was repeated with cells treated for different times with IL-2 .
+As shown in Fig .
+6C , partial protection of the G residue at position -4176 was observed as soon as 30 min after IL-2 addition .
+To confirm the physiological relevance of these observa-tions , LM-PCR genomic footprint experiments were performed with primary human T cells harvested after different times of stimulation with a combination of monoclonal antibodies against CD2 and CD28 .
+As illustrated in Fig .
+6D , this strong mitogenic stimulus , which triggers long-term IL-2-dependent activation of resting T lymphocytes ( 49 ) , induced protection of G-4176 in the GASd/EBSd site .
+Protection persisted Mor .
+CELL .
+BioL .
+6834 LECINE ET AL .
+A GAS d B a 4 .
+4. io TV ya , ~ é , g 55 ?
+® % & & & R < D > ¥ C se- WP & » C2 P % C1 P ( eal 3 ) ina » ‘ l ' 1 2 3 4 5 GAS d GAS d el n % © O v Y - p v -- _-_-_P 6 “ ﬁbgéﬁ Vex/ﬁgﬂg ‘ * Fo soo # ¥ ¥ § f L p > bus p > tim es Win bs 5 6 7 8 1 2 3 4 FIG .
+4 .
+Characterization of the factors binding to GASd/EBSd .
+( A ) Radiolabeled IL-2R « -GASd/EBSd probe was incubated with whole-cell extracts from IL-2-deprived ( lane 1 ) or IL-2-stimulated ( 30 min , lanes 2 to 5 ) Kit225 cells for 30 min at room temperature , without ( lanes 2 and 3 ) or in the presence of antibodies directed against StatSa ( lane 4 ) or both Stat5a and b ( lane 5 ) proteins .
+Anti-MGF , /StatSa serum had no detectable effect ( lane 4 ) when compared with preimmune serum ( lane 3 ) .
+Anti-Stat5 serum C-17 , which recognizes Stat5a and b proteins , supershifted both inducible complexes ( lane 5 ) .
+( B ) To test the involvement of Ets proteins in the formation of the constitutive complex C1 , EMSAs were performed with the P-labeled IL-2R « -GASd/EBSd probe and whole-cell extracts from IL-2 deprived ( lanes 1 and 5 ) Kit225 cells without ( lanes 1 and 5 ) or in the presence of antibodies directed against different Ets proteins .
+The following antisera were used : anti-Elf-1 ( Santa Cruz Biotechnology , lane 2 ) , anti-Ets1/2 ( Santa Cruz Biotechnology , lane 3 ) , anti-Stat3 ( UBI , lane 4 ) , anti-Ets1/2 # 8 ( lane 6 ) , anti-Fli-1 # 61 ( lane 7 ) , and anti-Tel # 69 ( lane 8 ) .
+The constitutive complex was partially supershifted with the anti-Elf-1 ( lane 2 ) , the anti-Ets1/2 # 8 ( lane 6 ) and the anti-Fli-1 # 61 ( lane 7 ) .
+Filled arrowheads , position of the specific protein-DNA complexes ; open arrowheads , position of the complexes supershifted by the specific antisera .
+Stars indicate the positions of complexes due to nonspecific DNA-binding activities ( not competed by the addition of unlabeled GASd/EBSd oligonucleotide ) in the sera .
+up to 96 h of stimulation .
+Constitutive occupancy of the site was also observed on the noncoding strand ( data not shown ) .
+The GASd/EBSd element is essential for IL-2 inducibility and Stat5 can transactivate the PRRIII element whereas Elf-1 can serve as a repressor in Kit225 cells .
+To test the importance of the overlapping nuclear factor binding sites in the GASd/ EBSd element for IL-2 responsiveness of the PRRIII enhancer , we compared the response of pTK4-CAT/250 , containing the 250-nucleotide Xbael fragment that includes PRRIII , with that of two mutants .
+In one of these , the GASd element was disrupted ( 5 ) while the other contained a mutation in the overlapping EBS motif ( Fig .
+7A ) .
+The mutant PRRIII fragments were subcloned into the CAT expression vector with the minimal HSV TK promoter .
+These constructs as well as the pTK4 vector were tested for enhancer activity by transient transfection into Kit225 cells that had been deprived of IL-2 for 20 h. After transfection cells were cultured in the absence or in the presence of IL-2 for 16 h. The results ( Fig .
+7B ) show that disruption of the GASd site abolished IL-2 inducibility , strongly suggesting a role for Stat5b in the IL-2 response .
+On the other hand , the EBSd mutation significantly increased basal CAT activity .
+Expression of this plasmid after IL-2 stimulation was close to that of the wild-type construct , but induction by IL-2 was only marginal .
+These results suggest that the protein binding constitutively to the EBSd site may act as a repressor .
+IL-2 stimulation may relieve repression through the binding of Stat5 to the overlapping GAS site .
+This model is consistent with all the data so far presented in this paper .
+To obtain more direct evidence for a role of Stat5 and Elf-1 as positive and negative regulators of PRRIII enhancer activ- Vou .
+16 , 1996 FoyRI # 6 w v JY $ 4 J S4 A fue of women StatSa B Grennmet : * * % # StatSb C wes taps 00 | Eif-1 1° 2 3 4 5 6 FIG .
+5 .
+Identification , by DNA affinity purification , of the proteins in normal human T cells that bind to the GASd/EBSd and FoyRI sites .
+Oligoprecipitations of FeyRI-GAS- and GASd/EBSd-bound proteins with PBMC were activated with PHA for 3 days and then arrested by culturing them in medium without stimulation .
+These cells were then cultured for 30 min without ( lanes 1 and 4 ) or with ( lanes 2 and 3 and 5 and 6 ) IL-2 , and whole-cell extracts were prepared .
+Proteins binding to the biotinylated oligonucleotides indicated at the top of the figure were isolated , subjected to SDS-PAGE , and blotted on membranes .
+Bound proteins were identified by Western blotting with antisera specific for the proteins indicated on the right side of the panels ( see Materials and Methods ) .
+Where indicated ( lanes 3 and 6 ) a 100 % excess of nonbiotinylated wild-type GASd/EBSd probe was added to the binding reaction .
+ity , we transfected Kit225 cells with expression vectors for these proteins , together with the CAT reporter plasmid driven by the human IL-2rE or with the control vector pTK4 .
+As shown in Fig .
+7C , neither Stat5b nor Elf-1 affected the IL-2 nonresponsiveness of pTK4 .
+Cotransfection with the Stat5b vector increased both constitutive and IL-2-induced expression of the PRRIII-driven plasmid pTK4/250 , resulting in no significant change of its IL-2 response .
+When increasing amounts of the Elf-1 vector were included , expression of pTK4/250 in IL-2-treated cells gradually decreased without any significant effect on its constitutive expression .
+The net result was a virtually complete suppression of IL-2 responsiveness , consistent with a negative role of Elf-1 in PRIII regulation .
+Altogether these results strongly support a direct involvement of Stat5 in the IL-2-dependent activation of the human IL-2Ra gene and indicate that Elf-1 may serve to reduce the constitutive expression of the human IL-2Ra « gene in non-stimulated T lymphocytes .
+DISCUSSION The a chain of the IL-2R is required for the formation of high-affinity ligand binding sites .
+The finding that its expression is correlated with the capacity of T lymphocytes to proliferate in response to IL-2 suggested that regulation of IL-Z2Ra « con-trols , at least in part , IL-2 responsiveness .
+This was validated by the observation that T cells of transgenic mice constitutively expressing the human IL-2Ra gene can respond to IL-2 without antigen stimulation ( 47 ) .
+While antigen is the primary stimulus inducing IL-2Ra transcription , IL-2 itself is required Jak-Stat ACTIVATION OF IL-2Re « GENE 6835 for maximal and prolonged expression ( 65 and references therein ) .
+Although it has previously been shown that IL-2 increases transcription of both the human and the mouse IL-2Ra gene ( 11 , 54 ) , the molecular basis for the IL-2 responsiveness of the IL-2Ra « gene has not yet been elucidated .
+Signaling by the IL-ZR is mediated by ligand-induced association of the cytoplasmic domains of its IL-2RB and y , , components ( 45 , 46 ) .
+IL-2R do not possess intrinsic kinase activity , but IL-2 binding stimulates the activity of members of both the Sre family of tyrosine kinases ( Lck , Fyn , and Lyn ) and , as shown more recently , members of the Jak family ( Jak1 and Jak3 ) ( 27 , 42 , 69 , 80 ) .
+In this report , we describe the identification and characterization of a positive regulatory region ( PRRIII ) in the distal S5'-flanking region of the human IL-2R « gene which possesses an IL-2-dependent enhancer activity .
+The strong similarities between the sequences of the human PRRIII and the IL-2-responsive element in the mouse IL-2R « gene ( 90 % identity ) and between their cis-acting activities leave no doubt that these two elements are homologs even though PRRIII is much more distal ( -4.1 kb ) than its mouse counterpart ( -1.3 kb ) ( Fig .
+1 ) .
+The highly homologous proximal regions are separated from the PRRIII by segments with no detectable similarity which , in the human gene , contain repetitive elements ( unpublished results ) .
+This suggests that the human PRRIII has been separated from the promoter proximal region by one or more insertions after the split between the evolutionary branches leading to Mus and Homo .
+The results described in this paper lend strong support to the hypothesis that Stats plays a principal role in controlling PPRIII activity .
+PRRIII contains a site , GASd ( TTCTAGGA A ) , which binds in vitro StatSa and StatSb proteins that are activated by IL-2 and is occupied in the chromatin of IL-2-stimulated T lymphocytes .
+To our knowledge , GASd is the first IL-2-responsive enhancer/promoter element characterized within its physiological context by in vivo footprinting .
+Nucleotide substitutions disrupting the GAS consensus in the GASd/ EBSd site abolish the IL-2-induced enhancer activity of PPRIII .
+This is in agreement with effects of point mutations in the mouse IL-2rE ( 65 ) .
+In vivo genomic footprint analysis demonstrated that occupation of the GASd/EBSd site was induced in Kit225 cells by IL-2 and in human primary T lymphocytes by a combination of CD2 and CD28 antibodies .
+The latter stimulation mimics an-tigen-mediated activation and triggers potent IL-2-dependent proliferation ( 49 ) .
+We have recently shown that activation of resting T cells with anti-CD2 and -CD28 antibodies induces a nearly immediate occupancy of the « B site in the promoter proximal region of the IL-2Ra gene ( 1 ) .
+This contrasts with the delayed modification of the distal GASd/EBSd element ( de-tectable only after 18 to 24 h of mitogenic stimulation of resting T cells ; data not shown ) .
+These observations lend further support to a previously proposed two-stage model of the stimulation of IL-2Ra gene expression in T lymphocytes ( 65 ) , according to which antigen induces a first wave of transcription via promoter proximal elements while IL-2 is responsible for a secondary amplification mediated by the IL-2rE described here for the human gene .
+Our results show that the IL-2-inducible enhancer activity of PRRIII is independent of the promoter proximal elements mediating antigen-triggered transcription .
+The same is true for the mouse IL-2rE ( 65 ) .
+The human IL-2Ra « GASd element overlaps with an ETS binding site ( EBS ) and is identical with the GAS site of the bovine B-casein promoter .
+This site has previously been shown to form a single inducible complex identified as MGF/StatSa with extracts from different nonlymphoid cell lines stimulated with thrombopoietin , prolactin , growth hormone , or granulo- 6836 LECINE ET AL .
+Mor .
+CELL .
+BioL .
+A KIT225 CELLS B coding strand KIT225 CELLS kel ke ] non-coding strand $ - N a ® -4150 © o 4 J 8 3 T 2 Fo T Z o maas E Y ou 2 T c © 2 1 C T ~4206 - *~ « omen T 2 + T Z f ; GATA amas wens g GASd -4141 wae - Amma g T c Too tien A A GASp suse c | | EBSd A A -4159 - ®* « = to wee | o LL cares A -4176 - < 1 e Susa cuties | o- l -4172 - wus w » .. € 00 a | e g- -4169 [ -- -4170 lng _/A_ C T -4179 - g < % z EBSd ® -4182 - < 4 c GASp/GATA 1 ase G GASd A A seen G -4143 _ ] i -4184 1 2 3 4 1° 2 3 - 4 C D KIT225 CELLS EIMEAOCYTE P coding strand coding strand +IL-2 cares CD2 + CD28 2 9 y x E a 2 < 15 so 60 iso = £ # - 24h 48h 72h 96h -4199 - rex T ro-pais C| GASd - -4232- .
+i - weer : , T B HE * mus - zoms ** A fe- C were is _ ﬂ EBSd s - z 7 4183 -4176 - A Shak po- g -4172 - - ... .._ ‘ __'__- : ] o ‘ g , .= “ f A pared m c| casa x -4170 - - - .
+g = A uze i EBSd - `` * a , .
+Bike - san = sous o < 4 a > lGASprATA ~4176 -| | pees a me Te | < © Ca -4172 -| - .
+A aA a % * * % ma me mes to < 8 [ ~~~ -4143 - we R 1 o 2 og 400500 60 7 r `` `` `` 1 lGASp/GATA as wa wz ses~= m se e w wane fne d - 4132 - ] wth « a .
+s 1 2 3 4 5 6 Vou .
+16 , 1996 Jak-Stat ACTIVATION OF IL-2Re « GENE 6837 FIG .
+6 .
+In vivo footprinting analysis of the IL-2rE within the human IL-2Ra « gene .
+( A and B ) DMS/LM-PCR was performed with in vitro methylated DNA ( lane 1 and 4 ) or DNA from Kit225 cells stimulated for 24 h with IL-2 ( lane 2 ) or IL-2-starved for 48 h ( lane 3 ) .
+( A ) Coding strand .
+( B ) Noncoding strand .
+The G-ladder shown in lane 4 is a duplicate of lane 1 .
+( C ) Time course of the appearance of protection of the G residue at position -4176 in the coding strand .
+Kit225 cells that have been starved for IL-2 for 48 h were stimulated with IL-2 for the indicated times and used for in vivo footprinting .
+Lane 1 : in vitro methylated DNA .
+( D ) DMS/LM-PCR analysis of the coding strand of the PRII enhancer in chromatin of normal human T cells : G ladder from naked DNA ( lane 1 ) , in vivo methylated DNA from unstimulated cells ( lane 2 ) or from cells stimulated with a mixture of anti-CD2 and -CD28 antibodies for the indicated periods .
+The autoradiograms presented are representative of at least four independent experiments .
+To account for the random variation of counts per residue , the relative intensities of the bands were compared by densitometric analysis using a Biolmage analyzer .
+Filled arrowheads on the right side of the panels A , C , and D indicate the position of an invariant G residue at position -4172 , and the open arrowheads mark the position of the protected G residue -4176 within the GASd/EBSd element on the coding strand .
+On the right side of panel B , the filled arrowheads correspond to the positions of the constitutively protected G residues -4179 and -4182 within the GASd/EBSd site , and -4159 within the GASp/GATA site on the noncoding strand .
+cyte-macrophage colony-stimulating factor ( 17 , 50 , 73 ) .
+In contrast , we found that extracts from T lymphocytes form one constitutive and two IL-2-inducible complexes with a GASd/ EBSd probe .
+The constitutive complex contains the lymphocyte-specific Ets family member , Elf-1 , as well as some Ets-1 and/or 2 and Fli-1 , whereas the IL-2-inducible complexes from normal IL-2-stimulated T cells contain StatSa and Stat5b proteins .
+Disruption of the EBSd consensus leads to an increase in basal but not in IL-2-induced PPRIII enhancer activity in T lymphocytes .
+This suggests that EBSd may bind a protein that has a negative effect on enhancer activity and that Stat5 may act , in part , by competing with this negative regulator .
+In this connection it is interesting that Ets-1 can act as a negative regulator of IL-2 gene expression ( 57 ) .
+The constitutive in vivo protection of nucleotides in the GASd/EBSd site in chromatin of both IL-2-starved Kit225 or primary resting T cells is consistent with an occupation of this site by a negative regulator .
+Elf-1 , the protein that clearly was identified in the constitutive complex formed with GASd/EBSd probe , is involved in the A GAZd/EREd TTTCTZTCTAGGAAGTA GASd intact AGTA TTTCGGC ER3d mutant TIZCITCTCCGAAGTA B pTK4250 mEBSq ( m +11-2 : D ~IL-2 pTK4 !
+280 mGaASd pThwzsd pTK4 CAT ( pg/ml ) regulation of the expression of several T-cell specific genes including IL-2 and IL-2R « ( 26 , 70 ) , but it has not been described as a negative regulator .
+However , the experiments showing that cotransfection with increasing amounts of Elf-1 expression vector can abolish the Stat5-dependent IL-2 responsiveness of the human IL-2rE TK CAT reporter gene support the model according to which Elf-1 is required to repress constitutive expression of the IL-2Ra gene in nonac-tivated T lymphocytes .
+Since neither of the two anti-Elf-1 sera , nor any of the tested Ets antisera , completely abrogated or supershifted the constitutive GASd/EBSd-specific complex , it is very possible that other members of the Ets family or EBS binding proteins are implicated in the regulation of IL-Z2Ra « expression .
+The competition experiments show that the affinity of the EBSd motif for the constitutive EMSA complexes is considerably lower than that of a consensus binding site for Ets proteins .
+This suggests that EBSd may provide yet another example of a weak Elf-1 binding site that is important for the regulation of a lymphocyte-specific gene ( 25 ) .
+C 160 140 > OA4L2 © +1L2 120 € 10 Eo soo < el 60 40 20 a Reporter [ pTKq + + + - - w « -L prkaz2so - - - + + + + Effector | Stats - + - - + + + a L eig-1 - - 2.5 - - 0.5 1 2.5 FIG .
+7 .
+Functional analysis of the human IL-2R « GASd/EBSd motif .
+( A ) Nucleotide substitutions introduced into the pTK4/250.5 ' construct containing the human IL-2rE ( PRIII ) ( Fig .
+2 ) .
+The overlapping Stat and Ets transcription factor consensus sites are underlined .
+Substituted nucleotides are in boldface .
+( B ) Expression of normal and mutated enhancer constructs in the Kit225 T-cell line in the absence or presence of IL-2 .
+Transfections were analyzed and controlled as described in Fig .
+2 .
+The data presented are means of at least three independent determinations .
+The error bars represent standard deviations of the mean .
+( C ) Elf-1 can serve as a repressor of Stat5-mediated activation of IL-2Ra gene transcription .
+Kit225 cells were cotransfected with the wild-type pTK4/250.5 ' CAT plasmid ( 20 ug ) and , where indicated , with expression vectors for StatSb ( 2.5 ug ) and Elf-1 ( 0.5 to 2.5 ug ) .
+The data are given as means and standard deviations of at least four independent experiments .
+6838 LECINE ET AL .
+Ets proteins appear to control transcription by associating with other regulators of gene expression ( 3 , 9 , 12 , 20 , 26 , 75 ) .
+This suggests that regulation through the GASd/EBSd element may depend on a direct interaction between IL-2-induced Stat5 and the Ets proteins binding to this element .
+Although we so far have failed to find any evidence for such an interac-tion , this possibility needs to be explored further .
+Interestingly , the mouse homolog of the human GASd/EBSd site does not contain an EBS consensus motif .
+This may be a reflection of differences between the mechanisms that regulate the mouse and the human IL-2R « gene .
+A discrepancy between these species has already been observed for the cis-regulatory elements in promoter proximal region .
+Cooperative interaction between NF-kB and SRF , binding to adjacent sites , appears to play a major role in the activation of the human IL-Z2R « gene in response to anti-CD2 plus anti-CD28 ( 1 , 33 , 52 ) , but the mouse gene does not contain an SRE consensus motif in or near the xB site conserved in both species ( 65 ) .
+Alternatively the difference between the mouse and human GASd sites may indicate that the protein that mediates the function of the human EBSd site is different from the known ETS family factors .
+Regardless of possible species differences , the work described here substantially extends previous studies indicating that transcriptional regulation of the IL-2R « gene in both species depends on temporally and spatially coordinated interactions between multiple regulatory proteins .
+These interactions serve to integrate the signals from the various membrane receptors that control the efficient and accurate expression of a gene that is a key regulator of immune responses ( 1 , 26 , 65 ) .
+ACKNOWLEDGMENTS We are deeply indebted to H. Dutartre for the construction of the human GASd/EBSd mutants .
+We thank J. P. Borg , D. Cantrell , Y. Collette , B. Kahn-Perlés , C. Mawas , and D. Olive for stimulating advice .
+The recombinant phage A39 was a generous gift of T. Honjo .
+Specific antisera and constructs were generously provided by F. Gouilleux , B. Groomer , J. Ghysdael , and J. F. Leiden .
+This work was supported by the Institut National de la Santé et de la Recherche Médicale and by grants from the Association pour la Recherche sur le Cancer , the Ligue Nationale Contre le Cancer , the Comité des Bouches-du-Rhone de la Ligue Nationale Contre le Cancer , and the European Community ( Biomed-1 CT 93-1426 and CHRX CT 94-0537 ) .
+P. Lécine was supported by a fellowship from the Association pour la Recherche sur le Cancer , and P. Rameil was supported by a fellowship from the Ministére de l'Enseignement Supérieur et de la Recherche .
+REFERENCES 1 .
+Algarte , M. , P. Lecine , R. Costello , A. Plet , D. Olive , and J. Imbert .
+1995 .
+In vivo regulation of interleukin-2 receptor alpha gene transcription by the coordinated binding of constitutive and inducible factors in human primary T-cells .
+EMBO J .
+214:5060-5072 .
+2 .
+Bailly , R. A. , R. Bosselut , J. Zucman , F. Cormier , O. Delattre , M. Roussel , G. Thomas , and J. Ghysdael .
+1994 .
+DNA-binding and transcriptional activation properties of the EWS-FLI-1 fusion protein resulting from the t ( 11 ; 22 ) translocation in Ewing sarcoma .
+Mol .
+Cell Biol .
+14:3230-3241 .
+3 .
+Bassuk , A. G. , and J. M. Leiden .
+1995 .
+A direct physical association between ETS and AP-1 transcription factors in normal human T cells .
+Immunity 3:223-237 .
+4 .
+Beadling , C. , D. Guschin , B .
+A. Witthuhn , A. Ziemiecki , J. N. Ihle , I. M. Kerr , and D. A. Cantrell .
+1994 .
+Activation of JAK kinases and STAT proteins by interleukin 2 and interferon alpha , but not the T cell antigen receptor , in human T lymphocytes .
+EMBO J .
+13:5605-5615 .
+5 .
+Beadling , C. , J. Ng , J. W. Babbage , and D. A. Cantrell .
+1996 .
+Interleukin-2 activation of STATS requires the convergent action of tyrosine kinases and a serine/threonine kinase pathway distinct from the Raf1/ERK2 MAP kinase pathway .
+EMBO J .
+15:1902-1913 .
+6 .
+Brunn , G. J. , E. L. Falls , A. E. Nilson , and R. T. Abraham .
+1995 .
+Protein-tyrosine kinase-dependent activation of STAT transcription factors in inter-leukin-2- or interleukin-4-stimulated T lymphocytes .
+J. Biol .
+Chem .
+270 : 11628-11635 .
+Mor .
+CELL .
+BioL .
+7 .
+Cosman , D. , D. P. Cerretti , A. Larsen , L. Park , C. March , S. Dower , S. Gillis , and D. Urdal .
+1984 .
+Cloning , sequence and expression of human interleukin-2 receptor .
+Nature ( London ) 312:768-771 .
+8 .
+Cross , S. L. , M. Feinberg , J .
+B. Wolf , N. J. Holbrook , F. Wong-Staal , and W. J. Leonard .
+1987 .
+Regulation of the human interleukin-2 receptor alpha chain promoter : activation of a nonfunctional promoter by the transactivator gene of HTLV-I .
+Cell 49:47-56 .
+9 .
+Dalton , S. , and R. Treisman .
+1992 .
+Characterization of SAP-1 , a protein recruited by serum response factor to the c-fos serum response element .
+Cell 68:597-612 .
+10 .
+Damen , J. E. , H. Wakao , A. Miyajima , J. Krosl , R. K. Humphries , R. L. Cutler , and G. Krystal .
+1995 .
+Tyrosine 343 in the erythropoietin receptor positively regulates erythropoictin-induced cell proliferation and Stats acti-vation .
+EMBO J .
+14:5557-5568 .
+11 .
+Depper , J. M. , W. J. Leonard , C. Drogula , M. Kronke , T. A. Waldmann , and W. C. Greene .
+1985 .
+Interleukin 2 ( IL-2 ) augments transcription of the IL-2 receptor gene .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 82:4230-4234 .
+12 .
+Dudek , H. , R. V. Tantravahi , V. N. Rao , E. S. P. Reddy , and E. P. Reddy .
+1992 .
+Myb and Ets proteins cooperate in transcriptional activation of the mim-1 promoter .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 89:1291-1295 .
+13 .
+Firmbach-Kraft , L , M. Byers , T. Shows , R. Dalla-Favera , and J. J. Krolewski .
+1990. tyk2 , prototype of a novel class of non-receptor tyrosine kinase genes .
+Oncogene 5:1329-1336 .
+14 .
+Foecking , M. K. , and H. Hofstetter .
+1986 .
+Powerful and versatile enhancer-promoter unit for mammalian expression unit .
+Gene 45:101-105 .
+15 .
+Frank , D. A. , M. J. Robertson , A. Bonni , J. Ritz , and M. E. Greenberg .
+1995 .
+Interleukin 2 signaling involves the phosphorylation of Stat proteins .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 92:7779-7783 .
+16 .
+Giri , J. G. , M. Abdich , J. Eisenman , K. Shanebeck , K. Grabstein , S. Kumaki , A. Namen , L. S. Park , D. Cosman , and D. Anderson .
+1994 .
+Utilization of the beta and gamma chains of the IL-2 receptor by the novel cytokine IL-15 .
+EMBO J .
+13:2822-2830 .
+16a.Gouilleux , F. Personal communication .
+17 .
+Gouilleux , F. , C. Pallard , I. Dusanter-Fourt , H. Wakao , L. A. Haldosen , G. Norstedt , D. Levy , and B. Groner .
+1995 .
+Prolactin , growth hormone , erythropoietin and granulocyte-macrophage colony stimulating factor induce MGF-Stat5 DNA binding activity .
+EMBO J .
+14:2005-2013 .
+18 .
+Hori , T. , T. Uchiyama , M. Tsudo , H. Umadome , H. Ohno , S. Fukuhara , K. Kita , and H. Uchino .
+1987 .
+Establishment of an interleukin 2-dependent human T cell line from a patient with T cell chronic lymphocytic leukemia who is not infected with human T cell leukemia/lymphoma virus .
+Blood 70:1069-1072 .
+19 .
+Hou , J. , U. Schindler , W. J. Henzel , S. C. Wong , and S. L. McKnight .
+1995 .
+Identification and purification of human Stat proteins activated in response to interleukin-2 .
+Immunity 2321-329 .
+20 .
+Howard , P. W. , and R. A. Maurer .
+1995 .
+A composite Ets/Pit-1 binding site in the prolactin gene can mediate transcriptional responses to multiple signal transduction pathways .
+J. Biol .
+Chem .
+270:20930-20936 .
+21 .
+Hunter , T. 1993 .
+Signal transduction .
+Cytokine connections .
+Nature ( London ) 366:114-116 .
+22 .
+Thile , J. N. , B .
+A. Witthuhn , F. W. Quelle , K. Yamamoto , and O. Silvennoinen .
+1995 .
+Signaling through the hematopoietic cytokine receptors .
+Annu .
+Rev .
+Immunol .
+13:369-398 .
+23 .
+Ishida , N. , H. Kanamori , T. Noma , T. Nikaido , H. Sabe , N. Suzuki , A. Shimizu , and T. Honjo .
+1985 .
+Molecular cloning and structure of the human interleukin 2 receptor gene .
+Nucleic Acids Res .
+13:7579-7589 .
+24 .
+Ivashkiv , L. B .
+1995 .
+Cytokines and STATs : how can signals achieve speci-ficity ?
+Immunity 3:1-4 .
+25 .
+John , S. , R. Marais , R. Child , Y .
+Light , and W. J. Leonard .
+1996 .
+Importance of low affinity Elf-1 sites in the regulation of lymphoid-specific inducible gene expression .
+J. Exp .
+Med .
+183:743-750 .
+26 .
+John , S. , R. B. Reeves , J.-X .
+Lin , R. Child , J. M. Leiden , C. B. Thompson , and W. J. Leonard .
+1995 .
+Regulation of cell-type-specific interleukin-2 receptor -chain gene expression : potential role of physical interactions between Elf-1 , HMG-I ( Y ) , and NF-xB family proteins .
+Mol .
+Cell .
+Biol .
+15 : 1786-1796 .
+27 .
+Johnston , J .
+A. , M. Kawamura , R. A. Kirken , Y. Q. Chen , T. B. Blake , K. Shibuya , J. R. Ortaldo , D. W. McVicar , and J. J. O'Shea .
+1994 .
+Phosphorylation and activation of the JAK-3 janus kinase in response to interleukin-1 .
+Nature ( London ) 370:151-153 .
+28 .
+Kirken , R. A. , H. Rui , M. G. Malabarba , and W. L. Farrar .
+1994 .
+Identification of interleukin-2 receptor-associated tyrosine kinase p116 as novel Ieukocyte-specific janus kinase .
+J. Biol .
+Chem .
+269:19136-19141 .
+29 .
+Kirken , R. A. , H. Rui , M. G. Malabarba , O. M. Z. Howard , M. Kawamura , J. J. O'Shea , and W. L. Farrar .
+1995 .
+Activation of Jak3 , but not Jak1 , is critical for IL-2 induced proliferation and Stat5 recruitment by a COOH-terminal region of the IL-2 receptor beta-chain .
+Cytokine 7:689-700 .
+30 .
+Ko , L. J. , and J. D. Engel .
+1993 .
+DNA-binding specificities of the GATA transcription factor family .
+Mol .
+Cell .
+Biol .
+13:4011-4022 .
+31 .
+Kondo , M. , T. Takeshita , N. Ishii , M. Nakamura , S. Watanabe , K. Arai , and K. Sugamura .
+1993 .
+Sharing of the interleukin-2 ( IL-2 ) receptor gamma chain between receptors for IL-2 and IL-4 .
+Science 262:1874-1877 .
+Vou .
+16 , 1996 32 .
+33 .
+Krolewski , J. J. , R. Lee , R. Eddy , T. B .
+Shows , and R. Dalla-Favera .
+1990 .
+Identification and chromosomal mapping of new human tyrosine kinase genes .
+Oncogene 5:277-282 .
+Kuang , A .
+A. , K. D. Novak , S. M. Kang , K. Bruhn , and M. J. Lenardo .
+1993 .
+Interaction between NF-kappa B and serum response factor-binding elements activates an interleukin-2 receptor alpha-chain enhancer specifically in T lymphocytes .
+Mol .
+Cell .
+Biol .
+13:2536-2545 .
+33a.Lécine , P. , et al .
+Unpublished data .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+Leonard , W. J .
+1992 .
+The interleukin 2 receptor ; structure , function , intra-cellular messengers and molecular regulation , p. 24-96 .
+In J. Wawman and F. Balkwill ( ed . )
+, Interleukin-2 .
+Blackwell Scientific Publications Ltd , Ox-ford .
+Leonard , W. J. , J. M. Depper , G. R. Crabtree , S. Rudikoff , J. Pumbhrey , R. J. Robb , M. Kronke , P. B. Svetlik , N. J. Peffer , T. A. Waldmann , and W. C. Greene .
+1984 .
+Molecular cloning and expression of cDNAs for the human interleukin-2 receptor .
+Nature ( London ) 311:626-631 .
+Lin , B .
+B. , S. L. Cross , N. F. Halden , D. G. Roman , M. B. Toledano , and W. J. Leonard .
+1990 .
+Delineation of an enhancerlike positive regulatory element in the interleukin-2 receptor alpha-chain gene .
+Mol .
+Cell .
+Biol .
+10:850-853 .
+Lin , J. X. , T. S. Migone , M. Tsang , M. Friedmann , J .
+A. Weatherbee , L. Zhou , A. Yamauchi , E. T. Bloom , J. Mictz , S. John , and W. J. Leonard .
+1995 .
+The role of shared receptor motifs and common Stat proteins in the generation of cytokine pleiotropy and redundancy by IL-2 , IL-4 , IL-7 , IL-13 , and IL-15 .
+Immunity 2231-339 .
+Liu , X. , G. W. Robinson , F. Gouilleux , B. Groner , and L. Henninghausen .
+1995 .
+Cloning and expression of Stat5 and an additional homologue ( StatSb ) involved in prolactin signal transduction in mouse mammary tissue .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 92:8831-8835 .
+Matsuzawa , S. , A. Matsuda , Y. Mizuno , and K. Kikuchi .
+1993 .
+IL-2 induces transient and specific decrease in cytosolic protein phosphatase PP1 activity in murine T cell lines .
+Biochem .
+Biophys .
+Res .
+Commun .
+195:989-996 .
+Maxam , A. M. , and W. Gilbert .
+1980 .
+Sequencing end-labeled DNA with base-specific chemical cleavages .
+Methods Enzymol .
+65:499-560 .
+Miksicek , R. , A. Heber , W. Schmid , U. Danesch , G. Posseckert , M. Beato , and G. Schiitz .
+1986 .
+Glucocorticoid responsiveness of the transcriptional enhancer of moloney murine sarcoma virus .
+Cell 46:283-290 .
+Minami , Y. , T. Kono , T. Miyazaki , and T. Taniguchi .
+1993 .
+The IL-2 receptor complex : its structure , function , and target genes .
+Annu .
+Rev .
+Immunol .
+11:245-267 .
+Miyazaki , T. , A. Kawahara , H. Fujii , Y. Nakagawa , Y. Minami , Z. J. Lin , I. Oishi , O. Silvennoinen , B .
+A. Witthuhn , J. N. Ihle , and T. Taniguchi .
+1994 .
+Functional activation of Jak1 and Jak3 by selective association with IL-2 receptor subunits .
+Science 266:1045-1047 .
+Mui , A. L. , H. Wakao , A. M. O'Farrell , N. Harada , and A. Miyajima .
+1995 .
+Interleukin-3 , granulocyte-macrophage colony stimulating factor and interleukin-5 transduce signals through two STATS5 homologs .
+EMBO J .
+14:1166-1175 .
+Nakamura , Y. , S. M. Russell , S. A .
+Mess , M. Friedmann , M. Erdos , C. Francois , Y. Jacques , S. Adelstein , and W. J. Leonard .
+1994 .
+Heterodimer-ization of the IL-2 receptor beta- gamma-chain cytoplasmic domains is required for signalling .
+Nature ( London ) 369:330-333 .
+Nelson , B. H. , J. D. Lord , and P. D. Greenberg .
+1994 .
+Cytoplasmic domains of the interleukin-2 receptor beta and gamma chains mediate the signal for T-cell proliferation .
+Nature ( London ) 369:333-336 .
+Nishi , M. , Y. Ishida , and T. Honjo .
+1988 .
+Expression of functional interleukin-2 receptors in human light chain/Tac transgenic mice .
+Nature ( London ) 331:267-269 .
+Noguchi , M. , Y. Nakamura , S. M. Russell , S. F. Ziegler , M. Tsang , X. Cao , and W. J. Leonard .
+1993 .
+Interleukin-2 receptor gamma chain : a functional component of the interleukin-7 receptor .
+Science 262:1877-1880 .
+Olive , D. , F. Pages , S. Klasen , M. Battifora , R. Costello , J. Nunes , A. Trunch , M. Ragueneau , Y. Martin , J. Imbert , F. Birg , C. Mawas , M. Bagnasco , and C. Cerdan .
+1994 .
+Stimulation via the CD28 molecule .
+Regulated of signal-ling , cytokine production and cytokine receptor expression .
+Fundam .
+Clin .
+Immunol .
+2185-197 .
+Pallard , C. , F. Gouilleux , L. Benit , L. Cocault , M. Souyri , D. Levy , B. Groner , S. Gisselbrecht , and I. Dusanter-Fourt .
+1995 .
+Thrombepoictin activates a STATS5-like factor in hematopoietic cells .
+EMBO J .
+14:2847-2856 .
+Pazmany , T. , S. P. Murphy , S. O. Gollnick , S. P. Brooks , and T. B. Tomasi .
+1995 .
+Activation of multiple transcription factors and fos and jun gene family expression in cells exposed to a single electric pulse .
+Exp .
+Cell Res .
+221:103-110 .
+Pierce , J. W. , C. A. Jamieson , J. L. Ross , and R. Sen. 1995 .
+Activation of IL-2 receptor alpha-chain gene by individual members of the rel oncogene family in association with serum response factor .
+J. Immunol .
+155:1972-1980 .
+Pimentel-Muinos , F. X. , M. A. Munoz-Fernandez , and M. Fresno .
+1994 .
+Control of T lymphocyte activation and IL-2 receptor expression by endog-enously secreted lymphokines .
+J. Immunol .
+152:5714-5722 .
+Plaetinck , G. , M. C. Combe , P. Corthesy , P. Sperisen , H. Kanamori , T. Honjo , and M. Nabholz .
+1990 .
+Control of IL-2 receptor-alpha expression by IL-1 , tumor necrosis factor , and IL-2 .
+Complex regulation via elements in the 5 ' flanking region .
+J. Immunol .
+145:3340-3347 .
+55 .
+56 .
+57 .
+58 .
+59 .
+60 .
+61 .
+62 .
+63 .
+64 .
+65 .
+66 .
+67 .
+68 .
+69 .
+70 .
+71 .
+72 .
+73 .
+74 .
+75 .
+76 .
+77 .
+78 .
+79 .
+Jak-Stat ACTIVATION OF IL-2Re « GENE 6839 Pognonec , P. , K. E. Boulukos , J. C. Gesquiere , D. Stehelin , and J. Ghysdael .
+1988 .
+Mitogenic stimulation of thymocytes results in the calcium-dependent phosphorylation of c-ets-1 proteins .
+EMBO J .
+7:977-983 .
+Quelle , F. W. , K. Shimoda , W. Thierfelder , C. Fischer , A. Kim , S. M. Ruben , J. L. Cleveland , J. H. Pierce , A. D. Keegan , K. Nelms , W. E. Paul , and J. N. Thle .
+1995 .
+Cloning of murine Stat6 and human Stat6 , Stat proteins that are tyrosine phosphorylated in responses to IL-4 and IL-3 but are not required for mitogenesis .
+Mol .
+Cell .
+Biol .
+15:3336-3343 .
+Romano-Spica , V. , P. Georgiou , H. Suzuki , T. S. Papas , and N. K. Bhat .
+1995 .
+Role of ETS1 in IL-2 gene expression .
+J. Immunol .
+154:2724-2732 .
+Russell , S. M. , J .
+A. Johnston , M. Noguchi , M. Kawamura , C. M. Bacon , M. Friedmann , M. Berg , D. W. McVicar , B .
+A. Witthuhn , O. Silvennoinen , A. S. Goldman , F. C. Schmalstieg , J. N. Ihle , J. J. O'Shea , and W. J. Leonard .
+1994 .
+Interaction of IL-2R beta and gamma ( c ) chains with JAK1 and JAK3-implications for XSCID and XCID .
+Science 266:1042-1045 .
+Russell , S. M. , A. D. Keegan , N. Harada , Y. Nakamura , P. Leland , M. Noguchi , M. Friedman , C. A. Miyajima , R. K. Puri , W. E. Paul , and W. J. Leonard .
+1993 .
+Interleukin-2 receptor gamma chain : a functional component of the interleukin-4 receptor .
+Science 262:1880-1882 .
+Schindler , C. and J. E. Darnell , Jr. 1995 .
+Transcriptional response to polypeptide ligands : the Jak/Stat pathway .
+Annu .
+Rev .
+Biochem .
+64:621-651 .
+Seidel , H. M. , L. H. Milocco , P. Lamb , J. E. Darnell , Jr. , R. B. Stein , and J. Rosen .
+1995 .
+Spacing of palindromic half sites as a determinant of selective STAT ( signal transducers and activators of transcription ) DNA binding and transcriptional activity .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 92:3041-3045 .
+Shuai , K. , C. M. Horvath , L. H. Huang , S. A. Qureshi , D. Cowburn , and J. E. Darnell , Jr. 1994 .
+Interferon activation of the transcription factor Stat91 involves dimerization through SH2-phosphotyrosyl peptide interactions .
+Cell 76:821-828 .
+Smith , K. A .
+1988 .
+Interleukin-2 : inception , impact , and implications .
+Science 240:1169-1176 .
+Soldaini , E. , M. Pla , F. Beermann , E. Espel , P. Corthesy , S. Barange , G. A. Waanders , H. R. MacDonald , and M. Nabholz .
+1995 .
+Mouse interleukin-2 receptor alpha gene expression .
+Delimitation of cis-acting regulatory elements in transgenic mice and by mapping of DNAse-I hypersensitive sites .
+J. Biol .
+Chem .
+270:10733-10742 .
+Sperisen , P. , S. M. Wang , E. Soldaini , M. Pla , C. Rusterholz , P. Bucher , P. Corthesy , P. Reichenbach , and M. Nabholz .
+1995 .
+Mouse interleukin-2 receptor alpha gene expression-interleukin-1 and interleukin-2 control transcription via distinct cis-acting elements .
+J. Biol .
+Chem .
+270:10743-10753 .
+Suzuki , N. , N. Matsunami , H. Kanamori , N. Ishida , A. Shimizu , Y. Yaoita , T. Nikaido , and T. Honjo .
+1987 .
+The human IL-2 receptor gene contains a positive regulatory element that functions in cultured cells and cell-free extracts .
+J. Biol .
+Chem .
+262:5079-5086 .
+Takeshita , T. , H. Asao , K. Ohtani , N. Ishii , S. Kumaki , N. Tanaka , H. Munakata , M. Nakamura , and K. Sugamura .
+1992 .
+Cloning of the gamma chain of the human IL-2 receptor .
+Science 257:379-382 .
+Taniguchi , T. , H. Matsui , T. Fujita , M. Hatakeyama , N. Kashima , A. Fuse , J. Hamuro , C. Nishi-Takaoka , and G. Yamada .
+1986 .
+Molecular analysis of the interleukin-2 system .
+Immunol .
+Rev .
+92:121-133 .
+Taniguchi , T. , and Y. Minami .
+1993 .
+The IL-2/IL-2 receptor system : a current overview .
+Cell 73:5-8 .
+Thompson , C. B. , C. Wang , I.-C. Ho , B. Bohjanen , B. Petryniak , C. H. June , S. Miesfeldt , L. Zhang , G. J. Nabel , B. Karpinski , and J. M. Leiden .
+1992. cis-acting sequences required for inducible interleukin-2 enhancer function bind a novel Ets-related protein , Elf-1 .
+Mol .
+Cell .
+Biol .
+12:1043-1053 .
+Voss , S. D. , T. P. Leary , P. M. Sondel , and R. J. Robb .
+1993 .
+Identification of a direct interaction between interleukin 2 and the p64 interleukin 2 receptor gamma chain .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:2428-2432 .
+Wakao , H. , F. Gouilleux , and B. Groner , 1994 .
+Mammary gland factor ( MGF ) is a novel member of the cytokine regulated transcription factor gene family and confers the prolactin response .
+EMBO J .
+13:2182-2191 .
+Wakao , H. , N. Harada , T. Kitamura , A. L. Mui , and A. Miyajima .
+1995 .
+Interleukin 2 and erythropoietin activate STAT5/MGF via distinct pathways .
+EMBO J .
+14:2527-2535 .
+Waldmann , T. A .
+1993 .
+The IL-2/IL-2 receptor system : a target for rational immune intervention .
+Immunol .
+Today 14:264-270 .
+Wang , C. Y. , B. Petryniak , C. B. Thompson , W. G. Kaelin , and J. M. Leiden .
+1993 .
+Regulation of the Ets-related transcription factor Elf-1 by binding to the retinoblastmona protein .
+Science 260:1330-1335 .
+Wang , Y. , H. D. Campbell , and I. G. Young .
+1993 .
+Sex hormones and dexa-methasone modulate interleukin-5 gene expression in T lymphocytes .
+J. Steroid Biochem .
+Mol .
+Biol .
+44:203-210 .
+Wasylyk , B. , S. L. Hahn , and A. Giovane .
+1993 .
+The Ets family of transcription factors .
+Eur .
+J. Biochem .
+211:7-18 .
+Wen , Z. , Z. Zhong , and J. E. Darnell , Jr. 1995 .
+Maximal activation of transcription by Stat1 and Stat3 requires both tyrosine and serine phosphor-ylation .
+Cell 82:241-250 .
+Wilks , A. F. , A. G. Harpur , R. R. Kurban , S. J. Ralph , G. Zurcher , and A. Ziemiecki .
+1991 .
+Two novel protein-tyrosine kinases , each with a second phosphotransferase-related catalytic domain , define a new class of protein kinase .
+Mol .
+Cell .
+Biol .
+11:2057-2065 .
+6840 80 .
+81 .
+82 .
+LECINE ET AL .
+Witthubn , B .
+A. , O. Silvennoinen , O. Miura , K. S. Lai , C. Cwik , E. T. Lin , and J. N. Thile .
+1994 .
+Involvement of the JAK-3 janus kinase in signalling by inter-leukins 2 and 4 in lymphoid and myeloid cells .
+Nature ( London ) 370:153-157 .
+Wurster , A. L. , G. Siu , J. M. Leiden , and S. M. Hedrick .
+1994 .
+Elf-1 binds to a critical element in a second CD4 enhancer .
+Mol .
+Cell .
+Biol .
+14:6452-6463 .
+Yamamoto , K. , F. W. Quelle , W. E. Thierfelder , B. L. Kreider , D. J. Gilbert , 83 .
+Mor .
+CELL .
+BioL .
+N. A. Jenkins , N. G. Copeland , O. Silvennoinen , and J. N. Ihle .
+1994 .
+Stat4 , a novel gamma interferon activation site-binding protein expressed in carly myeloid differentiation .
+Mol .
+Cell .
+Biol .
+14:4342-4349 .
+Zhong , Z. , Z. Wen , and J. E. Darnell , Jr. 1994 .
+Stat3 and Statd : members of the family of signal transducers and activators of transcription .
+Proc .
+Nat ] .
+Acad .
+Sci .
+USA 91:4806-4810 .

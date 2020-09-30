@@ -1,0 +1,833 @@
+Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Cloning and functional characterization of early B-cell factor , a regulator of lymphocyte-specific gene expression James Hagman , Carole Belanger , Adam Travis , Christoph W. Turck , ' and Rudolf Grossched ] Howard Hughes Medical Institute and Departments of Microbiology and Biochemistry ; ' Protein Structure Laboratory and Department of Medicine , University of California , San Francisco , California 94143 USA .
+Early B-cell factor ( EBF ) was identified previously as a tissue-specific and differentiation stage-specific DNA-binding protein that participates in the regulation of the pre-B and B lymphocyte-specific mb-1 gene .
+Partial amino acid sequences obtained from purified EBF were used to isolate cDNA clones , which by multiple criteria encode EBF .
+The recombinant polypeptide formed sequence-specific complexes with the EBF-binding site in the mb-1 promoter .
+The cDNA hybridized to multiple transcripts in pre-B and B-cell lines , but transcripts were not detected at significant levels in plasmacytoma , T-cell , and nonlymphoid cell lines .
+Expression of recombinant EBF in transfected nonlymphoid cells strongly activated transcription from reporter plasmids containing functional EBF-binding sites .
+Analysis of DNA binding by deletion mutants of EBF identified an amino-terminal cysteine-rich DNA-binding domain lacking obvious sequence similarity to known transcription factors .
+DNA-binding assays with cotranslated wild-type and truncated forms of EBF indicated that the protein interacts with its site as a homodimer .
+Deletions delineated a carboxy-terminal dimerization region containing two repeats of 15 amino acids that show similarity with the dimerization domains of basic-helix-loop-helix proteins .
+Together , these data suggest that EBF represents a novel regulator of B lymphocyte-specific gene expression .
+[ Key Words : EBF ; mb-1 gene expression ; transcription factor ; B-cell differentiation ] Received February 5 , 1993 ; accepted February 26 , 1993 .
+Cell type-specific DNA-binding proteins are instrumental for the selective transcription of eukaryotic genes in diverse cell types .
+These protcins , together with ubiquitous factors , generate the specific pattern of gene expression that is characteristic for a particular cell type ( for review , see Herskowitz 1989 ) .
+Morcover , the pattem of gene expression is temporally regulated during the differentiation of progenitor cells into highly specialized cells .
+The differentiation of B lymphocytes from committed precursor cells to antibody-secreting plasma cells includes at least four stages that can be distinguished by changes in the expression of genes encoding the immunoglobulin heavy chains , light chains , and accessory proteins ( for review , see Rolink and Melchers 1991 ) .
+Pro-B cells have immunoglobulin genes in an unrearranged and transcriptionally inactive state .
+Pre-B cells are characterized by the rearrangement and expression of the p heavy-chain locus .
+The subsequent rearrangement and expression of immunoglobulin light-chain loci result in the synthesis of membrane-bound heteromeric IgM complexes { migM } ) that are displayed on the surface of immature B cells .
+Together , these stages have been defined as the early , antigen-independent phase of B-cell differentiation .
+Following the stimulation of mlg* B cells by an tigen , these cells differentiate into antibody-secreting plasma cells representing the terminal stage of the B-cell lineage .
+Although much is known concerning the regulation of immunoglobulin genes , very little is understood about the regulation of genes that express mlg-associated molecules in the early stages of B-cell differentiation .
+In particular , the question arises as to whether additional or distinct nuclear factors are involved in the regulation of these genes .
+As an example of such a gene , mb-1 transcripts have been detected in cell lines that are representative of the carly stages of B-cell differentiation , including pre-B and migM* B-cell lines but not in cell lines representing plasma cells , T cells , and nonlymphoid cells ( Sakaguchi et al .
+1988 ) .
+The mb-1-encoded protein ( Ige ) , together with the product of the B29 gene ( IgB ) , associates with IgM ( Campbell and Cambier 1990 ; Hom-bach et al .
+1990 ) or the other immunoglobulin classes on the B-cell surface ( Venkitaraman et al .
+1991 ) and participates in signal transduction ( Matsuuchi et al .
+1992 ) .
+In plasmacytomas representing terminally differentiated plasma cells , the synthesis of IgM is switched from the membrane-bound form to the secreted form and the mb-1 gene is shut off ( Sakaguchi et al .
+1988 ) .
+Previous analysis of the mb-1 promoter indicated that 760 GENES & DEVELOPMENT 7:760-773 © 1993 by Cold Spring Harbor Laboratory Press ISSN 0890-9369/93 $ 5.00 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press a 325-bp DNA fragment directs lineage- and stage-specific transcription from multiple start sites in transfection assays ( Travis et al .
+1991b ) .
+Deletions and linker-scanning mutations revealed two functionally important sets of elements upstream of the major transcription initiation sites .
+The elements most proximal to the initiation sites were found to be essential for promoter function .
+Our studies with these proximal promoter ele-ments , however , did not identify any DNA-binding activities with the same cell-type distribution as mb-1 transcripts ( Travis et al .
+1991b ; Hagman and Grosschedl 1992 ) .
+Characterization of the distal mb-1 promoter region identified a sequence element that was protected from DNase I cleavage by a nuclear factor present in pre-B and mig * B-cell lines but not present in fibroblast , plasmacytoma , or T cell lines ( Magman et al .
+1991 ) .
+This early B-cell-specific DNA-binding protein was termed early B-cell factor { EBF ) .
+A factor with many of the properties of EBF was described independently as B-Lyf ( Feld-haus et al .
+1992 ) .
+The DNA-binding specificity of EBF was found to be distinct from that of other temporally regulated DNA-binding proteins of the B-cell lineage , including Oct-2 ( for review , see Staudt and Lenardo 1991 } , NFB { for review , see Lenardo and Baltimore 1989 ) , and B-cell-specific activator protein ( BSAP ) ( Adams et al .
+1992 ; Kozmik et al .
+1992 ) .
+The functional importance of the EBF-binding site was demonstrated by two assays .
+First , mutation of the EBF-binding site decreased mb-1 promoter activity fourfold in short-term transfection assays in pre-B cells ( Hagman et al .
+1991 ) .
+Second , the EBF-binding site , either in the context of flanking sequences or by itself , conferred activation on a heterologous promoter in pre-B cells but not in cells that do not contain EBF ( Hagman et al .
+1991 ; Feldhaus et al .
+1992 ) .
+Together , these data described EBF as a novel factor involved in early B-cell-specific gene expression .
+Recently , we purified EBF by sequence-specific DNA affinity chromatography and characterized it biochemi-cally ( Travis et al , 1993 ) .
+We found that polypeptides in the range of 62-65 kD { p62-65 ) could be fractionated by SDS-PAGE , eluted from the gel , and renatured to reconstitute a sequence-specific DNA-binding activity indis- Early B-cell factor tinguishable from EBF .
+Estimates of the size of native EBF by use of gel filtration chromatography indicated a radius of gyration for a globular protein of 140 kD , suggesting that EBF exists as a dimer of 62-65 kD subunits ( Travis et al .
+1993 ) .
+In this report we describe the cloning of cDNAs encoding a polypeptide , which , by all criteria examined , represents EBF .
+The recombinant protein contains two independent domains that are required for DNA binding and homodimerization .
+Moreover , EBF is a potent activator of gene expression , suggesting that the protein has a regulatory role in B lymphocytes and , possibly , other cell types .
+Results Isolation of cDNAs encoding p64/EBF EBF was purified from crude nuclear extracts of the murine pre-B-cell line 38B9 by a combination of cation exchange and oligonucleotide affinity chromatography ( Kadonaga and Tjian 1986 ) and further fractionated by SDS-PAGE .
+Polypeptides of 62-65 kD were isolated and cleaved with trypsin .
+Peptides were separated by reverse-phase HPLC for amino-terminal sequencing .
+Four peptides yielded the amino acid sequences shown in Table 1 .
+The sequences of peptides RA39 and RAG1 were used to design four degenerate oligonucleotide primers corresponding to the predicted sense and antisense nucleotide sequences of a portion of each peptide .
+One pair of primers allowed for the amplification of a 707-bp DNA fragment from a murine pre-B cell { 38B9 ) cDNA library ( Rudin et al .
+1990 ) by use of the polymerase chain reaction ( PCR ) .
+Comparison of the nucleotide sequence of the amplified PCR fragment with the combined PIR , GENPEPT , and SWISSPROT data bases indicated that we had cloned a previously unreported cDNA sequence .
+The identity of the PCR fragment as part of the sequence of the purified polypeptides was confirmed by a match between the nucleotide sequence adjacent to the primers and the codons predicted for the amino acid sequence of peptide RAG1l Table 1 .
+Amino acid sequence of tryptic peptide fragments of p62-65 Peptide Position® Residues® Amino acid sequence® Probes® RA39 122-129 8 TEQDFYVR ACNGARCARGAYTTYTAYGT RA5Sl 87-99 13 [ F ) A { L ) VGFVEKEKEA RA5S 382-390 9 AADLVEALY RAG 342-358 17 FIYTALNEPTIDYGFQR TGRAANCCRTARTC ( A/G / TJATNGT Preparation and analysis of peptides is described in Materials and methods .
+`` Coordinates of each peptide relative to the putative initiator methionine in the predicted amino acid sequence of EBF in $ EBF17 .
+*Number of amino acids in cach peptide .
+Amino acids in parentheses deviate from the predicted amino acids in recombinant EBF at positions 87 ( T ) and 89 ( F ) .
+Underlined amino acids were used for the design of degenerate oligonucleotide probes .
+Nucleotide sequences of the degenerate oligonucleotides used for PCR amplification .
+Degenerate nucleotides encode underlined amino acids in fourth column .
+GENES & DEVELOPMENT 761 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Hagman et al .
+{ see Table 1 ) .
+Because the cDNA sequence was too short to encode a 62- to 65-kD polypeptide , we used the PCR fragment to probe a Agtll cDNA library of the murine pre-B-cell line 70Z/3 ( Ben-Nariah et al .
+1986 ) .
+The PCR fragment hybridized to three independent phage clones from a pool of 400,000 , and restriction site mapping indicated that the clones contain overlapping sequences .
+Ser AGT n Glu G GAA Met Ph 46 ATG TT Gin CAG Met G 136 ATG Leu CTC Asn Leu Arg Lys Ser Asn Phe 226 AAC CTG CGG AMA TCC AAC TTC Gly Phe Val Glu Lys Glu Lys Glu Ala Asn Ser Glu Lys Thr 316 coe Ttc cro cac GAA AAA GAA GCC AAC AGC GAA AMG Acc Ser Met TCC ATG Arg Thr 406 CGG ACA G Cys Arg Val Leu Leu Thr His Glu Ile Met Cys Ser Arg Cys 496 TGC CGA GTA TTG CTC ACA CAC GAG ATC ATG TGC AGC Coc TGT Lys Cys T AMA TGC Met ATG Ser AGC Tyr Tac Asn AAT The nucleotide sequence was determined for both strands of the longest phage insert ( GEBF17 ; Fig .
+1 } .
+The nucleotide sequence of the & EBF17 insert suggests an open reading frame ( ORF ) from nucleotides 46-1818 .
+Conceptual translation of the nucleotide sequence from the first ATG codon yields a polypeptide of 591 amino acids with a molecular mass of 64.4 kD ( p64 ) , which is in 1 ATTTTCAAAG \GGAGATTTTTCCACAAGAAAAGGT 20 30 Lys Glu Glu Pro Leu Gly Ser Gly Met Asn Ala Val Arg Thr Trp AAG GAA GAG CCG CTG GGC AGC GGC ATG AAC GCG GTG CGG Aco TGG Gly Val Gly Leu Ala Arg Ala cee are cor cre ccc cos Gct Glu Lys Gir s mac C so so Asp Arg Gin Gly Gin Pro Val Glu Ile Glu Arg val GAC AGA CAG ° CAG CCC GTG GAG ATT GAG AG GTG Asn Gly 11 EfSdiceq Arg Leu Gln Leu Leu Tyr Ser Asn ces crc cas crc crc TAc AGC AAT n Asn AAC [ le CC ATC Ser 1036 TCC Lys V. 1126 AMG otc Gly Met Pro His Asn Asn Gir p Arg Ala 1216 GGG ATG CCC CAC AMC AAC AGA GCT Leu Pro Ala Leu Ala Asn Th 1306 CTC CCA GCC CTT GCT AMC Ala Gly Met CAT GCA GGG ATG Tyr Asn Ser 1486 Tat Ac TCA Ala Asn Ser GCC AAC TCA e Gin C CAG 1 Glu T GAA Gcc C Asp Ile Ala Glu Ala Leu Tyr Ser Val Pro Arg Asn His Asn Gln GAC ATT GCA GAG GCT CTG TAC AGT GTC CCT CGG AAC CAC AAC CAG ; Val Asn Ser Phe Ser Gly Gln Leu Ala Val Asn Val Ser GTG AAC TCC TTC AGT GGA CAA CTG GCT GTG AAT GTC Asn Leu Gly Gly Ser Pro Thr Phe Leu Asn cc AAT TTG GGC Gee Toc cca Acc TTC CTC AAT r Thr CT ACA Asn Cys Ser Ser Ser S AAC Toc AGT Acc Toc Ala Ile Ser GCG ATA TCT oly GGC 9 Met OP 5 Met Ile Val Pro P C TG TGA AAGAATTGCCTTGAAGAATTTTATTAATGAA ATG ATT GTC CCT 1853 GAGGTTGGATTCTGCTACGAAAGTTATCTGACATGAGTCCCAGAGTGGAACTTTTAACTCAGGCCTTTTTAAGAGGAATCACACAATAACTGCAGATTTTTAAACAAAATCACCGACCT Figure 1 .
+Nucleotide sequence of the cDNA insert of $ EBF17 and predicted amino acid sequence of the encoded polypeptide .
+The nucleotide sequence of the insert of $ EBF17 is shown together with the translated sequence of the longest ORF .
+The nucleotide sequence is numbered at left .
+Amino acids are numbered above each line .
+762 GENES & DEVELOPMENT Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press close agreement with our estimates for EBF polypeptides purified from nuclear extract [ Travis et al .
+1993 ) .
+The first ATG codon in the longest ORF is not preceded by an in-frame termination codon in the cDNA insert .
+The PCR amplification of a cDNA sequence upstream from the 5 end of dqEBF17 , however , indicates the presence of an in-frame termination codon ( data not shown ) .
+Therefore , together with the close agreement between the calculated mass of the translated ORF ( p64 ) and the experimentally determined molecular mass of purified EBF polypeptides ( [ p62-65 ) , the & EBF17 insert appears to contain the entire ORF .
+This ORF also contains the amino acid sequences of the two other tryptic peptides obtained from purified p62-65 , which were not used to design primers for the amplification reaction .
+Comparison of the amino acid sequence of p64 with the current data bases revealed only one homology with known proteins : Two repeats of 15 amino acids were found to be related in sequence to members of the basic-helix-loop-helix [ bHLH } ] family of DNA-binding proteins ( see below ) .
+Sequence-specific DNA binding by recombinant EBF To confirm that the cDNA clones encode EBF , we compared specific DNA binding by p64 with EBF from nuclear extracts .
+Recombinant p64 protein was synthesized from the dEBFL7 insert by in vitro transcription and translation .
+The protein products were examined for specific DNA binding to a labeled mb-1 promoter probe in an electrophoretic mobility retardation assay .
+The relative migrations of the major , and some minor , protein-DNA complexes formed with recombinant p64 were identical with those of complexes formed with pre-B cell nuclear extracts ( Fig .
+2 , of .
+lanes 11-19 with 2-10 ) .
+Moreover , all shifted complexes were competed by an unlabeled duplex oligonucleotide containing the wild-type EBF-binding site [ Fig .
+2 , lanes 3-6 and 12-15 ) , and not by a mutant oligonucleotide containing a single C- A substitution in the EBF site ( Fig .
+2 , lanes 7-10 and 16-19 ) .
+This mutation was shown previously to drastically reduce DNA binding by EBF [ Hagman et al .
+1991 ) .
+The contacts made by recombinant p64 with the mb-1 distal promoter region were analyzed using a methylation interference assay [ Fig .
+3 ) .
+DNA binding by recombinant p64 was decreased by methylation of virtually the same set of nucleotides that interfered with the binding of EBF in crude nuclear extracts ( Magman et al .
+1991 ) .
+Together , these data suggest that p64 represents EBF .
+Expression of EBF mRNA in cell lines and adult mouse tissues To examine the cell-type and tissue distribution of EBF transcripts , we hybridized an RNA blot containing poly { A ) * -selected mRNA from various lymphoid and nonlymphoid cell lines with a labeled EBF cDNA probe ( Fig .
+4A , upper panel ) .
+To control for RNA quantity and transfer , the RNA blot was reprobed with a labeled B-actin-specific DNA probe [ lower panel ) .
+Five distinct mRNAs of 5.8 , 5.2 , 4.6 , 3.8 , and 2.7 kb were detected in Early B-cell factor __ Nuclear extract ___ Recombinant EBF / i C 7 & $ 9 wt mut © wt mut Probe ma §/7 `` /- ( 33 / © & & X $ & & $ & & 6 Ca a & 0 & o 9 6 t & 9 & a 0 Mol S 88 & 8°C 8 ¥ 88 8 & 8 8 8 olar $ JG S S999 099 9 8 excess - tom mme som sone mans mse san ome fod .
+1 Lo de T T wean donee moon ovine 1 2 3 4 5 6 7 8 9 10 11 .
+12 13 14 15 16 17 18 19 Figure 2 .
+The DNA-binding specificity of recombinant p64 is identical with that of EBF in nuclear extracts .
+Electrophoretic mobility retardation assay with a P-labeled double-stranded oligonucleotide probe comprising nucleotides -183 to -154 of the mb-1 promoter ( Hagman et al .
+1991 ] .
+The labeled DNA probe was incubated with 100 ng of unfractionated pre-B cell ( PD36 ] nuclear extract { feft } , or 2 pd reticulocyte lysate translation programmed with RNA transcribed from the insert sequence ( recombinant EBF , right ) .
+Protein-DMA complexes were separated from free DNA probe { F ) by electrophoresis through a nondenaturing polyacrylamide gel .
+For competition with protein binding , increasing amounts of unlabeled competitor oligonucleotides were included in the reaction as indicated .
+The double-stranded competitor oligonucleotides contained the wild-type ( wt ) mb-1 promoter sequence ( - 183 to -154 ) or a mutated [ mut ] sequence containing a C- A point mutation at nucleotide -173 ( Hagman et al .
+1991 ) .
+all murine pre-B and mig* B-cell lines [ lanes 1-5 and 6-7 ) .
+These signals were absent in three of five plasmacytoma cell lines { lanes 9,10,412 ) , all T cell lines ( lanes 13-15 ) , and all but one nonlymphoid cell line [ lanes 16-18 ) .
+Weak hybridization was detected with mRNA from the plasmacytoma lines SP2 and MPCI1 ( lanes 8,11 ) and also from NIH-3T3 fibroblasts ( lane 19 ) at a level 20- to 100-fold lower than found in early B cells .
+A high level of specific EBF mRNA was detected in a human B lympho-blastoid cell line { BJA-B ; data not shown } , indicating a high degree of sequence conservation between EBF transcripts of mice and humans .
+This analysis suggested that high levels of EBF expression are restricted to early stage-B cells , paralleling the distribution of EBF DNA-binding activity ( Hagman et al .
+1991 ) , The distribution of EBF mRNAs in adult murine tissues was examined by use of an S1 nuclease protection assay with a labeled EBF cDNA fragment ( Fig .
+5 ) .
+The probe was protected by transcripts in spleen , lymph node , and adipose tissues at a high level ( lanes 1,2,13 ) , and in several nonlymphoid tissues at a low level .
+The DNA probe was specific for EBF transcripts , because it was protected by mRNA sequences present in early GENES & DEVELOPMENT 763 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Hagman et al .
+a a + + A F BF A F BOF w ‘ we can gﬁﬁﬁ # es G -159 Pee 4 C g kJ ( g Que | C A .
+~*m “ U A+ a* g T 8 T coin C wan C oom 6 C p i - ime C -177 G i llis Silly woo , I a n I .
+C * A t a a C ncs T A C + A « a f 0G C +G { * G o C + A f u ?
+cits g al -162 G = 8 -1se 102 s 4 5° 60 7 8 -183 -160 | | 5° GAGAGAGACTCAAGGGAATTGTGG 3 ' 3 CTCTCTCTGAGTTCCCTTAACACC 5 Figure 3 .
+- Methylation interference analysis of DMA binding by recombinant EBF .
+The coding ( lanes 1-4 } and noncoding ( lanes 5-8 ) strands of the mb-1 promoter probes ( comprising nucleotides -243 to -126 or - 252 to - 113 , respectively ) were 3'-end-labeled with *P and partially methylated with dimeth-ylsulfate .
+Probes were incubated with rabbit reticulocyte lysate programmed with RNA transcribed from the cDNA insert of Bound ( B ) and free [ F ) probes were separated on a nondenaturing polyacrylamide gel and processed as described previously ( Hagman et al .
+1991 ] .
+Reference G + A cleavage reactions ( Sambrook et al .
+1989 ] are shown in lanes 1 and 4 .
+( @ ) Methylated bases that interfere with DNA binding by recombinant EBF .
+N3-adenosine methylation interference can be seen weakly .
+A summary of the interference pattem is shown below .
+B-cell lines ( data not shown ) but not by mRNA isolated from a T-cell line { EL4 ] or nontymphoid cell lines ( HeLa and Cos7 ) .
+As a control for the presence of B lymphocytes in tissue samples , we also analyzed the RNA samples with an Igk-specific probe ( Jenuwein and Grosschedl 1991 ) .
+As expected , spleen and lymph nodes , which contain high proportions of B cells , express high levels of k transcripts [ Fig .
+5A , lanes 1,2 } .
+Low levels of x transcripts , however , were also observed in thymus , lung , and salivary gland ( lanes 3,7,10 ] , suggesting that the EBF transcripts observed in these tissues were probably attributable to contaminating B lymphocytes .
+The absence of detectable x transcripts in other nonlymphoid tissues indicated that EBF is expressed at low levels in heart , brain , skeletal muscle , and kidney { lanes 4,5,6,9 ) .
+To 764 GENES & DEVELOPMENT gether , the data indicate that EBF is expressed predomi-nately in lymphoid and adipose tissues and is restricted within the lymphoid compartment to the early stages of the B-cell lineage .
+Activation of transcription by EBF We and others have shown previously that the EBF-binding site can augment transcription from heterologous promoter/reporter plasmids in transfected early B cell lines but not in cell lines that lack EBF ( Magman et al .
+1991 ; Feldhaus et al , 1992 } .
+To confirm that EBF is an activator of transcription , we transfected reporter plasmids together with an effector plasmid allowing for expression of full-length EBF , into HeLa cells .
+The reporter plasmids contained either one copy of the 105-bp mb-1 distal promoter fragment { Hagman et al .
+1991 ] or two copies of a 30-bp synthetic oligonucleotide comprising an EBF-binding site , inserted just upstream of the minimal -globin promoter in OVECS ( Westin et al .
+1987 ; Pre-B B Plasmacytoma T Non-lymphoid a ?
+> ~ 3 N $ A 6 A ® ® W oA & ~ ay ¢ o © ® A ; © 9 0 NWC C a C » E $ o & C 5 P ¢ § F 6 & € ZCS ” ﬂ g B-actin 102 3 4 50 60 7 8 9 10 11 12 13 14 15 16 17 18 19 Figure 4 .
+RNA blot analysis of the distribution of EBF transcripts in hematopoietic cell lines .
+Poly|A ) } *-selected cytoplasmic RNA ( 5 ug ) from various tissue culture cell lines was size fractionated by gel electrophoresis , transfered to a nylon mem-brane , and hybridized [ top ) with a **P-labceled DNA probe derived from the cDNA [ Smal-Avall , nucleotides 197-1332 } .
+Lymphoid cell lines include fetal liver-derived pre-B cells ( HAFTL1 , 38B9 , and 40E1 ) , an adult bone marrow-derived pre-B cell { 70Z2/3 ) , mig * B-cell lymphomas ( WEHI231 and BCL1 } , plasmacytomas ( SP2 , $ 194 , P3X63 , MPC11 , and J558L } , and T cell tumors ( 820M , BWS147 , and EL4 ] .
+Nonlymphoid cells include myeloid cells ( WEHI3 and P388D1 ) , erythroleukemia cells { MEL } , and fibroblasts ( NIH-3T3 ) .
+( Lane 5 ) 702/3 Pre-B lymphoma cells were treated for 24 hr with bacterial lipopolysac-charide , which can increase the levels of the transcription factors NFB ( Sen and Baltimore 1986 ) and Oct-2 [ Staudt et al .
+1988 ] in 707/3 cells .
+The sizes of the major EBF transcripts were determined as 5.8 , 5.2 , 4.6 , 3.8 , and 2.7 kb by comparison with RNA molecular mass markers ( BRL ) clectrophoresed in parallel and detected by rehybridization with **P-labeled bacteriophage X DNA ( not shown ) .
+To control for RNA levels , the RNA blots were stripped and rehybridized with a **P-labeled murine B-actin probe ( bottom } .
+Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press o Fo & $ € 0 2 so & P & o , * o .I F8 § 44 LJ € F $ Z $ ¢ @ JAY CJ GVC C P o ® v 147—i 122- um « x » - probe 90 -- comp Gili wih - EBF cap 67 -- swill Lo GG GAA IOO ob l 10 2 3 4 5 60 7 8 9 10 11 12 13 e _ lm - Igs Figure 5 .
+Sl nuclease protection analysis of EBF transcripts in mouse tissue mRNAs .
+Total RNA ( 20 pg ) from various tissues was hybridized with a 5-end-labeled single-stranded EBF DNA probe , digested with S1 nuclease , and fractionated by gel electrophoresis ( top ) .
+The EBF-specific probe contained 89 nucleotides of the EBF cDNA sequences ( nucleotides 365 - 454 ) and 31 nucleotides of the Bluescript KS+ polylinker at the 3 ' end { see Materials and methods } .
+Residual undigested probe ( probe ) and the fragment protected by EBF transcripts ( EBF ) are indicated .
+To detect contamination of tissues with B lymphocytes { ( middle ) , an Igx constant region-specific probe was used for S1 nuclease analysis in parallel ( Jenuwein and Grossched !
+1991 } .
+To control for RNA levels ( bottom } , 2 mg of each RNA sample was stained with ethidium bromide and electrophoresed as described [ Fourney et al .
+1988 ) .
+Feldhaus et al .
+1992 ) .
+In a parallel experiment , we transfected the reporter plasmids with an effector plasmid that transcribes the EBF-coding sequence in the antisense orientation .
+Each transfection also included the OVEC-RF reference plasmid to control for transfection efficiency and RNA recovery .
+At 48 hr post-transfection , total cellular RNA was isolated and analyzed by S1 nuclease protection with a labeled B-globin single-stranded DNA probe specific for both the OVECS test and reference transcripts ( Fig .
+6B ) .
+The EBF cffector plasmid activated transcription 30-fold from reporter plasmids containing either the 105- or 30-bp mb-1 promoter segments ( Fig .
+6A ) .
+No significant activation by wild-type EBF was observed with either the OVECS reporter plasmids containing a mutant EBF-binding site or the unmodified OVECS plasmid .
+Moreover , activation was dependent on the expression of EBF , because no activation was observed when the effector plasmid contained the EBF cDNA in the antisense orientation .
+Thus , EBF is a strong activator of gene expression .
+Separate domains contribute to DNA binding and dimerization Alignment of the amino acid sequence of EBF with the Early B-cell factor sequences of other proteins using the BLASTP 1.2.5 algorithm ( Altschul et al , 1990 ) did not reveal any extended homology to known DNA-binding domains .
+To determine the regions of EBF that are involved in specific DNA binding , we generated amino- and carboxy-terminal truncated forms of the protein by in vitro transcription and translation of mutated EBF cDNAs ( Fig .
+7A ) .
+For each deletion mutation , the efficiency of translation was A CMV-EBF CMV-invEBF 4 & J & & a g & € SUE w & x , w y 8 $ 8 a a 8 8 a o x RS SS 8 S S § SS & é é ¢ ¢ 0 G @ G G 0 G G G © 404 - C 309 - = - Probe 217- 9 160- = waus wam - Test 122 « ath win CKB wass cues aime ces amie *~* Ck 90 B mb1 -globin m -- -217 -113/-37 _ !
+eo- ~ Eerio0s-z xon 1 \ cBe L. ovecs -183 -154/-37 EBF ( 30 ) , -/- R 1 \ §EBF EBF > Ovecs 227 nt * Probe DNA t _______*127n Test ( protected ) Figure 6 .
+Transcriptional activation by recombinant EBF in nonlymphoid cells .
+( A ) HeLa cells were transfected with effector plasmids for EBF expression , together with OVECS reporter plasmids and the OVEC-RF reference plasmid ( Westin et al .
+1987 ) .
+Reporter plasmid inserts contained wild-type or mutated EBF-binding sites and are described in B .
+The unmodified OVECS vector was tested as a control .
+At 48 hr post-transfection , total cellular RNA was isolated and analyzed by S1 nuclease protection using a B-globin probe specific for both the OVECS test and reference transcripts ( shown in B ) .
+The effector plasmids CMV-EBF and CMV-invEBF contain the entire cDNA insert of $ EBF17 in the sense or antisense orientation , respectively .
+Correctly initiated B-globin transcripts are designated Test and transcripts derived from the reference plasmid , Ref .
+Residual undigested probe is indicated ( Probe ) .
+( B ] Schematic diagram of the OVECS reporter gene constructs , the probe for the S1 nuclease assay , and protected fragments .
+One set of reporter plasmids contained either one copy of the wild-type ( EBF1OSwt ) 105-bp mb-1 distal promoter fragment ( nucleotides -217 to -113 ) or one copy of the fragment with a mutated EBF-binding site ( EBFlOSmut ) .
+The second set contained two copies of either a synthetic oligonucleotide comprising the wild-type [ EBF ( 30 ) , wt ] mb-1 promoter EBF-binding site ( nucleotides -183 to - 154 ) or a mutated site [ EBF ( 30 ) , mut ] .
+GENES & DEVELOPMENT 765 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Hagman et al .
+A B A 8 $ ; 591 EBF { 15125319 Dimerization < 2g $ 955 « ( 5/3 bi ?
+$ 3 “ ) ?
+“ ( a $ $ €b§€b DNA binding Dimer ® & v/ov 0 00V & & vv |- pemmmmmmmzen -m -- - ) © r++ o C I ] As35-50 ++ D C C ] Ass-107 ( ~ ] CA525 +++ D wus ca4so r++ o gs r CA385 + M | CA370 + M | ca297 + M i CA223 [ | [ __ ] CA296-367 ++ D | 1C ] Ca370-383 + M Figure 7 .
+- Functional domains of EBF .
+{ A ) Schematic representation of full-length ( wt ) and truncated forms of EBF .
+Gaps indicate the deletion of amino acids .
+Boundaries of the deletions are indicated at right .
+DNA-binding column ranks the level of DNA binding by various forms of EBF in B relative to the level of polypeptide synthesis detected in C. The dimerization column summarizes the interpretation of DNA binding by full-length and truncated EBF polypeptides as dimeric ( D ) or monomeric ( M ) proteins .
+( B ) Electrophoretic mobility retardation assay of DNA binding by full-length and truncated forms of recombinant EBF .
+Rabbit reticulocyte lysate was programmed with RNA transcripts encoding EBF for translation in vitro with unlabeled methi-onine .
+Translated polypeptides were incubated with a P-labeled mb-1 promoter probe and separated as described in Fig .
+2 .
+All lanes except 4 , 6 , and 10 contain faster migrating minor complexes that probably result from internal translation initiation .
+[ F ) Free probe .
+( C ) SDS-PAGE analysis of in vitro trans- C - 28 - 19 lated EBF polypeptides .
+Translation reactions were performed in parallel with [ *°S ) methionine and analyzed using 10 % SDS-PAGE .
+Molecular size markers show the positions of prestained high molecular mass protein standards ( Bethesda Research Laboratories ) .
+After correction for the number of methionines in each polypeptide [ wt { 18 } , A35-50 { 18 } , A35-107 ( 18 ) , CA525 ( 16 ) , CA430 ( 11 ) , CA385 { 10 } , CA370 { 10 } , CA297 ( 9 ) , CA223 ( 8 ) , A296-383 ( 17 ) , and A370-383 { 18 } ) ] , PhosphorImager analysis indicated that the concentration of *5S-labeled EBF in translated preparations was roughly the same with the exception of CA430 ( fivefold less than wt ) and CA223 [ fourfold less ) .
+estimated in a parallel translation reaction containing [ °°S ] -methionine , and the labeled products were analyzed by SDS-PAGE ( Fig .
+7C ) .
+The wild-type and truncated EBF proteins ( Fig .
+7A ) were examined for binding to a labeled mb-1 promoter probe in the electrophoretic mobility retardation assay [ Fig .
+7B ) .
+Full-length EBF protein { ( wt ) formed one major and two slower migrating minor complexes with the mb-1 sequence ( Fig .
+7B , lane 2 ) .
+A deletion of 16 amino acids near the amino terminus ( A35-50 ) reduced complex formation by a factor of 3 but otherwise maintained the pattern of multiple protein-DNA complexes ( lane 3 ) .
+In contrast , a larger deletion ( A35-107 } reduced complex formation to background levels , indicating that the region between Ala-50 and Gly-107 is essential for DNA binding ( lane 4 ) .
+Progressive truncations from the carboxyl terminus of EBF suggested the presence of at least two functional domains .
+The deletion of amino acids carboxy-terminal of Ala-525 ( CA525 ) had no obvious effect on DNA binding ( Fig .
+7B , lane 5 ) .
+Deletion of additional amino acids to His-430 ( CA430 ] maintained the overall level of DNA binding but reduced the number of complexes to a single 766 GENES & DEVELOPMENT species ( lane 6 ) .
+Further carboxy-terminal truncations in mutants CA385 , CA370 , and CA297 greatly decreased the level of DNA binding ( > 50-fold ) relative to wild-type EBF and produced a different pattern of complexes { lanes 7-9 ) .
+Finally , no DNA binding was observed with the CA223 deletion mutant of EBF .
+Together , these data suggest that EBF contains both a region between the amino-terminus and Thr-97 that is required for DNA binding and a more carboxy-terminal domain that greatly enhances the level of binding .
+To examine whether these two regions represent independent domains , we introduced an internal deletion of 72 amino acids between residues 296 and 367 .
+The internal deletion had only a small effect on both the level of DNA binding and the migration of protein-DNA complexes ( lane 11 } , suggesting that the two domains are structurally independent .
+Although a few complexes containing the CA385 , CA370 , or CA297 proteins migrated at a rate consistent with the extent of the deletions , the largest fraction of protein-DNA complexes containing these truncated polypeptides migrated at a significantly faster rate ( cf .
+lanes 7-9 with lanes 2 , 3 , 5 , and 6 ) .
+The carboxy-terminal Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press region deleted from these mutants includes two nearly identical ( 12 of 15 ) amino acid repeats ( Table 2 } .
+The repeats possess significant similarity with the amino acid sequences of helix 2 motifs of the bHLH proteins MyoD , the related Drosophila myogenic factor nautilus , and members of the Myc family .
+To directly assess the role of these repeats in EBF for DMA binding , 14 amino acids within this region [ ( CA370-383 ) were deleted .
+DNA binding was greatly reduced relative to full-length EBF ( Fig .
+7B , cf .
+lanes 2 and 12 } , confirming the functional importance of the deleted amino acids .
+Moreover , complexes containing the 63-kD CA370-383 polypeptide migrated faster than those formed with the CA430 polypeptide ( lane 6 } , which has a molecular mass of 48 kD .
+These data suggest that the amino acid repeat sequences enhance the level of DNA binding by mediating the formation of multimeric EBF complexes .
+EBF binds DNA as a homodimer Gel filtration experiments determined for native EBF a radius of gyration equivalent to a 140-kD globular pro-tein , which is consistent with the size of a putative homodimeric complex ( Travis et al .
+1993 ) .
+To investigate the stoichiometry of EBF in complex with DNA , we examined whether recombinant EBF proteins of different lengths can form heterodimeric complexes .
+Full-length or truncated ( CA430 ) EBF polypeptides were translated separately or together in vitro and examined for DNA binding in an electrophoretic mobility retardation assay ( Fig .
+8 ) .
+The binding of full-length EBF resulted in protein-DNA complexes with slower mobilities relative to the complex obtained with truncated EBFCA43O ( Fig .
+8A , cf , lane 2 with lane 4 ) .
+When appropriate amounts of RNA encoding the two proteins were translated together , an additional complex with intermediate mobility was detected , indicating the formation of het-erodimers containing both EBF polypeptides ( lane 3 ) .
+Heterodimeric complexes of full-length and truncated EBF polypeptides were detected only when translated together but not when the two polypeptides were translated separately and mixed prior to the addition of the Early B-cell factor DNA probe ( lane 7 ) .
+These results suggest that the wild-type EBF polypeptides bind the sitc in the promoter as a homodimer , Moreover , the lack of heterodimer formation following the mixing of separate translation products suggests that EBF exists as stable multimers in solution .
+Homodimeric complexes are the predominant species observed in electrophoretic mobility retardation assays , although higher order complexes with slower mobilities can form with wild-type EBF .
+To analyze further the role of the direct repeats for dimerization , we deleted residues 370-383 from EBFCA430 and examined the ability of the resulting polypeptide [ EBFCA430 { AH1 ) ] to heterodimerize with full-length EBFwt .
+In contrast to the EBFCA43Q polypeptide , in vitro-translated EBFCA430 { AH1 ) polypeptide alone bound the mb-1 promoter probe at nearly undetectable levels ( Fig .
+8A , lane 6 ) .
+When translated together , EBFwt and EBFCA430 ( AH1 ) did not form complexes with intermediate mobilities , and the level of complex formation by EBFwt was undiminished { lane 5 ) .
+As a control , SDS-PAGE analysis of *°S-labeled polypeptides showed that the EBFCA430 and EBFCA430 ( AH1 ) polypeptides were synthesized at similar levels ( Fig .
+8B , lanes 4,6 ) .
+Together , our data suggest that residues 370-383 , which include part of one of the repeats in EBF , are important for DNA binding and dimerization .
+Discussion Here , we describe the isolation of cDNAs that encode EBF , a novel transcriptional activator of the early B-cell-specific mb-1 gene .
+The identification of the polypeptide encoded by the cDNAs as EBF is supported by multiple criteria .
+First , the calculated molecular mass of the cDNA-encoded polypeptide ( 64.4 kD ] is in close agreement with the estimated molecular mass of purified EBF on SDS-PAGE ( 62-65 kD ) .
+Second , recombinant polypeptides translated from the cDNAs have the same DNA-binding specificity .
+Moreover , both proteins formed complexes with DNA that migrate in electrophoretic mobility retardation assays with the same mobility as EBF in nuclear extracts .
+Third , contacts between re Table 2 .
+Similarity between amino acid repeats in EBF and bHLH domains EBF 375 KE VILKRAADL V E AL YGMPHNN 396 E +ILKRAAD ++ E ALY P N 397 QE I ILKRAAD I A E ALYSYPRNH 418 Consensus `` KF IL AY YY L Nautilus® 194 QR LPEKYEILRNA I EY IE SLE 213 R L PK IL+ A++ +E L EBF 371 ER LPKEVILKR A ADLVEALY 391 E++PK VILK +A + V L v-Myc `` 388 EK APKEKVVILKK AT EYYL SLQ 406 *The amino acid sequence of EBF between residues 375 and 418 is aligned to show the presence of two repeats of a conserved sequence .
+Identical amino acids are shown between lines .
+[ + ] Amino acid similarity .
+°bHLH domain helix 2 consensus ( Vinson and Garcia 1992 ) .
+( F ] Hydrophobic amino acids .
+*Michelson et al .
+{ 1990 } .
+`` Alitalo et al .
+[ 1983 ] .
+GENES & DEVELOPMENT 767 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Hagman et al .
+A a Ce \ ’ \ $ $ 3 9 S dodd E 0p 0p 0 ® & C 08 & ¢ sare M4 LOT Go oe 10 2 3 4 50 6 7 oe B - 117 kD - 76 1rous .
+- 48 - 28 Figure 8 .
+- EBF binds DNA as a homodimer .
+( A ) Electrophoretic mobility retardation assay of DNA binding by full-length and truncated EBF polypeptides .
+The proteins were translated sequentially or together in vitro , incubated with a labeled mb-1 promoter probe , and bound and free probe was separated as in Fig .
+2 .
+The DNA-binding reactions contained wild-type EBF alone { lane 2 } , wild-type EBF cotranslated with CA430 or CA430 { AH1 ] ( lanes 3,5 ) , or a mixture of wild-type and CA430 proteins following separate translations ( lane 7 ) .
+DNA-binding reactions with CA430 or CA430 { AH1 ) alone are shown in lanes 4 and 6 , respectively .
+( F ) Free probe .
+[ B ] SDS-PAGE analysis of in vitro translated EBF polypeptides .
+Translation reactions were performed in parallel with [ °°S|-labeled methionine and analyzed using 10 % SDS-PAGE .
+Molecular size markers indicate the position of prestained high molecular mass protein stan-dards .
+combinant EBF and the mb-1 promoter-binding site are nearly identical with those observed previously with EBF in nuclear extracts .
+Fourth , the EBF cDNA hybridizes with mRNAs only from cell lines that contain EBF DNA-binding activity .
+Finally , overexpression of recombinant EBF in nonlymphoid cells can activate the expression of a heterologous promoter containing binding sites for EBF .
+We identified at least two functional domains in EBF , including an amino-terminal region that is essential for DNA binding and a separate carboxy-terminal region that is required for efficient dimerization .
+Deletion of the region between the DNA-binding and dimerization 768 GENES & DEVELOPMENT domains ( Gly-296 and Pro-367 ) had only a very small effect on DNA binding , indicating the structural independence of the two domains .
+The function of the spacer region has not yet been determined , but it may impart flexibility between the two domains .
+This configuration of domains is similar to that of the estrogen receptor , a nuclear hormone receptor family member , which contains an amino-terminal DNA-binding domain and a carboxy-terminal dimerization domain separated by an extended 250-amino-acid spacer region that is dispensable for a high level of DNA binding ( Lees et al .
+1990 } .
+The EBF DNA-binding domain Amino-terminal and carboxy-terminal truncations of EBF delineated the DNA-binding domain to a region of at least 223 amino acids .
+This region does not show any extensive homology with known families of DNA-binding proteins and does not contain clustered basic amino acids .
+The DNA-binding domain , however , has a very high density of cysteine residues , and seven are clustered within 58 amino acids of the amino-terminal domain .
+The spacing of these residues , together with the presence of only a single histidine in this region , suggests that the clustered cysteine residues do not form typical Cys-His zinc finger structures [ for review , see Berg 1990 ) , such as those observed in the transcription factors TFIIIA ( Miller et al .
+1985 ; Brown et al .
+1985 ) and Spl ( Kadonaga et al .
+1987 ) .
+Moreover , no obvious homology was found with other cysteine-rich domains , including the LIM domains ( Freyd et al .
+1990 ) , the cysteine clusters of RAG-1 and related genes ( Freemont et al .
+1991 ) , and the metal-binding domains of the steroid receptor family ( for review , see Evans 1988 ) .
+A small , but possibly significant , homology was detected between EBF and fungal transcription factors that contain Cys-Cys zinc fingers .
+Both EBF and the transcriptional activator protein GAL4 of Sac-charomyces cerevisiae contain a motif consisting of CXXCXKK , which has been shown to participate in the formation of one zinc finger in GAL4 ( Baleja et al .
+1992 ; Kraulis et al .
+1992 ; Marmorstein et al .
+1992 ) .
+Moreover , mutation of these cysteines in EBF to serines abrogated DNA binding , demonstrating the functional importance of these residues ( J. Hagman , unpubl . ]
+.
+EBF contains a new type of dimerization domain Cotranslation experiments with wild-type and truncated EBF polypeptides indicated the formation of stable ho-modimers , and this subunit composition is consistent with the estimated molecular mass of 140 kD for native EBF .
+Analysis of deletion mutants of EBF indicated that the region between Pro-370 and His-430 is essential for efficient dimerization and DNA binding .
+A notable feature of the amino acid sequence of this domain is a repeat of 15 amino acids ( Table 2 ) .
+Comparison of this sequence with the protein sequence data base revealed an identity of 8 of 15 residues with the rat liver mitochondrial enzyme fumarate hydratase ( Suzuki et al .
+1989 ) ; however , we have not been able to attach any Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press functional significance to this homology .
+More signifi-cantly , the sequence comparison revealed a high degree of similarity between the EBF repeats and the consensus sequence for helix 2 of bHLH domains [ Vinson and Garcia 1992 ) , which was shown to be required for dimerization and DNA binding of bHLH proteins ( Murre et al .
+1989 ; Davis et al .
+1990 ; Voronova and Baltimore 1990 ) .
+The homology extends into the variable loop sequences between helices 1 and 2 of the bHLH domain , but does not include helix 1 or the adjacent basic region .
+The best matches ( Table 2 ) were found between the EBF repeats and the Drosophila myogenic factor nautilus { Michelson et al .
+1990 } and murine MyoD ) ( Davis et al .
+1987 ) , and members of the Myce basic helix-loop-helix zipper fam-ily , including v-Myc ( Alitalo et al .
+1983 ) and N-Myc [ De-Pinho et al .
+1986 ) .
+The EBF repeats are predicted by secondary structure analysis to have high probability to fold as amphipathic a-helices ( Chou and Fasman 1978 ) , and each repeat contains extensive hydrophobic surfaces that could be available for helix-helix interactions .
+Although the primary sequences of the putative helical repeats share many residues with both Myc and MyoD-like proteins , significant differences prevent the classification of EBF together with the bHLH family polypeptides .
+First , the EBF dimerization domain contains a duplication of a putative helix motif , whereas members of the bHLH family contain dissimilar helix 1 and helix 2 motifs .
+Second , the putative helical repeat sequences of EBF differ from the bHLH consensus at three positions that are completely conserved among helix 2 sequences of various bHLH proteins .
+In particular , EBF lacks the invariant tyrosine residue and has Glu-Val in place of the bHLH consensus T-Glu ( Vinson and Garcia 1991 ) .
+Therefore , the EBF repeats may form a structure different from that suggested for the bHLH domains .
+Moreover , the repeats in EBF are not flanked by an identifiable basic region .
+Instead , EBF has a distinct amino-terminal DNA-binding domain .
+The function of the repeats in EBF for dimerization is still obscure .
+The repeats may allow for dimerization independently of other sequences in EBF .
+Alternatively , the repeats could stabilize inefficient dimerization of the DNA-binding domain .
+The homodimeric composition of EBF is reflected in the recognition of a palindromic nucleotide sequence .
+We have recently used affinity-purified EBF to characterize its DNA-binding specificity [ Travis et al .
+1993 ) .
+A set of mutations in the EBF-binding site of the mb-1 promoter indicated that the protein recognizes variations of the palindromic sequence S-ATTCCCNNGGGAAT .
+The nucleotide sequence 5 ( -GGGAAT was selected as a preferred half-site for EBF binding using a selection and amplification assay with oligonucleotides containing randomized bases { described in Blackwell and Weintraub 1990 ) .
+Binding to the perfect palindrome of this half-site was eightfold higher than to the imperfect palindrome 5'-AGACTCAAGGGAAT found in the mb-1 promoter ( Travis et al .
+1993 ) , Consistent with the presence of optimal right-hand half-site ( 5-GGGAAT ) and a weak left-hand half-site ( 5-GAGTCT ) in the EBF binding site of Early B-cell factor the mb-1 promoter , methylation interference with recombinant EBF detected contacts with all residues of the perfect right-hand half-site and only one residue of the left hand site .
+Moreover , DNA binding by truncated EBF proteins lacking the dimerization region required only the right-hand half-site , 5 !
+-GGGAAT ( J. Hagman , un-publ . )
+.
+The geometry of the EBF-binding site as an inverted repeat of hexamers separated by a 2-bp spacer is reminiscent of the response elements of homodimeric steroid and thyroid hormone receptors , suggesting the possibility of a structural relationship between these nuclear receptors and EBF ( Klock et al .
+1987 ; Martinez et al .
+1987 ; Glass et al .
+1988 ] .
+The role of EBF in cell type-specific gene expression Our analysis confirms that within the B-cell lineage , EBF is expressed during the early stages of B-cell differentiation , including pre-B and mig * B cells , and not in other types of hematopoietic cells .
+The analysis of mouse tissue mRNAs suggests that the EBF gene is also expressed in a number of nonlymphoid tissue types .
+The abundance of EBF transcripts in adipose tissue was equal to the level observed in spleen , whereas low levels of EBF transcripts were detected in brain , heart , skeletal muscle , and kidney .
+Because the assay was performed with mRNA derived from whole organs , low-level expression may actually reflect high-level expression by a subset of cells in a given tissue .
+In addition , it is important to note that the DNA probe used in the S1 nuclease protection assay contained only a portion of the EBF cDNA sequence and did not discriminate between the multiple EBF transcripts identified in B cells .
+Further analysis of the cell-type distribution of EBF expression will depend on direct visualization by use of in situ hybridization with EBF-specific probes or on staining tissues with anti-EBF antisera .
+Expression of EBF in nonlymphoid cells augments transcription of reporter genes containing functional EBF-binding sites 30-fold .
+Thus , EBF appears to be an important activator of transcription in B lymphocytes .
+The experiment also suggests that no other B-cell-specific protein is necessary for EBF activity .
+Earlier experiments suggested that the EBF-binding site activated transcription in a context-dependent manner , because flanking distal mb-1 promoter sequences were required to enhance transcription from a heterologous promoter in transfected PD36 pre-B cells [ HMagman et al .
+1991 ) .
+In contrast , activation by recombinant EBF could be observed with EBF-binding sites alone in HeLa cells , One possible explanation for this difference is that the level of expression of recombinant EBF in transfected Hela cells is higher than that of the endogenous protein in PD36 cells Alternatively , the SV40 enhancer region downstream of the { -globin gene in the OVECS reporter plasmids may functionally substitute for mb-1 promoter distal region sequences .
+EBF is one of two nuclear factors that are expressed in early B lymphocytes and are candidate regulators of tis-sue- and stage-specific genes .
+The other factor , termed GENES & DEVELOPMENT 769 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Hagman et al .
+BSAP ( Barberis et al .
+1991 ) , is the product of the Pax-5 gene and interacts with DNA through a Pax homeo domain motif ( Adams et al .
+1992 ) .
+In addition to early B cells , EBF and BSAP transcripts can be detected in a few nonlymphoid tissues .
+BSAP expression was observed in testis and the developing central nervous system , whereas EBF transcripts were detected in adipocytes .
+BSAP has been implicated in the regulation of the early B-cell-specific CD19 gene ( Kozmik et al .
+1992 ) .
+Simi-larly , EBF is a likely regulator of the mb-1 gene , which like €D19 , encodes a protein that is involved in differentiation stage-specific transmembrane signaling in early B cells ( for review , see Cambicr 1991 ; Reth 1991 ) .
+Finally , expression of both factors is shut off following terminal differentiation to the plasma cell stage ( Barberis et al .
+1991 ; Hagman et al .
+1991 ) .
+We have been unable to detect binding of BSAP to the mb-1 promoter and did not identify any EBF-binding site sequences in the CD19 promoter ( J. Hagman , unpubl .
+; M. Busslinger , pers .
+commu . )
+.
+Thus , these two factors may regulate distinct sets of genes at early stages of the B-cell lineage .
+Alternatively , EBF or BSAP may regulate gene expression as part of a regressive hicrarchy of transcriptional control .
+With the cloning of cDNAs encoding EBF it will be possible to examine the biological role of this protein in B-cell differentiation and mouse development by the generation of mice containing homozygous disruptions of the EBF gene .
+Materials and methods Protein purification and amino acid sequence analysis The purification of EBF from 38B9 pre-B cell crude nuclear extracts is described elsewhere ( A. Travis , J. Hagman , L. Hwang , and R. Grosschedl , in prep . )
+.
+Approximately 25 pug of affinity column-purified p62-65 was precipitated with an equal volume of 50 % trichloroacetic acid , washed with acetone , fractionated by 10 % SDS-PAGE , stained with Coomassie blue to localize the p62-65 fraction , and electroeluted as described previously ( Hunkapiller et al .
+1983 ) .
+The protein sample was precipitated with 90 % acetone for 24 hr at -20°C , redissolved in 50 pl of 0.4 m NH , HCO ; /8 m urea , reduced with 5 mm DTT at 50°C for 15 min , and carboxymethylated with 10 mm iodoacetic acid at room temperature for 15 min .
+The sample was diluted to 200 ul with water and trypsin ( sequencing grade ; Boehringer Mannheim Biochemicals , Indianapolis , IN ) was added at an enzyme /substrate ratio of 1 : 25 .
+The sample was digested at 37°C for 24 ht , acidified with trifluoroacetic acid { TFA } , and chromatographed using a reverse-phase HPLC column ( C18 , 2.1 mm x 25 cm , Applied Biosystems , Foster City , CA ) equili-brated with 0.1 % TFA [ Sequenal grade ; Pierce Chemical , Rock-ford , II ) in water at a flow rate of 0.25 ml/min .
+The peptides were eluted with a 90-min gradient of 0.1 % TFA/920 % acetoni-trile .
+Amino-terminal sequence analysis of the tryptic peptides was carried out on a model 470A gas phase sequencer equipped with a model 120A on-line PTH-amino acid analyzer and a model 900A data analysis station using version 1.20 [ Applied Biosystems , Inc. ) .
+cDNA cloning Degenerate oligonucleotides were synthesized to encode sense and antisense sequences containing all possible codons for the 770 GENES & DEVELOPMENT amino acids indicated in Table 1 .
+Oligonucleotides were used to amplify specific sequences from a pre-B-cell ( 38B9 ) cDNA library ( Rudin et al .
+1990 ) using the PCR method .
+Library DNA ( 80O0ng ) was combined with appropriate pairs of oligonucleotide mixtures ( 0.5 ug ) and amplified with AmpliTaq DNA polymerase ( Perkin-Elmer Cetus , Emeryville , CA ) for 30 cycles , each consisting of 2 min at 94°C ; 2 min at 48°C ; and 2 min at 72°C .
+The PCR product was subcloned into Bluescript KS + ( [ Strata-gene , La Jolla , CA ) to generate pEBF11 , and the sequence was determined using the dideoxy chain termination method { Sam-brook et al .
+1989 } .
+For the isolation of longer cDNA clones , the insert of pEBF11 was radiolabeled by nick translation and hybridized to a pre-B-cell ( 707/3 ) cDNA library in XAgt11 ( Ben-Neriah et al .
+1986 ) as described previously { Travis et al .
+1991a } ) .
+The cDNA insert of EBFL7 was subcloned as an EcoRI fragment into Bluescript KS+ for DNA sequencing ( pEBFI7 ) .
+The cDNA insert was translated in all three reading frames and compared with the combined protein sequence data bases ( PIR , SWISSPROT , and GENPEPT ) of the National Center for Biotechnology Information by use of the BLASTP version 1.2.5 algorithm ( Altschul et al .
+1990 ) .
+Plasmids Plasmids pEBFA35-50 and pEBFA35-107 were generated by cleavage of with Kas !
+and either Xmal or BamHI , respectively , filling in with Klenow , and religation to delete the intervening sequences .
+A translation termination codon was inserted in place of His-430 by use of PCR and oligonucleotides 5 - GTCGAAGCAGTATGAAGCTCGAGCCGCTGGGCAGC GCG and 5-CATCTACACAGCACTCAATG , and the fragment was ligated into the EcoRV site of Bluescript KS + , digested with Bg !
+lI and EcoRI , and ligated with the Egill-EcoRI fragment of pEBFIL7 to make pEBFCA430 .
+pEBFCA223 was constructed by fusion of the filled-in ( Klenow ] BstEII-Xhol fragment of pEBF17 with pEBF17 that had been cut with Asp718 and similarly filled in .
+pEBFA29Y6-367 was generated by fusion of a blunted [ T4 DNA polymerase ) KpnI site with the filled-in ( Klenow ) EstEL site of pEBF17 .
+pEBFCA430 { AH1 ) and pEBFA370-383 were generated by cleavage of either pEBFCA430 or pEBF17 , respectively , with BstEII and Bgill , filling in with Klenow , and religation .
+The OVECS and OVEC-RF vectors were provided by M. Miller and W. Schaffner ( Miller et al .
+1988 ; Westin et al .
+1987 ) .
+To construct the wild-type { ( OVECS105wt } and mutant { ( OVECS 105mut ) reporter plasmids , the 105-bp Stul-Ndel fragments of pmblBH and pMX6G ( Hagman et al .
+1991 ) were filled in with Klenow and inserted into the Sall site ( filled-in ) at -37 of the B-globin promoter in OVECS .
+Two pairs of synthetic oligonucleotides { EBF3Owt and EBF3Orout ) containing wild-type and mutated { m3 ) EBF sites ( Hagman et al .
+1991 ] were phosphorylated with T4 polynucleotide kinase and ligated head-to-tail into the Sail site of the OVECS vector : ( EBF3OWT| TCGACAGAGACTCAAGGCAATTGTGGCCACCC CTCTCTTGAGTTCCCTTAACACCGGTCGGACCT ( EBF3O0MUT ) TCGACAGAGACTCAAcecGttTTGTGGCCAGCC s¢ gCaaAACACCGCTCGGAGCT Single stranded pEBF17 DNA was mutated at the amino terminus by use of the oligonucleotide 5'-GTGGAAGCAGTAT-GAAGCTCGAGCCGCTGGGCAGCGG and the method of Kunkel ( 1985 ) to make EBFXho4 .
+CMV-EBF and CMV-invEBF were constructed by inserting the filled-in ( Klenow ] Xhol-Xhol Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press fragment of EBFXho4 { encoding amino acids 18 - 591 ) in the sense or antisense orientation into the Asp718 site ( blunt : ended ) of the cytomegalovirus enhancer/promoter expression vector pEVRF1 ( Matthias et al .
+1989 ) .
+In vitro translation , DNA binding , electrophoretic mobility retardation assays , SDS-PAGE , and methylation interference In vitro transcription , purification of transcripts , and translation using rabbit reticulocyte lysate ( Promega ) were described previously ( Hagman and Grosschedl 1992 ) .
+In vitro DNA binding and electrophoretic mobility retardation assays were performed as usual ( Hagman et al .
+1991 ) , except that 20 ug/ml sheared salmon sperm DNA was used as a competitor for non-specific binding .
+For the synthesis of EBF proteins with progressive carboxy-terminal deletions , pEBF17 was linearized with Sall ( wild type ) , NcoI ( CAS25 ) , Bgill ( CA385 ) , BstEII ( CA370 ) , and Mscl ( CA223 ) before transcription with T7 RNA polymerase in vitro .
+The plasmids EBFCA223 , EBFCA430 , EBFA35-30 , EBFA35-107 , and EBFCA430 { AH1 ) were all linearized with Sall .
+The efficiency of in vitro translation was assessed by SDS-PAGE of parallel translation reactions performed in the presence of [ *S ] methionine ( Amersham ] .
+Methylation interference analysis was performed as described previously ( Hagman et al .
+1991 ) , except that full-length recombinant EBF was generated by translation in vitro .
+Reference reactions ( G + A ) were performed as described ( Sambrook et al .
+1989 ) .
+RNA blot and $ 1 nuclease protection analysis of EBF transcripts The selection of poly { A ) * RNA from cytoplasmic RNA using oligo- { dT ) column chromatography , electrophoresis , and blotting of RNA , and the B-actin-specific probe were previously described ( Travis et al .
+1991a ) .
+Probes were labeled for hybridization by nick translation with [ a-*P ] dCTP .
+Total cellular RNA was isolated from fresh tissue from 10- to 15-week-old mice , and S1 nuclease analysis was performed as described ( Travis et al .
+1991a ) .
+The single-stranded DNA probe for the detection of EBF transcripts was generated by labeling an antisense oligonucleotide corresponding to nucleotides 454 - 435 of EBF ( 5-GTTTTGTCATGGAGTCGATG } , hybridization to a Bluescript KS+ vector containing the BamHI-EcoRI fragment of pEBFl7 , extension with Klenow DNA polymerase , cleavage with Sacl in the polylinker region , and purification of probe DNA on a denaturing polyacrylamide gel .
+The single-stranded probe for the detection of Igx light-chain transcripts was described previously [ Jenuwein and Grosschedl 1991 ) .
+To detect rRNA , total RNA was stained with ethidium bromide and electrophoresed as described ( [ Fourney et al .
+1988 ) .
+Transfection of tissue culture cells and $ 1 analysis HeLa cells were grown in Joklik 's medium supplemented with 10 % fetal bovine serum .
+Transient DNA transfections were performed with 1.5 ug each of reporter and CMV-effector plasmids together with 0.4 ug of reference plasmid ( OVEC-RF ) using the DEAE-dextran/chloroquine procedure ( Travis et al .
+1991a ) .
+At 48 hr post-transfection , cytoplasmic RNA was isolated , and specific transcripts were analyzed by S1 nuclease protection assays ( Travis et al .
+1991b ) .
+For S1 nuclease analysis , the OVECS-specific DNA probe was prepared by extension of a S'-end-labeled oligonucleotide ( 5'-CCAACTTCTTCCACATTC } ] encompassing nucleotides +110 Early B-cell factor to +127 of the first exon of the rabbit B-globin reporter gene .
+Correctly initiated transcripts derived from the B-globin promoter were detected as 127-bp protected fragments .
+Transcripts from the reference plasmid OVEC-RF were detected as 107-bp protected fragments .
+Acknowledgments We are indebted to Keith Yamamoto , Robert Davis , and James Fraser for their reviews of this manuscript .
+We thank John Pagel and Klaus Giese for helpful comments and discussion , Rong-guo Qui and Victoria Davis for technical assistance , Leslie Taylor for comparison of the EBF sequences with protein sequence data bases .
+We also thank J. Peter Engler for providing the 38B9/ CDMS cDNA library and Michael Miller for providing the OVECS plasmids .
+We acknowledge the assistance of Lori Hansen with sequence analysis .
+J.H .
+is the recipient of a postdoctoral fellowship from the Leukemia Society of America .
+C.B .
+is supported by a postdoctoral fellowship from Fonds pour la formation du Chercheurs et l'Aide a la Recherche ( FCAR ) .
+This work was supported by funds from the Howard Hughes Medical Institute .
+The publication costs of this article were defrayed in part by payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 USC section 1734 solely to indicate this fact .
+Note added in proof The nucleotide sequence data reported in this paper have been submitted to the GenBank data library under accession number L12147 .
+References Adams , B. , P. Dorfler , A. Aguzzi , Z. Kozmik , P. Urbanek , I. Mauter-Fogy , and M. Busslinger .
+1992 .
+Pax-5 encodes the transcription factor BSAP and is expressed in B lymphocytes , the developing CNS , and adult testis .
+Genes & Dev .
+6 : 1589-1607 .
+Alitalo , K. , J.M .
+Bishop , D.H. Smith , E.Y .
+Chen , W.W. Colby , and A.D. Levinson .
+1983 .
+Nucleotide sequence of the v-myc oncogene of avian retrovirus MC29 .
+Proc , Natl .
+Acad .
+Sci .
+80 : 100-104 .
+Altschul , S.F .
+, W. Gish , W. Miller , EW .
+Myers , and D.J .
+Lipman .
+1990 .
+Basic local alignment search tool .
+/ .
+Mol .
+Biol .
+215 : 403-410 .
+Baleja , J.D .
+, Marmorstein , R. , S.C. Harrison , and G. Wagner .
+1992 .
+Solution structure of the DNA-binding domain of Cd , -GALA from 8. cerevisiae .
+Nature 356 : 450-453 .
+Barberis , A. , K. Widenhorn , L. Vitelli , and M. Busslinger .
+1990 .
+A novel B-cell lineage-specific transcription factor present at early but not late stages of differentiation .
+Genes & Dev .
+4 : 849-859 .
+Ben-Neriah , Y. , A. Bernards , M. Paskind , G.Q .
+Dailey , and D. Baltimore .
+1986 .
+Alternative 5 exons in c-abl mRNA .
+Cell 44 ; 577-586 .
+Berg , J.M .
+1990 .
+Zinc fingers and other metal-binding domains .
+J. Biol .
+Chem .
+265 : 6513-6516 .
+Blackwell , TK .
+and H. Weintraub .
+1990 .
+Differences and similarities in DNA-binding preferences of MyoD and EZA protein complexes revealed by binding site selection .
+Science 250 : 1104-1110 .
+Brown , R.S .
+, C. Sander , and P. Argos .
+1985 .
+The primary structure of transcription factor TFIIIA has 12 consecutive re-peats .
+FEBS Lett , 186 : 271-274 .
+GENES & DEVELOPMENT 771 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Hagman et al .
+Cambier , J.C. 1991 .
+Capturing antigen receptor components .
+Curr , Biol .
+1 : 25-27 .
+Campbell , K.S .
+and J.C. Cambier .
+1990 .
+B lymphocyte antigen receptors ( mlg ) are non-covalently associated with a disul-fide-linked , inducibly phosphorylated glycoprotein complex .
+EMBO J .
+9 : 441-448 .
+Chou , P.Y .
+and G.D. Fasman .
+1978 .
+Prediction of the secondary structure of proteins from their amino acid sequence .
+Adv .
+Enzymol .
+47 : 45-148 .
+Davis , R.L .
+, H. Weintraub , and A.B .
+Lassar .
+1987 .
+Expression of a single transfected cDNA converts fibroblasts to myoblasts .
+Cell 51 : 987-1000 .
+Davis , RL .
+, P.-F. Cheng , A.B .
+Lassar , and H. Weintraub .
+1990 .
+The MyoD DNA binding domain contains a recognition code for muscle-specific activation .
+Cell 60 : 733-746 .
+DePinho , R.A. , E. Legouy , LB .
+Feldman , N.E .
+Kohl , G.D. Yan-copolous , and FW .
+Alt .
+1986 .
+Structure and expression of the murine N-myc gene .
+Proc .
+Natl .
+Acad .
+Sci .
+83 : 1827-1831 .
+Evans , RM .
+1988 .
+The steroid and thyroid hormone receptor superfamily .
+Science 240 : 889-895 .
+Feldhaus , AL .
+, D. Mbangkollo , K.L .
+Arvin , C.A .
+Klug , and H. Singh .
+1992 .
+BLyf , a novel cell-type- and stage-specific regulator of the B-lymphocyte gene mb-1 .
+Mol .
+Cell .
+Biol .
+12 : 1126-1133 .
+Freemont , P.S .
+, LM .
+Hanson , and J. Trowsdale .
+1991 .
+A novel cysteine-rich sequence motif .
+Cell 64 : 483-484 .
+Freyd , G. , SK .
+Kim , and H. R. Horvitz .
+1990 .
+Novel cysteine-rich motif and homeodomain in the product of the Cae-norhabditis elegans ccll lineage gene lin-11 .
+Nature 344 : 876-879 .
+Fourney , R.M .
+, J. Miyakoshi , R.S .
+Day III , and M.C .
+Paterson .
+Morthem blotting : Efficient RNA staining and transfer .
+1988 .
+Focus 10 : 5-7 .
+Glass , CK .
+, JLM .
+Holloway , O.V .
+Devary , and M.G .
+Rosenfeld .
+1988 .
+The thyroid hormone receptor binds with opposite transcriptional effects to a common sequence motif in thyroid hormone and estrogen response elements .
+Cell 54 : 313- Hagman , J. and R. Grosschedl .
+199 % .
+An inhibitory carboxyl-terminal domain in Ets-l and Ets-2 mediates differential binding of ETS family factors to promoter sequences of the mb-1 gene .
+Proc .
+Nati .
+Acad .
+Sci .
+89 ; 8889-8893 , Hagman , J. , A. Travis , and R. Grosschedl .
+1991 .
+A novel lineage-specific nuclear factor regulates mb-1 gene transcription at the early stages of B cell differentiation .
+EMBO J .
+10 : 3409-3417 .
+Herskowitz , L 1989 .
+A regulatory hierarchy for cell specialization in yeast .
+Nature 342 : 749-757 .
+Hombach , J. , T. Tsubata , L. Leclereq , H. Stappert , and M. Reth .
+1990 .
+Molecular components of the B-cell antigen receptor complex of the IgM class .
+Nature 343 : 760-762 .
+Hunkapiller , M.W .
+, E. Lujan , F. Ostrander , and L. Hood .
+1983 .
+Isolation of microgram quantities of proteins from polyacrylamide gels for amino acid sequence analysis .
+Methods Enzymol .
+91 : 227-236 .
+Jenuwein , T. and R. GrosschedlL .
+1991 .
+Complex pattern of immunoglobulin p gene expression in normal and transgenic mice : Nonoverlapping regulatory sequences govern distinct tissue specificities .
+Genes & Dev .
+5 : 932-943 .
+Kadonaga , J.T .
+and R. Tjian .
+1986 .
+Affinity purification of sequence-specific DNA binding proteins .
+Proc .
+Natl .
+Acad .
+Sei .
+83:1 5889-5898 .
+Kadonaga , J.T .
+, K.R .
+Carnet , F. Masiarz , and R. Tjian .
+1987 .
+Isolation of cDNA encoding factor Spl and functional analysis of the DNA-binding domain .
+Cell 51 : 1079-1090 .
+Klock , G. , U. Strahle , and G. Schutz .
+1987 .
+Oestrogen and glu 772 GENES & DEVELOPMENT cocorticoid responsive elements are closely related but dis-tinct .
+Nature 329 : 734-736 .
+Kozmik , Z. , S. Wang , P. Dorfler , B. Adams , and M. Busslinger .
+19923 .
+The promoter of the CD19 gene is a target for the B-cell-specific transcription factor BSAP .
+Mol .
+Cell .
+Biol .
+12 : 2662-2672 .
+Kraulis , P.J .
+, A.R.C .
+Raine , P.L .
+Gadhavi , and ED .
+Laue .
+1992 .
+Structure of the DNA-binding domain of zinc GAL4 .
+Nature 356 : 448-450 .
+Kunkel , T.A .
+1985 , Rapid and site-specific mutagenesis without phenotypic selection .
+Proc .
+Natl .
+Acad .
+Sci .
+82 : 488-492 .
+Lees , J.A .
+, S.E .
+Fawell , R. White , and M.G .
+Parker .
+1990 .
+A 22-amino-acid peptide restores DNA-binding activity to dimer-ization-defective mutants of the estrogen receptor .
+Mol .
+Cell .
+Biol .
+10 : 5529-5531 .
+Lenardo , M.J. and D. Baltimore .
+1989 .
+NFxB : A pleiotropic activator of inducible and tissue-specific gene control .
+Cell 58 : 227-229 .
+Marmorstein , R. , M. Carey , M. Ptashne , and S.C. Harrison .
+1992 .
+DNA recognition by GALA : structure of a protein-DNA complex .
+Nature 356 : 408-414 .
+Martinez , E. , F. Givel , and W. Wahli .
+1987 .
+The estrogen-respon-sive element as an inducible enhancer : DNA sequence requirements and conversion to a glucocorticoid-response el-ement .
+EMBO J .
+6 : 3719-3727 .
+Matsuuchi , L. , MR. Gold , A. Travis , R. Grosschedl , A.L .
+De-Franco , and R.B .
+Kelly .
+1992 .
+The membrane Ig M-associated proteins MB-1 and Ig-f are sufficient to promote surface expression of a partially functional B-cell antigen receptor in a nonlymphoid cell line .
+Proc .
+Natl .
+Acad .
+Sci .
+891 3404-3408 .
+Matthias , P. , MM .
+Muller , E. Schreiber , S. Rusconi , and W. Schaffner .
+1989 , Eukaryotic expression vectors for the analysis of mutant proteins .
+Mucleic Acids Res .
+17 : 6418 .
+Michelson , A.M. , S.M .
+Abmayt , M. Bate , A. Martinez Arias , and T. Maniatis .
+1990 .
+Expression of a MyoD family member prefigures muscle pattern in Drosophila embryos .
+Genes & Dev .
+4 : 2086-2097 .
+Miller , J. , A.D. McLachlan , and A. Klug .
+1985 .
+Repetitive zinc-binding domains in the protein transcription factor MA from Xenopus oocytes .
+EMBO J .
+4 ; 1609-1614 .
+Miller , MM .
+, 5 .
+Ruppert , W. Schaffner , and P. Matthias .
+1988 .
+A cloned octamer transcription factor stimulates transcription from lymphoid-specific promoters in non-B cells .
+Nature 336 : 544-551 .
+Murre , C. , P. Schonleber McCaw , and D. Baltimore .
+1989 .
+A new DNA binding and dimerization motif in immunoglobulin enhancer binding , daughterless , MyoD , and myc proteins .
+Cell 56 : 777-788 .
+Reth , M. 1991 .
+Signal transduction in B cells .
+Curt , Opin .
+Immunology 3 ; 340-344 , Ralink , A. and F. Melchers , .
+1991 .
+Molecular and cellular origins of B lymphocyte diversity .
+Cell 66 : 1081-1094 .
+Rudin , C. , P.Engler , and U. Storb .
+1990 .
+Differential splicing of thymosin beta 4 mRNA .
+J. Immunol .
+144 : 4857-4862 .
+Sakaguchi , N. , S.-I .
+Kashiwamura , M. Kimoto , P. Thalmann , and F. Melchers , .
+1988 .
+B lymphocyte lineage-restricted expression of mb-1 , a gene with CD3-like structural properties .
+EMBO J .
+7 : 3457-3464 .
+Sambrook , J. , E.F. Fritsch , and T. Maniatis .
+1989 .
+Molecular cloning : A laboratory manual .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , New York .
+Sen , R. and D. Baltimore .
+1986 .
+Inducibility of k immunoglobulin enhancer-binding protcin NF- « B by a posttranslational mechanism .
+Cell 47 ; 921-928 .
+Staudt , L. and M.J. Lenardo .
+1991 , Immunoglobulin gene tran-scription .
+Anau .
+Rev .
+Immunol .
+9 : 373-398 .
+Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Early B-cell factor Staudt , LM .
+, R.G .
+Clerc , H. Singh , J.H .
+Lebowitz , P.A .
+Sharp , and D. Baltimore , .
+1988 .
+Cloning of a lymphoid-specific cDNA encoding a protein binding the regulatory octamer DNA motif .
+Science 241 : 577-580 .
+Suzuki , T. , M. Sato , T. Yoshida , and S. Tuboi .
+1989 .
+Rat liver mitochondrial and cytosolic fumarases with identical amino acid sequences are encoded from a single gene .
+J. Biol .
+Chem .
+264 : 2581-2586 .
+Travis , A. , A. Amsterdam , C. Belanger , and R. Grosschedl .
+1991a .
+LEF-1 , a gene encoding a lymphoid-specific protein with an HMG domain , regulates T-cell receptor « enhancer function .
+Genes & Dev .
+5 : 880-894 .
+Travis , A. , J. Hagman , and R. Grosschedl .
+1991b .
+Heteroge : -neously initiated transcription from the pre-B and B-cell-specific mb-1 promoter : Analysis of the requirement for upstream factor-binding sites and initiation site sequences .
+Mol .
+Cell .
+Biol .
+11 : 5756-5766 .
+Travis , A. , J. Hagman , L. Hwang , and R. Grosschedl .
+1993 .
+Purification of early B cell factor and characterization of its DNA-binding specificity .
+Mol .
+Cell .
+Biol .
+{ in press ) .
+Venkitaraman , A.R .
+, G.T .
+Williams , M. Dariavach , and M. Neu-berger .
+1991 .
+The B-cell antigen receptor of the five immunoglobulin classes .
+Nature 352 : 777-781 .
+Vinson , C.R .
+and K.C .
+Garcia .
+1992 .
+Molecular model for DNA recognition by the family of basic helix-loop-helix zipper proteins .
+New Biol .
+41 396-403 .
+Voronova , A. and D. Baltimore .
+1990 .
+Mutations that disrupt DNA binding and dimer formation in E47 helix-loop-helix protein map to distinct domains .
+Proc .
+Nat ] .
+Acad .
+Sci .
+87 : 4722-4726 .
+Westin , G. , T. Gerster , M.M .
+Muller , G. Schaffner , and W. Schaffner .
+1987 .
+OVEC , a versatile system to study transcription in mammalian cells and cell-free extracts .
+Nucleic Acids Res , 15 ; 6787-6797 .
+GENES & DEVELOPMENT 773 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press & Development Cloning and functional characterization of early B-cell factor , a regulator of Iymphocyte-specific gene expression .
+J Hagman , C Belanger , A Travis , et al .
+Genes Dev .
+1993 , 7 : Access the most recent version at doi:10.1101/gad.7.5.760 References _ This article cites 56 articles , 22 of which can be accessed free at : http : /genesdev.cshlp.org/content/7/5/760.full.html # ref-list-1 License Email Alerting _ Receive free email alerts when new articles cite this article - sign up in the box at the Service - top right corner of the article or click here .
+CRISPR KO , CRISPRAa , CRISPRi libraries .
+CELLECTA Custom or genome-wide .
+Copyright © Cold Spring Harbor Laboratory Press

@@ -1,0 +1,669 @@
+THE JOURNAL oF BIOLOGICAL CHEMISTRY © 1998 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+273 , No .
+37 , Issue of September 11 , pp .
+24249-24257 , 1998 Printed in U.S.A. A p56 `` -independent Pathway of CD2 Signaling Involves Jun Kinase* ( Received for publication , March 5 , 1998 , and in revised form , June 5 , 1998 ) Raute Sunder-Plassmannt and Ellis L. Reinherz $ § From the Laboratory of Immunobiology , Dana-Farber Cancer Institute and Department of Medicine , Harvard Medical School , Boston , Massachusetts 02115 The p56 `` ** Sre family non-receptor tyrosine kinase has been shown to be critical for T lymphocyte differentiation and activation .
+Hence in the absence of p56 `` ** , T cell receptor triggered activation does not occur .
+We now provide evidence for a CD2-based signaling pathway which , in contrast to that of the T cell receptor , is independent of p56 `` .
+CD2-mediated interleukin-2 production occurs via activation of Jun kinase in cell lines lacking p56 `` ** .
+Jun kinase then facilitates the binding of c-Jun/c-Fos heterodimers to the AP-1 consensus site and the subsequent transcriptional activity of the interleukin-2 promoter .
+These data elucidate differences between TCR and CD2 signaling pathways in the same T cells .
+CD2 is a cell surface glycoprotein which is expressed on immature thymocytes and on mature T cells and NK cells ( 1-3 ) .
+The ligand for human CD2 is CD58 ( LFA-3 ) , a ubiquitously expressed cell surface protein found on many cell types including antigen presenting cells ( 4 , 5 ) .
+Unlike integrins such as CD11a/CD18 ( LFA-1 ) , the adhesion between CD2 and CD58 is not dependent on TCR triggering ( 6 , 7 ) .
+Rather , the CD2-CD58 interaction between T cells and their cognate partners facilitates the T cell recognition process and subsequent T cell activation ( 8-10 ) .
+Cross-linking of CD2 molecules by specific pairs of mAbs recognizing distinct epitopes on human CD2 initiates a signaling cascade which leads to T cell cytokine production , prolifer-ation , and cytolytic activity ( 11-13 ) .
+For optimal mAb-mediated activation two antibody specificities are needed , one directed against conventional CD2 epitopes and the second against an activation-associated epitope of CD2 , termed CD2R .
+The CD2R epitope has recently been mapped to the flexible linker region between the two extracellular domains of CD2 ( 14 ) .
+Its appearance coincides with reorientation of the adhesion domain ( D1 ) relative to the membrane proximal domain ( D2 ) of the CD2 extracellular segment .
+Such domain reorientation occurs upon * This work was supported in part by National Institutes of Health Grants AI21226 and Al19807 .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 U.S.C .
+Section 17834 solely to indicate this fact .
+7 Supported by Erwin Schrodinger Auslandsstipendium JO1086-MED from the Fonds zur Forderung der Wissenschaftlichen Forschung , Vienna , Austria .
+§ To whom correspondence should be addressed : Laboratory of Immunobiology , Dana-Farber Cancer Institute , 44 Binney St. , Boston , MA 02115 .
+Tel .
+: 617-682-8412 ; Fax : 617-682-8851 ; E-mail : ellis _reinherz @ dfci.harvard.edu .
+* The abbreviations used are : TCR , T cell receptor ; mAb , monoclonal antibody ; IL , interleukin ; MAPK , mitogen-activated protein kinase ; PLC , phospholipase C ; PMSF , phenylmethylsulfony ] l fluoride ; PAGE , polyacrylamide gel electrophoresis ; PMA , phorbol 12-myristate 18-ace-tate ; DTT , dithiothreitol ; GST , glutathione S-transferase ; EMSA , elec-trophoretic mobility shift assay .
+This paper is available on line at http : //www.jbc.org CD58 binding to CD2 and following T cell activation ( 14 ) .
+Furthermore , the CD2 interaction with CD58 regulates the responsiveness of activated human T cells to IL-12 ( 15 , 16 ) .
+Hence , both IL-12-stimulated T cell proliferation and interfer-on-y production are markedly augmented by CD2 ligation .
+Finally , some studies have uncovered a unique role for CD2 in the regulation of anergy ( 17 ) .
+Stimulation of anergized alloreactive T cells with a combination of specific alloantigen in conjunction with CD2-CD58 co-receptor ligation reverses the an-ergic state .
+In contrast , identical allostimulation but in the absence of CD2-CD58 co-ligation on T cells and allostimulators , respectively , fails to restore responsiveness ( 17 ) .
+Signaling through CD2 is dependent on its cytoplasmic domain ( 8 , 18-20 ) .
+Comparison of CD2 from various species shows the highest homology occurring in this segment ( 21 , 22 ) .
+While the cytoplasmic domain has no intrinsic protein-tyrosine kinase activity and no tyrosine residues which might serve as docking sites for SH2 domains upon phosphorylation ( reviewed in Refs .
+23 and 24 ) , stimulation via CD2 leads to the tyrosine phosphorylation of several intracellular proteins ( 25-27 ) .
+For these activation events CD2 signaling requires the presence of the CD34 chain in T cells ( 27-31 ) or FceeRIy in CD16 expressing NK cells ( 82 ) .
+The CD2 tail contains several proline-rich regions ( 19 ) .
+Two of these ( PPPGHR ) are known to be important in inducing IL-2 production ( 33 ) .
+Related proline-rich sequences bind to SH3 domains of non-receptor protein-tyrosine kinases of the Src family ( 23 ) .
+For example , the SH3 domain of p56 `` has been shown to bind to the rat CD2 cytoplasmic tail at least in vitro ( 34 ) .
+Peptides corresponding to residues 269-270 and 200-310 ( according to the human CD2 numbers ) bind to p56 ' `` *-GST fusion proteins ( 34 ) .
+In vivo intracellular colocalization exper-iments , however , suggest , that p59 `` rather than p56 `` * has a predominant association with CD2 ( 35 ) , perhaps by binding through the p59 `` SH3 domain .
+The activation of protein tyrosine kinases is one of the proximal steps in signaling cascades which ultimately lead to the activation of T cell effector function .
+For p56 `` it has been shown that this kinase is involved in the activation of the Ras/Raf/ MAPK pathway ( 36 ) .
+The function of MAPK is mani-fold .
+Several studies reported that MAPK can phosphorylate and activate the transcription factors ELK , Jun , and Stat-1 and thereby participates in the regulation of gene expression ( 37 ) .
+A different pathway leading to Jun activation is the Rac/JNK pathway ( 38 ) .
+Recently , the Pyk2 tyrosine kinase has been described , shown to be involved in the activation of JNK ( 39 ) , and has been linked to TCR signaling via p59 `` ( 40 ) .
+In this study , we have begun to dissect the differences in TCR- and CD2-based signaling pathways .
+Since p56 `` * is thought to be most important at a proximal step in CD3 signaling , we investigated the role p56 `` plays in CD2 signaling .
+To this end , we have employed the Jurkat variant JCaM1.6s 24249 610Z '01 Aepy uo 4g wo ; popeoumog 24250 which lacks functional p56 `` ** and is unable to transmit TCR signals leading to IL-2 production .
+We here report that although the TCR pathway is not functional in JCaM1.6s , these cells can be induced to produce IL-2 by stimulation via CD2 .
+Furthermore , we present evidence for a p56 `` *-independent CD2 signal transduction pathway which uses Pyk2 and JNK and leads to the binding of c-Jun/c-Fos heterodimers to the AP-1 consensus site , important for initiation of IL-2 transcription .
+EXPERIMENTAL PROCEDURES Cell Lines and Antibodies Monoclonal antibodies ( mAbs ) : anti-T11 ; , anti-T1l1 , , and anti-Tl1l , recognizing different epitopes of human CD2 ( 11 ) and the anti-human CD3e mAbs 2AD2A2 and RW28C8 ( 41 ) were developed in our laboratory at Dana Farber Cancer Institute , Boston , MA .
+4G10 ( anti-phos-photyrosine , IgG2b ) was kindly provided by Tom Roberts ( Dana Farber Cancer Institute ) .
+Rabbit antisera against ZAPT70 , p56** , and Pyk2 were kind gifts from J. Bolen ( DNAX , Palo Alto , CA ) , A. Veillette ( McGill Cancer Center , Montreal , Quebec , Canada ) , and J. Schlessinger ( New York University Medical Center , New York ) , respectively .
+Antibodies against PLC-y1 were obtained from Upstate Biotechnology Inc. , Lake Placid , NY , and rabbit antisera against p59 `` , Erk1/MAPK , JNK , c-Jun , JunB , JunD , c-Fos , Fral , Fra2 , and FosB were purchased from Santa Cruz Biotechnology Inc. , Santa Cruz , CA .
+Rabbit antiserum against pMAPK was obtained from New England Biolabs , Beverly , MA .
+Cell Lines-The Jurkat variant , JCaM1.6 , that lacks p56 `` * ( 42 ) was obtained from ATCC ( Rockville , MD ) and sorted for high CD2 and CD3 expression ( JCaM1.6s ) and further sorted for those cells which show a fast and high rise in intracellular free Ca** levels following CD2 stimulation ( JCaM1.6s.93 ) .
+Both JCaM1.6s and JCaM1.6s.88 were analyzed for p56 `` ** by in vitro kinase activity and p56 `` * was found to be not enzymatically active .
+J77 is a CD2° `` CD3 `` `` CD8 `` °® subclone of the Jurkat cell line ( 29 ) .
+Ca `` * Assay Ca `` * assay was performed as described ( 48 ) .
+Increase in intracellular free Ca `` * in Indo-1 ( Molecular Probes Inc. , Eugene , OR ) loaded cells was induced by either a combination of the anti-CD2 mAbs anti-Tll , and anti-T11 , ( 1:100 ) or 20 ug/ml biotinylated RW28CS alone or by further cross-linking with 100 pg/ml avidin ( Sigma ) .
+Maximal Ca** influx was induced by the addition of 10 ug/ml 4-bromo-calcium ionophore A23187 ( Sigma ) .
+The analysis was performed on an EPICS V cell sorter ( Coulter , Hialeah , FL ) .
+Analysis of Tyrosine Phosphorylation Immunoprecipitation was performed as described previously ( 43 ) .
+In brief , cells ( 1 X 10 `` ) were stimulated for 5 min at 87 °C with either a combination of the anti-CD2 mAbs anti-T11 , and anti-T1l1 , ( 1:100 ) or the anti-CD8e mAb 2AD2A2 ( 1:100 ) .
+Cells were then washed with ice-cold TBS ( 50 mm Tris-HCl , pH 7.4 , 150 mM NaCl ) , resuspended in lysis buffer ( 1 X 10 `` cells/ml ; 1 % Triton X-100 in TBS , 10 ug/ml leupeptin ( Sigma ) , 0.2 TIU/ml aprotinin ( Sigma ) , 1 mM PMSF ( Sigma ) , 5 mM EDTA , 1 mM Na , VO , ( Fisher Scientific , Fair Lawn , NJ ) , 5 mM Na , H , P,0 , ( Sigma ) , and 5 mM sodium fluoride ( Fisher ) or 25 mM B-glycerophosphate ( Sigma ) ) and rotated for 80 min at 4 °C followed by centrifugation at 18,000 x g for 5 min .
+Proteins were immunoprecipitated from 1 ml of postnuclear lysate with 10 ul of GammaBind Plus-Sepharose ( Pharmacia Biotech Inc. , Uppsala , Sweden ) preincubated with the respective Abs .
+Beads bound immune complexes were washed with lysis buffer and TBS and were eluted by boiling in SDS ( Laemmli ) sample buffer .
+The samples were analyzed by SDS-PAGE and Western blotted as described below .
+In Vitro Kinase Assay-Lysis of cells ( 1 X 10 `` cells/ml ) and immunoprecipitation was carried out as described above .
+After washing with lysis buffer and kinase buffer ( 100 mM NaCl , 5 mM MnCl , 5 my MgCl , , 20 mM Hepes , pH 7.4 ) the beads bound immune complexes were resuspended in 50 pl of kinase buffer containing 2 uM ATP and were incubated with 10 uCi of [ y- `` PIATP for 15 min at room temperature .
+Kinase reaction was stopped by addition of ice-cold lysis buffer containing 20 mM EDTA .
+After washing 3 times with lysis buffer/EDTA and once with Tris-HCl , pH 7.4 , the phosphorylated proteins were eluted by boiling in SDS sample buffer .
+The proteins were analyzed by 9 % SDS-PAGE and after drying the gels were subjected to autoradiography .
+Some in vitro kinase assays were carried out in the presence of 10 ug/sample poly ( Glu-Tyr ) ( 4:1 ) ( Sigma ) .
+The kinase reaction was stopped p56 `` -independent CD2 Signaling by boiling in SDS sample buffer and the samples were further processed as described above .
+Western Blotting-Western blotting onto nitrocellulose membranes of proteins resolved by SDS-PAGE was performed according to standard procedures .
+Protein detection was carried out by incubating the membranes with 1:1000 dilutions of specific mAbs ( 4610 , PLC-y1 ) or rabbit heteroantisera ( ZAP70 , p56 `` ** , p59° `` , Pyk2 , pMAPK , Erkl/ MAPK , Raf ) for 1 h at room temperature .
+The blots were washed with TBS/Triton X-100 ( 0.05 % ) and incubated with 1:2000 dilutions of HRPO-labeled anti-mouse IgG2b , anti-mouse IgG , or anti-rabbit Abs ( Caltag Laboratories , San Francisco , CA ) , respectively , for 1 h at room temperature .
+After washing with TBS/Triton X-100 , the proteins were visualized by enhanced chemiluminescence ( ECL Western blotting detection reagents , Amersham International , Little Chalfont , Bucking-hamshire , United Kingdom ) and exposing the membranes to films for various time intervals .
+Unspecific binding of Abs was inhibited by preincubating the membranes with blocking buffer ( TBS containing either 5 % fetal calf serum or 5 % non-fat dry milk and 10 mM NaN , ) for at least 2 h at room temperature .
+Jun Kinase Assay 1 X 10 `` cells were stimulated for 80 min at 87°C with either a combination of the anti-CD2 mAbs anti-T11 , and anti-T11 , ( 1:100 ) , the anti-CD8e mAb 2AD2A2 ( 1:100 ) , or 25 ng/ml phorbol ester ( PMA ) .
+Cells were then washed with ice-cold TBS and lysed for 30 min at 4 °C in 100 ul of JNK-lysis buffer ( 25 mm HEPES pH 7.7 , 300 mM NaCl , 1.5 mM MgC ] , 0.1 % Triton X-100 , 0.5 mM DTT , 0.2 mm EDTA , 2 pg/ml leupeptin ( Sigma ) , 1 mm PMSF ( Sigma ) , 0.1 mM Na , VO , ( Fisher Scientific ) , 20 mM B-glycerophosphate ( Sigma ) followed by centrifugation at 18,000 % g for 5 min .
+The supernatants were then diluted 1:4 to a final concentration of 20 mm HEPES pH 7.7 , 75 mM NaCl , 2.5 mm MgCl , , 0.05 % Triton X-100 , 0.5 mM DTT , 0.1 mM EDTA , 2 ug/ml leupeptin ( Sigma ) , 1 mM PMSF ( Sigma ) , 0.1 mM Na , VO , ( Fisher Scientific ) , 20 mM B-glycerophosphate ( Sigma ) and rotated for 4 h at 4 °C with 10 ul of GammaBind Plus-Sepharose ( Pharmacia ) preincubated with anti-JNK Ab .
+Bead-bound immune complexes were washed with lysis buffer and kinase buffer ( 20 mM MgCl , , 20 mM B-glycerophosphate , 0.1 mM Na , VO , , 2 mM DTT , 10 mM Hepes , pH 7.4 ) and subsequently resuspended in 50 ul of kinase buffer containing 20 uM ATP and 2 pg/sample GST-Jun fusion protein ( kindly provided by M. Karin ) and were incubated with 5 uCi of [ y-*°P ] IATP for 20 min at 80 °C .
+The kinase reaction was stopped by boiling in SDS ( Laemmli ) sample buffer and the samples were analyzed by 10 % SDS-PAGE and after drying the gels were subjected to autoradiography .
+IL-2 Production Assay 1 X 10° cells/well were stimulated in Immulon enzyme-linked immunosorbent assay plates ( Dynatech Laboratories Inc. , Chantilly , VA ) with either PMA alone ( 25 ng/ml , Sigma ) , PMA plus a combination of the anti-CD2 mAbs anti-T11l , and anti-Tll , ( 1:100 ) , PMA plus the anti-CD8e mAb RW28CB ( 1 ug/well , precoated overnight onto the plates at 4 °C ) or PMA plus calcium ionophore A23187 ( 1 ug/ml ) .
+After 48 h culture supernatants were harvested and examined by human IL-2 specific enzyme-linked immunosorbent assays ( Endogen Inc. , Cam bridge , MA ) .
+Nuclear Extracts and EMSA 5 X 10 `` cells , unstimulated or stimulated for 4 or 6 h at 87 °C with either a combination of stimulatory anti-CD2 ( anti-T11 , plus anti-T1l1 ; , 1:100 ) or with a 1:100 dilution of anti-CD8e mAb 2AD2A2 , were incubated on ice for 15 min with 400 pl of ice-cold Buffer A ( 10 mM HEPES pH 7.9 , 10 mm KCl , 1.5 mm MgCl , , 0.5 mm DTT , 0.2 mm PMSF ) and spun at 13,000 rpm for 10 s. The pellets were resuspended in 100 pl of ice-cold buffer C ( 10 mm HEPES pH 7.9 , 420 mM NaCl , 1.5 mm MgCl , , 0.2 mM EDTA , 25 % ( v/v ) glycerol , 0.5 mM DTT , 0.2 mM PMSF ) and left for 30 min on ice .
+After spinning for 5 min at full speed , the supernatants were removed , aliquoted , and stored at -80 °C .
+The protein concentration in the supernatants was determined by BCA Assay ( Pierce ) and 10 ug/sample were used in the EMSA .
+The double-stranded oligonucleotides ( APL consensus , NF-kB consensus , NF-AT consensus , and Oct 1 consensus ) and the Abs for the supershifts ( anti-c-Jun , JunB , JunD , c-Fos , FRAL , FRA2 , Fos-B , NF-kB p50 and p65 ) used in these EMSA were purchased from Santa Cruz Biotechnology .
+10 ug of NE were incubated in binding buffer ( 10 mm HEPES pH 7.5 , 30 mM KCI , 5 mm MgCl , , 0.1 mM EDTA , 12 % ( v/v ) glycerol , 0.5 mm DTT , 0.2 mM PMSF ) for 30 min on ice with 2 ug of poly ( dI-dC ) ( Boehringer 610Z '01 Aepy uo 4g wo ; popeoumog p56 `` -independent CD2 Signaling aCD2 aCD3e J77 i © 3 % JCaM1.6s { __ gp £00 UE j 0 1 2 3 0 1 2 3 Log Fluorescence J77 __ JCaM1.6s Fo -- aCD2 aCD3 Ab ® ~ o 0 ~- 3 8 T Ick-£ Fic .
+1 .
+The phenotype and p56 `` * in vitro kinase activity of J77 and JCaM1.6s .
+A , J77 ( parental Jurkat cells ) and JCaM1.6s cells were stained with anti-T1l1l , ( anti-CD2 ) or RW28C8 ( anti-CD8e ) mAbs and analyzed on a FACScan .
+The x axis indicates the log fluorescence intensity .
+Equal expression of CD2 or CD3 is shown for both cell lines .
+B , J77 or JCaM1.6s cells were left unstimulated or were stimulated via eCD2 ( anti-Tl1l , plus anti-T1l , mAbs ) or aCD8e ( 2AD2A2 mAb ) .
+Lysates were immunoprecipitated with a p56**-specific antiserum , subjected to in vitro kinase assay and analyzed on SDS-PAGE followed by autoradiography .
+The arrows indicate the migration position of p56'* .
+Mannheim ) and either 2 ul of the respective Ab or a 100-fold excess of unlabeled oligonucleotide as competitor .
+Subsequently , 0.5 ng of *°P-labeled oligo were added and incubated with the NE at room temperature for an additional 20 min .
+The proteins were separated on 5.2 ( EMSA ) or 4 % ( supershift ) gels .
+The gels were dried and subjected to autoradiography .
+RESULTS The CD2P `` CD3P `` * JCaM1.6s Cells do Not Express p56*_-JCaM1IL.6 is a Jurkat cell line variant , which lacks functional p56 `` and is unresponsive to TCR stimulation such that it fails to generate IL-2 upon anti-CD3 cross-linking ( 42 ) .
+To exclude the possibility that different TCR and/or CD2 surface expression levels between Jurkat and JCaM1.6 might account for a component of the signaling defect , JCaM1L.6 cells were sorted on a FACSVantage for high co-expression of both CD2 and CD3 , equivalent to the surface expression number of these receptors found on the Jurkat line J77 ( Fig .
+14 ) .
+The sorted JCaM1IL.6 ( referred to as JCaM1.6s ) as well as JCaM1.6s cells , further sorted for maximal Ca `` * mobilization upon CD2 cross-linking ( termed JCaM1.6s.83 ) , were analyzed by in vifro kinase assay for p56 `` ** autophosphorylation and poly ( Glu-Tyr ) substrate phosphorylation activity .
+As shown in Fig .
+1B , and in contrast to J77 , JCaM1.6s does not express detectable amounts of functional p56 `` * , as judged by in vitro autophosphorylation of unstimulated , anti-CD2- , or anti-CD3e-stimulated JCaM1.6s cells .
+Similarly , by in vitro kinase assay , anti-p56 `` * antibody immunoprecipitates from JCaM1.6s.83 cells do not reveal autophosphorylation activity or any enzymatic activity using the poly ( Glu-Tyr ) substrate ( data not shown ) .
+CD2 Stimulation in the Absence of p56 `` Leads to a Prolonged and High Amplitude Rise in Intracellular Free Ca `` *-Although TCR cross-linking by anti-CD3e mAb or anticlono-typic mAb does not activate JCaM1L.6 cells ( 42 ) , the status of the CD2 pathway in these cells was not defined .
+To first address the integrity of CD2 mediated signaling , we analyzed 24251 J77 Avidin .
+lonophore aCD8e biot .
+B WB : apTyr aPLC-y1 J77 JCaM1.6s J77 JCaM1.6s U u 1 U if ou co ou ou ou co £s §§ -T ?
+- % % PLO-Yl—b- ame cap r | Wo we wage foams com Fic .
+2 .
+Analysis of [ Ca® `` * ] , ; in J77 and JCaM1.6s.83 .
+A , Ca** mobilization in J77 and JCaM1.6s.33 .
+Cells were loaded with Indo-1 .
+Calcium flux was then analyzed on an EPICS V flow cytometer .
+Where indicated , a combination of the anti-CD2 mAbs anti-T11 , plus anti-T11 , ( CD2 ) or biotinylated anti-CD8e mAb RW28C8 ( aCDSebiot ) , avidin , and Ca `` * ionophore were added sequentially .
+B , tyrosine phosphorylation of PLC-y1 in J77 and JCaM1.6s.88 .
+Cells were either unstimulated ( - ) or stimulated with a combination of anti-CD2 mAbs or the anti-CD3e mAb 2AD2A2 and cell lysates were immunoprecipitated with anti-PLC-y1 Ab .
+Immunoprecipitates were subjected to SDS-PAGE followed by Western blotting with anti-phosphotyrosine mAb 4G10 ( eft panel ) .
+The stripped blots were subsequently immunoblotted with PLC-y1 Ab ( right panel ) .
+The migration position of PLC-y1 is indicated by the arrows ( at ~135 kDa ) .
+Ca `` * mobilization in both JCaM1.6s , the Ca** sorted JCaM1.6 s.83 and J77 following anti-CD2 or anti-CD3e stimulation .
+In contrast to J77 , in which both anti-CD2 and anti-CD3e mAbs induced a long lasting and high rise in intracellular free Ca** , only anti-CD2 stimulation via the combination of anti-Tl1l ; plus anti-Tl1l ; , mAbs resulted in a substantial Ca** influx in JCaM1.6s ( data not shown ) .
+After sorting , the Ca** response of JCaM1.6s.83 to anti-CD2 stimulation was equal or even higher than in J77 ( Fig .
+24 ) .
+Addition of biotinylated anti-CD3e mAb alone was not sufficient for Ca `` * mobilization in JCaM1L.6s ( data not shown ) or in JCaM1.6s.83 ( Fig .
+2A ) .
+Rather extensive cross-linking of the biotinylated anti-CD3e mAb by avidin was required to lead to a detectable Ca** transient .
+This appears as a low magnitude rise in Ca** of short duration and most probably is due to the initial release of Ca** from intracellular Ca `` * stores ( Fig .
+24 ) ( 41 , 44 , 45 ) .
+PLC-y1 Is Tyrosine Phosphorylated and Activated by CD2 Stimulation in the Absence of p56 ' `` `` *-Given that phosphorylation and activation of PLC-y1 leads to increased phosphatidylinositol turnover and the release of Ca** from intracellular Ca* `` * stores ( 45 , 46 ) , the phosphorylation status of PLC-y1 was determined prior to and following stimulation in the J77 and JCaM1.6s cells .
+In J77 , the stimulation via both CD2 and CD3e results in a strong tyrosine phosphorylation of PLC-yl as shown by anti-Tyr ( P ) Western blot analysis of anti-PLC-yl immunoprecipitations ( Fig .
+2B ) .
+In contrast , only activation via CD2 leads to a clear tyrosine phosphorylation of PLC-y1 in JCaM1.6s ( Fig .
+2B ) , whereas anti-CD3€ stimulation had a minor effect ( Fig .
+2B ) .
+These differences were not a consequence of gel loading of the anti-PLC-y1 immunoprecipitates as revealed by sequential Western blotting with anti-PLC-y1 antibody .
+CD2 but Not CD3 Stimulation Results in Interleukin 2 Produc- 610Z '01 Aepy uo 4g wo ; popeoumog 24252 TaBLE I CD2 triggering induces IL-2 production in the absence of p56 `` Cell culture supernatants were analyzed for IL-2 content after 48 h stimulation with A23187 , a-CD3e mAb RW28C8 , or « -CD2 mAbs anti-T11 , plus anti-T11l ; ; or after no stimulation ( none ) .
+PMA was added to all wells at 25 ng/ml .
+S.D .
+of triplicate samples < 5 % for all entries .
+IL-2 ( ng/m1 ) Stimulus None A23187 a-CD8e a-CD2 J77 0.05 17.95 6.17 23.56 JCaM1.6s 0.01 6.09 0.08 2.60 JCaM1.6s.81 0.01 5.77 0.09 2.77 JCaM1.6s.92 0.05 14.39 0.17 7.36 JCaM1.6s.93 0.083 43.176 0.16 21.13 tion in the Absence of p56 `` *-To next determine whether the CD2 pathway in JCaM1.6s could elicit IL-2 production , we determined the levels of IL-2 secretion in the supernatant of anti-CD2 stimulated JCaM1.6s cells in a human IL-2 specific enzyme-linked immunosorbent assay ( Table 1 ) and by intracellular staining of IL-2 in these stimulated JCaM1.6s ( data not shown ) .
+Parallel analysis was performed in the same cells following anti-CD3e mAb stimulation .
+As shown in Table I , stimulation via CD2 in JCaM1.6s cells results in substantial IL-2 production , in fact to a level equivalent to 50 % of the maximal induction measured upon bypassing receptor triggering with the combination of calcium ionophore plus PMA .
+In contrast , and as expected , no IL-2 production is induced by TCR cross-linking by anti-CD3e .
+Data from different subclones of JCaM1.6s obtained by sequential sorting for Ca* `` mobilization following CD2 stimulation are shown ( JCaM1L.6s.81 , JCaM1.6s.82 , and JCaMIL.6s.83 ) .
+The amount of IL-2 produced increases with enhanced Ca** responsiveness to CD2 stimulation .
+Neither p59 `` nor ZAP7O Are Detectably Tyrosine Phosphorylated following CD2 Stimulation in JCaM1.6s-Tyrosine phosphorylation and activation of kinases such as the Src kinases p56 `` ** or p59 `` or the related tyrosine kinase ZAP70 are major events in TCR signaling and are also thought to be involved in signal transduction via CD2 ( 47 ) .
+The Jurkat variant JCaM1L.6s gives us the opportunity to investigate these events in the absence of p56 `` ** .
+To this end , we performed a series of Western blots with J77 and JCaM1.6s cells following anti-CD2 or anti-CD3e stimulation .
+In J77 , activation via both CD2 and CD3 results in the tyrosine phosphorylation of p56 `` * and the appearance of a second p60 `` * band due to the serine/ threonine phosphorylation of p56 `` ** ( 48 ) ( Fig .
+3A , upper panel ) .
+As expected , both ick bands are absent in the phosphotyrosine blot of p56** immunoprecipitates from JCaM1.6s .
+Note that the p58 band appearing in the Tyr ( P ) blot of both J77 and JCaM1.6s is nonspecific , being unrelated to p56 `` ** .
+Reanalysis of the stripped blot with anti-lck antiserum shows that these p56- and p6O-phosphorylated proteins in J77 indeed represent p56 `` ( Fig .
+3A , lower panel ) .
+In J77 , stimulation via the CD3 pathway leads to a strong tyrosine phosphorylation of ZAP70 , whereas activation via CD2 induces weaker but definite ZAPT7O phosphorylation ( Fig .
+3B , upper panel ) .
+In contrast to this observation , in JCaM1IL.6s neither CD2 nor CD3 stimulation induce the phosphorylation of ZAPT70 ( Fig .
+3B , upper panel ) .
+Nevertheless , similar amounts of ZAP70 were immunoprecipitated in each lane , as shown by the results of reprobing the stripped Tyr ( P ) blot with an anti-ZAP7O0 rabbit antiserum ( Fig .
+3B , lower panel ) .
+In both J77 and JCaM1.6s , the tyrosine phosphorylation of p59 `` increases minimally if at all after either CD2 or CD3 stimulation ( Fig .
+3C , upper panel ) .
+The corresponding p59 `` `` blot probed with anti-p59 `` `` antibody is shown in Fig .
+3C , lower panel .
+Note that the band below p59 `` is related to immuno-globulin heavy chain .
+p56 `` -independent CD2 Signaling J77 JCaM1.6s OU co ~ 6 8 - § 8 IP - 3 5 _ 5 30 WB A alck lot t ) M MI S 2 S aptyr Ick £ _ .
+** % alck B yap EN ’ W—F ' wo « tis upTyr a ZAPTQ - » was « on « - .
+mae mak ame ~ cant '- apTyr n+ usin meee ofyn Fic .
+3 .
+Analysis of protein-tyrosine kinase activation in J77 and JCaM1.6s.83 .
+Cells were either unstimulated ( - ) or stimulated with either a combination of the anti-CD2 mAbs anti-T11 , plus anti-T1l , ( « CD2 ) or the anti-CD8e mAb 2AD2A2 ( aCD3 ) and cell lysates were immunoprecipitated with antisera specific for p56 `` ** , ZAP70 , or p59* `` , respectively .
+Immunoprecipitates in panels A-C using the designated Abs were subjected to SDS-PAGE followed by Western blotting with anti-phosphotyrosine mAb 4G10 ( upper row ) .
+The blots were stripped and subsequently immunoblotted with the respective Abs ( low-er row ) .
+The migration positions of p56 `` ** , ZAP70 , or p59 `` are indicated by arrows .
+im- » Eg !
+C afyn The Ras-MAPK Pathway Is Not Functional in the Absence of p56 `` *-TCR stimulation of T cells leads to the activation of Ras resulting in the serine phosphorylation and activation of Raf , then subsequently the activation of the MAPK signaling cascade and finally to the initiation of IL-2 transcription ( 49 ) .
+We investigated the activation of Raf and MAPK by Western blotting of the total lysate of either unstimulated or anti-CD2 or anti-CD3 stimulated J77 or JCaM1L.6s.53 cells with rabbit antisera specific for Raf , pMAPK , or MAPK ( Fig .
+4 , A-C ) .
+In J77 , both CD2 and CD3 stimulation induced the phosphorylation and molecular weight shift of Raf ( Fig .
+44 ) and the subsequent phosphorylation of MAPK as shown by Western blotting with antisera specific for the phospho-MAPK ( Fig .
+4B ) .
+In contrast , in JCaM1.6s.83 stimulation via CD2 had no effect on either kinase ( Fig .
+4 , A and B ) .
+Surprisingly , anti-CD3 triggering in JCaM1.6s.83 led to the phosphorylation and molecular weight shift of Raf ( Fig .
+44 ) but not to the functional activation of Raf as judged by the very low or absent phosphorylation of MAPK ( Fig .
+4B ) .
+As shown in Fig .
+4C by sequential immunoblotting with a MAPK specific antiserum , the described differences were not due to different amounts of MAPK in the total lysates .
+Similarly , in J77 , but not in JCaM1L.6s.983 , stimulation via either CD2 or CD3 enhanced the kinase activity of MAPK toward myelin basic protein in an in vitro kinase assay ( data not shown ) .
+Additionally , CD2 stimulated IL-2 production in JCaM1.6s.83 was not inhibited by coculture with the MEK1-inhibitor PD98059 , which interferes with the MAPK pathway upstream of MAPK ( data not shown ) .
+CD2 but Not CD3 Stimulation Activates Jun Kinase in the Absence of p56**-Initiation of IL-2 transcription requires the binding of certain DNA-binding proteins to specific regions within the IL-2 promoter ( 50 ) .
+One of these DNA-binding elements is the AP-1 complex , which consists of homo- or heterodimers of members of the Jun and Fos protein family ( 51 ) .
+In order to bind to and activate the IL-2 promoter , these dimers must assemble and the participating proteins become phosphorylated ( 51 ) .
+Jun kinase ( JNK ) is involved in the serine phosphorylation and activation of Jun family members ( 52 ) .
+Following CD2 stimulation in JCaM1.6s.83 cells , activation of JNK is readily detected as shown by in vitro kinase activity using a GST-Jun fusion protein substrate ( Fig .
+5A ) .
+CD3 stimulation 610Z '01 Aepy uo 4g wo ; popeoumog p56 `` -independent CD2 Signaling J77 ___ JCaM1.6s.983 `` __ _I a `` a a `` [ 9 co Cd Co + § § - § § T § § T § § WB - > youth A raf pa « was otk v araf BMAPKi TC a pMAPK C mark - cvark Fig .
+4 .
+Analysis of the MAPK pathway in J77 and JCaM1.6s.83 .
+Cells were either unstimulated ( - ) or stimulated with either a combination of the anti-CD2 mAbs anti-Tl1l , plus anti-Tl1 , ( aCD2 ) or the anti-CDS3e mAb 2AD2A2 ( « CD3 ) and total lysates were subjected to SDS-PAGE followed by Western blotting ( WB ) with antisera specific for Raf ( A ) or phosphorylated MAPK ( pMAPK ) ( B ) .
+The pMAPK blot was stripped and subsequently immunoblotted with an antiserum specific for MAPK ( C ) .
+The migration position of Raf ( at ~74 kDa ) , pMAPK ( at ~42 and 44 kDa ) , and MAPK ( at ~42 and 44 kDa ) are indicated by arrows .
+A J77 JCaM1.6s.S3 o 86s 6 s Jos B £ JL s s & cae A dll wm As cae Als Juin B T cells , __L_CeHs & o < = 8 & aCD2 T « an < -ost-Jun Fic .
+5 .
+JNK is activated in JCaM1.6s.83 and peripheral T cells following CD2 stimulation .
+J77 and JCaM1.6s .
+$ 3 cells ( A ) or freshly isolated peripheral T cells ( B ) were either unstimulated ( - ) or stimulated with either a combination of the anti-CD2 mAbs anti-T11 , plus anti-T11l , ; , ( @ « CD2 ) , the anti-CD8e mAb 2AD2A2 ( « CD3 ) , or PMA and cell lysates were immunoprecipitated with an antiserum specific for JNK .
+Subsequently , the immunoprecipitates were subjected to an in vitro kinase assay in the presence of a GST-Jun fusion protein as a substrate and analyzed on SDS-PAGE followed by autoradiography .
+The migra- tion position of the GST-Jun fusion protein is indicated by an arrow .
+induced JNK activation is significantly lower than CD2 induced JNK activation in JCaM1.6s.83 , whereas both pathways activate JNK in J77 to a comparable level ( Fig .
+5A ) .
+The average increase of JNK activity from three independent experiments following CD2 or CD3 stimulation compared with unstimulated cells is as follows : JCaM1.6s.83 : CD2 , 2.96 + 0.8 ; CD3 , 1.44 + 0.4 ; J77 : CD2 , 1.54 + 0.2 ; CD8 , 1.72 + 0.5-fold increase ( over background unstimulated controls as determined by scanning the autoradiographs on a PhosphorImager ) .
+Following CD2 Stimulation There Are Predominantly c-Jun/ c-Fos Heterodimers Binding to the AP-1 Consensus Site-The IL-2 promoter contains several binding sites for transcription factors which control IL-2 gene expression including AP-1 , NF- « B , NF-AT , and the CD28RE ( 50 , 53 ) .
+In the case of the AP-1 complex , the major kinase which serine phosphorylates Jun is JNK ( 52 ) .
+Since JNK is activated in JCaM1.6s.983 following CD2 stimulation ( Fig .
+5A ) , it was important to determine how this activation would affect AP-1 binding .
+As shown by EMSA ( elec-tromobility shift assay ) in Fig .
+6A , compared with CD3 stimulation , the CD2 induced Jun kinase activity in JCaM1.6s.83 is accompanied by enhanced expression and binding of AP-1 complexes to the AP-1 consensus site .
+This interaction of AP-1 proteins with the AP-1 consensus site double-stranded oligonucleotide is specific for AP-1 , as shown by competition experiments using an excess of unlabeled AP-1 oligonucleotide ( Fig .
+6B ) .
+In J77 , on the other hand , AP-1 complex binding is similar between 24253 CD2 and CD3 stimulation ( Fig .
+6A ) .
+The AP-1 complex consists of homo- or heterodimers of proteins of the Jun and Fos family ( 54 ) .
+It has been suggested that Jun/Fos heterodimers have a higher affinity for the AP-1 site and are more efficient in activating IL-2 gene expression ( 55 ) .
+The Jun family contains at least three members , c-Jun , JunB , and JunD , while the Fos family includes c-Fos , Fral , Fra2 , and FosB ( 51 , 53 ) .
+Following CD2 stimulation of JCaM1.6s.83 both homodimers and heterodimers appear to bind to the AP-1 consensus site as shown by supershift of the AP-1 proteins with the respective Abs specific for JunD , c-Jun , and c-Fos ( Fig .
+7 , A and B ) .
+These AP-1 complexes do not contain JunB ( data not shown ) , Fral , Fra2 , or FosB ( Fig .
+7B ) .
+Given that the supershift with anti-c-Jun and anti-c-Fos Abs results in a mobility shift of their respective complexes to the same position in the gel ( Fig .
+7A ) , we infer that c-Jun/c-Fos heterodimers are formed .
+In contrast , the different mobility of the complex in the supershift with anti-JunD Ab implies that JunD/JunD homodimers are present .
+CD3 stimulation is less efficient in AP-1 induction in JCaM1.6s.83 ( Fig .
+6A ) .
+Moreover , with anti-CD2 stimulation the AP-1 complex is supershifted to the greatest extent by anti-c-Fos mAb .
+In contrast , with anti-CD3 mAb stimulation anti-JunD mAb effects the greatest shift .
+These results imply that the AP-1 dimer is primarily a complex consisting of JunD/JunD homodimers following anti-CD3 stimulation ( Fig .
+7A ) .
+Although not shown , analysis of the other transcriptional factors involved in the regulation of IL-2 production including NF-AT , NF- « B , and Oct-1 ( 50 , 53 ) showed similar inducible nuclear protein binding profiles to the NF-AT , NF-B , or Oct-1 consensus site in JCaM1.6s.83 following CD2 or CD3 trigger-ing ; moreover , supershift analysis with Abs specific for c-Jun , JunD , or c-Fos revealed no difference in the composition of the complex binding to the NF-AT site upon either anti-CD2 or anti-CD3 stimulation .
+Similarly , Abs specific for the p50 or p65 subunit of the NF- « B complex did not indicate differential effects of these stimulatory pathways as judged by supershift analysis of nuclear proteins binding to the NK- « B consensus site ( data not shown ) .
+To determine if resting T cells would respond to CD2 stimulation similarly in terms of JNK activation and binding of AP-1 proteins , we performed corresponding experiments in freshly isolated peripheral T cells .
+JNK is activated via both CD2 and to a lesser extent , via CD3 ( Fig .
+5B ) , suggesting , as discussed below , an important role for the CD2 signaling pathway in T cell co-stimulation .
+In addition , CD2 but not CD3 stimulation also efficiently leads to the activation and binding of AP-1 proteins to the AP-1 consensus site ( Fig .
+6C ) .
+The Tyrosine Kinase Pyk2 Is Activated following Stimulation via CD2 in the Absence of p56 `` **-Recently , Pyk2 a tyrosine kinase homologous to the focal adhesion kinase ( FAK ) has been identified and linked to the JNK pathway , ( 39 ) .
+Pyk2 activation , like JNK activation , requires a strong Ca** signal such as that provided by CD2 stimulation in JCaM1L.6s.53 .
+We investigated the activation of Pyk2 in JeaM1.6s.83 following anti-CD2 or anti-CD3 mAb triggering by Western blot analysis and in vitro kinase assay .
+Pyk2 is phosphorylated in response to both CD2 and CD3 triggering ( Fig .
+8A ) , but activated only after CD2 stimulation as judged by in vitro autophosphorylation ( Fig .
+8C ) .
+Equivalent amounts of Pyk2 were precipitated as shown by sequential immunoblotting of the phosphotyrosine blot ( Fig .
+84 ) with a Pyk2-specific rabbit antiserum ( Fig .
+8B ) .
+DISCUSSION In this study , we identify a CD2 signaling pathway capable of inducing IL-2 production .
+Fig .
+9 offers a schematic view of p56 `` **-independent as well as -dependent 610Z '01 Aepy uo 4g wo ; popeoumog 24254 A AP-1 J77 I n oa c & o co © - w f O L3 B86 8 L § % & % f Wii Whig .
+- > > bad tatu tut anc ith dll !
+- ( : oligo B AP-1 JCaM1.6s .
+$ 3 ( - ) aCD2 aCD3 m- + al 100xNF-AT 100xNF-AT ( - ] 1 100xNF-AT ( - ] 100xAP-1 ( - ) 100xAP-1 < -AP-1 ® wo = __ Free oligo AP-1 T cells m a o © w - , A a © Z | O O Z « ~ o w 3 3 a < C < - AP- 4 __Free oligo Fic .
+6 .
+Analysis of nuclear proteins binding to the AP-1 consensus site in J77 and JCaM1.6 s.83 ( A and B ) or peripheral T p56 `` -independent CD2 Signaling CD2 activation pathways ( 87 , 39 , 56 , 57 ) .
+The latter is largely indistinguishable from the p56 `` **-dependent TCR pathway except that , unlike the TCR pathway , it is associated with weak CD37 and ZAPT7O0 phosphorylation .
+In JCaM1.6 cells , only the p56 `` *-independent CD2 pathway is operative and , in distinction to the TCR pathway , does not involve p56 `` ** , ZAP70 , or MAPK .
+Instead , CD2 triggering activates JNK followed by the binding of c-Jun/c-Fos heterodimers to the AP-1 consensus site .
+Prior studies of TCR-based signaling showed that , in the absence of p56 `` ** , TCR triggered signals were abrogated ( 42 ) .
+In contrast , as shown here , activation via CD2 in the p56 `` **-deficient Jurkat variant JCaM1.6s is not disrupted .
+CD2 stimulation leads to the tyrosine phosphorylation and activation of PLC-y1 , a strong rise in intracellular free Ca** levels , and subsequent production of IL-2 .
+Furthermore , CD2 signaling stimulates JNK , which leads to the activation of transcription factors of the Jun family .
+Phosphorylated c-Jun/c-Fos heterodimers bind to the AP-1 consensus site , leading to the induction of IL-2 transcription .
+Although CD2 signaling in T cells requires the presence of the CD3Z chain ( 27-31 ) , the precise molecular basis by which cell surface immunoreceptor tyrosine-based activation motif containing TCR subunits permit CD2 signaling remains uncer-tain .
+The functional involvement of the CD34 chain in T cells , and the stimulation of phosphatidylinositol turnover ( 46 , 58 ) shared by TCR and CD2 pathways indicates the usage of a common pathway following CD2 and TCR signaling .
+Indeed , a complex involving CD2 , p59 `` , and has been shown to exist in T lymphocytes ( 35 ) .
+Nevertheless , certain differences among the pathways are also evident .
+For example , T cell activation via CD2 , in contrast to via the TCR , is not associated with Syk phosphorylation and involves minimal if any phosphorylation of ZAP-70 or CD3 ( 25 , 27 , 59 ) .
+Additionally , the phosphorylation kinetics and cellular substrates are distinct in these two pathways ( 25 , 27 ) .
+Recently , the Tec family kinase ITK has been shown to be activated upon stimulation via CD2 ( 60 ) .
+This ITK activation requires the presence of functional p56 `` but is independent of the surface expression of CDSL ( 60 ) .
+Moreover , CD2 plays important roles in reversing anergy and augmenting IL-12 responsiveness ; neither activities are TCR regulated ( 15 , 17 ) .
+CD2 signaling is mediated by its proline-rich intracytoplasmic domain to which SH3 domains of non-receptor kinases can bind ( 23 , 33 ) .
+Recent studies indicate that p56 `` ** and p59 `` are able to bind to CD2 and hence are implicated in CD2 signaling ( 84 , 35 , 61 ) .
+p56 `` ** is present in thymocytes and mature T cells and is involved in signaling via the TCR ( 62 ) .
+T cells from mice bearing a disrupted p56 `` gene ( 63 ) , mutant Jurkat cells lacking functional p56hk ( JCaM1I.6 ) ( 42 ) , or CTLL-2 cells that lack p56 `` expression show defects in TCR-mediated responses ( 62 ) .
+Upon TCR stimulation p56 `` * associates with and phosphorylates ZAPT7O and it has been speculated that ZAPT7O may , therefore be , at least in part , responsible for bringing p56'** into the signaling complex ( 64 , 65 ) .
+Notwithstanding , other experiments employing mutant immunoreceptor tyrosine-based activation motif sequences demonstrate that p56 `` ** can cells ( C ) .
+A , nuclear extracts of J77 and JCaM1.6 s.88 cells either unstimulated ( - ) or stimulated with either a combination of the anti-CD2 mAbs anti-Tll , plus anti-T1l1 , ( aCD2 ) or the anti-CD8e mAb 2AD2A2 ( « CD8 ) were subjected to EMSAs with [ y- `` °P ] IATP-labeled oligonucleotides specific for the AP-1 consensus site .
+B , further analysis of JCaM1.6s.53 in the absence ( - ) or presence of either a specific ( 100-fold AP-1 ) or a nonspecific ( 100-fold NF-AT ) unlabeled competitor .
+The complexes were analyzed on 5.2 % gels followed by autoradiography .
+The migration position of the AP-1 complex ( arrow ) and the free oligo are indicated .
+C , equivalent EMSA analysis from peripheral T cells .
+610Z '01 Aepy uo 4g wo ; popeoumog p56 `` -independent CD2 Signaling AP-1 JCaM1.6s.S83 I 1 ( - ) a CD2 a CD3 I W h 1 & a c a [ = w LW as § 6,5 § ¢ T _ 0 `` o _ 0 ~ g _ 0 ~ o C = -- JunD < - c-Jun/c-Fos # “ ﬂaw “ a- » P Wis ® A mame - Free oligo AP-1 JCaM1.6s .
+$ 3 I I ( - ) aCD2 aCD3 I m ” 1 1 ~ BR qld wo lL lE IL G wo E L K G wo IL Ho lL O L 4 < -wo t wns we som Oh Au donk Ohh toe tand taut th taut ts - A- 1 Laik 4 ath , _ Free oligo Fic .
+7 .
+Supershift analysis of nuclear proteins of JCaM1.6s.83 binding to the AP-1 consensus site .
+JCaM1.6s.53 cells were unstimulated ( - ) or stimulated with either a combination of the anti-CD2 mAbs anti-Tl1 , plus anti-T11l , ( aCD2 ) or the anti-CD8e mAb 2AD2A2 ( aCD3 ) and nuclear extracts were subjected to EMSAs with labeled oligonucleotides specific for the AP-1 consensus site in the presence of Abs specific for members of the Jun family ( A ) or the Fos family ( B ) .
+The complexes were analyzed on 4 % gels followed by autoradiography .
+The migration position of the AP-1 complex , the supershifted complexes and the free oligo are indicated by arrows .
+associate with the TCR in the absence of ZAPT7O ( 66 ) .
+Nevertheless , p56 `` is thought to be responsible for the activation of ZAPT7O0 enzymatic function ( 48 , 65 ) .
+The tyrosine kinase ZAP70 is a key molecule in TCR signaling , but can in some systems be replaced by p72 Syk ( 67 , 68 ) .
+We and others ( 25 , 59 ) have shown that following CD2 stimulation ZAP70 is only weakly if at all tyrosine phosphorylated or activated in J77 .
+In JCaM1.6s no tyrosine phosphorylation or activation of ZAPT7O0 after either CD2 or CD3 triggering was 24255 JCaM1.6s.S3 [ ad co o a 1T Q Q e Y & A Pyk2 - » y- « s we apTyr WB B pyro » 4 wit dee oPyk2 } w Fic .
+8 .
+Pyk2 is activated following CD2 stimulation .
+JCaM1.6s.93 cells , either unstimulated ( - ) or stimulated for 3 min with either a combination of the anti-CD2 mAbs anti-Tl1l , plus anti-Tl1 ; ( aCD2 ) or the anti-CD8e mAb 2AD2A2 ( @ CD3 ) .
+Cell lysates were im-munoprecipitaed with Pyk2 Ab and were either subjected to sequential Western blot analysis with anti-phosphotyrosine-specific mAb 4G10 ( A ) and an antiserum specific for Pyk2 ( B ) or to in vitro kinase analysis ( C ) .
+The position of Pyk2 at ~120 kDa is indicated by an arrow .
+C Pyk2 - » som dlt ms observed ( Fig .
+3B and data not shown ) .
+Furthermore , JCaM1.6 and its parental Jurkat line E6 are deficient in Syk expression ( 69 ) and there is no evidence for the presence or phosphorylation of Syk in JCaM1L.6s ( data not shown ) .
+We , therefore , conclude that in JCaM1.6s , CD2-triggered IL-2 production does not involve tyrosine kinases of the Syk family .
+Events downstream of protein-tyrosine kinase activation include the tyrosine phosphorylation and activation of PLC-y1 , which then leads to an increase in intracellular free Ca** concentrations via the generation of inositol trisphosphate ( 70 ) .
+In p56** expressing T cells , TCR stimulation is followed by an initial high transient Ca** `` peak and a lower amplitude but sustained plateau phase ( 41 , 44 , 46 ) .
+The initial rise of Ca** is caused by the inositol trisphosphate-mediated release of Ca** from the endoplasmatic reticulum ( 45 ) but is not sufficient for proliferation or IL-2 gene expression ( 41 , 71 ) .
+Rather the prolonged elevation of intracellular Ca* `` * due to the Ca** influx from extracellular sources is the critical component of the Ca** signal ( 41 , 71 ) .
+The mechanism by which Ca** enters T cells from extracellular stores in not well understood ( 72 ) .
+However , in JCaM1.6s , anti-CD3 stimulation leads only to a short duration Ca** increase in the absence of a sustained high Ca** rise , suggesting that p56 `` * is involved , either directly or indirectly , in TCR-mediated Ca** influx from extracellular stores .
+Inositol trisphosphate is generated by hydrolysis of phosphatidylinositol bisphosphate by PLC-y1 .
+As reported previously , JCaM1.6 cells fail to show production of inositol phosphates after TCR triggering ( 73 ) .
+Consistent with this finding , PLC-y1 , whose catalytic activity is strongly enhanced by tyrosine phosphorylation ( 74 ) , is only weakly phosphorylated upon TCR triggering in JCaM1L.6s ( Fig .
+2B ) .
+In contrast to CD3 stimulation , CD2 stimulation leads to a clear tyrosine phosphorylation of PLC-y1 ( Fig .
+2B ) and to a strong and long lasting rise in intracellular free Ca** levels in JCaM1.6s ( Fig .
+24 ) .
+Although Hubert et al .
+( 59 ) failed to detect anti-CD2 mAb induced PLCy phosphorylation in JCaM1 cells , a difference in the surface expression of CD3 and CD2 on JCaM1 versus the sorted JCaM1.6s cells herein may explain this discrepancy .
+TCR stimulation events downstream of ZAP7O0 include She phosphorylation , the activation of Sos , and subsequently of Ras leading to the activation of the MAPK pathway and finally to IL-2 production ( 56 ) .
+This tyrosine kinase activation following TCR engagement has been shown to be dependent on the presence of functional p56 `` ( 36 ) .
+Surprisingly , therefore , we observed that although the MAPK pathway is non-functional after CD2 stimulation as well as CD3 stimulation in JCaM1.6s.83 , the ability of CD2 mAbs to induce IL-2 produc- 610Z '01 Aepy uo 4g wo ; popeoumog 24256 Fic .
+9 .
+Signal transduction via CD2 .
+p56 `` **-dependent and independent activation pathways following CD2 stimulation are based on prior results ( 87 , 39 , 56 , 57 , 75 ) and the current studies .
+In JCaM1L.6 , only the p56** independent signal transduction pathway is functional leading via JNK and subsequent c-Jun activation to the binding of the AP-1 complex to the IL-2 promoter and the initiation of IL-2 transcription .
+Both pathways apparently activate PLC-y1 leading to the generation of a rise in intracellular free Ca** , resulting in a calmodulin-dependent activation of calcineurin .
+The latter dephosphory-lates NF-AT resulting in its nuclear translocation .
+tion was not compromised .
+These observations strongly indicate that CD2 stimulation can activate signaling pathways distinct from CD3 stimulation .
+Pyk2 was recently identified as a tyrosine kinase , which is involved in Jun kinase activation and associates with the adapter protein Grb2 ( 39 ) .
+By forming a complex containing Pyk2 and the GDP-GTP exchange factor Vav ( 75 ) , Grb2 can link Pyk2 to the GTP-binding protein Rac , whose activation finally leads to the activation of JNK ( 57 ) .
+In our study , we show that , following both CD2 and CD3 stimulation , Pyk2 is tyrosine phosphorylated in JCaM1.6s.83 cells , but only CD2 triggering activates Pyk2 enzymatically , providing a possible link to a stimulation pathway which leads to JNK activation .
+JNK is important in the regulation of the IL-2 promoter since JNK activation correlates with IL-2 production ( 88 , 51 , 52 , 76 ) .
+IL-2 promoter regulation involves several transcription factors some of which are JNK sensitive ( 50 , 51 , 77-80 ) .
+The AP-1 transcription factor can bind to the IL-2 promoter either directly at the AP-1 site ( 81 , 82 ) or together with NF-AT or Oct at their respective binding sites ( 83-86 ) .
+The AP-1 complex is composed of proteins of the Jun and Fos family ( 51 ) .
+JNK , a Ca* `` *-sensitive serine/threonine kinase of the MAP kinase fam-ily , is critically involved in the post-transcriptional stimulation of AP-1 activity by phosphorylating the activation domain of c-Jun .
+Su et al .
+( 38 ) reported that two signals are necessary to efficiently activate JNK , including different combinations of A23187 , TPA , anti-CD3 mAb , or anti-CD28 mAb .
+This dual activation requirement and the reported Ca** sensitivity distinguishes JNK from other members of the MAPK/JNK family .
+The involvement of CD2 stimulation in the activation of JNK has not yet been previously investigated .
+In both J77 and JCaM1.6s.983 , JNK is activated following stimulation via CD2 ( Fig .
+5A ) , suggesting that CD2 utilizes a p56** independent pathway which leads to the activation of JNK .
+The strong and long lasting Ca** mobilization observed in JCaM1.6s.83 following CD2 stimulation might sensitize JNK to p56 `` ** independent signals involved in JNK activation ( 38 ) .
+Furthermore , in the absence of p56 `` ** , anti-CD2 stimulation is accompanied by the enhanced binding of the c-Jun/c-Fos heterodimers to the consensus AP-1 sequence leading to IL-2 production .
+A previous study performed by stimulating Jurkat cells with superantigen pulsed HLA-DR transfectants revealed differences in the composition of the NF-AT-AP-1 complexes following costimulation with either -- ~4e @ __- @ _ tan Near ] [ Ne 3 fossng [ ara ] [ oot | ___ ) p56 `` -independent CD2 Signaling SIGNAL TRANSDUCTION VIA CD2 CD2 CD2 ploy ver R PIP , ZN ca pag - IPs ®GEEB£ | } ® Y PKC < - Cat [ Be ] + CALMODULIN } caLciNEuRrIN NFATP x `` JNK NF-AT SRE | [ nee | | ar net IL-2 Promoter __ *======== > » > IL ' 2 LFA-3 or B7 ( 87 ) .
+These differences were due to the dimerization of JunD with different members of the Fos family ( Fral and Fra2 ) , indicating a selective induction of certain nuclear factors depending on the costimulatory pathway .
+In our current study , we observed no significant difference in the binding of nuclear proteins to the NF-AT consensus site upon anti-CD2 versus anti-CD3 stimulated JCaM1.6s.83 .
+Since the MAPK pathway , known to be involved in Fos transcription , is non-functional in JCaM1.6 , the lack of Fral and Fra2 Fos family members complexed to the AP-1 site in JCaM1.6s.83 is perhaps not unexpected .
+In addition , the coordinate action of TCR engagement and the B7 versus LFA-3 costimulatory signal could differentially induce Fos family proteins .
+In the study by Parra et al .
+( 87 ) , AP-1 and NF-kB complexes binding to their respective site in the IL-2 promoter revealed no differences after either type of costimulation .
+By stimulation via CD2 alone , we found not only JunD but also c-Jun induced and heterodimerizing with c-Fos in JCaM1.6s.83 ( Fig .
+7A ) .
+Since the AP-1 site in the IL-2 promoter is a relatively low affinity site ( 83 ) , Fos-Jun heterodimers , which are more effective in DNA binding and transactivation ( 55 ) , might be required for optimal activity .
+Additionally , c-Jun and c-Fos in contrast to JunB , Fral , and Fra2 are more efficient transactivators ( 55 , 88 , 89 ) .
+The function of JunD in IL-2 gene transcription is not defined yet .
+Anergy , a state of T cell unresponsiveness to antigenic chal-lenge , which is induced by TCR stimulation in the absence of the CD28 costimulatory signal ( 90 ) , is accompanied by preferential induction of the inhibitory p50-p50 NF- « B homodimer and a reduced binding of AP-1 to the IL-2 promoter ( 91 , 92 ) .
+Recently , it was shown in an alloreactive system that alloantigen stimulation induced T cell anergy can be reversed in those cells after culture in IL-2 for 7 days only by costimulation with CD58 ( 17 ) .
+This ability of CD2 stimulation to reverse anergy is unique and distinct from costimulatory molecules such as CD28 ( 17 ) .
+Our observation that CD2 stimulation can activate JNK and leads to the induction and binding of c-Jun/ c-Fos heterodimers to the AP-1 site might provide a basis for the role CD2 plays in regulating anergy .
+This possibly remains to be investigated in anergized T cells .
+The data presented in this study provide evidence for a CD2 signaling pathway distinct from that of the TCR and capable of inducing IL-2 production in the absence of p56 `` ** .
+This CD2 stimulation induced signaling cascade does not involve either 610Z '01 Aepy uo 4g wo ; popeoumog p56 `` -independent CD2 Signaling 24257 p56 `` or ZAP70 , key molecules in T cell activation via the TCR , and can also be initiated by CD2 triggering in peripheral T cells .
+CD2 activates Pyk2 and undoubtedly other kinases , and subsequently stimulates JNK independent of p56 `` ** .
+The precise definition of the intermediate steps in this activation cascade will now be of interest to determine .
+Acknowledgments-We thank Drs .
+A. Rao and T. Roberts for careful review of the manuscript .
+REFERENCES 1 .
+Howard , F. D. , Ledbetter , J .
+A. , Wong , J. , Bieber , C. P. , Stinson , E. B. , and Herzenberg , L. A .
+( 1981 ) J. Immunol .
+126 , 2117-2122 2 .
+Kamoun , M. , Martin , P. J. , Hansen , J .
+A. , Brown , M. A. , Siadak , A. W. , and Nowinski , R. C. ( 1981 ) J. Exp .
+Med .
+152 , 207-212 3 .
+Rodewald , H. R. , Awad , K. , Moingeon , P. , D'Adamio , L. , Rabinowitz , D. , Shinkai , Y. , Alt , F. W. , and Reinherz , E. L. ( 1998 ) J. Exp .
+Med .
+177 , 1079-1092 4 .
+Selvaraj , P. , Plunkett , M. L. , Dustin , M. , Sanders , M. E. , Shaw , S. , and Springer , T. A .
+( 1987 ) Nature 826 , 400-403 5 .
+Krensky , A. M. , Sanchez-Madrid , F. , Robbins , E. , Nagy , J .
+A. , Springer , T. A. , and Burakoff , S. J .
+( 1983 ) J. Immunol .
+181 , 611-616 .
+Dustin , M. L. , and Springer , T. A .
+( 1989 ) Nature 841 , 619-624 .
+Moingeon , P. E. , Lucich , J. L. , Stebbins , C. C. , Recny , M. A. , Wallner , B. P. , Koyasu , S. , and Reinherz , E. L. ( 1991 ) Eur .
+J. Immunol .
+21 , 605-610 8 .
+Moingeon , P. , Chang , H. C. , Sayre , P. H. , Clayton , L. K. , Alcover , A. , Gardner , P. , and Reinherz , E. L. ( 19892 ) Immunol .
+Rev .
+111 , 111-144 9 .
+Moingeon , P. , Chang , H. C. , Wallner , B. P. , Stebbins , C. , Frey , A .
+Z. , and Reinherz , E. L. ( 1989 ) Nature 889 , 312-314 10 .
+Koyasu , S. , Lawton , T. , Novick , D. , Reeny , M. A. , Siliciano , R. F. , Wallner , B. P. , and Reinherz , E. L. ( 1990 ) Proc .
+Nafl .
+Acad .
+Sci .
+U. S. A .
+87 , 2603-2607 11 .
+Meuer , S. C. , Hussey , R. E. , Fabbi , M. , Fox , D. , Acuto , O. , Fitzgerald , K. A. , Hodgdon , J. C. , Protentis , J. P. , Schlossman , S. F. , and Reinherz , E. L. ( 1984 ) Cell 36 , 897-906 12 .
+Brottier , P. , Boumsell , L. , Gelin , C. , and Bernard , A .
+( 1985 ) J. Immunol .
+135 , 1624-1631 13 .
+Siliciano , R. F. , Pratt , J. C. , Schmidt , R. E. , Ritz , J. , and Reinherz , E. L. ( 1985 ) Nature 817 , 428-430 14 .
+Li , J. , Smolyar , A. , Sunder-Plassmann , R. , and Reinherz , E. L. ( 1996 ) J. Mol .
+Biol .
+268 , 209-226 15 .
+Gollob , J .
+A. , Li , J. , Kawasaki , H. , Daley , J. F. , Groves , C. , Reinherz , E. L. , and Ritz , J .
+( 1996 ) J. Immunol .
+157 , 1886-1898 16 .
+Gollob , J .
+A. , Li , J. , Reinherz , E. L. , and Ritz , J .
+( 1995 ) J. Exp .
+Med .
+182 , T2l-731 17 .
+Boussictis , V. A. , Freeman , G. J. , Griffin , J. D. , Gray , G. S. , Gribben , J. G. , and Nadler , L. M. ( 1994 ) J. Exp .
+Med .
+180 , 1665-1678 18 .
+He , Q. , Beyers , A. D. , Barclay , A. N. , and Williams , A. F. ( 1988 ) Cell 54 , 979-984 19 .
+Chang , H. C. , Moingeon , P. , Lopez , P. , Krasnow , H. , Stebbins , C. , and Reinherz , E. L. ( 1989 ) J. Exp .
+Med .
+169 , 2073-2083 20 .
+Bierer , B. E. , Bogart , R. E. , and Burakoff , S. J .
+( 1990 ) J. Immunol .
+144 , 785-789 21 .
+Brown , M. H. , Sewell , W. A. , Mason , D. Y. , Rothbard , J .
+B. , and Crumpton , M. J .
+( 1988 ) Eur .
+J. Immunol .
+18 , 12283-1227 22 .
+Clayton , L. K. , Ramachandran , H. , Pravtcheva , D. , Chen , Y. F. , Diamond , D. J. , Ruddle , F. H. , and Reinherz , E. L. ( 1988 ) J. Immunol .
+140 , 8617-3621 23 .
+Pawson , T. , and Gish , G. D. ( 1992 ) Cell 71 , 359-362 24 .
+Cohen , G. B. , Ren , R. , and Baltimore , D. ( 1995 ) Cell 80 , 237-248 25 .
+Jin , Y. J. , Kaplan , D. R. , White , M. , Spagnoli , G. C. , Roberts , T. M. , and Reinherz , E. L. ( 1990 ) J. Immunol .
+144 , 647-652 26 .
+Ley , S. C. , Davies , A .
+A. , Druker , B. , and Crumpton , M. J .
+( 1991 ) Eur .
+J. Immunol .
+21 , 2208-2209 27 .
+Howard , F. D. , Moingeon , P. , Moebius , U. , McConkey , D. J. , Yandava , B. , Gennert , T. E. , and Reinherz , E. L. ( 1992 ) J. Exp .
+Med .
+176 , 139-145 28 .
+Breitmeyer , J .
+B. , Daley , J. F. , Levine , H. B. , and Schlossman , S. F. ( 1987 ) J. Immunol .
+189 , 2899-2905 29 .
+Alcover , A. , Alberini , C. , Acuto , O. , Clayton , L. K. , Transy , C. , Spagnoli , G. C. , Moingeon , P. , Lopez , P. , and Reinherz , E. L. ( 1988 ) EMBO J .
+7 , 1973-1977 30 .
+Bockenstedt , L. K. , Goldsmith , M. A. , Dustin , M. , Olive , D. , Springer , T. A. , and Weiss , A .
+( 1988 ) J. Immunol .
+141 , 1904-1911 31 .
+Moingeon , P. , Lucich , J. L. , McConkey , D. J. , Letourneur , F. , Malissen , B. , Kochan , J. , Chang , H. C. , Rodewald , H. R. , and Reinherz , E. L. ( 1992 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+89 , 1492-1496 32 .
+Arulanandam , A. R. N. , Koyasu , S. , and Reinherz , E. L. ( 1991 ) J. Exp .
+Med .
+178 , 859-868 83 .
+Chang , H. C. , Moingeon , P. , Pedersen , R. , Lucich , J. , Stebbins , C. , and Reinherz , E. L. ( 1990 ) J. Exp .
+Med .
+172 , 851-355 34 .
+Bell , G. M. , Fargnoli , J. , Bolen , J .
+B. , Kish , L. , and Imboden , J .
+B .
+( 1996 ) J. Exp .
+Med .
+188 , 169-178 35 .
+Gassmann , M. , Amrein , K. E. , Flint , N. A. , Schraven , B. , and Burn , P. ( 1994 ) Eur .
+J. Immunol .
+24 , 189-144 36 .
+Gupta , S. , Weiss , A. , Kumar , G. , Wang , S. , and Nel , A .
+( 1994 ) J. Biol .
+Chem .
+269 , 17349-17357 37 .
+Hunter , T. , and Karin , M. ( 1992 ) Cell 70 , 875-378 38 .
+Su , B. , Jacinto , E. , Hibi , M. , Kallunki , T. , Karin , M. , and Ben-Neriah , Y .
+( 1994 ) Cell 77 , 727-736 39 .
+Tokiwa , G. , Dikic , I. , Lev , S. , and Schlessinger , J .
+( 1996 ) Science 278 , 792-794 40 .
+Quian , D. , Lev , S. , van-Oers , N. S. C. , Dikic , I. , Schlessinger , J. , and Weiss , A .
+( 1997 ) J. Exp .
+Med .
+185 , 1258-1259 41 .
+Weiss , M. J. , Daley , J. F. , Hodgdon , J. C. , and Reinherz , E. L. ( 1984 ) Proc .
+Naf .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 : Cantrell , D. ( 1996 ) Annu .
+Rev .
+Immunol .
+14 , 259-274 57 .
+58 .
+59 .
+60 .
+61 .
+62 .
+63 .
+64 .
+65 .
+66 .
+67 .
+68 .
+69 .
+70 .
+TL .
+72 .
+73 .
+74 .
+75 .
+76 .
+77 .
+78 .
+79 .
+80. .
+Muegge , K. , Williams , T. M. , Kant , J. , Karin , M. , Chiu , R. , Schmidt , A. , 82 .
+83 .
+84 .
+85 .
+86 .
+87 .
+88 .
+89 .
+90 .
+91 .
+92 .
+Acad .
+Sci .
+U. S. A .
+81 , 6836-6840 Straus , D. , and Weiss , A .
+( 1992 ) Cell 70 , 585-598 Koyasu , S. , Tse , A. G. D. , Moingeon , P. , Hussey , R. E. , Mildonian , A. , Hannisian , J. , Clayton , L. K. , and Reinherz , E. L. ( 1994 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+91 , 6693-6697 Alcover , A. , Weiss , M. J. , Daley , J. F. , and Reinherz , E. L. ( 1986 ) Proc .
+Naf .
+Acad .
+Sci .
+U. S. A .
+88 , 2614-2618 Berridge , M. J. , and Irvine , R. F. ( 1989 ) Nature 841 , 197-325 Imboden , J .
+B. , and Stobo , J. D. ( 1985 ) J. Exp .
+Med .
+161 , 446 Weiss , A. , and Littman , D. R. ( 1994 ) Cell 76 , 263-274 Fischer , S. , Marie-Cardine , A. , Ramos-Morales , F. , Bougeret , C. , Soula , M. , Maridonneau-Parini , L , and Benarous , R. ( 1994 ) Cell .
+Mol .
+Biol .
+40 , 605-609 Izquierdo , P. M. , Reif , K. , and Cantrell , D. ( 1995 ) Immunol .
+Today 16 , 159-164 Crabtree , G. R. ( 1989 ) Science 248 , 855-361 Angel , P. , and Karin , M. ( 1991 ) Biochim .
+Biophys .
+Acta 1072 , 129-157 Hibi , M. , Lin , A. , Smeal , T. , Minden , A. , and Karin , M. ( 1993 ) Genes Dev .
+7 , 2135-2148 Jain , J. , Lob , C. , and Rao , A .
+( 1995 ) Curr .
+Opin .
+Immunol .
+7 , 383-8342 Jain , J. , McCaffrey , P. G. , Valge-Archer , V. E. , and Rao , A .
+( 1992 ) Nature 856 , 801-804 Ryseck , R.-P. , and Bravo , R. ( 1991 ) Oncogene 6 , 538-542 Crespo , P. , Bustelo , X. R. , Aaronson , D. S. , Coso , O .
+A. , Lopez-Barahona , M. , Barbacid , M. , and Gutkind , J. S. ( 1996 ) Oncogene 18 , 455-460 Pantaleo , G. , Olive , D. , Poggi , A. , Kozumbo , W. J. , Moretta , L. , and Moretta , A .
+( 1987 ) Eur .
+J. Immunol .
+17 , 55-60 Hubert , P. , Lang , V. , Debre , P. , and Bismuth , G. ( 1996 ) J. Immunol .
+157 , 4322-4332 King , P. D. , Sadra , A. , Han , A. , Liu , X.-R. , Sunder-Plassmann , R. , Reinherz , E. L. , and Dupont , B .
+( 1996 ) Int .
+Immunol .
+8 , 1707-1714 Bell , G. M. , Bolen , J .
+B. , and Imboden , J .
+B .
+( 1992 ) Mol .
+Cell .
+Biol .
+12 , 5548-5554 Anderson , S. J. , Levin , S. D. , and Perlmutter , R. M. ( 1994 ) Adv .
+Immunol .
+56 , 151-178 Molina , T. J. , Kishira , K. , Siderovski , D. P. , van-Ewijk , W. , Narendran , A. , Timms , E. , Wakeham , A. , Paige , C. J. , Hartmann , K.-U .
+, Veillette , A. , Davidson , D. , and Mak , T. W. ( 1992 ) Nature 857 , 161-164 Iwashima , M. , Irving , B .
+A. , van-Oers , N. S. C. , Chan , A. C. , and Weiss , A .
+( 1994 ) Science 268 , 1186-1139 van-Oers , N. S. C. , Killeen , N. , and Weiss , A .
+( 1996 ) J. Exp .
+Med .
+183 , 1053-1062 Sunder-Plassmann , R. , Lialios , F. , Madsen , M. , Koyasu , S. , and Reinherz , E. L. ( 1997 ) Eur .
+J. Immunol .
+27 , 2001-2009 Burkhardt , A. L. , Stealey , B. , Rowley , R. B. , Mahajan , S. , Prendergast , M. , Fargnoli , J. , and Bolen , J .
+B .
+( 1994 ) J. Biol .
+Chem .
+269 , 23642-24647 Latour , S. , Chow , L. M. L. , and Veillette , A .
+( 1996 ) J. Biol .
+Chem .
+271 , 22782-22790 Fargnoli , J. , Burkhardt , A. L. , Laverty , M. , Kut , S. A. , van-Oers , N. S. C. , Weiss , A. , and Bolen , J .
+B .
+( 1995 ) J. Biol .
+Chem .
+270 , 26533-26537 Wange , R. L. , and Samelson , L. E. ( 1996 ) Immunity 5 , 197-205 Gelfand , E. W. , Cheung , R. K. , Mills , G. B. , and Grinstein , S. ( 1988 ) Eur .
+J. Immunol .
+18 , 917-922 Gardner , P. , Alcover , A. , Kuno , M. , Moingeon , P. , Weyand , C. M. , Goronzy , J. , and Reinherz , E. L. ( 1989 ) J. Biol .
+Chem .
+264 , 1068-1076 Goldsmith , M. A. , and Weiss , A .
+( 1987 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+84 , 6879-6883 Nishibe , S. , Wahl , M. I. , Hernandez-Sotomayor , S. M. T. , Tonks , N. K. , Rhee , S. G. , and Carpenter , G. ( 1990 ) Science 250 , 1253-1256 Ramos-Morales , F. , Druker , B. J. , and Fischer , S. ( 1994 ) Oncogene 9 , 1917-1928 Derjjard , B. , Hibi , M. , Wu , I .
+-H. , Barrett , T. , Su , B. , Deng , T. , Karin , M. , and Davis , R. J .
+( 1994 ) Cell 76 , 1025-1037 Durand , D. B. , Shaw , J. P. , Bush , M. R. , Replogle , R. E. , Balgaje , R. , and Crabtree , G. R. ( 1988 ) Mol .
+Cell .
+Biol .
+8 , 1715-1724 Kamps , M. P. , Corcoran , L. , LeBowitz , J. H. , and Baltimore , D. ( 1990 ) Mol .
+Cell .
+Biol .
+10 , 5464-5472 Fraser , J. D. , Irvine , B .
+A. , Crabtree , G. R. , and Weiss , A .
+( 1991 ) Science 251 , 313-316 Granelli-Piperno , A. , and Nolan , P. ( 1991 ) J. Immunol .
+147 , 2734-2739 Siebenlist , U. , Young , H. A. , and Durum , S. K. ( 1989 ) Science 246 , 249-251 Serfling , E. , Barthelmaes , R. , Pfeuffer , L. , Schenk , B. , Zarius , S. , Swoboda , R. , Mercurio , F. , and Karin , M. ( 1989 ) EMBO J .
+8 , 465-473 Jain , J. , Valge-Archer , V. E. , and Rao , A .
+( 1992 ) J. Immunol .
+148 , 1240-1250 Ullman , K. , Northrop , J. , Admon , A. , and Crabtree , G. ( 1993 ) Genes Dev .
+7 , 188-196 DeGrazia , U. , Felli , M. P. , Vacca , A. , Farina , A. R. , Maroder , M. , Cappabianca , L. , Meco , D. , Farina , M. , Screpanti , L. , Frati , L. , and Gulino , A .
+( 1994 ) J. Exp .
+Med .
+180 , 1485-1497 Northrop , J. P. , Ho , S. N. , Chen , L. , Thomas , D. J. , Timmerman , L. A. , Nolan , G. P. , Admon , A. , and Crabtree , G. R. ( 1994 ) Nature 869 , 497-502 Parra , E. , Varga , M. , Hedlund , G. , Kalland , T. , and Dohlsten , M. ( 1997 ) Mol .
+Cell .
+Biol .
+17 , 1814-1828 Chiu , R. , Angel , P. , and Karin , M. ( 1989 ) Cell 59 , 979-986 Suzuki , T. , Okuno , H. , Yoshida , T. , Endo , T. , Nishina , H. , and Iba , H. ( 1991 ) Nucleic Acids Res .
+19 , 5587-5542 Schwartz , R. H. ( 1990 ) Science 248 , 1349-1356 Kang , S. M. , Bart , B. , Tran , A. C. , Brorson , K. , Schwartz , R. H. , and Lenardo , M. J .
+( 1992 ) Science 257 , 1184-1138 Sundstedt , A. , Sigvardsson , M. , Leanderson , T. , Hedlund , G. , Kalland , T. , and Dohlsten , M. ( 1996 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+98 , 979-984 610Z '01 Aepy uo 4g wo ; popeoumog A p56 Ick -independent Pathway of CD2 Signaling Involves Jun Kinase Raute Sunder-Plassmann and Ellis L. Reinherz J. Biol .
+Chem .
+1998 , 273:24249-24257. doi : 10.1074/jb0.273.37.24249 Access the most updated version of this article at http : /www.jbe.org/content/273/37/24249 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 92 references , 50 of which can be accessed free at http : //www .
+full.html # ref-list-1 610Z '01 Aepy uo 4g wo ; popeoumog

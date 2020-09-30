@@ -1,0 +1,371 @@
+THE JourNaL or BroLocICaL CHEMISTRY © 1995 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+270 , No .
+11 , Issue of March 17 , pp .
+6396-6402 , 1995 Printed in U.S.A. Mapping of the Interaction Site of the Defective Transcription Factor in the Class II Major Histocompatibility Complex Mutant Cell Line Clone-13 to the Divergent X2-Box* ( Received for publication , October 13 , 1994 , and in revised form , December 19 , 1994 ) Santa Jeremy Ono # § ?
+|** and Zhimin Songt From the { Department of Medicine and the Lucille P. Markey Graduate Program in Cellular and Molecular Medicine , The Johns Hopkins University School of Medicine , Baltimore , Maryland 21224 , the §Department of Molecular Microbiology and Immunology , The Johns Hopkins University School of Public Health , Baltimore , Maryland 21205 , and the [ Department of Biology , The Johns Hopkins University , Baltimore , Maryland 21218 We have previously described a mutant B lymphoblas-toid cell line , Clone-13 , that expresses HLA-DQ in the absence of HLA-DR and -DP .
+Several criteria indicated that the defect in this cell line influences the activity of an isotype-specific transcription factor .
+Indeed , transient transfection of HLA-DRA and DQB reporter constructs indicated that the affected factor operates via cis-elements located between -141 base pairs and the transcription initiation site .
+A series of hybrid DRA/ DQB reporter constructs was generated to further map the relevant cis-elements in this system .
+Insertion of oligonucleotides spanning the DQB X-box ( but not the DQB-W region or the DQB Y-box ) upstream of -141 in a DRA reporter plasmid rescued expression to nearly wild-type levels .
+Substitution promoters were then generated where the entire X-box , or only the X1- or X2-boxes of HLA-DRA were replaced with the analogous regions of HLA-DQB .
+The DQB X2-box was able to restore expression to the silent DRA reporter construct .
+Moreover , replacement of the DQB X2-box with the DRA X2-box markedly diminished the activity of the DQB promoter in the mutant cell .
+None of the hybrid reporter constructs were defective when transfected into the wild-type , HLA-DR/-DQ positive parental cell line , Jijoye .
+These studies suggest that the divergent X2-box of the class II major histocompatibility complex promoters plays an important role in influencing differential expression of the human class II isotypes .
+The class II molecules of the major histocompatibility complex ( MHC ) ® present processed peptides derived from exoge-nous antigen to CD4-positive helper T cells ( 1 ) .
+The human genome encodes three functional isotypic forms of these molecules ( HLA-DR , -DQ , and -DP ) , each of which is a disulfide-linked heterodimer of two transmembrane glycoproteins : an acidic a chain and a B chain .
+The genes encoding these polypeptides are clustered in discrete loci in the 1 megabase HLA-D * This work was supported by grants from the American Diabetes Association , the Arthritis Foundation , the Howard Hughes Medical Institute , Hoffmann-LaRoche , the National Institutes of Health , and The Johns Hopkins University ( to S. J .
+O . )
+.
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 U.S.C .
+Section 1734 solely to indicate this fact .
+** To whom correspondence should be addressed : The Johns Hopkins University School of Medicine , 5501 Hopkins Bayview Cir .
+, Rm .
+24.38 , Baltimore , Maryland 21224 .
+Tel .
+: 410-550-2066 ; Fax : 410-550-2090 .
+* The abbreviations used are : MHC , major histocompatibility com-plex ; BLS , bare lymphocyte syndrome ; CAT , chloramphenicol acetyl-transferase ; PCR , polymerase chain reaction ; EMSA , electrophoretic mobility shift assay .
+region on the short arm of chromosome 6 ( 2 ) .
+Unlike the related class I MHC molecules , which bind and present peptide antigen to cytotoxic T cells , class II MHC molecules are expressed only on a limited number of cell types such as dendritic cells , B cells , macrophages , and activated T cells , and the expression on these cell types is developmentally regulated ( 3 ) .
+The expression of the class II molecules can also be induced on normally class II-negative cells by specific cytokines such as interferon-y or interleukin-4 ( 4 ) .
+These induction pathways are probably operating at sites of active immune response , where de novo expression of the class II molecules is frequently observed .
+De novo expression of class I1 molecules is also observed at target sites in organ-specific autoimmune disease , and it has been hypothesized that this might trigger or exacerbate the disease by presentation of tissue-specific antigen to helper T cells ( 5 ) .
+In contrast , hereditary MHC class II deficiency , also called bare lymphocyte syndrome ( BLS ) results from the complete lack of expression of class II MHC molecules ( 6 ) .
+Patients afflicted with this autosomal recessive disease are prone to multiple infections and usually die during childhood .
+The potential association of these two types of disorders with aberrant class II MHC gene expression have prompted an intense analysis of the regulatory elements and transcription factors that control the proper expression of these genes ( 7 ) .
+The regulation of the class II MHC genes is mainly transcrip-tional , and all of the class II proximal promoters studied to date contain highly conserved elements referred to as the X- and Y-boxes ( 3 ) .
+A number of DNA-binding proteins that interact with these and other less conserved sequences have been iden-tified , and complementary DNAs encoding some of the factors have been molecularly cloned ( 4 ) .
+The regulatory roles of the individual recombinant proteins encoded by the cDNAs have been investigated via cotransfection or in vitro transcription and have been found to encode both activators and repressors of class II gene transcription ( 5-13 ) .
+While the different class II isotypes HLA-DR , -DQ , and -DP are usually coordinately expressed , there is now abundant evidence that differential regulation of the class II genes occurs in particular cell types and in response to various stimuli ( 4 , 14 , 15 ) .
+Such differential regulation could result either from the use of different transcription factors or from mechanisms that would selectively inhibit the interaction of shared transcription factors with a subset of the class II gene promoters .
+A priori , both mechanisms appear to be feasible .
+The genes encoding the a and B chain polypeptides of each isotype are located in distinct physically separate loci ( approximately 350 kilobases separate the DP and DQ loci and approximately 100 kilobases separate the DQ and DR loci ) , which could easily accommodate distinct chromatin structures at each locus , resulting in differ 6396 X2-Box Control of Isotype Specificity of MHC Class II Genes ential accessibility of shared transcription factors .
+On the other hand , although the different class II genes share highly conserved X- and Y-box elements , the nucleotide sequence of intervening and surrounding regions of the proximal promoter diverge significantly .
+Therefore , there is ample opportunity for differential binding of specific transcription factors to the various class II promoters .
+Moreover , these two potential control mechanisms for differential expression are not necessarily mutually exclusive .
+We have previously described a mutant cell line , Clone-13 , that expresses HLA-DQ in the absence of HLA-DR and -DP ( 16 ) .
+Using a variety of criteria , the differential expression of isotypes in this cell line was shown to result from a defect in ( or operating through ) a trans-acting factor since the transcriptionally silent genes in this cell line could be reactivated upon interspecific fusion with a MHC class II positive murine cell line .
+Transient transfection assays also indicated that the defective factor operated through the proximal promoter ( be-tween -141 base pairs and the transcription initiation site ) .
+To further study the molecular basis of defective transcription of a subset of the human class II MHC genes in this cell line , we have more precisely mapped the cis-elements that mediate this defect using a series of hybrid promoter constructs between the transcriptionally competent HLA-DQB gene and the transcriptionally silent HLA-DRA gene .
+The data indicate that the divergent X2-box found immediately 3 ' of the consensus X1-box mediates the isotype-specific defect in this cell line and provides further evidence that this element may play a major role in determining the isotype-specific expression observed in vivo .
+MATERIALS AND METHODS Cell Lines-Raji ( ATCC CCL86 ) , RJ2.2.5 , 6.1.6 , BLS-1 , Clone-13 , TF , Jurkat , JY , and Jijoye cells were all maintained in RPMI 1640 supplemented with 10 % heat-inactivated fetal calf serum , 20 mM Hepes , 5 x 103 units/100 ml penicillin and streptomycin , 2 mM glutamine , and 1 mM sodium pyruvate .
+The cells were split 1:5 every 3 days .
+HeLa cells ( ATCC CCL2 ) were maintained in Dulbecco 's modified Eagle 's medium containing 10 % fetal calf serum and penicillin/streptomycin at the same concentration as RPMI 1640 complete media .
+RJ2.2.5 is derived from the Burkitt 's cell line Raji ( DR2 , DR10 ) after irradiation and immunoselection with class II-specific monoclonal antibodies and com-plement .
+Raji cells express all three class II isotypes , while RJ2.2.5 cells do not express any class II antigen .
+Jijoye cells ( also originally from a Burkitt 's lymphoma patient ) were originally isolated by Pulvertaft and designated then as P3 ( 17 ) .
+Jijoye cells also express all three class II isotypes .
+Hinuma et al .
+( 18 ) then isolated subclones of the line in semisolid media and generated a line designated p3J-HR-1 , which is a high producer of viral capsid antigen .
+Clone-13 cells were derived by further subcloning of the P3J HR-1 cell line with the aim of producing isogenic cell lines with varying efficiencies of conversion from the latent to lytic cycles of the virus ( 19 ) .
+The HLA phenotype of the Clone-13 cell lines is class I positive , HLA-DQ positive ( DQ1 ) , HLA-DR , and -DP negative .
+6.1.6 is a mutant B-LCL derived from the T5.1 cell line that does not express any of the class II genes ( 20 ) .
+BLS-1 and TF are class II-negative cell lines derived from patients with bare lymphocyte syndrome ( 21 ) .
+JY is a class II positive B-LCL , and Jurkat is a class II-negative T cell line .
+Plasmid Derivation and Construction-The previously described plasmids DQB160CAT , DRA 1028CAT , and DRA300CAT were used for CAT assay ( 5 , 6 ) .
+The DRA141CAT ( construct 1 ) plasmid was generated by amplification of nucleotides -141 to +31 using the following oligonucleotide primers : 5-GGGGAAGCTTTGTGTCCTGGACCCTTTGCAAGAA-3 ' and 5-GGGGTCTAGAAGCTCGGGAGTGAGGGAGAACAGACAA-3 ' .
+The template for the amplification was plasmid BSDRA300 containing nucleotides -260 to +20 from the DRA gene inserted between the HindIII and EcoRI sites of the pBlueserpt cloning vector . ``
+The insert for this plasmid was derived from the pp34-RI fragment originally isolated by the laboratory of S. Weissman , Yale University ( 22 ) .
+These primers incorporate unique HindIII and Xbal sites into the amplification product .
+The PCR product was then purified by affinity to silica fragments ( Bio 101 ) , ° S. J. Ono , unpublished observations .
+6397 sequentially digested with HindIII and Xbal restriction enzymes , subjected to a second round of purification by silica affinity , and subcloned into the pCAT basic plasmid between the HindIII and Xbal sites ( Pro-mega Corp. , Madison , WI ) .
+Construct 3 was generated by amplification of the DNA fragment containing nucleotides -173 to ~42 from the DQB gene promoter using purified genomic DNA from ATCC CCL86 as a template .
+The following oligonucleotides ( 5'-GGGGAAGCTTAATTTGAA-GACGTCACAGTGC-3 ' and 5-GGGGAAGCTTTGGTAGGATTGGATG-GTCCTT-3 ' ) were employed and introduce HindIII sites on both ends of the amplification product .
+After purification and restriction with HindIII , this DQB proximal promoter fragment ( lacking its own transcription initiation site ) was inserted into HindIII cleaved/calf intestinal alkaline phosphatase-treated construct 1 .
+Constructs 4-6 were generated by first producing double-stranded oligonucleotides containing the following strands and their complements by annealing via sequential incubation in decreasing temperatures : DQB W , 5-TCCAGTGCAGGCACTGGATTCA-GAACCTTCACAAAAAAAAAA-3 ' ; DQB X , 5-CAAAAAAAAAATCTGC-CCAGAGACAGATGAGGTCCTTCAG-3 ' ; DQB Y , 5-GTCCTTCAGCTC-CAGTGCTGATTGGTTCCTTTCCAAGG-3 ' .
+These blunt ended double-stranded oligonucleotides were then li-gated , and dimers were purified by elution from polyacrylamide gels .
+HindIII linkers were then attached to the purifed dimers , the ligation products were cleaved with HindIII , and the purified dimers were ligated into the HindIII site of construct 1 .
+The orientation and number of oligonucleotides inserted into the HindIII site was determined using the DRA primer ( 5'-TCTTGCAAAGGGTCCAGGACA-3 ' ) , which primes synthesis of the `` bottom `` strand of the DRA proximal promoter oriented 5 ' to 3 ' toward the upstream direction .
+Constructs containing two oligonucleotides ligated in the wild-type orientation were identified and propagated .
+Construct 7 was generated by first ligating the 564-base pair HindIII fragment of bacteriophage A DNA to the DQBX-box dimer isolated from construct 5 , followed by gel purification of the dimer/564-base pair ligation products .
+This was then ligated into the HindIII site of construct 1 .
+Plasmids containing the DQBX-box dimer ligated in the wild-type orientation were identified by dideoxy sequence analysis using a primer that initiates DNA synthesis through the HindIII insertion site from the plasmid backbone .
+Construct 8 was generated by first ligating the 2,822-base pair bacteriophage A HindIII fragment to the DQBX-box dimer , followed by gel purification of the dimer/2,822 ligation products .
+This was then inserted into the HindIII site of construct 1 .
+Construct 9 was generated by ligating BamH ] linkers onto the DQBX-box dimer , cleaving with BamHI , and insertion of the dimer into the unique BamHI site downstream of the chloramphenicol acetyltransferase gene in the pCAT basic plasmid .
+Constructs 10-14 were generated by overlap PCR of two or three PCR subfragments to generate the final chimeric class II promoters .
+The nucleotide sequences of the recombination sites are shown in the appropriate figures .
+Preparation of Nuclear Extracts ( 23 ) and Electrophoretic Mobility Shift Assay ( EMSA ) -500 ml of log phase cells was pelleted at 2,000 rpm for 10 min .
+The cell pellet was washed twice in ice-cold phosphate-buffered saline and resuspended in 25 ml of nuclear isolation buffer I ( 10 mm Tris-HCI , pH 7.9 , 10 mM KCl , 1.5 mm MgCl , , and 1 mm dithio-threitol ) .
+0.3 ml of ice-cold 10 % Nonidet P-40 was added dropwise ( while vortexing at lowest setting ) and incubated on ice for 20 min .
+The cell lysate was layered onto 12 ml of ice-cold nuclear isolation buffer I containing 1.7 M sucrose and centrifuged at 13,000 x g for 15 min in an SW27 rotor ( Beckman Instruments , Inc. , Palo Alto , CA ) .
+Purified nuclei were then resuspended in 3 ml of ice-cold 20 mM Hepes , pH 7.9 , 25 % glycerol , 0.42 M NaCl , 1.5 mm MgC12 , 0.2 mm EDTA , 0.5 mm phenyl-methylsulfony ] fluoride , and 0.5 mM dithiothreitol , and homogenized with 10 strokes of a Dounce homogenizer on ice .
+The suspension was then rocked for 30 min at 4 °C and centrifuged for 30 min at 25,000 x g in an $ $ 34 rotor .
+The supernatant was then dialyzed against 150 ml of transcription buffer ( -rNTPs ) ( 12 mm Hepes , pH 7.9 , 12 % glycerol , 0.3 mm dithiothreitol , 0.12 mm EDTA , and 60 mm KCl for 5 h ) .
+MgCl , was omitted from these preparations as it inhibits some of the complexes discussed in this report .
+For EMSA , a double-stranded probe spanning nucleotides -141 to -43 was amplified by PCR , labeled by polynucle-otide kinase , and separated from unincorporated °°P by spun-column chromatography on Biogel P-2 .
+DNA binding was allowed to proceed for 20 min at room temperature in a 10 pl volume containing 5 ug of nuclear extract and 5,000 cpm of radiolabeled probe in the presence of 4 pg of poly ( dI-dC ) ( in a buffer containing 10 mM Tris , pH 7.5 , 50 mm NaCl , 1 mm dithiothreitol , 1 mM EDTA , and 5 % glycerol ) .
+The protein-DNA complexes were then resolved from free DNA by separation on a 4 % polyacrylamide gel .
+The products were then visualized by autora-diography of the fixed , dried gel .
+Transfections and CAT Assays-10 `` recipient cells were washed ex 6398 tensively with serum-free media .
+20 ug of cesium chloride-purified supercoiled plasmid DNA was added to the cells in a 1-ml volume of serum-free RPMI 1640 containing either 20 wl of lipofectamine or 200 ug of DEAE-dextran ( Life Technologies , Inc. and Pharmacia Biotech Inc. , respectively ) .
+5 ug of plasmid pXGHS5 , a mammalian expression vector encoding human growth hormone , was cotransfected with reporter constructs to control for variability in transfection efficiency .
+In the case of lipofectamine , cells were incubated for 3 h at 37 °C before the addition of 50 ml of complete medium .
+For DEAE-dextran transfection , the cells were incubated for 1 h at 37 °C before the addition of medium .
+48 h after transfection , the cells were washed with serum-free media and pelleted .
+The cells were resuspended in 300 pl of 0.25 m Tris and freeze-thawed 3 times .
+After centrifugation to remove debris , 150 ul of the cell extract was incubated with 20 ul of 10 mM acetyl-coenzyme A ( Pharmacia ) and 2 wl of chloramphenicol ( DuPont NEN ) ( 49 mCi/ mmol , 0.1 mCi/ml ) for 4 h at 37°C .
+The chloramphenicol was then extracted with 1 ml of ethyl acetate , speed vacuum dried , and spotted onto thin-layer chromatography plates .
+After the solvent front was allowed to travel three-quarters of the length of the plate , the plate was removed from the chromatography tank , allowed to dry for 30 minutes , and subjected to autoradiography .
+RESULTS DQB Upstream cis-Elements Located Between Positions -173 and -42 Inserted Upstream of Nucleotide =-141 in a DRACAT Reporter Plasmid Restores Expression in Clone-13 Cells-The finding that the HLA-DQB promoter is active and that the HLA-DRA promoter is inactive ( directing a transcriptional activity 6 % of the DQB promoter activity ; Fig .
+1 , A and B ) in Clone-13 cells indicated an approach to further dissect the molecular mechanisms underlying differential expression of these two human class II MHC genes .
+This approach was to generate chimeric reporter constructs using portions of the two promoters and to assess the ability of these chimeric constructs to support transcription of the bacterial chloramphenicol acetyltransferase gene upon transient transfection into this cell line .
+To test the feasibility of this approach , an initial construct was generated ( Fig .
+14 , construct 3 ) , where nucleotides -173 to -42 from the DQB promoter were ligated upstream of nucleotide -141 in a DRA reporter plasmid , in the correct orientation .
+These nucleotides from the DQB promoter were chosen since a reporter plasmid containing only these nucleotides ligated upstream of the CAT gene was transcriptionally inactive ( having only 3 % of the activity of DQB reporter constructs containing downstream nucleotides up to +30 , data not shown ) while retaining all of the important conserved upstream activation sequences .
+The insertion of these nucleotides from DQB upstream of the -141 DRA reporter plasmid conferred a transcriptional activity approximately 80 % of that conferred by the wild-type DQB160CAT reporter plasmid ( Fig .
+1 , A and B ) .
+This result indicated that the generation of further hybrid reporter constructs was a feasible approach to map divergent cis-elements within these two class II genes .
+Insertion of Dimerized HLA-DQB X-Box Oligonucleotides Upstream of Nucleotide -141 of the HLA-DRA Promoter Restores Expression in the Mutant Cell Line , Clone-13-As a first step in mapping regions of the HLA-DRA and -DQB promoters that might mediate the differential expression of the two genes in the Clone-13 cell line , an initial series of six chimeric reporter plasmids was constructed to rapidly screen for general subregions of the promoters that might mediate differential expression .
+Oligonucleotides containing the conserved W ( S ) , X-and Y-boxes and surrounding nucleotides from the DQB promoter ( Fig .
+1A ) were concatenated and subcloned upstream of nucleotide -141 in the DRACAT reporter plasmid , and plasmids containing dimers of the oligonucleotides arranged in `` head to tail `` orientations were selected and expanded .
+While the hybrid reporter constructs containing dimers of the DQB W ( S ) region ( construct 4 ) and the DQB Y-box region ( construct X2-Box Control of Isotype Specificity of MHC Class II Genes A 1 cenas 4 - m fe 5 ooo ~~~ ~ -- » -+ DRA ( -141 to +31 ) poem CAT DQB w TccactocacccAc -~ Cont DQB X DQB Y GTCCTTCAGCT GZA 120 100 80 60 40 Relative CAT Activity 20 Construct Fic .
+1 .
+Insertion of two DQB X-box oligonucleotides upstream of -141 in a DRACAT reporter plasmid restores expression in Clone-13 cells .
+A , scheme for construction of hybrid constructs from a 173 to -42 DQB amplification product and dimerized DQB W ( S ) , X-and Y-box oligonucleotides .
+As described under `` Materials and Meth-ods , `` the PCR product and oligonucleotides were inserted upstream of nucleotide -141 in the DRA141CAT reporter plasmid .
+The numbers refer to the construct designations referred to in the text , and the oligonucleotide sequences are shown at the bottom of this panel .
+The consensus binding sites for the conserved elements are boxed in solid black boxes over the sequences .
+A representative CAT assay from transfection of Clone-13 cells with these constructs is shown .
+B , results of quantitation of transfections of the constructs in 1A into Clone-13 cells using three independent plasmid preparations and and an n 5 for each plasmid preparation .
+The results are relative CAT activities using the mean DQBCAT activity as a 100 % maximum activity .
+The p values for 2 , 3 , and 5 are < 0.005 relative to 1 , and p < 0.05 for 7 relative to 1 6 ) did not have transcriptional activities significantly different from the wild-type DRA reporter plasmid ( construct 1 ) , the plasmid containing dimers of the DQBX-box region had a transcriptional activity that was elevated 10-fold over the wild-type DRA reporter plasmid and which was 50 % of the wild-type DQB reporter plasmid ( Fig .
+1 , A and B ) .
+These data indicated that an element or elements within the X-box region of these class II genes mediate differential expression of the genes .
+X2-Box Control of Isotype Specificity of MHC Class II Genes Insertion of Appreciable Distance between the DQB X-Box Oligonucleotides and the DRA Transcription Initiation Site Interferes with the Ability of the DQB X-Box Elements to Restore Expression to the DRA Promoter-Constructs 4-6 contain dimers of DQB upstream elements ligated upstream of nucleotide -141 in the DRA promoter .
+In the case of the X-box oligonucleotides , this places the inserted elements 49 bases upstream of their natural position within the promoter , approximately five complete helical turns from the DRA X-box .
+Assuming that the restoration of expression by the upstream DQB X-box dimers results from protein-protein interactions between transcription factors bound to the inserted elements and DQB promoter binding proteins ( or general transcriptional machinery ) , three additional constructs were synthesized inserting additional distance between the DQB X-box dimers and the DRA X-box element to determine the distance and helical-orientation requirements for these interactions .
+Construct 7 introduces an additional 56.4 helical turns between the inserted and DRA X-boxes ; construct 8 introduces an additional 232.2 helical turns ; and construct 9 places the dimer 175.2 helical turns downstream of the DRA X-box element ( Fig .
+1A ) .
+Of these constructs , only construct 7 exhibited a transcriptional activity that was significantly above that of the wild-type DRA reporter ( a 4-fold elevation and a P-value < 0.05 ; Fig .
+1 , A and B ) .
+Since the DQB X-box dimer is located on the opposite side of the helix relative to the DRA X-box , this indicates that the additional inserted distance may allow flexibility to the usual requirement for strict stereo-specificity of the X- and Y-box elements ( 24 ) .
+The transcriptional inactivity of plasmids 8 and 9 ( which are stereospecifically aligned with the DRA Y-box ) , however , indicates that the additional distances between the DQB X-box dimer and the DRA Y-box are excessively large to allow protein-protein interaction .
+Replacement of the X1 and X2 Elements in the HLA-DRA Promoter with the Analogous DQB Elements Maps DRA Complementation Activity to the DQB X2-Box-Since the previous experiments indicated that the extended X-box element and surrounding nucleotides might mediate the differential expression of the DRA and DQB genes in Clone-13 , additional constructs were synthesized by overlap PCR to 1 ) more precisely map the relevant element and 2 ) to address the question using substitution constructs where the inserted element replaces the wild-type element ( Fig .
+24 ) .
+Construct 10 replaces the nucleotide sequence 5 ( -CCTAGCAACAGATGCGTCATC-TC-3 ' containing the DRA X1- and X2-boxes ( and not the py-rimidine tract found immediately upstream of the X1-box , or the A/T-rich HMG I/Y binding site located in the interspace region ) with the sequence 5'-CCCAGAGACAGATGAGGTC-CTTC-3 ' containing both the X1- and X2-boxes from DQB .
+This replacement and the others described later in this work were designed so that no alterations in the helical orientation or distance of the new element ( relative to the wild-type element ) occur .
+In construct 11 , the DRA Xl-element 5'-CCTAGCAA-CAGA-3 ' is replaced with the DQB Xl-element 5 ' ( -CCCA-GAGACAGA-3 ' .
+In construct 12 , the DRA X2-element 5'-TGCGTCATCTC-3 ' is replaced with the DQB X2-element TGAGGTCCTTC-3 ' .
+Each of these replacement constructs were then transfected transiently into Clone-13 cells , and the resulting CAT activities were quantitated ( Fig .
+2B ) .
+Construct 10 , containing a complete replacement of both X1 and X2-elements of DRA with the analogous DQB elements had a transcriptional activity approximately 85 % of the wild-type DQB reporter construct .
+Construct 11 , containing a DQB substitution only at the Xl-ele-ment , had a variable transcriptional activity ( with a mean of 7 % of DQB and a maximum activity of 17 % of DQB ; Fig .
+2C ) .
+s x1 x2 v cat EHJ maom HLA-DQB B 120 > 100 Pr G M 80 I2 60 O $ 40 t o 0 1 2 10 11 12 Construct 2 .
+# s % 1 2 10 11 12 Fic .
+2 .
+Replacement of DRA X2 with DQBX2 restores expression to the DRA reporter plasmid .
+A , scheme for construction of substitution plasmids .
+The exact nucleotide sequences that are replaced are indicated under `` Results . ``
+The numbers at the left of the panel refer to the construct number used in the text .
+These replacement plasmids were generated by overlap PCR .
+B , results of transient transfections of the constructs in A into Clone-13 cells .
+Three independent plasmid preparations and an » = 5 for each preparation were performed .
+The mean values and S.E .
+are indicated by error bars .
+The p values of 2 , 10 , and 12 are < 0.005 .
+C , a representative CAT assay from B. Construct 12 , containing a DQB substitution only at the X2-element , had a mean transcriptional activity of 88 % of DQB .
+These data demonstrate that the DQB X2-element can functionally replace the DRA X2-element in the context of the DRA promoter and indicate that the defective transcription factor in Clone-13 `` interacts `` directly with or requires interaction with a factor bound to the DRA X2-element .
+Compensatory Substitution Promoters Indicate that Replacement of the DQB X2-element with the DRA X2-element Silences DQB Promoter Activity in Clone-13 Cells-The previous experiments indicated that replacement of the DRA X2-element with the DQB X2-element restored transcription from the DRA promoter .
+Depending on the nature of the defect in the Clone-13 DRA X2-element binding factor ( s ) presumably replaced by the DQB X2-element binding factor ( s ) on construct 12 , it does not 100 80 60 40 Relative CAT Activity 1 2 13 14 Construct 1 2 13 14 Fic .
+3 .
+Replacement of the DQB X2-element with the DRA X2-element abolishes transcription from the DQB promoter .
+A , diagram of the substitution reporter plasmids 13 and 14 .
+The color coding is as designated in Fig .
+2 .
+The exact nucleotides substituted are indicated under `` Results . ``
+Substitution plasmids were synthesized by overlap PCR using complementary oligonucleotide containing substitution sequences at their 5 termini .
+B , results of transient transfection of plasmids in 3A into Clone-13 cells .
+Statistical analysis was by analysis of variance .
+Constructs 2 and 14 had p values of < 0.005 relative to 1 .
+C , a representative CAT assay from B. necessarily follow that the compensatory experiment ( substi-tuting the DQB X2-element with the DRA X2-element ) will yield the converse result .
+To gain further insight into the nature of the defect , we therefore generated two additional constructs ( 13 and 14 ) , where the X2- and X1l-elements within the DQB promoter , respectively , were replaced with their DRA counterparts ( Fig .
+3A ) .
+While insertion of the DRA X1-element had no effect on DQB promoter activity ( construct 14 ) , insertion of the DRA X2-element almost completely silenced DQB promoter activity ( construct 13 ) , ( Fig .
+3 , B and C ) .
+These data indicate that the defect in the DRA X2-element binding protein ( s ) in Clone-13 also prohibit efficient transcriptional activation from the DQB promoter .
+The Defect in the X2-element Binding Protein ( s ) in Clone-13 Does Not Affect Multiprotein Complex ( Complex A ) Formation on the DRA Promoter-As we reported in the original communication describing this cell line , we have not been able to detect differences in nucleoprotein complex formation with DRA S , X- or Y-box oligonucleotides in extracts from wild-type Jijoye and mutant Clone-13 cell lines by EMSA analysis .
+Since X2-Box Control of Isotype Specificity of MHC Class II Genes Bi- ( Complex A ) B2 -- B3 B4 -- B5 -- B6 ( Oct-2 ) 1 2 3 4 5 6 7 8 9 10 11 Fic .
+4 .
+Electrophoretic mobility shift analysis of complex formation on DRA nucleotides -141 to -43 using nuclear extracts from a panel of class II positive and negative cell lines , including Clone-13 .
+Six complexes that form on this probe are indicated on the left of the gel and the source of the nuclear extracts used in each lane is indicated above the gel .
+Lane 2 received 100 x cold competitor of the probe .
+Complex B1 is probably the same as complex A as described in Finn et al .
+( 27 , 28 ) .
+Complex B2 is probably complex B using the Finn terminology .
+Complex B5 is due to Oct-1 , and complex B6 is due to Oct-2 .
+The reasoning behind these designations is described under `` Results . ``
+several laboratories have now shown that the promoters of many class II negative cell lines ( in sharp contrast with class II positive cells ) are not occupied in vivo despite the presence of direct promoter binding proteins , we were interested to determine whether the defect in Clone-13 cells might result in the inability to form multiprotein complexes on extended class II probes ( 25 , 26 ) .
+Finn and co-workers ( 27 ) have previously reported that a low mobility complex ( complex A ) , which forms on extended class II MHC probes correlates with the class II positive phenotype in B cells and cytokine-induced nonlymphoid cells ( 27 ) .
+This complex was reported to be missing in the class II negative mutant cell line RJ2.2.5 and restored in HLA class II positive interspecific hybrids with a murine class II positive cell ( 28 ) .
+We therefore performed a similar analysis with extracts from a panel of human class II positive and negative cell lines , including Clone-13 ( Fig .
+4 ) .
+In our EMSA analysis using a DRA probe containing nucleotides -141 to -43 ( containing the S , X , Y , and octamer elements ) , we are able to distinguish six complexes in EMSAs using extracts from the class II positive cell line , Raji ( lane 1 ) .
+The two highest mobility bands , B5 and B6 result from the presence of the octamer motif ( which was absent in the probes used by Finn ) as determined by competition analyses ( not shown ) .
+Complex B6 is due to the B lymphoid specific factor Oct-2 ( note that it is missing in HeLa and Jurkat cells , lanes 8 and 9 , respectively ) , and complex B5 is due to Oct-1 binding .
+Complex B4 is present in all cells and is competed by any single element ( not shown ) and is , therefore , probably a multiprotein complex containing S , X1- , X2- and Y-box binding factors .
+Complex B3 is only present in B cells and is therefore probably the multiprotein complex B3 containing Oct-2 .
+Finally , complexes B1 and B2 probably correspond to Finn 's complexes A and B , respectively .
+Complex B2 , like complex B , is a low mobility complex present in all cells , and complex B1 , like complex A , is both the lowest mobility complex and only formed in extracts from certain cells .
+Complex B1 ( probably complex A ) in our hands is absent in 6.1.6 , BLS-1 , TF , Hela , Jurkat , and SJO nuclear extracts ( this group contains both B and non-B cells , which are all class II negative ) , X2-Box Control of Isotype Specificity of MHC Class II Genes but is present in Raji , RJ2.2.5 , Clone-13 , and JY cells ( this group contains both class II positive and negative B cells ) .
+These data are in agreement with Finn 's previous reports of a low mobility complex that forms preferentially in class II positive cells ( note its absence in lanes 4 , 5 , and 7-10 : all class II negative cells ) .
+However , the formation of complex B1 in extracts from RJ2.2.5 is at variance with the previous findings .
+Moreover , the formation of complex B1 in extracts from Clone-13 cells ( HLA-DR and -DP negative ) also suggest that the correlation between complex B1 formation and class II positivity is not one-to-one .
+These data do show that multiprotein complexes can form on an extended DRA probe in EMSAs in both the RJ2.2.5 and Clone-13 mutant cell lines .
+This similar phenotype is consistent with the studies of Benichou and Strominger ( 18 ) that reported that these two cell lines fall into complementation group II .
+All of the cell lines that did not form complex B1 in this study fall outside complementation group II : BLS-1 ( group 1 ) , 6.1.6 ( group IIID ) , SJO , and TF ( group IV ) .
+DISCUSSION The tissue-specific expression of the class II genes of the MHC , like all other RNA polymerase II eukaryotic genes , requires the formation of a multiprotein complex on the proximal promoter , and appropriate interactions between the upstream activators and the basal transcriptional machinery ( 29 ) .
+In the class II genes , relatively conserved elements , designated S , X , and Y are found in all class II promoters sequenced to date , and a multiplicity of factors have been purified and/or molecularly cloned that exhibit varying degrees of sequence-specificity and/or preference for these and other elements ( 4-13 ) .
+With a few exceptions , most of the promoter-bound transcription factors that interact with the class II cis-elements are ubiquitously expressed and either do not or only weakly activate class II reporter constructs when overexpressed in transient assays .
+The newly identified factor , CHTA , is a dramatic exception , as its expression pattern correlates with class II positivity and has been shown to activate all of the class II genes upon transfection into several class II negative cells ( 30 , 81 ) .
+While it is likely that the different class II genes within a species are regulated by overlapping transcription factors ( with CIITA being a central player ) , it is clear that this system is much more complex than originally thought .
+Multiple proteins can interact with each cis-element , and each of the cloned factors has turned out to have dramatically different affinities for their binding sites in the different class II genes ( 82 ) .
+Moreover , the field is only begining to uncover the protein-protein interactions that are necessary from transcription complex assembly , and additional proteins that participate in this process are probably yet to be discovered ( 33 ) .
+In this report , we provide additional evidence of the complexity of this problem .
+It has become clear that the expression of the different class II genes in human cells is not always coor-dinate .
+In this study we have used the HLA-DQ positive , HLA-DR , and -DP negative cell line Clone-13 , to investigate a molecular basis for this divergence in regulatory mechanisms .
+This particular model is attractive since the lack of DRA gene expression in this cell is not due to the influence of chromatin structure or distant elements but has been mapped to the immediate proximal promoter in transient assays .
+Using a series of hybrid and substitution constructs , we show here that the differential expression of the DRA and DQB genes in this cell line is mediated by the divergent X2-box element ( Figs .
+1-3 ) .
+The DQB X2-element can restore transcriptional activity to the DRA promoter ( Fig .
+2 ) , and the DRA X2-element can abolish transcription from the DQB promoter ( Fig .
+3 ) .
+These data strongly suggest that the X2 binding factors utilized by the two genes are distinct .
+These results further 6401 indicate that the factors that bind to the DQB X2-element can , however , functionally replace the factors that normally bind to the DRA X2-element .
+This in turn implies that the DQB X2 factors can participate in any of the required protein-protein interactions in which the DRA X2 factors normally participate .
+The data also indicate that the defect in the DRA X2-associated factor in Clone-13 is drastic enough to prohibit the formation of an active transcription complex with the other constituents of the normal DRA or DQB transcription complexes .
+The concept that the DRA and DQB genes bind different factors to their X2-elements is consistent with 1 ) sequence divergence at this site between the two promoters ( 4-6 ) , 2 ) multiple previous EMSA experiments involving cross-competi-tions and using recombinant X2-binding proteins ( 6 , 34 ) , 3 ) the results of antisense inhibition experiments where antisense hXBP-1 and c-fos RNAs specifically affected DR and DP antigen expression , and DRA but not DQB promoter activity ( 5 , 6 ) , and 4 ) our studies on the steroid sensitivities of class II MHC genes that indicate that DR and DP ( but not DQ ) antigen expression , and DRA but not DQB promoter activity are inhibited by steroids . ``
+The concept that the distinct X2-binding proteins can substitute for each other is consistent with the recent independent studies of Voliva and Reith ( 35 , 36 ) .
+Voliva showed that substitution promoters ( including core X-box replacements ) can function despite clear evidence that both common and unique proteins interact with class II MHC cis-elements .
+Reith and co-workers showed that one member of the RFX family of proteins binds cooperatively with one of several potential Y-box binding proteins , NF-Y .
+This interaction occurred in vitro in the absence of the X2-element , indicating that RFX/NF-Y interaction does not require an X2BP .
+The fact that site-directed mutagenesis of the X2-element decreases class II promoter activity might suggest that each distinct X2BP that binds to the divergent X2-elements provides a common generic function ( such as contributing to a multiprotein activation surface or assisting in the tethering of CIITA to the promoter ) .
+The resolution of these issues requires the isolation of each component of the DRA and DQB transcription complexes , and a systematic analysis of protein/protein interactions between these factors .
+Acknowledgments-We thank Kostya Ebralidse and Dimitris Thanos for stimulating discussions .
+REFERENCES .
+Germain , R. N. ( 1994 ) Cell 76 , 287-299 Kappes , D. J. , and Strominger , J.1 .
+( 1988 ) Annu .
+Rev .
+Biochem .
+57 , 991-1028 .
+Benoist , C. , and Mathis , D. ( 1990 ) Annu .
+Rev .
+Immunol .
+8 , 681-715 - .
+Glimcher , L. H. , and Kara , C. J .
+( 1992 ) Annu .
+Rev .
+Immunol .
+10 , 13-49 Pujol-Borrell , R. , Todd , I. , Doshi , M. , Bottazzo , G. F. , Sutton , R. , Adolf , G. R. , and Feldman , M. ( 1987 ) Nature 326 , 304-306 .
+Reith , W. , Satola , S. , Sanchez , C. H. , Amaldi , I. , Lisowska-Grospiere , B. , Griscelli , C. , Hadam , M. R. , and Mach , B .
+( 1988 ) Cell 53 , 897-906 .
+Ting , J. P.-Y .
+( 1993 ) Immunol .
+Res .
+12 , 65-77 .
+Ono , S. J. , Bazil , V. , Levi , B.-Z .
+, Ozato , K. , and Strominger , J. L. ( 1991 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+88 , 4304-4308 9 .
+Ono , S. J. , Liou , H.-C. , Davidon , R. , Strominger , J. L. , and Glimcher , L. H. ( 1991 ) Proc , Natl .
+Acad .
+Sei .
+U. S. A .
+88 , 4309-4312 10 .
+Reith , W. , Barras , E. , Satola , S. , Kobr , M. , Reinhart , D. , Sanchez , C. H. , and Mach , B .
+( 1989 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+86 , 4200-4204 11 .
+Song , Z. , Krishna , S. , Thanos , D. Strominger , J. L. , and Ono , S. J .
+( 1994 ) J. Exp .
+Med .
+180 , 1763-1774 12. van Huijsduijnen , R. H. , Li , X. Y. , Black , D. , Matthes , H. , Benoist , C. , and Mathis , D. ( 1990 ) EMBO J .
+9 , 3119-3127 13 .
+Muller , M. M. , Ruppert , S. , Schaffner , W. , and Matthias , P. ( 1988 ) Nature 336 , 544-551 14 .
+Symington , F. W. , Levine , F. , Braun , M. , Brown , S. L. , Erlich , H. A. , and Torok-Storb , B .
+( 1985 ) J. Immunol .
+185 , 1026-1032 15 .
+Lucey , D. R. , Nicholson-Weller , A. , and Weller , P. F. ( 1989 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+86 , 1848-1351 16 .
+Ono , S. J. , Bazil , V. , Sugawara , M. , and Strominger , J. L. ( 1991 ) J. Exp .
+Med .
+go ~3 ° L. M. Schweibert , S. Radka , R. P. Schleimer , and S. J. Ono , manuscript in preparation .
+6402 17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+25 .
+26 .
+27 .
+173 , 629-637 Henle , W. , Diehl , V. , Kohn , G. , zurHausen , H. , and Henle , G. ( 1967 ) Science 157 , 1064-1065 Hinuma , Y. , Konn , M. , Yamaguchi , J. , Wudarski , D. J. , Blakeslee , J. R. , and Grace , J. T. , Jr. ( 1967 ) J. Virol .
+1 , 1045-1051 Heston , L. , Rabson , M. , Brown , N. , and Miller , G. ( 1982 ) Nature 295 , 160-163 Gladstone , P. , and Pious , D. ( 1978 ) Nature 271 , 459-461 Benichou , B. , and Strominger , J. L. ( 1991 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+88 , 4285-4288 Das , H. , Lawrance , S. K. , and Weissman , S. M. ( 1983 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+80 , 3543-3547 Dignam , J. D. , Lebovitz , R. M. , and Roeder , R. G. ( 1983 ) Nucleic Acids Res .
+11 , 1475-1489 Vilen , B. J. , Penta , J. F. , and Ting , J. P.-Y .
+( 1992 ) J. Biol .
+Chem .
+267 , 29728-23734 Kara , C. J. , and Glimcher , L. H. ( 1991 ) Science 252 , 709-712 Wright , K. L. , and Ting , J. P.-Y .
+( 1992 ) Proc .
+Not .
+Acad .
+Sci .
+U. S. A .
+89 , 7601-7605 Finn , P. W. , Kara , C. J. , Tran Van , T. , Douhan , J. , Boothby , M. R. , and 28 .
+33 .
+34 .
+35 .
+36 .
+X2-Box Control of Isotype Specificity of MHC Class II Genes Glimcher , L. H. ( 1990 ) EMBO J .
+9 , 1543-1549 Finn , P. W. , Van , T. T. , Accolia , R. S. , and Glimcher , L. H. ( 1990 ) J. Exp .
+Med .
+171 , 2159-2164 .
+Tjian , R. , and Maniatis , T. ( 1994 ) Cell 77 , 5-8 .
+Steimle , V. , Otten , L. , Zufferey , M. , and Mach , B .
+( 1993 ) Cell 75 , 185-146 .
+Steimle , V. , Siegrist , C. A. , Mottet , A. , Lisowska-Grospierre , B. , and Mach , B .
+( 1994 ) Science 265 , 106-109 .
+Kobr , M. , Reith , W. , Herrero-Sanchez , C. , and Mach , B .
+( 1990 ) Mol .
+Cell .
+Biol .
+10 , 965-971 Wright , K. L. , Vilen , B. J. , Itoh-Lindstrom , Moore , T. L. , Li , G. , Criscitiello , M. , Cogswell , P. , Clarke , J .
+B. , and Ting , J. P.-Y .
+( 1994 ) EMBO J .
+18 , 4042-4053 Boothby , M. R. , Liou , H.-C. , and Glimcher , L. H. ( 1989 ) J. Immumol .
+142 , 1005-1014 Reith , W. , Siegrist , C.-A .
+, Durand , B. , Barras , E. , and Mach , B .
+( 1994 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+91 , 554-558 Voliva , C. F. , Tsang , S. , and Peterlin , B. M. ( 1993 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+90 , 3408-3412

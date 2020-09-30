@@ -1,0 +1,833 @@
+SHP2-interacting Transmembrane Adaptor Protein ( SIT ) , A Novel Disulfide-linked Dimer Regulating Human T Cell Activation By Anne Marie-Cardine , * Henning Kirchgessner , * Eddy Bruyns , * Andrej Shevchenko,8 Matthias Mann , $ Frank Autschbach , t Sheldon R atnofsky , Stefan Meuer , * and Burkhart Schraven* From the * Immunomodulation Laboratory of the Institute for Immunology , and the *Institute for Pathology , University of Heidelberg 69120 Heidelberg Germany ; the $ Protein and Peptide Group , European Molecular Biology Laboratories 69117 Heidelberg Germany ; and the IBA SF Bioresearch Corporation , Worcester Massachusetts 01605 Summary T lymphocytes express several low molecular weight transmembrane adaptor proteins that recruit src homology ( SH ) 2 domain-containing intracellular molecules to the cell membrane via tyrosine-based signaling motifs .
+We describe here a novel molecule of this group termed SIT ( SHP2 interacting transmembrane adaptor protein ) .
+SIT is a disulfide-linked homodimeric glycoprotein that is expressed in lymphocytes .
+After tyrosine phosphorylation by src and possibly syk protein tyrosine kinases SIT recruits the SH2 domain-containing tyrosine phosphatase SHP2 via an immunoreceptor tyrosine- based inhibition motif .
+Overexpression of SIT in Jurkat cells downmodulates T cell receptor- and phytohemagglutinin-mediated activation of the nuclear factor of activated T cells ( NF-AT ) by interfering with signaling processes that are probably located upstream of activation of phospholipase C. However , binding of SHP2 to SIT is not required for inhibition of NF-AT induction , suggesting that SIT not only regulates NF-AT activity but also controls NF-AT unrelated pathways of T cell activation involving SHP2 .
+Key words : transduction fter binding of peptide-MHC to the TCR complex , a ascade of biochemical events is initiated that lead fi- nally to T cell proliferation ( 1 , 2 ) .
+Among the earliest signals that can be detected after triggering of the TCR are increases in enzymatic activities of cytoplasmic protein tyrosine kinases ( PTKs ) , ' including the src kinases p56 and as well as the syk-related PTKs and ZAP70 .
+These tyrosine kinases phosphorylate intracellular proteins that transmit the signal further into the intracellular envi- Anne Maric-Cardine and Henning Kirchgessner contributed equally to this work .
+' A bbreviations used in this paper : aa , amino acid ; EST , expressed sequence tag ; Grb2 , growth factor receptor binding protein 2 ; IEF , isoelectric fo-cusing ; ITAM , immunoreceptor tyrosine-based activation motif , ITIM , immunoreceptor tyrosine based inhibition motif ; LAT , linker for activation of T cells ; NF-AT , nuclear factor of activated T cells , PI3-K , phos-phatidylinositol 3-kinase ; PLC , phospholipase C ; PTK , protein tyrosine kinase ; PT YR , phosphotyrosine ; SH , src homology ; SHIP , SH2 containing inositol phosphatase ; SHP , SH2 containing protein tyrosine phosphatase ; SIT , SHP2-interacting transmembrane adaptor protein ; SLP , SH2 domain containing leukocyte phosphoprotein ; TRIM , T cell receptor-interacting molecule .
+1181 T lymphocytes « T cell receptor * transmembrane adaptor proteins * signal ronment ( 3 , 4 ) .
+Among a plethora of intracellular molecules becoming tyrosine phosphorylated , several polypeptides have been identified that are collectively called adaptor proteins ( for review see references 5-7 ) .
+According to their definition , adaptor proteins lack an enzymatic function but are capable of mediating noncovalent protein-protein interactions with other signal- transducing molecules via tyro-sine- based signaling motifs ( 8 ) or modular binding domains ( e.g. , sic homology [ SH ] 2 , SH3 , pleckstrin homology , WW , phosphotyrosine [ PTYR ] -binding , and PDZ domains ; references 9-12 ) .
+Adaptor proteins expressed in T lymphocytes include Grb2 , src homologous and collagen protein ( SHC ) , SH2 domain-containing leukocyte phosphoprotein ( SLP ) -76 , SLP-76-associated phosphoprotein ( SLAP ) -130 , src kinase-associated phosphoprotein ( SKAP ) 55 , and SKAP-homologue ( HOM ) ( 13-19 ) .
+Most recently , experimental evidence has been accumulated showing that besides cytoplasmic adaptor proteins , T lymphocytes express low mol wt transmembrane proteins that are characterized by short extracellular domains and comparably long cytoplasmic tails The cytoplasmic domains of these polypeptides contain tyrosine based signaling J. Exp .
+Med .
+© The R ockefeller University Press « 0022-1007/99/ 04/ 1181/ 14 $ 2.00 Volume 189 , Number 8 , April 19 , 1999 1181-1194 http : // www.jem.org motifs ( distinct from ITAMs ) that probably mediate interactions with the SH2 domains of intracellular signaling molecules .
+We had suggested calling this novel group of polypeptides transmembrane adaptor proteins ( 20 ) .
+Before now , two transmembrane adaptor molecules have been described , namely the recently cloned proteins LAT ( linker of activation of T lymphocytes ) and TRIM ( T cell receptor-interacting molecule ) ( 20-22 ) .
+Both LAT and TRIM are reported to as sociate with intracellular signaling molecules ( e.g. , Grb2 , phospholipase C [ PLC ] -y , SLP-76 , and phosphatidylinosi-tol 3 kinase [ PI3-K ] ) after tyrosine phosphorylation .
+In this study we report the identification , nanoelectrospray tandem mass spectrometry sequencing , molecular cloning , and functional characterization of a novel transmembrane adaptor protein termed SIT ( SHP ? -interacting transmembrane adaptor protein ) .
+SIT represents a disulfide-linked homodimeric lymphocyte-specific glycoprotein with a short extracellular domain of 18 amino acids ( aa ) possessing a single N-linked glycosylation site , a 20-aa transmembrane re-gion , and a 136-aa cytoplasmic tail .
+The cytoplasmic domain of SIT contains five tyrosine-based signaling motifs that could mediate SH2 domain-dependent interactions with intracellular signaling molecules .
+Indeed , after T cell activation , SIT associates with the SH2 domain-containing cytoplasmic tyrosine phosphatase SHP2 via an ITIM .
+Importantly , overexpression of SIT in Jurkat cells downmodulates TCR- and PHA-mediated induction of nuclear factor of activated T cells ( NF-AT ) activity .
+In contrast , induction of NF-AT activity after triggering of the G protein-coupled muscarinic receptor is not influenced by overexpression of SIT .
+These data suggest that SIT is probably involved in an unknown signaling pathway that regulates transcriptional activity of NF-AT upstream of PLC .
+However , overexpression of a mutated form of SIT lacking the SHP2 binding site revealed that the association between SIT and SHP2 is not required for SIT -mediated inhibition of NF-AT activity .
+Therefore , we propose that SIT not only regulates the transcriptional activity of NF-AT , but also controls NF-AT unrelated pathways of T cell activation that involve SHP2 .
+Materials and Methods Purifiaation of gp30/ 40 .
+_ Purification of gp30/ 40 , in- gel diges-tion , nanoelectrospray tandem mass spectrometric sequencing , and assembly of peptide sequence tags for database searching have been described previously ( 20 , 23-26 ) .
+Peptide esterification was performed on a part of the unseparated digest by treatment with 2 M HCl in aqueous free methanol for 45 min at room temperature .
+After derivatization , the reaction mixture was dried in a vacuum centrifuge .
+dD ) NA Cloning .
+Based on an expressed sequence tag ( EST ) cDNA sequence corresponding to the ( YSEVV ( L/ DDSEPK ) peptide obtained by nanoelectrospray sequencing of purified pp29/ 30 , forward and nested forward oligonucleotides ( CCTGCCAG-GGCTGCAGAGGAGGTG and CCCCGAGCCGGAGCTC-TATGCCTC ) and reverse and nested reverse oligonucleotides ( TGCGGGTCTGGGCACATACTGAGGC and CACCTCCT-CTGCAGCCCTGGCAGG ) were used for 3'- and 5'-rapid 1182 amplification of cDNA end ( R ACE ) reactions as previously described ( 20 ) .
+The resulting products were purified from agarose gels and sequenced directly .
+5'- and 3 '' -specific primers corresponding to the deduced untranslated regions were used to amplify the complete cDN A , which was double-strand sequenced .
+For cloning of murine gp30/ 40 , a partial cDN A was generated using 5 '' and 3 ' primers ( CAGCAACTTTGACACTGTCAGTG and ATCCGACCTTGAGCTGGTCGC , respectively ) deduced from a mouse gp30/40 EST clone .
+The fragment was then used for screening a mouse genomic library ( provided by Dr. K. Pfeffer , Technical University , Munich , Germany ) .
+R esulting clones were sequenced and primers specific for the putative 5 ' and 3 ' untranslated regions were used to amplify murine gp30/40 from mouse thymocyte cDN A .
+The resulting fragment was gel-purified and double-strand sequenced .
+All sequencing reactions and computer-assisted sequence analysis were performed as previously described ( 20 ) .
+dD ) NA Constuds .
+The coding region of human wild-type gp30/ 40 was amplified from HPB- ALL cells cDNA using 5 ' and 3 '' specific forward and reverse primers ( CCCTCGAGCTATGA-ACCAGGC TGACCCTCGGC and CCTCGAGCTCTACG-GGGGGCTGGGGCAGTG , respectively ) .
+The purified fragment was cloned into the expression vector pEF-BOS ( 27 ) .
+The chimeric CD8-gp30/ 40 construct ( CCG chimera ) consists of the extracellular and transmembrane regions ( aa 1-145 ) of CD8a fused to residues 65-196 of human gp30/ 40 ( see Fig .
+6 ) .
+It was generated by separately amplifying the cDNA encoding the extracellular and transmembrane domains of CD8a using a CD8a-specific 5 ' primer ( ATGGCCTTACCAGTGACCGCCTTG ) , a chimeric 3 ' primer ( GCTCCGGCCCCTGGTCCACTGGGACAAGTGGTTGCA-GTAAAGGGTGAT A ACCAG ) and the gp30/ 40 fragment with an overlapping 5 ' primer ( GCTCCGGCCCCTGGTCCACTG-GGACAAGTGGTTGCAGTAAAGGGTGATAACCAG ) and a gp30/ 40-specific 3 ' primer ( see above ) .
+The two overlapping fragments were used as templates for a chimeric PCR with CD8a « -5 ' and gp30/40-3 ' primers .
+Mutants of gp30/ 40 and the CCG chimera were produced by site-directed mutagenesis using the Quick Change site-directed mutagenesis kit ( Stratagene ) according to the manufacturer 's procedure .
+The following mutants were used in this study : gp30/40-N-Q ( NZ to Q ) , gp30/40-ITIM ( Y ' to F ) , gp30/ 40-STOP ( where a FLAG-tag coding sequence followed by a stop codon was inserted after H* ) , CC-ITIM ( Y¥'* to F ) , and CC-STOP ( S ' to stop codon ) .
+The sequence of all constructs was confirmed by double-strand sequencing .
+Northem Blot Analysis .
+- Human multiple-tissue Northern blots ( Clontech ) were probed with full-length radiolabeled cDNA of gp30/ 40 under stringent conditions according to the manufacturer 's instructions .
+Cells and Antibodies .
+- Cells were cultured in RPMI 1640 supplemented with 10 % FCS , 1 % penicillin-streptomycin , and 2 % glutamine ( GIBCO BRL , Germany ) .
+The Jurkat variant CCG ( stably expressing the CCG chimera ) was established as described elsewhere ( 20 ) .
+The Jurkat variant J.HM1.2.2 ( 27-30 ) , which is stably transfected with the human muscarinic receptor type 1 , was provided by Dr. Arthur Weiss , University of California at San Francisco , San Francisco , CA , with the authorization of Genentech Inc. , and was cultured under standard conditions .
+The polyclonal antiserum directed at gp30/ 40 was generated by immunizing rabbits with a KLH-coupled synthetic peptide corresponding to aa 96-114 of gp30/ 40 .
+Affinity purification of the antiserum was performed as previously described ( 31 ) .
+SHP2 , MAP ki-nase , PTYR ( 4G10 ) Abs ( Upstate Biotechnology Inc. ) , myc ( 9E10 , a gift from Dr. D. Cantrell , Imperial Cancer Research Fund , Lon-don , UK ) , and FLAG ( M2 , Kodak ) Abs were used at 1 pg/ml for The interacting Transmembrane Adaptor Protein SIT Western blotting , and rabbit p59 % '' and p56 antisera ( provided by Dr. A. Veillette , McGill Cancer Center , McGill University , Mon-treal , Canada ) were diluted 1:2,000 ( vol/vol ) .
+CD3-e ( OKT3 , IgG2a ) or TCR ( C305 , IgM , provided by Dr. A. Weiss ) mAbs were used at 5 pg/ml or as hybridoma supernatant , respectively .
+The polyclonal antiserum directed at lymphocyte phosphatase-associated phosphoprotein has been described previously ( 31 ) and was used at a 1:5,000 dilution for Western blot analysis .
+For immunoprecipitation experiments , protein A-Sepharose-purified PTYR ( PY72 , provided by Dr. B. Sefton , Salk Institute , San Diego , CA ) , CD3-e , or CD8 ( AICD8.1 , IgG1 ) mAbs were covalently coupled to cyanogen bro-mide-activated Sepharose beads ( 6 mg/ ml packed beads ) .
+Typically , 15 pl of packed coupled beads were used for immunoprecipitation .
+Predpitation Experiments .
+- Cells were activated with culture supernatant of C305 mAb or a combination of biotinylated CD3- e plus CD4 Abs ( 10 mg/ml each ) followed by cross-linking with avidin ( 80 g/ ml ) , PHA ( 1 mg/ ml ) , 0.1 mM Na Vanadate plus 1 mM H ; ,0 ; at 37°C .
+Immunoprecipitations were performed using gp30/ 40 antiserum ( 1:100 vol/ vol dilution ) followed by protein A-Sepharose , or using CD8 , CD3 , or anti-PTYR mAb-coupled beads , as described elsewhere ( 20 ) .
+Alternatively , the isolated SH2 domain of SHP2 ( provided by Dr. B. Neel , Beth Israel Deaconess Medical Center , Boston , MA ) , was expressed as glutathione-S-transferase ( GST ) fusion protein and used for precipitation experiments as previously reported ( 17 , 32 ) .
+After washes , the individual precipitates were subjected to SDS-PAGE and further processed by Western blot analysis .
+In vitro kinase assay , reprecipitation of in vitro phosphorylated proteins , two-dimensional gel electrophoresis , and Western blot analysis were performed as previously described ( 20 , 33 ) .
+Deglycosylation Experiment .
+- In vitro-labeled gp30/ 40 was obtained from a primary CD3 immunoprecipitate by reprecipitation using gp30/ 40 antiserum as reported elsewhere ( 31 ) .
+The repre-cipitated material was subjected to SDS-PAGE and the position of SIT was determined by autoradiography .
+The corresponding band was excised from the dried gel , electroeluted , precipitated with acetone , and subjected to deglycosylation using endoglyco-sidase F ( Boehringer Mannheim ) as previously described ( 34 ) .
+Preparation of Membrane and Cytosolic Fractions .
+- Jurkat cells ( 7.5 X 10 '' ) were stimulated with 0.1 mM pervanadate plus 1 mM H ; 0 ; , for 2 min at room temperature .
+After one wash in cold TBS , cells were resuspended in 1 ml of hypotonic buffer ( 50 mM Tris HCI , pH 7.5 , 10 mM KC ] , 1 mM CaC ) J ; , 1 mM MgC ) , 1 mM vanadate , 1 mM PMSF , 1 jig/ml aprotinin , and 1 jig/ml leupep-tin ) and left on ice for 45 min .
+After sonication , cells were spun down for 15 min at 15,000 rpm and 4°C .
+Supernatant ( = total lysate ) was adjusted to 5 ml with hypotonic buffer and centrifuged for 40 min at 33,000 rpm and 4°C using a SW 55Ti rotor .
+The supernatant ( = cytosol ) was collected , supplemented with detergent and NaCl to reach final concentrations of 1 % NP-40 and 150 mM NaC ] , respectively , and further processed for anti-gp30/ 40 immunoprecipitation .
+The pellet ( = membrane fraction ) was washed in 5 ml of high salt buffer ( 50 mM Tris HCI , pH 7.5 , 500 mM NaCl , 1 mM vanadate , 1 mM PMSF , 1 g/ ml aprotinin , and leupeptin ) , solubilized in lysis buffer containing 1 % NP-40 , and subjected to anti- gp30/ 40 immunoprecipitation as previously described .
+Lasersam Microsaopy .
+- The confocal laserscan microscopy of HPB- ALL cells and Jurkat cells was essentially performed as described previously ( 20 ) with the exception that for the experiments shown in panels 5 and 6 of Fig .
+4 A a mixture of affinity-purified SIT ( 5 mg/ ml ) and CD8 ( AICD8.1 , IgG1 , 10 g/ ml ) Abs was used , whereas all other experiments shown in Fig .
+4 were performed using 20 g/ ml of affinity-purified SIT antibody .
+1183 Marie-Cardine et al .
+T rnsfection of COS Cell .
+- COS cells were transfected as previously reported ( 20 ) .
+The constructs used were as follows : wild-type Fyn ( T ) or Leck cloned in pSR a expression vector ( provided by Dr. A. da Silva , Dana Farber Cancer Center , Boston , MA ) , FLAG-tagged Syk cloned into the p5C7 vector ( donated by Dr. W. Kolanus , Gene Center , Munich , Germany ) , and myc-tagged ZAP7O0 inserted into the pcDNA3 vector ( a gift from Dr. R. Abraham , Mayo Clinic , Rochester , MN ) .
+Ludferase Reporter Gene Assay .
+- Jurkat cells or J.HM1.2.2 cells were transfected as previously described ( 20 ) , using 30 pg of the indicated cDNA construct together with 10 jpg of the NF-AT luciferase reporter construct .
+At 18 h after transfection , 8 X 104 cells well were stimulated in duplicates with medium , PHA ( 1 ug/ml ) , PMA ( 10-8 M ) plus ionomycin ( 1 pg/ml ! )
+immobilized anti-TCR mAb C305 , or carbachol ( 500 M , Sigma Chemical Co. ) in a 96- well plate ( U96 Maxisorp , Nunc immunoplate ) .
+After 6 h of stimulation cells were harvested , washed twice in PBS , and lysed for 15 min at room temperature .
+After centrifugation , 30 pul of the supernatants were analyzed as duplicates for luciferase activity using a luminometer ( Berthold Lumat 9507 ) .
+Luciferase activity is expressed as percentage of the maximal promoter activity induced by incubating the transfected cells with PMA plus ionomycin .
+Results Purification of g » 30/ 40 and Cloning of the Corresponding DNA .
+We have recently reported the molecular cloning of a novel disulfide-linked transmembrane adaptor protein , called TR IM , that associates with the TCR-CD3- complex in T lymphocytes ( 20 ) .
+Four proteins were copurified with TRIM , namely three caseins as well as an additional protein that could not be identified by searching comprehensive databases using a tryptic peptide sequence tag ( 23 ) .
+Therefore de novo sequencing of peptides was performed after esterification of the original tryptic digest as previously described ( 24 , 26 ) .
+The fragmentation spectrum of peptide T , ( Fig .
+1 A ) yielded complete aa sequences , whereas those of peptide T ; , and T ; yielded only partial aa sequences .
+Searching EST databases with the sequence YSEVV ( L/ D ) DSEPK determined for peptide T , resulted in the identification of an EST coding for this peptide as well as for additional 73 aa that all belonged to an as yet undescribed polypeptide .
+Reverse and forward oligonucleotides deduced from the EST sequence were used in 5 and 3 ' RACE experiments , respectively , to amplify the rest of the corresponding gene .
+An open reading frame of 588 nucleotides ( data not shown ) codes for a protein of 196 aa ( Fig .
+1 B ) .
+The first 22 NH-terminal residues of the newly identified protein are hydrophobic , suggesting that they could represent a leader peptide required for transmembrane transport .
+A putative extracellular domain comprising 18 aa contains one potential site for N-linked glycosylation ( N2® ) as well as one cysteine residue ( C* '' ) , which could be involved in the formation of an interchain disulfide bond .
+Residues 41-60 are highly hydrophobic and probably represent a transmembrane domain .
+The putative cytoplasmic portion of the protein ( resi-dues 61-196 ) contains several potential phosphorylation sites for protein kinase C ( T°® ) and/ or for casein kinase I ( S* J > & 9 human - 1 .
+MNOADPRLRAVCLWTLTSAAMSRGDNCT .
+.
+DLLALGTPSTTOAWGLWVLL 48 Lb noe f ode AN MOUS @ - 1 .
+2 lle lenee nes MSRDYNCTTDDOLAWGIPSTSHAWGLWALD | 30 49 - .
+RSGESVEEVPLYGNLHYLO - 97 Loco oso be p 31 .
+[ GVVTVLLLISLARLLSOWTRGRRRNORGOGPHSCRSAREVPLXGNLHYLO - 80 YxNL 98 - TGRLSQDPEPDQQD .
+PTLCCPARAAREVMCYTSLOLRPPOGRIPGPGTPY - 146 ELE c - cobb ob coa ( oc EEE EEA EA A ® 81 .
+TGRLSOEPRSEEODPPSSCCLARGAEEANCYTSLQLRPAQCRIPSSGNPT - 130 YxxL I/V Relative Intensity , ( % ) 147 - KYSEVVLDSEPKSQASGPEPELYASVCAQTRRARASFPDQAYANSQPAAS* 196 | | novo vcore oue ] 131 KYCEVVLDSEPKPQAPGPEPELYASVCAOTRRCRASFPDQAYANSQPAPS+* 180 xtboxy texy ¥xNn Figure 1 .
+- Sequencing of the gel-purified gp30/ 40 by nanoelectrospray tandem mass spectrometry and cloning of its corresponding cDNA .
+( A ) ( Top ) Part of the spectrum of the unseparated in-gel tryptic digest of the previously described pp29/30 .
+Peaks designated with asterisks belong to trypsin autolysis products .
+All peptide ions labeled in the spectrum were in turn isolated by the first quadrupole mass analyzer of a triple quadrupole instrument and fragmented in the collision cell , and their tandem mass spectra were acquired .
+Peptide ions designated with T originate from gp30/ 40 .
+Peptides designated with t originate from TRIM .
+( Bottom ) Tandem mass spectrum of the doubly charged ion T ; with a mass to charge ratio ( m/z ) of 633.4 .
+Upon their collisional fragmentation , tryptic peptides produce continuous series of fragment ions containing the COOH terminus ( Y '' -ions ) .
+The peptide sequence is deduced by considering precise mass differences between adjacent Y '' -ions in the series .
+Y '' ions dominate in the m/z region above the parent ion ( M+2H ) > * and therefore the peptide sequence could be determined unambiguously here .
+However , the m/z region below the parent ion is densely populated by fragment ions of different type and origin .
+In this region it is not usually possible to extend the series of Y '' ions to the COOH terminus of a peptide using the mass differences between the adjacent fragment ions as a guide .
+Therefore , additional data are required to confirm that a particular ion indeed belongs to the Y '' series of peptide fragments .
+To acquire this information , a part of the unseparated digest was esterified and tandem mass spectra of the peptides were acquired ( data not shown ) .
+Software assisted comparison of the tandem mass spectra of the derivatized peptides and the nonderivatized peptides enables determination of peptide sequences with high confidence ( 25 , 47 ) .
+Note that after the full length sequence of gp30/ 40 had been obtained , the tandem mass spectra of the ions T ; and T , were retrospectively matched to the corresponding tryptic peptides .
+In addition , note that the shown sequence reads from the COOH terminus to the NH terminus .
+( B ) aa sequences of human and mouse gp30/ 40 .
+The putative transmembrane regions are boxed .
+The tyrosine-based signaling motifs are depicted underneath the corresponding sequences , and the peptide sequence obtained by nanoelectrospray tandem mass spectrometry is indicated by a double line over the corresponding sequence .
+Tyrosine residues are underlined .
+The sequence data are available from EMBL/ GenBank/ DDBJ Relative Intensity , [ % ] under accession number AJQ10059 ( human ) and AJ236881 ( mouse ) .
+and S'*2 ) .
+Importantly , it also contains six tyrosine residues , five of which could be involved in SH2 domain-mediated protein-protein interactions after phosphorylation .
+Two of these tyrosine residues represent YxxL/ V-motifs ( Y ' and Y* ) , indicating the possibility of a phosphorylation-dependent interaction with SH2 domains of src PTKs .
+In addition , tyrosines Y°° and Y'*® are potential binding sites for the SH2 domain of the adaptor molecule Grb2 .
+Finally , the cytoplasmic portion of the novel molecule possesses one potential ITIM ( VxY'**xxV ) , which might mediate interactions with the SH2 domains of cytoplasmic tyrosine phosphatases like SHP1 and SHP2 or with the inositol phos phatase SHIP ( 35 , 36 ) .
+It is noteworthy to mention that tyrosine-based sequence motifs with similarity to the EEVPLY*® GNL and the MCY !
+`` TSL motif are also present in the cytoplasmic portion of TRIM ( EDTPIY®GNL motif and MCYU°ASL motif , respectively ) .
+This could indicate that both polypeptides partially interact with the same proteins in T lymphocytes .
+In addition , similar to TRIM , the trans membrane region of the novel protein contains the sequence motif W GxxxxxG , which shows some similarity to a recently described dimerization motif in « -helices ( 37 ) .
+Comparison of the predicted aa sequence of the new protein ( preliminarily termed gp30/ 40 ) with all available databases did not reveal a significant homology with any known polypeptides ( with the exception of TR IM , see above ) .
+1184 The mouse homologue of gp30/ 40 was identified by using a mouse EST obtained from an EST database for screening a genomic library .
+The sequence information from positive clones was then used to generate the complete mouse cDNA by PCR .
+A comparison between the mouse and human aa sequences ( Fig .
+1 B ) revealed that all five tyrosine-based signaling motifs as well as the putative dimerization motif in the transmembrane domains are conserved between the two species .
+However , in contrast to the human protein , mouse gp30/ 40 lacks a leader peptide .
+g30/40 Represents a Disulfide-linked Dimeric Glycoprotein .
+Previous data suggested that gp30/ 40 , like TRIM , represents a disulfide-linked dimer that associates with the complex under mild detergent conditions ( 20 , 33 ) .
+To further characterize gp30/ 40 , HPB- ALL cells were lysed in Brij58 containing lysis buffer to preserve weak protein-protein interactions .
+Postnuclear lysates were subjected to CD3 immunoprecipitation followed by in vitro kinase assay .
+10 % of the in vitro-labeled immunoprecipitate was directly loaded onto two-dimensional IEF/ SDS-PAGE , and the remaining 90 % were incubated with lysis buffer containing 1 % Triton X-100 plus 0.5 % SDS in order to release the in vitro-labeled proteins from the primary immunoprecipitate ( 33 ) .
+The released material was then subjected to reprecipitation using a polyclonal anti-gp30/ 40 antibody which was raised in rabbits immunized The interacting Transmembrane Adaptor Protein SIT with a KLH peptide corresponding to aa 96-114 .
+The two-dimensional IEF/ SDS-PAGE analysis of the secondary immunoprecipitate shown in Fig .
+2 A , panel 4 , indicates that the anti-gp30/ 40 antibody reprecipitates an in vitro-labeled protein from the primary CD3 immunoprecipitate that produces at least four vertical stripes with mol wt between 30 and 50 kD and differential isoelectric points in IEF .
+These biochemical characteristics indicate that in vitro-labeled gp30/40 is differentially phosphorylated on several distinct phosphorylation sites and that its extracellular domain is highly glycosylated .
+Indeed , the deglycosylation experiment shown in Fig .
+2 C demonstrates that en-doglycosidase treatment of gp30/40 reduces its apparent mol wt in SDS-PAGE from ~40 to ~20 kD .
+Thus , glycosylation of the single asparagine residue in the extracellular portion of gp30/ 40 accounts for ~20 kD of mol wt .
+Fig .
+2 B further demonstrates that gp30/ 40 represents a disulfide-linked dimer as judged from its differential migration on nonreducing versus reducing SDS-PAGE .
+A : Reprecipitation ( 2D ) 1 hour 24 hours 68 4 » ) !
+P * # 43 4 » primary 27 # had [ Co34P , t ~- Q| ® `` * lu 27 # » a secondary gp30-40 IP 18 4 » preimmune immune B : Reprecipitation ( 1D ) C : Deglycosylation ESR ENDO F imm , pre .
+_ f 200 4 » 96 96 # » 68 % # 68 4 » 43 4 » .
+27 4 » a , « s » £1 18 tm nr .
+red { 4 » | Figure 2 .
+- Biochemical characterization of gp30/40 .
+( A ) 10 '' HPB-ALL cells lysed in Brij58-containing buffer were subjected to CD3 immunoprecipitation followed by in vitro kinase assay .
+10 % of the in vitro-labeled material was directly applied to two-dimensional IEF/ SDS-PAGE ( panels 1 and 2 ) .
+The remaining 90 % was subjected to reprecipitation using preimmune serum ( panel 3 ) or immune anti-gp30/ 40 serum ( panel 4 ) .
+Panel 2 was overexposed to visualize gp30/ 40 in the CD3 immunoprecipitate .
+( B ) The same experiment except that the precipitates were analyzed by one-dimensional SDS-PAGE under nonreducing ( nr . )
+or reducing ( red . )
+conditions .
+( C ) Deglycosylation experiment .
+In vitro-labeled gp30/40 was left untreated ( - ) or incubated with buffer supplemented with endo-glycosidase F ( + ) followed by SDS-PAGE and autoradiography .
+1185 Marie-Cardine et al .
+The data shown in Fig .
+2 , panels 1 and 2 , explain why we have not recognized the existence of gp30/ 40 as a part of the CD3-associated signaling complex in our previous studies .
+Thus , on a standard 1-h exposure of the in vitro-labeled CD3 immunoprecipitate gp30/40 is not visible , perhaps because of its migration in IEF/ SDS-PAGE as a diffuse and only weakly focusing polypeptide .
+Only upon overexposure of the dried gels do the long stripes corresponding to in vitro-labeled gp30/ 40 become visible ( Fig .
+2 A , panel 2 ) .
+These properties of gp30/ 40 also provide an explanation for the difficulties to analyze gp30/ 40 bio-chemically ( see below ) .
+Tissue Distnbution of g30/ 40 .
+_ Expression of the gp30/ 40 gene was determined by Northern blot analysis using a gp30/ 40 cDNA probe .
+The multiple tissue Northern blots shown in Fig .
+3 demonstrate that gp30/ 40 is strongly expressed in thymus and to a lesser extent in spleen and lymph nodes .
+Upon overexposure of the shown blots , weak gp30/ 40 mRNA signals are also detectable in peripheral blood leukocytes and bone marrow ( data not shown ) , indicating that low amounts of gp30/ 40 are expressed not only in T cells but also in other cells of hematopoietic origin .
+Indeed , further analysis revealed that gp30/ 40 is expressed in the HPB- ALL and Jurkat T cell lines and to a lower extent in the B cell lines LAZ509 and SKW6.9 , whereas it is not detectable in monocytic cell lines HL-60 and U937 , nor the erythroleukemic cell line K562 ( data not shown ) .
+These data collectively suggest that gp30/40 is selectively expressed in lymphocytes .
+Subcellular Locliz ation of g » 30/ 40 .
+The aa sequence of gp30/ 40 ( Fig .
+1 B ) strongly suggested that it represents an integral membrane protein .
+We attempted to assess the subcellular localization of gp30/ 40 in the T cell lines HPB-ALL and Jurkat ( both expressing endogenous gp30/ 40 ) by indirect immunofluorescence using an affinity-purified gp30/ 40 antiserum .
+However , our attempts to localize endogenous gp30/ 40 within the two cell lines remained un-successful , perhaps because the amounts gp30/ 40 that are constitutively expressed are too low to be detected by our E ia P zn z E 3 400 $ s a = 9 & 5 m 5 < e F Z u $ 4 = B 2 5 2 4 & ES O19 af. , kb 85 m & 2 1 z 2 % E 4 Q & = U S $ 3 29 4 2 E a & : o ® o aS $ a ass < 2 D A zZ & » = m 9 ia I g u 2 2 0 m Hx J 2 Ak 5 < wa fom m ok oBRom BR O m Qo m E m & 4 Lw & c 7.5 4.4 # > 4 4p < & g 1.35 .
+$ Figure 3 .
+- Tissue distribution of gp30/40 .
+Northern blot analysis demonstrating expression of gp30/40 in hematopoietic cells A full-length gp30/ 40 cDNA probe was used for hybridization .
+antiserum ( for example see Fig .
+6 A ) .
+To circumvent this problem , we transiently overexpressed gp30/ 40 in Jurkat T cells and COS cells .
+The transfectants were then permeabi-lized with acetone and stained with affinity-purified gp30/ 40 antiserum .
+The specificity of the antiserum was proven in a Jurkat variant stably expressing a chimeric gp30/40 molecule in which the cytoplasmic part of gp30/ 40 was fused to the extracellular and transmembrane domains of CD8 ( CCG chimera , Fig .
+4 A , panels 5 and 6 ) .
+The confocal laser scan images shown in Fig .
+4 A , panels 1 , 2 ( Jurkat cells ) , and 4 ( COS cells ) indicated that , as expected , gp30/ 40 appears to accumulate at the level of the plasma membrane .
+No reactivity of the antiserum was seen in nontransfected COS cells ( Fig .
+4 A , panel 3 ) , ruling out the possibility of A 1 2 3.4 < .ﬁ nonspecific reactivity of the antiserum with a membrane associated protein ( s ) unrelated to gp30/ 40 .
+To further prove membrane association of endogenously expressed gp30/ 40 in nontransfected T cells , cytosolic and high salt-washed membrane fractions were prepared from pervanadate-treated Jurkat cells and subjected to gp30/ 40 immunoprecipitation followed by anti-PTYR Western blot analysis .
+As shown in the left panel of Fig .
+4 B , gp30/ 40 is exclusively detectable in the membrane fraction , whereas no signal was obtained when the immunoprecipitate was prepared from the cytosolic fraction .
+The purity of the individual fractions was proven by Western blot analysis us ing antibodies directed at MAP kinase and the recently described transmembrane protein LPAP .
+MAP kinase was C M L C M 200 # » 96 30/40 68 Ep B 43m iet s= ae 0 { MAP - __ ews LPAP 27 IP : gp30/40 BLOT : PTYR 1 2 3 % 4050607 8 % 9100 Had2ddsd4ds 96 -~ 68 -m 43 -t » i * !
+e |-* s 27 # » © is » ) *_ @ @ lu « 14 - # » HPB-ALL/L _ HPB-ALL2Z - _ JRT3-T31 Figure 4 .
+- Subcellular localization of gp30/40 .
+( A ) Confocal laser scan microscopy depicting the subcellular localization of gp30/ 40 .
+Jurkat T cells ( panels 1 and 2 ) or COS cells ( panels 3 and 4 ) were left untransfected ( panel 3 ) or were transiently transfected with a plasmid encoding wild-type gp30/ 40 ( panels 1 , 2 , and 4 ) .
+The subcellular localization of gp30/ 40 was then assessed using an affinity- purified gp30/ 40 antiserum .
+Note that panel 2 is an inverted image of panel 1 that allows visualization of cells that express only very low levels of the transfected molecule .
+Panels 5 and 6 show specificity controls for the antiserum .
+Jurkat cells stably expressing a chimeric gp30/ 40 molecule ( the cytoplasmic part of gp30/ 40 fused to the extracellular and transmembrane portions of human CD8 , CCG chimera ) were incubated with gp30/ 40 ( red fluorescence , Cy3 , panel 5 ) and CD8 ( green fluorescence , Cy2 , data not shown ) antibodies .
+Panel 5 depicts the membrane localization of gp30/ 40 in CCG cells , and panel 6 shows the colocalization of CD8 and gp30/ 40 .
+( B ) gp30/ 40 is an integral membrane protein .
+( Left ) Cytosolic ( C ) and membrane ( M ) fractions were prepared from pervanadate-treated Jurkat T cells and subjected to anti-gp30/ 40 immunoprecipitation .
+Precipitates were then separated by nonreducing SDS-PAGE and analyzed by anti-PTYR Western blot .
+gp30/ 40 is visible under these experimental conditions as a broad band migrating between 60 and 90 kD .
+( Right ) Specificity controls .
+Aliquots of total lysates ( L , 10° cells ) , the cytosolic fraction ( C , 10° cells ) and the membrane fraction ( M , 5 X 106 cells ) were separated on reducing SDS-PAGE and sequentially immunoblotted with antibodies directed at MAP-kinase or the CD45 associated transmembrane protein LPAP .
+( C ) gp30/ 40 localizes at the cell membrane in T cells .
+3 X 10 '' HPB-ALL ( left ) or TCR -defficient JRT3-T3.1 cells ( right ) were externally labeled with CD3 mAb ( OKT-3 ) .
+Unbound antibodies were removed by washing and cells were lysed in 1 % Brij58-containing buffer .
+Preformed immune complexes were collected with protein A-Sepharose and subjected to in vitro kinase assay .
+In vitro phosphorylated proteins were subjected to reprecipitation using protein A-Sepharose alone ( lanes 1 and 11 ) , anti-gp30/ 40 ( lanes 2 and 12 ) , anti- { ( lanes 3 and 13 ) , anti- TRIM ( lanes 4 and 14 ) , or CD3-e ( lanes 5 and 15 ) antibodies .
+Lanes 6-10 show the same experiment as in lanes 1-5 except that in lanes 6-10 HPB- ALL cells were first lysed in digitonin and then subjected to CD3-e immunoprecipitation .
+1186 _ The SHP2-interacting Transmembrane Adaptor Protein SIT exclusively found in the cytosolic fraction , whereas LPAP selectively localized in the membrane preparation .
+Thus , gp30/ 40 is an integral membrane protein .
+To finally assess whether gp30/ 40 is expressed at the cell surface of T lymphocytes , HPB-ALL T cells were incubated on ice for 30 min with a CD3-e mAb of the IgG2a isotype .
+Cells were then washed with ice-cold buffer ( to remove all unbound CD3 mAbs ) and lysed in Brij58-containing buffer , which preserves the association between gp30/ 40 and the TCR-CD3-£ complex ( see Fig .
+2 A ) .
+Af ter depletion of the nuclei , the preformed immune complexes were collected using protein A-Sepharose and subjected to in vitro kinase assay .
+The in vitro-labeled proteins were subsequently released from the primary immunoprecipitates using SDS-containing buffer and subjected to a second round of immunoprecipitation using gp30/ 40 antiserum .
+These secondary immunoprecipitates were separated on reducing 14 % SDS-PAGE and analyzed by autoradiography .
+As a positive control , we used antisera directed at proteins that are known to associate with the TCR on the cell surface , namely CD3-e , the { chains , and TRIM .
+The left panel of Fig .
+4 C demonstrates that gp30/ 40 co-precipitates with cell surface-expressed CD3-e in the HPB-ALL T cell line .
+This association seems to be similar to the association that is detectable in HPB- ALL cells that are first lysed and then subjected to CD3 immunoprecipitation ( Fig .
+4 C , middle ) .
+Similar results were obtained when Jur- kat T cells were analyzed in an identical fashion ( data not shown ) , whereas no specific signal was detectable in a TCR a chain-deficient Jurkat variant ( JR T3-T3.1 ) lacking cell surface expression of the TCR-CD3-£ complex ( Fig .
+4 C , right ) .
+This rules out the possibility that the externally applied CD3 mAb passed the cell membrane .
+Thus , the data shown in Fig .
+4 collectively demonstrate that gp30/ 40 is an integral membrane protein that is expressed at the cell surface of T cells .
+Tyrosine Phosphorylation of g30/ 40 after T Cell Adivation .
+To investigate whether gp30/40 becomes tyrosine phos phorylated after TCR -mediated activation of T lymphocytes , HPB-ALL cells were stimulated for various periods of time with a mixture of biotinylated CD3 and CD4 mAbs that were cross-linked on the cell surface with avidin .
+Subsequently , cells were lysed in NP-40-containing buffer and subjected to immunoprecipitation with anti-PTYR mAb PY72 .
+Immunoprecipitates were separated on SDS-PAGE and analyzed by anti-gp30/40 Western blot .
+As shown in Fig .
+5 A , low amounts of constitutively tyrosine phosphorylated gp30/ 40 are detectable in nonstimulated HPB- ALL cells .
+Perhaps more importantly , the level of phosphorylation of gp30/ 40 strongly increased after cross-linking of the CD3 and CD4 receptor molecules .
+Moreover , a dramatic increase in gp30/ 40 tyrosine phosphorylation was induced in HPB- ALL cells stimulated with pervanadate .
+Similar results as shown here were obtained when gp30/ 40 immu- A CD3 x CD4 C s » semon=o [ + ] + ] + ] + ] + > + g IP 30/4ON- > 0 2 10 '' z sa [ p *+ > r g 200 4 » zAaP70 + + | + fyn 06 » ' syk + zap - syk ws we 96 » ~A = am 68 - # ] - __ 5 f } I , TKq gp30/0| -- -- = % B =s - = 43 4 » 43-4 * s ; al < a ass 27 # » 27 # » * < - gp30/40 fyn ases - » ] - | Lysates -I 18-81 __ ZAP70 cue =_ - - » PTYR-IP m - | < syki ~ gp30/40 Blot a .
+< - gp30/40 T B C305 PV 0 1 '' 55 15° 30° , 2° Figure 5 .
+- Tyrosine phosphorylation of gp30/ 40 .
+( A ) 3 X 10 '' HPB- ALL cells were ac- # !
+.
+IP : CD8 tivated with a mixture of biotinylated CD3 ( OKT-3 ) and CD4 ( AICD4.1 ) mAbs fol-BLOT : a-PTYR lowed by cross-linking with avidin .
+As a positive control , cells were stimulated for 2 min reprobin ; with pervanadate .
+Lysates were subjected to anti-PTYR immunoprecipitation ( PY72 ) « wa ta oB an| wh & P 307 .
+43 followed by gp30/40 Western blot analysis .
+( B ) Jurkat cells were transiently transfected ~SP .
+with 30 pug of plasmid coding for the CCG chimera .
+After overnight incubation , 2 X 106 200 > cells were stimulated for the indicated periods of time with the clonotypic anti-TCR mAb C305 .
+Subsequently cells were lysed and subjected to CD8 immunoprecipitation 96 > « -m ane awan - followed by anti-PTYR Western blotting ( top ) .
+The blot was then stripped and reincu-68 « tte Tills ust bated with gp30/40 antibodies ( middle ) .
+Lysates corresponding to 3 X 10° cells were - > » Lysates separately analyzed for induction of tyrosine phosphorylation by anti-PTYR Western © c-PTYR blotting ( bottom ) .
+( C ) COS cells were transiently transfected with the cDNA constructs 43 > depicted on top of each lane .
+10 % of the transfectants was analyzed by anti-PTYR West- @ m - ern blot ( top left ) .
+The blot was stripped and expression of the individual constructs as sessed using gp30/ 40 , Lok , Fyn , myc ( myc-ZAP70 ) , and FLAG ( FLAG-Syk ) antibodies , respectively ( right ) .
+The remaining 90 % of the lysates was subjected to anti-PTYR im-28 > munoprecipitation and analyzed by gp30/ 40 Western blot ( bottom left ) .
+1187 Marie-Cardine et al .
+noprecipitates were analyzed by anti-PTYR Western blot ( data not shown ) .
+To more directly demonstrate TCR -mediated tyrosine phosphorylation of gp30/ 40 , we transiently transfected Jurkat T cells with the above described CCG chimera .
+After overnight incubation , cells were stimulated for increasing periods of time with the clonotypic anti-TCR mAb C305 or , as a positive control , with pervanadate .
+Subsequently , CD8 immunoprecipitates were prepared from resting or activated cells and analyzed for their PTYR content by Western blot .
+Fig .
+5 B , top , demonstrates that the chimera becomes rapidly phosphorylated on tyrosine residues after TCR triggering with a maximum of phosphorylation being observed after five min of €305 stimulation .
+Reprobing of the blots with gp30/40 antiserum revealed that identical amounts of the chimera were loaded onto the individual lanes ( Fig .
+5 B , middle ) .
+In summary , the data shown in Fig .
+5 , A and B , clearly demonstrate that gp30/ 40 represents a substrate for TCR -activated PT Ks .
+To analyze which tyrosine kinase can phosphorylate gp30/ 40 in vivo , we transiently expressed gp30/ 40 in COS cells together with plasmids coding for either Fyn , Lck , ZAP70 , and Syk or with a combination of Leck/Fyn and ZAP70 .
+However , in pilot experiments in which we used a cDNA coding for wild-type gp30/ 40 for transfection , we realized that detection of the transfected protein by Western blotting was hardly possible because of the highly variable levels of glycosylation .
+Therefore , we expressed a mutant of gp30/ 40 in COS cells in which the glycosylation site ( N* ) was mutated to glutamine ( gp30/40-N-Q mutant ) .
+Mutation of this residue resulted in expression of a 20-kD doublet that can be detected by our antiserum ( Fig .
+5 C , top right ) .
+Lysates of CO S cells transiently transfected with a combination of the cDNA construct coding for the gp30/40-N-Q mutant and the above described tyrosine kinases were analyzed by anti-PTYR Western blot .
+At the same time , anti-PTYR immunoprecipitates were prepared from the trans fected cells and investigated for the presence of tyrosine phosphorylated gp30/ 40 by means of anti-gp30/40 Western blotting .
+The left panels of Fig .
+5 B demonstrate that under these experimental conditions gp30/ 40 becomes tyrosine phosphorylated by Lck and to a stronger extent by Fyn , but is only very weakly tyrosine phosphorylated when the molecule is coexpressed with either ZAP7O0 or Syk alone .
+However , when Fyn and ZAP70 are concomitantly expressed , tyrosine phosphorylated gp30/40 migrates at a slightly higher apparent mol wt compared with co-expres-sion with Fyn alone .
+Since identical data were obtained in three independent experiments , these findings suggest that gp30/ 40 represents not only a substrate for sre PTKs but that it can also become phosphorylated by ZAP70 .
+Expression of g30/40 in Jurkat Cells Inhibits TCR- and PHA -mediated Adivation of the Transaiption Fador NF-AT .
+To obtain initial information on the in vivo function of gp30/ 40 , we transiently transfected Jurkat T cells with increasing concentrations of a plasmid coding for a full-length gp30/ 40 molecule together with a luciferase reporter gene con 1188 struct driven by a triplicated NF-AT binding site of the human IL-2 promoter ( 38 ) .
+At 18 h of transfection , expression of transfected gp30/40 was determined by Western blotting ( Fig .
+6 A , insets ) , and cells were stimulated for an additional 6 h with either the clonotypic anti-TCR mAb C305 or the polyclonal mitogen PHA .
+As shown in Fig .
+6 A , overexpression of SIT inhibited both PHA- and TCR mediated induction of NF- AT activity in a dose-dependent fashion .
+Thus , compared with the vector control , a significant reduction of the signals was already observed with 5 ug of transfected gp30/40 cDNA , whereas transfection with 30 ug cDNA resulted in a 91 % reduction of the PHA signal and a 76 % reduction of the TCR -induced NF-AT activity , respectively .
+Similarly , transient overexpression of gp30/ 40 in Jurkat cells resulted in a strong inhibition of the CD2-mediated pathway of T cell activation ( data not shown ) .
+To assess whether the cytoplasmic portion of gp30/ 40 was responsible for the inhibitory effect of gp30/ 40 on the TCR- and PHA-mediated pathways of T cell activation , we transiently transfected a truncated mutant of gp30/ 40 into Jurkat cells in which a FLAG epitope was introduced at H of gp30/ 40 followed by a STOP codon ( gp30/40-STOP mutant ) .
+The Fig .
+6 B , left , demonstrates that , in contrast to the wild-type protein , expression of the gp30/ 40-STOP mutant exerts no negative regulatory effect on NF-AT activity .
+This indicates that the negative regulatory role of wild-type gp30/40 on TCR- and PHA-induced transcriptional activity of NF-AT requires an intact cytoplasmic tail .
+Moreover , the finding that stimulation of the transfectants with a combination of PMA plus ionomycin bypassed gp30/40-mediated inhibition of NF-AT activation ( Fig .
+6 B , middle ) strongly suggests that gp30/ 40 probably regulates a proximal signaling event ( s ) of human T cell activation ( see below ) .
+Inhibition of TCR- and PHA-mediated induction of NF- AT activity was also observed when the above described CCG chimera ( see Figs .
+2 and 4 ) was expressed in Jurkat cells , whereas expression of a truncated version in which S '' of gp30/ 40 was mutated to a STOP-codon ( CC-STOP chi-mera ) , or of a control chimera ( consisting of the extracellular domain of human HLA-A2 fused to a full length TRIM molecule , Ch_F ) , did not affect signaling ( Fig .
+6 C ) .
+Col-lectively , these data indicate that gp30/ 40 , when overexpressed in Jurkat T cells , acts as a negative regulator for both TCR- and PHA-mediated transcriptional activity of NF-AT .
+To more precisely localize where gp30/40 exerts its function during TCR -mediated signaling , we transfected a gp30/ 40 cDNA together with the NF-AT-driven reporter construct into a Jurkat variant stably expressing the human muscarinic receptor type 1 ( J.HM1.2.2 cells ) .
+Stimulation of this heterologous receptor with carbachol results in activation of PLC via a G protein-coupled mechanism that does not involve PTK-mediated signaling ( 27-30 ) .
+Fig .
+6 D demonstrates that overexpression of gp30/ 40 in J.HM1.2.2 cells inhibited CD3-mediated induction of NF-AT activity to a similar extent as in wild-type Jurkat cells .
+Importantly , The interacting Transmembrane Adaptor Protein SIT [ ] sos i “ irujnmu ~ O ” Luau—slur BOS z 6 3 ] 100 g | & .
+16 -I m 7 a 1 $ 7 .
+ee R 1 a + __| ee f ® 200 - lB | a 31 a TC £ h s OC 27 -I 1 # 0 A-p -- -p -- 4 p-0 8 10 20 30 concentration of gp30/40 construct ( ug ) .
+PMA+IONO stimulus C E J.HM1.2.2 gros ece g ecsror geo CJ sos E s23040 CD8 CD8 £p30/40 w 2 .
+| -- CCG 30 as . )
+cestor OCS Cee CBBC CTT We Cofe -L - ( -J ( Bf 1 c gp3040-8 TOP HLA-A2 TRIM ERIM PO .
+Sme Pol m me mame = > mome _ mame BSH * % ICR f PHA CD3 Carbachol stimulus stimulus Figure 6 .
+- gp30/40 is involved in the regulation of T cell activation .
+( A ) 2 X 10 '' Jurkat cells were transfected with increasing concentrations of wild-type gp30/ 40 cDNA and reporter construct driven by a triplicated NF-AT binding site of the human IL-2 promoter .
+An appropriate amount of empty vector DNA was added to all samples to yield equal amounts of transfected DNA .
+Lysates corresponding to 5 X 10° cells were analyzed for expression of gp30/ 40 by Western blot analysis .
+Note that due to the low levels of gp30/ 40 expression the protein is not detected in nontransfected cells .
+At 18 h after transfection cells were stimulated with anti-TCR mAb C305 or with PHA .
+6 h later luciferase activity was determined .
+Depicted are relative responses which were obtained by the following calculation : luciferase units produced by TCR or PHA-stimulation divided by luciferase units produced by stimulating the cells with a combination of PMA and ionomycin ( = maximal response ) X 100 .
+( B ) Jurkat cells were transiently transfected with 20 jug empty vector ( BOS ) , wild-type gp30/ 40 or the gp30/ 40-STOP cDNAs in combination with the above reporter construct and processed as in A ( left ) .
+Relative luciferase units after stimulation of the transfectants with a combination of PMA and ionomycin ( middle ) .
+Expression of the constructs was verified by gp30/ 40 ( wild-type protein ) or FLAG ( gp30/40-STOP ) Western blot analysis ( right ) .
+( C ) 2 X 10 '' Jurkat cells were transfected with empty vector or with plasmids coding for the CCG or the CC-STOP chimeras together with the NF-AT-driven luciferase reporter gene construct .
+A chimeric TRIM molecule ( Ch_F ) served as a control .
+The experiment was then performed as described in A .
+( D ) J.HM1.2.2 cells were transiently transfected with 25 ug wild-type gp30/ 40 cDNA and then stimulated with either anti-CD3 mAb OKT 3 or with carbachol followed by determination of luciferase activity .
+Expression of the construct was determined by gp30/ 40 Western blot analysis .
+( E ) cDNA constructs used for the experiments shown in Fig .
+6. however , in the same cells gp30/ 40 did not influence sig- _ in both positive and negative regulatory signaling pathways naling mediated via the muscarinic receptor .
+Thus , gp30/ in lymphocytes ( 39-45 ) .
+40 probably regulates TCR -mediated induction of NF- AT Jurkat cells were stimulated for increasing periods of time activity via a mechanism that is located upstream of activa- __ with either C305 mAb or PHA , washed , and lysed in NP-40-tion of PLC .
+containing buffer .
+Subsequently , anti-gp30/40 immuno- gp30/ 40 Assodates with the SHP2 Tyrosine Phosphatase af _ precipitates were prepared and analyzed for coprecipitation ter T Cell Adivation .
+- Asreported above ( Fig .
+1 B ) , gp30/40 _ of the above phosphatases by Western blotting .
+In several possesses a putative ITIM in its cytoplasmic tail ( VKY'* _ individual experiments we were unable to demonstrate a SEV ) ( 35 , 36 ) .
+Given the strong negative regulatory effect on __ specific interaction of gp30/ 40 with SHP1 or SHIP ( data not the induction of NF-AT activity after overexpression of _ shown ) .
+However , as demonstrated in Fig .
+7 A , appreciable gp30/ 40 or the CCG chimera , we next investigated whether _ levels of SHP2 coprecipitated with gp30/40 after TCR-gp30/ 40 , in its tyrosine phosphorylated state , has the capac- _ ( left ) as well as PHA- ( right ) mediated activation of Jurkat ity to recruit SH2 domain-containing cytoplasmic phospha- _ cells .
+tases like SHP1 , SHP2 , or SHIP to the cell membrane .
+These The specificity of interaction between gp30/40 and phosphatases have been demonstrated to preferentially bind _ SHP2 was further proven in Jurkat cells treated with per-to ITIMs via their SH2 domains and seem to be involved _ vanadate .
+There SHP2 was found to specifically coprecipi- 1189 Marie-Cardine et al .
+PI|0 1 st ist 30 } 0 1 '' 5 15 30° PV D ‘ [ ] Bos Hwt f ITM l 35-§ - Z I ; 304 & z E < a wey SHP2 » - me am sae oue -- @ 2 $ : E c : ) TCR ( C305 ) PHA 1 ug/ml g ® E Cen o M # ( 7 < T- [ - ] » o |- Temt- n MED .
+TCR PHA « =| < ll pBS B SHP2 It » « im e [ sit tan | ( Bos mW coco CC-I ' I ‘ IM ’ 354 105 « [ cco w 301 ] ; E 1 [ : I E =o 2541 i ccatim - '' A C ev [ - 1+ ] - |+ ] - |+ ] -| + £ sl : e IP : CD8 2 fd BLOT : SHP2 t-g 104 IP : CD8 z - 0 as # BLOT : SIT 2 3d thus T T 5° h s ] noug ‘ ccG | ITM | sToP 04 construct MED .
+TCR PHA Figure 7 .
+- Interaction between gp30/ 40 and SHP2 .
+( A ) 3 X 10 '' Jurkat cells lane were activated with mAb C305 or with PHA .
+Lysates were subjected to anti-gp30/ 40 immunoprecipitation followed by blotting with SHP2 mAb .
+PI , preimmune serum .
+( B ) 3 X 10 '' Jurkat cells were left unstimulated or were treated for 2 min with pervanadate .
+Lysates were subjected to gp30/ 40 ( left ) or TRIM immunoprecipitation ( right ) .
+The precipitates were blotted onto nitrocellulose , which was first incubated with an antibody directed at the 85 kD regulatory subunit of PI3-K ( p85 ) , then stripped and reincubated with SHP2 mAb ( SHP2 ) .
+( C ) 5 X 10° untransfected Jurkat cells or Jurkat cells transiently transfected with cDN As coding for the CCG , the CCS ( STOP ) or the CC-ITIM ( ITIM ) chimeras were left untreated or were treated for 2 min with pervanadate .
+Lysates were subjected to CD8 immunoprecipitation followed by SDS-PAGE and SHP2 Western blot analysis .
+Blots were stripped and reincubated with SIT antiserum .
+Note that expression of the CCS mutant could not be assessed by SIT Western blot analysis due to lack of reactive epitopes .
+Expression of this construct as well as of the CCG construct was verified by FACS® analysis of the transfectant using a CD8 mAb ( data not shown ) .
+( D ) ( Top ) Jurkat cells were transiently transfected with cDNAs coding for wild type SIT or the gp30/40-ITIM mutant .
+TCR- and PHA-mediated induction of NF-AT activity was then determined as described above .
+Expression of the constructs was assessed by SIT immunoblotting .
+( Bottom ) The same experiment using cDNA constructs coding for the CCG and the CC-ITIM chimeras , respectively .
+Expression of the chimeric molecules was analyzed by indirect immunofluorescence using a CD8 mAb .
+tate with gp30/ 40 ( Fig .
+7 B , left ) , whereas the phosphatase failed to interact with the recently cloned transmembrane adaptor protein TRIM ( which does not possess an ITIM ) .
+Conversely , as previously reported , the p85 subunit of PI3-K associated inducibly with TRIM ( Fig .
+7 B , right ) , but not with gp30/ 40 ( probably because gp30/ 40 lacks the YxxM-motif , which mediates the binding between p85 and TRIM [ reference 20 ] ) .
+In summary , the data shown in Fig .
+7 , A and B , indicate that gp30/ 40 specifically associates with SHP2 after T cell activation .
+Therefore , we termed the gp30/40 protein SIT ( SHP2-interacting transmembrane adaptor protein ) .
+To investigate whether the interaction between SHP2 and SIT indeed involves the ITIM , we transiently expressed in Jurkat cells the above shown CCG chimera or mutants of this chimera in which either the complete intracellular 1190 portion of SIT was deleted ( CC- STOP chimera ) or in which the tyrosine residue of the ITIM was mutated to phenylalanine ( CC-ITIM chimera ) .
+By expressing CD8/CD8/ SIT chimeras instead of mutated SIT molecules , we could largely rule out the possibility that the transfected chimera forms disulfide-linked heterodimers with endogenous SIT and thus generates false positive results during our experiments .
+Moreover , the use of the extracellular domain of CD8 allowed us to perform immunoprecipitation experiments us ing a mouse CD8 mAb , thus preventing the possibility that the immunoprecipitates become contaminated with endogenously expressed wild-type SIT molecules .
+Fig .
+7 C demonstrates that , as expected , a CD8 immunoprecipitate prepared from either nonstimulated or pervanadate-treated wild-type Jurkat cells ( lacking CD8 expression ) did not contain detectable levels of SHP2 .
+However , when The interacting Transmembrane Adaptor Protein SIT CD8 immunoprecipitates were prepared from cells that had been transiently transfected with the CCG chimera , large amounts of SHP2 were detectable in the precipitates obtained from pervanadate-treated cells .
+That coprecipitation of SHP2 by the CCG chimera requires the presence of the cytoplasmic part of SIT was evident from the observation that SIT/ SHP2 interaction was completely lost when the cells were transfected with the CC-STOP chimera lacking the cytoplasmic portion of SIT .
+Perhaps more importantly , coprecipitation of SHP2 was also almost completely lost ( > 90 % reduction as judged from densitometric analysis of the shown blot ) when Jurkat cells were transfected with the CC-ITIM chimera .
+The latter finding formally proves that the interaction between SIT and SHP2 requires a functionally intact ITIM .
+We next investigated whether loss of interaction between SIT and SHP2 would abolish the inhibition of TCR and/or PHA-mediated induction of NF-AT activity exerted by wild-type SIT and the CCG chimera .
+As shown in Fig .
+7 D , overexpression of the gp30/40-ITIM mutant ( top ) or of the CC-ITIM chimera ( bottom ) downregulates both TCR- and PH A-mediated induction of NF-AT activity as observed for the wild-type protein .
+Thus , although expression of an intact ITIM is required for the interaction of SIT with SHP2 , it does not mediate the negative regulatory effect of wild-type SIT or of the CCG chimera on TCR - and PHA-mediated induction of NF- AT activity .
+Discussion In this report we describe the purification , nanoelectrospray sequencing , molecular cloning , and functional characterization of a novel transmembrane adaptor molecule that we have termed SIT ( SHP2-interacting transmembrane adaptor protein ) .
+As previously reported , SIT copurified with a recently cloned disulfide-linked dimer called TRIM ( 20 ) .
+Most likely the expression of SIT in T lymphocytes was not appreciated earlier because of the generally low levels of expression of SIT in lymphocytes and its particular biochemical properties ( high levels of glycosylation combined with variable levels of phosphorylation ) , which largely impair the detectability of the protein by biochemical standard methods ( for examples , see Figs .
+2 A and 4 B ) .
+SIT represents a disulfide-linked dimer that is preferentially expressed in T and B lymphocytes .
+Thus , within the lymphatic system , expression of SIT seems not to be restricted to T cells as was recently reported for LAT ( 21 , 22 ) and TRIM ( 20 ) .
+SIT also differs from LAT and TRIM by the presence of a single N-linked glycosylation site that is located directly adjacent to the cysteine residue that is responsible for dimerization .
+In fact , the cysteine residue is part of the glycosylation recognition sequence NxT .
+Deglycosylation experiments indicated that the carbohydrate moiety of SIT accounts for ~20 kD of mol wt ( Fig .
+2 C ) .
+Whether the carbohydrate chain represents a binding domain for an extracellular ligand is unknown at present but represents a good possibility .
+1191 Marie-Cardine et al .
+SIT becomes tyrosine phosphorylated after TCR -mediated activation of HPB- ALL or Jurkat cells ( Fig .
+5 , A and B ) .
+Coexpression experiments performed in COS cells revealed that SIT represents a substrate for src kinases , most notably Fyn ( Fig .
+5 C ) .
+However , in contrast to TRIM , which is exclusively phosphorylated by src kinases ( 20 ) , and LAT , which is probably a selective substrate for ZAP7O ( 22 ) , SIT phosphorylation seems to be mediated by both src and syk PTKs .
+Thus , when ZAP70 and Fyn are coexpressed in COS cells SIT reproducibly migrates at a slightly higher apparent mol wt than when expressed with Fyn alone .
+These findings could indicate that SIT phos phorylation occurs in two subsequent steps that are mediated by src and syk PTKs , respectively .
+One attractive model would be that , immediately after triggering of the TCR , SIT becomes phosphorylated by an src PTK .
+This phosphorylation event could induce a con-formational change of SIT , resulting in accessibility of another tyrosine residue representing a phosphorylation site for ZAP70 .
+To investigate this possibility it will be neces sary to generate variants of the gp30/40-N-Q mutant in which individual tyrosine residues are mutated and to investigate whether coexpression of Fyn and ZAP7O still produces a higher mol wt form of the molecule .
+However , consistent with a two-step model for SIT tyrosine phosphorylation is our observation that the apparent mol wt of tyrosine phosphorylated wild-type SIT ( although difficult to assess because of its heavy glycosylation ) also increases after prolonged stimulation of Jurkat and HPB-ALL cells ( our unpublished data ) .
+Overexpression studies performed in Jurkat cells with the intention to elucidate the function of SIT indicated that wild-type SIT and the CCG chimera strongly downregu-lated both TCR - and PH A-mediated activation of NF- AT ( Fig .
+6 , A-C ) .
+Inhibition of NF-AT activity required the presence of the cytoplasmic portion of SIT as judged from analysis of Jurkat cells transfected with plasmids coding for versions of SIT lacking the cytoplasmic domain ( gp30/ 40-STOP and CCS chimera , Fig .
+6 , B and C ) .
+Perhaps more importantly , the observation that the inhibitory effect of SIT could be bypassed with a combination of PMA and ionomycin ( Fig .
+6 B ) strongly suggested that SIT controls an early step of T cell activation .
+This assumption was confirmed in a Jurkat variant that coexpresses the human muscarinic receptor type 1 and the TCR-CD3 complex .
+Both types of receptors activate PLC via distinct mechanisms .
+Thus , the TCR couples to PLC via the tyrosine kinase pathway .
+In contrast , the muscarinic receptor activates PLC via a pathway involving a heterotrimeric G protein .
+Our finding that overexpression of SIT alters signaling via the TCR but not via the muscarinic receptor ( Fig .
+6 D ) thus indicates that SIT exerts its functional effect upstream of PLC activation and that it selectively regulates signaling via the PTK pathway .
+However , further investigations are required to elucidate which of the most proximal steps of TCR -mediated T cell activation are controlled by SIT .
+One major candidate for mediating the inhibitory function of SIT was tyrosine 148 which is a component of a putative ITIM .
+ITIMs are known to mediate noncovalent interactions with SH 2-domain containing phosphatases such as SHP1 , SHP2 or SHIP ( 35 , 36 , 39-45 ) .
+Indeed , coprecipitation experiments demonstrated that SIT specifically interacts with SHP2 after TCR- and PH A-mediated activation of Jurkat cells ( Fig .
+7 A ) .
+The association between SHP2 and SIT was dependent on phosphorylation of Y'** as judged from a transient expression experiment which revealed that a SIT mutant in which Y ' was mutated to phenylalanine ( CC-ITIM mutant ) had largely lost its ability to recruit SHP2 ( Fig .
+7 B ) .
+The residual binding of SHP2 to the CC-ITIM chimera ( less than 10 % ) might indicate that besides Y '' a second tyrosine residue of SIT is involved in the interaction between the two molecules and that SHP2 uses both SH2-domains to bind to SIT .
+Such a mode of interaction would be in line with recently reported data describing the crystal structure of SHP2 ( 46 ) .
+Experiments are under-way to prove this possibility .
+The finding that SIT selectively associates with SHP2 in Jurkat cells might be surprising in light of previous data indicating that the binding motifs for the SH2-domains of SHP1 , SHP2 and SHIP are quite similar .
+Indeed , coprecipitation experiments performed on pervanadate treated Jurkat cells revealed that tyrosine phosphorylated SIT strongly binds to the isolated SH2-domains of all three phosphatases in vitro ( our unpublished observations ) .
+The selective in vivo association of SHP2 and SIT could thus result from a selective colocalization of both molecules within the cell .
+Another possibility would be that the presence of the positively charged lysine residue in the -1 position relative to Y '' '' selects for a preferential association between SIT and SHP2 .
+Importantly , despite that fact that the ITIM of SIT recruits SHP2 and that mutation of Y ' in the ITIM almost completely ablated SHP2 binding , overexpression of a SIT-ITIM or a CC-ITIM mutant still resulted in inhibition of TCR - and PH A-mediated induction of NF-AT activity that was indistinguishable from the functional effect exerted by the wild-type protein ( Fig .
+7 D ) .
+These data collectively suggest that , although expression and tyrosine phosphorylation of the ITIM of SIT is required to mediate its association with SHP2 , the binding of SHP2 to SIT per se is not responsible for the inhibitory capacity of the protein under the experimental conditions used in this study .
+The finding that inhibition of binding of SHP2 to SIT does not rescue NF-AT activation could suggest that SIT serves several functions during T cell activation .
+One function could be the regulation of the transcriptional activity of NF- AT .
+In this regard SIT could serve as a gate-keeping molecule that helps to arrest nonprimed T lymphocytes in a quiescent state .
+Which part of the cytoplasmic domain of SIT is involved in this potential function requires further investigation .
+Preliminary data indicate that a mutant of the CCG chimera lacking the 50 COOH-terminal aa of the cytoplasmic domain no longer interferes with TCR -mediated induction of NF-AT activity ( our unpublished obser-vation ) .
+This strongly suggests that the 50 COOH-terminal aa of SIT are mainly responsible for its functional effect ( at least with regard to the induction of NF-AT ) .
+However , the elucidation of the question , which of the 50 COOH-terminal aa are responsible for inhibition of NF-AT activity , requires establishing additional truncation mutants of SIT or SIT mutants in which the two COOH-terminal tyrosine-based signaling motifs ( the Y'®°ASV motif and the Y'*°ANS motif , see below ) would be individually or concomitantly mutated .
+Experiments addressing these ques tions are being performed .
+Additional roles for SIT ( distinct from control of NF- AT activity ) could emerge from its interaction with SHP2 .
+Since it has been proposed that SHP2 is involved in both negative and positive regulatory pathways of T cell activation , further investigations are required to elucidate the consequences of SHP2-binding to SIT on T cell activation .
+It is important to note that further functions for SIT could result from the existence of the four tyrosine-based signaling motifs in its cytoplasmic domain that are unrelated to ITIMs and also do not represent IT AMs ( Fig .
+1 A ) .
+Although these motifs are potential binding sites for the SH2 domain of Grb2 ( Y°*°GNL and Y'*°ANS $ ) and for sre kinases ( Y* '' TSL and Y'°ASV ) , thus far we have not been able to establish a direct interaction between SIT and these signal-transducing polypeptides .
+Nevertheless , it is tempting to speculate that the four tyrosine-based binding motifs in the cytoplasmic domain of SIT contribute to its function in vivo .
+The three transmembrane adaptor proteins ( LAT , TRIM and SIT ) identified thus far altogether possess 22 potential tyrosine- based signaling motifs that probably mediate tyrosine phosphorylation-dependent interactions with SH2 domain-containing intracellular signaling molecules .
+The presence of these multiple tyrosine-based signaling motifs close to the membrane not only offers an explanation how intracellular signal transducers ( e.g. , PLCy1 , Grb2 , PI3-K , SHP2 , etc . )
+are recruited to the plasma membrane but also provides the T cell with potent tools for fine tuning T cell activation depending on the quality , quantity , and length of TCR occupancy .
+In addition , transmembrane adaptor molecules could also serve to integrate signaling events mediated via secondary signaling receptors .
+We would like to thank Drs .
+R. Abraham , D. Cantrell , G. Koretzky ( University of Iowa , Iowa City , IA ) , B. Neel , K. Pfeffer , E. Reinherz ( Dana Farber Cancer Center , Boston , MA ) , A. da Silva , B. Sefton , A. Veillette , E. Vivier ( Centre d'Immunologie , Marseille , France ) , A. Weiss , and J. Wienands ( Max-Planck Institute for Immunobiology , Freiburg , Germany ) , and Genentech Inc. , for kindly providing our laboratory with reagents .
+Anne Marie-Cardine is a recipient of a fellowship from the Training and Mobility of Researchers program 1192 The interacting Transmembrane Adaptor Protein SIT of the European Community ( ERBFMBICT950472 ) .
+This work was supported in part by Deutsche Forschungsgemeinschaft grants SCHR/533/ 1-1 and SCHR/533/4-1 and by Sonderforschungsbereich ( SFB ) 405 , projects A5 ( to B. Schraven ) and B9 ( to F. Autschbach ) .
+The work in M. Mann 's laboratory was partially supported by a grant from the German Technology Ministry ( BMBF ) .
+Address correspondence to Burkhart Schraven , Institute for Immunology , Immunomodulation Laboratory , University of Heidelberg , Im Neuenheimer Feld 305 , 69120 Heidelberg , Germany .
+Phone : 6221-56-4059 ; Fax : 6221-56-5541 ; E-mail : m53 @ popix.urz.uni- heidelberg.de M. Mann 's present address is Center of Experimental Bioinformatics , Odense University , Campusveij 55 , DK-5230 Odense M , Denmark .
+Received for publication 8 December 1998 and in revised form 8 Febuary 1999 .
+References 1 .
+10 .
+11 .
+12 .
+13 .
+14 .
+Meuer , S.C. , J.C. Hodgdon , R .E .
+Hussey , J.P. Protentis , SIF .
+Schlossman , and EL .
+Reinherz .
+1983 .
+Antigen-like effects of monoclonal antibodies directed at receptors on human T cell clones .
+J Exp .
+Med .
+158:988-993. .
+Meuer , S.C. , O. Acuto , T. Hercent , S.F .
+Schlossman , and EL .
+Reinberz .
+1984 .
+The human T-cell receptor .
+Annu .
+Rev .
+Immunol .
+2:23-50. .
+Chan , A.C. , D.M .
+Desai , and A. Weiss .
+1994 .
+The role of protein tyrosine kinases and protein tyrosine phosphatases in T cell antigen receptor signal transduction .
+Annu .
+Rev .
+Immunol .
+12:555-592. .
+Howe , LR. , and A. Weiss .
+1995 .
+Multiple kinases mediate T-cell receptor signaling .
+Trends Biochem .
+Sa .
+20:59-64. .
+Cohen , G.B. , R. Ren , and D. Baltimore .
+1995 .
+Modular binding domains in signal transduction proteins Cé 80 : 237-248. .
+Pawson , T. , and J.D .
+Scott .
+1997 .
+Signaling through scaffold , anchoring , and adaptor proteins .
+Sdene .
+278:2075-2080. .
+Peterson , E. , JL .
+Clements , N. Fang , and G. Koretzky .
+1998 .
+Adaptor proteins in lymphocyte antigen receptor signaling .
+Curr .
+Opin .
+Immunol .
+10:337-345. .
+Songyang , Z. , S.E .
+Shoelson , M. Chaudhuri , G. Gish , T. Pawson , W.G .
+Haser , F. King , T. Roberts , S. Ratnofsky , R.J. Lechleider , et al .
+1993 .
+SH2 domains recognize specific phosphopeptide sequences .
+Cell .
+72:767-778. .
+Harlan , J.E. , P.J .
+Hajduk , H.S .
+Yoon , and S.W .
+Fesik .
+1994 .
+Pleckstrin homology domains bind to phosphatidylinositol-4,5- bisphosphate .
+Nature .
+371:168-170 .
+Kavanaugh , W.M. , and LT. Williams .
+1994 .
+An alternative to SH2 domains for binding tyrosine phosphorylated proteins .
+Scene .
+266:1862-1865 .
+Sudol , M. , H.I .
+Chen , C. Bourgeret , A. Einbond , and P. Bork .
+1995 .
+Characterization of a novel protein-binding module-the WW domain .
+FEBS Let .
+369:67-71 .
+Fanning , A.S. , and J.M .
+Anderson .
+1996 .
+Protein-protein in-teractions : PDZ domain-networks .
+Curr : Biol 6:1385-1388 .
+Lowenstein , E.J. , R .J .
+Daly , A.G. Batzer , W. Li , B. Margolis , R. Lammers , A. Ullrich , EY .
+Skolnik , D. Bar-Sagi , and J. Schlessinger .
+1992 .
+The SH2 and SH3 domain-containing protein GR B2 links receptor tyrosine kinases to ras signaling .
+Cell .
+70:431-442 .
+Pelicci , G. , L. Lanfrancone , F. Grignani , J. McGlade , F. Ca-vallo , G. Forni , I. Nicoletti , F. Grignani , T. Pawson , and P.G .
+Pelicci .
+1992 .
+A novel transforming protein ( SHC ) with an SH2 domain is implicated in mitogenic signal transduction .
+Céal .
+70:93-104 .
+1193 Marie-Cardine et al .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+Jackman , J. , D. Motto , Q .
+Sun , M. Tanemoto , C. Turck , G. Peltz , G. Koretzky , and P. Findell .
+1995 .
+Molecular cloning of SLP-76 , a 76 kDa tyrosine phosphoprotein associated with Grb2 in T cells .
+X Biol .
+Chen .
+270:7029-7032. da Silva , A.J. , Z. Li , C. de Vera , E. Canto , P. Findell , and C.E .
+Rudd .
+1997 .
+Cloning of a novel T-cell protein FYB that binds FYN and SH2-domain containing leukocyte protein 76 and modulates interleukin 2 production .
+Proc Nal Aad .
+Sa .
+USA .
+94:7493-17498 .
+Marie-Cardine , A. , E. Bruyns , A.M. Verhagen , C. Eckerskorn , H. Kirchgessner , S.C. Meuer , and B. Schraven .
+1997 .
+Molecular cloning of SKAP55 , a novel protein that associates with the protein tyrosine kinase p59 % ® in human T-lympho-cytes .
+J Biol .
+Chem .
+272:16077-16080 .
+Musci , M.A. , LR .
+Hendricks-Taylor , D.G .
+Motto , M. Pas kind , J. Kamens , C.W .
+Turck , and G.A .
+Koretzky .
+1997 .
+Molecular cloning of SLAP-130 , a SLP-76 associated substrate of the TCR stimulated protein tyrosine kinases .
+J. Biol Chem .
+272:11674-11677 .
+Marie-Cardine , A. , A. Verhagen , C. Eckerskorn , and B. Schraven .
+1998 .
+Cloning of SKAP-HOM , a novel protein homologous to the fyn-associated protein SKAP55 .
+FEBS Let .
+435:55-60 .
+Bruyns , E. , A. Marie-Cardine , H. Kirchgessner , K. Sagolla , A. Shevchenko , M. Mann , F. Autschbach , A. Bensussan , S. Meuer , and B. Schraven .
+1998 .
+T cell receptor ( TCR ) interacting molecule ( TRIM ) , a novel disulfide-linked dimer as sociated with the TCR-CD3-£ complex , recruits intracellular signalling molecules to the plasma membrane .
+J Exp .
+Med .
+188:561-575 .
+Weber , JR. , S. Orstavik , K.M .
+Torgersen , N.C. Danbolt , SF .
+Berg , JC .
+Ryan , K. Tasken , J.B. Imboden , and JT .
+Vaage .
+1998 .
+Molecular cloning of the cDNA encoding pp36 , a tyrosine-phosphorylated adaptor protein selectively expressed by T cells and natural killer cells .
+J Exp .
+Med 187 : 1157-1161 .
+Zhang , W. , J. Sloan-Lancaster , J .
+Kitchen , R.P .
+Trible , and LE .
+Samelson .
+1998 .
+LAT : the ZAP-70 tyrosine kinase substrate that links T cell receptor to cellular activation .
+Cell .
+92 ; 83-92 .
+Mann , M. , and M.S .
+Wilm .
+1994 .
+Error tolerant identification of peptides in sequence databases by peptide sequence tags .
+Anal .
+Chem .
+66:4390-4399. .
+Wilm , M. , A. Shevchenko , T. Houthaeve , S. Breit , L. Schweigerer , T. Fotsis , and M. Mann .
+1996 .
+Femtomole sequencing of proteins form polyacrylamide gels by nano elec- 25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36. trospray mass spectrometry .
+Nature .
+379:466-469 .
+Wilm , M. , and M. Mann .
+1996 .
+Analytical properties of the nano electrospray ion source .
+Anal .
+Chem .
+66:1-8 .
+Shevchenko , A. , M. Wilm , O. Vorm , and M. Mann .
+1996 .
+Mass spectrometry sequencing of proteins from silver stained polyacrylamide gels .
+Anal .
+Chen .
+68:850-858 .
+Goldsmith , M.A. , D.M .
+Desai , T. Schultz , and A. Weiss .
+1989 .
+Function of a heterologous muscarinic receptor in T-cell antigen receptor signal transduction mutants .
+J Biol Chem .
+264:17190-17197 .
+Koretzky , G.A. , J. Picus , M.L .
+Thomas , and A. Weiss .
+1990 .
+Tyrosine phosphatase CD45 is essential for coupling T-cell antigen receptor to the phosphatidyl inositol pathway .
+Nature 346:66-68 .
+Desai , D.V. , M.E .
+Newton , T. Kadlecek , and A. Weiss .
+1990 .
+Stimulation of the phosphatidyl-inositol pathway can induce T-cell activation .
+Natwre .
+348:66-69 .
+Qian , D. , M.N .
+Mollenhauer , and A. Weiss 1996 .
+Domi-nant-negative zeta-associated protein 70 inhibits T cell antigen receptor signaling .
+J Exp .
+Med .
+183:611-620 .
+Schraven , B. , D. Schoenhaut , E. Bruyns , G. Koretzky , C. Eckerskorn , R. Wallich , H. Kirchgessner , P. Sakorafas , B. Labkovsky , S. Ratnofsky , and S. Meuer .
+1994 .
+LPAP , a novel 32-kDa phosphoprotein that interacts with CD45 in human lymphocytes .
+J Biol .
+Chen .
+269:29102-29111 .
+Marie-Cardine , A. , H. Kirchgessner , C. Eckerskorn , S.C. Meuer , and B. Schraven .
+1995 .
+Human T lymphocyte activation induces tyrosine phosphorylation of « -tubulin and its association with the SH2 domain of the p59 % '' protein tyrosine kinase .
+Eur .
+J Immunol .
+25:3290-3297 .
+Schraven , B. , S. Ratnofsky , Y. Gaumont , H. Lindegger , H. Kirchgessner , E. Bruyns U. Moebius , and S.C. Meuer .
+1994 .
+Identification of a novel dimeric phosphoprotein ( pp29/ 30 ) associated with signaling receptors in human T lymphocytes and natural killer cells .
+J Exp .
+Med 180:897-906 .
+Schraven , B. , A. Schirren , H. Kirchgessner , B. Siebert , and S.C. Meuer .
+1992 .
+Four €CD45/ p56lck associated phospho-proteins ( pp29-pp32 ) undergo alterations in human T cell activation .
+Eur J Immunol .
+22:1857-1863 .
+Daeron , M. , S. Latour , O. Malbec , E. Espinosa , P. Pina , and W.H .
+Fridman .
+1995 .
+The same tyrosine-based inhibition motif , in the intracytoplasmic domain of FeyR IIB , regulates negatively BCR - TCR - , and FcR -dependent cell activation .
+Immunity .
+3:635-646 .
+Vivier , E. , and M. Daeron .
+1997 .
+Immunoreceptor tyrosine 1194 37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+45 .
+46 .
+47. based inhibition motifs .
+Immunol .
+Today .
+18:286-291 .
+Lemmon , M.A. , H.R .
+Treutlein , P.D .
+Adams , A.T .
+Briinger , and D.M .
+Engelmann .
+1994 .
+A dimerization motif for transmembrane a-helices .
+Stud .
+Biol .
+1:157-163 .
+Northrop , JP. , K.S .
+Ullmann , and G.R .
+Crabtree .
+1993 .
+Characterization of the nuclear and cytoplasmic components of the lymphoid-specific nuclear factor of activated T cells ( NF-AT ) complex .
+J Biol Chem .
+268:2917-2923 .
+D'Ambrosio , D. , KL .
+Hippen , S.A. Minskoff , I. Mellmann , G. Pani , K.A .
+Siminovitch , and J.C. Cambier .
+1995 .
+Recruitment and activation of PTP1C in negative regulation of antigen receptor signaling by FeyRIIB1 .
+Sagene 268:293-297 .
+Marengere , LE.M. , P. Waterhouse , G.S .
+Duncan , H.-W. Mittriicker , G.-S. Feng , and T.W .
+Mak .
+1966 .
+Regulation of T cell receptor signaling by tyrosine phosphatase SYP association with CTLA-4 .
+Sdene .
+272:1170-1173 .
+Campbell , K.S. , M. Dessing , M. Lopez-Botet , M. Cella , and M. Colonna .
+1996 .
+Tyrosine phosphorylation of human killer inhibitory receptor recruits protein tyrosine phos phatase 1C .
+J Exp .
+Med .
+184:93-100 .
+Lorenz , U. , K.S .
+Ravichandran , S.J .
+Burakoff , and B.G .
+Neel .
+1996 .
+Lack of SHPTP1 results in sec- family hyperacti-vation and thymocyte hyperresponsiveness .
+Proc Nal .
+Aar .
+Sa .
+USA .
+93:9624-9629 .
+Ono , M. , S. Bolland , P. Tempst , and J.V .
+Ravetch .
+1996 .
+R ole of the inositol phosphatase SHIP in negative regulation of the immune system by the receptor FoyR IIB .
+Nature 383 : 263-266. .
+Plas , D.R . , R. Johnson , J.T .
+Pingel , R.J. Matthews , M. Dal- ton , G. Roy , A. Chan , and M.L .
+Thomas .
+1996 .
+Direct regulation of ZAP-70 by SHP-1 in T cell antigen receptor signaling .
+Sdene .
+272:1173-1176 .
+Maeda , A. , M. Kurosaki , M. Ono , T. Takai , and T. Kuro-saki .
+1998 .
+R equirement of SH2-containing protein tyrosine phosphatases SHP-1 and SHP-2 for paired immunoglobulin-like receptor B ( PIR -B ) -mediated inhibitory signal .
+J Exp .
+Med .
+187:1355-1360 .
+Hof , P. , S. Pluskey , S. Dhe-Paganon , M.J. Eck , and S.E .
+Shoelson .
+1998 .
+Crystal structure of the tyrosine phosphatase SHP-2 .
+Cell .
+92:441-450 .
+Shevchenko , A. , I. Chernushevich , K.G .
+Standing , B. Thomp-son , M. Wilm , and M. Mann .
+1997 .
+R apid 'de novo '' peptide sequencing by a combination of nanoelectrospray , isotopic labelling and a quadrupole/ time-of-flight mass spectrometer .
+Rapid Commun .
+Mass Spectrom .
+11:1015-1024 .
+The interacting Transmembrane Adaptor Protein SIT

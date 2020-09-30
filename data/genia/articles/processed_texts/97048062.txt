@@ -1,0 +1,623 @@
+JOURNAL OF VIROLOGY , Nov. 1996 , p. 7819-7826 0022-538X , /96/ $ 04.00+0 Copyright © 1996 , American Society for Microbiology Vol .
+70 , No .
+11 Comparative Analysis Identifies Conserved Tumor Necrosis Factor Receptor-Associated Factor 3 Binding Sites in the Human and Simian Epstein-Barr Virus Oncogene LMP1 MICHAEL FRANKEN , ' ODILE DEVERGNE , * `` MICHAEL ROSENZWEIG , `` BETHANY ANNIS , ' ELLIOTT KIEFF , `` anp FRED WANG ' !
+* Department of Medicine , Brigham & Women 's Hospital , } and Department of Microbiology and Molecular Genetics , Harvard Medical School , `` Boston , Massachusetts 02115 , and Department of Immunology , New England Regional Primate Research Center , Southborough , Massachusetts 01772 `` Received 21 May 1996/Accepted 23 July 1996 Nonhuman primates are naturally infected with a B-lymphotropic herpesvirus closely related to Epstein-Barr virus ( EBV ) .
+These simian EBV share considerable genetic , biologic , and epidemiologic features with human EBV , including virus-induced tumorigenesis .
+However , latent , transformation-associated viral genes demonstrate marked sequence divergence among species despite the conserved functions .
+We have cloned the latent membrane protein 1 ( LMP1 ) homologs from the simian EBV naturally infecting baboons ( cercopithicine herpesvirus 12 , herpesvirus papio ) and rhesus monkeys ( cercopithicine herpesvirus 15 ) for a comparative study with the human EBV oncogene .
+The transmembrane domains are well conserved , but there is striking sequence divergence of the carboxy-terminal cytoplasmic domain essential for B-cell immortalization and interaction with the tumor necrosis factor receptor signaling pathway .
+Nevertheless , the simian EBV LMP1Is retain most functions in common with EBV LMP1 , including the ability to induce NF-KB activity in human cells , to bind the tumor necrosis factor-associated factor 3 ( TRAF3 ) in vitro , and to induce expression of tumor necrosis factor-responsive genes , such as ICAM1 , in human B lymphocytes .
+Multiple TRAF3 binding sites containing a PXQXT/S core sequence can be identified in the simian EBV LMP1s by an in vitro binding assay .
+A PXQXT/S-containing sequence is also present in the cytoplasmic domain of the Hodgkin 's disease marker , CD30 , and binds TRAF3 in vitro .
+The last 13 amino acids containing a PXQXT/S sequence are highly conserved in human and simian EBV LMP1 but do not bind TRAF3 , suggesting a distinct role for this conserved region of LMP1 .
+The conserved TRAF3 binding sites in LMP1 and the CD30 Hodgkin 's disease marker provides further evidence that a TRAF3-mediated signal transduction pathway may be important in malignant trans- formation .
+Epstein-Barr virus ( EBV ) is a human herpesvirus which infects and persists asymptomatically for life in nearly all adults .
+In vitro , EBV infection of B cells results in perpetual cell proliferation , and in vivo , EBV contributes to uncontrolled cell proliferation in Burkitt 's lymphoma , B-cell lymphomas in immunodeficient patients , nasopharyngeal carcinomas , and Hodgkin 's disease ( for a review , see reference 40 ) .
+Old World primates are naturally infected with simian herpesviruses , referred to here as simian EBV , which share many molecular and biologic features with human EBV ( for reviews , see references 1 and 9 ) .
+Simian EBV can immortalize the growth of primary B cells in vitro ( 11 ) , and the viral genomes are colinear , with approximately 40 % nucleotide homology overall ( 14 ) .
+Human and simian serum antibodies cross-react with lytic cycle antigens from both human and simian EBV , and serologic studies indicate that seropositivity is as ubiquitous in adult monkeys as in humans ( 5 , 7 , 21 ) .
+Immunocom-petent nonhuman primates are persistently infected with simian EBV ( 25 , 38 ) , and simian EBV-infected B-cell lymphomas arise in animals immunosuppressed by the simian immunodeficiency virus ( 8 ) , thereby reproducing both the latency and tumorigenicity associated with EBV infection of humans .
+There is considerable conservation of lytic genes among all * Corresponding author .
+Mailing address : Department of Medicine , Brigham & Women 's Hospital , 75 Francis St. , Boston , MA 02115 .
+Electronic mail address : fredw @ bustoff.bwh.harvard.edu .
+7819 herpesviruses , as expected from the common viral structure and replication mechanisms ; however , the EBV latent genes associated with B-cell transformation are unique to the B-lymphotropic herpesviruses .
+One might predict that evolution of viruses sharing B-cell-immortalizing properties would select for human and simian EBV latent genes with similar functions through their interaction with cell proteins involved in growth regulation .
+These phylogenetically `` newer `` viral genes may not have the same degree of global sequence homology as the `` older `` lytic genes but are likely to share the essential amino acids residues necessary for interacting with conserved cell proteins .
+Indeed , the EBNA-2 and LMP2A homologs in the baboon EBV ( cercopithicine herpesvirus 12 , herpesvirus papio ) show striking global sequence divergence with those in human EBV , but the critical amino acid residues making up the functional domains are conserved ( 10 , 30 ) .
+The baboon EBNA-2 retains transcriptional transactivating function in human B cells by preserving a critical tryptophan repeat which mediates binding to the transcription factor RBP/Jk ( 29 ) , and the baboon LMP2A retains interaction with tyrosine kinases through conserved ITAM motifs despite significant global sequence differences ( 10 ) .
+Evolution of these related primate viruses has resulted in naturally occurring variants of transformation-associated viral genes which can provide insight into the mechanism of viral interaction with cell proteins .
+The EBV latent membrane protein 1 ( LMP1 ) is of particular interest since it is essential for B-cell immortalization and possesses transforming activity in rodent fibroblast assays ( 22 , 7820 FRANKEN ET AL .
+43 ) .
+The importance of LMP1 in malignant transformation is underscored by the frequent detection of LMP1 expression in vivo from immunodeficiency-associated B-cell lymphomas , Reed-Sternberg cells in Hodgkin 's disease , and both preneo-plastic and neoplastic nasopharyngeal lesions ( 16 , 36 , 48 ) .
+The mechanisms by which this integral viral membrane protein stimulates cell gene expression and contributes to cell proliferation remain to be delineated , but transfection studies have identified a number of targets that are activated by LMP1 expression , including B-cell activation antigens , cell adhesion molecules , vimentin , HLA class II , NF- « B activity , epidermal growth factor receptor , and the anti-apoptosis genes be/-2 and A20 ( 3 , 12 , 15 , 24 , 37 , 44 , 49 ) .
+Mosialos et al .
+have recently identified a novel tumor necrosis factor ( TNF ) receptor-associated protein , TRAF3 , which binds to the LMP1 cytoplasmic domain and is likely to be important for LMP1 signal transduction ( 34 ) .
+TRAF3 binds to other members of the TNF receptor family , including LTB receptor , CD40 , and the p80 subunit of the TNF receptor ( 4 , 17 , 34 ) .
+The strong association with CD40 is striking , since cross-linking of this B-cell surface receptor promotes long-term B-cell growth in vitro and an activated B-cell phenotype very similar to that of EBV-immortalized B cells ( 2 ) .
+Recent attention has focused on the LMP1 carboxy-terminal cytoplasmic domain , particularly the proximal 44 amino acids ( aa ) , as an important region for signal transduction and B-cell immortalization .
+The first 231 aa of the LMP1 gene is sufficient to immortalize B cells as shown by genetic analyses with recombinant EBV , and the proximal 44 amino acids of the LMP1 carboxy-terminal cytoplasmic domain ( aa 187 to 231 ) is essential for B-cell immortalization ( 22 , 23 ) .
+aa 187 to 231 of LMP1 is also sufficient for interacting with TRAF3 ( 34 ) .
+We have now cloned the LMP1 homologs from baboon and rhesus EBV ( cercopithicine herpesviruses 12 and 15 ) and compared these related viral oncogenes to identify TRAF3-binding sites in this critical LMP1 domain .
+MATERIALS AND METHODS Cell lines .
+$ 594 is a baboon B-cell line derived by spontaneous growth from baboon peripheral blood lymphocytes infected with baboon EBV ( kindly provided by P. Johnson and N. Letvin ) ( 38 ) .
+LCL8664 is a rhesus B-cell line derived from a retroorbital tumor in a rhesus monkey and is infected with a rhesus EBV isolate ( 39 ) .
+293 is a transformed human primary embryonal kidney cell line .
+DG75 is an EBV-negative human B-lymphoma cell line ( kindly provided by S. Speck ) .
+DNA cloning .
+( i ) Genomic cloning .
+High-molecular-weight DNA was prepared from LCL8664 cells induced for viral replication by transfection with an expression plasmid for the EBV transactivator , BZLF1 .
+Genomic DNA was digested with EcoRI and cloned into Bluescript .
+The LCL8664 genomic library was probed with a baboon EBV DNA clone , L8 , which is homologous to the EBV BamHI Nhet DNA ( 10 ) .
+Filters were washed at 50°C in 1 % and 0.5 % SSC ( 1 % SSC is 0.15 M NaCl plus 0.015 M sodium citrate ) , and a 9-kb rhesus EBV genomic DNA fragment ( RE1 ) homologous to the EBV genome coordinates between 160744 and 169742 was cloned .
+The spliced rhesus LMP1 sequence was deduced by sequencing the portion of RE1 representing the LMP1 coding region between EBV coordinates 169208 and 168966 .
+Splice sites were confirmed by cloning and sequencing reverse transcription-PCR amplification products from LCL8664 RNA .
+( ii ) cDNA cloning .
+A 2.4-kb partial baboon LMP1 cDNA was cloned by screening a cDNA library constructed from $ 594 polyadenylated RNA with the L8 DNA clone under stringent conditions ( 10 ) .
+Sequencing of the partial cDNA indicates that its 5 `` end corresponds to Ala-59 of the EBV LMP1 .
+The human , baboon , and rhesus LMP1 genes are positionally conserved in the EBV genomes on the basis of the sequence homology of the surrounding noncoding regions as originally suggested by the studies of Heller et al .
+( 14 ) .
+( iii ) Eukaryotic expression vectors .
+The baboon LMP1 partial cDNA and a 3.6-kb RE1 fragment containing the coding region for rhesus LMP1 were cloned under the control of the simian virus 40 early promoter in pSG5 ( Stratagene , La Jolla , Calif. ) .
+The baboon LMP1 carboxy-terminal cytoplasmic domain was amplified with a common 5 ' primer ( GAAGATCTCATGACACCCCCACTGAC ) paired with one of two 3 ' primers ( GAAGATCTCTAGGCATAGTAGCTC ATT or GAAGATCTCTAATCITTCTGGTCCGTGGTTT ) and cloned into the J. ViRoL .
+expression vector pSFneo ( kindly provided by A. Weiss and T. deFranco [ 20 ] ) to produce a CD8 fusion protein consisting of the CD8 transmembrane domain fused to the cytoplasmic domain of baboon EBV LMP1 with and without the terminal 12 amino acids .
+Each fusion protein construct was sequenced to confirm the fidelity of the amplification and cloning .
+The pSFneo expression vector containing the CD8 transmembrane domain fused to the carboxy terminus of the immunoglobulin alpha chain was used as a control .
+GST fusion protein expression and in vitro binding assay .
+The cytoplasmic tail of the rhesus LMP1 homolog starting at His-185 was amplified by PCR with two primers with flanking BamHI and EcoRI sites ( 5° CGGGATCCCATGATTTC AACCGTGC 3 ' and 5° CGGGAATTCCCTCTCAGTCGTAGTAGCTGA 3 `` ) and cloned into the BamHI-EcoRI site of the glutathione-S-transferase ( GST ) fusion protein vector pGEX ( Pharmacia ) .
+The cytoplasmic domain of the baboon LMP1 homolog starting at His-129 was cloned into EcoRI sites of pGEX in a similar manner with the primer pair 5° CGGGAATTCATGACACCCCCA CTGAC 3 ' and 5° CGGGAATTCCAGGTTGAAACAACTCAG 3 ' .
+The 187-aa cytoplasmic domain of CD30 was obtained by reverse transcription-PCR of RNA from a human B-cell line with CD3O-specific primers with flanking BemHI ( sense ; 5° GCGGGATCCCACCGGAGGGCCTGCAGGAAG 3 ' ) and EcoRI ( antisense ; 5° CGCGAATTCCTTACTTTCCAGAGGCAGCTGTGG 3 `` ) sites .
+Specific regions from the simian EBV LMP 1s and CD30 were cloned into pGEX with two overlapping oligomers and denatured at 95°C , annealed at 50°C , and extended at 72°C with Taq DNA polymerase for three cycles .
+The sense primers included a BamHI site and the antisense primer included a translational stop codon and an EcoRI site to facilitate cloning into the BamHI-EcoRI cloning site of pGEX .
+The amino acid residues included in these recombinant GST fusion proteins from baboon and rhesus EBV are indicated in Table 1 .
+All recombinant DNA constructs were confirmed by sequence analysis ( Sequenase ; Amersham ) .
+Radiolabelled TRAF3 was prepared by in vitro transcription-translation with a 2 4-kb cDNA encoding TRAF3 and the TnT T7-coupled reticulocyte lysate system from Promega as specified by the manufacturer ( 34 ) .
+In vitro GST-binding assays were performed as described by Mosialos et al .
+( 34 ) .
+Transfection , CAT assays , and fluorescence-activated cell sorter ( FACS ) anal-ysis .
+Transfections were performed by electroporation as previously described ( 45 ) .
+For chloramphenicol acetyltransferase ( CAT ) assays , cells were transfected with 5 jpg of a NF- « B-inducible CAT reporter construct ( containing three NF- « B-binding sites upstream of a minimal herpes simplex virus thymidine kinase promoter-driven CAT gene ) ; 10 ug of a plasmid containing either a simian virus 40 promoter-driven human , baboon , or rhesus LMP1 gene or the simian virus 40 carly promoter alone ; and 10 pg of a simian virus 40-driven B-galactosidase gene .
+Cell extracts were normalized for transfection efficiency by measuring the B-galactosidase activity , and CAT assays were performed as described previously ( 45 ) .
+For FACS analysis of ICAM1 induction , 10 `` DG75 cells were cotransfected with 15 g of a CD2 expression vector ( pB2 ; kindly provided by Linda Clayton ) and 15 pg of control vector or simian LMP1 expression vector DNA as indicated .
+After 18- to 24-h incubations , viable cells were harvested over a Ficoll-Hypaque gradient and stained for CD2 expression with an anti-CD2 monoclonal antibody conjugated to phycoerythrin ( T6.3 ; EXAlpha ) and for ICAM1 expression with an anti-CD54 monoclonal antibody ( 15.2 ; Southern Biotechnology ) conjugated to fluorescein isothiocyanate .
+Cells transfected with the CD8 fusion proteins were stained with an anti-CD8 monoclonal antibody ( 17D8 ; EXAlpha ) conjugated to phycoerythrin .
+Dual-color surface fluorescence was analyzed on a Becton Dickinson FACScan , and at least 20,000 events were recorded for each population .
+Controls included matched isotype control antibodies to establish negative gates and cells stained with a single fluorochrome to establish appropriate compensation of fluorochrome bleedthrough .
+Nucleotide sequence accession numbers .
+The nucleotide sequences for the partial baboon LMP1 cDNA and genomic rhesus EBV DNA containing the LMP1 coding region have been deposited with GenBank under accession numbers U45963 and U45964 , respectively .
+RESULTS Carboxy-terminal cytoplasmic domains of simian EBV LMP1s show marked sequence divergence .
+The hydrophobic membrane-spanning domains of the human , rhesus , and baboon EBV LMP1 homologs are well conserved , with 44 % amino acid identity among all three genes in the four and one-half transmembrane domains where sequences from all three are available for comparison ( Fig .
+1A ) .
+In sharp contrast , the sequences of all three genes diverge dramatically in the carboxy-terminal cytoplasmic domain , with only a few isolated regions of homology .
+Within the proximal 44 aa of the carboxy-terminal cytoplasmic domain , there is a region of similarity among all three genes in human aa 199 to 210 , baboon aa 241 to 252 , and rhesus aa 337 to 348 ( Fig .
+1A ) .
+In addition , there is striking homology at the extreme carboxy terminus , where the last 13 VoL .
+70 , 1996 TRAF3 BINDING SITES IN EBV LMP1I 7821 A Human MEHDL ERGP PGP RRPPREPP LSSSTGLALLLLCLALLFWLY IYHSDUTGGACEYTYSFALCMLTIITLIIFIpRRD 7s Rhesus MEGN- - RGRGGSNRHPRCPQPHASLLFGSLLLLYAILYWFEFIIMSDLTQTASTYLSSFAYYLITITITIMLFERR 73 Baboon AIIMVVITIITIMLFGRR 17 * ... .. '* .
+** -- *n* Huma it LLCPLGALCILLLMITLLLIALMN LHGOALFLEIVLFTFECLLYLGTWIYL LEMLWRLGATIWOLLAFFLAFFLD 159 Rhesus LLCPLGLLCIILIMEIVILYSNULTLTGOTLEVG LVI LCLCT LLALAYVWFYILMWL LREYGASFWTEELAFCLAFLLA 148 Baboon LLCPLGLLCLIFTVSALLTAMLWTLTEGYLEVETLELFLTLTLALLVWCYILMWLLRGLGASWWTIILSFCLAFELA | 92 LE ALLA ii-ll ” 2.4 .
+* “ k t1 .
+*t ‘ ~k.l `` .
+* .
+* '\l ‘ ki ‘ .
+-* .
+K* , ow Ik't wok % Hunan LILLIIALY LAONWWTILLYDLLWLLLFLATLIMMYYR~~- < < = < < < css secs s es eke kk casa sabes ess 187 Rhesus TYVFLTIAYLLHLAWETYLYDLYWLLLELATLINIYYHOFNRATPEALANLEEEYNHOGHGHGGGOGOEKGPRVLL 223 Baboon TYL LTTAYL HRCAWF TII LME LE LLE = -- =- ~~~ RGDEDDGAGGPPLLL 158 `` ti-it .
+* .
+, . * .
+* .
+*.. * it'**li_itt .
+* * r- » cytoplasmi Human -GQRHSDEHHJ ?
+?
+¥1 ?
+?
+?
+E -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 197 Rhesus - = == -=~*~ HHHHHKNSNQGDPLGPYYSONGGNGGNEGDEGNRDGGNEDGGNGDGENYGDGGN 288 Babson YGEDGPDNNNHTNPPYYYYLM- = « == a+ ~- « ea sak 444000009 e eae n sateen ce eca nes noc n eek s 179 a > - ; ; -t - < =n= =t ses 08 sac DDSLPHPQOATODSG 212 Rhesus GNGGNGDGGNGDGGNGDGENEG- - -- - - -- -+ ~~ PDHLPYPIQATDEGNGGEGDEGNEGPDPLPYPIOATDGGN 350 Babson 253 * Wok ow ow Human HESOSNSNEGRHELLYSGAGNGPPLCSQNLGAP- -- -k « s= GGGPDNGPQDPDNTDD~~~~- -- 261 Rhesus | ~- GDGD-~-~+ -- ~~ -- GGNGGNGGGGGDPDHLPH-PTOATOGANSGE 390 Babgar = SCVGEG- - -- ~~~~-GGPDODPHPPVOETGGGGSGYGGGGEPDODPHPPVOETGGGGSGY 304 2* I ‘ .l- & acte | ow , *20 % 2 ... HUMAM - nn noma n e # 4 < no no nn e rR a coc ono o ee ee de con onn nn ew e keno n conn n cee ee e ke coe cnc 261 Rhesus GCDGGDEEDGEGGGDRGPFAPYYSOGPSGDPOHLPHPMOASDGGDGLEPYGPAGPFTOGPSWPWGPFGTEPLEGPW 465 Baboon GG6§ @ - tn ent t nnn ae ne- ee Ren nnn nes eee nen e nan n beeen enemee maa eee 309 HUMAR = * fft sk ass NGPQDPDMN-~ -- ~ -- -TODNGP 275 Rhesus GPFGPGPCEPHGPWCENNNHG E LOETEE SGPNMLLTLGGEGNSYHLNDIRGNGGNGPONPDN- -- - - ~~~ SNGSGP 532 Baboon = PDQDPMPPWGETGEGG-~~ + < = < = =+ GGGSDGNQDPNHFPYYAQFHGDGGGG 351 ~i *-* -- llcc `` Human HDPLPGDPDNTDDNGPQDPDNT DDNGP HDPLPHSPSDSAGNDGG- -- -- - - PPQLTEEVENKGEDGGPPLMTDGG 343 Rhesus GGPHNQQPESNEGG @ PP -- - - < a « < a > -- - > s GPTDGEGNNEGPDSPP -- ~-~ -- ~~~~- SNQGPQ -- -- -- 569 Baboon G & A- -- nn nnn + + > ro SHPP IOETGNSGGGNHGP E+ -- - -- < -on > < = 69 coco - > 375 2 .
+Jok , * .
+, * Human GGHSHDSGHEGGDPHLPTLLLESSGSGGDODDPHGPVOLSYYD 386 Rhesus | GPEGC°GDPADFIQLSYYD 586 BaBQQM = DDPHGPVOMSYYA 389 .
+, * # li_l'_i : **_ B ta TM Cyto NH , 1 14 T ~1 COOH B C Ey iif 4 LMP ] if A B _C D E F Rhesus F LMP1 | A B CiC : DE Baboon Pil SEH Mo LMP ] h 1 1 t 1 1 1 I 0 100 200 300 400 500 600 FIG .
+1 .
+( A ) Amino acid alignment of human LMP1 ( B95-8 strain ) with the full-length rhesus and partial baboon LMP1 sequence .
+Hydrophobic transmembrane domains are boxed , and the carboxy-terminal cytoplasmic domain is indicated by an arrow .
+Identical amino acid residues conserved in all three genes are indicated by asterisks , and conserved residues in all three genes are indicated by dots .
+Regions with PXQXT/S core sequences are underlined .
+( B ) Graphical representation of human and simian LMP1 proteins .
+Transmembrane ( TM ) domains are indicated by stippled boxes .
+Regions with PXQXT/S core sequences are identified by solid boxes and labeled in alphabetical order .
+The conserved carboxy-terminal PXQXT/S core sequences with tyrosine repeats are identified by hatched boxes .
+amino acids are 58 % identical and 92 % similar across all three genes .
+The alignment of the simian LMP1s with human LMP1 aa 199 to 210 reveals a common P ( X ) Q ( X ) T sequence ( Fig .
+1A ) .
+The shared sequence can be extended upstream to D ( XX ) P ( X ) P ( X ) Q ( X ) T if spacing is introduced into the baboon LMP1 sequence .
+A number of similar regions with a PXQXT core sequence can be identified throughout the LMP1 cytoplasmic domains .
+The baboon PXQXT region homologous to human aa 199 to 210 is the first of four regions ( aa 241 to 252 , aa 263 to 276 , aa 287 to 300 , and aa 311 to 324 ) which lie within perfect or near-perfect 24-aa and 72-nucleotide repeats .
+The last 13 amino acids at the carboxy terminus of all three LMP1s contain a similar PXQXT sequence , where serine has been substituted for threonine followed by conserved double tyrosine residues .
+A total of six and eight PXQXT/S-containing regions can be identified in the rhesus and baboon LMP1 , respectively , and these are numbered arbitrarily from proximal to distal by letter , illustrated graphically in Fig .
+1B ; the sequences for each region are compared in Table 1 .
+Rhesus and baboon LMP1s induce NF-KB activity in human cells similar to human LMP1 .
+We asked if the simian LMP1s with divergent carboxy-terminal cytoplasmic domains could still induce NF- « B activity in human cells similar to that de 7822 FRANKEN ET AL .
+TABLE 1 .
+TRAF 3 binding in vitro by PXQXT/S-containing regions in the cytoplasmic domains of rhesus and baboon LMP1 vis yp Amino Muta- Sequence `` TRAF } origin acid `` _ tion binding `` Rhesus A 312 DHLPYPIQATDG ND Rhesus B 337 DPLPYPIQATDG ++++ Rhesus C 374 DHLPHPIQATDG ++++ Rhesus C ( PAA ) 374 P -A DHLPHAIQATDG + Rhesus C ( QAA ) 374 Q -A DHLPHPIAATDG + Rhesus C ( TAA ) 374 T- A DHLPHPIQAADG + Rhesus D 422 DHLPHPVQASDG ++++ Rhesus E 480 NNNHGPLOETGP Rhesus F 575 GDPADPIQISYYD Baboon A 201 DPLRTPVQESGY ++++ Baboon B 215 PPNPRPPVQETGGG ++++ Baboon C1 241 DQDPHPPVQETGGG ++++ Baboon C2 263 DQDPHPPVQETGGG Identical to C1 Baboon C3 287 DQDPHPPVQETGGG Identical to C1 Baboon C4 311 DQDPHPPVQETGEG ND Baboon D 355 GPPSHPPIQETGNG ND Baboon E. 376 DPHGPVQMSYYA Human A 199 DSLPHPQQATDDSGHE 4b° * Amino acid residues of the LMP1 carboxy-terminal cytoplasmic domain from each herpesvirus fused to GST are shown with the amino acid number of the first residue indicated .
+® Average binding of input TRAF3 from multiple assays is indicated by ++++ ( > 50 % ) , +++ ( 30 to 50 % ) , ++ ( 20 to 30 % ) , + ( 10 to 20 % ) , + ( 1 to 10 % ) , and - ( < 1.0 % ) .
+ND , not done .
+© Reference for data for the human LMP1 sequence .
+scribed for human LMP1 ( 12 , 24 , 33 ) .
+The rhesus genomic and baboon cDNA clones containing the LMP1 coding regions were cotransfected into 293 cells with an NF-kB reporter plasmid containing three NF- « B elements upstream of a minimal herpes simplex virus thymidine kinase promoter .
+Human LMP1 expression results in a greater than fourfold increase in CAT activity compared with the reporter construct cotransfected with vector control plasmid ( Fig .
+2 ) .
+Cotransfection of either the rhesus or baboon LMP1 expression plasmids with the NF-kB reporter construct results in a similar four- to five-fold increase in CAT activity with respect to vector control cotransfection .
+The increase in CAT activity is due to increased NF-KB activity because the same constructs cotransfected with an identical reporter construct lacking the NF- « B sites did not result in increased CAT activity .
+Similarly , the increase in CAT activity is specific for LMP1 because cotransfection of human or baboon LMP2A with the NF-kB reporter plasmid has no significant effect on CAT activity ( data not shown ) .
+Thus , human , baboon , and rhesus LMP1 genes share the ability to induce NF- « B activity in human cells .
+Binding of human TRAF3 by the rhesus and baboon LMP1 carboxy-terminal cytoplasmic domain .
+We used an in vitro binding assay to find whether the divergent cytoplasmic LMP1 domains of the simian EBVs also retain the ability to bind human TRAF3 ( 34 ) .
+Radiolabeled human TRAF3 from in vitro translation of a full-length cDNA clone was incubated with Sepharose beads coupled to GST proteins fused with the entire rhesus or baboon LMP1 carboxy-terminal cytoplasmic domain .
+No TRAF3 is bound by the beads containing the GST control protein , but both rhesus and baboon LMP1 cytoplasmic domains readily bind TRAF3 ( Fig .
+3A ) .
+Regions of 12 to 14 aa containing the PXQXT/S core sequence bind TRAF3 .
+Devergne et al .
+have recently identified that the TRAF3-binding site in human LMP1 maps to a 16-aa J. ViRoL .
+region around the PXQXT/S core sequence at human aa 199 to 214 ( 4b ) .
+This region is identical to the TRAF3-binding rhesus LMP1 regions except for novel residues at -3 , +1 , and +6 .
+We asked if the simian LMP1 regions aligning with the human aa 199 to 210 , as well as other PXQXT/S-containing regions , could bind TRAF3 .
+GST fusion proteins containing the 12 aa of the rhesus B , C , D , and E regions and 13 aa of the rhesus F region were evaluated by the in vitro-translated TRAF3-binding assay .
+A representative experiment is shown in Fig .
+3B , and multiple experiments are summarized in Table 1 .
+The rhesus B , C , and D regions all bind to TRAF3 .
+The sequence from the rhesus D region is identical to the C region except for a valine at position +1 and a serine in position +4 relative to the proline in PXQXT/S , indicating that a serine or threonine residue at +4 in the core sequence is still associated with TRAF3 binding .
+The A region was not directly tested , since it is identical to the B region except for a histidine residue at -4 relative to the PXQXT/S core sequence , and experiments with the B and C regions indicate that histidine residues at both positions -1 and -4 still allow for TRAF3 binding .
+The E region fails to bind TRAF3 and contains several differences from the other rhesus regions , including a glutamic acid at +3 and several residues upstream of the PXQXT/S core sequence .
+We tested the importance of the proline , glutamine , and threonine/serine residues in the core sequence of these homologous regions by mutating each position individually within the rhesus C region to determine their effect on TRAF3 binding .
+Mutating the proline in the PXQXT/S core sequence [ GST-R ( C ) PAA in Fig .
+3B ] abrogates most of the TRAF3 binding in these assays .
+In multiple experiments , the mutant GST-R ( C ) PAA protein has an average of 9 % of the TRAF3-binding activity demonstrated by the wild-type GST-R ( C ) construct .
+Mutation of either the glutamine or threonine to alanine also results in significant reduction of TRAF3 binding [ GST-R ( C ) QAA and GST-R ( C ) TAA have an average of 18 and 23 % , respectively , of the wild-type GST-R ( C ) -binding activity ] .
+In contrast , mutation of the leucine at -3 in the rhesus C region had no effect on TRAF3 binding ( data not shown ) .
+These data support the hypothesis that the proline , glutamine , and threonine/serine residues represent important core sites within these conserved regions .
+GST fusion proteins containing the baboon LMP1 regions A , B , C1 , and E were similarly constructed and tested .
+The GST fusion proteins with 12 aa from baboon region A or 14 aa from region B or C all bind TRAF3 well ( Fig .
+3C ) .
+The TRAF3 binding by baboon region A provides another instance in which the PXQXT/S core sequence contains a serine at position +4 .
+Baboon TRAF3-binding regions have a glutamic acid at position +3 , in contrast to an alanine in the rhesus TRAF3-binding regions , suggesting that this substitution is not responsible for the lack of TRAF3 binding by rhesus region E. All TRAF3-binding regions from baboon LMP1 contain a valine at position +1 , similar to rhesus region D , indicating that a valine can be paired with either serine or threonine in the PXQXT/S core sequence .
+A PXQXT/S-containing region in the CD30 cytoplasmic domain also binds TRAF3 .
+CD30 is a member of the TNF receptor superfamily and is expressed in both EBV-infected B cells and Reed-Sternberg cells in Hodgkin 's disease ( reviewed in reference 6 ) .
+There is a PXQXT/S-containing region at aa 561 in the CD30 cytoplasmic domain which is similar to the baboon LMP1 region C ( Fig .
+4A ) .
+A GST fusion protein containing the entire CD30 cytoplasmic domain binds TRAF3 in vitro ( Fig .
+4B ) .
+We tested whether the region containing the PXQXT/S core sequence mediates this binding by using a GST VoL .
+70 , 1996 Average Reporter plasmid Effector _ fold stimulation TK-CAT vector 1 `` H-LMP1I 0.3 `` B-LMP1 0,5 `` R-LMP1 0.4 NFkB-TK-CAT vector 1 `` H-LMP1 4.5 `` B-LMP1 4.6 `` R-LMP 1 4.0 FIG .
+2 .
+Induction of NF- « B activity by human and simian LMP1 in human 293 cells .
+The average fold induction of CAT activity from three experiments is shown , along with a representative assay .
+Extracts for CAT assays were normalized for transfection efficiency by a B-galactosidase assay .
+CAT reporter plasmids were cotransfected with pSG5 vector control ( vector ) and pSGS vectors with human ( H-LMP1 ) , baboon ( B-LMP1 ) , and rhesus ( R-LMP1 ) LMPL fusion protein containing only 17 aa surrounding the core sequence ( Fig .
+4B ) .
+The GST fusion protein with only this 17 aa of CD30 binds TRAF3 in vitro , although to a lesser extent than does the entire cytoplasmic domain ( average of 78 % versus 17 % binding of input TRAF3 ) .
+A direct role for the PXQXT/S core sequence in the CD30 cytoplasmic domain is demonstrated by the elimination of all TRAF3 binding when the glutamine residue is mutated to an alanine ( < 0.1 % [ Fig .
+4B ] ) .
+Thus , TRAF3-binding regions containing a PXQXT/S 66 kda - : TRAF : 45 kda FIG .
+3 .
+In vitro TRAF3-binding assay .
+Radiolabeled in vitro-translated TRAF3 was precipitated with control GST fusion protein or GST proteins fused to the complete baboon ( GST-B-LMP1 ) or rhesus ( GST-R-LMP1 ) carboxy-terminal cytoplasmic domain .
+GST proteins were also fused to single regions containing PXQXT/S core sequences from baboon [ GST-B ( A through E ) ] and rhesus [ GST-R ( A through F ) ] LMP1 .
+GST proteins in which alanine residues were substituted for the proline , glutamine , or threonine residue of the PXQXT/S core sequence are indicated by PAA , QAA , and TAA , respectively .
+TRAF3 BINDING SITES IN EBV LMPI 7823 A GST-B ( C ) DODPHPPVQETCCG GST-CD30-pep ADHTPHYPEGQETEPPLG GST-CD30-pepQAA ADHTPHYBEARTEPPLG 66 kda-TRAF3 45 kda FIG .
+4 .
+( A ) PXQXT/S-containing region from CD30 cytoplasmic domain compared with baboon region C ; ( B ) in vitro TRAF3-binding assays with GST-CD30 fusion proteins .
+GST fusion proteins containing the complete CD30 cytoplasmic domain ( GST-CD30 ) , the region containing the PXQXT/S core sequence from aa 561 to 577 of CD30 ( GST-CD30-pep ) , or the same region with the glutamine mutated to an alanine residue ( GST-CD30-pepQAA ) are shown .
+core sequence are present in both viral and cell proteins associated with malignant transformation .
+Simian LMP1s can induce cell surface expression of the TNF-responsive ICAM1 gene in human B lymphocytes .
+Conserved TRAF3 binding suggests that the simian LMP1s should be capable of inducing the expression of a human LMP1- and TNF-inducible gene such as ICAM1 ( 31 , 35 , 37 , 44 , 46 ) .
+LMP1 expression vectors were cotransfected with a CD2 expression vector into the EBV-negative B-lymphoma cell line DG75 to test for the effect on ICAM1 expression .
+Cell surface CD2 expression was used to identify transiently transfected cells , most of which will have been cotransfected with LMP1 DNA as well .
+As shown in Fig .
+5A , DG75 cells express a low level of cell surface ICAM1 in untransfected cells , and the level of ICAM1 expression is unchanged by CD2 expression when cotransfected with the vector control DNA .
+When the CD2 DNA is cotransfected with a human LMP1 expression vector , ICAM1 is induced in the CD2-positive cells while the CD2-negative cells show baseline ICAM1 levels .
+Transfection of the rhesus or baboon LMP1 expression vector activates ICAM1 expression to levels similar to those of human LMP1 .
+The percentage of CD2-positive cells in human LMP1 cotransfected cells is consistently reduced and may reflect the previously recognized cell toxicity associated with high-level LMP1 expression ( 13 ) .
+In contrast , cotransfection with rhesus or baboon LMP1 consistently results in CD2 transfection effi-ciencies comparable to or higher than those of cells cotransfected with vector control plasmid .
+Thus , the simian LMP1s fail to demonstrate the cell toxicity typically associated with high-level LMP1 expression in human B cells .
+Signal transduction from the baboon LMP1 cytoplasmic domain containing multiple TRAF3-binding sites does not require LMP1 transmembrane domains or patching .
+The functional activity from the partial baboon cDNA clone suggests that intact transmembrane domains are not required for signal transduction by the baboon LMP1 .
+This was unexpected since similar truncations of the human LMP1 transmembrane domains abrogate patching in the cell membrane and induction of cell gene expression ( 28 ) .
+To determine if signal transduction from the baboon LMP1 can be independent of the transmembrane domains , the baboon LMP1 carboxy-terminal cytoplasmic domain was fused to the CD8 transmembrane domain .
+Transfection of the CD8-control or CD8-baboon cytoplasmic domain results in a typical diffuse surface immunofluorescence pattern when stained with an anti-CD8 monoclonal antibody ( data not shown ) .
+The CD8-baboon LMP1 cytoplasmic fusion 7824 FRANKEN ET AL .
+Exp # Lo 2 1002 We e cells 68 % 3 gey - 04 % p gy , A » 19 % 3 5 % , 16.0 % 94 % - ] a 8s n o 5 _o T No- B o _o T T Mean Fluorescence Intensity ICAMI O o 0 & B 2 Ae : CD2 - =+ ) 0 =k 00 =f = } 0 to -+ A .zt_ cole Vector H-LMPI B-LMP1 R-LMPI | Mcan Fluorescence Intensity ICAMI cD - =pos=t | =p = } o - } -f DG75 Nh CDW Cells CD & AIga _ CD # /B-LMPL p rypjap FIG .
+5 .
+Induction of ICAM1 cell surface expression in DG75 cells after CD2 cotransfection with human and simian LMP1 ( A ) or cotransfection with CD8-baboon LMP1 fusion constructs ( B ) .
+Surface expression of ICAM1 on untransfected DG75 cells is shown by the open bars .
+ICAM1 expression on CD2-positive ( solid bars ) or -negative ( stippled bars ) ( A ) and on CD8-positive or -negative ( B ) cells within a given transfection is indicated .
+Vector plasmids were pSG5 ( A ) and CD8 fused to the immunoglobulin alpha chain ( B ) .
+( A ) Expression vectors for human , baboon , and rhesus LMP1 in pSGS ; ( B ) CDS fusion proteins with the complete baboon LMP1 carboxy-terminal cytoplasmic domain with ( CD8/B-LMP1 ) and without ( CD8/B-LMP1AE ) the terminal 13 aa of the E region .
+still activates ICAM1 expression in DG75 cells ( Fig .
+5B ) .
+Thus , the baboon LMP1 carboxy-terminal cytoplasmic domain is sufficient for signal transduction and does not require the conserved LMP1 transmembrane domains .
+Deletion of the well-conserved carboxy terminus ( baboon region E ) does not affect the ability of the CD8-baboon LMP1 fusion to induce ICAM1 ( Fig .
+5B , CD & 8/B-LMP1AE ) .
+Thus , this well-conserved LMP1 region does not bind TRAF3 in vitro and is not essential for ICAM1 induction .
+DISCUSSION We have cloned and analyzed the EBV LMP1 oncoproteins from two related B-lymphotropic herpesviruses which naturally infect rhesus monkeys and baboons .
+The LMP1 sequences from related herpesviruses infecting two Old World monkeys within the same family ( Cercopithidae ) are as divergent from each other as they are from human EBV , but function has been conserved in all LMP1s with regard to inducing NF- « B activity , binding TRAF3 in vitro , and inducing the TNF responsive gene , ICAM1 .
+Similar functional conservation in the setting of global sequence heterogeneity has now been demonstrated for EBNA-2 , LMP2A , LMP1 , and EBNA-1 ( 10 , 30 , 33a ; also see above ) .
+The cell protein targets identified to date for these viral genes are relatively well conserved and can not explain the low degree of homology for latent gene sequences among primate EBVs .
+An immunodominant T-cell epitope has been J. ViRoL .
+identified for human LMP2A but lies within a relatively well-conserved transmembrane domain so that immune selection is not an obvious cause for the global sequence divergence ( 10 , 27 ) .
+Sequence diversity in EBV is unlikely to evolve rapidly , since EBV persistence in humans is not dependent on continuous replication ( 47 ) and since herpesviruses replicate their DNA genomes with relatively high fidelity .
+A more likely explanation is that these latent , transformation-associated viral genes are a relatively recent evolutionary event from a relatively heterogeneous gene pool with selection for specific amino acid residues defining common molecular interactions with conserved cell proteins .
+This comparative analysis of naturally occurring TRAF3-binding regions in the human , baboon , and rhesus LMP1 and CD30 cytoplasmic tails provides an initial profile of a TRAF3-binding motif .
+The minimal TRAF3-binding region from these in vitro studies was 12 aa incorporated into a GST fusion protein .
+The proline and glutamine residues of the core sequence were invariant in all the TRAF3-binding regions studied here ( Table 2 ) .
+The importance of these residues is confirmed by the marked decrease in binding when either residue is mutated to an alanine .
+Additional evidence for the importance of the threonine/serine residue in the core PXQXT/S sequence comes from the previous observation that threonine 234 of CD40 , which is part of a PXQXT/S sequence in the CD40 cytoplasmic domain , is essential for both TRAF3 binding and CD40 signaling ( 17 , 19 ) .
+Similarly , mutation of the threonine in the PXQXT/S core sequence of the rhesus region C in our studies significantly reduces TRAF3 binding .
+However , PXQXT/S-containing regions may not represent the only TRAF3-binding sites , since other TRAF3-binding receptors , e.g .
+, the p80 subunit of the TNF receptor , do not have a PXQXT/S core sequence but can still interact with TRAF3 in vitro ( 34 ) .
+These studies also indicate that a PXQXT/S core sequence is not sufficient for TRAF3 binding ( e.g .
+, rhesus regions E and F and baboon region E [ Table 1 ] ) .
+In these instances , this may be due to the differences within the core sequence at positions +1 and +3 .
+Four different residues are tolerated at position +1 in TRAF3-binding regions from LMP1s and CD30 , but only glutamic acid or alanine residues are found at position +3 ( Table 2 ) .
+It is also likely that the residues surrounding the PXQXT/S core sequence and the three-dimensional structure of the core sequence are important .
+For example , a GST protein fused to 16 aa from the CD40 cytoplasmic domain including the PVQET core sequence fails to bind TRAF3 in vitro despite the reported TRAF3-binding activity of the entire CD40 cytoplasmic domain fused to GST and the essential role of the CD40 threonine 234 in the context of the whole CD40 cytoplasmic domain ( 9a , 17 , 19 ) .
+Similarly , a GST protein fused to only a PXQXT/S core sequence within a 12-aa alanine backbone does not bind to TRAF3 in vitro ( data not shown ) .
+TABLE 2 .
+Amino acid residues found in the TRAF3-binding regions from CD30 and LMP1 genes Residue at position : -500 0-4 0-30-20 -10 00 +110 420 430 +40 450 +6 D H L P H P I Q A T D G P P P R Y V E S G D Q D H P Q E Y H N T E P S T VoL .
+70 , 1996 More heterogeneity is present in the residues outside of the PXQXT/S core sequence of LMP1 and CD30 TRAF3-binding regions ( Table 2 ) .
+The residues surrounding the PXQXT/S core sequence in TRAF3-binding regions from rhesus LMP1 ( A , B , C , and D ) are relatively similar to each other and to human LMP1 ( Table 1 ) .
+However , residues upstream of the PXQXT/S core sequence from the baboon TRAF3-binding regions ( A , B , and C ) are quite different from each other and from the other simian and human LMP1 regions .
+The CD30 TRAF3-binding region introduces additional heterogeneity in the residues surrounding the PXQXT/S core sequence .
+Thus , it is difficult to deduce a common motif for the essential residues outside of the PXQXT/S core sequence by using these naturally occurring TRAF3-binding regions .
+Interestingly , the human LMP1 appears to have a single TRAF3-binding site ( 4b ) whereas multiple TRAF3-binding regions are repeated in both simian LMP1s .
+Quantitative analysis of in vitro TRAF3 binding suggests that the GST proteins fused to simian LMP1 cytoplasmic domains can bind about three times more TRAF3 than can human LMP1 when assayed on an equimolar basis ( data not shown ) .
+This suggests that the multiple TRAF3-binding sites in simian LMP1s either bind multiple TRAF3 molecules or act in concert to enhance the affinity of TRAF3 binding .
+The ability of the partial baboon LMP1 cDNA to induce ICAM1 and NF- « B activity and the ability of the CD8-baboon LMP1 fusion to induce ICAMI1 expression also suggest that the multiple TRAF3-binding sites might be functionally relevant , since it is predicted that these mutant LMP1 proteins would not patch in the cell membrane .
+Thus , different mechanisms can contribute to TRAF3 clustering and signalling through the TNF receptor pathway : cross-linking of receptor and ligand , such as CD40 with CD4O0L ( 30 ) ; constitutive aggregation/patching of a TRAF3 binding protein , such as LMP1 ( 27 , 41 ) ; and multiple TRAF3 binding sites within a single cytoplasmic domain , as in the simian LMP1s .
+Recent genetic and functional studies have increasingly focused on the LMP1 carboxy-terminal cytoplasmic domain and on differences between the proximal and distal carboxy-terminal cytoplasmic domains .
+Recombinant EBV containing an LMP1 truncated at aa 231 can still immortalize B cells when a feeder cell layer is provided , indicating that the proximal 44 aa of the carboxy-terminal LMP1 cytoplasmic domain is sufficient for B-cell growth transformation but suggesting that the distal sequences also provide a growth factor-like effect ( 23 ) .
+The results of Mosialos et al .
+( 34 ) , Devergne et al .
+( 4a ) , and the present study suggest that the critical region within those proximal 44 aa is a TRAF3-binding domain containing a PXQXT/S core sequence .
+Indeed , the protein sequence of this proximal human LMP1 PXQXT/S core sequence is invariant from all human EBV isolates sequenced to date , whereas the PXQXT/S core sequence in human LMP1 region B is frequently disrupted by strain variation ( 32 , 42 ) .
+Other studies indicate that the majority of NF- « B-inducing activity resides in the more distal portions of LMP1 , specifically the last 55 aa , despite the essential role for the proximal 44 aa of the carboxy-terminal cytoplasmic domain ( 18 , 33 ) .
+Our studies demonstrate that human and simian LMP1s induce NF- « B activity to comparable levels in human fibroblasts and that the most homologous region within the last 55 aa lies within the terminal PXQXT/S core sequence followed by a tyrosine re-peat .
+This region fails to bind TRAF3 in vitro ( in human EBV [ 4a ] and simian EBV [ see abovel ) , suggesting that this well-conserved terminal region may play an important role in inducing NF- « B activity by a TRAF3-independent mechanism .
+It is interesting that the simian LMP1s are not associated with the marked cell toxicity typically demonstrated by human TRAF3 BINDING SITES IN EBV LMPI 7825 LMP1 expression , despite comparable or better TRAF3 binding in vitro .
+Human LMP1 cell toxicity is frequently demonstrated by the difficulties associated with transient and stable LMP1 transfection ( 13 ) .
+Although LMP1-induced cell toxicity can be minimized by modifying transfection techniques , the simian LMP1s have different effects on cell survival from that of human LMP1 under identical transfection conditions in these experiments .
+The induction of cell toxicity after LMP1 transfection has made it difficult to determine whether the induction of anti-apoptotic genes be/-2 and A20 associated with stable LMP1 transfection are due to direct stimulation by LMP1 or a cell response to LMP1 cytotoxic effects ( 15 , 24 , 31 , 41 ) .
+It will be interesting to determine whether the less toxic simian LMP1s are still capable of inducing be/-2 and A20 .
+Whether the lack of cytotoxicity with simian LMP1 is due to differences in TRAF3-binding affinity intracellularly or to an unrelated mechanism remains to be determined .
+Conservation of a common TRAF3-binding site in CD30 and the simian and human LMP1s provides compelling evidence that a TRAF3-dependent signalling pathway plays an important role in the malignant transformation associated with these genes .
+CD30 and LMP1 expression is closely associated with the Reed-Sternberg cells in Hodgkin 's disease .
+CD30 is a member of the TNF receptor superfamily which was originally discovered as a Hodgkin 's disease marker expressed at high levels on Reed-Sternberg cells ( 6 ) .
+There is increasing evidence for a causal association of EBV in certain types of Hodgkin 's disease , and LMP1 is commonly expressed in Reed-Sternberg cells ( 16 ) .
+In addition , LMP1 expression is common in other human malignancies , including EBV-infected B-cell lymphomas and nasopharyngeal carcinomas , and LMP1 is the only EBV latent gene which demonstrates oncogene properties in rodent fibroblast assays ( 36 , 43 , 48 ) .
+Simian EBVs are frequently found in B-cell lymphomas arising in monkeys with simian immunodeficiency virus-induced immunodeficiency , similar to the B-cell lymphomas occurring in AIDS patients ( 8 , 26 ) .
+The diversity of peptide sequences associated with these TRAF3-binding sites and the possibility of other , non-PXQXT/ S-containing TRAF3-binding sites suggest that it may be possible to target the TRAF3 interaction to this viral oncogene with some level of specificity .
+ACKNOWLEDGMENTS This work was supported by USPHS grants CA68051 and CA65319 .
+MR. and the FACS facilities were supported by PHS P51RR00168-34 .
+MF .
+was supported by a grant from the Dr. Mildred-Scheel Stiftung fiir Krebsforschung .
+We thank George Mosialos , Amir Moghaddam and Paul Johnson for valuable advice and review of the manuscript .
+REFERENCES 1 .
+Ablashi , D. V. , P. Gerber , and J. Easton .
+1979 .
+Oncogenic herpesviruses of nonhuman primates .
+Comp .
+Immunol .
+Microbiol .
+Infect .
+Dis .
+2:229-241 .
+2 .
+Banchereau , J. , F. Bazan , D. Blanchard , F. Briere , J. P. Galizzi , C. van Kooten , Y. J. Liu , F. Rousset , and S. Saeland .
+1994 .
+The CD40 antigen and its ligand .
+Annu .
+Rev .
+Immunol .
+12:881-922 .
+3 .
+Birkenbach , M. , D. Liebowitz , F. Wang , J .
+Sample , and E. Kieff .
+1989 .
+Epstein-Barr virus latent infection membrane protein increases vimentin expression in human B-cell lines .
+J. Virol .
+63:4079-4084 .
+4 .
+Cheng , G. , A. M. Cleary , Z. S. Ye , D. I. Hong , S. Lederman , and D. Balti-more .
+1995 .
+Involvement of CRAF1 , a relative of TRAF , in CD40 signaling .
+Science 267:1494-1498 .
+4a.Devergne , O. , G. Mosialos , and E. Kieff .
+Unpublished data .
+5 .
+Dunkel , V. C. , T. W. Pry , G. Henle , and W. Henle .
+1972 .
+Immunofluorescence tests for antibodies to Epstein-Barr virus with sera of lower primates .
+J. Natl .
+Cancer Inst .
+49:435-440 .
+6 .
+Falini , B. , S. Pileri , G. Pizzolo , H. Durkop , L. Flenghi , F. Stirpe , M. F. Martelli , and H. Stein .
+1995 .
+CD30 ( Ki-1 ) molecule : a new cytokine receptor 7826 FRANKEN ET AL .
+of the tumor necrosis factor receptor superfamily as a tool for diagnosis and immunotherapy .
+Blood 85:1-14. .
+Falk , L. , F. Deinhardt , M. Nonoyama , L. G. Wolfe , and C. Bergholz .
+1976 .
+Properties of a baboon lymphotropic herpesvirus related to Epstein-Barr virus .
+Int .
+J .
+Cancer 18:798-807. .
+Feichtinger , H. , P. Putkonen , C. Parravicini , S. T. Li , E. E. Kaya , D. Bottiger , and P. Biberfeld .
+1990 .
+Malignant lymphomas in cynomolgus monkeys infected with simian immunodeficiency virus .
+Am .
+J. Pathol .
+137:1311-1315. .
+Frank , A. , W. A. Andiman , and G. Miller , 1976 .
+Epstein-Barr virus and nonhuman primates : natural and experimental infection .
+Adv .
+Cancer Res .
+23:171-201 .
+9a.Franken , M. Unpublished data .
+10 .
+11 .
+12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+26 .
+27 .
+28 .
+Franken , M. , B. Annis , A. Ali , and F. Wang .
+1995 .
+5 ' coding and regulatory region sequence divergence with conserved function of the Epstein-Barr virus LMP2A homolog in herpesvirus papio .
+J. Virol .
+69:8011-8019 .
+Gerber , P. , S. S. Kalter , G. Schidlovsky , W. J. Peterson , and M. D. Daniel .
+1977 .
+Biologic and antigenic characteristics of Epstein-Barr virus-related herpesviruses of chimpanzees and baboons .
+Int .
+J .
+Cancer 20:448-459 .
+Hammarskjold , M. L. , and M. C. Simurda .
+1992 .
+Epstein-Barr virus latent membrane protein transactivates the human immunodeficiency virus type 1 long terminal repeat through induction of NF-kappa B activity .
+J. Virol .
+66:6496-6501 .
+Hammerschmidt , W. , B. Sugden , and V. R. Baichwal .
+1989 .
+The transforming domain alone of the latent membrane protein of Epstein-Barr virus is toxic to cells when expressed at high levels .
+J. Virol .
+63:2469-2475 .
+Heller , M. , P. Gerber , and E. Kieff .
+1981 .
+Herpesvirus papio DNA is similar in organization to Epstein-Barr virus DNA .
+J. Virol .
+37:698-709 .
+Henderson , S. , M. Rowe , C. Gregory , D. Croom-Carter , F. Wang , R. Long-necker , E. Kieff , and A. Rickinson .
+1991 .
+Induction of bel-2 expression by Epstein-Barr virus latent membrane protein 1 protects infected B cells from programmed cell death .
+Cell 65:1107-1115 .
+Herbst , H. , F. Dallenbach , M. H 1 , G. Niedobitek , S. Pileri , N. Muller-Lantzsch , and H. Stein .
+1991 .
+Epstein-Barr virus latent membrane protein expression in Hodgkin and Reed-Sternberg cells .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 88:4766-4770 .
+Hu , H. M. , K. O'Rourke , M. S. Boguski , and V. M. Dixit .
+1994 .
+A novel RING finger protein interacts with the cytoplasmic domain of CD40 .
+J. Biol .
+Chem .
+269:30069-30072 .
+Huen , D. S. , S. A. Henderson , D. Croom-Carter , and M. Rowe .
+1995 .
+The Epstein-Barr virus latent membrane protein-1 ( LMP1 ) mediates activation of NF-kappa B and cell surface phenotype via two effector regions in its carboxy-terminal cytoplasmic domain .
+Oncogene 10:549-560 .
+Inui , S. , T. Kaisho , H. Kikutani , I Stamenkovic , B .
+Seed , E. A. Clark , and T. Kishimoto .
+1990 .
+Identification of the intracytoplasmic region essential for signal transduction through a B cell activation molecule , CD40 .
+Eur .
+J. Immunol .
+20:1747-1753 .
+Irving , B .
+A. , and A. Weiss .
+1991 .
+The cytoplasmic domain of the T cell receptor zeta chain is sufficient to couple to receptor-associated signal transduction pathways .
+Cell 64:891-901 .
+Kalter , S. S. , R. L. Heberling , and J. J. Ratner .
+1972 .
+EBV antibody in sera of nonhuman primates .
+Nature ( London ) 238:353-354 .
+Kaye , K. M. , K. M. Izumi , and E. Kieff .
+1993 .
+Epstein-Barr virus latent membrane protein 1 is essential for B-lymphocyte growth transformation .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:9150-9154 .
+Kaye , K. M. , K. M. Izumi , G. Mosialos , and E. Kieff .
+1995 .
+The Epstein-Barr virus LMP1 cytoplasmic carboxy terminus is essential for B-lymphocyte transformation : fibroblast cocultivation complements a critical function within the terminal 155 residues .
+J. Virol .
+69:675-683 .
+Laherty , C. D. , H. M. Hu , A. W. Opipari , F. Wang , and V. M. Dixit .
+1992 .
+The Epstein-Barr virus LMP1 gene product induces A20 zinc finger protein expression by activating nuclear factor kappa B. J. Biol .
+Chem .
+267:24157-24160. .
+Landon , J. C. , L. B. Ellis , V. H. Zeve , and D. P. Fabrizio .
+1968 .
+Herpes-type virus in cultured leukocytes from chimpanzees .
+J. Natl .
+Cancer Inst .
+40:181-192 .
+Lapin , B .
+A .
+1974 .
+The epidemiologic and genetic aspect of an outbreak of leukemia among baboons of the Sukhumi monkey colony in Dutcher and Chieco-Bianchi .
+Unifying concepts of leukemia .
+Bibl .
+Haematol .
+39:263-268 .
+Lee , S. P. , W. A. Thomas , R. J. Murray , F. Khanim , S. Kaur , L. S. Young , M. Rowe , M. Kurilla , and A .
+B. Rickinson .
+1993 .
+HLA AZ2.1-restricted cytotoxic T cells recognizing a range of Epstein-Barr virus isolates through a defined epitope in latent membrane protein LMP2 .
+J. Virol .
+67:7428-7435 .
+Liebowitz , D. , J. Mannick , K. Takada , and E. Kieff .
+1992 .
+Phenotypes of Epstein-Barr virus LMP1 deletion mutants indicate transmembrane and amino-terminal cytoplasmic domains necessary for effects in B-lymphoma cells .
+J. Virol .
+66:4612-4616 .
+29 .
+30 .
+31 .
+32 .
+33 .
+J. ViRoL .
+Ling , P. D. , and S. D. Hayward .
+1995 .
+Contribution of conserved amino acids in mediating the interaction between EBNAZ and CBF1/RBPJk .
+J. Virol .
+69:1944-1950 .
+Ling , P. D. , J. J. Ryon , and S. D. Hayward .
+1993 .
+EBNA-2 of herpesvirus papio diverges significantly from the type A and type B EBNA-2 proteins of Epstein-Barr virus but retains an efficient transactivation domain with a conserved hydrophobic motif .
+J. Virol .
+67:2990-3003 .
+Martin , J. M. , D. Veis , S. J. Korsmeyer , and B. Sugden .
+1993 .
+Latent membrane protein of Epstein-Barr virus induces cellular phenotypes independently of expression of Bel-2 .
+J. Virol .
+67:5269-5278 .
+Miller , W. E. , R. H. Edwards , D. M. Walling , and N. Raab-Traub .
+1994 .
+Sequence variation in the Epstein-Barr virus latent membrane protein 1 .
+J. Gen. Virol .
+75:2729-2740 .
+Mitchell , T. , and B. Sugden .
+1995 .
+Stimulation of NF-kappa B-mediated transcription by mutant derivatives of the latent membrane protein of Epstein-Barr virus .
+J. Virol .
+69:2968-2976 .
+33a .
+Moghaddam , A. , and F. Wang .
+Unpublished observations .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+Mosialos , G. , M. Birkenbach , R. Yalamanchili , T. VanArsdale , C. Ware , and E. Kieff .
+1995 .
+The Epstein-Barr virus transforming protein LMP1 engages signaling proteins for the tumor necrosis factor receptor family .
+Cell 80:389-399 .
+Myers , C. L. , S. J. Wertheimer , J. Schembri-King , T. Parks , and R. W. Wallace .
+1992 .
+Induction of ICAM-1 by TNF-alpha , IL-1 beta , and LPS in human endothelial cells after downregulation of PKC .
+Am .
+J. Physiol .
+263 : C767-C772 .
+Pathmanathan , R. , U. Prasad , R. Sadler , K. Flynn , and N. Raab-Traub .
+1995 .
+Clonal proliferations of cells infected with Epstein-Barr virus in pre-invasive lesions related to nasopharyngeal carcinoma .
+N. Engl .
+J. Med .
+333 : 693-698 .
+Peng , M. , and E. Lundgren .
+1992 .
+Transient expression of the Epstein-Barr virus LMP1 gene in human primary B cells induces cellular activation and DNA synthesis .
+Oncogene 7:1775-1782 .
+Rabin , H. , R. H. Neubauer , R. F. D. Hopkins , and M. Nonoyama .
+1978 .
+Further characterization of a herpesvirus-positive orang-utan cell line and comparative aspects of in vitro transformation with lymphotropic old world primate herpesviruses .
+Int .
+J .
+Cancer 21:762-767 .
+Rangan , S. R. , L. N. Martin , B. E. Bozelka , N. Wang , and B. J. Gormus .
+1986 .
+Epstein-Barr virus-related herpesvirus from a rhesus monkey ( Macaca mulatta ) with malignant lymphoma .
+Int .
+J .
+Cancer 38:425-432 .
+Rickinson , A. , and E. Kieff .
+1996 .
+Epstein-Barr virus , p. 2397-2446 .
+In D. Knipe , B .
+Fields , and P. Howley ( ed . )
+, Fields virology .
+Raven Press , Phila-delphia .
+Rowe , M. , M. Peng-Pilon , D. S. Huen , R. Hardy , D. Croom-Carter , E. Lundgren , and A .
+B. Rickinson .
+1994 .
+Upregulation of bel-2 by the Epstein-Barr virus latent membrane protein LMP1 : a B-cell-specific response that is delayed relative to NF-kappa B activation and to induction of cell surface markers .
+J. Virol .
+68:5602-5612 .
+Sample , J. , E. F. Kieff , and E. D. Kieff .
+1994 .
+Epstein-Barr virus types 1 and 2 have nearly identical LMP-1 transforming genes .
+J. Gen. Virol .
+75:2741-2746 .
+Wang , D. , D. Liebowitz , and E. Kieff .
+1985 .
+An EBV membrane protein expressed in immortalized lymphocytes transforms established rodent cells .
+Cell 43:831-840 .
+Wang , F. , C. Gregory , C. Sample , M. Rowe , D. Liebowitz , R. Murray , A. Rickinson , and E. Kieff .
+1990 .
+Epstein-Barr virus latent membrane protein ( LMP1 ) and nuclear proteins 2 and 3C are effectors of phenotypic changes in B lymphocytes : EBNA-2 and LMP1 cooperatively induce CD23 .
+J. Virol .
+64:2309-2318 .
+Wang , F. , S. F. Tsang , M. G. Kurilla , J. L Cohen , and E. Kieff .
+1990 .
+Epstein-Barr virus nuclear antigen 2 transactivates latent membrane protein LMP1 .
+J. Virol .
+64:3407-3416 .
+Wertheimer , S. J. , C. L. Myers , R. W. Wallace , and T. P. Parks .
+1992 .
+Intercellular adhesion molecule-1 gene expression in human endothelial cells .
+Differential regulation by tumor necrosis factor-alpha and phorbol myristate acetate .
+J. Biol .
+Chem .
+267:12030-12035. .
+Yao , Q. Y. , P. Ogan , M. Rowe , M. Wood , and A .
+B. Rickinson .
+1989 .
+Epstein Barr virus-infected B cells persist in the circulation of acyclovir-treated virus carriers .
+Int .
+J .
+Cancer 43:67-71. .
+Young , L. , C. Alfieri , K. Hennessy , H. Evans , C. O'Hara , K. C. Anderson , J. Ritz , R. S. Shapiro , A. Rickinson , E. Kieff , et al .
+1989 .
+Expression of Epstein-Barr virus transformation-associated genes in tissues of patients with EBV lymphoproliferative disease .
+N. Engl .
+J. Med .
+321:1080-1085. .
+Zhang , Q. , L. Brooks , P. Busson , F. Wang , D. Charron , E. Kieff , A .
+B. Rickinson , and T. Tursz .
+1994 .
+Epstein-Barr virus ( EBV ) latent membrane protein 1 increases HLA class II expression in an EBV-negative B cell line .
+Eur .
+J. Immunol .
+24:1467-1470 .

@@ -1,0 +1,518 @@
+THE JOURNAL oF BIOLOGICAL CHEMISTRY © 1999 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+274 , No .
+5 , Issue of January 29 , pp .
+3116-3124 , 1999 Printed in U.S.A. CD80 and CD86 Are Not Equivalent in Their Ability to Induce the Tyrosine Phosphorylation of CD28* ( Received for publication , July 7 , 1998 , and in revised form , October 27 , 1998 ) Jacqueline M. Slavik } , Jill E. Hutchcroft $ § , and Barbara E. Bierer # ] ] From the { Department of Pediatric Oncology , Dana-Farber Cancer Institute , Boston , the Department of Medicine , Harvard Medical School , Boston , Massachusetts 02115 , and the §Department of Biochemistry , Purdue University , West Lafayette , Indiana 47907 Ligation of either CD80 ( B7-1 ) or CD86 ( B7-2 ) , two principal ligands for CD28 , is thought to skew the immune response toward Thl or Th2 differentiation .
+We have examined early signal transduction pathways recruited following T cell stimulation with either CD80 or CD86 .
+Purified human peripheral T cells or Jurkat T cells were stimulated with Chinese hamster ovary ( CHO ) cells expressing either human CD80 ( CHO-CD80 ) or human CD86 ( CHO-CD86 ) or with anti-CD28 monoclonal antibody ( mAb ) .
+In the presence of phorbol 12-myristate 13-acetate , both CHO-CD80 and CHO-CD86 , like anti-CD28 mAb , were capable of stimulating cytokine production from both human peripheral T cells and Jurkat T cells .
+Both CHO-CD80 and CHO-CD86 , in the presence of anti-CD3 mAb , costimulated NFAT-dependent transcriptional activation .
+Several intracellular signaling proteins , such as CBL and VAV , were phosphorylated on tyrosine in response to CD80 , CD86 , and anti-CD28 mAb .
+Surprisingly , although stimulation of Jurkat T cells with either CHO-CD80 or anti-CD28 mAb resulted in robust tyrosine phosphorylation of CD28 itself , ligation with CHO-CD86 was unable to induce detectable CD28 tyrosyl phosphorylation over a range of stimulation conditions .
+In addition , the association of phosphoinositide 3-kinase with CD28 and enhanced tyrosine phosphorylation of phospholipase Cy were seen after anti-CD28 mAb and CHO-CD80 stimulation but to a much lesser extent after CHO-CD86 stimulation .
+Thus , ligation of CD28 with either CD80 or CD86 leads to shared early signal transduction events such as the tyrosine phosphorylation of CBL and VAV , to NFAT -medi-ated transcriptional activation , and to the costimulation of interleukin-2 and granulocyte- macrophage colony-stimulating factor production .
+However , CD80 and CD86 also induce distinct signal transduction pathways including the tyrosine phosphorylation of CD28 and phospholipase Cyl and the SH2-dependent association of phosphoinositide 3-kinase with CD28 .
+These quantita-tive , if not qualitative , differences between signaling initiated by these two ligands for CD28 may contribute to functional differences ( e.g .
+Thl or Th2 differentia-tion ) in T cell responses .
+Activation and maturation of resting T lymphocytes can be achieved by antigen-specific interactions of the TeR-CD3 com * This work was supported by the National Institutes of Health .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` adver-tisement '' in accordance with 18 U.S.C .
+Section 1734 solely to indicate this fact .
+| To whom correspondence and reprint requests should be addressed : NHLBI , Bldg .
+10 , Rm .
+5D49 , 10 Center Dr. , Bethesda , MD 20892 .
+Tel .
+: 301-402-6786 ; Fax : 301-480-1792 ; E-mail : BiererB @ nih.gov .
+3116 plex in concert with a second , antigen-nonspecific signal .
+This second , costimulatory signal has been shown to prevent the induction of T cell anergy and to enhance cytokine production , notably IL-2 '' ( 1-8 ) .
+Found on more than 95 % of human CD4* T cells and on about 50 % of human CD8* T cells , the cell-surface molecule CD28 is a major T cell costimulatory receptor .
+Engagement of the CD28 receptor with anti-CD28 mAb or by ligand prevents the induction of T cell anergy and supports IL-2 production and T cell proliferation .
+The B7 family members CD80 ( B7-1 ) and CD86 ( B7-2 ) are two principal ligands for CD28 and for CTLA-4 ( CD152 ) , a second CD28 family member .
+Whereas only 25 % homologous by amino acid sequence , CD80 and CD86 bind CD28 with similar low affinities and bind CTLA-4 with similar high affinities ( 4 ) .
+However , CD86 has faster dissociation kinetics than CD80 ( 5 ) , and independent mutational analyses have confirmed that CD80 and CD86 bind to overlapping but not identical sites on CD28 ( 6-9 ) .
+The cell-surface expression of CD80 and CD86 differs both quantitatively and qualitatively on antigen presenting cells .
+CD86 is expressed constitutively on resting monocytes and can be rapidly induced on activated B cells ( 10 ) .
+CD80 is not expressed on resting monocytes and only minimally on dendritic cells and , although expression can be induced on activated macrophages , B cells , and NK cells , the time course of CD80 induction of expression is slower than of that of CD86 ( 11 ) , A growing body of evidence suggests that there are different functional consequences of CD28 engagement by CD80 and CD86 ( 12-17 ) .
+For example , blocking the interaction between CD28 and CD80 with anti-CD80 mAb has been shown to increase IL-4 production in mice ( 13 ) .
+Conversely , blocking the interaction of CD86 with CD28 in vitro was shown to increase the production of interferon-y ( 13 ) .
+These data from murine systems support a model whereby CD80 costimulation promotes the development of Th1 cells , whereas CD86 costimulation drives differentiation toward Th2 cells .
+Costimulation of resting CD4 '' human T cells with CD80 or CD86 resulted in equivalent IL-2 and interferon-y production ( 18 ) .
+However , costimulation with CD80 resulted in more GM-CSF production than with CD86 , whereas costimulation with CD86 gave more efficient production of IL-4 and TNF- than with CD80 ( 18 ) .
+Thus , CD86 costimulation appeared to direct the immune response toward Th2 development , whereas CD80 provided a less directive ( and therefore Thl-like ) signal .
+These data are consistent with the observation that human CD80 but not CD86 * The abbreviations used are : IL , interleukin ; CHO , Chinese hamster ovary ; PLC , phospholipase C ; mAb , monoclonal antibody ; GM-CSF , granulocyte-macrophage colony-stimulating factor ; PBS , phosphate-buffered saline ; FCS , fetal calf serum ; PIS-K , phosphoinositide 3-ki-nase ; PMA , phorbol 12-myristate 18-acetate ; PAGE , polyacrylamide gel electrophoresis ; PVDF , polyvinylidene difluoride ; TCR , T cell receptor .
+This paper is available on line at http : //www.jbc.org 610Z '01 Aepy uo 4g wo ; popeoumog Differential Signaling through CD28 by Ligands CD80 and CD86 3117 was able to generate human cytolytic effector cells ( 15 ) .
+In addition , CD86 is less effective than CD80 at down-regulating CD28 expression after ligation ( 17 ) .
+Taken together , these data provide evidence that the functional outcome of CD80 and CD86 costimulation may differ .
+A limited number of studies have directly compared the signals generated following CD80 or CD86 engagement of CD28 ( 19-22 ) , but no differences have been observed that correlate with the differences in structure and function between CD80 and CD86 .
+In this report , we have compared the intracellular signals generated by engagement of human CD28 with either anti-CD28 mAb or with CHO cells transfected with human CD80 or human CD86 .
+We have used both purified human peripheral blood T cells and CD4* T cells isolated by negative selection .
+Additionally , we have used a Jurkat T cell line , which expressed CD28 but did not express CTLA-4 , to eliminate any contribution of CTLA-4 ligation by ligand to signaling differences observed .
+We have demonstrated that CHO cells transfected with either human CD80 ( CHO-CD80 ) or human CD86 ( CHO-CD86 ) were capable of costimulating IL-2 production both from purified human peripheral T cells and from Jurkat T cells in the presence of a second signal provided by phorbol myristate acetate ( PMA ) , as well as costimulating GM-CSF production from purified human peripheral T cells .
+Both CHO-CD80 and CHO-CD86 , in the presence of anti-CD3 , costimulated NFAT-mediated transcriptional activation .
+Similar but not identical patterns of phosphoproteins were revealed following stimulation of either Jurkat T cells or human purified T cells with anti-CD28 mAb , CHO-CD80 , or CHO-CD86 .
+We identified two of the higher molecular weight phosphoproteins as CBL and VAV .
+In striking contrast , however , stimulation of Jurkat T cells with CHO-CD80 , but not with CHO-CD86 , resulted in robust tyrosine phosphorylation of CD28 itself .
+Furthermore , considerably less PI3-K was associated with CD28 after CD86 stimulation compared with CD80 or anti-CD28 mAb stimulation .
+Correlating with the difference in CD28 phosphorylation and PI3-K association was the induction of PLC-y1 phosphorylation after stimulation with CHO-CD80 but not with CHO-CD86 .
+Thus , the signal transmission pathways recruited by CD80 and CD86 ligation of CD28 appear to differ quantitatively , if not qualitatively .
+EXPERIMENTAL PROCEDURES Cells and Cell Culture-The human T leukemia cell line Jurkat ( clone J77 ) was the generous gift of Kendall Smith ( Cornell University , New York ) .
+Human peripheral blood T lymphocytes were isolated from the whole blood of normal donors by centrifugation through Ficoll-Hypaque ( SG 1.007 , Organon Teknika , Durham , NC ) , plastic adher-ence , and nylon wool filtration .
+Contaminating erythrocytes were lysed with Tris-buffered ammonium chloride ( Sigma ) .
+Where indicated , CD8 T cells were depleted following serial incubation with 5 ug/ml OKT8 and anti-mouse Ig microbeads using the MACs magnetic cell separation system ( Miltenyi Biotech , Inc. , Sunnyvale , CA ) .
+Purified T cells or purified CD4* T cells were rested overnight at 37°C prior to use .
+Lymphocytes were cultured at 37 °C with 5 % CO , in RPMI 1640 ( Me-diatech , Herndon , VA ) supplemented with 10 % heat-inactivated fetal calf serum ( FCS , Sigma ) , 100 units/ml penicillin ( Life Technologies , Inc. ) , 100 ug/ml streptomycin ( Life Technologies , Inc. ) , 10 mM Hepes , pH 7.2 ( M.A .
+Bioproducts , Bethesda , MD ) , 2 mM glutamine ( Life Technologies , Inc. ) , and 50 uM 2-mercaptoethanol ( Sigma ) ( termed 10 % RPMI ) .
+Chinese hamster ovary ( CHO ) cells transfected with human CD80 or human CD86 were kindly provided by G. Freeman ( Dana-Farber Cancer Institute , Boston ) .
+These cells were grown in Dulbecco 's modified Eagle's/F12 medium ( Cellgro , Fisher ) containing 10 % heat-inactivated FCS , 100 units/ml penicillin , 100 ug/ml streptomycin , 10 mM Hepes , pH 7.2 , 2 mM glutamine , 15 pg/ml gentamicin ( Life Technologies , Inc. ) plus 400 pg/ml geneticin ( G418 ) ( Life Technologies , Inc. ) .
+CHO cells were detached from 10-mm '' Petri dishes with 1:5000 Versene ( Life Technologies , Inc. ) for 5 min at 37 °C and washed before use .
+CHO transfectants were monitored periodically to verify comparable and invariant cell-surface expression of B7 family proteins .
+All cell lines were mycoplasma negative , as verified by routine screening with the mycoplasma set primer ( Stratagene , Lia Jolla , CA ) .
+Antibodies-The anti-human CD28 mAb 9.3 ( Squibb ) , the murine anti-human CD3 mAb OKT3 , and the anti-human mAb OKTS8D ( Amer-ican Type Culture Collection , Rockville , MD ) were used as purified ascites fluid .
+The horseradish peroxidase coupled anti-phosphotyrosine mAb RC20 was purchased from Transduction Laboratories ( Lexington , KY ) .
+The agarose-conjugated anti-phosphotyrosine mAb , the polyclonal anti-VAV , the polyclonal anti-CBL , and the polyclonal anti-PLCy1 were all purchased from Santa Cruz Biotechnology , Inc. Polyclonal antisera against the p85 subunit of PIS-K was purchased from Upstate Biotechnology , Inc. ( Lake Placid , NY ) .
+The anti-human CD80 mAb 183 was the gift of G. Freeman ( Dana-Farber Cancer Institute , Boston ) .
+The anti-human CD86 mAb was purchased from PharMingen ( San Diego , CA ) .
+Indirect Immunofluorescent Flow Cytometry-Cells were incubated with the indicated primary mAb for 30 min at 4 °C and then washed twice with PBS supplemented with 2 % FCS and 0.02 % NaN , .
+Cells were then incubated with 20 ug/ml fluorescein isothiocyanate-conjugated goat F ( ab ' ) , anti-mouse antibody ( Tago , Inc. , Burlingame , CA ) for 30 min at 4 °C , washed twice with PBS containing 2 % FCS and 0.02 % NaN , , resuspended in propidium iodide ( 5-10 ug/ml ; Sigma ) , and analyzed on a FACScan ( Becton Dickinson , Mountain View , CA ) .
+Dead cells were excluded by propidium iodide uptake , and data analysis was performed using LYSYS or Cellquest software .
+Measurement of IL-2 and GM-CSF Production-Human purified T cells or Jurkat T cells were plated in 96-well flat-bottomed plates at 2 X 10°/well in 10 % RPMI with the anti-CD28 mAb 9.3 ( 100 ng/ml ) , the anti-CD3 mAb OKT3 ( 5 ng/ml ) , PMA ( 1.25 ng/ml , Sigma ) , parental CHO cells or CHO cells transfected with either CD80 or CD86 ( 2 x 10*/Awell ) , as indicated , in 200-pl total volume .
+Following a 24 h incubation at 37°C , cell culture supernatants were collected , frozen , thawed , and assayed for the presence of IL-2 or GM-CSF by their ability to support the proliferation of an IL-2-dependent T-cell line CTLL-20 ( 28 ) or BaF/3 cells stably transfected with the human GM-CSF receptor ( 24 ) , respectively .
+Proliferation of either the CTLL-20 cells or the transfected BaF/3 cells was assessed by the incorporation of ( NEN Life Science Products ) after a 6-h pulse following an 18-h incu-bation .
+Results are expressed as units/ml IL-2 or GM-CSF and were determined by extrapolation to standard dilution curves using human recombinant IL-2 ( Hoffmann-La Roche ) or recombinant GM-CSF ( Ge-netics Institute , Boston ) , respectively .
+Transient Transfection and Luciferase Assay-Jurkat cells ( 1 X 10 '' ) were incubated with 10 ug of a reporter plasmid pSxNFAT-lue ( 25 ) , carrying the luciferase gene driven by three tandem repeats of the distal NFAT sequences derived from the IL-2 promoter , for 15 min at room temperature .
+Cells were then electroporated at 250 V , 800 micro-farads ( Life Technologies , Inc. ) .
+After electroporation , the cells were transferred to 10 % RPMI and incubated at 37 °C for 12 h. Transfected cells were stimulated for 6 h with CHO-Mock , CHO-CD80 , or CHO-CD86 in the presence of anti-CD3 mAb ( 200 ng/ml ) or with PMA ( 10 ng/ml ) plus ionomycin ( 2 uM ) .
+Cells were washed with PBS , and samples were prepared using the Enhanced Luciferase Kit ( Analytic Luminescent Laboratory , San Diego , CA ) , according to the manufacturer 's instructions .
+The relative luciferase units are presented as the percentage of the stimulation induced by PMA plus ionomycin .
+Cell Stimulation and Immunoprecipitation-Cells were washed twice with cold Buffer A ( RPMI 1640 supplemented with 10 mM Hepes , 2 mM glutamine , 100 units/ml penicillin , and 100 ug/ml streptomycin ) .
+Human purified T cells or Jurkat T cells were resuspended in Buffer A , incubated on ice for 15 min with parental or transfected CHO cells , anti-CD28 mAb 9.3 , or anti-CD8 mAb OKT3 , and then warmed to 87 °C for the times indicated .
+The cells were washed twice with cold Buffer A containing 1 mM sodium orthovanadate ( Sigma ) and lysed for 15 min on ice in 1 ml of cold lysis buffer ( 1 % Nonidet P-40 , 150 mM NaCl , 25 mM Hepes , pH 7.5 , 1 mM EDTA , 1 mM sodium orthovanadate , 100 ug/ml soybean trypsin inhibitor , 10 ug/ml leupeptin , and 10 ug/ml aprotinin ) .
+Detergent extracts were clarified by centrifugation at 14,000 x g for 10 min at 4 °C .
+The resulting supernatants were harvested and used for immunoprecipitations .
+For immunoprecipitation , cellular extracts were incubated with the indicated antisera and 25 ul of protein A-agarose for at least 2 h at 4 °C after which the resin was washed three times with lysis buffer .
+For experiments examining the association of CD28 with phosphoinositide 3-kinase ( PI8-K ) , the immunoprecipitates were further washed twice with Buffer B ( 0.5 M LiCl , 100 mM Hepes , pH 7.5 , 2 mM sodium orthovanadate , 10 pg/ml aprotinin , 10 ug/ml leupeptin ) and twice with Buffer C ( 100 mM NaCl , 25 mM Hepes , pH 7.5 , 2 mM sodium orthovanadate , 10 ug/ml aprotinin , 10 ug/ml leupeptin ) .
+In peptide competition 610Z '01 Aepy uo 4g wo ; popeoumog 3118 a CD80 mAb a CD86 mAb x | o < O T O 6 Tm TIT fe !
+€ 3 Z g == o ® 9 O 0 I 3 0 S 8 ] CC el & [ as Q O I O Log Fluorescence Intensity Fic .
+1 .
+CD80 and CD86 expression on transfected CHO cells .
+CHO cells were stained with the murine anti-human CD80 mAb 183 ( 1:200 dilution ) , the murine anti-human CD86 mAb IT2.2 ( 1 pg/ml ) , or diluent alone for 20 min .
+Samples were washed and then incubated with fluorescein isothiocyanate-conjugated goat anti-mouse ( 20 ug/ml ) for an additional 20 min .
+After washing , cells were resuspended in propidium iodide ( 5-10 ug/ml ) and analyzed on a Becton Dickinson FACscan .
+2000 events were collected , and dead cells were excluded from analysis by propidium iodide uptake .
+studies , 5 uM of HSDYMNMTPRR or HSD-phospho-YMNMTPRR peptides ( pYMNM ) ( the kind gift of S. Shoelson , Joslin Diabetes Center , Boston ) was added to the cell lysates prior to incubation with anti-CD28 mAb and protein A-Sepharose .
+Immunoprecipitated proteins were separated by electrophoresis through SDS-polyacrylamide gels ( SDS-PAGE ) ( Protogel , National Diagnostics , Atlanta , GA ) transferred to polyvinylidene difluoride ( PVDF ) membranes ( Millipore , Bedford , MA ) , immunoblotted with the antibody of interest , and detected by enhanced chemiluminescence ( ECL ) ( Amersham Pharmacia Biotech ) according to the manufacturer 's instructions .
+Deglycosylation and precipitation of the CD28 polypeptide were performed essentially as described ( 26 ) .
+In brief , the immunoprecipitates were washed twice with RIPA buffer ( 1 % Triton X-100 , 0.5 % sodium deoxycholate , 0.1 % SDS , 150 mM NaCl , 50 mM Tris-Cl , pH 8 , 1 mM sodium orthovanadate , 10 ug/ml leupeptin , and 10 ug/ml aprotinin ) , twice with RIPA buffer containing 1 M NaCl , twice more with RIPA buffer , and once with Buffer D ( 0.1 % Triton X-100 , 150 mM NaCl , 50 mM Tris-Cl , pH 8.0 , 1 mM sodium orthovanadate , 100 ug/ml soybean trypsin inhibitor , 10 pg/ml leupeptin , and 10 ug/ml aprotinin ) .
+The immunoprecipitated proteins were denatured by boiling for 10 min in a solution of 0.5 % SDS and 1 % B-mercaptoethanol and then adjusted to 50 mM sodium phosphate , pH 7.5 , and 1 % Nonidet P-40 .
+The proteins were incubated for 1 h at 37 °C with 1,000 units of peptide : N-glycosidase F ( New England Biolabs , Beverly , MA ) , an enzyme that hydrolyzes N-glycan chains from proteins .
+Deglycosylated proteins were separated on 10.5 % SDS-PAGE gels and visualized by immunoblotting as described above .
+RESULTS Both CD80 and CD86 Costimulate T cell cytokine Production and NFAT-mediated Transcriptional Activation-We used CHO cells transfected with either vector alone ( CHO-Mock ) or the cDNA encoding either human CD80 ( CHO-CD80 ) or human CD86 ( CHO-CD86 ) to compare the intracellular signals triggered by stimulation of T cells with the natural ligands of CD28 .
+The transfected CHO cells used in these studies had expressed comparable surface CD80 and CD86 as detected by Differential Signaling through CD28 by Ligands CD80 and CD86 TaBLE I IL-2 production after costimulation with CHO cells expressing CD80 or CD86 Human peripheral blood T cells or Jurkat T cells , 2 X 10° cells/well , were cultured with 2 X 10 % CHO/well , 1.25 ng/ml PMA , 100 ng/ml anti-CD28 mAb , as indicated .
+Production of IL-2 was determined as described under `` Experimental Procedures '' and is expressed as units/ml by comparison with a standard curve generated with recombinant human IL-2 .
+A representative assay from a total of three assays performed with human peripheral blood T cells is shown .
+The mean * S.D .
+IL-2 production of three independent assays performed using Jurkat T cells is shown .
+Human peripheral Jurkat T cells cells -PMA +PMA -PMA +PMA Media < 0.5 2.7 < 0.5 < 0.5 Anti-CD28 mAb < 0.5 170 < 0.5 19 + 16 CHO-Mock < 0.5 1.4 < 0.5 < 0.5 CHO-CD80 < 0.5 370 < 0.5 1.6 + 0.8 CHO-CD86 < 0.5 50 < 0.5 2.2 + 1.5 indirect immunofluorescence using either anti-CD80 or anti-CD86 mAb ( Fig .
+1 ) .
+As expected , CHO-CD80 cells expressed CD80 but failed to express CD86 , and CHO-CD86 cells expressed CD86 but did not express CD80 ; CHO-Mock cells , transfected with the vector encoding neomycin resistance ( G418 '' ) alone , expressed neither B7 family member .
+Both CD80 and CD86 are capable of costimulating a number of T cell functions including cytokine production and proliferation ( reviewed in Ref .
+27 ) .
+Resting , human purified CD4* peripheral blood T cells and CD3 * Jurkat cells were assayed for their ability to produce IL-2 and GM-CSF in response to CHO-Mock , CHO-CD80 , or CHO-CD86 cells or to anti-CD28 mAb , in the presence or absence of the phorbol ester PMA .
+T cells and Jurkat cells both produced IL-2 ( Table I ) and T cells produced GM-CSF ( Table II ) in response to the combination of PMA and either anti-CD28 mAb , CHO-CD80 , or CHO-CD86 cells .
+No IL-2 was produced after stimulation with PMA , anti-CD28 mAb , or mock or transfected CHO cells alone .
+As expected , costimulation of human peripheral blood T cells with CHO-CD80 elicited more IL-2 than did costimulation with CHO-CD86 ( Table I ) , whereas there were no reproducible , quantitative differences in the amount of IL-2 ( Table I ) produced by Jurkat cells or GM-CSF ( Table II ) produced by human peripheral blood T cells after CHO-CD80 or CHO-CD86 stimulation .
+Cytokine production is a somewhat distal readout of CD28-dependent stimulation ; to analyze a more proximal readout of CD28-dependent stimulation , we compared the relative abilities of the two ligands to costimulate NFAT-dependent transcriptional activation .
+Jurkat T cells were transiently transfected with a reporter plasmid carrying the luciferase gene driven by three tandem repeats of the distal NFAT sequences derived from the IL-2 promoter ( 25 ) .
+The cells were then stimulated with CHO-Mock , CHO-CD80 , or CHO-CD86 in the presence of anti-CD3 mAb or with PMA plus ionomycin ( Fig .
+2 ) .
+NFAT-mediated transcriptional activity was induced by CHO-CD80 , and more so by CHO-CD86 , whereas CHO-Mock induced the same amount of activity as anti-CD3 mAb alone .
+The addition of a blocking CD28 mAb to the stimulations abrogated both CD80- and CD86-dependent NFAT-mediated transcriptional activation , confirming that both CD80 and CD86 were signaling through CD28 ( data not shown ) .
+Stimulation with CD80 or CD86 Induces the in Vivo Tyrosine Phosphorylation of Several T Cell Proteins Including CBL and VAV-Having established , in this system , that the CHO-CD80 and CHO-CD86 cells were both competent to costimulate cytokine production as well as NFAT-mediated transcriptional activation , we compared the early signaling events induced by anti-CD28 mAb with those induced by each of the two natural 610Z '01 Aepy uo 4g wo ; popeoumog Differential Signaling through CD28 by Ligands CD80 and CD86 3119 TaBLE II GM-CSF production after costimulation with CHO cells expressing CD80 or CD86 Human peripheral blood T cells , 2 X 10° cells/well , were cultured with 2 X 10° transfected CHO cells/well or 100 ng/ml anti-CD28 mAb with or without 1.25 ng/ml PMA , as indicated .
+Production of GM-CSF ( units/ ml ) was determined as described under `` Experimental Procedures '' by comparison with a standard curve generated using recombinant human GM-CSF .
+A representative assay from a total of three assays performed is shown .
+GM-CSF produced -PMA +PMA units/ml Media < 0.9 58.4 Anti-CD28 mAb < 0.9 800 CHO-Mock 8.1 290 CHO-CD80 2.7 1980 CHO-CD86 2.8 1250 ligands .
+Jurkat cells were incubated with either mock or transfected CHO cells or , for comparison , anti-CD28 or anti-CD3 mAb for 5 min at 37°C .
+Analysis of post-nuclear lysates by phosphotyrosine immunoblotting yielded no significant differences between CHO-Mock , CHO-CD80 , and CHO-CD86 cell stimulations ( data not shown ) .
+To enhance the detection of tyrosine-phosphorylated proteins , anti-phosphotyrosine immunoprecipitates were prepared from stimulated Jurkat cell ly-sates , separated by SDS-PAGE , transferred to PVDF mem-branes , and detected by anti-phosphotyrosine Western blot ( Fig .
+3A ) .
+As expected , a distinct pattern of tyrosine phosphorylated proteins was detected after stimulation with anti-CD3 mAb ( Fig .
+3A , lane 7 ) .
+Increases in tyrosyl-phosphorylated proteins were also seen in response to stimulation with soluble ( Fig .
+3A , lane 5 ) and cross-linked ( Fig .
+3A , lane 6 ) anti-CD28 mAb 9.3 .
+There was an increase in detection of both an ~95-kDa protein ( indicated by the open arrowhead ) after anti-CD3 mAb treatment ( Fig .
+3A , lane 7 ) and an ~115-120-kDa protein ( indicated by the solid arrowhead ) in both the anti-CD3 mAb and the anti-CD28 mAb-stimulated cells ( Fig .
+3A , lanes 5-7 ) .
+The phosphorylation of the ~95-kDa band was preferentially enhanced after stimulation with CHO-CD80 ( Fig .
+3A , lane 3 ) when compared with CHO-CD86- ( Fig .
+3A , lane 4 ) or CHO-Mock ( Fig .
+3A , lane 2 ) -treated cells .
+The CHO cells alone , in the absence of Jurkat cells , contained few tyrosine-phosphorylated proteins ( Fig .
+34 , lane I , and data not shown ) .
+Comparable results were obtained in purified human peripheral T cells ( Fig .
+3B ) .
+Characteristic increases in tyrosine phosphorylation were observed after stimulation with anti-CD3 mAb and with soluble or cross-linked anti-CD28 mAb ( Fig .
+3B , lane 6-8 ) .
+Induction of tyrosine phosphorylation was also observed following stimulation with CHO-CD80 ( Fig .
+3B , lane 3 ) or CHO-CD86 ( Fig .
+3B , lane 4 ) .
+These differences were subtle , however , and therefore the ability of CD80 and CD86 to induce the tyrosine phosphorylation of specific signaling proteins was examined .
+VAV is a 95-kDa protein expressed exclusively in hematopoietic cells that is rapidly phosphorylated on tyrosine after ligation of the TeR-CD3 complex ( 28 ) or CD28 ( 29 ) .
+This tyrosine phosphorylation leads to the activation of VAV as an exchange factor for Rac-l1 ( 30 ) .
+Stimulation of Jurkat T cells with either CHO-CD80 or CHO-CD86 induced tyrosine phosphorylation of VAV that was detectable by 30 s and appeared to decrease by 10 min of stimulation ( Fig .
+4 ) .
+Comparable activation-dependent changes in the tyrosine phosphorylation of VAV after CD80 and CD86 stimulation were also observed in peripheral human T cells ( data not shown ) , although maximal signals were not as high .
+CBL is an ~120-kDa protein that is rapidly tyrosine-phosphorylated in response to TeR ( 31 ) and FeyR stimulation ( 32 ) .
+125 anti-CD3 mAb CHO-Mock + anti-CD3 mAb CHO-CD80 + anti-CD3 mAb 4 0 QO I CHO-CD86 + anti-CD3 mAb 75 -I Percent of PMA + Ionomycin Stimulation Fic .
+2 .
+Costimulation with CD80 or CD86 induces NFAT-mediated transcriptional activity in Jurkat T cells .
+Jurkat T cells ( 1 X 10° ) transiently transfected with an NFAT-luciferase reporter plasmid were stimulated for 6 h with soluble anti-CD3 mAb alone ( 200 ng/ml ) ( dashed bar ) or with soluble anti-CD3 mAb plus CHO-Mock ( shaded bar ) , CHO-CD80 ( open bar ) , or CHO-CD86 ( solid bar ) or with PMA ( 10 ng/ml ) plus ionomycin ( 2 uM ) .
+Cells were washed with PBS , and samples were prepared using the Enhanced Luciferase Kit ( Analytic Luminescent Laboratory , San Diego , CA ) , according to the manufacturer 's instructions .
+The relative luciferase units are presented as the percentage of the activity induced by PMA plus ionomycin and represent the mean plus S.D .
+of three separate assays .
+CBL is an intracellular docking protein that associates with a number of SH2- and SH3-containing proteins including p59 '' PI3-K , Zap-70 , and the adapter protein Grb2 ( reviewed in Ref .
+33 ) .
+Stimulation of Jurkat cells for 5 min with CD80 , CD86 , anti-CD28 mAb , and , as expected , anti-CD3 mAb all induced the tyrosine phosphorylation of CBL ( Fig .
+5 ) .
+Thus , CD80 and CD86 share the ability to induce the tyrosine phosphorylation of several intracellular signaling proteins , including CBL and VAV .
+CD80 and CD86 Differ in Their Ability to Induce Tyrosine Phosphorylation of PLC-y1 and CD28-The ability of CD80 and CD86 to induce the tyrosine phosphorylation of PLC-y1 differed .
+Anti-phosphotyrosine immunoprecipitates of Jurkat T cells stimulated with CHO-Mock ( Fig .
+6A , lane 2 ) , CHO-CD80 ( Fig .
+6A , lane 3 ) , CHO-CD86 ( Fig .
+6A , lane 4 ) , mAb to CD3 ( Fig .
+6A , lane 6 ) , mAb to CD28 ( Fig .
+6A , lane 7 ) , or left unstimulated ( Fig .
+6A , lane 5 ) for 5 min were probed by anti-PLC-y1 antisera .
+Stimulation with CHO-CD80 induced a significant increase in PLC-y1 stimulation , whereas stimulation with CHO-CD86 in-duced , like CHO-Mock treatment , a much smaller increase .
+Similar results were obtained using CD4 * peripheral human T cells ( Fig .
+6B ) .
+Thus , CD80 and CD86 differed in their ability to induce the tyrosine phosphorylation of PLC-y1 in both Jurkat and CD4* human peripheral blood T cells .
+We developed a deglycosylation procedure that allowed the detection and identification of a distinct CD28 protein band , facilitating the analysis of activation-dependent changes in the state of phosphorylation of CD28 itself ( 26 ) .
+We have reported that anti-CD28 mAb stimulation led to the Lck-dependent , in vivo phosphorylation of CD28 on tyrosine as detected with anti-phosphotyrosine antibodies ( 26 ) .
+We used this technique to compare the ability of CD80 and CD86 to induce the in vivo tyrosine phosphorylation of CD28 .
+Jurkat T cells were stimulated for 5 min with anti-CD28 mAb or mock- , CD80- , or CD86-transfected CHO cells ( Fig .
+7A ) .
+Stringently washed anti-CD28 immunoprecipitates were treated with peptide : N-glycosidase F 610Z '01 Aepy uo 4g wo ; popeoumog 3120 Differential Signaling through CD28 by Ligands CD80 and CD86 + Jurkat [ OI & CD28 mAb + RAM CHO-CD80 CHO-Mock CHO-CD8O CHO-CD86 « CD28 mAb « CD3 mAb No stimulation 217- 111+ 72- iii & at dik Cee se t= 44 « ils 28 -18- =E 15 1 2 3 4 5 6 7 8 + T cells [ -- -a < C cC c + ceee § 6 © §§ < F g a 3 0A A 2 E a m a aa O O ® T I E E o 0 O O 0 0 G OZ s s s 217-111- - e 28- |y TO 18- wite 15- | 1 2 3 4 5 6 7 8 Fic .
+3 .
+Tyrosine phosphorylation in Jurkat ( A4 ) or purified peripheral blood ( B ) human T cells after stimulation with anti-CD3 mAb , anti-CD28 mAb , CHO-Mock , CHO-CD80 , and CHO-CD86 .
+A , anti-phosphotyrosine immunoprecipitates were prepared from detergent lysates of CHO-CD80 cells alone ( Zane 1 ) or of Jurkat cells ( 2 X 10 '' ) left untreated ( Zane 8 ) or treated with CHO-Mock ( Zane 2 ) , -CD80 ( Zane 3 ) , -CD86 ( Zane 4 ) , CHO cells ( 1 X 10 '' ) , 4 ug/ml anti-CD28 mAb in the absence ( Zane 5 ) or presence of 10 pg/ml rabbit anti-mouse ( lane 6 ) or with 6 ug/ml anti-CD3 mAb ( Zane 7 ) .
+All cells were incubated for 30 min on ice , followed by 5 min at 37 °C .
+Stimulations were stopped by the addition of cold Buffer A containing 1 mM Na , VO , ; cells were washed once with Buffer A/Na , VO , and then lysed at 4 °C for 15 min in to remove N-linked sugars from CD28 .
+Stimulation of Jurkat T cells with CHO-CD80 cells or with anti-CD28 mAb induced the in vivo tyrosine phosphorylation of CD28 ( Fig .
+7A ) .
+Surprisingly , parallel treatments of Jurkat cells with CHO-CD86 failed to elicit any detectable CD28 tyrosine phosphorylation .
+To eliminate the possibility that the difference in CD28 phosphorylation after CD80 and CD86 stimulation resulted from an artifact of the CHO-human B7 transfectants , we tested the ability of murine B7 family members to induce CD28 phosphorylation in murine cells and found that CD80 but not CD86 induced the tyrosine phosphorylation of murine CD28 ( data not shown ) .
+Time course studies were performed to determine if the difference in the ability of CD80 and CD86 to induce CD28 tyrosine phosphorylation was a qualitative or a kinetic difference ( Fig .
+7B ) .
+Robust CD28 tyrosine phosphorylation was detected at 5 min and was still detectable at 30 min following ligation by the ligand CD80 ; in striking contrast , no CD28 tyrosine phosphorylation was detected following CD86 ligation at any time point analyzed ( Fig .
+7B ) .
+CD80 and CD86 Differ in Their Ability to Induce the Association of CD28 with PI3 Kinase-Differential protein phosphorylation is one mechanism regulating the local assembly of functional protein complexes .
+Given the dramatic ligand-specific differences in the tyrosine phosphorylation of CD28 , we examined the effect of CD80 and CD86 on the recruitment of intracellular signaling proteins to the CD28 receptor complex .
+Stimulation with anti-CD28 mAb has been shown to lead to the SH2-dependent association of the heterodimeric p85/p110 PI3-K with the -Tyr ( P ) '' '' '' -Met-Asn-Met- sequence in the cytoplasmic domain of CD28 ( 34-37 ) .
+There is a concomitant increase in PI3 lipid kinase activity that may be important in CD28 signaling pathways , particularly in those involved in the prolongation of T cell survival ( 35 , 36 , 38 ) .
+Given the dramatic difference in the tyrosine phosphorylation of CD28 after stimulation with CD80 versus CD86 , we examined the ability of CD28 to bind PI3-K as an in vivo functional correlate of CD28 tyrosyl phosphorylation .
+CD28 was immunoprecipitated from Jurkat cells stimulated with CHO-Mock , CHO-CD80 , CHO-CD86 , or the anti-CD28 mAb ; coprecipitated PI3-K were detected using an antibody directed against the p85 subunit of PI3-K. Stimulation with either CD80 or anti-CD28 mAb induced the association of PI3-K with CD28 ; in contrast , the PI3-K/CD28 association was much less dramatic following CD86 stimulation ( Fig .
+8A ) .
+This association was evident by 2 min after stimulation with CD80 and continued for at least 30 min after activation ( data not shown ) .
+We then tested the ligand-specific association of PI3-K with CD28 in purified CD4* human T cells ( Fig .
+8C ) .
+Stimulation for 15 min with CD80 and mAb to CD28 induced the association of PI3-K with CD28 , whereas CD86 did so to a much lesser extent .
+The time course of PI3-K association appeared to be slightly different in CD4* T cells than in Jurkat cells , in that induction of PIS-K association at 15 min exceeded that at 5 min ( data not shown ) .
+1 ml of 1 % Nonidet P-40 lysis buffer .
+Lysates were clarified by centrifugation and immunoprecipitated with anti-phosphotyrosine antibodies precoupled to agarose for 2 h at 4 °C .
+Lysates were separated by electrophoresis through a 6-15 % SDS-PAGE and then transferred to PVDF membranes .
+Tyrosine-phosphorylated proteins were detected with anti-phosphotyrosine antibody ( RC20 1:2500 dilution ) for 2 h , and the proteins were visualized by ECL .
+The migration of molecular mass markers are indicated .
+B , anti-phosphotyrosine immunoprecipitates were prepared from detergent lysates of 2 X 10 '' human peripheral blood T cells as in A. Lysates were prepared from CHO-CD80 cells alone ( lane 1 ) , from unstimulated T cells ( lane 5 ) , or from T cells stimulated with CHO-Mock ( Zane 2 ) , CHO-CD80 ( lane 3 ) , CHO-CD86 ( Zane 4 ) cells ( 1 X 10 '' ) , anti-CD28 mAb ( Zane 7 ) plus rabbit anti-mouse ( Zane 8 ) or anti-CD3 mAb ( lane 6 ) .
+610Z '01 Aepy uo 4g wo ; popeoumog Differential Signaling through CD28 by Ligands CD80 and CD86 3121 5 5 C ae x C 4 € ) 5 3 € S S E & R 6 & 5 _ cHo-cpso _ ?
+2 _ _cho-cose _ © Z O O pr 30s 2m 5m 10m 30s 2m Sm 10m « ue .
+quits .
+cms ‘ swe .
+smae + V a V is P am ams ams cus aun cass ath Tih Gis « a » Tih Gh 4- \/ a\ Fic .
+4 .
+Both CHO-CD80 and CHO-CD86 induce tyrosine phosphorylation of VAV in Jurkat T cells .
+Anti-VAV immunoprecipitates were prepared from detergent lysates of Jurkat cells ( 2 X 10 '' ) not treated , stimulated with CHO-Mock , CHO-CD80 , or CHO-CD86 for 15 min on ice , and then warmed to 87 °C for the indicated times .
+Stimulations were stopped and cells lysed as in Fig .
+3A .
+Lysates were clarified by centrifugation and immunoprecipitated with anti-VAV and protein A-Sepharose for 2 h at 4 °C .
+Lysates were separated by SDS-PAGE , transferred to PVDF , and tyrosine-phosphorylated proteins detected by ECL ( fop ) .
+The blot was stripped and reprobed with anti-VAV antibody to demonstrate equivalent loading of proteins ( bottom ) .
++ Jurkat CHO-CD80 CHO-Mock CHO-CD80 CHO-CD86 « CD3 mAb a CD28 mAb 0 phospho c-cbl -* - 97 o c-cbl - |__ ~- eaid an dban Fic .
+5 .
+Tyrosine phosphorylation of CBL after stimulation with anti-CD28 mAb , anti-CD3 mAb , CHO-CD80 , and CHO-CD86 .
+Anti-CBL immunoprecipitates were prepared from detergent lysates of CHO-CD80 cells alone or from Jurkat cells ( 2 X 10 '' ) left untreated or stimulated with CHO-Mock , CHO-CD80 , or CHO-CD86 cells ( 1 X 10 '' ) , 6 pg/ml anti-CD3 mAb , or 4 ug/ml anti-CD28 mAb for 15 min on ice and then 5 min at 37 °C .
+Stimulations were stopped and cells lysed as in Fig .
+3A .
+Lysates were clarified by centrifugation and immunoprecipitated with anti-CBL and protein A-Sepharose for 2 h at 4 °C .
+Lysates were separated by electrophoresis through SDS-PAGE and then transferred to PVDF membranes .
+Tyrosine-phosphorylated proteins were detected with anti-phosphotyrosine antibody ( RC20 1:2500 dilution ) for 2 h , and the proteins were visualized by ECL ( top ) .
+The migration of molecular mass markers are indicated .
+The blot was stripped and reprobed with anti-CBL to verify equivalent protein levels ( bottom ) .
+Therefore , as predicted by the in vivo tyrosine phosphorylation of CD28 , there was much less PI3-K associated with CD28 in both Jurkat and CD4* human peripheral T cells after CD86 stimulation compared with CD80 stimulation .
+Peptide competition studies were performed to ensure that the CD86-dependent CD28-PI3-K complex formed in the absence of detectable levels of CD28 tyrosine phosphorylation remained SH2-dependent .
+Incubation of CD28 immunoprecipitates prepared from Jurkat cell lysates ( Fig .
+8B ) or CD4* human peripheral blood cells ( Fig .
+8D ) with the -Tyr ( P ) -Met-Asn-Met-containing peptide , but not with its unphosphorylated -Tyr-Met-Asn-Met- counterpart , inhibited the association of PI3-K with CD28 after ligation with either CD80 and CD86 .
+Thus , CD86 induced minimal increases in the in vivo phosphorylation of Tyr ' '' '' below the limits of detection using the deglycosylation procedure described above .
+The minimal CD28 phosphorylation is consistent with the relatively poor ability of CD86 to induce the binding of PI3-K to CD28 when compared directly with anti-CD28 mAb or CD80 stimulation .
+A + Jurkat £ o < § a 4 o x 7.54 8 § § 4 : fl 9 2 9 0 E a 8 © o o 2 9 292 2 06 0 0 0 G 0 2 s s 217-wee ams c > CW < - | < -PLC-41 J + 8 , o CHO-CD80 CHO-Mock CHO-CD80 CHO-CDS86 « am < -PLC-y1 I FiG .
+6 .
+Phospholipase Cyl tyrosine phosphorylation is induced by CHO-CD80 but not by CHO-CD86 .
+A , anti-phosphotyrosine immunoprecipitates were prepared from detergent lysates of CHO-CD80 cells alone ( Zane 1 ) or from Jurkat cells ( 2 X 10 '' ) left untreated ( Zane 5 ) , or treated with CHO-Mock ( Zane 2 ) , CHO-CD80 ( Zane 3 ) , or CHO-CD86 ( Zane 4 ) cells ( 1 X 10 '' ) , 4 ug/ml anti-CD28 mAb ( lane 7 ) or 6 ug/ml anti-CD3 mAb ( Zane 6 ) for 30 min on ice , followed by 5 min at 87 °C .
+Sample were processed as in Fig .
+34 .
+Proteins were visualized by Western blotting with anti-PLCy1 antibody .
+The migrations of molecular mass markers are indicated .
+B , anti-phosphotyrosine immunoprecipitates were prepared , processed , and proteins visualized as in A from detergent lysates of CHO-CD80 alone or from CD4® human peripheral blood T cells ( 2 X 10 '' ) treated with CHO-Mock , CHO-CD80 , or CHO-CD86 cells ( 1 X 10 '' ) .
+DISCUSSION We have found quantitative differences between the CD28-dependent signaling responses elicited by the two B7 family members , CD80 and CD86 .
+In our studies , CD80 and anti-CD28 mAb , but not CD86 , induced the robust and sustained tyrosine phosphorylation of CD28 itself .
+CD86 stimulation was unable to induce detectable in vivo tyrosine phosphorylation of CD28 at any time point examined .
+This dramatic difference in the ability of CD80 and CD86 to stimulate the tyrosine phosphorylation of CD28 was reflected in the differential ability of the two ligands to stimulate the SH2-dependent association of PI3-K with CD28 .
+610Z '01 Aepy uo 4g wo ; popeoumog 3122 g { $ & % a 8§855 $ 98§a o 0 © Q I E E eo C 0 8 06 2 : CD28 - » « tliis P Minutes __ 0 1 5 15 30 o © o © o © o © o © ® a © a o ® o ® ® ® o A A a a A A A aA A 9 9 Q9 Q Q Q Q Q Q Q 0 6 06 6 o o o o 6 0 L & £ % Z Z I ZL LI I 5 G 5 G6 5 5 5 5 5 5 CD28 - » Fic .
+7 .
+CHO-CD80 but not CHO-CD86 induces the robust tyrosine phosphorylation of CD28 .
+A , anti-CD28 immunoprecipitates were prepared from detergent lysates of 2.5 X 10 '' Jurkat cells left unstimulated or stimulated with CHO-Mock , CHO-CD80 , CHO-CD86 cells ( 1.25 X 10 '' ) or with 4 pg/ml anti-CD28 mAb .
+Stimulations were stopped and cells lysed by the addition of 2X detergent lysis buffer .
+Anti-CD28 mAb and protein A-Sepharose were added to all samples post-lysis , and the samples were incubated at 4 °C for 2 h. The samples were washed as described under `` Experimental Procedures '' and then incubated with 1000 units peptide : N-glycosidase F for 1 h before separation on SDS-PAGE .
+The proteins were transferred to PVDF , blotted with anti-phosphotyrosine antibody , and detected by ECL .
+B , anti-CD28 immunoprecipitates were prepared and processed as in A from 2.5 X 10 '' Jurkat cells stimulated with 1.25 x 10 '' CHO-CD80 or with 1.25 x 10 '' CHO-CD86 for the times indicated .
+The data reported here and other studies ( 21 , 22 ) have shown that both CD80 and CD86 are able to induce the association of PI3-K with CD28 and that this association is dependent upon the phosphorylated YMNM motif of the CD28 cytoplasmic do-main .
+Our conclusions differ , however , from those of Rudd and colleagues ( 22 ) who reported no difference in the ability of CD80 and CD86 to induce the SH2-dependent association of PI3-K and CD28 .
+These investigators studied a murine CD28 * hybridoma transfected with human CD28 that was stimulated with plate-bound CHO cells expressing murine CD80 and CD86 proteins ; both CD80 and CD86 induced the association of PI3-K with CD28 .
+It remains possible that endogenous murine CD28 with the murine ligands contributed to the responses observed in their system or , more likely , that the interspecies interaction may have masked the intraspecies specificity , i.e .
+that the interaction of human CD28 with the murine ligands did not faithfully reflect species-specific signaling events .
+Al-ternatively , the lack of quantitative differences observed may relate to differences between our specific experimental culture conditions .
+Using purified human T cells , Olive and colleagues ( 39 ) also demonstrated that both CD80 and CD86 induced the SH2-dependent association of CD28 with PI3-K .
+However , they further demonstrated that wortmannin , a specific inhibitor of lipid kinase activity of PI3-K via binding to the p110 subunit , inhibited CD80 costimulation of IL-2 production more efficiently than CD86 costimulation ( IC ; , 25 and 110 nM , respec-tively ) ( 39 ) .
+This suggested that the dependence on PI3 lipid kinase activity of CD80 and CD86 stimulation differed , an observation consistent with our results .
+PI3-K has been shown to be upstream of Akt/PKB in other systems ( 40 , 41 ) as well as upstream of p7O S6 kinase ( 42 , 43 ) , both of which may impact on cell survival and proliferation and therefore on the functional outcome of CD80 versus CD86 stimulation .
+In contrast to CD80 , CD86 failed to induce the detectable tyrosine phosphorylation of CD28 .
+We appreciate that PI3-K Differential Signaling through CD28 by Ligands CD80 and CD86 binding to the CD28 receptor is a more sensitive assay for CD28 tyrosyl phosphorylation than immunoblotting of precip-itated , deglycosylated CD28 polypeptide .
+Nevertheless , dramatic quantitative differences between the ability of the two ligands to induce CD28 tyrosine phosphorylation were ob-served , and a number of potential mechanisms to explain this observation should be entertained .
+The more rapid dissociation of CD86 from CD28 ( 5 ) may not permit the robust tyrosine phosphorylation of CD28 that the relatively more prolonged binding of CD80 induced .
+Simply increasing the expression of CD86 did not overcome or compensate for the observed difference ( data not shown ) .
+Not only do kinetic differences in the association/dissociation of CD80/CD28 and CD86/CD28 exist but structural differences in these interactions have been documented ( 6 , 7 ) .
+Mutation of the LDN residues of the M°°YPPPYLDN* '' region of CD28 reduced both CD80 and CD86 binding ( 6 ) , whereas mutation of Tyr ' '' ° and Tyr ' '' * selectively reduced CD86 binding without impacting upon CD80 binding ( 6 , 7 ) .
+Thus , the discrepancy in the conformation of CD28 upon CD80 binding from that resulting from the CD86 binding may have resulted in divergent downstream signaling cascades .
+Finally , CD86 may selectively and rapidly recruit and/or activate a tyrosine phosphatase that dephosphorylated the -Tyr ( P ) -Met-Asn-Met- motif of the CD28 cytoplasmic tail , thereby resulting in lower levels of CD28 phosphorylation and diminished PI3-K binding .
+It is important to note , however , that despite the absence of detectable CD28 phosphorylation , CD86 costimulated cytokine production and NFAT mediated transcriptional activation .
+The NFAT-mediated transcriptional activation was inhibited by the addition of blocking CD28 mAb ( data not shown ) , confirming that CD86 was signaling through CD28 .
+It remains possible that the mechanism of CD86-dependent cytokine production and transcriptional activation may differ from CD80-dependent activation of the same events .
+CD86 stimulation may recruit another protein ( cytoplasmic or transmembrane ) to CD28 , resulting in activation of a slightly different cascade of signaling events that nonetheless culminate in cytokine gene transcription .
+Regardless , either the minimal level of CD28 phosphorylation achieved by CD86/CD28 interactions is sufficient for cytokine production or CD28 phosphorylation is itself not required for cytokine production .
+There are precedents for two different ligands of a single receptor to signal differently through that receptor even when contacting amino acids overlap .
+A compelling example is T cell receptor stimulation by native versus altered peptide ligand ; here , peptides that differ at specific amino acid residues interact with a clonogenic TcR to modify early intracellular signaling events ( e.g .
+phosphorylation of Zap-70 and calcium mobili-zation ) ( 44 ) .
+In addition , nonmitogenic antibodies to CD3 have been shown to result in ineffective TeR { and Zap-70 phosphorylation , minimal PLC-y1 phosphorylation , and diminished calcium mobilization ( 45 ) , compared with mitogenic antibodies binding to different sites on the same CD3 molecule .
+Although the TcR is a multichain complex and CD28 exists as a ho-modimer , oligomerization of CD28 may be one mechanism permitting analogous regulation of CD28 signaling pathways ( 5 ) .
+In a completely different system , estrogen receptor binding by two different estrogenic entities ( estrogen and raloxifene ) has been shown to regulate two different DNA response elements ( 46 ) .
+Indeed , the biochemical differences following CD80- and CD86-dependent signaling we report here might have been predicted by earlier work ( 47 ) demonstrating that stimulation with different anti-CD28 mAbs had different outcomes with regard to calcium flux and IL-2 production .
+To a first approximation , the activation of PLC-y1 has been shown to generate diacylglycerol and inositol triphosphates 610Z '01 Aepy uo 4g wo ; popeoumog Differential Signaling through CD28 by Ligands CD80 and CD86 3123 A B 5 5 5 o o 8 2 xo s s § 2 x~ o & € € 8 § G f § § § S t t § § G f = o 0 E g = Q 9 Eg z 9 9 E g 2 2 2 2 8 2 9 R T f & & £ ?
+8 0 o o 000295 0 Oo O 2 s O O O Z2 8 rex ( __ cas nes + YMNM + P-YMNM C § .
+P s 5 3 o o 3 < x o o a 2 o £ & ~ g o 4 2 , § § & f : § B§ | = 9 9 E g = 9 0 Eqz 9 0m Ez 0 0 Eg § 2 5 £ i 8 9 go fag g 9d 29 gg °o c 6 56 o 2 § o s 5 2 85 s 5 % $ 56 s 5 2 % : « [ _- ____- _- @ - » +YMNM + P-YMNM Fic .
+8 .
+PIS-K associates in an SH2-dependent fashion with CD28 after stimulation of T cells with anti-CD28 mAb , CHO-CD80 , and CHO-CD86 .
+A , anti-CD28 immunoprecipitates were prepared from detergent lysates of 1 X 10 '' Jurkat cells treated as indicated with CHO-Mock , CHO-CD80 , CHO-CD86 cells ( 5 X 10° ) or 4 ug/ml mAb 9.3 for 15 min at 4 °C and then warmed to 37 °C for 5 min .
+Stimulations were stopped and cells lysed by the addition of 2X detergent lysis buffer .
+Anti-CD28 mAb and protein A-Sepharose were added to all samples post-lysis , and the samples were incubated at 4 °C for 2 h. Immunoprecipitates were washed as described under `` Experimental Procedures , '' and proteins were separated by electrophoresis through a 6-15 % SDS-PAGE and transferred to PVDF .
+Membranes were incubated with antibody to the p85 subunit of PIS-K for 2 h at room temperature , washed , incubated with secondary antibody coupled to horseradish peroxidase , and proteins were visualized by ECL .
+B , jurkat T cells were stimulated as described in A .
+In addition to anti-CD28 mAb and protein A-Sepharose , 5 uM -Tyr-Met-Asn-Met- or -Tyr ( P ) -Met-Asn-Met-containing peptide was added to samples post-lysis .
+C , anti-CD28 immunoprecipitates were prepared as described in A from 2 X 10 '' CD4* T cells left unstimulated , stimulated with CHO-Mock , -CD80 , -CD86 CHO cells ( 1 X 10 '' ) or with 4 ug/ml anti-CD28 mAb or 15 min at 4 °C , and then warmed to 37 °C for 15 min .
+Immunoprecipitates were treated exactly as in A .
+D , CD4* human peripheral T cells were stimulated with CHO-Mock , CHO-CD80 , or CHO-CD86 as described under `` Experimental Procedures . ''
+In addition to anti-CD28 mAb and protein A-Sepharose , 5 uM -Tyr-Met-Asn-Met- or -Tyr ( P ) -Met-Asn-Met-containing peptide was added to samples post-lysis .
+Immunoprecipitates were washed as described under `` Experimental Procedures '' and treated as in A. that in turn result in the activation of protein kinase C and the - able to induce the phosphorylation of CBL , a protein able to release of calcium from intracellular stores , respectively .
+CD80 - bind constitutively with PI3-K and , upon activation , with stimulates the rapid tyrosine phosphorylation of PLC-y1 ; there - p59 '' '' '' ( 51-53 ) .
+Thus , the phosphorylation of both VAV and is no discernible phosphorylation following stimulation with - CBL after stimulation with either CD80 or CD86 may be to CD86 ( Fig .
+6 ) .
+The ability of CD80 to induce the tyrosine - provide a means to assemble a macromolecular signaling com-phosphorylation of PLC-y1 correlated with its ability to induce - plex , common features of which may initiate signaling trans-the in vivo tyrosine phosphorylation of CD28 itself and the - mission cascades leading to their shared functional properties .
+enhanced association of PIS-K with CD28 .
+Buhl et al .
+( 48 ) We have shown differing biochemical outcomes between recently demonstrated that the absence of CD19 resulted in - CD80 and CD86 ligation ; although these differences appear to decreased antigen-induced PI3-K activity , as well as decreased - be quantitative and not absolute , quantitative signaling differ-phosphoinositide hydrolysis and calcium mobilization .
+Fur- - ences have been shown to result in qualitatively different out-thermore , they showed that this phenotype could be repro- - comes ( `` all or none response '' ) ( 54 ) .
+However , these biochemical duced either by treatment with the PI3-K inhibitor wortman- _ differences do not exclude other operational means by which B7 nin or by mutation of the tyrosine residues in the PI3-K- ligands may contribute in differing outcomes in T cell rebinding motif of CD19 .
+Our results are consistent with a - sponses and differentiation .
+Clearly , if CD80 and CD86 are correlation between PI3-K recruitment and PLC-y1 activation .
+- able to direct T cell differentiation and functional program , Whether the correlation is explained by the recent observation - differential expression of B7 family members represent an-that binding of phosphatidylinositol 3,4,5-triphosphate to the - other mechanism by which CD28 and CTLA-4-dependent co-pleckstrin homology domain of PLC-y1 results in targeting of - stimulatory responses are regulated .
+The affinities of both PLC-y1 to the membrane remains to be shown ( 49 ) .
+CD80 and CD86 for CD28 are low , and thus the outcome of an We and others ( 19-22 ) also found several shared biochemical _ in vivo immune response will depend upon the level of CD80 events triggered by stimulation with either CD80 or CD86 .
+- and CD86 expression on local antigen-presenting cells .
+Our Both ligands were capable of inducing the rapid tyrosine phos- - data provide further evidence that even in relatively similar phorylation of signaling proteins involved in the earliest stages _ environments , wherein the surface expression of both ligands of T cell activation , including VAV and CBL .
+VAV has been _ is equivalent and other potentially costimulatory molecules are shown to bind the tyrosine kinase Zap-70 and Slp-76 and may - comparable , and wherein the responding T cell ( s ) is/are iden-bind to adapter proteins such as Grb2 and She as well as the _ tical , CD80 and CD86 differ in their capacity to stimulate the nuclear proteins Ku-70 and human ribonucleoprotein-K ( re- - tyrosine phosphorylation of CD28 , the recruitment of PI3-K to viewed in Ref .
+50 ) .
+More recent data indicate that phosphoryl- - CD28 , and the tyrosine phosphorylation of PLC-y1 .
+These dif-ated VAV is an exchange factor for Rac-1 and that VAV-GEF is - ferences demonstrate the potential for ligand-specific regula-enhanced by incubation with the Sre family kinase Lck ( 30 ) .
+tion of CD28-dependent intracellular signaling pathways .
+Our findings confirmed the prior demonstration that both - Taken together , both the context and environment of T cell CD80 and CD86 induce the tyrosine phosphorylation of VAV _ stimulation and ligand-specific signaling cascades are able to ( 19 ) .
+We have also demonstrated that both CD80 and CD86 are - contribute to regulation of T cell differentiation .
+610Z '01 Aepy uo 4g wo ; popeoumog 3124 N 1 go ~ 10 .
+11 .
+12 .
+18 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22. .
+Gillis , S. , Ferm , M. M. , Ou , W. , and Smith , K. A .
+( 1978 ) J. Immunol .
+120 , 24 .
+25 .
+26 .
+27 .
+REFERENCES .
+Schwartz , R. H. ( 1992 ) Cell 71 , 1065-1068 .
+June , C. H. , Vandenberghe , P. , and Thompson , C. B .
+( 1994 ) Chem .
+Immunol .
+59 , 62-90 .
+Schwartz , R. H. ( 1990 ) Science 248 , 1849-1356 .
+Linsley , P. S. , Greene , J. L. , Brady , W. , Bajorath , J. , Ledbetter , J .
+A. , and Peach , R. ( 1994 ) Immunity 7983-801 .
+Greene , J. L. , Leytze , G. M. , Emswiler , J. , Peach , R. , Bajorath , J. , Cosand , W. , and Linsley , P. S. ( 1996 ) J. Biol .
+Chem .
+271 , 26762-26771 .
+Truneh , A. , Reddy , M. , Ryan , P. , Lyn , S. D. , Kichman , C. , Couez , D. , Hurle , M. R. , Sekaly , R. P. , Olive , D. , and Sweet , R. ( 1996 ) Mol .
+Immunol .
+33 , 321-334 .
+Kariv , L. , Truneh , A. , and Sweet , R. ( 1996 ) J. Immunol .
+157 , 29-38 .
+Ellis , J. H. , Burden , M. N. , Vinogradov , D. V. , Linge , C. , and Crowe , J. S. ( 1996 ) J. Immunol .
+156 , 2700-2709 .
+Peach , R. J. , Bajorath , J. , Naemura , J. , Leytze , G. , Greene , J. , Aruffo , A. , and Linsley , P. S. ( 1996 ) J. Biol .
+Chem .
+270 , 21181-21187 Boussictis , V. A. , Freeman , G. J. , Gribben , J. G. , Daley J. , Gray , G. S. , Nadler , L. M. ( 1993 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+90 , 11059-11063 Hathcock , K. S. , Laszlo , G. , Pucillo , C. , Linsley , P. , and Hodes , R. J .
+( 1994 ) J. Exp .
+Med .
+180 , 631-641 Lenschow , D. J. , Ho , S. C. , Sattar , H. , Rhee , L. , Gray , G. , Nabavi , N. , Herold , K. C. , and Bluestone , J .
+A .
+( 1995 ) J. Exp .
+Med .
+181 , 1145-1155 Kuchroo , V. K. , Das , M. P. , Brown , J .
+A. , Ranger , A. M. , Zamvil , S. S. , Sobel , R. A. , Weiner , H. L. , Nabavi , N. , and Glimcher , L. H. ( 1995 ) Cell 80 , 707-718 Matulonis , U. , Dosiou , C. , Freeman , G. , Lamont , C. , Mauch , P. , Nadler , L. M. , and Griffin , J. D. ( 1996 ) J. Immunol .
+156 , 1126-1131 Gajewski , T. F. ( 1996 ) J. Immunol .
+156 , 465-472 Racke , M. K. , Scott , D. E. , Quigley , L. , Gray , G. S. , Abe , R. , June , C. H. , and Perrin , P. J .
+( 1995 ) J. Clin .
+Invest .
+96 , 2195-2203 Eick , S. C. , Chang , D. , Wells , A. D. , and Turka , L. A .
+( 1997 ) Transplantation 64 , 1497-1499 Freeman , G. J. , Boussictis , V. A. , Anumanthan , A. , Bernstein , G. M. , Ke , X.-Y. , Rennert , P. D. , Gray , G. S. , Gribben , J. G. , and Nadler , L. M. ( 1995 ) Immunity 2 , 528-532 Nunes , J .
+A. , Truneh , A. , Olive , D. , and Cantrell , D. A .
+( 1996 ) J. Biol .
+Chem .
+271 , 1591-1598 Nunes , J .
+A. , Battifora , M. , Woodgett , J. R. , Trunch , A. , Olive , D. , and Cantrell , D. ( 1996 ) Mol .
+Immunol .
+83 , 68-70 Ueda , Y. , Levine , B. L. , Huang , M. L. , Freeman , G. J. , Nadler , L. M. , June , C. H. , and Ward , S. G. ( 1995 ) Int .
+Immunol .
+7 , 957-966 Cefai , D. , Cai , Y.-C. , Hu , H. , and Rudd , C. ( 1996 ) Int .
+Immunity 8 , 1609-1616 2027-2032 Weiss , M. , Yokoyama , C. , Shikama , Y. , Naugle , C. , Druker , B. , and Sicff , C. A .
+( 1993 ) Blood 82 , 3298-3306 Rooney , J. W. , Sun , Y. L. , Glimcher , L. H. , and Hoey , T. ( 1995 ) Mol .
+Cell .
+Biol .
+15 , 6299-6310 Hutchcroft , J. E. , Tsai , B. , and Bierer , B. E. ( 1996 ) J. Biol .
+Chem .
+271 , 13362-13370 Ward , S. G. ( 1996 ) Biochem .
+J .
+818 , 861-877 28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50. .
+Panchamoorthy , G. , Fukazawa , T. , Miyake , S. , Soltoff , S. , Reedquist , K. , 52 .
+53 .
+54 .
+Differential Signaling through CD28 by Ligands CD80 and CD86 Margolis , B. , Hu , P. , Katzav , S. , Li , W. , Oliver , J. M. , Ullrich , A. , Weiss , A. , and Schlessinger , J .
+( 1992 ) Nature 856 , 71-74 Nunes , J .
+A. , Collette , Y. , Truneh , A. , Olive , D. , and Cantrell , D. A .
+( 1994 ) J. Exp .
+Med .
+180 , 1067-1076 Crespo , P. , Schuebel , K. E. , Ostrom , A .
+A. , Gutkind , J. S. , and Bustelo , X. R. ( 1997 ) Nature 885 , 169-172 Donovan , J .
+A. , Wange , R. L. , Langdon , W. Y. , and Samuelson , L. E. ( 1994 ) J. Biol .
+Chem .
+269 , 22921-22924 Marcilla , A. , Rivero-Lezcano , O. M. , Agarwal , A. , and Robbins , K. C. ( 1995 ) J. Biol .
+Chem .
+270 , 9115-9120 Miyake , S. , Lupher , M. L. , Andoniou , C. E. , Lill , N. L. , Ota , S. , Douillard , P. , Rao , N. , and Band , H. ( 1997 ) Crit .
+Rev .
+Oncog .
+8 , 189-218 Pages , F. , Ragueneau , M. , Rottapel , R. , Trunch , A. , Nunes , J. , Imbert , J. , and .
+Olive , D. ( 1994 ) Nature 869 , 327-329 Prasad , K. V. S. , Cai , Y.-C. , Raab , M. , Duckworth , B. , Cantley , L. , Shoelson , S. E. , and Rudd , C. E. ( 1994 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+91 , 2834-2838 .
+Stein , P. H. , Fraser , J. D. , and Weiss , A .
+( 1994 ) Mol .
+Cell .
+Biol .
+14 , 3892-3402 .
+Truitt , K. E. , Hicks , C. M. , and Imboden , J .
+B .
+( 1994 ) J. Exp .
+Med .
+179 , 1071-1076 Ward , S. G. , Westwick , J. , Hall , N. D. , and Sansom , D. M. ( 1998 ) Eur .
+J. Immunol .
+28 , 2572-2577 Ghiotto-Ragueneau , M. , Battifora , M. , Trunch , A. , Waterfield , M. D. , and Olive , D. ( 1996 ) Eur .
+J. Immunol .
+26 , 84-41 Franke , T. F. , Yang , S. I. , T. O. , Chan , Datta , K. , Kazlauskas , A. , Morrison , D. K. , Kaplan , D. R. , and Tsichlis , P. N. ( 1995 ) Cell 81 , 727-736 Burgering , B. M. T. , and Coffer , P. J .
+( 1995 ) Nature 876 , 599-602 Chung , J. , Grammer , T. C. , Lemon , K. P. , Kazlauskas , A. , and Blenis , J .
+( 1994 ) Nature 870 , 71-75 Weng , Q. P. , Andrabi , K. , Kippel , A. , Kozlowski , M. T. , Williams , L. T. , and Avruch , J .
+( 1995 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+92 , 5744-5748 .
+Boutin , Y. , Letienberg , D. , Tao , X. , and Bottomly , K. ( 1997 ) J. Immunol .
+159 , 5802-5809 Smith , J .
+A. , Tso , J. Y. , Clark , M. R. , Cole , M. S. , and Bluestone , J .
+A .
+( 1997 ) J. Exp .
+Med .
+185 , 14183-1422 Yang , N. N. , Venugopalan , M. , Hardikar , S. , and Glasebrook , A .
+( 1996 ) Science 278 , 1222-1225 Nunes , J. , Klasen , S. , Ragueneau , M. , Paron , C. , Covez , D. , Mawas , C. , Bagnasco , M. , and Olive , D. ( 1993 ) Int .
+Immunol .
+5 , 811-315 Buh ] , A. M. , Pleiman , C. M. , Rickert , R. C. , and Cambier , J. C. ( 1997 ) J. Exp .
+Med .
+186 , 1897-1910 Falasca , M. , Logan , S. K. , Lehto , V. P. , Baccante , G. , Lemmon , M. A. , and Schlessinger , J .
+( 1998 ) EMBO J .
+17 , 414-422 Collins , T. L. , Deckert , M. , and Altman , A .
+( 1997 ) Immunol .
+Today 18 , 221-225 Druker , B. , Shoelson , S. , Cantley , L. , and Band , H. ( 1996 ) J. Biol .
+Chem .
+271 , 3187-3194 Fukuda , T. , Kitamura , D. , Taniuchi , I. , Mackawa , Y. , Benhamou , L. E. , Sarthou , P. , and Watanabe , T. ( 1995 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+92 , 7302-7306 Fournel , M. , Davidson , D. , Weil , R. , and Veilette , A .
+( 1996 ) J. Exp .
+Med .
+183 , 301-306 Ferrel , J. E. , and Machleder , E. M. ( 1998 ) Science 280 , 895-898 610Z '01 Aepy uo 4g wo ; popeoumog CD80 and CD86 Are Not Equivalent in Their Ability to Induce the Tyrosine Phosphorylation of CD28 Jacqueline M. Slavik , Jill E. Hutchcroft and Barbara E. Bierer J. Biol .
+Chem .
+1999 , 274:3116-3124. doi : 10.1074/jb0.274.5.3116 Access the most updated version of this article at http : /www.jbe.org/content/274/5/3116 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 53 references , 32 of which can be accessed free at http : //www 16 full.html # ref-list-1 610Z '01 Aepy uo 4g wo ; popeoumog

@@ -1,0 +1,341 @@
+THE JOURNAL or BIOLOGICAL CHEMISTRY © 1997 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+272 , No .
+22 , Issue of May 30 , pp .
+14483-14488 , 1997 Printed in U.S.A. Involvement of Phosphatidylinositol 3-Kinase in NFAT Activation in T Cells* ( Received for publication , January 28 , 1997 ) Thomas Jascur , Jennifer Gilman , and Tomas Mustelint From the Division of Cell Biology , La Jolla Institute for Allergy and Immunology , San Diego , California 92121 Phosphatidylinositol 3-kinase ( PI3-K ) has been implicated in the regulation of cell proliferation in many cell types .
+We have previously shown that in T cells the PI3-K inhibitor , wortmannin , interferes with activation of the mitogen-activated kinase , Erk2 , after T cell receptor ( TeR ) stimulation .
+To further explore the involvement of in T cell activation , we created a set of potentially dominant negative PI3-K constructs comprising individual or tandem domains of the regulatory p85 subunit and tested their effect on downstream signaling events like Erk2 activation and transcription from an NFAT ( nuclear factor of activated T cells ) element taken from the interleukin-2 promoter .
+Following TcR stimulation , activation of Erk2 was only inhibited by a previously described truncated form of p85 that can not bind the catalytic subunit , but not by other constructs of p85 .
+In contrast , several mutant p85 alleles had dramatic effects on NFAT activation .
+Most interest-ingly , the N-terminal SH2 domain had an inhibitory ef-fect , whereas a mutant p85 containing only the two SH2 domains enhanced basal NFAT activity in a Ras-depend-ent manner .
+Ionomycin induced synergistic activation of NFAT in cells expressing p85 mutants that contained the C-terminal SH2 domain .
+Analysis of phosphotyrosine-containing proteins bound to truncated p85 constructs revealed cooperative binding of the two SH2 domains but no apparent differences between the N- and C-terminal SH2 domains .
+Wortmannin did not interfere with NFAT activation , although it inhibited PI3-K and Erk2 activation in the same experiment .
+These results suggest that PI3-K is involved in NFAT activation through a complex adaptor function of its regulatory subunit and that its lipid kinase activity is dispensable for this effect .
+Phosphatidylinositol 3-kinase ( PI8-K ) ' has been implicated in the regulation of cell growth in a variety of cell types including T lymphocytes ( 1 ) .
+Engagement of the T cell antigen receptor ( TeR ) causes an increase in the intracellular levels of the PI3-K reaction products , phosphatidylinositol 3,4-bisphos- * This work was supported by National Institutes of Health Grants AI35603 and GM48960 and by a fellowship from the Swiss National Science Foundation ( to T .
+J . )
+.
+This is publication 173 from the Lia Jolla Institute for Allergy and Immunology .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 U.S.C .
+Section 1734 solely to indicate this fact .
+{ To whom correspondence should be addressed : Division of Cell Biology , La Jolla Institute for Allergy and Immunology , 10855 Science Center Dr. , San Diego , CA 92121 .
+Tel .
+: 619-558-8547 ; Fax : 619-558-3526 ; E-mail : tomas _mustelin @ liai.org .
+* The abbreviations used are : PIS-K , phosphatidylinositol 8-kinase ; TeR , T cell antigen receptor ; NFAT , nuclear factor of activated T cells ; PMA , phorbol myristate acetate ; SH , Sre homology ; iSH , inter-SH ; mAb , monoclonal antibody ; PKC , protein kinase C ; HA antigen .
+This paper is available on line at http : //www-jbc.stanford.edu/jbc/ phate , and phosphatidylinositol 3,4,5-trisphosphate ( 2 ) .
+These lipids are not subject to breakdown by phospholipase C but seem to activate Ser/Thr-specific protein kinases such as some isoforms of protein kinase C ( 3-5 ) , and protein kinase B , also known as c-Akt ( 6 , 7 ) .
+The isoform of PIS-K that becomes activated in response to growth factor receptor stimulation is a heterodimeric enzyme consisting of an 85-kDa regulatory subunit ( p85 « or p85 $ B ) ( 8-10 ) and a 110-kDa catalytic subunit ( p110a or ( 11 ) .
+The p85 subunit contains a number of domains that mediate protein-protein interactions and are commonly found in signaling proteins : one Sre homology 3 ( SH3 ) domain , two proline-rich regions , two SH2 domains , and a region with similarity to the breakpoint cluster region gene ( BCR homology region ) .
+Binding of the catalytic p110 subunit occurs through interaction of the region between the SH2 domains of p85 ( inter-SH2 domain or iSH2 ) and the extreme N terminus of the catalytic subunit ( 12 , 13 ) .
+Regulation of PI3-K activity occurs through interaction of the two subunits ( 14 , 15 ) , autophosphorylation at Ser-608 ( 16 ) , and membrane localization ( 17 ) .
+In addition , a number of reports have demonstrated that binding of cellular proteins to PI3-K domains can increase its enzymatic activity : the SH3 domain of Sre family kinases binding to one or both of the proline-rich regions of p85 ( 18 ) , phosphotyrosine-containing peptides binding to the SH2 domains of p85 ( 19 , 20 ) , and GTP-Ras binding to the catalytic pl110 subunit ( 21 ) .
+However , the in vivo function of these and the other PI3-K domains , and their contribution to various signaling processes of PI3-K , are poorly understood .
+We have previously shown that TceR-induced activation of the mitogen-activated kinase , Erk2 , requires PI3-K activity since the PI3-K inhibitor , wortmannin , blocked Erk2 activation ( 22 ) .
+Furthermore , a mutated form of p85 that lacked the p110-binding iSH2 region ( p85A1iSH2 ) reduced Erk2 activation , presumably by occupying PI3-K binding sites on other cellular proteins .
+To study this in more detail and to shed some light on the physiological role of the various domains , we have generated a set of truncated p85 mutants to study the role of PI3-K. domains in T cell activation .
+As a functional readout we used a reporter gene driven by the nuclear factor of activated T cells ( NFAT ) , which is a transcription factor complex that plays a key role in the induction of the interleukin-2 gene and other lymphokine genes during T cell activation ( 23 ) .
+It consists of two components : preexisting cytosolic NFATp , which translocates into the nucleus in response to a calcium signal , and a nuclear component , AP-1 , which consists of c-Fos and c-Jun proteins and is induced by a cascade of mitogen-activated protein kinase-related protein kinases and as a result of protein kinase C activation .
+NFAT-driven expression of reporter genes has been widely used as a physiologically relevant assay to study signal trans-duction events that lead to cytokine expression in T cells .
+Here we report that PI3-K has different effects on Erk2 and downstream 14483 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog 14484 NFAT activation .
+Erk2 activation in response to TcR engagement was sensitive to wortmannin , and only inhibited by over-expressing p85AiSH2 , but not individual p85 domains .
+NFAT activation , on the other hand , was not sensitive to wortmannin , but was inhibited by the SH3 domain , the N-terminal SH2 domain , and a p85 fragment comprising the two proline-rich regions and the BCR homology domain .
+In contrast , three constructs that contain the C-terminal SH2 domain caused an elevated basal level of NFAT activity , which was synergisti-cally increased by ionomycin .
+Both the increased basal NFAT level and the activation following TcR stimulation depended on functional Ras and calcineurin .
+These studies provide evidence that PI3-K is involved in cytokine induction in a way that does not involve enzymatic activity but a previously unrecognized adaptor function of the regulatory subunit .
+MATERIALS AND METHODS Antibodies and Reagents-The anti-CD8e mAb , OKT83 , was purified from ascites fluid by protein A-Sepharose chromatography .
+mAb 4G10 ( anti-phosphotyrosine ) and anti-p85 rabbit serum were from Upstate Biotechnology , Inc. ( Lake Placid , NY ) .
+Anti-HA epitope mAb 12CA5 was from Boehringer Mannheim ( Indianapolis , IN ) .
+Anti-Eirk2 polyclonal antibodies were from Santa Cruz Biotechnology , Inc. ( Santa Cruz , CA ) .
+The c-Myc-tagged Erk2 cDNA was from Dr. C. Marshall ( Ludwig Institute for Cancer Research ) .
+The c-Myc epitope is recognized by mAb 9E10 .
+Anti-phospho-Eirk2 antibody was from New England Biolabs , Inc. ( Beverly , MA ) .
+The luciferase reporter plasmid , NFAT-luc , was a generous gift from Dr. G. Crabtree .
+Luciferin was from Analytical Luminescence Laboratory ( Ann Arbor , MI ) .
+PI3-K Constructs-The p85AiSH2 and iSH2 constructs have been described previously ( 22 ) .
+p85 fragments encoding the amino acids indicated in Fig .
+1A were amplified by polymerase chain reaction using primers tailed with Xbal and EcoRI ( SH3 , PBP , N-SH2 ) , EcoRI and Ndel ( C-SH2 ) , or Xbal and Ndel ( NC , NiC , full-length p85 ) sites .
+p85AiSH2 was used as a template for NC ; wild-type bovine p85 « was used as a template for the other constructs .
+The N-terminal fragment of pl10 ( amino acids 1-171 ) was amplified using bovine p110a as a template and primers tailed with NReI and Ndel sites .
+The fragments were digested with the appropriate restriction enzymes and ligated into the vector pEF-HA ( 22 ) .
+The resulting fusion proteins express an influenza hemagglutinin epitope YPYDVPDYA at their N terminus .
+All constructs prepared for this study were verified by sequencing .
+Cells and Transient Transfections-Jurkat cells stably expressing the simian virus large T antigen ( J-TAg ) were kept at logarithmic growth in RPMI supplemented with 10 % heat-inactivated fetal calf serum , glutamine , antibiotics , and 0.5 mg/ml G418 .
+Transient transfec-tions were carried out by electroporation as described before ( 22 ) .
+Typically , a total amount of DNA of 17-20 ug was added to 20 X 10° cells ( 5 ug of c-Imyc-tagged Erk2 plus 15 ug of PIS-K construct or empty vector , or 2 ug of NFAT-lue plus 15 ug of PIS-K construct or empty vector ) .
+Immunoprecipitations and in Vitro Kinase Assays-These were performed essentially as described previously ( 22 ) .
+Luciferase Assays-Two days after transient transfection , J-TAg cells were stimulated with 10 ug/ml OKT3 , 50 ng/ml PMA , or 1 ug/ml ionomycin , or left untreated for 3-4 h in 24-well plates in a tissue culture incubator .
+The cells were washed with phosphate-buffered saline and lysed in 100 ul of lysis buffer ( 100 mM KPO , , pH 7.8 , 1 mM dithiothreitol , 0.2 % Triton X-100 ) .
+Lysates were clarified by centrifuga-tion at 15,000 X g for 5 min , and 50 ul were used for luciferase assays in an automated luminometer ( Monolight 2010 , Analytical Luminescence Laboratory , Ann Arbor , MI ) .
+The final assay contained 50 pl of lysate plus 100 pl of ATP solution ( 10 mM ATP , 85 mM glyeyl-glycine , pH 7.8 , 20 mm MgCl , ) plus 100 pl of luciferin reagent ( 0.27 mM coen-zyme A , 0.47 mM luciferin , 85 mM glycyl-glycine , pH 7.8 , 20 mm MgCl , , ) .
+The protein concentration in the cell lysates was determined by the Bradford protein assay and used to normalize the luciferase activity .
+Typically , the variation in protein concentration between samples was smaller than 20 % .
+RESULTS Effect of PI3-K Constructs on Erk2 Activation-Among the signaling components thought to be downstream of the TcR and PI3-K is the mitogen-activated protein kinase , Erk2 ( 24 ) .
+We have previously shown that the PI3-K inhibitor , wortmannin , PI3-K in NFAT Activation A p110 binding endogenous _ Bor Pro N-SH2 - ( inter-SH2 ) CS2 p85 ___ { L-L______ -- ¢ ___ _E __ ___ j- } 1 78 sH3 AL_ ] 79 328 ProBerPro ( PBP ) } { { = [ _-_____ } -= [ } mens 329 439 563 724 C-SH2 ___ Ja 329 439 563 724 NC w—J 329 724 wic 1 a39 563 724 985AiSH2OCID—1ZI—IZI\/—l : |-425 616 s 1 724 p85 i=l femme p ( O HAtag ) ( CV £ Q 4 to x0 x8 x~ w 0 C C L JS § g # £ OKT3 - + $ o 8 # - % +- o % $ o 40 - 4 116 £4 ge f « an came - 66 hhhhh ~~~ ** dkdih ~ as HA blot ~- < P « ae aas am __ m P - 2 « t umn tie : mee FiG .
+1 .
+A , schematic representation of recombinant p85 PI3-K constructs used in this study .
+B , J-TAg cells were transiently transfected with 20 ug of the indicated p85 mutants or empty vector .
+After 2 days in culture , the cells were either stimulated with OKT3 or mock-treated , and the recombinant p85 constructs were immunoprecipitated from Nonidet P-40 lysates with an anti-HA antibody .
+Recombinant proteins were revealed by an anti-HA Western blot .
+and a mutated form of p85 that can not bind the catalytic subunit ( p85AiSH2 ) inhibited Erk2 activation in T cells ( 22 ) .
+To further investigate the role of p85 domains in Erk2 activation and other processes relevant to T cell activation we generated a set of truncated p85 constructs ( Fig .
+14 ) .
+Transient expression of these constructs in J-TAg cells yielded anti-HA reactive proteins of the expected sizes ( Fig .
+1B ) .
+We tested these constructs for an effect on Erk2 activation by co-expressing them with c-Myc-tagged Erk2 in J-TAg cells .
+48 h after transfection , the cells were either stimulated for 3 min with the anti-CD3 antibody , OKT3 , or left untreated .
+c-Myc-tagged Erk2 was immunoprecipitated using the mAb 9E10 , and in vitro kinase assays were performed using MBP as a substrate .
+As can be seen in the upper panel of Fig .
+2 , only p85AiSH2 clearly inhibited Erk2 activation , presumably because it binds to PI3-K-activating proteins or sites but fails to transduce a signal to the catalytic p110 subunit of PI3-K. All other constructs had negligible effects on Erk2 activation , although they were efficiently expressed ( data not shown ) .
+The SH3 domain and PBP seemed to increase Erk2 activation , but an anti-Erk2 blot on the same 9E10 immunoprecipitates ( Fig .
+2 , lower panel ) showed that these two samples contained slightly more Erk2 protein .
+Thus , it seems that multiple domains of endogenous p85 need to be competed away by transfected constructs to inhibit this pathway .
+610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog PI3-K in NFAT Activation Complex Role of PI3-K Domains in NFAT Activation-To further characterize the role of PI3-K in T cell activation we studied the effect of truncated p85 and p110 constructs on the activation of the transcription factor NFAT .
+J-TAg cells were co-transfected with NFAT-lue and PI3-K constructs and stimulated with OKT3 for 3-4 h. Luciferase activity was assayed in the cell lysates as a reporter for NFAT activation .
+Fig .
+3A shows that PI3-K constructs had complex effects on NFAT activity following TcR/CD3 stimulation .
+The SH3 domain , a fragment containing two proline-rich regions and the BCR homology domain ( PBP ) , the N-terminal SH2 domain ( N-SH2 ) , and the inter-SH2 domain ( iSH2 ) all inhibited NFAT activation , whereas the C-terminal SH2 domain ( C-SH2 ) increased the basal NFAT activity without affecting the level of NFAT activity after TcR/CD3 stimulation .
+The C-SH2 domain seemed to have a dominant effect over the N-SH2 domain since constructs containing both SH2 domains ( p85NC and p85NiC ) behaved more like C-SH2 than like N-SHZ .
+p85AiSH2 and full-length p85 both lead to elevated basal levels of NFAT activity with almost no further stimulation after TcR engage-ment .
+The N-terminal fragment of p110 that binds p85 ( p110 NT ) did not substantially affect NFAT activation , but it was expressed at a lower level than the p85 constructs .
+This experiment was repeated three times with different batches of DNA & `` P & 4 Po 5 I ¢ € `` .
+y `` , * « g L lp Boo fun pty G « © Erk ?
+L___H I OKTS to - 4 - + + +o o- + +o - + we | - MBP Erk2 assay % . '
+* * *= Erk2 blot apeb « reas | .
+- L2 = wns ae das our dah wut ame wie dite Fic .
+2 .
+Effects of p85 constructs on Erk2 activation .
+In vitro kinase assay ( top ) using myelin basic protein ( MBP ) as a substrate of immunoprecipitates obtained with the anti-tag mAb 9610 from J-Tag cells transiently cotransfected with vector alone ( 20 ug ) or tagged Erk2 ( 5 ug ) plus vector or the indicated p85 constructs ( 15 ug ) .
+Bofftom , anti-Erk2 blot of the same immunoprecipitates .
+A 14485 and yielded very reproducible results .
+Activation of NFAT requires two signals , one involving calcium ( inducible by ionomycin ) , and one involving Ras ( inducible by PMA , ; reviewed in Ref .
+25 ) .
+To test whether the mutated PI3-K constructs used in this study acted in the calcium pathway or in the Ras pathway , we tested their effect on NFAT activation in cells that had been stimulated with either PMA or ionomycin ( Fig .
+3B ) .
+PMA alone did not activate NFAT , and none of the p85 mutants had a synergistic effect on NFAT in the presence of PMA .
+Ionomycin , on the other hand , synergis-tically activated NFAT in cells that were transfected with p85 constructs containing the C-terminal SH2 domain .
+We conclude that these `` activating `` mutants mimicked or induced a process in the Ras/PKC pathway , which together with an increase in intracellular calcium lead to a strong activation of NFAT .
+Cyclosporin A Inhibits TcR-induced and p8S5NC-induced NFAT Activation-Calcineurin is a cytosolic Ser/Thr-specific protein phosphatase that dephosphorylates NFATp in a calci-um/calmodulin-dependent way , a critical step for nuclear translocation of NFATp and assembly of functional NFAT com-plexes .
+To ask if calcineurin is involved in NFAT activation by p85NC , we took advantage of the immunosuppressant , cyclosporin A ( CsA ) , a potent inhibitor of calcineurin ( 26 , 27 ) .
+Fig .
+4 shows that CsA efficiently inhibited NFAT activation after stimulation with either OKT3 or ionomycin .
+In cells transfected with inhibitory p85 constructs ( SH8 , PBP , and N-SH2 ) , CsA inhibited NFAT even further .
+Because the inhibition of NFAT that is caused by these p85 constructs seems to have an additional effect to the inhibition mediated by CsA , we speculate that also these p85 constructs act in the Ras/PKC pathway .
+In the presence of the activating construct , p85NC , inhibition by CsA was substantial , but not complete .
+This is compatible with pS5NC stimulating the Ras/PKC-dependent pathway .
+Dominant Negative Ras Blocks NFAT Activation by pSSNC-The Ras GTPase has been implicated in PI3-K signaling ( 28 ) and has been demonstrated to bind directly to the catalytic subunit of PI3-K ( 21 ) .
+To address whether the increase in basal NFAT activity in cells expressing p8SSNC requires functional Ras , we co-transfected cells with NFAT-luc , p85SNC , and increasing amounts of dominant negative Ras ( RasN17 ) .
+Both the basal NFAT activity in unstimulated cells , as well as the TcR-induced activation , were inhibited by RasN17 in a dose-de-pendent manner ( Fig .
+5 ) .
+It is important to note that the ex B Fic .
+3 .
+Involvement of PI3-K in NFAT activation .
+J-TAg cells were transiently transfected with either empty vector ( 17 ug ) or NFAT-luc ( 2 pg ) plus empty vector ( 15 ug ) or NFAT-lue ( 2 ug ) plus recombinant PI8-K constructs ( 15 ug ) .
+Two days later , the cells were either mock-treated , or stimulated with OKT3 , PMA , ionomycin , or PMA plus ionomycin for 3 h , and cell lysates were assayed for luciferase activity and for protein concentration .
+Luminescence units were corrected for protein concentration in the ly-sates , and the data are presented as percent of maximal activation , as determined by activation by PMA plus ionomycin .
+The two panels are from the same % of maximal activation PMA ionomycin experiment and are only separated for easier viewing .
+5 5 s & a wo 2 EP M I $ op 5 c I > > Z NFAT « o g a a n E 5 6 s & < N o g a 8 ou E I > I I Z 5 M E E 3 I E 3 a 7T Z » 5 % 1 b t a a a a `` Z m a 2 ) 3 4 0 o 304 O in : > > 2 O g L- « o sa o a a .
+610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog 14486 120000 100000 B0000 M resting H OKT3 E ionomycin 60000 40000 1 luciferase activity 20000 CsA csal __ |osa| __ [ osa CeA SH3 PEP N-SH2 NC 6000 7 4000 2000 0 Fig .
+4 .
+NFAT activation requires calcineurin .
+J-TAg cells were transiently transfected with NFAT-lue ( 2 pg ) plus empty vector or recombinant p85 constructs ( 15 ug ) .
+Two days later the cells were pretreated with 100 nM cyclosporin A or mock-treated for 15 min , followed by stimulation with control medium or OKT3 or ionomycin for 3 h. Cell lysates were assayed for luciferase activity and protein concentration .
+The data are presented as arbitrary luminescence units corrected for protein concentration , and the lower panel represents a magnified view of the lower part of the upper panel ( note the scale ) .
+pression level of p85NC was not affected by RasN17 .
+Therefore , RasN17-mediated abrogation of p85NC-induced basal NFAT activity can not be explained by loss of p8SNC expression .
+Wortmannin Does Not Inhibit NFAT Activation-To understand the complex effects on NFAT activation of the mutant p85 constructs used in this study , we sought to correlate them with the catalytic activity of endogenous PI3-K in the transfected cells .
+We therefore decided to ask first whether PI3-K catalytic activity is required for NFAT activation .
+Wortmannin has been widely used to irreversibly inhibit PI3-K and to demonstrate the involvement of PI3-K in many cellular processes ( 29 ) .
+We transiently transfected cells with NFAT-lue ( plus empty vector ) .
+Two days after transfection , the cells were treated with increasing concentrations of wortmannin for 30 min and then stimulated with OKT3 for 3 h. To verify inhibition of PI3-K by wortmannin , samples were taken at the beginning and at the end of the OKT3-stimulation ( after 3 min and 3 h , respectively ) and from unstimulated control cells and assayed for PI3-K activity in p85 immunoprecipitates .
+Activation of Erk2 was tested by immunoblotting of total cell lysates of the same samples with an anti-phospho-Erk2 antibody .
+After 3 h of stimulation with OKT3 , cell lysates were prepared and assayed for luciferase activity .
+The upper panel of Fig .
+6 shows that increasing concentrations of wortmannin progressively inhibited PI3-K activity , and that this inhibition lasted for the entire duration of the stimulation with OKT3 .
+This is impor-tant , because wortmannin is known to be unstable , and de novo synthesis of PI3-K might partially reverse the effect of wortmannin once it is hydrolyzed .
+Erk2 activation was observed after 3 min of stimulation and was sensitive to wortmannin as shown before ( 22 ) ( Fig .
+6 , middle ) .
+No Erk2 activation was observed after 3 h of stimulation with OKT3 ( data not shown ) .
+Surprisingly , wortmannin did not inhibit NFAT activation ( Fig .
+6 , lower panel ) .
+At the highest wortmannin concentration , we tested to achieve complete inhibition of PI3-K , NFAT activation was even higher than in untreated cells , but this may be due to lack of specificity of wortmannin at this concentration .
+PI3-K in NFAT Activation 80 E E - resting § Ba OKT3 t ® £ % fel E 6 0 & NFAT + NC9 ug mo e + poe o > Bos 0 c od oc c 4 & 0 ~ c + > OKT3 nop > > o > > # 00 > > o- > 40 > + + PMA + ionomycin was cae GP cam cae Cit aam cas C .
+-- NC IHasdpg|Rasng |F¥as4ug1m59ug NFAT NFAT + NC Fic .
+5 .
+NFAT activation by pS5SNC requires functional Ras .
+J-TAg cells were transiently transfected with NFAT-luc ( 2 ug ) plus the indicated constructs and empty vector to give a total amount of DNA of 20 ug for each transfection .
+After 2 days , the cells were stimulated either with control medium or with OKT3 or with PMA plus ionomycin for 3 h , and cell lysates were assayed for luciferase ( fop panel ) .
+Lysate samples were subjected to an anti-HA Western blot to control for NC expression levels ( bottom panels ) .
+The three lanes shown for each transfection are from cells that were either untreated or stimulated with OKT3 or with PMA plus ionomycin .
+We therefore conclude that the kinase activity of PI3-K is not required for NFAT activation or may even have an inhibitory effect .
+Cellular Protein Binding to PI3K Domains-The effect of p85 domains on NFAT is likely to be mediated by cellular proteins that bind to them .
+To learn more about the role of PI3-K domains in NFAT activation , we transiently expressed the constructs described above in J-TAg cells and immunoprecipitated them with an anti-HA antibody from resting and from OKT3-stimulated cells .
+Bound phosphotyrosine-containing proteins were revealed by anti-phosphotyrosine Western blotting ( Fig .
+7 ) .
+While the SH3 domain and the PBP fragment did not associate with phosphotyrosine-containing proteins , all constructs that contained one or two SH2 domains coprecipi-tated with a similar set of proteins .
+A tandem arrangement of the two SH2 domains seemed to be essential for efficient binding to cellular phosphotyrosine-containing proteins , especially for the ~21-kDa protein , which we identified as the TeR £ chain ( data not shown ) .
+However , there was no major difference in the pattern of proteins bound to either the N-SH2 domain or the C-SH2 domain .
+The functional difference of the two SH2 domain constructs with regard to NFAT stimulation can therefore not readily be explained by different binding characteristics of the SH2 domains .
+DISCUSSION In this study , we overexpressed potentially dominant negative mutants to investigate the role of heterodimeric p85/p110 PI3-K in the activation of the mitogen-activated kinase , Erk2 , and the transcription factor , NFAT .
+We found that PI3-K was involved in both processes , but in fundamentally different ways .
+Erk2 activation was inhibited by wortmannin and by a mutated p85 that can not bind to the catalytic p110 subunit , but overexpression of other p85 constructs had no effect .
+Activation of NFAT , on the other hand , was insensitive to wortmannin , but was affected by overexpression of truncated forms of p85 in 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog PI3-K in NFAT Activation Fic .
+6 .
+PI3S-K activity is not required for NFAT activation .
+J-TAg cells were transfected with 2 ug NFAT-lue plus 15 ug of empty vector .
+After 2 days , the cells were washed four times with serum-free medium , and treated with the indicated concentrations of wortmannin for 30 min at 87°C .
+Cells were then stimulated with OKT3 or control me-dium .
+After 3 min and again after 3 h of stimulation , samples were taken and the endogenous PIS8-K was immunoprecipitated from lysates and subjected to in vitro lipid kinase assays using phosphatidylinositol and [ y-* `` P ] ATP as substrates to verify inhibition of PI3-K by wortmannin ( fop ) .
+Activation of Erk2 was tested by Western blotting with an anti-phospho-Erk2 antibody on cell lysates from the 3-min time point ( left bottom panel ) , and NFAT activation measured by luciferase assays from the 3-h points ( right bottom panel ) .
+Fig .
+7 .
+Cellular phosphotyrosine-containing proteins associated with recombinant p85 constructs .
+The nitrocellulose filter used in Fig .
+1B was stripped and re-probed with anti-phosphotyrosine antibody .
+The bands at 55 and 25 kDa are the heavy and light chains , respectively , of the anti-HA antibody used for the immunoprecipitation .
+a different way than Erk2 .
+To the best of our knowledge , this is the first report that describes a role of PI3-K in NFAT activation .
+Since catalytic activity does not seem to be involved , we speculate that p85 may have an adaptor function that is crucial for NFAT activation .
+This adaptor function would not only recruit p110 to the membrane but also bring other signaling proteins together , which then activate NFAT .
+The used p85 constructs fall into two classes : ( i ) those that inhibit TeR/CD3-mediated NFAT activation ( SH3 , PBP , N-SH2 , and iSH2 ) and ( ii ) those that increase NFAT activity in resting cells and synergize with ionomycin ( C-SH2 , NC , NiC , p85AiSH2 , wild-type p85 ) .
+Most striking is perhaps that the two SH2 domains had opposite effects on NFAT activation although their sequence specificity for phosphoprotein binding is similar ( Y*XXM ) ( 30 ) , and although they bound a comparable pattern of cellular phosphotyrosine-containing proteins .
+It is interesting to note that in a study using microinjected antibodies against either SH2 domain of p85 , anti-N-SH2 antibodies had a different effect than anti-C-SH2 antibodies ( 31 ) .
+We have attempted to identify proteins that bind to the p85 mutants used here in a way that would explain their role in NFAT activation , but Western blotting using antibodies against c-Cbl ( 32 , 33 ) , Grb2 ( 34 ) , Rac ( 35 ) , Cded42Hs , SLP-76 ( 36 , 37 ) , PLCy1 , and the TcR { chain ( 388 , 39 ) failed to show any differences .
+It is unlikely that p85 acts through Cbl , because a transforming Cbl mutant that constitutively activated NFAT ( 70/23 ) still did so even after its binding to PI3-K was disrupted by a point mutation ( 40 ) .
+A connection between PI3-K and Ras has been demonstrated PI ( 3 ) P OKT3 phospho-Erk2 14487 origin - © d # % # 3 min a * 3 3 h nM Wortm .
+o - o 40 100 103 104 o o 40 400 403 404 3x105 wat # k ins -= 2x105 105 luciferase activity 0 in several reports .
+Ras can bind p110 in a GTP-dependent manner , and transfection of Ras resulted in an elevation of 3-phosphoinositides , whereas dominant negative RasN17 inhibited production of 3-phosphoinositides ( 21 ) .
+Together with the finding that GTP-Ras could activate PI3-K ( 41 ) , this argues for a role of Ras upstream of PI3-K. On the other hand , constitutively active PI3-K increased the amount of GTP-bound Ras and activated the c-fos promoter , and coexpression of dominant negative Ras blocked c-fos activation ( 42 ) .
+Ras is also playing a major role in TcR-induced NFAT activation ( 43 , 44 ) .
+We were wondering if functional Ras was required for the p85SNC-medi-ated increase in NFAT activity , and cotransfection of RasN17 showed that this was indeed the case .
+This would place Ras downstream of PI3-K in T cells , but does not exclude a role also upstream of PI3-K .
+Although we presently do not know the molecular mechanism by which p85 activates NFAT , we found that several p85 constructs acted on NFAT activation via the Ras/PKC pathway .
+Activation of NFAT depends on two signals ; calcium/cal-cineurin is required for nuclear translocation of NFATp , and Ras/PKC is required for induction of AP-1 .
+Those p85 alleles that increased the basal NFAT level also synergized with ionomycin ( but not with PMA ) , which suggests that they mimicked a process in the Ras/PKC pathway to cooperate with calcium/ calcineurin .
+And while cyclosporin A effectively inhibited NFAT activation , coexpression of inhibitory p85 constructs caused an additional decrease in NFAT activity , most likely by interfering with the Ras/PKC pathway .
+Finally , the finding that RasN17 blocked p85NC-induced NFAT activation provides additional evidence for a function of p85 in the Ras pathway .
+Taken together , our results indicate that p85 with its multiple domains plays an important and complex role in TcR-induced gene activation .
+REFERENCES 1 .
+Kapeller , R. , and Cantley , L. C. ( 1994 ) Bioessays 16 , 565-576 2 .
+Ward , S. G. , Ley , S. C. , MacPhee , C. , and Cantrell , D. A .
+( 1992 ) Eur .
+J. Immunol .
+22 , 45-49 3 .
+Toker , A. , Meyer , M. , Reddy , K. K. , Falck , J. R. , Angja , R. , Angja , S. , Parra , A. , Burns , D. J. , Ballas , L. M. , and Cantley , L. C. ( 1994 ) J. Biol .
+Chem .
+269 , 32358-32367 4 .
+Nakanishi , H. , Brewer , K. A. , and Exton , J. H. ( 1993 ) J. Biol .
+Chem .
+268 , 13-16 5 .
+Akimoto , K. , Takahashi , R. , Moriya , S. , Nishioka , N. , Takayanagi , J. , Kimura , K. , Fukui , Y. , Osada , S. , Mizuno , K. , Hirai , S. , Kazlauskas , A. , and Ohno , S. ( 1996 ) EMBO J .
+15 , 788-798 6 .
+Burgering , B. M. , and Coffer , P. J .
+( 1995 ) Nature 876 , 599-602 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog 14488 7 .
+Franke , T. F. , Yang , S. L. , Chan , T. O. , Datta , K. , Kazlauskas , A. , Morrison , D. K. , Kaplan , D. R. , and Tsichlis , P. N. ( 1995 ) Cell 81 , 727-786 8 .
+Escobedo , J .
+A. , Navankasattusas , S. , Kavanaugh , W. M. , Milfay , D. , Fried , V. A. , and Williams , L. T. ( 1991 ) Cell 65 , 75-82 9 .
+Otsu , M. , Hiles , I. , Gout , L. , Fry , M. J. , Ruiz Larrea , F. , Panayotou , G. , Thompson , A. , Dhand , R. , Hsuan , J. , Totty , N. , Smith , A. D. , Morgan , S. J. , Courtneidge , S. A. , Parker , P. J. , and Waterfield , M. D. ( 1991 ) Cell 65 , 91-104 10 .
+Skolnik , E. Y. , Margolis , B. , Mohammadi , M. , Lowenstein , E. , Fischer , R. , Drepps , A. , Ullrich , A. , and Schlessinger , J .
+( 1991 ) Cell 65 , 83-90 11 .
+Hiles , I. D. , Otsu , M. , Volinia , S. , Fry , M. J. , Gout , I. , Dhand , R. , Panayotou , G. , Ruiz Larrea , F. , Thompson , A. , Totty , N. F. , Hsuan , J. , Courtneidge , S. A. , Parker , P. J. , and Waterfield , M. D. ( 1992 ) Cell 70 , 419-429 12 .
+Dhand , R. , Hara , K. , Hiles , L. , Bax , B. , Gout , I. , Panayotou , G. , Fry , M. J. , Yonezawa , K. , Kasuga , M. , and Waterfield , M. D. ( 1994 ) EMBO J .
+13 , 511-521 13 .
+Hu , P. , and Schlessinger , J .
+( 1994 ) Mol .
+Cell .
+Biol .
+14 , 2577-2583 14 .
+Holt , K. H. , Olson , L. , Moye , R. W. , and Pessin , J. E. ( 1994 ) Mol .
+Cell .
+Biol .
+14 , 42-49 15 .
+Klippel , A. , Escobedo , J .
+A. , Hirano , M. , and Williams , L. T. ( 1994 ) Mol .
+Cell .
+Biol .
+14 , 2675-2685 16 .
+Dhand , R. , Hiles , I. , Panayotou , G. , Roche , S. , Fry , M. J. , Gout , I. , Totty , N. F. , Truong , O. , Vicendo , P. , Yonezawa , K. , Kasuga , M. , Courtneidge , S. A. , and Waterfield , M. D. ( 1994 ) EMBO J .
+18 , 522-533 17 .
+Klippel , A. , Reinhard , C. , Kavanaugh , W. M. , Apell , G. , Escobedo , M. A. , and Williams , L. T. ( 1996 ) Mol .
+Cell .
+Biol .
+16 , 4117-4127 18 .
+Pleiman , C. M. , Hertz , W. M. , and Cambier , J. C. ( 1994 ) Science 268 , 1609-1612 19 .
+Carpenter , C. L. , Auger , K. R. , Chanudhuri , M. , Yoakim , M. , Schaffhausen , B. , Shoelson , S. , and Cantley , L. C. ( 1993 ) J. Biol .
+Chem .
+268 , 9478-9483 20 .
+Backer , J. M. , Myers , M. G. , Jr. , Shoelson , S. E. , Chin , D. J. , Sun , X. J. , Miralpeix , M. , Hu , P. , Margolis , B. , Skolnik , E. Y. , Schlessinger , J. , and White , M. F. ( 1992 ) EMBO J .
+11 , 3469-3479 21 .
+Rodriguez Viciana , P. , Warne , P. H. , Dhand , R. , Vanhaesebroeck , B. , Gout , I. , Fry , M. J. , Waterfield , M. D. , and Downward , J .
+( 1994 ) Nature 870 , 527-582 22 .
+Von Willebrand , M. , Jascur , T. , Bonnefoy Berard , N. , Yano , H. , Altman , A. , Matsuda , Y. , and Mustelin , T. ( 1996 ) Eur .
+J. Biochem .
+295 , 828-835 23 .
+Rao , A .
+( 1994 ) Immunol .
+Today 15 , 274-281 24 .
+Nel , A. E. , Hanekom , C. , Rheeder , A. , Williams , K. , Pollack , S. , Katz , R. , and Landreth , G. E. ( 1990 ) J. Immunol .
+144 , 2683-2689 25 .
+Cantrell , D. ( 1996 ) Annu .
+Rev .
+Immunol .
+14 , 259-274 26 27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+PI3-K in NFAT Activation .
+O'Kecfe , S. J. , Tamura , J. , Kincaid , R. L. , Tocci , M. J. , and O'Neill , E. A .
+( 1992 ) Nature 857 , 692-694 Clipstone , N. A. , and Crabtree , G. R. ( 1992 ) Nature 857 , 695-697 Yamauchi , K. , Holt , K. , and Pessin , J. E. ( 1998 ) J. Biol .
+Chem .
+268 , 14597-14600 Ui , M. , Okada , T. , Hazeki , K. , and Hazeki , O .
+( 1995 ) Trends Biochem .
+Sci .
+20 , 303-307 Songyang , Z. , Shoelson , S. E. , Chaudhuri , M. , Gish , G. , Pawson , T. , Haser , W. G. , King , F. , Roberts , T. , Ratnofsky , S. , Lechleider , R. J. , Neel , B. G. , Birge , R. B. , Fajardo , J. E. , Chou , M. M. , Hanafusa , H. , Schaffhausen , B. , and Cantley , L. C. ( 1998 ) Cell 72 , 767-778 Mellroy , J. , Chen , D. , Wjasow , C. , Michaeli , T. , and Backer , J .
+( 1997 ) Mol .
+Cell .
+Biol .
+17 , 248-255 Fukazawa , T. , Reedquist , K. A. , Trub , T. , Soltoff , S. , Panchamoorthy , G. , Druker , B. , Cantley , L. , Shoelson , S. E. , and Band , H. ( 1995 ) J. Biol .
+Chem .
+270 , 19141-19150 Meisner , H. , Conway , B. R. , Hartley , D. , and Czech , M. P. ( 1995 ) Mol .
+Cell .
+Biol .
+15 , 3571-3578 Wang , J. , Auger , K. R. , Jarvis , L. , Shi , Y. , and Roberts , T. M. ( 1995 ) J. Biol .
+Chem .
+270 , 12774-12780 Tolias , K. F. , Cantley , L. C. , and Carpenter , C. L. ( 1995 ) J. Biol .
+Chem .
+270 , 17656-17659 Fang , N. , Motto , D. G. , Ross , S. E. , and Koretzky , G. A .
+( 1996 ) J. Immunol .
+157 , 3769-3773 Motto , D. G. , Ross , S. E. , Wu , J. , Hendricks , T. L. , and Koretzky , G. A .
+( 1996 ) J. Exp .
+Med .
+188 , 1937-1943 Carrera , A. C. , Rodriguez Borlado , L. , Martinez Alonso , C. , and Merida , I .
+( 1994 ) J. Biol .
+Chem .
+269 , 19435-19440 Exley , M. , Varticovski , L. , Peter , M. , Sancho , J. , and Terhorst , C. ( 1994 ) J. Biol .
+Chem .
+269 , 15140-15146 Liu , Y.-C. , Elly , C. , Langdon , W. Y. , and Altman , A .
+( 1997 ) J. Biol .
+Chem .
+272 , 168-173 Rodriguez Viciana , P. , Warne , P. H. , Vanhaesebroeck , B. , Waterfield , M. D. , and Downward , J .
+( 1996 ) EMBO J .
+15 , 2442-2451 Hu , Q. , Klippel , A. , Muslin , A. J. , Fant ] , W. J. , and Williams , L. T. ( 1995 ) Science 268 , 100-102 Woodrow , M. , Clipstone , N. A. , and Cantrell , D. ( 1998 ) J. Exp .
+Med .
+178 , 1517-1522 Woodrow , M. A. , Rayter , S. , Downward , J. , and Cantrell , D. A .
+( 1998 ) J. Immunol .
+150 , 3858-3861 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog Involvement of Phosphatidylinositol 3-Kinase in NFAT Activation in T Cells Thomas Jascur , Jennifer Gilman and Tomas Mustelin J. Biol .
+Chem .
+1997 , 272:14483-14488. doi : 10.1074/jb0.272.22.14483 Access the most updated version of this article at http : /www.jbe.org/content/272/22/1 4483 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 44 references , 23 of which can be accessed free at http : //www 4483. full.html # ref-list-1 610Z '01 Aepy uo 4g wo ; popeoumog

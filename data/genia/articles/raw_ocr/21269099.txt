@@ -1,0 +1,430 @@
+Requirement for p38 and p44/p42 Mitogen-Activated Protein Kinases in RAGE-Mediated Nuclear Factor-KB Transcriptional Activation and Cytokine Secretion Chen-Hsiung Yeh , '* Lydia Sturgis , '' Joe Haidacher , ' Xue-Nong Zhang , '' Sidney J. Sherwood , '' Robert J. Bjercke , '' Ondrej Juhasz , '' Michael T. Crow , '' Ronald G. Tilton , '' and Larry Denner ' Advanced glycation end product ( AGE ) activation of the signal-transducing receptor for AGE ( RAGE ) has been linked to a proinflammatory phenotypic change within cells .
+However , the precise intracellular signaling pathways involved have not been elucidated .
+We demonstrate here that human serum albumin modified with N°- ( carboxymethyl ) lysine ( CML ) , a major AGE adduct that progressively accumulates with aging , diabetes , and renal failure , induced nuclear factor ( NF ) - « B-driven reporter gene expression in human monocytic THP-1 cells .
+The response was blocked with a synthetic peptide corresponding to the putative ligand-binding domain of RAGE , with anti-RAGE antiserum , and by coexpression of truncated receptors lacking the intracellular domain .
+Signal transduction from RAGE to NF- < B involved the generation of reactive oxygen spe-cles , since reporter gene expression was blocked with the antioxidant N-acetyl-L-cysteine .
+CML-modified albumin produced rapid transient activation of tyrosine phosphorylation , extracellular signal-regulated kinase 1 and 2 , and p38 mitogen-activated protein kinase ( MAPK ) , but not c-Jun NH , -terminal kinase .
+RAGE-mediated NF- < B activation was suppressed by the selective p38 MAPK inhibitor S $ B203580 and by coexpression of a kinase-dead p38 dominant-negative mutant .
+Activation of NF- « B by CML-modified albumin increased secretion of proinflammatory cytokines ( tumor necrosis factor-a , and monocyte chemoattractant protein-1 ) severalfold , and inhibition of p38 MAPK blocked these increases .
+These results indicate that p38 MAPK activation mediates RAGE-induced NF- « B-dependent secretion of proinflammatory cytokines and suggest that accelerated inflammation may be a consequence of cellular activation induced by this receptor .
+Diabetes 50:1495-1504 , 2001 From the Department of 'Cell Biology and Apoptosis Program and the `` Department of Immunology , Texas Biotechnology Corporation , Houston , Texas ; and the `` Laboratory of Cardiovascular Science , National Institute on Aging , National Institutes of Health , Baltimore , Maryland .
+Address correspondence and reprint requests to Dr. Larry Denner , PhD , Department of Cell Biology , Texas Biotechnology Corporation , 7000 Fannin , Houston , TX 77030 .
+E-mail : Idenner @ tbe.com .
+Received for publication 7 July 2000 and accepted in revised form 15 March 2001 .
+C.-H.Y. , LS. , JH. , X-N.Z , , SJ.S. , R.J.B. , R.G.T. , and LD .
+are stock share-holders .
+CML-HSA , N*- ( carboxymethyl ) lysine ; DTT , dithiothreitol ; ELISA , enzyme-linked immunosorbent assay ; ERK , extracellular signal-regulated kinase ; HSA , human serum albumin ; IL , interleukin ; JNK , c-Jun NH-terminal kinase ; MAPK , mitogen-activated protein kinase ; MCP , monocyte chemoattractant protein ; NAC , N-acetyl-i-cysteine ; NF , nuclear factor ; PCR , polymerase chain reaction ; PMSF , phenylmethylsulfony ] fluoride ; PTK , protein tyrosine kinase ; RAGE , receptor for AGE ; RT , reverse transcriptase ; SFM , serum-free medium ; TNF , tumor necrosis factor .
+DIABETES , VOL .
+50 , JUNE 2001 lucose and other reducing sugars can react nonenzymatically with amino groups of pro teins and lipids to form Schiff bases that , through multiple rearrangements , are transformed into irreversibly cross-linked fluorescent advanced glycation end products ( AGEs ) ( 1-3 ) .
+The formation and accumulation of AGE adducts in various tissues are known to progress as a function of age and glycemia , are associated with altered protein structure and function , and are able to generate reactive oxygen intermediates and induce cellular activation and inflammation ( 1,4 ) .
+Accumulation of AGEs has been implicated in the pathogenesis of numerous diverse disorders , including diabetes ( 1,5 ) , Alzheimer 's disease ( 6,7 ) , and hemodialysis-associated amyloidosis ( 8 ) , as well as the natural aging process ( 1,9 ) .
+The finding that pharmacological inhibition of AGE formation prevents vascular complications affecting retina , kidney , and nerves in long-term diabetic animals provides support for this suggestion ( 1,10,11 ) .
+One mechanism by which AGEs exert their effects on cellular function is via interaction with specific receptors .
+Several AGE-binding proteins have been identified , including lactoferrin ( 12 ) , oligosaccharyl transferase complex protein 48 ( AGE-R1 ) ( 13,14 ) , 80OK-H protein ( AGE-R2 ) ( 13,14 ) , galectin-3 ( AGE-R3 ) ( 15 ) , lysozyme ( 16 ) , and the receptor for AGE ( RAGE ) ( 12,17 ) .
+RAGE is a multiligand member of the immunoglobulin superfamily and is expressed on the surface of a variety of cell types , including endothelial cells , smooth muscle cells , lymphocytes , monocytes , and neurons ( 18,19 ) .
+Increased RAGE expression has been shown in both endothelium and vascular smooth muscle cells from diabetic patients ( 5,20 ) and in macrophages from patients with renal failure and dialysis-related amyloidosis ( 21 ) .
+Areas of enhanced RAGE immunoreactivity colocalize with immunostaining for AGE-reactive epitopes .
+Recent studies also have demonstrated elevated RAGE expression in affected neurons in Alzheimer 's disease ( 7 ) and in vasculatures affected by autoimmune/inflammatory disorders ( 6 ) .
+Interruption of AGE-RAGE interaction by administration of the soluble extracellular domain of RAGE has been shown to suppress diabetes-induced vascular hyperpermeability ( 22 ) and the accelerated development of atherosclerosis in diabetic apo-lipoprotein E knockout mice ( 23 ) .
+Although these findings support a causal role for RAGE in the pathogenesis of 1495 RAGE-MEDIATED p38 MAPK-DEPENDENT NF-B ACTIVATION diabetes-induced vascular functional and structural changes , the intracellular mechanisms by which AGE-RAGE interaction causes vascular dysfunction remain unclear .
+Interaction of AGE with RAGE has been shown to generate an oxidative stress that results in activation of nuclear factor ( NF ) -kB , the oxidant-sensitive transcription factor ( 24 ) .
+NF-kB may contribute to the development of a proinflammatory state by stimulating expression of target genes , such as heme oxygenase ( 25 ) , vascular cell adhesion molecule-1 ( VCAM-1 ) ( 26 ) , procoagulant tissue factor ( 27 ) , endothelin-1 ( 28 ) , macrophage colony-stimulating factor ( 24 ) , and RAGE itself ( 29 ) .
+Despite these observations , information regarding signal transduction from RAGE to NF- « kB-induced cytokine secretion remains largely unknown .
+Several reports have linked reactive oxygen species ( 24 ) , p21 Ras , and extracellular signal-regulated kinase ( ERK ) 1 and 2 ( 30 ) to this signaling pathway , yet the potential role of other relevant signaling molecules remains unknown .
+The purpose of the present study was to elucidate intracellular signaling pathways linked to RAGE activation in monocytes using the ligand N°- ( carboxymethylysine ( CML ) -modified human serum albumin ( HSA ) .
+CML is a major adduct of AGE-modified proteins that accumulates in diabetic patients , has been recognized as a marker of oxidative stress ( 31,32 ) , and recently has been demonstrated to be a ligand for RAGE ( 33 ) .
+We identified p38 mitogen-activated protein kinase ( MAPK ) as a key downstream effector of RAGE , since p38 is required for CML-HSA-induced NF-kB transcriptional activation and the subsequent increased secretion of tumor necrosis factor ( TNF ) -a , interleukin ( IL ) -16B , and monocyte chemoattractant protein ( MCP ) -1 .
+This report establishes a RAGE-p38 MAPK -NF-kB-cytokine signaling cascade in monocytes and raises the possibility that it may have physiological importance in the development of the proinflammatory milieu associated with such diverse diseases as Alzheimer 's , atherosclerosis , and diabetes .
+RESEARCH DESIGN AND METHODS Materials .
+All tissue culture reagents were purchased from Life Technologies and were documented to be free of endotoxins .
+HSA ( Fraction V ) , glyoxylic acid , and sodium cyanoborohydride were obtained from Sigma ( St. Louis , MO ) .
+N-acetyl-t-cysteine ( NAC ) , genistein , PD98059 , and SB203580 were from Calbiochem ( San Diego , CA ) .
+Anti-phosphotyrosine antibody ( PY99 ) was from Santa Cruz Biotechnology ( Santa Cruz , CA ) .
+Anti-ERK1/2 , anti-phospho-ERK1/2 , anti-p38 , anti-phospho-p38 , anti-c-Jun NH , -terminal kinase ( JNK ) , anti-phospho-JNK , and anti-phospho-ATF2 antibodies were purchased from New England BioLabs ( Beverly , MA ) .
+Synthetic peptides were prepared by Dr. Kaijun Ren ( Chemistry Department , Texas Biotechnology Corporation ) and were > 95 % pure , as assessed by high-performance liquid chromatography .
+The expression plasmid for the p38 kinase-dead dominant-negative mutant was provided by Dr. Roger Davis from the Howard Hughes Medical Institute at the University of Massachusetts Medical Center ( Worcester , MA ) .
+The IxB mutant was a gift from Dr. Chung Y. Hsu at Washington University School of Medicine ( St. Louis , MO ) .
+Both mutants are in the peDNA3.1 expression vector .
+Enzyme-linked immunosorbent assay ( ELISA ) kits for TNF- « , IL-1B , and MCP-1 were from R & D Systems ( Minneapolis , MN ) .
+Preparation of CML-HSA .
+CML-HSA was prepared as previously described ( 34 ) .
+Briefly , 175 mg/ml HSA was incubated at 37°C for 24 h in 0.2 mol/l sodium phosphate buffer ( pH 7.8 ) containing 150 mmol/l glyoxylic acid and 450 mmol/l sodium cyanoborohydride , followed by extensive dialysis against 2 L phos-pate-buffered saline at 4°C changed twice at 24h intervals .
+The resulting CML-HSA preparation contained ~30 % CML-modified lysine residues per molecule albumin based on amino acid analysis .
+Both the CML-HSA and the control HSA were documented to be endotoxin-free by use of the Limulus amebocyte lysate assay ( Sigma E-TOXATE ) .
+The lower limits of detection were 0.015 EU/m !
+( turbid gel ) , 0.03 EU/m !
+( soft gel ) , and 0.06 EU/m !
+( hard gel ) .
+1496 Cell culture .
+Human THP-1 monocytic leukemia cells were obtained from the American Type Culture Collection ( ATCC TIB-202 ; Rockville , MD ) and maintained in RPMI 1640 medium supplemented with 10 % fetal bovine serum , 50 mol/l 2-mercaptoethanol , 2 mmol/l glutamine , 100 U penicillin , and 100 ug/ml streptomycin .
+Cells were grown at 37°C in a 5 % CO , atmosphere .
+Log-phase cells were used for all experiments .
+Human peripheral monocytes were isolated from healthy donors ' blood ( SeraCare , Oceanside , CA ) using standard Ficoll-Hypaque ( Amersham Phar-macia Biotech , Uppsala , Sweden ) density-gradient centrifugation followed by adherence depletion of lymphocytes as previously described ( 85 ) .
+Cells were seeded at 4 X 10° cells per well in a 48-well plate and treated with 100 pg/ml HSA or CML-HSA in the absence or presence of SB203580 or PD98059 for 24 h before measurement of TNF- « in the culture media by ELISA .
+Anti-RAGE antiserum preparation .
+The human RAGE extracellular domain encompassing residues 23-340 ( sRAGE ) was expressed and purified from Escherichia coli using the pET thioredoxin system ( Novagen , Madison , WI ) .
+For antiserum production , BALB/c mice were immunized with 100 ug sRAGE protein in complete Freund 's adjuvant , and an additional 50 ug sRAGE in incomplete Freund 's adjuvant was given every 4 weeks until a high serum titer was achieved .
+NF-kB reporter neutralizing activity of the antiserum was measured by preincubation with THP-1 cells ( 1:5 or 1:25 dilution of the antiserum ) for 1 h before exposure to CML-HSA .
+DEAE/dextran-mediated cell transfection and luciferase assay .
+THP-1 cells were seeded at 5 X 10° cells per 100-mm dish in 10 ml of serum-free medium ( SFM ) the day before transfection .
+Transfection was performed by the DEAE-dextran method as described previously ( 36 ) , with minor modifications .
+Cells were washed once with SFM and resuspended in 1 ml of the same medium containing 2 pg NF- « B-Luc reporter plasmid ( Clontech , Palo Alto , CA ) and 200 ug/ml DEAE-dextran ( Promega , Madison , WID ) .
+The cell-DNA mixture was incubated at room temperature for 20-30 min before washing , centrifugation , and resuspension into fresh SFM .
+Transfected cells were seeded into 96-well plates at 70,000 cells per well for recovery .
+After 24 h , cells were treated with the indicated amount of control albumin or CML-modified albumin for 10 min to 24 h before cell harvest .
+Equivalent amounts of cell lysates , normalized for total protein ( Bradford protein assay ; Bio-Rad , Palo Alto , CA ) , were used for measurement of luciferase activity .
+Luciferase assays were performed using the Steady-Glo luciferase assay system according to the manufacturer 's instructions ( Promega ) , and luminescence was detected in a TopCount microplate scintillation counter , using a single-photon monitor program ( Packard Instrument Company , Meriden , CT ) .
+For cotransfection experiments , 10 ug ( 10-fold molar excess ) of expression plasmid was used with 1 g of the NF- « B reporter , with the empty vector serving as a transfection control .
+Transfection efficiency in THP-1 cells was 20-30 % , as monitored by cotransfection with a -galactosidase expression plasmid ( Clontech ) .
+Electrophoretic mobility shift assay .
+Cell extracts were prepared using the protocol of Schreiber et al .
+( 87 ) , with minor modifications .
+Briefly , 2-4 x 10° cells were collected by centrifugation , washed in Tris-buffered saline , then resuspended by gentle pipetting in 400 pl cold buffer containing 10 mmol/l HEPES , pH 7.9 , 10 mmol KCI , 0.1 mmol/l EDTA , 0.1 mmol EGTA , 1 mmol/l .
+dithiothreitol ( DTT ) , and 0.5 mmol phenylmethylsulfonyl fluoride ( PMSF ) .
+The cell suspension was incubated on ice for 15 min , after which Nonidet-P40 was added to a final concentration of 1 % .
+The homogenate was subjected to centrifugation for 10 s ; the pellet was resuspended in 50 ul ice-cold buffer containing 20 mmol/ HEPES , pH 7.9 , 0.4 mol/l NaCl , 1 mmol/ EDTA , 1 mmol/ EGTA , 1 mmol/l DTT , and 1 mmol/l PMSF ; and the tube was rocked at 4°C for 30 min on a shaking platform then dialyzed against reaction buffer ( 20 mmol/l HEPES , pH 7.9 , 20 % glycerol , 50 mmol/l KC ] , 0.2 mmol/l EDTA , 1 mmol/l MgC ] , , and 1 mmol/l DTT ) .
+The nuclear extract was spun for 5 min in the cold room .
+Total protein content of the supernatant was determined , with the remainder stored at -70°C in aliquots .
+Some 5 ug of the nuclear extract was mixed with 2 pg poly dl-dC and ~200 pg ( 10,000 cpm ) of radiolabeled double-stranded oligonucleotides containing the c-myc NF-kB binding site ( CGTTGGGAAAACCCGGGATT ) in reaction buffer to a final volume of 30 ul and incubated at room temperature for 25 min .
+Samples were run on a 5 % ( 30:1 ) polyacrylamide gel in 0.5 % Tris-borate-EDTA buffer .
+Radiolabeled probes were prepared by labeling one of the oligonucleotides comprising the DNA binding site and then annealing it to its unlabeled partner .
+Radiolabeling was performed using T4 polynucleotide kinase and [ y-*P ] JATP .
+After this reaction , unincorporated nucleotides and the T4 kinase buffer were removed , the unlabeled oligonucleotide was added , and it was heated to 80°C and then allowed to cool slowly to room temperature .
+RAGE-expression plasmids .
+A cDNA-encoding RAGE was generated by reverse transcriptase ( RT ) -polymerase chain reaction ( PCR ) using human lung mRNA as a source for the cDNA and primers based on the published full-length sequence ( GenBank AFOQ1095 ) .
+The product was fully sequenced and then subcloned into the eucaryotic expression vector pcDNA8.1 ( *Jneo .
+DIABETES , VOL .
+50 , JUNE 2001 C.-H. YEH AND ASSOCIATES A g 200 f C > 2 iso *c `` k g * HSA -| _- - _- = § '* CML-HSA -_- f < - 3 TNFa = = =~ =- ++ 50 4 > Competitor = = = # $ - # 3 C 0 + 0 50 100 200 300 CML ( ug/ml ) F | i | < : n | | g 20 6 * a 150 * * * © - > g 100 3 $ ® © E od | o 03 1 2 4 6 1 Exposure time ( h ) FIG .
+1 .
+CML-HSA induces NF-xB transcriptional activation in THP-1 cells .
+A : Concentration-dependent stimulation of NF- « B-luciferase reporter by CML-HSA .
+THP-1 cells were transiently transfected with the NF- « B-Luc reporter gene , treated 1 h with the indicated concentrations of CML-HSA , and harvested for analysis of luciferase activity .
+B : Time-dependent stimulation of NF- « B-luciferase reporter by CML-HSA .
+After transfection , cells were exposed to 100 ug/ml CML-HSA for the indicated period of time followed by luciferase measurement .
+Relative luciferase activities are expressed as the mean + SE of at least three independent experiments with triplicate determinations , setting the basal ( i.e. , no CML-HSA exposure ) at 100 % .
+C : CML-HSA treatment resulted in increased NF- « B DNA-binding activity .
+Some 5 ug of nuclear extract prepared from THP-1 cells treated for 4 h with 100 pg/ml HSA , 100 ug/ml CML-HSA , or 10 ng/ml recombinant human TNF- « was incubated with radiolabeled double-stranded oligonucleotides containing the c-myc NF- « B binding site in the presence or absence of excess unlabeled probe ( competitor ) .
+The single arrow indicates nonspecific binding to the probe , and the double arrows indicate specific DNA binding that is effectively competed by adding excess unlabeled double-stranded probe or is absent when the binding site was altered ( data not shown ) .
+*P < 0.05 compared with basal levels .
+RAGE lacking its intracellular domain was constructed by PCR-based site-directed mutagenesis using primers to introduce a termination codon immediately after amino acid 364 ( RAGE-365t ) or amino acid 371 ( RAGE-372t ) .
+RAGE-365t terminates two amino acids after the hydrophobic region thought to be the transmembrane domain , whereas RAGE-372t retains only a portion of the cytosolic tail that is not well conserved across species .
+Western blotting analysis .
+THP-1 monocytes ( 5 X 10° ) were solubilized in a lysis buffer containing 50 mmol/l Tris-HCl , pH 7.5 , 150 mmol/l NaCl , 1 % Nonidet-P40 , 0.5 % sodium deoxycholate , and protease inhibitor cocktail ( Boehringer Mannheim , Indianapolis , IN ) .
+Cellular lysates ( 50 ug ) were fractionated on SDS-PAGE and analyzed by immunoblotting .
+Western blotting was performed using the indicated primary antibodies according to the instructions of each manufacturer .
+Blots were then stained with the corresponding anti-rabbit or anti-mouse IgG-horseradish-peroxidase conjugate ( 1:3,000 dilution ) and detected by enhanced chemiluminescence reagent ( ECL , ; Amer-sham , Arlington Heights , IL ) .
+Autoradiography was done at room temperature , and the appropriate exposures were quantitated by densitometry .
+Measurement of cytokine secretion .
+ELISA was used for quantitative measurement of released TNF- « , I-18 , and MCP-1 .
+After treatment of the cells , the media was collected and analyzed by ELISA according to each protocol provided by the manufacturer ( R & D Systems ) .
+Statistical analysis .
+Quantitative data were expressed as means + SE , based on at least three separate experiments .
+Unpaired Student 's £ test was used to determine the significance of differences among treatments .
+A P value < 0.05 was considered significant .
+RESULTS CML-HSA activates NF-KB transcriptional activity in monocytic THP-1 cells .
+AGEs have been shown to stimulate NF-kB DNA-binding activity in vitro in a number of DIABETES , VOL .
+50 , JUNE 2001 cell types ( 24,26,30,33 ) .
+To determine whether CML-HSA induces NF- < B transcriptional activity , we used the THP-1 monocytic cell line transiently transfected with an NF-kB reporter gene .
+Both RT-PCR and Western blot were used to demonstrate the presence of RAGE mRNA and protein , respectively , within THP-1 cells ( data not shown ) .
+Transfected cells incubated with native HSA or without CMLHSA treatment were used as controls for basal luciferase activity .
+Treatment with CML-HSA at > 100 pg/ml stimulated reporter gene expression by ~1.7-fold as compared with the basal level ( Fig .
+14 ) .
+CML-HSA exposure initiated a fast and statistically significant NF-kB response , with an initial induction observed as early as 20 min after treatment .
+Luciferase activity was elevated approximately twofold within the first hour and remained essentially unchanged for 24 h ( Fig .
+1B ) .
+The lack of further luciferase accumulation after 1 h suggests an acute activation and deactivation of NF- « kB , whereas the prolonged signal probably reflects the stability of the luciferase protein .
+The effect of 10 , 5 , and 1 % CML modification of HSA was tested using the NF-kB reporter assay , and a similar 1.5- to 1.7-fold increase in the luciferase signal was observed at modifications of > 5 % ( data not shown ) .
+Nuclear extracts from THP cells treated with either TNF- « or CML-HSA showed a large increase in specific 1497 RAGE-MEDIATED p38 MAPK-DEPENDENT NF-B ACTIVATION A B € T 20 2 ~ 5 i F7 % ti 200 T g 150 C * 8 so g 100 g * * £ * T 100 I I S 2 8 so Z -so a € G S & C - o 4 m o 08 - - .
+C CML -o # +0 +0 +0 + + RAGE : WT 37 2t 365t Peptide : 0.2 x 20 x Neutralizing + + antiserum : ( 1:5 ) ( 1:25 ) C ontrol 4 antiserum : C peDNA3.1-RAGE peDNA3.1 WT 365t HSA .L .
+L o _L kos s $ s _. poe CML-HSA L =_ - op $ o - & - $ o ~ TNF-C .
+op fe e ons Ome ome ( inl Cn ) ( mel me Compel .
+z 4 z o $ - - - = = ) ® FIG .
+2 .
+Requirement for RAGE in the CML-HSA-induced NF- « B response .
+Blockade of CML-HSA-mediated NF-xB transcriptional activation by a synthetic peptide and neutralizing antiserum ( A ) or by coexpression of RAGE truncation mutants ( B ) .
+A : 100 ug/ml CML-HSA was preincubated with or without a synthetic peptide derived from the extracellular ligand-binding domain of RAGE at 37°C for 1 h. The mixtures were then added to cell cultures and incubated for another 1 h before analysis of luciferase activity .
+For the neutralizing antiserum experiments , RAGE antiserum ( at 1:5 and 1:25 dilution ) or the preimmune control serum ( 1:5 ) were preincubated with the transfected cells for 1 h before CML-HSA stimulation .
+Results from native HSA treatment were set at 100 % .
+B : Full-length ( wild-type ) RAGE or the cytoplasmic tail truncation mutants RAGE-372t or RAGE-365t were cotransfected with the NF- « B reporter into THP-1 cells .
+After 24 h of incubation , cells were exposed to 100 ug/ml CML-HSA or HSA for 1 h before determinaton of luciferase activity .
+Results shown were normalized to the HSA control .
+C : Cells transfected with empty vector , wild-type ( WT ) , or mutant ( 365t ) RAGE and treated for 4 h with 100 ug/ml HSA , 100 pg/ml CML-HSA , or 10 ng/ml recombinant human TNF-a .
+We incubated 5 ug nuclear extract with radiolabeled double-stranded oligonucleotides containing the c-myc NF-B binding site in the presence or absence of excess unlabeled probe ( competitor ) .
+The data represent means + SE of triplicate determinations in three separate experiments ( *P < 0.05 ) .
+binding to the radiolabeled oligonucleotide containing the DNA binding ( single arrow ) .
+Unmodified HSA treatment c-myc NF- « B binding site ( Fig .
+1C ) .
+Specificity was con- - had no effect on DNA binding over that observed in un-firmed by demonstrating that inclusion of 10-fold molar treated extracts .
+excess of unlabeled competitor probe prevented the ap- CML-HSA-mediated NF- « B transcriptional activa-pearance of specific ( double arrows ) , but not nonspecific , tion requires RAGE .
+To evaluate the role of RAGE in 1498 DIABETES , VOL .
+50 , JUNE 2001 C.-H. YEH AND ASSOCIATES 200 - _ ] 150 { 100 - * * 50 ; Relative luciferase activity ( % ) FIG .
+3 .
+Effects of N-acetyl-L-cysteine , genistein , PD98059 , and S $ B203580 on NF- « B stimulation by CML-HSA .
+THP-1 cells transfected with the NF- < B reporter were preincubated with the antioxidant N-acetyl-L-cysteine ( NAC , 500 pmol/l ) , a tyrosine kinase inhibitor genistein ( 100 mol/l ) , an MEK-1 inhibitor ( PD98059 , 50 umol/l ) , or a p38 inhibitor ( SB203580 , 10 mol/l ) at 37°C for 30 min .
+The cells were then exposed to 100 ug/ml CML-HSA for another 1 h and lysates were assayed for luciferase activity .
+NF- « B reporter activity with HSA treatment was defined as 100 % .
+All values represent the means + SE of at least three independent experiments ( *P < 0.05 ) .
+CML-HSA-mediated NF- « B transcriptional activation , we prepared synthetic peptides based on sequences derived from the RAGE extracellular domain that have high probability of solvent accessibility .
+A 17-amino acid peptide encompassing residues 102-118 of RAGE neutralized CML-HSA activity in a dose-dependent manner such that a 20-fold molar excess effectively eliminated the NF-kB response ( Fig .
+24 ) .
+Peptides corresponding to amino acids 39-56 and amino acids 67-82 ( both predicted to have a high probability of solvent accessibility ) had no detectable effect ( data not shown ) .
+Mouse antiserum to sRAGE also blocked the CML-HSA-induced NF- « B response in a dose-dependent manner ( Fig .
+24 ) .
+To more clearly define the role of RAGE in CML-HSA signaling to NF-kB , we generated two RAGE cytoplasmic domain truncation mutants : RAGE-365t lacks the whole intracellular domain , whereas RAGE-372t retains a small nonconserved portion of the cytoplasmic tail .
+Both mutants and wild-type RAGE were individually coexpressed with the NF-kB reporter .
+In contrast to full-length ( wild-type ) RAGE , the mutants blocked the NF- < B response to CML-HSA ( Fig .
+2B ) .
+Similar results were seen when changes in NF- « B were measured by DNA binding activity ( Fig .
+2C ) .
+THP-1 cells were transfected with an empty vector ( peDNA3.1 ) , wild-type RAGE , or the RAGE-365t .
+Both control and wild-type RAGE-transfected cells showed no increase in basal NF-kB DNA binding but exhibited a large increase after incubation with CML-HSA .
+RAGE-365t decreased the response to CML-HSA .
+Together , these results demonstrate that the intracellular domain of RAGE is required for CML-HSA-induced signaling to NF-kB and that expression of a RAGE in which this domain has been removed acts to block endogenous RAGE signaling in a DIABETES , VOL .
+50 , JUNE 2001 trans-dominant manner .
+RAGE specificity was demonstrated by the inability of the RAGE mutant , the peptide , or RAGE antiserum to block a fourfold increase in luciferase activity induced by TNF- « ( data not shown ) .
+Involvement of reactive oxygen species , protein tyrosine kinase , and the MAPK family in CML-HSA-mediated NF- < B transcriptional activation .
+We next examined the effect of selective inhibitors of potentially relevant signaling molecules impinging on the reporter response .
+Cells transfected with the NF-kB reporter were pretreated for 30 min with each compound before stimulation with CML-HSA .
+As shown in Fig .
+3 , the antioxidant NAC ; the MEK1 ( an upstream kinase for ERK1/2 ) inhibitor , PD98059 ; and the p38 inhibitor SB203580 completely blocked CML-HSA-induced NF-kB activation .
+Similarly , genistein , the protein tyrosine kinase ( PTK ) inhibitor , resulted in a partial but significant reduction ( ~35 % ) in reporter activation .
+Together , these results suggest a role for reactive oxygen species , PTK , and MAPK in the signaling from RAGE to NF- « B .
+CML-HSA induces tyrosine phosphorylation .
+Tyrosine phosphorylation is a crucial event that occurs rapidly and at a very early stage to propagate initial signals after activation of many receptors .
+Since genistein diminished NF-kB activation by CML-HSA , we evaluated more directly the tyrosine phosphorylation profile after CML-HSA expo-sure .
+Stimulation of THP-1 cells with CML-HSA caused rapid phosphorylation ( < 10 min ) on tyrosine residues of several proteins .
+Prominent phosphotyrosine polypeptides migrated at 75 , 85 , and 125 kDa ( Fig .
+4 ) .
+Interestingly , the induced phosphotyrosine signals on these bands were abolished after 10 min and reappeared 60 min after treatment .
+Activation of MAPK family members in response to CML-HSA treatment .
+The results shown in Fig .
+3 suggest that CML-HSA-mediated signaling to NF- < kB involves the MAPK family .
+To determine which MAPK was involved , CML exposure ( min ) 0 _ 10 20 30 45 60 kDa 201 - h » _ 12 _ * > | T `` 7 im ( nt # > vith 41 - ' i ' 1 % 31- -* Yo me *~ 18 - i # FIG .
+4 .
+Tyrosine phosphorylation profile in response to CML-HSA ex-posure .
+THP-1 cells were exposed to 100 g/ml CML-HSA for the indicated times , cell extracts were analyzed by SDS-PAGE , and tyrosine-phospho-rylated proteins were detected by blotting with an antiphosphotyrosine antibody .
+Results shown are representative of three independent experiments .
+1499 RAGE-MEDIATED p38 MAPK-DEPENDENT NF-B ACTIVATION we examined MAPK activation by Western blotting using antibodies specific to the active forms of the kinases .
+As shown in Fig .
+54 , stimulation of THP-1 monocytes with CML-HSA enhanced ERK1/2 MAPK activities approximately twofold over basal levels .
+CML-HSA-mediated ERK activity peaked at 20 min and returned to basal levels by 45 min posttreatment .
+Moreover , incubation of cells with PD98059 for 30 min before CML-HSA stimulation resulted in complete inhibition of ERK1/2 activation , whereas addition of the p38 inhibitor SB203580 had no detectable effect .
+p38 Kinase , another member of the MAPK family , also responded to CML-HSA treatment , as its activity was stimulated 1.3- to 2 .
+1-fold between 5 and 30 min , with maximal kinase activity at 20 min after CML-HSA exposure ( Fig .
+5B ) .
+Like ERKs , p38 activity returned to basal levels 45 min after treatment .
+SB203580 , the selective inhibitor of p38 , blocked > 80 % of the p38 activation .
+PD98059 had no detectable effect .
+No changes were observed in the levels of JNK activation after CML-HSA stimulation ( Fig .
+5C ) .
+Concentrations of PD98059 and SB203580 that effectively blocked the NF-kB reporter response did not affect JNK activity .
+CML-HSA-induced NF-KB transcriptional activation requires p38 MAPK .
+To establish a direct role for p38 MAPK in RAGE signaling leading to NF-kB transcriptional activation , THP-1 cells were transfected with the NF-kB reporter and an expression plasmid directing the synthesis of a dominant-negative form of p38 .
+Overexpression of the kinase-dead p38 mutant completely blocked CML-HSA-mediated NF- « B activation , as did expression of an IxB mutant resistant to phosphorylation-dependent degradation ( Fig .
+64 ) .
+To further verify that the expressed p38 mutant competes efficiently with the endogenous wild-type kinase , we also measured the p38 kinase activity from empty vector-transfected and p38 mutant-transfected cells .
+In vitro kinase assays were performed using the transcription factor ATF-2 , a downstream target of p38 , as a substrate .
+Although total p38 protein levels were elevated by expressing the mutant ( Fig .
+6B , left panel ) , the p38 mutant-containing lysate had much less kinase activity compared with the empty vector-transfected control ( Fig .
+6B , right panel ) .
+CML-HSA-induced monocytic cytokine release requires p38 MAPK and NF-B .
+Since it is well established that NF-kB mediates proinflammatory responses by regulating the expression of a number of cytokines ( 38,39 ) , and since CML-HSA induced p38-dependent NF-kB activation in THP-1 monocytes , we further investigated the role of p38 MAPK and NF-kB in CML-HSA-induced cytokine production .
+Mock- , p38 , or IxB mutant-transfected THP-1 cells were exposed to CML-HSA for 24 h , and secreted cytokines were measured .
+Table 1 shows that CML-HSA treatment induced a robust secretion of TNF- « and MCP-1 ( ~12- and 6-fold , respectively ) .
+IL-1B production was less dramatic but still increased ~3.5-fold by 24 h. Expression of the p38 dominant-negative mutant or the IxB mutant significantly reduced the CML-HSA-induced secretion of these cytokines , indicating that p38 MAPK and are both required in the signaling pathway from RAGE to cytokine production .
+To strengthen and extend this obser-vation , similar experiments were performed in peripheral blood-derived monocytes .
+As shown in Table 2 , CML-HSA 1500 A ce CML exposure ( min ) § § 0 - 5 102030456qua ho-ERK 1 - » | .
+t « ork Etrllggho-ERK ; » dHH -- h -- O ’ ERK 1 - » | L2 22 ( ERK 2 - » | = -- « < -- - =- LL ome n s es < 2 Fold activation 1.0 12 1.5 22 20 10 14 10 27 B 8 & CML exposure ( min ) § g £ g 0 5 10 20 30 45 60 + + Phospho-p38 * -- « -o sms us gag cme os gong *** p38 -- -- < an -a » 42 Fold activation 1.0 1.3 1.5 21 1.6 12 12 20 12 C o é CML exposure ( min ) § 9 £ g 0 5 10 20 30 45 60 + + Phospho-JNK « -o come come come > came com « me 4 '' NK “ Wm f * Fold activation 1.0 1.0 1.0 0.9 11 11 1.0 1.0 1.0 FIG .
+5 .
+CML-HSA treatment activates MAPK family members ERK1/2 and p38 but not JNK .
+Samples were taken at the indicated times after 100 pg/ml CML-HSA exposure and subjected to SDS-PAGE and Western blotting analysis .
+Upper panels : probed with an antibody that specifically recognizes the phosphorylated forms .
+Lower panels : the same membrane was stripped and reprobed with a pan antibody , showing equal protein loading of all lanes .
+A : ERK1/2 ; B : p38 ; and C : JNK .
+To test the effect of PD98059 and SB203580 , cells were pretreated with either inhibitor for 30 min , followed by CML-HSA exposure for another 20 min , a time point at which the peak activation was seen .
+Results shown are representative of three independent experiments .
+Densito-metric analysis for kinase activation by CML-HSA compared with the basal level ( time 0 , set as 1.0 ) is indicated .
+induced an approximately fourfold increase in TNF-a « in primary monocytes , a response that was blocked by $ B203580 and PD98059 .
+DIABETES , VOL .
+50 , JUNE 2001 C.-H. YEH AND ASSOCIATES & & A B J & 5 & 2 & £ # > & a & Pa & ' & & & £ 5° & F & 200 { AZ .
+o 51 T Q & O a § 15904 B * d © 3 o 100 j a & a - > | ug ul s - » $ 08 .
+Bug < 0 > B ® & - 0 + ; & & a 3° & & IB : o-p38 a-p-ATF2 « & © & 3 & $ oP @ ( 06 > Q N FIG .
+6 .
+Requirement of p38 MAPK in CML-HSA-induced NF- « B transcriptional activation .
+A : Cells were cotransfected with a kinase-dead p38 MAPK or an IxB dominant-negative mutant together with the reporter then treated for 1 h with 100 pg/ml CML-HSA or HSA , and results were normalized to the HSA treatment .
+Data are the means + SE of at least three separate experiments ( *P < 0.05 compared with empty vector control ) .
+B : Cell lysates from THP-1 cells that had been transfected with the p38 mutant or empty vector were analyzed by Western blotting using an anti-p38 antibody for protein level ( left panel ) or an anti-phospho-ATF-2 antibody for kinase activity after in vitro kinase reactions ( right panel ) .
+DISCUSSION The results of our experiments identify a signaling cascade in THP-1 monocytes in which CML-HSA binds RAGE , leading to phosphorylation of p38 MAPK and ERK1/2 , causing increased DNA binding and transcriptional activation of NF- « B and secretion of proinflammatory cytokines .
+Although many AGEs have been identified , including pen-tosidine , methylglyoxal , pyralline , and imidizalone ( 1,3,4,9 ) , to date , only CML has been reported to be an adduct on proteins that act as a ligand for RAGE ( 83 ) .
+Our findings are consistent with previous observations that 1 ) RAGE plays a role in chronic cellular activation and tissue injury by serving as a cell-surface receptor for the S100/calgranulin family of polypeptides that are released from activated inflammatory cells and accumulate at sites of chronic inflammation ( 6 ) ; 2 ) AGE-induced increased endothelial cell tissue factor expression , a membrane-bound glycoprotein that initiates coagulation by its ability to bind factor VI/ TABLE 1 CML-HSA-induced monocytic cytokine release requires p38 MAPK and NF-kB Cytokine production ( pg/ml ) Transfection - Treatment TNF-a IL-18 MCP-1 Mock HSA 0.6 + 0.2 - 0.2 + 0.1 74A + 0.2 Mock CMLHSA 7.3 +03 0.7+0.0 - 44.3 + 0.5 p38 mutant CML-HSA - 2.5 + 0.1* 0.1 + 0.0 % 20.7 + 1.2* IxB mutant CML-HSA - 2.2 + 0.1* 0.1 + 0.0 % 25.8 + 0.4* Data are normalized by subtracting the background ( TNF- « , 1.7 + 0.2 pg/ml ; IL-1B , 0.2 + 0.1 pg/ml ; MCP-1 , 2.5 + 0.6 pg/ml ; mock , without treatment ) and represent the means + SE of three independent experiments .
+THP-1 cells were transfected and treated for 24 h as described , and culture media was collected for cytokine measurement .
+*P < 0.05 compared with mock , CML-HSA treatment .
+DIABETES , VOL .
+50 , JUNE 2001 VIla , is blocked by RAGE antisense ( 27 ) ; 2 ) AGE-RAGE interaction induces cell-associated VCAM-1 expression ( 26 ) ; 4 ) high-molecular weight hyaluronic acid blocks AGE-induced NF- « B activation and proinflammatory cytokine production in J774 mouse macrophages ( 40 ) ; and 5 ) AGE adducts increase NF-kB DNA binding activity ( 24,30 ) .
+Thus , although many studies have shown RAGE-induced NF-kB DNA binding activity , here we further show that this DNA binding leads to increased transcription of NF-kB target genes .
+These findings , together with the observations that NF- « B is a pleiotropic regulator of many `` re-sponse-to-injury '' genes and that the expression of this cell-surface receptor is upregulated in a number of diverse pathologies , suggest a central role for RAGE in the expression of proinflammatory and prothrombotic genes .
+Our results demonstrate that the cytoplasmic domain of RAGE is required for CML adducts to activate NF- « B target gene transcription .
+These results are consistent with previous studies demonstrating that transient transfection of a cDNA-encoding RAGE lacking the cytoplasmic domain imparted a dominant-negative effect when the ligand TABLE 2 CML-HSA-induced TNF- « release in peripheral monocytes is sensitive to 5B203580 and PD98059 Treatment TNF-a production ( pg/ml ) Sham 1.9 + 0.1 HSA 2.8 + 0.1 CML-HSA 11.0 + 0.9 CML-HSA + $ B203580 3.9 + 0.4* CML-HSA + PD98059 2.2 + 0.3 % Data are the means + SE of three independent experiments .
+Peripheral monocytes were treated for 24 h as described , and culture media was collected for TNF- « measurement by ELISA .
+*P < 0.05 compared with CML-HSA treatment .
+1501 RAGE-MEDIATED p38 MAPK-DEPENDENT NF-B ACTIVATION was CML-ovalbumin ( 833 ) or S100B ( a member of the S100/ calgranulin family ) ( 6 ) .
+A dominant-negative effect of the RAGE cytoplasmic tail also was reported on neurite outgrowth and NF- « B activation in N18 neuroblastoma and C6 glioma cells in response to AGE-modified bovine serum albumin and amphoterin ( 41 ) .
+Although the conserved cytoplasmic domain of RAGE is required for CML-HSA to activate NF-kB , only some of the signaling intermediates in the path from RAGE to the nucleus have been demonstrated .
+Thus , oxidant stress ( 24 ) , PTK ( 42 ) , p21Ras , and ERK1/2 MAPK ( 30 ) are involved in the AGE-mediated signaling cascade .
+In addition , it has been suggested that more than one parallel pathway can be activated simultaneously by the cytoplasmic domain of RAGE ( 41 ) .
+In that study , it was demonstrated that Rac and Cdc42 , the Rho family small GTPases , were responsible for RAGE-mediated neurite outgrowth induced by amphoterin , but not the simultaneous activation of NF- « B-dependent transcription , which was dependent on Ras-MAPK pathway .
+It is noteworthy that CML-HSA ligation of RAGE induced acute tyrosine phosphorylation followed by either dephos-phorylation or degradation .
+For many transmembrane immunoglobulin-class receptors , signaling is initiated by ligand-induced aggregation that activates receptor-cou-pled tyrosine kinases ( 43,44 ) .
+In most studies of mammalian receptors that signal by coupling to tyrosine kinase activation or that contain intrinsic tyrosine kinase activity , the earliest obligate intracellular event after ligand engagement is tyrosine phosphorylation ( 45,46 ) .
+Although our results indicate that tyrosine phosphorylation plays an important role in RAGE signaling , no consensus kinase motif has been identified in the RAGE intracellular domain .
+Con-sequently , RAGE probably couples to a tyrosine kinase ( s ) , directly or indirectly , to mediate tyrosine phosphorylation .
+Currently , intracellular proteins capable of binding to the RAGE cytoplasmic domain remain unknown .
+A wide variety of extracellular signals regulate phosphorylation-dependent activation of MAPK family members that subsequently modulate transcriptional responses altering cellular function in normal and pathological set-tings .
+Although there is considerable cross-talk within these signaling cascades , some generalities have emerged regarding the specific types of information that are processed through the three MAPK family members .
+Thus , ERK typically mediates cell proliferation in response to growth factors , whereas p38 and JNK respond to cytokines and cellular stress inducers .
+Previously , RAGE ligands have been reported to activate ERK in arterial smooth muscle cells ( 30,47 ) , rat pheochromocytoma PC12 cells ( 30 ) , and renal tubulus cells in culture ( 48 ) , indicating that this pathway is common across a variety of cell types .
+Our results implicate both ERK and p38 as key intermediates in CML-HSA activation of RAGE signaling leading to target gene expression in a human monocytic cell line .
+The specificity of these responses is indicated by the lack of activation of JNK , the third MAPK family member .
+Additional specificity is evident since p388 is not inhibited by SB203580 , suggesting that other p38 isoforms must mediate the response to CML-HSA ( 49 ) .
+These observations on p38 appear not to be unique to the AGE ligand used , CML-HSA , since amphoterin-induced RAGE signaling in C6 glioma cells activated p38 as well as 1502 p44/p42 ( ERK ) and stress-activated protein kinase/JNK MAPKs ( 50 ) .
+Indeed , the extent of induction for ERK1/2 and p38 was comparable in both studies .
+Our inability to detect JNK activation in response to CML-HSA may be due to differences in cell types ( THP-1 monocytes versus C6 glioma ) , exposure times ( 10-60 vs. 90 min ) , and ligand used ( CML-HSA versus amphoterin ) , which may have different affinities for RAGE .
+Other recent reports have shown closely related results ; CML-HSA increased NF-kB DNA binding through RAGE ( 33 ) , and glycated serum albumin stimulated ERK activity and NF- < B DNA binding ( 30 ) , but unfortunately , p38 was not evaluated in these studies .
+Mechanisms that couple activation of MAPK to NF-kB target gene induction are complex .
+It is particularly important to note that NF-kB DNA binding activity is necessary , but not sufficient , for transcription , as shown in several reports and reviews ( 51 ) .
+For example , IxB degradation and NF- « B DNA binding were insufficient for TNF- and IL-1B-induced NF-kB-dependent transcription ( 52 ) .
+In addition , inhibition of TNF-induced p38 activation blocked NF-kB-dependent gene expression without decreasing DNA binding activity ( 53 ) , leading to speculation that these intermediates converge at a more distal point .
+A subsequent report further delineated a mechanism wherein p38 phosphorylated the TATA-binding protein TFIID , increasing its binding to the p65 subunit of NF-kB ( 54 ) , stabilizing the transcription complex and mediating gene expression .
+This mechanism was further supported by observations that inhibitors of p38 and ERKs cooperatively regulated the transactivation potential of the p65 subunit ( 55 ) .
+Thus , increased DNA binding activity shown here and by others is only an intermediate readout of RAGE signaling and illustrates the importance of analyzing target gene expression , as we report here , for secretion of the cytokines IL-1B , TNF- « @ , and MCP-1 .
+Finally , our observations that both p38 and ERK mediate RAGE-dependent NF-kB target gene induction suggest that RAGE may be a pleiotropic integrator of AGEs that signal both growth factor-like proliferative responses as well as cytokine-like proinflammatory responses .
+The present studies demonstrate that p38 activation is necessary for CML-HSA-mediated RAGE-dependent NF- « B activation , induction of target gene expression , and secretion of proinflammatory cytokines from monocytes .
+The identification of a RAGE signaling axis involving p38 extends our understanding of AGE-induced cellular dysfunction and provides a possible mechanism for p38 involvement in inflammation , arthritis , septic shock , and myocardial dysfunction after ischemia ( 56-59 ) .
+Further-more , since AGEs-particularly CML adducts-are prevalent in diseases such as diabetes , renal failure , chronic inflammation , and Alzheimer 's disease ( 6,32,33,60 ) , our findings may provide another pathophysiologically relevant mechanism linked to these disorders .
+Understanding the integrative aspects of RAGE in the diverse pathologies of AGEs provides a key challenge for future studies .
+ACKNOWLEDGMENTS We thank Dr. Kaijun Ren ( Chemistry Department at Texas Biotechnology Corporation ) for the synthesis of peptides used in the RAGE inhibition studies , and Drs .
+Roger Davis ( Howard Hughes Medical Institute at the University of DIABETES , VOL .
+50 , JUNE 2001 C.-H. YEH AND ASSOCIATES Massachusetts Medical Center , Worcester , MA ) and Chung Y. Hsu ( Washington University School of Medicine , St. Louis , MO ) for the p38 kinase-dead and IxB dominant-negative mutants , respectively .
+REFERENCES 1 .
+2 .
+8 .
+~ 10 .
+1 12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+Brownlee M : Advanced protein glycosylation in diabetes and aging .
+Annu Rev Med 46:223-234 , 1995 Bucala R , Cerami A : Advanced glycosylation : chemistry , biology , and implications for diabetes and aging .
+Adv Pharmacol 23:1-34 , 1992 Viassara H , Bucala R , Striker L : Pathogenic effects of advanced glycosylation : biochemical , biologic , and clinical implications for diabetes and aging .
+Lab Invest 70:138-151 , 1994 Thornalley PJ : Cell activation by glycated proteins : AGE receptors , receptor recognition factors and functional classification of AGEs .
+Cell Mol Biol 44:1013-1023 , 1998 Schmidt AM , Yan SD , Wautier JL , Stem D : Activation of receptor for advanced glycation end products : a mechanism for chronic vascular dysfunction in diabetic vasculopathy and atherosclerosis .
+Circ Res 84:489-497 , 1999 Hofmann MA , Drury S , Fu C , Qu W , Taguchi A , Lu Y , Avila C , Kambham N , Bierhaus A , Nawroth P , Neurath MF , Slattery T , Beach D , McClary J , Nagashima M , Morser J , Stem D , Schmidt AM : RAGE mediates a novel proinflammatory axis : a central cell surface receptor for S100/calgranulin polypeptides .
+Cell 97:889-901 , 1999 Yan SD , Chen X , Fu J , Chen M , Zhu H , Roher A , Slattery T , Zhao L , Nagashima M , Morser J , Migheli A , Nawroth P , Stem D , Schmidt AM : RAGE and amyloid-beta peptide neurotoxicity in Alzheimer 's disease .
+Nature 382:685-691 , 1996 Niwa T , Sato M , Katsuzaki T , Tomoo T , Miyazaki T , Tatemichi N , Takei Y , Kondo T : Amyloid beta 2-microglobulin is modified with N epsilon- ( carboxymethyl ) lysine in dialysis-related amyloidosis .
+Kidney Int 50:1303-1309 , 1996 .
+Viassara H : Recent progress in advanced glycation end products and diabetic complications .
+Diabetes 46 ( Suppl .
+2 ) :519-525 , 1997 Hammes HP , Martin S , Federlin K , Geisen K , Brownlee M : Aminoguanidine treatment inhibits the development of experimental diabetic retinopathy .
+Proc Nail Acad Sci U S A 88:11555-11558 , 1991 .
+Edelstein D , Brownlee M : Aminoguanidine ameliorates albuminuria in diabetic hypertensive rats .
+Diabetologia 35:96-97 , 1992 Schmidt AM , Vianna M , Gerlach M , Brett J , Ryan J , Kao J , Esposito C , Hegarty H , Hurley W , Clauss M , Wand F , Pan Y-C , Tsang TC , Stem D : Isolation and characterization of two binding proteins for advanced glycosylation end products from bovine lung which are present on the endothelial cell surface .
+J Biol Chem 267:14987-14997 , 1992 Yang Z , Makita Z , Horii Y , Brunelle S , Cerami A , Sehajpal P , Suthanthiran M , Vlassara H : Two novel rat liver membrane proteins that bind advanced glycosylation endproducts : relationship to macrophage receptor for glu-cose-modified proteins .
+J Exp Med 174:515-524 , 1991 Li YM , Mitsuhashi T , Wojciechowicz D , Shimizu N , Li J , Stitt A , He C , Banerjee D , Viassara H : Molecular identity and cellular distribution of advanced glycation endproduct receptors : relationship of p60 to OST-48 and p90 to 80K-H membrane proteins .
+Proc NaH Acad Sci U S A 93:11047-11052 , 1991 Viassara H , Li YM , Imani F , Wojciechowicz D , Yang Z , Liu FT , Cerami A : Molecular identity and cellular distribution of advanced glycation endproduct receptors : relationship of p60 to OST-48 and p90 to 80K-H membrane proteins .
+Mol Med 1:634-646 , 1995 Li YM , Tan AX , Viassara H ; Antibacterial activity of lysozyme and lactoferrin is inhibited by binding of advanced glycation-modified proteins to a conserved motif .
+Nat Med 1:1057-1061 , 1995 Neeper M , Schmidt AM , Brett J , Yan SD , Wang F , Pan YC , Elliston K , Stem D , Shaw A : Cloning and expression of a cell surface receptor for advanced glycosylation end products of proteins .
+J Bio !
+Chem 267:14998-15004 , 1992 Brett J , Schmidt AM , Yan SD , Zou YS , Weidman E , Pinsky D , Nowygrod R , Neeper M , Przysiecki C , Shaw A : Survey of the distribution of a newly characterized receptor for advanced glycation end products in tissues .
+Am J Pathol 143:1699-1712 , 1993 Schmidt AM , Hori O , Brett J , Yan SD , Wautier JL , Stem D : Cellular receptors for advanced glycation end products : implications for induction of oxidant stress and cellular dysfunction in the pathogenesis of vascular lesions .
+Arterioscler Thromb 14:1521-1528 , 1994 Schmidt AM , Yan SD , Stem DM : The dark side of glucose .
+Nat Med 1:1002-1004 , 1995 DIABETES , VOL .
+50 , JUNE 2001 21 .
+22 .
+28 .
+24 .
+25 26 .
+27 .
+28 29 .
+30 .
+31 .
+82 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+Miyata T , Hori O , Zhang J , Yan SD , Ferran L , lida Y , Schmidt AM : The receptor for advanced glycation end products ( RAGE ) is a central mediator of the interaction of AGE-B2 microglobulin with human mononuclear phagocytes via an oxidant-sensitive pathway : implications for the pathogenesis of dialysis-related amyloidosis .
+J Clin Imvest 98:1088-1094 , 1996 Wautier JL , Zoukourian C , Chappey O , Wautier MP , Guillausseau PJ , Cao R , Hori O , Stem D , Schmidt AM : Receptormediated endothelial cell dysfunction in diabetic vasculopathy : soluble receptor for advanced glycation end products blocks hyperpermeability in diabetic rats .
+J Clin Invest 97:238-2483 , 1996 Park L , Raman KG , Lee J , Lu Y , Ferran LJ Jr , Chow WS , Stem D , Schmidt AM : Suppression of accelerated diabetic atherosclerosis by the soluble receptor for advanced glycation endproducts .
+Nat Med 4:1025-1031 , 1998 Yan SD , Schmidt AM , Anderson GM , Zhang J , Brett J , Zou YS , Pinsky D , Stem D : Enhanced cellular oxidant stress by the interaction of advanced glycation end products with their receptors/binding proteins .
+J Biol Chem 269:9889-9897 , 1994 .
+Lavrovsky Y , Schwartzman ML , Levere RD , Kappas A , Abraham NG : Identification of binding sites for transcription factors NF-kB and AP-2 in the promoter region of the human heme oxygenase 1 gene .
+Proc NaHl Acad Sci U S A 91:5987-5991 , 1994 Schmidt AM , Hori 0 , Chen JX , Li JF , Crandall J , Zhang J , Cao R , Yan SD , Brett J , Stern D : Advanced glycation endproducts interacting with their endothelial receptor induce expression of vascular cell adhesion molecule-1 ( VCAM-1 ) in cultured human endothelial cells and in mice : a potential mechanism for the accelerated vasculopathy of diabetes .
+J Clin Invest 96:1395-1403 , 1995 Bierhaus A , Iimer T , Kasper M , Luther T , Quehenberger P , Tritschler H , Wahl P , Ziegler R , Muller M , Nawroth PP : Advanced glycation end product ( AGE ) -mediated induction of tissue factor in cultured endothelial cells is dependent on RAGE .
+Circulation 96:2262-2271 , 1997 .
+Bierhaus A , Ziegler R , Nawroth PP : Molecular mechanisms of diabetic angiopathy : clues for innovative therapeutic interventions .
+Horm Res 50 ( Suppl .
+1 ) :1-5 , 1998 Li J , Schmidt AM : Characterization and functional analysis of the promoter of RAGE , the receptor for advanced glycation end products .
+J Biol Chem 272 ; 16498-16506 , 1997 Lander HM , Tauras JM , Ogiste JS , Hori O , Moss RA , Schmidt AM : Activation of the receptor for advanced glycation end products triggers a p2l ( ras ) -dependent mitogen-activated protein kinase pathway regulated by oxidant stress .
+J Biol Chem 272:17810-17814 , 1997 Horie K , Miyata T , Maeda K , Miyata S , Sugiyama S , Sakai H , Strihou CY , Monnier VM , Witztum JL , Kurokawa K : Immunohistochemical colocaliza-tion of glycoxidation products and lipid peroxidation products in diabetic renal glomerular lesions : implication for glycoxidative stress in the pathogenesis of diabetic nephropathy .
+J Clin Imvest 100:2995-3004 , 1997 Schleicher ED , Wagner E , Nerlich AG : Increased accumulation of the glycoxidation product N ( epsilon } - ( carboxymethyl ) lysine in human tissues in diabetes and aging .
+J Clin Invest 99:457-468 , 1997 Kislinger T , Fu C , Huber B , Qu W , Taguchi A , Du-Yan S , Hofmann M , Yan SF , Pischetsrieder M , Stern D , Schmidt AM : N ( epsilon } - ( carboxymethyl ) lysine adducts of proteins are ligands for receptor for advanced glycation end products that activate cell signaling pathways and modulate gene expression .
+J Biol Chem 274:31740-31749 , 1999 Ikeda K , Higashi T , Sano H , Jinnouchi Y , Yoshida M , Araki T , Ueda S , Horiuchi S : ; N ( epsilon ) } - ( carboxymethyl ) lysine protein adduct is a major immunological epitope in proteins modified with advanced glycation end products of the Maillard reaction .
+Biochemistry 35:8075-8083 , 1996 Kanof ME , Smith PD , Zola H : Preparation of human mononuclear cell populations and subpopulations .
+In Current Protocols in Immunology .
+Coligan JE , Kruisbeek AM , Margulies DH , Shevach EM , Strober W , Eds .
+New York , Greene Publishing and John Wiley & Sons , p. 7.1.1-7.1.7 , 1996 Shirakawa F , Saito K , Bonagura CA , Galson DL , Fenton MJ , Webb AC , Auron PE : The human prointerleukin 1 beta gene requires DNA sequences both proximal and distal to the transcription start site for tissue-specific induction .
+Mol Cell Biol 13:1332-1344 , 1998 Schreiber E , Matthias P , Muller MM , Schaffner W : Rapid detection of octamer binding proteins with `` mini-extracts , '' prepared from a small number of cells .
+EMBO J 7:4221-4229 , 1988 Beg AA , Baltimore D : An essential role for NF-kB in preventing TNF- « -induced cell death .
+Science 274:782-784 , 1996 Miagkov AV , Kovalenko DV , Brown CE , Didsbury JR , Cogswell JP , Stimpson SA , Baldwin AS , Makarov SS : NF-kB activation provides the potential link between inflammation and hyperplasia in the arthritic joint .
+Proc Nail Acad Sci U S A 95:13859-13864 , 1998 Neumann A , Schinzel R , Palm D , Riederer P , Munch G : High molecular 1503 RAGE-MEDIATED p38 MAPK-DEPENDENT NF-B ACTIVATION 41 .
+42 .
+48 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50. weight hyaluronic acid inhibits advanced glycation endproduct-induced NF-xB activation and cytokine expression .
+FEBS Lei ?
+453:283-287 , 1999 Huttunen HJ , Fages C , Rauvala H ; Receptor for advanced glycation end products ( RAGE ) mediated neurite outgrowth and activation of NF-kB require the cytoplasmic domain of the receptor but different downstream signaling pathways .
+J Biol Chem 274:19919-19924 , 1999 Khechai F , Ollivier V , Bridey F , Amar M , Hakim J , de Prost D : Effect of advanced glycation end product-modified albumin on tissue factor expression by monocytes : role of oxidant stress and protein tyrosine kinase activation .
+Arterioscler Thromb Vase Biol 17:2885-2890 , 1997 Santana C , Noris G , Espinoza B , Ortega E : Protein tyrosine phosphorylation in leukocyte activation through receptors for IgG .
+J Leukoc Biol 60:433-440 , 1996 Sanchez-Mejorada G , Rosales C : Foy receptor-mediated mitogen-activated protein kinase activation in monocytes is independent of Ras .
+J Biol Chem 273:27610-27619 , 1998 Fukazawa T , Miyake S , Band V , Band H : Tyrosine phosphorylation of Cbl upon epidermal growth factor ( EGF ) stimulation and its association with EGF receptor and downstream signaling proteins .
+J Biol Chem 271:14554-14559 , 1996 Lipson KE , Pang L , Huber LJ , Chen H , Tsai JM , Hirth P , Gazit A , Levitzki A , McMahon G : Inhibition of platelet-derived growth factor and epidermal growth factor receptor signaling events after treatment of cells with specific synthetic inhibitors of tyrosine kinase phosphorylation .
+J Pharmacol Exp Ther 285:844-852 , 1998 Satoh H , Togo M , Hara M , Miyata T , Han K , Mackawa H , Ohno M , Hashimoto Y , Kurokawa K , Watanabe T : Advanced glycation endproducts stimulate mitogen-activated protein kinase and proliferation in rabbit vascular smooth muscle cells .
+Biockem Biophys Res Commun 239:111-115 , 1997 Simm A , Munch G , Seif F , Schenk O , Heidland A , Richter H , Vamvakas S , Schinzel R : Advanced glycation endproducts stimulate the MAP-kinase pathway in tubulus cell line LLC-PK1L .
+FEBS Lett 410:481-484 , 1997 Jiang Y , Gram H , Zhao M , New L , Gu H , Feng L , DiPadova F , Ulevitch RJ , Han J : Characterization of the structure and function of the fourth member of p38 group mitogen-activated protein kinases , p388 .
+J Biol Chem 272:30122-30128 , 1997 Taguchi A , Blood DC , del Toro G , Canet A , Lee DC , Qu W , Tanji N , Lu Y , 1504 51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+57 .
+58 .
+59 .
+60 .
+Lalla E , Fu C , Hofmann MA , Kislinger T , Ingram M , Lu A , Tanaka H , Hori O , Ogawa S , Stern DM , Schmidt AM : Blockade of RAGE-amphoterin signalling suppresses tumour growth and metastases .
+Nature 405:354-360 , 2000 Li N , Karin M ; : Is NF- « B the sensor of oxidative stress ?
+FASEB J 18:1137-1148 , 1999 Bergmann M , Hart L , Lindsay M , Barnes PJ , Newton R : Ix-B « degradation and nuclear factor- « B DNA binding are insufficient for interleukin-16 and tumor necrosis factor- « -induced « B-dependent transcription : requirement for an additional activation pathway .
+J Biol Chem 273:6607-6610 , 1998 Wesselborg S , Bauer MKA , Vogt M , Schmitz ML , Schulze-Osthoff K : Activation of transcription factor NF-kB and p38 mitogen-activated protein kinase is mediated by distinct and separate stress effector pathways .
+J Biol Chem 272:12422-12429 , 1997 Carter AB , Knudtson KL , Monick MM , Hunninghake GW : The p38 mitogen-activated protein kinase is required for NF-kB-dependent gene expres-sion : the role of TATA-binding protein ( TBP ) .
+J Biol Chem 274:80858-30863 , 1999 Vanden-Berghe W , Plaisance S , Boone E , De Bosscher K , Schmitz ML , Fiers W , Nishida E , Matsumoto K : P38 and extracellular signal-regulated kinase mitogen-activated protein kinase pathways are required for nuclear fac-tor « B p65 transactivation mediated by tumor necrosis factor .
+Science 270:2008-2011 , 1995 Lee JC , Kassis S , Kumar S , Badger A , Adams JL : P38 mitogen-activated protein kinase inhibitors : mechanisms and therapeutic potentials .
+Pharmacol Ther 82:389-397 , 1999 Herlaar E , Brown Z : ; p38 MAPK signalling cascades in inflammatory disease .
+Mol Med Today 5:439-447 , 1999 Salituro FG , Germann UA , Wilson KP , Bemis GW , Fox T , Su MS : Inhibitors of p38 MAP kinase : therapeutic intervention in cytokine-mediated dis-eases .
+Curr Med Chem 6:807-8283 , 1999 Cain BS , Meldrum DR , Meng X , Dinarello CA , Shames BD , Banerjee A , Harken AH : p38 MAPK inhibition decreases TNF- « production and enhances postischemic human myocardial function .
+J Surg Res 83:7-12 , 1999 Degenhardt TP , Grass L , Reddy S , Thorpe SR , Diamandis EP , Baynes JW : Technical note : the serum concentration of the advanced glycation endproduct N epsilon- ( carboxymethyl ) lysine is increased in uremia .
+Kidney Int 52:1064-1067 , 1997 DIABETES , VOL .
+50 , JUNE 2001

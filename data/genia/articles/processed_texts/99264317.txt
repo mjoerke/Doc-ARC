@@ -1,0 +1,1002 @@
+A Role for RanBP1 in the Release of CRMI from the Nuclear Pore Complex in a Terminal Step of Nuclear Export Ralph H. Kehlenbach , Achim Dickmanns , Angelika Kebhlenbach , Tinglu Guan , and Larry Gerace Departments of Cell Biology and Molecular Biology , The Scripps Research Institute , La Jolla , California 92037 Abstract .
+We recently developed an assay in which nuclear export of the shuttling transcription factor NFAT ( nuclear factor of activated T cells ) can be reconstituted in permeabilized cells with the GTPase Ran and the nuclear export receptor CRM1 .
+We have now used this assay to identify another export factor .
+After preincubation of permeabilized cells with a Ran mutant that can not hydrolyze GTP ( RanQ69L ) , cytosol supports NFAT export , but CRM1 and Ran alone do not .
+The RanQ69L preincubation leads to accumulation of CRM1 at the cytoplasmic periphery of the nuclear pore complex ( NPC ) in association with the p62 complex and Can/Nup214 .
+RanGTP-dependent association of CRM1 with these nucleoporins was reconstituted in vitro .
+By biochemical fractionation and reconstitution , we showed that RanBP1 restores nuclear export after the RanQ69L preincubation .
+It also stimulates nuclear export in cells that have not been preincubated with RanQ69L .
+RanBP1 as well as Ran-binding domains of the cytoplasmic nucleoporin RanBP2 promote the release of CRM !
+1 from the NPC .
+Taken together , our results indicate that RanGTP is important for the targeting of export complexes to the cytoplasmic side of the NPC and that RanBP1 and probably RanBP2 are involved in the dissociation of nuclear export complexes from the NPC in a terminal step of transport .
+Key words : RanBP1 nuclear transport « CRM1 * Ran « OLECULAR transport between the cytoplasm and M the nucleus is mediated by nuclear pore com plexes ( NPCs ; !
+for reviews see Doye and Hurt , 1997 ; Nigg , 1997 ) , large supramolecular structures that span the nuclear envelope ( NE ) .
+Molecules of up to 20-40 kD can passively diffuse through the NPC , whereas larger molecules , including most proteins and RNAs , are transported through the NPC by signal- and energy-dependent mechanisms .
+In most cases , signal-mediated nuclear import and export appear to involve nucleocytoplasmic shuttling receptors of the importin B family , which bind to their cargoes either directly or via adaptor molecules ( for reviews see Gorlich and Mattaj , 1996 ; Nigg , 1997 ; Mattaj and Englmeier , 1998 ) .
+A fter cargo molecules interact with Dr. Dickmanns ' present address is Max Planck Institut fiir Biochemie , Am Klopferspitz 18a , D-82152 Martinsried , Germany .
+Address correspondence to Larry Gerace , Departments of Cell and Molecular Biology , The Scripps Research Institute , 10550 North Torrey Pines Road , La Jolla , CA 92037 .
+Tel .
+: ( 619 ) 784-8514 .
+Fax : ( 619 ) 784-9132 .
+E-mail : Igerace @ scripps.edu 1 .
+Abbreviations used in this paper : ec , cytochrome c ; GFP , green fluorescent protein ; GST , glutathione-S-transferase ; NE , nuclear envelope ; NES , nuclear export sequence ; NFAT , nuclear factor of activated T cells ; NLS , nuclear localization sequence ; NPC , nuclear pore complex ; RBD , Ran-binding domain .
+© The Rockefeller University Press , 0021-9525/99/05/645/13 $ 2.00 The Journal of Cell Biology , Volume 145 , Number 4 , May 17 , 1999 645-657 http : //www .jcb.org their cognate receptors in the originating compartment , the transport complexes appear to undergo stepwise translocation through the NPC to the destination compartment , whereupon the cargo dissociates from the receptor and the latter is recycled .
+Several different classes of transport signals have been described for nuclear import ( nuclear localization signals , or NLSs ) and export ( nuclear export signals , or NESs ) .
+A common type of NLS ( the `` classical `` NLS ) comprises a short amino acid sequence enriched in basic amino acids , and interacts with the import receptor importin B via importin a , which acts as an adaptor .
+A common type of NES is a short peptide segment enriched in leucine residues ( for review see Gerace , 1995 ) , which interacts directly with the export receptor CRM 1 ( Fornerod et al .
+, 1997a ; Fukuda et al .
+, 1997 ; Stade et al .
+, 1997 ) .
+The NPC ( for reviews see Rout and Wente , 1994 ; Doye and Hurt , 1997 ) has an estimated mass of ~125 MD in vertebrate cells .
+It consists of nucleoplasmic and cytoplasmic rings flanking eight central spokes , which surround a central gated channel that is the site of signal-mediated transport .
+Emanating outward from the nucleoplasmic and cytoplasmic rings are ~50-100-nm-long fibrils , which may represent initial binding sites for transport complexes at the NPC .
+The NPC is thought to be composed of ~50-100 different proteins ( nucleoporins ) .
+A substantial number of different nucleoporins have been molecularly character 645 ized in vertebrates and yeast .
+Of particular interest are a group of NPC proteins containing multiple copies of FG ( phenylalanine , glycine ) repeats dispersed throughout a portion of their sequence .
+Some members of this group have been found to bind directly to nuclear transport factors in vitro , including importin B-like receptors ( Iovine et al .
+, 1995 ; Radu et al .
+, 1995 ; Rexach and Blobel , 1995 ; Hu et al .
+, 1996 ) .
+Moreover , some FG repeat proteins have been implicated in nuclear import/export in functional studies ( see Nigg , 1997 ) .
+This indicates that FG repeat nucleoporins constitute at least some of the binding sites for nuclear transport complexes at various stages of movement through the NPC .
+In vertebrate cells , some FG repeat nucleoporins are localized to the nucleoplasmic fibrils { ( Nup153 [ Cordes et al .
+, 1993 ; Sukegawa and Blobel , 1993 ] , and Nup98 [ Radu et al .
+, 1995 ] ) , some are found in the cytoplasmic fibrils ( RanBP2 [ Yokoyama et al .
+, 1995 ; Wilken et al .
+, 1995 ; Wu et al .
+, 1995 ] and Can/Nup214 [ Panté et al .
+, 1994 ] ) and one ( the p62 complex , consisting of four different FG repeat proteins ; Finlay et al .
+, 1991 ; Hu et al .
+, 1996 ; Hu and Gerace , 1998 ) is localized near the central gated channel on both sides of the NPC ( Guan et al .
+, 1995 ) .
+However , detailed roles of individual FG repeat proteins in specific transport pathways are not understood .
+The small GTPase Ran , which shuttles between the nucleus and the cytoplasm , plays a key role in determining the vectoriality of nuclear transport ( for reviews see Melchior and Gerace , 1998 ; Moore , 1998 ) .
+Many importin B-related nuclear transport receptors are RanGTP binding proteins ( Wozniak et al .
+, 1998 ) , but the binding of RanGTP has distinct effects on import and export receptors in vitro : RanGTP dissociates cargo from nuclear import receptors ( Rexach and Blobel , 1995 ; Izaurralde et al .
+, 1997 ) , whereas it promotes the association of cargo with nuclear export receptors ( Fornerod et al .
+, 1997a ; Kutay et al .
+, 1997 , 1998 ; Arts et al .
+, 1998 ) .
+Since the GT Pase-activat-ing protein for Ran ( RanGAP ; Coutavas et al .
+, 1993 ; Bischoff et al .
+, 1995 ) is sequestered in the cytoplasm and its guanine nucleotide exchange factor ( RCC1 ) is restricted to the nucleus ( Ohtsubo et al .
+, 1989 ) , most nuclear Ran is probably in the GTP-bound form , whereas most cytoplasmic Ran is likely to be in the GDP-bound form .
+Thus , the nucleocytoplasmic compartmentalization of Ran effec-tors in cells and the resulting asymmetric distribution of RanGTP appear to be important for the loading/unload-ing of nuclear transport receptors in the nucleus .
+It remains possible that Ran has additional functions for specifying the vectoriality of nuclear transport , although these are not yet characterized .
+Nuclear import of the import receptors importin B and transportin ( by themselves ) does not strictly depend on Ran ( Kose et al .
+, 1997 ; Nakielny and Dreyfuss , 1998 ) , and transportin-mediated import of cargo also does not require Ran under certain in vitro conditions ( Englmeier at al .
+, 1999 ; Ribbeck et al .
+, 1999 ) .
+On the other hand , since RanGTP and cargo molecules bind cooperatively in vitro to several export receptors , including CRM 1 ( Fornerod et al .
+, 19972 ) , exportin-t ( Arts et al .
+, 1998 ; Kutay et al .
+, 1998 ) , and CAS ( Kutay et al .
+, 1997 ) , a trimeric cargo/RanGTP/receptor complex is likely to be the form that is actually translocated through the NPC to the cytoplasm .
+Whether RanGTP has a role in the translocation itself is unknown .
+The Journal of Cell Biology , Volume 145 , 1999 A major fraction of RanG AP is bound to the cytoplasmically oriented nucleoporin RanBP2 due to its modification by the ubiquitin-related modifier SUMO-1 ( Matunis et al .
+, 1996 ; Mahajan et al .
+, 1997 ) , and the remainder of RanGAP is soluble in the cytoplasm .
+RanBP2 has four RanGTP-binding domains ( RBDs ) , which are similar in sequence to the RBD of the cytosolic protein RanBP1 , a RanGTP-binding protein of 28 kD that stimulates the activity of RanGAP ( Coutavas et al .
+, 1993 ; Bischoff et al .
+, 1995b ) .
+A number of studies in yeast ( Schlenstedt et al .
+, 1995 ) and in higher eukaryotes ( Chi et al .
+, 1996 ; Pu and Dasso , 1997 ) , support the notion that RanBP1 has a role in some aspect of nuclear trafficking , but its precise mechanism of action is not known .
+RanBP1 can release RanGTP from certain importin B-type receptors , and it has been proposed that one function of this protein is to promote the termination of nuclear export pathways in the cytosol by disassembling export complexes and triggering RanGTP hydrolysis ( Bischoff and Gorlich , 1997 ) .
+We recently developed an in vitro assay for nuclear protein export ( Kehlenbach et al .
+, 1998 ) , which involves HeLa cells that are stably transfected with the shuttling transcription factor NFAT ( nuclear factor of activated T cells ) fused to the green fluorescent protein ( GFP ) .
+NFAT contains a leucine-rich NES similar to that found in Rev , PKI , and a growing number of other proteins .
+A fter preincubation of permeabilized cells with ATP to deplete endogenous export factors , we found that the addition of the GTPase Ran and the nuclear export receptor CRMI is sufficient to reconstitute the nuclear export of GFP-NFAT .
+We have now developed a new preincubation condition to make other export factors rate limiting .
+This involves treatment of permeabilized cells with RanQ69L , a Ran mutant that is deficient in GTP hydrolysis ( Klebe et al .
+, 1995 ) .
+Under these conditions , we identified RanBPI1 and the RanBP1-like domains of RanBP2 as potent stimu-lators of nuclear export in vitro .
+RanBP1 also stimulates nuclear export in cells that have not been preincubated with RanQ69L .
+Our data indicate that RanBP1 and probably RanBP2 are involved in releasing transport complexes from the cytoplasmic side of the NPC in a terminal step of export .
+In addition , our work suggests that RanGTP is important for targeting export complexes to the cytoplasmic side of the NPC , delineating a new potential role for Ran in promoting the vectoriality of nuclear export .
+Materials and Methods Nuclear Export Assay HeLa cells , stably transfected with GFP-NFAT ( Kehlenbach et al .
+, 1998 ) , were grown in Dulbecco 's modified Eagle medium ( GIBCO BRL ) with 10 % fetal bovine serum on plastic dishes .
+Treatment of intact cells with trichostatin A ( Wako BioProducts ) to induce expression of GFP-NFAT , and with ionomycin ( Calbiochem Corp. ) to induce import of GFP-NFAT into the nucleus was done as described ( Kehlenbach et al .
+, 1998 ) .
+As indi-cated , permeabilized cells were subjected to a preincubation step in the presence of ATP , either including or excluding RanQ69L and cytochrome c-NES ( cc-NES ) at final concentrations of 20-25 and 100 ug/ml , respec-tively .
+After preincubation , cells were washed twice with transport buffer ( 20 mM Hepes-KOH , pH 7.3 , 110 mM KOAc , 2 mM Mg [ OAc } , , 2 mM DTT , and 1 pg/ml each of leupeptin , pepstatin , and aprotinin ) .
+Nuclear export reactions and quantitation of nuclear export by flow cytometry were performed as described ( Kehlenbach et al .
+, 1998 ) .
+646 Antibodies , SDS-PAGE , and Immunoblotting The anti-CRM1 peptide antibody was described in Kehlenbach et al .
+( 1998 ) .
+For immunoprecipitation , immunofluorescence , and immunogold EM , the antibody was affinity purified on a column consisting of the COOH-terminal peptide against which it was raised , coupled to CNBr-Sepharose 4B ( Pharmacia LKB Biotechnology Inc. ) .
+The anti-RanBP1 antibody was raised in rabbits and affinity purified using recombinant RanBP1 coupled to CNBr-Sepharose 4B .
+Anti-Can/Nup214 antibody was kindly provided by Dr. Gerard Grosveld .
+The monoclonal antibodies RL1 and mAb414 were from Affinity BioReagents , Inc. and BAbCO , respec-tively .
+The monoclonal anti-importin B-antibody ( ascites fluid ; Affinity BioReagents , Inc. ) used for immunoprecipitations was diluted 1:1 with 5 mg/ml BSA in transport buffer .
+The polyclonal anti-importin B-antibody used for immunoblots was raised against recombinant glutathione-S-transferase ( GST ) -tagged protein and purified using recombinant 6 % His-tagged protein .
+For immunoblotting , proteins were separated by SDS-PAGE and elec-trophoretically transferred onto nitrocellulose using standard methods .
+Blots were blocked with 5 % milk powder in TBST ( 10 mM Tris-HCI , pH 8 , 150 mM NaCl , 0.05 % Tween 20 ) overnight .
+HRP-coupled goat anti-mouse or donkey anti-rabbit IgG ( Pierce Chemical Co. ; 1:10,000 in 10 mM Tris-HCl , pH 8 , 150 mM NaCl , 0.05 % Tween 20 ) were used as secondary antibodies .
+The enhanced chemiluminescence system ( Pierce Chemical Co. ) was used for visualization of proteins .
+Nuclear Transport Factors Recombinant wild-type Ran and RanQ69L were prepared as described ( Melchior et al .
+, 1995 ) .
+For preparation of GST-Ran , the cDNA was cloned into a pGEX-2T ( Pharmacia LKB Biotechnology Inc. ) -derived expression vector .
+The protein was expressed in Escherichia coli and purified using glutathione-Sepharose beads ( Pharmacia LKB Biotechnology Inc. ) .
+To load Ran with nucleotides , soluble protein ( 1 mg/ml ) was treated with 10 mM EDTA , 2 mM DTT , and 2 mM GDP or GMP-PNP .
+Nucle-otides were added from a 20-mM stock in 20 mM Hepes-KOH , pH 7.2 , and 20 mM MgC ] ; , .
+After 30 min at 30°C , MgC ] ; was added to a final concentration of 20 mM and the sample was diluted with an equal volume of transport buffer to 0.5 mg Ran/ml .
+For loading of GST-Ran , the protein was first bound to glutathione-Sepharose beads ( Pharmacia LKB Biotechnology Inc. ) at 3 mg/ml of packed beads .
+After incubation with 2 mM GMP-PNP , 10 mM EDTA , and 2 mM DTT for 30 min at 30°C , 20 mM MgC ] ; was added and the beads were washed with transport buffer .
+Recombinant RanBP1 ( purified by ammonium sulfate precipitation , ion exchange chromatography , and gel filtration ) was kindly provided by Dr. R. Mahajan ( The Scripps Research Institute ) .
+GST -tagged p62 , p58 , and p54 were expressed and purified as described in Hu et al .
+( 1996 ) .
+A 6X His-tagged COOH-terminal fragment of Can/Nup214 ( amino acids 1861-2090 ) was cloned into pTrcHisA ( Invitrogen Corp. ) .
+6X His-Can/ Nup214 and the 6X His-tagged RBD 1 of RanBP2 ( amino acids 1155-1321 ; in pET28 ; Novagen , Inc. ) were purified using Ni-NTA Superflow-beads ( QIAGEN Inc. ) , according to the manufacturer 's instructions .
+Native CRM1 was partially purified by ammonium sulfate precipitation and ion-exchange chromatography as described ( Kehlenbach et al .
+, 1998 ) , dialyzed against transport buffer and frozen in liquid N ; at ~160 ug CRM1/ ml ( as compared by SDS-PAGE to a BSA standard ) .
+Aliquots were stored at -80°C .
+When samples were analyzed by SDS-PAGE followed by Coomassie staining , CRM1 appeared as the most abundant protein with an estimated purity of ~60-70 % .
+Preparation of Cytochrome c-NES To prepare cc-NES , 5 mg cytochrome c ( Sigma Chemical Co. ) in 1.4 ml PBS was activated with 7 mM sulfo-SMCC ( Pierce Chemical Co. ) for 1 h at room temperature .
+Free crosslinker was removed by chromatography over a PD10 column ( Pharmacia LKB Biotechnology Inc. ) equilibrated with PBS .
+2 mg of NES-peptide ( the Rev-sequence CLPPLERLTL , synthesized at the Scripps Core Facility ) was added and the reaction was incubated overnight at 4°C .
+Free peptide was then removed by chromatography over a PD10 column equilibrated with transport buffer , and the protein ( ~2 mg/ml ) was stored at 4°C .
+Fractionation of Cytosol Cytosol was prepared as described ( Kehlenbach et al .
+, 1998 ) and dialyzed into triethanolamine buffer ( 20 mM triethanolamine , pH 74 , 2 mM Kehlenbach et al .
+RanBP ] and RanBP2 in Nuclear Export MgC ] , ) .
+To isolate the cytosolic factor that restores transport after preincubation of cells in the presence of RanQ69L , cytosol ( 10 mg of protein ) was loaded on a FPLC Mono Q column ( HR 5/5 ; Pharmacia LKB Biotechnology Inc. ) and 1-ml fractions were eluted with an 18-ml linear gradient of 0 to 500 mM NaCl in triethanolamine buffer at a flow rate of 0.4 ml/ min .
+Maximal nuclear export activity was recovered around 280 mM NaCl .
+900 pl of the fraction containing peak activity ( as determined by the nuclear export assay ) was concentrated to 300 pl by vacuum dialysis and applied to a gel filtration column ( Superdex 200 HR 10/30 ; Pharmacia LKB Biotechnology Inc. ) equilibrated in transport buffer .
+The sample was chromatographed at 0.4 ml/min and 0.5-ml fractions were collected .
+The nuclear export activity eluted with an apparent molecular mass of ~30 kD .
+Immunofluorescence Microscopy and Immunogold-EM For immunofluorescence staining , digitonin-permeabilized cells were allowed to bind to poly lysine-coated coverslips for 15 min at 4°C , fixed for 6 min with 4 % formaldehyde in PBS at 20°C , and then treated with 0.2 % Triton X-100 in PBS for 5 min at 20°C .
+After washing , cells were incubated with purified anti-CRM1 antibody at 1-2 ug/ml for 1 h at 20°C in 2 % BSA in PBS .
+Texas red donkey anti-rabbit IgG ( Pierce ) was used as secondary antibody .
+Confocal microscopy was performed using an MRC1024 ( Bio-Rad Laboratories ) attached to an Axiovert S100TV ( Carl Zeiss , Inc. ) .
+Microscopic parameters were identical for pairs of pictures .
+Digital data were processed identically , using Adobe Photoshop ( Adobe Systems Inc. ) .
+To carry out immunogold-localization , cells were permeabilized by one cycle of freeze-thawing and incubated in transport buffer with anti-CRM1 antibody ( 2 pug/m1 ) for 2-3 h. Samples were washed and incubated with anti-rabbit IgG coupled to 5 nm gold ( Sigma Chemical Co. ) as secondary antibody .
+After washing with transport buffer , cells were fixed with 2 % glutaraldehyde for 15 min , postfixed with 1 % osmium tetroxide , and stained en block with 1 % uranyl acetate .
+Cells were then dehydrated in serial ethanol concentrations and embedded in Eponate 812 ( Ted Pella , Inc. ) .
+Thin sections were analyzed using a Phillips EM 208 , without further staining .
+All steps were performed at room temperature .
+Immunoprecipitation For immunoprecipitation , 4 X 106 digitonin-permeabilized cells were solubilized for 20 min on ice in 1 ml NP4O buffer ( 1 % NP40 , 50 mM Tris-HCl , pH $ 8 , 5 mM EDTA , 5 mM EGTA , 15 mM MgCl , , 60 mM B-glycerophos-phate , 100 LM KF , 100 M NaVO , , 2 mM DTT , 1 pg/ml each of leupeptin , pepstatin , aprotinin , and 300 mM NaCl ) .
+After centrifugation at 100,000 g for 30 min at 4°C , purified anti-CRM1 antibody ( 10 pg/ml ) or anti-importin B antibody ( ascites fluid , 1:100 ) was added .
+Samples were incubated at 4°C for 2 h and immunoreactive proteins were collected with protein A-Sepharose ( Pharmacia LKB Biotechnology Inc. ) .
+The beads were washed four times with NP40 buffer and precipitated proteins were analyzed by SDS-PAGE , followed by immunoblotting or silver staining .
+In Vitro Binding and Release Experiments To analyze the binding of NE-proteins to immobilized CRM1 , 30 ug of purified anti-CRM1 antibody was first bound to 60 pl protein A-Sepharose beads .
+2 X 10° digitonin-permeabilized HeLa cells were solubilized in NP40 buffer containing 300 mM NaCl and centrifuged at 100,000 g for 30 min .
+To load the protein A-anti-CRM1 beads with CRM1 , beads were incubated with the permeabilized cell supernatant for 90 min at 20°C , and then washed four times with NP4O buffer .
+Only bands corresponding to CRM1 and IgG could be detected when a sample of these beads was analyzed by SDS-PAGE , followed by blotting and Pon-ceau staining .
+Nuclear envelopes were prepared as described ( Gerace et al .
+, 1978 ) and stored at -80°C .
+200 OD ; U of NE ( derived from ~6 X 10° nuclei ) were solubilized on ice for 20 min in 1 ml NP40 buffer containing 450 mM NaCl .
+A fter centrifugation at 100,000 g for 30 min , the supernatant was diluted with NP4O0 buffer without NaCl to 150 mM NaCl .
+60 ul of this extract was added to 6 jul protein A-CRM1 beads in the absence or presence of 25 ug/ml RanGDP or RanGMP-PNP and 100 jig/ml cc-NES .
+NP40 buffer containing 150 mM NaCl , and BSA ( final concentration of 10 mg/ml ) was added to give a final volume of 250 pl .
+After incubation at 20°C for 1 h , beads were washed four times with NP40 buffer containing 150 mM NaCl and bound proteins were analyzed by SDS-PAGE , followed by immunoblotting .
+647 For binding experiments using purified CRM1 and GST-p62 , GST-p58 , GST-p54 , or 6XHis-Can/Nup214 , the recombinant proteins were bound to glutathione-Sepharose beads or Ni-NTA -superflow beads ( QIAGEN Inc. ) at 50-100 pg/ml .
+The beads were then treated with 30 mg/ml BSA in transport buffer for 20 min to block nonspecific binding sites .
+5 ul CRM1 ( ~160 pg/ml ) was added to 6 ul of beads in the absence or presence of 25 g/ml RanGDP or RanGMP-PNP and 1 mg/ml NES-peptide ( CLPPLER-LTL ; from a 2-mg/m !
+stock in transport buffer ) in a total volume of 100 pl containing 10 mg/ml BSA .
+After 90 min at 20°C , the beads were washed with transport buffer three times .
+All buffers involving Ni-beads contained 20 mM imidazole .
+The amount of bound CRM1 was analyzed by SDS-PAGE and immunoblotting .
+To analyze the release of CRM1 from RanGMP-PNP by RanBP1 , ~1 ug of purified CRM1 was bound to 6 pl GST-RanGMP-PNP beads in the presence of 1 mg/ml NES peptide and 10 mg/ml BSA in a total volume of 100 pil transport buffer .
+A fter extensive washing with transport buffer , the beads were incubated at 0° or 30°C with 5 mg/ml BSA and 1 mg/ml NES-peptide in the absence or presence of 120 ug/ml RanBP1 for 20 min .
+These high concentrations of RanBP1 were used because the matrix contains a high concentration of RanGTP , to which RanBP1 and CRM1 can bind .
+Released proteins were precipitated with 10 % TCA for 5 min on ice and pelleted by centrifugation at 14,000 g for 15 min at 4°C .
+Samples were analyzed by SDS-PAGE , followed by immunoblotting .
+To analyze the release of CRM1 from permeabilized cells after the RanQ69L preincubation , they were subjected to a second incubation for 15 min in the absence or presence of RanBP1 or RBD 1 of RanBP2 .
+The cells were collected by centrifugation and equivalent amounts of pellet and supernatant were analyzed by SDS-PAGE , followed by immunoblotting .
+Results An Assay for an Additional Nuclear Export Factor ( s ) We previously found that the NES receptor CRM1 and the small GTPase Ran reconstitute efficient nuclear export of GFP-NFAT in digitonin-permeabilized HeLa cells that have been preincubated with ATP at 30°C in order to deplete shuttling export factors ( Kehlenbach et al .
+, 1998 ) .
+To identify additional cytosolic export factors besides CRM1 and Ran , we had to find conditions to make them rate limiting in our assay .
+We therefore compared the ability of CRM1 and cytosol to promote NFAT export in HeLa cells after various preincubation steps that might more completely deplete export factors from the permeabilized cells .
+After our standard preincubation with ATP alone , we found that either CRM 1 alone or cytosol alone stimulated nuclear export of GFP-NFAT to equivalent levels in the presence of an excess of wild-type Ran ( Fig .
+1 a ) , consistent with our previous work ( Kehlenbach et al .
+, 1998 ) .
+We then examined the effects of preincubation with RanQ69L , a mutant form of Ran that is insensitive to RanGAP and therefore is predominantly in the GTP-bound form ( Klebe et al .
+, 1995 ) .
+RanQ69L has been shown to promote nuclear export of substrates carrying a leucine-rich NES ( Richards et al .
+, 1997 ; Kehlenbach et al .
+, 1998 ) and to strongly inhibit NLS-mediated nuclear protein import ( Dickmanns et al .
+, 1996 ; Palacios et al .
+, 1996 ) .
+After preincubation of permeabilized cells with ATP and RanQ69L , the ability of CRM 1 plus wild-type Ran to promote nuclear export was clearly reduced ( Fig .
+1 b ) .
+In contrast , cytosol still retained its strong stimulatory effect on nuclear export .
+We next examined the effect of including an excess of NES substrate in the preincubation , which would be expected to more fully mobilize the endogenous export factors .
+For the NES substrate , we coupled the Rev The Journal of Cell Biology , Volume 145 , 1999 80 60 -e- cytosol + Ran -- CRMI 40 20 nuclear fluorescence 0 5 10 Jul cytosol or CRMI I 80 -e- cytosol -o- CRMI 60 + Ran 40 20 nuclear fluorescence 0 5 10 Jil cytosol or CRMI 100 80 60 -e- cytosol +R -o- CRM1L 40 20 nuclear fluorescence 0 s 10 ul cytosol or CRM1 Figure 1 .
+Preincubation of cells with RanQ69L and cc-NES reveals a new cytosolic export factor .
+Permeabilized cells were preincubated with ATP ( a ) , ATP and RanQ69L ( b ) , or ATP , RanQ69L , and cc-NES ( c ) .
+Subsequent export reactions were performed with increasing amounts of cytosol ( @ ) or partially purified CRM 1 ( ) .
+All reactions contained 25 pg/ml Ran .
+Addition of 100 pg/ml Ran gave essentially the same result ( data not shown ) .
+Note that in c the initial level of nuclear fluorescence is slightly higher than in a and b , presumably because the added cc-NES prevented export of GFP-NFAT during the preincubation by competing with the GFP-NFAT .
+NES to cytochrome c , a 12-kD protein that is expected to enter the nucleus by passive diffusion .
+Consistent with this possibility , the Rev-NES conjugate ( cc-NES ) , but not a conjugate containing an export-defective NES , was able to compete for nuclear export of GFP-NFAT in vitro ( data not shown ) .
+After preincubation of permeabilized cells with ATP , RanQ69L , and cc-NES , CRM1 and Ran were no longer sufficient to support any nuclear export of GFP-NFAT ( Fig .
+1 c ) .
+Under these conditions , the GFP-NFAT remained in the nucleoplasm ( see Fig .
+2 b ) .
+Again , the addition of cytosol after this preincubation resulted in a strong stimulation of nuclear export .
+However , preincubation of cells with ATP and cc-NES alone did not affect the ability of CRM1 and Ran to support nuclear export ( data not shown ) .
+648 These results clearly demonstrate that cytosol contains an activity distinct from CRM1 and Ran that is required for nuclear export of GFP-NFAT after preincubation of permeabilized cells with RanQ69L .
+The export substrate cc-NES potentiates this requirement for an additional factor when added with RanQ69L in the preincubation .
+The cytosolic activity that stimulates export under these conditions could be a nucleocytoplasmic shuttling factor that is lost from the nuclei during the preincubation .
+Alterna-tively , RanQ69L and cc-NES could impose a block on nuclear export that is efficiently relieved by a cytosolic factor .
+In an attempt to distinguish between these pos-sibilities , we decided to characterize the localization of GFP-NFAT and of CRM1 , the NES receptor for NFAT , after incubation of permeabilized cells with RanQ69L .
+RanQ69L Targets CRM1 to the Cytoplasmic Periphery of the NPC An export substrate containing a leucine-rich NES has been shown to bind cooperatively with RanGTP to CRM1 in vitro ( Fornerod et al .
+, 1997a ) , forming a putative nuclear export complex .
+Preincubation of permeabilized cells with an excess of RanQ69L and cc-NES substrate should efficiently mobilize CRM 1 into export complexes and perhaps trigger the transport of these complexes out of the nucleus .
+As we observed previously ( Kehlenbach et al .
+, 1998 ) , incubation of permeabilized cells at 30°C with ATP alone ( Fig .
+2 a , - Q69L/cc-NES ) led to a depletion of CRM 1 from the cells , as compared with the 0°C control incubation ( Fig .
+2 a , 0°C ) .
+In contrast , incubation with RanQ69L ( Fig .
+2 a , + Q69L/cc-NES ) , but not with wild-type Ran ( data not shown ) , largely prevented the loss of CRMI from the permeabilized cells .
+The high level of CRM1 retained by preincubation with RanQ69L could re a 0 30 °C = | + ] - |Q69L/cc-NES woe wass CRMI C k- & tend a Gix 2 misa ** 5 % a # : » Bx < 7 t & s m , 5 4 | * > is| , & » + + Kehlenbach et al .
+RanBP ] and RanBP2 in Nuclear Export CRMI GFP-NFAT CRMI sult either from inhibition of export of CRM1 out of the nucleus or from facilitated recycling/reimport back into the nucleus .
+Since incubation of the same number of cells in a 30-fold larger volume at the same concentration of RanQ69L did not change the level of CRM1 compared with the standard RanQ69L incubation as detected by immunoblotting ( data not shown ) , RanQ69L appears to act by inhibiting export of CRM1 , rather than by promoting its reimport .
+This notion is further validated by the data shown below .
+Thus , although RanQ69L promotes efficient nuclear export of NES-containing substrates in vivo ( Richards et al .
+, 1997 ) , and also a moderate level of nuclear export in vitro ( Kehlenbach et al .
+, 1998 ) , the release of the nuclear export receptor CRM1 from the permeabilized cells is impaired by RanQ69L .
+We next used immunocytochemical approaches to examine the localization of CRM1 in the nucleus with and without preincubation of the cells with RanQ69L .
+In previous work , CRM1 was found to be localized throughout the nucleoplasm as well as at the cytoplasmic and nucleoplasmic sides of the NPC in cultured cells ( Fornerod et al .
+, 1997b ) .
+Consistent with this , by indirect immunofluorescence microscopy , we detected CRM1 predominantly in the nucleoplasm of digitonin-permeabilized cells ( Fig .
+2 b , control ) .
+Incubation of cells with RanQ69L , but not with wild-type Ran ( data not shown ) , led to a strong increase in staining at the NE together with a decrease in intranuclear staining ( Fig .
+2 b , top ) .
+The localization of the export substrate GFP-NFAT did not substantially change upon incubation with RanQ69L ( Fig .
+2 b , middle ) .
+Very similar results were obtained when the cells were incubated with a combination of RanQ69L and cc-NES ( Fig .
+2 b , bottom ) .
+When the Triton permeabilization was omitted after the fixation step before antibody labeling , a similar level of CRMI was detected at the NE , even though the NE re Figure 2 .
+RanQ69L targets CRM1 to the cytoplasmic periphery of the NPC .
+( a ) Permeabilized HeLa cells expressing GFP-NFAT were incubated on ice or at 30°C in either the absence or presence of a combination of RanQ69L and cc-NES .
+The amount of CRM1 associated with the cells after the incubations was analyzed by immunoblotting .
+( b and c ) Permeabilized cells were kept on ice ( control ) or incubated at 30°C with RanQ69L ( B , top two panels ) or RanQ6§9L and cc-NES ( b , bottom , and c as indi-cated ) .
+Cells were analyzed by fluorescence microscopy to detect CRM1 and GFP-NFAT ( b ) or immunogold EM ( c ) using purified anti-CRM1 antibodies .
+Note that some cells in b do not express GFP-NFAT ( see Kehlenbach et al .
+, 1998 ) .
+Arrows in c point to NPCs .
+Bar , 100 nm .
+control + RanQ69L + RanQ69L , control _ +cc-NES 649 mained intact , as demonstrated by the inaccessibility of nuclear lamins to anti-lamin antibodies ( data not shown ) .
+This suggests that CRM 1 resides at the cytoplasmic side of the NPC after the RanQ69L cc-NES incubation .
+To further examine the localization of CRM1 under these conditions , we performed immunogold labeling of digitonin-permeabilized cells that had been incubated either at 0°C in buffer , or at 30°C with RanQ69L and cc-NES ( Fig .
+2 c ) .
+The nuclei were permeabilized by freeze-thawing before immunolabeling .
+Under these conditions , the nucleoplasmic side of the NPC was freely accessible to gold probes , as demonstrated by strong labeling of the nucleoplasmic side of the NPC with antibodies to Tpr ( data not shown ) , which is found on the nuclear side of the NPC ( Cordes et al .
+, 1997 ) .
+In the control cells , some anti-CRM1 gold labeling was seen throughout the nucleoplasm ( not shown ) and gold particles were occasionally found at the cytoplasmic side of the NPC ( e.g .
+, Fig .
+2 c , control , rightmost arrow ) .
+Strikingly , however , after cells were incubated with RanQ69L , the cytoplasmic periphery of every NPC was strongly decorated with gold , while essentially no labeling of the nucleoplasmic side of the NPC was evi-dent .
+Labeling was specific , because it was completely abolished by preincubating the anti-CRM1 antibody with the peptide against which it had been raised .
+These results indicate that CRM 1 crosses the NE and accumulates at the cytoplasmic periphery of the NPC when RanQ69L is present .
+Hence , RanQ69L appears to inhibit export by inducing the stable trapping of CRM 1 at the cytoplasmic periphery of the NPC .
+Since this accumulation is observed only in the presence of RanQ69L but not wild-type Ran , the release of CRM 1 from this binding site is likely to require GTP hydrolysis on Ran and/or a cytosolic release factor that is absent from the permeabilized cells .
+Can/Nup214 Is the Major Binding Site for CRM 1 at the Cytoplasmic Site of the NPC We next carried out biochemical analyses to identify the NPC proteins with which CRM 1 associates in the presence of RanQ69L .
+Previous work showed that immunoprecipitation of an epitope-tagged version of the nucleoporin Can/Nup214 from an extract of cultured HeLa cells resulted in the coprecipitation of some CRM1 ( Fornerod et al .
+, 1997 ) .
+Can/Nup214 is one of the FG-repeat-containing nucleoporins that is detected by the monoclonal antibodies RL1 ( Snow et al .
+, 1987 ) and mAb414 ( Davis and Blobel , 1986 ) .
+In addition to Can/Nup214 , RL1 detects the nucleoporins RanBP2 , Nup153 , Pom121 , Nup98 , p62 , p58 , and p54 ( Snow et al .
+, 1987 ) .
+As shown in Fig .
+3 a , on silver-stained gels , we detected two proteins with apparent molecular weights of ~70 and ~220 kD ( marked by asterisks ) that specifically coprecipitated with CRM1 from a cell lysate after preincubation with RanQ69L at 30°C .
+These bands were not seen after preincubation at 30°C without RanQ69L ( when the level of precipitated CRM1 was reduced due to the loss of CRM1 from the permeabilized cells under this condition ; compare with Fig .
+2 a ) .
+Addition of the peptide that had been used to prepare the anti-CRM1-antibody abolished the precipitation of CRM 1 and also led to the loss of the coprecipitated proteins , indicating that the latter are in a The Journal of Cell Biology , Volume 145 , 1999 complex with CRM1 .
+In a similar experiment we used immunoblotting with the RL1 monoclonal antibody to analyze the NPC proteins that coprecipitated with CRM1 ( Fig .
+3 b ) .
+As a control , we examined the proteins that coprecipitated with the import receptor importin B .
+No RLl-reactive proteins were detectable in the anti-CRM1 immunoprecipitate from cells that had been incubated in buffer at 0°C .
+In contrast , after incubation with ATP , RanQ69L , and cc-NES at 30°C , two RL1-positive proteins with the same apparent molecular weights as the coprecipitated proteins detected on silver-stained gels ( ~70 and ~220 kD ; compare with Fig .
+3 a ) were coprecipitated with CRM1 .
+The latter was identified as Can/Nup214 , using a specific antibody against this protein ( data not shown ) .
+The 70-kD protein is p62 , as judged by its mobility on SDS-PAGE and by the specificity of RL1 .
+The monoclonal antibody mA detected the same two proteins as RL 1 in these immunoprecipitates ( data not shown ) .
+The p58 , p54 , and p45 subunits of the p62 complex were not detected in these immunoprecipitation experiments by either RL1 or mAb414 with our immunoblotting conditions , probably because larger amounts of these proteins are required for detection compared with p62 ( see Davis and Blobel , 1986 ; Snow et al .
+, 1987 ) .
+However , since these proteins remain tightly associated with p62 under similar extraction conditions ( Guan et al .
+, 1995 ) , they most likely are present in the immunoprecipitates with p62 .
+The level of immunoprecipitated CRM1 itself in this experiment was the same with or without the RanQ69L preincubation ( Fig .
+3 b , bottom left ; note the difference from Fig .
+3 a , where both , the + and RanQ69L samples were incubated at 30°C ) , consistent with the finding that CRM1 is retained in the permeabilized cells during the RanQ69L treatment .
+As a control , we examined whether RL1 antigens coimmunoprecipitated with the import receptor importin B under these conditions .
+In contrast to the results obtained with CRM1 , a distinct set of nucleoporins coprecipitated with importin B in this experiment .
+RanBP2 and Nup153 were the only detectable nucleoporins that appeared in anti-importin B immunoprecipitates from extracts of cells that had been incubated at 0°C ( Fig .
+3 b ) .
+When cells were preincubated with ATP , RanQ69L , and cc-NES at 30°C , Nup153 no longer coprecipitated with importin B , although the amount of coimmunoprecipitated RanBP2 did not change significantly .
+The amount of importin B in the immunoprecipitate ( Fig .
+3 b , bottom right ) was clearly reduced after the RanQ69L incubation , indicating that importin B , unlike CRM 1 , is depleted from the nucleus under these conditions .
+Thus , the export receptor CRM 1 and the import receptor importin B behave differently during preincubation with RanQ69L : RanQ69L promotes the association of CRM 1 with a subset of cytoplasmic nucleoporins , but does not promote its release from nuclei , whereas RanQ69L induces the dissociation of importin B from a nucleoplasmic nucleoporin ( Nup153 ) and stimulates release of importin B from the permeabilized cells .
+To investigate the binding of CRM1 to proteins of the NPC under defined in vitro conditions , we immobilized CRM1 on anti-CRM1 antibodies coupled to Protein A beads .
+The beads were then incubated with an NP4O lysate derived from purified rat liver NEs in the presence of 650 Figure 3 .
+RanQ69L promotes binding of CRMI to Can/ - | - | + | + |RanQ69L CRM1| imp B IP ‘ Nup214 and p62 .
+( a ) Permeabi- - | +| - | + ] peptide - | £ ] - l + RallQﬁg lized HeLa cells were incubated RanBp ?
+at 30°C in the absence ( - ) or « - » a » < - ‘ an .
+presence ( + ) of RanQ69L .
+Pro 3 * bund < - Can/Nup214 tei R ipitated 4 as a- D eins were immunoprecipitate § = Nup153 from an NP4O0 lysate ( containing 5 _ x 300 mM NaCl ) with the anti > amg < - Crinl CRM1 antibody in the absence ( - ) or presence ( + ) of the pep « @ < « -p62 tide that had been used to raise y + me dae » ABB .
+ame 4-10 C ® a | Wha coCRMl/ccimportin ( the antibody .
+Precipitated proteins were analyzed by SDS-PAGE followed by silver staining .
+Two coprecipitating proteins c d NES + NES are marked by asterisks .
+( b ) Per-TI - | - | L [ ~T - RanGDP meabilized HeLa cells were in NES +NES } - cubated in the absence ( - ) of - [ +1 - | + |RanGMP-PNP a balinese GMP-PNP RanQ69L and cc-NES at 0°C or S | - | - | + | -| -| + | RanGMP-PNP the presence ( + ) of RanQ69L + ] - |+ ] - |_ RangGDpP Tao o and cc-NES at 30°C .
+Proteins ~- < - Can/Nup214 * « an GST-p34 were iInmunoprecipitaFe 'd from wee gam mee mee @ - Nup | 53 -= el e* GST-pS58 an NP4O0 lysate ( ' C ( ) nta1n1.ng 3.00 7 E mM NaCl ) using antibodies Z ‘ Z P W GST-p62 against CRM1 or importin B sane Wts ses se ts .
+His-Can/Nup214 ( C ) ( imp B ) .
+Precipitated proteins were detected on immunoblots using the RL1 antibody ( top ) or anti-CRM1 ( bottom left ) and anti-importin B antibodies ( bottom right ) .
+Essentially the same result as shown in this figure was obtained when the NP4O0 buffer contained either 150 or 450 mM NaCl ( data not shown ) .
+( c ) Solubilized rat liver NE proteins were incubated in the absence ( - ) or presence ( + ) of RanGDP , RanGMP-PNP , and ec-NE S , with CRM 1 that had been immobilized on anti-CRM1-Protein A beads .
+Bound proteins were detected on immunoblots with the RL1 antibody .
+No binding of Can/Nup214 was detected with GMP-PNP alone ( i.e .
+, when Ran was omitted in the loading step ; data not shown ) .
+( d ) GST-p54 , -p58 , -p62 , and a 6 % His-tagged COOH-terminal fragment of Can/ Nup214 were incubated in the absence ( - ) or presence ( + ) of RanGDP , GMP-PNP ( Ran was omitted in the loading step ) , RanGMP-PNP , and NES peptide .
+Bound CRM 1 was detected on immunoblots using the anti-CRM1 antibody .
+RanGDP or RanGMP-PNP , a nonhydrolyzable GTP ana-logue .
+In some reactions , we added cc-NES , which enhances the binding of RanGMP-PNP to CRM1 ( data not shown ) .
+Proteins bound to the CRM 1 beads were detected on immunoblots using the RL 1 antibody .
+In the absence of added cc-NES , the nucleoporins p62 and Nup153 and a faint band migrating below Nup153 bound to the beads in the presence of RanGDP ( Fig .
+3 c ) .
+Very similar levels of these proteins bound when no exogenous Ran was added ( data not shown ) .
+When the incubation contained Ran that had been loaded with GMP-PNP , Can/Nup214 and an increased level of p62 bound to the beads .
+Neither the level of Nup153 nor of the minor band below Nup153 changed upon addition of RanGMP-PNP .
+Although addition of cc-NES to the incubations had no effect when the samples contained RanGDP , cc-NES increased the amount of Can/Nup214 and p62 bound to the beads in the presence of RanGMP-PNP .
+A s a control for the specificity of binding , we used Protein A beads that had been coupled to rabbit IgG instead of anti-CRM1 antibody , but were otherwise treated identically .
+Only a very faint band corresponding to Nup153 could be detected ( data not shown ) , indicating that the binding of nucleoporins to the beads was specific for CRM1 .
+The differential binding of Nup153 to CRM 1 in Fig .
+3 , b and c , probably results from Kehlenbach et al .
+RanBP ] and RanBP2 in Nuclear Export the different experimental approaches : in the immunoprecipitation experiment ( Fig .
+3 b ) , we examined CRM1 that is associated with proteins of intact NPCs at the end point of a transport reaction in a permeabilized cell assay .
+This reaction leads to accumulation of CRM1 on the cytoplasmic side of the NPC , whereas Nup153 is localized to the nucleoplasmic side .
+In contrast , in the in vitro binding experiment ( Fig .
+3 c ) , solubilized proteins of the NPC are allowed to bind to immobilized CRM1 .
+We next investigated the binding of partially purified CRM1 to recombinant proteins of the p62 complex ( p54 , p58 , and p62 ) and to a COOH -terminal fragment of Can/ Nup214 that has previously been shown to bind to CRM1 in vivo ( Fornerod et al .
+, 1996 ) .
+In this experiment , the nucleoporins ( instead of CRM 1 ) were immobilized on affinity matrices for the binding reactions .
+As shown in Fig .
+3 d , RanGMP-PNP , but not RanGDP or GMP-PNP alone , strongly promoted binding of CRM 1 to all three proteins of the p62 complex .
+The binding was further increased if an NES peptide was included in the reaction .
+We detected substantial binding of CRM 1 to the COOH-terminal fragment of Can/Nup214 in the presence of RanGDP or free GMP-PNP ( i.e .
+, in the absence of Ran ) , and only a modest increase in binding when RanGMP-PNP was added .
+No binding was detected when we used Ni beads that had not 651 been coupled with the Can/Nup214 fragment ( data not shown ) .
+In the two different binding reconstitution experiments ( Fig .
+3 , c and d ) , RanGMP-PNP stimulated the nucle-oporin/CRM1 interactions to different levels , depending on the source of nucleoporins and the nature of the affinity matrix .
+It strongly enhanced the interaction between Can/Nup214 and CRM1 when solubilized NEs were used as a source of nucleoporins ( Fig .
+3 c ) , but only modestly enhanced the interaction when a recombinant fragment of Can/Nup214 was used ( Fig .
+3 d ) .
+Conversely , RanGMP-PNP only modestly enhanced the association of p62 with CRM 1 when p62 came from solubilized NEs , but strongly enhanced the association when recombinant p62 , p58 , and p54 were used ( Fig .
+3 d ) .
+Aside from the different nature of the affinity matrices in the two cases ( see Fig .
+3 , legend ) , these differences may be due to the presence of components in the solubilized NEs that differentially affect the binding of Can/Nup214 versus p62 to CRM1 .
+In addition , the short recombinant fragment from the COOH terminus of Can/Nup214 might be folded in a way that results in a different binding activity of the fragment compared with the full-length protein from NEs .
+Despite these quantitative differences , the results of these in vitro binding reconstitution experiments are in agreement with the results of the immunoprecipitation experiments involving extracts of permeabilized cells ( Fig .
+3 , a and b ) , which showed that RanQ69L induces the stable binding of CRM1 to Can/Nup214 and p62 in permeabilized cells .
+The stimulation of binding of CRM1 to these nucleoporins by RanQ69L/RanGMP-PNP suggests that these interactions reflect the association of an export complex separately with Can/Nup214 and p62 .
+It remains possible that a ternary complex of CRM1 , p62 , and Can/ Nup214 can be formed .
+However , in light of our EM data , we think it unlikely that the end point of the transport reaction in the presence of RanQ69L , which is analyzed in the immunoprecipitation experiments ( Fig .
+3 , a and b ) , involves such a complex .
+This is because much of the CRM1 was found at the periphery of the NPC where Can/Nup214 is localized ( Panté et al .
+, 1994 ) , which is distinct from the central location where p62 is found ( Guan et al .
+, 1995 ) .
+Significantly , the above results imply that RanGTP not only promotes the formation of an export complex , but also targets it to specific sites in the NPC during transport .
+Since Can/Nup214 is located in a more peripheral cytoplasmic location in the NPC than the p62 complex , it is likely that the association of the export complex with Can/ Nup214 represents a late step in nuclear export .
+Release from this site is mediated by a cytosolic factor , at least in cells that have been preincubated with RanQ69L , thereby allowing efficient nuclear export in a subsequent reaction ( see Fig .
+1 ) .
+RanBP1I Promotes Nuclear Export of GFP-NFAT To identify the cytosolic factor that restores export of GFP-NFAT after preincubation of permeabilized cells with RanQ69L and cc-NES , we fractionated cytosol by column chromatography and tested individual fractions for their ability to promote export in the presence of exogenous Ran and partially purified CRM1 .
+With analysis by The Journal of Cell Biology , Volume 145 , 1999 ion exchange chromatography using a Mono Q column , we obtained a major peak of export activity in fraction 20 , which eluted from the column at ~280 mM NaCl ( Fig .
+4 a ) .
+This peak fraction was further analyzed by gel filtration on an $ 200 column .
+A small peak of export activity was observed in fraction 19 , at the position of a globular protein of ~30 kD ( Fig .
+4 b ) .
+A much larger peak eluting at the same position was obtained when total cytosol instead of a Mono Q fraction was used for gel filtration ( data not shown ) .
+The apparent size of the active protein eluting from the gel filtration column prompted us to probe fractions of both purification steps for the presence of RanBP1 , a previously characterized cytosolic RanGTP-binding protein of 28 kD ( Coutavas et al .
+, 1993 ; Bischoff et al .
+, 1995b ) .
+As shown in Fig .
+4 , a and b ( insets ) , the peak of RanBP1 detectable by immunoblotting coincides with the peak of export activity on both the Mono Q and the gel filtration columns .
+When the $ 200 samples were analyzed by silver staining , a protein with the same mobility as RanBP1l was the only species that peaked in fraction 19 ( data not shown ) .
+This protein accounted for ~10 % of the total protein in that fraction .
+We next tested the ability of recombinant RanBP1 to stimulate nuclear export of GFP-NFAT after the RanQ69L cc-NES preincubation .
+We found that a combination of wild-type Ran and RanBP1 strongly stimulated nuclear export ( Fig .
+4 c ) .
+Neither Ran nor RanBP1 alone had a significant effect .
+No further stimulation of export was obtained by adding purified CRM 1 to Ran and RanBP1 in the reconstitution ( data not shown ) .
+In a titration experiment ( data not shown ) , we found that 50 % of the maximal stimulation was obtained with ~2 pg/ml RanBP1 .
+RanBP1 was maximally active at a concentration of ~15 pg/ml , whereas a higher concentration resulted in inhibition of nuclear export .
+These results demonstrate that RanBP1 stimulates nuclear export in cells that have been preincubated with RanQ69L and cc-NES , indicating that it relieves the block imposed by these reagents .
+This raises the possibility that RanBP1 or related proteins have a role in nuclear export under normal conditions .
+As discussed above ( see Fig .
+1 ) , Ran and CRM1 support efficient nuclear export in permeabilized cells that have been preincubated with ATP alone .
+Nevertheless , RanBP1 does have a modest stimulatory effect on nuclear export in nonpreincubated cells , as demonstrated by the time course experiment shown in Fig .
+4 d ( note that RanQ69L-preincubated cells were used in all other panels of Fig .
+4 ) .
+Here , incubation of the permeabilized cells for 30 min reduced the nuclear fluorescence from 100 to 37 U in the presence of RanBP1 , but only to 51 U in its absence .
+This RanBP1-mediated stimulation of nuclear export by ~30 % was obtained in four independent experiments .
+The observation that RanBP1 is not absolutely required for nuclear export under these conditions raised the possibility that another factor might provide RanBP1-like functions when the cells have not been preincubated with RanQ69L .
+RanBP2 is a giant nucleoporin that has four RBD s very similar to that of RanBP1 ( Yokoyama et al .
+, 1995 ) .
+RanBP2 is localized in close proximity to Can/ Nup214 on the cytoplasmic side of the NPC ( Wilken et al .
+, 1995 ; Wu et al .
+, 1995 ; Yokoyama et al .
+, 1995 ) and is well situated to interact with an export complex bound to Can/ 652 Lo GC 500 80 { 80 1 $ 5 | 400 Pr $ 2 $ 60 ] 3 § 60 § - 300 .
+& 2 E Z .
+___ , , , C fe 5 17|18|19|20| 21 | fraction §0 ¢ san - 2 2 40 4 « » - + RanBP1 3 +200 `` 7 = ] I 5 R i < 3 + 20 { ° [ 18 ] 19 ] 20 ] 21/22 ) fraction 100 & 20 « m » « + RanBPl 44 kD 17 kD al ¥ U 0 - 0 0 r e s 10 15 20 25 30 10 15 20 25 fraction fraction 100 80 non-preincubated 80 o g - 80 ) cells i 5 5 5 3 60 3 9 60 4 l 2 - 60 } 2 3 9 S = | = = | To 40 = = 40 a 3 - 40 ; & 3 E4 =-=-z- - RanBP1 4 & & & 3 20 é -*- +RanBPI 2 20 ~ - 20 T* 0 + a+ 0 - - .
+buffer - Ran - BPI Ran+BPI1 0 5 10 15 20 25 30 buffer Ran - RBD1 Ran+RBD !
+time ( min ) Figure 4 .
+RanBP1l and RanBP1-related domains promote nuclear export in vitro .
+( a ) Activity profile of Mono Q fractions .
+HeLa cytosol was chromatographed on a Mono Q ion exchange column .
+20 wl of individual fractions was dialyzed against transport buffer and added to nuclear export reactions .
+( b ) Activity profile of Superdex 200 fractions .
+Nuclear export reactions contained 25 jl of Superdex 200 fractions .
+( a and b ) All reactions contained 25 jg/ml Ran .
+( Insets ) Immunoblots of indicated fractions to detect RanBP1 .
+RanBP1 was not detected in any other fraction .
+( c and e ) Stimulation of nuclear export by RanBP1 ( c ) and RBD 1 ( amino acids 1155-1321 ) of RanBP2 ( e ) .
+Reactions contained 25 ug/ml Ran , 25 ug/ml RanBP1 , and 7.5 ug/ml RBD 1 as indicated .
+( d ) Time course of nuclear export in the absence ( ) or presence ( @ ) of 15 pg/ml RanBP1 using cells that have not been preincubated with RanQ69L .
+( a-c , and e ) RanQ69L cc-NES-preincubated cells were used in all reactions .
+Nup214 .
+In RanQ69L preincubated cells , the RBDs of RanBP2 are likely to be stably occupied by RanQ69L , which can not be readily released because the RanQ69L mutant is insensitive to RanG AP .
+This situation would necessitate the addition of exogenous RanBP1 to promote export , even though the RBDs of RanBP2 would be available under normal conditions .
+To test whether the RBD s of RanBP2 can function like RanBP 1 in our assay , we expressed them as 6X His-tagged fusion proteins and tested their ability to stimulate nuclear export of GFP-NFAT after preincubation of permeabilized cells with RanQ69L and cc-NES .
+As shown in Fig .
+4 e , the combination of RBD 1 of RanBP2 and Ran stimulates nuclear export to a similar extent as RanBP1 and Ran ( compare Fig .
+4 c ) .
+RBDs 2-4 of RanBP2 were equally effective ( data not shown ) .
+These results show that either RanBP1 or the RBDs of RanBP2 can release the block of nuclear export imposed by preincubating cells with RanQ69L and cc-NES .
+Kehlenbach et al .
+RanBP ] and RanBP2 in Nuclear Export RanBP1 and RBDs of RanBP2 Release CRM1 from Can/Nup214 at the Cytoplasmic Periphery of the NPC RanBP1 has been shown to promote the dissociation of RanGTP from the importin B-related proteins transportin and CAS , as well as from importin B itself ( in the presence of importin « ; Bischoff and Gorlich , 1997 ) .
+To test whether RanBP1 has a similar effect on the RanGTP-CRMI complex , we bound purified CRMI to GST-RanGMP-PNP and examined whether RanBP1 was able to release the CRM1 in a subsequent incubation .
+As shown in Fig .
+5 a , RanBP1 released the majority of CRM 1 into the supernatant ( compare the levels of released and bound CRM1 ) , whereas very little CRM1 was released in the absence of RanBP1 .
+We next tested whether RanBP1 might have a similar effect on CRM1 that is trapped in a complex with Can/ Nup214 at the cytoplasmic side of the NPC as a consequence of incubation of cells with RanQ69L and cc-NES .
+653 Since the binding of CRM 1 to Can/Nup214 is strongly promoted by RanGTP , the dissociation of RanGTP from CRM1 would be expected to promote the release of the latter from the NPC .
+Indeed , after a first incubation of permeabilized cells with RanQ69L , a second incubation with RanBP1 strongly reduced the amount of CRM1 at the NE as seen by immunofluorescence microscopy ( Fig .
+5 b ) .
+Without RanBP1 , cells exhibited a strong nuclear rim staining for CRM 1 , very similar to the one obtained without a second incubation ( compare with Fig .
+2 b ) .
+The release of CRM 1 from NE of RanQ69L-preincubated cells was analyzed also by immunoblotting ( Fig .
+5 c ) .
+Whereas a major proportion of CRM 1 remained associated with the cells ( pellet , P ) in the absence of RanBP1 , the addition of RanBP1 resulted in the recovery of most CRM 1 in the released fraction ( supernatant , S ) .
+A similar effect was obtained with RBD 1 of RanBP2 ( Fig .
+5 c ) .
+Taken together , these results suggest that RanBP1 , and probably the RBDs of RanBP2 , are involved in the disas-sembly of the export complex at a terminal nucleoporin site ( Can/Nup214 ) .
+RanBP1 and RanBP2 apparently act by releasing RanGTP from CRM 1 , thereby promoting release of the export complex from the NPC and dissociation of the cargo-receptor complex .
+If the RBDs of RanBP2 are occupied by RanQ69L , exogenously added RanBP1 ( or cytosolic RanBPI1 in intact cells ) or soluble RBD s of RanBP2 are required to fulfill this function .
+Discussion Targeting of CRM1 to the Cytoplasmic Periphery of the NPC by RanGTP during Nuclear Export In this study , we used biochemical and functional approaches to search for new components involved in CRM nuclear export .
+Our studies were based a _ _ Figure 5 .
+RanBPl - and bound __| released | .
+RBDs of RBP2 release | f + |RanBPl CRM1 from the NE .
+( a ) Re | 0 | 30 ] 30 | 30 ] 30 | °C _ | lease of CRM1 from GST-w sume a mens CR\ ] Ran by RanBP1l .
+Purified CRM1 was bound to GST-RanGMP-PNP .
+Beads were b either kept on ice ( 0°C ) or in-+RanBP1 -RanBP1 cubated at 30°C in the ab- sence ( - ) or presence ( + ) of 120 pg/ml RanBP1 .
+Equivalent amounts of proteins bound to the beads or released into the supernatant were analyzed by immunoblotting to detect CRM1 .
+C ( b ) Detection of CRM1 | buffer |+RauBPH « +RBD1 | by immunofluorescence of | P | S | P | S | P | S | RanQ69L - cc-NES-preincubated cells after a second incubation in the absence ( RanBP1 ) or presence ( + RanBP1 ) of 20 pg/ml RanBP1 .
+( c ) RanQ69L cc-NES-preincubated cells were subjected to a second incubation with buffer , 40 pg/ml RanBP1 , or 10 g/ml RBD 1 of RanBP2 , as indicated .
+Equivalent amounts of fractions containing pelleted cells/nuclei ( P ) or proteins released into the supernatant ( S ) were analyzed by immunoblotting to detect CRM1 .
+cuam __ .
+cme .
+CRM | The Journal of Cell Biology , Volume 145 , 1999 on the initial observation that incubation of permeabilized cells with RanQ69L and cc-NES results in strong inhibition of CRM 1-mediated nuclear export .
+During this treat-ment , the nuclear export receptor CRM 1 becomes highly concentrated at the cytoplasmic side of the NPC in association with Can/Nup214 and the p62 complex , concomitant with CRM 1 depletion from the nuclear interior .
+We found that the cytosolic protein RanBP1 and the RBDs of the nucleoporin RanBP2 can relieve the transport inhibition imposed by RanQ69L by releasing CRM1 from the cytoplasmic nucleoporins .
+As discussed below , this indicates that RanBP1 and probably RanBP2 play a key role in a terminal step of nuclear export involving export complex dissociation from the NPC .
+Previous studies have indicated that CRM1 binds cooperatively to RanGTP and export cargo in the nucleus ( Fornerod et al .
+, 1997b ) to form a putative export complex that is transported through the NPC .
+Several criteria indicate that the accumulation of CRM 1 at the cytoplasmic side of the NPC during treatment of permeabilized cells with RanQ69L and cc-NES reflects terminal stages of nuclear export , as opposed to initial stages of reimport .
+First , the in vitro binding of CRM1 to the cytoplasmic nucleporins Can/Nup214 and to the p62 complex is promoted by components known to be involved in the formation of an export complex ( RanGTP , or analogues thereof , and export substrate ) .
+Similarly , the accumulation of CRM 1 at the cytoplasmic nucleoporins in permeabilized cells is dependent on RanQ69L , which is effectively locked in the GTP-bound form , and the block of export by RanQ69L is potentiated by the export substrate cc-NES .
+Furthermore , CRM 1 is released from these cytoplasmic sites by RanBP 1 and RBD s , a reaction that is compatible with an export intermediate but not with an import intermediate .
+RanBP1 has previously been proposed to have a role in disassem-bly of nuclear export complexes in the cytoplasm ( Bischoff and Gorlich , 1997 ; also see below ) .
+Whereas Can/Nup214 is localized in the fibrils at the cytoplasmic periphery of the NPC , the p62 complex is situated on both the cytoplasmic and nucleoplasmic sides of the NPC near the central gated channel ( Guan et al .
+, 1995 ) .
+Our data are consistent with the possibility that Can/Nup214 is the terminal binding site for the CRM 1 export complex at the NPC , to which it is transferred after binding to the cytoplasmically oriented p62 complex .
+The apparent flexibility of the cytoplasmic fibrils ( Panté and Aebi , 1996 ) , might allow them to interact with the NPC region containing the p62 complex , enabling direct transfer of the export complex to Can/Nup214 .
+The fact that CRM1 is associated with the p62 complex as well as with Can/Nup214 in permeabilized cells preincubated with RanQ69L may be due to the saturation of all available CRM1 binding sites at Can/Nup214 , resulting in the accumulation of CRM 1 at a more proximal site ( the p62 com-plex ) in the export pathway .
+The movement of the CRM1 export complex through the NPC first must involve its association with nucleoplasmic nucleoporins .
+CRM1 from yeast ( Crm1lp ) has been shown to interact by a two-hybrid assay with a number of nucleoporins , including mammalian Nup98 ( Neville et al .
+, 1997 ) , which is localized to the nucleoplasmic side of the NPC ( Radu et al .
+, 1995 ) .
+Nup153 , a protein localized to 654 the nucleoplasmic fibrils ( Sukegawa and Blobel , 1993 ) , may be another one of the nucleoplasmic binding sites for CRM 1 in mammals , since we found that it associates with CRM1 in vitro ( albeit not in a RanGTP-stimulated fash-ion ) .
+An additional site probably is the population of p62 complexes found on the nucleoplasmic side of the gated channel .
+It is striking that CRM 1 was not detected on the nucleoplasmic side of the NPC after preincubation with RanQ69L .
+This result may be explained , at least in part , by the possibility that the affinity of the CRM1 export complex for cytoplasmic nucleoporins is higher than that for nucleoplasmic nucleoporins .
+In this respect , the p62 complex found on the cytoplasmic side of the NPC may not be bio-chemically identical to the nucleoplasmic p62 complex .
+It also is possible that RanGTP in export complexes acts at the central gated channel of the NPC to promote vectorial movement to the cytoplasm .
+Whatever the mechanism , the finding that RanGTP ( RanQ69L ) strongly promotes the binding/accumulation of the CRM 1 export complex at the cytoplasmic side of the NPC indicates that RanGTP is important for the vectorial transfer of the export complex through the NPC .
+Thus , these results point to a second important function for RanGTP in nuclear export , in addition to its role in promoting the association of export cargo with CRM 1 inside the nucleus .
+The behavior of the import receptor importin B was very different from CRM1 in our studies , arguing that the nucleoporin associations seen for CRM1 are specific and functionally relevant .
+Importin B appears to be more highly associated with the NPC than CRM1 in cultured cells at steady state , since substantial association of importin B with RanBP2 and Nup153 was seen in immunoprecipitates of permeabilized cell extracts , whereas no significant association of CRM1 with Can/Nup214 or the p62 complex was detected unless cells were pretreated with RanQ69L .
+High levels of importin B remained associated with RanBP2 after treatment with RanQ 69L , but the association with Nup153 was no longer seen .
+These findings are consistent with previous work showing that adding GMP-PNP to Xenopus egg lysates results in loss of coprecipitation of importin B with Nup153 ( Shah et al .
+, 1998 ) , and that RanGTP strongly promotes the binding of importin B to RanBP2 at the cytoplasmic side of the NPC in vitro ( Delphin et al .
+, 1997 ) .
+Incubation of cells with RanQ69L appears to promote the export ( recycling ) of importin B , since substantial amounts of the latter are released from the cells under these conditions .
+Thus , RanBP2 may be a terminal NPC binding site for the export of importin B , much like Can/Nup214 appears to be a terminal site for CRM 1 export .
+This suggests that the recycling ( export ) of at least one import receptor uses nucleoporin binding sites that are at least partially distinct from those used by an export complex .
+Teleologically , it makes sense that these two pathways would be distinct , so that protein export would not compete with recycling of import factors .
+Role of RanBP1 and RanBP2 in a Terminal Step of Nuclear Export We have identified RanBP1 as the major cytosolic activity Kehlenbach et al .
+RanBP ] and RanBP2 in Nuclear Export that relieves the block of nuclear export imposed by RanQ69L and cc-NES , and showed that it also stimulates export in cells that have not been preincubated with RanQ69L .
+RanBP1 has previously been suggested to have a role in nuclear import ( Chi et al .
+, 1996 ; Pu and Dasso , 1997 ) and nuclear assembly ( Nicolas et al .
+, 1997 ; Pu and Dasso , 1997 ) in higher eukaryotes .
+The yeast homologue of RanBP1 , Yrb1p , also has been suggested to play a role in nuclear protein import and RNA export ( Schlenstedt et al .
+, 1995 ) .
+However , the molecular basis for these previously observed functional effects , and whether they are direct or indirect , is not entirely clear .
+Recent biochemical studies have provided new insight on a potential role for RanBP1 in nuclear export .
+In addition to its role in activating RanGAP ( Coutavas et al .
+, 1993 ; Bischoff et al .
+, 1995b ) , RanBP1 has been found to reduce the inhibitory effect of certain importin B-related transport receptors ( including CAS , transportin , and importin B itself ) on RanGAP ( Lounsbury and Macara , 1997 ; Deane et al .
+, 1997 ; Gorlich et al .
+, 1997 ) .
+This is a consequence of the ability of RanBP1 to release RanGTP from these transport receptors ( Bischoff and Gorlich , 1997 ) .
+This release reaction could allow the cytosolic RanBP1 both to promote RanGTP hydrolysis and to stimulate the dissociation of cargo from export complexes , thereby irreversibly dissociating the export complex .
+In this study , we have found that RanBP1 releases RanGTP from the export receptor CRM1 in a manner similar to other importin B-like receptors that have been examined .
+This not only is likely to promote cargo release from CRM1 , but probably also is responsible for the release of CRM1 from the NPC , since RanGTP strongly enhances the association of CRM1 with cytoplasmic nucleoporins .
+We also observed some release of CRM1 from immobilized GST-RanGTP using very high concentrations of RanGAP in vitro ( our unpublished observations ) .
+Thus , we can not rule out that RanGAP also contributes to the release of CRM1 from the NPC .
+However , exogenously added RanGAP , even at high concentrations , gave no stimulation of nuclear export in nonpreincubated cells ( our unpublished observations ) .
+Similarly , in a recent study , Englmeier et al .
+( 1999 ) have described a small stimulatory effect of RanBP1 , but not of RanG AP , on nuclear export in vitro .
+The isolation of a native complex consisting of a nucleoporin , CRM1 , export cargo , and RanGTP will be required for further studies on the function of RanBP1 and RanG AP .
+RanBP1l stimulates nuclear export to a modest level ( ~30 % ) in our in vitro assay when the permeabilized cells have not been preincubated with RanQ69L and cc-NES .
+Under these conditions , RanBP2 most likely fulfills similar functions as RanBP1 , since RBDs of RanBP2 are active both in releasing CRM 1 from NEs and in stimulating nuclear export after preincubation with RanQ 69L .
+It is interesting to note that there is no RanBP2 homologue in yeast .
+Yeast cells therefore rely on the activity of RanBP1-like proteins for nuclear import and export ( Schlenstedt et al .
+, 1995 ) .
+In fact , Y¥rblp appears to be the only essential RanBP1-like protein in yeast .
+Richards et al .
+( 1997 ) detected efficient export of an NES-containing reporter protein after injecting RanG 19V into the nuclei of cultured cells .
+RanG 19V , like RanQ69L , 655 HA nBPI/ \ Runlil `` / mani “ E .
+a » to sg t \/ \/ export cargo L > RanGTP A RanGDP Figure 6 .
+Model for the termination of nuclear export by RanBP1 or RanBP2 .
+The high intranuclear concentration of RanGTP allows the formation of the export complex , which consists of export cargo , CRM 1 , and RanGTP .
+The complex then is translocated through the gated channel of the NPC and binds to Can/Nup214 .
+RanBPl or RanBP2 releases CRMIL from RanGTP , which leads to the dissociation of the complex .
+RanGTP is converted to RanGDP by soluble cytoplasmic and/or RanBP2-associated RanGAP .
+See text for details .
+translocation to cytoplasmic side of NPC Q _ canimupz14 is insensitive to RanGAP and is therefore predominantly in the GTP-bound form .
+Unlike our in vitro studies involving incubation of permeabilized cells ( depleted of most of the endogenous Ran ) with RanQ69L , the microinjection studies were done in cells containing a high concentration of wild-type Ran .
+Thus , the RBDs of endogenous RanBP 1 and RanBP2 may not have been completely blocked by RanG19V in this study , and this could explain how efficient export could occur in this situation , in contrast to the results we have obtained in our studies .
+We were unable to detect any accumulation of the export cargo GFP-NFAT at the NE under conditions of RanQ69L preincubation .
+This could be due to the vast excess of cc-NES and/or other endogenous export substrates in the reaction , which would compete with NFAT for binding to CRM 1 .
+However , even when export complexes are arrested at the cytoplasmic side of the NPC by RanQ69L , cargo may slowly dissociate from CRM1 even though CRM1 remains bound to the NPC .
+This could explain results we obtained in our previous study ( Kehlenbach et al .
+, 1998 ) , in which we found a low but significant level of nuclear export of GFP-NFAT in the presence of RanQ69L , allowing a single round of nuclear export but no recycling of the export receptor .
+Our data suggest a working model for CRM 1-mediated nuclear export that is shown in Fig .
+6 .
+We propose that an export complex of cargo , CRM1 , and RanGTP that forms in the nucleus first binds to the nucleoplasmic fibrils of the NPC .
+It subsequently is translocated through the central gated channel via the p62 complex on the nucleoplasmic and cytoplasmic sides of the NPC , and then associates with the peripheral nucleoporin Can/Nup214 at a terminal NPC site .
+The binding of RanBP2 and/or cytosolic RanBP1 to the RanGTP in the export complex at this site then disso-ciliates RanGTP from CRM1 , leading to the release of the cargo from CRM1 and , concomitantly , the dissociation of CRM 1 from Can/Nup214 .
+GTP hydrolysis on Ran by cytosolic or RanBP2-associated RanGAP would make export essentially irreversible .
+Our data suggest a new function The Journal of Cell Biology , Volume 145 , 1999 for RanGTP in promoting the vectoriality of nuclear ex-port : in addition to stimulating the binding of cargo to CRM 1 in the nucleus , RanGTP in an export complex promotes targeting to the cytoplasmic side of the NPC .
+It will be interesting to examine whether RanGDP , which might be part of a nuclear import complex ( see Melchior and Gerace , 1998 ) , could have an analogous role in targeting the import complex to the nucleoplasmic side of the NPC .
+We thank G. Grosveld ( St. Jude Children 's Research Hospital , Memphis , TN ) for the kind gift of Can/Nup214-cDNA and of anti-Can/Nup214 antibody and T. Nishimoto ( Kyushu University , Kyushu , Japan ) for expression vectors for RBDs of RanBP2 .
+We further thank C. Delphin for the preparation of nuclear envelopes , R. Mahajan for the preparation of RanBP1 , J. Bednenko for the purification of GST-p54 , -p58 , and-p62 , and S. Lyman for the cloning of GST-Ran , the purification of anti-importin B antibodies , and for critically reading the manuscript ( all four from The Scripps Research Institute ) .
+This work was supported by a grant from Novartis Pharmaceuticals to L. Gerace and by fellowships from the Human Frontier Science Program to R.H. Kebhlenbach ( LT-400/96 ) and the Deutsche Forschungsge-meinschaft to A. Dickmanns ( Di 676/1-1 ) .
+This is TSRI manuscript No .
+12173-CB .
+Received for publication 30 December 1998 and in revised form 11 March 1999 .
+References Arts , G.J .
+, M. Fornerod , and LW .
+Mattaj .
+1998 .
+Identification of a nuclear export receptor for tRNA .
+Curr .
+Biol .
+8:305-314 .
+Bischoff , FR .
+, and D. Gérlich .
+1997 .
+RanBP1 is crucial for the release of RanGTP from importin beta-related nuclear transport factors .
+FEBS Leff .
+419:249-254 .
+Bischoff , FR .
+, H. Krebber , T. Kempf , I. Hermes , and H. Ponstingl .
+1995a .
+Human RanGTPase-activating protein RanGAP1 is a homologue of yeast Rnalp involved in mRNA processing and transport .
+Proc .
+Natl .
+Acad .
+Sci .
+USA .
+92:1749-1753 .
+Bischoff , FR .
+, H. Krebber , E. Smirnova , W. Dong , and H. Ponstingl .
+1995b .
+Co-activation of RanGTPase and inhibition of GTP dissociation by RanGTP binding protein RanBP1 .
+EMBO ( Eur .
+Mol .
+Biol .
+Organ . )
+J .
+14:705-715 .
+Chi , N.C. , E.J .
+Adam , G.D. Visser , and S.A. Adam .
+1996 .
+RanBP1 stabilizes the interaction of Ran with p97 nuclear protein import .
+J .
+Cell Biol .
+135:559-569 .
+Cordes , V.C .
+, S. Reidenbach , A. Koehler , N. Stuurman , R. Van Driel , and W.W. Franke .
+1993 .
+Intranuclear filaments containing a nuclear pore complex protein .
+J .
+Cell Biol .
+123:1333-1344 .
+Cordes , V.C .
+, S. Reidenbach , H.R.. Rackwitz , and W.W. Franke .
+1997 .
+Identification of protein p270/Tpr as a constitutive component of the nuclear pore complex-attached intranuclear filaments .
+J .
+Cell Biol .
+136:515-529 .
+Coutavas , E. , M. Ren , J.D .
+Oppenheim , P. D 'Eustachio , and M.G .
+Rush .
+1993 .
+Characterization of proteins that interact with the cell-cycle regulatory protein Ran/TC4 .
+Nature .
+366:585-587 .
+Davis , LL .
+, and G. Blobel .
+1986 .
+Identification and characterization of a nuclear pore complex protein .
+Cell .
+45:699-709 .
+Deane , R. , W. Schiifer , HP .
+Zimmermann , L. Mueller , D. Gorlich , S. Prehn , H. Ponstingl , and F.R .
+Bischoff .
+1997 .
+Ran-binding protein 5 ( RanBP5 ) is related to the nuclear transport factor importin-beta but interacts differently with RanBP1 .
+Mol .
+Cell .
+Biol .
+17:5087-5096 .
+Delphin , C. , T. Guan , F. Melchior , and L. Gerace .
+1997 .
+RanGTP targets p97 to RanBP2 , a filamentous protein localized at the cytoplasmic periphery of the nuclear pore complex .
+Mol .
+Biol .
+Cell .
+8:2379-2390 .
+Dickmanns , A. , F.R .
+Bischoff , C. Marshallsay , R. Liihrmann , H. Ponstingl , and E. Fanning .
+1996 .
+The thermolability of nuclear protein import in tsBN2 cells is suppressed by microinjected Ran-GTP or Ran-GDP , but not by RanQ69L or RanT24N .
+J .
+Cell Sci .
+109:1449-1457 .
+Doye , V. , and E. Hurt .
+1997 .
+From nucleoporins to nuclear pore complexes .
+Curr .
+Opin .
+Cell Biol .
+9401-411 .
+Englmeier , L. , J.-C. Olivo , and I. Mattaj .
+1999 .
+Receptor-mediated substrate translocation through the nuclear pore complex without nucleotide triphos-phate hydrolysis .
+Curr .
+Biol .
+9:30-41 .
+Finlay , DR. , E. Meier , P. Bradley , J. Horecka , and D.J .
+Forbes .
+1991 .
+A complex of nuclear pore proteins required for pore function .
+J .
+Cell Biol .
+114 : 169-183 .
+Fornerod , M. , J. Boer , S. van Baal , H. Morreau , and G. Grosveld .
+1996 .
+Interaction of cellular proteins with the leukemia specific fusion proteins DEK-CAN and SET-CAN and their normal counterpart , the nucleoporin CAN .
+Oncogene .
+13:1801-1808 .
+656 Fornerod , M. , M. Ohno , M. Yoshida , and I. W. Maitaj .
+19972 .
+CRM1 is an export receptor for leucine-rich nuclear export signals .
+Cell .
+90:1051-1060 .
+Fornerod , M. , J. van Deursen , S. van Baal , A. Reynolds , D. Davis , K.G .
+Murti , J. Fransen , and G. Grosveld .
+1997b .
+The human homologue of yeast CRM1 is in a dynamic subcomplex with CAN/Nup214 and a novel nuclear pore component Nup88 .
+EMBO ( Eur .
+Mol .
+Biol .
+Organ . )
+J .
+16:807-816 .
+Fukuda , M. , S. Asano , T. Nakamura , M. Adachi , M. Yoshida , M. Yanagida , and E. Nishida .
+1997 .
+CRM 1 is responsible for intracellular transport mediated by the nuclear export signal .
+Nature .
+390:308-311 .
+Gerace , L. 1995 .
+Nuclear export signals and the fast track to the cytoplasm .
+Cell .
+82:341-344 .
+Gerace , L. , A. Blum , and G. Blobel .
+1978 .
+Immunocytochemical localization of the major polypeptides of the nuclear pore complex-lamina fraction .
+Inter-phase and mitotic distribution .
+J .
+Cell Biol .
+79:546-566 .
+Gorlich , D. , and IW .
+Mattaj .
+1996 .
+Nucleocytoplasmic transport .
+Science .
+271 : 1513-1518 .
+Gorlich , D. , M. Dabrowski , F.R .
+Bischoff , U. Kutay , P. Bork , E. Hartmann , S. Prehn , and E. Izaurralde .
+1997 .
+A novel class of RanGTP binding proteins .
+J .
+Cell Biol .
+138:65-80 .
+Guan , T. , S. Muller , G. Klier , N. Panté , J.M .
+Blevitt , M. Haner , B. Paschal , U. Acbi , and L. Gerace .
+1995 .
+Structural analysis of the p62 complex , an assembly of O-linked glycoproteins that localizes near the central gated channel of the nuclear pore complex .
+Mol .
+Biol .
+Cell .
+6:1591-1603 .
+Hu , T. , and L. Gerace .
+1998. cDNA cloning and analysis of the expression of nucleoporin p45 .
+Gene .
+221:245-253 .
+Hu , T. , T. Guan , and L. Gerace .
+1996 .
+Molecular and functional characterization of the p62 complex , an assembly of nuclear pore complex glycoproteins .
+J .
+Cell Biol .
+134:589-601 .
+Tovine , MK .
+, J.L .
+Watkins , and S.R .
+Wente .
+1995 .
+The GLFG repetitive region of the nucleoporin Nup116p interacts with Kap95p , an essential yeast nuclear import factor .
+J .
+Cell Biol .
+131:1699-1713 .
+Izaurralde , E. , U. Kutay , C. von Kobbe , LW .
+Mattaj , and D. Gorlich .
+1997 .
+The asymmetric distribution of the constituents of the Ran system is essential for transport into and out of the nucleus .
+EMBO ( Eur .
+Mol .
+Biol .
+Organ . )
+J .
+16 : 6535-6547 .
+Kehlenbach , RH .
+, A. Dickmanns , and L. Gerace .
+1998 .
+Nucleocytoplasmic shuttling factors including Ran and CRM1 mediate nuclear export of NFAT in vitro .
+J .
+Cell Biol .
+141:863-874 .
+Klebe , C. , FR .
+Bischoff , H. Ponstingl , and A. Wittinghofer .
+1995 .
+Interaction of the nuclear GTP-binding protein Ran with its regulatory proteins RCC1 and RanGAP1 .
+Biochemistry .
+34:639-647 .
+Kose , S. , N. Imamoto , T. Tachibana , T. Shimamoto , and Y. Yoneda .
+1997 .
+Ran-unassisted nuclear migration of a 97-kD component of nuclear pore-target-ing complex .
+J .
+Cell Biol .
+139:841-849 .
+Kutay , U. , FR .
+Bischoff , S. Kostka , R. Kraft , and D. Gorlich .
+1997 .
+Export of importin alpha from the nucleus is mediated by a specific nuclear transport factor .
+Cell .
+90:1061-1071 .
+Kutay , U. , G. Lipowsky , E. Izaurralde , F.R .
+Bischoff , P. Schwarzmaier , E. Hartmann , and D. Gorlich .
+1998 .
+Identification of a tRNA -specific nuclear export receptor .
+Mol .
+Cell .
+1:359-369 .
+Lounsbury , K.M .
+, and I.G .
+Macara .
+1997 .
+Ran-binding protein 1 ( RanBP1 ) forms a ternary complex with Ran and karyopherin beta and reduces Ran GTPase-activating protein ( RanGAP ) inhibition by karyopherin beta .
+J. Biol .
+Chem .
+272:551-555 .
+Mahajan , R. , C. Delphin , T. Guan , L. Gerace , and F. Melchior .
+1997 .
+A small ubiquitin-related polypeptide involved in targeting RanGAP1 to nuclear pore complex protein RanBP2 .
+Cell .
+88:97-107 .
+Mattaj , LW .
+, and L. Englmeier .
+1998 .
+Nucleocytoplasmic transport : the soluble phase .
+Annu .
+Rev .
+Biochem .
+67:265-306 .
+Matunis , M.J. , E. Coutavas , and G. Blobel .
+1996 .
+A novel ubiquitin-like modification modulates the partitioning of the Ran-GTPase-activating protein RanGAP1 between the cytosol and the nuclear pore complex .
+J .
+Cell Biol 135:1457-1470 .
+Melchior , F. , and L. Gerace .
+1998 .
+Two-way trafficking with Ran .
+Trends Cell Biol .
+§:175-179 .
+Melchior , F. , D.J .
+Sweet , and L. Gerace .
+1995 .
+Analysis of Ran/TC4 function in Kehlenbach et al .
+RanBP ] and RanBP2 in Nuclear Export nuclear protein import .
+Methods Enzymol .
+257:279-291 .
+Moore , M.S .
+1998 .
+Ran and nuclear transport .
+J. Biol .
+Chem .
+273:22857-22860 .
+Nakielny , S. , and G. Dreyfuss .
+1998 .
+Import and export of the nuclear protein import receptor transportin by a mechanism independent of GTP hydrolysis .
+Curr .
+Biol .
+8:89-95 .
+Neville , M. , F. Stutz , L. Lee , LL .
+Davis , and M. Rosbash .
+1997 .
+The importin-beta family member Crm1p bridges the interaction between Rev and the nuclear pore complex during nuclear export .
+Curr .
+Biol .
+7:767-775 .
+Nicolas , F. , C. Zhang , M. Hughes , M. Goldberg , S. Watton , and P. Clarke .
+1997 .
+Xenopus Ran-binding protein 1 : molecular interactions and effects on nuclear assembly in X enopus egg extracts .
+J .
+Cell Sci .
+110:3019-3030 .
+Nigg , E.A .
+1997 .
+Nucleocytoplasmic transport : signals , mechanisms and regula-tion .
+Nature .
+386:779-787 .
+Ohtsubo , M. , H. Okazaki , and T. Nishimoto .
+1989 .
+The RCC1 protein , a regulator for the onset of chromosome condensation locates in the nucleus and binds to DNA .
+J .
+Cell Biol .
+109:1389-1397 .
+Palacios , I. , K. Weis , C. Klebe , LW .
+Mattaj , and C. Dingwall .
+1996 .
+RAN/TC4 mutants identify a common requirement for snRNP and protein import into the nucleus .
+J .
+Cell Biol .
+133:485-494 .
+Panté , N. , and U. Acbi .
+1996 .
+Sequential binding of import ligands to distinct nucleopore regions during their nuclear import .
+Science .
+273:1729-1732 .
+Panté , N. , R. Bastos , I. McMorrow , B. Burke , and U. Acbi .
+1994 .
+Interactions and three-dimensional localization of a group of nuclear pore complex proteins .
+J .
+Cell Biol .
+126:603-617 .
+Pu , R.T. , and M. Dasso .
+1997 .
+The balance of RanBP1 and RCC1 is critical for nuclear assembly and nuclear transport .
+Mol .
+Biol .
+Cell .
+8:1955-1970 .
+Radu , A. , M.S .
+Moore , and G. Blobel .
+1995 .
+The peptide repeat domain of nucleoporin Nup98 functions as a docking site in transport across the nuclear pore complex .
+Cell .
+81:215-222 .
+Rexach , M. , and G. Blobel .
+1995 .
+Protein import into nuclei : association and dissociation reactions involving transport substrate , transport factors , and nucleoporins .
+Cell .
+83:683-692 .
+Ribbeck , K. , U. Kutay , E. Paraskeva , and D. Gérlich .
+1999 .
+The translocation of transportin-cargo complexes through nuclear pores is independent of both Ran and energy .
+Curr .
+Biol .
+947-50 .
+Richards , S.A. , KL .
+Carey , and L.G .
+Macara .
+1997 .
+Requirement of guanosine triphosphate-bound Ran for signal-mediated nuclear protein export .
+Science .
+276:1842-1844 .
+Rout , M.P .
+, and S.R .
+Wente .
+1994 .
+Pores for thought : nuclear pore complex proteins .
+Trends Cell Biol .
+4 : 357-365 .
+Schlenstedt , G. , D.H. Wong , D.M .
+Koepp , and P.A .
+Silver .
+1995 .
+Mutants in a yeast Ran binding protein are defective in nuclear transport .
+EMBO ( Eur .
+Mol .
+Biol .
+Organ . )
+J .
+14:5367-5378 .
+Shah , S. , S. Tugendreich , and D. Forbes .
+1998 .
+Major binding sites for the nuclear import receptor are the internal nucleoporin Nup153 and the adjacent nuclear filament protein Tpr .
+J .
+Cell Biol .
+141:31-49 .
+Snow , C.M .
+, A .
+Senior , and L. Gerace .
+1987 .
+Monoclonal antibodies identify a group of nuclear pore complex glycoproteins .
+J .
+Cell Biol .
+104:1143-1156 .
+Stade , K. , C.S .
+Ford , C. Guthrie , and K. Weis .
+1997 .
+Exportin 1 ( Crm1p ) is an essential nuclear export factor .
+Cell .
+90:1041-1050 .
+Sukegawa , J. , and G. Blobel .
+1993 .
+A nuclear pore complex protein that contains zinc finger motifs , binds DNA , and faces the nucleoplasm .
+Cell .
+72:29-38 .
+Wilken , N. , J.L .
+Senecal , U. Scheer , and M.C .
+Dabauvalle .
+1995 .
+Localization of the Ran-GTP binding protein RanBP2 at the cytoplasmic side of the nuclear pore complex .
+Eur .
+J .
+Cell Biol .
+68:211-219 .
+Wozniak , R.W .
+, M.P .
+Rout , and J.D .
+Aitchison .
+1998 .
+Karyopherins and kissing cousins .
+Trends Cell Biol .
+$ :184-188 .
+Wu , J. , M.J. Matunis , D. Kraemer , G. Blobel , and E. Coutavas .
+1995 .
+Nup358 , a cytoplasmically exposed nucleoporin with peptide repeats , Ran-GTP binding sites , zinc fingers , a cyclophilin A homologous domain , and a leucine-rich region .
+J. Biol .
+Chem .
+270:14209-14213 .
+Yokoyama , N. , N. Hayashi , T. Seki , N. Panté , T. Ohba , K. Nishii , K. Kuma , T. Hayashida , T. Miyata , U. Aebi , et al .
+1995 .
+A giant nucleopore protein that binds Ran/TC4 .
+Nature .
+376:184-188 .
+657

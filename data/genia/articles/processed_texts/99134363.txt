@@ -1,0 +1,551 @@
+THE JOURNAL oF BIOLOGICAL CHEMISTRY © 1999 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+274 , No .
+7 , Issue of February 12 , pp .
+4309-4318 , 1999 Printed in U.S.A. NF-rB Activation Is a Critical Regulator of Human Granulocyte Apoptosis in Vitro* ( Received for publication , June 19 , 1998 , and in revised form , October 12 , 1998 ) Carol Wardt , Edwin R. Chilvers $ § , Mark F. Lawson , James G. Pryde , Satoko Fujihara , Stuart N. Farrow1 , Christopher Haslett , and Adriano G. Rossi ] From the Respiratory Medicine Unit , Department of Medicine ( RIE ) , Rayne Laboratory , University of Edinburgh Medical School , Teviot Place , Edinburgh , EHS 9AG , United Kingdom and The Cell Biology Unit , Glaxo-Wellcome , Gunnelswood Road , Stevenage , Herts , SG1 2NY , United Kingdom During beneficial inflammation , potentially tissue-damaging granulocytes undergo apoptosis before being cleared by phagocytes in a non-phlogistic manner .
+Here we show that the rate of constitutive apoptosis in human neutrophils and eosinophils is greatly accelerated in both a rapid and concentration-dependent manner by the fungal metabolite gliotoxin , but not by its inactive analog methylthiogliotoxin .
+This induction of apoptosis was abolished by the caspase inhibitor zVAD-fmk , correlated with the inhibition of nuclear factor-kappa B ( NF- « B ) , and was mimicked by a cell permeable inhibitory peptide of NF-xB , SN-50 ; other NF- « B inhibitors , curcumin and pyrrolidine dithiocarbamate ; and the proteasome inhibitor , MG-132 .
+Gliotoxin also augmented dramatically the early ( 2-6 h ) pro-apoptotic effects of tumor necrosis factor-a ( LNF-a ) in neutrophils and unmasked the ability of TNF-a « to induce eosinophil apoptosis .
+In neutrophils , TNF-a caused a gliotoxin-inhibit-able activation of an inducible form of NF-KB , a response that may underlie the ability of TNF-a to delay apoptosis at later times ( 12-24 h ) and limit its early killing effect .
+Furthermore , cycloheximide displayed a similar capacity to enhance TNF-a induced neutrophil apoptosis even at time points when cycloheximide alone had no pro-apoptotic effect , suggesting that NF- « B may regulate the production of protein ( s ) which protect neutrophils from the cytotoxic effects of TNF-a .
+These data shed light on the biochemical and molecular mechanisms regulating human granulocyte apoptosis and , in particular , indicate that the transcription factor NF-xB plays a crucial role in regulating the physiological cell death pathway in granulocytes .
+Neutrophilic and eosinophilic granulocytes originate from a common myeloid precursor ; neutrophils are particularly active in the defense against invading micro-organisms whereas eosinophils serve in anti-parasitic defenses and play a role in allergic inflammation .
+The normally beneficial acute inflammatory response can become dysregulated and result in chronic inflammatory conditions where tissue damage arises in part *This work was supported in part by Medical Research Council Program Grant G9016491 and the Wellcome Trust .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 U.9.C .
+Section 1734 solely to indicate this fact .
+7 Supported by a Glaxo-Wellcome studentship .
+§ Wellcome Senior Research Fellow in Clinical Science .
+| To whom correspondence should be addressed : Respiratory Medicine Unit , Dept .
+of Medicine , Rayne Laboratory , University of Edinburgh Medical School , Teviot Place , Edinburgh , EH8 9AG , Scotland , United Kingdom .
+Tel .
+: 44-181-651-1823 ; Fax : 44-181-650-4884 ; E-mail : a.g.rossi @ ed.ac.uk .
+This paper is available on line at http : //www.jbc.org due to the inappropriate liberation of inflammatory cell-de-rived histotoxic products .
+We have previously described a granulocyte clearance mechanism likely to be important in the normal control and resolution processes of inflammation whereby granulocytes must first undergo apoptosis ( pro-grammed cell death ) before being phagocytosed and cleared by macrophages in sifu ( 1 , 2 ) .
+Apoptosis also causes functional down-regulation of granulocytes and the retention of proteolytic granule contents to further limit the potential for granu-locyte-mediated tissue damage ( 3 , 4 ) .
+While little is known about the physiological mechanisms involved in controlling granulocyte apoptosis , many in vitro studies have now shown that an array of pro-inflammatory cytokines and inflammatory mediators known to be present at inflamed sites inhibit the process of apoptosis in granulocytes ( 2-9 ) .
+This has led to the suggestion that such agents act both to attract and activate inflammatory cells and also delay their removal .
+A notable exception to this rule , however , is TNF-a , which , at early time points in neutrophil culture , causes acceleration of the constitutive rate of apoptosis ( 10 ) .
+Many inflammatory mediators regulate gene expression in target cells by influencing the activities of transcription factors such as nuclear factor- « B ( NF-kB ) .
+NF-kB is composed of homo-or heterodimers of the Rel family proteins ( p5O/NFxB1 , p5¥/ NFxB2 , p65/ReIA , and cRel ) which are sequestered in the cytoplasm by physical association with inhibitor proteins referred to as IB ( 11 ) .
+Upon activation , the IB subunit is rapidly phosphorylated leading to its proteolytic breakdown permitting NF-B to translocate to the nucleus ( 12 , 13 ) where it regulates the activity of many genes involved in the inflammatory re-sponse , including those for pro-inflammatory cytokines .
+In a number of cell systems TNF-a has been shown to induce rapid activation of NF- « B , a response known to mediate a number of TNF induced cellular responses ( reviewed in Refs .
+14-16 ) .
+However , whether the activation of NF- « B is involved in either the pro- or anti-apoptotic effects of TNF-a @ in granulocytes is currently unknown .
+Whereas the inhibition of NF- « B has been shown to induce apoptosis in murine B cells ( 17 ) , a completely opposite effect has been observed in other cell types where apoptosis is associated with activation of NF- « B ( 18 ) .
+In addition , several groups have reported that inactivation of NF- « B increases the cytotoxic effects of TNF-a ( 19-21 ) .
+In granulocytes , it remains uncertain whether NF- « B can be activated by inflammatory mediators , or is indeed present , in human neutrophils .
+For * The abbreviations used are : TNF-a , tumor necrosis factor-a ; EMSA , electrophoretic mobility shift assay ; LPS , lipopolysaccharide ; NF-KB , nuclear factor- « B ; PDTC , pyrrolidine dithiocarbamate ; zVAD-fmk , ben-zyloxycarbonyl-Val-Ala-Asp-fluoromethylketone : DMEM , Dulbecco 's modified Eagle 's medium .
+4309 610Z '01 Aepy uo 4g wo ; popeoumog 4310 example , while MacDonald et al .
+, ( 22 ) reported that lipopo-lysaccharide ( LPS ) , TNF-a , and the chemotactic peptide N-formyl-methionyl-leucyl-phenylalanine all cause a marked activation of NF- « B , Browning et al .
+, ( 23 ) found no such activity in these cells despite obvious NF-KB activation in peripheral blood mononuclear cells .
+Gliotoxin , a member of the epipolythiodioxoperazine family of compounds ( 24 ) , exhibits immunosuppressive activity both in vivo and in vitro .
+For example , gliotoxin has been shown to inhibit mitogen-induced proliferation of both T and B cells , induce macrophage and osteoclast apoptosis in vitro ( 25 , 26 ) , and cause thymocyte and spleen cell apoptosis in vivo ( 27 ) .
+However , the biochemical and molecular mechanisms underlying these effects remain uncertain .
+Gliotoxin has , however , recently been shown to be a potent and specific inhibitor of NF- « B ( 28 ) .
+We therefore used gliotoxin as a pharmacological tool to investigate the involvement of NF- « B in the regulation of granulocyte apoptosis .
+We demonstrate that gliotoxin causes a rapid and major induction of apoptosis in human peripheral blood granulocytes in vitro and up-regulates TNF-o-induced apoptosis in both neutrophils and eosinophils .
+In addition , we present evidence that these effects occur via a specific , nontoxic and caspase-controlled mechanism that is mediated by the ability of gliotoxin to inhibit an inducible form of NF- « B .
+The ability of other NF- « B inhibitors to cause a similar induction of apoptosis provides further evidence supporting the involvement of NF- « B in granulocyte apoptosis .
+Interestingly , the pro-apoptotic effect of TNF-a is enhanced by protein synthesis blockade suggesting that NF- « B activation results in the generation of an unidentified survival protein .
+These data therefore strongly suggest that NF- « B plays a key role in regulating both constitutive and TNF- @ stimulated human granulocyte apoptosis .
+EXPERIMENTAL PROCEDURES Neutrophil and Eosinophil Isolation and Culture Neutrophils and eosinophils were isolated from the peripheral blood of normal donors by dextran sedimentation followed by centrifugation through discontinuous plasma-Percoll gradients ( 2 , 29 ) .
+Only neutrophil preparations with a neutrophil purity of > 98 % were used .
+Eosinophils were separated from contaminating neutrophils using an immu-nomagnetic separation step with sheep anti-mouse IgG-Dynabeads ( Dynabeads M-450 , Dynal , Merseyside , United Kingdom ) coated with the murine anti-neutrophil antibody 3G8 ( anti-CD16 ; a gift from Dr. J. Unkeless , Mount Sinai Medical School , New York ) .
+Cells were mixed with washed 3GB-coated Dynabeads at a bead : neutrophil ratio of 3:1 on a rotary mixer at 4 °C for 20 min , and the beads removed magnetically by two 3-min stationary magnetic contacts ( Dynal Magnetic Particle Concentrator , MPC-1 ) to yield an a eosinophil population of > 98 % purity .
+After purification , cells were washed twice in phosphate-buffered saline without calcium and magnesium and once in phosphate-buffered saline before resuspending in Iscove 's DMEM ( Life Technolo-gies , Paisley , UK ) with 10 % autologous serum .
+Both cell types were cultured in flat-bottomed Falcon flexible wells ( Becton Dickinson , Ox-ford , UK ) at 37 °C in a 5 % CO , atmosphere ; neutrophils at a concentration of 5 X 10°/ml and eosinophils at 2 X 10®/ml .
+Cells were cultured in the absence or presence of test agents as described in the figure legends .
+All experiments were performed at least 3 times and each treatment done in triplicate .
+Assessment of Granulocyte Apoptosis Morphology-Cells were cyto-centrifuged , fixed in methanol , stained with Diff-Quik®* , and counted using oil immersion microscopy ( X100 objective ) to determine the proportion of cells with highly distinctive apoptotic morphology ( 5 , 7 , 10 ) .
+At least 500 cells were counted per slide with the observer blinded to the experiment conditions .
+The results were expressed as the mean % apoptosis + S.E .
+Annexin V Binding-A separate and independent assessment of apoptosis was performed by flow cytometry using fluorescein isothiocyanate-labeled recombinant human annexin V that binds to phosphatidylserine exposed on the surface of apoptotic cells .
+Stock annexin V ( Bender MedSystems , Vienna , Austria ) was diluted 1:200 with binding NF-kB and Granulocyte Apoptosis buffer and then added ( 25 pl ) to 75 pl of the recovered cell samples .
+Following a 10-min incubation at 4 °C , these samples were fixed by the addition of 100 ul of 8 % paraformaldehyde in phosphate-buffered saline before analysis using an EPICS Profile II ( Coulter Electronics , Luton , UK ) .
+DNA Fragmentation Assay-DNA was extracted as described previously ( 10 ) .
+Briefly , 2 X 10° neutrophils were taken after the indicated treatment and lysed in 500 ul of lysis buffer ( 6 M guanidine hydrochlo-ride , 50 mM Tris-HCl , pH 8.0 , and 0.1 % N-lauroyl sarcosine ) at 4 °C and the nucleic acids extracted by the addition of an equal volume of 10 mM Tris-HCl , pH 8.0-saturated phenol : chloroform mixture ( 50:50 , v/v ) .
+The resulting emulsion was centrifuged at 12,000 * g , , , for 10 min at room temperature and the aqueous phase removed and precipitated with 0.6 volumes of isopropyl alcohol at room temperature .
+The precipitated nucleic acids were then pelleted by centrifugation at 10,000 X g , , for 5 min and re-dissolved in 50 pl of TE buffer ( 10 mM Tris-Cl , 1 mm EDTA , pH 8.0 ) containing 50 ug/ml RNase A .
+The fragmented DNA was separated by agarose gel electrophoresis on a 1.4 % ( w/v ) agarose ( Flowgen , UK ) 0.5 x TBE ( 10 mM Trizma ( Tris base ) , 10 mM boric acid , and 1 mM EDTA , pH 8.3 ) gel .
+The gel was run for 2 h at 75 V and stained using ethidium bromide ( 0.5 ug/ml ) .
+The UV transilluminated image was printed by digital thermal printing using a GS7600 gel documentation system ( UVP Products , UK ) .
+Assessment of Cell Membrane Integrity Since apoptotic neutrophils and eosinophils maintain the integrity of their plasma membrane , assessment of granulocyte necrosis can be determined by the ability of cells to exclude the vital dye trypan blue and also by flow cytometry using propidium iodide staining .
+Samples ( 150 pl of cells at 2 X 10°/ml ) were centrifuged and resuspended in 150 ul of propidium iodide solution ( 83 ug/ml propidium iodide in phosphate-buffered saline containing 1.67 mg/ml RNase ) .
+The profiles of heat-treated ( necrotic cells ) from the same samples were used as controls .
+Electrophoretic Mobility Shift Assay ( EMSA ) EMSAs were carried out as described by the manufacturer ( Promega Corp , Southampton , UK ) .
+Nuclear extracts were prepared from 5 X 10° cells using a modification of the method of Dignam et al .
+( 80 ) .
+Briefly , pelleted cells were resuspended in 200 ul of hypotonic buffer ( buffer A : 10 mM Tris-HCl , pH 7.8 , 1.5 mM EDTA , 10 mM KCl , 0.5 mM dithiothreitol , 1 pg/ml aprotinin , leupeptin , and pepstatin A , 1 uM 4- ( 2-aminoeth-yl ) benzenesulfonyl fluoride , 1 mM sodium orthovanadate , 0.5 mM ben-zamidine , and 2 mM levamisole ) and placed on ice for 10 min .
+Following the addition of 0.1 volumes of 10 % Nonidet P-40 ( W/v ) the cells were vortexed briefly and centrifuged at 12,000 % g , , , for 2 min at 4 °C .
+The supernatant was discarded and the pellet washed in 100 ul of buffer A minus Nonidet P-40 and re-centrifuged .
+The pelleted nuclei were then resuspended in 50 ul of hypertonic buffer ( buffer B : 20 mM Tris-HCl , pH 7.8 , 150 mM NaCl , 50 mm KCl , 1.5 mm EDTA , 5 mM dithiothreitol , 1 ug/ml aprotinin , leupeptin , and pepstatin A , 1 uM 4- ( 2-aminoethyl ) ben-zenesulfonyl fluoride , 1 mM sodium orthovanadate , 0.5 mM benzami-dine , and 2 mM levamisole ) and stored at -80 °C until use .
+Nuclear extracts ( approximately 2 ug of protein , 7 X 10° cell equiv-alent , in 7 pl ) were incubated in binding buffer ( 4 % glycerol , 1 mM MgCl , , 0.5 mm EDTA , 0.5 mM dithiothreitol , 50 mM NaCl , 10 mM Tris-HCl , pH 7.5 , with 50 ug/ml poly ( dI-dC ) poly ( dI-dC ) ( Pharmacia Biotech , UK ) with 17 fmol of y-*°P-labeled double stranded oligonucleotide containing the decameric « B-binding site ( 3000 Ci/mmol ; Promega Corp. , Southampton , UK ) at 22 °C for 20 min prior to addition of 5 ul of loading buffer ( 0.01 % ( w/v ) bromphenol blue , 20 % ( w/v ) Ficoll 400 % , and 1 mM EDTA ) .
+Samples were loaded onto an 8 % ( w/v ) native acryl-amide gel ( Protean IIxi , Bio-Rad , Hemel Hempstead , UK ) in 0.5 X TBE buffer and run at 250 V for 2 h. The gel was then dried onto 3MM paper ( Whatman UK , Maidstone , UK ) and BioMax MS-1 x-ray film ( Kodak , Anachem , Luton , UK ) was exposed to the gel .
+Processed films were analyzed using the Grablt and GelPlate software ( UVP , Orme Technol-ogies , UK ) and the data expressed as a percent of the control value for each experiment .
+Materials Further specific materials were obtained as follows : curcumin , gliotoxin , LPS ( Escherichia coli 0127 : B8 ) , methylthiogliotoxin , and PDTC ( Sigma Co. , Poole , UK ) ; recombinant human TNF- @ ( R & D Systems , Abingdon , Oxon , UK ) ; zVAD-fmk ( Bachem ( UK ) Ltd. , Saffron Walden , UK ) .
+The proteasome inhibitor MG-182 ( N-cbz-Leu-Leu-leucinal ) , and the NF- « B inhibitory peptides SN50 and SN5OM ( Biomol , Affinity Re 610Z '01 Aepy uo 4g wo ; popeoumog NF-kB and Granulocyte Apoptosis 100 so -- 2h C -BR-6h 8 so - @ -20 h 2 « M far o .
+< G 40 Es 20 0 & = -- @ -- # e 0.001 0.01 01 1 10 Gliotoxin ( ug/ml ) [ Control 100 4 methylthiogliotoxin ( 301g/m ! )
+MGliotoxin ( 30 pg/im ! )
+% Apoptosis .. __KH 2 6 20 Time ( h ) Fig .
+1 .
+Time course and concentration-response curve for the effect of gliotoxin on human neutrophil apoptosis .
+Human neutrophils ( 5 X 10°/ml ) were cultured at 87 °C in Iscove 's DMEM containing 10 % autologous serum and treated with the indicated concentrations of gliotoxin .
+At the time periods indicated , the cells were resuspended and cytocentrifuge preparations made .
+These were fixed and stained , and apoptosis was assessed morphologically .
+A , represents the effect of gliotoxin ( 0.001-30 pg/m1 ) on neutrophil apoptosis after 2 , 6 , or 20 h of culture .
+B , represents the effect of methylthiogliotoxin ( 80 ug/ml ) or gliotoxin ( 80 pg/ml ) on neutrophil apoptosis after 2 , 6 , or 20 h culture .
+All values represent mean + S.E .
+of n = 3 experiments , each performed in triplicate .
+Where not shown , S.E .
+values are less than 2 % of the mean .
+search Products , Mamhead , UK ) .
+All other reagents were obtained from Sigma , UK , and were of the highest purity .
+Statistical Analysis The results are expressed as mean + S.E .
+of the number ( n ) of independent experiments each using cells from separate donors with each treatment performed in triplicate .
+Statistical analysis was performed by ANOVA with comparisons between groups made using the Newman-Kuels procedure .
+Differences were considered significant when p < 0.05 .
+RESULTS Effect of Gliotoxin on Neutrophil Apoptosis-As shown in Fig .
+1 gliotoxin caused a rapid and profound induction of neutrophil apoptosis in vifro which was both concentration ( e.g .
+at 6 h EC ; , = 76.1 + 22.1 ng/ml , Fig .
+1A ) , and time-dependent ( Fig .
+1 , A and B ) .
+Hence using a maximally effective gliotoxin concentration of 1 ug/ml , apoptosis was readily apparent within 2 h and reached 100 % by 6 h. At 20 h , when the rate of constitutive neutrophil apoptosis was 58.7 + 2.9 % , gliotoxin caused 100 % apoptosis at all concentrations greater than 0.1 ug/ml .
+The inactive analogue of gliotoxin , methylthiogliotoxin , did not af- 4311 fect the constitutive rate of neutrophil apoptosis at any of the time points studied ( Fig .
+1B ) .
+Neither gliotoxin nor its inactive analogue , methylthiogliotoxin , caused cell necrosis since less than 1 % of the cells were permeable to the vital dye trypan blue .
+Gliotoxin Acts Synergistically with TNF-a to Stimulate Neutrophil Apoptosis-In contrast to many other hematopoetic cells , human neutrophils appear highly resistant to the induction of apoptosis induced by certain agents , for example , incubation with Ca** ionophores ( 81 , 32 ) , cAMP elevating agents ( 83 ) , corticosteroids ( 9 ) , and LPS ( 7 ) causes inhibition of apoptosis as does hypoxia ( 34 ) .
+Furthermore , while TNF- « and Fas-L can induce neutrophil apoptosis , this effect is modest and transient , and in the case of TNF-a abolished if the cells are initially primed with platelet-activating factor or LPS ( 10 , 35 ) .
+We therefore sought to determine the effect of gliotoxin on TNF- « -induced apoptosis in neutrophils .
+These experiments were performed deliberately at a very early time point ( 2 h ) when the independent pro-apoptotic effects of even a maximally effective concentration of TNF-a « ( 10 ng/ml ) ( 10 ) and gliotoxin ( 1 ug/ml ; Fig .
+14 ) are only just apparent .
+As shown in Fig .
+2A , a major synergy was observed between these agents for the induction of apoptosis which was apparent even at gliotoxin concentrations as low as 3 ng/ml .
+Hence , a concentration of 0.1 ug/m1 gliotoxin in combination with TNF-a ( 10 ng/ml ) caused almost 100 % apoptosis at 2 h. With gliotoxin alone , only 6 % apoptosis was noted at 2 h , with just over 65 % at 6 h ( Fig .
+14 ) .
+Again , methylthiogliotoxin had no effect on constitutive apoptosis or TNF-a-induced apoptosis at 2 h ( Fig .
+2B ) .
+The level of necrosis in cells from each treatment was assessed by trypan blue exclusion ; all values were < 1 % ( data not shown ) .
+The genuine nature of both the intrinsic pro-apoptotic effect of gliotoxin and the dramatic synergy with TNF-a was assessed by comparing the quantitative morphological effects of these agents with their effects on annexin V binding and DNA frag-mentation .
+The changes from normal cell morphology to apoptotic morphology are clearly seen in Fig .
+3A ; where non-apoptotic neutrophils contain a multilobed nucleus and the apoptotic cells have a shrunken appearance with pyknotic nu-clei .
+These data can be compared with Fig .
+3B , where the annexin V `` low peak `` represents non-apoptotic cells and the annexin V `` high peak `` represents apoptotic cells since the fluorescein isothiocyanate-labeled annexin V binds in the presence of Ca** to phosphatidylserine exposed on the outer membrane of apoptotic cells .
+Although control cells at 2 h exhibit low rates of apoptosis , the small increase in annexin V positive cells observed with TNF-a and gliotoxin alone is again dramatically augmented when the cells are cultured in the presence of both reagents together .
+Analysis by DNA fragmentation also demonstrates that cells cultured alone or in combination with the above reagents exhibit the classical `` ladder `` of DNA fragmentation associated with apoptosis ( Fig .
+3C ) .
+Combined Glictoxin and TNF-a Treatment Does Not Cause Necrosis-Although our initial studies using trypan blue as a marker of plasma membrane integrity indicated that gliotoxin , both in the presence and absence of TNF- « , induced a purely apoptotic form of cell death , we felt it was important to validate this further by assessing necrosis in an independent manner using propidium iodide staining detected by flow cytometry .
+Fig .
+3D shows the profile of neutrophils 4 h following treatment with gliotoxin ( 0.1 ug/ml ) and TNF-a ( 10 ng/ml ) where , despite apoptotic rates of 100 % , almost all cells showed low fluorescence indicating that the cell membrane had remained intact .
+As a positive control , cells cultured initially with TNF-a and gliotoxin were then heat-treated ( 60 °C , 5 min ) to ensure 100 % necrosis .
+This resulted in a uniform and major increase in 610Z '01 Aepy uo 4g wo ; popeoumog 4312 A 100 7 80 4 .A 8 60 { ty a .
+0 a .
+< < 40 { Fic .
+2 .
+The effect of gliotoxin , meth- 3° ylthiogliotoxin , and TNF on human neutrophil apoptosis .
+Human neutro- 20 < phils ( 5 X 10 % /ml ) were cultured at 87 °C in Iscove 's DMEM containing 10 % autologous serum and treated with the indicated concentrations of gliotoxin , plus or 0 minus TNF- @ .
+After 2 h of culture , the 0 0.001 cells were resuspended and cytocentrifuge preparations made .
+These were fixed and stained , and apoptosis was assessed morphologically .
+A , represents the effect B of gliotoxin ( 0.001-80 ug/ml ) on TNF- @ ( 10 ng/ml ) -induced neutrophil apoptosis .
+60 B , represents the effect of methylthiogliotoxin ( 80 ug/ml ) or gliotoxin ( 30 ug/ml ) , plus or minus TNF-a ( 10 ng/ml ) .
+All values represent mean + S.E .
+of n = 3 experiments , each performed in triplicate .
+Where not shown , S.E .
+values are less 40 < than 2 % of the mean .
+% Apoptosis 20 4 propidium iodide staining ( Fig .
+3D ) .
+These data coincide completely with the results obtained with trypan blue staining and confirm that these cells had undergone apoptotic cell death and were not necrotic .
+Gliotoxin Inhibits the Survival Effect of LPS-To investigate whether gliotoxin could modulate the effects of LPS on the rate of neutrophil apoptosis we performed a series of experiments where neutrophils were cultured for 2 , 3 , 4 , and 20 h in the presence of LPS , gliotoxin , and a combination of LPS plus gliotoxin and apoptosis assessed morphologically ( Fig .
+4 ) .
+As reported previously ( 7 ) LPS caused an inhibition of neutrophil apoptosis at 20 h when compared with control cells .
+Interestingly , the suppressive effect of LPS was prevented by the strong pro-apoptotic effect of gliotoxin .
+In addition , unlike co-culture of gliotoxin plus TNF-a , no synergistic induction of apoptosis was observed when LPS was cultured in the presence of gliotoxin ( Fig .
+4 ) .
+Gliotoxin Unmasks the Ability of TNF-a to Induce Eosinophil Apoptosis-To explore whether the pro-apoptotic effect of gliotoxin was restricted to neutrophils , a similar set of experiments were performed using human peripheral blood eosinophils isolated from mildly atopic individuals .
+While these cells display a similar capacity to undergo constitutive apoptosis when aged in vitro , this process is much slower than that observed for the neutrophil and is differentially regulated being , for example , stimulated rather than inhibited by corticosteroids ( 9 ) .
+We therefore investigated the effect of gliotoxin on eosinophil apo- NF-kB and Granulocyte Apoptosis O - TNF H + TNF 0.003 0.01 0.03 0.1 0.3 1 3 10 30 Gliotoxin ( ug/ml ) { A Control MethylIthiogliotoxin ( 30 ug/m ! )
+MGliotoxin ( 30 ug/ml ) a - TNF + TNF ptosis at 4 h in the presence and absence of TNF-a « .
+The results , shown in Fig .
+5 , A and B , demonstrated that gliotoxin caused a similar induction of apoptosis in eosinophils ( EC ; , = 0.37 + 0.22 ug/ml ) and caused a synergistic increase in the rate of apoptosis when the cells were co-cultured with TNF-a .
+This latter observation was all the more striking since in eosinophils , TNF-a treatment alone had no effect on the rate of apoptosis ( Fig .
+5B and data not shown ) .
+Hence , almost 100 % apoptosis was observed using a gliotoxin concentration of 0.1 ug/ml plus TNF-a « at a time point of 4 h. In comparison , eosinophils cultured in the absence of gliotoxin would normally show only 40 % apoptosis at a 40-h time point ( 2 , 36 ) .
+Necrosis in these cells was < 2 % and the inactive analogue of gliotoxin had no effect on either the constitutive rate of apoptosis alone or in conjunction with TNF-a ( data not shown ) .
+As with the neutrophils , eosinophils demonstrated classic apoptotic morphology when treated with these agents .
+Gliotoxin Causes Inhibition of an Inducible Isoform of NF- « B-Recent studies have indicated that NF- « kB may play an important role in regulating the rate of apoptosis in certain transformed cells ( 17 , 18 ) .
+Hence , because gliotoxin has been reported to act as a specific inhibitor of NF- « B ( 28 ) experiments were designed to identify and characterize the expression of this transcription factor in human neutrophils and determine if gliotoxin could inhibit such activity .
+Preliminary time course data established 90 min as the optimal time to examine basal , gliotoxin , and TNF-a regulated NF- « B activity in these cells 610Z '01 Aepy uo 4g wo ; popeoumog Fic .
+3 .
+The effect of gliotoxin and TNF-a on neutrophil morphology , phosphatidylserine expression , and cell membrane integrity .
+A , cytocentrifuge preparations of human neutrophils incubated for 2 h in Iscove 's DMEM at 37°C containing 10 % autologous serum alone ( control ) , plus TNF-a , plus gliotoxin , or with both TNF-a and gliotoxin at the concentrations shown .
+Neutrophils treated with both reagents all clearly show apoptotic morphology .
+B , after 2 h in culture at 87°C , cells treated with Iscove 's DMEM , TNF-a « ( 10 ng/ml ) , gliotoxin ( 0.1 ug/m1 ) , or with both TNF-a plus gliotoxin were resuspended and incubated with fluorescein isothiocyanate-labeled recombinant human annexin V to determine phosphatidylserine expression .
+The cells were then fixed and analyzed using an EPICS Profile II .
+Mean fluorescence values are shown for a minimum of 5,000 cells for each condition .
+C , DNA fragmentation in human neutrophils treated with TNF-a « ( 10 ng/ml ) , gliotoxin ( 0.1 ug/ml ) , or both reagents together for 2 h. DNA was prepared as detailed under `` Experimental Procedures `` ; lane I , DNA marker ( 1-kilobase ladder ) ; lane 2 , freshly isolated neutrophils ; lane 3 , control ; lane 4 , TNF-a ; lane 5 , gliotoxin , 2 h ; lane 6 , co-culture with gliotoxin and TNF-a ; lane 7 , DNA marker ( 1-kilobase ladder ) .
+D , to assess cell membrane integrity , cells treated with both TNF-a ( 10 ng/m ! )
+and gliotoxin ( 0.1 ug/ml ) for 4 h , which induced 100 % apoptosis even by 2 h , were resuspended and incubated with propidium iodide , fixed , and analyzed using an EPICS Profile II ( solid line ) .
+An aliquot of cells from this preparation was heated as indicated under `` Experimental Proce-dures `` to produce 100 % necrosis ( doffed line ) .
+Mean fluorescence values are shown for a minimum of 5,000 cells for each condition .
+NF-kB and Granulocyte Apoptosis 4313 Control 2 h Apoptosis ( 1.3 % ) TNF-a ( 10 ng/ml ) 2 h Apoptosis ( 7.3 % ) BA a *C `` w 4 a `` « f* 4 I .
+’ ’ * we .
+ﬂ & `` } - ’ ..~ , ~ .u a* Gliotoxin ( 0.1 ug/ml ) 2 h Apoptosis ( 1.3 % ) TNF-a ( 10 ng/ml ) + Gliotoxin ( 0.1 ug/ml ) Apoptosis ( 100 % ) ~* *+ E C 3 \~ @ € 6 oss vo * | no w ltt u .
+42 : | , Tula ° { | ) .¢ .
+* % !
+* SC Cag > Count Count Control TNF-o 10 100 1000 I 10 100 1000 Gliotoxin TNF-a plus gliotoxin 10 100 1000 1 10 100 1000 LFL1 LFL ] ( data not shown ) .
+Of note , this time point also coincided with the onset of the biologically observable effect of gliotoxin .
+As shown in Fig .
+6 , A-C , NF- « B EMSAs performed on neutrophil nuclear extracts indicated the presence of 3 discrete bands in these gels .
+To ascertain which of these bands were specifically NF- « B , an excess of unlabeled probe was included in the label ing reaction to displace specific binding ; as shown in Fig .
+6C , two NF- « B bands were identified and designated A and B .
+In both TNF-a ( 10 ng/ml , 0-90 min ) and LPS ( 1 ug/ml , 0-120 min ) treated cells , no change in the intensity of band B was observed ( Fig .
+5 , A and B , and data not shown ) .
+This , together with its strong expression in freshly prepared untreated neu- 610Z '01 Aepy uo 4g wo ; popeoumog 4314 3 5 O 1 10 100 1000 LFL1 F1G.3-continued 100 - -e- Control -®- Glictoxin -M- LPS 80 -- & - Gliotoxin + LPS E4 A 8 g. 0 c. a a€ 1 24 Time ( h ) Fig .
+4 .
+The effect of gliotoxin alone and in the presence of LPS on human neutrophil apoptosis .
+Human neutrophils ( 5 X 10°/ml ) were cultured in Iscove 's DMEM at 37°C containing 10 % autologous serum alone and treated with gliotoxin ( 0.1 ug/ml ) , with or without LPS ( 1 ug/ml ) .
+At the time periods indicated , the cells were resuspended and cytocentrifuge preparation made .
+These were fixed and stained , and apoptosis was assessed morphologically .
+All values represent mean * S.E .
+of n = 3-5 experiments , each performed in triplicate .
+Where not shown , S.E .
+values are less than 2 % of the mean .
+trophils suggests that this band represents a form of constitu-tively active NF- « B .
+However , band A was markedly up-regu-lated by TNF-a ( Fig .
+6 , A and C ) , and as shown in Fig .
+6A , gliotoxin caused both a concentration-dependent inhibition of this NF-kB activity and abolished the TNF-a @ stimulated increase in this band .
+As shown in Fig .
+6D , densiometric analysis of these data confirmed that co-treatment of neutrophils with TNF-a and gliotoxin at a maximal effective functional concentration of 0.1 ug/ml ( Fig .
+24 ) inhibited this band more than treatment with gliotoxin alone .
+The results in Fig .
+6 , A and D , confirm that the basal level of NF- « B activity in control samples at 90 min was inhibited by gliotoxin treatment ; a finding that was observed at all other time points tested .
+Further evidence that strongly supports the suggestion that NF- « B inhibition is linked to the induction of neutrophil apoptosis is provided by the fact that the cell permeable NF- « B inhibitory peptide , SN50 ( 37 ) , also increased the rate of constitutive neutrophil apoptosis despite the fact that less than 5 % of the peptide reportedly enters the cell ( 37 ) .
+Hence at 6 h , the SN50 peptide increased neutrophil apoptosis from 4.7 + 1.2 to 15.0 + 3.2 % ( n = 8 ; p < 0.05 ) , whereas the less active peptide SN5OM only increased apoptosis from 4.7 + 1.2 to 5.6 + 0.8 % ( n = 8 ) .
+Similar effects on neutrophil apoptosis were seen at 20 h and eosinophil apoptosis at 20 and 40 h ( Table I and data not shown ) .
+Other agents known to inhibit NF- « B similarly NF-kB and Granulocyte Apoptosis A 100 80 % Apoptosis 40 0 0.001 0.003 0.01 0.03 0.1 0.3 1 3 Gliotoxin ( ug/ml ) 100 a- TNF m+TNF 80 60 40 % Apoptosis 0 mass ___ 0 0.01 Fic .
+5 .
+The effect of gliotoxin alone and in the presence of TNF-a on human eosinophil apoptosis .
+Human eosinophils ( 2 X 10 % /ml ) were cultured in Iscove 's DMEM at 37 °C containing 10 % autologous serum alone and treated with the indicated concentrations of gliotoxin with or without TNF-a @ .
+At the time periods indicated , the cells were resuspended and cytocentrifuge preparation made .
+These were fixed and stained , and apoptosis was assessed morphologically .
+A , represents the effects of gliotoxin ( 0-3 ug/ml ) on eosinophil apoptosis after 4 h of culture .
+B , represents the effects gliotoxin ( 0-0.3 ug/ml ) with or without TNF-a ( 10 ng/m ! )
+on eosinophil apoptosis after a 4-h culture .
+All values represent mean + S.E .
+of n = 3 experiments , each performed in triplicate .
+Where not shown , S.E .
+values are less than 2 % of the mean .
+0.03 0.1 0.3 Gliotoxin ( ug/ml ) induced neutrophil apoptosis .
+The proteasome inhibitor , MG-132 ( 38 ) and the NF-kB inhibitor curcumin ( 39 ) caused a time-dependent induction of neutrophil apoptosis ( Fig .
+7A ) .
+PDTC , that acts as both a radical scavenger and inhibitor of NF- « B activation ( 40 ) , also caused a significant induction of apoptosis when cultured with neutrophils for 20 h ( Fig .
+7B ) .
+Furthermore , treating neutrophils with LPS ( 100 ng/ml , 20 min ) which we have previously reported to induce a profound inhibition of neutrophil apoptosis ( 7 ) was found to cause the appearance of this inducible isoform of NF- « B ( Fig .
+6B ) ; and this induction could be inhibited by gliotoxin ( 0.1 ug/ml ) .
+Induction of Apoptosis by Gliotoxin Is Dependent on Activation of the Caspase-cascade Pathway-We have recently demonstrated that the early pro-apoptotic effects of TNF- « in human neutrophils requires activation of both TNF-55 and TNF-75 receptor subtypes and thereby differs significantly from the priming effect of TNF-a which is signaled via the TNF-p55 receptor alone ( 10 ) .
+To determine whether the pro-apoptotic effects of gliotoxin and the marked synergism displayed by TNF-a and gliotoxin were mediated via activation of the caspase pathway , we co-incubated neutrophils with TNF-a , gliotoxin , and zVAD-fmk .
+At 2 h , zVAD-fmk completely inhibited the increase in apoptosis induced by gliotoxin , TNF- « and by both factors together ( Fig .
+8A ) .
+This demonstrates that apoptosis induced by both factors alone , or together , is dependent on caspase activation .
+Gliotoxin May Enhance TNF-a « -induced Apoptosis by Inhibiting Production of a Survival Factor-Taken together , the 610Z '01 Aepy uo 4g wo ; popeoumog NF-kB and Granulocyte Apoptosis .
+« -A 500 ~ 400 300 4 200 7 Relative OD value 100 7 0 ~ TNF-a .
+Gliotoxin ( b ) Control TNF-a Gliotoxin ( a ) _ Gliotoxin ( b ) Fic .
+6 .
+Effect of gliotoxin and TNF- « on NF- « B mobilization .
+A , EMSA of nuclear extracts from neutrophils treated with control buffer : lane 1 , TNF-a « ( 10 ng/ml ) ; lane 2 , gliotoxin ( 1 ug/ml ) ; lane 3 , gliotoxin ( 0.1 pg/ml ) ; lane 4 , and TNF-a ( 10 ng/ml ) plus gliotoxin ( 0.1 ug/ml ) ; lane 5 , for 90 min at 37°C .
+B , EMSA showing the up-regulation of the inducible isoform ( band A ) by LPS ( a known inhibitor of neutrophil apoptosis ) after 20 min culture : Zane 1 , control ; lane 2 , LPS ( 100 ng/ml ) ; and lane 3 , LPS ( 100 ng/m ! )
+plus gliotoxin ( 0.1 ug/ml ) .
+C , EMSA showing displacement of specific NF- « B bands by excess cold oligonucleotide probe ; lane 1 , control ; lane 2 , TNF- « @ ( 10 ng/ml ) ; lane 3 , TNF- @ ( 10 ng/ml ) plus 50-fold excess cold oligonucleotide ; Zane 4 , TNF - @ ( 10 ng/ml ) plus 100-fold excess cold oligonucleotide .
+Only the bands marked A and B are specific .
+D , densiometry scanning of band A from the EMSA shown in A .
+This shows the reduction of an inducible isoform of NF-xB by gliotoxin ( a = 1 ug/ml ; b = 0.1 ug/ml ) , and further inhibition by co-treatment with TNF-a plus gliotoxin ( b ) .
+above results suggest that activation of an inducible form of NF-kB may inhibit or restrain the pro-apoptotic effects of TNF- « which are mediated by the parallel activation of the 4315 TaBLE I The effect of NF-xB inhibitory peptides on human neutrophil apoptosis Human neutrophils ( 5 X 10°/ml ) were resuspended in Iscove 's DMEM without autologous serum and treated with control buffer , SN50 ( 100 ug/ml ) , and SN5OM ( 100 ug/ml ) .
+After 15 min at 87 °C , 10 % autologous serum ( final concentration ) was added , and after 6 and 20 h of culture , the cells were resuspended and cytocentrifuge preparations made .
+These were fixed and stained , and apoptosis was assessed morphologically .
+All values are from n = three separate experiments , each performed in triplicate .
+Treatment Time Mean S.E .
+% apoptosis Control ( buffer ) 6h 4.7 1.2 SN50 ( active ) 6h 15.0° 3.3 SN5OM ( less-active ) 6h 6.8 5.6 Control ( buffer ) 20h 58.9 7.7 SN50 ( active ) 20h 81.4° 2.7 SN5OM ( less-active ) 20h 70.3 8.2 * Represents significance differences ( p < 0.05 ) from the appropriate control .
+A 100 - @ - Control - & - Curcumin in 80 - # - MG-132 P34 2 60 c. 2. g 40 s 20 o ¥ u 0 24 100 7 75 % apoptosis 50 Control MG-132 Curcumin PDTC Fic .
+7 .
+Effect of other NF-kB inhibitors on neutrophil apoptosis .
+Human neutrophils ( 5 X 10°/ml ) were cultured at 37 °C in Iscove 's DMEM containing 10 % autologous serum and treated with the indicated reagent .
+A , neutrophils were treated with MG 182 ( 20 uM ) and curcumin ( 20 pM ) at the time periods indicated ; B , neutrophils were treated with MG-132 ( 100 pM ) , curcumin ( 20 uM ) , and PDTC ( 300 um ) for 20 h. After incubation , the cells were resuspended and cytocentrifuge preparations made .
+These were fixed and stained , and apoptosis was assessed morphologically .
+All values represent mean + S.E .
+of n = three to six experiments , each performed in triplicate .
+Where not shown , S.E .
+values are less than 2 % of the mean .
+caspase pathway .
+The possibility that this most likely reflects the production of a protein or proteins which act to suppress the activation of the caspase pathway and thus protect granulocytes from the cytotoxic effects of this cytokine was investigated by incubating neutrophils with TNF-a and cyclohexi- 610Z '01 Aepy uo 4g wo ; popeoumog 4816 A 100 so P3 t g so g. 0 o .
+< 40 & & 20 W o CG Ra a & & « ° & __ T * 7916 “ v9 ?
+88 s `` G sy R o 659° é u ’ é xév .
+xév .
+0 x & & k°+ & x40 ; 3° gC c & `` 100 80 .
+w 60 0 B a a 40 < I s 20 0 x .
+éxbe & & $ < 5§b 1 & 5 “ 36s .
+16g .
+& & 3 `` AV ?
+AV ?
+AV ?
+AV ?
+sC o `` 4 , * « 4 , 4 & F & # 4 } x & cs 8 g & S & & 66° & Fic .
+8 .
+Effect of the caspase inhibitor , zVAD-fmk , and the protein synthesis inhibitor , cycloheximide , on gliotoxin , TNF-a , or gliotoxin plus TNF-a-induced human neutrophil apoptosis .
+Human neutrophils ( 5 X 10°/ml ) were cultured in DMEM containing 10 % autologous serum and treated with the indicated reagents .
+After 2 h of culture , the cells were resuspended and cytocentrifuge preparation made .
+These were fixed and stained , and apoptosis was assessed morphologically .
+A , represents the effects of zVAD-fmk ( 100 pM ) on gliotoxin ( 0.1 ug/m1l ) - , TNF-a ( 10 ng/m1 ) - , or gliotoxin plus TNF-a-induced neutrophil apoptosis .
+B , represents the effects of cycloheximide ( 5 pM ) on gliotoxin ( 0.1 pg/m1 ) - , TNF-a ( 10 ng/ml ) , or gliotoxin plus TNF-a « -induced neutrophil apoptosis .
+All values represent mean * S.E .
+of n = three experiments , each performed in triplicate .
+Where not shown , S.E .
+values are less than 2 % of the mean .
+mide , a protein synthesis inhibitor .
+As illustrated in Fig .
+8B , cycloheximide used specifically at a concentration ( 5 uM ) that alone had almost no effect on neutrophil apoptosis at 2 h , caused a synergistic increase in the level of apoptosis when neutrophils were co-cultured with TNF- @ .
+This supports the view that TNF-a treatment indeed results in the generation of a survival protein that protects these cells from the TNF re-ceptor-caspase-dependent induction of apoptosis by TNF-a .
+DISCUSSION We have demonstrated that gliotoxin , but not its inactive derivative methylthiogliotoxin , ( a ) induces a direct time- and concentration-dependent increase in the rate of constitutive apoptosis in both neutrophils and eosinophils , ( b ) enhances the pro-apoptotic effect of TNF-a « in neutrophils , and ( c ) reveals the NF-kB and Granulocyte Apoptosis cytotoxic effects of TNF- « in eosinophils .
+In these studies extreme care was taken to ensure that gliotoxin , at all time points and concentrations studied , was non-toxic and caused genuine apoptosis that was indistinguishable from later constitutive apoptosis .
+The similar effects of gliotoxin in both neutrophils and eosinophils and the same concentration of gliotoxin ( 0.1 ug/ml ) required for maximal enhancement of the pro-apoptotic effects of TNF-a , suggests that an identical underlying mechanism is regulating the induction of cell death in both these cell types .
+However , although inhibition of basal NF- « B activity may be involved in neutrophil apoptosis when induced by gliotoxin alone ( Fig .
+1 ) since gliotoxin appears to block basal levels of NF- « B activity ( Fig .
+6 , A and D ) , only the expression of the inducible NF- « B isoform is down-regulated before the onset of cell death driven by the combined effects of TNF-a and gliotoxin ( Fig .
+6 ) .
+Even in control neutrophils incubated for 20 h , where the constitutive rate of apoptosis is approximately 70 % , the density of the constitutive NF- « B band was unaffected ( data not shown ) .
+These differences in the inducible and constitutive forms of NF- « B most likely reflects differential regulation of activation , for example , by the involvement of different isoforms of the inhibitory IxB subunit , or that the constitu-tively active NF- « B is formed from a different set of dimers from the classical RelA/p50 heterodimer .
+It has recently been demonstrated that neutrophils contain c-Rel , p50 , and p105 ( the p50 precursor protein ) as well as Rel-A ( 22 , 41 ) .
+The inducible band we observed has also been reported to be up-regulated in neutrophils by phagocytosis of IgG opsonized yeast particles ( 42 ) , and has been shown to consist mainly of Rel-A/ p50 heterodimers and possibly a small amount of c-Rel ( 42 ) .
+In that study , phagocytosis of these particles did not affect the activity of the constitutive complex .
+In addition , it has recently been reported that NF- « B becomes activated , via a mechanisms not involving oxidant generation , when neutrophils phagocytose bacteria ( 43 ) .
+Because NF- « B is also activated by certain pro-apoptotic stimuli such as TNF-a « , this transcription factor has been considered as a possible regulator of cell death .
+Hence , in some T cell clones , activation of NF- « B appears to correlate with the onset of apoptosis ( 18 ) .
+However , NF-kB activation has clearly been shown to be anti-apoptotic in HT 1080 fibrosarcoma cells ( 21 ) and TNF-a induced NF-KB activation prevents cell death in Hela and MCF7 cells ( 44 ) .
+Here we show for the first time that in a non-transformed cell namely the neutrophil , inhibition of an inducible form of is related to the induction of apoptosis .
+Several mechanisms , aside from NF- « B inhibition , have been proposed for the pro-apoptotic actions of gliotoxin in other cells .
+Sutton et al .
+( 45 ) have shown that although this fungal metabolite did not affect intracellular calcium levels , there was a correlation between increases in cAMP levels and apoptosis in gliotoxin-treated splenocytes .
+However , we and others have previously demonstrated that agents that elevate intracellular cAMP inhibit apoptosis in both neutrophils and eosinophils ( 33 , 46 ) .
+It has also been suggested that protein kinase A-dependent phosphorylation of histone H3 correlates with gliotoxin-in-duced apoptosis in thymocytes ( 47 ) , but again in neutrophils , activation of protein kinase A inhibits apoptosis ( 33 ) .
+Although gliotoxin has been reported to inhibit protein synthesis ( 48 ) it is highly unlikely that this mechanism is directly responsible for its pro-apoptotic effects : first , gliotoxin induces apoptosis in thymocytes whereas inhibition of protein synthesis by cycloheximide inhibits thymocyte apoptosis .
+Second , since NF- « B activation is involved in the control of multiple genes , many of which encode for inflammatory mediator synthesis , inactivation of NF- « B would therefore be expected to inhibit protein 610Z '01 Aepy uo 4g wo ; popeoumog NF-kB and Granulocyte Apoptosis synthesis .
+Third , while protein synthesis inhibitors do up-reg-ulate the rate of constitutive cell death in granulocytes , the kinetics of this response are very different to those observed with gliotoxin .
+For example , Whyte et al .
+( 49 ) have reported that cycloheximide ( 50 um ) and actinomycin D ( 1 uM ) induce apoptosis in approximately 30 % of neutrophils by 6 h. In our experiments , gliotoxin ( 0.1 ug/ml ) , induces a rate of almost twice this , whereas 1.0 ug/ml gliotoxin induced 100 % neutrophil apoptosis by this time point ( see Fig .
+14 ) .
+Likewise , our own results with cycloheximide indicate that protein synthesis inhibition alone does not affect the rate of neutrophil apoptosis at 2 h whereas gliotoxin alone produced almost 15 % apoptosis over this period ( Figs .
+1A and 8B ) .
+While gliotoxin inhibits NF- « B , cycloheximide and actinomycin D have been shown in several systems to activate this transcription factor ( 50 , 51 ) .
+Although both cycloheximide and gliotoxin give a similar synergistic pro-apoptotic response with TNF-a , this suggests that different mechanisms must be involved .
+However , while gliotoxin may prevent synthesis of a protective protein inducible by NF- « B activation , cycloheximide would also preclude synthesis of such a protein so that in both cases the cells would be sensitive to the pro-apoptotic effects of TNF-a @ .
+It is of interest to note that granulocytes do have the capacity to synthesize proteins , albeit in a limited capacity ( 49 ) .
+We believe that this synthetic capacity will be directed toward resolution of the inflammatory response with the generation of protein ( s ) that affect the apoptotic program of inflammatory cells .
+Our results indicate that the inducible isoform of NF- « B disappears from the gliotoxin-treated granulocyte nucleus just before the onset of stimulated apoptosis .
+The possibility that these events are causally related is supported by the following observations : ( i ) the synthetic cell-permeable peptide SN5O ( 37 ) , a known inhibitor of NF-kB , also induces apoptosis in neutrophils and eosinophils ; ( ii ) other agents that inhibit NF-kB activation , namely PDTC and curcumin as well as the proteasome inhibitor MG-132 also cause an induction of granulocyte apoptosis ; ( iii ) the kinetics for gliotoxin-mediated inhibition of NF- « B match those for the onset of induction of apoptosis ; ( iv ) LPS which stimulates NF- « kB activity prolongs neutrophil and eosinophil survival ; and ( v ) that gliotoxin sensitizes both neutrophils and eosinophils to the pro-apoptotic effects of TNF-a .
+Indeed , our studies provide the first plausible explanation for the modest and temporally constrained apoptotic response of neutrophils to TNF-a and the observation that pretreatment with LPS , PAF or granulocyte/macrophage-colony stimulating factor , abolishes the cytotoxic effect of this cytokine ( 10 ) .
+Indeed , this latter point is of particular relevance when investigating the pro-apoptotic effect of TNF-a in neutrophils since pre-treatment of these cells causes a rapid decrease of both TNF-a receptors subtypes from the surface membrane ( 10 ) .
+This phenomenon , together with the fact that the effects of SN50 are , at best , modest due to limited access of the peptide to its intracellular target ( 37 ) and the requirement for pretreatment with the peptide , precluded accurate assessment of SN5O on TNF-a induced apoptosis in neutrophils .
+When neutrophils were co-cultured with LPS and gliotoxin , gliotoxin failed to render LPS pro-apoptotic despite the fact that LPS induced survival was inhibited by gliotoxin ( Fig .
+4 ) .
+These results suggest that LPS does not trigger a death pathway in neutrophils but stimulates a NF- « B-mediated survival pathway i.e .
+when NF- « B activation is blocked , LPS is no longer capable of delaying apoptosis .
+The precise intracellular mechanisms by which the NF- « B inhibitors used in this study induce apoptosis are unknown and is the subject of further investigation .
+For example , it would be of interest to perform an in-depth analyses of the effect of gliotoxin and the other 4317 agents on the degradation of the inhibitory subunit IB , especially since Pahl et al .
+( 28 ) reported that gliotoxin appeared to prevent I « B degradation rather than mediate its effect at the level of DNA binding .
+In a number of immune cells NF- « B activation by agents such as TNF-a has been shown to play a central role in regulating the genes for inflammatory cytokines such as granulo-cyte/macrophage-colony stimulating factor and TNF- « @ itself ( 14 ) .
+The importance of this response in vivo is that many of these factors inhibit granulocyte apoptosis and may therefore delay inflammatory resolution by enhancing the longevity of these cells .
+Indeed , a positive-feedback loop may exist since many of these inflammatory mediators which protect against apoptosis in neutrophils and eosinophils also activate NF- « B ( 7 ) .
+Conversely , we have recently shown that NO , a known inhibitor of NF- « B ( 52 , 53 ) , is a potent inducer of apoptosis in neutrophils ( 54 ) .
+Our current results suggest that the activation of an inducible form of NF- « B represents a powerful survival mechanism in granulocytes , and that when this pathway is inhibited , in both neutrophils and eosinophils , these cells undergo a greatly augmented rate of apoptotic cell death .
+It is possible that NF- « B performs a similar function in other cell types that undergo apoptosis in response to gliotoxin .
+Enhanced cytotoxic responses to TNF-a have also been demonstrated in cells where NF- « B is genetically deficient or inac-tivated ( 19-21 ) and hepatocytes from Rel-A null mice are known to undergo apoptosis causing death in utero ( 55 ) .
+Embryonic fibroblasts and macrophages from Rel-A-deficient mice also showed dramatic loss of viability when treated with TNF-a leading to the suggestion that Rel-A regulates a protective mechanism against the cytotoxic effects of TNF-a .
+It would be of interest to investigate the effects of TNF-a and gliotoxin on granulocytes isolated from mice deficient in Rel A ; it would be reasonable to predict that TNF-a will induce a rapid cell death and gliotoxin and other NF- « B inhibitors would not have a dramatic effect on the rate of granulocyte apoptosis .
+Although our experiments indicate that gliotoxin does not inhibit the constitutive form of NF- « B , at least at early time points , it does inhibit the activation of an inducible isoform of NF- « B , which most likely consists of heterodimers containing the Rel-A/p65 protein and therefore could perform a similar anti-apoptotic function in neutrophils and eosinophils .
+While in our hands TNF-a does not produce significant cytotoxic effects in eosinophils , co-treatment with gliotoxin caused these cells to become highly responsive to this cytokine producing greatly increased levels of apoptosis .
+This suggests that both of these inflammatory cell types could be stimulated to undergo apoptosis and hence be cleared rapidly by phagocytes at sites of inflammation if activation of the inducible NF-kB isoform were inhibited .
+The mechanism whereby inactivation of NF-kB induces granulocyte apoptosis and increases the cytotoxic response to TNF-a is currently unclear .
+Since gliotoxin and TNF- « driven apoptosis are both inhibited by the caspase-inhibitor zVAD-fmk , this , together with the synergy for apoptosis observed with these agents , implies that NF- « B or an NF- « B regulated step influences granulocyte apoptosis at an intermediate step between the TNF-a receptor and caspase activation .
+The possibility that NF- « B controls the transcriptional activity of a gene ( s ) which induces the synthesis of survival proteins is supported by the observation that cycloheximide also increases apoptosis in granulocytes ( 49 ) .
+This suggests a strong link between inducible NF- « B activation and the control of TNF-a « -induced apoptosis , possibly via the production of a protein inhibitor of this pathway .
+Indeed , as we have shown , protein synthesis inhibition enhances the pro-apoptotic effect of TNF-a as early as 2 h of culture .
+Indeed , one possible candidate for this 610Z '01 Aepy uo 4g wo ; popeoumog 4318 protein has already been suggested : A20 , a protein induced by TNF -a « activation of NF-kB ( 56 , 57 ) , has been shown to protect against TNF induced cell death by acting at the level of the TNF receptor-associated proteins TRAF-1 and TRAF2 ( 58 ) .
+Although A20 has yet to be demonstrated in neutrophils or eosinophils , this would represent an attractive candidate protein to fulfill such a role .
+The ability of gliotoxin to enhance the cytotoxic effects of TNF-a and itself produce a rapid onset of apoptosis in inflammatory cells such as neutrophils and eosinophils may suggest NF- « B inhibition as a logical therapeutic target in the treatment of inflammatory conditions .
+In a rat model of lung inflammation , suppression of NF- « B activity has already been shown to block the development of neutrophil lung inflammation by inhibiting the synthesis of chemotaxins ( 59 ) .
+Our results suggest that inhibition may also be of benefit in enhancing the resolution of inflammation by allowing a more rapid clearance of granulocytes .
+We therefore propose that granulocyte apoptosis is regulated by an inducible form of the transcription factor NF- « B and suggest that inhibition of this transcription factor may be exploited for therapeutic benefit in inflammatory conditions where granulocytes play a prominent role .
+REFERENCES 1 .
+Savill , J. S. , Wyllie , A. H. , Henson , J. E. , Walport , M. J. , Henson , P. M. , and Haslett , C. ( 1989 ) J. Clin .
+Invest .
+88 , 865-875 2 .
+Stern , M. , Meagher , L. , Savill , J. , and Haslett , C. ( 1992 ) J. Immunol .
+148 , 3548-3549 3 .
+Whyte , M. K. B. , Meagher , L. C. , MacDermot , J. , and Haslett , C. ( 1993 ) J. Immunol .
+150 , 5124-5134 4 .
+Stern , M. , Savill , J. S. , and Haslett , C. ( 1996 ) Am .
+J. Pathol .
+149 , 911-921 5 .
+Her , E. , Frazer , J. , Austen , F. , and Owen , W. F. , Jr. ( 1991 ) J. Clin .
+Invest .
+88 , 1982-1987 6 .
+Colotta , F. , Re , F. , Polentarutti , N. , Sozzani , S. , and Mantovani , A .
+( 1992 ) Blood 80 , 2012-2020 .
+Lee , A. , Whyte , M. K. B. , and Haslett , C. ( 1998 ) J. Leukocyte Biol .
+54 , 283-288 .
+Takanaski , S. , Nonaka , R , Xing , X. , O'Byrne , P. , Dolovich , J. , and Jordanna , M. ( 1994 ) J. Exp .
+Med .
+180 , 711-715 9 .
+Meagher , L. C. , Cousin , J. M. , Seckl , J. R. , and Haslett , C. ( 1996 ) J. Immunol .
+156 , 4422-4428 10 .
+Murray , J. , Barbara , J .
+A. J. , Dunkley , S. A. , Lopez , A. F. , Van Ostade , X. , Condliffe , A. M. , Dransfield , L. , Haslett , C. , and Chilvers , E. R. ( 1997 ) Blood 90 , 2772-2783 11 .
+Henkel , T. , Machleidt , T. , Alkalay , I. , Kronke , M. , Ben-Neriah , Y. , and Baeuerle , P. A .
+( 1993 ) Nature 365 , 182-185 12 .
+Traenckner , E. B. , Wilk , S. , and Baeuerle , P. A .
+( 1994 ) EMBO J .
+13 , 5488-5441 13 .
+Finco , T. S. , Beg , A .
+A. , and Baldwin , A. S. , Jr. ( 1994 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+91 , 11884-11888 14 .
+Bacuerle , P. A. , and Baichwal , V. R. ( 1994 ) Adv .
+Immunol .
+62 , 1192-1198 15 .
+May , M. J. , and Ghosh , S. ( 1998 ) Immunol .
+Today 19 , 80-88 16 .
+Baldwin , A. , Jr. ( 1996 ) Annu .
+Rev .
+Immunol .
+14 , 649-681 17 .
+Wu , M. , Lee , H. , Bellas , R. E. , Schauer , S. L. , Arsura , M. , Katz , D. , FitzGerald , M. J. , Rothstein , T. L. , Sherr , D. H. , and Sonenshein , G. E. ( 1996 ) EMBO J .
+15 , 4682-4690 18 .
+Grimm , S. , Bauer , M. K. A. , Bacuerle , P. A. , and Schulze-Osthoff , K. ( 1996 ) J .
+Cell Biol .
+184 , 18-28 19 .
+Beg , A .
+A. , and Baltimore , D. ( 1996 ) Science 274 , 782-784 20 .
+Van Antwerp , D. J. , Martin , S. J. , Kafri , T. , Green , D. R. , and Verma , I. M. ( 1996 ) Science 274 , 787-789 go i 25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32. .
+Rossi , A. G. , Cousin J. M. , Dransfield I. , Lawson M. F. , Chilvers E. R. , and 34 .
+35 .
+36 .
+37 .
+38. .
+Singh , S. , and Aggarwal , B .
+B .
+( 1995 ) J. Biol Chem .
+270 , 24995-25000 40 .
+41 .
+42 .
+43 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+56 .
+57 .
+58 .
+59 .
+NF-kB and Granulocyte Apoptosis .
+Wang , C. , Mayo , M. W. , and Baldwin , A. S. ( 1996 ) Science 274 , 784-787 .
+McDonald , P. P. , Bald , A. , and Cassatella , A .
+A .
+( 1997 ) Blood 89 , 3421-8433 .
+Browning , D. D. , Pan , Z. K. , Prossnitz , E. R. , and Ye , R. D. ( 1997 ) J. Biol .
+Chem .
+272 , 7995-8001 .
+Braithwaite , A. W. , Eichner , R. D. , Waring , P. , and Miillbacher , A .
+( 1987 ) Mol .
+Immunol .
+24 , 47-55 Ozaki , K. , Takeda , H. , Iwahashi , H. , Kitano , S. , and Hanazawa , S. ( 1997 ) FEBS Lett .
+410 , 297-300 Waring , P. , Eichner , R. D. , Miillbacher , A. , and Sjaarda , A .
+( 1988 ) J. Biol .
+Chem .
+263 , 18493-18499 Sutton , P. , Newcombe , N. R. , Waring , P. , and Miillbacher , A .
+( 1994 ) Infect .
+Immunol .
+62 , 1192-1198 Pahl , H. L. , KrauB , B. , Schulze-Osthoff , K. , Decker , T. , Traenckner , E. B. , Vogt , M. , Myers , C. , Parks , T. , Warring , P. , Miihlbacher , A. , Czernilofsky , A-P. , and Bacuerle , P. A .
+( 1996 ) J. Exp .
+Med .
+183 , 1829-1840 Haslett , C. , Guthrie , L. A. , Kopaniak , M. M. , Johnston , R. B. , Jr. , and Henson , P. M. ( 1985 ) Am .
+J. Pathol .
+119 , 101-110 Dignam , J. D. , Lebovitz , R. M. , and Roeder , R. G. ( 1983 ) Nucleic Acids Res .
+11 , 1475-1489 Whyte , M. K. , Hardwick , S. J. , Meagher , L. C. , Savill , J. S. , and Haslett , C. ( 19938 ) J. Clin .
+Invest .
+92 , 446-455 Cousin , J. M. , Haslett C. , and Rossi A. G. ( 1997 ) Biochem .
+Soc .
+Trans .
+25 , 2438 Haslett C. ( 1995 ) Biochem .
+Biophys .
+Res .
+Commun .
+271 , 892-899 Hannah , S. , Mecklenburgh , K. , Rahman , I. , Bellingan , G. J. , Greening , A. , Haslett , C. , and Chilvers , E. R. ( 1995 ) FEBS Lett .
+872 , 283-237 Hachiya , O. , Takeda , Y. , Miyata , H. , Watanabe , H. , Yamashita , T. , and Sendo , F. ( 1995 ) Microbiol .
+Immunol .
+89 , 715-723 Ward , C. , Murray , J. , Bruce , L. , Farrow , S. , Chilvers , E. R. , Hannah , S. , Haslett , C. , and Rossi , A. G. ( 1997 ) Biochem .
+Soc .
+Trans .
+25 , 2458 Lin , Y. , Yao , S. , Veach , R. A. , Torgerson , T. R. , and Hawiger , J .
+( 1995 ) J. Biol .
+Chem .
+270 , 14255-14258 Adams , J. , and Stein , R. ( 1996 ) Annu .
+Rep. Med .
+Chem .
+81 , 279-287 Schreck , R. , Meier , B. , Mannel , D. N. , Droge , W. , and Baeuerle , P. A .
+( 1992 ) J. Exp .
+Med .
+175 , 1181-1194 Druker , B. J. , Neumann , M. , Okuda , K. , Franza , B. R , and Griffin , J. D. ( 1994 ) J. Biol .
+Chem .
+269 , 5887-5890 MacDonald , P. P. , and Cassatella , M. A .
+( 1997 ) FEBS Lett .
+412 , 583-586 Vollebregt , M. , Hampton , M. B. , and Winterbourn , C. C. ( 1998 ) FEBS Lett .
+432 , 40-44 .
+Lui , Z. , Hsu , H. , Goeddel , D. V. , and Karin , M. ( 1996 ) Cell 87 , 565-576 45 .
+Sutton , P. , Beaver J. , and Waring , P. ( 1995 ) Biochem .
+Pharmacol .
+50 , 2009-2014 Hallsworth , M. P. , Giembycz , M. A. , Barnes , P. J. , and Lee , T. H. ( 1996 ) Br .
+J. Pharmacol .
+117 , 79-86 Waring , P. , Khan , T. , and Sjaarda , A .
+( 1997 ) J. Biol .
+Chem .
+272 , 17929-17986 Waring , P. ( 1990 ) J. Biol .
+Chem .
+265 , 14476-14480 Whyte , M. K. B. , Savill , J. , Meagher , L. C. , Lee , A. , and Haslett , C. ( 1997 ) J. Leukocyte Biol .
+62 , 195-202 Newton , R. , Adcock , I. M. , and Barnes , P. J .
+( 1996 ) Biochem .
+Biophy .
+Res .
+Commun .
+218 , 518-528 Faggioli , L. , Costanzo , C. , Merola , M. , Furia , A. , and Palmieri , M. ( 1997 ) Biochem .
+Biophy .
+Res .
+Commun .
+288 , 507-518 Matthews , J. R. , Botting , C. H. , Panico , M. , Morris , H. R. , and Hay , R. T. ( 1997 ) Nucleic Acids Res .
+24 , 2286-2242 .
+Peng , H. , Libby , P. , and Liao , J. K. ( 1995 ) J. Biol .
+Chem .
+270 , 14214-14219 .
+Wong , T. , Rossi , A. G. , and Chilvers , E. R. ( 1997 ) J. Clin .
+Sci .
+92 , 7 .
+Beg , A .
+A. , Sha , W. C. , Bronson , R. T. , Ghosh , S. , and Baltimore , D. ( 1995 ) Nature 876 , 167-170 Krikos , A. , Lahberty , C. D. , and Dixit , V. M. ( 1992 ) J. Biol .
+Chem .
+267 , 17971-17976 Opipari , A. W. , Hu .
+, H. M. , Yabkowitz , R. , and Dixit , V. M. ( 1992 ) J. Biol .
+Chem .
+267 , 12424-12427 Song , H. Y. , Rothe , M. , and Goeddel , D. V. ( 1996 ) Biochemistry 98 , 6721-6725 Blackwell , T. S. , Blackwell , T. , Holden , E. P. , Christman , B. W. , and Christman , J. W. ( 1996 ) J. Immunol .
+157 , 1630-1678 610Z '01 Aepy uo 4g wo ; popeoumog NF-KB Activation Is a Critical Regulator of Human Granulocyte Apoptosis in Vitro Carol Ward , Edwin R. Chilvers , Mark F. Lawson , James G. Pryde , Satoko Fujihara , Stuart N. Farrow , Christopher Haslett and Adriano G. Rossi J. Biol .
+Chem .
+1999 , 274:4309-4318. doi : 10.1074/jb0.274.7.4309 Access the most updated version of this article at http : /www.jbe.org/content/274/7/4309 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 59 references , 28 of which can be accessed free at http : //www full.html # ref-list-1 610Z '01 Aepy uo 4g wo ; popeoumog

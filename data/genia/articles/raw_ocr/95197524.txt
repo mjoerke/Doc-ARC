@@ -1,0 +1,562 @@
+THE JouRNaL or BIOLOGICAL CHEMISTRY © 1995 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+270 , No .
+10 , Issue of March 10 , pp .
+5289-5298 , 1995 Printed in U.S.A. E2F-1 and a Cyclin-like DNA Repair Enzyme , Uracil-DNA Glycosylase , Provide Evidence for an Autoregulatory Mechanism for Transcription* ( Received for publication , October 19 , 1994 , and in revised form , December 16 , 1994 ) Martin J. Walsh } , Gongliang Shue , Kathy Spidoni $ § , and Ajoy Kapoor !
+From the Department of Pediatrics , Mount Sinai School of Medicine , New York , New York 10029 The cell cycle-dependent transcription factor , E2F-1 , regulates the cyclin-like species of the DNA repair enzyme uracil-DNA glycosylase ( UDG ) gene in human osteosarcoma ( Saos-2 ) cells .
+We demonstrate , through the deletion of the human UDG promoter sequences , that expression of E2F-1 activates the UDG promoter through several E2F sites .
+The major putative downstream site for E2F , located in the first exon , serves as a target for E2F-1/DP1 complex binding in vitro .
+We also provide evidence for the functional relationship between the cyclin-like UDG gene product and E2F .
+High levels of UDG expression in a transient transfection assay result in the down-regulation of transcriptional activity through elements specific for E2F-mediated transcription .
+Overexpression of UDG in Saos 2 cells was observed to delay growth late in G , phase and transiently arrest these cells from progressing into the S phase .
+This hypothetical model integrates one mechanism of DNA repair with the cell cycle control of gene transcription , likely through EZF .
+This implicates E2F as a multifunctional target for proteins and enzymes , possibly , responsive to DNA damage through the negative effect of UDG on E2F-mediated transcriptional activity .
+The gene for a novel uracil-DNA glycosylase ( UDG ) has recently been cloned and characterized by DNA sequence analysis ( 1 ) .
+The enzyme activity of uracil-DNA glycosylase includes the hydrolysis of the N-glycosyl bond from a uracil residue incorporated into the DNA strand to produce a free base ( 2 ) .
+The subsequent apyrimdinic site is cleaved by specific endo-nucleotidy ] activity with the resulting gap filled by DNA polymerase B ( for review see Ref .
+3 ) .
+The regulation and struc- * This work was supported in part by a Public Health Service Award from the National Institutes of Health .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement '' in accordance with 18 U.S.C .
+Section 1734 solely to indicate this fact .
++ To whom correspondence and reprint requests should be addressed : Dept .
+of Pediatrics , Mount Sinai School of Medicine , One Gustave L. Levy Place , New York , NY 10029 .
+Tel : 212-241-9714 ; Email : walsh @ vax .
+mssm .
+edu .
+§ Supported by National Institutes of Health Training Fellowship AMO7420 .
+4 Supported by a medical student research training fellowship from the Society for Pediatric Research .
+* The abbreviations used are : UDG , uracil-DNA glycosylase ; TLCK , Na-p-togyl-L-lysine chloromethyl ketone ; TPCK , N-tosyl-L-phenylala-nine chloromethyl ketone ; PAGE , polyacrylamide gel electrophoresis ; GST , bacterial glutathione S-transferase leader peptide ; MBP , malE maltose-binding protein ; EMSA , electrophoretic mobility shift assay/ band shift mobility assay ; DTT , dithiothreitol ; PCR , polymerase chain reaction ; CAT , chloramphenicol acetyltransferase ; CMV , cytomegalo-virus .
+tural relationship of the nuclear UDG gene product to the cyclin family of cellular factors share many common characteristics ( 4 ) .
+The cell cyele-dependent expression of UDG parallels that of several cyclin and associated edk gene products ( 4 ) .
+The entire structural gene for UDG has also been characterized , with the limits of promoter activity defined by deletion analysis of the 5 end of the structural gene ( 4 ) .
+Implication that cell cycle regulation of UDG gene transcription is mediated by E2F is supported by the presence of several putative E2F cognate sequences dispersed throughout the promoter region ( 4 ) .
+The recent characterization of events that occur during the cell cycle has implicated E2F as a central mediator of transcriptional control .
+E2F was initially identified as a cellular factor mediating gene transcription of the adenovirus E2 early gene ( 5 ) .
+Since then , many studies have provided evidence for the direct role of E2F as a cellular factor required for the activation of genes necessary for the progression into the S phase of the cell cycle ( 6 , 7 ) .
+The activity of E2F is mediated by the direct interaction with the wild-type retinoblastoma susceptibility gene product ( Rb ) ( 8 ) and the Rb-related gene product , p107 ( 9 ) .
+The transcriptional activity of E2F is regulated through the interactions with the Rb gene product and p107 in a cell cycle-restricted manner ( 10 , 11 ) .
+These interactions complex E2F with other cell cycle-mediated factors , cyclins A and E as well as cyclin-dependent kinase , cdk 2 ( 12-16 ) .
+It is considered that in the absence of normal Rb function unsequestered E2F activity goes unchecked and , therefore , allows unrestricted activation of many genes required for cell proliferation .
+This includes many putative protooncogene products and cytokines responsible for cell transformation ( i.e .
+c-myc , c-myb , transforming growth factor B1 ( 17 ) .
+Similarly , a mechanism for the deregulated activity of E2F apparently contributes to the oncogenic potential associated with many DNA tumor viruses ( 18-20 ) .
+Gene products of many DNA tumor viruses can actively compete for the same binding domain of the Rb gene product as E2F .
+Therefore , this inhibition of E2F binding to Rb results in free E2F and subsequent activation of many genes responsible for cell growth ( 5 ) .
+Recently , specific E2F activity has been cloned by the ability of the recombinant expression of cDNAs to interact with the Rb protein ( 21 ) and identifying one novel cDNA encoding E2F-1 ( 22-24 ) .
+The identification of the E2F-1 gene has made available an approach to study the activation of suspect target genes by E2F-1 .
+Despite the identification of one E2F-specific gene product , recent evidence to suggest that E2F exists as a multiple heteromeric complex has been established by the cloning and characterization of additional members of the E2F family of cellular transcription factors ( 25 , 26 ) including the heterodimeric partner of E2F-1 , DPI ( 27 , 28 ) .
+Here we take advantage of the cloned E2F-1 protein to examine the role E2F has in transactivating the transcription of a novel cell cycle-regulated DNA repair enzyme .
+We demon 5289 5290 strate that putative E2F sites , localized within the UDG promoter , contribute to the transactivation of UDG gene transcription and that the major site for E2F transactivation is localized in an EZF consensus sequence within the first exon .
+In addition , we have identified this sequence as a specific target for E2F-1/DP1 binding in vitro .
+Because of the closest relative homology of this nuclear species of UDG to the cyclin A protein , we tested the possibility that this UDG gene product modulates E2F-1 activity through an E2F-responsive target .
+Although the precise cellular connection of cyclin A-edk 2 and E2F is still not clearly established , the interaction between cyclin A-edk2 and E2F has been recently shown to have a negative role on E2F-mediated function ( 29 ) .
+This is likely an important component for the progression of mitotic events .
+We have demonstrated here the ability of this nuclear `` cyclin-like '' species of UDG to repress the activity of E2F-mediated transcription in a cotransfection assay .
+The likelihood of cellular factors involved in DNA repair , possibly analogous to the role cyclins may have in mediating the transcriptional activity of EZF , may represent alternative pathways regulating E2F function , thereby competing for the control of cell cycle events necessary for the restoration of damaged DNA .
+A major focus in several recent genetic and biochemical studies is the intersecting relationship between DNA repair and transcriptional control .
+Many proposed mechanisms have suggested that common factors associated with both DNA repair and gene transcription are functionally related ( 30 ) .
+In addition , the role that the tumor suppressor gene product p53 has in both transcriptional control and response to damaged DNA ( 31 ) is unique in our understanding of the complex pathways that integrate gene transcription with specific factors necessary for DNA repair .
+We suggest one mechanism that implicates E2F-mediated transcription in modulating a cellular factor involved in DNA repair .
+MATERIALS AND METHODS Plasmid Constructions-The 5'-flanking region of the human UDG gene from -1389 to +81 , relative to the site of transcriptional initia-tion , was obtained through cloning of the DNA fragment from normal human liver genomic DNA using the polymerase chain reaction ( PCR ) with Vent , ® DNA polymerase ( New England Biolabs , Inc. ) .
+Oligonucleotide primer sequences were obtained from previously published sequences ( 4 ) , which included restriction adaptor sequences to facilitate subcloning of the DNA fragments .
+The DNA fragments containing the 1.4 kilobases of the 5'-flanking region of the UDG gene and series of deletions were generated and cloned directly upstream of the chloramphenicol acetyltransferase ( CAT ) gene in the Xbal site of plasmid vector pCAT ( Promega , Inc. ) .
+Progressive deletions from the 5 ' end of the UDG gene promoter were engineered by the same PCR-based method using specific oligonucleotide sequences corresponding to selected end points of the UDG gene promoter region .
+The 5 ' deletion mutants designated UDG construct-A , UDG construct-B , UDG construct-C , UDG construct-D/wt , and UDG construct-F were designed to remove specific E2F and Sp1 cognate elements from the UDG promoter by this method .
+Deletion mutant UDG construct-E was engineered by digesting plasmid minigene UDG construct-D/wt with Xbal , treated with Escherichia coli Exonuclease III ( New England Biolabs , Inc. ) , then blunt ended with mung bean nuclease and E. coli DNA polymerase I ( large fragment ) enzyme all according to the manufacturer 's instructions ( New England Biolabs , Inc. ) .
+The DNA was recircularized with T4 DNA ligase enzyme to produce circular plasmid DNA .
+Plasmid expression vectors for E2F-1 and UDG were generated by subcloning cDNA coding region fragments into the expression vector peDNA3 ( Invitrogen® ) .
+The B2F-1 and UDG plasmid cDNAs were generously provided by William Kaelin ( Dana-Farber Cancer Center , Boston , MA ) and Sal Caradonna ( University of Medicine and Dentistry of New Jersey , Stratford , NJ ) , respectively .
+The plasmids provided appropriate DNA fragments to subclone both the E2F-1 and UDG cDNAs into peDNA3 .
+Expression vector pCMV/EZF-1 was generated by digesting the E2F cDNA with BamHI and EcoRI subcloned unidirec-tionally into the BamH/EcoRI-treated peDNA3 plasmid .
+The expression vector pCMV/UDGa was similarly subcloned by insertion of the The UDG Gene Product Inhibits E2F-1-mediated Transcription UDG cDNA EcoRI fragment into the EcoRI site of pcDNA3 .
+The orientation and complete promoter sequence of the reporter minigene constructs were confirmed by nucleotide sequence analysis using Sequenase® II kit ( United States Biochemicals Corp. , Cleveland , OH ) according to the manufacturer 's instructions .
+The cloning of E2F-1 and UDG cDNA inserts into expression vector pcDNA3 were also verified the complete cDNA sequence by the dideoxynucleotide chain termination method of DNA sequencing also using Sequenase® II kit .
+Site-directed Mutagenesis-Mutation of the wild type promoter sequence to generate plasmid minigene UDG construct-D/mut was directed by a PCR-based method ( 82 ) .
+The oligonucleotide primers to generate point mutations , indicated by underlined nucleotide bases , in the E2F recognition sequence were synthesized and the sequences are shown as follows : A , 5-CCTCTAGACTCAGGGGTGTAAATAACTT-GCCCGAGTTCGGTAGGAGTCCAGACTCAACCGGGAGACGCTCG- B , 5-GCCCGGGCCCGCGACAGCCCAGCGT-3 ' .
+The template for the PCR was plasmid UDG-construct-D/wt .
+The 239-base pair PCR product was digested with Apal and Xbal and subcloned back into the backbone fragment to replace the wild type Apal/Xbal fragment of UDG construct-D/wt with the mutation to generate minigene UDG construct-D/mut .
+All the mutations were confirmed by chain termination method of DNA sequencing using Sequenase® II according to the manufacturer 's instructions .
+Cell Culture and Transfection Assays-Human Saos 2 ( osteosar-coma ) cells were maintained in McCoy 's 5a medium with 10 % fetal calf serum , 2 mM glutamine and gentamicin ( 100 ug/ml ) .
+Transfection assays were performed by calcium phosphate precipitation as described in detail ( 33 ) .
+All plasmid DNAs were purified by two repetitive CsCl gradient centrifugations to obtain supercoiled DNA .
+Each transfection was carried out in parallel using at least two separate plasmid DNA preparations .
+To maintain equivalent total amounts of DNA in each transfection assay some plates were supplemented with vector plasmid pGEM-7Zf+ ( Promega , Inc. ) to bring the total amount to 20 ug plasmid DNA .
+The DNA-CaPO , precipitates ( 1 ml ) were added to each plate containing 2.5 ml of medium in 10-cm '' plates .
+Seven h after transfections were performed , cells were washed throughly with phosphate-buffered saline and they were refed with normal growth medium at 24 and 48 h following transfections .
+The uptake of DNA was internally standardized by adding 1 ug of control vector pSV-hGH , encoding secreted human growth hormone directed by the SV40 early promoter promoter , for each transfection ( 34 ) .
+Cells were washed in phosphate-buffered saline and harvested 72 h after transfections and lysed with a transfection lysis reagent ( Promega , Inc. ) according to the manufacturer 's recommendations .
+Protein concentrations were quantitated by the dye-binding procedure ( Bio-Rad ) .
+CAT assays were performed essentially as described ( 33 ) and CAT activities were determined by acetylation of radiolabeled chloramphenicol .
+Acetylated chloramphenicol products were separated by thin layer chromatography and quantitated by a PhosphorImager ( Molecular Dynamics , Inc. ) .
+Semi-confluent Saos 2 cells were cotransfected with either 15 pg of expression plasmid pCMV/UDGa or pCMV/0 along with 5 ug of the B-cell surface antigen CD19 cDNA ( 85 ) expression plasmid , ped 19-hcr , which were all directed by the CMV early gene promoter .
+The cotransfected cells were cultured for 48 h in 5 % CO ; at 37°C .
+Immunocyto-chemical rosettes were formed of cells transiently expressing the B cell-specific CD19 cell surface antigen using an anti-CD19 antibody conjugated to a magnetic bead according to the manufacturer 's instructions ( Dynal , Inc. , Lake Success , NY ) .
+Cotransfected Saos2 cells were enriched for the CD19* phenotype using the magnetically susceptable beads and detached from the beads according to manufacturer 's direc-tions .
+Cotransfected Saos 2 cells , positively selected for CD19 , were then analyzed by flow cytometric procedures .
+Generation of UDG-specific Antibody-A nucleotide sequence of the protein coding fragment ( Thr® ' to e* '' ) within the UDG gene product was generated by the PCR method using Vent , ® DNA polymerase ( New England Biolabs , Inc. ) according to the manufacturer 's recommendations from a previously cloned cDNA template provided ( S. Caradonna , UMDNJ ) .
+This was accomplished using synthetic oligonucleotide primers B'-AAGGGAATTCACGGCGGAATCCCGCTGTAAGCTG-3 ' and 5-AAG-GGAATTCCTACGCCAGGAGGGAAGGGGAGTA-3 ' containing EcoRI adaptor ends .
+The PCR product generated was digested with EcoRI and gel purified using a GeneClean '' * '' II kit ( Biol01 , Inc. ) according to the manufacturer 's instructions .
+The purified DNA fragment was cloned into the bacterial , pMAL-p2 , expression vector ( New England Biolabs , Inc. ) at the EcoRI site using T4 DNA ligase .
+Ligated DNA products were used to transform commercially available competent bacteria , DHSa ( Life Tech-nologies , Inc. ) .
+Several colonies were screened for the correctly inserted PCR fragment by inducible protein expression of the correct MeZE/UDG The UDG Gene Product Inhibits E2F-1-mediated Transcription fusion gene product .
+Plasmids containing the protein coding inserts were sequenced using Sequenase II® DNA sequencing kit to verify correct nucleotide sequence and orientation .
+Expression and affinity purification of the recombinant MBP fusion protein , extending through the cyclin-like domain ( Thr® ' to e** ) of the UDG protein , were both essentially performed as described by the manufacturer of MaZE protein fusion kit purchased ( New England Biolabs , Inc. ) .
+One-hundred ug of affinity-purified fusion protein was used to immunize mice over a period of 12 weeks for the production of monoclonal antibodies specific for the detection of human UDG using procedures previously described ( Harlow and Lane , 1989 ) .
+Hybridomas were made , and individual clones were screened for the production of anti-UDG antibodies using the uracil-DNA glycosylase antigen derived from an in vitro translation product using the TNT®-coupled reticulocyte lysate kit purchased ( Promega , Inc. ) .
+Specific mRNA transcripts were generated from a cDNA template of UDG previously obtained .
+Monoclonal antibody mAb-u ( 91-243 ) was obtained from a hybridoma clone and IgG purified by affinity chromatography .
+Immunoblotting-Using approximately 2 x 10° Saos 2 ( CD19* phe-notype ) cells , cotransfected with either pCMV/UDGa or control pCMV/0 , cellular lysates were prepared by sonication at 4 °C in the presence of NETN ( 0.5 % Nonidet P-40 , 1 mm EDTA , 50 mm Tris-HCl , pH 8.0 , 120 mm NaCl ) containing 0.5 mM DTT , 10 mM NaF , 2 mm of sodium orthovanadate , 1 mM phenylmethylsulfonyl fluoride , and 10 pg/ml each of aprotinin , leupeptin , TLCK , and TPCK prepared from fresh stocks .
+Lysates were cleared of debris by microcentrifugation ( 14,000 x g ) at 4 °C for 15 min , and proteins were quantitated by the Bradford assay using a commercial kit purchased ( Bio-Rad ) .
+Twenty-five ug of protein sample were prepared in SDS-sample buffer and fractionated by 8.5 % PAGE under denaturing conditions .
+The polyacrylamide gel was electrophoresed for approximately 4 h under constant voltage ( 150 V ) in running buffer containing 25 mM Tris , pH 8.3 , 192 mm glycine , and 0.1 % SDS .
+Proteins resolved by PAGE were electrophoreti-cally transferred to polyvinlyidene difluoride membranes ( Westran '' '' , Schleicher & Schuell , Inc. ) in running buffer under constant current ( 200 mA ) for 30 min at 4°C .
+Blocking of nonspecific binding by the primary antibody was performed with 5 % non-fat dry milk in 1 x phosphate-buffered saline .
+Immunoblotting with the monoclonal antibody mAb-u ( 91-243 ) diluted 1:1000 was accomplished using the ECL chemiluminescence reagent system ( Amersham Corp. ) according to manufacturer 's instructions .
+Immunoblot was exposed to film XARS for 10 s and developed .
+Flow Cytofluorimetry-Saos 2 cultures transfected with either pCMV/UDGa or pCMV/O identical to those cultures described above were used in flow cytofluorimetry .
+Flow cytofluorimetry was performed essentially as described ( 36 ) using CD19* population of Saos 2 cells cotransfected with either pCMV/UDGa or pCMV/0 .
+Cell cultures were taken at 36 , 48 , 72 , and 96 h , respectively , after each cotransfection and were treated with 5-bromo-2'-deoxyuridine ( BrdUrd ) for 60 min and nuclei were then isolated .
+Isolated nuclei were incubated with fluoros-cein-conjugated IgG antibody , specific for BrdU incorporation ( Becton-Dickinson , Inc. ) , for 1 h at 4°C .
+Propidium iodide was subsequently added to the nuclei and incubated .
+Both BrdUrd incorporation and propidium iodide fluorescence were analyzed to measure , respectively , DNA synthesis and DNA content/nucleus in a FACScan '' ( Becton-Dickinson , Inc. ) using the Lysis II '' ( Hewlett-Packard , Inc. ) software program to analyze data .
+[ °H ] Thymidine incorporation studies were performed on parallel Saos 2 cell cultures as described previously ( 37 ) .
+Bacterial Expression and Purification of E2F-1 and DP1-Glutathi-one S-transferase ( GST ) bacterial expression plasmid pGEX2TK-E2F-1 containing the E2F-1 cDNA to produce a bacterially expressed recombinant GST/E2F-1 fusion protein was a kindly provided by William Kaelin ( Dana Farber Cancer Institute , Boston , MA ) .
+Bacterial strain BL-21 was transformed with the pGEX2TK-E2F-1 , cultured in Luria broth ( L-broth ) , and induced with 0.4 mM ranoside .
+Lysates of the transformed bacteria were generated by sonication in a suspension buffer containing 25 mm HEPES , pH 7.9 , 60 mm KCl , 5 mm MgCl , , 1 mm DTT , 0.5 mM spermidine , 0.1 mM phenylmethylsulfonyl fluoride , and a mixture of protease inhibitors ( 0.1 ug each of antipain , leupeptin , and pepstatin , 2 uM each TLCK and TPCK ) , added immediately prior to preparation of lysates .
+Glutathione affinity chromatography of fusion protein GST/E2F-1 was performed as described previously ( 23 ) .
+The DP1 cDNA was generously provided by Rowena Girling and Nicholas La Thangue ( Medical Research Council , London , United Kingdom ) .
+The DP1 cDNA fragment , necessary to generate a DP1 fusion with the maltose-binding protein MBP ( malFE ) gene , was synthesized by PCR with appropriate adaptor sequences and subcloned into pMAL-c2 vector in frame with the malE gene .
+The expression and affinity purification of the DP1 fusion gene product was performed 5291 according to directions recommended by the manufacturer of pMAL-c2 .
+Affinity-purified gene products of E2F-1 and DP1 were then dialyzed in 1000 volumes of DNA binding buffer ( 25 mm HEPES , pH 7.9 , 40 mx KCl , 1 % ( v/v ) glycerol , 5 mm MgCl , , 1 mm DTT ) and analyzed by SDS-PAGE prior to electrophoretic mobility shift assay ( EMSA ) .
+EMSA-All oligonucleotide DNA fragments were synthesized with a DNA synthesizer ( Applied Biosystems , Inc. ) .
+Complimentary double-stranded oligonucleotides corresponding to the wild type UDG promoter sequence expressed as UDG construct-D/wt and mutated sequences characterized by UDG construct-D/mut were synthesized and designated as oligonucleotide UDG/wt1l ( 5'-GGTAGAGAGAAAATTCGC-GAAAGCTTTCCCGGTTGAGTC-3 ' ) and UDG/M3 ( 5-GGTAGAGAG-AAAATTCGCGAGAGC GCTCCCGGTTGAGTC-3 ' ) , respectively , were used in the EMSA experiments .
+Oligonucleotides were 5'-end-labeled with T , polynucleotide kinase and [ y-*°P ] JATP and then annealed .
+EMSA reactions were performed as described previously by this laboratory ( 37 ) .
+Binding reactions were carried out with nuclear extract from Saos 2 cells or with 25 ng each of purified E2F-1 and DP1 in a 17-ul preincubation mixture with DNA binding buffer for 30 min at 4 °C .
+Then the *°P-labeled oligonucleotides were added and incubated for an additional 30 min in the presence of 2 ug of poly ( dI-dC ) in DNA binding buffer .
+Gel electrophoresis was performed on a 4 % polyacrylamide ( 80:1 acrylamide/bis-acrylamide mixture ) gel in a Tris acetate buffer as described previously ( 37 ) .
+For competition analysis with the mutant UDG promoter E2F consensus oligonucleotide and adenovirus E2F targets , a 100-fold excess of unlabeled competitor ( relative to the °°P-labeled oligonucleotide ) was added prior to the binding reaction with the wild type *°P-labeled oligonucleotide .
+RESULTS E2F-1 Targets the Transactivation of the Human Nuclear UDG Gene Promoter-Independent cloning of the human UDG promoter from previously published sequences ( 4 ) have allowed us to reexamine the sequence of the UDG promoter , which reveals several potential targets for EZF activity .
+In our attempt to determine if this UDG gene is regulated by E2F-1 , cotransfection experiments were conducted using the UDG promoter as a target for E2F-1 .
+Transient expression of the recombinant E2F-1 protein , directed by the cytomegalovirus early gene promoter , allowed us to test the expression of E2F-1 on the transcriptional response given by 1390 base pairs of the 5'-flanking region of the human UDG gene promoter ( Fig .
+1 ) .
+As shown in Fig .
+1 , transient expression of E2F-1 can stimulate the expression of CAT activity when driven by the UDG promoter .
+Levels of CAT activity were evaluated by phosphoimag-ing and quantitated the stimulation of approximately 7.8-fold when compared to the CMV control vector pCMV/0 , lacking any cDNA insert ( Fig .
+1 ) .
+To identify the boundaries of E2F-1 activity within the promoter , several deletions of the UDG gene promoter were constructed as reporter minigenes to account for putative E2F and Sp1 sites .
+5 deletions , designated as UDG constructs-B , -C , -D/wt , -D/mut , and -F , omitted sites specific for the presumed recognition by E2F and Sp1 transcription factors ( Fig .
+1 ) .
+These deletions extend from the 5 side of transcriptional initiation .
+UDG construct-E was a deletion mutant derived from UDG construct D/wt , extending from the 3 ' side of transcription ( Fig .
+1 ) .
+Minigene constructs containing deletions generated from the 5 ' end of the UDG promoter were cotransfected with the E2F-1 expression vector shown in Fig .
+1 .
+Reporter gene expression from the 5 ' deletion mutants demonstrate the relative stimulation resulting from each of the putative E2F and Spl sites .
+The CAT activities were measured with values ( shown in Fig .
+2 ) proportional to the presence of putative E2F targets extending from the 5 ' end .
+In each set of cotransfection experiments , a negative control was performed in parallel with cotransfections performed with the E2F-1 expression vector pCMV/ E2F-1 .
+Cotransfections using the parental negative control vector pCMV/O allowed us to access the stimulation by E2F-1 .
+The stimulation by E2F-1 was quantitated relative to cotransfec- 5292 The UDG Gene Product Inhibits E2F-1-mediated Transcription +1 = imumdy Exon 1 EF EF E2F - Spi Sp1 _ E2F CMC +_ a ~ ~ XT UDG Construct : A ~1389 +81 C UDG Construct : B ~908 +81 f -- - UDG Construct C 683 +81 -- - IY UDG Construct Div } ~445 +81 Zg/ﬁ—ﬂ UDG Construct E ~445 +16 ~445 C -- INCI -- - # % é -- | UDG Construct F ~89 +81 E2F/mut +81 f -- - ] UDG Construct Dimut s ' _ ' it } i t E. % % € 4 & e & e Go s & g Go s Co s Go s f A ¢ 3 A - a L _ L ] l ] L ] L $ 1 L ] L ] Na ® 6 C & & # 5 & ** & s® 3° & & '' 36 } & & '' & s s s 09°C ?
+sP s $ 06 , Fic .
+1 .
+Mapping of E2F-1-mediated transcription in the human UDG promoter .
+A , schematic illustration of a series of human UDG promoter deletion constructs fused to the CAT reporter gene .
+The top schematic is used as reference to indicate the position of the primary transcriptional start postion ( 4 ) and first exon relative to the promoter construct tested .
+Numbers below each promoter/reporter construct denote the position of the UDG promoter end points at both the 5 ' and 3 ' ends , respective of this transcriptional initiation site .
+The solid boxes indicate the postion of each putative E2F consensus site , and hatched boxes represent the position of putative Sp1 sites within the promoter region .
+Open box with an X indicates a mutation directed within an E2F consensus site .
+B , transcriptional effect of recombinant E2F-1 on wild type and mutant gene promoter constructs .
+Shown is an assay used to detect chloramphenicol acetyltransferase activity used to measure transcriptional activity mediated by a cotransfected E2F-1 expression vector .
+The UDG promoter constructs , fused to the CAT reporter gene , were cotransfected each with either the E2F-1 expression vector pCMV/E2F-1 or negative control vector pCMV/0 .
+CAT assays were performed and CAT gene activity verified by an autoradiograph of the thin layer chromatograph shown .
+tions performed with pCMV/O in each of the reporter minigene plasmids shown ( Fig .
+1 ) .
+Results from this experiment represent the level at which E2F-1 can transactivate the individual minigene reporter constructs .
+Although cotransfection of these deletion mutants with the E2F-1 expression vector indicate the relative contribution of these sites in E2F-mediated transactivation of the UDG promoter ( Fig .
+1 ) , the basal levels of CAT activity are also proportional to the length of the UDG promoter .
+This is demonstrated by the negative control expression vector pCMV/0 cotransfected with each of the deletions extending from the 5 end .
+Values presented as histograms ( Fig .
+2 ) , indicating the relative activity of each minigene construct , show the relative contribution of each E2F site to E2F-1-mediated stimulation of UDG gene transcription .
+Deletion of the The UDG Gene Product Inhibits E2F-1-mediated Transcription UDG Construct-B UDG Construct-C UDG Construct-Diwt UDG Construct-E UDG Construct-F UDG Construct-D/mut 1 2 3 4 5 10 45 5293 J L__1 6.3+1.8 | 1 7.5+1.2 _ I 0.8+0.2 _ U 22.7+3.4 _I §§ or : « Negative control 2110.9 L -- 20 25 30 35 40 45 50 55 60 CAT Activity ( % acetylation ) Fic .
+2 .
+Comparative quantitation of E2F-1-mediated induction of UDG gene transcription .
+The histogram evaluates , comparatively , the levels of E2F-1 stimulation of transcription mediated by each of the promoter constructs tested .
+The graph represents the percent conversion to an acetylated form of chloramphenicol in each cotransfection performed with either pCMV/E2F-1 or the negative control pCMV/O .
+Numerical values , adjacent to the graph , indicate the degree of stimulation mediated by the transient expression of E2F-1 when compared to the negative control signal .
+The -fold stimulation of reporter gene activity was calculated by the amount of acetylation ( percent ) from cells transfected with pCMV/E2F-1 divided by the amount of acetylation in cells transfected with the negative control vector pCMV/O .
+Internal control plasmid directing the expression of the reporter human growth hormone was included to standardize transfection efficiency for each experiment performed .
+The + indicates the standard error from four separate transfection experiments performed with two separate preparations of plasmid DNA .
+proximal Sp1 site reduces the activity of E2F-1-mediated transcription of the UDG promoter approximately 4-fold ( Fig .
+2 ) .
+It is therefore consistent with other genetic models indicating the importance of Spl in basal stimulation and start site selection of gene transcription ( 88 , 39 ) .
+Although the activity of this Sp1 site provides some evidence that Spl may synergistically co-stimulate E2F-1 transcriptional activity , the function of Spl on E2F-1 activity is likely through a basal mechanism .
+The role of Spl in UDG gene transcription remains to be further elucidated .
+Site-specific mutation of the UDG promoter within the core downstream of the putative E2F target was converted from the wild type 5-TTCGCGAAAGCTTTCCCGGTT-3 ' to the mutant sequence 5'-TTCGCGAGAGCGCTCCCGGTT-3 ' .
+The strategy for site-directed mutagenesis was developed to destroy the affinity of -specific binding to the UDG promoter at the most proximal E2F site relative to transcriptional initiation .
+This is consistent with previous experiments that examine the sequence-specific affinity of DNA binding by cellular E2F ( 40 ) .
+Cotransfections performed with pCMV/E2F-1 and the reporter minigene UDG construct-D/mut reduce vitrually all of the stimulation resulting from the transient expression of E2F-1 ( Figs .
+1 and 2 ) .
+The site-specific mutagenesis of the UDG human promoter accounts for the majority of transactivation provided by E2F-1 .
+Although these results do not completely account for the degenerated consensus of E2F binding , this report indicates that this triple mutation within the E2F core element is sufficient for destroying the majority of E2F-1-mediated transactivation .
+E2F Recognizes a Cognate Element Located Immediately Downstream of UDG Gene Transcription-Nuclear extracts prepared from synchronized Saos 2 cells in G1 were used in a band mobility shift assay to biochemically define the physical interaction between E2F and the UDG gene promoter .
+Consistent with the data presented in Figs .
+1 and 2 demonstrating the transactivating potential of EZF-1 , we see one specific complex of the UDG promoter element extending from +7 to +35 from the transcriptional start site .
+This interaction was aggressively competed out with copious amounts of unlabeled specific oligonucleotide competitor DNA ( 100-fold ) , corresponding to the E2F site of the adenovirus E2 promoter , as shown in Fig .
+34 .
+This suggests the direct interaction between the E2F-specific complex with an element in the UDG gene promoter associated with E2F-1-mediated transactivation .
+Binding to the Proximal E2F Target Requires Heterodimeric Formation between E2F-1 and DP1-A direct biochemical approach to examine the association between E2F and the UDG promoter is to test the physical nature of the interaction between E2F and a potential cognate element located downstream of UDG transcription .
+An in vitro assay to distinguish sequence-specific DNA binding by a heterodimer of E2F , E2F-1 , and DP1 , fusion proteins were generated from bacterial expression vectors .
+Fusion proteins of GST/E2F-1 and MBP/ DP1 were purified by affinity chromatography and examined by SDS-PAGE .
+The results of the purification are shown in Fig .
+3B .
+It had been previously demonstrated that heterodimeriza-tion between two partners E2F-1 and DP1 was a prerequiste for both optimal DNA binding and transcriptional activation mediated by the E2F complex ( 41 ) .
+Using a °°P-labeled oligonucleotide , corresponding to the E2F consensus located be 5294 The UDG Gene Product Inhibits E2F-1-mediated Transcription ® competitor $ 64 ?
+ﬁx l malEDP1 - $ - o $ $ % 4 DP1/E2F-1 -f » Fic .
+3 .
+The E2F complex recognizes an E2F consensus within the human UDG promoter .
+A putative E2F site , located immediately downstream of transcription , requires the heterodimer of E2F-1 and DP1 for efficient DNA binding .
+A , nuclear extracts prepared from Saos 2 cells , synchronized in G , , were used in an EMSA experiment to detect a specific DNA-E2F complex .
+A double-stranded oligonucleotide probe , corresponding to the region of the UDG promoter between +7 to +35 , was labeled with *°P and incubated with 5 ug of nuclear extract .
+All binding reactions were preincubated with nonspecific competitor DNA ( poly ( dI-dC ) ) .
+Gel shift analysis was also performed in the presence of specific competitor DNA corresponding to the E2F recognition site of the adenovirus E2 promoter ( shown in the last lane ) .
+Prior to the addition of the *°P-labeled oligonucleotide , the E2F competitor sequence from the adenovirus E2 promoter was added to the nuclear extract in 100-fold excess ( relative to the labeled oligonucleotide probe ) and assayed by band mobility shift analysis .
+B , SDS-PAGE , following the affinity purification of bacterially generated malE/DP1 and GST/E2F-1 fusion proteins , was stained with Coomassie Blue stain and photographed .
+Molecular mass markers adjacent to samples are indicated in kilodaltons .
+C , EMSA of bacterially produced and affinity-purified E2F-1 and DP1 fusion gene products , individually and together , were used to analyze DNA binding to the wild type and mutant E2F consensus elements from the UDG promoter ( `` Materials and Methods '' ) .
+Oligonucleotide competitor DNA , corresponding to the E2F target of the adenovirus E2 gene promoter was used in the last lane .
+tween +7 and +35 , we performed band mobility shift assays .
+Results shown in Fig .
+3C demonstrate the interaction of the bacterially generated E2F-1 and DP1 heterodimers with the oligonucleotide sequence is readily apparent by the mobility shift as a single DNA-protein complex .
+But neither E2F-1 or DP1 , individually , can bind this DNA element effectively .
+To ensure the sequence specificity of the DNA-protein interactions E2F-specific , competitor DNA from the adenovirus E2 promoter was tested and shown in Fig .
+3 to compete for DNA binding .
+In contrast , competition analysis with the mutant oligonucleotide UDG-M3 ( characteristic of the reporter minigene tested , UDG construct-D/mut ) competed only slightly for the affinity of the E2F-1/DP1 heterodimer ( Fig .
+3C ) .
+Although DNA binding by the E2F-1/DP1 heterodimer to the imperfect inverted repeat sequence of 5'-CGCGAAAGCTTTCCCGG-3 ' is somewhat analogous to the inverted double site found in the adenovirus E2 ( 40 ) or dihydrofolate reductase gene promoters ( 7 ) , we have not yet determined if this specific E2F consensus sequence can provide the level of E2F-mediated transcription or DNA binding similar to that of other heterologous E2F-responsive gene promoters .
+A mutation to the core of the E2F consensus sequence in the UDG promoter reflects the requirement for the precise E2F consensus for E2F-1-mediated transactivation ( Figs .
+1 and 2 ) .
+Failure of the mutated E2F target ( UDG-M3 ) to readily compete for binding by the E2F-1/DP1 heterodimer ( Fig .
+3C ) is consistent with other examples of E2F-mediated DNA binding and transcriptional activation ( 40 ) .
+Overexpression of UDG Delays Growth Late in G , -As a component of this study to determine the effect of overexpression of recombinant UDG on E2F-1-mediated expression , we first examined the physiological status of Saos 2 cells expressing constitutively high levels of UDG .
+Because of the relative homology to a class of cyclin proteins , we have suspected UDG of participating in cellular events possibly analogous to that of some cyclin proteins as described ( 42 ) .
+It has been indicated that the A-type cyclin nuclear protein perform specialized functions required for the onset and maintenance of the S phase of the cell cycle ( 43 ) .
+Therefore , as a way of analyzing the activity of constitutive and abundant expression of UDG , we quantitated the relative cell populations at G/G , S , and Gy/M expressing a CD19 cell surface marker .
+Expression of UDG , directed by the CMV early gene promoter , reveals abundant levels of UDG expression when compared to that of the negative expression vector control .
+Cell cultures removed at 48 h following cotransfections performed with pCMV/UDGa or pCMV/O along with the CD19 expression vector , as shown by an immunoblot experiment , reveals the amount of UDG expressed in these cells ( Fig .
+4 ) .
+Immunochemical rosetting of CD19* cells cotransfected with pCMV/UDGa reveal , by flow cytometry , a substantially high proportion of pCMV/UDGa-transfected cells were retained in G/G , of the cell cycle in the following 48 h after transfection as shown in Table I .
+Comparatively , the negative control cotransfected with pCMV/O expressed a relatively even distribution of cells in GG , , S , and G/M and asynchronous growth kinetics remained throughout The UDG Gene Product Inhibits E2F-1-mediated Transcription Saos 2 w QC » ® ; P Co { ® $ ¢ 76k- 54k- 37k- 27k- 18k- Fic .
+4 .
+Abundant overexpression of the uracil-DNA glycosylase gene product .
+Immunoblot analysis of cellular extracts prepared from enriched CD19* Saos 2 cells 48 h following the cotransfection with a CD19 expression vector along with either pCMV/O or pCMV/UDGa , respectively .
+Approximately 4 x 10° Saos 2 cells , selected for the expression of CD19* cells after cotransfections , were analyzed for the expression of recombinant UDG .
+Each of three individual cotransfections were were pooled together , then lysed , and cleared of cellular debris .
+Twenty-five ug of cellular protein in each lane were separated by SDS-PAGE and transferred to polyvinylidene difluoride membranes .
+Immunoblots were performed using a primary monoclonal antibody , mAb-u ( 91-243 ) , directed against an internal cyclin-like domain ( Thr® ' to e '' '' ) of UDG .
+Prestained molecular weight protein markers were used to predict the size of the proteins detected .
+the times examined .
+Examination of these cells , by measuring DNA synthesis ( BrdUrd incorporation ) and DNA content , indicate the relatively disproportionate number of cells retained in G , are from cells between 48-72 h after transfection with pCMV/UDGa ( Table I ) .
+This is in contrast to Saos 2 cells transiently transfected with the control vector pCMV/O which provide relatively even distribution of cells in late S phase with a substantial population of cells entering G ; , /M ( Table I ) .
+The distribution of CD19* cells transiently overexpressing UDG after 72 h indicates a very slight increase in the percentage of CD19-positive cells entering S , when compared at 48 h. But it is not until after 96 h that a major increase in the percentage of the CD19 * cell population are synchronized in S. This delay in the entry into S was also established by [ °H } thymidine incorporation studies .
+These studies performed ( Table I ) indicate that very few CD19 * Saos 2 cells , transiently overexpressing UDG , do not begin to move into the DNA replicative phase until 96 h following the cotransfections performed .
+This is in contrast to the amount of [ °H ] thymidine incorporation seen in the control set .
+Interestingly , analogous results have been obtained through the microinjection of a functional Rb gene product in Saos 2 cells , lacking the normal Rb phenotype ( 44 ) , and by transient cotransfection studies ( 45 , 46 ) .
+Therefore , we indicate that abundant overexpression of UDG results in either the gross extension of G , or a delay into the entry of the S phase , but not the complete arrest of the cell cycle in G , .
+The 5295 results shown evaluated by flow cytometric staining at 36 , 48 , 72 , and 96 h in triplicate transfections indicate the progression of the S phase continued between 72 and 96 h after cotransfections were performed .
+Therefore , these data indicate that the delayed progression of S phase is temporary and is a result of the abundant exogenous expression of UDG in Saos 2 cells .
+Uracil-DNA Glycosylase Down-regulates Transcription of the Human UDG Gene Promoter Through an E2F Consensus Ele-ment-Because of the relationship of abundant UDG expression to the disruption of normal cell cycle processes and relative cyclin-like homology , we were interested in understanding the potential of this nuclear species of UDG ( 1 ) to participate in the regulation of its own promoter through an E2F target .
+This could be tested through the use of UDG gene promoter/reporter constructs UDG constructs D/wt and UDG construct D/mut , as shown in Fig .
+1 .
+Constitutive and high level expression of this species of UDG was performed by the cotransfection of pCMV/ UDGa in a transient expression assay with UDG construct-D/wt and UDG construct-D/mut serving as targets for the ef-fectors E2F-1 and UDG , individually .
+An _ experiment performed , with results shown in Fig .
+5 , demonstrates the potential of E2F-1 to transactivate as well as the ability of UDG to repress expression of CAT through the identical promoter constructs shown in the figure .
+Fig .
+5 provides comparative quantitation of CAT activity expressed by both E2F-1 and UDG separately in a transfection assay .
+Transient expression of human UDG , directed by the cytomegalovirus immediate-early promoter , down-regulates expression of the CAT using UDG construct D/wt .
+The activity indicates between a 3-4-fold decline in Saos 2 cells ( Fig .
+5B ) when compared to the cotransfection experiments performed with the vector control pCMV/O .
+Interestingly , site-directed mutations within the only E2F-1 site left , represented as UDG construct D/mut , show that the majority of CAT activity is presumably due largely to endoge-nous cellular E2F activation .
+We show that repression of E2F-mediated transcription is due to the high levels of UDG gene product expression in the transient transfection assay ( Fig .
+5B ) .
+This suggests the action by which UDG targets repression of transcription is through an E2F target .
+Although these mutations reduce much of the expression exhibited by the UDG promoter , extending 445 nucleotides upstream of the reported transcriptional start site ( Fig .
+5 ) , the E2F site is the target for the autoregulation of UDG gene transcription .
+UDG Down-regulates the Adenovirus E2 Promoter-Due to some sequence similarity and positioning of two E2F sites found between the human UDG promoter and the adenoviral E2 gene promoter , we examined the the activity of the transiently expressed UDG enzyme with the heterologous viral E2 gene promoter .
+Indication that the down-regulation of E2F-mediated transcription is expressed by UDG in transient transfection assay as shown in Fig .
+5 .
+This prompted us to distinguish this activity in a heterologous E2F-responsive gene .
+Using the adenovirus E2 promoter as a target promoter , we tested our hypothesis that UDG targets the inhibition of E2F transcriptional activity .
+Cotransfections were performed using both pE2-CAT and pCMV/UDGa demonstrate the ability of UDG to down-regulate CAT expression directed by the E2 promoter ( Fig .
+6 ) .
+Quantitation of these results consistently indicated more than a 2-fold reduction in the amount of CAT expressed when compared to cotransfections performed with the vector control , pCMV/O .
+DISCUSSION Examples of DNA repair have recently been shown to overlap with mechanisms of transcriptional control ( 46-50 ) .
+The gene for a novel cyclin-like uracil-DNA glycosylase that encodes a predicted 36-kDa cell cycle-regulated DNA repair en- 5296 The UDG Gene Product Inhibits E2F-1-mediated Transcription TaBte I Cell cycle profile of CD19-positive Saos 2 cells cotransfected with both a CD19 and UDG expression plasmids Approximately 4 X 10° Saos 2 cells were selected for the cell surface marker CD19 with magnetically conjugated anti-CD19 beads ( Dynal , Inc. ) and uniformally detached from the beads according to the manufacturer 's instructions .
+CD19* populations of Saos 2 cells from individual cotransfection experiments were analyzed by FACS ( Becton Dickson , Inc. ) .
+Following the time points indicated ( hours after transfection ) , incorporation of ( BrdU ) into CD19* cells was conducted over a 60-min incubation then isolated nuclei were labeled with propidium iodide .
+Bivariant FACScan analysis of both BrdU incorporation ( DNA synthesis ) and DNA content established the percentage of CD19 positive cells detected at defined stages of the cell cycle as indicated in the table .
+Values represent the mean + the standard deviation from three separate cotransfection experiments .
+Hours post- Transfecti °H ) Thymidi transfegtion raﬁcﬁfrmn C ) /G 8 G/M [ incgrpglfgéios ‘ f 36 pCMV/O 53.2 + 3.6 31.3 * 4.5 15.5 + 5.2 5,217 + 948 pCMV/UDGa 58.2 + 2.1 18.9 + 3.2 22.9 1 5.6 3,349 + 488 48 pCMV/O 46.2 + 2.7 34.3 + 5.1 19.5 * 2.7 4,437 £ 1,250 pCMV/UDGa 83.4 + 6.2 5.7 + 0.4 10.9 x 1.7 1,151 * 278 72 pCMV/O 49.8 * 6.4 29.4 + 4.9 20.8 + 8.2 5,455 + 1,820 pCMV/UDGa 72.7 * 8.3 11.2 * 3.7 16.1 * 4.7 824 * 154 96 pCMV/O 51.4 * 7.1 85.8 + 4.2 12.8 + 3.8 6,755 + 1,672 pCMV/UDGa 29.8 + 4.9 66.3 + 6.8 3.9 + 0.7 12,851 + 8,129 * Incorporation of [ *HIthymidine .
+CD19* cells cotransfected with either pCMV/UDGa or pCMV/0 were monitored for the incorporation of [ H ] thymidine following 36 , 48 , 72 , and 96 h after transfection .
+Values represent the mean incorporation [ counts/min ( cpm ) ] + the standard deviation from three separate labeling experiments using [ °H ) thymidine .
+& « 8 A. Spt E2F C -- -- -~ -- - 4-3 » 445 +81 \ UDG Construct » Diwt pCMvid m L '' I Sp1 _ E2F/imut pCMV/E2F-1 -- -I , ~ Kj } .
+‘ A5 +81 _ pemvio UDG Construct- D/mut B. Sp1 __ gare PCMVUDG « C -- -- -- ~ -m +4 T ' # sam RWSS C DG Construct- D/iwt -- - excet -* Spi _ § -- Negatve * +8 '' - pewivo k\\ -A ** '' _ Control UDG Construct Oimut 4 ) -+-102 3 4 5 20 25 30 35 40 4§ 50 55 CAT Activity ( % Acetylation ) Fic .
+5 .
+UDG expression down-regulates human UDG gene promoter activity at an E2F site .
+A , examination of CAT activity mediated by a transiently expressed E2F-1 cDNA on a wild type and mutant E2F consensus element , using the UDG gene promoter target to direct expression of the CAT gene .
+Human UDG promoter constructs , UDG constructs-D/wt , and UDG construct-D/mut were previously shown ( see also Fig .
+14 ) .
+The effector plasmid expression vector pCMV/E2F-1 contains the E2F-1 cDNA .
+The parental minus expression vector , pCMV/0 , was used as a negative control in each experimental set .
+Cotransfections were performed with effector expression vector and target minigene reporter ( as shown ) .
+Included in each cotransfection performed was an internal control to standardize the transfection efficiency .
+CAT activity was evaluated as percent acetylated radiolabeled chloramphenicol as indicated by the histogram .
+Solid box represents the wild type E2F sequence .
+Open box with an X represents a mutated E2F consensus element .
+Open box indicates the presence of a Sp1 consensus located directly upstream of the E2F target .
+Standard errors were calculated from the results of five individual transfection experiments performed with two separate plasmid DNA preparations .
+Standard error is indicated by the error bars .
+B , examination of CAT activity mediated by a transiently expressed UDG cDNA on a wild type and mutant E2F consensus element , using the UDG gene promoter target to direct expression of the CAT gene .
+CAT activities were comparatively measured to indicate the relative amount of acetylation between each experimental set .
+zyme has been previously reported ( 4 ) .
+Here we have demon- - calized the sequences responsive to EZF-1 within the UDG strated the relationship of the E2F-1 transcription factor to - promoter .
+The regulation of UDG by the cell cycle-dependent transcriptional regulation of the UDG promoter .
+We have lo- - activity of E2F-1 provides evidence for converging mechanisms The UDG Gene Product Inhibits E2F-1-mediated Transcription A .
+CAT pE2-CAT Th— E2F double site B .
+Expression vector rove y-C f -t -- -- -- -- $ 10 sq 40 60 80 100 CAT Activity ( % Acetylation ) Fic .
+6 .
+Expression of UDG can down-regulate a heterologous promoter in Saos 2 cells .
+A , schematic of the reporter minigene construct used in the cotransfection experiment .
+The adenovirus E2 promoter was used as a target for the expression of UDG , contains E2 promoter sequences extending from -408 to + 7 relative to the site of transcription fused to the bacterial CAT gene .
+Nucleotide sequence indicates the E2F protein binding consensus located within the adenoviral E2 gene promoter .
+B , cotransfections were performed using the adenovirus E2 promoter target along with either the UDG expression plasmid , pCMV/UDGa « , or the control plasmid , pCMV/0 .
+CAT activity was measured by the phase-extraction method and quantitated .
+Relative CAT activity is presented as percent acetylation .
+The standard error was calculated from eight separate transfections using two separate plasmid DNA preparations .
+The standard error is represented by the error bars shown in the histogram .
+between transcription , DNA repair and cell cycle events leading to DNA replication .
+Here , we have tested the potential for the cyclin-like species of UDG itself to be involved in transcriptional control through an E2F-mediated regulatory element .
+Recent evidence to support the role ( s ) of E2F-1 as an important regulator of many cell cycle events , including apotosis , may be an example of the ability of E2F-1 to overcome cell cycle checkpoints mediated by both Rb and p53 ( 51 ) .
+Thus , these results implicate one species of UDG in the alteration of E2F -mediated transcription .
+This raises the possibility that pathways that integrate transcriptional control with cell cycle events , through E2F , may also integrate cellular factors involved in the response to and repair of damaged DNA .
+Indication of the involvement of E2F-1 in the regulation of UDG gene transcription documents a mechanism likely involved in the cell cycle-dependent expression of human cyclin-like UDG .
+Although this does not preclude the role of other transcription factors in the cell cycle regulation of the UDG gene , including Sp1 , we suggest that E2F may require interactions with other factors that equally contribute to the cell cycle-dependent regulation of UDG .
+In surprising contrast to our expectations , recent experiments conducted in this laboratory suggest that transient expression of Rb significantly contributes to the overall stimulation of UDG gene transcription through a combined Rb/Sp1-responsive element located upstream of the UDG promoter . ?
+Recently , it has been shown that both Rb and Sp1 can converge on a specific 5-CCACCC-3 ' nucleotide motif in the IGF-II gene promoter and results in the stimulation of IGF-II gene transcription ( 53 ) .
+Despite the role Rb has in exerting an inhibitory effect on E2F-1-mediated transcription by interacting with E2F ° K. Spidoni , G. Shue , and M. J. Walsh , manuscript submitted for publication .
+5297 directly ( 10 ) , the complexity of the UDG promoter may warrant contrasting and competing signals for Rb interaction .
+Thus , it is possible that the mechanism for the positive regulation of UDG may separately include both Rb and EZ2F-1 .
+This model could hypothetically account for the rapid requirements for transient UDG expression through signals associated with detection of damaged DNA to initiating a delay in the progression of the cell cycle by simultaneously incorporating the activities of Rb , Sp1 , and E2F-1 by competing for the affinity of Rb .
+We demonstrated that one physiological result of the constitutive overexpression of exogenous cyclin-like species of UDG is the accumulation of Saos2 cells delayed in late G , of the cell cycle .
+This following several hours after the transfection of a UDG expression vector is shown in Table L. It is interesting that transient overexpression of UDG only delays the growth kinetics and then follows in a pattern of synchronized entry into S phase of the cell cycle ( Table 1 ) , suggesting that this process delays progression of the cell cycle and is only tempo-rary , possibly superseded by more dominant mechanisms for control of the cell cycle kinetics .
+Although the precise mechanism for this result has yet to be defined , it is suspected that the cyclin-like homology of this UDG species may be `` in effect '' a functional component of UDG , possibly similar to that of a cyclin .
+Due to the vital role E2F may have in the progression of the replicative phase of the cell cycle ( 51 ) , one strategy to try to account for the potential of UDG to alter the progression of the cell cycle was to examine the effect of an abundantly transiently expressed UDG protein on E2F-mediated transcription .
+The results of these experiments indicate that E2F-mediated transcription is down-regulated by the high levels and exogenous expression of UDG ( Figs .
+5 and 6 ) .
+This repression occurs through a mapped E2F target located proximal to the transcriptional start site ( Fig .
+5 ) .
+The apparent regulation of UDG gene transcription by its own gene product may be analogous to that seen by regulation of the Rb gene by the Rb gene product ( 54 ) through interactions with E2F-1 .
+Despite the similarities between UDG and cyclin protein kinase A to down-regulate E2F-1-mediated transcription as recently described ( 29 ) , there are significant differences in the timing of these activities during the cell cycle . ''
+Therefore , we do not know nor do we suggest that the individual activities demonstrated by UDG or cyclin A on E2ZF-l-mediated function occur by similar biochemical mechanisms .
+Also , there is no evidence in this report to suggest the cellular role of UDG to be analogous to the function of Rb in vivo .
+We believe the restricted cell growth resulting from abundant UDG expression may come as a result of biochemical interactions between UDG and E2F-1 , but have no direct evidence for this interaction at the present time .
+It is also possible that the growth inhibitory function of UDG may also be a component of Rb or related Rb-like nuclear complexes , but this has not been fully evaluated .
+We have examined the activity between UDG and E2F-l-mediated transcription in the absence of normal Rb activity .
+This defect in Rb function is a characteristic phenotype of osteosarcoma Saos 2 cells , due to a mutation in the growth inhibitory domain of Rb ( 55 ) .
+Despite the absence of a normal Rb gene product observed in the experiments performed in this report , it may be interesting to see if the p53 tumor suppressor gene product ( 51 ) could poten-tiate the down-regulation of E2F transcriptional activity mediated by UDG .
+We should note that expression of the UDG cDNA in Saos 2 cells seems to produce a marginally smaller UDG gene product ( Fig .
+4 ) from that previously predicted and described ( 4 ) .
+We have yet to account for this slight difference from the predicted * G. Shue and K. Spidoni , unpublished results .
+5298 molecular weight and currently remains unexplained .
+In addition , overexpression of this cDNA product in mammalian cells has not resulted in any increase in enzymatic activity associated with uracil-DNA glycosylase , nor have we been able to copurify any specific UDG enzyme activity from any complexes associated with p107 , Rb , or E2F .
+* Excluding the possibility of any cross-reaction with another antigen , it is conceivable that the detection of this antigen may represent either a modified enzymatically inactive form of UDG or is an alternative gene product .
+We suspect that the activity of E2F-1 , potentially mediated through physical interactions with UDG , may preclude DNA enzymatic activity of UDG and could indicate the expression of an altered or processed protein encoded by a UDG gene .
+Additionally , the notion that activities expressed by UDG may represent different enzymatic and cellular functions through the selective expression of distinct domains of the UDG protein could be supported through the previous examination of the 37 kDa Ref-1 protein ( 52 ) .
+It was shown that Ref-1 can mediate AP1 DNA binding and transcriptional activities through the enzymatic reduction of a conserved cysteine residue required for DNA binding of both the Fos and Jun transcription factors , as well as encode specific AP endonuclease activity through separate and non-overlapping domains of the Ref-1 protein ( 56 ) .
+Through this modeled analogy , we speculate that the enzymatic mechanisms employed by UDG may remotely resemble that of the Ref-1 protein .
+We intend to map the domain ( s ) of UDG responsible for the growth-delayed phenotype to determine if this is linked , in any way , to both E2F-mediated transcription and enzymatic DNA repair function .
+Acknowledgments-We are grateful to Drs .
+W. Kaelin , R. Girling , S. Caradonna , and I. Belarzi for their generous gifts of DNA reagents .
+We also thank Drs .
+T. Moran of the Hybridoma Core Facility and S. Arkin of the Flow Cytometric Core Facility of the Mount Sinai School of Medicine for helpful comments and suggestions and Drs .
+N. S. LeLeiko and E. Johnson for comments and criticism of this manuscript .
+We acknowledge Dr. K. Hirshhorn , former chairman of the Department of Pediatrics , for his advice and support of our Laboratory during the course of this study .
+REFERENCES .
+Muller , S. J. , and Caradonna , S. ( 1991 ) Biochim .
+Biophys .
+Acta 1088 , 197-207 .
+T. ( 1979 ) Prog .
+Nucleic Acids Res .
+Mol .
+Bio .
+22 , 135-195 .
+Friedberg , E. C. ( 1985 ) DNA Repoir , pp .
+141-212 , W. H. Freeman , New York .
+Muller , S. J. , and Caradonna , S. ( 1993 ) J. Biol .
+Chem .
+268 , 1310-1319 .
+Nevins , J. R. ( 1992 ) Science 258 , 424-429 .
+Mudryj , M. , Hiebert , S. W. , and Nevins , J. R. ( 1990 ) EMBO J .
+9 , 2179-2184 .
+Means , A. , Slansky , J. E. , McManhon , S. L. , Knuth , M. W. , and Farnham , P. ( 1992 ) Mol .
+Cell .
+Biol .
+12 , 1054-1063 .
+Hiebert , S. W. , Chellappan , S. P. , Horowitz , J. M. , and Nevins J. R. ( 1992 ) Genes & Dev .
+6 , 177-185 9 .
+Cao , L. , Faha , B. , Dembski , M. , Tsai , L.-H. , Harlow , E. , and Dyson , N. ( 1992 ) Nature 355 , 176-179 10 .
+Helin , K. , Harlow , E. , and Fattaey , A .
+( 1993 ) Mol .
+Cell .
+Biol .
+13 , 6501-6508 11 .
+Shirodkar , S. , Ewen , M. , DeCaprio , J .
+A. , Morgan , J. , Livingston , D. M. , and Chittenden , T. ( 1992 ) Cell 68 , 157-166 12 .
+Bandara , L. R. , Adamezewski , J. P. , Hunt , T. , and LaThanque , N. ( 1991 ) Nature 352 , 249-251 13 .
+Mudryj , M. , Devoto , S. H. , Hiebert , S. W. , Hunter , T. , Pines , J. , and Nevins , J. R. ( 1991 ) Cell 65 , 1243-1253 14 .
+Devoto , S. H. , Mudryj , M. , Pines , J. , Hunter , T. , and Nevins , J. R. , ( 1992 ) Cell 68 , 167-176 15 .
+Lees , E. , Faha , B. , Dulic , V. , Reed , S. I. , and Harlow , E. ( 1992 ) Genes & Dev .
+=1 @ tp to bo ++ go * M. J. Walsh , unpublished observations .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+The UDG Gene Product Inhibits E2F-1-mediated Transcription 6 , 1874-1885 Pagano , M. , Dractta , G. , and Jansen-Durr , P. ( 1992 ) Science 255 , 1144-1147 Hiebert , S. W. , Blake , M. , Azizkhan , J. , and Nevins , J. R. ( 1991 ) J. Virol .
+65 , 3547-3552 Chellappan , S. , Kraus , V. B. , Kroger , B. , Munger , K. , Howley , P. M. , Phelps , W. C. , and Nevins , J. R. ( 1992 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+89 , 4549-4553 Arroyo , M. , Bagchi , S , and Raychaudhuri , P. ( 1993 ) Mol .
+Cell .
+Bio .
+13 , 6537-6546 Moran , E. ( 1993 ) Curr .
+Opin .
+Genet .
+Dev .
+3 , 63-70 DeFeo-Jones , D. , Huang , P. S. , Jones , R. E. , Haskell , K. M. , Vuuocolo , G. A. , Hanobik , M. G. , Huber , H. E. , and Oliff , A .
+( 1991 ) Nature 852 , 251-254 Helin , K. , Lees , J .
+A. , Vidal , M. , Dyson , N. , Harlow , E. , and Fattaey , A .
+( 1992 ) Cell 70 , 337-50 Kaelin , W. G. , Jr. , Krek , K. , Sellers , W. R. , DeCaprio , J .
+A. , Ajchenbaum , F. , Fuchs , C. S. , Chittenden , T. , Li , Y. , Farnham , P. J. , Blanar , M. A. , Livingston , D. M. , and Flemington , E. K. ( 1992 ) Cell 70 , 351-364 Shan , B. , Zhu , X. , Chen , P.-L. , Durfee , T. , Yang , Y. , Sharp , D. , and Lee , W.-H. ( 1992 ) Mol .
+Cell .
+Biol .
+12 , 5620-5631 Ivey-Hoyle , M. , Conroy , R. , Huber , H. E. , Goodhart , P. J. , Oliff , A. , and Heimbrook , D. ( 1998 ) Mol .
+Cell .
+Biol .
+18 , 7802-7812 Lees , J .
+A. , Saito , M. , Vidal , M. , Valentine , M. , Look , T. , Harlow , E. , Dyson , N. , and Helin , K. ( 1993 ) Mol .
+Cell .
+Biol .
+18 , 7813-7825 Girling , R. , Partridge , J. F. , Bandara , L. R. , Burden , N. , Totty , N. F. , Hsuan , J. J. , and LaThangue , N. ( 1993 ) Nature 362 , 83-87 Helin , K. , Lees , J .
+A. , Vidal , M. , Dyson , N. , Harlow , E. , and Fattaey , A .
+( 1993 ) Genes & Dev .
+7 , 1850-1861 Krek , W. , Ewen , M. E. , Shirodkar , S. , Arany , Z. , Kaelin , W. G. , Jr. , and Livingston , D. M. ( 1994 ) Cell 78 , 161-172 Cleaver , J. E. ( 1994 ) Cell 76 , 1-4 Dutta , A. , Ruppert , J. M. , Aster , J. C. , and Winchester , E. ( 1993 ) Nature 365 , 49-53 Cormack , B .
+( 1992 ) in Short Protocols in Molecular Biology ( Ausubel , F. M. , Brent , R. , Kingston , R. E. , Moore , D. D. , Seidman , J. G. , Smith , J .
+A. , Struhl , K. , eds ) Second Ed. , pp .
+8.18-8.25 , Greene Publishing Associates and Wiley-Interscience , New York Walsh , M. J. , Sanchez-Pozo , A. , and LeLeiko , N. S. ( 1990 ) Mol .
+Cell .
+Biol .
+10 , 4356-4364 Skainik , D. G. , Strauss , E. C. , and Orkin , S. H. ( 1991 ) J. Bio { .
+Chem .
+266 , 16736-16744 Tedder , T. F. , and Isaacs , C. M. ( 1989 ) J. Immunol .
+148 , 712-717 Dolbreare , F. , Gratzner , H. , Pallavicini , M. G. , and Gray , J. W. ( 1983 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+80 , 5573-5577 Walsh , M. J. , Tsao , K.-L. , and LeLeiko , N. S. ( 1992 ) J. Biol .
+Chem .
+267 , 7026-7035 Kollmar , R. , Sukow , K. A. , Sponagle , S. K. , and Farnham , P. J .
+( 1994 ) J. Biol .
+Chem .
+269 , 2252-2257 Lu , J. , Lee , W. , Jiang , C. , and Keller , E. B .
+( 1994 ) J. Biol .
+Chem .
+269 , 5391-5402 Yee , A. S. , Raychaudhuri , P. , Jokoi , L. , and Nevins , J .
+( 1989 ) Mol .
+Cell .
+Biol .
+9 , 578-585 Huber , H. E. , Edwards , G. , Goodhart , P. J. , Patrick , D. R. , Huang , P. S. ( 1993 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+90 , 3594-3598 Hunter , T. , and Pines , J .
+( 1991 ) Cell 66 , 1071-1074 Girard , F. , Strausfeld , U. , Fernandez , A. , and Lamb , N. J. C. ( 1991 ) Cell 67 , 1169-1179 Goodrich , D. W. , Wang , N. P. , Qian , Y.-W. , Lee , E. Y.-H. P. , and Lee , W.-H. ( 1991 ) Cell 67 , 293-302 Templeton , D. J. , Park , S. H. , Lanier , L. , and Weinberg , R. A .
+( 1991 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+88 , 3033-3037 Qin , X.-Q. , Chittenden , T. , Livingston , D. , and Kaelin , W. G. ( 1992 ) Genes & Dev .
+6 , 953-964 Seto , E. , Usheva , A. , Zambetti , G. P. , Mamand , J. , Horikoshi , N. , Weinmann , R. , Levine , A. J. , and Shenk , T. ( 1992 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+89 , 12028-12032 Xanthoudakis , S. , Miao , G. , Wang , F. , Pan , Y.-C. E. , and Curran , T. ( 1992 ) EMBO J .
+11 , 3323-3335 Liu , ( 1993 ) Mol Cell .
+Biol .
+13 , 3291-3300 Schaeffer , L. , Roy , R. , Humbert , S. , Moncollin , V. , Vermeulen , W. , Hoeijmakers , J. H. J. , Chambon , P. , and Egly , J.-M. ( 1998 ) Science 260 , 58-63 Wu , X. , and Levine , A. J .
+( 1994 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+91 , 3602-3606 Abate , C. , Luk , D. , and Curran , T. ( 1991 ) Mol .
+Cell .
+Biol .
+11 , 3624-3632 Kim , S.-J. , Onwuta , U. S. , Lee , Y. I. Li , R. , Botchan , M. R. , and Robbins , P. D. ( 1992 ) Mol .
+Cell .
+Biol .
+12 , 2455-2463 Shan , B. , Chang , C.-Y. , Jones , D. , and Lee , W.-H. ( 1994 ) Mol .
+Cell .
+Biol .
+14 , 299-309 Templeton , D. J .
+( 1992 ) Mol .
+Cell .
+Biol .
+12 , 435-443 Xanthoudakis , S. , Miao , G. G. , and Curran , T. ( 1994 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+91 , 23-27

@@ -1,0 +1,681 @@
+THE JOURNAL or BIOLOGICAL CHEMISTRY © 1997 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+272 , No .
+43 , Issue of October 24 , pp .
+27411-27421 , 1997 Printed in U.S.A .
+The Tax Protein of Human T-cell Leukemia Virus Type 1 Mediates the Transactivation of the c-sis/Platelet-derived Growth Factor-B Promoter through Interactions with the Zinc Finger Transcription Factors Spl and NGFI-A/Egr-1 * ( Received for publication , February 19 , 1997 , and in revised form , August 11 , 1997 ) Samuel R. Trejo $ , William E. Fahl§ , and Lee Ratner ?
+!
+From the { Division of Molecular Oncology , Washington University School of Medicine , St. Louis , Missouri 63110 and the §McArdle Laboratory for Cancer Research , University of Wisconsin Medical School , Madison , Wisconsin 53706 Transcriptional up-regulation of the c-sis/platelet-derived growth factor-B ( PDGF-B ) proto-oncogene by the Tax protein of human T-cell leukemia virus type 1 has been implicated as one possible mechanism of cellular transformation by human T-cell leukemia virus type 1 .
+In previous work , we identified an essential site in the c-sis [ PDGF-B promoter , Tax-responsive element 1 ( TRE1 ) , necessary for transactivation by Tax .
+We also identified Spl , Sp3 , and NGFI-A/Egr-1 as the primary nuclear transcription factors binding to TREl which mediate Tax responsiveness .
+In the present work , we have investigated the mechanism ( s ) whereby Tax transactivates the c-sis/PDGF-B proto-oncogene .
+In vitro transcription assays showed that Tax was able to significantly increase the transcriptional activity of a template containing the -257 to +74 region of the c-sis/ PDGF-B promoter .
+Electrophoretic mobility shift assay analysis showed that Tax increased the DNA binding activity of both Spl and NGFI-A/Egr-1 using a TRE1l probe .
+Analysis of Tax mutants showed that two mutants , IEXC29S8 and IEXL320G , were unable to significantly transactivate the c-sis/PDGF-B promoter .
+Finally , co-immunoprecipitation analysis revealed that Tax is able to stably bind to both Spl and NGFI-A/Egr-1 .
+Interestingly , co-immunoprecipitation analysis also revealed that Tax mutant IEXC29S8 is unable to interact with NGFT-A/Egr-1 , whereas Tax mutant IEXL320G is able to interact with NGFT-A/Egr-1 .
+Infection by human T-cell leukemia virus type 1 ( HTLV-1 ) ' is associated with a highly aggressive and fatal malignancy of mature and T-helper lymphocytes , adult T-cell leukemia/lym-phoma ( 1 ) , and the degenerative neuromuscular disease , trop- * This work was supported by United States Public Health Service Grant CA63417 ( to L. R. ) and Molecular Hematology Training Grant 5 T32 HLO7088 ( to S. R. T. ) .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 U.S.C .
+Section 1784 solely to indicate this fact .
+1 To whom correspondence should be addressed : Div .
+of Molecular Oncology , Washington University School of Medicine , 660 S. Euclid , Box 8069 , St. Louis , MO 63110 .
+Tel .
+: 314-862-8886 ; Fax : 314-747-2797 ; E-mail : Iratner @ imgate.wustl.edu .
+* The abbreviations used are : HTLV-1 , human T-cell leukemia virus type 1 ; TRE , Tax responsive element ; PDGF , platelet-derived growth factor ; TPA , 12-O-tetradecanoylphorbol-18-acetate ; EMSA , electrophoretic mobility shift assay ; bp , base pair ( s ) ; IL , interleukin ; CREB/ ATF , cAMP response element binding proteins/activating transcription factor ; PBS , phosphate-buffered saline ; PMSF , phenylmethylsulfonyl fluoride ; pol II , polymerase II ; PTHrP , parathyroid hormone-related protein ; bZIP , basic region-leucine zipper ; NGFI-A , nerve growth factor I A .
+This paper is available on line at http : //www.jbc.org ical spastic paraparesis/HTLV-1 associated myelopathy , in humans ( 2 , 3 ) .
+Replication of the virus is strongly dependent upon expression of the virally encoded Tax protein , a potent trans-activator of the HTLV-1 long terminal repeat ( 4-8 ) .
+Tax is highly pleiotropic , as it has been shown to transcriptionally activate a wide variety of cellular genes , including IL-2 ( 9 ) , IL-2Ra ( 9 ) , granulocyte macrophage/colony-stimulating factor ( 9 ) , transforming growth factor B ( 9 ) , c-fos ( 9 ) , and e-sis ( 10 ) .
+Tax does not bind DNA directly ( 11 , 12 ) , but appears to stimulate RNA synthesis mediated through several structurally unrelated cellular transcriptional activator proteins .
+These include members of the cAMP response element binding proteins and activating transcription factor ( CREB/ATF ) family , serum response factor , Fos-Jun , and the NF- « B family of transcription regulatory proteins ( 13-20 ) .
+The expression of only a single gene , the B-polymerase gene , has been shown to be repressed by Tax ( 21 , 22 ) .
+The c-sis proto-oncogene , which encodes the B-chain of platelet-derived growth factor ( PDGF ) ( 283 , 24 ) , is actively transcribed in T-cells infected with HTLV-1 .
+The transcript has been cloned and sequenced , and is apparently normal ( 25-27 ) .
+Expression of c-sis is normally tightly regulated in a cell type-and developmental stage-specific manner and is thought to play a role in wound healing and early development ( 28 ) .
+It is not normally expressed , however , in lymphocytes .
+PDGF is a potent mitogen and chemoattractant for cells of mesenchymal origin ( 29 ) .
+Biologically active PDGF is a dimeric protein consisting of homo- and heterodimeric combinations of two polypeptide chains , A and B ( 30 ) .
+The major function of PDGF is to induce mitosis in quiescent target cells .
+PDGF exerts its effects through binding to two types of receptors , the a receptor , which binds both A and B chains with high affinity , and the B receptor , which binds only the B chain ( 31 ) .
+PDGF was first implicated in the process of transformation when one of its polypeptide chains , the B-chain/c-sis , was found to be homolo-gous to the viral sis oncogene ( v-sis ) ( 23 , 24 ) .
+Indeed , expression of a recombinant , wild-type human c-sis/PDGF-B gene in mouse 3T3 cells , which express both the a and B PDGF receptors , resulted in the transformation of these cells ( 32 ) .
+Because lymphocytes in general were thought to have no receptors for PDGF , it was previously postulated that the c-sis/ PDGF-B expression in HTLV-1 infected T-cells could possibly provide a paracrine function , perhaps stimulating stromal cells , or other nonlymphocytic cells known to have PDGF re-ceptors .
+More recently , however , it has been demonstrated that HTLV-1 infected T-cells also express high levels of PDGF-B receptor transcripts and synthesize protein that can be immunoprecipitated with antibodies specific for the PDGF receptor that binds the PDGF-B homodimer and the PDGF-AB het- 27411 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog 27412 erodimer ( 83 ) .
+These findings suggest the possibility that HTLV-1 infected T-cells might acquire an auotcrine mechanism of cell proliferation that involves PDGF .
+With regard to the regulatory mechanism ( s ) that underlies c-sis/PDGF-B expression in HTLV-1-infected T-cells , previous work from our laboratory ( 34 ) , and others ( 35-39 ) , identified a regulatory site at -64 to -45 within the c-sis/PDGF-B promoter , that we named Tax-responsive element 1 ( TRE1 ) .
+This regulatory site was shown to be essential for transactivation by Tax .
+In addition , electrophoretic mobility shift assay ( EMSA ) analysis and antibody supershift analysis of TRE1-binding proteins in Jurkat-E6.1 and Jurkat-Tax cell nuclear extracts , along with nuclear extracts prepared from the HTLV-1 infected T-cell line , HUT1O2 , identified the Sp family members , Spl and Sp3 , along with a member of the immediate early response gene family , NGFI-A/Egr-1 ( for the sake of simplicity , NGFT-A/Egr-1 from this point on will be referred to as Egr-1 ) , as the main TRE1-binding factors mediating Tax-responsiveness .
+In the current study , we have investigated the mechanism ( s ) whereby Tax transactivates the c-sis/PDGF-B proto-oncogene promoter .
+In vitro transcription analysis showed that Tax was able to markedly increase RNA synthesis from a template containing the -257 to +74 region of the c-sis/PDGF-B promoter .
+Site-directed mutagenesis of the TRE1 region was used to identify a CCACCC and GNGNGGGNG motif essential for transactivation by Tax .
+EMSA analysis hinted at a possible mechanism of Tax transactivation in that Tax was able to substantially increase the DNA binding activity of both Spl and Egr-1 to their DNA recognition sites contained within TRE1 .
+In addition , EMSA analysis also indicated the possibility of ternary complex formation consisting of Spl or Egr-1 , Tax , and DNA , suggesting that Tax might stably interact with both Spl and Egr-1 through protein-protein contacts .
+We show by co-immunoprecipitation analysis that Tax does indeed stably interact with both Spl and Egr-1 in both the absence of DNA and from intact cells .
+Finally , we identified two Tax mutants , C298 and L320G , that were unable to transactivate the c-sis/PDGF-B promoter by more than 2-fold .
+Interestingly , co-immunoprecipitation analysis also revealed that Tax mutant C298 was unable to interact with Egr-1 , whereas , Tax mutant L320G was able to interact with Egr-1 .
+The results presented in this article support the possibility of the existence of an additional , as yet uncharacterized , pathway of transactivation by Tax involving members of the zinc finger family of transcription factors .
+MATERIALS AND METHODS Cell Culture-The T-cell lines , Jurkat E6.1 and Jurkat-Tax ( J-tax-19 ; a generous gift from Warner C. Greene ) ( 40 ) , and the HTLV-1 infected T-cell line , MT2 , were grown at 37 °C in RPMI 1640 medium supplemented with 10 % heat-inactivated fetal calf serum , 100 units of penicillin/ml , and 100 ug of streptomycin/ml .
+COS-7 cells were grown at 37 °C in Dulbecco 's modified Eagle 's medium supplemented with 10 % heat-inactivated fetal calf serum , 110 ug/ml sodium pyruvate , 100 units of penicillin/ml , and 100 ug of streptomycin/ml .
+Stimulation of cells was performed by treatment for 6-8 h ( unless otherwise specified ) with 12-O-tetradecanoylphorbol-18-acetate ( TPA ) ( 10 ng/ml ) and ionomycin ( 0.4 ug/ml ) .
+Plasmids-The c-sis/PDGF-B luciferase reporter plasmid , pRALuc , the pRALue linker-scanning mutants , -64/-55 , -54/-45 , and -84/ -25 and the pRALue site-directed mutant constructs , YLO-YL7 , have been described previously ( 88 , 39 ) .
+The wild-type Tax expression plasmid IEX , and the Tax mutant expression plasmids , IEXS10A ( serine at position 10 changed to alanine ) , IEXC29S ( cysteine at position 29 changed to serine ) , IEXHA4S8Q ( histidine at position 48 changed to glu-tamine ) , IEXS258A ( serine at position 258 changed to alanine ) , and IEXL320G ( leucine at position 320 changed to glycine ) , have been described previously ( 41 ) .
+The NGFI-A/Eigr-1 expression plasmid , pJDM948 , has been described previously ( 42 ) .
+The Tax expression plasmid , pTaxH , , used for the Ni** chelate chromatography purification of HTLV-1 Tax Interacts with Sp1 and Egr-1 Tax , and the NGFI-A/Egr-1H , , expression plasmid , pJDM1781 , used for the Ni°* chelate chromatography purification of NGFI-A/Egr-1 , have been described previously ( 42 , 48 ) .
+All mutants were sequenced by the dideoxy chain termination method ( U. S. Biochemical Corp. ) .
+Transfections and Luciferase Assays-5 X 10° Jurkat-Tax cells were transfected with 5 ug of either the pRALuc luciferase reporter plasmid , the pRALuc linker-scanning mutants , -64/-55 and -54/-45 , or the pRALue site-directed mutant constructs , YLO-YL7 , using the Lipofectin reagent method protocol ( Life Technologies , Inc. ) .
+When stimulated , the cells were divided equally 36 h post-transfection into two flasks ; one flask was supplemented with TPA ( 10 ng/m ! )
+and ionomycin ( 0.4 ug/ml ) , and the other flask received the same volume of solvent .
+Thirty-six hours after stimulation , the cells were harvested by centrifugation , washed with phosphate-buffered saline ( PBS ) and cell lysates were prepared by three cycles of freeze-thawing in an ethanol/dry ice bath and 37 °C water bath .
+Cell extracts were normalized for protein content by a commercially available kit ( Bio-Rad ) .
+Equal amounts of protein were used for the luciferase assays as described previously ( 84 ) .
+For the analysis of the Tax mutants , 5 X 10° Jurkat E6.1 cells were transfected with 3 pg of the pRALuc luciferase reporter plasmid alone or , plus , where indicated , 3 ug of the wild-type Tax expression plasmid , IEX , or the Tax mutant expression plasmids , IEXS10A , IEXC29S , IEXHA43Q , IEXS258A , and L820G , using the Lipofectin reagent method protocol ( Life Technologies , Inc. ) .
+Twenty-four hours post-transfection , the cells were stimulated with TPA ( 10 ng/ml ) and ionomycin ( 0.4 ug/ml ) .
+Twenty-four hours post-stimulation , cell lysates were prepared and luciferase assays were carried out as described above .
+Preparation of Nuclear Extracts-Nuclear extracts were prepared from Jurkat E6.1 cells treated with 10 ng/ml TPA and 0.4 ug/ml ionomycin for 1-2 h as described by Leiden et al .
+( 44 ) .
+Briefly , nuclei were isolated by centrifugation at 14,000 X g for 2 min following cell lysis with 40 mm KCl , 10 mm HEPES ( pH 7.0 ) , 3 mM MgCl , , 1 mM dithiothreitol , 5 % glycerol , 8 ug of aprotinin/ml , 2 ug of leupeptin/ml , 0.5 mM phenylmethylsulfonyl fluoride ( PMSF ) , and 0.2 % Nonidet P-40 ( v/v ) .
+Nuclei were resuspended in a solution of 20 mM HEPES ( pH 7.9 ) , 0.42 M KCl , 1.5 mm MgCl , , 0.2 mm EDTA , 0.5 mM dithiothreitol , 0.5 mM PMSF , and 25 % ( v/v ) glycerol for 30 min at 4 °C .
+Extracts were cleared by centrifugation at 14,000 X g for 10 min at 4°C .
+The resulting supernatants were dialyzed for 6-24 h at 4 °C against 1 X in vitro transcription buffer ( buffer A ) containing 20 mM HEPES ( pH 7.9 ) , 0.1 M KCI , 0.2 mM EDTA , 0.5 mM dithiothreitol , 0.5 mM PMSF , and 20 % ( v/v ) glycerol and frozen in aliquots at -70 °C .
+Protein concentrations were determined with a commercially available kit ( Bio-Rad ) .
+Bacterial Expression and Purification of Recombinant TaxH , and Egr-1H , -Purification of TaxH , , proceeded as follows : Escherichia coli BL21 ( DE3 ) cells transformed with pTaxH , were grown at 37°C in 1 liter of Terrific Broth medium containing 100 ug/ml ampicillin until Asoo = 1.0-1.5 , then induced for TaxH , expression with 40 uM isopro-pyl-1-thio-6-D-galactopyranoside at room temperature overnight .
+Cells were harvested and resuspended in 20 ml of ice-cold PBS containing 300 mM NaCl , 0.25 mm PMSF , 0.5 mM 2-mercaptoethanol , and 10 mM imidazole .
+The cells were ruptured by sonication carried out at a 60 % duty cycle for 4 X 1 min duty cycle .
+After centrifugation at 16,000 X g for 80 min at 4 °C , the supernatant was mixed with 2 ml of Ni `` *-NTA-agarose ( Qiagen ) at 4 °C for at least 2 h. The protein bound gel matrix was then packed into a column ( 1.5 em X 10 cm ) and washed with 40 ml of the same buffer containing 40 mM imidazole .
+TaxH , protein was then eluted with a 50-ml gradient of 50-500 mM imidazole .
+A negative control bacterial extract ( prepared in the same manner from bacteria that were transformed with a vector containing no insert DNA ) was also prepared .
+Purification of NGFI-A/Fgr-1H , , proceeded as follows : E. coli BL21 ( DE3 ) pLysS cells transformed with pJDM1731 were grown at 37 °C in 1 liter of Terrific Broth medium containing 100 ug/ml ampicillin and 60 pg/liter chloramphenicol until Ago , = 0.7-1.0 , then induced for NGFTI-A/Egr-1H , , expression with 800 pM isopropyl-1-thio-B-Dgalac-topyranoside at 37 °C for 5 h. Cells were harvested and resuspended in 20 ml of ice-cold PBS containing 800 mM NaCl , 0.25 mM PMSF , 0.5 mM 2-mercaptoethanol , and 10 mM imidazole .
+The cells were ruptured by sonication carried out at a 60 % duty cycle for 4 X 1 min duty cycle .
+After centrifugation at 16,000 X g for 30 min at 4 °C , the supernatant was mixed with 2 ml of Ni°*-NTA-agarose ( Qiagen ) at 4 °C for at least 2 h. The protein bound gel matrix was then packed into a column ( 1.5 em X 10 cm ) and washed with 40 ml of the same buffer containing 40 mM imidazole .
+NGFI-A/Fgr-1H , protein was then eluted with a 50-ml gradient of 50-500 mM imidazole .
+Fractions collected from both the TaxH , purification and the NGFT-A/Eigr-1H , purification were analyzed by SDS-7.5 % polyacrylamide gel electrophoresis , followed by Coomassie Brilliant Blue staining .
+Purity of each was determined to be approxi- 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog HTLV-1 Tax Interacts with Sp1 and Egr-1 mately > 95 % .
+Fractions containing purified TaxH , and NGFI-A/Figr-1H , , were further analyzed by Western blotting using antisera against Tax ( @ TaxC ; a generous gift from W. C. Greene ) , and NGFI-A/Egr-1 ( Santa Cruz Biotechnology ) .
+The fractions containing either purified TaxH , or NGFI-A/Eigr-1H , were dialyzed for 6-24 h at 4 °C against buffer containing 20 mM HEPES ( pH 7.9 ) , 0.1 m KCl , 0.2 mm EDTA , 0.5 mM dithiothreitol , 0.5 mM PMSF , and 20 % ( v/v ) glycerol and frozen in aliquots at -70 °C .
+Protein concentrations were determined with a commercially available kit ( Bio-Rad ) .
+EMSAs-The following double-stranded oligonucleotide probes , corresponding to nucleotides -83 to -45 of the e-sis/PDGF-B promoter and containing the TRE1 region , or a mutated CCACCC motif of the TREL region , respectively , were prepared by annealing complementary , sin-gle-stranded oligonucleotides ( Life Technologies , Inc. ) in a thermocycler ( 95 °C for 5 min , cool to 25 °C at 1 °C/min ) : TRE1 , 5-GCCAGAAGAG-GAAAGGCTGTCTCCACCCACCTCTCGCAC-3 ' ; TRE1-mSpl , 5'-GC-CAGAAGAGGAAAGGCTGTCTGATCGAACCTCTCGCAC-3 ' .
+Each probe was end-labeled with [ y-°°P ] ATP ( ICN Biomedicals , Inc. ) and T4 polynucleotide kinase ( New England Biolabs ) .
+Typical in vitro binding reactions ( 20 ul ) contained approximately 1 ng of either purified Spl ( Promega ) or purified NGFI-A/Egr-1H , , 1 ug of poly ( dI-dC ) ( Amer-sham ) , 1 X Superdex buffer ( 18 ) ( 25 mm HEPES ( pH 7.9 ) , 12.5 mM MgC ] , 10 um ZnSO , 150 mM KCl , 4 mM 2-mercaptoethanol , 20 % ( v/v ) glycerol , 0.1 % Nonidet P-40 ) , and 10-20 fmol of *°P-labeled probe ( 15-80 x 10° cpm ) .
+In samples containing TaxH , , , approximately 400 ng of purified TaxH , was used in each reaction .
+EMSA analysis with dilutions of TaxH , down to 25 ng was also performed , with similar results observed ( data not shown ) .
+Once all of the appropriate factors had been added to each sample , the samples were allowed to incubate 5 min at room temperature in 1 X Superdex buffer prior to the addition of labeled probe .
+After the addition of labeled probe , the mixture was incubated a further 10 min at room temperature .
+The DNA-protein complexes were then resolved by electrophoresis on a 5 % nondenatur-ing , polyacrylamide gel ( acrylamide/N , NV'-methylenebisacrylamide weight ratio , 49:1 ) at 165 V for 4 h at 4 °C in 1 X TGE buffer ( 25 mM Tris-HCl ( pH 8.5 ) , 190 mM glycine , 1 mM EDTA ) .
+In reactions that included cold ( unlabeled ) oligonucleotide competitors , the samples were allowed to incubate with the cold oligonucleotide probes , along with poly ( dI-dC ) in 1 X Superdex buffer , for 10 min at room temperature prior to the addition of the labeled DNA probe .
+In reactions containing oTaxC Ab , 2 pul of antiserum was added to the appropriate samples and incubated for 1 h at 4 °C , along with poly ( dI-dC ) in 1 X Superdex buffer , for 1 h at 4 °C prior to the addition of the labeled DNA probe .
+The gels were then dried under vacuum at 80 °C for 1 h and exposed to XAR-5 film .
+Immunoprecipitation-Co-immunoprecipitation reactions ( 50 ul ) , using purified proteins , contained approximately 200 ng of either purified Spl ( Promega ) or purified NGFT-A/Egr-1H , , and approximately 400 ng of purified TaxH , in 1 X Superdex buffer .
+The samples , containing the various purified proteins , were allowed to incubate for 15 min at room temperature prior to the addition of 5 pl of pooled Tax monoclonal antibodies ( a Tax mAbs ) ( 45 ) , 100 ul of 5 X Superdex buffer , and 345 ul of dH,0 .
+For co-immunoprecipitation reactions involving HTLV-1-infected cells , whole cell extracts were prepared from 100 x 10° MT2 cells .
+The cells were washed 1 time with 5 ml of PBS .
+The cells were then lysed with 2 ml of RIPA buffer ( 0.5 % deoxycholic acid , 0.1 % SDS , 1 % Nonidet P-40 ) for 5 min at room temperature and clarified by spinning at 14,000 x g for 5 min at 4 °C .
+The supernatant was divided equally into two samples ; to one sample was added 7 ul of pooled aTax mAbs , the other sample did not receive any pooled Tax mAbs as a control .
+The samples from both the purified protein co-immunoprecipitation reac-tions , and the co-immunoprecipitation reactions involving whole cell extracts prepared from HTLV-1-infected cells , were then incubated for 1 h on a rotator at 4 °C .
+50 ul of a 50 % slurry solution of immobilized rProtein A-Sepharose ( Repligen Corp. ) was then added to each sample .
+The reaction mixtures were incubated for 18-24 h on a rotator at 4 °C .
+The beads were then gently washed 5-8 times with 500 ul of RIPA buffer .
+The bound proteins were eluted in SDS sample loading buffer , subjected to electrophoresis on a 7.5 % denaturing polyacrylamide gel , transferred to nitrocellulose , and Western blotted for Tax ( « @ TaxC ) , Spl ( Santa Cruz Biotechnology ) , and NGFI-A/Fgr-1 ( Santa Cruz Biotechnology ) by enhanced chemiluminescence ( ECL ) ( Amersham ) .
+After each individual Western blot , the blot was stripped by submerging the membrane in stripping buffer ( 100 mM 2-mercaptoethanol , 2 % SDS , 62.5 mM Tris-HCl , pH 6.7 ) and incubating at 50 °C for 80 min .
+The same blot ( membrane ) , for each , separate , co-immunoprecipitation was used for all Western blots pertaining to that co-immunoprecipitation .
+Bands were quantitated with a Densitometer ( Pharmacia Biotech Inc. ) .
+27413 Immunoprecipitation Analysis of Tax Mutants in COS-7 Cells-5 ug of either the wild type Tax expression plasmid , IEX , or the Tax mutant expression plasmids , IEXC29S and IEXL820G , were transfected into 40-60 % confluent COS-7 cells in a 100-mm tissue culture dish , either alone or with 5 ug of the Eigr-1 expression plasmid , pJDM948 , using the Lipofectin reagent method protocol ( Life Technologies , Inc. ) .
+5 ug of pJDM948 was also transfected alone into 40-60 % confluent COS-7 cells in a 100-mm tissue culture dish as a control for Egr-1 expression .
+Each of the transfections was performed in triplicate .
+Forty-eight hours post-transfection , the cells were washed with PBS , harvested by trypsinization , and pelleted by centrifugation at 14,000 x g for 5 min at 4 °C .
+The cells from all samples , except the Egr-1 alone sample , were then lysed by resuspending the cell pellet in 0.5 ml of RIPA buffer for 5 min at room temperature and clarified by spinning at 14,000 X g for 5 min at 4°C .
+For the Egr-1 alone sample , a whole cell extract was prepared by three cycles of freeze-thawing in an ethanol/dry ice bath and 37°C water bath .
+5 ul of pooled Tax mAbs was added to each sample , except the Egr-1 alone sample , and the samples were then incubated for 1 h on a rotator at 4 °C .
+50 ul of a 50 % slurry solution of immobilized rProtein A-Sepharose ( Repligen Corp. ) was then added to each sample .
+The reaction mixtures were incubated for 18-24 h on a rotator at 4 °C .
+The beads were then gently washed 5-8 times with 500 ul of RIPA buffer .
+The bound proteins were eluted in SDS sample loading buffer , subjected to electrophoresis on a 7.5 % denaturing polyacrylamide gel , transferred to nitrocellulose , and Western blotted for Tax ( aTaxC ) and Egr-1 ( Santa Cruz Biotechnology ) by ECL ( Amersham ) .
+After each Western blot , the blot was stripped by submerging the membrane in stripping buffer and incubating at 50 °C for 30 min .
+The same blot ( membrane ) was used for both Western blots .
+In Vitro Transcription Reactions-Typical in vitro transcription reactions ( 25 pul ) contained 50 ug of stimulated Jurkat E6.1 nuclear extract , 500 ng of glass-bead purified template DNA ( the 954-bp Nco !
+-EcoRI fragments of either pRALuc or the pRALue linker-insertion mutants , -64/-55 , -54/-45 , and -84/-25 ) , 5 mM MgCl , , 400 uM each ATP , CTP , and GTP , 40 pm UTP , and 10 uCi of ( 8000 Ci/mmol ) in buffer A .
+Reactions involving Tax contained approximately 400 ng of TaxH , .
+The reactions were preincubated for 15 min at 30 °C prior to the addition of the NTPs and then were allowed to proceed for 1 h at 30 °C after the addition of the NTPs .
+When indicated , e-amanitin was added to the in vitro transcription reactions to a final concentration of 5 ug/ml .
+Reactions were terminated by adding 175 ul of stop solution ( 300 mm Tris-HCl , pH 7.4 , 300 mM sodium acetate , 0.5 % SDS , 2 mM EDTA , 3 pg/ml tRNA ) , and extracted with 200 ul phenol : chloroform : isoamyl alcohol ( 25:24:1 ) .
+Each reaction was then passed over a Micro-Spin 8-300 HR column ( Pharmacia Biotech ) .
+The reactions were then precipitated with 500 ul of 100 % ethanol , placed on dry ice for 15 min , pelleted , washed with 70 % ethanol , pelleted , and dried in a vacuum dessicator for 10 min .
+The pellets were resuspended in loading dye , heated at 90 °C for 10 min , and analyzed by gel electrophoresis on a 5 % denaturing polyacrylamide gel containing 7 M urea .
+The gels were then dried under vacuum at 80 °C for 1 h , exposed to XAR-5 film , and bands corresponding to full-length transcripts were quantitated with a densitometer ( Pharmacia Biotech Inc. ) .
+RESULTS In Vitro Transcription from the c-sis/PDGF-B Promoter Is Enhanced by HTLV-1 Tax-The effect ( s ) of HTLV-1 Tax on transcription of the c-sis/PDGF-B promoter was investigated using an in vitro run-off transcription assay supported by nuclear extracts prepared from stimulated Jurkat E6.1 cells .
+Transcription from the template DNA fragment , containing the c-sis/PDGF-B promoter , was designed to generate an RNA transcript of 697 nucleotides ( represented schematically in Fig .
+1A ) .
+The results presented in lane 2 of Fig .
+1B demonstrate that the c-sis/PDGF-B promoter is efficiently transcribed using stimulated Jurkat E6.1 nuclear extracts in the in vitro run-off transcription assays .
+The addition of Tax to the in vitro run-off transcription assays resulted in an 11-fold increase in transcription above that observed in the absence of Tax ( Fig .
+1B , compare lane 3 versus lane 2 ) .
+To demonstrate that the transactivation activity was specific to Tax , a control extract containing no Tax protein ( see `` Materials and Methods `` ) was added to the reactions .
+As shown in Fig .
+1B , Zane 4 , the addition of the control extract did not result in an increase of transcrip- 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog 27414 HTLV-1 Tax Interacts A with Sp1 and Egr-1 l— e-sis/PDGF-B Promoter —* Fig .
+1 .
+In vitro transcription from the c-sis/PDGF-B promoter .
+A , sche- +257 64 matic representation of the template Neo !
+DNA containing the c-sis/PDGF-B pro moter used in the in vifro transcription B reactions .
+Template DNA was prepared as described under `` Materials and Methods . ``
+B , in vitro transcription reactions containing nuclear extract ( 50 ug ) prepared from stimulated Jurkat E6.1 cells ( lanes 1-12 ) , and template DNA ( 500 ng , Stim .
+J.E6.1 NE lanes 2-12 ) .
+Lanes 3 , 6 , 8 , 10 , and 12 con- Template tain 8 pl ( 400 ng ) of purified TaxH , .
+Lane 4 contains 8 ul of control/mock ( see `` Ma- Tax Extract terials and Methods `` ) TaxH , extract .
+Control Extract Lanes 5 and 6 contain a-amanitin ( 5 pug/ p-amanitin ml ) .
+Transcription reactions were performed as described under `` Materials and Methods . ``
+Molecular weight markers are indicated in nucleotides ( mf ) .
+Expected transcript size of 697 nucleotides is indicated by the arrow .
+B61 697 nt 738 ba .
+-- * transcript seis-492 369 tion .
+To demonstrate that the transcription observed in our in vitro run-off transcription assays was mediated by RNA polymerase II ( pol II ) , the pol II inhibitor , « -amanitin ( a bicyclic octapeptide from the mushroom Amanita phalloides ) , was added to the reactions .
+At low concentrations , a-amanitin selectively inhibits pol II-dependent transcription through binding to the largest subunit of pol II and blocking transcription elongation ( 46-49 ) .
+Transcription from the c-sis/PDGF-B promoter was completely abolished upon addition of « -amanitin to 5 ug/ml ( Fig .
+1B , lane 5 ) , as well as transactivation by Tax ( Fig .
+1B , lane 6 ) .
+To demonstrate the necessity of the TRE ] region for both basal transcription and transactivation by Tax , in vitro run-off transcription reactions were performed using the pRALuc linker-insertion mutants -64/-55 , -54/-45 , and -34/-25 as tem-plates .
+Each mutant contains a 10-bp substitution linker sequence at the designated nucleotides .
+Mutants -64/-55 and -54/-45 disrupt TRE1l while mutant -34/-25 disrupts the TATA box/initiator region .
+As shown in Fig .
+1B , transcription from the mutant templates -64/-55 and -54/-45 is significantly reduced both in the absence and presence of Tax ( compare lane 7 versus lanes 1 and 8 , and lane 9 versus lanes 1 and 10 , respectively ) .
+When the TATA box/initiator region is disrupted by mutant -34/-25 , transcription from this template is completely abolished in both the absence and presence of Tax ( Fig .
+1B , lanes 11 and 12 ) .
+These data demonstrate Tax 's ability to enhance pol II-dependent transcription from the c-sis/ PDGF-B promoter in an in vitro run-off transcription assay along with the relative importance of the TRE1 region for both basal transcription and Tax-mediated transactivation .
+Site-directed Mutagenesis of TRE1I-To further investigate the regulatory region contained within TRE1 , a series of c-sis/ PDGF-B promoter mutants containing high-resolution mutations ( Fig .
+2 ) within TRE1 , driving expression of the firefly luciferase reporter gene , was constructed .
+These site-directed TREL TATA I— ) |_| |_I pRALue Lue l Neol - EcoRI | [ oA ~ * 4 45 +84 +25 +74 +697 EcoRI l xP x > x2 ¢Q a* 3* Pua « 5 ¢Q & & y a ?
+“ g ?
+” bﬁ `` $ F & `` re , +o 4 oto o $ oto o $ + 4+ 40+ 4 + # - +o took oto o $ 4 + +04 +o o+ % -o - pe- - e - $ - $ o # m ms `` + _- P m w P3 P P m MW 1 2 3 4 7 8 9 10 11 12 t 1.25 £ < G g 0.75 ha & em l 3 0.54 El 0 > £ € 0.25-3 o- o t Ix & r co co ig 19 i9 5 a Eo f fof f f f $ f $ ° % C Mut : GAG AA CA AA CA AG AG ATAGA WT : ITCT CC Ac CC AIC CT CT CGCACI « 64/-55 -54/-45 Fic .
+2 .
+Relative luciferase activity of the e-sis/PDGF-B promoter TRE ] site-directed mutants .
+Five ug of each reporter construct was transiently transfected into Jurkat-Tax cells which were then treated with 10 ng/ml TPA and 0.4 ug/ml ionomycin .
+The cells were subsequently lysed and assayed for luciferase activity as described under `` Materials and Methods . ``
+After subtraction of background activity from all of the reporter constructs , pRALuc was arbitrarily given a value of 1 and the activities of the other transfections were adjusted relative to this activity .
+The individual 2-3 base substitutions ( YL1-YL-7 ) are indicated .
+The span of the -64/-55 and -54/-45 linker-scanning substitution mutants are also indicated .
+Error bars represent 1 S.D .
+calculated from at least three independent experiments .
+WT , wild type .
+mutants were transiently transfected into Jurkat-Tax cells , which were then stimulated with TPA and ionomycin to transiently activate the expression of Egr-1 .
+Luciferase activity was then measured .
+As shown in Fig .
+2 , mutants YLO-YL3 each 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog HTLV-1 Tax Interacts with Sp1 and Egr-1 A Spl DNA ition alter Eg ] DNA ition alter Core 5 GCCCCACCCC - # 3- -5 5'- CNCCCNCNC - # 3 GNGGCNGNG -5° 64 _ Bpl Core 45 1 I 1 I 5- TCTCCACCCACCTCTCGCAC -3 3- AGAGGTGGGTGGAGAGCGTG -5 L______ # I Egr-1 Consensus B - simitar Regions Found in the & IL-2 Promoters : 64 Sp1 Core 45 I POC ] I 5'- AACCAGCCCACCAGAGGAGG -4 PTHrP Promoter : 3- TTGGTCGGGTGGTCTCCTCC -5 308 Sp1 Core -280 I I 1L-2 Promoter : 5+ TGTATCCCCACCCCCTTAAAGAA -9 3 ACATAGGGGTGGGGGAATTTCTT .5 L_ 22 Egr-1 Consensus Fic .
+3 .
+TRE1 of the c-sis/PDGF-B promoter contains Spl and Egr-1 consensus DNA recognition sequences similar to those found in the Tax-responsive promoters of the PTHrP and IL-2 genes .
+A , consensus DNA recognition sequences of the zinc finger transcription factors Spl and Egr-1 .
+The `` CCACCC `` motif , which comprises the core of the Sp1 DNA recognition sequence , is indicated .
+The CCACCC core motif of the Spl DNA recognition sequence and the Eigr-1 consensus DNA recognition sequence contained within TRE ] ( nucleo-tides -64 to -45 ) are indicated .
+B , representation of the Spl CCACCC core motif found in the -64 to -45 region of the PTHrP gene promoter , and , the Spl CCACCC core motif and Eigr-1 consensus DNA recognition sequence found in the -808 to -280 region of the IL-2 gene promoter .
+@ indicates a nucleotide which does not conform to the Eigr-1 consensus DNA recognition sequence .
+resulted in a decrease in activity comparable to that observed with either of the two 10-bp linker insertion mutants , -64/-55 and -54/-45 .
+In contrast , mutants YL4-YL7 were each significantly lower in activity than the wild-type , pRALuc , but no single mutant caused a reduction equal to that observed with either -64/-55 or -54/-45 .
+This analysis indicated the importance of a CCACCC motif ( ablated by mutants YL1-Y¥L3 ) , along with the importance of a GNGNGGGNG motif ( ablated by mutants YL1-YL5 ) , for Tax-responsiveness .
+The CCACCC motif has been previously identified as a cis-acting regulatory element , capable of binding members of the Sp family of transcription factors , in the promoters of several genes , some of which include the human embryonic eglobin gene ( 50 ) , the parathyroid hormone-related protein ( PTHrP ) gene ( 51 ) , the human IL-2 gene ( 52 ) , and the human leukosia-lin ( CD43 ) gene ( 53 ) .
+Likewise , the GNGNGGGNG motif ( 54 ) has been previously identified as a cis-acting regulatory element , capable of binding members of the immediate-early transcription factor gene family , in the promoters of several genes , some of which include the phenylethanolamine N-methylItrans-ferase gene ( 55 ) , the human tumor necrosis factor gene ( 56 ) , and the human IL-2 gene ( 52 ) .
+Shown in Fig .
+3A are the consensus DNA binding sequences for the Sp transcription factor family member , Spl ( 57 ) , containing the CCACCC motif in its core , and the immediate-early transcription factor gene family member , Egr-1 ( 54 ) .
+It is interesting to note that TRE1L contains both the Spl core recognition sequence and the Egr-1 consensus DNA recognition sequence ( Fig .
+34 ) .
+Initial EMSA analyses of T-cell line nuclear proteins that bound to TRE1L demonstrated that both Spl and Egr-1 did indeed bind to TRE1 , and that this binding was essential for Tax responsiveness ( 34 ) .
+Similar regions found in the PTHrP gene promoter and the IL-2 gene promoter , two genes that have also been 27415 demonstrated to be transactivated by Tax ( 58 , 59 ) , are shown in Fig .
+3B .
+The PTHrP promoter contains the core of the Spl consensus DNA recognition sequence ( the CCACCC motif ) , whereas , the IL-2 promoter contains both the core of the Spl consensus DNA recognition sequence ( the CCACCC motif ) , and the Egr-1 consensus DNA recognition sequence ( the GNGNGGGNG motif ) .
+HTLV-1 Tax Enhances the DNA Binding Activity of Sp1 and Egr-1-With the knowledge that two of the main TRE1-binding proteins consisted of Spl and Egr-1 , and that this binding was essential for Tax responsiveness , we next sought to investigate whether Tax could enhance the binding of either Spl or Egr-1 , or both , to TRE1 by EMSA analysis .
+A previous report on the effects of Tax on the DNA binding activity of eukaryotic transcription factors demonstrated that Tax enhanced the site-specific DNA binding activity of Spl to a GC-rich recognition sequence , containing a CCACCC motif , found within the HTLV-1 promoter ( 13 ) .
+This Spl-binding site in the HTLV-1 promoter is located in a region previously shown to be Tax-responsive in vivo ( 60 ) .
+As shown in Fig .
+4 , Tax dramatically increased the amount of protein-DNA complex formed between .
+Spl and a probe containing the TRE1l site ( compare lane 2 versus lane 3 ; Spl C1 ) .
+Similarly , Tax also dramatically increased the amount of protein-DNA complex formed between Egr-1 and the TREl probe ( compare lane 6 versus lane 7 ; Egr-1H , C1 ) .
+The binding of both Spl and Egr-1 was specific for the TRE1 probe since an excess of unlabeled TRE1 probe competed for their binding ( ane 4 and lane 8 , respectively ) .
+Interestingly , the addition of Tax to the binding reaction mixtures of both Spl and Egr-1 also resulted in the formation of an additional shifted complex ( Spl C2 and Egr-1H , C2 , respectively ) migrating slower than either Spl C1 or Egr-1H4 C1 ( lanes 3 and 7 , respectively ) .
+We next investigated the importance of the CCACCC and GNGNGGGNG motifs , contained within TRE1 , for Spl and Egr-1 binding , in both the presence and absence of Tax .
+As shown in Fig .
+4 , the binding of both Spl and Egr-1 , in the presence and absence of Tax , was completely abolished when a probe containing both a mutated CCACCC motif , and GNGNGGGNG motif , was used in the EMSA analysis ( lanes 9-13 ) .
+Thus , these results demonstrate Tax 's ability to increase the DNA binding activity of the zinc finger transcription factors , Spl and Egr-1 , to TRE1 , along with the relative importance of the CCACCC and GNGNGGGNG motifs contained within Ternary Complex Formation between Either Sp1 or Egr-1 , Tax , and DNA-The observation that the addition of Tax to the binding reaction mixtures resulted in the formation of additional , slower migrating , shifted complexes ( Fig .
+4 and Fig .
+5 , Spl C2 and Egr-1H , , C2 ) prompted us to investigate the possibility that Tax , itself , was stably incorporated into the complex .
+We addressed this possibility by antibody supershift analysis utilizing the TRE1 probe mentioned above .
+As shown in Fig .
+5 , when an antibody directed against Tax was included in either the Spl ( compare lane 4 versus lanes 2 and 3 ) or Egr-1 ( compare lane 7 versus lanes 5 and 6 ) samples containing Tax , not only was Tax-mediated enhancement of binding abolished , but also , basal binding of Spl and Egr-1 was completely abolished .
+Sur-prisingly , the addition of anti-Tax antibody did not give rise to the formation of antibody supershifted complexes , but , rather , completely blocked the formation of all shifted complexes .
+This effect was not due to the antibody directly interfering with the binding activity of Spl or Egr-1 , since their binding was not inhibited by the antibody in the absence of Tax ( Zane 8 and lane 9 , respectively ) .
+In addition , this effect of the antibody was specific for Tax , since preimmune serum did not affect Tax-mediated enhancement of either Spl or Egr-1 binding ( lane 10 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog 27416 HTLV-1 Tax Interacts with Sp1 and Egr-1 8 `` qu ‘ so “ 24 & ® f ye ?
+Qfxy & ° $ g ’ & x y » # PSs wsﬁyﬁ “ ff C 2 > _ > ¥ ® a & ¢ & ¢ & # & o of 1 8 40 50 60 7 8s g 10 11 12 13 Pt * Spl C2 - > » SiG % , u -e-Egr-1Hg C2 ’ . '
+- « -Egr-1Hg C1 L _L ] TRE1 probe TRE1-mSp1 probe Fig .
+4 .
+Enhancement of Spl and Egr-1 DNA binding activity by Tax .
+DNA binding activities of Spl and Eigr-1 were assayed by EMSA analysis in the presence and absence of Tax .
+Purified Spl ( ~1 ng ) ( Zanes 2-4 ) , or purified Egr-1H , , ( ~1 ng ) ( lanes 6-8 ) were incubated with a probe containing the TRE1 site of the c-sis/PDGF-B promoter .
+Binding reactions were carried out in the absence ( lanes 2 and 6 , respectively ) or presence of TaxH , , ( Zanes 3 and 7 , respectively ) .
+To demonstrate specificity of binding , Spl ( Zane 4 ) and Egr-1H , ( Zane 8 ) were incubated in the presence of a 1000-fold molar excess of unlabeled TRE1 probe .
+As a control , the TRE1 probe was incubated by itself ( Zane 1 ) or with TaxH , , only ( Zane 5 ) .
+To demonstrate the importance of TRE1 for Spl and Egr-1H , , binding , Sp1 and Egr-1H , , were incubated with a probe containing a mutated TRE1 site , TRE1-mSpl ( see `` Materials and Methods `` ) , in the absence ( anes 10 and 12 , respectively ) or presence of TaxH , ( Zanes 11 and 13 , respectively ) .
+Binding reactions were carried out as described under `` Materials and Methods . ``
+Similar results were observed using dilutions of TaxH , , down to 25 ng .
+Spl shifted complexes , Spl C1 and Spl C2 , are indicated on the left side of the gel by arrows .
+Egr-1H , shifted complexes , Egr-1H , C1 and Egr-1H , , C2 , are indicated on the right side of the gel by arrows .
+Lanes containing TRE1 probe , or the mutated TRE1 probe , TRE1-mSp1l , are indicated .
+Q ‘ eva £15913 , “ 23 , & °§ .
+$ 0 & j®¢ ; y° 490 N I hs © y * a COR F & $ 8 & & € & & 3 10 2 % 8 4 50 60 70 8 9 10 11 12 1 6 A Sp1 C2 - > » - < -*nsp Spl C1 - > » ( a -e-Egr-1Hg C2 u “ Fd -e-Egr-1Hg C1 TREL1 probe Fic .
+5 .
+Inhibition of Tax-mediated enhancement of Spl and Egr-1 DNA binding activity by Tax-specific antisera .
+Spl and Egr-l Tax-mediated supershift complex formation was assayed by EMSA analysis using Tax-specific antisera .
+Purified Spl ( ~1 ng ) was incubated with a probe containing the TRE1 site of the c-sis/PDGF-B promoter either alone ( ane 2 ) , in the presence of TaxH , ( Zane 3 ) , or in the presence of TaxH , and 2 pul of Tax-antisera ( @ TaxC Ab ) ( Zane 4 ) .
+Purified Egr-1H , ( ~1 ng ) was incubated with a probe containing the TRE1 site of the c-sis/PDGF-B promoter alone ( Zane 5 ) , in the presence of TaxH , , ( Fane 6 ) , or in the presence of TaxH , and 2 ul of aTaxC Ab ( Zane 7 ) .
+To demonstrate that the eTaxC Ab did not effect Spl or Egr-1H , , binding in the absence of TaxH , , both Sp1 ( Zane 8 ) and Egr-1H , , ( lane 9 ) were incubated in the presence of aTaxC Ab alone .
+Specificity of eTaxC Ab is demonstrated by incubation of either Spl ( lane 10 ) or Egr-1H , ( Zane 11 ) , with preimmune sera in the presence of TaxH , .
+As a control , the TRE1L probe was incubated by itself ( Zane 1 ) , with « TaxC Ab only ( Zane 12 ) , or with preimmune sera only ( lane 13 ) .
+Binding reactions were carried out as described under `` Materials and Methods . ``
+Sp1 shifted complexes , Spl C1 and Spl C2 , are indicated on the left side of the gel by arrows .
+Egr-1H , , shifted complexes , Egr-1H , , C1 and Egr-1H , C2 , are indicated on the right side of the gel by arrows .
+*nsp indicates a nonspecific shifted complex .
+and lane 11 , respectively ) .
+Thus , these results support the possibility that Tax is incorporated into the shifted complexes , resulting in the formation of ternary complexes , possibly through protein-protein contacts with Spl and Eigr-1 .
+HTLV-1 Tax Physically Interacts with Both Sp1 and Egr-1-To investigate the potential interaction of Tax with either Spl or Egr-1 , in vitro co-immunoprecipitation experiments were performed using purified proteins .
+Samples containing either Sp1 , plus and minus TaxH , , or Egr-1H,4 , plus and minus TaxH , were incubated in Superdex buffer , immunoprecipitated with « -Tax monoclonal antibodies and the immune com plexes were analyzed by Western blotting .
+As shown in Fig .
+6A , for co-immunoprecipitation reactions involving Spl , a band of approximately 95 kDa ( corresponding to Spl ) was detected in the sample incubated in the presence of Tax ( Zane 3 ) , whereas it was not detected in the sample incubated in the absence of Tax ( Zane 5 ) .
+Similarly , for co-immunoprecipitation reactions involving Egr-1H4 , a band of approximately 85 kDa ( corresponding to Egr-1H , , ) was detected in the sample incubated in the presence of Tax ( Fig .
+6B , lane 4 ) , whereas it was not detected in the sample incubated in the absence of Tax ( Fig .
+6B , lane 5 ) .
+Similar amounts of TaxH , were immunoprecipitated in 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog HTLV-1 Tax Interacts with Sp1 and Egr-1 A $ * S $ so $ 8 8 o® 4T } x x $ 3 ( 3 CP F Fo 8 « 5 kDa af `` ef a¥ « ¥ ® # 1 2 3 4 5 6 137 -- -- Spl 79 -- IP c-Tax WB o-Spl B $ ® B & as & , C .
+# « $ `` 6 o `` $ its - $ P & & $ & s 1 2 3 4 5 6 137 -e- Egr-1Hg T9 -- -6 -- Heavy Chain o-Tax WB .
+: - o-Egr-l C $ ° ¥ s $ @ « # & & o `` ” 032 xQ ’ x 6:00 * fa $ * 3 ’ 6 woo é ” < ® 2 < kDa € hs 5 # 1 2 3 4 5 6 42.3 -- Cap cp ep -- TaxHg 31.6 IP .
+: o-Tax WB .
+: o-Tax Fic .
+6 .
+Co-immunoprecipitation of purified Spl and Egr-1 with purified Tax .
+Either ~200 ng of purified Spl and ~400 ng of purified TaxH , or ~200 ng of purified Egr-1H , , and ~400 ng of purified TaxH , were preincubated in 1 X Superdex buffer for 15 min at room temperature and co-immunoprecipitation ( Co-IP ) reactions were carried out as described under `` Materials and Methods . ``
+A , immunoblot against Spl demonstrating co-immunoprecipitation ( Co-IP ) with TaxH , using aTax mAbs ( lane 3 ) .
+The Spl band is indicated by an arrow to the right of the gel .
+B , immunoblot against Egr-1H , , demonstrating co-immunoprecipitation with TaxH , , using aTax mAbs ( lane 4 ) .
+A mouse secondary antibody , recognizing the heavy chain component of the « Tax mAbs , was included in the co-immunoprecipitation reaction to demonstrate equivalent amounts of protein in each sample ( Fanes 1-6 ) .
+* indicates a nonspecific band .
+The Egr-1H , , heavy chain , and * nonspecific bands are indicated by arrows to the right of the gel .
+C , immunoblot against TaxH , demonstrating equivalent amounts of TaxH , protein in each co-immunoprecipitation reaction ( Zanes 2-4 ) .
+The TaxH , bands are indicated to the right of the gel by arrows .
+Negative controls are included in Zanes 1 , 2 , 5 , and 6 in each panel .
+Molecular weight markers are indicated in kilodaltons ( kDa ) to the left of each panel .
+WB , Western blot .
+each sample ( Fig .
+6C , lanes 2-4 ) .
+To further demonstrate the relevance of these interactions , co-immunoprecipitation reactions were performed using whole cell extracts prepared from the HTLV-1 infected T-cell line , MT2 .
+As shown in Fig .
+7A , for co-immunoprecipitation reactions involving Spl , a band of approximately 95 kDa ( corresponding to Spl ) was detected in the sample incubated in the presence of a-Tax monoclonal antibodies ( lane 1 ) , whereas it was not detected in the sample incubated in the absence of « -Tax monoclonal antibodies ( Zane 2 ) .
+This band also comigrated with the bands detected in the positive control samples 27417 A MT2 WCE ( + ) « Tax mAbs + _ _ se me MT2 WCE ( - ) « Tax mAbs | - + - - TaxHg - - % a we J.E6.1 N.E .
+Stim .
+= - - 0 - 0 # $ Sp1 = > < - o- o= # kDa 10 2 8 4 5 137 70 -_ < - Spl WB : aSp1l 42.3 -- 31.6 137 TQ sam WB : oTaxC 42.3 - | « am » same 31.6 < - Tax IP : cTax mAbs B MT2 WCE ( + ) cTax mAbs MT2 WCE ( - ) cTax mAbs - + =~ TaxHg - =- + = J.E6.1 N.E .
+Stim .
+- - - + kDa 1 2 3 4 137 - < - Egr-1 42.3 31.6 137 T9 -= 123 -| - em can 31.6 < - Tax IP : cTax mAbs Fic .
+7 .
+Co-immunoprecipitation of Spl and Egr-1 with Tax from HTLV-1 infected T-cells .
+Whole cell extracts were prepared from 100 x 10° MT2 cells and co-immunoprecipitation reactions were carried out as described under `` Materials and Methods . ``
+A , immunoblots against Spl and Tax demonstrating co-immunoprecipitation ( Co-IP ) of Spl with Tax using « Tax mAbs ( Zane 1 ) .
+The Spl and Tax bands are indicated by arrows to the right of the each gel .
+B , immunoblots against Egr-1 and Tax demonstrating Co-IP of Egr-1 with Tax using oTax mAbs ( lane 1 ) .
+The Egr-1 and Tax bands are indicated by arrows to the right of the each gel .
+Negative controls are included in lane 2 of each immunoblot in panels A and B .
+Positive controls for Spl are included in lanes 4 and 5 in the Spl Western blot ( WB ) in panel A .
+Positive controls for Egr-1 are included in lane 4 in the Egr-1 WB in panel B .
+Positive controls for Tax are included in lane 3 in the Tax Western blot in panels A and B. Molecular weight markers are indi- cated in kilodaltons ( kDa ) to the eft of each individual Western blot .
+using nuclear extract prepared from mitogen-stimulated Jurkat E6.1 cells and purified Spl ( Fig .
+7A , lanes 4 and 5 , respectively ) .
+Similarly , for co-immunoprecipitation reactions involving Egr-1 , a band of approximately 85 kDa ( corresponding to Egr-1 ) was detected in the sample incubated in the presence of « -Tax monoclonal antibodies ( Fig .
+7B , lane 1 ) , whereas it was not detected in the sample incubated in the absence of « e-Tax monoclonal antibodies ( Fig .
+7B , lane 2 ) .
+This band also comigrated with the band detected in the positive control sample 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog 27418 16 14 4 12 10 4 8 ~ 6 Fold Induction & s gr $ & & `` xéy 8 - , J / # ¢ & 00x x 00x O ‘ Ix ap CV & ¢ ¢ g Constructs Fic .
+8 .
+Transactivation ability of HTLV-1 Tax mutants on the e-sis [ PDGF-B promoter in Jurkat E6.1 cells .
+One ug of the pRALuc luciferase reporter plasmid was transiently transfected into Jurkat E6.1 cells either alone or cotransfected with 3 ug of the wild-type Tax expression plasmid , IEX , or the Tax mutant expression plasmids IEXS10A , IEXC29S , IEXH4S3Q , IEXS258A , and IEXL820G .
+The cells were then treated with 10 ng/ml TPA and 0.4 pg/ml ionomycin and subsequently lysed and assayed for luciferase activity as described under `` Materials and Methods . ``
+After subtraction of background activity from all of the reporter constructs , pRALuc was arbitrarily designated as 1 X fold induction and the activities of the other transfections were adjusted relative to this activity .
+Krror bars represent 1 S.D .
+calculated from at least two independent experiments .
+using nuclear extract prepared from mitogen-stimulated Jurkat E6.1 cells ( Fig .
+7B , lane 4 ) .
+Taken together , these findings demonstrate that Tax physically interacts with both Spl and Egr-1 , through protein-protein contacts .
+Ability of HTLV-1 Tax Mutants to Transactivate the c-sis/ PDGF-B Promoter-To examine the transactivation activities of Tax mutants on the c-sis/PDGF-B promoter , Jurkat E6.1 cells were transiently transfected with the pRALuc luciferase reporter plasmid either alone or together with the wild-type or mutant Tax expression plasmids , IEX , IEXS10A , IEXC29S5 , IEXH43Q , IEXS258A , and IEXL8320G .
+The cells were then stimulated with TPA and ionomycin to transiently activate the expression of Egr-1 .
+Luciferase activity was then measured .
+As shown in Fig .
+8 , wild-type Tax , IEX , resulted in a greater than 14-fold induction of the e-sis/PDGF-B promoter and Tax mutants IEXS10A , IEXH43Q , and IEXS258A all resulted in a 4-fold or greater induction .
+In contrast , Tax mutants IEXC298 ( < 2-fold ) and IEXL320G ( 2-fold ) were significantly impaired in their ability to transactivate the c-sis/PDGF-B promoter .
+Analysis of HTLV-1 Tax Mutants IEXC29S and IEXL320G to Interact with Egr-1-With the knowledge that the HTLV-1 Tax mutants IEXC29S and IEXL820G were unable to significantly transactivate the c-sis/PDGF-B promoter , we reasoned that this might be a result of their inability to interact with Egr-1 .
+The idea of focusing on the interaction between Tax and Egr-1 , and not Tax and Sp1 , is based on the observations that Spl and Egr-1-binding sites in the c-sis/PDGF-B promoter overlap and Spl is displaced by increasing amounts of Egr-1 that arise upon stimulation ( 37 ) .
+To investigate Tax-Egr-1 interactions , we performed a series of co-immunoprecipitation reactions in which the wild-type Tax expression plasmid , IEX , or the Tax mutant expression plasmids , IEXC295 and IEXL320G , were transiently cotransfected into COS-7 cells along with the Egr-1 expression plasmid , pJDM948 , and immunoprecipitated with « e-Tax monoclonal antibodies .
+The immune complexes were then analyzed by Western blotting .
+As shown in Fig .
+9 , a band HTLV-1 Tax Interacts with Sp1 and Egr-1 137 -= 70 ) =a i= tt # # | < - Egr-l WB : cEgr-1 42.3 === 31.6 -- = 79 « == WB : cTaxC im as a wa as wt < - Tax 42.3 === 31.6 IP : cTax mAbs Fic .
+9 .
+Co-immunoprecipitation analysis of HTLV-1 Tax mutants and Egr-1 .
+Five ug of the wild-type Tax expression plasmid , IEX ( lane 2 ) , or the Tax mutant expression plasmids IEXC298S ( Zane 3 ) , and IEXL320G ( Zane 4 ) , were transiently transfected into COS-7 cells either alone or cotransfected with the Egr-1 expression plasmid , pJDM948 ( lanes 5-7 , respectively ) .
+Whole cell extracts were prepared and co-immunoprecipitation reactions were carried out as described under `` Materials and Methods . ``
+Five ug of pJDM948 was also transfected alone into COS-7 cells as a control for Egr-1 expression ( Zane 8 ) .
+For the Egr-1 alone sample , a whole cell extract was prepared by three cycles of freeze-thawing in an ethanol/dry ice bath and 37 °C water bath .
+Western blots ( WB ) for Egr-1 and Tax are indicated to the Zeft of each blot .
+The Egr-1 and Tax bands are indicated by arrows to the right of the each gel .
+Molecular weight markers are indicated in kilodaltons ( kDa ) to the left of each individual Western blot .
+of approximately 85 kDa , corresponding to Egr-1 , was detected in the sample containing wild-type Tax , IEX ( lane 5 ) , and interestingly , also in the sample containing the Tax mutant IEXL320G ( Zane 7 ) .
+This band also comigrated with the band detected in the positive control sample using a whole cell extract prepared from COS-7 cells transfected with the Eigr-1 expression plasmid alone ( Fig .
+9 , Zane 8 ) .
+In contrast , this same band , corresponding to Egr-1 , was not detected in the sample containing the Tax mutant IEXC29S5 ( Fig .
+9 , lane 6 ) .
+Thus , these results suggest that protein-protein interactions between Tax and Egr-1 are necessary , but not sufficient , to support Tax-mediated transactivation of the c-sis/PDGF-B promoter .
+DISCUSSION In this study , we have investigated the mechanism of HTLV-1 Tax-mediated transactivation of the c-sis/PDGF-B promoter by in vitro transcription assay and site-directed mutation analysis , along with EMSA and co-immunoprecipitation analysis .
+We have shown by in vitro transcription assay analysis that addition of Tax to the in vitro transcription reaction led to an 11-fold increase in RNA synthesis ( Fig .
+1B , compare lane 3 versus lane 2 ) .
+It has previously been reported that Tax-mediated in vitro transcription from the HTLV-1 promoter is resistant to low levels of e-amanitin ( at low concentrations , a « -amanitin selectively inhibits RNA pol II ) in reactions containing either HeLa or CEM T-cell extract .
+This is surprising in light of the fact that the HTLV-1 promoter contains all of the structural features of a typical RNA pol II transcription tem-plate : a TATA box ~30 bp upstream of the transcription initiation site , binding sites for several pol II transcription factors , and long poly ( A ) RNA is synthesized from the integrated HTLV-1 proviral DNA in vivo .
+In addition , in vitro transcription experiments , supported by either Hela or CEM T-cell extracts , showed that the HTLV-1 promoter contains overlapping transcription units which utilize the same transcription initiation site as that of pol II-dependent transcription .
+Fur 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog HTLV-1 Tax Interacts with Sp1 and Egr-1 thermore , neutralization and depletion experiments with pol II antibodies strongly suggested that classical pol II is not involved in the HTLV-1 overlapping transcription unit ( 61 , 62 ) .
+Similarly , the e-sis/PDGF-B promoter contains all of the structural features of a typical RNA pol II transcription tem-plate : a TATA box ~30 bp upstream of the transcription initiation site , binding sites for several pol II transcription factors , and poly ( A ) * RNA transcripts are synthesized from the promoter .
+Given the above mentioned data and the fact that our in vitro run-off transcription assays were supported by nuclear extracts prepared from stimulated Jurkat E6.1 T-cells , we tested our in vitro transcription assays for pol II-dependent transcription .
+We showed that both transcription in the absence of Tax , and Tax-mediated transactivation , was completely inhibited at a low concentration of « -amanitin ( Fig .
+1B , compare lanes 5 and 6 versus lanes 2 and 3 ) .
+In addition , we also demonstrated the relevant importance of the TRE1 region for Tax-mediated transactivation by using DNA templates containing linker-insertion substitution mutations within TRE1 ( Fig .
+1B , lanes 7-10 ) .
+This would suggest that the binding of Spl or Egr-1 to TRE1 is essential for transactivation mediated by Tax .
+Together , these results indicated that Tax was able to greatly stimulate RNA synthesis in vitro from the c-sis/ PDGF-B promoter , and that this Tax-mediated transactivation was dependent not only on RNA pol II , but also on the binding of either Spl or Egr-1 to the TRE1 region .
+When the SIS-Lue TRE1 site-directed mutants were analyzed for Tax-responsiveness , a CCACCC motif ( mutants YL1-YL3 ) and a GNGNGGGNG motif ( mutants YL1-YL5 ) were clearly identified as being essential for conferring Tax responsiveness in stimulated Jurkat-Tax cells ( Fig .
+2 ) .
+That the results observed in this experiment were indeed due to Tax and not a result of the effects of TPA and ionomycin stimulation is evidenced by the fact that we have previously ( 34 ) analyzed a series of linker-scanning substitution mutants within the TRE1 region using unstimulated Jurkat E6.1 cells versus unstimulated Jurkat-Tax cells and observed the same results as those presented in this article .
+It should also be noted that stimulation in the presence of Tax results in a synergistic activation of the c-sis/PDGF-B promoter .
+Stimulation is necessary to transiently activate the expression of Egr-1 .
+The CCACCC motif has been previously reported to be a positive regulatory element in the promoters of several genes , capable of binding members of the Sp family of zinc finger transcription factors ( 50-53 ) .
+Indeed , the nucleotides CCACCC also comprise the core nucleotide sequence of the DNA recognition sequence for the Sp family member , Spl ( Fig .
+34 ) ( 57 ) .
+This same CCACCC motif has also been demonstrated to be critical for transcription of the c-sis/PDGF-B gene in the human osteosarcoma cell line , U2-O8 , involving the Sp family members , Spl and Sp3 ( 35 , 38 ) .
+Likewise , the GNGNGGGNG motif has also been previously reported to be a positive cis-acting regulatory element found in the promoters of several genes , capable of binding the zinc finger transcription factor Eigr-1 , which is a member of the immediate-early transcription factor gene family ( 52 , 55 , 56 ) .
+Previous work from our laboratory ( 34 ) demonstrated that the main nuclear factors binding to TRE1L from the stimulated T-cell lines , Jurkat E6.1 and Jurkat-Tax , along with the HTLV-1 infected T-cell line , HUT1O2 , included the Sp family members Spl and Sp3 , along with the immediate-early transcription factor gene family member , Egr-1 .
+Fur-thermore , it should be noted that since the TRE1 region of the c-sis/PDGF-B promoter contains overlapping binding sites for the Sp family members , Spl and Sp3 , and the immediate-early transcription factor gene family member , Egr-1 , these factors can not associate together and simultaneously bind to TREL .
+27419 Indeed , it has recently been shown that in unstimulated cells , Spl occupies this element and is displaced by increasing amounts of Egr-1 upon stimulation ( 87 ) .
+Both the CCACCC motif , and the GNGNGGGNG motif , are also found in the promoters of two genes previously shown to be up-regulated and transactivated by Tax .
+These include the PTHrP gene and the IL-2 gene ( Fig .
+3B ) ( 58 , 59 ) .
+These motifs represent binding sites for members of the zinc finger family of transcription factors .
+This proves to be interesting in light of previous experiments carried out to investigate the mecha-nism { ( s ) of Tax-mediated transactivation .
+Site-directed muta-tional analysis of Tax has allowed for an approximate demarcation of regions within the Tax protein itself necessary for transactivation ( 41 , 63 ) .
+These analyses indicated that Tax transactivation of viral and cellular promoters occurs through at least two distinct cellular transcription pathways : 1 ) the CREB/ATF family and 2 ) the NFxB/Rel protein family of transcription factors .
+It now appears that an additional Tax-mediated transactivation pathway exists involving members of the zinc finger family of transcription factors .
+EMSA analysis showed that Tax dramatically enhanced the site-specific DNA binding activity of the zinc finger transcription factors Spl ( Fig .
+4 , compare lane 2 versus lane 3 ) and Egr-1 ( Fig .
+4 , compare lane 6 versus lane 7 ) to a probe containing the TRE1 site .
+This is consistent with previous reports which suggested that Tax may deregulate target genes by enhancing the DNA binding activity of the cellular transcription factors that recognize the Tax-responsive promoter elements ( 19 , 20 , 64 ) .
+Indeed , Tax has been shown to increase the DNA binding activity of a wide variety of eukaryotic transcription factors , including , members of the CREB/ATF family of proteins , serum response factor , Fos-Jun , and the NFB subunits , p50 and p65 ( 13 , 14 ) .
+Mutation of the CCACCC and GNGNGGGNG motifs prevented the binding of Spl and Eigr-1 , respectively , to the TRE1 probe , in both the presence and absence of Tax ( Fig .
+4 , lanes 9-13 ) .
+This further demonstrated the importance of each of these motifs for conferring Tax responsiveness .
+EMSA analysis also indicated that Tax altered the mobility of both the Sp1l-DNA complex ( Fig .
+4 , lane 3 , Spl C2 ) and the Egr-1-DNA complex ( Fig .
+4 , lane 7 , Egr-1H4 C2 ) , suggesting that the observed increase in DNA binding activity for Spl and Egr-1 ( mediated by Tax ) involves Tax entering into the com-plex , leading to the formation of ternary complexes .
+It is possible that the Spl C2 and Egr-1H , C2 complexes are the result of Tax increasing the affinity of a less abundant complex that was previously not visible in the Tax-minus samples ( Fig .
+4 , lanes 2 and 6 , respectively ) .
+However , this was not the case since these CZ complexes were not observed upon overexposure of the autoradiogram ( data not shown ) .
+This was further substantiated by the finding that an antibody directed against the C-terminal 13 amino acids of Tax was able to completely abolish the formation of the Spl-DNA complexes Spl C1 and Spl C2 ( Fig .
+5 , lane 4 ) , and the Egr-1H , complexes , Egr-1H,4 C1 and Egr-1H4 C2 ( Fig .
+5 , lane 7 ) , when added to the samples containing Tax .
+This is indicative of a potentially strong interaction between Tax and both Spl and Egr-1 , in which binding of the antibody to Tax sterically interferes with their ability to bind DNA .
+As a result , if all of the Spl and Egr-1 in the sample is complexed with Tax , then , no binding whatsoever should occur .
+Further investigation of the physical interaction between Tax and both Spl and Egr-1 , by co-immunoprecipitation analysis , showed that Tax did , indeed , stably interact with , and bind to , both purified Spl ( Fig .
+6A , lane 3 ) and purified Egr-1 ( Fig .
+6B , lane 4 ) .
+In addition , it was also demonstrated by co-immunoprecipitation analysis that Tax interacts with both 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog 27420 Spl ( Fig .
+7A , lane 1 ) and Egr-1 ( Fig .
+7B , lane 1 ) in intact cells .
+These results represent the first demonstration that Tax physically interacts with members of the zinc finger family of transcription factors .
+Analysis of the ability of Tax mutants to transactivate the c-sis/PDGF-B promoter identified two Tax mutants , IEXC298 and IEXL320G , that were significantly impaired in their ability to transactivate the c-sis/PDGF-B promoter ( Fig .
+8 ) .
+Co-immunoprecipitation analysis also revealed that Tax mutant IEXC29S8 was unable to interact with Egr-1 ( Fig .
+9 , compare lane 5 versus lane 6 ) , whereas , in contrast , Tax mutant IEXL320G was able to interact with Egr-1 ( Fig .
+9 , compare lane 5 versus lane 7 ) .
+This would suggest that an interaction between Tax and Egr-1 is necessary , but not sufficient , to support Tax-mediated transactivation of the c-sis/PDGF-B promoter .
+The fact that Tax mutant IEXL320G still binds to Egr-1 , but fails to transactivate the c-sis/PDGF-B promoter , is not unex-pected .
+The defect in IEXL320G most likely results from a mutation in the transactivation domain of Tax .
+Indeed , the presence of such a domain in Tax has been previously demonstrated ( 65 ) .
+It was shown that amino acid residues 284 to 322 in the carboxyl-terminal region of Tax constituted a functional transactivation domain .
+Similar mutations of the same amino acid residues in Tax have been reported to be defective in transactivation of the HTLV-1 long terminal repeat by Tax , but have been shown to still be able to interact with CREB and the HTLV-1 21-bp repeats to assemble ternary Tax-CREB-DNA complexes ( 66 ) .
+As mentioned above , Tax is able to increase the DNA binding activity of a wide variety of eukaryotic transcription factors .
+Perhaps the best characterized of these is the basic region-leucine zipper ( bZIP ) DNA-binding domain family , which includes members of the CREB/ATF protein family .
+Dimerization is essential for bZIP proteins to bind DNA .
+Consequently , it was demonstrated that Tax stimulated the DNA binding activities of CREB/ATF proteins both quantitatively and qualitatively ( 67-69 ) .
+First , it was shown that Tax enhanced dimer-ization , thereby increasing the overall level of DNA binding .
+Second , Tax altered DNA-binding site selectivity .
+Several reports then demonstrated that Tax was able to physically interact with several members of the CREB/ATF protein family ( 66 , 70 , 71 ) .
+A more recent report demonstrated that the physical interaction between the bZIP protein , CREB , and Tax to form a Tax-CREB-DNA ternary complex involves the incorporation of Tax into the ternary complex as a dimer .
+In addition , the ability of Tax to form a dimer was shown to be necessary for its interaction with CREB ( 72 ) .
+It has not escaped our attention that Tax 's interactions with bZIP proteins deals exclusively with the ability of both Tax , and the bZIP protein , to dimerize .
+When one considers the situation involving the interaction ( s ) between Tax and members of the zinc finger family of transcription factors , the fact that zinc finger transcription factors do not normally dimerize prior to DNA binding , or , that dimerization is not essential for their DNA binding activity , immediately becomes apparent .
+The results presented in this article support the possibility of the existence of an additional , as yet uncharacterized , pathway of transactivation by Tax involving members of the zinc finger family of transcription factors .
+Several questions as to the exact nature of this interaction between Tax and zinc finger family transcription factors still remain to be answered .
+First , and foremost , the issue of whether Tax dimerization is necessary for engaging in interactions with zinc finger transcription factors will have to be addressed .
+In addition , a more detailed analysis of the domains within Tax that are responsible for interacting with the various zinc finger family transcription factor HTLV-1 Tax Interacts with Sp1 and Egr-1 members will need to be undertaken .
+Experiments are currently underway to address these and other aspects of the Tax-mediated transactivation of the c-sis/PDGF-B proto-oncogene .
+Acknowledgments-We thank J. Milbrandt for the NGFI-A/Eigr-1 expression plasmids pJDM1731 and pJDM948 , W. C. Greene for the TaxH , expression plasmid and the aTaxC antisera , and O. J. Semmes for the Tax expression plasmids IEX , IEXS10A , IEXC29S , IEXHA43Q , IEXS258A , and IEXL820G .
+We also thank D. C. Dean , T. J. Ley , J. E. Majors , and D. B. Wilson for helpful discussions and critical reading of the manuscript .
+REFERENCES .
+Ratner , L. , and Poiesz , B. J .
+( 1988 ) Medicine 67 , 401-422 2 .
+Bangham , C. R. M. , Daenke , S. , Phillips , R. E. , Cruickshank , J. K. , and Bell , J. I .
+( 1988 ) EMBO J .
+7 , 4179-4184 3 .
+Bhagavati , S. , Ehrlich , G. , Kula , R. W. , Kwok , S. , Sninsky , J. , Udani , V. , and Poiesz , B. J .
+( 1988 ) N. Engl .
+J. Med .
+818 , 1141-1147 4 .
+Brady , J. , Jeang , K.-T. , Duvall , J. , and Khoury , G. ( 1987 ) J. Virol .
+61 , 2175-2181 5 .
+Felber , B. K. , Paskalis , H. , Kleinman-Ewing , C. , Wong-Staal , F. , and Pavlakis , G. N. ( 1985 ) Science 229 , 675-679 6 .
+Paskalis , H. K. , Felber , B. K. , and Pavlakis , G. N. ( 1986 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+88 , 6558-6562 7 .
+Seiki , M. , Inoue , J. L. , Hidaka , M. , and Yoshida , M. ( 1988 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+85 , 7124-7128 8 .
+Sodroski , J. G. , and Greene , W. C. ( 1990 ) Genes Dev .
+4 , 1875-1885 9 .
+Li , M. , and Siekevitz , M. ( 1998 ) Mol .
+Cell .
+Biol .
+18 , 6490-6500 10 .
+Ratner , L. ( 1989 ) Nucleic Acids Res .
+17 , 4101-4115 11 .
+Nyborg , J. K. , Dynan , W. S. , Chen , I. S. , and Wachsman , W. ( 1988 ) Proc .
+Nat .
+Acad .
+Sci .
+U. S. A .
+85 , 1457-1461 12 .
+Altman , R. , Harrich , D. , Garcia , J .
+A. , and Gaynor , R. B .
+( 1988 ) J. Virol .
+62 , 1339-1346 13 .
+Armstrong , A. P. , Franklin , A .
+A. , Henbogaard , M. N. , Giebler , H. A. , and Nyborg , J. K. ( 1993 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+90 , 7808-7307 14 .
+Franklin , A .
+A. , Kubik , M. F. , Uittenbogaard , M. N. , Brauweiler , A. , Utaisincharoen , P. , Matthews , M-A .
+H , Dynan , W. S. , Hoeffler , J. P. , and Nyborg , J. K. ( 1993 ) J. Biol .
+Chem .
+268 , 21225-21231 15 .
+Seeler , J-S. , Muchardt , C. , Podar , M. , and Gaynor , R. B .
+( 1993 ) Virology 196 , 442-450 16 .
+Suzuki , T. , Fujisawa , L , Toita , M. , and Yoshida , M. ( 1998 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+90 , 610-614 17 .
+Wagner , S. , and Green , M. R. ( 1993 ) Science 262 , 395-399 18 .
+Yin , M. N. , Paulssen , E. , Seeler , J. , and Gaynor , R. B .
+( 1995 ) J. Virol .
+69 , a 6209-6218 19 .
+Zhao , L. J. , and Giam , C. Z .
+( 1991 ) Proc .
+Nafl .
+Acad .
+Sci .
+U. S. A .
+88 , 11445-11449 20 .
+Zhao , L. J. , and Giam , C. Z .
+( 1992 ) Proc .
+Natl .
+Acad .
+Sci .
+U.S. A .
+89 , 7070-7074 21 .
+Jeang , K.-T. , Widen , S. G. , Semmes , O. J. , IV , and Wilson , S. H. ( 1990 ) Science 247 , 1082-1084 22 .
+Uittenbogaard , M. N. , Armstrong , A. P. , Chiaramello , A. , and Nyborg , J. K. ( 1994 ) J. Biol .
+Chem .
+269 , 22466-22469 23 .
+Doolittle , R. F. , Hunkapiller , M. W. , Hood , L. E. , Devare , S. G. , Robbins , K. C. , Aaronson , S. A. , and Antoniades , H. N. ( 1983 ) Science 221 , 275-277 24 .
+Waterfield , M. D. , Scrace , G. T. , Whittle , N. , Stroobant , P. , Johnsson , A. , Wasteson , A. , Westermark , B. , Heldin , C-H. , Huang , J. S. , and Devel , T. F. ( 1983 ) Nature 804 , 35-39 25 .
+Pantazis , P. , Sariban , E. , Bohan , C. A. , Antoniades , H. N. , and Kalyanaraman , V. S. ( 1987 ) Oncogene 1 , 285-289 26 .
+Clarke , M. F. , Westin , E. , Schmidt , D. , Josephs , S. F. , Ratner , L. , Wong-Staal , F. , Gallo , R. C. , and Reitz , M. S. , Jr. ( 1984 ) Nature 808 , 464-467 27 .
+Josephs , S. F. , Ratner , L. , Clarke , M. F. , Westin , E. H. , Reitz , M. S. , Jr. , and Wong-Staal , F. ( 1984 ) Science 225 , 636-639 28 .
+Dirks , R. P. H. , Jansen , H. J. , van Gerven , B. , Onnekink , C. , and Bloemers , H. P. J .
+( 1995 ) Nucleic Acids Res .
+28 , 1119-1126 29 .
+Ross , R. , and Vogel , A .
+( 1978 ) Cell 14 , 203-210 30 .
+Johnsson , A. , Heldin , C-H. , Westermark , B. , and Wasteson , A .
+( 1982 ) Biochem .
+Biophys .
+Res .
+Commun .
+104 , 66-74 31 .
+Hart , C. E. , and Bowen-Pope , D. F. ( 1990 ) J .
+Invest .
+Dermatol .
+94 , 538-578 82 .
+Clarke , M. F. , Westin , E. , Schmidt , D. , Josephs , S. F. , Ratner , L. , Wong-Staal , F. , Gallo , R. C. , and Reitz , M. R. , Jr. ( 1984 ) Nature 808 , 464-467 33 .
+Goustin , A. S. , Galanopoulos , T. , Kalyanaraman , V. S. , and Pantazis , P. ( 1990 ) Growth Factors 2 , 189-195 34 .
+Trejo , S. R. , Fahl , W. E. , and Ratner , L. ( 1996 ) J. Biol .
+Chem .
+271 , 14584-14590 35 .
+Liang , Y. , Robinson , D. F. , Dennig , J. , Suske , G. , and Fahl , W. E. ( 1996 ) J. Biol .
+Chem .
+271 , 11792-11797 36 .
+Liang , Y. , Robinson , D. F. , Kujoth , G. C. , and Fahl , W. E. ( 1996 ) Oncogene 12 , 1-9 37 .
+Khachigian , L. M. , Linder , V. , Williams , A. J. , and Collins , T. ( 1996 ) Science 271 , 1427-1431 38 .
+Jin , H.-M. , Robinson , D. F. , Liang , Y. , and Fahl , W. E. ( 1994 ) J. Biol .
+Chem .
+269 , 28648-28654 39 .
+Jin , H.-A .
+, Brady , M. L. , and Fahl , W. E. ( 1998 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+90 , 7563-7567 40 .
+Wano , Y. , Feinberg , M. , Hosking , J .
+B. , Bogerd , H. , and Greene , W. C. ( 1988 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+85 , 9733-9737 41 .
+Semmes , O. J. , and Jeang , K.-T. ( 1992 ) J. Virol .
+66 , 7183-7192 42 .
+Swirnoff , A. H. , and Milbrandt , J .
+( 1995 ) Mol .
+Cell .
+Biol .
+15 , 2275-2287 43 .
+Zhao , L.-J .
+, and Giam , C.-H. ( 1991 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+88 , 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog 44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+HTLV-1 Tax Interacts with Sp1 and Egr-1 57 .
+58 .
+11445-11449 Leiden , J. M. , Wang , C-Y .
+, Petryniak , B. , Markovitz , D. M. , Nabel , G. J. , and Thompson , C. B .
+( 1992 ) J. Virol .
+66 , 5890-5897 Langton , B. C. , Sliwkowski , M. , Tran , K. V. , Knapp , S. , Keitelman , E. , Smith , C. , Wallingford , S. , Liu , H.-L. , Ralston , J. S. , Brandis , J. , and Coates , S. ( 1988 ) Med .
+Virol .
+8 , 295 Jacob , S. T. , Sajdel , E. M. , and Munro , H. N. ( 1970 ) Nature 225 , 60-62 Kedinger , C. , Gniazdowski , M. , Mandel , J. L. , Gissinger , F. , and Chambon , P. ( 1970 ) Biochem .
+Biophys .
+Res .
+Commun .
+88 , 165-171 Lindell , T. J. , Weinberg , F. , Morris , P. W. , Roeder , R. G. , and Rutter , W. J .
+( 1970 ) Science 170 , 447-449 Cochet-Meilhac , M. , and Chambon , P. ( 1974 ) Biochim .
+Biophys .
+Acta 8538 , 160-184 Yu , C.-Y .
+, Motamed , K. , Chen , J. , Bailey , A. D. , and Shen , C.-K. J .
+( 1991 ) J. Biol .
+Chem .
+266 , 8907-8915 Kudo , S. , and Fukuda , M. ( 1994 ) Eur .
+J. Biochem .
+228 , 319-327 Skerka , C. , Decker , E. L. , and Zipfel , P. F. ( 1995 ) J. Biol .
+Chem .
+270 , 22500-22506 Dittmer , J. , Gegonne , A. , Gitlin , S. D. , Ghysdael , J. , and Brady , J. N. ( 1994 ) J. Biol .
+Chem .
+269 , 21428-21434 Gashler , A. , and Sukhatme , V. P. ( 1995 ) Prog .
+Nucleic Acid Res .
+Mol .
+Biol .
+50 , 191-224 Ebert , S. N. , Balt , S. L. , Hunter , J. P. , Gashler , A. , Sukhatme , V. , and Wong , D. L. ( 1994 ) J. Biol .
+Chem .
+269 , 20885-20898 Kramer , B. , Machleidt , T. , Wiegmann , K. , and Kronke , M. J. Inflammation 45 , 183-192 ( 1995 ) 59 .
+60 .
+61 .
+62 .
+63 .
+64 .
+65 .
+66 .
+67 .
+68 .
+69 .
+70 .
+TL .
+72 .
+27421 Letovsky , J. , and Dynan , W. S. ( 1989 ) Nucleic Acids Res .
+17 , 2639-2653 Dittmer , J. , Gitlin , S. D. , Reid , R. L. , and Brady , J. N. , ( 1993 ) J. Virol .
+67 , 6087-6095 Connor , L. M. , Oxman , M. N. , Brady , J. N. , and Marriott , S. J .
+( 1993 ) Virology 195 , 569-577 Marriott , S. J. , Boros , L. , Duvall , J. F. , and Brady , J. N. ( 1989 ) Mol .
+Cell .
+Biol .
+9 , 4152-4160 Piras , G. , Kashanchi , F. , Radonovich , M. F. , Duvall , J. F. , and Brady , J. N. ( 1994 ) J. Virol .
+68 , 6170-6179 Duvall , J. F. , Kashanchi , F. , Cvekl , A. , Radonovich , M. F. , Piras , G. , and Brady , J. N. ( 1995 ) J. Virol .
+69 , 5077-5086 Smith , M. R. , and Greene , W. C. ( 1990 ) Genes Dev .
+4 , 1975-1885 Matthews , M-A .
+, Markowitz , R-B .
+, and Dynan , W. S. ( 1992 ) Mol .
+Cell .
+Biol .
+12 , 1986-1996 Semmes , O. J. , and Jeang , K.-T. ( 1995 ) J. Virol .
+69 , 1827-1833 Adya , N. , and Giam , C.-Z .
+( 1995 ) J. Virol .
+69 , 1834-1841 Wagner , S. , and Green , M. R. ( 1993 ) Science 262 , 395-399 Perini , G. , Wagner , S. , and Green , M. R. ( 1995 ) Nature 876 , 602-605 Baranger , A. M. , Palmer , C. R. , Hamm , M. K. , Giebler , H. A. , Brauweiler , A. , Nyborg , J. K. , and Schepartz , A .
+( 1995 ) Nature 376 , 606-608 Goren , I. , Semmes , O. J. , Jeang , K.-T. , and Moelling , K. ( 1995 ) J. Virol .
+69 , 5806-5811 Yin , M. N. , Paulssen , E. , Seeler , J. , and Gaynor , R. B .
+( 1995 ) J. Virol .
+69 , 6209-6218 Tie , F. , Adya , N. , Greene , W. C. , and Giam , C.-Z .
+( 1996 ) J. Virol .
+70 , 8368-8374 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog The Tax Protein of Human T-cell Leukemia Virus Type 1 Mediates the Transactivation of the c- sis/Platelet-derived Growth Factor-B Promoter through Interactions with the Zinc Finger Transcription Factors Spl and NGFI-A/Egr-1 Samuel R. Trejo , William E. Fahl and Lee Ratner J. Biol .
+Chem .
+1997 , 272:27411-27421. doi : 10.1074/jb0.272.43.27411 Access the most updated version of this article at http : /www.jbe.org/content/272/43/27411 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 72 references , 46 of which can be accessed free at http : //www .
+full.html # ref-list-1 610Z '01 Aepy uo 4g wo ; popeoumog

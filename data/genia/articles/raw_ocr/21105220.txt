@@ -1,0 +1,911 @@
+JOURNAL OF VIROLOGY , Feb. 2001 p. 1842-1856 0022-538 % X/01/ $ 04.00+0 - DOI : 10.1128/JV1.75.4.1842-1856.2001 Vol .
+75 , No .
+4 Copyright © 2001 , American Society for Microbiology .
+All Rights Reserved .
+Interaction between CCAAT/Enhancer Binding Protein and Cyclic AMP Response Element Binding Protein 1 Regulates Human Immunodeficiency Virus Type 1 Transcription in Cells of the Monocyte/Macrophage Lineage HEATHER L. ROSS , '' MICHAEL R. NONNEMACHER , * ' TRICIA H. HOGAN , '' SHANE J. QUITERIO , ANDREW HENDERSON , '' JOHN J. McALLISTER , ' FRED C. KREBS , ' anp BRIAN WIGDAHL'* Department of Microbiology and Immunology , The Pennsylvania State University College of Medicine , Hershey , Pennsylvania 17033 , '' and Department of Veterinary Science , The Pennsylvania State University , University Park , Pennsylvania 168022 Received 16 June 2000/Accepted 15 November 2000 Recent observations have shown two CCAAT/enhancer binding protein ( C/EBP ) binding sites to be critically important for efficient human immunodeficiency virus type 1 ( HIV-1 ) replication within cells of the monocyte/ macrophage lineage , a cell type likely involved in transport of the virus to the brain .
+Additionally , sequence variation at C/EBP site I , which lies immediately upstream of the distal nuclear factor kappa B site and immediately downstream of a binding site for activating transcription factor ( ATF ) /cyclic AMP response element binding protein ( CREB ) , has been shown to affect HIV-1 long terminal repeat ( LTR ) activity .
+Given that C/EBP proteins have been shown to interact with many other transcription factors including members of the ATF/ CREB family , we proceeded to determine whether an adjacent ATF/CREB binding site could affect C/EBP protein binding to C/EBP site I. Electrophoretic mobility shift analyses indicated that selected ATF/CREB site variants assisted in the recruitment of C/EBP proteins to an adjacent , naturally occurring , low-affinity C/EBP site .
+This biophysical interaction appears to occur via at least two mechanisms .
+First , low amounts of CREB-1 and C/EBP appear to heterodimerize and bind to a site consisting of a half site from both the ATF/CREB and C/EBP binding sites .
+In addition , CREB-1 homodimers bind to the ATF/CREB site and recruit C/EBP dimers to their cognate weak binding sites .
+This interaction is reciprocal , since C/EBP dimer binding to a strong C/EBP site leads to enhanced CREB-1 recruitment to ATF/CREB sites that are weakly bound by CREB .
+Sequence variation at both C/EBP and ATF/CREB sites affects the molecular interactions involved in mediating both of these mechanisms .
+Most importantly , sequence variation at the ATF/CREB binding site affected basal LTR activity as well as LTR function following interleukin-6 stimulation , a treatment that leads to increases in C/EBP activation .
+Thus , HIV-1 LTR ATF/CREB binding site sequence variation may modulate cellular signaling at the viral promoter through the C/EBP pathway .
+Previous studies reported that CCAAT/enhancer binding protein B ( C/EBP B ) can transactivate the human immunodeficiency virus type 1 ( HIV-1 ) long terminal repeat ( LTR ) in transient transfection analyses and that the LTR contains three binding sites for this protein ( 39 ) .
+Since then , evidence regarding the importance of C/EBP family members in HIV-1 replication has steadily increased .
+Recent studies demonstrated that C/EBP proteins transactivate the HIV-1 LTR in the U-937 promonocytic cell line ( 19 ) .
+Furthermore , site-directed mutagenesis indicated that LTR-directed transcription in these cells required one of two functional C/EBP sites .
+Additional studies indicated that these two C/EBP binding sites were required for replication of an infectious HIV-1 molecular clone in the U-937 cell line as well as in primary cells of the monocyte/macrophage lineage .
+However , these sites were dispensable for replication of the infectious molecular clone in various T-cell lines and primary T-cell populations ( 17 , 18 ) .
+The C/EBP family of proteins includes at least eight differ * Corresponding author .
+Mailing address : Department of Microbiology and Immunology ( H107 ) , Penn State College of Medicine , 500 University Dr. , P.O .
+Box 850 , Hershey , PA 17033 .
+Phone : ( 717 ) 531-8258 .
+Fax : ( 717 ) 531-5580 .
+E-mail : bwigdahl @ psu.edu .
+1842 ent proteins , many of which are important activators of transcription .
+C/EBP proteins are all members of the b- ZIP family of transcription factors and share a highly homologous carboxy terminus that contains the basic and leucine zipper protein domains .
+The different C/EBP family members homo- and heterodimerize through their leucine zipper regions and bind to their cognate DNA sequences through the corresponding basic regions .
+C/EBP family members include both transcriptional activators and repressors .
+Transcriptional activators include C/EBP a ( 4 ) , C/EBP B ( nuclear factor interleukin-6 ) , ( IL-6 ) ( 2 , 9 , 12 , 40 ) , C/EBP 8 ( 42 ) , C/EBP & ( 44 ) , and C/EBP-related protein 1 ( CRP-1 ) ( 42 ) .
+While C/EBP proteins are expressed in many human tissues , high levels of C/EBP mRNA and protein expression are limited to only a few cell types , including cells of the myeloid lineage .
+In fact , C/EBP proteins are intimately involved in the regulation of myelocytic/monocytic gene expression .
+The promoter elements of many monocyte-specific genes contain C/EBP binding sites , including macrophage inflammatory protein 1 alpha , tumor necrosis factor alpha ( 32 ) , IL-6 ( 6 , 27 , 38 ) , and IL-8 ( 27 , 36 ) .
+In addition , selected signaling molecules that target cells of the monocyte/macrophage lineage , including Vor .
+75 , 2001 lipopolysaccharide ( LPS ) ( 21 , 30 ) and IL-6 ( 2 ) , increase levels of C/EBP -mediated transactivation .
+Members of the C/EBP family of proteins interact with other transcription factors to synergistically activate transcription of a number of eukaryotic promoters ( 24 ) .
+Specifically , other protein families that commonly interact with C/EBP proteins include Sp , nuclear factor kappa B ( NF-kB ) , and activating transcription factor/cyclic AMP response element ( CRE ) binding protein ( ATF/CREB ) ( 16 , 22 , 23 ) .
+For example C/EBP « has been implicated as an important factor involved in the liver-specific , cyclic AMP responsiveness of the phosphoenolpyruvate carboxykinase ( PEPCK ) promoter ( 33 ) .
+In this instance , binding of CREB and C/EBP to their cognate sequences , along with activator protein 1 , appears to synergistically activate phosphoenolpyruvate carboxykinase transcription .
+However , ATF/CREB and C/EBP proteins do not merely influence the activity of one another from their binding sites .
+Heterodimerization with ATF/CREB family members may also affect C/EBP binding site sequence specificity .
+ATF-2 and C/EBP a can dimerize at asymmetric binding sites composed of one half of each full-length binding site ( 35 ) .
+This type of interaction increases activation from asymmetric binding sites while it decreases transactivation from consensus C/EBP binding sites .
+Studies have also reported the interaction of C/EBP B and C/EBP -related ATF ( C/ATF , a member of the ATF/CREB family ) ( 41 ) .
+These heterodimers bind to a subclass of asymmetric CRE sites , rather than C/EBP sites .
+These observations suggest that cross talk between these two protein families may allow for the integration of different hormonal and developmental stimuli involved in regulating gene expression , through transactivation from a variety of unconventional binding sites .
+The studies reported herein indicate that the adjoining ATF/ CREB and C/EBP sites found in the HIV-1 LTR ( Fig .
+1A ) interact to affect viral gene expression .
+ATF/CREB site variants that preferentially recruit CREB-1 compared to other family members appear to enhance the binding of C/EBP proteins to an immediately adjacent C/EBP binding site I that exhibits very low affinity for C/EBP proteins .
+The enhancement of C/EBP binding appears to occur by two mechanisms .
+First , sequence-dependent heterodimerization between C/EBP and CREB proteins appears to occur to a small degree at a binding site consisting of one half of each of the ATF/CREB and C/EBP binding sites .
+Recruitment of heterodimers to this site is affected by ATF/CREB sequence variation .
+Additionally , CREB dimers appear to bind their cognate sequence and recruit C/EBP dimers to an immediately adjacent C/EBP site I that exhibits weak recruitment characteristics .
+In turn , enhanced C/EBP binding to a weak C/EBP site I was shown to stabilize CREB binding at the ATF/CREB site .
+In addition , binding of C/EBP proteins to a C/EBP site I that recruits significant amounts of C/EBP protein can lead to increased binding of CREB-1 to an adjacent weakly reactive ATF/CREB site .
+Finally , sequence variation at the ATF/CREB binding site significantly affects both basal and IL-6-induced LTR activity .
+MATERIALS AND METHODS Cell culture and nuclear extract preparation .
+The U-937 ( ATCC CRL-1593.2 ) and THP-1 ( ATCC TIB-202 ) human monocytic cell lines were grown in RPMI 1640 medium supplemented with 10 % heat-inactivated fetal bovine serum , an C/EBP-CREB-1 INTERACTION REGULATES HIV-1 TRANSCRIPTION - 1843 A & $ us CXxp 8 & a < g\ @ & 0 0 r ° b « dQ ’ é ‘ 3 ‘ zQ qo F ( __ ( 500 400 ~300 ~200 ~100 +1 +100 +200 B C/EBP site | probe : Antisera : < 4 < 4 C/EBP complex [ _ Extract : tL-6-induced U-937 Lanes : 1 2 3 4 5 ° 6 7 8 C/EBP site I Clade B consensus : AGC TTT CTA CAA 6G : acc TTG CTA CAA 3T : AGT TTT CTA CAA FIG .
+1 .
+A C/EBP binding site I variant exhibits very low reactivity for members of the C/EBP transcription factor family .
+( A ) The U3 region of the HIV-1 LTR contains many cis-acting promoter elements that control viral transcription .
+Included among the many transcription factor binding sites which regulate viral replication are adjacent ATF/ CREB and C/EBP binding sites that lie immediately upstream of the tandem NF- « B sites .
+( B ) Double-stranded radiolabeled oligonucleotide probes spanning either the 6G or 3T C/EBP binding site I sequence variants were reacted with IL-6-stimulated U-937 nuclear extract .
+These reactions were conducted in the absence or presence of antibody directed against C/EBP a ( lanes 3 and 7 ) or C/EBP f ( lanes 4 and 8 ) .
+Control rabbit immunoglobulin ( CS ) was added ( lanes 2 and 6 ) to illustrate the specific nature of supershifted complexes .
+Arrows to the right indicate supershifted C/EBP complexes , and the bracket to the left identifies the DNA-protein complexes .
+The EMS reactions were performed in probe excess , and the unreacted free probe is visible at the bottom .
+The free probe accounted for approximately 75 to 90 % of the total probe in each reaction at completion .
+tibiotics ( penicillin , streptomycin , and kanamycin , each at a concentration of 0.04 mg/ml ) , r-glutamine ( 0.3 mg/ml ) , and sodium bicarbonate ( 0.05 % ) .
+The cells were maintained at 37°C in 5 % CO ; at 90 % relative humidity .
+U-937 cells treated with recombinant human IL-6 ( Genzyme ) were prepared by adding IL-6 ( 875 U/ml ) to 10° cells 24 h prior to the preparation of nuclear extracts .
+Nuclear extracts were prepared as described elsewhere ( 13 ) .
+Oligonucleotide synthesis and radiolabeling .
+Complementary single-stranded oligonucleotides corresponding to published C/EBP sequences were synthesized ( Macromolecular Core Facility , Penn State College of Medicine , Hershey ) and annealed by brief heating at 100°C followed by slow cooling to room tempera-ture .
+Blunt-ended , double-stranded oligonucleotides were end labeled using y- '' °P-labeled ATP and T4 polynucleotide kinase as described by the supplier ( Promega ) .
+The specific activities of the probes used in our electrophoretic mobility shift ( EMS ) analyses did not generally deviate by a large margin .
+The average deviation in specific activity between probes across experiments was approximately 20 % , which would not solely account for any of the differences in binding patterns observed in the results presented in this report .
+1844 ROSS ET AL .
+EMS analyses .
+EMS analysis binding reactions were performed using 75,000 cpm of radiolabeled , double-stranded oligonucleotide , 15 to 20 pg of nuclear protein extract , and 1 pg of poly ( dI-dC ) in a total reaction volume of 15 pl .
+Experiments using nuclear extract from baculovirus-infected SF9 insect cells that overexpressed CREB-1 included 4 mg of insect extract , generously supplied by Patrick Quinn ( Penn State College of Medicine ) .
+DNA-protein complexes were allowed to form at 30°C for 30 min and subjected to electrophoresis ( 30 mA and 200 V ) in either a 4 or 5 % high-ionic-strength native polyacrylamide gel .
+For supershift EMS reactions , 1 pl of antibody ( 2 ug/pl ) was added to the reactions after a 20-min incubation at 30°C .
+The reactions were allowed to proceed for an additional 20 min at 30°C before loading of the gel .
+A monoclonal antibody recognizing CREB-1 ( also provided by Patrick Quinn ) was used as indicated .
+All other antibodies used were obtained from Santa Cruz Biotechnology , Inc .
+Protein purification .
+A polyhistidine-tagged C/EBP B construct ( C/EBP B-BD-pRSET A ) obtained from Edward Maytin ( Lerner Research Institute , Cleveland , Ohio ) was used to obtain enriched protein extracts .
+The plasmid was transformed into Escherichia coli strain BL21 ( DE3 ) pLysS ; transformants were selected using ampicillin ( 50 pg/ml ) and chloramphenicol ( 35 pg/ml ) .
+Expression of the six histidine-tagged protein was induced for 5 h with 1 mM isopropyl B-p-thiogalactoside ( IPTG ) in 1 % YT medium .
+C/EBP B was then purified on nickel-chelating columns using imidazole elution ( pRSET Xpress ; Invitrogen ) .
+Protein purity was assessed by Western immunoblot analysis and silver staining ( 7 , 8 , 15 , 34 ) .
+DNase I footprinting analyses .
+The probe used in the DNase I footprinting analyses spanned nucleotides +11 to -193 ( with respect to the site of transcription initiation ) of the HIV-1 ( strain LAT ) LTR .
+The probe was generated by radiolabeling the upstream primer ( 5-GGT TTG ACA GCC GCC TAG CAT TTC ATC-3 ' ) in a kinase reaction using y-*°P .
+The labeled primer and the downstream primer ( 5'-CCA GAG AGA CCC AGT ACA GGC AAA AAG CAG-3 ' ) were then included in a PCR with a plasmid that contained the LAI LTR .
+The resulting 204-bp radiolabeled DNA product was isolated using a Qiaquick PCR purification kit ( Qiagen ) .
+The DNase I footprinting reactions were performed using 2,000 cpm of radiolabeled , double-stranded oligonucleotide , six-histidine-tagged C/EBP B ( estimated to be 300 ng per reaction ) , 0.5 ug of poly ( dI-dC ) , and 15 pg of bovine serum albumin in a 50-4l volume .
+The reaction mixtures were incubated for 3 min with 5 pl of CaCl , ( 2 mM ) and MgCl ; ( 2 mM ) and an amount of a 1:10 dilution of DNase ( Promega ) predetermined experimentally .
+The reactions were terminated with a 1 wl volume of a DNase I stop solution ( Promega ) .
+The proteins were removed by phenol-chloroform extraction , and the DNA was reprecipitated from the reactions , resuspended in formamide loading buffer , and subjected to electrophoresis on an 8 % polyacrylamide sequencing gel .
+The probes were also sequenced by the Maxam-Gilbert chemical sequencing procedure ( 28 ) , and the sequencing reactions were subjected to electrophoresis in parallel with the DNase I footprinting reactions to verify the positions of protein binding .
+Plasmids and site-directed mutagenesis .
+A Psfl/Xbel LTR-containing DNA fragment ( ~600 bp ) derived from the LAI strain of HIV-1 was ligated into a modified pGL3-Basic vector ( Promega ) to construct the LAI-Lue construct .
+LAI-Lue was used as a template for site-directed mutagenesis using a Quick-Change mutagenesis kit ( Stratagene ) to construct the chimeric LTRs that contained four ATF/CREB binding site variants next to the low-affinity 3T C/EBP binding site I .
+The 3T C/EBP variant contains a thymidine substitution at position 3 of the HIV-1 clade B C/EBP site I consensus sequence ( Fig .
+1B ) .
+The parental LAI strain contains the clade B consensus sequence at the ATF/CREB site and the 6G ( thymidine-to-guanosine change at position 6 ) C/EBP binding site ( ConB/6G ) .
+The four ATF/CREB binding site configurations were designated ATF/CREB variants 1 to 4 ( Varl to Var4 ) .
+The sequences of the mutants are shown in Fig .
+2A .
+All plasmids used in these studies were sequenced to verify the ATF/CREB and C/EBP binding site sequence configurations ( performed in the Penn State College of Medicine Macromolecular Core Facility ) .
+Transient expression analyses .
+Exponentially growing cultures were aliquoted at 10° cells in 2 ml of growth medium .
+For each transfection , 6 pl of FuGENE 6 transfection reagent ( Boehringer Mannheim ) was dispensed into 94 pl of serum-free medium .
+After 5 min , DNA was added to the solution , incubated for 15 min , and dispensed dropwise into the cell culture .
+Cells were transfected with 0.5 ug of firefly luciferase construct in conjunction with 0.04 pg of pRL-TK Renilla luciferase internal control vector ( Promega ) , which is under the control of the herpes simplex virus thymidine kinase promoter .
+Cells treated with recombinant human IL-6 ( Genzyme ) received 875 U/ml !
+at the time of transfection .
+Cells were harvested 24 h after transfection , and dual luciferase assays were performed as described by ( Promega ) .
+Firefly luminescence was normalized to the Renilla luminescence to control for variability in transfection efficiency .
+Firefly luminescence ( pGL3 constructs ) is presented relative to the activity of the J. Virou .
+A Var1 : cre ace TCG ATE/CREB Var2 : ATG ACC TCG variants : Vars : CTG ACA GCG Vard : CTG ACA CAA ATEICREB ( P HE probes : CTG ) ATE/CREB [ acc 3T C/EBP probes : CTe| ATF/CREB |act TTP CTA caa Gee 3T C/EBP B Probe : Varl Var2 Vars Var4 a a ® ® Li LJ I ] LJ Antisera _ , 8 51 , 8 51 .
+8 61 .
+8 5 , PS o « ts dik « » o wt < 3 < -CREB-1 complexl : Extract : CREB-enriched SFo Lanesi123456789101112 C Probe : Varl Var2 Var3 Vard4 Antisera : # CREB < < m W Extract : iw ** 10 11 12 CREB-1 complex I * 2 3 4 50 60 7 8 9 Lanes : - 1 FIG .
+2 .
+ATF/CREB binding site sequence variation results in different binding reactivities with respect to CREB-1 .
+( A ) Four HIV-1 ATF/CREB sequence variants that differ from the HIV-1 consensus clade B sequence were selected .
+The ATF/CREB probes ( 15 bp ) were designated as ATF/CREB Varl to Var4 ( divergent nucleotides are underlined ) .
+Probes spanning 27 nucleotides that included an ATF/ CREB variant and the 3T C/EBP site I sequence were used in subsequent experimentation .
+The four ATF/CREB probes were used in EMS analyses in which radiolabeled oligonucleotides spanning the ATF/CREB site were reacted with nuclear extract prepared from a baculovirus-infected insect SF9 cell line which overexpressed CREB-1 ( B ) or the human monocytic U-937 nuclear extract ( C ) .
+CREB-1 antisera was added ( lanes 3 , 6 , 9 , and 12 ) to demonstrate the presence of CREB in the DNA-protein complexes .
+Control rabbit immunoglobulin ( CS ) was added ( lanes 2 , 5 , 8 , and 11 ) to demonstrate the specific nature of supershifted complexes .
+The asterisk indicates potential ATF-related complexes .
+Arrows to the right indicate supershifted CREB-1 complexes , and the bracket to the left identifies the DNA-protein complexes .
+The EMS reactions were performed in probe excess , and the free probe accounted for approximately 75 to 90 % of the total probe in each reaction at completion ( data not shown ) .
+parental construct which was set to 1.0 for each experiment .
+Each value shown represents the average of three independent experiments performed with duplicate samples ; error bars indicate the standard deviation .
+RESULTS Identification of an HIV-1 C/EBP site I sequence variant that recruits very low levels of C/EBP proteins .
+Previous studies have demonstrated the critical importance of two HIV-1 LTR C/EBP binding sites ( positions -107 to -118 [ site II ] and positions -167 to -175 [ site II ] relative to the transcriptional start site ) to viral replication within cells of the monocyte/ macrophage lineage ( 17-19 ) .
+The positions of these two bind Vor .
+75 , 2001 ing sites are illustrated in Fig .
+1A .
+In this report , the functional properties of C/EBP binding site I are examined along with the impact of a directly adjacent ATF/CREB site ( 22 , 23 ) on the activity of this NF- « B-proximal cis-acting element relevant to LTR-directed transcription in cells of the monocyte/macrophage lineage .
+A number of naturally occurring C/EBP site I sequence variants have been identified in the LTRs of different HIV-1 strains .
+EMS analyses have identified at C/EBP sites I and II sequence variants that exhibit a high degree of variation in the ability to react with members of the C/EBP transcription factor family .
+Two of the site I sequence variants , 3T and 6G ( see above ) represent opposing ends of the spectrum with respect to reactivity with members of the C/EBP family .
+Both sequences are commonly encountered configurations within HIV-1 sequence databases .
+The reactivity of both sites for members of the C/EBP family is demonstrated in the EMS analysis shown in Fig .
+1B , where the 3T and 6G C/EBP site I variants were reacted with IL-6-stimulated U-937 nuclear extract .
+IL-6 stimulation of the monocytic U-937 cells resulted in increased binding of C/EBP « and B to cognate binding sequences .
+The EMS reactions were conducted in the absence ( Fig .
+1B , lanes 1 and 5 ) or presence of antibodies directed against C/EBP « ( Fig .
+1B , lanes 3 and 7 ) or C/EBP B ( Fig .
+1B , lanes 4 and 8 ) .
+As shown , a greater amount of DNA-protein complex formation was observed with the 6G C/EBP site I variant than with the 3T C/EBP site I .
+While abundant supershifted DNA-protein complexes were observed when C/EBP a and C/EBP B antisera were added to the reactions with the 6G C/EBP site I probe , only small amounts of supershifted complexes were detected with the 3T C/EBP site I variant .
+These results were not due to different specific activities of the probes , as the probes exhibited the same specific activities .
+These results demonstrated that the 3T C/EBP site I variant exhibited a very low level of reactivity with respect to binding of C/EBP a or B .
+In addition , EMS analyses indicated that the 3T C/EBP site I variant exhibited a very low level of reactivity with C/EBP 8 ( data not shown ) .
+HIV-1 LTR ATF/CREB binding site sequence variation leads to alterations in reactivity with CREB-1 .
+Immediately adjacent to C/EBP site I is an upstream ATF/CREB binding site and a downstream NF-KB site ( Fig .
+1A ) .
+Previous studies have indicated that sequence variation at the ATF/CREB site impacts ATFE/CREB protein binding and HIV-1 LTR activity ( 22 , 23 ) .
+Furthermore , numerous reports have described synergistic transactivation of different promoters by proteins from the ATFE/CREB and C/EBP families ( 33 , 35 , 41 ) .
+As a result , sequence variation within the ATF/CREB binding site was examined with respect to its impact on factor recruitment to C/EBP site I and subsequent C/EBP-dependent transcription .
+ATF/CREB binding site sequence variants were selected with respect to the HIV-1 clade B consensus reference sequence , based on a search of Los Alamos and GenBank sequence databases ( 3 ) .
+Four ATF/CREB binding site variants ( Fig .
+2A ) were selected which differed from the consensus clade B sequence by one , two , or three nucleotides ( Varl to Vard4 ) .
+As expected , the clade B sequence was the most commonly encountered sequence within this analysis .
+By comparison , the naturally occurring variants selected for study were C/EBP-CREB-1 INTERACTION REGULATES HIV-1 TRANSCRIPTION - 1845 less frequently encountered .
+Varl was observed in a sequence database of HIV-1 LTRs provided by Maureen Goodenow , University of Florida at Gainesville ( 23 ) .
+VarZ2 was encountered in the HIV-1 YU-2 molecular clone , Var3 was observed in the HIV-1 MANC molecular clone , and Var4 was encountered in the HIV-1 SF1701 molecular clone .
+Four double-stranded oligonucleotide probes ( 15 nucleotides in length ) were synthesized to contain each ATF/CREB binding site variant with three additional nucleotides on either side of the binding site to facilitate binding to the core element .
+The additional flanking sequences represented those found in the HIV-1 clade B consensus sequence .
+Radiolabeled probes were examined in EMS reactions with nuclear extract prepared from baculovirus-infected insect SF9 cells that overexpressed CREB-1 ( Fig .
+2B ) .
+The addition of CREB-1 antisera ( Fig .
+2B , lanes 3 , 6 , 9 , and 12 ) indicated that the DNA-protein complexes formed with each of the ATF/CREB variant sites contained CREB-1 .
+In particular , there appeared to be a major CREB-1-containing complex , visible with each ATF/CREB variant , as well as a faster-migrating minor CREB-1-containing complex that was most obvious with Varl .
+It was readily apparent that the four sequence variants had different relative reactivities with respect to binding CREB-1 .
+Varl exhibited the highest level of reactivity with CREB-1 ( Fig .
+2B , lanes 1 to 3 ) , followed by Var3 ( Fig .
+2B , lanes 7 to 9 ) .
+Both Var2 ( Fig .
+2B , lanes 4 to 6 ) and Vard ( Fig .
+2B , lanes 10 to 12 ) exhibited lower levels of CREB-1 binding .
+In summary , the four ATF/CREB site variants selected displayed a range of CREB-1 binding capabilities .
+The most commonly encountered ATF/CREB site configuration , the clade B consensus sequence , mimicked Var2 to Vard4 with respect to amounts of ATF/CREB protein recruited and typically recruited similar amounts of CREB-1 and ATF-related proteins ( data not shown ) .
+Since subsequent experimentation will focus on the interaction of C/EBP and CREB factors derived from the monocytic cell line U-937 , EMS analyses were also performed to determine whether ATF and CREB factors in nuclear extracts from these cells would bind to the selected site variants .
+To this end , U-937 nuclear extract was reacted with the four ATF/CREB variant probes in the absence ( Fig .
+2C , lanes 1 , 4 , 7 , and 10 ) or presence ( Fig .
+2C , lanes 3 , 6 , 9 , and 12 ) of CREB-1 antisera .
+These analyses indicated very strong CREB-1 binding using Varl , while Var3 exhibited readily detectable CREB-1 binding when reacted with the U-937 nuclear extracts .
+Small amounts of CREB-1 -containing DNA-protein complexes were also detected with Var2 and Var4 .
+Thus , different relative reactivities with respect to CREB-1 binding were observed with the four ATF/CREB variants .
+Similar results were obtained using nuclear extract from the THP-1 monocytic cell line ( data not shown ) .
+The THP-1 cell line also represents a relatively immature monocytic cell but is morphologically more mature than the U-937 cell line ( 1 ) .
+Although supershift EMS analyses were also conducted using ATF-1 and ATF-2 antisera , neither protein was detected in EMS analyses using U-937 or THP -1 nuclear extracts ( data not shown ) .
+Previous EMS analyses using Jurkat ( lymphocytic ) and U-373 MG ( astrocytic ) nuclear extracts demonstrated the formation of DNA-protein complexes similar to those observed with the monocytic nuclear extract in Fig .
+2C ( data not shown ) .
+The EMS analyses utilizing the lymphocytic and astrocytic 1846 ROSS ET AL .
+extracts also exhibited DNA-protein complexes which migrated just above the CREB-1 complexes , similar to those indicated by the asterisk in Fig .
+2C .
+The slower-migrating complexes were determined to be composed of ATF family members by supershift EMS analyses ( data not shown ) ( 22 , 23 ) .
+Therefore , it is possible that the slower-migrating DNA-protein complexes indicated by the asterisk in Fig .
+2C are composed of ATF family members that do not contain epitopes that cross-react with the ATF monoclonal antibodies used in these analyses .
+The experiments involving the lymphocytic and astrocytic extracts suggested that Varl and Var2 may both recruit ATF proteins while Var3 and Var4 do not ( data not shown ) .
+These findings correlate with the intensity of the proposed ATF-related complexes observed using the ATF/CREB variants ( Fig .
+2C ) .
+Sequence variation at the ATF/CREB site alters factor recruitment to the immediately adjacent weak C/EBP binding site I variant .
+To determine the impact of selected ATF/CREB binding site variants on C/EBP binding to the adjacent cis-acting element , four chimeric ATF/CREB-C/EBP oligonucleotides were employed which contained the weakly reactive 3T C/EBP binding site I variant ( Fig .
+1B ) adjacent to each of the four ATF/CREB sequence variants .
+We hypothesized that the ATFE/CREB variant sites adjacent to the weak 3T C/EBP binding site I would facilitate C/EBP factor binding to the cognate C/EBP binding site if ATF/CREB and C/EBP factors bind in a cooperative manner .
+Each chimeric probe consisted of an ATF/CREB site variant directly adjacent to the weak 3T C/EBP binding site I , with three additional nucleotides from the HIV-1 clade B consensus sequence on each end of the chimeric probe ( Fig .
+2A ) .
+The four chimeric oligonucleotides were then reacted with three monocytic nuclear extract preparations ( U-937 , IL-6-induced U-937 , and THP -1 ) in EMS analyses ( Fig .
+3A ) .
+Previous studies have demonstrated that treatment with LPS or inflammatory cytokines , including IL-6 , resulted in an upregulation of C/EBP B mRNA expression in different tissues ( 2 ) .
+In addition , an increase in C/EBP « and C/EBP B DNA-binding activity was observed in response to IL-6-stimulation of U-937 human monocytic cells ( data not shown ) .
+Although the same DNA-protein complexes were formed with each chimeric radiolabeled oligonucleotide , there was a striking difference in the abundance of each complex formed between the four chimeric probes .
+The chimeric ATF/CREB-C/EBP probe containing the highly reactive Varl ATF/CREB site exhibited the most abundant DNA-protein complex formation ( Fig .
+3A , lanes 1 , 5 , and 9 ) , followed by the Var2/3T chimera ( Fig .
+3A , lanes 2 , 6 , and 10 ) .
+The Var3/3T ( Fig .
+3A , lanes 3 , 7 , and 11 ) and Var4/3T ( Fig .
+3A , lanes 4 , 8 , and 12 ) chimeras both exhibited a lower level of reactivity for nuclear factors from the monocytic extracts ( even when higher amounts of extract were used ) .
+Proteins from the U-937 and THP-1 nuclear extracts reacted almost identically with regard to DNA-protein complex formation with each of the four chimeric CREB-C/EBP probes , indicating that this observation was not limited to a single monocytic cell line ( Fig .
+3A ) .
+In addition , comparative analyses revealed that an increase in C/EBP -containing DNA-protein complex formation was observed with each of the ATF/CREB variants when nuclear extracts prepared from untreated and IL-6-treated U-937 cells J. Virou .
+were used in the EMS reactions ( Fig .
+3A , lanes 1 to 4 compared to lanes 5 to 8 ) .
+The potentially ATF-related complexes appeared to run in the same proximity as the C/EBP DNA-protein complexes .
+This may explain why Var2 appeared to recruit such large amounts of C/EBP , as some of the complex formed may have been due to ATF-related factors .
+To examine the identity of the proteins being recruited to the complexes formed with the ATF/CREB-C/EBP probes , the chimeric probes were reacted in supershift EMS analyses with IL-6-stimulated U-937 nuclear extract ( Fig .
+3B ) .
+Antisera directed against C/EBP a ( Fig .
+3B , lanes 3 , 7 , 11 , 15 , 19 , and 23 ) and C/EBP B ( Fig .
+3B , lanes 4 , 8 , 12 , 16 , 20 , and 24 ) were added to the reactions to identify complexes that contained these two C/EBP family members .
+For comparison , an oligonucleotide containing only the weakly reactive 3T C/EBP binding site ( Fig .
+3B , lanes 1 to 4 and 13 to 16 ) was also reacted with the nuclear extract and C/EBP antisera .
+This was done to demonstrate the low level of C/EBP factors that normally react with the 3T C/EBP site I in the absence of the adjacent ATF/ CREB site .
+While only experiments using IL-6-stimulated U-937 nuclear extract are shown , similar results were obtained with unstimulated U-937 and THP -1 extracts ( data not shown ) .
+The four chimeric probes exhibited various levels of enhanced C/EBP binding over the levels of C/EBP protein normally recruited to the weakly reactive 3T C/EBP site .
+This observation was readily apparent in the analyses of complexes formed in the absence or presence of C/EBP « and B antisera .
+The EMS reactions conducted with the 3T C/EBP site alone ( Fig .
+3B , lanes 3 , 4 , 15 , and 16 ) indicated that only small amounts of C/EBP a were recruited to site I ( consistent with results presented in Fig .
+1B ) .
+Based on the C/EBP supershift EMS reactions conducted with the chimeric ATF/CREB-C/EBP probes , all of the binding site variants exhibited modest increases in the amount of C/EBP a recruitment .
+In particular , Varl/3T exhibited a considerable increase in the amount of C/EBP « recruitment .
+In addition , Varl/3T recruited a considerable amount of C/EBP , while much smaller amounts of C/EBP B recruitment were observed with the remaining three variants .
+Phosphorimaging analyses were used to quantify the amount of protein in each of the supershifted C/EBP DNA-protein complexes from Fig .
+3B and other representative experiments ( data not shown ) .
+It was apparent that the ATF/CREB site that displayed the highest reactivity with CREB-1 ( Varl ) displayed the largest degree of enhanced C/EBP binding .
+Var3 , which displayed the second highest reactivity with respect to CREB-1 , appeared to be the next most efficient enhancer of C/EBP binding .
+Var1/3T recruited 92-fold more C/EBP « than did the 3T C/EBP site alone , while the Var3/3T chimeric probe resulted in a 9.8-fold increase in C/EBP a binding over 3T alone .
+The weakly reactive Var4/3T and Var2/3T chimeric probes enhanced C/EBP « binding 4.5- and 2.1-fold , respectively .
+The enhancement of C/EBP B recruitment by ATF/CREB binding was even greater but followed a similar relationship between CREB-1 binding and C/EBP B enhancement .
+Varl/ 3T recruited 295-fold more C/EBP B protein than did the 3T probe alone , while the Var3/3T probe enhanced C/EBP B binding approximately 18-fold .
+The Var2/3T probe enhanced C/EBP B binding sevenfold over that observed with the 3T Vor .
+75 , 2001 A Extract : U-937 IL-6-induced THP-1 U-937 5 8 g I % © 2 tit @ g f Probe : S $ $ S $ |S S $ $ S|S $ S $ $ won oon ats wun ds win win din die dit « * th C/EBP complex I : CREB complex E Lanes : 1 2 3 4 50 6 7 8 9 10 11 12 Probes : [ CREB Varl 3T Vara Vars Var4 B Probe : 3T only Varl/3T Var2/3T 5 « ol 5 ua 3 un 88 L858 ) ,58 Antisera : _ .
+8 5 S1 .
+8 5 61 .
+8 5 8 » w « tb ty h Ab say @ C/EBP complex ] : 4 H h CREB complexl : EE Bi , Efgfiigguced * chimeric probes U-937 only Lanes : 1 2 3 4 5 6 7 8 9 1011 12 Probe : 3T on !
+Var3/3T .
+Vard4f3T 8 a. t a Antisera : .
+8 o ol .
+8 .
+86 6 0 w » wn on a » dh d cog .
+» -** @ ® P4 C/EBP complex I : CREB complex | _| _- Extract : * chimeric probes IL-6-induced only U-937 Lanes : 13 1415 16 17 18 19 20 2122 23 24 FIG .
+3 .
+Probes containing ATF/CREB binding site sequence variants adjacent to a weakly reactive C/EBP binding site can differentially enhance binding of C/EBP nuclear factors derived from monocytic cell lines .
+( A ) Chimeric probes containing the Varl , Var2 , Var3 , and Vard ATF/ CREB binding sites adjacent to the 3T C/EBP site I were reacted with U-937 ( lanes 1 to 4 ) , IL-6-induced U-937 ( lanes 5 to 8 ) , and THP-1 ( lanes 9 to 12 ) nuclear extracts .
+Brackets to the left identify the DNA-protein complexes .
+( B ) Probes containing the Varl and Var2 ATF/CREB binding sites adjacent to the weakly reactive 3T C/EBP binding site were reacted with nuclear extract from IL-6-induced U-937 cells in EMS analyses .
+Antisera to C/EBP a ( lanes 3 , 7 , 11 , 15 , 19 , and 23 ) and C/EBP f ( lanes 4 , 8 , 12 , 16 , 20 , and 24 ) were added to identify the quantities of these proteins recruited to the DNA-protein complexes .
+A probe containing the single 3T C/EBP binding site was included ( lanes 1 to 4 and 13 to 16 ) to demonstrate the level of C/EBP recruited to the weakly reactive site alone .
+Control rabbit immunoglobulin ( CS ) was added ( lanes 2 , 6 , 10 , 14 , 18 , and 22 ) to demonstrate the specific nature of supershifted complexes .
+Arrows to the right indicate supershifted C/EBP complexes , and brackets to the left identify the DNA-protein complexes .
+The EMS reactions were performed in probe excess , and the free probe accounted for approximately 75 to 90 % of the total probe in each reaction at completion ( data not shown ) .
+C/EBP-CREB-1 INTERACTION REGULATES HIV-1 TRANSCRIPTION - 1847 probe , and Var4/3T enhanced binding of C/EBP B about two-fold .
+Based on these results , the level of enhanced binding of both C/EBP « and C/EBP B appeared to correlate with the relative reactivity of the ATF/CREB binding site for CREB-1 .
+The placement of the ATF/CREB sites adjacent to the weakly reactive C/EBP site I led to the recruitment of different C/EBP factors depending on the ATF/CREB sequence .
+Only C/EBP a proteins were detected with the weakly reactive 3T C/EBP binding site I .
+However , when the strong ATF/CREB binding site variants were placed adjacent to the weakly reactive C/EBP site , both C/EBP a and B proteins were detected .
+Furthermore , the mobilities of the supershifted C/EBP B complexes appeared to differ , dependent on which ATF/CREB binding site was placed adjacent to 3T .
+The C/EBP B-related complex detected with the Var1l/3T chimera appeared to have the same mobility as the C/EBP a « -related complex .
+Conversely , the C/EBP B-related complex that binds to Var3/3T and Var4/3T appeared to have a much lower mobility than the C/EBP « -related complex , most likely indicative of differences in dimerization partners between the C/EBP family members ( Fig .
+3B ) .
+Oligonucleotides containing the ATF/CREB variants exhibit differential abilities to compete for C/EBP proteins derived from U-937 nuclear extract .
+While EMS analyses ( Fig .
+3 ) indicated that the four ATF/CREB variants exhibited different abilities to enhance C/EBP binding to an immediately adjacent weak 3T C/EBP binding site , cold ( unlabeled ) competitor EMS analyses were performed to quantitate the differences in relative C/EBP recruitment .
+In these analyses , a radiolabeled oligonucleotide containing the strong Varl ATF/CREB and weakly reactive 3T C/EBP binding sites was reacted with U-937 nuclear extract .
+Increasing amounts of unlabeled competitor oligonucleotides Varl/3T , Var2/3T , Var3¥/3T , and Var4/3T were also added to the reactions .
+The amount of C/EBP binding ( C/EBP « and B combined ) was quantitated in each experiment by phosphorimaging analyses .
+Since Varl/3T appeared to possess the highest reactivity with respect to C/EBP factors ( Fig .
+3B ) , it was not surprising that Varl/3T exhibited the highest relative affinity for C/EBP ( Fig .
+4A ) , with about a 40-fold molar excess competitor required to reduce the C/EBP complex formation by 50 % .
+However , under most circum-stances , competition EMS studies performed with a single protein and the corresponding binding site would result in a 50 % reduction in DNA-protein complex formation with the addition of fivefold excess unlabeled homologous competitor oligonucleotide ( data not shown ) .
+As a result , the larger amount of excess competitor required to obtain a 50 % reduction with the chimeric V1/3T probe in homologous competition suggests that complex interactions between the ATF/CREB and C/EBP factors at these two binding sites are required to enhance binding of C/EBP « and B .
+Given the apparent low relative reactivity of Var2/3T and Vard4/3T ( Fig .
+3 ) for C/EBP proteins , it was not surprising that unlabeled oligonucleotides containing both Var2/3T ( Fig .
+4B ) and Vard4/3T ( Fig .
+4D ) competed with Varl/3T for C/EBP binding very poorly .
+In particular , the highest amount of Var2/3T competitor ( 100 % ) decreased C/EBP recruitment to the labeled Varl/3T probe only about 30 % ( Fig .
+4B ) .
+The Var4/3T competitor decreased C/EBP recruitment about 40 % .
+The situation became much more complex , however , when 1848 ROSS ET AL .
+Labeled Probe : A f competitor : Var1/3T % 1.8 w 5 0 % 1.4 ¥€ © ° 2 x E0 se 22 0 * 02 f 20 _ 40 60 so _ 100 Fold competition B .
+competitor : Var2/3T 1.8 & u 5 0 % x E © ° 2 x E ® 58 a 100 20 40 60 80 Fold competition J. Virou .
+CREB C/EBP Vari 3T C competitor : Var3/3T ax co s B o & % uncompeted C/EBP complex formation = o ho 20 - 40 _ 60 _ 80 _ 100 Fold competition O competitor : Var4/3T sa co M B complex formation o st & 0 % uncompeted C/EBP mg ho 100 20 40 60 80 Fold competition FIG .
+4 .
+ATF/CREB variants adjacent to the weakly reactive 3T C/EBP binding site exhibit differential abilities to compete for C/EBP proteins derived from U-937 monocytic nuclear extract .
+Radiolabeled Varl/3T probe was reacted with U-937 nuclear extract in the presence of unlabeled competitor oligonucleotide Varl/3T ( A ) , Var2/3T ( B ) , Var3/3T ( C ) , or Var 4/3T ( D ) in EMS analyses .
+The amount of remaining radioactive C/EBP complex was quantitated by phosphorimaging analyses .
+The fold amount of competitor required to decrease C/EBP binding by 50 % is illustrated with a dashed line .
+Each graph is the summary of four independent experiments .
+The EMS reactions were performed in probe excess , and the free probe accounted for approximately 75 to 90 % of the total probe in each reaction at completion ( data not shown ) .
+Var3/3T competitor was added to the EMS reactions ( Fig .
+4C ) .
+In this case , C/EBP binding to the radiolabeled Var1l/3T oligonucleotide was actually enhanced , rather than reduced .
+C/EBP binding was increased up to 50 % with the addition of about 30-fold-excess unlabeled competitor , while unlabeled competitor levels greater than 50-fold excess did not result in enhancement or reduction in reactive C/EBP -containing complex formation ( Fig .
+4C ) .
+We propose that the enhancement of C/EBP binding was likely due to the high relative affinity of Var3/3T for CREB proteins ( Fig .
+2 ) , with the Var3/3T cold competitor oligonucleotide binding specific CREB-related proteins that may normally be recruited to Var1 , which exhibits a very high relative affinity for CREB proteins ( Fig .
+2 ) .
+Some of these CREB-related proteins may inhibit enhancement of C/EBP binding .
+With the addition of Var3/3T competitor , these CREB-related proteins were sequestered from the radiolabeled Var1/3T , and allowed additional levels of CREB-1 to bind Var1/3T .
+This resulted in an even greater enhancement of C/EBP binding .
+DNase I footprinting experiments were performed to illustrate enhanced binding of C/EBP in the presence of CREB but were unsuccessful at this point , due in part to the apparent complexities of the DNA-protein and protein-protein interactions involved in the observed enhancement .
+Specifically , these studies were performed with partially purified , bacterially ex-pressed , six-histidine-tagged C/EBP B and CREB-1 in the absence or presence of U-937 nuclear extract .
+Although footprints with C/EBP B and CREB-1 were readily formed in the appropriate region of the LTR , enhanced binding of bacterially expressed six-histidine-tagged C/EBP B could not be detected to a radiolabeled LTR 204-bp probe containing the 3T C/EBP binding site in the presence of bacterially expressed six-histidine-tagged CREB-1 capable of a high-affinity interaction with the immediately adjacent ATF/CREB site ( Varl ) .
+We propose that the DNA-protein and protein-protein interactions are too complex to enable us to illustrate enhanced C/EBP binding by interaction with ATF/CREB factors using purified proteins at this time .
+As reported by other investiga-tors , CREB-1 likely interacts with other proteins by bridging with CREB binding protein ( CBP ) ( 5 , 10 , 11 , 20 , 25 ) .
+Based on these studies , we propose that the enhancement of C/EBP binding by CREB-1 is due to interactions with CBP or its homologue , p300 .
+The interaction of CREB-1 with CBP that may be required to enhance C/EBP binding may entail specific phosphorylation of CREB-1 that does not occur in the bacterial system .
+At present , we do not have enough information concerning the phosphorylation state of the proteins required for the interactions leading to enhanced C/EBP binding .
+Ad-ditional , extensive experimentation is needed to address the apparent complexities of these interactions .
+In addition , DNase I footprinting analyses were performed with LTR probes containing the C/EBP and ATF/CREB region with U-937 nuclear extract .
+These experiments were also unsuccessful in demonstrating the sequence-specific enhancement of C/EBP binding by ATF/CREB factors .
+However , this was not surprising since a number of other investigators have Vor .
+75 , 2001 reported difficulties in forming footprints in DNase I footprinting analyses when examining interactions of nuclear proteins present in lower abundances ( 14 , 43 ) , compared to readily demonstrable footprints at the binding sites and Sp GC box array with the corresponding factors present in U-937 nuclear extracts ( data not shown ) .
+Enhanced C/EBP binding is due in part to heterodimerization with CREB-1 and subsequent binding to a hybrid site consisting of adjacent ATF/CREB and C/EBP half sites .
+At least three possible mechanisms might explain how CREB proteins enhance the recruitment of C/EBP proteins to an adjacent site ( Fig .
+5A ) .
+First , CREB and C/EBP could heterodimerize and bind to the ATF/CREB binding site ( Fig .
+5A , model 1 ) .
+The second possible mechanism also involves heterodimerization between the two families of proteins ( Fig .
+5A , model 2 ) .
+In this scenario , CREB-C/EBP heterodimers bind to a hybrid site created by CREB and C/EBP half sites .
+Heterodimerization between these two families of proteins has been reported previously , as has binding of such heterodimers to unique CREB binding site sequences or hybrid sites consisting of CREB and C/EBP half sites ( 35 , 41 ) .
+Lastly , CREB homodimers could bind to their cognate sequence and recruit C/EBP dimers to the adjacent weakly reactive C/EBP site ( Fig .
+5A , model 3 ) .
+To distinguish between the three possible mechanisms by which C/EBP binding was enhanced , we first proceeded to determine whether heterodimers of CREB and C/EBP proteins could be recruited to a hybrid binding site as illustrated in Fig .
+SA , model 2 .
+This binding site consists of one half of the ATF/CREB site and the adjacent half of the weakly reactive 3T C/EBP binding site .
+First , a chimeric oligonucleotide probe consisting of the adjacent half sites from both the Varl ATF/ CREB site and the 3T C/EBP binding site was constructed .
+This probe was reacted with U-937 and IL-6-induced U-937 nuclear extracts in EMS analyses ( Fig .
+5B ) .
+The DNA-protein complexes that formed with this hybrid binding site did not differ significantly between the U-937 and IL-6-stimulated U-937 nuclear extracts .
+The addition of C/EBP « -specific antibody to the EMS reactions with both nuclear extracts indicated that C/EBP a ( Fig .
+5B , lanes 3 and 8 ) and a small amount of C/EBP B ( Fig .
+5B , lanes 4 and 9 ) were recruited to the hybrid site .
+Supershift EMS reactions containing CREB-1 antibody ( Fig .
+5B , lanes 5 and 10 ) also indicated that CREB-1 was recruited to the hybrid site with the U-937 and IL-6-stimulated U-937 nuclear extracts .
+The CREB-1-containing supershifted complex migrated at the same rate as a faint C/EBP a supershift ( the faster migrating of the two supershifted complexes observed with C/EBP « antisera and most noticeable with the IL-6-induced extract ) , indicating that these two family members were likely heterodimerizing at this hybrid binding site in very small amounts .
+The remainder of the proteins recognizing the binding site were likely binding as homodimers .
+However , when the quantities of supershifted C/EBP proteins recruited to the hybrid site ( Fig .
+5B , lanes 3 , 4 , 8 , and 9 ) were compared to the quantities of supershifted C/EBP proteins that were recruited to the entire Var1l/3T probe ( Fig .
+3B , lanes 7 and 8 ) , it appeared that CREB-C/EBP heterodimer formation at the hybrid binding site accounted for only a small amount of the enhanced C/EBP binding detected with the C/EBP-CREB-1 INTERACTION REGULATES HIV-1 TRANSCRIPTION - 1849 Var1/3T probe .
+This indicated that only a small quantity of the enhanced C/EBP binding that occurred at C/EBP site I was likely due to heterodimerization between CREB-1 and C/EBP a at a hybrid site created by the directly adjacent cis-acting elements .
+The remaining enhancement was due to one of the other two mechanisms detailed in Fig .
+5A .
+As previously indicated , the four chimeric CREB-C/EBP probes have different ATF/CREB binding site sequence configurations adjacent to the weakly reactive 3T binding site .
+As a result , all four ATF/CREB variants potentially have different hybrid binding sites .
+Results similar to those observed with the Varl half site were also observed with the Var2 and Var3 half sites in that small quantities of C/EBP protein were detected in EMS supershift analyses sites ( data not shown ) .
+However , the hybrid binding site created by the adjacent Var4 ATF/CREB and 3T C/EBP binding sites was quite different .
+When the Var4/3T hybrid half site probe was reacted in supershift EMS reactions with nuclear extract prepared from IL-6-stimulated U-937 cells , C/EBP a was readily detectable ( Fig .
+5C , lane 7 ) .
+As a comparison , similar reactions were conducted with the strong 6G C/EBP binding site I ( as shown in Fig .
+1B ) .
+The Var4/3T hybrid half site probe recruited even greater amounts of C/EBP than did the highly reactive 6G full-length binding site alone .
+This difference was not due to differences in the specific activities of the probes , as the two probes exhibited the same specific activity .
+Thus , while three of the hybrid half sites ( those including Varl , Var2 , and Var3 ) bound only very small amounts of C/EBP factors , the Var4 half site adjacent to half of the 3T binding site appeared to recruit abundant levels of both C/EBP « .
+However , no CREB proteins were detected in supershift EMS analysis involving the Var4/3T hybrid half site probe , indicating that the adjacent half sites of Var 4 and the 3T C/EBP site created a strong C/EBP binding site ( instead of a weak binding site enhanced by CREB binding [ data not shown ] ) .
+In this instance , sequence variation appears to lead to a new binding site that would be present in a subset of HIV-1 LTRs .
+To confirm that C/EBP proteins were indeed being recruited to a hybrid Var4/3T binding site , DNase I footprinting analyses were conducted ( Fig .
+5D ) .
+A 204-bp radiolabeled probe was generated that contained the Var4 ATF/CREB site and the 3T C/EBP site ( Fig .
+5D , lanes 1 and 2 ) .
+This probe was reacted with DNase I alone ( Fig .
+5D , lane 1 ) or with DNase I and purified six-histidine-tagged C/EBP B ( Fig .
+5D , lane 2 ) .
+As a comparison , similar reactions were prepared using a radiolabeled probe that contained a strong 6G C/EBP site ( Fig .
+5D , lanes 3 and 4 ) to visualize the region of DNase I footprinting observed with a highly reactive C/EBP site .
+As shown , the region of DNase I footprinting with the Var4/3T binding sites spanned approximately half of the C/EBP and ATF/CREB binding sites ( Fig .
+5D , lane 2 ) .
+Conversely , C/EBP binding to the probe containing the highly reactive 6G C/EBP site was limited to the region encompassing the C/EBP binding site ( Fig .
+5D , lane 4 ) .
+These results indicate that the adjacent Var4 ATF/CREB and the 3T C/EBP binding sites do indeed create a hybrid binding site with increased affinity for C/EBP protein .
+CREB-1-containing dimers , bound to their cognate sequence , also recruit C/EBP dimers to the weakly reactive C/EBP site I .
+To further distinguish between the mechanisms illustrated in Fig .
+5A , binding to the Var1l/3T oligonucleotide 1850 ROSS ET AL .
+J. VirRou .
+A C/EBP | C/EBP 3 .
+C/EBP binding site B Extract : U-937 IL-6-induced D U-937 CREB-C/EBP configuration : Var4/3T Var1/6G s C/EBP a C/EBP Antisera : - i } Lanes : 10 2 3 4 50 6 7 8 9 10 b # ~ DNase only roe - Oeil + ccer 3 DNase only a ow - + orer c Probe : half Var ?
+/haif 3T - -C- % # 4 CREB C/EBP me .
+** w-§ ] 5 p ® C Probe : 6G C/EBP site | half Var4/half 8T L hnd ma GO t « » we Antisera : 3 pet f oo « thts LL .
+S * t 5 « » am * LL C/EBP complex [ _ Extract : < « » IL-6-induced U-937 Lanes : 1 2 3 4 5 6 7 8 - 1 : i ~ make co Wts 4 ~~ Wile Lanes : Probe : half Var4/haif 3T - -C- CREB C/EBP FIG .
+5 .
+Recruitment of different levels of CREB-C/EBP heterodimers and C/EBP homodimers in EMS analyses is dependent on ATF/CREB sequence variation at hybrid binding sites containing adjacent half sites of the ATF/CREB and C/EBP binding sites .
+( A ) Several mechanisms may explain CREB enhancement of C/EBP recruitment .
+CREB/C/EBP heterodimers may bind to the ATF/CREB binding site ( model 1 ) , or CREB/C/EBP heterodimers may bind to a chimeric binding site created by half sites from the ATF/CREB and C/EBP binding sites ( model 2 ) .
+CREB homodimers may bind to the ATF/CREB site and recruit C/EBP dimers to their cognate sequence ( model 3 ) .
+( B ) The Varl/3T hybrid half-site probe was reacted with U-937 ( lanes 1 to 5 ) and IL-6-induced U-937 ( lanes 6 to 10 ) nuclear extracts .
+Monoclonal antisera directed against C/EBP proteins ( lanes 3 , 4 , 8 , and 9 ) and CREB-1 ( lanes 5 and 10 ) were added to the EMS reactions to identify the proteins binding to the hybrid half sites .
+Control rabbit immunoglobulin ( CS ) was added to lanes 2 and 7 to demonstrate the specific nature of supershifted complexes .
+( C ) The Var4/3T hybrid half site was reacted with IL-6-stimulated U-937 nuclear extract .
+Antisera to C/EBP proteins were added to lanes 3 , 4 , 7 , and 8 .
+Control rabbit immunoglobulin ( CS ) was also added ( lanes 2 and 6 ) to demonstrate the specific nature of supershifted complexes .
+Arrows to the right indicate supershifted C/EBP complexes ( filled ) and CREB-1 complexes ( open ) , and brackets to the left identify the DNA-protein complexes .
+The EMS reactions were performed in probe excess , and the free probe accounted for approximately 75 to 90 % of the total probe in each reaction Vor .
+75 , 2001 probe was compared to binding to a similar probe in which a 10-bp nonsense sequence was placed between the Varl ATF/ CREB and 3T C/EBP binding sites .
+These probes were reacted with IL-6-stimulated U-937 extracts in EMS analyses ( Fig .
+6 ) .
+If CREB-C/EBP heterodimers were bound to the ATF/CREB site ( Fig .
+5A , model 1 ) , accounting for the majority of enhanced C/EBP binding , the addition of the linker between the two sites should not disrupt enhanced C/EBP binding .
+However , if CREB dimers recruit C/EBP dimers to the adjacent site ( Fig .
+5A , model 3 ) , then a 10-bp linker between these sites should disrupt enhanced C/EBP binding .
+The Varl/3T and Varl/linker/3T probes were reacted with IL-6-induced U-937 nuclear extract in the absence or presence of antisera directed against C/EBP « ( Fig .
+6 , lanes 2 and 7 ) , C/EBP B ( Fig .
+6 , lanes 3 and 8 ) , and CREB-1 ( Fig .
+6 , lanes 4 and 9 ) .
+As demonstrated previously , the Varl/3T probe recruited C/EBP « and B , and CREB-1 ( Fig .
+6 , lanes 2 to 4 ) .
+However , when the linker was placed between the two sites , the amount of C/EBP protein recruited to the probe was decreased ( Fig .
+6 , lanes 7 and 8 ) .
+The only apparent mobility shift was a faint C/EBP a supershift .
+As expected , an abundant CREB-1-containing supershifted complex was also detected with the Varl/linker/3T probe ( Fig .
+6 , lane 9 ) .
+The amount of C/EBP protein that was detectable appeared similar to the small quantity of C/EBP a that was normally recruited to the 3T site .
+Consequently , the levels of CREB and C/EBP proteins detected with the Varl/linker/3T binding site probably only reflect the binding affinities of the individual binding sites .
+The proteins detected were likely not the result of any cooperative binding between the two sites , and CREB-C/EBP heterodimers did not appear to be binding to the ATF/CREB binding site alone ( as illustrated in Fig .
+5A , model 1 ) .
+Similar results were observed when identical experiments were conducted using a 5-bp linker placed between the Varl CREB and 3T C/EBP binding sites and when the same experiments were conducted with THP-1 nuclear extract ( data not shown ) .
+Parallel experiments were also performed to quantitate by phosphorimager analysis the amount of supershifted CREB-1-containing DNA-protein complex formed with the Varl/3T and Varl/linker/3T probes .
+A 3.2-fold higher amount of CREB-1 recruitment was observed in the complexes formed with the Var1/3T oligonucleotide than when the linker was placed between the two binding sites .
+This indicated that not only does CREB-1 lead to enhanced binding at the weakly reactive C/EBP site I , but additional CREB-1 was recruited to the ATF/CREB binding site as well .
+This result suggests that the two families of proteins mutually facilitate the binding of one another to their respective sites .
+Similar results were observed when identical experiments were conducted with THP-1 nuclear extract ( data not shown ) .
+In summary , CREB-1 enhancement of C/EBP protein binding to a weakly reactive C/EBP site I appears to occur via two C/EBP-CREB-1 INTERACTION REGULATES HIV-1 TRANSCRIPTION - 1851 mechanisms .
+First , different levels of enhanced C/EBP binding occur through dimerization at a hybrid site created by the adjacent ATF/CREB and C/EBP sites ( Fig .
+5B and C ) .
+Levels of enhancement and dimer identities ( C/EBP homodimers or C/EBP-CREB heterodimers ) are dependent on sequence variation at the two sites .
+Second , C/EBP binding enhancement also occurs by binding of CREB-containing dimers to their cognate ATF/CREB site , which leads to the recruitment of C/EBP dimers to the adjacent weakly reactive 3T binding site ( Fig .
+6 ) .
+Sequence variation at the ATF/CREB site affects C/EBP-dependent transcription .
+To determine if sequence variation at the ATF/CREB site could impact C/EBP -dependent tran-scription , chimeric LTRs were constructed for use in transient expression analyses ( Fig .
+7 ) .
+The chimeric LTRs contained the variant ATF/CREB binding sites ( Var1l , Var2 , Var3 , and Vard4 ) and the weakly reactive 3T C/EBP site within the context of the HIV-1 LTR ( strain LAI ) .
+For comparative purposes , the parental HIV-1 LAI LTR ( containing the ConB/6G ATF/CREB-C/EBP binding site combination ) was also used in the transient analyses .
+Basal activity and IL-6-induced activity are shown in Fig .
+7A and B , respectively .
+Sequence variation at the ATF/CREB site affected both basal and IL-6-induced activity .
+LTRs containing Varl to Var3 all exhibited reduced basal activity compared to the parental construct .
+Var3 , in particular , exhibited the largest reduction in basal activity .
+Only Var4 exhibited a basal activity level similar to that of the parental LAI LTR .
+More importantly , sequence variation at the ATF/CREB site also affected LTR activity in response to IL-6 stimulation , a treatment that activates C/EBP family members .
+Var4/3T and LAI ( ConB/6G ) exhibited the highest levels of activity following IL-6 stimulation compared to LAI ( ConB/6G ) basal activity .
+Vard4/3T was particularly responsive to IL-6 , with a 14-fold increase in activity .
+Var3/3T appeared to exhibit the lowest increase in activity following IL-6 stimulation .
+The chimeric Vard4/3T LTR exhibited the highest overall activity following IL-6-stimulation , which was even higher than that of the parental LAI LTR ( which contains both a strong ATF/CREB site and a C/EBP site I ) .
+This may indicate that C/EBP protein binding at a new C/EBP binding site created by half sites of the Var4 ATF/CREB and 3T C/EBP binding site ( as illustrated in Fig .
+5C ) is more efficient than when C/EBP proteins are recruited to the weak 3T binding site as a result of CREB-1 binding to a strong ATF/CREB site .
+While basal activities and overall levels of activity following IL-6 stimulation were impacted by the ATF/CREB sequence variation , the magnitude of IL-6 stimulation appeared constant between all of the chimeras ( data not shown ) .
+Recruitment of CREB-1 to an ATF/CREB site can be enhanced by an immediately adjacent C/EBP site I that is highly reactive with respect to binding C/EBP proteins .
+Having dem at completion ( data not shown ) .
+( D ) DNase I footprinting analysis was conducted using two 204-bp probes which contained either the Var4 ATF/CREB and 3T C/EBP binding sites within the context of the HIV-1 strain LAI backbone ( lanes 1 and 2 ) or the Varl ATF/CREB and highly reactive 6G C/EBP binding sites within the LAI backbone ( lanes 3 and 4 ) .
+The probes were reacted with purified six-histidine-tagged C/EBP B { Janes 2 and 4 ) , and regions of DNase I footprinting were compared with probe incubated with DNase I only ( lanes 1 and 3 ) .
+Sequencing ladders of the probes were also included during electrophoresis ( data not shown ) to confirm the regions of DNase I footprint , and the confirmed binding sites are illustrated to the left .
+1852 ROSS ET AL .
+Probes : Varl/dT Vari Ainker/3T .
+Y aa x 8 « a .
+# & © & & © .
+o 4 & c o & W or Antisera : .
+O 0G G O| .
+0 G G 0 C/EBP complex C # # < -Extract : CREB complex [ IL-6-induced U-937 lanes : 10 2 3 40 50 60 7 8 9 10 Vart/3T : [ Var CREB C/EBP Vari /inker/3T : var +- .
+Eo CREB ako , - C/EBP FIG .
+6 .
+EMS analyses with a Varl/linker/3T probe indicate that the majority of enhanced C/EBP binding to Varl/3T depends on CREB dimers binding to their cognate sequences .
+The Var1/3T ( lanes 1 to 5 ) and Varl/linker/3T ( lanes 6 to 10 ) probes were reacted with IL-6-stimulated U-937 nuclear extract .
+Antisera directed against C/EBP a { Janes 2 and 7 ) and C/EBP B ( lanes 3 and 8 ) as well as CREB-1 ( lanes 4 and 9 ) were all used to identify these proteins in the DNA-protein complexes .
+Control rabbit immunoglobulin ( CS ) was added to lanes 5 and 10 to demonstrate the specific nature of supershifted complexes .
+Arrows to the right indicate the supershifted C/EBP complexes ( filled ) and supershifted CREB-1 complexes ( open ) , and brackets to the left identify the DNA-protein complexes .
+The EMS reactions were performed in probe excess , and the free probe accounted for approximately 75 to 90 % of the total probe in each reaction at completion ( data not shown ) .
+onstrated that CREB-1 binding to a strong ATF/CREB site can lead to enhanced binding to a weak C/EBP binding site , we proceeded to determine the impact of ATF/CREB sequence variation on C/EBP protein binding to a highly reactive C/EBP site and the impact of this binding on CREB-1 binding to the array of ATF/CREB variant sites under study .
+The probes containing the ATF/CREB variants adjacent to the weak 3T C/EBP site were reacted with IL-6-induced U-937 nuclear extract in EMS analyses , along with similar probes that contained the ATF/CREB variants adjacent to the highly reactive 6G C/EBP site I ( Fig .
+8 ) characterized in Fig .
+1B .
+Each of the probes was reacted with control serum ( Janes 2 , 7 , 12 , and 17 ) and antisera directed against C/EBP a ( lanes 3 , 8 , 13 , and 18 ) , C/EBP B ( lanes 4 , 9 , 14 , and 19 ) , and CREB-1 ( lanes 5 , 10 , 15 , and 20 ) .
+The amount of C/EBP protein recruitment was higher with each of the ATF/CREB variants when placed adjacent to the 6G C/EBP site compared to an adjacent 3T C/EBP site .
+Thus , even if a highly reactive ATF/CREB site leads to increased binding of C/EBP proteins to a weak C/EBP site , the amount of C/EBP binding is still less than that which is recruited to a very strong C/EBP site I. Interestingly , enhanced CREB binding was observed with Var2 and Var4 when placed adjacent to a strong 6G C/EBP site compared to a weak 3T C/EBP site .
+This would indicate that strong C/EBP binding at an adjacent site can also lead to enhanced CREB-1 binding to a weak ATF/CREB site .
+Thus , the binding of proteins from these two families of proteins is intimately connected , and they appear able to enhance the binding of one another , dependent on sequence variation at both sites .
+J. Virou .
+DISCUSSION Previous studies have demonstrated that C/EBP -dependent transcription is critical to replication of HIV-1 in cells of the monocyte/macrophage lineage ( 17 , 18 ) .
+Studies detailed herein indicate that complex interactions occur between two families of transcription factors that interact with an ATF/CREB binding site and the NF- « B-proximal C/EBP site I within the HIV-1 LTR , which may affect C/EBP-dependent transactivation in monocytic cell populations .
+In particular , we have demonstrated enhanced C/EBP factor binding at a naturally occurring weakly reactive C/EBP binding site ( 3T ) due to interactions A Basal Activity = o - - -_ o N & Variant LTR Basal Activity Relative to 6G ( LAI ) Basal Activity o & 0.6 0.4 0.2 0.0 z E E E © 5 °o g $ 0 f S $ $ S B IL-6-induced Activity 20 2 { g 18 S é ) ?
+16 ©§ $ 8 14 +9 §§ 12 €3 10 < 3 es f $ 0 6 § 4 2 i E m E m % a & o © m < a a # © G & > > > > FIG .
+7 .
+ATF/CREB sequence variation affects basal and IL-6-induced activity of the HIV-1 LTR with the weakly reactive C/EBP site I. Chimeric LTRs were constructed to contain the ATF/CREB variants adjacent to a weakly reactive 3T binding site within the context of the LAI LTR backbone .
+The parental LAI LTR ( containing the clade B consensus sequence at the ATF/CREB site and the 6G C/EBP binding site ) was also included in the analyses .
+The LTRs were transiently transfected into the U-937 cell line , and the cultures were treated with IL-6 for a 24-h interval .
+Firefly luminescence was normalized to the Renilla luminescence to control for variations in transfection efficiency .
+The luciferase activity of each of the chimeric LTRs was normalized to an arbitrary activity level of 1.0 for the parental LAI LTR .
+Basal ( A ) activity and IL-6-induced ( B ) activities were plotted separately .
+Each transient transfection was done in duplicate , with three independent experiments .
+The average luciferase count for the LAI LTR was 3,265 + 1,075 , and the average background count was 66 + 16 .
+C/EBP-CREB-1 INTERACTION REGULATES HIV-1 TRANSCRIPTION Vor .
+75 , 2001 A Probe : Var1/6G Var2/31T Var2/6G toa r toa t 5 oo t 80 o t ga. o. mM o. o. m ga. o. mM o. o. m a § 7 8 § 7 a 5 # ) , § 0 E Antisera : a 8 a as 5 ) .
+8 a a 6 ] , 8 a a S| .
+8 a o o « ea dh ain dth dh sth « lis « r » 3 C/EBP complex I : CREB complex I : Extract IL-6-induced U-937 Lanes : 10 2 3 4 50 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 B Probe : Var3/3T Var3/6G Vard4/3T Var4/6G 80 ca v 8 ca r 8 ca r 8 o t oA .
+t. M g t. m o o. m o .
+A. M mo o m ® m ® w m m w .
+o W W r o WoW o o WoW C q WoW C Antisera : 1 o G G G|1| 6 d Go G|i| 6 G G G|1 0 G G O am dh gin dh din dt t » « in dik wn an e `` C/EBP complex I : ' CREB complex I : Extract : IL-6-induced U-937 Lanes : 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Probes : 1853 Varl 3T Var2 6G Vars Vard4 FIG .
+8 .
+Highly reactive C/EBP binding sites can enhance binding of CREB-1 to an adjacent weakly reactive ATF/CREB site .
+Chimeric oligonucleotides containing the Varl ( A , lanes 1 to 10 ) , Var2 ( A , lanes 11 to 20 ) , Var3 ( B , lanes 1 to 10 ) , and Var4 ( B , lanes 11 to 20 ) ATF/CREB binding sites adjacent to either a weak 3T C/EBP site ( A and B , lanes 1 to 5 and 11 to 15 ) or a strong 6G C/EBP binding site ( A and B , lanes 6 to 10 and 16 to 20 ) were reacted with IL-6-induced U-937 nuclear extract in EMS analyses .
+Antisera specific for C/EBP a ( lanes 3 , 8 , 13 , and 18 ) and C/EBP B ( lanes 4 , 9 , 14 , and 19 ) were added to the indicated reactions .
+Control rabbit immunoglobulin ( CS ) was added ( Janes 2 , 7 , 12 , and 17 ) to demonstrate the specific nature of any supershifted complexes .
+Arrows to the right indicate supershifted C/EBP complexes ( filled ) and supershifted CREB-1 complexes ( open ) and brackets to the left identify the DNA-protein complexes .
+The EMS reactions were performed in probe excess , and the free probe accounted for approximately 75 to 90 % of the total probe in each reaction at completion ( data not shown ) .
+with CREB-1 ( and possibly additional ATF/CREB family members ) at an immediately adjacent ATF/CREB sequence .
+The level of enhanced binding was dependent on the reactivity of the ATF/CREB binding site for CREB-1 .
+The strength of the recruitment of particular ATF/CREB proteins at the cognate sequence affected not only the level of enhanced C/EBP binding but also the identity of C/EBP family members re-cruited .
+Furthermore , sequence variation at the ATF/CREB site can impact C/EBP -dependent transactivation ( Fig .
+7 ) .
+For example , ATF/CREB binding sites with relatively high reactivity with respect to binding CREB-1 ( Varl and Var3 [ Fig .
+2B and CJ ) enhanced the binding of both C/EBP « and C/EBP B to the greatest extent ( Fig .
+3B ) .
+The weakly reactive CREB binding sites , Var2 and Vard4 , however , did not exhibit nearly the same level of enhanced binding of C/EBP B to the neighboring weakly reactive C/EBP site I .
+This indicates that ATF/CREB sites highly reactive with CREB-1 should increase C/EBP -dependent transcription more efficiently than weakly reactive ATF/CREB sites , since C/EBP B is a better transac-tivator than C/EBP « ( data not shown ) .
+While ATF/CREB variation did affect C/EBP-dependent transactivation , those with higher reactivities for CREB ( Varl and Var3 ) did not give the highest levels of activity .
+Several explanations can account for this discrepancy .
+It is possible that ATF family members could also influence C/EBP -dependent transactivation , since previous studies have indicated that these ATF/CREB variants , particularly Varl and Var2 , bind ATF family members to differing degrees with lymphocytic nuclear extract ( data not shown ) .
+While it was not possible in these studies to supershift any ATF-related complexes , we can not rule out the possibility that ATF proteins or other CREB-related proteins are recruited to the ATF/CREB variants to different degrees in the monocytic extracts .
+It is possible that the epitopes recognized by the ATF-specific monoclonal antibodies used in these studies were masked or not present during dimerization , preventing detection in the 1854 ROSS ET AL .
+supershift EMS analyses .
+Thus , while CREB-1 was shown to affect C/EBP protein recruitment and C/EBP-dependent tran-scription , CREB-1 may be homodimerizing or heterodimerizing with other yet to be identified ATF/CREB family members .
+Our competition EMS analyses with Var3/3T ( Fig .
+4C ) also indicate that other CREB-related proteins may be involved in interactions at the ATF/CREB and C/EBP binding sites .
+With the addition of this relatively high affinity CREB binding site , enhanced C/EBP binding was observed with the labeled Varl/ 3T oligonucleotide .
+We hypothesize that Var3/3T recruited additional CREB-related proteins , sequestering these from the Var1/3T probe , allowing additional CREB-1 binding to Varl/ 3T and enhancement of C/EBP binding .
+Similarly , C/EBP -dependent transcription may be affected by the composition of dimers with different ATF/CREB and C/EBP family members .
+For example , the mobilities of the supershifted C/EBP B-containing complexes which bound to the probes containing the ATF/CREB variants adjacent to the 3T C/EBP site appeared to be different , dependent on the ATF/CREB binding site used in the EMS analyses ( Fig .
+3B ) .
+The C/EBP B-related complex that was detected with the Var1l/3T chimera appeared to have the same mobility as the C/EBP « -related complex .
+Conversely , the C/EBP B-related complex that bound to Var3/3T and Var4/3T appeared to have a much faster mobility than the C/EBP « -related complex ( Fig .
+3B ) .
+This could be explained by the different sizes of the two C/EBP proteins .
+C/EBP « is approximately 42 kDa ( 26 , 31 , 37 ) , while C/EBP f is a 38-kDa protein ( 2 , 16 ) .
+Given the mobilities of the different C/EBP B-related complexes , the observations suggest that the Var1/3T chimeric probe recruits heterodimers of C/EBP a and C/EBP B. Conversely , it appears that the chimeric probes containing the Var3 and Var4 binding sites recruit primarily C/EBP « and B homodimers .
+The Var2/3T chimeric probe appeared to recruit primarily C/EBP « homo-dimers , since a supershifted complex containing C/EBP B was difficult to detect .
+Finally , it is possible that truncated members of the C/EBP family which act as transcriptional repressors are recruited differentially to the sequence variants , thereby complicating interactions between the ATF/CREB and C/EBP proteins .
+While synergistic interactions between the ATF/CREB and C/EBP protein families have previously been observed ( 33 , 35 , 41 ) , they have not been defined within the context of the HIV-1 LTR .
+The interaction between the two protein families and the HIV-1 LTR appears to occur via a combination of mechanisms .
+A small fraction of the enhanced C/EBP « binding may occur via homodimerization or dimerization with CREB-1 ( depending on the ATF/CREB variant configura-tion ) .
+These heterodimers are then able to bind to a hybrid binding site created by adjacent half sites from the ATF/CREB and C/EBP binding sites ( Fig .
+5B and C ) .
+While the level of C/EBP recruited via this mechanism was small with the Varl , Var2 , and Var3 ATF/CREB binding sites , significant levels of C/EBP proteins were recruited when the Var4 half site was placed adjacent to the 3T half site .
+In this case , rather than recruiting CREB-C/EBP heterodimers , the hybrid binding site Vard4/3T led to increased C/EBP dimer recruitment ( Fig .
+5C and D ) .
+Most likely , this mechanism of recruitment explains the high level of LTR activity observed with the Vard4/3T chimeric LTR upon IL-6 induction , with the hidden C/EBP site J. Virou .
+recruiting more C/EBP factors than are recruited to a low-affinity C/EBP site during enhancement of C/EBP binding by a strong ATF/CREB site .
+Interestingly , the high levels of C/EBP recruitment were not observed when the two full-length binding sites were adjacent to one another ( Fig .
+3B ) .
+It is possible that under certain conditions , CREB-1 binding to its cognate sequence prevents access to this hybrid binding site .
+Under conditions where the ATF/CREB binding site is unoccupied , perhaps it is then possible to observe enhanced recruitment of C/EBP proteins at the adjacent ATF/CREB and C/EBP half sites .
+Alternative-ly , in instances where C/EBP proteins undergo modification ( for example , following IL-6 stimulation ) , perhaps increased C/EBP affinity for the hybrid binding site is greater than the affinity of CREB-1 for its cognate sequence , forcing the displacement of CREB-1 .
+Thus , the composition and quantity of proteins recruited to the hybrid sites created between the adjacent ATF/CREB and C/EBP binding sites can fluctuate greatly .
+Under most instances examined , the majority of C/EBP « enhancement as well as the enhanced binding of C/EBP B appears to occur by a second mechanism .
+In this case , dimers containing CREB-1 appear to bind to their cognate ATF/CREB binding site and recruit C/EBP dimers to the weakly reactive 3T binding site ( which does not efficiently recruit these proteins on its own ) .
+Interactions between ATF/CREB and C/EBP proteins may involve direct contact between these factors or an intermediary protein that links factors bound to these two sites .
+We hypothesize that CREB-1 probably enhances C/EBP binding using CBP as a molecular bridge .
+A recent study demonstrated a similar cooperation between Myb and C/EBP B ( 29 ) .
+In this case , Myb bound to its cognate DNA sequence and recruited C/EBP proteins to an adjacent site via interactions with p300 , a coactivator protein homologous to CBP .
+Myb binds to p300 through the CREB binding domain on the p300 protein .
+The p300 protein then acts as a bridge between Myb and the adjacent C/EBP binding site , as p300 also possesses a C/EBP binding domain .
+We propose that a similar mechanism may be involved between the ATF/CREB and C/EBP binding sites in the HIV-1 LTR .
+In this scenario , CREB dimers bind to their cognate binding site and recruit CBP , the major coactivator for CREB .
+CBP then forms a bridge between the two binding sites and leads to enhanced binding of C/EBP proteins at the adjacent C/EBP site I , due to interactions between C/EBP and the E1A domain of CBP .
+We have found support for this hypothesis in EMS analyses that indicated that disruption of p300/ CBP binding ( by the addition of antisera reactive for CBP and p300 ) caused a decrease in the amount of C/EBP proteins recruited to Var1/3T , with a concomitant increase in the level of CREB-1 recruited ( data not shown ) .
+Future studies must be conducted to determine if ATF/CREB-enhanced binding of C/EBP is dependent on CBP or p300 .
+If this is the case , it must then be determined whether this interaction is specific for C/EBP B , or if it is applicable to all C/EBP family members .
+We have been unable to demonstrate enhanced binding of six-histidine-tagged C/EBP in the presence of six-histidine-tagged CREB-1 using DNase I footprinting analysis ( data not shown ) .
+We believe that this is due to the requirement for CBP/p300 as a molecular bridge leading to enhanced C/EBP binding .
+Future studies will address the requirement for CBP/ Vor .
+75 , 2001 p300 in ATF/CREB-dependent enhancement of C/EBP binding and the necessary phosphorylation states of the proteins involved .
+It is interesting that CREB-1 binding also appeared to be increased with enhanced C/EBP binding .
+When the high-affinity Varl ATF/CREB site was immediately adjacent to the weakly reactive C/EBP site , CREB binding was threefold higher than when the CREB site was separated from the C/EBP site by 10 nucleotides .
+Thus , it appears that CREB-1 enhances C/EBP binding to the weakly reactive 3T site , which in turn enhances CREB-1 binding .
+If CBP is responsible for much of the enhanced C/EBP binding , it is possible that the binding of CREB-1 and C/EBP to their respective domains on CBP forms a much more stable complex than does CREB-1 binding to CBP alone .
+Future studies will examine this hypothesis in detail .
+However , enhancement of C/EBP binding by CREB-1 appeared limited to instances when highly reactive ATF/CREB binding sites were adjacent to a weakly reactive C/EBP site I .
+When a highly reactive 6G C/EBP site I was placed adjacent to the ATF/CREB binding site variants , strong C/EBP binding was observed above the enhanced recruitment to the weak 3T site ( Fig .
+8 ) .
+This indicates that while CREB binding can lead to enhanced C/EBP recruitment , the levels of protein binding were still lower than the amounts of protein recruited to a very strong C/EBP site I. Interestingly , CREB-1 binding to a weak ATF/CREB site can also be enhanced by C/EBP binding to a strong C/EBP binding site ( Fig .
+8 ) .
+This indicates that the recruitment of proteins to these two sites is highly dependent on sequence variation at both sites and that binding of proteins from these two families of proteins is highly interrelated and interdependent .
+In summary , complex interactions appear to occur between ATF/CREB and C/EBP in the context of the HIV-1 LTR .
+C/EBP and CREB dimers impact one another in a manner dependent on the strength of the two binding sites , which is governed by sequence variation at each site .
+Given the integral role that NF- « B and Sp family members play with respect to HIV-1 replication and the immediate proximity of the NF- « B and Sp binding sites to the ATF/CREB and C/EBP sites , an important focus of future studies will be to determine the impact of NF-kB and Sp binding on ATF/CREB and C/EBP within the context of replication within cells of the monocyte/ macrophage lineage .
+Future studies will continue to examine the intricate biochemical interactions between the NF- « B , ATF/CREB , and C/EBP transcription families , the coactiva-tors CBP and p300 , the phosphorylation state of the involved proteins , and their role in regulating HIV-1 LTR-directed transcription in cells of the monocyte/macrophage lineage .
+ACKNOWLEDGMENTS This study was performed in the laboratory of Brian Wigdahl and was supported by Public Health Service grant NS 32092 .
+REFERENCES 1 .
+Abrink , M. , A. E. Gobl , R. Huang , K. Nilsson , and L. Hellman .
+1994 .
+Human cell lines U-937 , THP-1 and Mono Mac 6 represent relatively immature cells of the monocyte-macrophage cell lineage Leukemia 8:1579-1584 .
+2 .
+Akira , S. , H. Isshiki , T. Sugita , O. Tanabe , S. Kinoshita , Y. Nishio , T. Nakajima , T. Hirano , and T. Kishimoto .
+1990 .
+A nuclear factor for IL-6 expression ( NF-IL6 ) is a member of a C/EBP family .
+EMBO J .
+9:1897-1906 .
+3 .
+Altschul , S. F. , T. L. Madden , A .
+A. Schaffer , J. Zhang , Z. Zhang , W. Miller , C/EBP-CREB-1 INTERACTION REGULATES HIV-1 TRANSCRIPTION 10 .
+11 .
+12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+1855 and D. J. Lipman .
+1997 .
+Gapped BLAST and PSI-BLAST : a new generation of protein database search programs .
+Nucleic Acids Res .
+25:3389-3402. .
+Birkenmeier , E. H. , B. Gwynn , S. Howard , J. Jerry , J. I. Gordon , W. H. Landschulz , and S. L. McKnight .
+1989 .
+Tissue-specific expression , developmental regulation , and genetic mapping of the gene encoding CCAAT/ enhancer binding protein .
+Genes Dev .
+3:1146-1156. .
+Bisotto , S. , S. Minorgan , and R. P. Rehfuss .
+1996 .
+Identification and char acterization of a novel transcriptional activation domain in the CREB-bind-ing protein .
+J. Biol .
+Chem .
+271:17746-17750. .
+Bretz , J. D. , S. C. Williams , M. Baer , P. F. Johnson , and R. C. Schwartz .
+1994 .
+C/EBP related protein 2 confers lipopolysaccharide-inducible expression of interleukin 6 and monocyte chemoattractant protein 1 to a lympho-blastic cell line .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 91:7306-7310. .
+Bronstein , L. , J. C. Voyta , O. J. Murphy , L. Bresnick , and L. J. Kricka .
+1992 .
+Improved chemiluminescent western blotting procedure .
+BioTechniques 12 ; 748-753. .
+Burnette , W. N. 1981 .
+`` Western blotting '' : electrophoretic transfer of pro teins from sodium dodecyl sulfate-polyacrylamide gels to unmodified nitro-cellulose and radiographic detection with antibody and radioiodinated protein A. Anal .
+Biochem .
+112:195-203. .
+Chang , C. J. , T. T. Chen , H. Y. Lei , D. S. Chen , and S. C. Lee .
+1990 .
+Molecular cloning of a transcription factor , AGP/EBP , that belongs to members of the C/EBP family .
+Mol .
+Cell .
+Biol .
+10:6642-6653 .
+Chrivia , J. C. , R. P. Kwok , N. Lamb , M. Hagiwara , M. R. Montminy , and R. H. Goodman .
+1993 .
+Phosphorylated CREB binds specifically to the nuclear protein CBP .
+Nature 365:855-859 .
+Dallas , P. B. , P. Yaciuk , and E. Moran .
+1997 .
+Characterization of monoclonal antibodies raised against p300 : both p300 and CBP are present in intra-cellular TBP complexes .
+J. Virol .
+71:1726-1731 .
+Descombes , P. , M. Chojkier , S. Lichtsteiner , E. Falvey , and U. Schibler .
+1990 .
+LAP , a novel member of the C/EBP gene family , encodes a liver-enriched transcriptional activator protein .
+Genes Dev .
+41541-1551 .
+Dignam , J. D. , R. M. Lebovitz , and R. G. Roeder .
+1983 .
+Accurate transcription initiation by RNA polymerase II in a soluble extract from isolated mammalian nuclei .
+Nucleic Acids Res .
+11:1475-1489 .
+Garcia , J .
+A. , F. K. Wu , R. Mitsuyasu , and R. B. Gaynor .
+1987 .
+Interactions of cellular proteins involved in the transcriptional regulation of the human immunodeficiency virus .
+EMBO J .
+6:3761-3770 .
+Gillespie , P. G. , and A. J. Hudspeth .
+1991 .
+Chemiluminescence detection of proteins from single cells .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 88:2563-2567 .
+Haas , J. G. , M. Strobel , A. Leutz , P. Wendelgass , C. Muller , E. Sterneck , G. Ricthmuller , and H. W. Ziegler-Heitbrock .
+1992 .
+Constitutive monocyte-restricted activity of NF-M , a nuclear factor that binds to a C/EBP motif .
+J. Immunol .
+149:237-243 .
+Henderson , A. J. , and K. L. Calame .
+1997 .
+CCAAT/enhancer binding protein ( C/EBP ) sites are required for HIV-1 replication in primary macrophages but not CD4 ( + ) T cells .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 94:8714-8719 .
+Henderson , A. J. , R. I Connor , and K. L. Calame .
+1996 .
+C/EBP activators are required for HIV-1 replication and proviral induction in monocytic cell lines .
+Immunity 5:91-101 .
+Henderson , A. J. , X. Zou , and K. L. Calame .
+1995 .
+C/EBP proteins activate transcription from the human immunodeficiency virus type 1 long terminal repeat in macrophages/monocytes .
+J. Virol .
+69:5337-5344 .
+Kee , B. L. , J. Arias , and M. R. Montminy .
+1996 .
+Adaptor-mediated recruitment of RNA polymerase II to a signal-dependent activator .
+J. Biol .
+Chem .
+271:2373-2375 .
+Kinoshita , S. , S. Akira , and T. Kishimoto .
+1992 .
+A member of the C/EBP family , NF-IL6 beta , forms a heterodimer and transcriptionally synergizes with NF-IL6 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 89:1473-1476 .
+Krebs , F. C. , M. M. Goodenow , and B. Wigdahl .
+1997 .
+Ncuroglial ATF/ CREB factors interact with the human immunodeficiency virus type 1 long terminal repeat .
+J. Neurovirol .
+3 ( Suppl .
+1 ) : $ 28-S32 .
+Krebs , F. C. , D. Mebhrens , S. Pomeroy , M. M. Goodenow , and B. Wigdahl .
+1998 .
+Human immunodeficiency virus type 1 long terminal repeat quasispe-cies differ in basal transcription and nuclear factor recruitment in human glial cells and lymphocytes .
+J. Biomed .
+Sci .
+5:31-44 .
+Krebs , F. C. , H. Ross , J. McAllister , and B. Wigdahl .
+2000 .
+HIV-associated neurologic dysfunction .
+Adv .
+Pharmacol .
+49:315-385 .
+Kwok , R. P. , J. R. Lundblad , J. C. Chrivia , J. P. Richards , H. P. Bachinger , R. G. Brennan , S. G. Roberts , M. R. Green , and R. H. Goodman .
+1994 .
+Nuclear protein CBP is a coactivator for the transcription factor CREB .
+Nature 370:223-226 .
+Landschulz , W. H. , P. F. Johnson , E. Y. Adashi , B. J. Graves , and S. L. McKnight .
+1988 .
+Isolation of a recombinant copy of the gene encoding C/EBP .
+Genes Dev .
+2786-800 .
+( Erratum , 8:1131 , 1994 . )
+Matsusaka , T. , K. Fujikawa , Y. Nishio , N. Mukaida , K. Matsushima , T. Kishimoto , and S. Akira .
+1993 .
+Transcription factors NF-IL6 and NF-kappa B synergistically activate transcription of the inflammatory cytokines , interleukin 6 and interleukin 8 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:10193-10197 .
+Maxam , A. M. , and W. Gilbert .
+1980 .
+Sequencing end-labeled DNA with base-specific chemical cleavages .
+Methods Enzymol .
+65:499-560 .
+Mink , S. , B. Haenig , and K. H. Klempnauner .
+1997 .
+Interaction and func- 1856 30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+ROSS ET AL .
+tional collaboration of p300 and C/EBPRB .
+Mol .
+Cell .
+Biol .
+17:6609-6617 .
+Natsuka , S. , S. Akira , Y. Nishio , S. Hashimoto , T. Sugita , H. Isshiki , and T. Kishimoto .
+1992 .
+Macrophage differentiation-specific expression of NF-IL6 , a transcription factor for interleukin-6 .
+Blood 79:460-466 .
+Ossipow , V. , P. D bes , and U. Schibler .
+1993 .
+CCAAT/enhancer-binding protein mRNA is translated into multiple proteins with different transcription activation potentials .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:8219-8223 .
+Pope , R. M. , A. Leutz , and S. A. Ness .
+1994 .
+C/EBP beta regulation of the tumor necrosis factor alpha gene .
+J. Clin .
+Investig .
+94:1449-1455 .
+Roesler , W. J. , S. M. Crosson , C. Vinson , and P. J. MecFie .
+1996 .
+The alpha-isoform of the CCAAT/enhancer-binding protein is required for mediating cAMP responsiveness of the phosphoenolpyruvate carboxykinase promoter in hepatoma cells .
+J. Biol .
+Chem .
+271:8068-8074 .
+Sandhu , G. S. , B. W. Eckloff , and B. C. Kline .
+1991 .
+Chemiluminescent substrates increase sensitivity of antigen detection in western blots .
+BioTechniques 11:14-16 .
+Shuman , J. D. , J. Cheong , and J. E. Coligan .
+1997 .
+ATF-2 and C/EBPalpha can form a heterodimeric DNA binding complex in vitro .
+Functional implications for transcriptional regulation .
+J. Biol .
+Chem .
+272:12793-12800 .
+Stein , B. , and A. S. Baldwin , Jr. 1993 .
+Distinct mechanisms for regulation of the interleukin-8 gene involve synergism and cooperativity between C/EBP and NF- « B .
+Mol .
+Cell .
+Biol .
+13:7191-7198 .
+Swart , G. W. , J. J. van Groningen , F. van Ruissen , M. Bergers , and J. Schalkwijk .
+1997 .
+Transcription factor C/EBPalpha : novel sites of expression and cloning of the human gene .
+Biol .
+Chem .
+378:373-379 .
+Tanaka , T. , S. Akira , K. Yoshida , M. Umemoto , Y. Yoneda , N. Shirafuji , H. 39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+J. Virou .
+Fujiwara , S. Suematsu , N. Yoshida , and T. Kishimoto .
+1995 .
+Targeted disruption of the NF-IL6 gene discloses its essential role in bacteria killing and tumor cytotoxicity by macrophages .
+Cell 80:353-361 .
+Tesmer , V. M. , A. Rajadhyaksha , J. Babin , and M. Bina .
+1993 .
+NF-IL6-mediated transcriptional activation of the long terminal repeat of the human immunodeficiency virus type 1 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:7298-7302 .
+Thomassin , H. , D. Hamel , D. Bernier , M. Guertin , and L. Belanger .
+1992 .
+Molecular cloning of two C/EBP-related proteins that bind to the promoter and the enhancer of the alpha 1-fetoprotein gene .
+Further analysis of C/EBP beta and C/EBP gamma .
+Nucleic Acids Res .
+20:3091-3098 .
+Vallejo , M. , D. Ron , C. P. Miller , and J. F. Habener .
+1993 .
+C/ATF , a member of the activating transcription factor family of DNA- binding proteins , dimer-izes with CAAT/enhancer-binding proteins and directs their binding to cAMP response elements .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:4679-4683 .
+Williams , S. C. , C. A. Cantwell , and P. F. Johnson .
+1991 .
+A family of C/EBP -related proteins capable of forming covalently linked leucine zipper dimers in vitro .
+Genes Dev .
+5:1553-1567 .
+Wu , F. , J. Garcia , R. Mitsuyasu , and R. Gaynor .
+1988 .
+Alterations in binding characteristics of the human immunodeficiency virus enhancer factor .
+J. Virol .
+62:218-225 .
+Yamanaka , R. , G. D. Kim , H. S. Radomska , J. Lekstrom-Himes , L. T. Smith , P. Antonson , D. G. Tenen , and K. G. Xanthopoulos .
+1997 .
+CCAAT/enhancer binding protein epsilon is preferentially up-regulated during granulocytic differentiation and its functional versatility is determined by alternative use of promoters and differential splicing .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 94:6462-6467 .

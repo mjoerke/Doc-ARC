@@ -1,0 +1,749 @@
+JOURNAL OF VIROLOGY , Nov. 2000 , p. 10458-10467 0022-538 X , /00/ $ 04.00+0 Vol .
+74 , No .
+22 Copyright © 2000 , American Society for Microbiology .
+All Rights Reserved .
+The Epstein-Barr Virus Promoter Initiating B-Cell Transformation Is Activated by RFX Proteins and the B-Cell-Specific Activator Protein BSAP/Pax5 ROSEMARY TIERNEY , HELEN KIRBY , JASDEEP NAGRA , ALAN RICKINSON , * AND ANDREW BELL CRC Institute for Cancer Studies , University of Birmingham , Edgbaston , Birmingham B15 2TT , United Kingdom Received 5 June 2000/Accepted 18 August 2000 Epstein-Barr virus ( EBV ) -induced B-cell growth transformation , a central feature of the virus ' strategy for colonizing the human B-cell system , requires full virus latent gene expression and is initiated by transcription from the viral promoter Wp .
+Interestingly , when EBV accesses other cell types , this growth-transforming program is not activated .
+The present work focuses on a region of Wp which in reporter assays confers B-cell-specific activity .
+Bandshift studies indicate that this region contains three factor binding sites , termed sites B , C , and D , in addition to a previously characterized CREB site .
+Here we show that site C binds members of the ubiquitously expressed RFX family of proteins , notably RFX1 , RFX3 , and the associated factor MIBP1 , whereas sites B and D both bind the B-cell-specific activator protein BSAP/Pax5 .
+In reporter assays with mutant Wp constructs , the loss of factor binding to any one of these sites severely impaired promoter activity in B cells , while the wild-type promoter could be activated in non-B cells by ectopic BSAP expression .
+We suggest that Wp regulation by BSAP helps to ensure the B-cell specificity of EBV 's growth-transforming function .
+Epstein-Barr virus ( EBV ) is the best known of the y1 her-pesviruses , a group of closely related B-lymphotropic agents of primates which have evolved a unique strategy through which to access , disseminate , and persist within the B-lymphoid system .
+The essential features of that strategy are threefold .
+First , EBV can efficiently access target B lymphocytes through an interaction between the major viral envelope glycoprotein gp340 and the complement receptor CR2/CD21 , a cell surface molecule expressed preferentially though not exclusively on B-lymphoid cells ( 16 , 38 , 57 ) .
+Second , the virus carries a set of latent cycle genes , encoding six nuclear antigens ( EBNA1 , EBNAZ , EBNA3A , EBNA3B , EBNA3C , and EBNA-LP ) and three latent membrane proteins ( LMP1 , LMP2A , and LMP2B ) , whose coordinate expression in newly infected B cells activates cell growth ( 26 ) ; this growth transformation , first observed in vitro , where experimental infection of resting B cells leads to the outgrowth of permanent lymphoblastoid cell lines , is also seen during primary EBV infection in vivo as a virus-driven expansion of the latently infected B-cell pool ( 58 ) .
+Third , following this expansion , the transforming program of latent gene expression can be down-regulated in vivo as the infected cells move out of cycle and enter the resting memory B-cell pool ( 3 , 35 , 43 ) ; the latter is the reservoir upon which successful virus persistence in the immune host appears to depend .
+This report concerns the mechanisms whereby EBV specifically activates its growth-transforming program of gene expression .
+In experimentally infected B cells , the first viral transcripts are driven from a viral promoter , Wp , localized within the BamHI W repeat region of the viral genome ( 2 , 64 ) .
+These transcripts lead to the expression of two nuclear antigens , EBNAZ and EBNA-LP , both of which are critical for efficient * Corresponding author .
+Mailing address : CRC Institute for Cancer Studies , University of Birmingham , Edgbaston , Birmingham B15 2IT , United Kingdom .
+Phone : 44-121-414-4492 .
+Fax : 44-121-414-4486 .
+E-mail : A.B.Rickinson @ bham.ac.uk .
+transformation .
+EBNAZ , acting alone or in cooperation with EBNA-LP , serves to activate a number of cellular promoters for growth response genes ( 29 , 52 , 61 ) as well as the LMP promoters ( 15 , 62 , 66 ) and Cp , an alternative EBNA promoter 3 kbp upstream of Wp , which can drive expression of all six EBNA transcripts ( 24 , 56 ) .
+It is clear that activation of this growth-transforming program of viral gene expression is in some way dependent on the B-cell environment because experimental infection of other cell types , including epithelium ( 39 , 53 ) , endothelium ( 25 ) , T cells ( 63 ) , and monocytes ( 49 ) , does not lead to full latent protein expression or autonomous cell growth .
+In the best studied of these examples , CR2 gene-transfected epithelial cells exposed to the virus in vitro showed transient low-level transcription from Wp and Cp but no detectable EBNAZ or EBNA-LP expression ; many cells became actively infected , however , and selectively expressed the virus genome maintenance protein EBNA1 from an alternative EBNA1-specific promoter , Qp , 17 kbp downstream of Wp ( 28 , 30 ) .
+In B-cell infection , much work has focused on the mechanisms whereby EBNAZ , through interaction with cellular factors such as recombination signal binding protein Jk ( 19 , 21 , 67 ) , can activate the Cp and LMP promoters and thereby lead to expression of the full range of virus latent proteins .
+What is less clear , however , is the mechanism whereby Wp is first activated in B cells to initiate the transformation process .
+There have been a number of studies with Wp reporter constructs identifying potential regulatory elements in the promoter ( 23 , 47 ) , but apart from a long-range role for EBNA1 through its binding to the orfP region of the viral genome 5 kbp upstream ( 42 ) , the factors governing Wp activity have only recently begun to be explored .
+Notably , we showed that the low basal activity of Wp that is seen in a variety of cell types was dependent on sequences more than 250 bp upstream of the transcription start site , in particular on a region called upstream activation sequence 2 ( UASZ ; -264 to -352 ) , the activity of which was primarily dependent on the ubiquitously 10458 Vor .
+74 , 2000 expressed transcription factor YY1 .
+By contrast , the much higher activity shown by Wp in B-cell lines mapped to promot-er-proximal region UAS1 , which contained at least three regulatory sites identified by mutational analysis ( 6 ) .
+One of these sites bound ubiquitously expressed proteins of the CREB/ATF family ( 27 ) , but the identity of factors binding elsewhere in the region and the basis of the promoter 's preferential activation in B-cell lines remained to be determined .
+Here we show that this activation requires members of the RFX family of transcription factors and the B-cell-specific activator protein BSAP/ Pax-5 .
+MATERIALS AND METHODS Cell lines .
+A number of human B-cell and non-B-cell lines were used for the preparation of nuclear extracts and for transient transfection assays .
+Established B-cell lines were the EBV-negative Burkitt 's lymphoma-derived cell lines DG75 and Ramos , the EBV-positive Burkitt 's lymphoma-derived cell line Akata , and the EBV-transformed lymphoblastoid cell line B4 .
+The non-B cells included the T-cell leukemic lines CEM and Jurkat , the procrythroleukemic line K562 , and the simian virus 40-transformed epidermal keratinocyte line Rhek .
+All cells with the exception of Rhek were maintained as suspension cultures in RPMI 1640 supplemented with 10 % ( vol/vol ) selected fetal calf serum , 2 mM glutamine , and 100 mg of gentamicin per liter .
+Rhek cells were grown in Joklik 's medium supplemented with 8 % ( vol/vol ) fetal calf serum , 2 mM glutamine , and 0.4 pg of hydrocortisone per ml .
+Plasmid constructs .
+The Wp440/GL2 reporter plasmid , in which the luciferase reporter gene is under the control of Wp sequence positions -440 to +175 ( relative to the Wp RNA start site ) , has been described previously ( 6 ) .
+The site B , site C , and site D mutant reporter constructs were made using appropriate oligonucleotides and the Sculptor mutagenesis system ( Amersham Pharmacia ) .
+The BSAP expression vector containing the human BSAP cDNA cloned into pSG5 ( 44 ) was kindly provided by Andreas Reimold ( Harvard Medical School , Boston , Mass . ) .
+Bandshift assays .
+The preparation of nuclear extracts and the in vitro binding assays have been described previously ( 6 ) , binding reactions were carried out with either poly ( dI-dC ) ( Amersham Pharmacia ) or sheared herring sperm DNA ( Sigma ) to reduce complex formation due to nonspecific DNA binding proteins .
+In the initial bandshift assays , long probes carrying Wp sequence positions -352 to -264 , -264 to -135 , and -135 to -70 were generated by digestion of Wp440/GL2 Basic with Secl/Avril , Avrll/Apel , and Apal/MunI , respectively .
+Two additional overlapping probes , -316/-135 and -170/-70 , were generated by Sacl/Apal digestion of a truncated Wp reporter plasmid Wp316/GL2 Basic produced as one of a series of promoter truncations in earlier work ( 6 ) and by Ncol/Mun !
+digestion of a Wp440 derivative in which an NcoI site had been introduced at -173 to -168 by site-directed mutagenesis , respectively .
+The appropriate fragments were then dephosphorylated using alkaline phosphatase and gel purified before labeling with [ y- > °P ] JATP and polynucleotide kinase .
+The short double-stranded oligonucleotide competitors ( Alta Biosciences , University of Birmingham ) used for Fig .
+2 were MIF-1 ( GATCTAGAGTAGTTATGGTA ACTGGG ) , MIF-1 m ( GATCTAGAGTAGTTATGATTACTGGG ) , HBV enh-I ( GATCCGTTGCTCGGCAACGGCCTA ) , HBV enh-I m ( GATCCCAA CCTCGGCAACGGCCTA ) , and HLA DRA X ( GATCCCCTTCCCCTAGCA ACAGATGA ) ( mutations are underlined ) ; designations are explained in Re-sults ) .
+To determine the minimal sequence required for factor binding to site D within the -264/-135 probe , a number of truncated double-stranded oligonucleotide competitors carrying Wp sequences -254/-215 , -254/-220 , -242/ -215 , -242/-220 , -237/-215 , and -232/-215 were synthesized .
+Competitor oligonucleotides and/or probes containing the wild-type and mutant YY1 sites ( Wp -308/-279 and mut YY1 ) , the CREB site ( Wp -102/-77 ) , and sites B ( Wp -115/-86 ) and C ( Wp -140/-99 ) have been described previously ( 6 ) ; in some cases the site C competitor sequence and its mutant derivatives were shortened to nucleotides -125 to -99 .
+Competitor oligonucleotides ( 1,000-fold excess unless stated otherwise ) were added to the binding reaction prior to addition of the radiolabeled probe .
+The following antibodies , purchased as Tran-sCruz Gel Supershift reagents ( Santa Cruz Biotechnology ) , were also included in the relevant binding reactions : a rabbit polyclonal antibody against YY1 ( C-20 ) , a mouse monoclonal antibody against CREB proteins ( 25C 10G ) , a rabbit polyclonal antibody against Octl ( C-21 ) , and a goat polyclonal antibody against BSAP ( C-20 ) .
+Antisera against RFX1 , RFX3 , and RFX5 were kindly provided by Walter Reith ( University of Geneva , Geneva , Switzerland ) , and the MIBP1 antiserum was kindly provided by Maria Zajac-Kaye ( Naval Oncology Center , National Institutes of Health , Bethesda , Md . ) .
+In vitro-translated ( IVT ) YY1 and BSAP were generated using the T7 TNT coupled reticulocyte lysate system ( Promega ) according to the manufacturer 's instructions .
+Transient transfection and reporter assays .
+Cell cultures were transiently transfected with 8 ug of luciferase reporter containing the relevant Wp sequences and 2 g of a constitutively expressed -galactosidase reporter ( CMV- EBV PROMOTER REGULATION BY RFX AND BSAP - 10459 Bgal ) as previously described ( 6 ) .
+Wp reporter activities were measured by quantifying luciferase expression in whole-cell extracts at 16 to 24 h posttrans-fection ; the luciferase activity in each sample was then normalized for variations in transfection efficiency by measuring the level of B-galactosidase expression from the cotransfected CMV-Bgal plasmid .
+In the case of the BSAP transactivation experiments , 2 pg of BSAP/pSGS or 2 ug of empty pSGS vector was included with the appropriate luciferase reporter constructs and CMV-Bgal as above .
+RESULTS Binding of lineage-independent and B-cell-specific factors to Wp sequences .
+Figure 1a shows a schematic representation of Wp in its genomic context , downstream of oriP and Cp , and identifies the main lineage-independent regulatory region UASZ2 with its constituent YY1 site and the B-cell-specific region UAS1 with its constituent CREB/ATF site .
+The additional sites ( B , C , and D ) within UAS1 were either known from earlier work ( 6 ) or identified in the present study .
+Since our previous analysis of factor binding to Wp had used short oligonucleotide probes representing only a few selected sequences within the promoter , we first carried out a more systematic screening using a series of longer radiolabeled probes designed to cover the entire -352 to -70 region .
+Focusing first on UAS2 , Fig .
+1b shows the protein-DNA complexes formed when the -352/-264 probe was incubated with nuclear extracts prepared from B-cell lines ( Akata , Ramos , DG75 , and 1B4 ) or from non-B-cell lines of epithelial ( Rhek ) , T-cell ( CEM and Jurkat ) , and erythroleukemic cell ( K562 ) origin .
+In all cases , we detected the same two complexes , implying that this lincage-independent region of Wp interacts only with ubiquitously expressed factors .
+The data in Fig .
+1b strengthen our earlier conclusion that the cellular factor YY1 is the major determinant of UAS2 activity .
+Thus , the formation of both complexes could be inhibited by the addition of a short oligonucleotide competitor representing the minimal YY1 binding sequence from -308 to -279 ( Fig .
+1b , lane 9 ) but not by mut YY1 , a sequence that had lost YY1 binding activity ( lane 10 ) ; furthermore , both complexes were supershifted by a YY1-specific polyclonal antibody ( data not shown ) .
+Since incubation of the probe with IVT YY1 reproduced only the faster-migrating of the two complexes ( data not shown ) , we infer that this faster-migrating complex contains YY1 alone whereas the second complex contains YY1 and an additional cellular factor .
+We then monitored complex formation using a second large probe , Wp -135/-70 , spanning a region previously shown to encompass a CREB binding site and two adjacent sites , B and C. Note that here , as in all experiments with long probes , we screened for factor binding under two different reaction conditions since we had previously noted that complex formation at certain sites in Wp was differentially affected by the choice of nonspecific DNA competitor .
+Under the first set of conditions ( Fig .
+1e ) , we showed that the only detectable complexes could be specifically competed out using a small oligonucleotide representing the minimal CREB site sequence ( lane 8 ) but not by competitors representing site B or C ( lane 9 or 10 ) .
+The identity of these ubiquitously expressed proteins as members of the CREB/ATF family was confirmed by supershift experiments using a CREB/ATF antibody ( data not shown ) .
+Parallel experiments in which the Wp -135/-70 probe was incubated under alternative binding conditions ( Fig .
+1d ) revealed a number of slow-migrating complexes which were detected using nuclear extracts of both B-cell and non-B-cell lines ; these complexes appeared identical to those previously obtained using a short site C oligonucleotide probe ( 6 ) , since their formation was specifically inhibited by the addition of a site C competitor 10460 TIERNEY ET AL .
+J. VirRou .
+a orxP Cp Wpr > /\ UASZ lineage-independent i yo ) ___ fsiepl -264/- 135 -352/-264 wz /_ UAS1 , B cell-specific Isite Clsile BICREEI I - I 35/-70 5 6 7 8 9 10 5 6 7 8 9 10 1 2 3 4 1 2 3 4 S 60 708 % 9 10 FIG .
+1 .
+Binding of lineage-dependent and lineage-independent factors to Wp .
+( a ) Schematic illustration of the region of the EBV genome containing the origin of plasmid replication orP and the viral latent cycle promoters Cp and Wp .
+Below this is a detailed map of Wp showing its main lineage-independent ( UAS2 ) and B-cell-specific ( UAS1 ) regulatory elements and their constituent binding sites for either known ( YY1 and CREB ) or unknown ( sites B , C , and D ) cellular factors .
+Also shown are horizontal bars representing the three principal Wp restriction fragments used as bandshift probes to screen for factor binding .
+( b to e ) Patterns of protein-DNA complexes obtained by incubating these Wp probes with nuclear extracts prepared from the indicated B- and non-B-cell lines .
+( b ) Complexes obtained using the Wp -352/-264 probe in the presence of poly ( dI-dC ) .
+Lanes 1 to 8 , probe plus the indicated nuclear extract ; lanes 9 and 10 , probe plus Akata nuclear extract in the presence of an oligonucleotide competitor ( comp ) containing either the minimal YY1 binding sequence within UAS2 ( lane 9 ) or the variant sequence mut YY1 ( lane 10 ) .
+( c ) Complexes obtained using the Wp -264/-135 probe in the presence of poly ( dI-dC ) plus the indicated nuclear extract .
+Note that the unusually strong intensity of the site D complex in lane 1 is due to differences in protein loading rather than a difference in expression of the site D binding factor .
+( d ) Complexes obtained using the Wp -135/-70 probe in the presence of poly ( dI-dC ) .
+Lanes 1 to 7 , probe plus the indicated nuclear extract ; lanes 8 to 10 , probe plus Akata nuclear extract in the presence of minimal CREB binding sequence as competitor , a site B competitor , and a site C competitor , respectively .
+( e ) Complexes obtained using the same Wp -135/-70 probe but in the presence of herring sperm DNA .
+Lanes are as in panel d. but not site B or CREB site sequences .
+More importantly , a faster-migrating complex was detected exclusively in the presence of B-cell extracts .
+We found that this complex reflected factor binding to site B within the large Wp -135/-70 probe , since a short oligonucleotide competitor representing site B specifically blocked the interaction .
+A further set of bandshift assays used a long probe , Wp -264/-135 ( Fig .
+1c ) , spanning a region not analyzed in detail in earlier work .
+Interestingly , this revealed the presence of a single protein-DNA complex which , like that at site B , was observed only with B-cell extracts .
+We therefore took this as evidence for the existence of a new binding site , site D , within the -264 to -135 region ; the precise location of site D was determined subsequently ( see below ) .
+To eliminate the possibility of additional binding sites located in the junction regions between the long probes used above , we also generated two further fragments carrying Wp sequences which spanned these junctions .
+However , bandshift assays using these two new probes , Wp -316/-135 and Wp -170/-70 , did not detect any additional complexes ( data not shown ) .
+Furthermore , while the results shown in Fig .
+1b to e were obtained using nuclear extracts from established B-cell lines , we also observed the same DNA binding factors in nuclear extracts prepared from freshly isolated primary B lymphocytes ( the natural target cells for EBV infection ) , and levels of these factors were not altered following virus binding and in vitro infection ( data not shown ) .
+Taken together , these findings suggest that YY1 , CREB/ATF , and the unidentified factors binding sites B , C , and D represent the full complement of B-cell transcription factors associated with Wp sequence from -352 to -70 .
+Identification of RFX proteins binding to site C. Focusing first on site C ( -140 to -99 ) , we searched the TRANSFAC database to identify potential cellular factors that might bind to this sequence .
+As shown in Fig .
+2A , this revealed a significant homology between nucleotides -122 to -110 and the consensus binding motif for the RFX family of transcriptional regulators ( 14 ) .
+Of these , RFX1 , RFX2 , and RFX3 have been implicated in the regulation of viral and cellular genes and shown to bind target sites as both homodimers and heterodimers ( 22 , 31 , 45 , 46 , 48 , 50 , 51 ) , while RFXS specifically associates with the promoters of HLA class II genes as a complex with two other proteins , RFX-AP and RFX-ANK/ RFX-B ( 12 , 34 , 37 , 55 ) .
+In addition , another cellular factor , MIBP1 ( myc intron binding factor 1 ) , first identified as a regulator of c-myc gene expression ( 65 ) , has been implicated in the regulation of RFX-dependent promoters ( 45 ) and can form heterodimers with at least one member of the RFX family , RFX1 ( 7 ) .
+To investigate if site C can interact with these RFX factors , a radiolabeled site C oligonucleotide probe was incubated with Vor .
+74 , 2000 A | he RFX A consensus ( 6 , AAC EBV Site C GTTGC-TAGGCCAC EBV Site C ml GTACC-TAGGCCAC HBV enh-I GTTGC-TCGGCAAC HBV enh-I m CAACC-TCGGCAAC MIF-1 GTTAT -- -GGTAAC MIF-1 m GTTAT -- -GATTAC HLA DRA X CTTCCCCTAGCAAC B DG75 + competitor Jurkat + competitor I U I I o E4 , 6000 % ece _ igffl .
+: f § 2 a 50g g > > Lok < - ¥ u Q t pod Io 20 03 40 50 60 70 8 Io 20 30 40 50 6007 8 Io 2 30 40 5 06 Io 20030 40 5 6 FIG .
+2 .
+EBV Wp site C binds factors belonging to the RFX/MIBP1 family .
+( A ) Sequence comparison of Wp nucleotides -122 to -110 within site C and known RFX/MIBP1 binding sites .
+The top line shows a published consensus RFX1 binding site ( 14 ) as an imperfect inverted repeat comprising two half-sites ( arrowed ) separated by a variable spacer region .
+Shown below are the relevant sequences from the wild-type Wp site C and from a mutant derivative ( site C m1 ) previously shown to have lost factor binding ( 6 ) .
+Also shown are the sequences of several published RFX/MIBP1 binding sites ( HBV enh I , MIF-1 , and HLA DRA X [ 45 ] ) which were used as competitors in bandshift assays .
+HBV enhl m and MIF-1 m , mutant sequences previously shown to no longer bind RFX/ MIBP1 ( 45 ) , were included as controls ; nucleotide substitutions are shaded .
+( B ) Protein-DNA complexes obtained by incubating a site C probe with DG75 or Jurkat nuclear extracts .
+Lane 1 , probe plus nuclear extract alone ; lanes 2 to 8 , probe plus nuclear extract in the presence of the indicated competitor oligonu-cleotide .
+( C ) Characterization of site C complexes produced with DG75 or Jurkat nuclear extracts using an antibody ( Ab ) directed against specific RFX or MIBP1 polypeptides .
+Lane 1 , probe plus nuclear extract alone showing three major complexes , c ' , c '' , and c '' ; lanes 2 to 6 , probe plus nuclear extract in the presence of an antibody against the indicated proteins .
+nuclear extract in the presence of unlabeled competitor sequences containing known RFX/MIBP1 binding sites .
+These competitors , shown in Fig .
+2A , are derived from the RFX binding sequences at the hepatitis B virus enhancer I ( HBV enh-I ) , the MIBP1 binding site from the first intron of the human mye promoter ( MIF-1 ) , and the X box sequence from EBV PROMOTER REGULATION BY RFX AND BSAP - 10461 the human HLA class II DRA promoter ( HLA DRA X ) .
+The results in Fig .
+2B demonstrate that the formation of site C complexes in the presence of both DG75 ( B-cell ) and Jurkat ( T-cell ) nuclear extracts was inhibited by the addition of the HBV enh-I , MIF-1 , and HLA DRA X competitor oligonucle-otides , as well as by addition of a site C competitor itself .
+In contrast , the mutant sequences HBV enh-I m and MIF-1 m , previously reported to have lost RFX/MIBP1 binding ( 45 ) , and the mutant site C sequence m1 ( 6 ) were unable to compete .
+These findings provide the first evidence that site C is indeed a functional RFX binding site .
+We next used specific antisera raised against individual RFX proteins to identify which of these factors was binding site C in our in vitro assays .
+The results in Fig .
+2C show that the largest complex , c ' , was shifted in the presence of a MIBP1 antibody and its formation was blocked by an RFX1 antibody .
+A second complex , c '' , was blocked by antibodies against RFX1 and RFX3 , while a third complex , c , though weaker , appeared to be blocked by an antibody against RFX3 .
+In contrast , there were no detectable differences in complex formation or mobility in the presence of an RFXS5 antibody or a control Oct-1 antibody .
+These findings indicate that RFX1 , RFX3 , and MIBP1 present in DG75 nuclear extracts can interact with the site C sequence in a combination of homodimeric and heterodimeric complexes .
+Similar results were obtained using Jurkat nuclear extracts , consistent with previous reports that these RFX factors are ubiquitously expressed ( 46 ) .
+Effect of mutations in site C on RFX binding and Wp activity .
+Although the RFX consensus binding motif contains a palindromic sequence , it has been reported that in certain cases RFX proteins can bind as monomers rather than dimers and that one half of the binding motif may be sufficient for the interaction ( 8 , 10 ) .
+We therefore investigated the sequence requirements for RFX complex formation at Wp by introducing a series of base substitutions throughout site C and then using each of these mutant sequences ( m1 to m4 [ Fig .
+3A ] ) as competitor in a bandshift assay .
+The results in Fig .
+3B show that m1 and m2 were unable to compete for factor binding , m3 led to a partial reduction in binding , while m4 competed as effectively as the wild-type sequence .
+This suggested that Wp sequences in the half-site between -125 and -116 were the more important for RFX binding .
+To further investigate if binding to site C requires one or both half-sites , we synthesized two additional competitors carrying truncated site C sequenc-es : LH , which contains the 5 ' half-site sequence ( -125 to -113 ) ; and RH , which contains the 3 ' sequence ( -119 to -107 ) .
+The results in Fig .
+3C show that the LH , but not the RH , sequence was sufficient to compete for RFX binding to site C. This result is consistent with the bandshift data in Fig .
+3B and also accounts for our earlier observation that the minimum sequences for site C binding are located between -125 and -111 ( 6 ) .
+We then investigated the effects of m1 to m4 on Wp activity in a transient assay system using the Wp440 reporter construct that includes both the UAS1 and UAS2 regions ( Fig .
+3D ) .
+In the case of the B-cell line DG75 , introduction of mutations m1 and m2 , which blocked RFX binding in vitro , decreased Wp activity seven- to ninefold .
+In contrast , the m3 and m4 changes had little if any effect both on RFX binding and on promoter function .
+As a control , we repeated this experiment using the non-B-cell line K562 , in which the B-cell-specific UAS1 region of Wp is not operational .
+In this case , Wp activity was much lower but was not affected significantly by any of the site C mutations .
+Taken together with the results of the bandshift studies , these findings strongly imply that RFX proteins are involved in B-cell-specific activation of Wp .
+10462 TIERNEY ET AL .
+A 125 -p _ < - -99 Wp Site C CGCGTTGCTAGGCCACCTTCTCAGTCC m1 CGCGTACCTAGGCCACCTTCTCAGTCC m2 CGCGTTGCATGGCCACCTTCTCAGTCC m3 CGCGTTGCTAGTCCACCTTCTCAGTCC m4 CGCGTTGCTAGGCGTCCTTCTCAGTCC LH CGCGTTGCTAGGC RH GCTAGGCCACCTT B C Competitor 3 3 ® & & & z 5 1 2 D 4000 DG75 K562 p # 3000 B E 2000 9g 1000 0 P22 ) F774 727A orn $ m f f I $ o : f f I = O 0 O 0 s o 0 O D FIG .
+3 .
+Mutational analysis of site C. ( A ) Nucleotide sequences of wild-type and mutated ( m1 to m4 ) site C competitors used in bandshift experiments ; nucleotide substitutions are shaded .
+Also shown are two truncated site C fragments which carry either the 5 ' ( LH ) or 3 '' ( RH ) half-site sequence .
+( B ) Effect of mutations m1 to m4 on RFX/MIBP1 binding to site C. Lanes 1 to 5 , protein-DNA complexes obtained by incubating a site C probe with DG75 nuclear extract in the presence of the indicated mutant ( lanes 1 to 4 ) or wild-type ( lane 5 ) competitor sequence ; lane 6 , probe plus nuclear extract alone .
+( C ) Experiment similar to that shown in panel B but including the truncated site C fragments LH and RH as competitors .
+( D ) Effect of site C mutations on Wp activity .
+Promoter activity was assayed by quantifying luciferase expression ( as relative light units [ RLU ] ) in DG75 and in K562 cells transiently transfected with a wild-type Wp reporter ( Wp440 ) or with mutant derivatives carrying m1 to m4 shown above .
+The reported luciferase values are the means + standard deviations of three independent experiments .
+Site B and site D are binding sites for the same B-cell-specific cellular protein .
+We then analyzed the two sites within UAS1 which bound B-cell-specific factors in the initial bandshift studies : site B ( already identified as -115 to -86 ) and the newly identified site D , which lay within the Wp -264/-135 probe used in the first experiments ( Fig .
+1c ) .
+Further bandshift studies were carried out using this latter probe and a series of shorter oligonucleotide competitors .
+As shown in Fig .
+4A , this localized site D to the -242 to -215 region , that being the shortest sequence capable of fully competing out binding of the B-cell-specific factor .
+J. Virou .
+Although there was no immediate homology apparent between the site D and site B sequences , we carried out a series of cross-competition assays to examine whether the two sites were binding the same or different B-cell-specific proteins .
+These assays included as competitors the wild-type site D and site B sequences and derived mutant sequences known to have lost binding activity ( reference 6 and data not shown ) .
+The results in Fig .
+4C ( top gel ) show that formation of the site D-specific complex was inhibited in a concentration-dependent manner both by site D and site B competitors , while the rele- A 3 § 8 H ~254/-220 +242/-215 -237/-215 -232/-215 wn T a < # 05 Pal iD B -242 -215 Site D GCGGGTCTATGGTTGGCTGCGCTGCTGC Site D m1 - GCGGGTCTATCCTTGGCTGCGCTGCTGC Site D m2 - GCGGGTCTATGGTTCCCTGCGCTGCTGC 115 90 GGCCACCTTCTCAGTCCAGCGCGTTT GGCCACCTTCTCAGTCCACGGCGTTT Site B Site B m Akata + competitor 000 Site D x1000 Site D m1 x1000 Site D m2 x1000 § x m # a Site D x100 Site D x10 C 3 [ esl # a Site B x100 Site B x10 BC » 10 20030 40 5 60 70 % 9 G0 11 12 13 FIG .
+4 .
+Binding of cellular factors to sites D and B .
+( A ) Determination of the minimal sequence required for factor binding to site D. Lanes represent protein-DNA complexes obtained by incubating DG75 nuclear extract with the Wp -264/-135 probe in the presence of competitor oligonucleotides carrying the Wp sequences indicated .
+( B and C ) Sites D and B interact with the same B-cell-specific factor .
+( B ) Minimal nucleotide sequence required for factor binding to sites D and B , along with sequences of mutant derivatives of site D ( Dm1 and Dm2 ) and site B ( Bm ) known to have lost factor binding .
+Nucleotide substitutions are shaded .
+( C ) Protein-DNA complexes obtained by incubating the minimal site D probe with the indicated nuclear extracts either alone or in the presence of wild-type or mutant competitor oligonucleotide added at 1,000- , 100- or 10-fold , molar excess , as shown ( top ) , and a parallel experiment using a site B probe ( bottom ) .
+Vor .
+74 , 2000 GA , GG A BSAP consensus ennCAnTGnnGCGT aA CCh H2B 2.1 CGCCGGAGCACTGATGCAGCGCGGATCC Site D GCGGGTETATGGTTG @ CTac @ ctoctoc Site B GGCCcaceTTctcaotcEAGcoCerTracet B ion-B ae B cell DG75 IVT BSAP § § a 1a § § xx < ~2mxx22 8 § 8 8 $ $ 8 tE & & B F 3 H2B 2.1 > Io 20 30 40 50 60 70 80 9 40 I1 42 13 FIG .
+5 .
+Interaction of BSAP with sites D and B .
+( A ) Sequence comparison of a published consensus BSAP binding site ( 9 ) , the known BSAP site present at the sea urchin late histone promoter ( H2B 2.1 ) , and EBV sites D and B. Shaded nucleotides indicate positions matching the consensus sequence .
+( B ) Protein-DNA complexes obtained by incubating the H2B 2.1 ( top ) , site D ( middle ) , and site B ( bottom ) probes with either nuclear extracts ( lanes 1 to 8 ) or IVT BSAP protein ( lanes 9 to 13 ) .
+Lanes 1 to 4 , probe plus the indicated nuclear extract ; lanes 5 and 6 , probe and DG75 nuclear extract in the presence of the indicated competitor oligonucleotide ; lanes 7 and 8 probe plus DG75 nuclear extract in the presence of BSAP-specific or YY1-specific antiserum ; lane 9 , probe and IVT BSAP ; lanes 10 to 13 , same as lanes 5 to 8 but with IVT BSAP replacing DG75 nuclear extract .
+vant mutant sequences did not compete .
+The corresponding experiment looking at binding to a site B probe ( Fig .
+4C , bottom gel ) likewise showed concentration-dependent competition by both site D and site B competitors but not by the mutant oligonucleotides .
+In both assays , at low concentrations the site D sequence was a more effective competitor than the site B sequence .
+These findings strongly imply that the same B-cell-specific protein was binding to both sites , though with higher affinity to the site D sequence .
+Identification of sites B and D as binding sites for B-cell-specific activator protein BSAP/Pax-5 .
+Searching databases of known transcription factor binding motifs revealed a limited homology between the site D sequence and a consensus motif ( 9 ) for the B-cell-specific transcription factor BSAP/Pax5 ( Fig .
+SA ) .
+There was also a lesser degree of sequence homology between this BSAP consensus and site B , although this would not have been considered significant had we not already known EBV PROMOTER REGULATION BY RFX AND BSAP - 10463 that sites B and D bound the same protein .
+BSAP , a mammalian homologue of the sea urchin tissue-specific activator protein ( 4 ) , was originally identified by its ability to interact with conserved regulatory sequences upstream of late histone genes ( 5 ) .
+We therefore carried out bandshift assays to determine if these site B and site D sequences could compete for BSAP binding to the sea urchin histone promoter-derived oligonucleotide probe H2B 2.1 ( 4 ) .
+The results in Fig .
+5B ( top ) show that the H2B 2.1 probe formed a specific complex in the presence of nuclear extract prepared from the B-cell lines Ramos and DG75 , but not in extracts from the T-cell lines CEM and Jurkat , consistent with the B-cell-restricted expression of BSAP ( 5 ) .
+Moreover , formation of this complex was abrogated by either site B or site D competitor , implying that the same B-cell-restricted factor interacted with all three sites .
+This was confirmed in parallel experiments , in which incubation of B-cell nuclear extract with a site D ( Fig .
+5B , middle ) or site B ( Fig .
+5B , bottom ) probe gave rise to a complex with electro-phoretic mobility similar to that of the complex formed in the presence of the H2B 2.1 probe .
+Supershift assays further confirmed that the complexes formed by all three probes contained BSAP ; thus , addition of a -specific polyclonal antibody led to the inhibition of complex formation in all three cases , whereas a control YY1-specific antibody had no effect .
+Finally , we demonstrated that IVT BSAP formed a single complex with the H2B 2.1 , site D , and site B probes , which in each case comigrated with that formed in the presence of B-cell nuclear extract .
+As expected , these complexes with IVT protein were abrogated by the addition of either site B or site D competitor or an anti-BSAP antibody , confirming that the B-cell-specific factor which binds to these Wp sites is BSAP .
+Effect of BSAP binding on Wp activity .
+Having demonstrated that BSAP binds to two sites in Wp , we next determined the contribution of these sites to Wp activity in different B and non-B-cell lines .
+The Bm ( site B ) and Dm1 and Dm2 ( site D ) mutations , known to abrogate BSAP binding in vitro ( Fig .
+5 ) , were introduced either singly or in combination into the Wp440 luciferase reporter .
+The activities of the wild-type and mutant promoter constructs were then compared in transient transfection assays ( Fig .
+6A ) .
+In the three B-cell lines tested ( Akata , Ramos , and DG75 ) , mutation of either site B or site D led to a three- to fourfold drop in luciferase expression compared to cells transfected with the wild-type Wp 440 reporter .
+However , there was an even greater reduction of 5- to 10-fold when both BSAP binding sites were mutated .
+By contrast , when the experiments were repeated in the non-B-cell lines K562 ( Fig .
+6A ) and CEM ( data not shown ) , mutation of either one or both BSAP binding sites had no significant effect on the low basal levels of promoter activity .
+While the above results strongly suggested that BSAP binding to sites B and D is critical for optimal Wp activity in B-cell lines , we sought independent evidence that BSAP could directly activate Wp .
+Figure 6B shows the results of experiments in which a BSAP expression vector BSAP/SGS ( or the empty vector pSGS as a control ) was cotransfected with a reporter construct containing Wp sequences with either wild-type or mutated BSAP sites .
+In the B-cell lines DG75 ( already BSAP positive ) , cotransfection of the wild-type Wp440 reporter and BSAP/SGS resulted in an approximately twofold increase in promoter activity relative to that seen in cells cotransfected with Wp440 and the empty pSGS control .
+This appears to reflect a weak promiscuous reporter activation by BSAP in transient assays because similar increases were also seen with Wp reporters carrying mutated site B and site D sequences and even with a truncated Wp reporter , Wp87 , that lacks both UAS1 and UAS2 regulatory sequences .
+A second B-cell line , 10464 TIERNEY ET AL .
+A - soco C AKATA RAMOS 3 4000 § £3000 i é 2000 { k=l ' g 10007 H 0 ; 2500 2 DG75 K562 FP 2000 6 ¥ g 1500 § 1000 g & so o 1221 « ia r¥a r¥a con om mo g g = - tx 3 8073 m kbd > to B 2 Eo f m m m m B - « & DG75 K562 & & fold activation by BSAP bo to o 3 2 4 o 5 wo pe tog § o= - o & $ 4 kk : : $ f 4g & & & FIG .
+6 .
+Contribution of BSAP to Wp activation .
+( A ) Effects of site B and site D mutations on Wp activity in B and non-B cells .
+Promoter activity was assayed by quantifying luciferase expression in cells transiently transfected with the wild-type Wp reporter ( Wp440 ) , a truncated reporter lacking both UAS1 and UAS2 sequences ( Wp87 ) , or mutant derivatives of Wp440 carrying Bm , Dm1 , and Dm2 , alone or in combination ( Bm+Dm1 and Bm+Dm2 ) .
+The reported luciferase values ( relative light units [ RLU ] ) are means + standard deviations of three independent experiments .
+( B ) Effect of ectopic BSAP expression on Wp activity in B and non-B cells .
+Promoter activity was assayed by quantifying luciferase expression in cells transiently transfected with the BSAP expression vector BSAP/pSGS and wild-type or mutant Wp reporters as in panel A .
+In cach case , the results ( means + standard deviations of three independent experi-ments ) are represented as the fold activation of luciferase activity seen in cells cotransfected with BSAP/pSG5 and the relevant Wp reporter over that seen in cells cotransfected with pSGS and the relevant reporter .
+Akata , gave similar results ( data not shown ) .
+By contrast , introduction of a BSAP expression vector into the non-B-cell line K562 led to a 33-fold increase in wild-type Wp440 activity ; this was reduced to approximately 10-fold for reporters in which one of the BSAP binding sites was inactivated and was further reduced to 6-fold for reporters lacking both binding sites ( Fig .
+6B ) .
+Note that this residual BSAP-mediated activation again appeared to be promiscuous since it was observed even with the minimal Wp87 reporter construct .
+Parallel experiments in a second non-B-cell line , CEM , showed a similar specific enhancement of Wp activity that was dependent on the presence of the BSAP binding sites B and D ( data not shown ) .
+J. Virou .
+DISCUSSION EBV is not exclusively B lymphotropic but can access a range of other cell types , albeit inefficiently , by CR2-depen-dent or -independent routes ( 25 , 39 , 49 , 53 , 63 ) .
+However , the growth-transforming program of viral gene expression does not appear to be activated in these other environments .
+Therefore , what determines the B-cell specificity of the transformation process at a postreceptor/postviral entry stage ?
+This report addresses what may be one of the central aspects of this ques-tion , namely , the cell lineage-specific controls governing the activation of Wp , the viral promoter that initiates the growth-transforming program in B cells but which either is silent or shows only transient low-level activity following experimental infection of other cell types .
+The first set of experiments used large Wp sequence probes in bandshift assays to provide a comprehensive view of the factors binding to the 350 bp of Wp encompassing the main lineage-independent region ( UAS2 ) and B-cell-specific region ( UAS1 ) of the promoter .
+The only binding detectable within UASZ2 mapped to the known YY1 site and involved two complexes , one formed by YY1 alone ( 6 ) and a larger complex of YY1 and a second , as yet unidentified protein which is presumably recruited to the site through an interaction with YY1 itself .
+Both factors are found in a variety of cell types , consistent with the lincage-independent nature of UASZ .
+Moving to the B-cell-specific region UAS1 , the assays identified a new binding site , site D , upstream of the previously described interactions at the CREB site ( 27 ) and at the adjacent sites B and C. Most importantly , while site C bound ubiquitously expressed proteins , both site B and the new site D bound B-cell-specific factors ( Fig .
+1 ) .
+The main thrust of the work was to identify these UAS1 binding proteins and assess their role in Wp activation .
+Focusing first on site C , the evidence from bandshift assays ( Fig .
+2B ) , from supershift assays with specific antibodies ( Fig .
+2C ) , and from mutational analysis ( Fig .
+3 ) strongly suggests that members of the RFX family of proteins bind at this site and that this interaction is an important determinant of Wp activity in B cells .
+The RFX proteins are a novel family of transcriptional regulators with a conserved 76-amino-acid DNA binding domain ( 13 ) .
+Of the five family members ( RFX1 to RFX5 ) known in mice and humans , RFX1 , -2 , and -3 can bind as either homo- or heterodimers to similar inverted repeat sequences in DNA , in some cases along with another cellular factor , MIBP1 .
+The present antibody shift assays indeed suggest that the complexes found at site C in vitro predominantly contain homo- and heterodimers of RFX1 , MIBP1 , and RFX3 ( Fig .
+2C ) .
+Interestingly , similar complexes have been observed in in vitro binding assays with several other viral enhancer sequences , notably from cytomegalovirus , polyoma-virus , and HBV , and in the latter two cases there is direct functional evidence that such binding has a regulatory role ( 7 , 10 , 45 , 46 , 51 ) .
+However , in contrast to the polyomavirus and HBV enhancers , where activation requires RFX binding to the full inverted repeat sequence ( 10 ) , it appears that only the 5 ' half of Wp site C needs to be conserved both for RFX complexes to form and for optimal Wp activity to be maintained ( Fig .
+3 ) .
+In this context , we noted that IVT RFX1 binds to Wp site C both as a monomer and as a dimer ( H. Kirby , unpublished observations ) and that the recently published structure of the RFX1-DNA complex ( 17 ) suggests that the two RFX1 monomers bind independently to their cognate half sites .
+In the in vivo situation , it is possible that binding of an RFX monomer to the 5 ' half of site C either is itself sufficient for Wp activity or facilitates the binding of a second monomer to the adjacent half site .
+Vor .
+74 , 2000 A. EBV Wp B cell specific UAS1 element mrﬁ RFX BSAP CREB Wp B. MHCllp T `` 110 RFXS CREB - NFY complex C. HBV enh I Xp liver specific domain 1374 `` '' HNF3 HNF4 RFX `` '' CREB NFI RXR C/EBP FIG .
+7 .
+Schematic representation of the principal cis-acting functional domains and their cognate binding factors at the EBV Wp , the MHCIIp , and HBV enh-I .
+( A ) Factors binding the B-cell-specific element UAS1 within Wp include the ubiquitously expressed RFX and CREB/ATF proteins and the B-lineage-restricted protein BSAP ; sequence numbers shown are relative to the Wp RNA start site .
+( B ) Factors binding at MHCIIp include ubiquitously expressed components of the RFX complex ( RFX5 and its associated proteins RFX-AP and RFX-B/ANK ) plus ubiquitously expressed CREB and NF-Y proteins , binding to the X , X2BP , and Y box sequences , respectively ( 32 , 36 ) ; sequence numbers shown are relative to the MHCIIp RNA start site .
+Lincage-restricted activity of MHClIlps is determined by expression of CIITA , which binds to one or more above factors , leading to promoter activation .
+( C ) Factors binding to HBV enh-I include ubiquitously expressed RFX , CREB , and NF1 proteins , plus hepatocyte-specific HNF3 , HNF4 , RXR , and C/EBP proteins ; sequence numbers refer to coordinates on the HBV genome .
+In each case the arrow denotes the relevant transcription start site ; note that Xp is the nearest of several HBV promoters activated by HBV enh-L .
+The realization that site C binds RFX proteins also highlighted a potential parallel between Wp and the intensively studied major histocompatibility complex class II promoter ( MHCIIp ) ( 32 ) .
+As illustrated diagrammatically in Fig .
+7 , in addition to an NF-Y site , MHCIIp possesses functionally important RFX and CREB sites ( usually termed the X and X2 boxes , respectively ) in similar orientation and position upstream of the transcription start as seen in Wp ( 32 , 36 ) .
+In the case of MHCIIp , however , the RFX site binds a different family member , RFX5 , in vivo ; the consensus motif of RFX3S is related to that of RFX1 to -3 but differs in that it forms a heterotrimeric complex with two other ubiquitously expressed proteins , RFX-AP and RFX-B/RFX-ANK ( 12 , 34 , 37 , 55 ) .
+The cell lineage restriction over MHC class II gene expression is determined by the presence of the class II transactivator ( CHTA ) , which binds to one or more of the above compo-nents , leading to promoter activity ( 54 , 60 ) .
+Genetic loss of any one of these four components abrogates MHC class II expression and is manifest clinically as an immunodeficiency disease , bare lymphocyte syndrome ( 32 ) .
+Evidence to date suggests that these factors which are important at the MHC class II locus are not involved in Wp regulation .
+Thus , we found no evidence in EBV PROMOTER REGULATION BY RFX AND BSAP - 10465 antibody shift assays for RFX-5 binding to the site C probe ( Fig .
+2 ) , and transient transfection assays in CIITA-deficient B-cell lines showed Wp to be fully active in such cells ( Kirby , unpublished observations ) .
+A number of other RFX-dependent genes have been reported to be regulated in a cell-type-specific manner ( 22 ) .
+Most interesting in this regard is HBV enh-I , which is selectively active in liver cells .
+Like Wp , the activity of HBV enh-I is dependent on the binding of RFX and CREB proteins at similar locations upstream of the transcription start site ( Fig .
+7C ) .
+However , liver-specific activity requires the binding of additional proteins , including hepatocyte-specific factors HNF3 , HNF4 , RXR , and C/EBP , to nearby sites in the HBV enh-I sequence ( 18 , 20 , 51 ) .
+The present work reveals a similar situation with respect to Wp , where the promoter 's preferential activity in B cells requires two additional sites , B and D , both of which interact with the B-cell-specific protein BSAP/Pax-5 .
+BSAP , a member of the Pax family of transcription factors , is highly lineage restricted in its expression , being found only in B lymphocytes , in the developing brain , and in adult testis ( 1 ) .
+Expression in the B lincage begins in the earliest B-cell precursor and continues through all stages of differentiation except the end-stage plasma cell ( 5 ) .
+In fact , targeted gene disruption in mice has shown that BSAP is required for B-cell differentiation to proceed beyond the pro-B-cell stage ( 40 , 59 ) .
+This reflects a key role for BSAP as a determinant of B-cell commitment through its ability both to activate B-cell-specific genes such as CD19 and to suppress the transcription of genes specific for other hemopoietic lineages ( 41 ) .
+This versatility as a transcriptional regulator appears to reflect the existence of both activating and inhibitory domains in the protein 's C-terminal regulatory region ( 11 ) .
+Like all members of the Pax family , BSAP binds DNA through a paired domain , itself composed of two subdomains that each interact with one half of a DNA recognition motif .
+The ability of one strong subdomain , half-site interaction to compensate for weaker binding at the other half-site ( 9 ) helps to explain the degenerate nature of the 18-bp consensus sequence for BSAP binding .
+We found that Wp site D and particularly site B show only limited homology to this consensus , yet clearly both bind BSAP in vitro , with the interaction at site D being the stronger ( Fig .
+4 and 5 ) .
+Most importantly , mutations in site B and/or D which abrogated BSAP binding substantially reduced Wp activity in B-cell lines but hardly affected the promoter 's low baseline activity in non-B cells .
+Conversely , ectopic expression of BSAP in a non-B-cell environment significantly enhanced Wp activity ( Fig .
+6 ) , implying that BSAP is the main if not the only B-cell-specific cellular protein involved in Wp activation .
+It has to be stressed that our experiments identifying roles for CREB , RFX , and BSAP in Wp activation rely on transient transfection assays of Wp reporter constructs in established B-cell lines , and further work will be required to determine how many of these regulatory controls are important in the natural cellular environment in which Wp is activated , i.e. , in mature resting B cells .
+Importantly , however , we have demonstrated that all of these factors are present in nuclear extracts of resting B cells and are therefore presumably available for binding and activation of Wp during virus infection of such cells in vivo .
+Note also that these factors were present in all EBV-negative and EBV-positive B-cell lines tested , including EBV-positive BL lines such as Akata in which both Wp and Cp on the resident viral genome are transcriptionally silent ; this finding is consistent with previous reports ( 6 , 23 , 33 ) that all B-cell lines support the expression of transiently introduced Wp reporter constructs , irrespective of EBV status .
+Indeed , in cell lines where the endogenous viral Wp is silent , it is clear 10466 TIERNEY ET AL .
+that the promoter is maintained in an inactive state by CpG methylation rather than by the absence of any essential DNA binding factors ( 23 , 33 ) .
+In summary , this work provides the first evidence for the coinvolvement of CREB and RFX family members with BSAP in promoter regulation .
+Since the loss of a binding site for any one of these factors severely impairs the B-cell-specific activity of Wp , it would appear that transcriptional activation requires the formation of a specific multiprotein complex .
+In this re-gard , we note that in in vitro bandshift assays , CREB , RFX , and BSAP were each capable of binding independently to the relevant short oligonucleotide containing their cognate sequence as well as to longer probes containing all three sites .
+Furthermore , using the longer probes , we saw no clear evidence of cooperative binding as reflected by higher complex formation .
+However , there may well be cooperative interactions in vivo that stabilize the multiprotein complex at UAS1 and/or enhance its engagement with the transcriptional ma-chinery .
+The important point is that even though CREB and RFX factors are ubiquitously expressed , the critical requirement for BSAP means that Wp will be efficiently activated only in B lymphocytes .
+In the infected host , virus dissemination within the B-cell system appears to require a period of virus-driven growth transformation followed by a down-regulation of the transforming genes , thereby allowing latently infected cells to persist in the resting state .
+This tight physiological control might well be lost , however , if the growth-transforming program were to be activated indiscriminately in other cell types .
+Arguably , EBV has evolved to exploit the B-cell-restricted nature of BSAP , possibly as one of several strategies , to ensure that viral transformation is initiated only in the appropriate cell environment .
+ACKNOWLEDGMENTS R.T. and HK .
+contributed equally to this work .
+We thank Walter Reith ( University of Geneva , Geneva , Switzer-land ) for RFX antisera and for helpful advice , Andreas Reimold ( Harvard Medical School , Boston , Mass . )
+for the BSAP/pSGS expression construct , Maria Zajac-Kaye ( Naval Oncology Center , Bethesda , Md . )
+for MIBP1 antisera , and Debbie Williams for excellent secretarial assistance .
+This work was supported by the Cancer Research Campaign , Lon-don , United Kingdom .
+REFERENCES 1 .
+Adams , B. , P. Dorfler , A. Aguzzi , Z. Kozmik , P. I. Maurer-Fogy , and M. Busslinger .
+1992 .
+Pax-5 encodes the transcription factor BSAP and is expressed in B lymphocytes , the developing CNS , and adult testis .
+Genes Dev .
+61589-1607 .
+2 .
+Alfieri , C. , M. Birkenbach , and E. Kieff .
+1991 .
+Early events in Epstein-Barr virus infection of human B lymphocytes .
+Virology 181:595-608 .
+3 .
+Babcock , G. J. , L. L. Decker , M. Volk , and D. A. Thorley-Lawson .
+1998 .
+EBV persistence in memory B cells in vivo .
+Immunity 9:395-404 .
+4 .
+Barberis , A. , G. Superti-Furga , L. Vitelli , I. Kemlar , and M. Busslinger .
+1989 .
+Developmental and tissue-specific regulation of a novel transcription factor of the sea urchin .
+Genes Dev .
+3:663-675 .
+5 .
+Barberis , A. , K. Widenhorn , L. Vitelli , and M. Busslinger .
+1990 .
+A novel B-cell lineage-specific transcription factor present at early but not late stages of differentiation .
+Genes Dev .
+4:849-859 .
+6 .
+Bell , A. , J. Skinner , H. Kirby , and A. Rickinson .
+1998 .
+Characterisation of regulatory sequences at the Epstein-Barr virus BamHI W promoter .
+Virology 252:149-161 .
+7 .
+Blake , M. , J. Niklinski , and M. Zajac-Kaye .
+1996 .
+Interactions of the transcription factors MIBP1 and RFX1 with the EP clement of the hepatitis B virus enhancer .
+J. Virol .
+70:6060-6066 .
+8 .
+Cornille , F. , P. Emery , W. Schiiler , C. Lenoir , B. Mach , B. P. Roques , and W. Reith .
+1998 .
+DNA binding properties of a chemically synthesized DNA binding domain of hRFX1 .
+Nucleic Acids Res .
+26:2143-2149 .
+9 .
+Czerny , T. , G. Schaffner , and M. Busslinger .
+1993 .
+DNA sequence recognition by Pax proteins : bipartite structure of the paired domain and its binding site .
+Genes Dev .
+7:2048-2061 .
+10 .
+11 .
+12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+J. Virou .
+David , E. , A. D. Garcia , and P. Hearing .
+1995 .
+Interaction of EF-C/RFX1 with the inverted repeat of viral enhancer regions is required for transacti-vation .
+J. Biol .
+Chem .
+270:8353-8360 .
+Dorfler , P. , and M. Busslinger .
+1996 .
+C-terminal activating and inhibitory domains determine the transactivation potential of BSAP ( Pax-5 ) , Pax-2 and Pax-8 .
+EMBO J .
+15:1971-1982 .
+Durand , B. , P. Sperisen , P. Emery , E. Barras , M. Zuffery , B. Mach , and W. Reith .
+1997 .
+RFXAP , a novel subunit of the RFX DNA binding complex is mutated in MHC class II deficiency .
+EMBO J .
+16:1045-1055 .
+Emery , P. , B. Durand , B. Mach , and W. Reith .
+1996 .
+RFX proteins , a novel family of DNA binding proteins conserved in the eukaryotic kingdom .
+Nucleic Acids Res .
+24:803-807 .
+Emery , P. , M. Strubin , K. Hofmann , P. Bucher , B. Mach , and W. Reith .
+1996 .
+A consensus motif in the RFX DNA binding domain and binding domain mutants with altered specificity .
+Mol .
+Cell .
+Biol .
+16:4486-4494 .
+Fahraeus , R. , A. Jansson , A. Ricksten , A. Sjoblom , and L. Rymo .
+1990 .
+Epstein-Barr virus-encoded nuclear antigen 2 activates the viral latent membrane protein by modulating the activity of a negative regulatory element .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 87:7390-7394 .
+Fearon , D. T. , and R. H. Carter .
+1995 .
+The CD19/CR2/TAPA-1 complex of B lymphocytes-linking natural to acquired-immunity .
+Annu .
+Rev .
+Immunol .
+13:127-149 .
+Gajiwala , K. S. , H. Chen , F. Cornille , B. P. Roques , W. Reith , B. Mach , and S. K. Burley .
+2000 .
+Structure of the winged-helix protein hRFX1 reveals a new mode of DNA binding .
+Nature 403:916-921 .
+Garcia , A. D. , P. Ostapachuk , and P. Hearing .
+1993 .
+Functional interaction of nuclear factors EF-C , HNF-4 , and RXR alpha with hepatitis B virus enhancer I. J. Virol .
+67:3940-3950 .
+Grossman , S. R. , E. Johannsen , X. Tong , R. Yalamanchilli , and E. Kieff .
+1994 .
+The Epstein-Barr virus nuclear antigen 2 transactivator is directed to response elements by the J kappa recombination signal binding protein .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 91:7568-7572 .
+Guo , W. T. , K. D. Bell , and J. H. Ou .
+1991 .
+Characterization of the hepatitis B virus EnhI enhancer and X promoter complex .
+J. Virol .
+65:6686-6692 .
+Henkel , T. , P. D. Ling , S. D. Hayward , and M. G. Peterson .
+1994 .
+Mediation of Epstein-Barr virus EBNAZ transactivation by recombination signal-bind-ing protein Jx .
+Science 265:92-95 .
+Iwama , A. , J. Pan , W. Reith , B. Mach , D. G. Tenen , and Z .
+Sun .
+1999 .
+Dimeric RFX proteins contribute to the activity and lineage specificity of the interleukin-5 receptor a promoter through activation and repression do-mains .
+Mol .
+Cell .
+Biol .
+19:3940-3950 .
+Jansson , A. , M. Masucci , and L. Rymo .
+1992 .
+Methylation of discrete sites within the enhancer region regulates the activity of the Epstein-Barr virus BamHI W promoter in Burkitt lymphoma cell lines .
+J. Virol .
+66:62-69 .
+Jin , X. W. , and S. H. Speck .
+1992 .
+Identification of critical cis elements involved in mediating Epstein-Barr virus nuclear antigen 2-dependent activity of an enhancer located upstream of the viral BemHI C promoter .
+J. Virol .
+66:2846-2852 .
+Jones , K. , C. Rivera , C. Sgadari , J. Franklin , E. Max , K. Bhatia , and G. Tosata .
+1995 .
+Infection of human endothelial cells with Epstein-Barr virus .
+J. Exp .
+Med .
+173:971-980 .
+Kieff , E. 1996 .
+Epstein-Barr virus and its replication , p. 2343-2396 .
+In B. N. Fields , D. M. Knipe , and P. M. Howley ( ed .
+) , Fields virology .
+Lippincott-Raven Press , Philadelphia , Pa. Kirby , H. , A. Rickinson , and A .
+Bell .
+2000 .
+The activity of the Epstein-Barr virus BamHI W promoter in B cells is dependent on the binding of CREB/ ATF factors .
+J. Gen. Virol .
+81:1057-1066 .
+Knox , P. G. , Q. X. Li , A .
+B. Rickinson , and L. S. Young .
+1996 .
+In vifro production of stable Epstein-Barr virus positive epithelial cell clones which resemble the virus-cell interaction observed in nasopharyngeal carcinoma .
+Virology 215:40-50 .
+Knutson , J. C. 1990 .
+The level of c-fgr RNA is increased by EBNA-2 , an Epstein-Barr virus gene required for B-cell immortalization .
+J. Virol .
+64 : 2530-2536 .
+Li , Q. X. , L. S. Young , G. Niedobitek , C. W. D , M. Birkenbach , F. Wang , and A .
+B. Rickinson .
+1992 .
+Epstein-Barr virus infection and replication in a human epithelial cell system .
+Nature 356:347-350 .
+Lui , M. S. , B. H. Lee , and M. B. Matthews .
+1999 .
+Involvement of RFX1 protein in the regulation of the human proliferating cell nuclear antigen promoter .
+J. Biol .
+Chem .
+274:15433-15439 .
+Mach , B. , V. Steimle , E. Martinez-Soria , and W. Reith .
+1996 .
+Regulation of MHC class II genes : lessons from a disease .
+Annu .
+Rev .
+Immunol .
+14:301-331 .
+Masucci , M. G. , B. Contreras-Salazar , E. Ragnar , K. Falk , J. Minarovits , I. Ernberg , and G. Klein .
+1989 .
+5-Azacytidine up regulates the expression of Epstein-Barr virus nuclear antigen 2 ( EBNA-2 ) through EBNA-6 and latent membrane protein in the Burkitt 's lymphoma line Rael .
+J. Virol .
+63:3135-3141 .
+Masternak , K. , E. Barras , E. Zufferey , B. Conrad , G. Corthals , R. Aebersold , J.-C. Sanchez , D. F. Hochstrasser , B. Mach , and W. Reith .
+1998 .
+A gene encoding a novel RFX-associated transactivator is mutated in the majority of MHC class II deficiency patients .
+Nat .
+Genet .
+20:273-277 .
+Vor .
+74 , 2000 35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+Miyashita , E. M. , B. Yang , G. J. Babcock , and D. A. Thorley-Lawson .
+1997 .
+Identification of the site of Epstein-Barr virus persistence in vivo as a resting B cell .
+J. Virol .
+71:4882-4891 .
+Moreno , C. , G. W. Beresford , P. Louis-Plence , A. C. Morris , and J. M. Boss .
+1999 .
+CREB regulates MHC class II expression in a CIITA-dependent manner .
+Immunity 10:143-151 .
+Nagarajan , U. M. , P. Louis-Plence , A. DeSandro , R. Nilsen , A. Bushey , and J. M. Boss .
+1999 .
+RFX-B is the gene responsible for the most common cause of the bare lymphocyte syndrome , an MHC class II immunodeficiency .
+Immunity 10:153-162 .
+Nemerow , G. , C. Mold , V. Schwend , V. Tollefson , and N. Cooper .
+1987 .
+Identification of gp350 as the viral glycoprotein mediating attachment of Epstein-Barr virus ( EBV ) to the EBV/C3d receptor of B cells : sequence homology of gp350 and C3 complement fragment .
+J. Virol .
+61:1416-1420 .
+Nishikawa , J. , S. Imai , T. Oda , T. Kojima , K. Okita , and K. Takada .
+1999 .
+Epstein-Barr virus promotes epithelial cell growth in the absence of EBNA2 and LMP1 expression .
+J. Virol .
+73:1286-1292 .
+Nutt , S. L. , P. A. Rolink , and M. Busslinger .
+1997 .
+Essential functions of PaxS ( BSAP ) in pro-B cell development : difference between fetal and adult B lymphopoiesis and reduced V-to-DJ recombination at the IgH locus .
+Genes Dev .
+11:476-491 .
+Nutt , S. L. , B. Heavey , A. G. Rolink , and M. Busslinger .
+1999 .
+Commitment to the B-lymphoid lineage depends on the transcription factor Pax5 .
+Nature 401:556-562 .
+Puglielli , M. T. , M. Woisetschlaeger , and S. H. Speck .
+1996. oriP is essential for EBNA gene promoter activity in Epstein-Barr virus-immortalized lymphoblastoid cell lines .
+J. Virol .
+70:5758-5768 .
+Qu , L. , and D. T. Rowe .
+1992 .
+Epstein-Barr virus latent gene expression in uncultured peripheral blood lymphocytes .
+J. Virol .
+66:3715-3724 .
+Reimold , A. M. , P. D. Ponath , Y.-S. Li , R. R. Hardy , C. S. David , J. L. Strominger , and L. H. Glimcher .
+1996 .
+Transcription factor B cell lincage-specific protein regulates the gene for the human X-box binding protein 1 .
+J. Exp .
+Med .
+183:393-401 .
+Reinhold , W. , L. Emens , A. Itkes , M. Blake , I. Ichinose , and M. Zajac-Kaye .
+1995 .
+The myc intron-binding polypeptide associates with RFX1 in vivo and binds to the major histocompatibility complex class II promoter region , to the hepatitis B virus enhancer , and to regulatory regions of several distinct viral genes .
+Mol .
+Cell .
+Biol .
+15:3041-3048 .
+Reith , W. , C. Ucla , E. Barras , A. Gaud , B. Durand , C. Herrero-Sanchez , M. Kobr , and B. Mach .
+1994 .
+RFX1 , a transactivator of hepatitis B virus enhancer I , belongs to a novel family of homodimeric and heterodimeric DNA-binding proteins .
+Mol .
+Cell .
+Biol .
+14:1230-1244 .
+Ricksten , A. , A. Olsson , T. Andersson , and L. Rymo .
+1987 .
+The 5 ' flanking region of the gene for Epstein-Barr virus-encoded nuclear antigen 2 contains a cell type specific cis-acting regulatory element that activates transcription in transfected B-cells .
+Nucleic Acids Res .
+16:8391-8410 .
+Safrany , G. , and R. P. Perry .
+1993 .
+Transcription factor RFX1 helps control the promoter of the mouse ribosomal protein-encoding rpL30 by binding to its alpha clement .
+Gene 32:279-283 .
+Savard , M. , C. Bélanger , M. Tardif , P. Gourde , L. Flamand , and J. Gosselin .
+2000 .
+Infection of primary human monocytes by Epstein-Barr virus .
+J. Virol .
+74:2612-2619 .
+Sengupta , P. K. , M. Ehrlich , and B. D. Smith .
+1999 .
+A methylation-respon-sive MDBP/RFX site is in the first exon of the collagen alpha 2 ( I ) promoter .
+J. Biol .
+Chem .
+274:36649-36655 .
+Siegrist , C. A. , B. Durand , P. Emery , E. David , P. Hearing , B. Mach , and W. Reith .
+1993 .
+RFX1 is identical to enhancer factor C and functions as a transactivator of the hepatitis B virus enhancer .
+Mol .
+Cell .
+Biol .
+13:6375-6384 .
+EBV PROMOTER REGULATION BY RFX AND BSAP 52 53 .
+54 .
+55 .
+56 .
+57 .
+58 .
+59 .
+60 .
+61 .
+62 .
+63 .
+64 .
+65 .
+66 .
+67 .
+10467 .
+Sinclair , A. J. , L Palmero , G. Paters , and P. J. Farrell .
+1994 .
+EBNA-2 and EBNA-LP co-operate to cause GO to G1 transition during immortalization of resting human B lymphocytes by Epstein-Barr virus .
+EMBO J .
+14:3321-3328 .
+Sixbey , J. W. , E. H. Vesterinen , J. G. Nedrud , N. Raab-Traub , L. A. Walton , and J. S. Pagano .
+1983 .
+Replication of Epstein-Barr virus in human epithelial cells infected in vitro .
+Nature 306:480-483 .
+Steimle , V. , L. A. Otten , M. Zufferey , and B. Mach .
+1993 .
+Complementation cloning of an MHC class II transactivator mutated in hereditary MHC class II deficiency ( or bare lymphocyte syndrome ) .
+Cell 75:135-146 .
+Steimle , V. , B. Durand , E. Barras , M. Zufferey , M. R. Hadam , B. Mach , and W. Reith .
+1995 .
+A novel DNA binding regulatory factor is mutated in primary MHC class II deficiency ( bare lymphocyte syndrome ) .
+Genes Dev .
+9:1021-1032 .
+Sung , N. S. , S. Kenney , D. Gutsch , and J. S. Pagano .
+1991 .
+EBNA-2 transactivates a lymphoid-specific enhancer in the BamHI C promoter of the Epstein-Barr virus .
+J. Virol .
+65:2164-2169 .
+Tanner , J. , J. Weiss , D. Fearon , Y. Whang , and E. Kief .
+1987 .
+Epstein-Barr virus gp350/220 binding to the B lymphocyte C3d receptor mediates adsorp-tion , capping , and endocytosis .
+Cell 50:203-213 .
+Tierney , R. J. , N. Steven , L. S. Young , and A .
+B. Rickinson .
+1994 .
+Epstcin-Barr virus latency in blood mononuclear cells : analysis of viral gene transcription during primary infection and in the carrier state .
+J. Virol .
+68:7374-7385 .
+Urbanek , P. , Z.-Q .
+Wang , I. Fetka , E. F. Wagner , and M. Busslinger .
+1994 .
+Complete block of early B cell differentiation and altered patterning of the posterior midbrain in mice lacking Pax5/BSAP .
+Cell 79:901-912 .
+Villard , J. , A. Muhlethaler-Mottet , S. Bontron , B. Mach , and W. Reith .
+1999 .
+CIHTA-induced occupation of MHC class II promoters is independent of the cooperative stabilization of the promoter-bound multiprotein complexes .
+Int .
+Immunol .
+11:461-469 .
+Wang , F. , C. D. Gregory , M. Rowe , A .
+B. Rickinson , D. Wang , M. Birkenbach , H. Kikutani , T. Kishimoto , and E. Kief .
+1987 .
+Epstein-Barr virus nuclear antigen 2 specifically induces expression of the B-cell activation antigen CD23 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 84:3452-3456 .
+Wang , F. , S. F. Tsang , M. G. Kurilla , J. L Coben , and E. Kie .
+1990 .
+Epstein-Barr virus nuclear antigen 2 transactivates a cis-acting CD23 DNA element .
+J. Virol .
+65:4101-4106 .
+Watry , D. , J .
+A. Hedrick , S. Siervo , G. Rhodes , J. J. Lamberti , J. D. Lambris , and C. D. Tsoukas .
+1991 .
+Infection of human thymocytes by Epstein-Barr virus .
+J. Exp .
+Med .
+173:971-980 .
+Woisetschlaeger , M. , C. N. Yandava , L. A. Furmanski , J. L. Strominger , and S. H. Speck .
+1990 .
+Promoter switching in Epstein-Barr virus during the initial stages of infection of B lymphocytes .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 87:1725-1729 .
+Zajac-Kaye , M. , E. P. Gelmann , and D. Levens .
+1988 .
+A point mutation in the c-myc locus of a Burkitt lymphoma abolishes binding of a nuclear protein .
+Science 240:1776-1779 .
+Zimber-Strobl , U. , K. O. Suentzewich , G. Laux , D. Erik , M. Cordier , A. Calender , M. Billaud , G. Lenoir , and G. Bornkamm .
+1991 .
+Epstein-Barr virus nuclear antigen 2 activates transcription of the terminal protein gene .
+J. Virol .
+65:415-423 .
+Zimber-Strobl , U. , L. J. Strobl , C. Meitinger , R. Hinrichs , T. Sakai , T. Furukawa , T. Honjo , and G. Bornkamm .
+1994 .
+Epstein-Barr virus nuclear antigen 2 exerts its transactivating function through the interaction with recombination signal binding protein RBP-J kappa , the homologue of Dro-sophila Suppressor of Hairless .
+EMBO J .
+13:4973-4982 .

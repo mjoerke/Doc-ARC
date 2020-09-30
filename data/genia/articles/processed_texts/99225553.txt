@@ -1,0 +1,879 @@
+GrpL , a Grb2-related Adaptor Protein , Interacts with SLP-76 to Regulate Nuclear Factor of Activated T Cell Activation By Che-Leung Law , * Maria K. Ewings , * Preet M. Chaudhary , } Sasha A. Solow , * Theodore J. Yun , * Aaron J. Marshall , * Leroy Hood , # and Edward A. Clark * $ From the *Department of Micibiclogy , the *Department of Molecilar Biotechnology , and the $ R egional Primate R esearch Center University of Washington , Seattle Washington 98195 Summary Propagation of signals from the T cell antigen receptor ( TCR ) involves a number of adaptor molecules .
+SH2 domain-containing protein 76 ( SLP-76 ) interacts with the guanine nucleotide exchange factor Vav to activate the nuclear factor of activated cells ( NF-AT ) , and its expression is required for normal T cell development .
+We report the cloning and characterization of a novel Grb2-like adaptor molecule designated as Grb2-related protein of the lymphoid system ( GrpL ) .
+Expression of GrpL is restricted to hematopoietic tissues , and it is distinguished from Grb2 by having a proline-rich region .
+GrpL can be coimmunoprecipitated with SLP-76 but not with Sos1 or Sos2 from Jurkat cell lysates .
+In contrast , Grb2 can be coimmunoprecipitated with Sosl and Sos2 but not with SLP-76 .
+Moreover , tyrosine-phosphorylated LAT/pp36/ 38 in detergent lysates prepared from anti-CD3 stimulated T cells associated with Grb2 but not GrpL .
+These data reveal the presence of distinct complexes involving GrpL and Grb2 in T cells .
+A functional role of the GrpL-SLP-76 complex is suggested by the ability of GrpL to act alone or in concert with SLP-76 to augment NF-AT activation in Jurkat T cells .
+Key words : Ligation of the T cell antigen receptor ( TCR ) complex activates protein tyrosine kinases ( PTKs ) ' including the Src family PTKs Fyn and Leck to phosphorylate immuno-receptor tyrosine-based motifs ( ITAMs ) within associating CD3 chains .
+This leads to the recruitment and activation of the Syk family kinase ZAP-70 and possibly other proteins such as She to phosphorylated CD3L .
+These activated PTKs in turn phosphorylate a variety of proteins , and thereby couple TCR ligation to a number of intracellular signaling cascades culminating in T cell activation .
+Principal downstream substrates/ effectors for TCR -activated PTKs have been identified .
+They include phospholipase C-y1 ( 1-3 ) , the 85-kD subunit of the phosphatidylinositol 3-kinase ( 4 ) , the src homology ( SH ) 2 domain-containing leukocyte protein C.-L. Law , MK .
+Ewings , and P.M. Chaudhary all contributed equally to this study . '
+A bbreviations used in this paper GEF , guanine nucleotide exchange factor ; GrpL , Grb2-related protein of the lymphoid system ; IP , immunoprecipi-tate , MAPK , mitogen-activated protein kinase ; NF-AT , nuclear factor of activated T cells ; PTK , protein tyrosine kinase ; SH , src homology ; SHP , SH2 domain-containing protein tyrosine phosphatase ; SLP-76 , SH2 domain-containing leukocyte protein of 76 kD .
+1243 GrpL « SLP-76 « Grb2 « nuclear factor of activated cells » cell activation of 76 kD ( SLP-76 ) ( 5 , 6 ) , the proto-oncogene product Cbl ( 5 , 7 ) , the Vav guanine nucleotide exchange factor ( GEF ) of the R ho/R ac/CDC42 family of GTP-binding proteins ( 8 , 9 ) , and the recently cloned and characterized linker for activation of T cells ( LAT/pp36/ 38 ) ( 10-14 ) .
+Functional interactions between these phosphorylated effector molecules are believed to be necessary for the operation of major pathways required for T cell maturation including ( a ) intracellular free Ca ?
++ release , ( b ) activation of the nuclear factor of activated cells ( NF-AT ) , and ( c ) mitogen-activated protein kinase ( MAPK ) activation .
+These events ultimately converge to induce gene expression , proliferation , or differentiation of T cells ( 15-17 ) .
+SLP-76 is an essential adaptor molecule in T cells When it is tyrosine phosphorylated , probably by ZAP-70 , SLP-76 may become a ligand for Vav ( 9 , 18 , 19 ) .
+In Jurkat cells , the tyrosine-phosphorylated SLP-76-Vav complex augments TCR -induced activation of NF-AT , and hence expression of IL-2 ( 9 , 18-21 ) .
+The in vivo function of SLP-76 in T lineage cells is further illustrated by recent studies of SLP-76-deficient mice .
+Mice deficient in SLP-76 expression show profound defects in T cell development , and contain no CD4/ CD8 double positive thymocytes , resulting in a complete loss of peripheral T cells ( 22 , 23 ) .
+J. Exp .
+Med .
+© The R ockefeller University Press « 0022-1007/99/ 04/ 1243/11 $ 2.00 Volume 189 , Number 8 , April 19 , 1999 1243-1253 http : // www.jem.org One connection between the TCR and SLP-76 may be provided by Grb2 ( 24 ) .
+The SH2 domain of Grb2 binds to both She and LAT/pp36/ 38 , allowing Grb2 to be localized to the plasma membrane where most of the TCR -activated PTKs are ( 13 , 14 , 25 ) .
+The SH3 domain ( s ) of Grb2 bind to Sos !
+and Sos ?
+( GEF of the R as family of GTP-binding pro-tein ) ( 26 ) , SLP-76 ( 21 , 27 ) , and Cbl ( 7 , 28 , 29 ) .
+The recruitment of Sos to the plasma membrane by Grb2 initiates the MAPK pathway , whereas the recruitment of SLP-76 ( 30 ) , Vav ( 8 , 9 ) , and Cbl ( 7 , 31 , 32 ) to the plasma membrane probably facilitates their phosphorylation by TCR -activated PTK .
+The studies above suggest that Grb2 may function to link multiple downstream effector molecules , e.g .
+, SLP-76 , to LAT and possibly to the vicinity of the activated TCR complex .
+However , more recent studies have revealed the presence of an additional Grb2-like adaptor molecule , Grap , which has the SH3-SH2-SH3 organization as Grb2 ( 33 , 34 ) .
+Interestingly , expression of Grap appears to be relatively restricted to hematopoietic tissues ( 33 , 34 ) .
+Besides binding to c-kit , the Ber- oncoprotein , and the erythro-poietin receptor , Grap also interacts with LAT/pp36/ 38 , Sos , She , and phospholipase C-y1 in TCR -activated Jurkat cells ( 33 , 34 ) .
+Exactly how Grb2 and Grap coordinate their functions during TCR signaling remains to be elucidated .
+In this paper , we report the molecular cloning and characterization of another linker protein , which shares a number of structural properties with Grb2 and Grap , yet differs from them by having a proline-rich region .
+Since transcripts encoding this linker protein appear to be preferentially expressed in lymphoid cells , we have designated this protein GrpL , for Grb2-related protein of the lymphoid system .
+GrpL associates with different effector molecules than does Grb2 in T cells and it regulates TCR -induced NF- AT activation .
+Materials and Methods Cells and A ntibodies .
+_ Various cell lines were maintained in standard culture media supplemented with L-glutamine , nonessential amino acids , sodium pyruvate , penicillin/ streptomycin , and fetal bovine serum .
+A rabbit anti-human ( bh ) GrpL serum was generated in this study against a His- Tag fusion protein containing the SH2 domain of hGrpL as described below .
+Antiphosphotyrosine 4G10 and anti-LAT/pp36/ 38 were purchased from Upstate Biotechnology , Inc. Anti-SLP-76 , anti-Grb2 , anti-SH2 domain-containing protein tyrosine phosphatase 2 ( SHP-2 ) , anti- and anti- Sos2 were purchased from Santa Cruz Biotechnology .
+64.1 ( anti-CD3 ) was provided by Dr. John Hansen ( Fred Hutchinson Cancer Research Center , Seattle , WA ) , C305 ( anti-TCR ) was provided by Dr. G. Koretzky ( University of Iowa , Iowa City , IA ) , and OKT 3 ( anti-CD3 ) was obtained from the American Type Culture Collection .
+Isolation of the Full-Length DNA Clones Encoding Human and Murine GL .
+_ A full-length cDNA encoding hGrpL was identified through random sequencing of clones from a library prepared from the acute myelogenous leukemia cell line KG-1a .
+O verlapping partial cDN A clones encoding murine ( m ) GrpL were isolated by low stringency reverse transcriptase ( RT ) -PCR using multiple hGrpL-specific primer sets and murine splenic total RNA as the template .
+RT-PCR at low annealing temperature was performed according to the Titan `` One Tube RT-PCR 1244 System protocol ( Boehringer Mannheim Inc. ) .
+PCR products were resolved on 1.5 % agarose gels .
+cDN A bands corresponding in sizes to the estimated lengths of hGrpL were excised from the gel and eluded using the QIAEX II Gel Extraction Kit ( QIAGEN Inc. ) according to the suppliers protocol .
+Isolated cDN As were then ligated into a T/ A cloning vector ( Invitrogen ) and transformed into competent E. oli ( Invitrogen ) .
+Recombi-nant clones containing mGrpL inserts were selected by low stringency hybridization to a hGrpL cDNA probe and then sequenced .
+This allowed for the identification of primer sets specific for mGrpL for the isolation of cDNA clones encoding both the 5 ' and 3 ' ends of mGrpL by rapid amplification of cDNA ends .
+The gene specific primers chosen were : 5 ' cDNA end , 5'-CTG AGC TTT CGC ACT GGA GAC ATT CTG ; 3 ' cDNA end , TCA GCG TGG CGT TCA CCT CAC TTC C. The Marathon-Ready `` `` cDNA kit ( Clontech Laboratory Inc. ) was used for RACE PCR and performed as recommended by the supplier .
+The resulting PCR products were cloned into T/ A cloning vectors ( Invitrogen ) and sequenced .
+Plasmid Construds .
+- To generate the GrpL SH2 His- Tag fusion protein , PCR was used to amplify a piece of cDNA encoding the SH2 domains of GrpL using the full-length GrpL cDNA as template and the following primer pairs : forward primer , 5-GCG GGG ATC CCC CAG TTT CCC AAA TGG TTT CAC ; reverse primer , 5-GCG GGG AAT TCC TCT GTC TCT AAG GAA GAT CTG .
+Underlined nucleotides represent BamHI and EcoRI sites in the forward and reverse primers , respectively .
+PCR products were cut with these enzymes and ligated into BamHI/ EcoRI cut pET -28c ( + ) ( Novagen , Inc. ) .
+To generate the GST fusion construct , the insert from the His Tag fusion construct was cut out by BamHI/ EcoRI and subcloned into BamHI EcoRI cut pGEX-5X-2 ( Amersham Pharmacia Biotech ) .
+The fusion protein constructs were then transformed into E. off strain BL21 ( DE3 ) and induced with IPTG for protein production .
+To generate the Myc-His tagged hGrpL expression plasmid the coding region of hGrpL was amplified using the following primer pairs : forward primer , GAA GCT CGA GTC GGG TCA TGG GTG CCA CGT A ; reverse primer , 5-GCG GAA TTC GGA GGA TGG AAG CTG TTG CCA AGT TT .
+Underlined nucleotides represent Xhol and EcoRI sites in the forward and reverse primers , respectively .
+The PCR product was cloned into the pcDNA3.1 ( + ) / Myc-His A vector ( Invitrogen ) , in-frame with the c-Myc epitope and poly-His tags .
+The hGrpL-Myc-His cassette was then excised with BamHI and PmelI and subcloned into the pEF expression vector ( provided by Dr. G. Koretzky ) at the BamHI and filled-in Xbal sites ( pEF-GrpL ) .
+The pEF-SLP-76 and the NF-AT luciferase reporter ( NF-AT Luc ) constructs were also gifts from Dr. G. Koretzky .
+Northem Blot Analysis and RT-PCR .
+- To detect GrpL message in cell lines , ~30 ug of RNA were resolved on 1.2 % morpholine propanesulfonic acid ( MOPS ) formaldehyde agarose gels , trans ferred onto GeneScreen Plus membranes ( NEN ** Life Science Products , Boston , MA ) , and fixed by UV cross-linking .
+Multiple tissue Northern blots were obtained from Clontech .
+Northern blots were prehybridized and hybridized to either the full-length GrpL cDNA or B-actin probes labeled with a- [ P ] dCTP ( NEN ** Life Science Products ) according to the manufacturer 's instructions .
+RT-PCR was performed using the Titan `` One Tube RT-PCR System ( Boehringer Mannheim ) .
+The reaction was carried out using 1 jg of total RNA and 20 nM forward and reverse primers .
+Primers used were : forward primer , 5'-TGG AAG CTG TTG CCA AGT TTG ATT TCA C ; reverse primer , 5-CTT CTC GGG TTC TGT CTC TAA GGA AG .
+Novel Adaptor Molecule That Regulates NF-AT Activation This primer set amplifies a 452-bp fragment containing the NH-terminal SH3 and the SH2 domains from cells expressing GrpL message .
+The amount of total RNA used was monitored by amplification of a 1-kb fragment encoding G3DPH using the following primer set : forward primer , 5'-TGA AGG TCG GAG TCA ACG GAT TTG GT ; reverse primer , 5'-CAT GTG GGC CAT GAG GTC CAC CAC .
+Cycling parameters PCR were programmed according to the instructions provided with the Titan * `` system ( Boehringer Mannheim ) .
+T Cell Stimulation , Immucpredpitation , and Immunoblot Analysis .
+Jurkat T cells were pelleted and resuspended at 5-10 % 10 % ml in medium .
+Cells were allowed to equilibrate at 37°C for 15 min and then stimulated with either 5 or 10 pg/ml of anti-CD3 or 2.5 mM of H , O ; plus 250 M of sodium orthovanadate ( referred to as pervanadate ) .
+Either class matched antibodies or medium only was used as control stimulus .
+Stimulation was terminated by dilution of cell suspensions into > 10 vol of ice-cold PBS .
+Cells were pelleted and lysed in a buffer containing 150 mM NaCl , 50 mM Tris , pH 8.0 , 5 mM EDTA , 0.5 % NP-40 , protease inhibitors ( 2 mM PMSF , 10 g/ ml aprotinin , 10 g/ ml leupeptin , and 1 g/ ml pepstatin ) , and phosphatase inhibitors ( 10 mM NaF , 1 mM NaVO , , and 5 mM Na , P ; ,0 ; ) .
+Lysates were clarified by centrifugation before immunoprecipitation .
+Immunoprecipitation , SDS-PAGE , and Western blot analysis were conducted as described ( 35 ) .
+Binding of primary antibodies to blots was detected with horseradish peroxidase-conjugated secondary antibodies or streptavidin ( Jackson ImmunoResearch Labs . )
+and an enhanced chemiluminescence kit ( Amersham Pharmacia Biotech ) .
+T Cell T rnsfection and Ludferase Assays .
+- Jurkat cells in log-phase were washed with serum-free RPMI 1640 once and elec-troporated in triplicate with a total of 60 pg of plasmid at 240 V , 960 F using a Gene Pulser ( Bio- R ad ) at 10 `` cells 400 pl serum-free RPMI 1640 .
+In general , 20 pg of NF-AT Luc were cotrans-fected with either 20 pug of pEF , pEF-SLP-76 , pEF-GrpL , or pEF-SLP-76 plus pEF-GrpL .
+Sonicated salmon sperm DNA ( Sigma Chemical Co. ) was used to maintain the total DN A at 60 ug whenever necessary .
+After electroporation , cells were incubated in fully supplemented RPMI 1640 for 14-18 h at 37°C , 5 % CO , , .
+Cells were then transferred into 96-well plates at 2-5 X 10° celly well in a total of 100 pl medium .
+Cells were stimulated in triplicate with 1:500 dilution of C305 anti-CD3 for 6-8 h at 37°C .
+Control cells were maintained in culture medium .
+After stimulation , cells were lysed in 50-100 pl Reporter Lysis buffer ( Promega ) for 15 min at room temperature .
+Luciferase activity was quantified by adding 10 pl of the lysate to 50 pul of luciferase assay substrate ( Promega ) and immediately measured with a GenProbe Leader `` 1 luminometer ( Wallac Inc. ) .
+To normalize for variations in transfection efficiency , luciferase activities in different transfection conditions were expressed as a percentage of maximal NF-AT responses determined by treating cells with 50 ng/ml PMA and 1 M ionomycin as previously described ( 18 , 20 ) .
+Results Identification of GmpL , a New Member of the G Family of Adaptor Proteins .
+Through random sequencing of cDNA clones in a library prepared from the acute myelogenous leukemia cell line KG-1a , we identified a cDNA encoding a 330-amino acid polypeptide with a predicted molecular weight of ~37 kD .
+The linear amino acid sequence of this polypeptide organizes into an NH-terminal SH3 domain 1245 Law et al .
+followed by an SH2 domain , a proline-rich region , and finally a COOH-terminal SH3 domain ( Fig .
+1 A ) .
+A comparison to other known proteins available in current sequence data banks revealed that this protein is most similar to the adaptor proteins , Grb2 and Grap ( Fig .
+1 B and Table I ) .
+Based on this similarity , we have designated this molecule , GrpL for Grb2-related protein of the lymphoid system ( see below ) .
+Using RT-PCR and a combination of 5'- and 3'-RACE ( Materials and Methods ) , we also isolated the full-length cDNA encoding the murine homologue of GrpL .
+Human and murine GrpL are highly conserved proteins sharing > 90 % identity in the SH3 and SH2 domains ( Table I ) .
+The least conserved area is the proline-rich region with ~74 % identity ( Table I ) .
+Amino acid sequence alignment between hGrpL , Grb2 , and Grap revealed that hGrpL is 38-56 % identical to Grb2 and Grap in the SH3 and SH2 domains ( Fig .
+1 B , Table I ) .
+This conservation is slightly less than that between Grb2 and Grap ( 49-68 % ; reference 33 ) .
+The biggest difference between GrpL and Grb2 or Grap is the presence of a proline-rich region between the SH2 and COOH-terminal SH3 domain .
+This proline-rich region could potentially be bound by SH3 domain-containing proteins found in other adaptor molecules ( 36 , 37 ) .
+Taken together , the amino acid composition of GrpL suggests that it may interact with different proteins in lymphocytes when compared with Grb2 or Grap .
+T ransaipts of GipL Are Seecively Expressed in Hematopoietic Tissues and in B and T Lymphocytes .
+- The transcripts for Grb2 are expressed ubiquitously in mammalian species ( 38 ) , whereas Grap mRNA is expressed at considerably higher levels in lymphoid tissues than in other tissues ( 33 , 34 ) .
+Northern blot analysis of mRNA isolated from different human tissues demonstrated that the transcripts for GrpL are relatively restricted to hematopoietic tissues Thus , transcripts of 1.4 kb and 3-3.5 kb were detected in lymph node , bone marrow , spleen , thymus , and peripheral blood lymphocytes , as well as weakly in testis , but not in stomach , thyroid , spinal cord , trachea , adrenal gland , prostate , ovary , or small intestine ( Fig .
+2 A ) .
+Probing total RNA from a panel of cell lines by Northern blot analysis and RT-PCR further confirmed the restricted expression pattern of GrpL ( Fig .
+2 , B and C ) .
+GrpL transcripts were detected in the myeloid and erythroid progenitor cell lines KG-1a and K562 , respectively , but not in the myeloid cell line HL60 .
+In T cells , GrpL is expressed in the Jurkat , Molt-4 , HSB-2 , CEM , and HPB- ALL lines , but not in the HuT 78 line .
+Interestingly , of all the B cell lines examined , GrpL transcripts were only found in EBV-transformed lymphoblastoid cell lines including T5-1 , HCLL7678 , CESS , F4 , FBM2-4 , and IM9 .
+Other B cell lines , including the Burkitt 's lymphomas ( Daudi , BJAB , and Ramos ) , the pre-B cell lines ( REH , NALM-6 , and BLIN1 ) , the sIgM * early B cell lines ( BLIN1 and 1E8 ) , and the myeloma cell line RPMI8226 , did not express any GrpL transcripts .
+Results from the above experiments show that GrpL expression is highly regulated and restricted to subsets within hematopoietic lineages .
+GmpL A ssodates with SLP-76 in T Cells To characterize the GrpL protein and the proteins with which it interacts , 6 S158 145 277 330 SH2 Pro-rich SH3C hGrpL mGrpL hGrpL mGrpL hGrpL mGrpL hGrpt , mGrpL hGrpL mGrpL hGrpL mGrpL hGrpL mGrpL B hGrpL mGrpL .
+hGrb2 hGrap m > o o hGroL p E G mGrpL P E G hGrb2 H G K hGrap H G R hGrpL - 98 h N K mGrpL - 98 H T K hGrb2 101 F ( G A hGrap 101 -v A S [ 6 hGrpL - 148 R D R mGroL = 148 G D R hGrb2 181 1 RJQ ] - s n s n n n n n n n n n n n n n n n n n n n n n n n n n n n > - 161 H B Pos c c n n n n n n n n n n e e n e e n n e e e e e > hGpL 198 H Q II Q P Q P P Q Y A PA P Q Q L mGipL 197 HU P Il Q Q PS PQ POT PG P Q PoP e ae O 8 n n n n n n n n n e > e eae c n n n s n n n < e e e e > hGroL mGrpL hGrb2 hGrap hGror .
+- 298 mGrpL .
+- 290 hGrb2 189 hGrap - 185 ® a 3 4 we generated a rabbit hetero-antiserum specific for GrpL by immunizing with a His Tag GrpLSH2 fusion protein .
+This antiserum can specifically immunoprecipitate from Jurkat T cells two proteins ~38 and 40 kD in size ( Fig .
+3 A ) .
+Both proteins were detectable by Western blot analysis of either GrpL immunoprecipitates ( IPs ) or whole cell lysates .
+This antiserum does not cross-react with Grb2 , which runs at a lower molecular weight on gels ( Fig .
+3 A and see Fig .
+5 ) , and by all criteria it appears to be specific for GrpL .
+To detect proteins potentially capable of interacting with GrpL , we pharmacologically stimulated Jurkat cells with 1246 a O o & Figure 1 .
+Structural organization of GrpL and amino acid homology comparison with other Grb2-like proteins .
+A schematic for the domain organization of GrpL is depicted in the upper part of A .
+Numbers on top mark amino acid residues at the boundaries of the different domains .
+The lower part of A shows the amino acid sequence comparison between mouse and human GrpL and B shows the amino acid sequence comparison among © m > > , , , , , Dull l l 2 ase mGrpL , hGrpL , Grb2 , and Grap .
+Boxed residues represent homolo-gous regions .
+Amino acids in bold and shade denote identical residues , while unshaded amino acids denote conserved substitutions .
+The nucleotide sequences for hGrpL and mGrpL are available from EMBL GenBank/DDBJ under accession numbers AF129476 and AF129477 .
+pervanadate , immunoprecipitated GrpL , and then Western blotted with either antiphosphotyrosine or anti- sera ( Fig .
+3 B ) .
+2-5 min after stimulation , a major tyrosine phosphorylated protein 40 kD in size and a minor 38-kD phos phoprotein were detectable in anti-GrpL but not control serum IPs .
+This doublet most likely corresponds to GrpL itself , which migrates to the same position on gels ( Fig .
+3 , A and B ) ; it is possible that these bands represent differen-tially phosphorylated forms of GrpL .
+Compared with pervanadate , TCR ligation induced only weak tyrosine phos phorylation of GrpL ( data not shown ) .
+Novel Adaptor Molecule That Regulates NF-AT Activation In addition to the 38-40-kD doublet , a second major tyrosine phosphorylated protein ~68-70 kD in size was also detected in the GrpL IP after pervanadate treatment ( Fig .
+3 , B and C ) .
+In T cells , substrates for protein tyrosine kinases in this size range include SLP-76 , SHP-2 , Syk , and ZAP-70 .
+Indeed , in the GrpL IP obtained from both unstimulated and pervanadate- stimulated Jurkat cells , we were able to detected SLP-76 ( Fig .
+3 C ) but not ZAP-70 ( data not shown ) .
+However , the amount of SLP-76 associating with GrpL remained relatively unchanged after stimulation .
+Moreover , the SLP-76 molecule coimmunoprecipitated with GrpL before stimulation showed an almost undetectable level of tyrosine phosphorylation ( Fig .
+3 C ) .
+These results are consistent with the idea that GrpL can interact with SLP-76 independently of tyrosine phosphorylation as has been suggested for Grb2 and SLP-76 ( 21 , 27 ) .
+The increased signal of the 68-70-kD molecule coimmunoprecipitated with GrpL after stimulation may be a consequence of increased tyrosine phosphorylation of SLP-76 and/ or the recruitment of additional tyrosine phosphorylated proteins of the same size to GrpL .
+In the SLP-76 IP obtained from pervanadate-stimulated Jurkat cells , we could also detect tyrosine-phosphorylated protein at 38-40 , 50-55 , and 110 kD ( Fig .
+3 C ) .
+GL and G2 Interac with Different Molecules : To examine the possibility of distinct functional roles played by different Grb2-like molecules in T cells , we asked whether GrpL and Grb2 interact with different proteins .
+We immunoprecipitated either GrpL or Grb2 from Jurkat cells and probed for associating proteins .
+SLP-76 was detected in GrpL IPs ( Fig .
+4 A ) , as also shown in Fig .
+3 C. However , A F [ = ] © a u E : E6 § § p a F £08 3 5 Fak l 5 o 85 & g t # 05 0 } § 5 0 E 8 a F 8 co s G08 49 ¢ - op os # 0 2 5 805 § oR S fP f £4 5 % G £0 g E © c P § f & E. ; ao 9 © r s 2 s § f & & f & £38 & & $ P f ® kb O < RoI & i & 14 O a O i- & i- w 4 .
+4-1.35- & wb b # pactin m w C Tt ¢ 53 8 w 8 o © 1 M is 33 ~ > v- W 3 53 m Ao C m - 0 2 Y T T 3 GrpL 1247 Law et al .
+Table I _ Amino A dd Sequence Comparison among hGpL , mG pL , G2 , and Grp Proline-rich SH3N SH2 interdomain SH3C hGrpL/ mGrpL 91 93 74 94 hGrpL/ Grb2 52 56 < 5 50 hGrpL/ Grap 50 56 < 5 38 Numbers represent the percentage of identity between the different domains of the two proteins listed on the lefthand column .
+we could not detect any SLP-76 associating with Grb2 .
+Consistent with this was the presence of GrpL but not Grb2 in the SLP-76 IPs ( Fig .
+4 A ) .
+On the other hand , we were able to detect Sosl and Sos2 , GEFs of Ras , in Grb2 IPs ( Fig .
+4 B ) , as has been reported in other cell systems .
+Interestingly , no detectable Sosl or Sos2 was found to be coimmunoprecipitated with GrpL ( Fig .
+4 B ) .
+These results suggest that in Jurkat T cells , GrpL preferentially complexes with SLP-76 , whereas Grb2 preferentially complexes with Sos !
+or Sos2 .
+Since both Grb2 ( 10-14 ) and Grap ( 33 , 34 ) can associate with tyrosine-phosphorylated LAT/pp36/38 upon TCR ligation , we asked whether GrpL could also associate with tyrosine-phosphorylated LAT/pp36/ 38 .
+Jurkat cells were stimulated by anti-CD3 , and LAT/pp36/ 38 was immunoprecipitated from NP-40 Jurkat cell lysates at various time points after stimulation .
+As reported before ( 24 ) , tyrosine t B ha Loy oa ® [ o $ 58 5bog ss -1 ® I s T o f § Q g € 5 28S w Wp wo 185 `` ak Ng GrpL .
+-g s= « © < o § 4 § 5 48 5nd I 1 2 2 m 3 E 2 _- A 0 a w < % I 9 u § 8 4 m O W sz ® « £ Z m m - Oo ¢ Ko- I 0 w i ~- \o sey u uw 18s -e R _ we tm GL vest Ame dX - > - gp Go uvet '- `` .
+B-actin Figure 2 .
+- Expression of GrpL transcripts .
+Multiple tissue blots ( Clontech ) containing 2 pug per lane of polyA* RNA ( A ) or blots containing 30 jug per lane of total RNA isolated from various hematopoictic cell lines ( B ) were probed with full-length GrpL .
+Blots were stripped and reprobed with B-actin to monitor RNA loading .
+( C ) RT-PCR using conditions and an hGrpL primer as described in Materials and Methods was conducted on a subset of cell lines in B and additional cell lines to confirm and extend results obtained by Northern blot analysis .
+A primer set amplifying G3DPH was used to monitor RNA loading .
+A B_ pervanadate C Immunoprecipitates minutes _ 0 _ __ 2 | _ 5 _ g @ @ © 5 is 5 < & E .
+§ € .f .f € a 3m E4 E < & © £ 58 ToB f ge E = g $ G E 3 ® $ G F aG t2 a { g a .
+( g a ( g 68 102- kum * > ws cGrpL .
+71 - t 9 .
+i - my wo .
+aPY wow # g « « « » -- - 40kD 46 ms ans 28 # ‘ aGrpL .
+goat Ig Immunoprecipitates Figure 3 .
+Biochemical characterization of GrpL .
+( A ) Jurkat cell lysates were immunoprecipitated with an antiserum against GrpL generated by immunizing rabbits with the GST/GrpLSH2 fusion protein or preimmune serum .
+IPs were resolved along with whole cell lysate on reducing SDS-PAGE and immunoblotted with the same anti-GrpL serum .
+( B ) Jurkat cells were stimulated for cither 2 or 5 min with pervanadate as described in Materials and Methods .
+NP-40 lysates were immunoprecipitated with anti-GrpL or preimmune serum and immunoblotted with the antiphosphotyrosine antibody 4G10 ( « PY ) .
+The amounts of GrpL in different lanes were monitored by immunoblotting with anti-GrpL ( Grp ) .
+The open arrow indicates a pre rabbit Ig I eSLP-76 aGrpL dominant tyrosine-phosphorylated protein coimmunoprecipitating with GrpL , and the closed arrow indicates the mobility of GrpL .
+( C ) NP-40 lysates prepared from unstimulated ( - ) or pervanadate-stimulated ( + ) Jurkat cells were immunoprecipitated with anti-SLP-76 ( « SLP-76 ) , anti- GrpL ( « GrpL ) , or normal goat or rabbit control Ig .
+IPs were resolved on SDS-PAGE and immunoblotted with either antiphosphotyrosine or anti-SLP-76 .
+The arrows indicate phosphoproteins migrating at the sizes of SLP-76 and GrpL .
+phosphorylation of LAT/pp36/ 38 increased dramatically after TCR ligation , and started to decline after 3 min of stimulation .
+This was correlated with the appearance of Grb2 in the LAT / pp36/ 38 IPs ( Fig .
+5 ) .
+However , although the levels of GrpL proteins in NP-40 Jurkat cell lysates remained unchanged throughout stimulation , we consistently did not detect any GrpL associating with LAT/pp36/ 38 in these lysates ( Fig .
+5 ) .
+GL Regulate NF-AT Adivation in T Cells : Since SLP-76 has been shown to regulate NF-AT activation in T cells ( 18 , 20 , 39 ) , we investigated whether GrpL could play a role in this pathway .
+NF-AT activation was monitored by the expression of a NF- AT luciferase reporter construct in Jurkat cells .
+As described before , overexpression of SLP-76 IP r—w IP ICI - al & -o w woe t © & ma £5 2 2 3 8 B ‘ gg ’ ba £313 ?
+?
+?
+wth wes Q < - aGrpL Fes < - aSos 1 t= sin IP © IP i 1—01 !
+go _ g § g $ s a & 8 $ P 8 8 o 8 8 8 $ * is dat < - aSLP-76 __ < - aGrpL 9 : g : IP « © & aoc & o e 2 a o 0 0 o s < s s “ 1—0 “ ; be 1248 by cotransfection of a SLP-76 expression vector augmented the anti-CD3-induced NF- AT activation ( 18 , 20 , 39 ) .
+Overexpression of GrpL alone consistently augmented anti-CD3-induced NF-AT activation ( Fig .
+6 ) .
+Moreover , an additive effect between GrpL and SLP-76 on NF-AT activation was observed when both were overexpressed in Jurkat cells .
+The SH2 Domain of GpL Recognizes Tyrosine phosphorylated Protein Tyrosine Phosphatase SHP-2 In Vitro .
+- Since various SH2 domains can interact with a wide spectrum of tyrosine-phosphorylated targets , we tested to which tyrosine-phosphorylated protein ( s ) the SH2 domain of GrpL could bind .
+When the GST/ GrpLSH2 fusion protein was used to probe pervanadate- stimulated Jurkat cells , tyrosine-phosphorylated proteins that migrated at 36 , 69 , and 71 kD IP CCC - al g 8 3 s 2 8 $ G ¢ *= ® ~- ©S0520000 4 .
+GrpL and Grb ?
+2 interact with different effector molecules .
+( A ) NP-40 ip lysates prepared from Jurkat cells were -z immunoprecipitated - with - anti-SLP-76 a 8 s g ( @ SLP-76 ) , anti-GrpL ( cGrpL ) , anti-Grb2 o $ $ 4 ¢ ( eGrb2 ) , normal goat Ig ( glg ) , or normal , rabbit Ig ( rIg ) .
+IPs were resolved on re-G Th 9:3 ; - < - aGrb2 ducing SDS-PAGE and immunoblotted te fake with antisera as indicated on the left .
+( B ) NP-40 lysates prepared from Jurkat cells were - immunoprecipitated with anti-SLP-76 ( @ SLP-76 ) anti-GrpL ( @ GrpL ) , anti-Sos1 ( « Sos1 ) , anti-Sos2 ( « Sos2 ) , or normal rabbit Ig ( rIg ) .
+IPs were resolved on reducing SDS-PAGE and immunoblotted with antisera as indicated on the right .
+Novel Adaptor Molecule That Regulates NF-AT Activation aLAT rig romancing 0 20 `` 1° 3° 10° 10° CD3 Cross-linking 000000 aLAT < - LAT we we we as # 4 w* # s +- IgH « PY BH a - - -u -- aGrb2 - Figure 5 .
+GrpL does not interact with LAT/pp36/ 38 .
+NP-40 Pee P lysates were prepared from anti CD3-stimulated Jurkat cells and were immunoprecipitated with anti-LAT/pp36/ 38 .
+Normal rabbit Ig ( rlg ) was used as the negative control .
+The anti-LAT/ pp36/38 IPs were resolved by - ... , reducing SDS-PAGE on repli- cate gels and immunoblotted eGRPL _ rig with anti-LAT/ pp36/ 38 ( eLAT/ m ?
+CD3 Cross-linking pp36/ 38 ) , antlghosphotyroslnc ( 4G10 ) ( aPY ) , anti-Grb2 and anti-GrpL ( @ GrpL ) .
+Expres +- IgH sion of GrpL in these cells during eGrpL stimulation were monitored by ® m ae ue ue VM .- Coll immunoblotting the anti-GrpL IPs with anti-GrpL ( cGrpL ) .
+could be readily detected ( Fig .
+7 A ) .
+In some experiments , we also detected 95- and 130-kD tyrosine-phosphorylated proteins .
+The GST/GrpLSH2 fusion protein also precipitated a similar pattern from lysates prepared from anti-CD3-stimulated Jurkat cells ( Fig .
+7 A ) .
+By analogy to Grb2 ( 24 ) , these proteins could be LAT , ZAP-70 , SHP-2 , Vav , and perhaps c-Cbl .
+As shown in Fig .
+7 B , we were able to confirm that SHP-2 was among the phosphoproteins precipitated by the GST / GrpLSH2 fusion protein from pervan-adate-activated Jurkat cells Although tyrosine-phosphorylated SLP-76 also migrates at ~70 kD , we consistently did not detect any SLP-76 precipitated by GST / GrpSH2 .
+Discussion Critical functions are played by a variety of adaptor molecules in linking receptor proximal signal transduction events such as activation of receptor-associated kinases to downstream effector molecules .
+In this report , we describe the identification and characterization of a new member of the Grb family of adaptor proteins .
+GrpL shares similar structural organization as Grb2 and Grap .
+A distinguishing feature of GrpL not found in Grb2 or Grap is the presence of a 100-amino acid stretch connecting its SH2 and SH3C domains .
+Although this region is the least conserved be 1249 Law et al .
+100 90 80 70 60 4 50 40 % of PMA/Ionomycin 30 20 10 4 20 ug pEF 20 ug pEFGrpL 20 ug pEF-SLP-76 20 ug pEF-SLP-76 + SLP-76 + 20 ug pEF- - 10 ug pBF-GipL GrpL 10 ug pEF Figure 6 .
+- GrpL regulates NF-AT activation in T cells Jurkat T cells were transfected in triplicate with 20 jg of the NF-AT Luc and empty vector ( pEF ) , pEF-GrpL , pEF-SLP-76 , or a combination of pEF-GrpL and pEF-SLP-76 at concentrations indicated in the figure .
+Cells were stimulated with the anti-TCR C305 ( black bars ) or left unstimulated in medium ( white bars ) .
+Luciferase activities were then determined on each transfected cell population .
+The maximal NF-AT responses for the various transfection conditions were determined by treatment with PMA plus ionomycin , and did not differ significantly .
+The effects of overexpressing GrpL and/or SLP-76 are shown as percentage of the maximal NF-AT responses for each transfection conditions .
+The data are representative of four independent experiments .
+tween mGrpL and hGrpL , it does contain multiple proline and glutamine residues at conserved positions ( Fig .
+1 and Table I ) .
+Thus , two PxxP motifs are found in both hGrpL and mGrpL .
+In hGrpL , they are P191TLP and P202QPP ; in mGrpL , they are P190LGP and P210QPP .
+These poly-proline motifs conform to the consensus sequence recognized by different SH3 domains ( 36 , 37 ) .
+Accordingly , it is likely that the proline residues in GrpL do constitute a proline-rich domain capable of interacting with as yet to be defined SH3-containing proteins .
+In contrast to the broadly expression Grb2 , GrpL expression is restricted to hematopoietic cells ( Fig .
+2 ) .
+In this re-gard , GrpL is similar to Grap that transcripts for both are found at much higher levels in hematopoietic tissues ( 33 , 34 ) .
+Although Grap is preferentially expressed in blood cells , little is known about its expression in different stages of T and B cell maturation or in different lymphocyte sub-sets .
+GrpL transcripts are expressed at lower levels in the bone marrow than in the secondary lymphoid organs .
+Importantly , the highest levels of GrpL transcripts were detected in the thymus ( Fig .
+2 A ) , suggesting that GrpL may play a crucial role in regulating early T cell development .
+Northern blot analysis on cell lines also demonstrates that GrpL transcripts are not expressed in all lymphocytes ( Fig .
+2 , B and C ) , suggesting that their expression may be modu- @ A 3 B © 8s one i 5 €t 5 is 2 3 8 3 E a IP ad ou w `` ~- a ' ps I T. T t ® & & =d -1 - !
+« 4 g % & 6 O O O 5 hobo Eo ok - oF m m a u u a m 0 0G G 0G 0 0G 0 G G -200 - 200 -97 - 97 aSHP2- » - © _ gg - 43 -43 - 29 -29 k WE 4 ® # H4 wop ) | csr s-| Figure 7 .
+- The SH2 domain of GrpL interacts with SHP-2 .
+( A ) Jurkat T cells were stimulated with 10 g/ ml of anti-CD3 ( « CD3 ) or pervanadate for 5 min .
+Control cells were treated with cither isotype-matched control IgG or medium alone .
+NP-40 lysates were precipitated with cither GST or GST/ GrpLSH2 , resolved on reducing SDS-PAGE , and immunoblotted with the antiphosphotyrosine antibody 4G10 .
+Arrows indicates major tyrosine-phosphorylated proteins detected in the GST / GrpLSH2 precipitates .
+( B ) Replicate precipitates obtained from pervanadate-stimulated Jurkat cells were immunoblotted with anti-SLP-76 .
+lated during lymphocyte ontogeny by specific signals .
+To test this possibility , we fractionated normal B cells into subsets and measured levels of GrpL transcripts .
+A clear difference was observed in GrpL transcript expression in naive but not in germinal center B cells ( Solow , S.A. , A.J .
+Marshall , T .J .
+Yun , MK .
+Ewings , and E.A .
+Clark , manuscript in preparation ) .
+To elucidate the signals involved in switching the expression of GrpL on and off will provide further insights into the functions of GrpL and its associating proteins at different stages of lymphocyte development .
+We have identified one of the GrpL- interacting proteins to be SLP-76 ( Figs .
+3 and 4 ) .
+Interaction between GrpL and SLP-76 appears to be constitutive , since it could be detected in both stimulated and unstimulated T cells ( Figs .
+3 and 4 A ) .
+Accordingly , this interaction may not require the tyrosine phosphorylation of either SLP-76 or GrpL .
+In support of this , results presented in Fig .
+3 C show that the amount of SLP-76 coimmunoprecipitating with GrpL remained relatively constant , although SLP-76 became heavily tyrosine-phosphorylated after pervanadate treatment .
+Hence , our data argue against the possibility that the SH2 domain of GrpL mediates its interaction with SLP-76 .
+Grb2 has been reported to be an adaptor molecule capable of associating with SLP-76 ( 24 ) .
+In these studies , GST fusion proteins containing Grb2 or Grb2 SH3 domains recognized SLP-76 from lysates of resting or activated T cells independent of its tyrosine-phosphorylation ( 21 , 27 ) .
+Using 1250 deletional mutants of SLP-76 , the Grb2 binding site was subsequently mapped to the central proline-rich region of SLP-76 from amino acid residues 224-244 ( 21 ) .
+These results implicate the SH3 domain of Grb2 to be the primary mediator for interaction .
+Based on the similar structure between GrpL and Grb2 and the phosphorylation-indepen-dent interaction between GrpL and SLP-76 , it is likely that the SH3 domain ( s ) of GrpL also mediates its interaction with SLP-76 .
+Experiments are currently in progress to examine this possibility .
+Several recent studies have provided strong evidence for an essential function served by SLP-76 in T lineage cells .
+Biochemical experiments show that SLP-76 can interact with both positive and negative regulators .
+TCR ligation induces ZAP-70 to phosphorylate SLP-76 at three NH , -terminal tyrosine residues ( 20 , 30 , 39 ) .
+Once phosphorylated on its NH , -terminal tyrosine residues , in particular Y113 and Y128 , SLP-76 can be bound by the SH2 domain of Vav ( 18 , 19 ) .
+Overexpression of SLP-76 augment IL-2 promoter activity ( 21 ) , and SLP-76 also acts synergistically with Vav to augment IL-2 promoter activity ( 18 ) .
+Moreover , the biological activity of SLP-76 is absolutely dependent on an intact proline-rich region , and hence , an interaction with adaptor proteins containing SH3 domain ( s ) ( 21 ) .
+On the other hand , the COOH-terminal SH2 domain of SLP-76 binds to a 130-kD tyrosine-phosphorylated protein ( 40 , 41 ) .
+This protein has been cloned , designated to be SLAP-130/Fyb , and may be involved in downregulating the activating function of SLP-76 on the IL-2 promoter ( 41 ) .
+The most compelling evidence to argue for an indispensable in vivo function of SLP-76 in T lineage cell is provided by the recent gene targeting experiments .
+SLP-76 ~ mice are characterized by an early arrest in T cell development .
+CD4 , and CD8+ thymocyte populations are completely absent from thymuses of SLP-76 knockout mice , resulting in a corresponding lack of peripheral T cells ( 22 , 23 ) .
+In the SLP-76-~- mice , TCR -B chain genes appear to undergo normal rearrangement and exogenous anti-CD3 fails to drive the generation of double positive cells Therefore , it is proposed that the absence of SLP-76 may render the pre-TCR complex fail to deliver maturational signals to developing T cells ( 22 , 23 ) .
+Our observation that GrpL associates with SLP-76 in vivo suggests GrpL plays a pivotal role in TCR -mediated signal transduction cascades .
+Studies from different laboratories have convincingly demonstrated binding of recombi-nant Grb2 or Grb2 SH3 domains to SLP-76 both in cell lysates and on Western blots ( 9 , 21 , 27 ) , but the presence of SLP-76 in Grb2 IPs and vice versa have not been reported thus far .
+O ur data argue that SLP-76 is more likely to associate with GrpL than Grb2 under physiological conditions in T cells ( Fig .
+4 ) .
+This GrpL/ SLP-76 association may regulate signaling pathway ( s ) involving SLP-76 in T cells One downstream target for SLP-76 is NF-AT .
+SLP-76 and Vav can synergistically enhance anti-CD3-induced NF-AT activation in T cells ( 18 ) .
+Results in Fig .
+6 demonstrate that overexpression of GrpL alone is sufficient to enhance the Novel Adaptor Molecule That Regulates NF-AT Activation TCR -induced NF-AT .
+More importantly , GrpL cooperated with SLP-76 in this pathway as suggested by the additive effect upon overexpression of both GrpL and SLP-76 .
+Given the functions of SLP-76 in regulating T cell development and gene expression through its interaction with the GEF Vav , we propose that GrpL may also modulate the guanine nucleotide exchange activity of Vav via its association with SLP-76 to regulate T cell development and func-tions .
+By contrast , Grb2 may function principally via the Sos1 and Sos2 GEFs .
+Another feature that further distinguishes GrpL from Grb2 is the lack of association between GrpL and tyrosine-phosphorylated LAT/pp36/ 38 in NP-40 lysates prepared from TCR -activated T cells ( Fig .
+5 ) .
+Detergent-insoluble membrane subdomains known as glycolipid-enriched mi-crodomains or detergent-insoluble rafts concentrated with lipid-linked signaling proteins have been proposed to be focal areas from which receptor-mediated signaling originates ( 42-44 ) .
+R ecently , components of the activation TCR complex , including tyrosine-phosphorylated LAT , have been localized to such detergent-insoluble rafts , and disruption of these rafts inhibits signaling via the TCR ( 45 , 46 ) .
+Since GrpL appears to be an integral part of the TCR -mediated NF-AT activation pathway ( Figs .
+4-6 ) , it is possible that GrpL may also be localized to rafts upon TCR liga-tion .
+This may allow GrpL to interact with upstream molecules activated by the TCR , including tyrosine-phosphorylated LAT in rafts Experiments are now in progress to examine this possibility .
+The in vitro binding of GrpLSH2 domain to tyrosine-phosphorylated SHP-2 suggests that SHP-2 may potentially interact with GrpL ( Fig .
+6 ) .
+However , we have not yet detected an in vivo association between GrpL and SHP-2 in activated T cells ( data not shown ) .
+SHP-2 possesses the dual functions of either potentiating or inhibiting signal transduction depending on the receptor system involved .
+For example , SHP-2 has been shown to be required for coupling receptors to the activation of the MAPK pathway ( 47 , 48 ) .
+In T cells , SHP-2 interacts with CTLA-4 , which is believed to be the mechanism whereby CTLA-4 down-regulates T cell activation , possibly via dephosphorylation of Shc ( 49 ) .
+Nevertheless , a recent report suggests that SHP-2 may also be a positive regulator of TCR -mediated signaling .
+Thus , a multimeric complex involving Grb2 , LAT/ pp36/ 38 , SHP-2 , and a 110-kD tyrosine-phosphorylated protein has been reported in T cells ( 50 ) .
+Interestingly , expression of a SHP-2 mutant devoid of phosphatase activity inhibits the TCR -induced MAPK pathway activation .
+Similar to Grb2 , the SH2 domain of GrpL mediates binding to SHP-2 .
+This binding is dependent on T cell activation and tyrosine phosphorylation of SHP-2 ( Fig .
+7 ) .
+Hence , after TCR ligation , the interaction between Grb2 Figure 8 .
+A model for how GrpL may function in TCR-mediated signal transduction .
+Results from our study demonstrate that GrpL and Grb2 may dif ferentially associate with SLP-76 , LAT/pp36/ p38 , and Sos1/ 2 , respectively .
+The preferential interaction between GrpL and SLP-76 suggests that GrpL may play a role in the regulation NF-AT pathway during TCR-mediated T cell activation .
+Co 9 < < - < 0 he and SHP-2 may facilitate the redistribution of the GrpL-SLP-76 complex to the plasma membrane .
+Consequently , SLP-76 would become available for phosphorylation by ZAP-70 to generate the Vav binding sites .
+Taken together , our data support a model in which dis tinct complexes of Grb2/Sosl/Sos2 and GrpL-SLP-76 may be responsible for connecting the TCR to the Ras and R ho/ R ac/ CDC42-mediated effector pathways , respectively ( Fig .
+8 ) .
+Thus , Grb2 is the primary adaptor molecule responsible for the recruitment of the GEFs Sos1 and Sos2 for Ras ( 26 ) to LAT/pp36/ 38 .
+The lymphoid-restricted , Grb2-like adaptor protein Grap can also serve a similar function by interacting with Sos and R as ( 33 , 34 ) .
+Recruitment of R as to the inner plasma membrane activates distal MAPKs including Erk ] and Erk2 ( 26 ) .
+On the other hand , Vav , a GEF for the R ho/ R ac/ CDC42 family of GTP-binding proteins expressed in lymphoid cells ( 51 , 52 ) , binds to tyrosine-phosphorylated SLP-76 via its SH2 domain ( 9 ) , and regulates NF- AT activation ( 18 ) and cytoskeletal reorganization in T cells ( 53 ) .
+Since GrpL associates with SLP-76 and regulates NF-AT activation ( Figs .
+3-6 ) , one testable possibility is that a trimolecular interaction among SLP-76 , Vav , and GrpL may be required for optimal NF- AT activation and reorganization of cytoskeleton during T cell activation .
+During the course of this study , two other groups independently identified the same gene and protein as we describe herein , which they have designated as Mona ( 34 ) and Gads ( 55 , 56 ) .
+In vitro data suggest that in nonlym-phoid cells , GrpL ( Mona/ Gads ) may interact with either the M-CSF receptor , c-fms ( 54 ) , or with c-kit ( 55 ) .
+In agreement with our results , Liu et al .
+( 56 ) independently found that GrpL can bind to SLP-76 and together with SLP-76 can promote the activation of NF-AT in T cells We have recently identified another adaptor protein , BAM-32 , which unlike GrpL ( Fig .
+6 and reference 56 ) , SLP-76 ( 18-21 ) , or the B cell adaptor BLNK ( 57 ) , inhibits the activation NFAT ( Marshall , A.J .
+, H. Niiro , T.J. Yun , and E.A .
+Clark , manuscript in preparation ) .
+Thus , antigen receptor-induced activation of NF-AT in lymphocytes is carefully regulated by adaptor proteins .
+We thank Dr. Gary Koretzky for providing us with the pEF , pEF-SLP-76 , and NF-AT Luc expression vectors and the C305 anti-TCR mAb .
+We also thank G. Lynn Law for access to the luminometer , and Drs .
+Nancy Boerth , Jennifer Westendorf , and Michelle Tallquist for suggestions on reporter gene assays .
+1251 Law et al .
+This work was supported by National Institutes of Health grants GM42508 , GM37905 , and DEOO859 , and by fellowships from the Cancer Research Fund of the Damon R unyon- Walter Winchell Foundation ( P.M. Chaudhary ) and the Medical R esearch Council of Canada ( A.J .
+Marshall ) .
+Address correspondence to Edward A. Clark , Department of Microbiology , Box 357242 , University of Washington , Seattle , WA 98195 .
+Phone : 206-543-8706 ; Fax : 206-685-0305 ; E-mail : eclark @ bart.rprc .
+washington.edu C.-L. Law 's present address is Xeyte Therapies Inc. , 2203 Airport Way South , Suite 300 , Seattle , W A 98134 .
+Received for publication 27 Odober 1998 and in revised form 18 February 1999 .
+References 1 .
+10 .
+11 .
+Park , D.J .
+, H.W .
+R ho , and S $ .G .
+Rhee .
+1991 .
+CD3 stimulation causes phosphorylation of phospholipase C-gamma 1 on serine and tyrosine residues in a human T-cell line .
+Pre Natl .
+Acad .
+Sa .
+USA .
+88:5453-5456. .
+Secrist , J.P. , L. Karnitz , and R .T .
+Abraham .
+1991 .
+T-cell an tigen receptor ligation induces tyrosine phosphorylation of phospholipase C-gamma 1 .
+J Biol Chen .
+266:12135-12139. .
+Weiss , A. , G. Koretzky , R.C .
+Schatzman , and T. Kadlecek .
+1991 .
+Functional activation of the T-cell antigen receptor induces tyrosine phosphorylation of phospholipase C-gamma 1 .
+Proc Natl .
+Aad .
+Sa .
+USA .
+88:5484-5488. .
+Fukazawa , T. , K.A .
+Reedquist , G. Panchamoorthy , S. Sol toff , T. Trub , B. Druker , L. Cantley , S.E .
+Shoelson , and H. Band .
+1995 .
+T cell activation-dependent association between the p85 subunit of the phosphatidylinosito !
+l 3-kinase and Grb2/ phospholipase C-gamma binding phosphotyrosyl protein pp36/ 38 .
+J. Biol .
+Chem .
+270:20177-20182. .
+Motto , D.G .
+, SE .
+Ross , JK .
+Jackman , Q .
+Sun , AL .
+Olson , P.R .
+Findell , and G.A .
+Koretzky .
+1994 .
+In vivo association of Grb2 with pp116 , a substrate of the T cell antigen receptor-acti-vated protein tyrosine kinase .
+J Biol Chen .
+269:21608-21613. .
+Jackman , JK .
+, D.G .
+Motto , Q .
+Sun , M. Tanemoto , C.W .
+Turck , G.A .
+Peltz , G.A .
+Koretzky , and P.R .
+Findell .
+1995 .
+Molecular cloning of SLP-76 , a 76-kDa tyrosine phosphoprotein associated with Grb2 in T cells .
+J Biol .
+Chen .
+270 : 7029-7032. .
+Fukazawa , T. , K.A .
+Reedquist , T. Trub , S. Soltoff , G. Pan chamoorthy , B. Druker , L. Cantley , S.E .
+Shoelson , and H. Band .
+1995 .
+The SH3 domain-binding T cell tyrosyl phosphoprotein p120 .
+Demonstration of its identity with the c-cbl protooncogene product and in vivo complexes with Fyn , Grb2 , and phosphatidylinositol 3-kinase .
+J Biol Chen .
+270:19141-19150. .
+Margolis , B. , P. Hu , S. Katzav , W. Li , JM .
+Oliver , A. UIl- rich , A. Weiss , and J. Schlessinger .
+1992 .
+Tyrosine phosphorylation of vay proto-oncogene product containing SH2 domain and transcription factor motifs .
+Natwre .
+356:71-74. .
+Tuosto , L. , F. Michel , and O. Acuto .
+1996. p95vav associates with tyrosine-phosphorylated SLP-76 in antigen-stimulated T cells .
+J Exp .
+Med .
+184:1161-1166 .
+Gilliland , LK .
+, G.L .
+Schieven , N.A .
+Norris , S.B .
+Kanner , A. Aruffo , and J.A .
+Ledbetter .
+1992 .
+Lymphocyte lineage-restricted tyrosine-phosphorylated proteins that bind PLC gamma 1 SH2 domains .
+J Biol Chen .
+267:13610-13616 .
+Buday , L. , SE .
+Egan , V.-P. Rodriguez , D.A .
+Cantrell , and J .
+Downward .
+1994 .
+A complex of Grb2 adaptor protein , Sos exchange factor , and a 36-kDa membrane-bound tyrosine 1252 12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23. phosphoprotein is implicated in ras activation in T cells .
+J Biol .
+Chem .
+269:9019-9023 .
+Sich , M. , A. Batzer , J. Schlessinger , and A. Weiss 1994 .
+GR B2 and phospholipase C-gamma 1 associate with a 36- to 38-kilodalton phosphotyrosine protein after T-cell receptor stimulation .
+Mol .
+Cell .
+Biol .
+14:4435-4442 .
+Zhang , W. , L.-J .
+Sloan , J .
+Kitchen , RP .
+Trible , and LE .
+Samelson .
+1998 .
+LAT : the ZAP-70 tyrosine kinase substrate that links T cell receptor to cellular activation .
+Cell .
+92:83-92 .
+Weber , JR. , S. Orstavik , K.M .
+Torgersen , N.C. Danbolt , SF .
+Berg , JC .
+Ryan , K. Taskén , J.B. Imboden , and JT .
+Vaage .
+1998 .
+Molecular cloning of the cDNA encoding pp36 , a tyrosine-phosphorylated adaptor protein selectively expressed by T cells and natural killer cells .
+J Exp .
+Med 187 : 1157-1161 .
+Weiss , A. , and D.R .
+Littman .
+1994 .
+Signal transduction by lymphocyte antigen receptors .
+Cell .
+76:263-274 .
+Chan , A.C. , and A.S. Shaw .
+1996 .
+Regulation of antigen receptor signal transduction by protein tyrosine kinases .
+Cur : Opin .
+Immunol .
+8:394-401 .
+Wange , RL .
+, and LE .
+Samelson .
+1996 .
+Complex com-plexes : signaling at the TCR .
+Immunity .
+5:197-205 .
+Wu , J. , D.G .
+Motto , G.A .
+Koretzky , and A. Weiss 1996 .
+Vav and SLP-76 interact and functionally cooperate in IL-2 gene activation .
+Immunity .
+4:593-602 .
+Raab , M. , A.J .
+da Silva , P.R .
+Findell , and C.E .
+Rudd .
+1997 .
+R egulation of Vav-SLP-76 binding by ZAP-70 and its relevance to TCR zeta/ CD3 induction of interleukin-2 .
+Immunity .
+6:155-164 .
+Fang , N. , D.G .
+Motto , SE .
+Ross , and G.A .
+Koretzky .
+1996 .
+Tyrosines 113 , 128 , and 145 of SLP-76 are required for optimal augmentation of NFAT promoter activity .
+J Immunol .
+157:3769-3773 .
+Motto , D.G .
+, SE .
+Ross , J. Wu , T.-LR .
+Hendricks , and G.A .
+Koretzky .
+1996 .
+Implication of the GR B2-associated phosphoprotein SLP-76 in T cell receptor-mediated interleukin 2 production .
+J Exp .
+Med 183:1937-1943 .
+Clements , JL .
+, B. Yang , S.E .
+Ross- Barta , S.L .
+Eliason , R.F .
+Hrstka , R.A. Williamson , and G.A .
+Koretzky .
+1998 .
+Requirement for the leukocyte- specific adapter SLP-76 for normal T cell development .
+Sdere .
+281:416-419 .
+Pivniouk , V. , E. Tsitsikov , P. Swinton , G. Rathbun , FW .
+Alt , and R.S .
+Geha .
+1998 .
+Impaired viability and profound block in thymocyte development in mice lacking the adaptor protein SLP-76 .
+Cell .
+94:229-238. .
+Koretzky , G.A .
+1997 .
+The role of Grb2-associated proteins in T-cell activation .
+Immunol .
+Today .
+18:401-406 .
+Novel Adaptor Molecule That Regulates NF-AT Activation 25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+Osman , N. , S.C. Lucas , H. Turner , and D. Cantrell .
+1995 .
+A comparison of the interaction of Shc and the tyrosine kinase ZAP-70 with the T cell antigen receptor zeta chain tyrosine-based activation motif .
+J Biol Chen .
+270:13981-13986 .
+Vojtek , A.B .
+, and J.C. Der .
+1998 .
+Increasing complexity of the R as signaling pathway .
+J Biol .
+Chen .
+273:19925-19928 .
+Reif , K. , L. Buday , J .
+Downward , and D.A .
+Cantrell .
+1994 .
+SH3 domains of the adapter molecule Grb2 complex with two proteins in T cells : the guanine nucleotide exchange protein Sos and a 75-kDa protein that is a substrate for T cell antigen receptor-activated tyrosine kinases .
+J Biol .
+Chen .
+269:14081-14087 .
+Meisner , H. , BR .
+Conway , D. Hartley , and M.P .
+Czech .
+1995 .
+Interactions of Cbl with Grb2 and phosphatidylinositol 3'-kinase in activated Jurkat cells Mol .
+Coll .
+Biol .
+15:3571-3578 .
+Donovan , J.A .
+, Y. Ota , W.Y .
+Langdon , and LE .
+Samelson .
+1996 .
+R egulation of the association of p120cbl with Grb2 in Jurkat T cells .
+X Biol Chem .
+271:26369-26374 .
+Wardenburg , J.B. , C. Fu , JK .
+Jackman , H. Flotow , S.E .
+Wilkinson , D.H. Williams , R. Johnson , G. Kong , A.C. Chan , and P.R .
+Findell .
+1996 .
+Phosphorylation of SLP-76 by the ZAP-70 protein-tyrosine kinase is required for T-cell receptor function .
+J Biol Chen .
+271:19641-19644 .
+Buday , L. , A. Khwaja , S. Sipeki , A. Farago , and J .
+Downward .
+1996 .
+Interactions of Cbl with two adapter proteins , Grb2 and Crk , upon T cell activation .
+J Biol Chen .
+271:6159-6163 .
+Reedquist , K.A .
+, T. Fukazawa , G. Panchamoorthy , W.Y .
+Langdon , S.E .
+Shoelson , B.J .
+Druker , and H. Band .
+1996 .
+Stimulation through the T cell receptor induces Cbl association with Crk proteins and the guanine nucleotide exchange protein C3G .
+J Biol .
+Chem .
+271:8435-8442 .
+Feng , G.S .
+, Y.B .
+Ouyang , D.P .
+Hu , Z.Q .
+Shi , R. Gentz , and J. Ni .
+1996 .
+Grap is a novel SH3-SH2-SH3 adaptor protein that couples tyrosine kinases to the Ras pathway .
+J Biol Chem .
+271:12129-12132 .
+Trub , T. , J.D .
+Frantz , M. Miyazaki , H. Band , and SE .
+Shoelson .
+1997 .
+The role of a lymphoid-restricted , Grb2-like SH3-SH2-SH3 protein in T cell receptor signaling .
+J Biol Chem .
+272:894-902 .
+Leprince , C. , KE .
+Draves , J .
+A. Ledbetter , R.M .
+Torres , and E.A .
+Clark .
+1992 .
+Characterization of molecular components associated with surface immunoglobulin M in human B lym-phocytes : presence of tyrosine and serine/threonine protein kinases .
+Eur .
+J. Immunol .
+22:2093-2099 .
+Mayer , B.J .
+, and M.J. Eck .
+1995 .
+SH3 domains .
+Minding your p 's and q 's .
+Cur : Biol .
+5:364-367 .
+Kuriyan , J. , and D. Cowburn .
+1997 .
+Modular peptide recognition domains in eukaryotic signaling .
+Annu .
+Rev .
+Biophys .
+Biomol .
+Stud .
+26:259-298 .
+Lowenstein , E.J .
+, R .J .
+Daly , A.G. Batzer , W. Li , B. Margolis , R. Lammers , A. Ullrich , EY .
+Skolnik , S.-D. Bar , and J. Schlessinger .
+1992 .
+The SH2 and SH3 domain-containing protein GR B2 links receptor tyrosine kinases to ras signaling .
+Cell .
+70:431-442 .
+Musci , M.A .
+, D.G .
+Motto , SE .
+Ross , N. Fang , and G.A .
+Koretzky .
+1997 .
+Three domains of SLP-76 are required for its optimal function in a T cell line .
+J Immunol .
+159:1639-1647. da Silva , A.J .
+, Z. Li , C. de Vera , E. Canto , P. Findell , and C.E .
+Rudd .
+1997 .
+Cloning of a novel T-cell protein FYB that binds FYN and SH2-domain-containing leukocyte protein 76 and modulates interleukin 2 production .
+Proc Nal Aad .
+Sa .
+USA .
+94:7493-1498 .
+Musci , M.A .
+, T.-LR .
+Hendricks , D.G .
+Motto , M. Paskind , J. Kamens , C.W .
+Turck , and G.A .
+Koretzky .
+1997 .
+Molecu- 1253 Law et al .
+42 .
+43 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+57. lar cloning of SLAP-130 , an SLP-76-associated substrate of the T cell antigen receptor-stimulated protein tyrosine kinases .
+J Biol .
+Chem .
+272:11674-11677 .
+Fra , A.M. , E. Williamson , K. Simons , and R.G .
+Parton .
+1995 .
+De novo formation of caveolae in lymphocytes by expression of VIP21-caveolin .
+Proc Natl .
+Aad .
+Sd .
+USA .
+92 ; 8655-8659 .
+Brown , D.A .
+, and E. London .
+1997 .
+Structure of detergent-resistant membrane domains : does phase separation occur in biological membranes ?
+Biodean .
+Bigphys .
+Res .
+Commun .
+240:1-7. .
+Simons , K. , and E. Ikonen .
+1997 .
+Functional rafts in cell membranes .
+Nature .
+387:569-572 .
+Zhang , W. , R.P .
+Trible , and LE .
+Samelson .
+1998 .
+LAT palmitoylation : its essential role in membrane microdomain targeting and tyrosine phosphorylation during T cell activation .
+Immunity .
+9:239-246 .
+Xavier , R. , T. Brennan , Q. Li , C. McCormack , and B .
+Seed .
+1998 .
+Membrane compartmentation is required for efficient T cell activation .
+Immunity .
+8:723-732 .
+Xiao , S. , D.W. Rose , T. Sasaoka , H. Maegawa , TR .
+Burke , J. , P.P .
+Roller , SE .
+Shoelson , and J.M .
+Oleféky .
+1994 .
+Syp ( SH-PTP ? )
+is a positive mediator of growth factor-stimulated mitogenic signal transduction .
+J Biol Chen .
+269:21244-21248 .
+Zhao , Z. , Z. Tan , JH .
+Wright , C.D .
+Diltz , S.H .
+Shen , E.G .
+Krebs , and EH .
+Fischer .
+1995 .
+Altered expression of protein-tyrosine phosphatase 2C in 293 cells affects protein tyrosine phosphorylation and mitogen-activated protein kinase activation .
+J Biol .
+Chem .
+270:11765-11769 .
+Marengere , LE .
+, P. Waterhouse , G.S .
+Duncan , H.W .
+Mittrucker , G.S .
+Feng , and TW .
+Mak .
+1996 .
+Regulation of T cell receptor signaling by tyrosine phosphatase SYP association with CTLA-4 .
+Sdene .
+272:1170-1173 .
+Frearson , J.A .
+, and D.R .
+Alexander .
+1998 .
+The phosphotyrosine phosphatase SHP-2 participates in a multimeric signaling complex and regulates T cell receptor ( TCR ) coupling to the R as mitogen-activated protein kinase ( MAPK ) pathway in Jurkat T cells .
+J Exp .
+Med 187:1417-1426 .
+Crespo , P. , KE .
+Schuebel , A.A. Ostrom , J.S .
+Gutkind , and X.R .
+Bustelo .
+1997 .
+Phosphotyrosine-dependent activation of Rac-1 GDP/GTP exchange by the vav proto-oncogene product .
+Nature .
+385:169-172 .
+Reif , K. , and D.A .
+Cantrell .
+1998 .
+Networking R ho family GTPases in lymphocytes .
+Immunity .
+8:395-401 .
+Wardenburg , J.B. , R. Pappu , J.-Y .
+Bu , B. Mayer , J. Cher-noff , D. Straus , and A.C. Chan .
+1998 .
+Regulation of PAK activation and the T cell cytoskeleton by the linker protein SLP-76 .
+Immunity .
+9:607-616 .
+Bourette , RP .
+, S. Arnaud , G. M. Myles , J.-P. Blanchet , LR .
+Rohrschneider , and G. Mouchiroud .
+1998 .
+Mona , a novel hematopoietic-specific adaptor interacting with the macrophage colony-stimulating factor receptor , is implicated in monocyte/ macrophage development .
+EMBO ( Eur Mol .
+Biol .
+Organ . )
+J .
+17:7273-17281 .
+Liu , SK .
+, and C.J .
+McGlade .
+1998 .
+Gads is a novel SH2 and SH3 domain-containing adaptor protein that binds to tyrosine-phosphorylated Shc .
+Oncogene .
+17:3073-3082 .
+Liu , SK .
+, N. Fang , G.A .
+Koretzky , and C.J .
+McGlade .
+1999 .
+The hematopoietic-specific adaptor protein Gads functions in T-cell signaling via interactions with the SLP-76 and LAT adaptors .
+Cur : Biol .
+9:67-75 .
+Fu , C. , C.W .
+Turck , T. Kurosaki , and A.C. Chan .
+1998 .
+BLNK : a central linker protein in B cell activation .
+Immunity .
+9:93-103 .

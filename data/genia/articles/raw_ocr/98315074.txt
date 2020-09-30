@@ -1,0 +1,641 @@
+Antigen receptor signaling induces MAP kinase-mediated phosphorylation and degradation of the BCL-6 transcription factor Huifeng Niu , Bihui H. Ye , and Riccardo Dalla-Favera ' Departments of Pathology and Genetics and Development , Columbia University , New York , New York 10032 USA The bel-6 proto-oncogene encodes a POZ/zinc finger transcriptional repressor expressed in germinal center ( GC ) B and T cells and required for GC formation and antibody affinity maturation .
+Deregulation of bel-6 expression by chromosomal rearrangements and point mutations of the bei-6 promoter region are implicated in the pathogenesis of B-cell lymphoma .
+The signals regulating bc/-6 expression are not known .
+Here we show that antigen receptor activation leads to BCL-6 phosphorylation by mitogen-activated protein kinase ( MAPK ) .
+Phosphorylation , in turn , targets BCL-6 for rapid degradation by the ubiquitin/proteasome pathway .
+These findings indicate that BCL-6 expression is directly controlled by the antigen receptor via MAPK activation .
+This signaling pathway may be crucial for the control of B-cell differentiation and antibody response and has im plications for the regulation of other POZ/zinc finger transcription factors in other tissues .
+[ Key Words : BCL-6 ; BCR signaling ; MAP kinase ; POZ/zinc finger proteins ; ubiquitin-proteasom e ] Received March 12 , 1998 ; revised version accepted May 4 , 1998 .
+The bel-6 proto-oncogene was identified by virtue of its involvement in chromosomal translocations in diffuse large cell lymphoma ( DLCL ) , the most common form of non-Hodgkin 's lymphoma ( NHL ) ( Baron et al .
+1993 ; Kerckaert et al .
+1993 ; Ye et al .
+1993 ; Miki et al .
+1994 ) .
+Subsequent studies have demonstrated that rearrangements of the bel-6 gene can be found in 30 % -40 % of DLCL and in a minority ( 5 % -10 % ) of follicular lymphoma ( FL ) ( Bastard et al .
+1994 ; LoCoco et al .
+1994 ; Otsuki et al .
+1995 ) .
+These rearrangements juxtapose heterologous promoters , derived from other chromosomes , to the bel-6 coding domain , causing its deregulated expression by a mechanism called promoter substitution ( Ye et al .
+1995 ; Chen et al .
+1998 ) .
+The 5 ' noncoding region of the bel-6 gene can also be altered by somatic point mutations that are detectable , independent of re-arrangements , in ~70 % DLCL , 45 % FL , and AIDS-asso-ciated NHL ( Migliazza et al .
+1995 ; Gaidano et al .
+1997 ) .
+Taken together , rearrangements and mutations of the bel-6 promoter region represent the most frequent genetic alteration in human B-cell malignancies , suggesting they may be important for tumorigenesis ( Dalla-Fa-vera et al .
+1996 ) .
+The BCL-6 protein is a nuclear phosphoprotein belonging to the POZ/zinc finger ( ZF ) family of transcription factors ( Kerckaert et al .
+1993 ; Ye et al .
+1993 ; Miki et al .
+*Corresponding author .
+E-MAIL RD10 @ columbia.edu ; FAX ( 212 ) 305-5498 .
+1994 ) .
+It contains six Kmippel-type carboxy-terminal zinc finger ( ZF ) motifs that have been shown to recognize specific DN A sequences in vitro ( Chang et al .
+1996 ; Seyfert et al .
+1996 ) and an amino-terminal POZ motif ( Al-bagli et al .
+1995 ) shared by various ZF molecules including the Drosophila developmental regulators Tram track and Broad-com plex ( Harrison and Travers 1990 ; DiBello et al .
+1991 ) , the human KUP ( Chardin et al .
+1991 ) , ZID ( Bardwell and Treisman 1994 ) , and PLZF ( Chen et al .
+1993 ) proteins as well as by POX viruses ( Koonin et al .
+1992 ) and the actin-binding Drosophila oocyte protein Keich ( Xue and Cooley 1993 ) .
+BCL-6 functions as a potent transcriptional repressor by binding to its DN A target sequence ( Deweindt et al .
+1995 ; Chang et al .
+1996 ; Seyfert et al .
+1996 ) .
+BCL-6 is an important regulator of lymphoid development and function .
+In the B-cell lineage , the BCL-6 protein is found only in B cells within germinal centers ( GC ) , but not in pre-B cells or in differentiated progeny such as plasm a cells .
+In the T-cell lineage , BCL-6 protein is detectable in cortical thymocytes and in CD4* T cells within GC as well as scattered in the perifollicular area ( Cattoretti et al .
+1995 ; Onizuka et al .
+1995 ; Allman et al .
+1996 ) .
+Mice deficient in BCL-6 display normal B-cell , T-cell , and lymphoid organ development but have a selective defect in T-cell-dependent antibody responses because of the inability of follicular B cells to proliferate and form GC ( Dent et al .
+1997 ; Ye et al .
+1997 ) .
+In addition , BCL-6-deficient mice develop an inflammatory re GENES & DEVELOPMENT 12:1953-1961 © 1998 by Cold Spring Harbor Laboratory Press ISSN 0890-9369/98 $ 5.00 ; www.genesdev.org 1953 Niu et al .
+sponse in multiple organs characterized by infiltration of eosinophils and IgE-bearing B lymphocytes typical of a Th2-mediated inflammatory response .
+These pheno-types may be explained by the ability of BCL-6 to bind the STAT-6 DNA-binding site and repress transcription activated by STAT-6 , the main nuclear effector of IL-4 signaling ( Dent et al .
+1997 ; Ye et al .
+1997 ) .
+The expression and requirement of BCL-6 during GC formation and its alteration in GC-derived lymphoma suggest that BCL-6 may be a key regulator of GC development and antibody-mediated immune response .
+Toward the elucidation of the signals that regulate GC expression , we report here the identification of a signaling pathway by which B-cell antigen receptor directly regulates BCL-6 stability .
+Results Recent studies have shown that the BCL-6 protein is phosphorylated at multiple sites by mitogen-activated protein kinases ( MAPKs ) , ERK-1 and ERK-2 , but not by Jun amino-terminal kinase ( JNK ) in vitro and in vivo ( Moriyama et al .
+1997 ) .
+The results shown in Figure 1 confirm that purified recombinant MAPK ( ERK-2 ) can phosphorylate GST-BCL-6 fusion proteins in vitro .
+The phosphorylation targets were mapped to the amino-terminal half of the molecule since a carboxy-terminal deletion mutant ( GST -BCL-6AZF ) could be phosphorylated at levels comparable to the wild-type molecule , whereas an amino-terminal deletion mutant ( GST-BCL-6ZF ) could not be phosphorylated at all ( Fig .
+1B ) Because BCL-6 contains two perfect consensus sites ( PXSP ) for MAPK-mediated phosphorylation ( see Fig .
+1A ) , we generated two mutants ( BCL-6a1,533 and BCL-6a12333,343 ) iN which one or both of these sites were altered by substituting serines with alanines .
+These two mutants were phosphorylated at much lower levels than wild-type BCL-6 , with BCL-6a1,533,343 displaying the lowest levels ( Fig .
+1C ) .
+This result indicates that the Sers ; , and Serg,4 ; residues represent a significant fraction , although not all , of the BCL-6 phosphorylation target sites .
+The residual low level of phosphorylation is consistent with the existence of additional potential MAPK target sequences ( SP ) clustered within the central domain of the BCL-6 molecule .
+MA PK-m ediated phosphorylation induces BCL-6 degradation To determine the effects of MAPK-mediated phosphorylation on be/-6 expression and function , 293T cells ( which do not express endogenous BCL-6 ) were cotransfected with vectors expressing BCL-6 , and a MEK ( MAP/ ERK kinase ) mutant ( MEK-2E ) that functions as a constitutively active MAPK kinase ( Yan and Templeton 1994 ) .
+Western blot analysis of transfected cell extracts showed that MEK-2E expression ( documented by increased ERK2 kinase activity of MEK-2E transfected cell extracts in solid-phase kinase assays in vitro ; Fig .
+2A , bottom ) induced a dramatic reduction of BCL-6 , but not ERK , levels ( Fig .
+2A , top and middle ) .
+The observed reduction in BCL-6 protein levels was dependent upon the phosphorylation activity of MEK-2E , since it did not occur when a vector expressing inactive MEK was cotransfected with bel-6 ( Fig .
+2B ) .
+Northern blot analysis of the same transfected cells showed that the reduction in BCL-6 protein levels were not caused by decreased bel-6 m RN A levels ( Fig .
+2B , bottom ) .
+Furthermore , the MEK-2E-induced decrease in BCL-6 levels was dependent on target phosphorylation , as the partial phosphorylation-resistant mutant BCL-6a ; , ; 33,343 Was partially resistant to MEK-2E-mediated down-regulation ( Fig .
+2C ) .
+These results indicate that the MEK-2E-induced decrease in BCL-6 levels is not caused by decreased gene transcription or protein synthesis , but rather by decreased protein stability .
+A ser 1 121 239 33 '' 706 stBe -= -- pIIIIIZIZA compotion 1 GsT-EcLs h oe ngs - re GST-BCLEAF -~ 1 POZ steez __ _s frm , Figure 1 .
+Phosphorylation of BCL-6 by 5 ERK2 in vitro : ( 4 ) Schematic representa- 8 C E tion of wild-type and mutant GST-BCL-6 E = E fusion proteins .
+( * ) Serines within MAPK é E-phosphorylation sites ( PXSP ) ( ZF ) Zinc ; E $ 7.4 > -finger domain .
+( B ) ERK2 kinase assays us- C sa un- .- < - GST-BCLEAZF ing GST-BCL-6 wild-type and deletion b ** .
+_ .
+« £ GST-ECLE mutants as substrates in the presence of 37.4 ( i .
+< €EGSTECLGNZF ( C ) ( Top ) ERK2 kinase assay ia M a wa io for wild-type ( WT ) or mutant ( Ala333 ; smp Ala333,343 ) GST-BCL6AZEF proteins .
+( Bottom ) Coomassie blue staining of the gel shown at fop demonstrating comparable amounts of proteins loaded .
+Molecular mass markers are shown at leff .
+1954 GENES & DEVELOPMENT « C- GST-BCLEAZF Regulation of BCL-6 by antigen receptor signaling C MEK-2€ < 0 400440 ~ 0 4 o ++ Bl fam : 34s - ~ no ¥ 0 +00 + # A. MEK-3E -~ 0 + + # 00 ko 4 ~ o > » BCL-6 + - + i mae ] SCL-6 100 % SU % 4 u chat Aah auth < - C52 Bo 30 40 506 f D `` ems : > 3 homes : 4 $ # E 3 Zl—E— B E MEX mo e ee n t 44 +44 € MEX-BE > 0-0 40 4+ # 44 - > BCL4 mo todo $ o ogo 4 4 KB -- Wout - met ( BB -BCL-G Protsin BeES-TK-Luc t t t t t + to & # t 4 % & + + BCL4 604 $ $ # ® op & ) o > k > > > > 0 Ea ; bray n n n n t t t t ton t t f E-BCLS mANA CLL CEP 20 __ e 10 20 % 0 40 5006007 MEK r -- e Figure 2 .
+BCL-6 protein degradation induced by overexpression of MEK-2E in 293T cells .
+( 4 ) Western blot analysis of 293T cells transfected with 5 ug of BCL-6 ( lanes 1,3 ) and 5 ug of MEK-2E ( lanes 2,3 ) using anti-BCL-6 ( N-70-6 ; top ) or anti-ERK2 ( C-14 ; middle ) antibodies .
+( Bottom ) The results of solid-phase ERK2 kinase assay performed on cell extract from the same transfectants used in the top .
+( B ) Western blot ( fop ) and Northern blot ( bottom ) analysis of BCL-6 in 293T cells transfected with pMT2T-BCL-6 ( BCL-6 ) ( 5 ug ) ( lanes 1-7 ) and various amounts of MEK-2E-CMV ( MEK-2E ) ( lanes 2-4 ) or MEK-CMV ( MEK ) ( 5 , 10 , or 15 ug ) ( lanes 5-7 ) as indicated .
+( C ) Western blot analysis of 293T cell extracts transfected with wild-type BCL-6 ( lanes 1-3 ) or BCL-6a1,533,343 ( lanes 4-6 ) in the absence ( lanes 1,4 ) or presence ( lanes 2,3,5,6 ) of cotransfected MEK-2E .
+( Bottom ) The results of densitometric scanning of the autoradiography ; analogous results were obtained in three independent experiments .
+( D ) Analysis of BCL-6 transrepression activity in the presence of active MEK .
+293T cells were transfected with 2.0 pmole of B6BS-TK-Luc , 0.04 pmole of pMT2T-BCL-6 ( lanes 2-8 ) or pMT2T-BCL- ( Lanes 11-14 ) and increasing amounts ( 0.1 , 0.2 , 0.4 , 0.4 pmole ) of MEK-2E ( lanes 3-5,9,12-14 ) or MEK ( lanes 6-8,10 ) as indicated .
+Cells were harvested 48 hr after transfection and luciferase activities were measured by a luminometer .
+Consistent with the MEK-2E-induced reduction in BCL-6 levels , a transient cotransfection assay in 293T cells showed that MEK-2E , but not MEK , could eliminate the transcriptional transrepressor activity of wild-type BCL-6 ( Fig .
+2D , lanes 3-5 ) on a reporter vector expressing the luciferase gene downstream to the BCL-6 DNA-binding site ( B6BS ) ( Chang et al .
+1996 ) ; the partial phosphorylation-resistant mutant BCL-6a1,333,343 WAS partially resistant to MEK-2E ( Fig .
+2D , lanes 12-14 ) .
+Overall , these results indicate that MAPK activation leads to functional inactivation of BCL-6 by causing its accelerated degradation .
+BCL-6 degradation is mediated by ubiquitin/ proteasome pathw ay In examining the possible mechanisms for MAPK-mediated degradation of BCL-6 , we noted that the cluster of MAPK putative phosphorylation sites are em bedded in a region enriched in proline , glutamine , and serine , within which we identified three typical PEST sequences that score 9.4 , 5.0 , and 2.6 , respectively ( Fig .
+3A ; any score above zero denotes a possible PEST region ; scores greater than five indicate the strongest candidates ) .
+These motifs have been demonstrated to represent targets for regulated protein degradation ( Rogers et al .
+1986 ; Rechsteiner and Rogers 1996 ) .
+To determine whether MAPK-mediated BCL-6 degradation targeted these PEST sequences , we constructed vectors expressing two epitope HA-tagged bel-6 deletion mutants ( see Fig .
+3A ) and cotransfected them with the MEK-2E vector into 293T cells .
+Western blot analysis using anti-HA antibodies ( Fig .
+3B ) showed that MEK-2E-mediated degradation targeted the amino-terminal half of the molecule and it was completely abolished in the BCL-6A @ 300-417 ) internal deletion mutant that lacks a small portion of the BCL-6 pro GENES & DEVELOPMENT 1955 Niu et al .
+A. HA-BCL-6 1 HA HA-BCLGZF 418 Figure 3 .
+BCL-6 contains PEST sequences 121 -- KFZZZZZZZZ ] POZ 335i ' 3-1-E ' 336 $ 5 406 ic lar PEST PEST PEST 6e1 706 -- that are required for phosphorylation-in-duced degradation .
+( A ) Schematic representation of HA-tagged BCL-6 proteins .
+PEST sequences were identified by the PEST-FIND program .
+PESTI : AA336-AA351 IZIIIIZI Pox HA-BCL-64 ( 300-417 ) 121 ( KSDCQPNSPTESCSSK ) , score 9.4 ; PEST2 : AA365-AA371 ( KSPTDPK ) , score 5.0 ; PEST3 : AA406-AA430 ( RAYTAPPAC-QPPMEPENLDLQSPTK ) , score 2.6 .
+( B ) 293T cells were transfected with 5 ug of pMT2T vectors expressing HA-BCL-6 ( lanes 1-3 ) , HA-BCL-6A ( 300-417 ) ( Lanes 4-6 ) , or HA-BCL-6ZF ( lanes 7-9 ) in the absence of MEK-2E ( lanes 1,4,7 ) or in the H & A presence of increasing amount ( 5 , 10 ug ) of 97 MEK-2E ( lanes 2,5,8,3,6,9 ) .
+Forty-eight hours after transfection , equal amounts of cell lysates were analyzed ( after normalization for transfection efficency based on B-galactosidase activity of cotransfected plas-mids ) by 8 % SDS-PAGE and Western blot using anti-HA ( 12CA5 ) antibodies .
+tein containing all three PEST sequences .
+These results indicate that MAPK-induced phosphorylation and degradation of BCL-6 target PEST sequences located in the same domain as the MAPK phosphorylation sites .
+The involvement of PEST sequences suggested that MAPK-induced BCL-6 degradation could be mediated by the ubiquitin/proteasome pathway ( Hochstrasser 1996 ) .
+Therefore , we tested whether MEK-2E mediated degradation of BCL-6 in transfected 293T cells could be inhibited by the proteasome inhibitor Cbz-LLL ( MG132 ) ( Kim and Maniatis 1996 ; Palom bella et al .
+1994 ; Rock et al .
+1994 ) .
+Figure 4A shows that BCL-6 degradation was completely inhibited by MG132 , but not by DMSO ( solvent control ) or calpain inhibitor II ( CI II ) , a cysteine-protease inhibitor ( Kim and Maniatis 1996 ; Palombella et al .
+1994 ) .
+Because the addition of multiple ubiquitins to the proteolysis substrate is a key step preceding target degradation by the proteasome , we then tested whether BCL-6/ubiquitin conjugates in vivo could be detected .
+To this end , 293T cells were transfected with vectors expressing BCL-6 , MEK-2E , and epitope ( His , ) -tagged ubiquitin in the presence or absence of MG132 .
+Cell lysates were subjected to imm with anti-BCL-6 antibodies , and the im munoprecipitates were analyzed by Western blotting using anti-ubiquitin antibodies .
+Figure 4B shows that in the absence of MG132 , low levels of BCL-6/ubiquitin were detectable when BCL-6 1956 GENES & DEVELOPMENT MEK-2E 1 POZ L & + ++ < HA-BCL-6 € HA-BCL-6A ( 300-17 ) CDAD and ubiquitin were coexpressed with exogenous MEK-2E ( lane 4 ) ; in the presence of MG132 , typical ladders representing multi-ubiquitinated forms of BCL-6 were detectable at high levels in the presence of MEK-2E ( lane 8 ) ; low levels were detectable also in its absence ( lane 7 ) , suggesting that the normal turnover of BCL-6 degradation may be mediated by basal levels of endogenous MAPK activity .
+Based on the specific pharmacological inhibition and the detection of MEK-2E-inducible BCL-6/ubiquitin conjugates , we conclude that MAPK-induced phosphorylation induces degradation of BCL-6 via the ubiquitin/proteasome pathway .
+MA PK-m ediated phosphorylation and degradation of BCL-6 is induced by antigen-receptor signaling in B cells To demonstrate the physiological significance of MAPK-mediated phosphorylation/degradation of BCL-6 in B cells , we treated a B-cell lymphoma cell line ( Ramos ) with anti-IgM antibodies , a treatment that mimics B-cell antigen-receptor signaling and specifically activates MAPK ( ERK2 ) ( Gold et al .
+1992 ; Sakata et al .
+1995 ; Sutherland et al .
+1996 ) .
+As previously demonstrated , an in vitro assay showed that ERK2 kinase activity was rapidly increased 5 min after anti-IgM treatment ( Fig .
+5A ) this was followed by hyperphosphorylation of ERK2 and DMSQ CI II MG1IS2 MEK-BE | > - # 40 - # 40 - 40+ ( xD ) 97.4 ~ Wing - < - - BCL-G 43 -mg- ~- Sher * 10 2 B 4 50 6 T & A 9 B MGTS2 mo 8 8 so o 040 4 4 MEK-2E ae + Hisg-Ub moe $ e # + 0 4 0 # 04 BCL-6 & 00.0 40 4 O4 +0 + w- ——- , we `` ~- vag kD ] ] HCLé-Ub Ba Figure 4 .
+MAPK-induced BCL-6 degradation is mediated by the ubiquitin/proteasome pathway .
+( 4 ) Western blot analysis of BCL-6 proteins in 293T cells transfected with BCL-6 in the absence or presence of cotransfected MEK-2E treated with 0.2 % DMSO ( anes 1-3 ) , 50 um Calpain inhibitor II ( Lanes 4-6 ) , or 50 uM MG132 ( lanes 7-9 ) ( added 8 hr after transfection ) .
+( B ) 293T cells were transfected with BCL-6 , His , -Ub , and MEK-2E in the absence ( lanes I-4 ) or presence of MG132 ( lanes 5-8 ) .
+Cell lysates were imm unoprecipitated with anti-BCL-6 antibodies ( N-70-6 ) and the immunoprecipitants were analyzed by 6 % SDS-PAGE followed by Western blot analysis using anti-ubiquitin antibodies .
+BCL-6 ( note the slow -migrating bands in Fig .
+5A ) and by the disappearance of BCL-6 , but not ERK2 .
+In the same experiment , Northern blot analysis showed that bel-6 mRN A levels did not change during anti-IgM treatment of Ram os cells ( Fig .
+5A , bottom ) .
+To determine whether hyperphosphorylation was associated with increased BCL-6 instability , we analyzed the half-life of BCL-6 in anti-IgM -treated Ram os cells by a `` pulse-chase '' labeling experiment .
+The results ( Fig .
+5B ) showed that the hyperphosphorylated ( slow-migrating ) forms of BCL-6 were significantly less stable than the hypophosphorylated ( fast-migrating ) forms ( half life 4-6 hr ) Anti-IgM-induced BCL-6 degradation was dependent on phosphorylation as it was inhibited by a specific MAPK inhibitor PDO098059 ( Fig .
+5C ) ( Dudley et al .
+1995 ; Pang et al .
+1995 ) , and was mediated by the ubiquitin/proteasome pathway since it was specifically inhibited by MG132 ( Fig .
+5D ) .
+Finally , anti-IgM treatment of Ramos cells stably transfected with cadmium inducible vectors expressing HA-tagged wild-type , 333/343 mutant , or amino-terminal Regulation of BCL-6 by antigen receptor signaling deleted BCL-6 proteins showed that degradation required phosphorylation of the 333 and 343 serines as well as the amino-terminal half of BCL-6 containing the PEST motifs ( Fig .
+5B ) .
+These results demonstrate that MAPK-mediated phosphorylation of BCL-6 and its degradation by the ubiquitin/proteasome pathway represent a physi-ologic pathway that can be activated by antigen-receptor signling in B cells .
+Discussion The present study identifies a signal transduction pathway by which the antigen receptor regulates the stability of the BCL-6 transcription factor in B cells .
+The results have im plications for the normal mechanism regulating GC formation as well as for the role of deregulated bel-6 expression in lymphomas deriving from GC B cells .
+In addition , several observations suggest that MAPK-mediated regulation of POZ/Zinc finger protein stability may represent a general , highly conserved regulatory mechanism in eukaryotic cells .
+Regulation of BCL-6 stability during GC form ation The finding that antigen-receptor-induced activation of MAPK leads to BCL-6 degradation must be seen in the context of the complex network of signals modulating receptor signaling in GC Bcells ( Tedder et al .
+1997 ; Cam-bier 1997 ) .
+During GC formation , activation of this pathway is consistent with the observation that pre-GC B cells in the follicular mantle zone , the site where B cells encounter the antigen , express bel/-6 RNA , but not the BCL-6 protein ( Allman et al .
+1996 ; Cattoretti et al .
+1995 ) .
+Within the GC , the coexistence of antigen and bel-6 expression implies that antigen-receptor signaling must be modulated by mechanisms that allow BCL-6 stability .
+These mechanisms may include down-regulation of antigen-receptor expression in centroblasts ( MacLennan 1994 ) , modulation of receptor signaling by CD22 or Fc y receptor ( Tedder et al .
+1997 ; Cam bier 1997 ) , and the activity of de-ubiquitinases ( DUB ) , which regulate substrate ubiquitination and are induced by cytokines acting on GC B cells ( Zhu et al .
+1996 ) .
+During post-GC differentiation , antigen-induced degradation may serve as a rapid mechanism to down-regulate be/-6 expression , in synergy with transcriptional down-regulation by CD40 signaling ( Allman et al .
+1996 ; Cattoretti et al .
+1997 ) .
+Finally , the regulation of BCL-6 stability during GC development is likely to be affected by various additional signals that activate MAPK in B cells , including various cytokines ( TNF , IL-6 , IL-2 ) ( Vietor et al .
+1993 ; Minami et al .
+1994 ; Fukada et al .
+1996 ) .
+The effect of these signals on the pathway linking the antigen receptor to BCL-6 can be tested in the experimental systems used in this study .
+Im plication for lym phom agenesis Most B-cell lymphoma types , FL , DLCL , and Burkitt ( BL ) lymphoma , are thought to derive from the GC B cells .
+Although rearrangements and/or mutations of the bel-6 GENES & DEVELOPMENT 1957 Niu et al .
+A C Anti-ight [ Time ) { ( 5 15 3 th Sh 4h & Tme - f 15° 30 2h 4h Sh DMSO Coo `` JBCL-6 tes wap ag sem woe de em em n em e mem - ] ENEL mee tam mam mes mes wall 20032059 D o C i138 % 1-H- MW < mor DMSO CII MG1Es ® treatment ( hr } Q 2 4 60 2 4 60 2 4 6 1 BR & 4 5060 Tog ( KD ) B7.4 `` Hag wer imen woe mee geat .
++- BCL-G las lak ta li tat te tat aas .
+5C oc mis 660 43 ( mo O emm iy , .
+Sem -- ao mm at mee mee a * 1 2 3 & 5 6 7 l 9 10 B 3 pg 2 E E Aundti-I git 4 < a car+ of wor Time - & h Oh 1h 2 4h 6h o af : th 2h 4h 6h F may e® mes == ss €-BA-BCL -S wwe O AE 31s o HD & ccu-szr ok - 1° 2 3 4 § 6 `` ' & ] BCl-6 Figure 5 .
+BCL-6 is phosphorylated and degraded by antigen-receptor signaling in B cells .
+Ramos cells ( 1 x 10°/m1 ) were treated with anti-IgM ( 10 ug/m1 ) and harvested at different time points after treatment as indicated .
+( 4 ) ( Top three panels ) Equal amounts of cell extracts were used for Western blot analysis using anti-BCL-6 ( top ) , or anti-ERK2 ( middle ) antibodies , and for solid-phase ERK2 kinase assays ( MBP , bottom ) .
+Equal amounts of RN As ( 10 ug ) were used for Northern blot analysis with BCL-6 or GAPDH probes ( bottom ) .
+( B ) Hyperphosphorylated BCL-6 proteins are more unstable .
+Ramos cells were pulse labeled for 1 hr with [ P°SJmethionine and RSJcysteine , and then treated with anti-IgM ( 10 ug/ml ) for 30 min and subsequently incubated in the presence of an excess of nonradioactive methionine and cysteine for the indicated times ( chase ) .
+Cell extracts were immunoprecipitated with anti-BCL-6 antibodies and analyzed by SDS-PAGE followed by autoradiography .
+( C ) Anti-IgM induced BCL-6 phosphorylation and degradation is prevented by a specific MEK inhibitor .
+Western blot analysis of BCL-6 in Ramos cells treated with anti-IgM in the presence of 0.2 % DMSO or 50 um PDO98059 ( added 30 min before anti-IgM treatment ) .
+( D ) Anti-IgM induced BCL-6 degradation is prevented by a specific proteasome inhibitor .
+Western blot analysis of BCL-6 in Ramos cells treated with anti-IgM in the presence of 0.2 % DMSO ( lanes 2-4 ) , 50 um Calpain inhibitor I ( lanes 5-7 ) , and 50 um MG132 ( lanes 8-70 ) ( added 1 hr before the treatment ) .
+( E ) Mutant BCL-6 proteins are resistant to anti-IgM-induced degradation .
+Ramos cells stably transfected with pHeBo-MT-HA-BCL6 , pHeBo-MT-HA-BCL-6a ; ,553,343 and pHeBo-MT-HA-BCL6ZF were treated with 1 um CdCl , for 6 hr to induce exogenous BCL-6 expression .
+Cells were then treated wth anti-IgM ( 10 ug/m1 ) and harvested at different time points as indicated .
+Equal amounts of cell extracts were loaded on 7 % ( HA-BCL-6 or HA-BCL-6a1,333,343 ) or 10 % SDS-PAGE ( HA-BCL-6ZF ) and the amount of exogenous BCL-6 proteins were analyzed by Western blot using anti-HA antibodies ( 12CA5 ) .
+regulatory region are found most frequently in DLCL and FL , all GC-derived lymphomas , including those carrying a structurally normal bei-6 gene , express the BCL-6 protein ( Cattoretti et al .
+1995 ) .
+This implies that the BCL-6 protein is stable in tumor cells and suggests that MAPK-mediated degradation may be blocked by genetic or epi-genetic alterations affecting the pathway leading to BCL-6 degradation .
+The observation that BCL-6 degradation can be triggered from the cell surface by activation of the antigen receptor has potential relevance for the therapy of B-cell lymphoma .
+1958 GENES & DEVELOPMENT MA PK-m ediated regulation of POZ/zinc finger transcription factors MAPK is a ubiquitous , evolutionarily conserved signal transducer that is activated by heterogeneous signals that originate from the cell membrane and are trans-duced to MAPK via RAS proteins ( Gold and Matsuuchi 1995 ; Alberola-lla et al .
+1997 ) .
+Accordingly , POZ/zinc finger proteins represent a large family of highly conserved transcription factors including Drosophila cell fate regulators such as Tram track and Broad-com plex , as well as human cancer-associated proteins such as BCL-6 and PLZF .
+These molecules have strong structural ( POZ and ZF domains ) , as well as functional homologies being transcriptional repressors that control cell differentiation ( Chen et al .
+1994 ; Emery et al .
+1994 ; Albagli et al .
+1995 ) .
+Most notably , POZ finger proteins also carry possible MAPK phosphorylation sites and PEST sequences in approximately the same position as those carried by BCL-6 ( H. Niu et al. , unpubl . ) .
+In Drosophila , degradation of TTK88 , a POZ/zinc finger inhibitor of neural-cell differentiation , has been shown to be mediated by MAPK ( Li et al .
+1997 ; Tang et al .
+1997 ) .
+Thus , degradation of POZ/zinc finger transcription factors may represent a general mechanism by which the RAS/ MAPK pathway controls cell function and differentiation .
+Materials and methods Reagents and plasm ids Goat anti-human IgM ( u-heavy chain specific ) was obtained from Southern Biotechnology .
+Polyclonal anti-BCL-6 ( N-70-6 ) antiserum was produced by using the amino-terminal peptides of BCL-6 ( Cattoretti et al .
+1995 ) .
+Monoclonal mouse anti-ERK2 ( C-14 ) was purchased from Santa Cruz Biothechnology ( Santa Cruz , CA ) Monoclonal mouse anti-ubiquitin was obtained from Zymed Laboratories ( South San Francisco , CA ) .
+Monoclonal mouse anti-HA ( 12CA5 ) was purchased from Boehringer Mannheim , as was Calpain Inhibitor II .
+Protein A-Sepharose CL-4B and glutathione-Sepharose were purchased from Phar-macia .
+Myelin basic protein ( MBP ) and N-CBZ-Leu-Leu-Leu-AL ( MG132 ) were obtained from Sigma .
+PDO98059 was purchased from Calbiochem-Novabiochem ( La Jolla , CA ) The GST-BCL6 , GST-BCL6AZF , GST-BCL6ZF , and GST-BCL6AZFa ) , ; 33,343 fusion proteins were produced by pGEX-2TK-based plasmids ( Pharmacia Biotech ) containing full-length , deletion , or point mutants of bel-6 .
+The point mutations ( Ala333 , Ala343 ) were generated by PCR-based methods ; the sequence of the resulting plasmids was confirmed by nucleotide sequence analysis .
+pMT2T-BCL-6 and B6BS-TK-LUC have been described as previous ( Chang et al .
+1996 ) pMT2T-BCL-Saiass3,343 was constructed by transferring the Bell-N.eol !
+fragments of plasmid into the pMT2T-BCL-6 vector .
+MEK-2E-EE-CMV and MEK-EE-CMV for expressing of constitutively active or inactive MEK were provided by Dr. D. Templeton ( Case Western Reserve University , Cleveland , OH ) .
+The pMT2T-HA-BCL-6 , pMT2T-HA-BCL-6A ( 300-417 ) , and pMT2T-HA-BCL-6ZF vectors were constructed by inserting the sequences encoding the HA epitope upstream and in frame with bel-6 coding sequences .
+Deletion mutants of bel-6 were produced by PCR-based methods and confirmed by sequencing .
+Hisg-ubiquitin-CMV was kindly provided by T. Maniatis ( Harvard Medical School , Boston , MA ) .
+Episomally replicating plasmid pHeBo-MT , which carries EBV oriP , hygromycin B , and MT promoter efficiently yields hygro-mycin-resistant colonies .
+ERK2 kinase assays BCL-6 GST fusion proteins were purified using glutathione-Sepharose beads as suggested by the manufacturer ( Pharmacia Biotech ) .
+Recombinant ERK2 ( New England Biolabs ) assays were performed as suggested by the manufacturer using purified wild-type and mutant GST fusion proteins as substrates .
+In Regulation of BCL-6 by antigen receptor signaling solid-phase ERK2 kinase assays , cells were lysed in ice-cold lysis buffer ( 50 mm Tris at pH 7.5 , 10 % glycerol , 1 % Triton X-100 , 150 mm NaCl , 100 mm NaF , 5 um ZnCl ; , , 1 mM Na , ; VO , , 10 mM EGTA , 2 mm PMSF , 1 ug/ml aprotinin , 1 ug/ml leupeptin , and 1 ug/ml pepstatin ) and centrifuged at 100,000g for 15 min at 4°C .
+The supernatant ( 250-500 ug cellular protein ) was then im munoprecipitated using anti-ERK2 antibodies ( C-14 ) and protein A-Sepharose CL-4B .
+Beads were washed three times with lysis buffer and once with kinase buffer ( 50 mm Tris at pH 7.5 , 10 mm MnCl ; , 5 mm MgCl , ) .
+Reactions were initiated by adding 50 ul kinase buffer containing substrate MBP , 5 um ATP , and 5 uCi [ y-°PJATP .
+After 15 min at 37°C , reactions were terminated by adding 2x SDS-PAGE sample buffer .
+Samples were electrophoresed on 15 % SDS-polyacrylamide gels which were then dried and analyzed by autoradiography .
+Cell transfection 293T cells , grown in DMEM , 10 % FBS , were transfected transiently with various DN A vectors using standard calcium phosphate precipitation methods .
+Ramos cells , grown in IMDM , 10 % FBS , were transfected stably with the plasm id pHeBo-MT-HA-BCL-6 , pHeBo-MT-HA-BCL-6a ) ,3533,343 and the deletion-mutant construct pHeBo-MT-HA-BCL-6ZF by electroporation followed by selection in hygromycin B ( 400 ug/ml ) .
+HA-bel-6 gene expression under control of the metallothionein ( MT ) promoter were induced by adding 1 um of CdCl , .
+Northern and Western blot analysis Total RNA were isolated from cells by using Trizol-reagents ( GIBCO-BRL ) and equal amounts of RN A were separated on 1 % formaldehyde-agarose gel .
+Northern blot analysis was performed by using standard methods with full-length bel-6 cDNA as probes and normalized by GAPDH hybridization .
+Whole-cell lysates were prepared by lysing cells in RIPA buffer with 2 mM PMSF , 1 ug/ml aprotinin , 1 ug/ml of leupeptin , 1 ug/ml pep-statin , 1 mM Na , VO , , 5 mM NaF , and 10 mm B-glycerophos-phate .
+For transient transfectants , protein amounts loaded on gel were normalized by transfection efficiency ( B-gal activity ) .
+For Ramos cells and their stable transfectants ( untreated or treated ) , equal amounts of protein were analyzed by 8 % or 10 % SDS-PAGE , and subsequently by Western blot analysis using anti-BCL-6 ( N-70-6 ) , anti-ERK2 ( C-14 ) , or anti-HA ( 12CA5 ) antibodies at 1:3000 , 1:1000 , or 1:500 dilutions .
+The results were visualized by ECL ( Amersham ) .
+In vivo ubiquitination assay 293T cells were transfected transiently with pMT2T-BCL-6 , His , -ubiquitin-CMV , and MEK-2E-CMV vectors as indicated .
+MG132 ( 50 um ) was added 8 hr after transfection .
+The total amount of transfected DNA was kept constant in all experiments by adding empty vector .
+Twenty-four hours after transfection , cells were lysed in RIPA buffer with 10 mm N-ethylma-leimide and various protease inhibitors as described ( Pagano et al .
+1995 ) .
+The cell lysates were then im munoprecipitated using anti-BCL-6 antibodies .
+The imm unoprecipitates were loaded on 6 % SDS-PAGE and processed for Western blot analysis using the anti-ubiquitin antibodies ( Zymed ) at 1:1000 dilution as described ( Avantaggiati et al .
+1996 ) .
+Pulse-chase labeling experim ent Ramos cells ( 12 x 10 '' ) were collected by centrifugation , washed in PBS , resuspended in 100 ml of DMEM without methionine GENES & DEVELOPMENT 1959 Niu et al .
+and cysteine ( GIBCO-BRL ) , and starved for 60 min .
+nine and [ SSS ] cysteine ( 3 mCi ; ICN ) were added and pulse-la-beled for 60 min and then treated with anti-IgM for 30 min .
+Cold methionine and cysteine were then added to final concentrations of 150 ug/m1 .
+Cells were collected and lysed in RIPA buffer with proteinase and phosphatase inhibitors .
+The cell ex-tracts , adjusted for equal cpm , were imm with anti-BCL-6 antibodies , and analyzed by SDS-PAGE followed by autoradiography .
+Acknowledgments We thank D. Templeton for a gift of the MEK-2E-EE-CMV and MEK-EE-CMV plasmids ; TK .
+Kim , and T. Maniatis for the His , -ubiquitin-CMV plasmid ; S.W .
+Rogers , P. Zhang , and L. Liao for help with the use of the PEST-FIND program ; and S. Chellapan for helpful discussions .
+This work was supported by National Institutes of Health grant CA-37295 .
+The publication costs of this article were defrayed in part by payment of page charges .
+This article must therefore be hereby marked `` advertisement '' in accordance with 18 USC section 1734 solely to indicate this fact .
+References Albagli , O. , P. Dhordain , C. Deweindt , G. Lecocq , and D. Leprince .
+1995 .
+The BTB/POZ domain : A new protein-protein interaction motif common to DNA- and actin-binding proteins .
+Cell Growth & Differ .
+6:11193-1198 .
+Alberola-lMla , J. , S. Takaki , J.D .
+Kerner , and R.M .
+Perlmutter .
+1997 .
+Differential signaling by lymphocyte antigen receptors .
+Annu .
+Rev .
+Immunol .
+151 125-154 .
+Allman , D. , A. Jain , A. Dent , R.R .
+Maile , T. Selvaggi , M.R .
+Ke-hry , and LM .
+Staudt .
+1996 .
+BCL-6 expression during B-cell activation .
+Blood 87:5257-5268 .
+Avantaggiati , M. , M. Carbone , A. Graessman , Y. Nakatani , B. Howard , and A. Levine .
+1996 .
+The SV40 large T antigen and adenovirus E1A oncoproteins interact with distinct isoforms of the transcriptional co-activator p300 .
+EMBO J 15 : 2236-2248 .
+Bardwell , V.J .
+and R. Treisman .
+1994 .
+The POZ domain : A conserved protein-protein interaction motif .
+Genes & Dev .
+8 : 1664-1677 .
+Baron , BW. , G. Nucifora , N. McCabe , R. Espinosa , B.M .
+Le , and T.W .
+McKeithan .
+1993 .
+Identification of the gene associated with the - recurring - chromosomal _ translocations t1G ; 14 ) @ 27 ; q32 ) and t ( 3 ; 22 ) q27 ; q11 ) in B-cell lymphomas .
+Proc .
+Natl .
+Acad .
+Sci .
+901 5262-5266 .
+Bastard , C. , C. Deweindt , J.P. Kerckaert , B. Lenormand , A. Rossi , F. Pezzella , C. Fruchart , C. Duval , M. Monconduit , and H. Tilly .
+1994 .
+LAZ3 rearrangements in non-Hodgkin 's lymphoma : Correlation with histology , immunophenotype , karyotype , and clinical outcome in 217 patients .
+Blood 83 : 2423-2427 .
+Cambier , J.C. 1997 .
+Positive and negative signal co-operativity in the immune system : The BCR , Fc gamma RIB , CR2 para-digm .
+Biochem .
+Soc .
+Trans .
+251 441-445 .
+Cattoretti , G. , C.C .
+Chang , K. Cechova , J. Zhang , BH .
+Ye , B. Falini , D.C. Louie , K. Offit , R.S .
+Chaganti , and R. Dalla-Favera .
+1995 .
+BCL-6 protein is expressed in germinal-center B cells .
+Blood 86 : 45-53 .
+Cattoretti , G. , J. Zhang , A.M. Cleary , S. Lederman , G. Gaidano , A. Carbone , R.S.K .
+Chaganti , and R. Dalla-Favera .
+1997 .
+Downregulation of BCL-6 gene expression by CD40 and EBV latent membrane protein-1 ( LMP1 ) and its block in lym 1960 GENES & DEVELOPMENT phoma carrying BCL-6 rearrangements .
+( Suppl .
+I ) Blood 90 : p175a .
+Chang , C.C. , B.H .
+Ye , R.S .
+Chaganti , and R. Dalla-Favera .
+1996 .
+BCL-6 , a POZ/zinc-finger protein , is a sequence-specific transcriptional repressor .
+Proc .
+Natl .
+Acad .
+Sci .
+9316947-6952 .
+Chardin , P. , G. Courtois , M.G .
+Mattei , and S. Gisselbrecht .
+1991 .
+The KUP gene , located on human chromosome 14 , encodes a protein with two distant zinc fingers .
+Nucleic Acids Res .
+19 : 1431-1436 .
+Chen , Z. , N.J .
+Brand , A. Chen , S.J .
+Chen , J.H .
+Tong , Z.Y .
+Wang , S. Waxman , and A. Zelent .
+1993 .
+Fusion between a novel Kruppel-like zinc finger gene and the retinoic acid receptor-alpha locus due to a variant t ( 11 ; 17 ) translocation associated with - acute promyelocytic - leukaemia .
+EMBO _ J 12 : 1161-1167 .
+Chen , Z. , F. Guidez , P. Rousselot , A. Agadir , S.J .
+Chen , Z.Y .
+Wang , L. Degos , A. Zelent , S. Waxman , and C. Chomienne .
+1994 .
+PLZF-RAR alpha fusion proteins generated from the variant t ( 11 ; 17 ) @ @ 23 ; q21 ) translocation in acute promyelocytic leukemia inhibit ligand-dependent transactivation of wild-type retinoic acid receptors .
+Proc .
+Natl .
+Acad .
+Sci .
+91 : 1178-1182 .
+Chen , W. , S. ida , D.C. Louie , R. Dalla-Favera , and R.S.K .
+Chaganti .
+1998 .
+Heterologous promoters fused to BCL-6 by chromosomal translocations affecting band 3q27 cause its deregulated expression during B-cell differentiation .
+Blood 91 : 603-607 .
+Dalla-Favera , R. , BH .
+Ye , G. Cattoretti , F. Lo Coco , C.C .
+Chang , J. Zhang , A. Migliazza , K. Cechova , H. Niu , S. Chaganti , W. Chen , D.C. Louie , K. Offit , and R.S .
+Chaganti .
+1996 .
+BCL-6 in diffuse large-cell lymphomas .
+In Important advances in oncology ( ed .
+V.T .
+DeVita , S. Hellman , and S.A. Rosenberg ) , pp .
+139-148 .
+Lippincott-Raven Publishers , Philadelphia , PA. Dent , A.L. , A.L .
+Shaffer , X. Yu , D. Allman , and LM .
+Staudt .
+1997 .
+Control of inflammation , cytokine expression , and germinal center formation by BCL-6 .
+Science 276:589-592 .
+Deweindt , C. , O. Albagli , F. Bernardin , P. Dhordain , S. Quief , D. Lantoine , J.P. Kerckaert , and D. Leprince .
+1995 .
+The LAZ3/ BCL6 oncogene encodes a sequence-specific transcriptional inhibitor : A novel function for the BTB/POZ domain as an autonomous repressing domain .
+Cell Growth & Differ .
+6 : 1495-1503 .
+DiBello , P.R. , D.A .
+Withers , C.A .
+Bayer , JW .
+Fristrom , and G.M .
+Guild .
+1991 .
+The Drosophila Broad-Com plex encodes a fam ily of related proteins containing zinc fingers .
+Genetics 129 : 385-397 .
+Dudley , D.T. , L. Pang , S.J .
+Decker , A.J .
+Bridges , and A.R .
+Saltiel .
+1995 .
+A synthetic inhibitor of the mitogen-activated protein kinase cascade .
+Proc .
+Natl .
+Acad .
+Sci .
+921 7686-7689 .
+Emery , LF. , V. Bedian , and G.M .
+Guild .
+1994 .
+Differential expression of Broad-Complex transcription factors may forecast tissue-specific developmental fates during Drosophila metamorphosis .
+Developm ent 120 : 3275-3287 .
+Fukada , T. , M. Hibi , Y. Yamanaka , M. Takahashi-Tezuka , Y. Fujitani , T. Yamaguchi , K. Nakajima , and T. Hirano .
+1996 .
+Two signals are necessary for cell proliferation induced by a cytokine receptor gp130 : Involvement of STAT3 in anti-apoptosis .
+Imm unity 51449-460 .
+Gaidano , G. , A. Carbone , C. Pastore , D. Capello , A. Migliazza , A. Gloghini , S. Roncella , M. Ferrarini , G. Saglio , and R. Dalla-Favera .
+1997 .
+Frequent mutation of the 5 ' noncoding region of the BCL-6 gene in acquired immunodeficiency syn-drome-related non-Hodgkin 's lymphomas .
+Blood 89 : 3762 .
+Gold , M.R .
+and L. Matsuuchi .
+1995 .
+Signal transduction by the antigen receptors of B and T lymphocytes .
+Int .
+Rev .
+Cytol .
+157 : 181-276 .
+Gold , MR. , J.S .
+Sanghera , J. Stewart , and S.L .
+Pelech .
+1992 .
+Selective activation of p42 mitogen-activated protein ( MAP ) kinase in murine B lymphoma cell lines by membrane im-munoglobulin cross-linking .
+Evidence for protein kinase C-independent and -dependent mechanisms of activation .
+Biochem .
+J .
+287:269-276 .
+Harrison , S.D .
+and A.A. Travers .
+1990 .
+The Tramtrack gene encodes a Drosophila finger protein that interacts with the ftz transcriptional regulatory region and shows a novel embryonic expression pattern .
+EMBO J .
+9 : 207-216 .
+Hochstrasser , M. 1996 .
+Ubiquitin-dependent protein degradation .
+Annu .
+Rev .
+Genet .
+30 : 405-439 .
+Kerckaert , J.P. , C. Deweindt , H. Tilly , S. Quief , G. Lecocq , and C. Bastard .
+1993 .
+LAZ3 , a novel zinc-finger encoding gene , is disrupted by recurring chromosome 3q27 translocations in human lymphomas .
+Nature Genet .
+5166-70 .
+Kim , TK .
+and T. Maniatis .
+1996 .
+Regulation of interferon-gamma-activated STAT 1 by the ubiquitin-proteasome pathway .
+Science 27311717-1719 .
+Koonin , E.V. , T.G .
+Senkevich , and V.I Chernos .
+1992 .
+A family of DNA virus genes that consists of fused portions of unrelated cellular genes .
+Trends Biochem .
+Sci .
+171213-214 .
+Li , S. , Y. Li , R.W .
+Carthew , and Z.-C. Lai .
+1997 .
+Photoreceptor cell differentiation requires regulated proteolysis of the transcriptional repressor Tram track .
+Cell 90 : 469-478 .
+LoCoco , C.F. , BH .
+Ye , F. Lista , P. Corradini , K. Offit , D.M .
+Knowles , R.S .
+Chaganti , and R. Dalla-Favera .
+1994 .
+Rearrangements of the BCL6 gene in diffuse large cell non-Hodgkin 's lymphoma .
+Blood 83:1757-1759 .
+MacLennan , LC .
+1994 .
+Germinal centers .
+Annu .
+Rev .
+Im m unol .
+12 : 117-139 .
+Migliazza , A. , S. Martinotti , W. Chen , C. Fusco , B.H .
+Ye , D.M .
+Knowles , K. Offit , R.S .
+Chaganti , and R. Dalla-Favera .
+1995 .
+Frequent somatic hypermutation of the 5 ' noncoding region of the BCL6 gene in B-cell lymphoma .
+Proc .
+Natl .
+Acad .
+Sci .
+92 : 12520-12524 .
+Miki , T. , N. Kawamata , S. Hirosawa , and N. Aoki .
+1994 .
+Gene involved in the 3q27 translocation associated with B-cell lymphoma , BCLS5 , encodes a Kruppel-like zinc-finger pro-tein .
+Blood 83:26-32 .
+Minami , Y. , I. Oishi , Z.J .
+Liu , S. Nakagawa , T. Miyazaki , and T. Taniguchi .
+1994 .
+Signal transduction mediated by the reconstituted IL-2 receptor .
+Evidence for a cell type-specific function of IL-2 receptor beta-chain .
+J Immunol .
+152:5680-5690 .
+Moriyama , M. , T. Yamochi , K. Semba , T. Akiyama , and S. Mori .
+1997 .
+BCL-6 is phosphorylated at multiple sites in its serine-and proline-clustered region by mitogen-activated protein kinase ( MAPK ) in vivo .
+Oncogene 141 2465-2474 .
+Onizuka , T. , M. Moriyama , T. Yamochi , T. Kuroda , A. Kazama , N. Kanazawa , K. Sato , T. Kato , H. Ota , and S. Mori .
+1995 .
+BCL-6 gene product , a 92- to 98-kD nuclear phosphoprotein , is highly expressed in germinal center B cells and their neo-plastic counterparts .
+Blood 86 : 28-37 .
+Otsuki , T. , T. Yano , H.M. Clark , C. Bastard , J.P. Kerckaert , E.S .
+Jaffe , and M. Raffeld .
+1995 .
+Analysis of LAZ3 ( BCL-6 ) status in B-cell non-Hodgkin 's lymphomas : Results of rearrangement and gene expression studies and a mutational analysis of coding region sequences .
+Blood 85 : 2877-2884 .
+Pagano , M. , SW. Tam , A.M. Theodoras , P. Beer-Romero , G. Del Sal , V. Chau , P.R .
+Yew , G.F. Draetta , and M. Rolfe .
+1995 .
+Role of the ubiquitin-proteasome pathway in regulating abundance of the cyclin-dependent kinase inhibitor p27 .
+Science 269 : 682-685 .
+Regulation of BCL-6 by antigen receptor signaling bella , V.J. , O.J .
+Rando , A.L .
+Goldberg , and T. Maniatis .
+1994 .
+The ubiquitin-proteasome pathway is required for processing the NF-kappa B1 precursor protein and the activation of NF-kappa B .
+Cell 78 : 773-785 .
+Pang , L. , T. Sawada , S.J .
+Decker , and A.R .
+Saltiel .
+1995 .
+Inhibition of MAP kinase kinase blocks the differentiation of PC-12 cells induced by nerve growth factor .
+J Biol .
+Chem .
+270 : 13585-13588 .
+Rechsteiner , M. and S.W .
+Rogers .
+1996 .
+PEST sequences and regulation by proteolysis .
+Trends Biochem .
+Sci .
+211 267-271 .
+Rock , KL. , C. Gramm , L. Rothstein , K. Clark , R. Stein , L. Dick , D. Hwang , and A.L .
+Goldberg .
+1994 .
+Inhibitors of the proteasome block the degradation of most cell proteins and the generation of peptides presented on MHC class I molecules .
+Cell 78 : 761-771 .
+Rogers , S. , R. Wells , and M. Rechsteiner .
+1986 .
+Amino acid sequences common to rapidly degraded proteins : The PEST hypothesis .
+Science 234 : 364-368 .
+Sakata , N. , H.R .
+Patel , N. Terada , A. Aruffo , G.L .
+Johnson , and EW .
+Gelfand .
+1995 .
+Selective activation of c-Jun kinase mitogen-activated protein kinase by CD40 on human B cells .
+J Biol .
+Chem .
+270 : 30823-30828 .
+Seyfert , V.L. , D. Allman , Y .
+He , and LM .
+Staudt .
+1996 .
+Transcriptional repression by the proto-oncogene BCL-6 .
+Oncogene 121 2331-2342 .
+Sutherland , C.L. , A.W .
+Heath , S.L .
+Pelech , P.R .
+Young , and MR. Gold .
+1996 .
+Differential activation of the ERK , JNK , and p38 mitogen-activated protein kinases by CD40 and the B cell antigen receptor .
+J Immunol .
+157 : 3381-3390 .
+Tang , A.H. , TP .
+Neufeld , E. Kwan , and M. Rubin .
+1997 .
+PHYL acts to down-regulate TTK88 , a transcriptional repressor of neuronal cell fates , by a SINA-dependent mechanism .
+Cell 90 : 459-467 .
+Tedder , TF. , J. Tuscano , S. Sato , and J.H .
+Kehrl .
+1997 .
+CD22 , a B lymphocyte-specific adhesion molecule that regulates antigen receptor signaling .
+Annu .
+Rev .
+Immunol .
+151 481-504 .
+Vietor , I. , P. Schwenger , W. Li , J. Schlessinger , and J. Vileek .
+1993 .
+Tumor necrosis factor-induced activation and increased tyrosine phosphorylation of mitogen-activated protein ( MAP ) kinase in human fibroblasts .
+J Biol .
+Chem .
+268 : 18994-18999 .
+Xue , F. and L. Cooley .
+1993 .
+Kelch encodes a component of in-tercellular bridges in Drosophila egg chamber .
+Cell 72:68 1-693 .
+Yan , M. and D.J .
+Templeton .
+1994 .
+Identification of 2 serine residues of MEK-1 that are differentially phosphorylated during activation by raf and MEK kinase .
+J Biol .
+Chem .
+269 : 19067-19073 .
+Ye , BH. , G. Cattoretti , Q. Shen , J. Zhang , N. Hawe , R. Waard , C. Leung , M. Nouri-Shirazi , A. Orazi , R.S.K .
+Chaganti , P. Rothman , A.M .
+Stall , P.P .
+Pandolfi , and R. Dalla-Favera .
+1997 .
+The BCL-6 proto-oncogene controls germinal-centre formation and Th2-type inflammation .
+Nature Genet .
+16 : 161-170 .
+Ye , BH. , S. Chaganti , C.C .
+Chang , H. Niu , P. Corradini , R.S .
+Chaganti , and R. Dalla-Favera .
+1995 .
+Chromosomal translocations cause deregulated BCL6 expression by promoter substitution in B cell lymphoma .
+EMBO J 14 : 6209-6217 .
+Ye , BH. , F. Lista , F. Lo Coco , D.M .
+Knowles , K. Offit , R.S .
+Chaganti , and R. Dalla-Favera .
+1993 .
+Alterations of a zinc finger-encoding gene , BCL-6 , in diffuse large-cell lymphoma .
+Science 2621 747-150 .
+Zhu , Y. , M. Carroll , FR .
+Papa , M. Hochstrasser , and A.D. D'Andrea .
+1996 .
+DUB-1 , a deubiquitinating enzyme with grow th-suppressing activity .
+Proc .
+Natl .
+Acad .
+Sci .
+931 3275-3279 .
+GENES & DEVELOPMENT 1961

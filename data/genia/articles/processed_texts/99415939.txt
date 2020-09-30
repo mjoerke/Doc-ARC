@@ -1,0 +1,522 @@
+Proc .
+Natl .
+Acad .
+Sci .
+USA Vol .
+96 , pp .
+10800-10805 , September 1999 Immunology Interferons inhibit activation of STATG6 by interleukin 4 in human monocytes by inducing SOCS-1 gene expression HAROLD L. DICKENSHEETS* , CHANDRASEKAR VENKATARAMANT , ULRIKE SCHINDLERT , AND RayMoND P. DonnELLy** *Division of Cytokine Biology , Center for Biologics Evaluation and Research , Food and Drug Administration , Bethesda , MD 20892 ; and TTularik , Inc. , South San Francisco , CA 94080 Edited by William E. Paul , National Institutes of Health , Bethesda , MD , and approved July 8 , 1999 ( received for review February 16 , 1999 ) ABSTRACT Interferons ( IFNs ) inhibit induction by IL-4 of multiple genes in human monocytes .
+However , the mechanism by which IFNs mediate this inhibition has not been defined .
+IL-4 activates gene expression by inducing tyrosine phosphorylation , homodimerization , and nuclear translocation of the latent transcription factor , STAT6 ( signal transducer and activator of transcription-6 ) .
+STATG6-responsive elements are characteristically present in the promoters of IL-4-inducible genes .
+Because STAT6 activation is essential for IL-4-induced gene expression , we examined the ability of type I and type II IFNs to regulate activation of STAT6 by IL-4 in primary human monocytes .
+Pretreatment of monocytes with IFN- or IFN-y , but not IL-1 , IL-2 , macrophage colony-stimulating factor , granulocyte/macrophage colony-stimulating factor , IL-6 , or transforming growth factor B suppressed activation of STAT6 by IL-4 .
+This inhibition was associated with decreased tyrosine phosphorylation and nuclear translocation of STAT6 and was not evident unless the cells were preincubated with IFN for at least 1 hr before IL-4 stimulation .
+Furthermore , inhibition by IFN could be blocked by cotreatment with actinomycin D and correlated temporally with induction of the JAK/STAT inhibitory gene , SOCS-1 .
+Forced expression of SOCS-1 in a macrophage cell line , RAW264 , markedly suppressed trans-activation of an IL-4-inducible reporter as well as IL-6- and IFN-y-induced reporter gene activity .
+These findings demonstrate that IFNs inhibit IL-4-induced activation of STAT6 and STAT6-dependent gene expression , at least in part , by inducing expression of SOCS-1 .
+The Th2-type cytokine IL-4 activates gene expression by binding to specific receptor complexes on the surface of IL-4-responsive target cells .
+Type I IL-4 receptor complexes are heterodimers composed of the IL-4Ra chain ( p140 ) and the IL-2Ry chain ( y ) ( 1 , 2 ) .
+Binding of IL-4 to these receptor complexes activates the receptor-associated Janus tyrosine kinases , JAK1 and JAK3 , which then phosphorylate critical tyrosine residues on the intracellular domain ( ICD ) of the IL-4Ra chain ( 3-5 ) .
+These phosphorylated tyrosine residues on the ICD of IL-4Ra provide docking sites for the latent cytosolic transcription factor , STAT6 ( signal transducer and activator of transcription-6 ) ( 6 , 7 ) .
+STAT6 binds to these docking sites via its SH2 ( Sre homology 2 ) domain and is , in turn , tyrosine-phosphorylated by the receptor-associated JAKs ( 8-10 ) .
+Activated STAT6 then homodimerizes and translocates to the nucleus , where it binds with high affinity to STAT -binding elements ( SBE ) in the promoters of various IL-4 /IL-13-responsive genes .
+IL-4 and IL-13 induce transcription of a distinct subset of genes in human monocytes , including FesRIIb ( CD23 ) ( 11 , The publication costs of this article were defrayed in part by page charge payment .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 U.S.C .
+§1734 solely to indicate this fact .
+PNAS is available online at www.pnas.org .
+10800 12 ) , 15-lipoxygenase ( 15-LO ) ( 13 , 14 ) , IL-1 receptor antagonist ( IL-1ra ) ( 15-17 ) , and types I and II IL-1 receptors ( IL-1R ) ( 18 , 19 ) .
+Type I IFNs ( IFN- « and IFN-B ) and type II IFN ( IFN-y ) inhibit IL-4 /IL-13-induced gene expression in monocytes and B cells .
+For example , IFN-y suppresses IgE synthesis by IL-4-stimulated B cells ( 20-22 ) .
+IFNs also inhibit IL-4-induced CD23 expression in both B cells ( 23 , 24 ) and monocytes ( 25 , 26 ) .
+Furthermore , IFN-y inhibits IL-4- and IL-13-induced expression of 15-LO and IL-1ra in monocytes ( 13 , 14 , 27 ) .
+Moreover , we have shown recently that IFN-B and IFN-y inhibit expression of the IL-1RI and IL-1RII genes in IL-4/ IL-13-stimulated monocytes ( 28 ) .
+The mechanism by which IFNs inhibit expression of these genes has not been defined .
+However , it is known that activation and nuclear translocation of STAT 6 is essential for induction of gene expression by IL-4 and IL-13 ( 29-31 ) .
+IL-4/IL-13-response elements ( i.e .
+, STAT6-binding sites ) are present in the proximal promoter regions of IL-4 /IL-13-inducible genes , including Is ( 32 ) , IL-1ra ( 33 ) , and IL-4Ra ( 34 ) .
+The SBEs in the promoters of these genes are distinct from classical IFN-y activation sequences ( GAS elements ) because they contain an intervening four-base spacer instead of a three-base spacer between the palindromic TTC/GAA nucleotides .
+This difference ( i.e .
+, the presence of a four-base spacer instead of a three-base spacer ) makes these SBEs very selective for STAT6 ( 35 , 36 ) .
+Consequently , other STAT proteins such as STAT1a , the principal IFN-inducible STAT , do not bind to these elements and can not compete with STAT6 for binding to these sites .
+Because of this , we reasoned that IFNs must inhibit IL-4-inducible gene expression through some other mechanism .
+In this report , we demonstrate that IFNs suppress IL-4-induced tyrosine phosphorylation and nuclear translocation of STAT 6 in monocytes .
+This inhibitory effect could be blocked by actinomycin D and correlated temporally with expression of the JAK/STAT inhibitory gene , SOCS-1 ( suppressor of cytokine signaling ) .
+Moreover , forced expression of SOCS-1 in a macrophage cell line , RAW264 , markedly inhibited activation of an IL-4-inducible , STAT6-responsive reporter gene .
+Thus , IFNs induce synthesis of a negative regulatory factor ( SOCS-1 ) that can suppress activation of STAT6 .
+These findings define a mechanism by which IFNs can antagonize IL-4- and IL-13-inducible gene expression in human monocytes .
+This paper was submitted directly ( Track II ) to the Proceedings office .
+Abbreviations : EMSA , electrophoretic mobility-shift assay ; GAS , y-interferon activation sequence ; IL-1ra , IL-1 receptor antagonist ; JAK , Janus kinase ; SBE , STAT-binding element ; SH2 domain , Sre homology-2 domain ; SOCS , suppressor of cytokine signaling ; STAT , signal transducer and activator of transcription ; M-CSF , macrophage colony-stimulating factor ; GM-CSF , granulocyte/macrophage colony-stimulating factor .
+# To whom reprint requests should be addressed at : Division of Cytokine Biology , Center for Biologics Evaluation and Research , Food and Drug Administration , HFM-505 , 1401 Rockville Pike , Rockville , MD 20852 .
+E-mail : donnelly @ cber.fda.gov .
+Immunology : Dickenshects et al .
+MATERIALS AND METHODS Culture Medium and Reagents .
+The complete medium used for monocyte culture consisted of RPMI 1640 medium ( GIBCO ) supplemented with 10 % FCS ( HyClone ) /2 mM L-glutamine/50 ug/ml gentamycin .
+Recombinant human IL-4 ( rhIL-4 ) and murine IL-4 ( rmIL-4 ) were provided by Schering-Plough .
+Recombinant human IL-13 was obtained from Bio-Source International ( Camarillo , CA ) .
+Recombinant human IFN-y was provided by Genentech .
+Recombinant human IFN- was provided by Chiron .
+Rabbit anti-STAT6 antibody was purchased from Santa Cruz Biotechnology .
+Rabbit anti-phospho ( Tyr®* ) -STAT6 Ab was a kind gift from New England Biolabs .
+Cells .
+Normal human peripheral blood monocytes were isolated by elutriation in a Beckman JE-6B centrifugal elu-triator as described previously ( 37 ) .
+The elutriated monocyte fraction consisted of > 95 % monocytes as determined by histologic staining and fluorescence-activated cell sorter ( FACS ) analysis with the anti-CD14 mAb Leu M3 ( Becton Dickinson ) .
+Monocytes were cultured routinely at 4 X 10° cells per ml in complete medium in round-bottomed , polypropylene tubes .
+The macrophage cell line , RAW264 , was obtained from American Type Culture Collection ( Manassas , VA ) and cultured in complete medium .
+Electrophoretic Mobility-Shift Assay ( EMSA ) .
+Nuclear protein extracts were prepared from cytokine-treated cells by using a modification ( 38 ) of the original method described by Dignam et al .
+( 39 ) .
+A double-stranded oligonucleotide ( IL-1ra SBE1 ) based on a DNA sequence present in the promoter of the human IL-1ra gene was used as a probe in the gel-shift assays ( 33 ) .
+This oligonucleotide contains an N4-type GAS element that can bind STAT6 but not STAT1a ( 33 ) .
+Binding reactions were performed as described previously ( 38 ) .
+A portion of each binding reaction mixture ( 8 pl per sample ) was electrophoresed on nondenaturing , 6 % polyacrylamide gels ( Novex ) by using 0.25 % TBE buffer ( 22 mM TrisHCl , pH 8.0/22 mM borate mM EDTA ) .
+The gels then were dried and visualized by autoradiography .
+Western Blots .
+After cytokine treatment , the cells were washed three times with Dulbecco 's PBS , and cytosolic and nuclear protein extracts were prepared as described previously ( 38 ) .
+Equal amounts ( 75 ug per sample ) of these extracts were resolved by electrophoresis on 8 % polyacrylamide Tris-glycine gels and then transferred onto polyvinylidene difluoride membranes ( Novex ) .
+Immunoblot analysis was performed by using rabbit anti-phospho-STAT6 antibody or anti-STAT6 antibody at a final dilution of 1:1,000 in TTBS containing 3 % nonfat dry milk ( TTBs = 20 mM Tris , pH 7.6/137 mM NaQ/0.1 % Tween-20 ) .
+The membranes were then incubated with goat anti-rabbit IgG-horseradish peroxidase ( HRP ) ( Amersham ) diluted 1:5,000 .
+After washing , the membranes were incubated with the HRP substrate , SuperSignal ( Pierce ) .
+STAT6 was detected by enhanced chemiluminescence ( ECL ) according to the manufacturer 's protocol ( Pierce ) .
+Northern Blots .
+Total RNA was isolated from cultured monocytes by the acid/guanidinium thiocyanate/phenol/ chloroform extraction method as described previously ( 40 ) .
+Equivalent amounts of RNA ( 10 ug per lane ) were size-fractionated by electrophoresis in 1 % agarose gels containing 0.66 M formaldehyde .
+The RNA then was transferred onto Nytran membranes and cross-linked by exposure to UV light .
+The membranes then were hybridized and washed according to standard procedures .
+The SOCS-1 probe was a 724-bp Xbal fragment of a full-length murine SOCS-1 cDNA ( 41 ) .
+Gel-purified insert DNA was radiolabeled by the random-primer method of Feinberg and Vogelstein ( 42 ) .
+Construction of the SOCS-1 Expression Plasmids .
+The SOCS-1 expression plasmid was kindly provided by Hiroyuki Mano ( 43 ) .
+The Flag-tagged version of SOCS-1 was prepared Proc .
+Natl .
+Acad .
+Sci .
+USA 96 ( 1999 ) - 10801 by PCR .
+The full-length cDNA was amplified by using the following primers : 5¢-CGC GGG GGG ATC CTT GTA GCA CAC AAC CAG GTG GCA GCC-3 ' ( sense ) and 5'-GCG CCC GGA ATT CGG TCA AAT CTG GAA GGG GAA GGA GCT CAG-3 ' ( antisense ) .
+The SOCS-1 mutant , bearing a single amino acid change in the SH2 domain ( R105A¥ ) , was generated by using two-step PCR cloning and the following primers : 5-GGC ACC TTC CTG GTG GCC GAC CAG CGG-3 ' ( sense ) and 5-CCG CTG GCG GCT GTC GGC CAC CAG GAA GGT GCC-3 ' ( antisense ) .
+The PCR products were cloned into the BamHI and EcoRI sites of a peDNA3 derivative carrying a Flag epitope tag .
+The integrity of the DNA fragments was confirmed by DNA sequence analysis .
+Transfections .
+The IL-4-responsive reporter construct , C/EBP-N4 , has been described previously ( 44 ) .
+The IL-4 response element in this construct is derived from a sequence in the promoter of the human Ig heavy chain germ-line & gene that contains adjacent binding sites for C/EBP and STAT6 ( 44 ) .
+Transient transfections were performed by using the DEAE-Dextran method as described previously ( 44 ) .
+Briefly , 1 x 10° RAW264 cells were incubated in serum-free DMEM containing 100 ug/ml DEAE-dextran solution , 10 ug of the IL-4 luciferase reporter , and 10 pg of the SOCS-1 expression plasmids ( wild type or mutant ) or vector control for 1 hr at 37°C .
+DMSO was added at a final concentration of 10 % for 1 min .
+This medium then was washed off and replaced with fresh medium .
+Each transfection was carried out in triplicate .
+Eighteen hours after transfection , the cells were stimulated with 10 ng/ml recombinant murine IL-4 for 6 hr .
+Luciferase activity was measured by using luciferase assay kits obtained from Promega .
+Luciferase units were normalized to the amount of total protein .
+RESULTS IL-4 Activates STAT6 in Human Monocytes .
+Expression of IL-4-inducible genes is regulated , in part , via activation and nuclear translocation of STAT6 ( 29-31 ) .
+To examine the effects of IFNs on STAT6 activity , we used an oligonucleotide probe derived from a DNA sequence in the promoter of the human IL-1 receptor antagonist gene ( 33 ) .
+This probe , denoted SBE1 , contains a GAS-like sequence that binds STAT6 with high affinity , but does not bind other STAT proteins such as STAT1a or STAT3 ( 33 ) .
+As shown in Fig .
+1 , nuclear extracts from IL-4-stimulated monocytes generated a single DNA-binding complex when coincubated with radiolabeled SBE1 probe ( Fig .
+1 , lane 2 ) .
+This IL-4-inducible DNA-binding activity was inhibited competitively by cold SBE1 or GRR oligonucleotides , but not by equivalent amounts of NF-KB or AP-1 oligonucleotides .
+The IL-4-inducible DNA-binding activity also could be supershifted by an anti-STAT6 antibody ( Fig .
+1 , lane 14 ) but not by an anti-STAT1a « antibody ( Fig .
+1 , lane 15 ) or an antibody directed against an unrelated transcription factor , C/EBP ( Fig .
+1 , lane 13 ) .
+IFN-B and IFN-y Inhibit Activation of STAT6 by IL-4 .
+IFN-8 and IFN-y inhibit induction of several genes by IL-4 in human monocytes ( 13 , 14 , 25-28 ) .
+To determine whether IFNs and/or other cytokines can inhibit activation of STAT6 by IL-4 , we pretreated monocytes for 1 hr at 37°C with a panel of cytokines that included IFN-B , IFN-y , IL-1 $ , IL-2 , macrophage colony-stimulating factor ( M-CSF ) , granulocyte/ macrophage colony-stimulating factor ( GM-CSF ) , IL-6 , and transforming growth factor B ( TGF- ) .
+IL-4 then was added , and the cultures were incubated for an additional 30 min .
+At the end of the incubation period , the cells were harvested and nuclear protein extracts were prepared .
+The extracts then were assayed for STAT6 activity by EMSA by using radiolabeled IL-1Ra SBE1 probe .
+As shown in Fig .
+2 , pretreatment with IFN- ( Fig .
+2 , lane 3 ) or IFN-y ( Fig .
+2 , lane 4 ) , but none of the 10802 _ Immunology : Dickenshects et al .
++ IL-4 aim + IL-4 a. oni .
+2 E g rt = ME : SBE1_ GAR _ NFxB_ AP- € o ® a Competitor - - 0 i $ # os ® - < -ss wt ( lth a tah twhiul = Wi < -stais dh lh ol ais lh lh ili li lth als a 10 2 % 4 5 6 7 B # 10 11 12 13 14 15 Fig .
+1 .
+IL-4 induces STAT6 activity in human monocytes .
+Monocytes ( 4 X 10° cells per ml ) were incubated at 37°C in the presence { Jane 2 ) or absence ( lane 1 ) of recombinant human IL-4 ( rhIL-4 ; 10 ng/ml ) for 30 min .
+The cells then were harvested , and nuclear protein extracts were prepared .
+The nuclear extracts then were assayed by EMSA using radiolabeled IL-1ra SBE1 probe .
+In lanes 3-10 , 5 ug of the nuclear extract from IL-4-stimulated monocytes ( lane 2 ) was preincubated with a 10- or 50-fold molar excess of unlabeled SBE1 , GRR , NF-kB , or AP-1 oligonucleotide .
+In lanes 11-15 , 5 ug of the nuclear extract from IL-4-stimulated monocytes ( lane 2 ) was preincubated with 1 l of rabbit antisera specific for C/EBPB , STAT6 , or STATl « as indicated .
+ss , super shift .
+other cytokines tested , inhibited induction of STAT6 activity by IL-4 .
+Furthermore , the ability of IFN-y to inhibit IL-4-induced STAT6 activity was dose-dependent and demonstrable when IFN-y was used at a final concentration of 10 or 1 ng/ml ( Fig .
+2 , lanes 11-15 ) .
+Inhibition of STAT6 Activation by IFNs Is Transcription-Dependent .
+To determine whether the inhibition by IFN is mediated by a gene that is newly transcribed , we tested whether actinomycin D could block inhibition of STAT6 activity by IFN-y .
+As shown in Fig .
+3 Top , pretreatment with IFN-y suppressed induction of STAT6 activity by IL-4 in control cells ( Fig .
+3 , lane 4 ) , but did not inhibit STAT6 activity in cells that were cotreated with actinomycin D ( Fig .
+3 , lane 8 ) .
+These differences were even more apparent when the nuclear and cytosolic protein extracts were analyzed by Western blotting with anti-phospho-STAT6 ( Fig .
+3 , Middle ) and anti-STAT6 Abs ( Fig .
+3 , Bottom ) , respectively .
+Reduced STAT6 DNA-binding activity was associated with decreased tyrosine phosphorylation and nuclear translocation of STAT6 in cells that were pretreated with IFN-y ( Fig .
+3 , lane 4 ) , and this reduction + IL-4 + IL-4 E 1 T 1 % IFNy & $ s ss 58 35 ; % % tL m. % § P6 G LtG G29 $ 0 % v C mm tuk > » » bab lak ba hala - Wi > Alig ) 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 Fig .
+2 .
+Effect of pretreatment with selected cytokines on induction of STAT6 activity by IL-4 in monocytes .
+Monocytes ( 4 X 108 cells per ml ) were preincubated for 1 hr at 37°C with medium alone , IFN- , IFN-y , IL-1 , IL-2 , M-CSF , GM-CSF , IL-6 , or TGF-B ( 10 ng/ml each ) .
+At the end of this primary incubation period , IL-4 ( 1 ng/ml ) was added ( lanes 2-10 ) , and the cultures were incubated for an additional 30 min .
+Nuclear protein extracts were prepared and assayed by EMSA for STAT6 activity by using radiolabeled IL-1ra SBE1 probe .
+In lanes 11-15 , monocytes were preincubated with medium alone ( lane 11 ) or IFN-y at the indicated concentrations for 1 hr .
+At the end of this initial incubation period , IL-4 ( 1 ng/ml ) was added , and the cultures were incubated for an additional 30 min .
+Nuclear extracts then were prepared and assayed for STAT6 activity .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 96 ( 1999 ) + Act .
+D EMSA : SBE1 Probe It io Westerns : kDa Nucleus sim : wuss 98 -- < -P ( Y ) -Stat6 Cytosol w—————— -- ‘ —S|a|ﬁ 10 2 3 4 50 60 7 a Fig .
+3 .
+Inhibition of IL-4-induced STAT6 activity by IFN-y is abrogated by the transcription inhibitor , actinomycin D. Monocytes ( 4 x 108 cells per ml ) were preincubated with medium alone or IFN-y ( 10 ng/m ! )
+in the presence or absence of actinomycin D ( Act .
+D ) for 90 min at 37°C .
+The cells then were treated with or without IL-4 ( 1 ng/ml ) for an additional 30 min at 37°C .
+At the end of the second incubation period , nuclear extracts were prepared and assayed for STAT6 activity by EMSA using the IL-1ra SBE1 probe ( Top ) .
+The nuclear and cytosolic protein extracts also were analyzed by immu-noblotting with rabbit anti-P ( Y ) -STAT6 ( Middle ) and rabbit anti-STAT6 ( Bottom ) antibodies , respectively .
+did not occur when cells were cotreated with actinomycin D ( Fig .
+3 , lane 8 ) .
+Inhibition of STAT6 Activity by IFN Is Temporally Associated with Expression of the SOCS-1 Gene .
+Temporal analysis of the effect of IFN-y on IL-4-induced STAT6 activity showed that the cells need to be preincubated with IFN at 37°C for at least 60 min before IL-4 stimulation ( Fig .
+44 ) .
+More complete inhibition was attained when cells were preincubated with IFN for 90-120 min .
+As shown in Fig .
+4B , reduced STAT6 DNA-binding activity was associated with decreased tyrosine phosphorylation and nuclear translocation of STAT6 as determined by immunoblot analysis of the nuclear and cytosolic protein extracts using rabbit anti-P ( Y ) -STAT6 and anti-STAT6 Abs , respectively .
+The SOCS genes constitute a family of cytokine-inducible , SH2-containing proteins that inhibit JAK/STAT-dependent gene expression ( 41 , 45 , 46 ) .
+One of these genes , SOCS-1 ( also known as JAB or SSI-1 ) , is rapidly inducible by multiple cytokines , including type I and II IFNs , in the leukemic murine myeloid cell line M1 ( 41 , 47 ) .
+To determine whether this gene is IFN-inducible in human monocytes , we treated monocytes with IFN-y ( 10 ng/ml ) for 0-2 hr and then measured SOCS-1 mRNA levels by Northern blotting .
+As shown in Fig .
+4C , IFN-y induced SOCS-1 expression in these cells .
+Peak levels of SOCS-1 mRNA occurred approximately 90 min posttreat-ment .
+The appearance of SOCS-1 mRNA in monocytes correlated temporally with the suppression of IL-4-induced STAT6 activity ( Fig .
+4 4 and B ) .
+Furthermore , as shown in Fig .
+5 , analysis of the ability of multiple cytokines to induce SOCS-1 gene expression in monocytes demonstrated that only those cytokines that induced SOCS-1 expression ( i.e .
+, IFN-B and IFN-y ) inhibited IL-4-induced activation of STAT6 ( Fig .
+2 ) .
+To determine whether forced expression of the SOCS-1 gene in a myeloid cell line can suppress IL-4-inducible promoter activity , we transfected the macrophage cell line , RAW264 , with an IL-4-inducible reporter gene , C/EBP-N4 , in the presence or absence of a wild-type or mutant SOCS-1 expression plasmid .
+We then measured reporter gene activity 6 hr after stimulating these cells with IL-4 .
+The reporter gene used to assess IL-4 responsiveness contains a prototypical N4 STAT6-binding site ( 44 ) .
+As shown in Fig .
+64 , IL-4 induction of control RAW264 cells transfected with the reporter gene alone resulted in a 42-fold increase in basal luciferase activity .
+In contrast , these levels were diminished markedly ( ~84 % Immunology : Dickenshects et al .
+A .
++ IL-4 - 1 e IFN-y Medium E Fo o r ~ b EMSA : 6 a 8 § 8 ® » 8 8 § ® time ( min ) SBE 1 Probe dul to i- dud lak tut tad bot < -- State B .
++ IL-4 ~a 6 IFN-y Medium Western biot : ‘ g ' Lok .
+e `` wos , RI 0 s 8 $ & `` os 8 § % ® time ( min ) Nucleus : 116-97. woes ems sue wou coms cuse sume -4—P ( Y ) ‘ STHT6 Cytosol : - 116 : g ?
+_-—-——— -- —-—* “ Stat6 10 2 3 4 § 60 7 8 9 1:0 11 C. IFN-y 0 30° 60° 90° 120° » * ~SOCS-1 Fig .
+4 .
+( 4 ) Kinetic analysis of the induction of inhibition by IFN-y in monocytes .
+Monocytes ( 4 X 108 cells per ml ) were preincubated with IFN-y ( 10 ng/m ! )
+( lanes 2-6 ) or medium ( lanes 7-11 ) for 0 , 30 , 60 , 90 , or 120 min at 37°C .
+IL-4 ( 1 ng/ml ) then was added , and the cultures were incubated for an additional 30 min .
+Nuclear extracts then were prepared and assayed by EMSA for STAT6 activity .
+( B ) The nuclear and cytosolic protein fractions also were analyzed by Western blotting with anti-P ( Y ) -STAT6 and anti-STAT6 antibodies , respectively .
+( C ) Monocytes were incubated with rhIFN-y for 0-2 hr at 37°C .
+At the indicated time points , the cells were harvested and total RNA was isolated .
+The levels of SOCS-1 and glyceraldehyde-3-phosphate dehydrogenase mRNA then were examined by Northern blotting .
+suppression ) in cells that were cotransfected with the reporter gene plus the wild-type SOCS-1 expression plasmid .
+The SOCS proteins contain central SH2 domains that enable them to bind to phosphorylated tyrosine residues on the intracellular domains of cytokine receptors or the receptor-associated JAKs ( 41 , 45 , 46 ) .
+These SH2 domains appear to be essential for the biological activity of the SOCS proteins .
+To examine the role of the SOCS-1 SH2 domain in mediating inhibition of IL-4-induced reporter gene activity , we introduced an Arg - > Ala Control IFN-B IFN-y IL-18 IL-2 M-CSF GM-CSF IL-6 TGF-B w t t t « SOCS-1 tae tut tort tut tae bud dud tut # # -GAPDH 1 2 3 4 5 6 7 8 9 Fig .
+5 .
+Analysis of the ability of multiple cytokines to induce SOCS-1 gene expression in monocytes .
+Monocytes ( 4 X 10° cells per ml ) were cultured at 37°C for 2 hr in the presence of medium alone , IFN-8 , IFN-y , IL-1 , IL-2 , M-CSF , GM-CSF , IL-6 , or ( 10 ng/ml each ) .
+At the end of the incubation period , the cells were harvested , RNA was extracted , and SOCS-1 mRNA levels were measured by Northern blotting .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 96 ( 1999 ) - 10803 A. C+ Vector 8 { m+ SOCS-1 A+ mut .
+SOCS-1 Luciferase Activity 1.8 B. O+ Vector 1.6 |m+ SOCS-1 & + mut .
+SOCS-1 0.8 0.6 Luciferase Activity 0.4 0.2 0 tL-6 : - + + + 20 o D+ Vector 18 { m+ SOCS-1 + mut .
+SOCS-1 Luciferase Activity 3 o n a o o IFN-y - + + + Fig .
+6 .
+( 4 ) Forced expression of SOCS-1 in the macrophage cell line , RAW264 , inhibits IL-4-induced trans-activation of a STAT6-responsive reporter gene .
+RAW264 cells were transfected with an IL-4-inducible reporter , C/EBP-N4-Luc , in the presence or absence of a wild-type SOCS-1 expression plasmid or a SOCS-1 mutant ( mut .
+SOCS-1 ) containing a single amino acid change ( Arg ! ``
+- > Ala ) in the SH2 domain .
+Control cells were transfected with the reporter gene plus the plasmid vector alone .
+Eighteen hours after transfection , the cells were stimulated with recombinant murine IL-4 ( rmIL-4 ; 10 ng/ml ) for 6 hr .
+Luciferase activity then was measured and normalized to total protein .
+Values represent the mean + SD of three independent experiments .
+( B ) Forced expression of SOCS-1 in RAW264 cells inhibits IL-6-induced trans-activation of a STAT reporter , IRF-1-Luc .
+( C ) Forced expression of §OCS-1 in RAW 264 cells inhibits IFN-y-induced trans-activation of a STAT reporter ( IRF-1-Luc ) .
+mutation in the phosphotyrosine-binding pocket of the SOCS-1 SH2 domain .
+This mutation abrogated the ability of SOCS-1 to inhibit IL-4-induced reporter gene activity in RAW264 cells .
+To determine whether forced expression of SOCS-1 in RAW264 cells also inhibits activation by other cytokines that utilize the JAK /STAT signaling pathway , we cotransfected the SOCS-1 expression construct together with a reporter gene ( IRF-1-Luc ) that can be activated by either IL-6 or IFN-y .
+As shown in Fig .
+6 B and C , SOCS-1 markedly inhibited trans- 10804 _ Immunology : Dickenshects et al .
+activation of this reporter gene by both IL-6 and IFN-y .
+Therefore , once expressed , SOCS-1 can inhibit signal trans-duction mediated via multiple cytokine receptors .
+DISCUSSION Type I and type II IFNs inhibit expression of several IL-4/ IL-13-inducible genes in monocytes , including CD23 ( 25 , 26 ) , 15-lipoxygenase ( 13 , 14 ) , IL-1ra ( 27 ) , IL-1RI , and IL-1RIH ( 28 ) .
+The promoter regions of these genes contain functional STAT6-binding sites through which IL-4 and IL-13 induce ( or amplify ) their expression .
+The present studies were conducted to determine the mechanism ( s ) by which IFNs suppress IL-4-and IL-13-inducible gene expression in primary human monocytes .
+We found that pretreatment of monocytes with type I or II IFNs inhibits IL-4-induced activation and nuclear translocation of STAT6 .
+Inhibition of STAT6 activation required preincubation with IFN for at least 1 hr and could be blocked by actinomycin D. Furthermore , the onset of inhibition correlated temporally with expression of the JAK/STAT inhibitory gene , SOCS-1 .
+Moreover , forced expression of SOCS-1 in the macrophage cell line , RAW264 , markedly suppressed IL-4-induced trans-activation of a STAT6-dependent reporter gene .
+These findings define a mechanism by which IFNs may suppress expression of multiple IL-4 genes .
+A family of genes known as the SOCS or SSI ( STAT -induced STAT inhibitor ) genes recently has been identified ( 41 , 45 , 46 ) .
+The proteins encoded by these genes are relatively small molecules ( 20-40 kDa ) that can interact physically via their central SH2 domains with either phosphotyrosine residues in the JAK kinases and/or the intracellular domains of certain cytokine receptors and , thereby , inhibit cytokine-induced STAT activation and STAT-dependent gene expression .
+We considered whether inhibition of IL-4-induced STAT6 activity by IFNs might be mediated via the induction of one or more of these genes .
+Recent studies have shown that SOCS-1 expression in the leukemic murine myeloid cell line M1 can be markedly up-regulated by treatment with various cytokines , including IFNs ( 47 ) .
+In addition , both type I and type II IFNs have been shown to induce SOCS-1 expression in murine bone marrow stem cells ( 41 ) .
+However , to date , no published studies have examined whether IFNs can induce SOCS gene expression in primary human cells .
+We found that IFN treatment induces high levels of SOCS-1 expression in monocytes and that expression of this gene coincides with decreased STAT6 activity .
+Inhibition of STAT6 activity by IFNs required that the cells be preincubated with IFN- or IFN-y for at least 60 min before IL-4 stimulation .
+More complete suppression was attained when monocytes were preincubated with IFN for 90-120 min .
+This lag period appears to be necessary for de novo expression of SOCS-1 .
+Inhibition could be blocked by actinomycin D , demonstrating that it is newly transcribed .
+In normal resting cells , the SOCS proteins do not exist as preformed latent molecules in the cytosol .
+However , their expression can be induced rapidly by multiple cytokines , including type I and type II IFNs ( 41 , 47 ) .
+We found that IFN-8 and IFN-y induce high levels of SOCS-1 expression in monocytes and that induction of SOCS-1 mRNA coincides with the suppression of IL-4-induced STAT6 activity .
+Other cytokines such as IL-1 , IL-2 , M-CSF , GM-CSF , IL-6 , and TGF-B did not induce SOCS-1 mRNA and did not inhibit IL-4-induced activation of STAT6 .
+Forced expression of the SOCS-1 gene in the macrophage cell line , RAW264 , markedly inhibited IL-4-induced trans-activation of a STAT6-responsive reporter gene .
+Thus , IFNs inhibit IL-4-induced STAT6 activity and STAT6-dependent gene expression , at least in part , by inducing SOCS-1 gene expression .
+Although preincubation of monocytes with IFNs suppressed IL-4-induced tyrosine phosphorylation of STAT6 , decreased Proc .
+Natl .
+Acad .
+Sci .
+USA 96 ( 1999 ) STAT6 phosphorylation actually may be a secondary consequence of decreased JAK1 activity .
+JAK1 is constitutively associated with the intracellular domain of the IL-4Ra « chain in both type I and type II IL-4R complexes , and both IL-4 and IL-13 induce tyrosine phosphorylation of JAK1 ( 3-5 ) .
+Furthermore , studies have shown that JAK1-deficient cell lines are unable to transduce IL-4-mediated signals ( 5 , 48 ) .
+Although the precise mechanism by which SOCS proteins inhibit cytokine-induced signaling has not been fully defined , studies have shown that SOCS-1 can bind via its SH2 domain to the tyrosine kinase domain ( JH1 domain ) in all four JAKs and , thereby , inhibit their activity ( 45-47 ) .
+It is likely , therefore , that IFN-induced SOCS-1 targets primarily JAK1 and that phosphorylation of STAT 6 is decreased only as a secondary consequence of decreased activation of JAK1 .
+Unfortunately , IFN-B and IFN-y themselves induce tyrosine phosphorylation of JAK1 , so it is difficult to determine directly whether IL-4-induced JAK1 activity is decreased in IFN-treated monocytes because the basal levels of tyrosine-phosphorylated JAK1 are elevated significantly by IFN pretreatment .
+However , a recent report showed that stable expression of SOCS-1 in the murine B cell line , M12 , markedly inhibits IL-4-induced activation of JAK1 ( 49 ) .
+The ability of IFNs to antagonize IL-4- or IL-13-induced STAT6 activity is not limited to monocytes because we have found that IFN-B and IFN-y also inhibit activation of STAT6 in fibroblasts .
+These findings demonstrate that this inhibitory pathway is inducible in both hematopoietic and nonhemato-poictic cells and may be a common mechanism by which IFNs can antagonize IL-4- and IL-13-induced signaling in multiple cell types .
+Studies have shown that IFN-y can inhibit IL-4-induced proliferation by Th2-type T cell clones ( 50 ) .
+In addition , a number of earlier reports showed that pretreatment of primary B cells or B cell lines with type I or II IFNs inhibits IL-4-induced Ig isotype switching to IgE ( 20-22 ) .
+A functional STAT6-binding site is present in the proximal promoter region of the Is gene , and binding of activated STAT6 to this site is essential for IL-4-induced gene expression ( 44 ) .
+Furthermore , recent studies show that IFN-y also inhibits activation of STAT6 in certain B cell lines ( 49 , 51 ) .
+It is possible , therefore , that this is also a mechanism by which IFNs inhibit IgE synthesis in B cells .
+Further characterization of the molecular basis by which IFNs inhibit STAT 6 activity may aid in the future development of specific inhibitors of STAT 6 .
+Such compounds might be very useful as therapeutic agents for treating diseases characterized by elevated IL-4 and IL-13 levels , particularly atopic disorders .
+This hypothesis is supported by recent reports showing that STAT6 knock-out mice are highly resistant to bronchoalveolar challenge with allergens that are known to induce IL-4 and IL-13 activity ( 52 , 53 ) .
+It is noteworthy that a recent study showed that thymocytes from SOCS-1 knock-out mice exhibit exaggerated IL-4-induced STAT6 activity ( 54 ) .
+These findings as well as those described in this report suggest a critical role for SOCS-1 in counterregulating STAT 6 activity .
+The ability of type I and type II IFNs to induce SOCS-1 gene expression provides a mechanism to explain how IFNs can suppress activation of IL-4- and IL-13-inducible genes .
+We thank Valerie Calvert for preparing elutriated monocytes and Dr. Douglas Hilton ( The Walter and Eliza Hall Institute , Parkville , Australia ) and Dr. Hiroyuki Mano ( Jichi Medical School , Tochigi , Japan ) for providing the SOCS cDNAs .
+H.L.D .
+was the recipient of a Postgraduate Research Fellowship Award from the Oak Ridge Institute for Science and Education through an interagency agreement between the U.S. Department of Energy and the Food and Drug Administration .
+1 .
+- Kondo , M. , Takeshita , T. , Ishii , N. , Nakamura , M. , Watanabe , S. , Arai , K. & Sugamura , K. ( 1993 ) Science 262 , 1874-1877 .
+10 .
+11 .
+12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+25 .
+26 .
+27 .
+Immunology : Dickenshects et al .
+Russell , S. M. , Keegan , A. D. , Harada , N. , Nakamura , Y. , Noguchi , M. , Leland , P. , Friedmann , M. C. , Miyajima , A. , Puri , R. K. , Paul , W. E. , et al .
+( 1993 ) Science 262 , 1880-1883 .
+Witthuhn , B .
+A. , Silvennoinen , O. , Miura , O. , Lai , K. S. , Cwik , C. , Liu , E. T. & Thle , J. N. ( 1994 ) Nature ( London ) 370 , 153-157 .
+Keegan , A. D. , Johnston , J .
+A. , Tortolani , P. J. , McReynolds , L. J. , Kinzer , C. , O'Shea , J. J .
+& Paul , W. E. ( 1995 ) Proc .
+Nail .
+Acad .
+Sci .
+USA 92 , 7681-7685 .
+Chen , X. H. , Patel , B. K. R. , Wang , L.- M. , Frankel , M. , Ellmore , N. , Flavell , R. A. , LaRochelle , W. J .
+& Pierce , J. H. ( 1997 ) J. Biol .
+Chem .
+272 , 6556-6560 .
+Smerz-Bertling , C. & Duschl , A .
+( 1995 ) J. Biol Chem .
+270 , 966-970 .
+Ryan , J. J. , McReynolds , L. J. , Keegan , A. , Wang , L. , Garfein , E. , Rothman , P. , Nelms , K. & Paul , W. E. ( 1996 ) Immunity 4 , 123-132 .
+Kotanides , H. & Reich , N. C. ( 1993 ) Science 262 , 1265-1267 .
+Hou , J. , Schindler , U. , Henzel , W. J. , Ho , T. C. , Brasseur , M. & McKnight , S. L. ( 1994 ) Science 265 , 1701-1706 .
+Quelle , F. W. , Shimoda , K. , Thierfelder , W. , Fischer , C. , Kim , A. , Ruben , S. M. , Cleveland , J. L. , Pierce , J. H. , Keegan , A. D. , Nelms , K. , et al .
+( 1995 ) Mol .
+Cell .
+Biol .
+15 , 3336-3343 .
+Vercelli , D. , Jabara , H. H. , Lee , B. W. , Woodland , N. , Geha , R. S. & Leung , D. Y. M. ( 1988 ) J. Exp .
+Med .
+167 , 1406-1416 .
+McKenzie , A. N. J. , Culpepper , J .
+A. , de Waal Malefyt , R. , Bricre , F. , Punnonen , J. , Aversa , G. , Sato , A. , Dang , W. , Cocks , B. G. , Menon , S. , et al .
+( 1993 ) Proc .
+Natl .
+Acad .
+Sci .
+USA 90 , 3735-3739 .
+Conrad , D. J. , Kuhn , H. , Mulkins , M. , Highland , E. & Sigal , E. ( 1992 ) Proc .
+Natl .
+Acad .
+Sci .
+USA 89 , 217-221 .
+Nassar , G. M. , Morrow , J. D. , Roberts , L. J. , II , Lakkis , F. G. & Badr , K. F. ( 1994 ) J. Biol .
+Chem .
+269 , 27631-27634 .
+Fenton , M. J. , Buras , J .
+A .
+& Donnelly , R. P. ( 1992 ) J. Immunol .
+149 , 1283-1288 .
+Vannier , E. , Miller , L. C. & Dinarello , C. A .
+( 1992 ) Proc .
+Nail .
+Acad .
+Sci .
+USA 89 , 4076-4080 .
+Muzio , M. , Re , F. , Sironi , M. , Polentarutti , N. , Minty , A. , Caput , D. , Ferrara , P. , Mantovani , A .
+& Colotta , F. ( 1994 ) Blood 83 , 1738-1743 .
+Colotta , F. , Re , F. , Muzio , M. , Bertini , R. , Polentarutti , N. , Sironi , M. , Giri , J. G. , Dower , S. K. , Sims , J. E. & Mantovani , A .
+( 1993 ) Science 261 , 472-475 .
+Colotta , F. , Re , F. , Muzio , M. , Polentarutti , N. , Minty , A. , Caput , D. , Ferrara , P. & Mantovani , A .
+( 1994 ) J. Biol .
+Chem .
+269 , 12403-12406 .
+Snapper , C. M. & Paul , W. E. ( 1987 ) Science 236 , 944-947 .
+Pene , J. , Rousset , F. , Briere , F. , Chretien , I. , Bonnefoy , J.-Y .
+, Spits , H. , Yokota , T. , Arai , N. , Arai , K. , Banchereau , J. , ef al .
+( 1988 ) Proc .
+Natl .
+Acad .
+Sci .
+USA 85 , 6880-6884 .
+Thyphronitis , G. , Tsokos , G. C. , June , C. H. , Levine , A. D. & Finkelman , F. D. ( 1989 ) Proc .
+Natl .
+Acad .
+Sci .
+USA 86 , 5580-5584 .
+Galizzi , J. P. , Cabrillat , H. , Rousset , F. , Menetrier , C. , de Vries , J. E. & Banchereau , J .
+( 1988 ) J. Immunol .
+141 , 1982-1988 .
+Denoroy , M. , Yodoi , J .
+& Banchereau , J .
+( 1990 ) Mol .
+Immunol .
+27 , 129-134. te Velde , A .
+A. , Rousset , F. , Peronne , C. , de Vries , J. E. & Figdor , C. G. ( 1990 ) J. Immunol .
+144 , 3052-3059 .
+Alderson , M. R. , Armitage , R. J. , Tough , T. W. & Ziegler , S. F. ( 1994 ) Cytokine 6 , 407-413 .
+Sone , S. , Orino , E. , Mitzuno , K. , Yano , S. , Nishioka , Y. , Haku , T. , Nii , A .
+& Ogura , T. ( 1994 ) Eur .
+Respir .
+J .
+7 , 657-663 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 96 ( 1999 ) - 10805 Dickensheets , H. L. & Donnelly , R. P. ( 1997 ) J. Immunol .
+159 , 6226-6233 .
+Takeda , K. , Tanaka , T. , Shi , W. , Matsumoto , M. , Minami , M. , Kashiwamura , S. , Nakanishi , K. , Yoshida , N. , Kishimoto , T. & Akira , S. ( 1996 ) Nature ( London ) 380 , 627-630 .
+Shimoda , K. , van Deursen , J. , Sangster , M. Y. , Sarawar , S. R. , Carson , R. T. , Tripp , R. A. , Chu , C. , Quelle , F. W. , Nosaka , T. , Vignali , D. A. , et al .
+( 1996 ) Nature ( London ) 380 , 630-633 .
+Kaplan , M. H. , Schindler , U. , Smiley , S. T. & Grusby , M. J .
+( 1996 ) Immunity 4 , 313-319 .
+Kohler , I .
+& Rieber , E. P. ( 1993 ) Eur .
+J. Immunol .
+23 , 3066-3071 .
+Ohmori , Y. , Smith , M. F. & Hamilton , T. A .
+( 1996 ) J. Immunol .
+157 , 2058-2065 .
+Kotanides , H. & Reich , N. C. ( 1996 ) J. Biol .
+Chem .
+271 , 25555-25561 .
+Seidel , H. M. , Milocco , L. H. , Lamb , P. , Darnell , J. E. , Stein , R. B .
+& Rosen , J .
+( 1995 ) Proc .
+Natl .
+Acad .
+Sci .
+USA 92 , 3041-3045 .
+Schindler , U. , Wu , P. , Rothe , M. , Brasseur , M. & McKnight , S. L. ( 1995 ) Immunity 2 , 689-697 .
+Wahl , L. M. , Katona , I. M. , Wilder , R. L. , Winter , C. C. , Haroui , B. , Scher , I .
+& Wahl , S. M. ( 1984 ) Cell .
+Immunol .
+85 , 373-383 .
+Schreiber , E. , Matthias , P. , Muller , M. M. & Schaffner , W. ( 1989 ) Nucleic Acids Res .
+17 , 6419 .
+Dignam , J. D. , Lebovitz , R. M. & Roeder , R. G. ( 1983 ) Nucleic Acids Res .
+11 , 1475-1489 .
+Donnelly , R. P. , Fenton , M. J. , Kaufman , J. D. & Gerrard , T. L. ( 1991 ) J. Immunol .
+146 , 3431-3436 .
+Starr , R. , Willson , T. A. , Viney , E. M. , Murray , L. J. L. , Rayner , J. R. , Jenkins , B. J. , Gonda , T. J. , Alexander , W. S. , Metcalf , D. , Nicola , N. A. , et al .
+( 1997 ) Nature ( London ) 387 , 917-921 .
+Feinberg , A. P. & Vogelstein , B .
+( 1983 ) Anal .
+Biochem .
+132 , 6-13 .
+Ohya , K. , Kajigaya , S. , Yamashita , Y. , Miyazato , A. , Hatake , K. , Miura , Y. , Ikeda , U. , Shimada , K. , Ozawa , K. & Mano , H. ( 1997 ) J. Biol .
+Chem .
+272 , 27178-27182 .
+Mikita , T. , Campbell , D. , Wu , P. , Williamson , K. & Schindler , U .
+( 1996 ) Mol .
+Cell .
+Biol .
+16 , 5811-5820 .
+Endo , T. A. , Masuhara , M. , Yokouchi , M. , Suzuki , R. , Sakamoto , H. , Mitsui , K. , Matsumoto , A. , Tanimura , S. , Ohtsubo , M. , Misawa , H. , et al .
+( 1997 ) Nature ( London ) 387 , 921-924 .
+Naka , T. , Narazaki , M. , Hirata , M. , Matsumoto , T. , Minamoto , S. , Aono , A. , Nishimoto , N. , Kajita , T. , Taga , T. , Yoshizaki , K. , et al .
+( 1997 ) Nature ( London ) 387 , 924-929 .
+Sakamoto , H. , Yasukawa , H. , Masuhara , M. , Tanimura , S. , Sasaki , A. , Yuge , K. , Ohtsubo , M. , Ohtsuka , A. , Fujita , T. , Ohta , T. , et al .
+( 1998 ) Blood 92 , 1668-1676 .
+Wang , H. Y. , Zamorano , J. , Yoerkie , J. L.. , Paul , W. E. & Keegan , A. D. ( 1997 ) J. Immunol .
+158 , 1037-1040 .
+Losman , J .
+A. , Chen , X. P. , Hilton , D. & Rothman , P. ( 1999 ) J. Immunol .
+162 , 3770- 3774 .
+Gajewski , T. F. & Fitch , F. W. ( 1988 ) J. Immunol .
+140 , 4245-4252 .
+Venkataraman , C. , Leung , S. , Salvekar , A. , Mano , H. & Schindler , U .
+( 1999 ) J. Immunol .
+162 , 4053-4061 .
+Kuperman , D. , Schofield , B. , Wills-Karp , M. & Grusby , M. J .
+( 1998 ) J. Exp .
+Med .
+187 , 939-948 .
+Akimoto , T. , Numata , F. , Tamura , M. , Takata , Y. , Higashida , N. , Takashi , T. , Takeda , K. & Akira , S. ( 1998 ) J. Exp .
+Med .
+187 , 1537-1542 .
+Naka , T. , Matsumoto , T. , Narazaki , M. , Fujimoto , M. , Morita , Y. , Ohsawa , Y. , Saito , H. , Nagasawa , T. , Uchiyama , Y .
+& Kishimoto , T. ( 1998 ) Proc .
+Natl .
+Acad .
+Sci .
+USA 95 , 15577-15582 .

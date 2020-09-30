@@ -1,0 +1,592 @@
+Vol .
+7 , 1239-1249 , September 1996 Cell Growth & Differentiation Vitamin D3- and Retinoic Acid-induced Monocytic Differen-tiation : Interactions between the Endogenous Vitamin D3 Receptor , Retinoic Acid Receptors , and Retinoid X Receptors in U-937 Cells ' Johan Botling , Fredrik ﬁbers , Hans Torma , Pentti Tuohimaa , Merja Blauer , and Kenneth Nilsson* Laboratory of Tumor Biology , Department of Pathology [ J .
+B. , F. O. , K. N.JJ , and Department of Dermatology [ H. T. ] , Uppsala University , $ -751 85 Uppsala , Sweden , and Department of Anatomy , University of Tampere Medical School , 33100 Tampere , Fintand [ P. T. , M .
+B . ]
+Abstract Retinoic acid ( RA ) and 1,25 « -dihydroxycholecalciferol ( VitD3 ) are potent regulators of hematopoietic differentiation .
+Yet , little is known as to how the RA and VitD3 receptor network operates in hematopoietic cells , and whether receptor interactions can explain the interplay between the RA- and VitD3-signaling pathways during differentiation .
+Therefore , we analyzed the expression , DNA binding , and transcriptional activity of the endogenous RA and VitD3 receptors [ retinoic acid receptors ( RARs ) , retinoid X receptors ( RXRs ) , and VitD3 receptor ( VDR ) ] in the U-937 cell line , in which RA and VitD3 induce distinct monocytic differentiation pathways .
+VitD3 induction resulted in the formation of VDR/RXR DNA-binding complexes on both VitD3 response elements and RA response elements ( RAREs ) .
+However , transcriptional activation was only observed from a VitD3 response element-driven reporter construct .
+Several DNA-binding complexes were detected on RAREs in undifferentiated cells.. Stimulation by RA resulted in increased RARGB/RXR DNA binding , activated RARE-dependent transcription , and increased expression of RAR-B .
+Concomitant , stimulation by VitD3 inhibited the RA-stimulated formation of RARB/RXR heterodimers , favoring VDR/ RXR binding to the RARE .
+Also , VitD3 inhibited the expression of CD23 and CD49f , characteristic markers of retinoid-induced U-937 cell differentiation .
+In contrast , neither the RA-stimulated , RARE-mediated transcription nor the induced RAR-B expression was suppressed by VitD3 , suggesting that VitD3 selectively Received 3/22/96 ; revised 6/3/96 ; accepted 6/28/96 .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked advertisement in accordance with 18 U.S.C .
+Section 1734 solely to indicate this fact . '
+This work was supported by grants from the Swedish Cancer Society , the Hans von Kantzow Foundation , and the Crown Princess Lovisa Foundation .
+2 To whom requests for reprints should be addressed .
+Phone : 46-18663823 ; Fax : 46-18558931 ; E-mail : Kenneth.Nilsson @ patologi .
+uu.se .
+inhibited the retinoid-induced differentiation program but not the RARE-mediated signal .
+These results demonstrate a complex role for VitD3 in modifying the retinoid differentiation pathway and may have implications for differentiation-inducing therapy of hematopoietic tumors .
+Introduction The growth and differentiation of a variety of tissues are regulated by the hormone-like vitamin A and D metabolites RA® and VitD3 .
+In the hematopoietic system , RA promotes differentiation of myeloid precursor cells ( 1 ) , and the RARs have been implicated in the regulation of stem cell growth and lineage commitment ( 2 ) .
+In acute promyelocytic leukemia , the t ( 15 ; 17 ) chromosomal translocation of the RAR- « gene results in a block in differentiation , which can be abrogated by RA treatment both in vitro and in patients ( 3 ) .
+In addition to its effects on myeloid differentiation , VitD3 has been noted to have potent immunomodulatory effects ( 4 ) .
+Several leukemia and lymphoma cell lines can be induced to differentiate in vitro by RA and VitD3 and have been extensively used as models for studies of differentiation-associ-ated regulation of gene expression and growth arrest ( 5 , 6 ) .
+RA and VitD3 exert their biological effects through a family of the nuclear steroid receptors : VDR ; RAR- « , -B , and -y , which are activated by at-RA and 9cis-RA ; and RXR- « , -B , and -y , which bind 9cis-RA ( 7 ) .
+The receptors form dimers and act as transcription factors on cognate promoter response elements composed of direct repeats of the consensus half-site AGGTCA organized in tandem ( 8 ) .
+The response element specificity is mainly determined by the number of spacer nucleotides between the half sites .
+Thus , a DR spaced by three nucleotides ( DR-3 ) constitutes a VDRE , whereas DR-2 and DR-5 are RAREs ( 9 , 10 ) .
+The RXRs serve as common cofactors in VitD3 and RA signaling ( 11 ) and preferentially bind the 5 ' half-site , whereas the VDR and RARs occupy the downstream half-site on their respective response elements ( 12 ) .
+The complexity of RA and VitD3 signaling at the receptor level is increased further by additional receptor complexes that do not use RXR as a cofactor .
+° The abbreviations used are : RA , retinoic acid ; VitD3 , 1,25 « -dihydroxy-cholecalciferol ; RAR , retinoic acid receptor , RXR , retinoid X receptor ; VDR , VitD3 receptor ; DR , direct repeat ; RARE , RA response element ; VDRE , VitD3 response elements ; PMA , phorbol 12-myristate 13-acetate ; EMSA , electrophoretic mobility shift assay ; at-RA , all-frans-RA ; PRD1 , positive regulatory domain | in the B , -interferon promoter ; B-RARE , RAR-B , promoter RARE ; OC-VDRE , VDRE from the osteocalcin gene promoter ; CAT , chloramphenicol acetyitransferase ; PKC , protein kinase C ; CMV , cytomegalovirus .
+1240 - VDR , RAR , and RXR Interactions in U-937 Cells For example , both RAR and VDR can homodimerize or interact with each other as RAR/~VDR heterodimers ( 13 , 14 ) .
+In addition , it has been shown that RAR and VDR can form heterodimers with the thyroid hormone receptor and so-called `` orphan receptors '' such as the chicken ovalbumin upstream promoter transcription factor ( 15 , 16 ) .
+Furthermore , the published effects of stimulation with at-RA , cis-RA , and VitD3 , alone or in combination , on the DNA-binding and transcriptional activity of some of these receptor complexes are divergent ( 13 , 17 , 18 ) .
+Moreover , most of the data on RAR , VDR , and RXR activity derive from experiments on purified or overexpressed receptors and remain to be confirmed in native cells and tissues .
+Only a few reports have been published on the DNA-binding and transcriptional activity of endogenous nuclear receptors expressed at low numbers in cells , and these studies have mainly been performed in nonhematopoietic cells .
+In view of the important regulatory effects of RA and VitD3 during hematopoietic development and the therapeutic potential of these drugs , we set out to investigate the early RA and VitD3 response during induced monocytic differentiation .
+The U-937 histiocytic lymphoma cell line is a model for human monoblast-to-macrophage differentiation ( 5 , 19 ) .
+RA and VitD3 induce terminal monocytic differentiation and growth arrest in this system ( 20 , 21 ) .
+Parallel to their common effects on U-937 cell maturation , RA- and VitD3-specific differentiation pathways are suggested by the fact that unique morphological characteristics and distinct patterns of antigen expression , as asserted by differential regulation of the CD14 , CD23 , and CD49f genes , are induced by the two agents ( 22 , 23 ) .
+In this respect , U-937 cells resemble the HL-60 cell line , in which RA and VitD3 promote differentiation along two different lineages , the granulocytic and monocytic pathways , respectively ( 24 ) .
+The partly unique and partly overlapping effects of RA and VitD3 on myeloid differentiation make these cell lines interesting models for studies of the basic RA and VitD3 response through their respective receptors .
+In this article , we have studied the expression and activity of the endogenous VDR , RARs , and RXRs in U-937 cells during induced differentiation .
+Previously characterized RAREs and VDREs were used in EMSAs and in reporter gene constructs to study the DNA-binding and transcriptional activity of the receptors after VitD3 and RA stimulation .
+The objective was to characterize the early differentiation signals elicited by RA and VitD3 and to relate these results to the specific biological responses that these agents induce in U-937 cells .
+Results Expression of VDR , RARs , and RXRs during Differentiation of U-937 Cells .
+We first analyzed the expression of VDR and retinoid receptors in U-937 cells induced to differentiate by VitD3 , at-RA , 9cis-RA , or phorbol esters ( PMA ) .
+The mRNA expression of the various receptors after 72 h of induced differentiation is shown in Fig .
+1 .
+Unstimulated cells expressed the VDR mRNA , three RAR-a transcripts , and low levels of RXR- « and RXR-8 .
+After VitD3 stimulation , the VDR and RAR- « expression persisted , and the RXR- « and -B < C o < & C 8 t & > T -O VDR RARa RARB RXRa RXRB actin Fig .
+1 .
+- Northern blot analysis of the expression of RA and VitD3 receptors .
+U-937 cells were stimulated for 72 h with PMA ( 10 ny ) , VitD3 ( 0.1 um ) , at-RA ( 1.0 um ) , and 9cis-RA ( 1.0 um ) .
+Polyadenylated RNA was prepared , and 5 ug were fractionated on a gel and blotted onto a nitrocellulose filter .
+The filter was sequentially hybridized to °°P-labeled fragments prepared from the receptor cDNAs as indicated and reprobed with « -actin as a loading control .
+The sizes of the mRNA transcripts were calculated by their positions in relation to the 18 S and 28 S rRNAs .
+unstim , unstimulated .
+levels were somewhat increased .
+Treatment with at-RA or 9cis-RA strongly induced the expression of RAR-B .
+No RAR-B mRNA could be detected in VitD3- or PMA-stimu-lated cells .
+The retinoids , especially 9cis-RA , also up-regulated RXR- « expression .
+In addition , at-RA slightly suppressed VDR expression , and 9cis-RA treatment resulted in increased amounts of the largest RAR-a « transcript .
+The PMA lane was loaded with slightly less RNA , as indicated by a weaker actin signal .
+This could explain the apparently low levels of RXR- « and -B in this lane and might also indicate that PMA slightly increases the expression of VDR and Cell Growth & Differentiation A OC-VDRE* OC-VDRE* C OC-VDRE* € vitb3 72h , vitbs [ # n ' # a .
+> AF 3 ne pI I S ocNB Pag Eat Paves E E E 5 e E F > C CG C E o £ % s s s 8 12 o 7 % 10+ + F % 2 2 g 3 > 3 1 2 3 4 5 6 7 8 9 10 11121314 1 VDR/RXR 2 3 4 5 1 2 3 Fig .
+2 .
+VitD3-induced OC-VDRE DNA binding .
+Radiolabeled OC-VDRE oligonucleotides were mixed with nuclear extracts prepared from unstimulated U-937 cells ( unstim ) or from cells stimulated with VitD3 ( 0.1 um ) .
+The complexes were separated on a native polyacrylamide gel .
+The excess of free labeled oligonucleotide was run out of the gels .
+A , EMSA on nuclear extracts prepared from cells incubated for 72 h with or without VitD3 .
+The specificity of the protein-DNA interactions was analyzed by addition of cold OC-VDRE , DR-3 , B-RARE , and PRD !
+oligonucleotides as indicated in a 10- , 50- , and 100-fold molar excess of the °°P-labeled OC-VDRE .
+A VitD3-induced specific OC-VDORE DNA-binding complex ( arrow ) was competed by cold OC-VDRE ( Lanes 3-5 ) and related response elements , but not by the unrelated PRD !
+sequence from the B , -IFN promoter ( Lanes 12-14 ) .
+B , EMSA on a nuclear extract prepared from U-937 cells stimulated with VitD3 for 72 h. Supershift performed with antibodies directed to the VDR { aVDR ) , RAR-a ( aRARa ) , RAR-8 ( « RARB ) and the RXRs ( « RXR ) .
+The VitD3-induced OC-VDRE binding complex ( arrow ) was supershifted by VDR and RXR antibodies ( * ) .
+C , ligand-dependent binding of VDR/RXR to the OC-VDRE .
+Nuclear extracts were prepared from unstimulated cells ( unstim ; Lane 1 ) and VitD3 treated cells ( Lane 2 ) after incubation for 4 h. VitD3 in a final concentration of 0.1 mm was added to a binding reaction containing nuclear extract from unstimulated cells .
+This binding reaction was loaded in Lane 3 { unstim+ ( VitD3 ) ] .
+Arrow , VDR/RXR complex formed on the OC-VDRE in Lanes 2 and 3 .
+The band at the top of the gel represents AP-1-binding activity ( see Fig .
+3B ) .
+This AP-1 band could be detected in nuclear extracts from cells harvested at early time points after the experiment setup and is probably a result of serum stimulation after addition of fresh culture medium to the cells .
+RAR-a .
+Taken together , these results suggest that receptors for VitD3 and RA are expressed in U-937 cells throughout the various differentiation pathways .
+VitD3-dependent Binding of Endogenous VDR/RXR Complexes to VDREs .
+Several regulatory complexes containing the VDR have been shown to bind VDREs in gene promoters .
+Experiments with overexpressed or purified receptors have shown that VDRE activity can be regulated by VDR homodimers and by VDR heterodimerized to RXR , RAR , thyroid hormone receptor , or chicken ovalbumin upstream promoter transcription factor ( 13-16 ) .
+However , it is not known how VDREs are activated during induced monocytic differentiation in intact cells expressing physiological levels of nuclear receptors .
+Therefore we analyzed the VDRE-binding activity in unstimulated and VitD3-stimulated U-937 cells using the OC-VDRE and a synthetic DR-3-type VDRE in EMSAs .
+Fig .
+24 shows that a DNA-binding complex was formed on the OC-VDRE after VitD3 treatment of the cells for 72 h. The complex was specifically competed with unlabeled OC-VDRE and DR-3 VDRE oligonucleotides but not by the unrelated oligonucleotide PRDI .
+Notably , competition with excess cold B-RARE also abolished the OC-VDRE DNA binding ( see below ) .
+Supershift experiments with antibodies directed either to the VDR or the RXRs indicated that the OC-VDRE-binding activity was composed of a VDR/RXR complex ( Fig .
+2B , Lanes 2 and 5 ) .
+VitD3 induced a similar DNA-binding complex on the DR-3 , which was also shown to be composed of VDR and RXR ( Fig .
+3B and data not shown ) .
+The VitD3-induced VDRE-binding activity could be detected in U-937 cells early after stimulation and persisted throughout the differentiation process ( Fig .
+2C and data not shown ) .
+The kinetics of the induced DNA binding after VitD3 stimulation suggested that the binding of VDR/RXR to the VDRE resulted from recruitment of preexisting VDR and RXRs in a ligand-dependent fashion .
+Indeed , Fig .
+2C shows that VDR/ RXR binding could be induced in vitro in nuclear extracts 1241 1242 - VDR , RAR , and RXR Interactions in U-937 Cells A OC-VDRE* < B & 0 « » 0 € go $ 9 =ﬂ < | & ® s o c a i o o E c 8 L 6 e 2 2 = ® 3 > © a a > > = a 2 J 5 S -p -p VDR/RXR - { & 1 2 3 4 5 6 7 from unstimulated cells by the addition of VitD3 directly to the DNA-binding reaction .
+RA Stimulation Does Not interfere with VitD3-induced VDR/RXR Complex Formation or VDRE-mediated Tran-scription .
+Interference between VitD3 and retinoid-signaling pathways through the common coreceptor RXR has been observed , and 9cis-RA stimulation has been suggested to inhibit VDR/RXR DNA binding and VDRE-dependent transcription ( 17 , 18 ) .
+Therefore , we investigated whether RA stimulation would inhibit the DNA-binding or transcriptional activity of the VitD3-induced VDR/RXR complexes in U-937 cells .
+No specific OC-VDRE or DR-3 binding could be detected after at-RA or 9cis-RA stimulation ( Fig .
+3 , A and B , Lanes 3 and 4 ) .
+However , simultaneous treatment of U-937 cells with at-RA or 9cis-RA in addition to VitD3 ( Fig .
+3 , A and B , Lanes 6 and 7 ) resulted in the formation of a VDR/RXR complex in the EMSA , indistinguishable from that induced by VitD3 alone .
+The transcriptional response of an OC-VDRE-SV40 promoter-CAT reporter plasmid ( OC-VDREpCAT ) , transiently transfected into U-937 cells , is shown in Fig .
+4 .
+In repeated experiments , VitD3 induced an approximately 4-fold increase in CAT activity compared with the basal activity in unstimulated cells .
+No increase in CAT activity could be detected after at-RA or 9cis-RA stimulation .
+Costimulation of U-937 cells with VitD3 and at-RA or 9cis-RA resulted in increased levels of transcription , not significantly different from those induced by VitD3 by itself .
+Thus , the transcriptional activation of OC-VDREpCAT in U-937 cells correlated with the induced DNA binding of VDR/RXR .
+at-RA 9 A G La Fig .
+3 .
+VDRE binding in U-937 nuclear extracts after induced differentiation .
+U-937 cells were stimulated for 72 h as indicated with VitD3 ( 0.1 wm ) , at-RA ( 1.0 pM ) , Ocis-RA ( 0.1 um ) , PMA ( 10 nm ) , and combinations of VitD3 and RA .
+Nuclear extracts were prepared and subjected - to EMSA .
+A , DNA binding to the radiolabeled OC-VDRE .
+Bottom arrow , VitD3-induced complex visible in Lames 2 , 6 , and 7 ; top arrow , PMA-induced DNA binding to the OC-VDRE by a different complex , identified as AP-1 binding ( data not shown ) .
+B , EMSA set up as in A but with labeled DR-3 oligonucleotides .
+Lane 8 , VDR antibody supershift .
+unstim , unstimulated .
+9cis-RA PMA VitD3+at-RA VitD3+9cis-RA VitD3 + oV | WW .
+VDR/RXR 1 2 3 4 5 6 7 8 Phosphorylation of the VDR , by PKC and other kinases , has been shown to regulate VDR function ( 25 , 26 ) .
+PKC stimulation by PMA in U-937 cells results in differentiation toward an activated monocyte-macrophage phenotype ( 27 ) .
+PMA did not promote any VDR/RXR binding to the OC-VDRE in U-937 cells .
+Instead , a shifted complex of slower mobility was induced ( Fig .
+34 , Lane 5 ) , which was specifically competed by addition of cold AP-1 oligonucleotide to the binding reaction ( data not shown ) .
+This band thus represents AP-1 binding to the consensus AP-1 site ( TGACTCA ) in the 3'-end of the OC-VDRE .
+Similarly , PMA did not induce any VDR/ RXR binding to the DR-3 ( Fig .
+3B ) .
+Increased RAR-B/RXR Binding to RAREs after RA Stimulation of U-937 Cells .
+The natural RARE in the promoter ( B-RARE ) was used to investigate the retinoid response in differentiating U-937 cells .
+Gel shift assays with labeled B-RARE oligonucleotides showed that three major DNA-binding complexes ( designated I-III ) were formed in nuclear extracts prepared from either unstimulated or at-RA-stimulated U-937 cells ( Fig .
+54 ) .
+These complexes ( I-i11 ) were specifically competed by the addition of cold B-RARE oligonucleotides to the binding reaction ( Fig .
+5A , Lanes 3-5 ) .
+Competition with DR-3 or OC-VDRE oligonucleotides preferentially reduced B-RARE-binding complexes | and III but only marginally affected complex II formation ( Fig .
+5A , Lanes 6-11 ) .
+and at-RA treatment resulted in enhanced complex II formation along with induction of the differentiated state ( Fig .
+5B ) .
+Complex II could be supershifted by RXR and RAR-8 antibodies ( Fig .
+5C , Lanes 4 and 5 ) .
+The propor- Cell Growth & Differentiation W oc-vorEpcat 4 1 [ _ ] peat fold induction G VitD3 | - = = o= - # 0 # + # at-RA | - # = =- o= 4 =-Qcis-RA _- =- 4+ = O- _+ Fig .
+4 .
+OC-VDRE-dependent transcriptional activity in U-937 cells .
+U-937 cells were transfected by electroporation with 5 ug OC-VDREpCAT or pCAT plasmids together with 5 ug of a CMV-luciferase construct .
+After recovery , the two pools of OC-VDREpCAT- and pCAT-transfected cells were split and stimulated overnight as indicated with VitD3 ( 0.1 um ) , at-RA ( 1.0 uy ) , and 9cis-RA ( 1.0 um ) .
+CAT assays were performed and subjected to autoradiography and quantification in an image analyzer .
+Top panel , induced CAT activity compared with the basal OC-VDREpCAT transcription that was set to 1.0 .
+The mean value computed from three independent experiments , each with duplicate stimulations and CAT assays for each treatment modality , is shown .
+The values for pCAT induction in relation to OC-VDRE-activity were correlated to luciferase levels in the cell lysates .
+Bottom panel , OC-VDRE-mediated transcriptional response from one representative experiment .
+tion of complex II that was supershifted by RAR-8 antibodies increased during retinoid-induced differentiation , consistent with the increased expression of ( Fig .
+1 ) .
+The remaining part of complex II could possibly be explained by an incomplete supershift by the RAR- $ antibody .
+Alternatively , other RAR/RXR dimers or other nuclear receptors com-plexed to RXR might constitute part of complex II .
+The VDR and RAR-a antibodies had no effect on the mobility of complex II ( Fig .
+5C , Lanes 2 and 3 ) .
+VitD3 Inhibits RAR-B/RXR Formation and Induces VDR/RXR Binding to RAREs .
+VitD3 stimulation strongly induced the formation of complex III on the B-RARE ( Fig .
+58 ) .
+Supershift experiments showed that complex III was composed of a VDR/RXR complex ( Fig .
+5C , Lanes 6-8 ) .
+RAR- « or RAR-8 antibodies did not supershift complex III ( data not shown ) .
+Interestingly , cotreatment of U-937 cells with VitD3 and a retinoid also resulted in strong complex III formation , whereas the amount of RAR-B/RXR ( complex II ) bound to the B-RARE was selectively reduced ( Fig .
+5B , Lanes 5 and 6 ) .
+The binding of complex I did not appear to be affected by VitD3 stimulation .
+Thus , the DNA-binding activity of RAR-8/ RXR promoted by RA was distinctly inhibited by VitD3 stimulation in a dominant fashion when U-937 cells were stimulated by the combination of VitD3 and RA .
+The DR-2 EMSA in Fig .
+5D yielded a DNA-binding pattern similar to that in Fig .
+5B performed with the B-RARE , and in supershift experiments , DR-2-binding complexes II and III reacted as in Fig .
+5C ( data not shown ) .
+Furthermore , gel shift results using an everted repeat type RARE from the yF-crystallin promoter ( 28 ) resembled those obtained with the B-RARE and DR-2 ( data not shown ) .
+RARE-mediated Transcriptional Activation during Retinoid Treatment of U-937 Cells Is Not Affected by VitD3 .
+Transient transfections of U-937 cells with a B-RAREpCAT reporter construct and subsequent CAT assays were performed to examine the transcriptional response induced through the B-RARE during U-937 differentiation .
+In a series of experiments , at-RA and 9cis-RA induced an approximately 10-20-fold increase in B-RAREpCAT transcription ( Fig .
+6 ) .
+9cis-RA tended to promote slightly higher levels of CAT activity .
+No transcriptional response was elicited by VitD3 stimulation .
+Concomitant VitD3 and RA stimulation induced levels of B-RARE-dependent transcription comparable to those induced by at-RA and 9cis-RA alone .
+Similarly , the transcriptional response of a DR-2pCAT reporter resembled the B-RAREpCAT data in Fig .
+6 .
+The retinoids , by themselves and in combination with VitD3 , activated DR-2pCAT transcription , whereas VitD3 alone had no effect ( data not shown ) .
+Notably , the two protocols that promoted a similar increase in RARE-dependent transcription , i.e. , stimulation with RA or RA plus VitD3 , at the same time induced unique DNA-binding patterns in the B-RARE EMSA ( Figs .
+58 and 6 ) .
+Retinoid-specific Differentiation Genes Are Suppressed by VitD3 .
+RA-induced transcriptional activation of RAREs was not affected by VitD3 stimulation , and con-versely , VitD3-induced VDRE-mediated transcription was not affected by RA treatment .
+Consequently , both RA- and VitD3-stimulated gene expression should be permitted in cells during stimulation with both ligands .
+Indeed , the expression of CD14 , a VitD3-induced monocytic differentiation antigen , was shown to be up-regulated by VitD3 and by the combination of VitD3 and RA ( Fig .
+7 ; Ref .
+22 ) , analogous to the OC-VDREpCAT activity .
+Also , RAR-B mRNA was strongly up-regulated by at-RA and 9cis-RA treatment and by costimulation with retinoid and VitD3 ( Fig .
+7 ) , in accordance with the observed B-RAREpCAT activity .
+In contrast , the retinoid-induced expression of the CD23 and CD49f differentiation antigens was inhibited by the addition of VitD3 ( Fig .
+7 ; Refs .
+22 and 23 ) .
+Thus , two kinds of genes seem to be induced by retinoids during U-937 differentiation .
+RARE-regulated genes such as RAR-B are not suppressed by VitD3 , while genes upregulated later in the differentiation process , such as CD23 and CD49f , are inhibited by VitD3 .
+It should be emphasized that the basic differentiation program 1243 1244 - VDR , RAR , and RXR Interactions in U-937 Cells BRARE* A B BRARE* at-RA 4h I 1 < £ < & C ‘ é “ ARE pat ONO “ pRD\ F'- § 3 35 “ O0 -all _ E é 2 + « = 4° o o o o £ 2 o o o c L o 2 2 2 3 a a > > > I - » I - » ; l III - » Fig .
+5 .
+DNA-binding activity in U-937 cell nuclear extracts to radiolabeled RAREs , A , EMSA on DNA binding to the B-RARE in unstimulated ( unstim ) and at-RA-stimu-lated ( 1.0 um for 4 h ) U-937 cells , Three dominating DNA-binding complexes , designated |-I ! l , were formed .
+Competitions 1 2 3 4 5 6 7 8 9 10 11121314 1 2 3 4 5 6 with cold oligonucleotides were performed as in Fig .
+24 .
+B , B-RARE EMSA with nu-* _o # clear extracts from U-937 cells stimulated c BRARE D DR-2 for 72 h with at-RA ( 1.0 um ) , Icis-RA ( 0.1 P pM ) , VitD3 ( 0.1 ww ) , and VitD and at-RA or 9cis-RA VitD3 ¢ & Icis-RA .
+The excess free B-RARE probe s a. a & was run out of the gel .
+C , B-RARE EMSA ; £ E C ® a E é 3 supershift experiment with antibodies di-a 4 4 x 6 x en ¢ © 9 rected to the VDR , RARs , and RXRs as 3 g m5 m5 a lg < é 6 8 8 B indicated .
+Note that the supershifted +o bP t 4 oa + + 5 & g 2 € § bands ( * ) blend with complex | .
+Nuclear ' 3 ® > > extracts were from U-937 cells after 72 h of or VitD3 stimulation .
+D , DR-2 R RARE EMSA set up as in B .
+1 « *~ g ¢ ' RARR/RXR I- » . ''
+Cl VDRRXR s f I - » f BL f ... .. m- W Mb.. uu 1 2 3 4 5 6 7 8 *I i piktt 1 2 3 4 5 6 Cell Growth & Differentiation ] B srarepcat [ ] peat fold induction ho U [ ( « ] & wah & sae wis at-RA | - = -o # o= 4 = Qcis-RA - - =o = 0 $ o 00-0 +4 VitD3 | = = 4+ = - 4+ + Fig .
+6 .
+Transcriptional activation via the B-RARE in U-937 cells .
+The cells were electroporated with 10 ug B-RAREpCAT or pCAT reporters along with 5 ug CMV-luciferase plasmid .
+The transfected cells were treated as in Fig .
+4 .
+Duplicate stimulations were performed in each experiment , and the mean of three experiments is shown in the top panel .
+Bottom panel , CAT activity driven by the B-RARE from one representative experiment .
+is intact during costimulation with VitD3 and RA .
+Induced CD11c expression and growth arrest in G , -G , are well-de-fined characteristics of differentiated U-937 cells .
+Table 1 shows that U-937 cells stimulated with both at-RA and VitD3 retain these characteristics of terminal differentiation , although the late RA-specific differentiation genes displayed in Fig .
+7 , CD23 and CD49f , are suppressed .
+Discussion Retinoids and VitD3 are potent inducers of differentiation of normal and malignant myeloid precursor cells ( 1 , 2 , 5 , 6 ) .
+We have investigated the signaling through RA and VitD3 response elements during induced monocytic differentiation .
+The U-937 cell line serves as an excellent model system for studies on the basic DNA-binding and transcriptional activity of endogenous nuclear receptors in a biological context , in which RA and VitD3 have distinct and well-characterized effects on the cell phenotype .
+Several nuclear steroid receptor complexes have been shown to regulate VDRE activity ( 13-16 ) .
+Here , we demonstrate by gel shift assays that VitD3 treatment of U-937 cells resulted in one major specific VDRE-binding complex composed of VDR and RXR .
+The induced DNA binding of VDR/ C o 9 a > < z 4 E » < L < C = A C 4 C . $ s 5 s 8 8 8 ( p ) RARB th ae wan wan = - 5.5 CD2s ( Te -1.7 Ccosgf -- __ -s.0 CD14 last mad bust = - 1. acin - 2.0 Fig .
+7 .
+Expression of differentiation antigens in U-937 cells .
+Northern biot analysis of 15 ug total cellular RNA from cells stimulated for 72 h with VitD3 ( 0.1 um ) , at-RA ( 1.0 uw ) , 9cis-RA ( 1.0 uw ) , and combinations of VitD3 and RA .
+The filter was hybridized with °°P-labeled probes to the RAR-B , CD23 , CD49f , CD14 , and a-actin mRNA transcripts .
+unstim , unstimulated .
+RXR correlated with increased VDRE-mediated transcription in U-937 cells and to the induction of CD14 gene expression , a marker for VitD3-induced monocytic differentiation .
+Thus , the recruitment of VDR and RXR to VDREs seemed to be the first step in the monocytic differentiation program promoted by VitD3 .
+In addition , the up-regulation of RXR mRNA ( Fig .
+1 ) and protein ( 29 ) during VitD3-induced differentiation could facilitate the VDR/RXR binding observed at late time points .
+The finding that VitD3 is required as an inducer of VDR/RXR DNA binding in U-937 cells is in agreement with the original studies showing that recombinant VDR needs a ligand and a mammalian factor , /.e. , RXR , for high-affinity VDRE binding ( 30 ) .
+However , the need for VitD3 seems relative and tissue specific .
+For example , in rat osteosarcoma cells , both VitD3-dependent and -independent regulation of VDR-VDRE interactions have been suggested ( 31-33 ) .
+Furthermore , both synergism and antagonism between VitD3 and RA on VDR/ RXR-mediated transcription and DNA binding have been reported ( 13 , 17 , 18 ) .
+Yet , in U-937 cells expressing physio- 1245 1246 - VDR , RAR , and RXR Interactions in U-937 Cells Table 1 - CD11c expression and cell cycle distribution after induced U-937 cell differentiation U-937 cells were treated for 96 h with VitD3 ( 0.1 my ) and at-RA ( 1.0 mm ) as indicated , and the cell cycle distribution and CD11c expression were analyzed by flow cytometry .
+Results are displayed as percentages of positive cells .
+Unstimulated at-RA VitD3 at-RA + VitD3 Cell cycle phase ( % ) Gy-Gq 60.3 96.7 95.4 94.2 S 34.0 2.1 2.4 1.5 Gz-M 5.7 1.2 2.2 4.3 CD1 1c expression ( % ) 7.2 85.1 61.7 76.5 logical levels of receptors , VitD3 and RA appeared neither synergistic nor antagonistic with regard to the VitD3 re-sponse .
+Costimulation of U-937 cells with either at-RA or 9cis-RA and VitD3 did not affect the VitD3-induced VDR/RXR binding or the VitD3-induced transcriptional response of the OC-VDREpCAT reporter .
+Likewise , the VitD3-induced expression of CD14 was not affected by concomitant at-RA or 9cis-RA stimulation .
+Interestingly , VitD3 also induced VDR/ RXR binding to the B-RARE .
+However , in this case , no effect on B-RARE-mediated transcriptional activity was detected , suggesting that the VDR/RXR complex was bound to the B-RARE in a conformation that did not allow VitD3-induced transcriptional activation to occur .
+Endogenous factors in P19 carcinoma cell , chick lens , and keratinocyte nuclear extracts form multiple DNA-binding complexes on RAREs in gel shift assays ( 28 , 34 , 35 ) .
+The molecular composition of these different RARE-binding complexes is unclear , and their role as regulators of transcriptional activity in response to RA stimulation is not known .
+In unstimulated U-937 cells , three major DNA-binding complexes ( -ll ! )
+were formed in the B-RARE EMSA .
+During induced differentiation of U-937 cells with retinoids , the formation of complex II was enhanced , and this complex was shown to be composed of RAR-8 and RXR by supershift experiments .
+The increase in RAR-B/RXR binding correlated with RA-induced B-RAREpCAT activity , up-regulated RAR-8 mRNA expression , and initiation of the retinoid-specific differentiation program , as illustrated by induction of CD23 and CD49f expression .
+As in embryonal carcinoma cells ( 36 ) , the expression of RAR-B provides a positive feedback signal during the RA-induced differentiation process .
+Up-regulation of RAR-6 might be important for the development of a fully differentiated cell phenotype .
+For example , RAR-8B , but not RAR-a or -y , was shown to mediate the expression of the intercellular adhesion molecule-1 gene after RA stimulation ( 37 ) .
+Also , RAR-B has been implicated as a regulator of terminal growth arrest , and RAR-B expression is down-regulated in several forms of cancer ( 38 ) .
+Interestingly , in U-937 cells the RA-induced binding of RAR-B/RXR to RAREs was inhibited by VitD3 stimulation .
+Instead , VitD3 promoted DNA binding of VDR/RXR to the B-RARE .
+Competition for a limiting amount of the cofactor RXR between different pools of nuclear hormone receptors has been described in experiments with purified or overexpressed receptors and could account for the observed an tagonism between some nuclear receptor-signaling pathways ( 17 , 39 , 40 ) .
+Here , we show , for the first time , a ligand-dependent change in DNA binding from RAR/RXR to VDR/ RXR occuring at physiological levels of endogenously expressed receptors .
+However , despite this antagonism between RA and VitD3 at the DNA-binding level , the RARE-mediated transcription remained high during costimulation of U-937 cells with RA and VitD3 .
+Therefore , it is reasonable to assume that complexes other than RAR-B/RXR ( complex 11 ) participated in the transcriptional activation of the B-RARE after RA and VitD3 stimulation , /.e. , complex I or III .
+Complex t appeared as a diffuse band of slow mobility in the EMSAs and could harbor several multimeric complexes composed of receptors and various coactivators and corepressors ( 41 ) .
+Therefore , the role of complex I in RARE-mediated transcription is unclear .
+Apparently , complex II !
+( VDR/RXR ) did not activate the B-RARE after VitD3 stimulation .
+Nevertheless , after stimulation of U-937 cells with VitD3 and RA , transcriptional activation via VDOR/RXR would be possible if the complex bound the B-RARE in a conformation allowing transactivation to occur from the RXR .
+Further studies are needed to clarify how RARE-mediated transcription is regulated during combined RA and VitD3 treatment .
+Also , the biological significance of the VitD3-induced changes in B-RARE DNA binding remains to be elucidated .
+CD23 and CD49f gene expression , characteristic of terminal retinoid-induced U-937 cell differentiation ( 22 , 23 ) , was suppressed by VitD3 .
+The inhibition of these genes did not seem to be due to suppression of RARE-mediated transcription , because neither RARE reporter activity nor RAR-B expression was down-regulated by VitD3 stimulation .
+Instead , the antagonism between RA and VitD3 in terms of CD49f and CD23 regulation might result from effects on other signal transduction pathways .
+Such interference between RA- and VitD3-induced events in the regulation of the monocytic differentiation process could involve modulation of cytoplasmic PKC activity ( 42 ) or interactions between the VDR and RAR complexes and other transcription factors such as AP-1 , Spi-1/PU-1 , and NF- « B ( 43-45 ) .
+Our results imply a complex role for VitD3 during U-937 differentiation .
+VitD3 did not affect the expression of RARE-regulated genes such as RAR-B , whereas it inhibited the expression of other RA-regulated genes by as yet unknown mechanisms .
+VitD3 and RA together up-regulated CD14 and RAR-B expression , indicating that both VitD3- and RA-stimulated characteristics could be induced in U-937 cells after co-stimulation .
+The basis for this additive effect would thus be that both RARE- and VDRE-mediated transcriptional activity was maintained in U-937 cells during combined VitD3 and RA treatment .
+In contrast , antagonism between VitD3 and RA was also noted , both at the level of RARE DNA-binding activity and in the regulation of CD23 and CD49f .
+Consequently , VitD3 and RA displayed both additive and antagonistic effects on U-937 cell differentiation .
+This has also been reported in other hematopoietic cell systems ( 46-48 ) .
+The results have implications for the use of retinoids and VitD3 in the clinical setting .
+First , VitD3 is a potential modulator of RA-induced effects in differentiation therapy of leukemias , but it could possibly antagonize some of the wanted effects .
+Cell Growth & Differentiation Second , it is obvious from this and other studies that the transcriptional activity of classic promoter RAREs does not altogether reflect the biological effects of retinoids .
+This might be important to consider when evaluating the therapeutic potential of new retinoids and vitamin D compounds .
+A deeper knowledge of the DNA-binding and transcriptional activity of the RA and VitD3 receptors in hematopoietic cells is vital for dissection of the differentiation signals that induce terminal differentiation and growth arrest in such cell types and for optimal exploitation of RA and VitD3 as therapeutic agents in hematopoietic tumors .
+Materials and Methods Cells .
+The U-937-1 subline has been extensively studied in our laboratory and responds faithfully and reproducibly to RA and VitD3 by induction of monocytic differentiation ( 19 , 22 ) .
+The cells were maintained in RPMI 1640 supplemented with 10 % FCS ( Life Technologies , Inc. , Uxbridge , United Kingdom ) and antibiotics ( 100 units/ml penicillin and 50 ug/ml streptomycin } .
+Induction of Differentiation .
+Cells at a concentration of 0.2 x 10°/ml were exposed to 0.1 um VitD3 ( provided by Dr. U. Fischer , Hoffmann-La Roche , Inc. , Basel , Switzerland ) , 1.0 um at-RA ( Sigma Chemical Co. , St. Louis , MO ) , 0.1 or 1.0 wm 9cis-RA ( Hoffmann-La Roche ) , and 10 nm PMA ( Sigma ) .
+The doses of differentiating agents used in this article were based on dose-response experiments performed previously , testing the biological response of these agents in U-937 cells .
+These concentrations of RA and VitD3 are optimal for induction of differentiation of U-937 cells and represent doses at which functional interference takes place in U-937 cells ( 22 , 23 ) .
+Stimulation of U-937-1 cells was performed in tissue culture flasks precoated with agarose M ( Pharmacia , Uppsala , Sweden ) to prevent adhesion of the cells .
+Successful differentiation was defined by an increase in the expression of CD11c ( LeuM5 ; Becton Dickinson , Mountain View , CA ) and by growth arrest in G , -G , as assessed by flow cytometry ( 23 ) .
+We also analyzed the RA-specific differentiation markers CD23 and CD49f and the VitD3-specific expression of CD14 ( 22 , 23 ) .
+RNA Analysis .
+Total cellular RNA was prepared for Northern blot analysis as described ( 22 ) .
+Polyadenylated RNA was obtained through oligodeoxythymidylic acid column separation ( 49 ) .
+Hybridizations were performed with °°P-labeled probes ( Megaprime DNA labeling systems ; Amersham , Buckinghamshire , United Kingdom ) using an EcoR !
+fragment of the CD49f cDNA ( 50 ) , a Sstl-Xhol fragment of the CD14 cDNA ( 51 ) , a Pstl-BamHI fragment of the CD23 cDNA pFceRII ( 52 ) , an EcoR !
+fragment of the VDR cDNA clone pH13 { American Type Culture Collection , Rock-ville , MD ) , a KpnI-EcoRl fragment of the RAR-a « cDNA clone p63 ( Amer-ican Type Culture Collection ) , an excised PCR fragment of RAR-8 transcript nucleotides 862-1630 , EcoRI fragments of mouse RXR- « and -B cDNAs ( 53 ) , and a Pstl fragment of the mouse « -actin cDNA clone p91 ( 54 ) .
+Nuclear Extracts and EMSAs .
+Nuclear extracts were prepared essentially as described ( 55 ) .
+Briefly , 50-100 x 10° ceils were harvested , washed twice in cold PBS , and suspended in hypotonic buffer .
+The cells were then lysed in a Dounce homogenizer ( type B pestle ) .
+The nuclei were collected by centrifugation and suspended in high-salt extraction buffer and gently sheared through a 0.6-mm syringe .
+After centrifugation , the supernatant was dialyzed on microdialysis filters ( 0,025 um ; Millipore , Bedford , MA } , and the extracts were frozen in liquid nitrogen and stored at -70°C in aliquots .
+The following oligonucleotides were used ( one strand shown , 5'-3 ' ; added Bgfl/BamHI overhangs are in lower case letters ) : the osteocalcin promoter VDRE ( OC-VDRE , gatctGGGGTGACT-CACCGGGTGAACGGGGGCATCg ; Ref .
+13 ) ; a synthetic DR-3 VDRE ( AGCTTCAGGTCAAGGAGGTCAGAGAGCT ; Ref .
+10 ) ; the RAR-B , promoter RARE ( B-RARE , gatctGGTAGGGTTACCCGAAAGTTCACTCGCg ; Ref .
+56 ) ; a synthetic DR-2 ( gatctGGTAGGGTTCAGAAGTTCACTCGCg ; Ref .
+57 ) ; the everted repeat type RARE from the mouse yF-crystallin promoter ( gatctGTGACCCTTTTAACCAGGTCAGTg ; Ref .
+28 ) ; the positive regulatory domain I from the 8B , -IFN promoter ( PRDI ; GAGAAGTGAAAGT-GGGAAATTCCT ; Ref .
+58 ) ; and an AP-1 binding site ( gatcTCTTGATGAGT-CAGCCg ) .
+The response elements were labeled either by 5'-end labeling with [ y®°P-ATP ] of the corresponding single-stranded oligonucleotides before annealing ( 49 ) or by a filling-in reaction with [ °°PIdCTP of the overhangs after annealing ( Megaprime DNA labeling systems ; Amersham ) .
+The DNA-binding reactions [ 20 Ll ; 10 mm HEPES ( pH 7.9 ) , 10 % glycerol , 50 mm KCI , 5 mm MgC ! z , 0,6 mm DTT , 2 ug poly ( dldC ) ( Pharmacia ) , 20 ug nuclear extract , and 50,000 cpm labeled oligonucleotides ] were incubated on ice for 30 min and then loaded on a prerun gel ( 4-5 % polyacrylamide in Vax Tris-borate EDTA ) in % & x Tris-borate EDTA buffer for electrophoresis at 200-300 V. Finally , the gels were dried and subjected to autoradiography .
+The specificity of the retarded protein-DNA complexes was examined by competition with related and unrelated oligonucleotides added to the binding reaction .
+Supershift experiments were performed with anti-VDR ( a-hVDR-103 ; Ref 59 ) , and anti-RAR- « ( Qa-9A6 ) , anti-RAR-8 ( 6B-2A10 ) , and anti-RXR ( 4RX-1D12 , recognizes all RXR subspecies ) , kindly provided by Dr. P. Chambon ( ( GBMC , llikrich , France ; Refs .
+57 and 60 ) .
+Transfections and CAT Assays .
+Reporter plasmids were constructed by cloning one copy of the response element , in 5-3 ' orientation , into the Bgill site upstream of the SV40 promoter in the pCAT promoter plasmid ( Promega , Madison , WI ) } .
+The reporter constructs were designated OC-VDREpCAT , B-RAREpCAT , and DR-2pCAT .
+Twenty million cells were harvested , washed in PBS , and suspended in a cuvette in 0.5 ml RPMI 1640 containing 5-10 ug CAT reporter plasmid , 5 ug of a CMV promoter-driven luciferase vector ( kindly provided by Dr J. Lucher-Firzlaff , Mediz-inische Hochschule , Hannover , Germany ) , and 50 ug carrier DNA ( salmon testes DNA ; Sigma ) .
+After electroporation at 0.30 kV/960 microfarads ( Gene Pulser ; Bio-Rad , Hercules , CA ) , the cuvettes were left on ice for 10 min .
+The cells were then transferred to culture medium .
+To ensure identical transfection efficiency in cells subjected to different stimulation protocols , multiple cell transfections with the same CAT reporter construct were pooled for recovery in the incubator for 2-4 h. The cell pool was then split and stimulated with RA and VitD3 as described above .
+After overnight treatment , the cells were harvested , washed , and suspended in 0.25 m Tris buffer ( pH 7.8 ) .
+Cell lysates were obtained by three cycles of freezing and thawing and heat inactivated , and finally , CAT assays were performed ( 49 ) .
+The CAT activity was quantified by measurement of the amount of acetylated [ '*CJchloramphenicol in an image analyzer ( BAS2000 ; Fuji , Tokyo , Japan ) .
+On a portion of each cell pool transfected with a different CAT reporter plasmid , a luciferase assay was performed ( 61 ) .
+This allowed comparison of CAT activities between cells transfected with different CAT constructs .
+Acknowledgments We are grateful for the excellent technical assistance of Inger Karlberg , and we thank Dr. P. Chambon for the kind gift of antibodies directed to RAR and RXR .
+References 1 .
+Labbaye , C. , Vaitieri , M. , Testa , U. , Giampaolo , A. , Meccia , E. , Sterpetti , P. , Parolini , I. , Pelosi , E. , Bulgarini , D. , Cayre , Y. E. , and Peschle , C. Retinoic acid downmodulates erythroid differentiation and GATA1 expression in purified adult-progenitor culture .
+Blood , 83 : 651-656 , 1994 .
+2 .
+Tsai , S. , Bartelmez , S. , Sitnicka , E. , and Collins , S. Lymphohemato-poietic progenitors immortalized by a retroviral vector harboring a domi-nant-negative retinoic acid receptor can recapitulate lymphoid , myeloid , and erythroid development .
+Genes & Dev. , 8 : 2831-2841 , 1994 .
+3 .
+Degos , L. , Dombret , H. , Chomienne , C. , Daniel , M-T. , Micléa , J-M. , Chastang , C. , Castaigne , S. , and Fenaux , P. All-trans retinoic acid as a differentiating agent in the treatment of acute promyelocytic leukemia .
+Blood , 85 : 2643-2653 , 1995 .
+4 .
+Rigby , W. F. C. The immunobiclogy of vitamin D. Immunol .
+Today , 9 : 54-58 , 1988 .
+5 .
+Nilsson , K. , Ivhed , I. , and Forsbick , K. Induced differentiation in human hematopoietic cell lines .
+/n : L. C. Andersson , C. G. Gahmberg , and P. Ekblom ( eds .
+) , Gene Expression during Normal and Malignant Differentiation , pp .
+57-72 .
+London : Academic Press , 1985 .
+6 .
+Liibbert , M. , and Koeffler , H. P. Leukemic cell lines as a paradigm for myeloid differentiation .
+Cancer Rev. , 10 : 33-62 , 1988 .
+1247 1248 VDR , RAR , and RXR Interactions in U-937 Cells 7 .
+Chambon , P. The retinoid signaling pathway : molecular and genetic analyses .
+Semin .
+Cell Biol. , 5 : 115-125 , 1994 .
+8 .
+Giguére , V. Retinoic acid receptors and cellular retinoid binding pro-teins : complex interplay in retinoid signaling .
+Endocr .
+Rev. , 15 : 61-79 , 1994 .
+9 .
+N & # r , A. M. , Boutin , J. M. , Lipkin , S. M. , Yu , V. C. , Holloway , J. M. , Glass , C. G. , and Rosenfeld , M. G. The orientation and spacing of core DNA-binding motifs dictate selective transcriptional responses to three nuclear receptors .
+Cell , 65 : 1267-1279 , 1991 .
+10 .
+Umesono , K. , Murakami , K. K. , Thompson , C. C. , and Evans , R. M. Direct repeats as selective response elements for the thyroid hormone , retinoic acid , and vitamin D3 receptors .
+Cell , 65 : 1255-1266 , 1991 .
+11 .
+Yu , V. C. , Detsert , C. , Andersen , B. , Holloway , J. M. , Devary , O. V. , Nair , A. M. , Kim , S. Y. , Boutin , J-M. , Glass , C. K. , and Rosenfeld , M. G. RXRB : a coregulator that enhances binding of retinoic acid , thyroid hormone , and vitamin D receptors to their cognate response elements .
+Cell , 67 : 1251-1266 , 1991 .
+12 .
+Perlmann , T. , Rangarajan , P. N. , Umesono , K. , and Evans , R. M. Determinants for selective RAR and TR recognition of direct repeat HREs .
+Genes & Dev. , 7 : 1411-1422 , 1993 .
+13 .
+Carlberg , C. , Bendick , I. , Wyss , A. , Meier , E. , Sturzenbecker , L. J. , Grippo , J. F. , and Hunziker , W. Two nuclear signalling pathways for vitamin D. Nature ( Lond .
+) , 361 : 657-660 , 1993 .
+14 .
+Schrider , M. , Bendik , I. , Becker-André , M. , and Carlberg , C. Interaction between retinoic acid and vitamin D signaling pathways .
+J. Biol .
+Chem. , 268 : 17830-17836 , 1993 .
+15 .
+Schrader , M. , Muller , K. M. , Nayeri , S. , Kahlen , J. P. , and Carlberg , C. Vitamin D3-thyroid hormone receptor heterodimer polarity directs ligand sensitivity of transactivation .
+Nature ( Lond .
+) , 370 : 382-386 , 1994 .
+16 .
+Cooney , A. J. , Tsai , S. Y. , O'Malley , B. W. , and Tsai , M-J .
+Chicken ovalbumin upstream promoter transcription factor ( COUP-TF ) dimers bind to different GGTCA response elements , allowing COUP-TF to repress hormonal induction of the vitamin D3 , thyroid hormone , and retinoic acid receptors .
+Mol .
+Cell .
+Biol. , 12 ; 4153-4163 , 1992 .
+17 .
+Cheskis , B. , and Freedman , L. P. Ligand modulates the conversion of DNA-bound vitamin D3 receptor ( VDR ) homodimers into VDR-retinoid X receptor heterodimers .
+Mol .
+Cell .
+Biol. , 14 ; 3329-3338 , 1994 .
+18 .
+MacDonald , P. N. , Dowd , D. R. , Nakajima , S. , Galligan , M. A. , Reeder , M. C. , Haussler , C. A. , Ozato , K. , and Haussler , M. R. Retinoid X receptors stimulate and 9-cis retinoic acid inhibits 1,25-dihydroxyvitamin D3-acti-vated expression of the rat osteocalcin gene .
+Mol .
+Cell .
+Biol. , 13 : 5907-5917 , 1993 .
+19 .
+Sundstrom , C. , and Nilsson , K. Establishment and characterization of a human histiocytic lymphoma cell line .
+Int .
+J .
+Cancer , 17 : 565-577 , 1976 .
+20 .
+Olsson , 1 .
+L. , and Breitman , T. R. Induction of differentiation of the human histiocytic lymphoma cell line U-937 by retinoic acid and cyclic adenosine 3':5'-monophosphate-inducing agents .
+Cancer Res. , 42 : 3924-3927 , 1982 .
+21 .
+Olsson , I. , Gullberg , U. , ivhed , I. , and Nilsson , K. Induction of differentiation of the human histiocytic lymphoma cell line U-937 by 1 « ,25-dihydroxycholecalciferol .
+Cancer Res. , 43 : 5862-5867 , 1983 .
+22 .
+Oberg , F. , Botling , J. , and Nilsson , K. Functional antagonism between vitamin D3 and retinoic acid in the regulation of CD14 and CD23 expression during monocytic differentiation of U-937 cells .
+J .
+Immunol. , 150 : 3487-3495 , 1993 .
+23 .
+Botling , J. , Oberg , F. , and Nilsson , K. CD49f ( a6 integrin ) and CD66a ( BGP ) are specifically induced by retinoids during human monocytic differentiation .
+Leukemia , 9 : 2034-2041 , 1995 .
+24 .
+Haris , P. , and Ralph , P. Human leukemic models of myelomonocytic development : a review of the HL-60 and U937 cell lines .
+J. Leukocyte Biol. , 37 : 407-422 , 1985 .
+25 .
+Hsieh , J-C. , Jurutka , P. W. , Galligan , M. A. , Terpening , C. M. , Haussler , C. A. , Samuels , D. S. , Shimizu , Y. , Shimizu , N. , and Haussler , M. R. Human vitamin D receptor is selectively phosphorylated by protein kinase C on serine 51 , a residue crucial to its frans-activation function .
+Proc .
+Natt .
+Acad .
+Sci .
+USA , 88 : 9315-9319 , 1991 .
+26 .
+Jones , B .
+B. , Jurutka , P. W. , Haussler , C. A. , Haussler , M. R. , and Whitfield , G. K. Vitamin D receptor phosphorylation in transfected ROS 17/2.8 cells is localized to the N-terminal region of the hormone-binding domain .
+Mol .
+Endocrinol. , 5 : 1137-1146 , 1991 .
+27 .
+Oberg , F. , Larsson , L-G. , Anton , R. , and Nilsson , K. Interferon y abrogates the differentiation block in v-myc-expressing U-937 mono-blasts .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 88 : 5567-5571 , 1991 .
+28 .
+Tini , M. , Otulakowski , G. , Breitman , M. L. , Tsui , L-C. , and Giguere , V. An everted repeat mediates retinoic acid induction of the yF-crystallin gene : evidence of a direct role for retinoids in lens development .
+Genes & Dev. , 7 : 295-307 , 1993 .
+29 .
+Defaque , H. , Commes , T. , Sevilla , C. , Rochette-Egly , C. , and Marti , J. Synergistic differentiation of U-937 cells by all-trans retinoic acid and 1a,25-dihydroxyvitamin D3 is associated with the expression of retinoid X receptor a. Biochem .
+Biophys .
+Res .
+Commun. , 203 : 272-280 , 1994 .
+30 .
+Sone , T. , Kerner , S. , and Pike , J. W. Vitamin D receptor interaction with specific DNA .
+J. Biol .
+Chem. , 266 : 23296-23305 , 1991 .
+31 .
+Breen , E. C. , van Wijnen , A. , Lian , J .
+B. , Stein , G. S. , and Stein , J. L. In vivo occupancy of the vitamin D responsive element in the osteocalcin gene supports vitamin D-dependent transcriptional upregulation in intact cells .
+Proc .
+Natt .
+Acad .
+Sci .
+USA , 97 : 12902-12906 , 1994 .
+32 .
+Bortell , R. , Owen , T. A. , Shalhoub , V. , Heinrichs , A. , Aronow , M. A. , Rochette-Egly , C. , Lutz , Y. , Stein , J. L. , Lian , J .
+B. , and Stein , G. S. Constitutive transcription of the osteocalcin gene in osteosarcoma cells is reflected by altered protein-DNA interactions at promoter regulatory elements .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 90 : 2300-2304 , 1993 .
+33 .
+Ross , T. K. , Darwish , H. M. , Moss , V. E. , and DeLuca , H. F. Vitamin D-influenced gene expression via a ligand independent , receptor-DNA intermediate .
+Proc .
+Nati .
+Acad .
+Sci .
+USA , 90 ; 9257-9260 , 1993 .
+34 .
+Minucci , S. , Zand , D. J. , Dey , A. , Marks , M. S. , Nagata , T. , Grippo , J. F. , and Ozato , K. Dominant negative retinoid X receptor 8 inhibits retinoic acid-responsive gene regulation in embryonal carcinoma cells .
+Mol .
+Cell .
+Biol. , 14 : 360-372 , 1994 .
+35 .
+Xiao , J-H. , Durand , B. , Chambon , P. , and Voorhees , J. J. Endogenous retinoic acid receptor ( RAR ) -retinoid X receptors ( RXR ) heterodimers are the major functional forms regulating retinoid-responsive elements in adult human keratinocytes .
+J. Biol .
+Chem. , 270 : 3001-3011 , 1995 .
+36 .
+Zelent , A. , Mendelsohn , C. , Kastner , P. , Krust , A. , Gamier , J-M. , Ruffenach , F. , Leroy , P. , and Chambon , P. Differentially expressed iso-forms of the mouse retinoic acid receptor 8 are generated by usage of two promoters and alternative splicing .
+EMBO J. , 10 ; 71-81 , 1991 .
+37 .
+Aoudjit , F. , Brochu , N. , Morin , N. , Poulin , G. , Stratowa , C. , and Audette , M. Heterodimeric retinoic acid receptor-8 and retinoid X recep-tor-a complexes stimulate expression of the intercellutar adhesion molecule-1 gene .
+Celt Growth & Differ. , 6 : 515-521 , 1995 .
+38 .
+Seewaldt , V. L. , Johnson , B. S. , Parker , M. B. , Collins , S. J. , and Swisshelm , K. Expression of retinoic acid receptor B mediates retinoic acid-induced growth arrest and apoptosis in breast cancer cells .
+Cell Growth & Differ. , 6 : 1077-1088 , 1995 .
+39 .
+Barettino , D. , Bugge , T. H. , Bartunek , P. , Vivanco Ruiz , M. d. M. , Sonntag-Buck , V. , Beug , H. , Zenke , M. , and Stunnentberg , H. G. Unligan-ded T3R , but not its oncogenic variant , v-erbA , suppresses RAR-depend-ent transactivation by titrating out RXR .
+EMBO J. , 12 ; 1343-1354 , 1993 .
+40 .
+Lehmann , J. M. , Zhang , X-K. , Graupner , G. , Lee , M-O. , Hermann , T. , Hoffman , B. , and Pfahl , M. Formation of retinoid X receptor homodimers leads to repression of T3 response : hormonal crosstalk by ligand-induced squelching .
+Mol .
+Cell .
+Biol. , 13 : 7698-7707 , 1993 .
+41 .
+HGrlein , A. J. , A. M. , Heinzel , T. , Torchia , J. , Gloss , B. , Kurokawa , R. , Ryan , A. , Kamei , Y. , Sdderstrom , M. , Glass , C. K. , and Rosenfeld , M. G. Ligand-independent repression by the thyroid hormone receptor mediated by a nuclear receptor co-repressor .
+Nature ( Lond .
+) , 377 : 397-404 , 1995 .
+42 .
+Slater , S. J. , Kelly , M. B. , Taddeo , F. J. , Larkin , J. D. , Yeager , M. D. , McLane , J .
+A. , Ho , C. , and Stubbs , C. D. Direct activation of protein kinase C by 1a,25-dihydroxyvitamin D3 .
+J. Biol .
+Chem. , 270 : 6639-6643 , 1995 .
+43 .
+Fanjut , A. , Dawson , M. I. , Hobbs , P. D. , Jong , L. , Cameron , J. F. , Harlev , E. , Graupner , G. , Lu , X-P. , and Pfahl , M. A new class of retinoids with selective inhibition of AP-1 inhibits proliferation .
+Nature ( Lond .
+) , 372 : 107-111 , 1994 .
+Cell Growth & Differentiation 44 .
+Gauthier , J-M. , Bourachot , B. , Doucas , V. , Yaniv , M. , and Moreau-Gachelin , F. Functional interference between the Spi-1/PU.1 oncoprotein and steroid hormone receptors .
+EMBO J. , 12 : 5089-5096 , 1993. : 45 .
+Segars , J. H. , Nagata , T. , Bours , V. , Medin , J .
+A. , Franzosm'hff , ‘ Blanco , J. C. , Drew , P. D. , Becker , K. G. , An , J. , Tang , T. , Stephany , D. A. ; Neel , B. , Siebenlist , U. , and Ozato , K. Retinoic acid induction of major histocompatibility complex class I genes in NTera-2 embryonal carcinoma cells involves induction of NF-kappa B ( pS50-p65 ) and retinoic Acid-re-ceptor B-retinoid X receptor B heterodimers .
+Mot .
+Cell .
+Biol. , 13 : 6157-6169 , 1993 .
+46 .
+Masciulli , R. , Testa , U. , Barberi , T. , Samoggia , P. , Tritarelli , E. , Pustorino , R. , Mastroberardino , G. , Camagna , A. , and Peschle , C. Combined vitamin D3/retinoic acid induction of human promyelocytic cell lines : enhanced phagocytic cell maturation and hybrid granulomonocytic phenotype .
+Cell Growth & Differ. , 6 : 493-503 , 1995 .
+47 .
+Brown , G. , Bunce , C. M. , Rowlands , D. C. , and Williams , G. R. All-trans retinoic acid and 1a,25-dihydroxyvitamin D3 co-operate to promote differentiation of the human promyeloid leukemia cell line HL6O to monocytes .
+Leukemia ( Baltimore ) , 8 : 806-815 , 1994 .
+48 .
+Woods , C. , Domenget , C. , Solari , F. , Gandrillon , O. , Lazarides , E. , and Jurdic , P. Antagonistic role of vitamin D3 and retinoic acid on the differentiation of chicken hematopoietic macrophages into osteoclast precursor calls .
+Endocrinology , 136 : 85-95 , 1995 .
+49 .
+Sambrook , J. , Fritsch , E. F. , and Maniatis , T. Molecular Cloning : A Laboratory Manual , Cold Spring Harbor , NY : Cold Spring Harbor Labo-ratory , 1989 .
+50 .
+Hogervorst , F. , Kuikman , I. , Van Kessel , A. G. , and Sonnenberg , A. Molecular cloning of the « 6 integrin subunit : alternative splicing of a6 mRNA and chromosomal localisation of the a6 and B4 genes .
+Eur .
+J .
+Bip-chem. , 199 ; 425-433 , 1991 .
+§1 .
+Ferrero , E. , and Goyert , S. M. Nucleotide sequence of the gene encoding the monocyte differentiation antigen , CD14 .
+Nucleic Acids Res. , 16 : 4173 , 1988 .
+52 .
+Kikutani , H. , Inui , S. , Sato , R. , Barsumian , E. L. , Owaki , H. , Yamasali , K. , Kaisho , T. , Uchibayashi , N. , Hardy , R. R. , Hirano , T. , Tsunasawa , S. , Sakiyama , F. , Suemura , M. , and Kishimoto , T. Molecular structure of human lymphocyte receptor for immunoglobulin E. Cell , 47 : 657-665 , 1986 .
+53 .
+Mangelsdort , D. J. , Borgmeyer , U. , Heyman , R. A. , Zhou , J. Y. , Ong , E. S. , Oro , .
+A , .
+£. , Kakizuka , A. , and Evans , R. M. Characterization of three RXR genes that mediate the action of 9-c/s retinoic acid .
+Genes Dev. , 6 : 329-344 , 1992 .
+54 .
+Minty , A. J. , Caravatti , M. , Robert , B. , Cohen , A. , Daubas , P. , Wyedert , A. , Gros , 8. , and Buckingham , M. Mouse messenger RNAs .
+Construction and characterization of a recombinant plasmid molecule containing a complementary DNA transcript of mouse a-actin mRNA .
+J. Biol .
+Chem. , 256 : 1008-1014 , 1981 .
+55 .
+Dignam , J. D. , Lebovitz , R. M. , and Roeder , R. G. Accurate transcription initiation by RNA polymerase II in a soluble extract from isolated mammalian nuclei .
+Nucleic Acids Res. , 11 : 1475-1489 , 1983 .
+56. de The , H. , Vivanco-Ruiz , M. d. M. , Tiollats , P. , Stunnenberg , H. , and Dejean , A .
+Identification of a retinoic acid responsive element in the retinoic acid receptor B gene .
+Nature ( Lond .
+) , 343 : 177-180 , 1990 .
+57 .
+Mader , S. , Chen , J-Y. , Chen , Z. , White , J. , Chambon , P. , and Gronemeyer , H. The pattern of binding of RAR , RXR and TR homo- and heterodimers to direct repeats are dictated by the binding specificities of the DNA binding domains .
+EMBO J. , 12 : 5029-5041 , 1993 .
+58 .
+Fan , C. M. , and Maniatis , T. Two different virus-inducible elements are required for human B-interferon gene regulation .
+EMBO J. , 8 : 101-110 , 1989 .
+59 .
+Tuohimaa , P. , Biduer , M. , Jaéskel & inen , T. , Itkonen , A. , Lindfors , M. , Mahonen , A. , Palvimo , J. , Vilja , P. , and M & enp # 4 , P. H. Characterization of human 1,25-dihydroxyvitamin D3 receptor anti-peptide antibodies .
+J. Steroid Biochem .
+Mol .
+Biol. , 43 : 649-657 , 1992 .
+60 .
+Rochette-Egly , C. , Gaub , M. P. , Lutz , Y. , Ali , S. , Scheuer , 1. , and Chambon , P. Retinoic acid receptor- : immunodetection and phosphorylation on tyrosine residues .
+Mol .
+Endocrinol. , 6 : 2197-2209 , 1992 .
+61 .
+Janknecht , R. , Emst , W. H. , and Nordheim , A. SAP1a is a nuclear target of signaling cascades involving ERKs .
+Oncogene , 10 : 1209-1216 , 1995 .
+- .
+1249

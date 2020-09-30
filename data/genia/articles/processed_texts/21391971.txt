@@ -1,0 +1,752 @@
+THE JOURNAL oF BIOLOGICAL CHEMISTRY © 2001 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+276 , No .
+33 , Issue of August 17 , pp .
+31216-31228 , 2001 Printed in U.S.A .
+Transcription Factor STAT5A Is a Substrate of Bruton 's Tyrosine Kinase in B Cells* Received for publication , May 29 , 2001 Published , JBC Papers in Press , June 18 , 2001 , DOI 10.1074/jbe .
+M104874200 Sandeep Mahajant§ , Alexei Vassilev $ § , Nancy Sun§ , Zahide Ozer1| , Chen Mao** , and Fatih M. Uckun # |t # From the { Molecular Signal Transduction Laboratory , Parker Hughes Cancer Center and the Departments of §Biochemistry , Molecular Biology , |Immunology , and **Structural Biology , Parker Hughes Institute , St. Paul , Minnesota 55113 STAT5A is a molecular regulator of proliferation , differentiation , and apoptosis in lymphohematopoietic cells .
+Here we show that STAT5A can serve as a functional substrate of Bruton 's tyrosine kinase ( BTK ) .
+Purified recombinant BTK was capable of directly binding purified recombinant STAT5A with high affinity ( K , = 44 nm ) , as determined by surface plasmon resonance using a BIA-core biosensor system .
+BTK was also capable of tyrosine-phosphorylating ectopically expressed recombinant STAT5A on Tyr®®* both in vitro and in vivo in a Janus kinase 3-independent fashion .
+BTK phosphorylated the Y665F , Y668F , and Y682F , Y683F mutants but not the Y694F mutant of STAT5A .
+STAT5A mutations in the Sre homology 2 ( SH2 ) and SH3 domains did not alter the BTK-mediated tyrosine phosphorylation .
+Recombinant BTK proteins with mutant pleckstrin homology , SH2 , or SH3 domains were capable of phosphorylating STAT5A , whereas recombinant BTK proteins with SH1/kinase domain mutations were not .
+In pull-down experiments , only full-length BTK and its SH/kinase domain ( but not the pleckstrin homology , SH2 , or SH3 domains ) were capable of binding STAT5A .
+Ectopically expressed BTK kinase domain was capable of tyrosine-phosphorylating STAT5A both in vitro and in vivo .
+BTK-mediated tyrosine phosphorylation of ectopically expressed wild type ( but not Tyr® `` * mutant ) STAT5A enhanced its DNA binding activity .
+In BTK-competent chicken B cells , anti-IgM-stimulated tyrosine phosphorylation of STAT5 protein was prevented by pretreatment with the BTK inhibitor LFM-A13 but not by pretreatment with the JAK3 inhibitor HI-P131 .
+B cell antigen receptor ligation resulted in enhanced tyrosine phosphorylation of STAT5 in BTK-deficient chicken B cells reconstituted with wild type human BTK but not in BTK-deficient chicken B cells reconstituted with kinase-inactive mutant BTK .
+Similarly , anti-IgM stimulation resulted in enhanced tyrosine phosphorylation of STAT5A in BTK-competent B cells from wild type mice but not in BTK-deficient B cells from XID mice .
+In contrast to B cells from XID mice , B cells from JAK3 knockout mice showed a normal STAT5A phosphorylation response to anti-IgM stimulation .
+These findings provide unprecedented experimental evidence that BTK plays a nonredundant and pivotal role in B cell antigen receptor-mediated STAT5A activation in B cells .
+* The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 U.S.C .
+Section 1734 solely to indicate this fact .
++ To whom correspondence should be addressed : Parker Hughes Institute , 2665 Long Lake Rd .
+, Suite $ 30 , St. Paul , MN 55113 .
+Tel .
+: 651-697-9228 ( ext .
+638 ) ; Fax : 651-697-1042 ; E-mail : fatih_uckun @ ih.org .
+31216 Bruton 's tyrosine kinase ( BTK ) , a member of the TEC family of cytoplasmic protein-tyrosine kinases ( PTKs ) , is intimately involved in signal transduction pathways regulating survival , activation , proliferation , and differentiation of B-lineage lymphoid cells ( 1-5 ) .
+BTK participates in signal transduction pathways initiated by the binding of a variety of extracellular ligands to their cell surface receptors ( 2 ) .
+Following ligation of B cell antigen receptors , BTK activation by the concerted actions of the PTKs LYN and SYK is required for induction of phospholipase C-y2-mediated calcium mobilization ( 2 ) .
+Mutations in the human bitk gene are the cause of X-linked agammaglobulinemia , a male immune deficiency disorder characterized by a lack of mature , immunoglobulin-producing , peripheral B cells ( 6 , 7 ) .
+In mice , mutations in the btk gene have been identified as the cause of murine X-linked immune deficiency ( 8 ) .
+BTK has an N-terminal region consisting of a pleckstrin homology ( PH ) domain followed by a proline-rich TEC homology domain .
+The PH domain is the site of activation by phos-phatidylinositol phosphates and G-protein By subunits and inhibition by protein kinase C ( 9 ) .
+The remaining portion of BTK contains Sre homology ( SH ) domain SH3 , followed by SH2 and a C-terminal SH1/kinase domain ( KD ) .
+The SH2 domain mediates binding to tyrosine-phosphorylated peptide motifs on other molecules , and the SH3 domain mediates binding to proline-rich motifs .
+Mutations in the SH1 domain , SH2 domain , and PH domain of human BTK have been found to cause maturational blocks at early stages of B cell ontogeny leading to XLA ( 10 ) .
+BTK-deficient mice generated by introducing PH domain or SH1 domain mutations in embryonic stem cells exhibit defective B cell development and function ( 11 ) .
+Thus , different domains of BTK are important for its physiologic functions .
+Proximal events involving Sre family PTK and SYK that lead to BTK activation following stimulation of the B cell antigen receptor are well known , but only very few signaling molecules have been identified as downstream substrates of BTK ( 2 , 12 ) .
+Recent observations suggest the involvement of BTK in signal transduction pathways affecting gene transcription ( 13 ) .
+Recent studies have further revealed a nucleocytoplasmic shuttling system for BTK that has implications regarding potential *The abbreviations used are : BTK , Bruton 's tyrosine kinase ; PTK , protein-tyrosine kinase ; PH , pleckstrin homology ; SH , Sre homology ; KD , kinase domain ; STAT , signal transducers and activators of tran-scription ; PCR , polymerase chain reaction ; CNBr , cyanogen bromide ; PFB , pFastBacl ; PIPES , 1,4-piperazinediethanesulfonic acid ; JAK , Janus kinase ; MBP , maltose-binding protein ; GST , glutathione S-trans-ferase ; PAGE , polyacrylamide gel electrophoresis ; DTT , dithiothreitol ; RU , response unit ( s ) ; Inr , initiator ; MOPS , 4-morpholinepropanesulfon-ic acid .
+This paper is available on line at http : //www.jbc.org 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( STAT5A as a Substrate of BTK targets inside the nucleus , which may be critical in gene regulation during B cell development and differentiation ( 14 ) .
+An unresolved question in B cell immunology is the nature of the molecular coupling mechanisms that link the proximal signals that are triggered by the engagement of the B cell antigen receptor to downstream signal transduction pathways affecting gene transcription .
+BCR stimulation leads to the activation of transcription factor NF-KB in a BTK-dependent fashion , which in turn regulates genes controlling B cell growth ( 15 ) .
+Recently , the BTK substrate phospholipase C-y2 was shown to couple BTK to the NF- « B signaling pathway ( 16 ) .
+BTK has also been shown to regulate the nuclear localization and transcriptional activity of the multifunctional transcription factor BAP-135/ TFII-I ( 17 ) .
+These results illustrate that the identification of substrates for BTK in B cells is a critical step to a better understanding of the molecular mechanism ( s ) of lymphocyte activation through the antigen receptor .
+Signal transducers and activators of transcription ( STAT ) proteins are a family of DNA-binding proteins that were initially identified during a search for interferon-a- or inter-feron-y-stimulated gene transcription targets ( 18-20 ) .
+Different ligands and cell activators employ specific STAT family members ( 21-23 ) .
+The basic model for STAT activation suggests that in unstimulated cells , latent forms of STAT 's are predominantly localized within the cytoplasm .
+Ligand binding induces STAT proteins to associate with intracellular phosphotyrosine residues of transmembrane receptors ( 24 , 25 ) .
+Once STATs are bound to receptors , they are phosphorylated by Janus family or Sre family PTK ( 26 ) .
+STAT proteins then dimerize through specific reciprocal SH2-phosphotyrosine interactions ( 27 ) and may form complexes with other DNA-binding proteins ( 28 ) .
+STAT complexes translocate to the nucleus and interact with DNA response elements to enhance transcription of target genes ( 29 ) .
+STATS5 is a molecular regulator of proliferation , differentiation , and apoptosis in hematopoietic cells ( 30 ) .
+B cells abundantly express STAT5 , and engagement of the B cell antigen-receptor results in activation of STATS ( 31 ) .
+B cells from mice bearing subcutaneous mammary adeno-carcinoma tumors are severely impaired in their ability to generate antigen-specific responses ( 32 ) .
+Interestingly , purified B cells isolated from these immunocompromised tumor-bearing mice exhibited a marked decrease in the expression level of STAT5 without a concomitant change in the expression levels of STAT1 , -3 , and -6 ( 32 ) .
+The observed correlation of the loss of B cell function with the selective decrease in STAT5 expression suggested that regulation of the STATS5 signaling pathway may provide a molecular mechanism for modulating the antigen-specific B cell responses .
+STAT5A-deficient mice showed decreased proliferation of splenocytes to interleukin ( IL ) -2 stimulation , which was reported to result from defective induction of IL-2 receptor chain ( 33 ) .
+Recently , STAT5A and STAT5B doubly disrupted mice have been generated ( 34 ) , and Sexl et al .
+reported that STAT5A/B contribute to interleukin-7-induced B cell precursor expansion ( 35 ) .
+The expansion of B cell precursors is disrupted at the level of late pro-B and pre-B cells in STAT5A/B-deficient mice ( 35 ) .
+These mice also have reduced numbers of circulating B cells in their blood ( 85 ) .
+Notably , Bmx/Etk , another member of the TEC PTK family , was shown to induce activation of the STAT signaling pathway in transfected COS cells and insect ovary cells ( 36 ) .
+More recently , Bmx/Etk was identified as a critical mediator of Src-induced cell transformation and STAT3 activation ( 37 ) .
+Expression of Bmx/Etk in a human hepatoma cell line Hep3B resulted in a significant increase in its transforming ability , and this effect was abrogated by dominant negative inhibition of STAT3 ( 37 ) , indicating that Bmx/Etk links Sre to STAT3 31217 activation and that Src-Etk-STAT3 is an important pathway in cellular transformation .
+While these results set a precedent for activation of STAT proteins by a member of the TEC family PTK , the significance of these findings for the B cell physiology has not been investigated .
+The purpose of the present study was to examine the role of BTK in STATS activation in B cells that follows B cell antigen receptor ligation .
+Our experimental data presented herein provide unprecedented evidence that STAT5A is a substrate of BTK and that engagement of the B cell antigen receptor activates STAT5A in a BTK-dependent ( but not JAK3-dependent ) fashion .
+Thus , our study provides experimental evidence that BTK couples the STAT signaling pathway to the B cell antigen receptor .
+Our findings prompt the hypothesis that STAT5A links BTK-mediated signaling events that follow the engagement of the B cell antigen receptor to downstream gene activation .
+A compromised coupling between BTK and STAT5A might lead to aberrant expression of the STAT5A-responsive genes and might contribute to the XLA and XID phenotypes .
+MATERIALS AND METHODS Mice , Cell Lines , Reagents , and Biochemical Assays-Control , XID , and JAK3 knockout mice were purchased from Jackson Laboratories .
+Mouse splenocytes were isolated , starved in RPMI at a density of 10 x 10° cells/ml for 2 h , and then stimulated either with murine anti-u antibodies ( 10 ug/ml ; Sigma ) or recombinant IL-2 ( 20 ng/ml ; R & D Systems ) for the indicated times .
+KL-2 is an Epstein-Barr virus-transformed human lymphoblastoid cell line ( 4 ) .
+The Sf21 ( IPLB-Sf21-AE ) insect cell line ( Invitrogen ) derived from Spodoptera frugiperda ovarian cells was used to isolate and propagate recombinant viral stocks and produce recombinant proteins of interest .
+The cells were maintained at 26-28 °C in Grace 's insect cell medium containing 10 % fetal bovine serum and 1 % antibiotic/antimy-cotic ( Life Technologies , Inc. ) .
+Stock cells were maintained in suspension at 0.2-1.6 X 10°/ml in 600 ml of total culture volume in l-liter Bellco spinner flasks at 60-90 rpm .
+Cell viability was maintained at > 95 % as determined by trypan blue dye exclusion .
+The establishment of BTK-deficient DT-40 lymphoma B cell clones has been previously described ( 88 ) .
+Lack of BTK expression in BTK-deficient DT-40 cells was confirmed by both immune complex kinase assays and Western blot analysis ( 88 ) .
+Mutations in the human btk cDNA were introduced by PCR using Pfu polymerase ( Stratagene ) and confirmed by sequencing .
+Wild type and catalytic domain mutant bik cDNAs were subcloned into pApuro expression vector and electroporated into BTK-deficient cells .
+The PTK activity of BTK immune complexes , as measured by in vitro autophosphorylation , was abrogated by the catalytic domain mutation .
+Equal amounts of BTK proteins were detected by Western blot analysis in all of the BTK-deficient DT-40 clones transfected with wild type or mutated human btk genes , but no BTK protein was detectable in the untransfected BTK-deficient DT-40 cells ( 38 ) .
+Cells were starved in serum-free medium at a density of 10 X 10° cells/ml for 2 h and then stimulated with an anti-chicken IgM antibody ( M4 antibody , Southern Biotechnology , Inc. ; 10 ug/ml ) .
+STAT5A and TEC antibodies were obtained from Transduction Laboratories , Inc. ; JAK3 antibodies were from Upstate Biotechnology , Inc. ; and anti-BTK antibodies were produced as described ( 89 ) .
+The structure-based design , synthesis , and characterization of the JAK3 inhibitory dimethoxyquinazoline compound HI-P131 ( 40 ) ( Calbiochem catalog no .
+420101 ) and BTK inhibitory leflunomide metabolite analogue LFM-A13 ( 5 ) ( Calbiochem catalog no .
+435300 ) were previously described in detail ( 5 , 40 ) .
+Immunoprecipitations , immune complex protein kinase assays , and immunoblotting using the ECL detection system ( Amersham Pharmacia Biotech ) were conducted as described previously ( 3-5 , 38-40 ) .
+Phosphoamino acid analysis ( 41 ) , phosphotryptic peptide mapping ( 41 ) , and cyanogen bromide ( CNBr ) peptide analysis ( 42 ) have been performed as described previously .
+For two-dimensional phosphotryptic peptide map-ping , °°P-labeled protein bands were excised and subjected to enzymatic digestion with 100 ug/ml trypsin ( Sigma ) overnight in 50 mM ammo-nium bicarbonate .
+Supernatants were dried by centrifugal evaporation , and dried samples were resuspended in 4 pl of a buffer containing 7.8 % glacial acetic acid and 2.5 % formic acid .
+Labeled peptides were separated on thin layer phosphocellulose plates ( Eastman Kodak Co. ) by electrophoresis at pH 1.9 for 30 min at 1000 V , followed by ascending chromatography in a buffer containing 37.5 % n-butanol , 7.5 % glacial acetic acid , and 25 % pyridine .
+Subsequently , air-dried plates were ex 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( 31218 posed to Kodak XAR-5 film .
+For electrophoretic mobility shift assays , cell extracts were prepared according to the previously published method ( 43 ) .
+Briefly , cells were lysed in WCE lysis buffer ( 50 mM Tris , pH 8.0 , 150 mM NaCl , 1 % Nonidet P-40 , 10 % glycerol , 1 mM EDTA , 0.5 mM Na , VO , , and protease inhibitors ) .
+An annealed oligonucleotide corresponding to the GAS-like STATS5 binding site in the B-casein gene promoter ( 5'-AGATTTCTA GGAATTCAAATC-3 ' ) purchased from New England Biolabs was end-labeled with T4 polynucleotide kinase using ( Amersham Pharmacia Biotech ) .
+A total of 10 ug of cell extract and 0.5 ng of labeled oligonucleotide were used per reaction .
+The cell extract and 200 ng of poly ( dI-dC ) ( Amersham Pharmacia Biotech ) were first incubated on ice for 15 min followed by another 15-min incubation on ice after adding the labeled oligonucleotide .
+The reaction products were run on a 5 % polyacrylamide gel in 0.5 % Tris borate-EDTA buffer and visualized by autoradiography .
+Recombinant Baculovirus Expression System-The murine wild type STAT5A gene in pBluescript SKII+ vector was a kind gift from J. N. Thle ( St. Jude Children 's Hospital , Memphis , TN ) .
+The STAT5A gene was excised from this plasmid by EcoRI digestion and cloned into pFastBacl ( PFB ) donor vector ( Life Technologies ) .
+The resulting pFast-bac-stat5a recombinant plasmid ( PFB-stat5a ) was then used to generate the recombinant baculovirus by site-specific transposition in Escherichia coli DH1OBac competent cells ( Life Technologies ) , which harbor a baculovirus shuttle vector ( bacmid ) , bMON14272 with a mini-attT ' n ?
+7 target site for site-specific transposition .
+The bacterial colonies containing recombinant bacmids were identified by disruption of the lacZa gene .
+High molecular weight miniprep DNA was prepared from selected E. coli clones containing recombinant bacmid and transfected into Sf21 cells using Cellfectin reagent ( Life Technologies , Inc. ) in a 60-mm dish ( 1.5 x 10° cells/dish ) .
+On day 5 after transfection , the supernatants from each dish were collected and saved for subsequent infections and plaque purification .
+Similarly , the genes encoding Y694F mutant STAT5A , Y694F-Y STAT5A , wild type BTK , TEC , and JAK3 were excised from pBluescript plasmid , cloned into PFB vector and processed as described above for expression in Sf21 cells .
+The BTK kinase domain ( BTK-KD ) gene was amplified from wild type BTK by PCR using 5'-primer ( AGCCATGGGAattgatccaaaggaectcac ) with a Neo !
+site and 3'-primer ( ATAAGCTTtcaggattcttcatccatcaca ) with a HindIII site .
+The PCR used Taq polymerase ( Life Technologies , Inc. ) and conditions of 95 °C denaturing for 3 min , followed by 30 cycles of 94 °C denaturing for 1 min , 60 °C annealing for 1 min , 72 °C extension for 2 min , and then running for an additional 10 min at 72 °C .
+The PCR product was cloned into the PCR2.1 vector ( BTKKD/PCR2.1 ) using the Invitrogen TA cloning technique .
+The identity of the insert was confirmed by DNA sequencing .
+Subsequently , the BTKKD/PCR2.1 was completely digested with Nco !
+and HindIII .
+The 800-base pair fragment was purified on a 0.8 % agarose gel ( Qiagene kit ) and ligated to the pFastBac HTh donor plasmid ( Life Technologies ) , followed by digestion with Nco !
+and HindIII to generate pFastBac HTh : BTKKD .
+Recombinant viral clones were identified visually and purified from plaque assay plates containing 1.5 % SeaPlaque GTG agarose ( FMC Bioproducts ) after 5-6 days at 28 °C .
+Recombinant viral clones were then amplified in T-25 flask cultures ( 4.0 x 10°®/flask on day 0 ) for 3 days ; infected cells were identified morphologically and then screened for production of the respective recombinant proteins by SDS-PAGE on 10 % polyacrylamide gels stained with Coomassie Brilliant Blue R. The various recombinant baculoviruses were inoculated into 25 X 10° Sf21 cells , and the cells were harvested 48 h later as detailed earlier ( 44 ) .
+When coexpression experiments were performed , the amounts of different viruses were adjusted following preliminary experiments to yield equivalent expression of the necessary proteins .
+For large scale production of wild type or mutant forms of STAT5A and BTK , 1-liter cultures of Sf21 cells in 3-liter Bellco spinner flasks ( 1.0-1.2 x 10° cells/ml ) were infected with the recombinant plasmids PFB-stat5a or PFB-btk during logarithmic growth with 25 ml of viral stock solution ( ~2.5 X 10° plaque-forming units/ml ) .
+This infection protocol results in a multiplicity of infection of ~6 .
+The viral stock solutions were passaged no more than three times following plaque purification prior to use in these large scale infections in order to minimize the presence of defective interfering particles .
+Cultures were incubated at 28 °C and stirred at 80-100 rpm using a magnetic stirrer ( Bellco Glass Inc. , Vineland , NJ ) for 48 h. Infected cells were harvested by gentle centrifugation in a Beckman GS-6 centrifuge at 500 x g for 7 min at room temperature .
+Cells from 1-liter cultures were divided into two aliquots ( ~4 g of wet cell paste ) and immediately flash-frozen at -80 °C and stored at -80 °C until purification of the recombinant proteins .
+Gel Filtration Analysis-Sf21 insect cells coexpressing STATS5 and STAT5A as a Substrate of BTK BTK were washed twice with assembly buffer ( 10 mM PIPES , 1 mM EDTA , pH 7.2 ) and lysed in lysis buffer ( 0.01 M Tris-Cl , pH 8.2 , 1 mM EDTA , 0.15 M NaCl , 1 % Nonidet P-40 , 2 mM phenylmethylsulfonyl fluoride , 1 ug/ml leupeptin , 1 ug/ml pepstatin , and 1 mM Na , VO , ) for 2 h on ice .
+Cytosolic fractions were recovered after centrifugation at 18,000 x g for 15 min .
+Supernatants were analyzed with fast protein liquid chromatography on a Superdex 200 HR 10/30 column ( Amersham Pharmacia Biotech ) at a flow rate of 0.5 ml/min .
+0.5-ml fractions were collected and subjected to Western blot analysis to determine the elution patterns and tyrosine phosphorylation status of STAT5 and BTK proteins , as described above .
+STAT5A Homology Model-A molecular model of STAT5A from residue 210 to 687 was initially constructed based on its homology with both STAT1 and STAT3 $ using the Swiss-Model program ( 45 ) .
+Subsequently , the model was extended to include all coordinates from residue 163 to 710 and then refined using the Homology module of the InsightII program ( MSI , San Diego ) and a Silicon Graphics INDIGO2 computer ( Silicon Graphics , Mountain View , CA ) .
+Specifically , the homology modeling of STAT5A was carried out in two steps as follows .
+1 ) The most reasonable sequence alignment between STAT5A and a coordinate template based on the STAT1 and STATS3B crystal structures was deter-mined .
+2 ) New coordinates were assigned to the STAT5A residues according to the template coordinates ( based on the sequence align-ment ) , followed by the determination of the loop coordinates and an energy minimization of the entire structure .
+Finally , the constructed model of STAT5A was subjected to visual inspection in CHAIN ( 46 ) and energy minimization using the X-plor program ( version 3.1 , A. T. Brunger , Yale University Press ) .
+The coordinates of the BTK kinase domain have been experimentally determined and will be published elsewhere .
+The model of the BTK kinase domain complexed with the tail segment of STAT5A was based on the ternary structure of the insulin receptor kinase domain and a peptide substrate .
+Site-directed Mutagenesis-Point mutations were introduced into the statba cDNA by PCR ( 47 ) .
+The codon for arginine 618 within the SH2 domain was mutated to a codon for lysine .
+The codons for the conserved tryptophans at positions 571 and 573 within the SH3 domain were mutated to leucine .
+The codon for tyrosine 694 that is the equivalent of tyrosine 701 in murine STAT1 , a previously known phosphorylation site by JAK kinases ( 48 ) , was mutated to a codon for phenylalanine .
+The codons for the tyrosine residues 665 , 668 , 682 , and 683 that flank tyrosine 694 and appear to be potential phosphorylation sites were also mutated to a codon for phenylalanine .
+All mutations were confirmed by sequence analysis .
+Point mutations introduced into the btk gene ( 39 ) have been reported earlier .
+Expression and Purification of MBP-BTK and GST-BTK Fusion Proteins-cDNAs encoding full-length BTK and its kinase or PH domains with PCR-generated 5 ' and 3 ' BamHI sites were cloned into the E. coli expression vector pMAL-C2 with the isopropyl-1-thio-B-D-galactopyranoside-inducible Ptac promoter to create an in frame fusion between these coding sequences and the 3'-end of the E. coli malE gene , which codes for maltose-binding protein ( MBP ) .
+cDNAs encoding the SH2 , SH3 , or SH2 + SH3 domains with PCR-generated 5 ' and 3 ' BamHI sites were cloned into the E. coli expression vector pGEX-2T with the isopropyl-1-thio-B-D-galactopyranoside-inducible Ptac promoter to create an in frame fusion between these coding sequences and the 3'-end of the E. coli glutathione S-transferase ( GST ) gene .
+The generated recombinant plasmids were transformed into the E. coli strain DHS5 « .
+Single transformants were expanded in 5 ml of LB medium ( 1 % tryptone , 1 % NaCl , 0.5 % yeast extract ) containing ampicillin ( 100 ug/ml ) by overnight culture at 37°C .
+Expression of the fusion proteins was induced with 10 mM isopropyl-1-thi0-B-D-galactopyrano-side .
+The cells were harvested by centrifugation at 4500 x g in a Sorvall RC5B centrifuge for 10 min at 4 °C , lysed in sucrose-lysozyme buffer ( 20 mM Tris , pH 8.0 , 150 mM NaCl , 10 % sucrose , 1 mM EDTA , 20 mM lysozyme ) , and further disrupted by sonication .
+After removal of the cell pellets by centrifugation at 35,000 x g for 1 h at 4 °C , GST-BTK fusion proteins were purified by glutathione-Sepharose chromatography , whereas MBP-BTK fusion proteins were purified from the culture supernatants by amylose affinity chromatography ( 4 ) .
+Pull-down Assays with MBP-BTK and GST-BTK Fusion Proteins-GST-BTK fusion proteins were noncovalently bound to glutathione-agarose beads ( Sigma ) and MBP-BTK fusion proteins were noncovalently bound to amylose beads under conditions of saturating protein , as previously described ( 4 ) .
+In brief , 50 ug of each protein was incubated with 50 ul of the beads for 2 h at 4°C .
+The beads were washed three times with 1 % Nonidet P-40 buffer .
+Nonidet P-40 lysates of KL2 human Epstein-Barr virus-transformed lymphoblastoid cells were prepared as described ( 4 ) , and 500 ug of the lysate was incubated with 50 ul of 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( STAT5A as a Substrate of BTK fusion protein-coupled beads for 2 h on ice .
+The fusion protein adsorbates were washed with ice-cold 1 % Nonidet P-40 buffer and resuspended in reducing SDS sample buffer .
+Samples were boiled for 5 min and then fractionated on SDS-PAGE .
+Proteins were transferred to Immobilon-P ( Millipore Corp. ) membranes , and membranes were immunoblotted with anti-STAT5A antibody ( Transduction Laboratories ) , according to previously described procedures ( 38-5 , 38-40 ) .
+Purification of STAT5A and BTK Proteins-Frozen Sf21 insect cells previously infected with PFB-btk ( ~24 g of cell paste ; 3 liters of culture ) were resuspended in 100 ml of extraction buffer ( 20 mM sodium phosphate , pH 7.4 , 100 mM NaCl , 1 mM EDTA , 1 mM EGTA , 1 my DTT , 0.1 % Triton X-100 , and 1 % Complete `` protease inhibitors ( Roche Molecular Biochemicals ) ) , incubated on ice for 15 min , and then sonicated three times for 30 s each time using a Branson sonifier 250 at 50 % duty cycle , 30 % output while on ice .
+All subsequent steps were performed at 4 °C unless otherwise noted .
+The extract was then centrifuged at 100,000 x g for 1 h in a Beckman Optima LE-80K ultracentrifuge using a 70Ti rotor .
+Following centrifugation , the supernatant was filtered through a 0.22-um membrane filter ( $ 100 ) and applied to a 5 X 13.5-cm Heparin-Toyopearl ( Sigma ) affinity column ( column volume 250 ml ) which had been equilibrated with buffer A ( 20 mM sodium phosphate , pH 7.4 , 1 mM EDTA , 1 mM EGTA , 1 mM DTT ) .
+Following application of the filtered soluble cell extract , the column was washed with 500 ml of buffer A plus 200 mM NaCl .
+Protein was then eluted from the column with a 1000-ml linear gradient from 0.2 to 1.0 M NaCl in buffer A , at a flow rate of 2.5 ml/min , and 15-ml fractions were collected .
+Eluted fractions were analyzed using SDS-PAGE and immunoblotting .
+Fractions containing anti-BTK immunoreactive material were pooled ( ~80 ml ) and dialyzed twice against 2 liters of buffer A to remove NaCl and then applied to a Sepharose Q HP26/10 ion exchange column ( column volume 50 ml ; Amersham Pharmacia Biotech ) that had been equilibrated with buffer A .
+Protein was eluted from the Sepharose Q column using a 250-ml linear gradient from 0 to 0.5 M NaCl in buffer A , at a flow rate of 2 ml/min , and 4-ml fractions were collected .
+Eluted fractions were again analyzed using SDS-PAGE and immunoblotting .
+Fractions containing anti-BTK immunoreactive material were pooled and dialyzed twice against 2 liters of buffer A to remove NaCl and then applied to a Mono S HR 5/5 ion exchange column ( column volume 1 ml ; Amersham Pharmacia Biotech ) .
+Protein was eluted from the Mono S column with a 40-ml linear gradient from 0 to 0.4 M NaCl in buffer A at a flow rate of 0.5 ml/min , and 1-ml fractions were collected .
+BTK was eluted at ~0.25 M NaCl .
+Fractions containing BTK were then concentrated individually to a final concentration of ~2 mg/ml of > 95 % protein with a total recovery of 1 mg from 4 liters of Sf21 cell culture fluid .
+Similarly , frozen Sf21 insect cells previously infected with PFB-statba , PFB-statba- [ Y694F ] , or PFB-statba- [ Y694F-Y ] ( ~24 g of cell paste ; 3-liter culture ) were resuspended in 100 ml of extraction buffer ( 10 mM Hepes , pH 7.4 , 1 mM EDTA , 1 mM EGTA , 2 mm DTT , 0.1 % Triton X-100 , and 1 % Complete `` protease inhibitors ( Roche Molecular Biochemicals ) , incubated on ice for 15 min , and then sonicated three times for 30 s each .
+The extract was then centrifuged at 100,000 x g for 1 h , and the supernatant was filtered through a 0.22-um membrane filter ( $ 100 ) and applied to a 2.5 X 15-cm Q Sepharose High Performance ( Amersham Pharmacia Biotech ) column .
+Following application of the filtered soluble cell extract , the column was washed with 200 ml of Hepes buffer ( 10 mM Hepes , pH 7.4 , 1 mM EDTA , 1 mM EGTA , 1 mM DTT ) plus 0.1 M NaCl .
+Protein was then eluted from the column with a 400-m1 linear gradient from 0.18 to 0.3 M NaCl in Hepes buffer , at a flow rate of 1 ml/min , and 8-ml fractions were collected .
+Eluted fractions were analyzed using SDS-PAGE and immunoblotting .
+Fractions containing anti-STAT5A immunoreactive material were pooled and dialyzed twice against 2 liters of Hepes buffer and then applied to a 2 X 10-cm Heparin-Toyopearl ( Sigma ) affinity column that had been equilibrated with Hepes buffer .
+Elution of protein was performed with a linear gradient of 0.05-0.32 M NaCl in buffer A at a flow rate of 1 ml/min , and 4-ml fractions were collected .
+Eluted fractions were analyzed using SDS-PAGE and immunoblotting .
+Fractions containing STAT5A ( or mutant STAT5A ) were combined , concentrated using Centriprep 30 ( Millipore Corp. ) to ~2 ml , and then applied to a HiLoad 26/60 Superdex 200 size exclusion column ( Amersham Pharmacia Biotech ) preequilibrated with 10 mM Hepes , pH 7.4 , 1 mM DTT .
+STAT5A ( or mutant STAT5A ) was eluted with ~350 ml of 10 mM Hepes , pH 7.4 , 1 mM DTT and concentrated using Centriprep 30 to a protein concentration of 10 mg/ml .
+For purification of the BTK-KD , frozen Sf21 cells expressing this protein were thawed in a 37 °C water bath , resuspended in 5 volumes of the lysis buffer ( 50 mM Tris/HCl , pH 8.5 , 100 mM KCI , 2 mM DTT , and 1 mM phenylmethylsulfonyl fluoride ) , sonicated for 1 min , and centri- 31219 fuged at 30,000 x g for 45 min .
+The supernatant was loaded on a nickel column , which was equilibrated with a solution containing 10 mM Tris/HC ] buffer at pH 8.0 , 500 mM KCI , and 0.5 mM DTT at a flow rate of 0.75-0.5 ml/min .
+The column was washed with 20 bed volumes of buffer B ( 20 mM Tris/HCl , pH 8.5 , 500 mM KCl , 15-20 mM imidazole , and 2 mM DTT ) and then washed with 10 bed volumes of buffer C ( 20 mM Tris/HCl , pH 8.5 , 1 M KCl , and 2 mM DTT ) .
+Subsequently , it was washed again with 2 bed volumes of buffer B .
+The protein was eluted with buffer D ( 20 mM Tris/HCl , 100 mM KCl , 150 mM imidazole , and 2 mM DTT ) .
+The fractions that contained BTK-KD were pooled together and dialyzed against a solution that contained 20 mM Tris/HC1 , 100 mM NaCl , 2 mM DTT , and 1 mM EDTA .
+Then the protein was concentrated to 5 mg/ml , digested with rTEV protease of 6 ug/mg at 4 °C overnight , and then concentrated to 3 ml , which was then loaded on a Superdex 200 column ( 26/60 ) , which was equilibrated with a solution of 20 mM Tris/HCl , pH 8.5 , 50 mM NaCl , and 2 mM DTT at a flow rate of 0.3 ml/min .
+Monitoring of Binding Interactions Using Surface Plasmon Resonance Technology-A BlAcore 2000 surface plasmon resonance-based biosensor system ( Amersham Pharmacia Biotech Biosensor AB ) was used to measure the kinetic parameters for the interactions between soluble recombinant STAT5A protein ( analyte ) and the immobilized recombinant BTK protein ( ligand ) .
+BTK or bovine serum albumin ( con-trol protein ) was covalently linked to the dextran on the surface of research grade CMS5 sensor chips via primary amino groups using the amine coupling kit from Amersham Pharmacia Biotech according to the manufacturer 's instructions ( Amersham Pharmacia Biotech ) , yielding a resonance signal of 2700 resonance units ( RU ) ( 1 RU corresponds to an immobilized protein amount of 1 pg/mm `` surface ) .
+Unreacted moieties on the surface were blocked with ethanolamine .
+The STAT5A protein samples were diluted in PBS buffer ( 1 mM KH , PO , , 10 mM Na , HPO , , 0.137 m NaCl , 2.7 mM KCI , 0.005 % Tween P-20 , pH 7.4 ) to a final concentration of 50 nM before the injection .
+Purified STAT5A protein samples in HBS-EP buffer ( 0.01 Hepes , pH 7.4 , 0.15 M sodium chloride , 3 mM EDTA , 0.005 % polysorbate 20 ( v/v ) ) was injected in a total volume of 75 ul containing 20-80 ug of purified protein .
+Samples were injected at 25 °C at a flow rate of 15 ul/min onto the sensor chip surface on which the BTK protein had been immobilized or onto a control surface on which bovine serum albumin had been immobilized .
+Binding surface was regenerated by washing with 2 M NaCl .
+The primary data were analyzed using the BlAevaluation software ( version 3.0 ) supplied with the instrument ( Biacore , Inc. ) .
+To prepare the data for analysis , base lines were adjusted to zero for all curves , and injection start times were aligned .
+Background sensorgrams were then subtracted from the experimental sensorgrams to yield curves representing specific binding .
+All of the kinetic data were fit most adequately by assuming a simple bimolecular reaction model for interaction between soluble analyte and immobilized ligand , equivalent to the Langmuir isotherm for adsorption to a surface .
+For determination of k , , , only the middle portion of the association curve was used for fitting .
+For determination of A , , , , only the initial portion of the curve encompassing the fast dissociation phase was used for fitting .
+The goodness of fit was assessed by inspecting the statistical value y `` and the residuals ( ob-served - calculated ) .
+The y `` values were low ( < 2 ) , and the residuals randomly distributed about zero .
+RESULTS AND DISCUSSION Physical Interactions between STAT5SA and BTK-In co-im- munoprecipitation experiments using Triton X-100 whole cell lysates from KL-2 human B cells , we discovered that BTK immune complexes contain STAT5A ( Fig .
+14 ; see A.2 , first lane ) and STAT5A immune complexes contain BTK ( Fig .
+1B ; see B.1 , first lane ) .
+These results indicated that BTK is consti-tutively associated with STAT5A in B cells .
+Interestingly , this physical association appeared to be markedly reduced after engagement of the B cell antigen receptor .
+No STAT5A was detected in the BTK immune complexes from whole cell lysates prepared after 20 min of stimulation with an anti-IgM antibody ( Fig .
+14.2 , lane 2 ) , although there was as much BTK in these immune complexes as in those prepared before anti-IgM stimulation ( Fig .
+14.1 ) , and the Western blot analysis of the whole cell lysates with the same anti-STAT5A antibodies did not indicate any change in the amount of cellular STAT5A ( Fig .
+1A.3 ) .
+Similarly , virtually no BTK was detected in the STAT5A immune complexes from whole cell lysates prepared after anti 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( 31220 STAT5A as a Substrate of BTK 8 ( 3 Ses Ad 8 ® B.j jag 3® D.1 20 210 220 23 s k ® STAT5-_-v——J BTK - Ls we Btk » as 1 BTK IP - > BTK WB STATSA IP - > BTK WB woes cues P4 25 26 27 - 28 29 STAT5A » STATSA— STATS - e® i ~ a “ BTK - ~~ se- » axe CHP CHP BTK IP - > STATSA WB STAT5A IP - > STATSA WB 8 & & & & STAT5£Ur cuse come BTK- we mgs E4 WCL - > STATSA WB WCL - > BTK WB - - ‘ STATSA STATSA WB C P & a _C _£ E.2 wath some -BTK ' C ® € ( & “ $ 9 BTK WB C ¥ 4 A4 & `` a y o CC FC C C 3° STATSA - < p « =- w* Fig .
+1 .
+A and B , constitutive association of BTK with STAT5A .
+A , detection of STAT5A in BTK immune complexes .
+BTK was immunoprecipitated from TX-100 lysates of KL-2 human B cells before ( -algM ) or 20 min after ( + « algM ) stimulation with an anti-IgM antibody and subjected to immunoblotting with anti-BTK ( 4.1 ) and anti-STAT5A ( 4.2 ) antibodies .
+B , detection of BTK in STAT5A immune complexes .
+STAT5A was immunoprecipitated from TX-100 lysates of KL-2 human B cells before ( -algM ) or 20 min after ( +aIgM ) stimulation with an anti-IgM antibody and subjected to immunoblotting with anti-BTK ( B.1 ) and anti-STAT5A ( B.2 ) antibodies .
+Whole cell lysate proteins were also subjected to immunoblotting with anti-STAT5A ( 4.3 ) and anti-BTK ( B.3 ) antibodies .
+C , binding of BTK fusion proteins to STAT5A protein in human B cells .
+BTK- ( 1-659 ) ( full-length protein ) , BTK- ( 408-659 ) ( kinase domain ) , and BTK- ( 2-137 ) ( PH domain ) were fused to MBP .
+BTK- ( 219-268 ) ( SH3 domain ) and BTK- ( 281-377 ) ( SH2 domain ) were fused to GST .
+B , MBP-BTK and GST-BTK fusion proteins were used in pull-down binding assays to examine their ability to interact with STAT5A protein in lysates of KL2 human Epstein-Barr virus-transformed B lymphoblastoid cells , as described under `` Materials and Methods . ``
+Fusion protein adsorbates and control samples ( CON ( 1 ) , cell lysate + amylose beads with no fusion protein added ; CON ( 2 ) , cell lysate + glutathione-agarose beads , no fusion protein added ) as well as a KL2 whole cell lysate sample were resolved by SDS-PAGE , immunoblotted with anti-STAT5A antibody , and developed with ECL .
+D and E , physical association between ectopically expressed BTK and STAT5A in Sf21 cells .
+D , gel filtration analysis .
+Sf21 cells coexpressing BTK and STAT5A were lysed and cytosolic fractions were recovered then analyzed using fast protein liquid chromatography at a flow rate of 0.5 ml/min .
+Fractions ( 0.5 ml ) were collected and subjected to Western blotting with antibodies specific for BTK and STAT5A .
+Proteins were visualized using ECL and analyzed by densitometry .
+The numbers 20-34 correspond to fractions , and arrows below the blot designate the predicted size of the complexes based upon size standards .
+E , precipitation analysis .
+STAT5A ( STAT5A IP ) and BTK immune complexes ( BTK IP ) as well as whole cell lysates ( WCL ) were subjected to Western blot ( WB ) analyses using anti-STAT5A and anti-BTK antibodies .
+The arrowheads indicate the positions of the BTK and STAT5A protein bands .
+IgM stimulation ( Fig .
+1B.1 , lane 2 ) , although there was as much STAT5A in these immune complexes as in those prepared before anti-IgM stimulation ( Fig .
+18.2 ) , and the Western blot analysis of the whole cell lysates with the same anti-BTK antibodies did not indicate any change in the amount of cellular BTK ( Fig .
+1B.3 ) .
+These observations are reminiscent of the reported association between BTK and the multifunctional transcription factor BAP-135/TFII-I in unstimulated ( but not anti-IgM-stimulated ) B cells ( 17 ) .
+We performed `` pull-down `` experiments with full-length MBP-BTK- ( 1-659 ) and truncated MBP-BTK ( MBP-BTK- ( 408-659 ) , BTK kinase domain ; MBP-BTK- ( 2-137 ) , BTK PH domain ) or GST-BTK fusion proteins ( GST-BTK- ( 219-268 ) , BTK SH3 domain ; GST-BTK- ( 281-377 ) , BTK SH2 domain ) corresponding to different domains of BTK in an attempt to elucidate the structural requirements for BTK binding to STAT5A .
+Only the full-length BTK and BTK KD were able to bind and pull down STAT5A from lysates of KL2 human Epstein-Barr virus-transformed B lymphoblastoid cells ( Fig .
+1C ) .
+Thus , the kinase domain appears to mediate the binding of BTK to STAT5A .
+We next set out to examine the in vivo interactions between ectopically expressed BTK and STAT5A proteins in a heterologous expression system .
+To confirm that a physical association exists between BTK and STAT5A when they are coexpressed in Sf21 cells , we examined whether BTK and STAT5A are present as native complexes Sf21 cells cotransfected with PFB-statdba + PFB-btk .
+Lysates of Sf21 cells were size-fractionated by fast protein liquid chromatography on a Superdex 200 size exclu- sion column ( Amersham Pharmacia Biotech ) , and the elution patterns of BTK and STAT5A proteins were examined by immunoblotting with antibodies recognizing the individual proteins .
+The relative amounts of each protein per fraction were determined by densitometric scanning .
+More than 90 % of the BTK protein eluted in fractions 27-29 , corresponding to apparent native molecular masses of 75-150 kDa ( Fig .
+1 , D.1 and D.2 ) .
+The remainder of the BTK protein eluted in fractions 21-26 , which correspond to apparent native molecular masses of > 270 kDa .
+Notably , these fractions also contained STAT5A protein ( Fig .
+1D ) .
+These results suggested the existence of 270-350-kDa native complexes containing BTK and STAT5A .
+We next used Western blot analyses to evaluate the interaction between BTK and STAT5A in these Sf21 cells coexpressing both BTK and STAT5A .
+BTK immune complexes from these whole cell lysates contained STAT5A ( Fig .
+1K.1 , lane 2 ) , and STAT5A immune complexes from these whole cell lysates contained BTK ( Fig .
+15.2 , lane 1 ) .
+Taken together , these initial findings indicated that , when ectopically coexpressed in Sf21 cells , BTK and STAT5A proteins can physically associate with each other .
+We next sought to examine the ability of purified recombinant BTK to bind purified recombinant STAT5A by surface plasmon resonance , which permits direct measurements of the association and dissociation kinetics of binding interactions .
+Fig .
+2 shows representative BlAcore sensorgrams of concentra-tion-dependent solution phase > 95 % pure STAT5A binding to immobilized > 95 % pure BTK on BlAcore sensor chips .
+The binding traces were analyzed assuming a single bimolecular 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( STAT5A as a Substrate of BTK 350 |- l 310 | 270 | 3 230 | CC o 199 ) BTK , 6.0 ug & 1so 2. g `` *J BTK , 3.0 ug 50 } _L .
+C f _ LLL BTK , 1.5 ug 30 } are t TT-R -__ e_ LLL al = BSA +50 1 1 1 1 1 1 1 i i | 100 -s0 _ 40 110 i180 250 S20 soo 460 530 - 600 Time ( sec ) Fic .
+2 .
+Solution phase binding interactions between BTK and STAT5A .
+A representative BlAcore sensorgram shows the binding of purified recombinant STAT5A to the purified recombinant BTK protein immobilized on a CMS sensor chip .
+STAT5A protein was injected at time 0 and exposed to the surface for 300 s ( association phase ) , followed by a 5-min flow of Hepes-EP buffer during which dissociation could be observed .
+binding equilibrium between BTK and STAT5A proteins .
+The maximum resonance signal ( R , , , , , ) increased in a concentration-dependent fashion from 49.6 RU at 20 ug/ml STAT5A to 169 RU at 40 ug/ml STAT5A and 238 RU at 80 ug/ml STAT5A .
+The kinetics of the binding was independent of the STAT5A con-centration .
+The average on-rate ( K , , , ) was 3.0 + 0.9 X 104 ~ ' s ~* , the average off-rate ( Reg ) was 11.1 + 0.3 % 10~* s~ ' , and the average affinity constant ( KD = k , w/k , , ) was 44.4 + 13.0 nM .
+These results provide unprecedented experimental evidence that BTK is capable of directly binding STAT5A with a relatively high affinity .
+Tyrosine Phosphorylation of STAT5A by BTK-We have performed a series of experiments to further confirm and extend these initial observations .
+Sf21 cells transfected with PFB-statba expressed the recombinant murine STAT5A protein , as detected by anti-STAT5A immunoblotting of STAT5A immune complexes from whole cell lysates prepared 48 h after transfec-tion ( Fig .
+3A ) .
+By comparison , control Sf21 cells transfected with PFB did not show any evidence of STAT5A expression , demonstrating that the anti-STAT5A antibody used for immunoblotting does not recognize an endogenous insect STAT5A protein .
+The anti-phosphotyrosine Western blot analysis of the STAT5A immune complexes from Sf21 cells transfected with PFB-stat5a did not show any evidence of tyrosine phosphorylation .
+Thus , insect kinases in Sf21 cells do not significantly phosphorylate recombinant STAT5A in vivo .
+We next sought to determine if coexpression of STAT5A with BTK leads to tyrosine phosphorylation of STAT5A in vivo .
+Controls included Sf21 cells co-transfected with PFB-statd @ and recombinant plasmids for TEC or JAK3 .
+As shown in Fig .
+3B.1 ( first lane ) and Fig .
+3C .
+1 ( second lane ) , anti-phosphotyrosine Western blot analysis of STAT5A immune complexes from Sf21 cells cotransfected with PFB-statd @ + PFB-btk showed tyrosine phosphorylation of STAT5A protein .
+The level of tyrosine phosphorylation of STAT5A in Sf21 cells coexpressing BTK was similar to that in Sf21 cells coexpressing JAK3 .
+In contrast , no STAT5A tyrosine phosphorylation was observed in Sf21 cells coexpressing TEC kinase ( Fig .
+3B.1 , second lane , and Fig .
+3C.1 .
+, third lane ) .
+STAT5A was expressed at similar levels in each of the transfectants ( Fig .
+3B.2 and 3C.2 ) , and all three tyrosine kinases were enzymatically active in Sf21 cells , as shown by their ability to phosphorylate an exogenous substrate ( GST for Tec family members and B-casein for JAK3 ) ( Fig .
+3B.3 ) .
+The ability of both BTK and JAK3 to tyrosine-phospho-rylate STAT5A was dependent on the enzymatic activity of 31221 STAT-5A IP 4 & & « & 3 , `` $ 49 p G rus y Ad a & & & & & % < C.1 € @ C ( Da QQ QQ ( j : QQ 5° 9 $ 200- kDa STATSA IP 96 wane APT wB 97- w- - STAT5A 69 46 : a C.2 « atms sme eames .
+< STATSA STATSA WB __ APT WB S0 eA ar STAT 5A WB 69-o $ 4 : & Sé ‘ .
+*y ¢ `` £ CAA $ $ & & & & & + gs v9 ?
+“ & ( we ?
+B.1 I D.1 V163 v5 “ V159 : « pa « f kDa & F F 6 $ kDa 200- 97- wame LJ - STAT5A STAT5A IP -- APT WB STATSA IP Ret we `` -- -statsa -- D2 97 - eens ( lip weet we - < STAT SA eo-wo « -a w » | a un ws STAT5A IP- » STATSA WB B.2 statsa i » | 07 - eme -STAT5A STAT5A WB mass sums as « \ ... # Kinase IP KA ' Fic .
+3 .
+In vivo phosphorylation of ectopically expressed STAT5A by BTK in a heterologous expression system .
+A , expression of STAT5A in Sf21 cells .
+Sf21 cells were transfected with PFB or PFB-stat5a .
+After 48 h , cells were lysed , lysates were immunoprecipitated with anti-STAT5A antibodies , and immune complexes were subjected to Western blot analysis with anti-STAT5A or anti-phosphotyrosine ( APT ) antibodies .
+B and C , coexpression of STAT5A with Tec family tyrosine kinases or JAK3 in Sf21 cells .
+STAT5A was co-expressed with BTK , TEC , or JAK3 .
+STAT5A was immunoprecipitated , and immune complexes were subjected to Western blot analysis with anti-phosphotyrosine ( B .
+1 and C.1 ) or anti-STAT5A ( B.2 and C.2 ) antibodies .
+The enzymatic activities of the expressed tyrosine kinases were measured by phosphorylation of exogenous substrates ( GST -Iga for Tec family members and B-casein for JAK3 ) in the presence of [ y-* `` P ] JATP ( B.3 ) .
+D , requirement for an active kinase domain for BTK-induced or JAK3-induced tyrosine phosphorylation of STAT5A .
+STAT5A was coexpressed with JAK3 , kinase-inactive JAK3 mutant , BTK , or kinase-inactive BTK mutant .
+STAT5A was immunoprecipitated , and immune complexes were subjected to Western blot analysis with anti-phospho- tyrosine ( D.1 ) or anti-STAT5A ( D.2 ) antibodies .
+- GST-ige : - B-casain their respective kinase domains .
+As shown in Fig .
+3D , coexpression of kinase-dead mutants of BTK ( Y551F , BTK®* `` `` * `` ) or JAK3 ( K851E , JAK3* `` * `` ) did not result in tyrosine phosphorylation of STATS5A .
+We next used in vitro kinase assays to determine if BTK can phosphorylate STAT5A .
+BTK immune complexes from whole cell lysates of Sf21 cells transfected with PFB-btk were mixed with purified STAT5A ( 10 ug ) and 10 Ci of [ y-SZP ] ) ATP in the presence of 5 mM each of Mncl , and MgSQO , .
+TEC from PFB-tec-transfected Sf21 cells and JAK3 from PFB-jak3-transfected Sf21 cells were also included for comparison .
+The kinase reactions were stopped after 10 min , STAT5A was immunoprecipitated , and its phosphorylation status was assessed by autoradiography .
+As shown in Fig .
+4A , BTK was capable of phosphorylating STAT5A .
+The phosphorylation level of BTK-treated STAT5A was similar to that of JAK3-treated STAT5A .
+In contrast to BTK , TEC did not phosphorylate STAT5A .
+The amount of STAT5A was virtually identical in each kinase reaction ( Fig .
+4B ) and all three tyrosine kinases , including TEC , were enzymatically active , as meas- 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( 31222 & / & a* & - € + kDa < 6 “ & y A U % R _ © - - > C WAD -sa < s 97 BTK » » - wih e With < TEC L can d « meus 46-o .
+69 ' + PS 46 == .
+-a f +oPT 30 ~ 2+ - < a .
+e PY 21.5-N # _ - < 14.3-yess | Fon | os [ sxs | ta Jc AA - A A _- A & A A A4 & A A A AAA `` s $ 8 ¢ 1 § ts € R 2 Sags 17 KD STAT5A CNBr Cleavage Map Fig .
+4 .
+A-C , in vitro phosphorylation of STAT5A by BTK .
+Sf21 cells were transfected with PFB-btk , PFB-tec , or PFB-jak3 .
+A , cell lysates from various transfectants were immunoprecipitated with specific antibodies , and the immune-complexes were mixed with purified STAT5A and [ y-*P ] JATP .
+The kinase reactions were stopped by adding radioimmune precipitation buffer ( 20 mM MOPS , pH 7 , 150 mM NaCl , 1 mM EDTA , 1 % Nonidet P-40 , 1 % sodium deoxycholate , 0.1 % SDS ) , centrifuged at 12,000 rpm , and the supernatants were immunoprecipitated with an anti-STAT5A antibody .
+The phosphorylation status of the immunoprecipitated STAT5A was determined by autoradiography .
+B , the amount of STAT5A in each kinase reaction was determined by STAT5A immunoprecipitation and anti-STAT5A immunoblotting .
+C , the enzymatic activity of the immunoprecipitated tyrosine kinases was measured by autophosphorylation in immune complex kinase assays .
+D-F , phosphoamino acid analysis ( PAA ) and cyanogen bromide ( CNBr ) cleavage analysis of BTK-phosphorylated STAT5A .
+BTK was immunoprecipitated from lysates of PFB-btk-transfected Sf21 cells and an immune complex kinase assay was performed with purified STAT5A and [ y-*°P ] JATP .
+The reaction was stopped with radicimmune precipitation .
+buffer , and STAT5A was immunoprecipitated and run on a polyacrylamide gel .
+The *°P-labeled STAT5A band was isolated and subjected to PAA ( shown in D ) or CNBr cleavage analysis ( shown in E ) .
+The positions of ninhydrin-stained phosphoamino acid standards ( phospho-serine ( PS ) , phosphotyrosine ( PY ) , and phosphothreonine ( PT ) ) are indicated with circles .
+The CNBr cleavage map of STAT5A is depicted in F , with arrowheads pointing to the positions of methionines .
+ured by autophosphorylation ( Fig .
+4C ) .
+As shown in Fig .
+4D , phosphoamino acid analysis of the BTK-phosphorylated STAT5A protein confirmed that BTK phosphorylates STAT5A exclusively on tyrosine residues .
+CNBr cleavage of BTK-phosphorylated STAT5A protein yielded a single phosphopeptide of ~17 kDa ( Fig .
+4 , £ and F ) .
+This fragment contains the tyrosine STAT5A as a Substrate of BTK residues at positions 665 , 668 , 682 , 683 , and 694 as well as the SH2 domain and a portion of the SH3 domain .
+Identification of Tyrosine 694 of STAT5A as the Target Phosphorylation Site for BTK Kinase Domain-We constructed a molecular model of the STATS5A structure ( residues 163-703 ) based on its homology with STAT1 and STAT3 $ crystal structures ( Fig .
+5 ) .
+A flexible or B-strand-like conformation is a desired structural feature for effective phosphorylation of protein substrates by protein kinases .
+Similar to the structural conformation revealed by the STAT1 and STAT3B crystal structures , our model indicates that the tail segment of STAT5A from residue 693 to residue 703 ( 694 included ) adopts a B-strand-like conformation , which is therefore suitable for binding interactions with the BTK kinase domain .
+Tyr© `` * of STAT5A is in close contact with the BTK catalytic residues including Asp `` , Arg `` , and Asn® `` ° .
+In addition , Gly* `` , Val `` , and Lys® `` of STAT5A are near the BTK residues Pro® ( backbone ) , Phe `` `` `` , and Lys* `` ° , respectively .
+Based on our model , these residues interact with each other and constitute the binding affinity between STAT5A and the BTK kinase domain .
+Our model also indicates that the SH2 and SH3 domains of BTK may sterically clash with the N-terminal domain of STAT5A ( residues 1-150 ) , which is predicted to reside near the coiled-coil domain and may be accessible by the less bulky BTK kinase domain .
+According to this model , of the five tyrosine residues in the SH2 domain and tail segment of STAT5A , only Tyr is fully exposed to the solvent environment and therefore is the most accessible tyrosine residue for phosphorylation by BTK .
+All tyrosine residues except for Tyr®* are either sterically inaccessible or adopt a helical conformation unsuitable for phosphorylation .
+For example , Tyr®® `` is surrounded by His `` , Pro `` `` , and Lys ; Tyr®® `` is surrounded by Ser and Lys® `` `` and possibly sterically occluded by a loop formed by residues 685-700 ; Tyr `` is surrounded by Arg* `` * , Lys® `` `` , and Ie `` ; and Tyr®® is surrounded by Pro°® `` * , Pro° `` , and Ne `` .
+Both and Tyr® `` * adopt a helical conformation that is not suitable for phosphorylation .
+Tyr®* `` is the only tyrosine ( other than Tyr®* ) that may be eligible for phosphorylation and more exposed than the aforementioned tyrosine residues .
+However , Tyr `` is located on a B-strand as a part of a B-sheet structure on the DNA binding domain .
+Although sufficiently exposed for phosphorylation , Tyr® `` `` is situated on a relatively rigid B-sheet structure .
+More importantly , Tyr® `` `` is less accessible than Tyr®* because it is close to the N-terminal domain of STAT5A according to the full model of the STAT1 protein ( 61 ) .
+These modeling studies taken together with the CNBr cleavage data prompted the hypothesis that Tyr®* of STAT5A is the target phosphorylation site for BTK .
+In order to determine the site of BTK-mediated phosphorylation in STAT5A , tyrosine residues present in the 18-kDa CNBr fragment at positions 665 , 668 , 682 , 683 , and 694 were mutated to phenylalanine , as described under `` Materials and Methods . ``
+In addition , mutations were also made in the SH2 and SH3 domains to determine the role of these domains for in vivo recognition and phosphorylation of STAT5A by BTK .
+The various STAT5A mutants were coexpressed in Sf21 cells with wild type BTK .
+Fig .
+6A shows that BTK tyrosine phosphorylates the Y665F , Y668F , and Y682F , Y683F mutants of STAT5A but not the Y694F mutant of STAT5A .
+Notably , STAT5A mutations in the SH2 ( R307K ) and SH3 ( Y251L , Y252L ) domains did not alter the BTK phosphorylation of STAT5A .
+STAT5A mutants were expressed at similar levels ( Fig .
+6B ) , and the enzymatic activity levels of BTK in the presence of the various STAT5A proteins were comparable ( Fig .
+6C ) .
+Similarly , BTK immunoprecipitated from whole cell lysates of PFB-btk-trans- 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( STAT5A as a Substrate of BTK 31223 668 0 / og3 , - SH2 Domain Linker Domain Fic .
+5 .
+Molecular model of STAT5A .
+Molecular model of the STAT5A structure is shown as a surface representation ( A ) and ribbon representation ( B ) .
+The structure of STAT5A ( residues 163-703 ) was constructed based on its homology with STAT1 and STATS3B crystal structures .
+Different domains are shown in different colors : the coiled-coil domain in red , the DNA binding domain in gold , the linker domain in green , and the SH2 domain in blue .
+The DNA double strand is used to mark the DNA binding location and is shown as a stick model ( A , multicolor ) and a space-filling model ( B , yellow for phosphate and blue and white for two different DNA strands , respectively ) .
+All five tyrosine residues on the SH2 domain and tail segment that were subjected to phenylalanine mutations are shown in different colors and labeled accordingly .
+Among them , only Tyr® `` * ( red ) is fully exposed to the solvent environment .
+The other four tyrosine residues are at least half-buried , consistent with our 694 : experimental data suggesting that Tyr `` is most accessible to BTK phosphorylation .
+Other tyrosine residues including Tyr `` and Tyr `` ( not shown ) are situated on a helix of the coiled-coil domain .
+fected Sf21 cells phosphorylated wild type STAT5A ( Fig .
+6D , first lane ) , but it failed to phosphorylate the Y694F mutant of STAT5A ( Fig .
+6D , second lane ) , although the amounts of STAT5A proteins ( Fig .
+6E ) and level of BTK kinase activity ( Fig .
+6F ) were virtually identical in these in vitro kinase reac-tions .
+Notably , mutation of the Phe `` residue back to a tyrosine residue restored the ability of BTK to phosphorylate STAT5A ( Fig .
+6D , third lane ) .
+Taken together , these results uniquely implicate Tyr®* of STAT5A as the BTK phosphorylation site .
+We next examined the ability of BTK to phosphorylate STAT5A in the presence and absence of wild type or kinase-inactive JAK3 .
+As shown in Fig .
+6G , both BTK ( lane 3 ) and JAK3 ( lane 1 ) ( but not their inactive kinase domain mutants ; see lanes 2 and 4 ) were capable of phosphorylating STAT5A .
+By comparison , no tyrosine phosphorylation of STAT5A was evident in Sf21 cells co-expressing kinase inactive mutants of BTK as well as JAK3 ( lane 6 ) .
+Notably , wild type BTK was capable of phosphorylating STAT5A even when co-expressed with the kinase-inactive mutant of JAK3 ( lane 8 ) , which does not phosphorylate STAT5A ( Zane 2 ) .
+Thus , BTK-mediated tyrosine phosphorylation of STAT5A can not be attributed to JAK3 .
+Similarly , neither the wild type nor the kinase-inactive mutant of BTK affected the ability of the co-expressed wild type JAK3 kinase to phosphorylate STAT5A ( lanes 5 and 7 ) .
+The immunoprecipitable STAT5A protein expression levels for the various Sf21 cell samples were virtually identical ( Fig .
+6M ) .
+The presence of co-expressed kinase proteins JAK3 ( Fig .
+61 ) and BTK ( Fig .
+6J ) was confirmed by Western blot analysis .
+Taken together , these results do not lend any support to the suggestion that BTK induces tyrosine phosphorylation of STAT5A indirectly by first transphosphorylating and activating JAK3 .
+However , it is conceivable that these two tyrosine kinases cooperate in regulation of the STAT5A-linked signaling pathways .
+One might also speculate that co-expression of these two tyrosine kinases in Sf21 cells would have resulted in additive tyrosine phosphorylation of STAT5A if the expression level of each kinase alone was insufficient to cause optimal phosphorylation of STAT5A .
+Tyrosine phosphorylation of STAT5A by JAK3 results in enhanced DNA binding activity .
+In order to determine if the BTK-mediated tyrosine phosphorylation also augments the DNA binding activity of ectopically expressed STAT5A in a heterologous expression system , we performed electrophoretic mobility shift assays using a *P -labeled oligonucleotide representing a GAS-like element from the B-casein gene promoter region .
+As shown in Fig .
+7A , extracts from untransfected Sf21 cells ( Zane 1 ) or Sf21 cells transfected with PFB-stat5a alone ( lane 2 ) did not contain any proteins capable of binding the probe causing a mobility shift .
+By comparison , a significant mobility shift of the °°P-labeled oligonucleotide probe was observed in extracts from Sf21 cells co-expressing wild type BTK and STAT5A ( Zane 5 ) .
+These findings indicate that BTK-mediated tyrosine phosphorylation of ectopically expressed STAT5A enhances its DNA binding activity .
+The level of STAT5A activation in these extracts was virtually identical to that observed in extracts of Sf21 cells co-expressing wild type JAK3 and STAT5A ( compare lanes 5 and 10 ) .
+The observed mobility shifts of the oligonucleotide probe were not caused by endogenous insect STAT proteins , because no mobility shifts were observed when we used extracts from Sf21 cells expressing wild type BTK alone ( lane 3 ) or wild type JAK3 alone ( lane 9 ) .
+BTK-mediated activation of STAT5A was dependent on the enzymatic activity of BTK , since no mobility shifts were observed in extracts of Sf21 cells co-expressing STAT5A and a kinase-inactive mutant of BTK ( Zane 6 ) .
+In accordance with the above detailed data identifying Tyr©* as the BTK phosphorylation site of STAT5A , co-expression of BTK was unable to activate the Y694F mutant of STAT5A ( lane 8 ) .
+These results demonstrate that STAT5A is a functional target for BTK .
+We next used the baculovirus expression system to compare the ability of mutant BTK proteins with point mutations of conserved residues in the PH ( R28C ) , SH/kinase domain ( Y551F , autophosphorylation site mutant ; K430E , ATP binding site mutant ) , SH2 ( R307K ) , and SH3 ( Y251L , Y252L ) domains to phosphorylate STAT5A in vivo .
+As shown in Fig .
+7B , recombinant BTK proteins with mutant PH , SH2 , or SH3 domains were capable of tyrosine phosphorylating the co-expressed wild 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( 31224 STAT5A as a Substrate of BTK & € + a * 4 5 } le } x66 } ?
+?
+?
+’ 266 .
+£5 } `` @ # ‘ igﬂ 65g ! )
+65g A “ ?
+?
+?
+« é ‘ if Ahab “ ( g ; 63 ?
+Eff } ?
+J F J JF J 3 & & & C 2 E 4 4 # $ * * $ * E S & 8 $ & 4 4 4 A & _ & 6 kDa D ¥ WW -statsa STATSA IP _ 97- eeaap eae « wo ense eath -ST/T5¢ { B9- F STAT5A IP coe : mme cums .
+< BTK STATSA bot - , _ ab # B amo aao aan aah -s : 15 .
+C « GST-Iga 97 BTK IP KA ( 8 Y y 6 STATS A » - baad Game STAT5A WB H statsa- eam can cas cae cae cay cont STAT5A IP- » STATS5A WB I JAK3 =- # « mum woos ___ seme JAK3 IP -- JAK3 WB J BTk » UAB anth ts caut cms tt BTK IP -- BTK WB Fig .
+6 .
+A-C , tyrosine phosphorylation of mutant STAT5A proteins by ectopically expressed wild type BTK in a heterologous expression system .
+Mutant STAT5A proteins were co-expressed in Sf21 cells with wild type BTK .
+STAT5A proteins were immunoprecipitated , and the immune complexes were subjected to Western blot analysis with anti-phosphotyrosine ( A4 ) or anti-STAT5A ( B ) antibodies .
+The enzymatic activity of the expressed BTK protein was measured by examining the autophosphorylation of BTK in the anti-BTK immunoprecipitates from the Sf21 lysates in the presence of [ y-*P ] JATP ( C ) .
+The positions of BTK , STAT5A , and prestained molecular mass markers ( in kilodaltons ) are indicated with arrowheads .
+D-F , requirement for an intact Tyr®* residue for BTK-mediated tyrosine phosphorylation of STAT5A .
+D , Sf21 cells expressing wild type BTK were lysed and immunoprecipitated , and the BTK immune complexes were mixed with purified wild type STAT5A ( BTK + STAT5A ) , Y694F mutant of STAT5A ( BTKY* + STAT5A*®* `` ) , or Y694F-Y mutant of STAT5SA ( BTK® `` * + STAT5A**** `` -* ) in the presence of [ y-*P ] ATP .
+The in vitro kinase reactions were stopped by adding radioimmune precipitation buffer , and the phosphorylated STAT5A protein was visualized by autoradiography .
+E , after stopping the kinase reactions , the kinase reaction mixtures were centrifuged at 12,000 rpm , and the supernatants were immunoprecipitated with an anti-STAT5A antibody .
+The immune complexes were subjected to Western blot analysis with the anti-STAT5A antibody .
+F , the enzymatic activity of BTK in the kinase reactions was measured by examining its autophosphorylation as well as its ability to phosphorylate GST-Iga in immune complex kinase assays .
+G-J , tyrosine phosphorylation of STAT5A by ectopically expressed BTK is independent of JAK3 .
+Wild type BTK , JAK3 and their kinase-inactive mutants were co-expressed with STAT5A in Sf21 cells .
+Cells were lysed after 48 h of incubation , lysates were immunoprecipitated with anti-STAT5A ( G and H7 ) , anti-JAK3 ( I ) , or anti-BTK ( J ) antibodies and subjected to immunoblotting with anti-phosphotyrosine antibodies ( G ) , anti-STAT5A antibody ( H ) , anti-JAK3 antibody ( / ) , or anti-BTK antibody ( J ) .
+type STAT5A protein , whereas recombinant BTK proteins with SH1/kinase domain mutations were not .
+The expression levels of STAT5A ( Fig .
+7C ) and mutant BTK proteins ( Fig .
+7D ) were similar for all Sf21 cells co-expressing STAT5A and a mutant BTK protein .
+No BTK kinase activity was detected in BTK immune complexes from Sf21 cells expressing the kinase domain mutants of BTK ( Fig .
+7 ) .
+Taken together with the results of the pull-down experiments , these findings indicate that the PH , SH2 , and SH3 domains of BTK do not significantly contribute to its physical and functional interactions with STAT5A .
+The ability of BTK to phosphorylate STAT5A requires both an intact ATP-binding site and an intact autophosphorylation site within the kinase domain .
+We next examined the ability of purified recombinant BTK-KD to phosphorylate purified recombinant STAT5A using in vitro kinase assays .
+As shown in Fig .
+7F.1 , STAT5A did not show any significant level of phosphorylation in the absence of BTK-KD , and BTK-KD was capable of tyrosine-phosphorylating STAT5A in the absence of other proteins .
+The amounts of STAT5A in these kinase reactions were virtually identical ( Fig .
+7F.3 ) .
+We next sought to determine if coexpression of STAT5A with BTK-KD in Sf21 cells leads to tyrosine phosphorylation of STAT5A in vivo .
+As shown in Fig .
+7G ( fourth lane ) , anti-phosphotyrosine Westen blot analysis of whole cell lysates of Sf21 cells coexpressing STAT5A and BTK-KD showed two major tyrosine-phosphorylated protein bands corresponding to 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( STAT5A as a Substrate of BTK - & y y gw & ~ ® ro £ 2 as* CS £ $ < 6 CAPEA A ALAC « 2° ¢ 3 A an « » - 9 ._ e « & Xév is ) < 0 ?
+49 22 : 6+ é ?
+éd ‘ F1 !
+97.4 - `` he emmm .
+- < STATS5A 66 46 « eme : awhile _ - < BTK-KD 30 F2 3 # B - @ -- < o F3 974 - wore | .
+-a STATSA 66 & # # 4 » 4 & £ £ £4 £4 ¥ 28 ug V UJ C C C © ~ & & & & & B STATSA IP ‘ —_ < STATSA APT blot C STAT5A IP starsa vio : Cet eaap game < sta 15A Bucs most - ® D cuses cuse comes - < BT BTK IP BTK blot ~ wen ne E BTK IP KA Wei eme < BTK a € « & < ya g © aC X & is 8 ® , €© p £ ® ab 6 Ma A 2 $ s* \ x \p x 9 « $ 0 ?
+{ gov « i~ « 40V ko é & C & a G 220 - ® 97 - caree seme .
+-a STAT5A 46 wae diy = - < ctk ko 30 Fig .
+7 .
+A , activation of STAT5A by ectopically expressed BTK .
+Wild type or Y694F mutant STAT5A was coexpressed with wild type or kinase-inactive mutant BTK , or wild type JAK3 .
+Control Sf21 cells were either not transfected or transfected with expression plasmids for STAT5A , mutant STAT5A , BTK , mutant BTK , or JAK3 alone .
+Whole cell extracts were prepared and tested for the presence of active STAT5A by electrophoretic mobility shift assays using an annealed oligonucleotide corresponding to the GAS-like STATS5 binding site in the B-casein gene promoter ( 5-AGATTTCTAGGAATTCAAATC-3 ' ) .
+The position of shifted complex of activated STAT5A is indicated with an arrowhead .
+B-E , requirement for an intact BTK kinase domain for the in vivo tyrosine phosphorylation of STAT5A by ectopically expressed BTK .
+STAT5A was coexpressed in Sf21 cells with the indicated site-specific mutants of BTK .
+STAT5A was immunoprecipitated and STAT5A immune complexes were subjected to either anti-phosphotyrosine ( B ) or anti-STAT5A ( C ) immunoblotting .
+BTK was immunoprecipitated , and BTK immune complexes were subjected to in vitro kinase assays with [ y-*P ] ATP ( E ) or anti-BTK immunoblotting ( D ) .
+F and G , recombinant BTK kinase domain phosphorylates STAT5A .
+F , purified BTK-KD was examined for its ability to phosphorylate purified STAT5A in in vitro kinase assays ( F.1 ) .
+Control reactions contained no STAT5A ( Zane 1 ) or no BTK ( lane 2 ) .
+Samples were examined for BTK-KD content ( F.2 ) and STAT5A content ( F.3 ) by Western blot analysis .
+G , BTK-KD and STAT5A were coexpressed in Sf21 cells , and STAT5A immunoprecipitated from Sf21 whole cell lysates was examined for tyrosine phosphorylation by anti-phosphotyrosine ( APT ) Western blot analysis .
+Lane 1 , STAT5A immunoprecipitates ( IP ) from Sf21 cells transfected with PFB-stat5a ; lane 2 , STAT5A immunoprecipitate from Sf21 cells transfected with PFB-stat5a plus PFB-btk-kd ; lane 3 , BTK immunoprecipitate from Sf21 cells transfected with PFB-btk-kd ; lane 4 , whole cell lysate Sf21 cells transfected with PFB-stat5a plus PFB-btk-kd .
+STAT5A and BTK-KD .
+STAT5A immunoprecipitated from whole cell lysates of Sf21 cells expressing STAT5A alone showed no tyrosine phosphorylation ( Fig .
+7G , lane 1 ) .
+When compared with this STAT5A protein , STAT5A immunoprecipitated from whole cell lysates of Sf21 cells coexpressing STAT5A and BTK-KD showed markedly enhanced tyrosine phosphorylation ( Fig .
+7G , lane 2 ) .
+Taken together , these findings provided direct evidence that the KD of BTK is capable of tyrosine-phosphorylating STAT5A both in vitro and in vivo .
+Thus , the KD of BTK is sufficient for the functional interactions between BTK and STAT5A .
+Activation of a BTK-dependent and JAK3-independent Mechanism of STAT5A Tyrosine Phosphorylation in B Cells after Engagement of the B Cell Antigen Receptor-B cells abundantly express STAT5 , and engagement of the B cell antigen-receptor results in activation of STATS ( 31 ) .
+We first sought to confirm these results by examining the phosphorylation status of anti-STAT5A immunoreactive protein ( presumed chicken STAT5 ) in DT4O chicken B cells after stimulation with the anti-chicken IgM antibody M4 .
+As shown in Fig .
+8A , M4 stimulation resulted in enhanced tyrosine phosphorylation of STATS ( lane 2 ) .
+Notably , pretreatment of DT4O cells with the BTK inhibitor 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( 31226 STAT5A as a Substrate of BTK algM $ ® a ® @ A o eﬁﬁﬁb $ 3 ?
+kOn STATSA IP 57 .
+P -l < STAT5A APT blot 60- « 4 B STATSA IP o7- ame mall LstarsA STATSA blot # o-algM algM G WT L C ipa 0 5000 30 60° C ' `` o s 10 so ao & 10° `` 0 ag 95 `` sTaTsA IP ** P m < BTK AFTHlct : # - STAT 5A so- P so-BTK IAEA BTK IP+APT blot STATSA IP in D kDa D ' STATSA blot - 97- amas - maak - < STAT 5A ar-wsas cue cus ame cue ind 69 - BTK IP- > BTK blot BTK IP-+ BTK blot aight H __WT __ E kDa E ' `` o 10° `` 0 10 `` ar sone seam - STATSA h % & `` statsain- pour * STATSA IP STATsA IP+APT blot STATSA IP -- APT blot APT blot ar- + WB < STAT 5A F kDa 1 bal 97- cue cme cee ques eme dome mos mos mmm gett < STAT 5A STAT5A IP .
+ll.-STATSA IP~+STATS blot STATSA IP+STATS blot STAT5A blot - 97- ) « STAT 5A BTK , rBTK® `` BTK , rBTK®® Fig .
+8 .
+A and B , pretreatment of chicken B cells with the BTK inhibitor LFM-A13 prevents anti-IgM-induced tyrosine phosphorylation of STAT5A .
+Cells were stimulated with anti-IgM ( M4 ) antibody ( 10 ug/10 x 10° cells/ml ) in the presence of 100 uM LFM-A13 ( a BTK inhibitor that does not inhibit JAK3 ) or 100 um HI-P131 ( a JAK3 inhibitor that does not inhibit BTK ) for 30 min .
+Cells were lysed and immunoprecipitated with STAT5A , and STAT5A immune complexes were subjected to Western blot analyses with anti-phosphotyrosine ( A ) or anti-STAT5A ( B ) antibodies .
+The positions of BTK and STAT5A are marked with arrowheads .
+C-F , requirement for an active BTK for the anti-IgM-induced in vivo tyrosine phosphorylation of STAT5A .
+BTK-deficient DT40 chicken B cells reconstituted with wild type human BTK ( C-F ) and BTK-deficient DT4O chicken B cells reconstituted with inactive kinase domain-mutant human BTK ( C'-F `` ) were stimulated with M-4 anti-chicken IgM antibody ( 20 ug of M-4/m1/10 x 10° cells ) and lysed at the indicated times .
+Cell lysates were immunoprecipitated with anti-BTK ( C , D , C ' , and D ' ) or anti-STAT antibodies ( E , F , E ' , and F `` ) and immunoblotted with anti-phosphotyrosine ( C , £ , C ' , and E `` ) , anti-BTK ( D and D ' ) , or anti-STAT5A antibodies ( F and F `` ) as indicated .
+G and H , B cell antigen receptor-mediated versus IL-2 receptor-mediated tyrosine phosphorylation of STAT5A in B cells from wild type , XID , and JAK3 knockout mice .
+Splenocytes from normal and XID mice ( G ) and normal and JAK3 knockout mice ( ) were stimulated with an anti-mouse IgM antibody ( 10 ug/10 x 10° cells/ml ) or recombinant IL-2 ( 20 ng/10 x 10° cells/ml ) for 10 min .
+Cells were lysed and immunoprecipitated with an anti-STAT5A antibody , and the STAT5A immune complexes were subjected to immunoblotting with anti-phospho- tyrosine ( G and H , upper panels ) or anti-STAT5A ( G and H , lower panels ) antibodies .
+LEFM-A13 , which does not inhibit JAK3 ( 5 ) abrogated the M4-induced STAT5 phosphorylation ( lane 3 ) .
+By comparison , the JAK3 inhibitor HI-P131 , which does not inhibit BTK ( 40 ) , did not prevent the M4-induced STAT5 phosphorylation in DT4O0 cells ( Zane 4 ) .
+Anti-STAT5A immunoblotting confirmed that the amounts of immunoprecipitated STAT5A in these samples were comparable ( Fig .
+8B ) .
+These findings provided circumstantial evidence that BTK ( but not JAK3 ) plays an important role in STAT5 tyrosine phosphorylation after B cell antigen receptor ligation .
+We next studied the role of BTK in B cell antigen receptor-mediated STATS5 phosphorylation by comparing the STATS tyrosine phosphorylation levels after M4 antibody stimulation in BTK-deficient DT4O cells reconstituted with wild type human BTK versus BTK-deficient DT4O cells reconstituted with kinase-inactive mutant BTK .
+Notably , tyrosine phosphorylation of BTK ( Fig .
+8C ) preceded the tyrosine phosphorylation of STAT5A ( Fig .
+8E ) in BTK-deficient DT4O cells reconstituted with wild type human BTK .
+By comparison , B cell antigen receptor ligation failed to trigger tyrosine phosphorylation of BTK ( Fig .
+8C `` ) or STATS ( Fig .
+8FE ' ) in BTK-deficient DT4O cells reconstituted with kinase-inactive mutant BTK .
+Immunoblotting with anti-BTK and anti-STATS5 antibodies confirmed that the samples corresponding to the different time points after M4 stimulation contained comparable levels of BTK ( Fig .
+8 , D and D ' ) and STATS ( Fig .
+8F and F ' ) proteins .
+We next examined the effects of anti-IgM stimulation on the tyrosine phosphorylation status of STAT5A in murine B cells from BTK-competent wild type mice versus functionally BTK-deficient XID mice .
+Whereas the anti-IgM stimulation resulted in enhanced tyrosine phosphorylation of STAT5A in BTK-competent B cells from wild type mice ( Fig .
+8G , lanes 1 and 2 ; Fig .
+8H , lanes 1 and 2 ) , no STAT5A phosphorylation was induced in BTK-deficient B cells from XID mice ( Fig .
+8G , lanes 3 and 4 ) .
+These findings provide experimental evidence that BTK plays a pivotal role in B cell antigen receptor-mediated STAT5A phosphorylation in B cells .
+In contrast to B cells from XID mice , B cells from JAK3 knockout mice showed a normal STAT5A phosphorylation response to anti-IgM stimulation ( Fig .
+8H , lanes 3 and 4 ) .
+Thus , JAK3 is not required for the B cell antigen receptor-mediated STAT5A phosphorylation in B cells .
+BTK is essential for the physiologic B cell responses to stimulation of the B cell antigen receptor ( 1-6 ) and is required for normal B cell development , since defects in BTK lead to XID in mice and XLA in humans ( 7 , 8 ) .
+Recent observations suggest the involvement of BTK in signal transduction pathways affecting gene transcription ( 13 ) .
+Recent studies have further revealed a nucleocytoplasmic shuttling system for BTK that has implications regarding potential targets inside the nucleus , which may be critical in gene regulation during B cell development and differentiation ( 14 ) .
+An unresolved question in B cell immunology is the nature of the molecular coupling mechanisms that link the proximal signals that are triggered by the engagement of the B cell antigen receptor to downstream signal transduction pathways affecting gene transcription .
+The recognition of an antigen by the B cell antigen receptor triggers a 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( STAT5A as a Substrate of BTK signal transduction cascade that culminates in activation of multiple genes controlling activation , proliferation , differentiation , and survival of B cells .
+BCR stimulation leads to the activation of transcription factor NF-kB , which in turn regulates genes controlling B cell growth .
+BTK is essential for activation of the NF- « kB/Rel family of transcription factors via the B cell antigen receptor ( 15 , 49 ) .
+BTK has also been shown to regulate the nuclear localization and transcriptional activity of the multifunctional transcription factor BAP- 135/TFII-I ( 17 ) .
+BAP-135/TFII-I is a ubiquitously expressed multifunctional transcription initiation factor capable of binding to several promoter elements , including initiator ( Inr ) elements ( 50-52 ) that is tyrosine phosphorylated in B cells after engagement of the B cell antigen receptor ( 12 ) .
+TFII-I can function both as a basal factor through the Inr element ( 50-53 ) and as an activator in the absence of a functional Inr element ( 53-55 ) .
+Thus , TFII-I is likely to participate in the regulation of the transcription of several genes in B cells ( 50-55 ) .
+TFII-I might establish an additional link between Btk-mediated signaling and transcription because TFII-I possesses Inr-dependent transcription properties and because many of the genes that are important for normal B cell development are Inr-containing genes ( e.g .
+VpreB , TdT , and possibly RAG , CD5 , Bel-2 , and Bcl-xL ) ; a subset of these might be potentially TFII-I-respon-sive .
+Interference with this coupling mechanism may contribute to the B cell deficiencies observed in XLA patients or XID mice .
+Here we now show that BTK couples the STAT signaling pathway to the B cell antigen receptor .
+It is possible that STAT5A links BTK-mediated signaling events to downstream gene activation .
+A compromised coupling between BTK and STAT5A might lead to aberrant expression of the STAT5A-responsive genes and might contribute to the XLA and XID phenotypes .
+BTK belongs to the Tec family of nonreceptor tyrosine kinases that includes Tecl , Tecll , Itk , Bmx/Etk , and DSrc28C ( found in Drosophila ) ( 56 ) .
+Members of this family contain SH1 , SH2 , and SH3 domains but lack the typical myristoylation site and negative regulatory tyrosine of Sre family members .
+A distinctive feature of these kinases is the presence of a PH domain in the N-terminal region , followed by a unique Tec homology domain .
+PH domains are involved in membrane lo-calization , signal transduction , and cytoskeletal structure of several proteins ( 57-59 ) .
+The BTK PH domain has also been implicated as a protein interaction domain ( 9 , 60 ) .
+Yang and Desiderio ( 12 ) provided evidence that the PH domain participates in the association of Btk and BAP-135/TFII-I .
+The PH domain of Btk is primarily responsible for its physical interaction with TFII-I , but an intact kinase domain of BTK is also required to enhance transcriptional activity of TFII-I in the nucleus .
+By comparison , our data presented herein indicate that only the kinase domain of BTK appears to be essential for its physical and functional interactions with STAT5A .
+Co-immunoprecipitation experiments presented herein indicated that BTK is associated with STAT5A in unstimulated B cells but that association is reduced after anti-IgM stimulation .
+These results are reminiscent of the reported interactions between BTK and TFII-I ( 17 ) .
+The physical association of BTK with TFII-I in B cells is reduced 4-fold after engagement of the B cell antigen receptor ( 17 ) .
+It has been proposed that after anti-IgM stimulation , activated BTK induces tyrosine phosphorylation of TFII-I , which in turn reduces the constitutive association of BTK and TFII-I and allows dissociated TFII-I to translocate to the nucleus in active tyrosine-phosphorylated form ( 17 ) .
+It is conceivable that a similar molecular mechanism governs the BTK-STAT5A interactions .
+In summary , our results demonstrate a functional interac- 31227 tion between the transcription factor STAT5A and BTK .
+BTK is the first cytoplasmic non-Janus kinase to be identified as a positive regulator of STAT5A in B cells .
+Our findings point to a novel pathway through which B cell-specific signals mediated by BTK might communicate with target genes via STAT5A .
+Thus , mutations in the BTK kinase domain impairing the physical and/or functional association between STAT5A and BTK may result in diminished STAT5A-dependent transcription and contribute to defective B cell development and/or function .
+Our findings prompt the hypothesis that STAT5A links BTK-mediated signaling events that follow the engagement of the B cell antigen receptor to downstream gene activation .
+A compromised coupling between BTK and STAT5A might lead to aberrant expression of the STAT5A-responsive genes and might contribute to the XLA and XID phenotypes .
+Similarly , the B cell precursor defects observed in STAT5SA/5B-deficient mice may in part be due to impaired coupling of BTK-mediated proximal signals to downstream transcription programs controlling the orderly expansion of B cell precursors .
+However , the absence of significant defects in antigen receptor-mediated mature B cell responses of STAT5A/5B-deficient mice indicates that alternative pathways can develop and almost completely compensate for STAT5 deficiency when B cells are forced to develop and function without STAT5 expression .
+Our results corroborate the growing evidence that multiple coun-terregulatory mechanisms exist in B cells and operate to preserve cell survival and growth , thereby ensuring their orderly development and differentiation .
+To our knowledge , STAT5A deficiency has not been linked to a human immunodeficiency .
+Therefore , the physiologic significance of our findings should be interpreted with due caution .
+REFERENCES 1 .
+Rawlings , D. J. , and Witte , O. N. ( 1994 ) Immunol .
+Rev .
+188 , 105-119 2 .
+Kurosaki T. ( 1997 ) Curr .
+Opin .
+Cell Biol .
+9 , 309-318 3 .
+Uckun , F. M. ( 1998 ) Biochem .
+Pharmacol 56 , 683-691 4 .
+Vassilev , A. , Ozer , Z. , Navara , C. , Mahajan , S. , and Uckun , F. M. ( 1999 ) J. Biol .
+Chem .
+274 , 1646-1656 5 .
+Mahajan , S. , Ghosh , S. , Sudbeck , E. A , Zheng , Y. , Downs , S. , Hupke , M. , Uckun , F. M. ( 1999 ) J. Biol .
+Chem .
+274 , 9587-9599 6 .
+Tsukada , S. , Saffran , D. C. , Rawlings , D. J. , Parolini , O. , Allen , R. C. , Klisak , T. , Sparkes , R. S. , Kubagawa , H. , Mohandas , T. , and Quan , S. ( 1993 ) Cell 72 , 279-290 7 .
+Vetrie , D. , Vorechovsky , I. , Sideras , P. , Holland , J. , Davies , A. , Flinter , F. , Hammarstrom , L. , Kinnon , C. , Levinsky , R. , Bobrow , M. , Smith , C. I. E. , and Bentley , D. R. ( 1993 ) Nature 861 , 226-233 8 .
+Rawlings , D. J. , Saffran , D. C. , Tsukada , S. , Largaespada , D. A. , Grimaldi , J. C. , Cohen , L. , Mohr , R. N. , Bazan , J. F. , Howard , M. , Copeland , N. G. , Jenkins , N. A. , and Witte , O. N. ( 1993 ) Science 261 , 358-361 9 .
+Tsukada , S. , Simon , M. I. , Witte , O. N. , and Katz , A .
+( 1994 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+91 , 11256-11260 10 .
+Vihinen , M. , Kwan , S. P. , Lester , T. , Ochs , H. D. , Resnick , I. , Valiaho , J. , Conley , M. E. , and Smith , C. I .
+( 1999 ) Hum .
+Mutat .
+18 , 280-285 11 .
+Kerner , J. D. , Appleby , M. W. , Mohr , R. N. , Chien , S. , Rawlings , J. D. , Maliazewski , C. R. , Witte , O. N. , and Perlmutter , R. M. ( 1995 ) Immunity 3 , 301-312 12 .
+Yang , W. , and Desiderio , S. ( 1997 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+94 , 604-609 13 .
+Hata , D. , Kitaura , J. , Hartman , S. E. , Kawakami , Y. , Yokota , T. , and Kawakami , T. ( 1998 ) J. Biol .
+Chem .
+278 , 10979-10987 14 .
+Mohamed , A. J. , Vargas , L. , Nore , B. F. , Backesjo , C. M. , Christensson , B. , and Smith , C. I .
+( 2000 ) J. Biol .
+Chem .
+275 , 40614-40619 15 .
+Petro , J .
+B. , Rahman , S. M. , Ballard , D. W. , and Khan , W. N. ( 2000 ) J. Exp .
+Med .
+191 , 1744-1754 16 .
+Petro , J .
+B. , and Kahn , W. N. ( 2001 ) J. Biol .
+Chem .
+276 , 1715-1719 17 .
+Novina , C. D. , Kumar , S. , Bajpai , U. , Cheriyath , V. , Zhang , K. , Pillai , S. , Wortis , H. , and Roy , A. L. ( 1999 ) Mol .
+Cell .
+Biol .
+19 , 5014-5024 18 .
+Fukada , T. , Hibi , M. , Yamanaka , Y. , Takahashi-Tezuka , M. , Fujitani , Y. , Yamaguchi , T. , Nakajima , K. , and Hirano , T. ( 1996 ) Immunity 5 , 449-460 19 .
+Leonard , W. J .
+( 1996 ) Nat .
+Med .
+2 , 968-969 20 .
+Levy , D. E. ( 1997 ) Cytokine Growth Factor Rev .
+8 , 81-90 21 .
+Kaneko , S. , Suzuki , N. , Koizumi , H. , Yamamoto , S. , and Sakane , T. ( 1997 ) Clin .
+Exp .
+Immun .
+109 , 185-193 22 .
+Lichtenstein , A. , Tu , Y. , Fady , C. , Vescio , R. , and Berenson , J .
+( 1995 ) Cell .
+Immunol .
+162 , 248-255 23 .
+Liu , J. , Li , H. , de Tribolet , N. , Jaufeerally , R. , Hamou , M. F. , and Van Meir .
+E. G. ( 1994 ) Cell .
+Immunol .
+155 , 428-435 24 .
+Heim , M. H. , Kerr , I. M. , Stark , G. R. , and Darnell , J. E. , Jr. ( 1995 ) Science 267 , 1347-1349 25 .
+Levy , F. , and Kvist , S. ( 1990 ) Int .
+Immunol .
+2 , 995-1002 26 .
+Reddy , E. P. , Korapati , A. , Chaturvedi , P. , and Rane , S. ( 2000 ) Oncogene 19 , 2532-2547 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( 31228 27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+Takata , M. , Sabe , H. , Hata , A. , Inazu , T. , Homma , Y. , Nukada , T. , Yamamura , H. , and Kurosaki , T. ( 1994 ) EMBO J .
+13 , 1341-1349 Wen , Z. , Zhong , Z. , and Darnell , J. E. , Jr. ( 1995 ) Cell 82 , 241-250 Jurlander , J. , Lai , C. F. , Tan , J. , Chou , C. C. , Geisler , C. H. , Schriber , J. , Blumenson , L. E. , Narula , S. K. , Baumann , H. , and Caligiuri , M. A .
+( 1997 ) Blood 89 , 4146-4152 Nosaka , T. , Kawashima , T. , Misawa , K. , Ikuta , K. , Mui , A. L. , and Kitamura , T. ( 1999 ) EMBO J .
+18 , 4754-4765 Karras , J. G. , Wang , Z. , Coniglio , S. J. , Frank , D. A. , Rothstein , T. L. ( 1996 ) J. Immunol .
+157 , 39-47 Pericle , F. , Kirken , R. A. , Bronte , V. , Sconocchia , G. , DaSilva , L. , and Segal , D. M. ( 1997 ) J. Immunol .
+159 , 2580-2585 Nakajima , H. , Liu , X. W. , Wynshaw-Boris , A. , Rosenthal , L. A. , Imada , K. , Finbloom , D. S. , Hennighausen , L. , Leonard , W. J .
+( 1997 ) Immunity 7 , 691-701 Teglund , S. , McKay , C. , Schuetz , E. , van Deursen , J. M. , Stravopodis , D. , Wang , D. , Brown , M. , Bodner , S. , Grosveld , G. , Thile , J. N. ( 1998 ) Cell 98 , 841-850 Sexl , V. , Piekorz , R. , Moriggl , R. , Rohrer , J. , Brown , M. P. , Bunting , K. D. , Rothammer , K. , Roussel , M. F. , and Thile , J. N. ( 2000 ) Blood 96 , 2277-2283 Saharinen , P. , Ekman , N. , Sarvas , K. , Parker , P. , Alitalo , K. , and Silvennoinen , O .
+( 1997 ) Blood 90 , 4341-4353 Tsai , Y. T. , Su , Y. H. , Fang , S. S. , Huang , T. N. , Qiu , Y. , Jou , Y. S. , Shih , H. M. , Kung , H. J. , Chen , R. H. ( 2000 ) Mol .
+Cell .
+Biol .
+20 , 2043-2054 Uckun , F. M. , Waddick , K. G. , Mahajan , S. , Jun , X. , Takata , M. , Bolen , J. , and Kurosaki , T. ( 1996 ) Science 2783 , 1096-1100 Mahajan , S. , Fargnoli , J. , Burkhardt , A. L. , Kut , S. A. , Saouaf , S. J. , and Bolen , J .
+B .
+( 1995 ) Mol .
+Cell .
+Biol .
+15 , 5304-5311 Sudbeck , E. , Liu , X-P. , Narla , R. K. , Mahajan , S. , Ghosh , S. , Mao , C. , and Uckun , F. M. ( 1999 ) Clin .
+Cancer Res .
+5 , 1569-1582 Uckun , F. M. , Tuel-Ahigren , L. , Waddick , K. G. , Jun , X. , Jin , J. , Myers , D. E. , Rowley , R. B. , Burkhardt , A. L. , and Bolen , J .
+B .
+( 1996 ) J. Biol .
+Chem .
+271 , 6389-6397 42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+57 .
+58 .
+59 .
+60 .
+61 .
+STAT5A as a Substrate of BTK Luo , K. X. , Hurley , T. R. , and Sefton , B. M. ( 1991 ) Methods Enzymol .
+201 , 149-152 Schreiber , E. , Matthias , P. , Muller , M. M. , and Schaffner , W. ( 1989 ) Nucleic Acids Res .
+17 , 6419 Williams , M. D. , Rostovtsev , A. , Narla , R. K. , and Uckun , F. M. ( 1998 ) Protein Expression Purif .
+18 , 210-221 Guex , N. , and Peitsch , M. C. ( 1997 ) Electrophoresis 18 , 2714-2723 Sack , J. S. ( 1988 ) J. Mol .
+Graphics 6 , 244-245 Rajamohan , F. , Pugmire , M. , Kurinov , I. , and Uckun , F. M. ( 2000 ) J. Biol .
+Chem .
+275 , 3382-3390 Leonard , W. J. , and O'Shea , J. J .
+( 1998 ) Annu .
+Rev .
+Immunol .
+16 , 293-322 Bajpai , U. D. , Zhang , K. , Teutsch , M. , Sen , R. , and Wortis , H. H. ( 2000 ) J. Exp .
+Med .
+191 , 1735-1744 Roy , A. L. , Meisterernst , M. , Pognonec , P. , Roeder , R. G. ( 1991 ) Nature 854 , 245-248 Roy , A. L. , Malik , S. , Meisterernst , M. , and Roeder , R. G. ( 1993 ) Nature 365 , 355-359 Roy , A. L. , Carruthers , C. , Gutjahr , T. , and Roeder , R. G. ( 1993 ) Nature 365 , 359-361 Roy , A. L. , Du , H. , Gregor , P. D. , Novina , C. D. , Martinez , E. , Roeder , R. G. ( 1997 ) EMBO J .
+16 , 7091-7104 Grueneberg , D. A. , Henry , R. W. , Brauer , A. , Novina , C. D. , Cheriyath , V. , Roy , A. L. , Gilman , M. ( 1997 ) Genes Dev .
+11 , 2482-2493 Kim , D-W. , Cheriyath , V. , Roy , A. L. , Cochran , B. H. ( 1998 ) Mol .
+Cell .
+Biol .
+18 , 3310-3320 Mano , H. ( 1999 ) Int .
+J. Hematol .
+69 , 6-12 Hemmings , B .
+A .
+( 1997 ) Science 275 , 1899 Hyvonen , M. , and Saraste , M. ( 1997 ) EMBO J .
+16 , 3396-3404 Lemmon , M. A. , Ferguson , K. M. , Schlessinger , J .
+( 1996 ) Cell 85 , 621-624 Yao , L. , Kawakami , Y. , and Kawakami , T. ( 1994 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+91 , 9175-9179 Chen , X. , Vinkemeier , U. , Zhao , Y. , Jeruzalmi , D. , Darnell , J. E. , and Kuriyan , J .
+( 1998 ) Cell 98 , 827-839 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( Transcription Factor STATSA Is a Substrate of Bruton 's Tyrosine Kinase in B Cells Sandeep Mahajan , Alexei Vassilev , Nancy Sun , Zahide Ozer , Chen Mao and Fatih M. Uckun J. Biol .
+Chem .
+2001 , 276:31216-31228. doi : 10.1074/jbc.M104874200 originally published online June 18 , 2001 Access the most updated version of this article at doi : 10.1074/jbe.M104874200 Alerts : *When this article is cited * When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 61 references , 29 of which can be accessed free at http : //www.jbe.org/content/276/33/31216.full.html # ref-list-1 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo (

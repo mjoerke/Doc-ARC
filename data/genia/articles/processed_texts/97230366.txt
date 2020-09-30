@@ -1,0 +1,877 @@
+Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press ALY , a context-dependent coactivator of LEF-1 and AML-1 , is required for TCRa enhancer function Laurakay Bruhn , Audrey Munnerlyn , and Rudolf Grosschedl ' Howard Hughes Medical Institute and Departments of Microbiology and Biochemistry , University of California , San Francisco , California 94143-0414 USA LEF-1 is a transcription factor that participates in the regulation of the T-cell receptor « ( TCRa « ) enhancer by facilitating the assembly of multiple proteins into a higher order nucleoprotein complex .
+The function of LEF-1 is dependent , in part , on the HMG domain that induces a sharp bend in the DNA helix , and on an activation domain that stimulates transcription only in a specific context of other enhancer-binding proteins .
+With the aim of gaining insight into the function of context-dependent activation domains , we cloned ALY , a novel LEF-1-interacting protein .
+ALY is a ubiquitously expressed , nuclear protein that specifically associates with the activation domains of LEF-1 and AML-1 ( CBF « 2 , PEBP2 « B ) , which is another protein component of the TCRa « enhancer complex .
+In addition , ALY can increase DNA binding by both LEF-1 and AML proteins .
+Overexpression of ALY stimulates the activity of the TCRa enhancer complex reconstituted in transfected nonlymphoid HeLa cells , whereas down-regulation of ALY by anti-sense oligonucleotides virtually eliminates TCRa « enhancer activity in T cells .
+Similar to LEF-1 , ALY can stimulate transcription in the context of the TCRa « enhancer but apparently not when tethered to DNA through an heterologous DNA-binding domain .
+We propose that ALY mediates context-dependent transcriptional activation by facilitating the functional collaboration of multiple proteins in the TCRa enhancer complex .
+[ Key Words : LEF-1 ; AML-1 ( CBF « 2 , PEBP2aB } ; TCRa enhancer ; ALY , ; transcription activation ] Received October 10 , 1996 ; revised version accepted January 30 , 1997 .
+Cell type-specific gene expression is governed by complex cis-acting control regions that are composed of multiple DNA-binding sites for transcription factors , allowing for diversity and accuracy in transcriptional regula-tion .
+Both protein-DNA and protein-protein interactions are thought to contribute to the specificity of assembly and function of higher order nucleoprotein complexes .
+Typical transcriptional activators contain two , often separable , functional domains : one that mediates sequence-specific DNA binding and one that mediates the actual trans-activation event ( Ptashne 1988 ) .
+Another class of transcriptional regulatory proteins , referred to as architectural factors , are DNA-binding proteins that induce directed bends in DNA and facilitate interactions between proteins bound at nonadjacent sites within complex regulatory DNA elements ( for review , see Tjian and Maniatis 1994 ; Grosschedl 1995 ) .
+One of the founding members of this group is lymphoid enhancer-binding factor 1 { LEF-1 ) , a member of the family of high mobility group ( HMG ) domain proteins ( Travis et al .
+1991 ; Waterman et al .
+1991 ; Landsman and Bustin 1993 ; Grossched ] et al .
+1994 ) .
+The HMG domain *Corresponding author .
+E-MAIL rgross @ itsa.ucsf.edu ; FAX ( 415 ) 476-8201. of LEF-1 binds to a specific nucleotide sequence predominantly through the minor groove of DNA and induces a sharp 120°C bend in the DNA helix ( Giese et al .
+1992 ; Love et al .
+1995 ) .
+Functionally , LEF-1 is not capable of activating transcription directly from multimerized binding sites but operates when bound to DNA within the context of specific arrangements of other factor-binding sites ( Waterman and Jones 1990 ; Travis et al .
+1991 ) .
+The mechanistic role of LEF-1 in mediating cell type-specific transcription in a natural context has been explored in detail at the T-cell receptor « ( [ TCRa ) enhancer and at the human immunodeficiency virus ( HIV ) enhancer ( Giese et al .
+1995 ; Sheridan et al .
+1995 ) .
+The 112-bp minimal TCRe enhancer contains a centrally located LEF-l -binding site , an upstream binding site for a member of the activating transcription factor/cAMP response element-binding ( ATF/CREB ) family , and three downstream binding sites for two different lymphoid-specific factors ( Ho and Leiden 1990 ; Giese et al .
+1995 ) .
+Two of the downstream sites bind members of the acute myeloid leukemia factor { ( AML ) family , also termed core-binding factor ( CBFa ; Wang et al .
+1993 ) or polyoma enhancer-binding protein 2 ( [ PEBP2a ; Ogawa et al .
+1993a ) .
+Two isoforms of AML are lymphoid specific , AML-1 640 GENES & DEVELOPMENT 11:640-653 © 1997 by Cold Spring Harbor Laboratory Press ISSN 0890-9369/97 $ 5.00 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press ( CBFa2 , PEBPZ « B ) and AML-3 ( CBFal , PEBP2 « A ) , and one , AML-2 ( CBFa3 , PEBPZ « C ) , is expressed ubiquitously ( Ogawa et al .
+1993a ; Wang et al .
+1993 ; Bae et al .
+1994 , 1995 ; Levanon et al .
+1994 ) .
+The AML-binding sites in the TCRa enhancer are located adjacent to a binding site for Ets-1 at the 3 ' end of the enhancer .
+Although AML proteins cooperate with Ets-1 to bind DNA , the ternary complex is unstable in vitro and shows little ability to activate transcription in vivo ( Giese et al .
+1995 ) .
+Studies of the TCRa enhancer have revealed two distinct context-dependent functions of LEF-1 , an architectural function and a transcription activation function .
+The architectural role of LEF-1 is mediated by the HMG domain that , by inducing a directed DNA bend in the enhancer , is thought to facilitate interactions between factors bound at the ATF/CREB-binding sites and AML : Ets-binding sites , which are necessary for the formation of a stable enhancer complex ( Giese et al .
+1995 ] .
+The context-dependent transcription activation functions of LEF-1 are mediated by regions outside of the carboxy-terminally located HMG domain .
+Analysis of chimeric proteins in which the HMG domain of LEF-1 was replaced by heterologous DNA-binding domains delineated a context-dependent activation domain [ CAD ) between residues 99 and 217 of LEF-1 ( Carlsson et al .
+1993 ; Giese and Grosschedl 1993 ) .
+This region differs from typical activation domains in that it is unable to stimulate transcription from multimerized binding sites but rather , activates transcription when tethered to DNA in the context of the natural arrangement of factor-binding sites in the TCRa enhancer or the HIV enhancer { Carlsson et al .
+1993 ; Giese and Grosschedl 1993 ; Sheridan et al .
+1995 ) .
+A molecular explanation for the function of the context-dependent activation domain of LEF-1 remains un-clear .
+One simple model is that these regions interact , directly or indirectly , with other enhancer-bound factors .
+Previous attempts to identify direct LEF-1 interactions with other known TCRa « enhancer-binding factors have been unsuccessful ( Giese et al , 1995 ) .
+Here we used a yeast two-hybrid screen to isolate LEF-l-interacting proteins that may contribute to its transcription activation functions .
+We have identified a novel , nuclear protein that interacts with two TCRa enhancer-bound factors , LEF-1 and AML-1 .
+We show that this factor is required for TCRa enhancer function in T cells and plays a role in regulating the activity of this multiprotein enhancer complex .
+Results Cloning of cDNAs encoding LEF-1-interacting proteins To identify proteins that interact and functionally collaborate with LEF-1 , we used the yeast two-hybrid assay ( Fields and Song 1989 ) .
+For the screen , we used a LEF-1-LexA fusion protein in which the HMG domain of LEF-1 was replaced with the DNA-binding domain of LexA { Giese and Grosschedl 1993 ) .
+We screened an embryonic day 10 mouse cDNA library in which the cDNA inserts ALY , a LEF-1- and AML-l-interacting protein are fused to sequences encoding a VP16 transcription activation domain ( Hollenberg et al .
+1995 ) .
+From ~2.7 x 10° yeast transformants , eight library plasmids were isolated that conferred reporter gene activation only in combination with the LEF-1-LexA fusion construct but not with three control LexA fusion proteins , lamin , Ste3 , and Fus1 .
+Four of these contained identical inserts of 230 bp and one contained a longer 310-bp insert from the same gene .
+The 310-bp insert was used as a probe to isolate full-length 1.1-kb cDNA clones that encode 255 amino acids followed by stop codons in all three reading frames ( Fig .
+1 } .
+On the basis of its ability to interact with LEF-1 and AML-1 ( see below } , we refer to the protein product of this cDNA as ALY ( Ally of AML-1 and LEF-1 ) .
+The size of the open reading frame ( ORF ) of the ALY cDNA corresponds well with the 32-kD molecular mass of recombinant ALY polypeptide transcribed and translated in vitro ( see Fig .
+3B , below ] , and with the size of the endogenous protein that can be detected on immunoblots by polyclonal antibodies directed against ALY ( data not shown ) .
+Amino acid sequence comparison of ALY with proteins in the GenBank database revealed no identities but did reveal potential homology with RNA-binding proteins .
+In particular , the protein contains a putative RNP { ribonucleoprotein } ) RNA recognition motif and Arg/ GATCCGAGGCCCGAATCCGCGCCCGCCATGGCCGACAAAATGGACATGTCTTTGGACGAC 60 M A D k M D M S L D D 11 120 I I K L N R S Q R G G ROG G G R G R G R 31 180 A G s q G G R G G A V Q A A A R V N R G 51 GSCGSqCCTATGACGAACCGGCCCGCCATCGCCCCECGSCGCCECAGCCGSCGCCAGGAAC 240 G G P M R N R P A I A R G A A G G G R N 71 CGSCCGSCGCCGTACAGCAGACCGAAACAACTTCCCGACAAATGGCAGCACCACCTCTTC 300 RO PA B X s R P K g L R D K Ww o H D L F 91 GACAGCGGCTTCGGGGGTGGAGCCGGCGTGGAGACCGGCGGSAAGCTGCTECTETCCAAC 360 D _s @ F § g @ A G V E T G @ k L L vy s N 111 CTGGACTTCGGAGTGTCAGATGCTGATATTCAGGAACTCTTTGCTGAATTTGGGACATTIG 420 L D F G Y s D A D I g E L R A ROP G T L 131 AAAAAAGCTGCTGTGCACTATGATCGCTCTGGACGAAGTTTAGGGACAGCAGATGTGCAC 480 K K A A V H Y D R S § R S L G T A D v H 151 TTTGAACGGAAAGCAGATGCCCTGAAGGCTATGAAACAGTACAATGGTGTCCCTTPGGAT 540 EO ER K A D A L_ K A MK Q Y N G Y P L D 171 GGCCGCCCTATGAACATCCAGCTTGTCACATCACAGATTCATACACAGCGAAGACCTGCA - 600 G R OB M N I Q L v T S Q I D T Q R R P A 191 CAGAGCATAAACAGAGGCGGCATGACAAGAAACCGTGECTCTGGAGGTTTTGGTGGTGGT 660 Q s I N R G G M T R N R G 8 @ G F G cos 211 GGCACCAGGAGAGGGACACGTGGAGGCAGCCGGGGAAGAGGTAGAGCGCACCGGCAGGAAC 720 G T R R G T R G G S8 R G R G R G T G R N 231 TCAAAGCAGCAGCTTTCTGCAGAGGAGTTGGACGCACACGCTGGATGCTTACAATGCAAGG 780 § K Q Q L s A E E L D A Q L D A ¥ N A R 251 ATGGACACCAGCTAAACAACTGAGCAAATCCACACAAGTAACAGGACCCAGAAGCCTCGC 840 MoD T Ss * 255 CTETGATGCCTAGAGGGAGGGTTGGCAACTGAACTGTGCAGACAATCGTGGATTTGTPEE 900 GTTTCTTTPPATTTCTITTCITPTTTTTTICTTCCTGTTTTAAAATAGGATCTAAAAAC - 960 TCATGTAAAGTTTTTNTTTITICTTTTITGGTTTTTETITTCTTTPPTCTTTPPPPPPT 1020 TAATTCTGAAACAGACCTGTTTTCTACTGAGTTATITTTGGGATAAATATTACTGGTTGC 1080 TGTTGTGGAGAAGGTGGCATTTTCACCTTIGCCATAATAAAATAGAAATGTG 1132 Figure 1 .
+Nucleotide sequence of the murine ALY cDNA and predicted amino acid sequence of the encoded protein .
+The polypeptide encoded by the 310-bp two-hybrid isolate , termed ALYANC , is underlined .
+This underlined region encompasses the putative RNP ( ribonucleoprotein ) RNA-binding motif .
+The putative RNP1 ( RNP octamer ) and RNP2 ( RNP hexamer ] sequences are underlined in bold .
+GENES & DEVELOPMENT 641 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Bruhn et al .
+Gly-rich regions in the amino and carboxyl termini that are loosely homologous to RGG RNA-binding motifs [ for review , see Burd and Dreyfuss 1994 ) .
+Biochemical and structural studies of RNP domains have shown that they are sufficient to mediate RNA binding and that three highly conserved aromatic amino acids found in the RNP ( RNP octamer ) and RNP2 ( RNP hexamer ) sequences are involved in critical stacking interactions with RNA bases ( for review , see Nagai et al .
+1995 ) .
+However , the putative RNP and RNP2 sequences of ALY ( Fig .
+1 , bold underlined ) contain only a single aromatic amino acid .
+Moreover , preliminary studies demonstrated that ALYANC , which includes the putative RNP domain , is not capable of binding RNA at any detectable level , although very weak nonspecific binding to RNA and DNA was observed with full-length ALY protein { data not shown ) .
+Thus , ALY may represent a protein that is related to RNA-binding proteins and has some propensity to interact with nucleic acids , but in which the RNP domain may perform other functions .
+ALY encodes a ubiquitously expressed , nuclear protein To examine the expression pattern of ALY , we analyzed poly { A ) * RNA from various mouse tissues and cell lines for the presence of transcripts that hybridize with an ALY cDNA probe .
+A single 1.1 -kb ALY transcript was detected at varying levels in all tissues and cell lines examined suggesting that ALY may be expressed ubiquitously ( Fig .
+2 ) .
+The subcellular localization of ALY was examined by indirect immunofluorescence microscopy of COST cells that had been transfected transiently with a plasmid expressing a T7 epitope-tagged version of ALY .
+This approach was necessary because our anti-ALY an-tiserum failed to recognize native protein [ data not shown ) .
+By comparing the immunofluorescence staining of T7Z-ALY with DAPI staining of DNA , we detected ALY primarily in the nucleus of transfected cells ( Fig .
+2C , D ) } .
+We conclude from these results that ALY is a ubiquitously expressed nuclear protein .
+ALY interacts with LEF-1 and AML proteins To establish that full-length ALY can interact directly with LEF-1 , we performed in vitro association assays with purified recombinant glutathionine S-trasferase ( GSTJ-ALY fusion protein .
+LEF-1 protein was bound by immobilized GST-ALY but not GST alone ( Fig .
+3A , lane 2 ) .
+Because ALY contains regions with some homology to RNA-binding domains , it was possible that the ALY : LEF-1 interaction was mediated indirectly by nucleic acids .
+However , inclusion of ethidium bromide in the GST association experiments , which has been shown to disrupt potential nonspecific interactions caused by contaminating nucleic acids ( Lai and Herr 1992 ) , and preincubation of GST-ALY and the °*S-la-beled proteins with RNase did not affect the association of GST-ALY with LEF-1 ( data not shown ) } .
+Previous studies suggested that the function of LEF-1 , in particular the CAD , could involve interactions with 642 GENES & DEVELOPMENT Actin - ® @ MD @ MD @ ® e- » @ - » @ B Figure 2 .
+ALY is expressed ubiquitously and localized to the nucleus .
+( A , B ) RNA blot analysis of ALY transcripts in adult mouse tissues and various cell lines .
+Cell lines include mouse myeloid ( WEHI3 } , bone marrow-derived pre-B cells ( 702/83 ) , B cells ( WEHI231 ) , and CD4-/CD8~ T cells [ BW5197 and EL4 } .
+Hela and Jurkat are human cervical carcinoma and T-cell lines , respectively .
+The size of the ALY mRNA is 1.1 kb as determined by comparison with RNA size markers .
+To control for RNA levels , the same blot was rehybridized with a mouse actin gene probe { bottom } .
+( C , D ) Immunocytochemical staining of T7 epitope-tagged ALY expressed by transient transfection in COS7 cells .
+DAPI fluorescence ( C ) and FITC immunofluorescence [ D ) microscopy of the same field of fixed COST cells reacted with T7 monoclonal antibodies and double stained with FITC-con-jugated goat anti-mouse antibodies and the DNA intercalating agent DAPI .
+Note that , because the T7-ALY expression plasmid was introduced by transient transfection , we do not detect T7-tagged ALY in all cells .
+other transcriptional regulators of the TCRa enhancer ( Travis et al .
+1991 ; Carlsson et al .
+1993 ; Giese and Grosschedl 1993 ) .
+We tested the ability of GST-ALY to interact with various *°S-labeled transcription factors including those that are known to bind the TCRa enhancer ( Fig .
+3A ) .
+Strikingly , in addition to LEF-1 { lane 2 ) , GST-ALY interacted specifically with AML-3 { lane 3 ) and AML-1 { see below ] ) .
+In contrast , GST-ALY did not detectably associate with CBFB [ lane 4 ) , the heterodimeric binding partner of AML proteins ( Ogawa et al .
+19936 ; Wang et al .
+1993 ) and failed to interact with Ets-1 or an amino-terminally truncated derivative of Ets-l1 ( lanes 7,8 ) , which was shown to interact strongly with AML-3 CBFal ; Giese et al .
+1995 ) .
+Members of the ATF/CREB family including ATF-2 , CREB-B , and c-/un , also failed to interact strongly with GST-ALY , although a very low level of binding of CREB-B and c-Jun was observed { lane 6 ; data not shown ) .
+This weak interaction of ALY with CREB-B was unaffected by phosphorylation of CREB-B by protein kinase A ( data not shown ) , which was found previously to regulate its association with the Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press A x ] B _ m a 3 - `` ?
+m A ® Z c bos Wow WoT To- e 2 tb so k c $ o > 8 5 Kad 2 j 4 O % T O w w a .
+-~ ( 5 ... o _o L _ £ « > * Se * se-45- csa » as-36- an-ag- « in 10V : a » am » pyill input - 293-24- ig-s— 10 2 3 4 GST-ALY GST 1 2 3 4 5 6 7 8 9 coactivator CREB-binding protein [ ( CBP ) [ Kwok et al .
+1994 ) .
+Two other transcription factors-Myb , which collaborates with AML proteins to activate the TCRB enhancer ( Hernandez-Munain and Krangel 1995 ) , and Pit-1 , which contains a functional domain with homology to the CAD of LEF-1 { Holloway et al .
+1995 ) -also failed to associate detectably with GST-ALY ( Fig .
+3A , lanes 1,9 ) .
+These results were confirmed by reciprocal associations that demonstrated that °°S-labeled ALY could bind to immobilized GST-LEF-1 and GST-AML-3 , but not significantly to GST-CBFB , GST-Ets-1 , or GST-ATF2 ( data not shown .
+To examine whether ALY has the potential to mul-timerize , we incubated °°S-labeled ALY with immobilized GST-ALY and GST-ALYANC [ Fig .
+3B ) .
+Association was detected only with GST-ALY indicating that ALY can multimerize primarily through regions at the amino or carboxyl terminus of the protein .
+As for the interaction of ALY with LEF-1 and AML proteins , RNase treatment of the protein preparations did not affect the ALY , a LEF-1- and AML-1-interacting protein 24 > > -f -d T < 4 o & ( 5 ( D - + - + RNase « -- « -- 4 ALY 5 6 7 8 Figure 3 .
+- ALY interacts specifically with LEF-1 , AML proteins , and itself .
+( A ) In vitro association assays between GST-ALY { middle } and GST ( bottom ) immobilized on glutathione agarose beads with in vitro translated *°S-labeled proteins including full-length cMyb , LEF-1 , CBFB , isoform , CREB-B , Ets-1 , and Pit-1 .
+AML-3 lacks the amino-terminal 94 residues and Ets-l-NA1Z23 lacks the amino-terminal 123 residues .
+Ten percent of input radiolabeled proteins ( top ) and bound proteins were analyzed by SDS-PAGE and visualized by autoradiography .
+Molecular size markers are shown in kilo-daltons .
+{ ( B ) In vitro association assays between in vitro-translated °°S-labeled ALY protein and GST , GST-ALYANC , and GST-ALY .
+Immobilized GST proteins and the in vitro-translated proteins were preincubated with RNase as indicated .
+associations ( Fig .
+3B ; data not shown ) .
+The finding that ALY may function as a multimer could allow , in principle , for simultaneous interactions between ALY and multiple factors in the enhancer complex even if the interactions with different factors were mediated by the same region of ALY .
+Mapping the protein domains required for interaction of ALY with LEF-1 and AML-1 To begin to map the protein domains required for the ALY : LEF-1 interaction , we tested the ability of GST-ALY and GST-ALYANC to interact with various amino-and carboxy-terminally truncated versions of LEF-1 { Fig .
+4 ) .
+Amino-terminal truncation of residues between 99 and 166 , which coincide with the CAD of LEF-1 ( Carlsson et al .
+1993 ; Giese and Grosschedl 1993 ) , completely abrogated binding to GST-ALYANC and reduced binding to GST-ALY 5- to 10-fold .
+A form of LEF-1 , lacking residues downstream of residue 243 , showed increased GENES & DEVELOPMENT 643 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Bruhn et al .
+transcription activation _ DNA binding poo 4 peo CAD HMG domain GST GST-ALYaNC GST-ALY LEF ] pomme prrrrereerr -- - .
+< % , 100 % 100 % 1 9 217 287 394 CA243 < 1 % 269 % 26 % NAQQ .
+< 1 % , 210 % 82 % NA166 -- a .
+< 1 % , < 1 % 13 % NA243 -memmmm- .
+< 1 % < 1 % 21 % 10 % input GST-ALYANC GST-ALY aum aac am e Figure 4 .
+ALY interacts with the context-dependent activation and HMG domains of LEF-1 .
+Schematic diagrams of LEF-1 and deletion derivatives ( top } .
+The B-catenin-binding domain { BBD } , context-dependent activation domain ( CAD } , and high mobility group ( HMG ) domain are boxed .
+Association assays between in vitro-translated **S-labeled LEF-1 polypeptides ( lanes 1-5 , 10 % of input ) and GST-ALYANC { lanes 6-10 } or GST-ALY { lanes 11-15 ) immobilized on glutathione-agarose beads .
+Similar molar amounts , normalized for the number of *S-labeled methionines , of labeled full-length and truncated versions of LEF-1 were used in the association reactions .
+The input and the bound proteins were analyzed by SDS-PAGE and visualized by autoradiography .
+The amounts of °°S-labeled proteins bound to GST , GST-ALYANC , and GST-ALY were quantified from the association experiment shown at bottom using a PhosphorImager { Molecular Dynamics ) and are presented as percentages relative to the amount of bound full-length LEF-1 , which was designated as 100 % ( top ) .
+Similar results were obtained in three independent association experiments .
+binding to GST-ALYANC but reduced binding to GST-ALY .
+Thus , the amino- or carboxy-terminal regions of ALY may mediate interactions with the HMG domain and the central region of ALY may associate with the CAD of LEF-1 .
+Previous studies delineated the DNA-binding domain of AML-1 and AML-3 , termed the Runt domain , to the amino-terminal half of the proteins .
+The carboxy-terminal half of AML proteins is required for its ability to function as a transcription activator both at the TCRB enhancer ( Bae et al .
+1994 ) and the TCRa enhancer ( L. Bruhn , unpubl . }
+.
+Similar to LEF-1 , AML proteins activate transcription in the context of other factor-binding sites but not from multimerized sites ( Y. Ito , pers .
+comm . )
+.
+As expected from the high degree of homology between the AML proteins , GST-ALY bound with similar efficiency to AML-3 ( Fig .
+3A ) and AML-1 ( Fig .
+5 ) .
+Truncation of residues carboxy-terminal to 287 of AML-1 decreased the 644 GENES & DEVELOPMENT association with GST-ALYANC by a factor of 20 .
+Deletion of all residues downstream of the Runt domain completely abrogated the interaction of full-length GST-ALY with AML-1 .
+Analysis of the interaction of GST-ALY and GST-ALYANC with the corresponding deletion derivatives of AML-3 yielded similar results { data not shown ) .
+Thus , ALY interacts with two regions within the carboxy-terminal half of AML-1 that contains a CAD , but not with the Runt domain that has been shown to interact with CBFB ( Ogawa et al .
+1993b ; Wang et al .
+1993 ) , Ets-1 ( Giese et al .
+1995 ) , and CCAAT enhancer-binding protein ( C/EBP ) [ Zhang et al .
+1996 ) .
+ALY augments DNA binding by full-length LEF-1 and AML proteins To examine whether ALY can interact with DNA-bound LEF-1 or AML proteins , we used an electrophoretic mobility-shift assay with the 98-bp TCRa « enhancer probe .
+QN ' A tranqcnplion Finding , ___ activation GST GsSTt-ALyanc GST-ALY Runt domain ~- T To AML-1 | < 1 % 100 % 100 % 177 451 CA3SS -- - ... .
+4 % 120 % 159 % CA287 < 1 % 5 % 119 % CA243 2 % < 1 % 63 % CA177 -- as < 1 % < 1 % < 1 % 1 YAN .
+< in .
+‘ ce « itn 11 Figure 5 .
+ALY interacts with the transcription activation domain of AML-1 .
+Schematic diagrams of AML-1 and deletion derivatives { top } .
+The Runt domain that mediates DNA binding and interaction with CBFB , Ets-1 , and C/EBP is represented by a solid rectangle .
+Association assays between in vitro-translated °°§-labeled AML-1 polypeptides [ lanes 1-4 , 10 % of input ) and GST-ALYANC ( lanes 5-8 ) or GST-ALY { lanes 9-72 ) immobilized on glutathione agarose beads .
+Similar molar amounts , normalized for the number of °°S-labeled methionines , of labeled full-length and truncated versions of AML-1 were used in the association reactions .
+The input and bound proteins were analyzed by SDS-PAGE and visualized by autoradiography .
+The amounts of **S-labeled proteins bound to GST , GST-ALYANC , and GST-ALY were quantified from the association experiment shown at bottom using a PhosphorImager ( Molecular Dynam-ics } and are presented as percentages relative to full-length AML-1 , which was designated as 100 % ( top ) .
+Similar results were obtained in three independent association experiments .
+Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Incubation of recombinant purified LEF-1 with high concentrations of purified GST-ALY yielded a complex that migrated with a slower mobility than that formed with LEF-1 alone , consistent with the formation of a ternary DNA complex [ Fig .
+6A , lane 3 ) .
+No slower migrating complex was detected when GST-ALY was coincubated with the HMG domain ( Fig .
+6A , lane 7 ) .
+In addition , GST-ALY had no detectable DNA-binding activity by itself in this assay ( Fig .
+6A , lanes 10-12 ) .
+Nota-bly , ALY increased DNA binding approximately fivefold by full-length LEF-1 and the HMG domain , both of which interact with ALY .
+In contrast , GST-ALYANC , at a 10-fold higher concentration , had no effect on DNA binding by LEF-1 or the HMG domain ( data not shown ) .
+A recombinant purified hexa-histidine-tagged version of A LEF HMG ALY : LEF-1 P .
+LEF-4 P w- ; W Wows * NBB we HMG » we Char tes LEF-1 ( ng ) - » ALY t- eee ATF ene frae « # CREB l Ms « ath wales f f * meam Io - U ps a ap ip se eom - # nat wae # x4 $ 22. ne « a LEF-1 Wb gouge < a `` < a uy un ** RGV * mt toe .
+cums cutis .
+comes witty wont *** *** a AML + CHG White cuttin comma womens Ck CA Cente * ETS-1 C wit fs ‘ ~¢.-.-——¢-— `` `` `` t Sn acon cma mn t « us tiie cate « mmm umm OW *** 3 4 : C 7 8 ) 10 11 ALY , a LEF-1- and AML-1-interacting protein ALY had similar effects as GST-ALY on DNA-binding by LEF-1 ( data not shown ) .
+The ternary ALY : LEF-1 : DNA complex formed with the 98-bp TCRa enhancer probe but not with a 50-bp TCRa enhancer probe lacking sequences upstream of the LEF-1 site ( Fig .
+6A ; data not shown ) .
+This observation raised the possibility that the formation of a ternary complex may require a particular length or sequence of DNA .
+In quantitative DNase I protection assays , in which we confirmed the effect of ALY on increasing the efficiency of DNA binding by LEF-1 , we did not detect differences in the footprint pattern of the LEF-1 : TCRa { 98 bp ) complex in the presence or absence of ALY [ Fig .
+6B ) .
+Thus , this putative ALY : DNA interaction may not involve a specific sequence or may be unstable .
+AML-3 ( ng ) so 50 - Runt ( ng ) - - 5 5 ALY - + -+ ALY : AML-3P AML-3DP ® Runt P w » « » ~ > hans mien ) 1 2 3 4 Figure 6 .
+- ALY can form a ternary DNA complex with LEF-1 and AML proteins .
+( A ) Electrophoretic mobility-shift assay with recombinant purified LEF-1 , HMG , and GST-ALY proteins .
+A radiolabeled 98-bp TCRa probe was incubated with 1 ng of full-length LEF-1 { lanes 2-5 ) , 1 ng of HMG polypeptide { lanes 6-9 ) , or no LEF-1 ( lanes 10-12 ) in the absence or presence of 2.5 ug ( lanes 3 , 7,10 } , 0.8 ug [ lanes 4,8 , 11 } , or 0.25 ug [ lanes 5,9 , 12 ) purified GST-ALY protein .
+Protein-DNA complexes and free probe ( F ) are indicated by open arrowheads ( left ] .
+An amino-terminally truncated form present in the purified full-length LEF-1 protein is indicated by an asterisk .
+( B ) DNase I footprint analysis of the 5'-end-labeled 98-bp TCRa DNA fragment using purified LEF-1 protein in the amounts indicated in the absence [ - ) or presence ( + ] of 2.5 ug of purified GST-ALY .
+The brackets indicate the region protected by LEF-1 and the binding sites for ATF/CREB , AML , and Ets-1 .
+{ C ) Electrophoretic mobility-shift assay with recombinant purified AML-3 and GST-ALY proteins .
+A radiolabeled 98-bp TCRa probe was incubated with 50 ng of AML-3 { residues 94-411 ) ( lanes 1,2 ) or 5 ng Runt domain of AML-3 ( residues 93-226 ) ( lanes 3,4 ) in the absence or presence of 2.5 ug of purified GST-ALY protein .
+Protein-DNA complexes and free probe ( F ) are indicated by open arrowheads [ left ) .
+GENES & DEVELOPMENT 645 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Bruhn et al .
+To examine whether ALY has an effect on DNA binding by AML proteins , we incubated the 98-bp TCRa « enhancer probe with purified recombinant AML-3 , which could be obtained from bacteria in soluble form .
+A complex that migrated with a slower mobility than the AML-3 : DNA complex was detected ( Fig .
+6C ) .
+In the ALY : AML-3 : DNA ternary complex , DNA binding was increased ~20-fold .
+In contrast , coincubation of ALY with the Runt domain of AML-3 increased DNA binding less than twofold and did not result in formation of a detectable ternary complex ( Fig .
+6C ) .
+The Runt domain binds DNA more efficiently than full-length AML-3 protein but does not interact with ALY in the GST association assay .
+Therefore , the association of AML proteins with ALY may antagonize the function of an inhibitory domain , consistent with the previous observations that carboxy-terminally truncated versions of AML-1 bind DNA with higher affinity than full-length protein ( Bae et al .
+1994 ; Tanaka et al .
+1995 ) .
+ALY specifically stimulates the activity of the TCRa enhancer Previously we have found that expression of LEF-1 and the lymphoid-specific factors AML { CBFa , PEBP2 « ) and Ets-1 confers high levels of TCRa enhancer activity in nonlymphoid HeLa cells { Giese et al .
+1995 ) .
+Given the lower ALY mRNA levels in HeLa cells compared to most T-cell lines { see Fig .
+2B ) , we used the reconstituted Hela cell system to determine the effect of ALY overexpression on TCRa enhancer activity .
+For these and other transfection experiments , we used AML-1 , which is expressed in T cells much more abundantly than AML-3 { Satake et al .
+1995 ) .
+Overexpression of ALY resulted in a dose-dependent increase in the levels of TCRa « -CAT ex Figure 7 .
+- ALY stimulates specifically the A activity of the TCRe enhancer .
+( A ) Full length ALY stimulates TCRe enhancer ac- 300 r -- tivity reconstituted in nonlymphoid cells .
+HeLa cells were transfected with expression plasmids for AML-1 [ 200 ng ) , Ets-1 { 200 ng ) , and LEF-1 ( 100 ng ) alone or with different amounts of expression plasmids for ALY or ALYANC together with 250 ng of a TCRa reporter plasmid .
+The reporter plasmid ( top ) contains the minimal 98-bp 250 fold activation m o ] TCRa enhancer linked to the minimal fos 5° } promoter ( -56 to +109 } , and the chloram- 1 phenicol acetyltransferase ( CAT ) gene .
+For ALY ( n ; 0 500 these and subsequent transfection assays , _ ALYANC ( ng ) luciferase or CAT activity was normalized LEF-1 to the activity of an RSV-B-gal expression A351 Co C plasmid as an internal transfection stan HeLa cells pression with a maximum of fivefold ( Fig .
+7A ) .
+ALY alone or the truncated ALYANC in combination with the lymphoid-specific factors had no effect on TCRe enhancer activity .
+To determine whether the ALY-mediated increase in reporter gene expression was specific for the TCRa enhancer , we tested three other reporter gene constructs controlled by the cytomegalovirus [ ( CMV ) , Rous sarcoma virus ( RSV ) , or SV40 viral enhancer/promoter regions , which are activated by endogenous proteins in Hela cells .
+In addition , we examined the effect of ALY overexpression on the activity of two reporter genes stimulated by exogenously expressed API or Gal-4-VP16 .
+In these experiments , we transfected minimal amounts of reporter and effector plasmids to ensure that potential ALY-mediated effects on reporter gene activity could be observed .
+Except for a minor , twofold effect on the SV40-controlled reporter gene , the expression levels of all other reporters were unaffected by overexpression of ALY ( Fig .
+7B ) .
+ALY is required for TCRa enhancer function in T cells Although overexpression of ALY resulted in a significant increase in TCRa enhancer activity in HeLa cells , overexpression in T cell lines conferred negligible increases in TCRa « expression ( L. Bruhn , unpubl . ]
+.
+This could reflect the higher levels of endogenous ALY transcript present in most T cell lines ( see Fig .
+2B ) .
+To determine the contribution of ALY to TCRa enhancer activity in T cells in which the enhancer is naturally functional , we attempted to decrease the levels of endogenous ALY protein using C-5 propyne pyrimidine-substituted phospho-rothicoate anti-sense oligonucleotides ( Wagner et al .
+1993 ) .
+Cotransfection of an AL Y anti-sense oligonucleo- ATE/ICREB LEE:1_ AML Ets1_Fosj > B $ so HeLa cells 4.0 3.0 fold activation 2.0 U f 50 150500 ALY - $ - $ -+ -+ -+ -+ reporter TCR CMV RSV SV40 AP1 Gald-VP16 +o +o + o+o+ dard .
+Fold activation was quantitated relative to CAT activity from cells transfected with the reporter alone , which was designated as 1 .
+( B ) Effects of ALY on other reporter constructs .
+Hela cells were transfected with various reporter and effector plasmids in the absence or presence of 500 ng of ALY expression plasmid .
+Data from TCRa-CAT with LEF-1 , Ets-1 , and AML-1 is duplicated from A .
+The amounts of other reporter and effector plasmids were as follows : 500 ng of CMV-CAT , RSV-B-gal , or SV40-CAT reporter constructs ; 2 ug of { AP1 ) , -luciferase plus 250 ng each RSV-c-Jun and RSV-c-Fos ; 2 ug of ( Gal4 ) , luciferase plus 250 ng RSV-Gald-VP16 .
+646 GENES & DEVELOPMENT Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press A TCRa-CAT 120 T cell cells E100 E 80 3 so © £ 40 KS @ 20 0 0 2 4 6 8 _ 10 ALY oligonucleotide [ nM ] RSV-Bgal B 120 Bo T cells _ o - o o o Relative Bgal activity a o 40 20 0 0 2 4 6 8 10 ALY oligonucleotide [ nM ] antisense shuffled oligo [ nM ] - - 0.3 1.03.0 0.3 1.0 3.0 pCMV-T7-ALY - + + + + + + + 45-soo ram m L I * H Es eves mas 24 18 8 & 4 S Io t Figure 8 .
+Down-regulation of ALY expression in T cells abrogates TCRa enhancer function .
+Jurkat T cells were transfected transiently with 1 ug of TCRa-CAT ( A ) , RSV-B-gal ( B ) , or CMV-T7-ALY ( C ) , together with increasing concentrations of ALY anti-sense or shuffled oligonucleotides .
+The activities of the reporters in the presence of different concentrations of oligonucleotides were calculated relative to that with no oligo-nucleotide , which was designated as 100 % .
+Whole cell extracts of cells transfected transiently with T7-ALY were analyzed by immunoblot using TZ monoclonal antibody .
+Data in A and B are the average of at least two transfections carried out in duplicate ; error bars represent standard error of the mean .
+tide with the TCRo-chloramphenicol acetylItransferase ( CAT ) reporter construct into Jurkat T cells decreased CAT expression in a dose-dependent manner ( Fig .
+8A ) .
+In contrast , similar concentrations of a shuffled control oligonucleotide had no effect on TCRa « -CAT expression ( Fig .
+8A ) .
+Importantly , a control reporter , RSV-B-gal , was unaffected by the ALY anti-sense oligonucleotide demonstrating that its effect is specific for the TCR enhancer ( Fig .
+8B ) .
+To examine whether transient transfection of ALY anti-sense oligonucleotides actually decreases the concentration of intracellular ALY protein , we cotransfected a plasmid expressing T7-epitope-tagged ALY into Jurkat T cells and examined the levels of T7 ALY , a LEF-1- and AML-l-interacting protein ALY in whole cell extracts by immunoblot analysis .
+Strikingly , the expression of T7-ALY was decreased in a dose-dependent manner with the ALY anti-sense oligonucleotide but was unaffected by similar concentrations of the shuffled control oligonucleotide ( Fig .
+8C ) .
+Thus , ALY plays an important role in the regulation of the TCRa « enhancer .
+Transcriptional activation by ALY is dependent on multiple TCRa enhancer-binding proteins One simple model of ALY function is that this protein increases the activity of the TCRa enhancer by providing the enhancer complex with a transcription activation domain through binding to LEF-1 .
+To explore this possibil-ity , we tested whether ALY is capable of activating transcription when tethered to DNA by the Gal4 DNA-binding domain .
+ALY-Gal4 did not confer activation from multimerized Gald4 sites in transfected T cells and like-wise , a LexA-ALY fusion protein did not activate expression of a reporter containing multimerized LexA sites [ Fig .
+9A ; data not shown ) } .
+In addition , neither ALY-Gal4 nor LexA-ALY fusion proteins significantly activated expression of TCRa enhancer constructs in which the LEF-1 binding site was replaced with a Gal4 or LexA site ( Fig .
+9B ; data not shown ) .
+Efficient expression and DNA binding of the fusion proteins was confirmed by electrophoretic mobility-shift assays with nuclear extracts from COS7 cells transfected with these expression plasmids ( Fig .
+9C ) .
+These data suggest that ALY lacks a typical activation domain and probably does not stimulate TCRa « enhancer function by recruitment of a transcription activation domain to the enhancer complex .
+The findings that ALY can form multimers and can interact with both LEF-1 and AML proteins raised the possibility that it may serve to functionally bridge these factors within the TCRa « enhancer complex .
+According to this view , the function of ALY in the reconstituted HeLa system would be dependent on both LEF-1 and AML-1 .
+Coexpression of ALY with any two of the three lymphoid-specific factors stimulated the activity of TCRa four- to fivefold , although the levels of reporter expression were ~10-fold lower than those observed with all three factors ( cf , Figs .
+7A and 9D ) .
+In contrast , no significant ALY stimulation was observed with individual lymphoid-specific factors , with the exception of a twofold ALY stimulation with Ets-1 .
+On basis of the presence of AML-2 ( CBFa3 , PEBP2 « C ) in all cell types , this modest increase of TCRa-CAT expression could be attributable to a stimulation by ALY in concert with this endogenous isoform .
+Consistent with this interpreta-tion , the increase was not observed with a TCRa « enhancer in which both AML-binding sites were mutated ( Fig .
+2D , TCRamA ) .
+Taken together , these data indicate that the stimulation of TCRa enhancer activity by ALY is dependent on the presence of any two of the three lymphoid-specific factors LEF-1 , AML-1 , and Ets-1 , presumably in combination with a member of the ubiquitously expressed CREB/ATF family .
+However , this GENES & DEVELOPMENT 647 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Bruhn et al .
+I Gal4 CRE E C s 1 5 x Gal4 Fos r » ATE/ICREB Gal4 - AML x Hela cells `` Teas -==- ] Toalis ~~~ os _ 200 - sl 5 o 6 S s ~ © `` © S 7 s 2 6 6 4 k=l d & * ke 3 3 ) 2 £ .
+, 0 - N ALY-Gald uw GalM-VP16 F X\ $ / - | I2 e N vectorp Gal/1L j ALY-Gal4 U | | | _|| _ eens 5 `` % 3 o 3 3 $ S 3 5 $ $ - lerr -- ¥ 4 % ¥ % £4 -- -- -- > u .
+> u. AML-1 4+ 4+ 4 4 -o- -- ++ _o _ a 4 4 - `` Fier i. no £ b cn -~ £ b ( 4 % TCRa-CA TCRamA-CAT Figure 9 .
+- ALY stimulates transcription activation in the context of multiple TCRo-enhancer binding proteins .
+( A ) ALY-Gald does not activate from multimerized Gal4-binding sites .
+Jurkat T cells were transfected transiently with 2 ug of a ( Gal4 ) ; -CAT reporter , which contains five Gal4 sites linked to the minimal B-globin promoter , together with 2 ug of CMV vector or expression plasmids for Gal4 , ALY-Gald4 , or Gal4-VP16 .
+[ B ) ALY-Gal4 does not activate a TCRa enhancer construct in which the LEF-1 site is replaced by a Gal4 site .
+Jurkat T cells were transfected with 1 ug of reporter construct and 2.5 ug of CMV vector or expression plasmids for Gal4 , ALY-Gald4 , or LEF-Gal4 .
+Data are the average of at least two transfections carried out in duplicate ; error bars represent standard error of the mean .
+( C ) Analysis of DNA binding of transfected Gal4 , ALY-Gal4 , and LEF-Gal4 .
+Three micrograms of nuclear extracts from COST cells , transfected transiently with CMV vector or expression plasmids , were incubated with radiolabeled Gal-4 DNA-binding site and the protein-DNA complexes were analyzed in electrophoretic mobility-shift assays .
+( D ) ALY stimulation of TCRe « enhancer function requires any two of the lymphoid-specific factors LEF-1 , AML-1 , and Ets-1 .
+HeLa cells were transfected transiently with different combinations of expression plasmids for AML { 200 ng } , Ets-1 ( 200 ng ) , and LEF-1 ( 100 ng ) alone or together with 500 ng of ALY expression plasmid .
+TCRa « -CAT or TCRamA-CAT ( 250 ng } , which contains mutations in both AML-binding sites , were used as reporters .
+The numbers above the bars are the average fold difference between transfections with or without ALY expression plasmids .
+stimulation appears to be independent of a simultaneous interaction of ALY with LEF-1 and AML-1 .
+Discussion In this report , we present the identification and characterization of a ubiquitously expressed nuclear protein , termed ALY , that interacts specifically with two TCRa enhancer-binding factors , LEF-1 and AML-1 .
+We find that overexpression of ALY in a reconstituted HeLa cell system stimulates the activity of the TCRa enhancer and that down-regulation of ALY using anti-sense oligonucleotides virtually abrogates TCRa enhancer activity in T cells .
+Thus , ALY seems to play a critical role in the function of the TCRa « enhancer .
+Intriguingly , ALY interacts with domains of LEF-1 and AML-1 that mediate transcriptional activation within a specific context of other DNA-bound factors .
+However , ALY does not seem to contain an activation domain capable of stimulating transcription when tethered to multimerized DNA sites through fusion to a Gald4 or LexA DNA-binding domain .
+This finding distinguishes ALY from typical coactivators that contain transcriptional activation domains .
+For example , CBP is a coactivator that interacts with both various transcription factors and TFIIB , a component of the basal transcription machinery ( for review , see Janknecht and Hunter 1996 ) .
+Another characteristic of ALY is its ability to stimulate DNA binding of transcription factors including LEF-1 and AML .
+We propose that ALY is a novel type of transcriptional regulator that may function 648 GENES & DEVELOPMENT to coordinate the activity of CADs within multiprotein enhancer complexes or to regulate the DNA-binding properties of proteins within the TCRa « enhancer complex .
+ALY acts in the context of multiple TCRa enhancer-binding proteins The finding that ALY associates with both LEF-1 and AML proteins may account for the marked dependence of the TCRa enhancer on ALY .
+Down-regulation of ALY in T cells by anti-sense oligonucleotides decreases the activity of the enhancer by at least 100-fold .
+In contrast , mutations of individual factor-binding sites in the enhancer reduces its activity 5- to 10-fold [ Giese et al .
+1995 ) .
+Thus , ALY may be important for the function of both LEF-1 and AML-1 , and possibly other factors that participate in regulating the activity of the multiprotein TCRa « enhancer complex .
+The context dependence of ALY function is reminiscent of the requirement of LEF-1 and AML-1 to act in a specific context of proteins .
+Part of the context dependence of LEF-1 can be attributed to the bending of DNA by the HMG domain of LEF-1 ( Giese et al .
+1992 , 1995 ] , but the activation domain of LEF-1 tethered to a heterologous DNA-binding domain also shows a context dependence ( Carlsson et al , 1993 ; Giese and Grosschedl 1993 ) .
+Part of the context-dependent function of AML-1 protein may reflect its direct interaction with Ets-1 , which binds an adjacent site in the TCRa and TCRB enhancers ( Wotton et al .
+1994 ; Giese et al .
+1995 ; Sun et al .
+1995 ) .
+The ternary AML : Ets-1 : DNA complex Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press is , however , rather unstable and is , by itself , not competent to stimulate transcription from a minimal promoter ( Giese et al .
+1995 ) .
+Therefore , additional interactions may be involved in mediating the context dependence of LEF-1 and AML proteins .
+Although the interactions of ALY with both LEF-1 and AML-1 could , in principle , contribute to the context dependence by bridging these DNA-binding proteins , ALY also stimulates the activity of the TCRa « enhancer in the absence of either LEF-1 or AML-1 .
+Moreover , we failed to detect a further stabilization of the ALY : LEF-1 : DNA ternary complex in vitro in the presence of AML or vice versa { data not shown ) .
+Thus , ALY may mediate transcriptional stimulation by facilitating the interaction of the CADs of LEF-1 and AML-1 with other components of the TCRa enhancer complex .
+In addition to the association with LEF-1 and AML-1 , ALY shows some ability to interact weakly with members of the ATF/CREB family in vitro , raising the possibility that ALY may function to couple LEF-1 or AML-1 , or both , to factors bound at the ATF/CREB site .
+Interestingly , the formation of the ternary complex of ALY with LEF-1 or AML proteins and DNA is dependent on the 98-bp TCRa « enhancer fragment and is not observed with a 50-bp fragment that lacks sequences upstream of the LEF-1 binding site .
+These observations raise the possibility that ALY may also interact weakly with upstream sequences , although we did not detect a clear footprint in DNase I protection assays .
+Thus , ALY may participate in the multiple protein-protein and protein-DNA interactions involved in the TCRa enhancer complex , which , together , account for the context dependence of individual protein compo-nents .
+LEF- { -interacting proteins contribute to distinct transcriptional regulatory functions Consistent with the context-dependent function of ALY , interaction of this protein with LEF-1 does not mediate activation of transcription from multimerized LEF-1 binding sites ( S.-C. Hsu and R. Grosschedl , unpubl . )
+.
+However , another LEF-l-interacting protein , B-catenin , which has been shown recently to associate with the amino-terminal 76 residues of LEF-1 ( Behrens et al .
+1996 ; Huber et al .
+1996 ) , confers on LEF-1 and the related HMCG-domain protein XTCPF-3 the ability to stimulate transcription from multimerized sites , although catenin does not augment LEF-1 function at the TCRa enhancer [ Behrens et al .
+1996 ; Molenaar et al .
+1996 ; S.-C. Hsu and R. Grosschedl , unpubl . )
+.
+Thus , interactions of LEF-1 with distinct proteins mediate either context-dependent or context-independent regulatory functions .
+B-Catenin is involved in both cell adhesion and the wnt signal transduction pathway , suggesting that LEF-l may function as a nuclear target of this developmentally important signaling pathway .
+Consistent with this putative function of LEF-1 , targeted inactivation of the Lefi gene in the mouse resulted in severe developmental defects in the formation of tissues that express this gene during embryogenesis , including teeth , mammary glands , and hair follicles ( van Genderen et al .
+1994 ) .
+Al ALY , a LEF-1- and AML-1-interacting protein though targeted mutation of the Lefi gene did not abrogate the expression of the TCRa « gene ( van Genderen et al .
+1994 ) , recent analysis of mice carrying a mutation in both the Lef1 gene and the closely related Tof1 gene revealed a complete block in T-cell differentiation and a lack of TCRa gene expression ( R. Okamura , H. Clevers , and R. Grossched1 , unpubl . )
+.
+Thus , LEF-1 and TCF-1 may play redundant roles in regulating TCRa gene expression in vivo .
+TCF-1 is significantly more abundant than LEF-1 in thymocytes ( Travis et al .
+1991 ; van de Wetering et al .
+1991 ) .
+However , TCFE-1 is 10-fold less efficient than LEF-1 in stimulating TCRa enhancer activity in transfected tissue culture cells { van de Wetering et al .
+1996 ; L. Bruhn , unpubl . )
+.
+Interestingly , TCF-1 , which contains an HMG domain virtually identical to that of LEF-1 , is divergent in the ALY-interacting region and ALY associates only weakly with TCF-1 { ( L. Bruhn , unpubl . )
+.
+Thus , the ability of DNA-bound LEF-1 to interact stably with ALY may , at least in part , explain the higher efficiency of LEF-1 in stimulating TCRa « enhancer function relative to TCF-1 .
+The ALY-interaction domain of AML-1 is translocated in many leukemias Studies of AML function have demonstrated that this protein plays an important role in transcriptional regulation of many targets in addition to TCRa .
+The block in fetal liver hematopoesis displayed by mice carrying a targeted mutation in the AML-1 gene demonstrates that AML-1 plays a role in regulating genes required for definitive hematopoiesis of all lineages ( Okuda et al .
+1996 ; Wang et al .
+1996 ) .
+The abundant expression of ALY observed in the fetal liver ( L. Bruhn , unpubl . )
+is consistent with a possible role for ALY in mediating AML function at these putative targets .
+At least 25 % of all childhood leukemias involve translocations in the genes encoding AML-1 or its heterodimeric DNA-binding partner CBFGB { for review , see Ito 1996 ) .
+Interestingly , these translocations often replace the carboxy-terminal transcription activation domain of AML-1 , which interacts with ALY , with segments of other proteins producing dominant-negative fusion proteins that can bind DNA strongly but do not activate transcription normally .
+To date , ALY is the only reported protein that interacts with the carboxyl terminus of AML-1 , whereas all other known AML-interacting proteins , including CBFRB , Ets-1 , and C/EBP , associate with the Runt domain .
+In addition to its role at the TCRa enhancer , ALY may facilitate the function of AML-1 in combination with other proteins such as Myb and C/EBP , which have been shown to stimulate transcription in a synergistic manner with AML proteins at the TCR8 enhancer and the macrophage colony-stimulating factor receptor promoter , respectively ( Hernandez-Munain and Krangel 1995 ; Zhang et al .
+1996 ) .
+Potential functions of ALY in regulating the TCRa enhancer The ability of ALY to bind weakly to RNA raises the GENES & DEVELOPMENT 649 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Bruhn et al .
+possibility that , by analogy with HIV Tat protein [ for review , see Jones and Peterlin 1994 ) , ALY may stimulate gene expression by interacting with the nascent tran-script .
+However , stimulation of the activity of the TCRa enhancer by ALY is observed with either the tk or fos promoters linked to the bacterial CAT reporter gene ( Fig .
+7A ; data not shown ) .
+Thus , ALY-mediated stimulation of the TCRa enhancer does not appear to require specific promoter or coding sequences .
+The association of ALY with the CADs of LEF-1 and AML-1 can also occur with DNA-bound proteins , although the protein-protein interactions appear to be weak because high concentrations of ALY are required .
+One notable feature of the interaction of ALY with LEF-1 and AML is the 5- to 20-fold increase in DNA binding by both proteins .
+This effect of ALY on DNA binding involves the amino- and/or carboxy-terminal regions of ALY because ALYANC does not increase DNA binding by LEF-1 or AML proteins .
+The stimulation of DNA binding by full-length ALY may be related to its potential to interact nonspecifically with nucleic acids .
+Consistent with this view , DNA binding by other proteins , such as c-Jun and glucocorticoid receptor that do not significantly interact with ALY , can also be augmented by addition of high concentrations of ALY in vitro ( data not shown ) .
+However , the stimulation of transcription by ALY appears to require specific interaction domains because ALY does not stimulate the function of c-Jun or glucocorticoid receptor in transfection assays ( Fig .
+7B ; data not shown ) .
+Several proteins have been found to increase DNA binding by other factors .
+For example , HMGI ( Y } , a small basic DNA-binding protein , stably interacts with both ATFE-2 and nuclear factor- « xB ( NF- « B ) on the B-interferon enhancer and increases DNA binding of these proteins and their assembly into a stereospecific multiprotein complex ( Thanos and Maniatis 1992 , 1995 ) .
+The unrelated proteins HMG-1 and HMG-2 have also been shown to augment DNA binding of various proteins without participating in formation of a stable ternary complex ( Onate et al .
+1994 ; Zwilling et al .
+1995 ) .
+In addition , the protein hnRNP-K , which contains a KH motif RNA-binding domain and interacts with single-stranded nucleic acids , has been shown to interact with TATA-binding protein { TBP } in vitro and to function as a transcription factor in vivo ( Michelotti et al .
+1996 ) .
+Finally , dimerization cofactor of hepatocyte nuclear factor 1 ( DCoH ) , a transcriptional coactivator containing a potential RNP RNA-binding motif augments the dimerization and DNA binding by hepatocyte nuclear factor-l1 ( Mendel et al .
+1991 ; Endrizzi et al .
+1995 ) .
+Taken together , these proteins appear to increase DNA binding by facilitating structural changes in DNA or proteins that accompany binding of individual proteins or the assembly of multiprotein complexes .
+By analogy with these proteins , a simple model for ALY function at the TCRa enhancer could involve the increase of DNA binding by both LEF-1 and AML proteins .
+According to this view , the RNP motif of ALY , which mediates association with the CADs of LEF-1 and 650 GENES & DEVELOPMENT AML-1 , would recruit ALY into the enhancer complex to allow the basic RGG motifs of ALY to facilitate the structural distortion of DNA that accompanies binding by both LEF-1 and AML-1 ( Giese et al .
+1992 ; Love et al .
+1995 ; Golling et al .
+1996 ) .
+However , this model of ALY function can not account for all observations .
+First , ALY stimulates the activity of the TCRa enhancer in vivo by fivefold in the presence of both LEF-1 and AML-1 and a similar increase is observed when only one of these factors is present ( Fig .
+9D ) .
+Second , compared to the ALY-mediated stimulation of DNA binding by either LEF-1 or AML proteins individually , ALY does not appear to further augment binding of both factors together in electrophoretic mobility-shift assays ( data not shown ) .
+In addition , preliminary experiments suggest that addition of purified ALY protein to a mixture of LEF-1 , AML-3 , Ets-1 , and ATF-2 or CREB is not sufficient to promote stable complex formation in DNase I footprint assays { A. Munnerlyn , unpubl . )
+.
+Previously , we have shown that stable formation of the ternary AML : Ets-1 : DNA complex is dependent on LEF-1 and HeLa cell nuclear extract , which may have provided the correct ATF/CREB family member or other factors required for stable complex formation ( Giese et al .
+1995 ) .
+Another possible , not mutually exclusive , model is that the association of ALY with the CADs of LEF-1 and AML-1 facilitates the coordination of multiple activation domains in the multiprotein TCRa « enhancer complex .
+This stimulation could be mediated by direct interactions of a composite activation surface with basal factors or by recruitment of as yet unidentifed coactiva-tors .
+Thus , ALY interaction with multiple TCRa « enhancer-bound factors may be involved in the functional synergy observed between these factors .
+For both models ALY may be incorporated stably into the TCRa enhancer complex , possibly by operating as a molecular glue .
+Al-ternatively , ALY may act in a transient manner to facilitate interactions between multiple proteins or the DNA and may not be a structural part of the transcriptionally active multiprotein complex .
+Whatever molecular mechanism accounts for the function of ALY in regulating the TCRa enhancer , the association of ALY with the CADs of LEF-1 and AML-1 , along with its observed functional properties , suggest that ALY may function to integrate and coordinate multiple protein-protein and/or protein-DNA interactions within specific higher order nucleoprotein complexes .
+Materials and methods Plasmids and oligonucleotides Oligonucleotide-directed mutagenesis was used to replace the LEF-1 site in TCRa-fos-CAT ( Travis et al .
+1991 ) with a Gald4-binding site and to mutate the AML-binding sites { underlined ) in TCRamA-fos-CAT 5-CTCatGaAGAActaACATCC ; mutated residues are in lowercase letters .
+Plasmid CMV-AML-1 was generated by inserting a BsaBl-EcoRI fragment from pKS+-PEBP2Z « BI1 ( Bae et al .
+1994 ) into pEVRFO [ Matthias et al .
+1989 ) .
+pCMV-ALY and pCMV-T7-ALY were generated by inserting a Klenow -filled Neol-Xbal fragment from p138-20z containing ALY cDNA , into the Smal site of pEVRFO and pEVRFO Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press T7 , The latter vector contains coding sequences for the T7 epi-tope [ ( MASMTGGQQMG ) .
+pCMV-ALYANC contains an Eagl-Bbs !
+fragment { codons 72-191 ) in pEVRFO .
+pCMV-ALY-Gal4 was constructed by inserting a fragment containing Gald4 codons 1-147 at a BgllI site introduced at the stop codon of ALY by site-directed mutagenesis .
+Gald4 { 1-147 ) was also inserted into pEVRFO to create pCMV-Gal4 .
+°°S-Labeled ALY protein was expressed in vitro from p138-20z and full-length LEF-1 was expressed from pLS , which contains the Sacl-Kpnl fragment from pCG-LEF-1 ( Giese and Grosschedl 1993 ) in Bluescript KS+ ( Stratagene ) .
+Full-length mouse AML-1 was expressed from pKS+PEBP2aBI ( Bae et al .
+1994 ) .
+Amino- and carboxy-terminal deletion derivatives of LEF-1 and AML-1 were constructed using naturally occurring restriction sites and PCR-generated frag-ments , Mouse AML-3 ( 94-513 ) ( Fig .
+3 ) was expressed from pET-PEBP2aA1l ( 94-513 ) [ ( K. Giese and R .
+Grossched !
+, unpubl . )
+.
+To construct pLEF-1-6His , a PCR-generated LEP-1 fragment was inserted into pET23d ( Novagen ) in-frame with a hexa-histidine tag .
+pGST-ALYANC was constructed by inserting a Small-EcoRI fragment that encodes 13 polylinker-derived residues followed by codons 76-177 of ALY into pGEX3x ( Pharmacia } .
+pGST-ALY was generated by inserting a Ncol-Sacl fragment from p138-20z into pGEX-KG ( Guan and Dixon 1991 ) .
+The AML-3 ( 94-411 } protein used in Figure 6 was expressed from pET-PEBP2 « aA1 ( 94-411 } ( K.Giese and R. Grosschedl , unpubl . }
+.
+C-5 propyne pyrimidine-substituted phosphorothioate oligonucleotides used for the anti-sense experiments are as follows : The anti-sense ALY oligonucleotide { 5 -GACATGTCCATTTT-GTCGGC ) is complementary to codons 2-8 of the ALY tran-script .
+The shuffled control oligonucleotide [ 5'-TCATGCGGT-TGCATACGTCT ) has the same base composition in a random order generated by the GCG sequence analysis program Shuffle .
+Yeast two-hybrid screen , cDNA isolation , and RNA analysis The LEF-1-LexA fusion construct ( Giese and Grosschedl 1993 ) was subcloned into pBTM116 ( Hollenberg et al .
+1995 ) and the resulting plasmid was transformed into the yeast strain L40 , which contains integrated JexA-lacZ and lexA-HIS3 reporter genes ( Hollenberg et al .
+1995 ) .
+The mouse E10 { embryonic day 9.5-10.5 ) cDNA-VP16 fusion library , which contains inserts averaging 300 bp in length , was screened using methods described in Hollenberg et al .
+[ 1995 ] .
+From 2.7 x 10° original transformants , 200 HIS*/LacZ* clones were isolated .
+Of these , 75 maintained expression of the reporter genes only in the presence of LEF-l-LexA .
+Library plasmids isolated from these clones were retransformed into strain L40 containing expression plasmids for LexA , LEF-l-LexA , LexA-lamin ( Hollenberg et al .
+1995 ) , LexA-STE3 , or LexA-FUS1 ( kind gifts of S. Givens , B. Ferguson , and G. Sprague , University of Oregon , Eugene ) , to isolate eight cDNAs that encode peptides that interact specifically with LEF-1 .
+The 310-bp two-hybrid cDNA clone encoding ALYANC was radiolabeled by random priming and used to screen a murine thymocyte cDNA library , a kind gift of M. Davis { Stanford Uni-versity , CA ) .
+The sequence of a 1.1-kb cDNA clone 138-202 and the predicted amino acid sequence were compared with the GenBank DNA and protein databases using the blast algorithm { Altshul et al .
+1990 ) .
+Immunofluorescence and immunoblots COST cells were transfected transiently by electroporation with pCMV-T7-ALY and were allowed to settle onto poly-L-lysine-coated slides and incubated for 48 hr .
+Slides were processed as described in Travis et al .
+( 1991 ) .
+For immunodetection , T7 monoclonal antibody ( Novagen ) was used at a 1:1000 dilution , ALY , a LEF-1- and AML-1-interacting protein followed by a fluorescein isothiocyanate ( FITC ) -conjugated donkey anti-mouse antibody .
+4,6-Diamidino-2-phenylindole ( DAPI ; 0.1 pg/ml ) was used to stain nuclei .
+Whole-cell extracts of Jurkat T cells transfected transiently with CMV-T7-ALY and antisense oligonucleotides were prepared by boiling and sonicating the cells in SDS-PAGE sample buffer .
+Extract from 2 x 10° cells was separated on 12.5 % SDS polyacrylamide gels , transferred to nitrocellulose membrane , probed with T7 monoclonal antibody ( Novagen ) followed by peroxidase-conjugated goat anti-mouse secondary antibody ( Cappel ) , and developed with Renaissance chemiluminescence reagent ( DuPont NEN } .
+Cell culture , transient transfections , and reporter gene assays COS7 and Hela cells were cultured at 37°C in Dulbecco 's modified Eagle medium , supplemented with 10 % fetal calf serum { FCS } .
+Lymphoid cells were grown in RPMI medium , supplemented with 10 % FCS and 50 um 2-mercaptoethanol .
+Transient transfections for the experiments shown in Figures 7 and 9 were performed by the DEAE-dextran/chloroquine procedure with the amounts of plasmids indicated in the figure legends and 250 ng of RSV-B-galactosidase control plasmid ( Grosschedl and Baltimore 1985 ) .
+Transfections of COST cells for the experiment of Figure 9C were performed by electroporation with 20 ug of CMV expression plasmids .
+Anti-sense oligonucleotides were transfected with Lipofectin according to manufacturer 's instructions ( GIBCO-BRL } .
+CAT , luciferase , and B-galactosidase assays were performed as described in Starr et al .
+( 1996 ) .
+After background subtraction , CAT or luciferase activity was normalized to the activity of the B-galactosidase internal transfection control .
+In vitro protein-protein association assays 35§-Labeled proteins were synthesized using a coupled tran-scription/translation ( TaT ) kit ( Promega ) .
+GST fusion proteins immobilized on glutathione-agarose beads were incubated with radiolabeled proteins in binding buffer [ 10 mm Tris-HCI ( pH 8 ) , 150 mm NaCl , 0.2 % NP-40 , 1 mm DTT , 0.2 % BSA ] for 2 hr at 4°C .
+Beads were collected by centrifugation and washed four times with 1 ml of binding buffer followed by one wash with 1 ml of binding buffer lacking BSA .
+Bound proteins were eluted from the beads by boiling in sample buffer [ 62.5 mm Tris-HCI { pH 6.8 ) , 2 % SDS , 10 % glycerol , 5 % B-mercaptoethanoll , separated by SDS-PAGE , and visualized by autoradiography .
+Where indicated , the GST and *°S-labeled proteins were preincubated with 50 ug/ml pancreatic RNase ( Boehringer Mannheim } for 15 min at 22°C before the association reactions .
+This amount of RNase was sufficient to eliminate the ribosomal RNA present in the in vitro translated *°S-labeled proteins as detected by ethidium bromide staining .
+Protein purification , nuclear extracts , and DNA-binding analysis GST fusion proteins and the LEF-1-HMG domain polypeptide were overexpressed in bacteria and purified using glutathione-conjugated agarose beads essentially as described in Giese et al .
+( 1995 ) .
+The 6-His-tagged proteins LEF-1 , AML { 94-411 } , and Runt were expressed in bacteria and purified using Ni-NTA agarose beads ( Qiagen ) according to manufacturer 's instruc-tions .
+Nuclear extracts of COST cells were prepared according to the method of Schreiber et al .
+( 1989 ) .
+Electrophoretic mobility-shift assays and DNase I footprint-ing were performed as described by Travis et al .
+( 1991 ) .
+DNA-binding reactions contained 20 mm HEPES buffer ( pH 7.9 ) , 75 GENES & DEVELOPMENT 651 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Bruhn et al .
+mM NaCl , 1 mm DTT , 2 mm MgCl , , 10 % glycerol , 0.1 mg/ml of BSA , 5 ug/rol of salmon sperm DNA , 2.5 ug/ml of poly { d { I-C ) ] , ~10,000 epm ( 5 fmoles } labeled probe , and the amount of proteins or nuclear extract indicated in the figure legends .
+DNA-binding reactions with nuclear extract contained 50 ug/ml each of salmon sperm DNA and poly [ d { I-C ) ] .
+For DNase I footprint analysis , the binding buffer also contained 0.5 mM spermidine .
+Acknowledgments We are thankful to R. Brazas , M. Davis , B. Ferguson , J. Fontes , S. Givens , S. Hollenberg , Y. Ito , K. Jones , U. Muller , F. Schaufele , and D.B .
+Starr for their kind donations of cDNA libraries , plasmids , and reagents .
+We thank George Farmer , Alan Frankel , Alexander Johnson , A. Kralli , and D. Barry Starr for their helpful suggestions on the manuscript , and members of the Grosschedl laboratory for valuable discussions .
+This work was supported , in part , by funds of the Howard Hughes Medical Institute and the National Institutes of Health .
+LB .
+was supported by Cancer Research Institute and Arthritis Foundation postdoctoral fel-lowships .
+The publication costs of this article were defrayed in part by payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 USC section 1734 solely to indicate this fact .
+Note added in proof The GenBank accession number for the sequence of ALY is U89876 .
+References Altshul , S.F .
+, W. Gish , W. Miller , EW .
+Myers , and DJ .
+Lipman .
+1990 .
+Basic local alignment search tool .
+J. Mol .
+Biol .
+215 : 403-410 .
+Bae , S.C. , E. Ogawa , M. Maruyama , H. Oka , M. Satake , K. Shigesada , N.A .
+Jenkins , D.J .
+Gilbert , N.G .
+Copeland , and Y. Ito .
+1994 .
+PEBP2 alpha B/mouse AML1 consists of multiple isoforms that possess differential transactivation potentials .
+Mol , Cell .
+Biol .
+14 : 3242-3252 .
+Bae , S.C. , E. Takahashi , Y.W .
+Zhang , E. Ogawa , K. Shigesada , Y. Namba , M. Satake , and Y. Ito .
+1995 .
+Cloning , mapping and expression of PEBP2 « C , a third gene encoding the mammalian Runt domain .
+Gene 159 ; 245-248 .
+Behrens , J. , J.P. von Kries , M. Kuhl , L. Bruhn , D. Wedlich , R. Grosschedl , and W. Birchmeier .
+1996 .
+Functional interaction of beta-catenin with the transcription factor LEF-1 .
+Nature 382 : 638-642 .
+Burd , C.G .
+and G. Dreyfuss .
+1994 .
+Conserved structures and diversity of functions of RNA-binding proteins .
+Science 265 : 615-621 .
+Carlsson , P. , M. Waterman , and K. Jones .
+1993 .
+The hLEF/TCPF-le HMG protein contains a context-dependent transcriptional activation domain that induces the TCRa enhancer in T cells .
+Genes & Dev .
+7 : 2418-2430 .
+Endrizzi , J .
+A. , J.D .
+Cronk , W. Wang , G.R .
+Crabtree , and T. Alber .
+1995 .
+Crystal structure of DCoH , a bifunctional protein-binding transcriptional coactivator .
+Science 268 : 556-559 .
+Fields , S. and O.-K. Song .
+1989 .
+A novel genetic system to detect protein-protein interactions .
+Nature 340 ; 245-246 .
+Giese , K. and R. Grosschedl .
+1993 .
+LEF-1 contains an activation domain that stimulates transcription only in a specific context of factor-binding sites .
+EMBO J .
+12 : 4667-4676 .
+Giese , K. , J. Cox , and R. Grosschedl .
+1992 .
+The HMG domain of lymphoid enhancer factor 1 bends DNA and facilitates as 652 GENES & DEVELOPMENT sembly of functional nucleoprotein structures .
+Cell 69 : 185-195 .
+Giese , K. , C.K .
+Kingsley , J.R. Kirshner , and R. Grosschedl .
+1995 .
+Assembly and function of a TCRa enhancer complex is dependent on LEF-1l-induced DNA bending and multiple protein-protein interactions .
+Genes & Dev .
+9 : 995-1008 .
+Golling , G. , L. Li , M. Pepling , M. Stebbins , and J.P. Gergen .
+1996 .
+Drosophila homologs of the proto-oncogene product PEBP2/CBF beta regulate the DNA-binding properties of Runt .
+Mol .
+Cell .
+Biol .
+16 : 932-942 .
+Grosschedl , R. 1995 .
+Higher-order nucleoprotein complexes in transcription : Analogies with site-specific recombination .
+Curr .
+Opin .
+Cell Biol , 71 362-370 .
+Grosschedl , R. and D. Baltimore .
+1985 .
+Cell-type specificity of immunoglobulin gene expression is regulated by at least three DNA sequence elements .
+Cell 41 : 885-897 .
+Grossched1 , R. , K. Giese , and J. Pagel .
+1994 .
+HMG domain pro-teins : Architectural elements in the assembly of nucleoprotein structures .
+Trends Genet .
+10 : 94-100 , Guan , KL .
+and J.E .
+Dixon .
+1991 .
+Eukaryotic proteins expressed in Escherichia coli : An improved thrombin cleavage and purification procedure of fusion proteins with glutathione S-transferase .
+Analytical Biochem .
+192 ; 262-267 .
+Hernandez-Munain , C. and M.S .
+Krangel .
+1995. c-Myb and core-binding factor/PEBP2 display functional synergy but bind independently to adjacent sites in the T-cell receptor & enhancer .
+Mol .
+Cell .
+Biol .
+15 : 3090-3099 .
+Ho , I.-C. and JM .
+Leiden .
+1990 .
+Regulation of the human T-cell receptor alpha gene enhancer : Multiple ubiquitous and T cell-specific nuclear protcins interact with four hypometh-ylated enhancer elements .
+Mol .
+Cell .
+Biol .
+10 : 4720-4727 .
+Hollenberg , SM .
+, R. Sternglanz , P.F .
+Cheng , and H. Weintraub .
+1995 .
+Identification of a new family of tissue-specific basic helix-loop-helix proteins with a two-hybrid system .
+Mol .
+Cell .
+Biol .
+15 : 3813-3822 .
+Holloway , J.M .
+, D.P .
+Szeto , K.M .
+Scully , CK .
+Glass , and M.G .
+Rosenfeld .
+1995 .
+Pit-1 binding to specific DNA sites as a monomer or dimer determines gene-specific use of a tyrosine-dependent synergy domain .
+Genes & Dev .
+9 : 1992-2006 .
+Huber , O. , R. Korn , J. McLaughlin , M. Ohsugi , B.G .
+Hermann , and R. Kemler .
+1996 .
+Nuclear localization of B-catenin by interaction with transcription factor LEF-1 .
+Mech .
+Dev .
+59 ; 3-10 .
+Ito , Y .
+1996 .
+Structural alterations in the transcription factor PEBP2/CBF linked to four different types of leukemia .
+/ .
+Cancer Res .
+Clin .
+Oncol .
+84 : 321-330 , Janknecht , R. and T. Hunter .
+1996 .
+Transcriptional control : Versatile molecular glue .
+Curr .
+Biol .
+6 : 951-954 .
+Jones , K.A .
+and B.M .
+Peterlin .
+1994 .
+Control of RNA initiation and elongation at the HIV-1 promoter .
+Annu .
+Rev .
+Biochem .
+63 : 717-743 .
+Kwok , R.P.S .
+, J.R. Lundblad , J.C. Chrivia , J.P. Richards , HP .
+Bachinger , RG .
+Brennan , S.G.E .
+Roberts , MR. Green , and RH .
+Goodman .
+1994 .
+Nuclear protein CBP is a coactivator for the transcription factor CREB .
+Nature 370 ; 223-226 .
+Lai , J. and W. Herr .
+1992 .
+Ethidium bromide provides a simple tool for identifying genuine DNA -independent protein asso-ciations .
+Proc .
+Natl .
+Acad .
+Sci .
+891 6958-6962 .
+Landsman , D. and M. Bustin .
+1993 .
+A signature for the HMG-1 box DNA-binding proteins .
+BioEssays 15 : 539-546 .
+Levanon , D. , V. Negreanu , Y. Bernstein , I. Bar-Am , L. Avivi , and Y. Groner .
+1994 .
+AML1I , AML2 , and AML3 , the human members of the runt domain gene-family : cDNA structure , expression , and chromosomal location .
+Genomics 23 : 425-432 .
+Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Love , J.J. , X. Li , D.A .
+Case , K. Giese , R. Grosschedl , and PE .
+Wright .
+1995 , Structural basis for DNA bending by the architectural transcription factor LEF-1 .
+Nature 376 : 791-795 .
+Matthias , P. , M.M .
+Muller , E. Schreiber , S. Rusconi , and W. Schaffner , 1989 .
+Eukaryotic expression vectors for the analysis of mutant proteins .
+Nucleic Acids Res .
+17 : 6418-6419 .
+Mendel , D.B .
+, P.A .
+Khavari , P.B .
+Conley , M.K .
+Graves , L.P. Han-sen , A. Admon , and G.R .
+Crabtree .
+1991 .
+Characterization of a cofactor that regulates dimerization of a mammalian ho-meodomain protein .
+Science 254 : 1762-1767 .
+Michelotti , EF .
+, G.A .
+Michelotti , A.L .
+Aronsohn , and D. Levens .
+1996 .
+Heterogeneous nuclear ribonucleoprotein K is a transcription factor .
+Mol , Cell .
+Biol .
+16 : 2350-2360 .
+Molenaar , M. , M. van de Wetering , M. Oosterwegel , J. Peterson-Maduro , S. Godsave , V. Korinek , J. Roose , O. Destree , and H. Clevers .
+1996 .
+XTef-3 transcription factor mediates B-ca-tenin-induced axis formation in Xenopus embryos .
+Cell 86 : 391-399 .
+Nagai , K. , C. Oubridge , N. Ito , J. Avis , and P. Evans .
+1995 .
+The RNP domain : A sequence-specific RNA-binding domain involved in processing and transport of RNA .
+Trends Biochem .
+Sci .
+20 ; 235-240 .
+Ogawa , E. , M. Maruyama , H. Kagoshima , M. Inuzuka , J. Lu , M. Satake , K. Shigesada , and Y. Ito .
+19932 .
+PEBP2/PEAZ represents a family of transcription factors homologous to the products of the Drosophila runt gene and the human AML 1 gene .
+Proc .
+Natl .
+Acad .
+Sci .
+90 : 6859-6863 .
+Ogawa , E. , M. Inuzuka , M. Maruyama , M. Satake , M. Naito-Fujimoto , Y. Ito , and K. Shigesada .
+1993b .
+Molecular cloning and characterization of PEBP2B , the heterodimeric partner of a novel Drosophila runt-related DNA binding protein PEBP2a .
+Virology 194 : 314-331 .
+Okuda , T. , J. van Deursen , S.W .
+Hiebert , G. Grosveld , and J.R .
+Downing .
+1996 .
+AML1 , the target of multiple chromosomal translocations in human leukemia , is essential for normal fetal liver hematopoiesis .
+Cell 84 : 321-330 .
+Onate , S.A. , P. Prendergast , J.P. Wagner , M. Nissen , R. Reeves , D.E .
+Pettijohn , and D.P .
+Edward .
+1994 .
+The DNA-bending protein HMG-1 enhances progesterone receptor binding to its target DNA sequences .
+Mol .
+Cell .
+Biol .
+14 : 3376-3391 .
+Ptashne , M. 1988 .
+How eukaryotic transcriptional activators work .
+Nature 335 : 683-689 .
+Satake , M. , S. Nomura , Y. Yamaguchi-Iwai , Y. Takahama , Y. Hashimoto , M. Niki , Y. Kitamura , and Y. Ito .
+1995 .
+Expression of the Runt domain-encoding PEBP2 « genes in T cells during thymic development .
+Mol .
+Cell .
+Biol .
+15 ; 1662-1670 .
+Schreiber , E. , P. Matthias , M. Muller , and W. Schaffner .
+1989 .
+Rapid detection of octamer binding proteins with `` mini-ex-tracts `` prepared from small number of cells Nucleic Acids Res .
+17 ; 6419 .
+Sheridan , PL .
+, C.T .
+Sheline , K. Cannon , ML .
+Voz , M.J. Pazin , J.T .
+Kadonaga , and K.A .
+Jones .
+1995 .
+Activation of the HIV-1 enhancer by the LEF-1 HMG protein on nucleosome-as-sembled DNA in vitro .
+Genes & Dev .
+9 : 2090-2104 .
+Starr , D.B .
+, W. Matsui , J.R. Thomas , and KR .
+Yamamoto .
+1996 .
+Intracellular receptors use a common mechanism to interpret signaling information at response elements .
+Genes & Dev .
+10 ; 1271-1283 .
+Sun , W. , B. Graves , and N.A .
+Speck .
+1995 , Transactivation of the Moloney murine leukemia virus and T-cell receptor B-chain enhancers by cbf and ets requires intact binding sites for both proteins .
+J. Virol .
+69 : 4941-4949 .
+Tanaka , T. , K. Tanaka , S. Ogawa , M. Kurokawa , K. Mitani , J. Nishida , Y. Shibata , Y. Yazaki , and H. Hirai .
+1995 .
+An acute myeloid leukemia gene , AML1 , regulates hemopoietic myeloid cell differentiation and transcriptional activation an ALY , a LEF-1- and AML-1-interacting protein tagonistically by two alternative spliced forms .
+EMBO J .
+14 ; 341-350 .
+Thanos , D. and T. Maniatis , 1992 .
+The high mobility group protein HMGI ( Y ) is required for NF- « B-dependent virus induction of the human IFN-6 gene .
+Cell 71 : 777-789. .
+1995 .
+Virus induction of human IFN beta gene expression requires the assembly of an enhanceosome .
+Cell 83 : 1091-1100 .
+Tjian , R. and T. Maniatis , 1994 .
+Transcriptional activation : A complex puzzle with few easy pieces .
+Cell 77 : 5-8 .
+Travis , A. , A. Amsterdam , C. Belanger , and R. Grossched ] .
+1991 .
+LEF-1 , a gene encoding a lymphoid-specific protein with an HMG domain , regulates T-cell receptor « enhancer function .
+Genes & Dev .
+51 880-894. van de Wetcring , M. , M. Oosterwegel , D. Dooijes , and H. Clevers .
+1991 .
+Identification and cloning of TCF-1 , a T lympho-cyte-specific transcription factor containing a sequence-specific HMG box .
+EMBO J .
+10 : 123-132. van de Wetering , M. , J. Castrop , V. Korinek and H. Clevers .
+1996 .
+Extensive alternative splicing and dual promoter usage generate Tcf-1 protein isoforms with differential transcription control properties .
+Mol .
+Cell .
+Biol .
+161 745-752. van Genderen , C. , RM .
+Okamura , I Farinas , R.-G .
+Quo , T.G .
+Parslow , L. Bruhn , and R. Grosschedl .
+1994 .
+Development of several organs that require inductive epithelial-mesenchy-mal interactions is impaired in LEF-1-deficient mice .
+Genes & Dev .
+8 : 2691-2703 .
+Wagner , RW .
+, M.D .
+Matteucci , J.G .
+Lewis , A.J .
+Gutietrez , C. Moulds , and B.C .
+Frochler .
+1993 .
+Antisense gene inhibition by oligonucleotides containing C-5 propyne pyrimidines .
+Science 260 ; 1510-1513 .
+Wang , Q. , T. Stacy , M. Binder , M. Marin-Padilla , A.H. Sharpe , and N.A .
+Speck .
+1996 .
+Disruption of the Cbfa2 gene causes necrosis and hemorrhaging in the central nervous system and blocks definitive hematopoiesis .
+Proc .
+Natl .
+Acad .
+Sci .
+16 : 3444-3449 .
+Wang , S. , Q. Wang , B. Crute , I. Melnikova , S. Keller , and N. Speck .
+1993 .
+Cloning and characterization of subunits of the T-cell receptor and murine leukemia virus enhancer core-binding factor .
+Mol .
+Cell .
+Biol .
+13 : 3324-3339 .
+Waterman , M. and K. Jones .
+1990 .
+Purification of TCF-l « , a T cell-specific transcription factor that activates the T-cell receptor Ca gene enhancer in a context-dependent manner .
+New Biol .
+2 ; 621-636 .
+Waterman , ML .
+, W.H .
+Fischer , and K.A .
+Jones .
+1991 .
+A thymus-specific member of the HMG protein family regulates the human T cell receptor « enhancer , Genes & Dev .
+5 : 656-669 .
+Wotton , D. , J. Ghysdael , S. Wang , N. Speck , and M. Owen .
+1994 .
+Cooperative binding of Ets-l1 and core binding factor to DNA .
+Mol .
+Cell .
+Biol .
+14 ; 840-850 .
+Zhang , D.-E. , C.J .
+Hetherington , S. Meyers , KL .
+Rhoades , CJ .
+Larson , H.-M. Chen , S.W .
+Hiebert , and D.G .
+Tenen .
+1996 .
+CCAAT enbancer-binding protein ( C/EBP ) and AMLI ( CBFa2 ) synergistically activate the macrophage colony stimulating factor receptor promoter .
+Mol .
+Cell Biol .
+16 : 1231-1240 .
+Zwilling , S. , H. Konig , and T. Wirth .
+1995 .
+High mobility group protein 2 functionally interacts with the POU domains of octamer transcription factors .
+EMBO J .
+14 ; 1198-1208 .
+GENES & DEVELOPMENT 653 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press < l > ~C & N-£ $ & Development ALY , a context-dependent coactivator of LEF-1 and AML-1 , is required for TCRalpha enhancer function .
+L Bruhn , A Munnerlyn and R Grossched !
+Genes Dev .
+1997 , 11 : Access the most recent version at doi:10.1101/gad.11.5.640 References _ This article cites 60 articles , 27 of which can be accessed free at : http : /genesdev.cshlp.org/content/11/5/640.full.html # ref-list-1 License Email Alerting _ Receive free email alerts when new articles cite this article - sign up in the box at the top Service - `` ight corner of the article or click here .
+CRISPR KO , CRISPRa , CRISPRi libraries .
+CELLECTA Custom or genome-wide .
+Copyright © Cold Spring Harbor Laboratory Press

@@ -1,0 +1,458 @@
+Vol .
+7 , 1005-1012 , August 1996 Cell Growth & Differentiation Suppression of c-jun by Antisense Oligonucleotides Inhibits Cell Adhesion but not Respiratory Burst during Phorbol Ester-induced Differentiation of U937 Human Monoblastic Cells ' Nobuyoshi Momiyama , Hiroshi Shimada , and Masato Mitsuhashi ?
+Second Department of Surgery , Yokohama City University School of Medicine , 3-9 Fukuura , Kanazawa-ku , Yokohama 236 , Japan [ N. M. , H. S. ] , and Medical Science Division , Hitachi Chemical Research Center , Irvine , California 92715 [ M. M. ] Abstract We studied the role of the immediate early gene c-jun in cell proliferation and phorbol 12-myristate 13-acetate ( PMA ) -induced differentiation in U937 human monoblastic cells , using c-jun-specific antisense ( AS ) phosphorothioate oligonucleotides .
+In selecting the most specific and potent oligonucleotide sequence , we performed extensive analyses for the binding specificity between all candidates of c-jun AS oligonucleotides and the whole sequences in GenBank database , using a computer program .
+Among the 20 selected oligonucleotides , two potent 15-mer AS oligonucleotides ( C-JUN AS oligonucleotides ) exhibited significant inhibition of cell growth in a dose-dependent manner between 2 and 10 um .
+Reverse transcription-PCR and Western blot analysis demonstrated that 10 um of C-JUN AS oligonucleotides reduced c-jun expression at both the mRNA and protein levels .
+More importantly , C-JUN AS oligonucleotides showed distinct effects on two markers of PMA-induced differentiation ; the C-JUN AS oligonucleotides inhibited cell adhesion , whereas they did not affect another marker of differentiation , respiratory burst ( measured by nitro blue tetrazolium reduction assay ) .
+These results suggest a critical role of c-jun in both cell proliferation and PMA-induced cell adhesion but not in PMA-induced respiratory burst in U937 cells .
+Introduction The c-jun proto-oncogene encodes a leucine zipper protein that can homodimerize or heterodimerize with c-Fos protein , Received 12/28/95 ; revised 5/2/96 ; accepted 5/28/96 .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked advertisement in accordance with 18 U.S.C .
+Section 1734 solely to indicate this fact .
+* Supported by Hitachi Chemical Research Center , Inc. 2 To whom requests for reprints should be addressed , at Medical Science Division , Hitachi Chemical Research Center , 1003 Health Sciences Road West , Irvine , CA 92715 .
+Phone : ( 714 ) 725-2795 ; Fax : ( 714 ) 725-2727 ; E-mail : masato @ ix.netcom.com .
+forming the nuclear complex AP-1 ( 1 , 2 ) .
+The AP-1 complex can function as a transcription factor through binding to a DNA consensus sequence ( termed 12-O-tetradecanoylphor-bot-13-acetate-responsive elements ) that is contained within the promoter region of many cellular genes such as colla-genase , stromelysin , as well as c-jun itself ( 3-5 ) .
+It has been reported previously that c-jun transcription is rapidly and transiently activated in cells in response to a wide variety of stimuli such as serum ( 6 , 7 ) , growth factors ( 8-12 ) , or phorbol esters ( 13 ) .
+The profile of this gene expression has been characterized as IEGs , ° including c-fos and c-myc ( 14-17 ) .
+The induction of IEG expression does not require intervening protein syn-thesis , thus IEGs are thought to be the first genes activated after mitogenic stimuli , implicating that these genes should hold the key to the signal transduction pathway of complex cellular proliferation and differentiation cascades .
+Furthermore , inhibition of c-fos expression prevents 3T3 cell proliferation in both quiescent and logarithmically growing conditions ( 18-20 ) , suggesting the essential role of c-fos in cell proliferation .
+Recent studies have also shown that c-myc AS transcripts or AS oligonucleotides inhibit cell proliferation but induce differentiation in F-MEL and HL6O cells ( 21 , 22 ) .
+These findings suggest that c-myc is a positive regulator of cell proliferation but a negative one for differentiation .
+Although accumulating results also indicate that c-jun is important in producing cell proliferation ( 23 , 24 ) , little is known about the role of c-jun in cell differentiation .
+U937 human monoblastic cells ( 25 ) provide a model system for the study of c-jun in proliferation and differentiation .
+U937 cells can be differentiated into macrophage-like cells by PMA ( 26 , 27 ) .
+Within 24-72 h after PMA stimulation , cellular characteristics are switched from proliferation to differentiation status , and macrophage-like functions , such as cellular adherence to plastic plates and phagocyte respiratory burst , are clearly induced .
+Numerous reports have shown that these functional maturations with proliferation arrest were preceded by a rapid increase in c-Jun protein levels ( 27-30 ) , however , it is somewhat paradoxical because a similar up-regulation of c-Jun is noted to be associated with U937 cell proliferation ( 31 ) .
+Therefore , the fundamental question of whether PMA-induced c-jun expression is a ° The abbreviations used are : IEG , immediate early gene ; AS , antisense ; NBT , nitro blue tetrazolium ; PMA , phorbol 12-myristate 13-acetate ; Tm , melting temperature ; ATF ; activating transcription factor ; MAP , mitogen-activated protein ; RT-PCR , reverse transcription-PCR ; FBS , fetal bovine serum ; TBS , Tris-buffered saline .
+1006 _ Role of c-jun in Hematopoietic Cell Differentiation Table 1 Oligonucleotide sequences Oligo # - Position '' - Length ( mer ) Tm '' Sequence ( 5 ' to 3° ) 1 1047 15 30.3 TAATTAAGATGCCTC 2 1047 17 35.9 GTTAATTAAGATGCCTC 3 1047 18 41.2 GGTTAATTAAGATGCCTC 4 1046 20 50 GCGTTAATTAAGATGCCTCC 5 1022 20 51.9 crertractrercceacrcece 6 1253 15 33.5 CAGTCATAGAACAGT 7 1252 16 37.5 - CAGTCATAGAACAGTC 8 1252 17 43.3 - GCAGTCATAGAACAGTC 9 1251 18 47.7 - GCAGTCATAGAACAGTCC 10 1240 20 52.7 GAACAGTCCGTCACTTCACG 11 2197 15 33.2 GTTAACGTGGTTCAT 12 2198 16 38.3 CTGTTAACGTGGTTCA 13 2196 18 42.4 - CTGTTAACGTGGTTCATG 14 2194 20 47.8 - CTGTTAACGTGGTTCATGAC 15 2215 20 55.7 GTTAGCATGAGTTGGCACCC 16 3207 15 33.3 CCATATAGATACGCT 17 3228 16 39.8 CACTAGCCTTTGGTAA 18 3205 17 42.4 - CCATATAGATACGCTGG 19 3220 19 49.2 GCCTTTGGTAAGCAATTCC 20 3226 20 55.1 CGCACTAGCCTTTGGTAAGC Control - 15 - _ CTGAAGTGGCATGAG `` Starting position of target sequences within the c-jun cDNA ( HUMJUNA } .
+® Nearest neighbor calculations of Tm for DNA : DNA .
+mainspring or a byproduct during differentiation of U937 cells remains to be elucidated .
+In the present study , we designed a series of c-jun-specific AS phosphorothioate oligonucleotides and then evaluated their effects on U937 cell proliferation .
+Using the most specific and potent c-jun AS oligonucleotides , we examined the possible effect of the oligonucleotides on PMA-induced functional maturation .
+The present study demonstrates that the inhibition of c-Jun protein expression significantly reduces cell proliferation and PMA-induced adherent activity but not PMA-induced respiratory burst measured by NBT reduction activity .
+These results indicate a critical role of c-jun in cell proliferation and PMA-induced cell adhesion but not in PMA-induced respiratory burst in U937 cells .
+Results Sequence of Oligonucleotides .
+The sequence , length , and nearest neighbor calculations of the Tm of each oligonucleotide are summarized in Table 1 .
+In designing the AS sequence , we first assigned the Tm of oligonucleotides as 35 , 40 , 45 , 50 , and 55°C .
+All possible sequences that would have the given Tms were extracted from every position of the c-jun mRNA , then the specificity ( the degree of cross-hybridization against the whole sequences in the GenBank database ) of each oligonucleotide , and the possibility of forming a secondary structure in both oligonucleotides and the target mRNA was analyzed by a computer program ( 32 , 33 ) .
+Twenty candidates of sequences were chosen from four different sites on the c-jun mRNA such as : ( a ) 5'-untranslated region ( position 1022-1047 ) ; ( b ) AUG translation initiation codon ( position 1261-1263 ) ; ( c ) coding - region - ( position 2194-2215 ) , and ( d ) 3'-untranslated region ( position 3205-3228 ) .
+The selected 20 sequences exhibited maximum specificity against other members of the jun gene family , junB and 70 # 5 8 - so sel O - -- 50 X L a $ - « C a | 3 30 @ | | C | | G - 201 | | € | E 10 4 | | *2 | | | & o .i | | | U C 1 2 3 4 5 6 7 8 91011121314151617181920 Fig .
+1 .
+Effect of c-jun AS oligonucleotides on U937 cell profiferation .
+U937 cells were seeded in 96-well plates at a density of 2500 cells/well in 100 pl of RPMI 1640 with 0.5 % FBS , and 10 um of oligonucleotide were added .
+After a 24-h incubation in the absence ( U , untreated ) or presence of either control ( C ) or c-jun AS oligonucleotides ( 7-20 ) , serum concentration was adjusted to 10 % , and culture was continued for an additional 2 days without removing the oligonucleotides .
+Cells were exposed to 0.5 uCi/well of PH|thymidine for the last 6 h , then cellular uptake of midine was counted .
+Values are the mean * SD of triplicate wells .
+c-jun AS oligonucleotides were targeted for 5'-untransiated region ( 7-5 ) , AUG translation initiation region ( 6-10 ) , coding region ( 17-75 ) , and 3'-untranslated region ( 16-20 ) .
+The Tm of each oligonucleotide was approximately 35°C ( 1 , 6 , 11 , and 16 ) , 40°C ( 2 , 7 , 12 , and 17 ) , 45°C ( 3 , 8 , 13 , and 18 ) , 50°C ( 4 , 9 , 14 , and 19 ) , or 55°C ( 5 , 10 , 15 , and 20 ) .
+junD , with additional specificity against the primate database in GenBank ( data not shown ) .
+As a control , 15-mer oligonucleotides that have the 5'-CTGAAGTGGCATGAG-3 ' sequence were used .
+Effect of c-jun AS Oligonucleotides on U937 Cell Proliferation .
+We examined the effects of 20 c-jun AS oligonucleotides on U937 cell proliferation .
+Cells were treated with 10 um of each oligonucleotide , and the cell proliferation rate was determined by [ ®H ] thymidine pulse assay .
+The results obtained at 48 h after oligonucleotide treatment are shown in Fig .
+1 .
+The 20 c-jun AS oligonucleotides ( 1-20 ) revealed several degrees of inhibitory effects on U937 cell proliferation compared to untreated cells ( U ) .
+Three of the four oligonucleotides with Tm 35°C ( 6 , 11 , and 16 ) revealed higher inhibition ( ranging between 76 and 83 % ) , whereas four oligonucleotides with Tm 55°C ( 5 , 10 , 15 , and 20 ) showed less inhibition ( ranging between 24 and 27 % ) , similar to that shown by the control oligonucleotide ( C ; 28 % ) .
+The inhibitory rates of other oligonucleotides with Tms 40 , 45 , and 50°C ranged between 22 % and 63 % .
+Similar results were consistently observed with three different batches of each oligonu-cleotide .
+( data not shown ) .
+Oligonucleotides AS-1 ( 6 ) and AS-2 ( 11 ) were used for subsequent analyses .
+Cells were treated with different concentrations of either AS-1 or control oligonucleotide , and the cell proliferation rate was determined every 24 h by [ °HJthymidine uptake .
+Cells treated with buffer alone or 10 um of control oligonucleotide revealed logarithmic cell growth for 3 days after treatment , Cell Growth & Differentiation lil 95 E a O & xX 104 o SC & © S < 4 13 a J € ° C E , € F T 0 T T T ® 0 1 2 3 Day Fig .
+2 .
+- Dose-dependent effect of c-jun AS oligonucleotides on U937 cell profiferation .
+U937 cells ( 2 , 500 cells/well ) were treated without ( 0 ) or with 10 um of control oligonucleotide ( @ ) or various concentrations ( 2 ( 0 ) , 5 ( @ or 10 ( A ) uw ) of c-jun AS oligonucteotide AS-1 , and cellular uptake of PHIthymidine was counted daily as described in the legend to Fig .
+1 .
+Values are the mean + SD of triplicate wells .
+whereas AS-1 consistently inhibited cell proliferation in a dose-dependent manner between 2 and 10 um ( Fig .
+2 ) .
+Although 2 um of AS-1 revealed sufficient inhibition of cell proliferation for up to 2 days , cells started to proliferate after day 2 .
+In contrast , 10 um of AS-1 induced stronger inhibition , and its effect lasted for at least 3 days after treatment ( Fig .
+2 ) .
+The inhibitory effects of AS oligonucleotides on U937 cell growth were further confirmed by counting the number of cells , in which 10 um of AS-1 consistently and significantly inhibited cell growth for at least 4 days after treatment , whereas the number of untreated cells and control oligonucleotide-treated cells increased within this period of time { Fig .
+3 ) .
+Cell viability was routinely confirmed by trypan blue dye exclusion , and it was always more than 90 % throughout the experiments .
+Unlike the previous report by Holt et a/ .
+( 22 ) , in which c-myc AS oligonucleotides inhibited cell growth and induced cellular differentiation , the inhibition of cell growth by c-jun AS oligonucleotides AS-1 and AS-2 was not accompanied by terminal differentiation in U937 cells ( data not shown ) .
+Kinetics of PMA-induced c-Jun Protein Expression in U937 Cells .
+U937 cells can be differentiated along with the monocyte-macrophage pathway by PMA stimulation , and this phenotypic alteration is preceded by c-jun up-regulation ( 27 ) .
+Therefore , we examined the kinetics of c-Jun protein expression after exposure to PMA .
+Total cellular protein was extracted before and after treatment with PMA and was subjected to Western blot analysis .
+The results ( shown in Fig .
+4 ) demonstrated that lower levels of c-Jun protein were expressed in U937 cells while in an unstimulated condition , but a rapid increase ( 12-fold ) in c-Jun protein expression was induced within 1 h after PMA treatment .
+However , this induction was transient and decreased by half at 3 h after PMA treatment .
+Effect of c-jun AS Oligonucleotides on PMA-induced c-Jun Protein Expression .
+To assess the effect of c-jun AS oligonucleotides on protein expression , U937 cells initially 300 ~ 200 ~I cells 1x 104 / ml 100 - ] 0 0 1 2 3 4 Day Fig .
+3 .
+Effect of c-jun AS oligonucieotides on cell number .
+U937 cells ( 2 , 500 cells/well ) were treated without ( C ) or with 10 um of either control ( @ ) or c-jun AS oligonucleotides ( L ) ) as described in the legend to Fig .
+1 .
+Viable cell number was counted daily by trypan blue dye exclusion method .
+Values are the mean + SD of triplicate wells .
+vs 1 o m 3 L relative intensity 0 30° th 2h 3h PMA Fig .
+4 .
+- Kinetics of PMA-induced c-Jun protein expression in U937 cells .
+Western blot analysis was performed in U937 cells after treatment with 160 nm PMA .
+Total cellular protein was extracted at several time intervals as indicated .
+Twenty ug of total protein were electrophoresed , blotted onto nitrocellulose membranes , and probed with a rabbit anti-human c-Jun antibody followed by alkaline phosphatase-based color develop-ment .
+Band intensity was measured by a densitometer ( fop ) .
+treated with or without either control or AS oligonucleotide ( AS-1 ) were exposed to PMA , and Western blot analysis was performed .
+Significant suppression of PMA-induced c-Jun protein expression was observed only after AS treatment , whereas no inhibitory effect was detected on -actin protein expression ( Fig .
+5 ) .
+Similar results were consistently observed with three different experiments , and the densito-metrical analysis showed it was statistically significant ( P < 0.01 ) .
+Effect of c-jun AS Oligonucleotides on c-jun mRNA Expression .
+To determine the effect of AS oligonucleotides on c-jun mRNA expression , U937 cells initially treated with or 1007 1008 - Role of c-jun in Hematopoietic Cell Differentiation 1.5 - *p < 0.01 os 4 ~ $ 0.0 T ¥ relative intensity LFA c-jun s- actin 1 2 3 Fig .
+5 .
+Effect of c-jun AS oligonucteotides on PMA-induced c-Jun protein expression .
+Cells treated without ( Lane 1 ) or with either 10 um of control ( Lane 2 ) or c-jun AS oligonucleotides ( Lane 3 ) were incubated with 160 nu PMA .
+Total cellular protein was extracted , and Western blot analysis was performed 1 h after PMA stimulation .
+Twenty ug of total protein were electrophoresed , blotted , and probed with an anti-human c-Jun or an anti-human Actin antibody .
+Band intensity was measured by a densitometer ( fop ) .
+Values are the mean + SD in triplicate .
+' , P < 0.01 , compared to the values of control oligonucieotide- and C-JUN AS-treated cells by unpaired Student 's t test .
+PMA Serum AS ( - ) AS ( + ) _ AS ( - ) AS ( + ) 0 th 0 h _ _0 th 0 t -526b.p .
+B -actin I I l - # 322b.p .
+Fig .
+6 .
+Effect of c-jun AS oligonucleotides on c-jun mRNA expression .
+Cells treated with or without 10 um of c-jun AS oligonucleotides were exposed to either PMA ( final concentration 160 nm ) or serum ( final concentration 10 % ) .
+Total mRNA was extracted from 1 x 10° cells by a procedure using biotinylated oligo-deoxythymidine and streptavidine paramagnetic particles 1 h after each stimulation .
+RT-PCR was performed using c-jun-specific primer pairs .
+The PCR products were electrophoresed on 1.2 % agarose gel , followed by staining with ethidium bromide .
+without 10 um of c-jun AS oligonucleotides were exposed to either PMA or serum .
+Total cellular RNA was extracted , and RT-PCR was performed using c-jun-specific primer pairs .
+c-jun AS oligonucleotides inhibited the target mRNA expression in both PMA- and serum-stimulated U937 cells , whereas B-actin mRNA expression remained unchanged ( Fig .
+6 ) .
+Effect of c-jun AS Oligonucleotides on PMA-induced Functional Maturation .
+To assess the role of c-jun on U937 cell differentiation , cells initially treated with or without either control or c-jun AS oligonucleotides were exposed to PMA , and the two markers of functional maturation ( cellular adhesion and NBT reduction activity ) were evaluated .
+As shown in Fig .
+7A , cellular adhesion was induced rapidly by PMA , and more than 90 % of the cells became adherent within 24 h and % adhesion u Time ( hrs ) B 100 C 5 `` ® 5 I a 6°-u ' _ 4 m a .
+407 » l 2°-0L ; T T T T T T 0 20 40 60 80 Time ( hrs ) Fig .
+7 .
+Kinetics of PMA-induced functional maturation in U937 cells .
+Cells treated without ( C ) or with 10 um of either control ( @ ) or c-jun AS oligonucleotides [ AS-1 ( ] ) or AS-2 ( A ) ] were induced to differentiate by exposure to 160 nm PMA .
+The percentages of adhesion ( 4 ) and NBT reduction ( B ) in total viable cells were determined at 24 h and 72 h after PMA exposure .
+Values are the mean + SD of triplicate wells .
+' , P < 0.01 , compared to the values of untreated and C-JUN AS-treated cells by unpaired Student 's t test .
+reached a plateau thereafter .
+Pretreatment of c-jun AS oligonucleotides resulted in a significant and marked decrease in PMA-induced cell adhesion , whereas the induction of NBT reduction activity was not affected by c-jun AS oligonucleotides ( Fig .
+78 ) .
+To clarify whether the c-jun AS oligonucleotides selectively suppress PMA-induced cell adhesion , we counted the absolute cell number of NBT-positive or -negative cells in adherent and floating cell fractions separately .
+As shown in Fig .
+8 , neither the number of total viable cells nor the number of NBT-positive cells ( hatched boxes ) was different between untreated- and AS-treated cells ; however , the number of adherent cells ( gray boxes ) was significantly reduced by AS Cell Growth & Differentiation 20 é 15- « i : e V a a # s 0 AS 1 _ AS 2 Fig .
+8 .
+Effect of c-jun AS oligonucleotides on PMA-induced functional maturation in U937 cells .
+Cells treated with or without 10 um of either control or c-jun AS oligonucleotides ( AS-1 or AS-2 ) were induced to differentiate by the exposure to 160 nm PMA .
+Absolute cell number of both adherent ( gray boxes ) and floating ( white boxes ) cells , and NBT positive ( hatched boxes ) and negative ( solid boxes ) cells were counted separately using a hemocytometer at 24 h after PMA exposure .
+Values represent the mean of triplicate determinations .
+untreated control treatment .
+Furthermore , although most NBT-positive cells were found in adherent cell fractions in untreated or control oligonucleotide-treated cells ( hatched boxes were found only in gray box in untreated and control columns ) , a number of NBT-positive cells were found even in the floating cell fractions if the cells had been treated with c-jun AS oligonucleotides ( hatched boxes were found in both gray and white boxes in AS-1 and AS-2 columns ) .
+These data suggest that c-jun AS oligonucleotides suppress only cell adhesion , without exhibiting any effect on NBT reduction activity .
+Discussion The c-jun proto-oncogene is characterized as an IEG and is thought to play a central role in U937 cell differentiation .
+However , most of the previous reports describing the functional link between c-jun expression and U937 cell differentiation are based on the change in c-jun expression level during the induction of differentiation , and few reports show evidence for a correlation between c-jun and cell differentiation .
+Because PMA is known to stimulate c-jun expression ( 13 ) , the answer to the fundamental question of whether c-jun expression is a mainspring or a byproduct during PMA-induced differentiation of U937 cells remains unclear .
+The present study using AS oligonucleotides provided significant insight into this inquiry .
+The results demonstrated that the suppression of c-jun expression inhibited PMA-induced cell adhesion but not PMA-induced NBT reduction activity .
+These findings suggest that the immediate early response of c-jun expression relates to cellular adherence but does not relate to NBT reduction activity during PMA-induced differentiation of U937 cells .
+Two lines of evidence support this conclusion : ( a ) PMA-induced cell adhesion was significantly suppressed at both 24 h and 72 h after stimu- lation , whereas NBT reduction activity was never affected by c-jun AS treatment , although these two markers of differentiation were measured in identical cells of culture ; and ( b ) under normal conditions , NBT reduction activity was usually found in the cells that showed adherent activity .
+After c-jun AS treatment , however , NBT reduction activity was seen even in cells that could not show adherent activity ( Fig .
+7 ) .
+In these cells , the acquisition of cellular adherence was selectively inhibited , whereas NBT reduction activity remained unchanged .
+Although recent AS technologies provide an opportunity to inhibit target gene expression ( 34 ) , one of the most critical steps in oligonucleotide-based AS research is to distinguish sequence-specific activities from sequence-nonspecific ef-fects .
+In this study , in designing specific oligonucleotide sequences , we have conducted extensive analysis for : ( a ) the sequence similarity of oligonucleotides ; ( b ) optimal Tm in intracellular physiological condition ; ( c ) optimal length of oligonucleotides ; ( d ) hybridization sites on the target mRNA ; and ( e ) the possibility of forming a secondary structure of both oligonucieotides and target genes , by using our newly developed computer program ( 32 , 33 ) .
+Through the analysis , we selected 20 different oligonucleotides with a variety of Tms and lengths and identified at least two active oligonucleotides in different areas of the target c-jun ( AS-1 , AUG starting codon ; AS-2 , other coding sequence region ) .
+RT-PCR and Western blot analysis demonstrated that the oligonucleotides revealed significant reduction of c-jun expression at both the mRNA and protein levels but showed unchanged levels of B-actin control .
+In addition , each sequence was carefully analyzed for its sequence similarity/ dissimilarity and hybridizability against other published gene sequences to show sequence specificity .
+Hybridizability is based on the nearest neighbor calculation of the free hybridization energy between the AS sequences and all other published gene sequences in the GenBank primate database .
+Based on these analyses , both oligonucleotides AS-1 and AS-2 were highly specific to c-jun but not to all other published sequences , including the members of the IEG family , such as jun B , jun D , c-fos , fra-1 , fra-2 , and c-myc ( as summarized in Table 2 ) .
+Therefore , the effects of AS-1 and AS-2 are more likely to be involved in c-jun activities but not in simple sequence-nonspecific activity .
+The protein products of c-jun gene dimerize with c-Fos protein , forming the nuclear complex AP-1 ( 1 , 2 ) .
+It has been reported that other members of the Jun/Fos family ( .e. , junB , junD , fosB , fra-1 , and fra-2 ) and the members of ATF/cyclic AMP response element binding protein family such as ATF2 can form homo- or heterodimers that show DNA binding activity ( 35-38 ) , suggesting that after AS inhibition of c-jun expression , these genes might compensate for c-jun gene function by showing transcription activity .
+However , it seems less likely that this would occur in only the process of NBT reduction activity but not in the process of cellular adher-ence .
+In addition , it has also been reported that c-Jun/Fos heterodimers reveal enhanced DNA binding activity compared to other dimers ( 39 ) , implicating that c-Jun/Fos heterodimers could not neutralize c-jun suppression com-pletely .
+Furthermore , the differences in biological response 1009 1010 _ Role of c-jun in Hematopoietic Cell Differentiation Table 2 - Specificity of oligonucleotide sequences Genes Locus Position AG '' Sequence ( sense ) '' AS-1 15.36 - ACTGTTCTATGACTG c-jun HUMJUNA 1253 15.36 - -- -- -- -_-_ -- © jun B HSJUNB 1744 4.63 - TT -- -- T-TTA-T jun D HSJUND 1516 4.63 - TT -- -- G-TTGT c-fos HSCFOS 1173 8.55 - TT -- -- G -- -- T fra-1 HSFRA1M 432 3.61 TGCAGG-GGA -- -fra-2 HSFRAZM 655 2.80 - G- -- AG-GGTGAAA c-mye _ HSMYC1 585 4.94 _ CAG-AA -- -- - -CT AS-2 16.37 - ATGAACCACGTTAAC c-jun -_ HUMJUNA __ 2197 _ 16.37 -- -- -- -- -- -jun B __ HSJUNB 698 - 12.30 -- -- -- - G-CA jun D _ HSJUND 855 7.46 - C-C-G -- -- C -- -c-fos - HSCFOS 279 5.50 - -ACCG -- -A-G-T fra-1 HSFRA1TM bes 5.24 - T -- -- TGAGGC -- fra-2 HSFRAZM 83s 6.08 - TC -- -T -- CTT- c-mye _ HSMYC1 1453 _ 693 -G-TG -- -- CTC-Control 17.33 - CTCATGCCACTICAG c-jun __ HUMJUNA _ 876 _ 8.56 GG-CG -- -- G -- jun B __ HSJUNB 1237 _ 6.36 -ATGAC -- -G -- -jun D _ HSJUND 854 _ 7.48 -CTCA -- -G -- A c-fos _ HSCFOS 2964 _ 8.77 -CAG -- A -- -- -frail __ HSFRATIM |_ 873 _ 715 -AG -- -- CCT -- _ HSFRAZM __ 317 4.37 -CAT -- G -- CA-C-c-myc _ HSMYC1 1452 _ 748 GaG @ -- -G-TC * Calculated maximum AG with nearest neighbor model .
+® Sequences are sense orientation for analysis against GenBank database .
+© - indicates identical nucleotide to that of antisense oligonucleotides .
+between the members of the jun gene family has been reported previously .
+For example , junB and junD differ from c-jun in their ability to induce oncogenic transformation of fibroblasts ( 40-43 ) and in their ability to inhibit steroid hormone receptor ( 44 , 45 ) or muscle differentiation factor ( 46 ) .
+Recently , it was reported that constitutive c-Jun expression induced the acquisition of phagocytic activity but did not develop cellular adherence using c-jun-transfected U937 cells ( 47 ) .
+These results imply that c-Jun expression relates to phagocytic activity but not to cellular adherence during PMA-induced differentiation of U937 cells .
+Although these findings are in contrast to those presented here , the constitutive expression of c-Jun protein may induce additional gene expression followed by some phenotypic modulation , and therefore it is not associated with physiological condition in U937 cells .
+Because c-Jun protein is transiently expressed as an immediate early event only after appropriate stimulation in U937 cells , we think the AS approach , which can selectively inhibit target gene expression , is an appropriate way to examine the distinct role of such an IEG as c-jun .
+Recent studies concerning cell growth and differentiation control have focused on delineating signal transduction pathways , especially the MAP kinase pathway .
+Many receptor tyrosine kinases or cytokine receptors have been shown to activate MAP kinase cascades , which involve the small GTP-binding protein p21 '' * ( 48 , 49 ) .
+The activated Ras protein contributes to the activation of MAPK kinase ( MAPKK , also known as MEK ) , which in turn activates MAP kinases , extracellular signal-regulated kinase , and c-Jun N-terminal kinase .
+Once activated , extracellular signal-regulated kinase and c-Jun N-terminal kinase translocate to the nucleus , where they phosphorylate transcription factors ( f.e. , Elk-1 , c-Jun , and ATF2 ) leading to IEG induction ( 50-52 ) .
+Because MAP kinase activation is associeted with both cell proliferation and differentiation ( 53 ) , the mechanisms that determine whether a stimulus elicits proliferation or differentiation have yet to be elucidated .
+Further experiments modulating the expression of these proliferation/differentiation-related genes as well as examining the composition of AP-1 complex in PMA-stimulated cells will help elucidate the complex signal transduction cascade in hematopoietic cell growth and differentiation .
+Materials and Methods Oligodeoxynucleotides .
+A series of c-jun-specific AS oligonucleotides were designed by a computer program , HYBsimulator '' '' '' ( Advanced Gene Computing Technologies , Irvine , CA ; Refs .
+32 and 33 ) .
+Phosphorothicate-modified oligonucleotides were synthesized by an automated model 380B DNA synthesizer ( Applied Biosystems , Foster City , CA ) , using standard phosphoramidite chemistry .
+For the preparation of phosphorothioate link-ages , the standard oxidation bottle was replaced by tetraethylthiuram disulfide ( Applied Biosystems ) in acetonitrite .
+After cleavage from the column and deprotecting in ammonium hydroxide at 55°C for 10 h , the oligomers were dissolved in water and were purified by two rounds of ethanol precipitation .
+The length and purity of each oligonucleotide was analyzed by a 15 % PAGE , stained with ethidium bromide .
+The purity of full-length material was more than 95 % .
+All oligonucleotides were freshly dissolved in Dulbecco 's PBS ( Hyclone Laboratories , Logan , UT ) for working solution .
+Cells and Culture Condition .
+Human monobiastic cell line U937 was obtained from the American Type Culture Collection ( Rockville , MD ) and was maintained in suspension culture in RPMI 1640 ( Hyclone Laboratories ) supplemented with 10 % FBS ( Hyclone Laboratories ) at 37°C in a humidified atmosphere of 5 % CO ; , /95 % air .
+Passage was performed every 3-4 days and was seeded at an initial concentration of 2 x 10° cells/ml .
+For the treatment of cells with oligonucleotides , after two rounds of passage the cells were washed twice with PBS , were resuspended in 100 l of RPMI 1640 containing 0.5 % FBS , and were seeded in 96-well plates ( Costar Corp. , Cambridge , MA ) at the density of 2500 cells/well .
+Cells were incubated with various concentrations of oligonucleotides for 24 h , and serum was added to reach a final concentration of 10 % .
+Then , culture was continued for an additional 1-3 days .
+For the induction of cellular differentiation , cells were seeded in 24-well plates in 1 ml of 10 % FBS/RPMI 1640 at the cell density of 2 x 10° cells/ml and were incubated with 160 nm PMA ( Sigma Chemical Co. , St. Louis , MO ) .
+PH ] JThymidine Uptake of Cells .
+Celis were pulsed with 0.5 mCi PHJthymidine/well for the final 6 h of culture , then they were harvested onto glass fiber filters ( Cambridge Technology , Watertown , MA ) using a semiautomated PHD model 290 cell harvester ( Cambridge Technology } .
+The amount of incorporated tritium was measured by a liquid scintillation counter ( LS6000 ic ; Beckman Instruments , Fullerton , CA ) .
+Western Blot Analysis .
+Cells were pelleted by centrifugation , were washed twice with ice-cold PBS , and were lysed on ice in 100 Ll of standard radioimmunoprecipitation assay buffer [ 0.15 m NaCl , 50 mm Tris-HCI ( pH8.0 ) , 0.1 % SDS , and 1 % NP4O0 ] containing 100 ug/ml phe-nylmethyisulfonyifluoride and 1 ug/ml !
+each of aprotinin , pepstatin , and leupeptin .
+Lysates were then sonicated briefly to reduce viscosity and were clarified by centrifugation at 10,000 x g for 10 min at 4°C .
+Twenty ug of total protein were electrophoresed on 10 % SDS-polyacrylamide gels and were transferred to nitrocellulose membranes ( Bio-Rad , Hercules , CA ) .
+Membranes were blocked in 3 % gelatin/TBS [ 20 mm Tris-HCI ( pH 7.6 ) and 0.9 % NaCI ] for 10 h at room temperature , then were incubated with rabbit anti-human c-Jun antibody ( Oncogene Science , Uniondale , NY ) diluted 1:10 in 1 % gelatin/TBS for 2 h , followed by goat anti-rabbit 1gG-alkaline-phosphatase conjugate ( Sigma ) diluted 1:10 in 1 % gelatin/ Cell Growth & Differentiation TBS for 1 h. Color development was performed by alkaline-phosphatase conjugate substrate kit ( Bio-Rad ) , according to manufacturer 's instructions .
+RT-PCR .
+Total cellular RNA was extracted from 1 x 10° cells by a procedure using the acid guanidinium thiocyanate-pheno !
+chloroform method .
+Total mRNA was captured by biotinylated oligo-deoxythymidine and was purified by streptavidine paramagnetic particles ( Promega , Mad-ison , WI ) .
+Randomly primed cDNA was prepared from isolated mRNA by Moloney murine leukemia virus reverse transcriptase ( Life Technologies , Inc. , Gaithersburg , MD ) after PCR amplification by thermal cycler ( Perkin Elmer Cetus , Norwalk , CT ) .
+The sequences of the primer pairs used were as follows : c-jun sense primer , 5'-GTGACCGCGACTTTTCAAAGC-3 ' ; AS primer , 5'-CGTTGCGGGACTGGATTATCAG-3 ' ; B-actin sense primer , 5'-CTTCGCGGG CGACGATGC-3 ' ; and AS primer , 5'-CGTACATGGCT-GGGGTGTTG-3 ' .
+PCR amplification was carmied out with 35 cycles for c-jun and 25 cycles for B-actin under the following conditions : denatured at 94°C for 1 min ; annealed at 55°C for 1.5 min ; and extended at 72°C for 4 min .
+The PCR products were electrophoresed on 1.2 % agarose gel followed by staining with ethidium bromide .
+To confirm that amplified DNA was derived from the appropriate cDNA , the PCR products were sub-cloned , and the nucleotide sequences were determined by direct se-quencing .
+Cell Adhesion Assay .
+Floating cells were collected by simple aspira-tion , then were washed three times with 100 Ll of RPMI 1640 .
+The number of viable floating cells was counted by trypan blue dye exclusion , using a hemocytometer .
+Adherent cells were disaggregated by a 15-min incubation with 50 l trypsin-EDTA ( Sigma ) and were harvested thoroughly .
+Large clumps of adherent cells were dispersed by vortex and/or repeated passage through pipette before counting on a hemocytometer .
+Cells in small clumps were counted as separate cells .
+Using the hemocytometer , cells in four comer squares ( total 64 small squares ) were counted , and the number of total cells was calculated .
+The percentage of adhesion was defined as follows : Adherent cells Viable floating cells + adherent cells x 100 % of adhesion = NBT Reduction Assay .
+Cells were incubated with 0.1 % NBT ( Sigma ) for the final 120 min of culture , then the floating and adherent cells were harvested separately and were resuspended in RPMI 1640 .
+Cells were smeared on glass slides and were fixed with ice-cold 1 % paraformalde-hyde , and the percentage of cells containing intracellular blue-black formazon deposits was counted under a microscope for a minimum of 200 cells .
+Acknowledgments We thank David Hyndman for designing AS oligonucleotides ; Steven Disper for synthesis of oligonucleotides ; Drs .
+Shigeo Ouno , Kaoru Miyazaki , and Nachiko Koshikawa for their helpful discussions ; and Drs .
+Norishi Ueda and Takeshi Hayashi for reviewing the manuscript .
+References 1 .
+Bohmann , D. , Bos , T. J. , Admon , A. , Nishimura , T. , Vogt , P. K. , and Tjian , R. Human proto-oncogene c-jun encodes a DNA binding protein with structural and functional properties of transcription factor AP-1 .
+Science ( Washington DC ) , 238 : 1386-1392 , 1987 .
+2 .
+Angel , P. , Allegretto , E. A. , Okino , S. T. , Hattori , K. , Boyle , W. J. , Hunter , T. , and Karin , M. Oncogene jun encodes a sequence-specific trans-activator similar to AP-1 .
+Nature ( Lond .
+) , 332 : 166-171 , 1988 .
+3 .
+Lee , W. , Mitchell , P. , and Tjian , R. Purified transcription factor AP-1 interacts with TPA-inducible enhancer elements .
+Cell , 49 : 741-752 , 1987 .
+4 .
+Angel , P. , Imagawa , M. , Chiu , R. , Stein , B. , Imbra , R. J. , Rahmsdorf , H. J. , Jonat , C. , Herrlich , P. , and Karin , M. Phorbol ester-inducible genes contain a common cis element recognized by a TPA-modulated transacting factor .
+Cell , 49 : 729-739 , 1987 .
+5 .
+Angel , P. , Hattori , K. , Smeal , T. , and Karin , M. 1988 .
+The jun proto-oncogene is positively autoregulated by its product , Jun/AP-1 .
+Cell , 55 : 875-885 , 1988 .
+6 .
+Ryder , K. , and Nathans , D. Induction of proto-oncogene c-jun by serum growth factors .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 85 : 8464-8467 , 1988 .
+7 .
+Ryseck , R. P. , Hirai , S. I. , Yaniv , M. , and Bravo , R. Transcriptional activation of c-jun during the G/G , transition in mouse fibroblasts .
+Nature ( Lond .
+) , 334 : 535-537 , 1988 .
+8 .
+Ryder , K. , Lay , L. F. , and Nathans , D. A gene activated by growth factors is related to the oncogene v-jun .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 85 : 1487-1491 , 1988 .
+9 .
+Quantin , B. , and Breathnach , R. Epidermal growth factor stimulates transcriptional c-jun proto-oncogene in rat fibroblasts .
+Nature ( Lond .
+) , 334 : 538-539 , 1988 .
+10 .
+Brenner , D. A. , O'Hara , M. , Angel , P. , Chojkier , M. , and Krain , M. Prolonged activation of jun and collagenase genes by tumor necrosis factor a .
+Nature ( Lond .
+) , 337 : 661-663 , 1989 .
+11 .
+Wu , B. Y. , Fodor , E. J .
+B. , Edwards , R. H. , and Rutter , W. J. Nerve growth factor induces the proto-oncogene c-jun in PC-12 cells .
+J. Biol .
+Chem. , 264 : 9000-9003 , 1989 .
+12 .
+Pertovaara , L. , Sistonen , L. , Bos , T. J. , Vogt , P. K. , Oja , J. K. , and Alitalo , K. Enhanced jun gene expression is an early genomic response to transforming growth factor B stimulation .
+Mol .
+Cell .
+Biol. , 9 : 1255-1262 , 1989 .
+13 .
+Lamph , W. W. , Wamsley , P. , Sassone-Corsi , P. , and Verma , | .
+M. Induction of proto-oncogene JUN/AP-1 by serum and TPA .
+Nature ( Lond .
+) , 334 : 629-631 , 1988 .
+14 .
+Lau , L. F. , and Nathans , D. Expression of a set of growth-related immediate early genes in BALB/c 3T3 cells coordinate regulation with c-fos or c-myc .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 84 : 1182-1186 , 1987 .
+15 .
+Sheng , M. , and Greenberg , M. E. The regulation and function of c-fos and other immediate earty genes in the nervous system .
+Neuron , 4 : 477-485 , 1990 .
+16 .
+Bravo , R. Genes induced during the G/G , transition in mouse fibroblasts .
+Semin .
+Cancer Biol. , 1 : 37-46 , 1990 .
+17 .
+Herschman , H. R. Primary response genes induced by growth factors and tumor promotors .
+Annu .
+Rev .
+Biochem. , 60 : 281-319 , 1991 .
+18 .
+Holt , J. T. , Gopal , T. V. , Moulton , A. D. , and Nienhuis , A. W. Inducible production of c-fos antisense RNA inhibits 3T3 cell proliferation .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 83 : 4794-4798 , 1986 .
+19 .
+Nishikura , K. , and Murray , J. M. Antisense RNA of proto-oncogene c-fos blocks renewed growth of quiescent 3T3 cells .
+Mol .
+Cell .
+Biol. , 7 : 639-649 , 1987 .
+20 .
+Riabowol , K. T. , Vosatka , R. J. , Ziff , E. B. , Lamb , N. J. , and Feramisco , J. R. Microinjection of fos-specific antibodies blocks DNA synthesis in fibroblast cells .
+Mol .
+Cell .
+Biol. , 8 : 1670-1676 , 1988 .
+21 .
+Prochownik , E. V. , Kukowska , J. , and Rodgers , C. c-myc antisense transcripts accelerate differentiation and inhibit G , progression in murine erythroleukemia cells .
+Mol .
+Cell .
+Biol. , 8 : 3683-3695 , 1988 .
+22 .
+Holt , J. T. , Render , R. L. , and Nienhuis , A. W. An oligomer complementary to c-myc mRNA inhibits proliferation of HL-60 promyelocytic cells and induces differentiation .
+Mol .
+Cell .
+Biol. , 8 : 963-973 , 1988 .
+23 .
+Smith , M. J. , and Prochownik , E. V. Inhibition of c-jun causes reversible proliferative arrest and withdrawal from the cell cycle .
+Blood , 79 : 2107-2115 , 1992 .
+24 .
+Schlingensiepen , K. H. , Schlingensiepen , R. , Kunst , M. , Klinger , 1. , Gerdes , W. , Seifert , W. , and Brysch , W. Opposite function of jun-B and c-jun in growth regulation and neuronal differentiation .
+Dev .
+Genet. , 74 : 305-312 , 1993 .
+25 .
+Sundstrom , C. , and Nilsson , K. Establishment and characterization of a human histocytic lymphoma cell line ( U-937 ) .
+Int .
+J .
+Cancer , 17 ; 565-577 , 1976 .
+26 .
+Gidlund , M. , Om , A. , Pattengale , P. K. , Jansson , M. , Wigzell , H. , and Nilsson , K. Natural killer cells kill tumor cells at a given stage of differentiation .
+Nature ( Lond .
+) , 292 : 848-850 , 1981 .
+27 .
+Harris , P. , and Ralph , P. Human leukemic models of myelomonocytic development : a review of the HL-60 and U937 cell lines .
+J. Leukocyte Biol. , 37 : 407-422 , 1985 .
+28 .
+Szabo , E. , Preis , L. H. , Brown , P. H. , and Birrer , M. J .
+The role of jun and fos gene family members in 12-O-tetradecanoylphorbol-13-acetate-induced hemopoietic differentiation .
+Cell Growth & Differ. , 2 : 475-482 , 1991 .
+1011 1012 - Role of c-jun in Hematopoietic Cell Differentiation 29 .
+Sherman , M. L. , Stone , R. M. , Datta , R. , Bernstein , S. M. , and Kufe , D. W. Transcriptional and post-transcriptional regulation of c-jun expression during monocytic differentiation of human myeloid leukemic cells .
+J. Biol .
+Chem. , 265 : 3320-3323 , 1990 .
+30 .
+William , F. , Wagner , F. , Karin , M. , and Kraft , A. S. Multiple doses of diacylglycerol and calcium ionophore are necessary to activate AP-1 enhancer activity and induce markers of macrophage differentiation .
+J. Biol .
+Chem. , 265 : 18166-18171 , 1990 .
+31 .
+Adunyah , S. E. , Unlap , T. M. , Wagner , F. , and Kraft , A. S. Regulation of c-jun expression and AP-1 enhancer activity by granulocyte-macroph-age colony-stimulating factor .
+J. Biol .
+Chem. , 266 : 5670-5675 , 1991 .
+32 .
+Mitsuhashi , M. , Cooper , A. , Ogura , M. , Shinagawa , T. , Yano , K. , and Hosokawa , T. Oligonucleotides probe design : a new approach .
+Nature ( Lond .
+) , 367 : 759-761 , 1994 .
+33 .
+Hyndman , D. , Cooper , A. , Pruzinsky S. , Coad D. , and Mitsuhashi , M. Software to determine optimal oligonucleotide sequences based on hybridization simulation data .
+Biotechniques , 20 : 1090-1097 , 1996 .
+34 .
+Stein , C. A. , and Cheng , Y. C. Antisense oligonucleotides as therapeutic reagents : is the bullet really magical ?
+Science ( Washington DC ) , 261 : 1004-1012 , 1993 .
+35 .
+Nakabeppu , Y. , Ryder , K. , and Nathans , D. DNA binding activities of three murine jun proteins : stimulation by fos .
+Cell , 55 : 907-915 , 1988 .
+36 .
+Mitchell , P. J. , and Tjian , R. Transcriptional regulation in mammalian cells by sequence-specific DNA binding proteins .
+Science ( Washington DC ) , 245 : 371-378 , 1989 .
+37 .
+Ivashkiv , L. B. , Liou , H. , Kara , C. J. , Lamph , W. W. , Verma , I. M. , and Glimcher , L. H. mXBP/CRE-BP2 and c-jun form a complex which binds to the cyclic AMP , but not to the 12-O-tetradecanoylphorbol-13-acetate , response element .
+Mol .
+Cell .
+Biol. , 10 : 1609-1621 , 1990 .
+38 .
+Hai , T. , and Curran , T. Cross-family dimerization of transcription factors Fos/Jun and ATF/CREB alters DNA binding specificity .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 88 : 3720-3724 , 1991 .
+39 .
+Ryseck , R-P. , and Bravo , R. c-JUN , JUNB , and JUND differ in their binding affinities to AP-1 and CRE consensus sequences : effect of FOS proteins .
+Oncogene , 6 : 533-542 , 1991 .
+40 .
+Chiu , R. , Angel , P. , and Karin , M. Jun-B differs in its biological properties from , and is a negative regulator of , c-jun .
+Cell , 59 : 979-986 , 1989 .
+41 .
+Schiltte , J. , Vialiet , J. , Nau , M. , Segal , S. , Fedorko , J. , and Minna , J. Jun-B inhibits and c-fos stimulates the transforming and trans-activating activities of c-jun .
+Cell , 59 : 987-997 , 1989 .
+42 .
+Castellazi , M. , Spyrou , G. , La Vista , N. , Dangy , J. P. , Piu , F. , Yaniv , M. , and Brun , G. Overexpression of c-jun , junB , or junD affects cell growth differently .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 88 : 8890-8894 , 1991 .
+43 .
+Pfart , C. M. , Mechta , F. , Spyrou , G. , Lallemand , D. , Carillo , S. , and Yaniv , M. Mouse JunD negatively regulates fibroblast growth and antagonizes transformation by ras .
+Cell , 76 : 747-760 , 1994 .
+44 .
+Doucas , V. , Spyrou , G. , and Yaniv , M. Unregulated expression of c-jun or c-fos proteins but not JunD inhibits estrogen receptor activity in human breast cancer derived cells .
+EMBO J. , 10 : 2237-2245 , 1991 .
+45 .
+Berko-Flint , Y. , Levkowitz , G. , and Vardimon , L. Involvement of c-Jun in the control of glucocorticoid receptor transcriptional activity during development of chicken retinal tissue .
+EMBO J. , 13 ; 646-654 , 1994 .
+46 .
+Li , L. , Chambard , J. C. , Karin , M. and Olson , E. N. Fos and Jun repress transcriptional activation by myogenin and MyoD : the amino terminus of Jun can mediate repression .
+Genes Dev. , 6 : 676-689 , 1992 .
+47 .
+Szabo , E. , Preis , L. H. , and Birrer , M. J. Constitutive cJun expression induces partial macrophage differentiation in U-937 cells .
+Cell Growth & Differ. , 5 : 439-446 , 1994 .
+48 .
+Nishida , E. , and Gotoh , Y .
+The MAP kinase cascade is essential for diverse signal transduction pathway .
+Trends Biochem .
+Sci. , 18 : 128-131 , 1993 .
+49 .
+Marshall , C. J. MAP kinase kinase kinase , MAP kinase kinase , and MAP kinase .
+Curr .
+Opin .
+Genet .
+Dev. , 4 : 82-89 , 1994 .
+50 .
+Minden , A. , Lin , A. , McMahon , M. , Lange-Carter , C. , Derijard , B. , Davis , R. J. , Johnson , G. N. , and Karin , M. Differential activation of ERK and JNK mitogen-activated protein kinases by Raf-1 and MEKK .
+Science ( Washington DC ) , 266 : 1719-1723 , 1994 .
+51 .
+Su , B. , Jacinto , E. , Hibi , M. , Kallunki , T. , Karin , M. , and Ben-Neriah , Y. JNK is involved in signal integration during costimulation of T lympho-cytes .
+Cell , 77 : 727-736 , 1994 .
+52 .
+Marshall , C. J. Specificity of receptor tyrosine kinase signaling : transient versus sustained extracellular signal-regulated kinase activation .
+Cell , 80 : 179-185 , 1995 .
+53 .
+Cowley , S. , Paterson , H. , Kemp , P. , and Marshall , C. J. Activation of MAP kinase kinase is necessary and sufficient for PC12 differentiation and for transformation of NIH 3T3 cells .
+Cell , 77 : 841-852 , 1994 .

@@ -1,0 +1,636 @@
+MoLECULAR AND CELLULAR BIOLOGY , Sept. 1998 , p. 4986-4993 0270-7306/98/ $ 04.00+0 Vol .
+18 , No .
+9 Copyright © 1998 , American Society for Microbiology .
+All Rights Reserved .
+The Small GTP-Binding Protein Rho Potentiates AP-1 Transcription in T Cells JIN-HONG CHANG , JOANNE C. PRATT , SANSANA SAWASDIKOSOL , ROSANA KAPELLER , Anp STEVEN J. BURAKOFF* Division of Pediatric Oncology , Dana-Farber Cancer Institute , and Department of Pediatrics , Harvard Medical School , Boston , Massachusetts 02115 Received 1 December 1997/Returned for modification 30 December 1997/Accepted 29 May 1998 The Rho family of small GTP-binding proteins is involved in the regulation of cytoskeletal structure , gene transcription , specific cell fate development , and transformation .
+We demonstrate in this report that overexpression of an activated form of Rho enhances AP-1 activity in Jurkat T cells in the presence of phorbol myristate acetate ( PMA ) , but activated Rho ( V14Rho ) has little or no effect on NFAT , Oct-1 , and NF-KB enhancer element activities under similar conditions .
+Overexpression of a V14Rho construct incapable of membrane localization ( CAAX deleted ) abolishes PMA-induced AP-1 transcriptional activation .
+The effect of Rho on AP-1 is independent of the mitogen-activated protein kinase pathway , as a dominant-negative MEK and a MEK inhibitor ( PD98059 ) did not affect Rho-induced AP-1 activity .
+V14Rho binds strongly to protein kinase Ca ( PKCa ) in vivo ; however , deletion of the CAAX site on V14Rho severely diminished this association .
+Evidence for a role for PKCa as an effector of Rho was obtained by the observation that coexpression of the N-terminal domain of PKCa blocked the effects of activated Rho plus PMA on AP-1 transcriptional activity .
+These data suggest that Rho potentiates AP-1 transcription during T-cell activation .
+The Ras-related Rho family members are involved in thymic development , cell transformation , actin cytoskeletal rearrange-ment , and cell polarity ( 17 , 26 , 35 , 36 , 41 , 47 ) .
+The Rho family is comprised of several related proteins , including Racl , RacZ , RhoA , RhoB , RhoC , Cde42Hs , and TC1O ( 18 , 19 ) , which share structural similarity with Ras .
+These proteins contain intrinsic GTPase activity and bind GTP and GDP in a manner that is regulated by guanine nucleotide exchange factors ( GEFs ) , GTPase-activating proteins ( GAPs ) , and guanine nucleotide dissociation inhibitors ( GDIs ) ( 43 , 46 ) .
+Several GEFs for the Rho family , such as Ost ( 23 ) , Tiam ( 29 ) , and the faciogenital dysplasia gene product ( FGD1 [ 39 ] ) , have been isolated and shown to promote binding of GTP to Rho .
+Ber ( 11 ) , p190 ( 8 , 45 ) , and Cdc42GAP ( 7 ) have been demonstrated to act as GAPs for the Rho family , promoting the conversion of GTP to GDP .
+The importance of Rho family members in cellular activation and growth has been underscored by several recent stud-ies .
+In NIH 3T3 cells , coexpression of oncogenic Ras ( 61L ) with activated Rho ( 63L ) enhances morphological transformation and cell motility .
+Overexpression of dominant-negative ( DN ) mutants of Rac or Rho reduces oncogenic Ras transforming activity , indicating that activation of Rho is required for Ras transformation ( 26 , 40 ) .
+Roles for Rho in gene regulation and cell cycle progression have also been demonstrated .
+Microinjection of activated forms of Rho , Rac , and Cdc42Hs stimulates cell cycle progression and subsequent DNA synthe-sis .
+Serum-induced DNA synthesis and progression through the G , phase can be blocked by microinjection of C3 exoenzyme ( a specific inhibitor of Rho ) or by expression of DN Rac or Cdc42Hs ( 38 ) .
+In addition , thymuses lacking functional Rho isolated from transgenic mice that overexpress C3 exoenzyme are small and show markedly decreased cellularity ( 17 ) .
+Other * Corresponding author .
+Mailing address : Division of Pediatric Oncology , Dana-Farber Cancer Institute , 44 Binney St. , Harvard Medical School , Boston , MA 02115 .
+Phone : ( 617 ) 632-3564 .
+Fax : ( 617 ) 632-4367 .
+E-mail : steven_burakof @ dfci.harvard.edu .
+4986 studies have demonstrated that Rho is required for survival of early pre-T cells and regulates cell cycle progression in late pre-T cells ( 20 ) .
+The mechanism ( s ) by which Rho regulates such diverse cellular processes is not well understood .
+One possibility is that Rho mediates distinct cellular functions through control of transcriptional activation .
+Consistent with this hypothesis , reports have demonstrated that activated Rho regulates c-fos promoter activity by serum response factor ( SRF ) and that this activity can be blocked by the addition of C3 exoenzyme ( 1 , 21 ) .
+Fos interacts with c-Jun and subsequently controls the transcriptional activation of a number of other genes involved in many cell programs .
+Protein kinase C ( PKC ) consists of a family of structurally related serine/threonine kinases that play an important role in cell proliferation , differentiation , and transformation ( 32 , 33 ) .
+PKCs are divided into three major subgroups ( conventional , novel , and atypical ) defined by their structures and their abilities to be regulated by calcium and/or phorbol myristate acetate ( PMA ) .
+Conventional PKCs contain a C-terminal catalytic domain and an N-terminal regulatory domain that is composed of a pseudosubstrate site , a C1 domain that binds diacylglyc-erol ( DAG ) or its analog PMA , and a C2 domain that binds calcium and phospholipid .
+The cellular roles of the different PKC isozymes remain unclear , but accumulated evidence has shown that individual PKC isoforms may play distinct roles in response to various activating stimuli .
+For example , overexpression of PKC enhances the growth rate of NIH 3T3 cells , while overexpression of PKC8 decreases cell growth rate ( 31 ) .
+The important role of PKCs in signal transduction is evident from their substrate specificity , subcellular localization , sensitivity to downregulation via agonist induction and regulation of cell growth and differentiation ( 33 ) .
+Interaction of the T-cell antigen receptor ( TCR ) with antigen in the context of major histocompatibility complex proteins initiates a signal transduction cascade that leads to transcriptional activation , lymphokine production , cell proliferation , and induction of the cell 's effector function .
+In addition to the TCR , other costimulatory surface molecules , such as CD28 , Vou .
+18 , 1998 contribute to T-cell signaling ( 14 ) .
+T-cell activation via anti-TCR and anti-CD28 antibody-mediated costimulation markedly enhances the production of several cytokines , including interleukin 2 ( IL-2 ) , IL-3 , granulocyte-macrophage colony-stimulating factor , and tumor necrosis factor alpha ( 51 ) , and also results in cellular proliferation and functional activation .
+The binding of transcription factors to specific sites within the promoters of these cytokine genes is responsible for their up-regulation .
+A 300-bp IL-2 promoter ( IL-2P ) region upstream of the transcription start site is sufficient to transcriptionally regulate IL-2 expression in response to TCR stimulation ( 42 ) .
+Several transcription factors , such as NFAT , Oct-1 , AP-1 , and NF-kB , have been shown to bind to identified enhancer elements in the IL-2P .
+In lymphocytes , Fos and Jun form a competent transcription factor complex that activates the AP-1 enhancer elements within the promoters for several genes of diverse function , such as granzyme B , CD11c , CD40L , and CD69 genes , as well as the cytokine promoters .
+Thus , it is apparent that regulation of the binding activity of the AP-1 complex is integral to the control of many aspects of immune function , including cytokine production , cytolytic effector function , adhesion , and cell survival and proliferation .
+In this report , we demonstrate that overexpression of activated Rho synergizes with PMA to augment AP-1 transcriptional activity .
+Overexpression of CAAX-deleted activated Rho abolishes the enhancement .
+This effect is not mediated through the mitogen-activated protein kinase ( MAPK ) pathway , as it is not affected by overexpression of DN MEK or by the addition of a MEK inhibitor .
+The plasma membrane-asso-ciated Rho binds to PKCa but does not bind to PKCB , -y , or -g. In addition , expression of the N-terminal regulatory domain of PKCa blocks activated Rho-plus-PMA-enhanced AP-1 transcriptional activation .
+These data suggest that the small GTP-binding protein , Rho , potentiates AP-1 enhancer element activity and may augment AP-1l-containing gene transcription following T-cell activation .
+MATERIALS AND METHODS Reagents .
+Anti-PKCo , -y , and -g and anti-glutathione S-transferase ( GST ) antibodies were purchased from Santa Cruz Biotechnology ( Santa Cruz , Calif. ) .
+Monoclonal antibodies to PKCa and -B were purchased from Transduction Laboratories ( Lexington , Ky. ) .
+Anti-CD28 ( clone 9.3 ) was a gift of C. Thompson ( University of Chicago , Chicago , IIL ) .
+Anti-c-Myc antibody was obtained from the American Type Culture Collection ( Rockville , Md . ) .
+Cyclosporin A was a gift from Sandoz Laboratory ( East Hanover , N.J. ) .
+The PKC inhibitor RO318820 was a gift from Hoffman-La Roche ( Nutley , N.J. ) , and FK506 was a gift from Fujisawa ( Melrose Park , III . ) .
+Rapamycin was kindly provided by J. Johnson ( National Institutes of Health , Bethesda , Md . ) .
+Ionomycin and PMA were purchased from Calbiochem ( San Diego , Calif. ) .
+Glutathione-Sepharose beads were purchased from Pharmacia Biotechnology ( Piscataway , N.J. ) .
+Wortmannin was purchased from Sigma ( St. Louis , Mo . ) .
+The MEK inhibitor PD98059 was purchased from New England Biolabs ( Beverly , Mass . ) .
+A luciferase assay kit was purchased from Analytical Luminescence Laboratory ( Ann Arbor , Mich. ) .
+Cells .
+Jurkat cells ( clone J77 ) were cultured at 37°C in RPMI 1640 medium containing 10 % ( vol/vol ) heat-inactivated fetal calf serum , 100 pg of streptomycin per ml , 100 U of penicillin per ml , and 2 mM 1-glutamine .
+Molecular constructs .
+cDNAs encoding human RhoA , Cdc42 , and Rac were generously provided by Alan Hall ( MRC Laboratory for Molecular Cell Biology , University College London , London , England ) .
+V14Rho , N19Rho , and V14Rho-ACAAX were generated via oligonucleotide-directed mutagenesis from human RhoA , and V12Ras was generated from H-Ras ( provided by J. Settleman , Harvard Medical School , Boston , Mass . )
+by the Teg PCR method .
+The PCR products were subcloned into the pEBG vector ( provided by B. Mayer , Harvard Medical School ) , which generated a GST fusion protein under the control of the human elongation factor 1 promoter .
+A human IL-2P luciferase construct , containing 400 bp upstream of the initiation of transcription site , was a gift from T. Williams ( University of New Mexico , Albuquerque ) .
+A construct encoding a DN MEK , in which Ser 221 was mutated to Ala , was provided by Sally Cowley ( Institute of Cancer Research , London , England ) and subcloned into the pEBG vector ( GST-MEKS221A ) .
+Wild-type ( wt ) and kinase-defective forms of bovine PKCa ( provided by A. Altman , La Jolla Institute for Allergy and Immunology , La Jolla , Calif. ) were tagged at the N terminus with amino acids MEQKLISE Rho REGULATES AP-1 TRANSCRIPTIONAL ACTIVATION - 4987 EDL of c-Myc and expressed under the control of the human elongation factor 1 promoter ( pEBB ) .
+The N-terminal regulatory domain ( residues 1 to 300 ) of bovine PKCa ( N-PKCa ) was subcloned into pEBB .
+The minimal IL-2 TATA box luciferase construct [ pGL2 ( mini-IL-2 ) ] was generated by annealing synthesized complementary oligonucleotide strands that were subsequently cloned into the Bgill and HindIII sites of the pGL2 vector .
+All individual IL-2 enhancer element reporter constructs were generated by the method described above but were cloned into the and Bg/II sites of pGL2 ( mini-IL-2 ) .
+Transient transfection assays .
+Jurkat T cells ( 10 ' ) were suspended in 500 pl of RPMI 1640 medium containing 10 % heat-inactivated fetal calf serum and elec-troporated at 800 F and 250 V in a BRL electroporator .
+All cells were transfected with 2 pg of pRSV-Bgal and IL-2P luciferase constructs in addition to 20 g of the experimental construct .
+The transfected cells were grown for 15 h , and aliquots of cells ( 5 X 10° ) were either untreated or treated with inhibitors or stimulators as indicated in the figure legends .
+Cells were washed once with Tris-buffered saline and lysed .
+Luciferase activities were determined with a luminom-eter and normalized on the basis of B-galactosidase expression and/or the level of transfected GST fusion proteins .
+Data are expressed as fold IL-2P-driven luciferase activation , which was determined by dividing luciferase activity of experimental conditions by the activity obtained in unstimulated cells transfected with vector .
+Individual experiments were performed at least twice , and cach experiment was done in duplicate .
+Subcellular fractionation .
+Cytosolic and membrane fractions were prepared from Rho- and Rho mutant-expressing cells .
+Cells were washed once with Tris-buffered saline and resuspended in hypotonic solution ( 20 mM HEPES [ pH 7.0 ] , 10 mM KCI , 2 mM MgC ) ; , protease and phosphatase inhibitors ) for 15 min on ice .
+The cells were homogenized by 20 strokes in a tight-fitting Dounce homog-enizer ( type A ) , and nuclei were sedimented at 1,500 x g for 5 min .
+The supernatant was resedimented at 100,000 x g for 30 min .
+The supernatant was designated the cytosol , and the pellet was designated the membrane fraction .
+The washed pellets were resuspended in lysis buffer containing 1 % Nonidet P-40 , 50 mM Tris ( pH 8 ) , 150 mM NaCl , 50 ug of phenylmethylsulfonyl fluoride per ml , 5 ug of leupeptin per ml , 5 pg of aprotinin per ml , and 1 mM sodium vanadate and incubated for 15 min on ice .
+Insoluble material was removed by centrifugation .
+Immunoblotting ( Western ) analysis .
+Cells ( 10 '' ) were lysed for 15 min on ice in 500 pul of lysis buffer .
+Lysates were clarified by centrifugation at 4°C for 15 min at 13,000 X g. Lysates were precleared by protein A-Sepharose or glutathione-Sepharose beads and subjected to immunoprecipitation with the indicated antibodies .
+The immunocomplexes were further characterized by sodium dodecyl sulfate-polyacrylamide gel electrophoresis , transferred onto Immobilon mem-branes , and immunoblotted with antibodies as indicated .
+The expression of exogenous wt and mutated forms of Rho and Ras proteins was determined by Western blot analysis using anti-GST antibodies .
+RESULTS Small GTP-binding proteins potentiate AP-1 transcriptional activation following PMA stimulation .
+Most cytokine genes contain several transcriptional elements in the promoter region that exert tight control of gene transcription following stimulation .
+Regulation of the IL-2P is the most extensively studied model of cytokine transcriptional regulation .
+The minimal IL-2P contains several regulatory elements , including a TATA box and AP-1 , Oct-1 , NFAT , NF- « B , and CD28 response element ( CD28RE ) binding sites ( 5 , 34 ) .
+The DNA binding activity of the transcription factors is controlled by distinct regulatory proteins .
+For example , NFAT binding is regulated by calcineurin , NF-kB binding is regulated by IB , and AP-1 protein binding is regulated by PKC ( 13 , 48 ) .
+The inhibition of Rho has been shown to affect T-cell functions ( 17 ) , and Rho in nonlymphoid cells regulates transcription of c-fos .
+To address the effect of Rho on transcriptional activation in lymphoid cells , luciferase reporter constructs that contain the IL-2P TATA box region and/or a combination of three or five repeats of individual IL-2P elements ( AP-1 , Oct-1 , NFAT , NF-kB , and CD28RE ) were generated as listed in Table 1 .
+These reporter constructs , in combination with vector ( pEBG ) or pEBG-V14rho , were transiently transfected into Jurkat T cells .
+Transfected cells were left untreated or stimulated with 10 ng of PMA per ml .
+In cells transfected with vector alone , PMA induced minimal transcriptional activity of each IL-2 enhancer element .
+In cells that overexpress activated Rho , the basal transcriptional activity of each enhancer element was increased three- to fivefold compared to vector-transfected 4988 CHANG ET AL .
+TABLE 1 .
+IL-2 enhancer element reporter constructs Location relative Construct Sequence to initiation site pGL2 ( Oct-1 } ) ( atgtaaaac ) , -90 to -81 pGL2 ( Oct-1/AP-1 ) ( tgtgtaattatgtaaac ) , -99 to -81 pGL2 ( -140 AP-1 ) ( ccaaagagtca ) , -147 to -136 pGL2 ( CD28RE ) ( agaaattcca ) s -162 to -154 pGL2 ( CD28RE/AP-1 ) - ( agaaattccaaagagtcatcag ) , - -162 to -142 pGL2 ( NFAT ) ( gaggaaaaac ) ; , -288 to -278 pGL2 ( NFAT/AP-1 ) ( gaggaaaaactgtttcata ) , -288 to -268 pGL2 ( NF- « B ) ( eggatttcacc ) , -207 to -197 pGL2 ( mini-IL-2 ) gcagttaacagtataaattgcatct - -40 to +6 cttgttcaagagttcectatcactc cells ( Fig .
+1A ) .
+The transcriptional activity of the AP-1 ( -140 region ) element ( -140 AP-1 ) was potentiated 20- to 30-fold following PMA stimulation in V14Rho-transfected cells .
+The transcriptional activity of each of the remaining enhancer elements increased approximately 5- to 10-fold in the presence of PMA in V14Rho-transfected cells compared to vector-transfected cells .
+Therefore , it appears that V14Rho has a potent effect on the -140 AP-1 enhancer element within the IL-2P .
+Rho family members have distinct functions in cytoskeletal rearrangement ( 35 ) .
+Rho regulates stress fiber formation , Rac regulates lamellipodia , and Cdc42 triggers the formation of filopodia .
+To address if Cdc42 and Rac are also involved in AP-1 transcriptional activation , pEBG-V12rac and pEBG-V12edc42 were cotransfected with pGL2 ( -140 AP-1 ) into Jurkat T cells .
+As shown in Fig .
+1B , the transcriptional activity of -140 AP-1 was potentiated 20-fold in the presence of PMA in pEBG-V12ecdc42-transfected cells and about 10-fold in pEBG-V12rac-transfected cells .
+Rho associates with PKCa .
+Pkclp has been shown to associate with Rholp and to act as its downstream target in Sec-charomyces cerevisiae ( 37 ) .
+Given the marked effect of V14Rho on the AP-1 enhancer element , we set out to investigate the possibility that Rho associates with PKC family members in T cells .
+Western blot analysis of precipitated proteins that associated with GST-V14Rho , using antibodies specific for PKCa , -B , -y , and -£ , revealed that only PKCa , not PKCB , -y , or -g , associated with activated GST -Rho ( Fig .
+2A ) .
+The anti-PKCa antibodies did not cross-react with PKN , a PKC-like serine/ threonine kinase ( data not shown ) ( 4 ) .
+Equal amounts of GST fusion proteins were expressed ( Fig .
+2B ) .
+To further characterize this association , cells were transiently transfected with vector or V14Rho and subjected to subcellular fractionation .
+As shown in Fig .
+2C , PKCa constitutively associated with V14Rho in the membrane fraction only ; however , V14Rho was equally distributed in the membrane and cytosolic fractions .
+In contrast , GST was found only in the cytosol ( Fig .
+2D ) .
+To investigate the structural requirement of Rho for its association with PKCa in Jurkat T cells , we transiently overexpressed activated V14Rho , wt Rho , DN N19Rho , and V14Rho-ACAAX ( a Rho construct that lacks four amino acids necessary for membrane localization ) .
+As shown in Fig .
+2E , PKCa associated strongly with V14Rho , to a lesser extent with wt Rho , and N19Rho , and only weakly with V14Rho-ACAAX .
+Equal amounts of GST fusion proteins were expressed ( Fig .
+2F ) .
+I ) £ﬂ'ector domains and localization of V14Rho to the membrane are required for the potentiation of AP-1 transcriptional activity .
+The crystal structures of Ras-RasGAP and Rho-RhoGAP complexes have been solved , and their effector domains have been determined ( 44 ) .
+Amino acids 10 to 16 of Ras Mor .
+CELL .
+BioL .
+307 207 Relative luciferase activation 107 o NME PMA ( 10 ng/ml ) - 4 -4 -4 -4 -4 -4 - % -o- > bead OuiptA sasd owpLA saad ouipLA sad ouiplA baad OwpIA 1 saad owpLA } sagd ouiplA 25 20 Fold ( ~140 } AP1 luciferase activation o PMA ( 1Ong/iml ) -- + 0 -~ + 0-0 +00 - O+ pEBG V12CDC42 V1i2Rac V14Rho FIG .
+1 .
+V1i4Rho-plus-PMA enhancement of AP-1 transcriptional activity .
+( A ) Jurkat cells were transiently cotransfected with 20 pg of pEBG ( vector ) or pEBG-V1i4rho , 2 ug of IL-2P luciferase reporter gene or enhancer element reporter construct , and 2 pg of pRSV-Bgal .
+After 15 h , cells were stimulated with PMA for 7 h , and AP-1-driven luciferase activity was determined as described in Materials and Methods .
+pRSV-fBgal activity was determined to normalize transfection efficiency .
+( B ) Jurkat cells were transiently cotransfected with pEBG ( vector control ) , pEBG-V14rho , pEBG-V12ede42 , or pEBG-V12rac with 10 ug of pGL2 ( -140 AP-1 ) luciferase reporter construct .
+AP-1-driven luciferase activities were determined .
+Vou .
+18 , 1998 A Anti-PKC immunoblot PKCa __ PKCB __ PKCy PKCe B Anti-GST immunoblot GST-V1i4Rho + < ld « - » , a » GST > |a » `` ome as < am C Anti-PKCo .
+immunoblot E Anti- PKCo : immunoblot c m c m ree - [ -- = @ > ] PKC } t I : 1 2 3 4 5 1 2 3 4 F Anti-GST immunoblot D Anti-GST immunoblot GST-V14Rho | a « « Gstth -| as GST -~ | « aap GST + - Jame 1 2 3 4 5 6 , % > .
+oo tp my Bp A , °C h % 1 203 4 `` a ** , FIG .
+2 .
+Activated Rho and membrane-targeted Rho preferentially associate with PKCa .
+( A ) Jurkat cells were transfected with 20 pg of pEBG ( lanes 1 , 3 , 5 , and 7 ) or V14Rho ( lanes 2 , 4 , 6 , and 8 ) for 15 h. Cells ( 5 x 10° ) were lysed , precipitated with glutathione-Sepharose beads , and immunoblotted with anti-PKC antibodies ( A ) and anti-GST antibody ( B ) .
+( C ) Jurkat cells were transiently transfected with pEBG ( lanes 1 and 2 ) or V14Rho ( lanes 3 and 4 ) for 15 h. Cells ( 7 X 10° ) were lysed in hypotonic solution and fractionated as described in Materials and Methods .
+Proteins that precipitated with glutathione-Sepharose beads were immunoblotted with anti-PKCa antibody ( C ) and anti-GST antibody ( D ) .
+C , cytosol fraction ; M , membrane particulate fraction .
+( E ) Jurkat cells were transiently transfected with 20 mg of pEBG , wt Rho , V1i4Rho , N19Rho , or V14Rho-ACAAX for 15 h. Transfected cells ( 5 X 10° ) were lysed , and glutathi-one bead-precipitated proteins were immunoblotted with anti-PKC « antibody ( E ) and anti-GST antibody ( F ) .
+are important for phosphate binding , and residues 35 to 40 of Ras are required for effector binding .
+To address whether the effector domain of Rho regulates the activated-Rho enhanced AP-1 transcriptional activity , pEBG-V38T/V1l4rho , pEBG-F39Y/V14rho , pEBG-E40I/V14rho , pEBG-N41I/V14rho , or pEBG-T37A/E40I/V14rho was cotransfected with pGL2 ( -140 AP-1 ) into Jurkat T cells .
+As shown in Fig .
+3A , mutation of residue 39 , 40 , or 37 and 40 of Rho abolished activated-Rho-enhanced AP-1 transcriptional activity following PMA stimulation .
+However , mutation of residue 38 or 41 had no effect on activated-Rho-enhanced AP-1 transcriptional activity .
+The levels of expression of GST-Rho fusion proteins of these mutants are shown in Fig .
+3B .
+The N termini of small GTP-binding proteins are important for GTPase activity and effector functions .
+Moreover , the C termini of the members of the GTP-binding family of proteins possess posttranslational modification sites for carboxylation , prenylation , or geranylgeranylation ( 12 , 53 , 54 ) .
+Posttranslational modifications are required for targeting the small G proteins to the proper membrane location .
+As shown in Fig .
+2C and E , membrane-bound V14Rho strongly associated with PKCa ; removal of the membrane-targeting signal of V14Rho diminished its association with PKCa .
+To address if membrane targeting of V14Rho is required for its enhancement of AP-1 transcriptional activity , V14Rho-ACAAX was transiently co Rho REGULATES AP-1 TRANSCRIPTIONAL ACTIVATION - 4989 transfected with the pGL2 ( -140 AP-1 ) luciferase reporter construct .
+As shown in Fig .
+3C , overexpression of V14Rho-ACAAX did not enhance basal or PMA-stimulated AP-1 transcriptional activity .
+In addition , expression of N19Rho did not potentiate AP-1 transcriptional activity ( data not shown ) .
+V14Rho-enhanced AP-1 transcriptional activity is independent of the MEK pathway .
+The AP-1 complex is comprised of the transcription factors Fos and Jun .
+Since JunB DNA binding activity is regulated by Ras , we addressed the possibility that activated Ras can also enhance AP-1 transcriptional activity ( 9 , 10 , 52 ) .
+pEBG-V12ras and pGL2 ( -140 AP-1 ) luciferase constructs were transfected into Jurkat T cells and stimulated with PMA .
+The AP-1 transcriptional activity in cells transfected with V12Ras was similar to that seen in vector-transfected cells following PMA stimulation ( Fig .
+4 , left ) .
+The Ras-MEK-MAPK pathway links a number of cell surface receptors to nuclear events .
+To address the involvement of MAPK in V14Rho-enhanced AP-1 transcriptional activity , DN MEK and a MEK inhibitor were used in the assay .
+The pGL2 ( -140 AP-1 ) luciferase reporter construct was cotransfected with pEBG or V14Rho in the presence or absence of pEBG-DN-MEK into Jurkat T cells .
+Transfected cells were left untreated or stimulated with PMA , and luciferase activities were determined .
+As shown in Fig .
+4 ( right ) , DN MEK did not affect V14Rho-enhanced AP-1 transcriptional activation , while it partially blocked the PMA enhancement of AP-1 transcriptional activity .
+To confirm these findings , vector- and V14Rho-transfected cells were treated with 50 um MEK inhibitor ( PD98059 ) for 30 min prior to PMA stimulation .
+As shown in Fig .
+4 ( right ) , the MEK inhibitor did not affect V14Rho-enhanced AP-1 transcriptional activation .
+However , the MEK inhibitor partially blocked the PMA-enhanced AP-1 transcriptional activity in vector- or V14Rho-transfected cells .
+Two possible interpretations of these results are ( i ) the MEK inhibitor blocked only the PMA-dependent enhancement of AP-1 transcription and ( ii ) the synergy seen with V14Rho plus PMA partially recruits the MEK pathway .
+N-PKCa blocks activated-Rho-enhanced AP-1 transcriptional activity .
+Our observation that PKCa physically associated with Rho in the membrane fraction of cells suggested a role for this interaction in the Rho-induced regulation of AP-1 activity .
+This observation is consistent with a previous report that Rholp binds the N-terminal regulatory domain of Pkelp in S. cerevisiae .
+To determine whether PKCa plays a role in activated-Rho-enhanced AP-1 transcriptional activation , Myc-tagged wt PKCa and pGL2 ( -140 AP-1 ) were cotransfected into Jurkat T cells .
+As shown in Fig .
+5A , coexpression of PKCa and V14Rho enhanced AP-1 transcriptional activity following PMA stimulation .
+To further address if Rho binding to PKCa affects V14Rho-mediated AP-1 transcriptional activity , a construct encoding c-Myc-tagged N-terminal regulatory domain of PKCa was coexpressed with activated Rho in Jurkat T cells .
+Overexpression of N-PKCa blocked the basal- and activated-Rho-plus-PMA-enhanced AP-1 transcriptional activity ( Fig .
+5B ) , supporting a role for this kinase in mediating the downstream effects of Rho .
+Equal amounts of GST-V14Rho were expressed in these transfections ( Fig .
+5C ) .
+N-PKCa that associated with GST-V14Rho was detected by anti-c-Myc antibody ( 9E10 ) immunoblotting ( Fig .
+5D ) .
+DISCUSSION Regulation of AP-1 transcriptional activity .
+Rho plays a critical role in numerous biological processes of diverse cell types .
+In lymphocytes , Rho has been proposed to play a role in lymphocyte motility and adhesion ( 28 , 50 ) , thymic develop 4990 CHANG ET AL .
+30 -I 20 Fold AP-1 ( -140 ) luciferase activation Mor .
+CELL .
+BioL .
+B Anti-GST immunoblot GST-Rho - » as 9 *~ .
+'- ast - » | « ® Co- as 20 7 Fold ( -140 ) AP-1 luciferase activation 0 PMA ( 1Ong/mi ) | - 4 0 - $ 0 - + pEBG - VidRho - V14Rho -ACAAX FIG .
+3 .
+An intact effector domain and membrane targeting of V14Rho are required for the enhancement of AP-1 transcriptional activation .
+Jurkat cells were transfected with 10 pg of pEBG , V14Rho , V38T/V14Rho , F39Y/V14Rho , E40I/V14Rho , N41I/V14Rho , T37A/E40I/V14Rho ( A and B ) or V14Rho-ACAAX ( C ) , and approximately 10 ug of AP-1 enhancer element reporter construct .
+Cells were left unstimulated or stimulated with PMA ( 10 ng/m ! )
+for 7 h , and AP-1 enhancer clement-driven luciferase activity was determined .
+ment ( 17 , 20 ) , and cell survival and cytolytic function ( 27 ) .
+Although many recent studies have focused on the role and regulation of Rho in lymphocytes , little is understood about the effector mechanisms elicited by Rho that lead to these terminal events .
+We have conducted studies to delineate downstream effectors of Rho in T cells .
+We have found a striking effect of V14Rho on AP-1 transcriptional activity .
+This result is consistent with a pivotal role for Rho in lymphocyte signaling , as it is well established that AP-1 is critically involved in T-cell activation .
+In lymphocytes , the AP-1 enhancer element is found in the promoters of genes that encode proteins involved in the immune functions for which Rho has also been impli-cated , as described above .
+The AP-1 enhancer element binds transcription factors of the Fos and Jun families that have formed homodimers or heterodimers prior to binding .
+At least four Fos family members ( c-Fos , FosB , Fra-1 , and Fra-2 ) and four Jun family members ( v-Jun , c-Jun , JunB , and JunD ) have been identified .
+The binding of Fos and Jun to the AP-1 transcription element of the IL-2P has been characterized .
+Mutation of the -140 AP-1 enhancer element ablates PMA- and TCR-enhanced AP-1 transcriptional activity .
+Our data show that Rho enhanced -140 AP-1 transcriptional activity , suggesting that activated Rho may activate transcription factors of the Fos and Jun families .
+These data are in agreement with those of others ( 21 ) , which demonstrated that activated Rho enhanced c-fos transcriptional activity .
+The transcription of c-fos is regulated through ternary complex factor ( TCF ) and SRF .
+Binding of TCF and SRF to the serum response element ( SRE ) coordinately enhances c-fos transcriptional activation .
+Mutational analysis of the c-fos promoter revealed that transcription of c-fos can be activated by SRF in the absence of TCF activation .
+SRF is activated through a Rho-dependent pathway .
+Further studies have shown that PMA enhanced SRF phosphorylation and TCF binding to SRE .
+These findings are consistent with our results that PMA and activated Rho synergize to enhance AP-1 transcriptional activation .
+Association of PKCa with Rho .
+To determine potential upstream regulators of the effect of Rho on AP-1 transcriptional activation , we have dissected kinase pathways critical in T-cell signaling .
+We found that the kinase activities of Erk , JNK , and p38 MAPKs were unaffected by coexpression of V14Rho in Jurkat cells ( data not shown ) , consistent with previously published findings in other labs ( 21 , 30 ) .
+Furthermore , the inability of DN MEK or a MEK inhibitor to block the Rho-mediated AP-1 transcriptional activity suggested that MAPK is not in Vou .
+18 , 1998 Rho REGULATES AP-1 TRANSCRIPTIONAL ACTIVATION - 4991 40 20 30 7 20 Fold ( -140 ) AP-1 luciferase activation Fold ( -140 ) AP-1 luciferase activation 0 0- PMA ( 10 ng/ml ) - L p L2 p coop o- go- £ PMA ( 10ng/m ! )
+=o doo o= oB o= o Mek Inh ( 50 uM ) +o+ + pEBG __ V1i2Ras - VidRho DN Mek ( 10 ug ) + + +o + > pEBG V14Rho FIG .
+4 .
+V12Ras does not enhance AP-1 transcriptional activation , and DN MEK or MEK inhibitor does not block activated Rho-enhanced AP-1 transcriptional activation .
+Jurkat cells were cotransfected with 10 pg of pEBG , 10 pg of pEBG-V12ras , 10 pg of DN MEK , and 10 pg of V14Rho , alone or in combination as indicated , in addition to 2 ug of reporter constructs .
+Cells were left unstimulated or stimulated with PMA ( 10 ng/m ! ) .
+To assay the effect of MEK inhibitor on V14Rho-enhanced AP-1 transcriptional activation , MEK inhibitor was added 30 min prior to the addition of PMA .
+AP-1-driven luciferase activity was determined .
+volved in this pathway ( Fig .
+4 , right ) .
+However , DN MEK and A series of experiments demonstrated that members of the the MEK inhibitor could partially block the V14Rho-plus- PKC family play a critical role in T cell-activation .
+Binding PMA-enhanced AP-1 transcriptional activation , suggesting of DAG or the DAG analog PMA to PKCs and targeting of that DN MEK and the MEK inhibitor specifically inhibited the PKC 's to the membrane stimulate PKC kinase activity ( 2 ) .
+Stud-PMA-induced MAPK activation that leads to AP-1 induction .
+ies have demonstrated that the small GTP-binding protein , 20 Fold AP1 ( -140 ) luciferase activation Fold ( 140 ) AP-1 luciferase activation a j PMA ( 1O0ng/ml ) - _+ ~ o + - + - __+ pEBG _ VidRho - pEBG+ VidRho+ o | .
+wiPKCa - wiPKCo : PMA ( 10 ng/ml ) oce pEBG+ VidRho V14Rho+ N-PKCo : N-PKCo : C. Anti-GST immunoblot 1 2 D Anti-c-Myc immunoblot c-Myc epitope _ , , [ Z ] tagged N-PKCa 1 2 FIG .
+5 .
+Coexpression of wt PKCa augments V1i4Rho-enhanced AP-1 transcriptional activity , while coexpression of N-PKCa blocks activated-Rho-plus-PMA-enhanced AP-1 transcriptional activity .
+Jurkat cells were cotransfected with 10 ug of reporter construct and 10 ug of V14Rho and/or pEBB-wt PKCa ( A ) or 10 ug of V14Rho plus 10 g of pEBB or a construct encoding N-PKCa « ( B ) .
+Cells were left unstimulated or stimulated with PMA ( 10 ng/m ! )
+for 7 h. AP-1 luciferase activity was determined .
+( C and D ) V14Rho ( lane 1 ) - and N-PKCa construct ( lane 2 ) -transfected cells ( 5 X 10° ) were lysed , immunoprecipitated with glutathione-Sepharose beads , and immunoblotted with anti-GST ( C ) and anti-c-Myc ( 9E10 ) ( D ) antibodies .
+4992 CHANG ET AL .
+Rholp , binds to the N-terminal pseudosubstrate and C1 domains of Pkelp and activates its kinase activity ( 25 ) in S. cerevisiae ( 37 ) .
+More recently , activated Rho has been demonstrated to associate with PKN ( 4 ) , ( 15 ) , and Rho kinase ( 3 ) ; however , the roles of these associations in Rho-dependent function remain to be determined .
+In studies reported here , we have shown that Rho associates with PKCa in vivo and that membrane association and residues within the effector domain of Rho are required for maximal enhancement of AP-1 transcriptional activity .
+The observations that coexpression of activated Rho and wt PKCa enhanced AP-1 transcriptional activity and N-PKCa inhibited Rho signaling underscore the importance of the association of these proteins and support a role for PKCa in vivo .
+A previous report ( 6 ) described an effect of PKCO on AP-1 transcriptional activation .
+In that study , the authors were unable to detect an effect of PKCa on AP-1 transcriptional activation in assays using an AP-1 sequence derived from the collagenase promoter .
+We observed that the AP-1 site derived from the -140 region of the IL-2P was responsive to activated Rho , while other enhancer elements containing AP-1 sites were unaffected , indicating a high level of discrimination in the downstream effects elicited by activated Rho .
+Roles for several other members of the PKC family , including PKC , PKC { , PKCn , and PKCA ( 22 , 24 , 49 ) , in transcriptional activation have also been described .
+The association of PKCa with Rho and their mutual involvement in AP-1 transcriptional activation provides one link in the elucidation of the signal transduction machinery that regulates nuclear events .
+It remains to be determined if the association between PKCa and Rho is direct or indirect .
+In our preliminary studies , we have been unable to detect a direct physical interaction between these two proteins by far-Western analysis ( data not shown ) , suggesting that the association requires the cooperative interaction with other molecules or the native conformation of PKCa .
+There are many unanswered questions as to the immediate biochemical effects that this interaction in-duces .
+For example , does overexpression of activated Rho regulate the kinase activity of PKCa ?
+Since we were able to detect this association only in the membrane fraction of cells , it seems likely that the PKCa complexed with Rho is in an activated state , as previous studies have indicated that translocation of PKCa to the membrane correlates with its activation ( 16 , 48 ) .
+Alternatively , could PKCa modulate Rho activity in the cell through direct phosphorylation or indirectly by phosphorylation of a GEF , GDI , GAP , or other intermediate molecule ?
+Identification of the specific gene ( s ) regulated by this mode of AP-1 activation will indicate which aspect ( s ) of immune function is dependent on this interaction and its downstream ef-fects .
+ACKNOWLEDGMENTS This work was supported by National Institutes of Health grant Al-17258 to S.J.B .
+J.C.P .
+is supported by an NRSA fellowship from the National Institutes of Health , and S.S. is supported by a fellowship from the Cancer Research Institute .
+REFERENCES 1 .
+Alberts , A. S. , O. Geneste , and R. Treisman .
+1998 .
+Activation of SRF-regulated chromosomal templates by Rho-family GTPases requires a signal that also induces H4 hyperacetylation .
+Cell 92:475-487 .
+2 .
+Altman , A. , M. I. Mally , and N. Isakov .
+1992 .
+Phorbol ester synergizes with Ca2+ ionophore in activation of protein kinase C ( PKC ) alpha and PKC beta isoenzymes in human T cells and in induction of related cellular functions .
+Immunology 76:465-471 .
+3 .
+Amano , M. , K. Chibara , K. Kimura , Y. Fukata , N. Nakamura , Y. Matsuura , and K. Kaibuchi .
+1997 .
+Formation of actin stress fibers and focal adhesions enhanced by Rho-kinase .
+Science 275:1308-1311 .
+4 .
+Amano , M. , H. Mukai , Y. Ono , K. Chibara , T. Matsui , Y. Hamajima , K. 10 .
+11 .
+12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+26 .
+27 .
+28 .
+Mor .
+CELL .
+BioL .
+Okawa , A. Iwamatsu , and K. Kaibuchi .
+1996 .
+Identification of a putative target for Rho as the serine-threonine kinase protein kinase N. Science 271 : 648-650. .
+Aramburu , J. , L. Azzoni , A. Rao , and B. Perussia .
+1995 .
+Activation and expression of the nuclear factors of activated T cells , NFATp and NFATc , in human natural killer cells : regulation upon CD16 ligand binding .
+J. Exp .
+Med .
+182:801-810. .
+Baier-Bitterlich , G. , F. Uberall , B. Bauer , F. Fresser , H. Wachter , H. Gru- nicke , G. Utermann , A. Altman , and G. Baier .
+1996 .
+Protein kinase C-theta isoenzyme selective stimulation of the transcription factor complex AP-1 in T lymphocytes .
+Mol .
+Cell .
+Biol .
+16:1842-1850. .
+Barfod , E. T. , Y. Zheng , W. J. Kuang , M. J. Hart , T. Evans , R. A. Cerione , and A. Ashkenazi .
+1993 .
+Cloning and expression of a human CDC42 GTPase-activating protein reveals a functional SH3-binding domain .
+J. Biol .
+Chem .
+268:26059-26062. .
+Chang , J. H. , S. Gill , J. Settleman , and S. J. Parsons .
+1995. c-Src regulates the simultancous rearrangement of actin cytoskeleton , p190RhoGAP , and p120RasGAP following epidermal growth factor stimulation .
+J .
+Cell Biol .
+130:355-368. .
+Chauhan , D. , S. M. Kharbanda , E. Rubin , B .
+A. Barut , A. Mohrbacher , D. W. Kufe , and K. C. Anderson .
+1993 .
+Regulation of c-jun gene expression in human T lymphocytes .
+Blood 81:1540-1548 .
+D'Ambrosio , D. , D. A. Cantrell , L. Frati , A. Santoni , and R. Testi .
+1994 .
+Involvement of p21ras activation in T cell CD69 expression .
+Eur .
+J. Immunol .
+24:616-620 .
+Diekmann , D. , S. Brill , M. D. Garrett , N. Totty , J. Hsuan , C. Monfries , C. Hall , L. Lim , and A .
+Hall .
+1991 .
+Ber encodes a GTPase-activating protein for p2lrac .
+Nature 351:400-402 .
+Foster , R. , K. Q. Hu , Y. Lu , K. M. Nolan , J. Thissen , and J. Settleman .
+1996 .
+Identification of a novel human Rho protein with unusual properties : GTPase deficiency and in vivo farnesylation .
+Mol .
+Cell .
+Biol .
+16:2689-2699 .
+Frantz , B. , E. C. Nordby , G. Bren , N. Steffan , C. V. Paya , R. L. Kincaid , M. J. Tocci , S. J. O'Keefe , and E. A. O'Neill .
+1994 .
+Calcineurin acts in synergy with PMA to inactivate I kappa B/MAD3 , an inhibitor of NF-kappa B. EMBO J .
+13:861-870 .
+Fraser , J. D. , M. E. Newton , A. Weiss , M. P. Duyao , D. J. Kessler , D. B. Spicer , and G. E. Sonenshein .
+1992 .
+CD28 and T cell antigen receptor signal transduction coordinately regulate interleukin 2 gene expression in response to superantigen stimulation .
+J. Exp .
+Med .
+175:1131-1134 .
+Fujisawa , K. , A. Fujita , T. Ishizaki , Y. Saito , and S. Narumiya .
+1996 .
+Identification of the Rho-binding domain of p160ROCK , a Rho-associated coiled-coil containing protein kinase .
+J. Biol .
+Chem .
+271:23022-23028 .
+Fulop , T. , Jr. , C. Leblanc , G. Lacombe , and G. Dupuis .
+1995 .
+Cellular distribution of protein kinase C isozymes in CD3-mediated stimulation of human T lymphocytes with aging .
+FEBS Lett .
+375:69-74 .
+Galandrini , R. , S. W. Henning , and D. A. Cantrell .
+1997 .
+Different functions of the GTPase Rho in prothymocytes and late pre-T cells .
+Immunity 7:163-174 .
+Hall , A .
+1992 .
+Ras-related GTPases and the cytoskeleton .
+Mol .
+Biol .
+Cell 3 : 475-479 .
+Hall , A. , H. F. Paterson , P. Adamson , and A. J. Ridley .
+1993 .
+Cellular responses regulated by rho-related small GTP-binding proteins .
+Philos .
+Trans .
+R. Soc .
+Lond .
+Ser .
+B 340:267-271 .
+Henning , S. W. , R. Galandrini , A .
+Hall , and D. A. Cantrell .
+1997 .
+The GTPase Rho has a critical regulatory role in thymus development .
+EMBO J .
+16:2397-2407 .
+Hill , C. S. , J. Wynne , and R. Treisman .
+1995 .
+The Rho family GTPases RhoA , Racl , and CDC42Hs regulate transcriptional activation by SRF .
+Cell 81:1159-1170 .
+Hirano , M. , S. Hirai , K. Mizuno , S. Osada , M. Hosaka , and S. Ohno .
+1995 .
+A protein kinase C isozyme , nPKC epsilon , is involved in the activation of NF-kappa B by 12-O-tetradecanoylphorbol-l3-acetate ( TPA ) in rat 3Y¥1 fibroblasts .
+Biochem .
+Biophys .
+Res .
+Commun .
+206:429-436 .
+Horii , Y. , J. F. Beeler , K. Sakaguchi , M. Tachibana , and T. Miki .
+1994 .
+A novel oncogene , ost , encodes a guanine nucleotide exchange factor that potentially links Rho and Rac signaling pathways .
+EMBO J .
+13:4776-4786 .
+Huang , C. , W. Ma , and Z. Dong .
+1997 .
+Signal transduction through atypical PKCs , but not the EGF receptor , is necessary for UVC-induced AP-1 activation in immortal murine cells .
+Oncogene 14:1945-1954. .
+Kamada , Y. , H. Qadota , C. P. Python , Y. Anraku , Y. Ohya , and D. E. Levin .
+1996 .
+Activation of yeast protein kinase C by Rho1 GTPase .
+J. Biol .
+Chem .
+271:9193-9196 .
+Khosravi-Far , R. , P. A. Solski , G. J. Clark , M. S. Kinch , and C. J .
+Der .
+1995 .
+Activation of Rac , RhoA , and mitogen-activated protein kinases is required for Ras transformation .
+Mol .
+Cell .
+Biol .
+15:6443-6453 .
+Lang , P. , L. Guizani , I. Vitte-Mony , R. Stancou , O. Dorseuil , G. Gacon , and J. Bertoglio .
+1992 .
+ADP-ribosylation of the ras-related , GTP-binding protein RhoA inhibits lymphocyte-mediated cytotoxicity .
+J. Biol .
+Chem .
+267:11677-11680 .
+Laudanna , C. , J. J. Campbell , and E. C. Butcher .
+1996 .
+Role of Rho in chemoattractant-activated leukocyte adhesion through integrins .
+Science 271 : 981-983 .
+Vou .
+18 , 1998 29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+Michiels , F. , G. G. Habets , J. C. Stam , R. A. van der Kammen , and J. G. Collard .
+1995 .
+A role for Rac in Tiam1-induced membrane ruffling and invasion .
+Nature 375:338-340 .
+Minden , A. , A. Lin , F. X. Claret , A. Abo , and M. Karin .
+1995 .
+Selective activation of the JNK signaling cascade and c-Jun transcriptional activity by the small GTPases Rac and Cdce42Hs .
+Cell 81:1147-1157 .
+Mischak , H. , J .
+A. Goodnight , W. Kolch , G. Martiny-Baron , C. Schaechtle , M. G. Kazanietz , P. M. Blumberg , J. H. Pierce , and J. F. Mushinski .
+1993 .
+Overexpression of protein kinase C-delta and -epsilon in NIH 3T3 cells induces opposite effects on growth , morphology , anchorage dependence , and tumorigenicity .
+J. Biol .
+Chem .
+268:6090-6096 .
+Newton , A. C. 1995 .
+Protein kinase C : structure , function , and regulation .
+J. Biol .
+Chem .
+270:28495-28498 .
+Newton , A. C. 1997 .
+Regulation of protein kinase C. Curr .
+Opin .
+Cell Biol .
+9:161-167 .
+Nirula , A. , D. J. Moore , and R. B. Gaynor .
+1997 .
+Constitutive binding of the transcription factor interleukin-2 ( IL-2 ) enhancer binding factor to the IL-2 promoter .
+J. Biol .
+Chem .
+272:7736-7745 .
+Nobes , C. D. , and A .
+Hall .
+1995 .
+Rho , rac , and cdc42 GTPases regulate the assembly of multimolecular focal complexes associated with actin stress fibers , lamellipodia , and filopodia .
+Cell 81:53-62 .
+Nobes , C. D. , P. Hawkins , L. Stephens , and A .
+Hall .
+1995 .
+Activation of the small GTP-binding proteins tho and rac by growth factor receptors .
+J .
+Cell Sci .
+108:225-233 .
+Nonaka , H. , K. Tanaka , H. Hirano , T. Fujiwara , H. Kohno , M. Umikawa , A. Mino , and Y. Takai , 1995 .
+A downstream target of Rho1 small GTP-binding protein is Pkcl , a homolog of protein kinase C , which leads to activation of the Map kinase cascade in Saccharomyces cerevisiae .
+EMBO J .
+14:5931-5938 .
+Olson , M. F. , A. Ashworth , and A .
+Hall .
+1995 .
+An essential role for Rho , Rac , and Cdc42 GTPases in cell cycle progression through G1 .
+Science 269:1270-1272 .
+Pasteris , N. G. , A. Cadle , L. J. Logie , M. E. Porteous , C. E. Schwartz , R. E. Stevenson , T. W. Glover , R. S. Wilroy , and J. L. Gorski .
+1994 .
+Isolation and characterization of the faciogenital dysplasia ( Aarskog-Scott syndrome ) gene : a putative Rho/Rac guanine nucleotide exchange factor .
+Cell 79:669-678 .
+Qiu , R. G. , J. Chen , F. McCormick , and M. Symons .
+1995 .
+A role for Rho in Ras transformation .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 92:11781-11785 .
+Ridley , A. J. , H. F. Paterson , C. L. Johnston , D. Diekmann , and A .
+Hall .
+1992 .
+The small GTP-binding protein rac regulates growth factor-induced membrane ruffling .
+Cell 70:401-410 .
+Rho REGULATES AP-1 TRANSCRIPTIONAL ACTIVATION 42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+4993 Rooney , J. W. , Y. L. Sun , L. H. Glimcher , and T. Hoey .
+1995 .
+Novel NFAT sites that mediate activation of the interleukin-2 promoter in response to T-cell receptor stimulation .
+Mol .
+Cell .
+Biol .
+15:6299-6310 .
+Sasaki , T. , M. Kato , and Y. Takai , 1993 .
+Consequences of weak interaction of tho GDI with the GTP-bound forms of rho p21 and rac p21 .
+J. Biol .
+Chem .
+268:23959-23963 .
+Scheffzek , K. , M. R. Abmadian , W. Kabsch , L. Wiesmuller , A. Lautwein , F. Schmitz , and A. Wittinghofer .
+1997 .
+The Ras-RasGAP complex : structural basis for GTPase activation and its loss in oncogenic Ras mutants .
+Science 277:333-338 .
+Settleman , J. , V. Narasimhan , L. C. Foster , and R. A. Weinberg .
+1992 .
+Molecular cloning of cDNAs encoding the GAP-associated protein p190 ; implications for a signaling pathway from ras to the nucleus .
+Cell 69:539-549 .
+Takaishi , K. , A. Kikuchi , S. Kuroda , K. Kotani , T. Sasaki , and Y. Takai .
+1993 .
+Involvement of rho p21 and its inhibitory GDP/GTP exchange protein ( tho GDT ) in cell motility .
+Mol .
+Cell .
+Biol .
+13:72-79 .
+Tapon , N. , and A .
+Hall .
+1997 .
+Rho , Rac and Cdc42 GTPases regulate the organization of the actin cytoskeleton .
+Curr .
+Opin .
+Cell Biol .
+9:86-92 .
+Tsutsumi , A. , M. Kubo , H. Fujii , J. Freire-Moar , C. W. Turck , and J. T. Ransom .
+1993 .
+Regulation of protein kinase C isoform proteins in phorbol ester-stimulated Jurkat T lymphoma cells .
+J. Immunol .
+150:1746-1754 .
+Ueda , E. , S. Ohno , T. Kuroki , E. Livneh , K. Yamada , K. Yamanishi , and H. Yasuno .
+1996 .
+The eta isoform of protein kinase C mediates transcriptional activation of the human transglutaminase 1 gene .
+J. Biol .
+Chem .
+271:9790-9794 .
+Verschueren , H. , P. D. Baetselier , J. D. Brackeleer , J. Dewit , K. Aktories , and I .
+Just .
+ADP-ribosylation of Rho-proteins with botulinum C3 exoenzyme inhibits invasion and shape changes of T-lymphoma cells .
+Eur .
+J .
+Cell Biol .
+73:182-187 .
+Ward , S. G. 1996 .
+CD28 : a signalling perspective .
+Biochem .
+J .
+318:361-377 .
+Williams , D. H. , M. Woodrow , D. A. Cantrell , and E. J. Murray .
+1995 .
+Protein kinase C is not a downstream effector of p21ras in activated T cells .
+Eur .
+J. Immunol .
+25:42-47 .
+Yokoyama , K. , K. Zi man , J. Scholten , and M. H. Gelb .
+1997 .
+Differential prenyl pyrophosphate binding to mammalian protein geranylgeranyl-transferase-I and protein farnesyltransferase and its consequence on the specificity of protein prenylation .
+J. Biol .
+Chem .
+272:3944-3952 .
+Zhang , F. L. , P. Kirschmeier , D. Carr , L. James , R. W. Bond , L. Wang , R. Patton , W. T. Windsor , R. Syto , R. Zhang , and W. R. Bishop .
+1997 .
+Characterization of Ha-ras , N-ras , Ki-Ras4A , and Ki-Ras4B as in vitro substrates for farnesyl protein transferase and geranylgeranyl protein transferase type I. J. Biol .
+Chem .
+272:10232-10239 .

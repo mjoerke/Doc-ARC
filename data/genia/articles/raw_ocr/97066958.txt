@@ -1,0 +1,577 @@
+THE JOURNAL oF BIOLOGICAL CHEMISTRY © 1996 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+271 , No .
+44 , Issue of November 1 , pp .
+27686-27695 , 1996 Printed in U.S.A .
+Characterization of a CD43/Leukosialin-mediated Pathway for Inducing Apoptosis in Human T-Lymphoblastoid Cells* ( Received for publication , February 8 , 1996 , and in revised form , August 16 , 1996 ) T. Joseph Brown , Walt W. Shuford , Wei-Chun Wang , Steven G. Nadler , Tina S. Bailey , Hans Marquardt , and Robert S. Mittlert From the Bristol-Myers Squibb Pharmaceutical Research Institute , Seattle , Washington 98121 The monoclonal antibody ( mAb ) J393 induces apoptosis in Jurkat T-cells .
+NH-terminal amino acid sequence analysis identified the 140-kDa surface antigen for mAb J393 as CD43/leukosialin , the major sialoglycoprotein of leukocytes .
+While Jurkat cells co-expressed two discrete cell-surface isoforms of CD43 , recognized by mAb J393 and mAb G10-2 , respectively , only J398/CD48 signaled apoptosis .
+J393/CD43 was found to be hyposialylated , bearing predominantly O-linked monosaccharide gly-cans , whereas G10-2/CD43 bore complex sialylated tetra-and hexasaccharide chains .
+Treatment with soluble , bivalent mAb J393 killed 25-50 % of the cell population , while concomitant engagement of either the CD3-TcR complex or the integrins CD18 and CD29 significantly potentiated this effect .
+Treatment of Jurkat cells with mAb J393 induced tyrosine phosphorylation of specific protein substrates that underwent hyperphosphorylation upon antigen receptor costimulation .
+Tyrosine kinase inhibition by herbimycin A diminished J393/CD43-mediated apoptosis , whereas inhibition of phosphotyrosine phosphatase activity by bis ( maltolato ) oxovanadium-IV enhanced cell death .
+Signal transduction through tyrosine kinase activation may lead to altered gene expression , as J393/CD43 ligation prompted decreases in the nuclear localization of the transcriptional regulatory protein NF- « B and proteins binding the interferon-inducible regulatory element .
+Since peripheral blood T-lymphocytes express cryptic epitopes for mAb J393 , these findings demonstrate the existence of a tightly regulated CD43-mediated pathway for inducing apoptosis in human T-cell lineages .
+In T-lymphocytes CD43/leukosialin , the major sialoglycoprotein of leukocytes ( 1 , 2 ) , is thought to serve a dual role in regulating cellular immune responses .
+Due to the repulsive effect of its high numbers of O-linked negatively charged sialic acid sugar residues , CD43 acts as a `` barrier molecule '' by limiting cell-cell/cell-ligand interactions ( 3-7 ) , a property that may negatively regulate T-cell activation ( 8 ) .
+In addition , engagement of CD43 by monoclonal antibodies has been shown to induce costimulatory activity in T-cells by a mechanism analogous to a classic ligand-receptor interaction ( 9-11 ) .
+Alterations in O-glycan structure and function of CD43 reportedly occur in the immunodeficiency disorders Wiskott-Aldrich syndrome ( 12 , 13 ) and AIDS ( 14 , 15 ) as well as in graft versus host disease ( 16 ) , acute lymphocytic leukemia ( 17 ) , and permanent * The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement '' in accordance with 18 U.S.C .
+Section 1784 solely to indicate this fact .
+$ To whom correspondence should be addressed : 3005 First Ave. , Seattle , WA 98121 .
+Tel .
+: 206-727-8541 ; Fax : 206-727-3600. mixed-field polyagglutinability or Tn antigen syndrome ( 18 ) .
+The molecular structure of human CD43 is mucin-like , consisting of an extended rod-shaped extracellular portion bearing approximately 80 sialylated O-glycan sites and a single N-glycan site , a highly conserved transmembrane region , and a long cytoplasmic domain bearing potential serine/threonine phosphorylation sites ( 19 ) .
+Based on the exon/intron arrangement within its gene , the observed molecular heterogeneity of CD43 in both mice and man is thought to reflect differential post-translational modifications of a single gene product ( 20-22 ) .
+Linear protein epitopes in the native structure of CD43 have been shown to be modified by glycosylation ( 23 ) , allowing for the development of isoform-specific antibodies ( 9 , 11 , 24 ) .
+Following T-cell activation , the O-linked oligosaccharides of CD43 change from tetrasaccharides ( mAb'* G10-2 reactive ) to more complex hexasaccharides ( mAb T-305 reactive ) due to the activation-induced expression of core 2 B1-6 N-acetylglu-cosaminyltransferase ( 17 , 25 ) .
+This change in oligosaccharide structure results in a shift from 115 to 140 kDa ( 9 , 17 , 25 , 26 ) .
+There is little information correlating heterogeneity in oligosaccharide structure with ligand specificity or the signal trans-ducing properties of CD43 .
+In the thymus , thymocyte-thymic epithelial cell interactions correlate with the preferential binding of galectin-1 to the mAb T-305/CD43 isoform expressed in immature , cortical thymocytes ( 27 ) .
+In mature T-cells the binding of anti-CD43 antibodies , thought to mimic natural ligands , results in CD28-independent costimulatory activity ( 11 , 28-31 ) .
+Interestingly , the L10 antibody directed against a neuraminidase-resistant epitope of CD43 is a strong inducer of T-cell proliferation , whereas the B1B6 antibody directed against a neuraminidase-sensitive epitope is only weakly mitogenic ( 10 ) .
+Immunoprecipitations from T-lymphoblastoid cell lysates have found CD43 to be associated with CD3/TcR and p56* protein tyrosine kinase ( 11 ) , providing both physical and functional evidence for a role for CD43 in signal transduction .
+The anti-CD43 antibody , mAb MEM-59 , which is costimulatory in T-lymphocytes has recently been reported to induce programmed cell death or apoptosis in hematopoietic progenitor cells ( 32 ) .
+Clearly , CD43-mediated responses can differ significantly depending on the cell type and the isoform being expressed .
+While aberrant isoforms of CD43 have been associated with immuno-deficiencies resulting in lymphopenia ( 33 , 34 ) , there has been no direct evidence linking CD43-mediated apoptosis with T-cell depletion .
+* The abbreviations used are : mAb , monoclonal antibody ; TeR , T-cell receptor ; FACS , fluorescence-activated cell sorter ; FITC , fluorescein isothiocyanate ; PE , phycoerythrin ; PI , propidium iodide ; PHA , phyto-hemagglutinin ; BMLOV , bis ( maltolato ) oxovanadium-IV ; NF , B , nuclear factor kappa B ; TNF , tumor necrosis factor ; PBS , phosphate-buffered saline ; MOPS , 3- [ N-morpholino|propanesulfonic acid ; Tricine , N- [ 2-hydroxy-1,1-bis ( hydroxymethyl ) ethyllglycine ; PTPase , phosphotyrosine phosphatase ; IRE , interferon-inducible regulatory element .
+27686 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog Induction of Apoptosis in T-cells by Anti-CD43 mAb Here we report the biochemical and functional characterization of an anti-CD43 mAb designated J393 that recognizes a unique , alternatively glycosylated isoform of CD43 expressed on the surface of the human T-lymphoblastoid cell line , Jurkat .
+Treatment of Jurkat cells with mAb J393 induces apoptosis in a CD43 isoform-specific manner .
+The level of apoptosis may be enhanced by concomitant engagement of the TcR or integrin molecules .
+Moreover , an isoform of CD43 is detected in peripheral blood T-lymphocytes bearing a cryptic epitope for mAb J393 .
+These results describe a potentially novel mechanism for T-cell lineage depletion involving the regulated expression of specific isoforms of CD43 .
+EXPERIMENTAL PROCEDURES Cells and Reagents-All cell lines were obtained from the American Type Culture Collection ( Rockville , MD ) and maintained in RPMI 1640 medium ( Life Technologies , Inc. ) supplemented with 10 % fetal bovine serum ( Hyclone , Logan , UT ) and 100 units/ml penicillin , 100 mg/ml streptomycin unless otherwise stated .
+The BMS-2 subclone of Jurkat cells and the HPB-F6 subclone of HPB-ALL cells were developed at Bristol-Myers Squibb , and the anti-CD43 mAb G10-2 and mAb G19-1 , anti-CD3 mAb G19-4 , and G19-4-sFv fusion protein ( 85 ) and anti-CD18 ( B2-integrin ) mAb 60.3 were kindly provided by Dr. Jeffrey Ledbetter ( Bristol-Myers Squibb PRI ( BMSPRI ) , Seattle , WA ) .
+The anti-MHC class I mAb W6/82 was obtained from the ATCC ( Rockville , MD ) .
+The anti-CD28 mAb 2612 was produced by Dr. Robert Mittler ( BMSPRI ) .
+The anti-CD48 mAb T-805 was a gift from Dr. Minoru Fukuda ( La Jolla Cancer Research Foundation , La Jolla , CA ) .
+Anti-CD49d ( a4-integrin ) mAb P4C2 and anti-CD29 ( l-integrin ) mAb P4C1O were provided as ascites preparations by Dr. Paul Gladstone ( BMSPRI ) .
+The phosphotyrosine phosphatase inhibitor , bis- ( maltolato ) oxovanadium-IV ( BM-LOV ) , was kindly provided by Dr. Gary Schieven ( BMSPRI ) .
+Herbimycin A was purchased from Life Technologies , Inc .
+The anti-CD95/Fas monoclonal antibody ( IgM isotype ) was purchased from Upstate Biotechnology , Inc. ( Lake Placid , NY ) , and the CD95/Fas neutralizing mAb 7B4 was purchased from Immunotech Inc. ( Westbrook , ME ) .
+All glyco-lytic enzymes except Vibrio cholerae neuraminidase ( Calbiochem ) and Clostridium perfringens neuraminidase ( Sigma ) were purchased from Oxford GlycoSystems Inc. ( Rosedale , NY ) .
+Nonspecific protease XIV from Streptomyces griseus ( Pronase ) was purchased from Sigma .
+Protease inhibitors were obtained from Boehringer Mannheim .
+FITC-conjugated goat anti-mouse IgG was purchased from TAGO , Inc. ( Burl-ingame , CA ) .
+PE- and FITC-conjugated streptavidin and propidium iodide were purchased from Molecular Probes , Inc. ( Eugene , OR ) .
+Cytofluorometric Analysis of CD43 Expression and CD43-induced Apoptosis-Both the level of cell-surface expression of CD43 and the level of apoptosis ( cell death ) were determined by flow cytometry ( FACS ) using a FACStar fluorescence activated cell sorter ( Becton Dickinson , Mountain View , CA ) controlled by the Cicero automated data acquisition and analysis system ( Cytomation , Fort Collins , CO ) .
+Data were collected for 1 X 104 cells .
+Cells were phenotyped by indirect immunofluorescence as described previously ( 86 ) .
+Apoptosis within a culture was determined by incubating cell samples with 10 ug/ml propidium iodide ( PTI ) for 10 min at room temperature prior to analysis .
+Dead cells exhibiting size reduction and PI fluorescence were electronically gated into quadrants 1-8 and counted as a percentage of the total cell population .
+FACS analysis of DNA fragmentation was carried out after incubating cell samples in lysis buffer ( 0.08 % sodium citrate , 0.01 % Triton X-100 ) containing 50 ug/ml PI .
+Samples were analyzed by forward light scatter versus fluorescence to generate a histogram representing the size and relative amount of fragmented DNA .
+Purification of the mAb J393 Antigen-The antigen for mAb J898 was purified by affinity chromatography from detergent lysates of a high-expresser subclone of the Jurkat cell line , BMS-2 .
+The affinity column was prepared by covalently attaching purified mAb J398 to GammaBind Plus protein G-Sepharose ( Pharmacia Biotech Inc. ) using maleimide as the cross-linking reagent .
+Non-covalently attached antibody was removed by alternating rinses in pH 4.0 and pH 9.0 Tris buffers .
+BMS-2 cell pellets were solubilized at 4 °C in Nonidet P-40 lysis buffer ( 1 % Nonidet P-40 , 140 mM NaCl , 20 mM Tris , 10 mM EDTA ) containing protease inhibitors ( PMSF , leupeptin , soybean trypsin inhibitor , pepstatin , and antipain ) and the protein concentration adjusted to 2 mg/ml .
+The lysate was clarified by centrifugation at 100,00 % g for 90 min and consecutively passaged through a 15-ml GammaBind Plus column , a 10-ml GammaBind Plus column with control mAb P3X at-tached , and a 2-ml GammaBind Plus column with mAb J398 attached .
+217687 The mAb J8938 affinity column was flushed with lysis buffer , pH 8.0 , followed by another rinse with lysis buffer containing 0.1 % Nonidet P-40 , 0.1 % deoxycholate , and 20 mM MOPS .
+Antigen was eluted using glycine buffer ( 50 mM glycine , 0.1 % deoxycholate , pH 11.5 ) and the pH adjusted to 8.0 with 2 M Tris .
+The antigen preparation was dialyzed/ concentrated by filtration using 10 mM Tris buffer , pH 8.0 , containing 0.1 % deoxycholate prior to amino acid sequence analysis .
+Protein Sequencing-The affinity-purified antigen for mAb J898 was prepared for protein sequencing by subjecting the sample to polyacrylamide gel electrophoresis using a SDS-Tricine buffer system ( Bio-Rad ) on a minigel apparatus ( 80 X 80 X 0.5 mm ) with a 10 % acrylamide resolving gel and a 4 % acrylamide stacking layer run under reducing conditions .
+The separated proteins were then electroblotted ( 87 ) onto polyvinylidene difluoride membrane ( Immobilon-P , Millipore Corp. , Bedford , MA ) , and the location of the mAb J898 antigen was confirmed by Western blotting .
+The Coomassie Brilliant Blue stainable band of protein corresponding to the 140-kDa mAb J898 antigen was subjected to NH , -terminal amino acid sequence analysis ( 38 ) .
+Automated sequence analysis was performed in a pulsed-liquid protein sequencer ( model 476A , Applied Biosystems , Inc. ) using manufacturer-released cycle programs as described previously ( 89 ) .
+Analysis of Oligosaccharides Attached to CD43-Cells were metabol-ically labeled with [ *Hglucosamine as described previously ( 40 ) .
+Briefly , cells were incubated in glucose-free RPMI 1640 medium supplemented with 10 % dialyzed fetal bovine serum and 2 % standard medium .
+Cells were labeled for 24 h at 37 °C with 20 uCi/ml [ ®H ] glu-cosamine ( 40 Ci/mmol ; DuPont NEN ) .
+Cells were then harvested and washed twice with PBS before disruption in ice-cold lysis buffer ( PBS containing 1 % Nonidet P-40 , 1 mM PMSF , and 1 mg/ml each of leupep-tin and aprotinin ) .
+The lysates were clarified by high speed centrifugation and the supernatants collected .
+Radiolabeled CD43 was immunoprecipitated from these supernatants with 10 ug/ml anti-CD43 mAb and the resulting immune-complex recovered by binding to protein A-Sepharose .
+O-Linked oligosaccharides were released from the immunoprecipitates by B-elimination as described previously ( 41 ) , desalted on a Sephadex G-10 column , dried , taken up in water , and analyzed by high performance liquid chromatography on a column ( 0.4 X 30 cm ) of amino-bonded silica ( AX-10 , Varian ) .
+The mobile phase contained a mixture of 15 mM KH , PO , , pH 4.5 , and acetonitrile .
+One-ml fractions were collected at a flow rate of 1 ml/min over a linear gradient of decreasing acetonitrile concentration ( 80-50 % ) , and aliquots were sampled for radioactivity by liquid scintillation counting .
+CD48 oligosaccharides were obtained from HL6O and K562 cells as described previously ( 42 ) and used as standards .
+Immunoaffinity Chromatography of CD43 Glycopeptides-Radiola-beled CD43 was prepared from immunoprecipitates of [ *Hlglu-cosamine-labeled T-lymphoblastoid cells as described above .
+Glycopeptides were generated by digestion of labeled mAb J398 antigen with 5 mg/ml nonspecific protease ( Pronase ) in 0.1 M Tris-HC ] l buffer containing 1 mM CaC ) , , pH 8.0 , for 24 h at 60 °C under a toluene atmosphere .
+The digestion was terminated by boiling for 10 min .
+Epitope integrity of glycopeptides was evaluated by immunoaffinity chromatography .
+Glycopeptides were suspended in 50 ul of TBS buffer ( 50 mm Tris-HCl , 150 mM NaCl , 1 mM CaCl , , pH 7.5 ) and applied to a l-ml mAb J898-Sepharose column ( 0.3 X 14 em ) coupled with 6.3 mg of antibody and equilibrated in TBS buffer at 4°C .
+Glycopeptides have been shown to optimally interact with carbohydrate binding proteins coupled to Sepharose at this protein density and in the cold ( 48 ) .
+Fractions of 1 ml were collected at a flow rate of 1 ml/h with all steps being carried out at 4°C .
+After 5 ml of TBS buffer had been applied and collected , bound material was eluted with 200 mM glycine buffer , pH 3.0 .
+Intact , undigested antigen was also examined under identical chromatographic conditions .
+Immunoblotting-Anti-CD43 immunoblotting was performed on either whole cell lysates or on immunoprecipitates from whole cell lysates as described previously ( 44 ) .
+Briefly , lysates were prepared by solubilizing 1-10 X 10 '' cells in a 1-ml volume of Nonidet P-40 lysis buffer .
+Immune complexes were recovered by mixing GammaBind G-Sepharose ( Pharmacia Biotech , Inc. ) with lysate at 4 °C .
+The immunoprecipitates were solubilized in Tris-glycine SDS sample buffer containing 2 mM dithiothreitol and subjected to 6 % SDS-polyacrylamide gel electrophoresis fractionation .
+Proteins were electrotransferred onto polyvinylidene difluoride membrane , and antibody binding was detected by enhanced chemiluminescence ( ECL , Amersham Corp. ) according to manufacturer 's directions .
+Analysis of Tyrosine Phosphorylation-BMS-2 cells were adjusted to 1 X 10 '' cells/ml in RPMI 1640 containing 10 % fetal bovine serum held at 37°C .
+Cells were aliquoted in 1-ml volumes in Eppendorf tubes 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog 27688 containing all test reagents and placed in a 37°C heat block for the desired length of time .
+Reactions were terminated by spinning the tubes for 30 s at 4°C , decanting , and solubilizing the cell pellets in 1 % Nonidet P-40 containing protease , and phosphatase inhibitors and immunoprecipitates were analyzed for phosphotyrosine content by immunoblotting as described previously ( 44 ) .
+Electrophoretic Gel Mobility Shift Assay-Nuclear extracts were prepared from approximately 1 X 10 '' cells using a modification of the procedure of Dignam et al .
+( 45 ) .
+Briefly , cells were lysed for 5 min at 4 °C in 10 mM Hepes , 1.5 mM MgCl , , 10 mM NaCl , 0.25 % Nonidet P-40 , pH 7.5 , followed by centrifugation and salt extraction of nuclei in 20 mM Hepes , 25 % glycerol , 0.42 M NaCl , 1.5 mM MgCl , , 0.2 mM EDTA , 0.25 % Nonidet P-40 , pH 7.5 , for 30 min at 4°C .
+The nuclear extract was centrifuged at 14,000 rpm for 5 min , and the supernatants were used for the electrophoretic gel mobility shift assay .
+The electrophoretic gel mobility shift assay was essentially performed according to the procedure of Sen and Baltimore ( 46 ) .
+Double-stranded oligonucleotide probes for the recognition sequence of NF-xB ( 5'-GATCCGAGGGGACTTTC-CGCTGGGGACTTTCCAGG-3 ' ) , octamer ( 5'-TGTCGAATGCAAAT-CACTAGAA-3 ' ) , and AP-1 ( 5-CGCTTGATGAGTCAGCCATG AA-3 ' ) were obtained from Promega , Madison , WI , and IRE ( 5'-AAGTACTTT CAG TTTCATATTACTCTA-3 ' ) from Santa Cruz Biotechnology , Santa Cruz , CA , and radiolabeled at the 5'-end as recommended by the man-ufacturer .
+Equal amounts of nuclear extract protein ( 8 pg ) were incubated with *°P-labeled oligonucleotide probes and analyzed on a native 6 % polyacrylamide gel .
+Gels were dried and radioactivity quantitated by autoradiography ( 47 ) .
+Confocal Microscopy-BMS-2 cells and PHA-activated peripheral blood T-cells were analyzed for expression and cellular localization of the J398 antigen .
+BMS-2 cells were labeled with PE-streptavidin/bio-tinylated mAb J398 and FITC-conjugated mAb G10-2 .
+Cells were washed , fixed on ice in 4 % paraformaldehyde/PBS for 20 min , washed , and resuspended in PBS with 0.02 % NaN , .
+Peripheral blood T-cells were isolated from normal volunteers by Ficoll-Hypaque density gradient centrifugation and sheep red blood cell rosetting as described previously ( 48 ) .
+Activated T-cells ( > 95 % CD38* ) cultured in PHA for 72 h were fixed on ice in 4 % paraformaldehyde/PBS for 20 min .
+The cells were washed in PBS and permeabilized in 0.1 % saponin/PBS .
+Samples were washed and incubated for 30 min on ice with either mAb J898 or FLOPC-21 ( IgGS isotype-matched control ) at 10 ug/ml followed by a similar incubation with FITC-conjugated F ( ab ' ) , goat anti-mouse IgG .
+Finally , the cells were washed and resuspended in culture medium prior to analysis using the Bio-Rad MRC 1024 confocal microscope .
+RESULTS mAb J393-induced Apoptosis in Cultured T-lymphoblastoid Cells-Mice immunized with the human T-lymphoblastoid cell line , Jurkat , produced an antibody termed J393 that induced homotypic adhesion and then death of these cells in culture .
+Within the first hour of treatment Jurkat cells underwent pronounced homotypic adhesion , forming large cellular aggre-gates .
+Over a period of 4-6 h a certain proportion of the cell population began to die .
+Under the phase contrast microscope , morphologic changes were observed that were characteristic of the type of programmed cell death referred to as apoptosis ( membrane blebbing , cellular shrinkage , and nuclear conden-sation ) .
+As an indicator of death , cells were monitored for the uptake of the fluorescent compound propidium iodide ( PT ) .
+Samples were analyzed by flow cytometry as a function of size versus fluorescence intensity to determine the level of killing and the degree of nuclear damage .
+By comparison of Fig .
+1A with Fig .
+1B , the percent of dead or dying cells detected by PI permeability ( quadrants 2 and 3 ) or decrease in forward light scatter ( quadrants 1 and 2 ) increased from 1.9 to 52.9 % as a result of mAb J393 treatment ( sum of quadrants 1 , 2 , and 3 ) , whereas the number of Pl-impermeable cells or viable cells decreased accordingly ( quadrant 4 ) .
+It should be noted that quadrants 1 and 2 represent a population of cells with decreased forward light scattering properties , reflecting a decrease in cell size ( shrinkage ) .
+The level of killing of Jurkat cells by mAb J393 was both concentration- and time-depend-ent , reaching a maximum of 25-50 % dead after a 24-h treatment with 5 ug/ml of antibody ( data not shown ) .
+Induction of Apoptosis in T-cells by Anti-CD43 mAb Fluorescence Intensity i 1 1 § 4 a @ i n a ® a a a Forward Light Scatter G , / G , chromatin -- » Nuclei Number DNA Fluorescence Fic .
+1 .
+Apoptosis in T-lymphoblastoid cells is induced by mAb J898 .
+Actively growing Jurkat cells ( 1 X 10°/ml ) were treated for 24 h ( A ) without or ( B ) with 5 ug/ml mAb J8938 followed by cytofluorimetric analysis of propidium iodide ( Pl ) uptake as described under `` Experimental Procedures . ''
+The percent of total population falling within each quadrant is given .
+A decrease in cells within quadrant 4 indicates an increase in cell death .
+C , cells treated with ( Ratched ) or without ( solid ) 5 ug/ml mAb J898 for 24 h were exposed to Triton X-100 lysis buffer containing PI , and the nuclei were cytofluorimetrically analyzed as described under `` Experimental Procedures . ''
+Fluorescence intensity below that of intact G/G , chromatin indicates the presence of hypodiploid cells in the original cell population .
+Apoptosis may be associated with the breakdown of DNA as a result of increased endonuclease activity .
+To further assess whether cell death induced by mAb J393 was characteristic of apoptosis , PI was allowed to intercalate with the DNA in Jurkat cell lysates and the nuclear staining analyzed cytofluorimetrically ( Fig .
+1C ) .
+Treatment with mAb J393 resulted in an increase in the population of hypodiploid cells as measured by a 3-fold increase in fluorescence intensity below that of intact G , /G , chromatin ( 26 % of the total DNA in treated cultures versus 8 % in the untreated population ) .
+Since apoptosis has been regarded as fundamentally important to homeostasis of the immune system , it was of interest to identify the antigen for mAb J8398 .
+NH -terminal Protein Sequence of the mAb J393 Antigen-The antigen for mAb J393 was isolated from detergent lysates of Jurkat cells by affinity chromatography and purified as described under `` Experimental Procedures . ''
+The 140-kDa protein was then examined for its primary structure .
+nal amino acid sequence analysis of the mAb J393 antigen resulted in 13 of the first 15 NH , -terminal amino acid positions to be assigned ( STTAVQTPT ( X ) GE ( X ) LV ) .
+This sequence was searched in the Swiss-Prot data base for homology to known proteins .
+Excluding the two unassigned positions , the protein sequence obtained for the mAb J393 antigen was 100 % homol-ogous to the NH , -terminal region of human CD43/leukosialin ( 19 , 20 ) .
+Since no intron structures exist in the coding region of the human CD43 gene allowing for alternative splicing of exons ( 21 ) , we take this partial sequence information to be adequate in identifying the mAb J893 antigen as CD43 .
+Isoform Specificity of mAb J393-Since several antibodies to CD43 have been previously described , we questioned whether they were functionally similar to mAb J8983 .
+Cultures of Jurkat cells were treated with soluble forms of the anti-CD43 mAbs G10-2 , G19-1 , and J393 and monitored for apoptosis as described under `` Experimental Procedures . ''
+While all three anti 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog Induction of Apoptosis in T-cells by Anti-CD43 mAb Fic .
+2 .
+T-lymphoblastoid cells co-express antigenically distinct isoforms of CD43 .
+Actively growing Jurkat cells were immunostained with phycoerythrin-labeled mAb J898 ( red ) and FITC-conjugated mAb G19-1 ( green ) and analyzed for two-color fluorescence ( red / green ) by confocal microscopy as described under `` Experimental Procedures . ''
+Both red and green fluorescence appear to be differentially distributed at the cell surface .
+Yellow fluorescence depicts regions of colocalization .
+CD43 antibodies induced observable homotypic adhesion , only mAb J393 induced apoptosis ( data not shown ) .
+We observed that cells not killed by mAb J398 were growth-arrested , whereas cells treated with mAb G10-2 or mAbG19-1 continued to divide .
+Jurkat cells were double-stained with the fluorescent conjugates PE-J393 and FITC-G19-1 and examined using confocal microscopy .
+In Fig .
+2 , the two-color staining pattern that was observed revealed that the epitopes reactive with these two antibodies resided on distinct molecules that segregated independently in the plane of the membrane .
+This indicated that single cells in the population were co-expressing two distinct alternatively glycosylated isoforms of CD43 ; however , only the J393/CD43 isoform was involved in signaling an apoptotic response .
+Therefore , we looked for structural differences between .
+these isoforms .
+Carbohydrate Analysis of the J393/CD43 Isoform-Diver-sity among human CD43 molecules has been ascribed to post-translational modifications of a single gene product ( 20-22 ) .
+Therefore , we examined the carbohydrate structure of the mAb J393 antigen in comparison with that of other mAb-specific isoforms of CD43 .
+Analysis was limited to O-linked sugars since CD43 is known to contain only one potential N-linked glycosylation site and 80 potential O-linked sites ( 19 ) .
+Different isoforms of CD43 were immunoprecipitated from cellular lysates of T-lymphoblastoid cells using mAb J393 , mAb T-305 , and mAb G10-2 , and the attached radiolabeled carbohydrate 27689 TABLE I Structures and relative amounts of the O-linked oligosaccharides found on CD43 CD43 was immunoprecipitated from [ °H ] glucosamine-labeled T-cells .
+The radioactive O-linked chains obtained after alkaline borohydride treatment of CD43 were separated by high performance liquid chromatography .
+Data are listed as percent of total `` H-oligosaccharides recovered .
+CD43 oligosaccharides Egg , ( £53155 T1332 } ; % GalNAcOH 82 15 19 12 5 0 NeuNAca2-3Gal1-3GalINAcOH 6 0 10 NeuNAca2 \6 NeuNAca2-3Gal1-3GalINAcOH 0 30 11 NeuNAca2-3Gal1-4GleNAcf1 A 6 0 50 60 * Immunoprecipitated from Jurkat cells ( mAb G10-2 and mAb T-805 did not immunoprecipitate in NP-40 lysis buffer ) .
+* Immunoprecipitated from HPB-ALL cells ( mAb J898 did not immunoprecipitate in NP-40 lysis buffer ) .
+was analyzed according to `` Experimental Procedures . ''
+As shown in Table I , 82 % of the total serine/threonine-linked carbohydrate of the J393/CD43 isoform in Jurkat cells were of the GaINAc monosaccharide class and 12 % were of the GalB1-3GaINAc disaccharide class .
+The remaining 6 % of the O-linked sugars of the J393/CD43 molecule contained sialic acid and were of the NeuNAco2-3GalB1-3GaINAc trisaccharide class .
+By comparison , 80 % of the O-linked sugars attached to the G10-2/CD43 isoform in HPB-ALL cells were made up of sialylated tri- , tetra- , and hexasaccharides with the remaining 20 % being predominantly monosaccharides .
+The T-305/CD43 isoform in HPB-ALL cells displayed an oligosaccharide structure similar to that of the G10-2/CD43 isoform ; however , it contained less tetrasaccharide and more hexasaccharide moieties consistent with previous reports ( 17 ) .
+Neuraminidase-resistant Property of the mAb J393 Epitope-Antibodies for CD43 have been characterized as to their epitope requirement for terminal sialic acid sugar residues .
+The anti-CD43 mAb T-305 has been described as being sialic acid-independent , since the epitope is resistant to digestion by neuraminidase ( 9 ) , while the immunoreactivities of several other anti-CD43 antibodies have been shown to be sensitive to neuraminidase treatment ( 10 , 11 ) .
+The histograms presented in Fig .
+3 were generated by immunostaining Jurkat and HPB-ALL cells with mAb G10-2 or mAb J393 before and after V. cholerae neuraminidase treatment .
+The mAb G10-2 demonstrated an absolute requirement for sialic acid residues in maintaining immunoreactivity as shown in Fig .
+3A .
+Mean channel fluorescence decreased from a value of 245 to a value of 11 as a result of neuraminidase treatment .
+By contrast , the presence of sialic acid was not required for antigen recognition by mAb J393 ( Fig .
+3 , B and C ) .
+Indeed , the immunoreactivity of mAb J393 increased following neuraminidase treatment , which was most notable in HPB-ALL cells .
+Enzymatic digestion by neuraminidases from either C. perfringens or A. ure-afaciens sources gave similar results ( data not shown ) .
+Protease-sensitive Property of the mAb J393 Epitope-Jurkat cells are known to possess a deficiency in B1,3-galactosyltransferase activity ( 49 ) resulting in the expression of an alternatively glycosylated isoform of CD43 bearing the GaINAc-Ser/ Thr cluster structure of Tn antigen ( 50 ) .
+The carbohydrate analysis of the mAb J393 antigen indicated structural similarity with this Tn antigen-containing isoform of CD43 ; however , 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog 27690 Cell Number 10 o 1000 Fluorescence Intensity Fic .
+3 .
+The CD43-specific epitope for mAb J3938 is resistant to digestion by sialidase .
+Cells ( 1 X 10° ) from the T-cell lines , Jurkat and HPB-ALL , were immunostained with anti-CD43 antibodies following treatment for 60 min at 37°C in culture medium with ( -- - ) and without ( - ) 0.05 units/ml Vibrio cholerae neuraminidase as described under `` Experimental Procedures . ''
+Changes in fluorescence intensity as compared with isotype-matched control antibodies ( *** ) were detected by flow cytometry .
+A , HPB-ALL cells immunostained with mAb G10-2 .
+B , HPB-ALL cells immunostained with mAb J898 .
+C , Jurkat cells immunostained with mAb J898 .
+we were unable to demonstrate immunostaining by mAb J893 of Tn antigen-positive CEM cells and certain Tn-expressing human carcinoma cell lines ( data not presented ) .
+This result suggested that the epitope for mAb J393 differed from that described for other T ' n antibodies .
+In order to characterize the nature of the epitopic structure recognized by mAb J393 , [ ' H ] glucosamine-labeled J393 antigen was proteolytically digested into glycopeptides and tested for reactivity on a mAb J393-Sepharose affinity column under conditions that promote the retention of glycopeptides ( see `` Experimental Procedures '' ) .
+Many anti-carbohydrate antibodies bind to carbohydrate antigens under these experimental conditions ( 51 , 52 ) .
+As demonstrated in Fig .
+4 , 87 % of the radioactivity associated with intact CD43 required elution at acidic pH , indicating a strong anti-gen-antibody interaction with the column substrate .
+By contrast , 93 % of the radioactivity associated with CD43 glycopeptides eluted at neutral pH , indicating very weak interaction with the column substrate and loss of antigenic valency .
+A minor proportion ( 7 % ) of CD43 digest that eluted under acid conditions may represent larger glycoprotein fragments resulting from incomplete proteolysis .
+Intact [ °H ] glucosamine-labeled mAb G10-2 antigen isolated from the HPB-ALL cell line failed to interact with the mAb J393 affinity substrate , demonstrating the specificity for antigen ( data not presented ) .
+These results suggest that specific protein and carbohydrate domains of CD43 are important for high-avidity recognition of epitope by mAb J8983 .
+Cell-surface Interactions That Enhance J393/CD43-Mediated Apoptosis-It has previously been shown that certain isoforms of CD43 can function as accessory molecules in CD3/TcR-stimulated T-cell activation ( 11 , 28-31 ) and may also be involved in cell-cell interactions by binding to the integrin family adhesion molecule ICAM-1 ( 4 ) .
+Therefore , we investigated the effect of ligating additional surface molecules on the ability of mAb J393 to induce apoptosis .
+As represented in Fig .
+5 , concomitant treatment of Jurkat cells with mAb J393 plus Induction of Apoptosis in T-cells by Anti-CD43 mAb 2000 o pH 3.0 4C 1500 - { If i | 1000 Counts/Minute °H 500 0 2 4 60 8 10 12 Elution Volume ( ml ) Fig .
+4 .
+The CD43-specific epitope for mAb J3938 is sensitive to proteolysis .
+mAb J898 antigen was immunoprecipitated from Jurkat cells and treated with ( @ ) or without ( A ) nonspecific protease as described under `` Experimental Procedures . ''
+Glycopeptides generated by proteolysis eluted from the mAb J898-Sepharose immunoaffinity column at pH 7.5 , predominantly in fractions 1-5 and prior to applying an isocratic shift to pH 8.0 .
+Under identical conditions , undigested antigen was retained at neutral pH and eluted in fractions 5-10 following the isocratic shift to pH 8.0 .
+Chro-matographies were carried out at 4°C to enhance retention of low valency glycopeptide .
+Untreated W6/32 + J393 2E12 + J393 P4C2 + J393 G19-4 + J393 G19-1 + J393 PAC1O0 + J393 60.3 + J393 J393 0 20 _ 40 60 80 % Cell Death Fic .
+5 .
+Apoptosis induced by mAb J393 is potentiated by concomitant ligation of CD3/TcR and the integrins .
+Actively growing Jurkat cells were treated for 24 h with 5 ug/ml mAb J898 to induce apoptosis in the absence and presence of the same concentration of soluble antibodies directed against a variety of surface molecules .
+The percent of cell death was measured cytofluorimetrically as described under `` Experimental Procedures . ''
+The mAbs used were anti-CD43 ( J893 , G19-1 ) , anti-CD18/62-integrin ( 60.3 ) , anti-CD29/Bl-integrin ( P4C10 ) , anti-CD8 ( 619-4 ) , anti-CD49d/ad-integrin ( P4C2 ) , anti-CD28 ( 2612 ) , and anti-MHC class I ( W6/82 ) .
+Under these conditions none of the antibodies tested , with the exception of mAb J898 , were capable of inducing apoptosis as soluble , single reagents ( data not shown ) .
+mAbs specific for either CD3 , CD43 , CD18 ( B2-integrin ) , or CD29 ( B1-integrin ) increased the level of apoptosis from 42 % to as much as 65 % after 24 h. Costimulation with either anti-MHC class I , anti-CD28 , or anti-CD49d ( « 4-integrin ) reduced the level of apoptosis induced by mAb J393 , demonstrating that 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog Induction of Apoptosis in T-cells by Anti-CD43 mAb 60 50 -I 40 30 % Cell Death 20 10 100 % Cell Death 20 T T 0.1 1 10 100 mAb J393 , ug/ml Fic .
+6 .
+Concomitant ligation of J393/CD43 with either G10-2/ CD43 or CD3/TcR synergized to induce cell death .
+Actively growing Jurkat cells were treated for 24 h with varying concentrations of mAb J893 in the absence ( @ ) or presence of 10 ug/ml anti-CD48/mAb G10-2 ( 4 ) ( & ) or 10 ug/ml anti-CD3/mAb G19-4 ( B ) ( # ) to induce apoptosis .
+The percent of cell death was determined by flow cytometry as described under `` Experimental Procedures . ''
+Under these conditions mAb G10-2 and mAb G19-4 induced cell death < 5 % when used as soluble , single reagents ( data not shown ) .
+only certain surface molecules interact to potentiate J393/ CD43 signaling events .
+A synergistic enhancement in cell killing was observed at suboptimal concentrations of mAb J393 in the presence of anti-CD43 mAb G10-2 ( Fig .
+6A ) or anti-CD3 mAb G19-4 ( Fig .
+6B ) .
+Apoptosis was enhanced over 2-fold by the simultaneous ligation of both isoforms of CD43 expressed in Jurkat cells .
+However , the greatest killing was observed by the simultaneous ligation of J393/CD43 and CD3/TcR .
+In these experiments 10 % of the cell population were killed with 0.9 ug/ml mAb J393 ; however , in the presence of soluble anti-CD3 mAb this same concentration of mAb J393 induced 60 % killing , a 6-fold increase in the level of apoptosis .
+To address whether the costimulation responsible for the increase in apoptosis was due to the activation-induced production of the ligand for CD95/Fas ( 53 ) , Jurkat cells were costimulated with mAb J393 and mAb G19-4 ( anti-CD3 ) in the presence of antibodies that block CD95/Fas-induced apoptosis or in the presence of soluble CD95/Fas-Ig fusion protein .
+Neither CD95/Fas blocking antibodies nor CD95/Fas-Ig affected the synergistic killing observed with costimulation of CD43/CD3 ( data not shown ) .
+mAb J393/CD43-Induced Protein Tyrosine Phosphoryl-ation-Protein tyrosine phosphorylation plays an essential role in the signal transduction pathways of several T-cell surface molecules including the CD3/TcR , CD4 , CD8 , and CD28 ( 54 ) .
+27691 Untd _ J393 G19.4sFv - J393 + G19.4sFv I -- -- -1 Mp pog 59s ao 1519 30° 1 5915 30 ( kD ) 200 way mos Wed « + H 97 -o- =S # g # B _ foe ' .
+' r « » an as an l ’ . '
+46 # 4 bn w OB © Coz 30 Fic .
+7 .
+Concomitant ligation of J393/CD43 and CD3/TcR synergized to increase protein tyrosine phosphorylation .
+Jurkat cells were treated at 37 °C for the indicated time in minutes with either 5 ug/ml anti-CD48/mAb J898 , 10 ug/ml anti-CD3/G19-4-sFv fusion protein , or a combination of both reagents .
+Changes in the pattern of protein tyrosine phosphorylation were examined by immunoblotting anti-phosphotyrosine immunoprecipitates as described under `` Experimental Procedures . ''
+In the above phosphotyrosine immunoblot , the pattern of phosphorylated substrates differed for each treatment .
+Although CD43 does not possess tyrosine kinase activity or contain tyrosine phosphorylation sites within the cytoplasmic domain ( 20 ) , its association with other membrane receptor-tyrosine kinase complexes such as CD3/TcR have been reported ( 11 ) .
+Therefore , we examined early tyrosine phosphorylation following mAb J393 or mAb J393 plus anti-CD3 stimulation of Jurkat cells .
+Cells were treated with mAb J393 in the presence or absence of the anti-CD3 single-chain variable fragment , G19-4-sFv ( 35 ) .
+Following costimulation , anti-phosphotyrosine immunoprecipitates were analyzed by immunoblotting with anti-phosphotyrosine antibodies .
+The immunoblot presented in Fig .
+7 shows that tyrosine phosphorylation was induced rapidly within 1 min .
+The pattern of phosphorylation observed depended on the type of stimulus .
+The most significant increase in tyrosine-phosphorylated proteins induced by mAb J393 was found in the range of 90-kDa and below ; in particular those in the range 50 to 34-kDa .
+By comparison , G19-4-sFv-induced tyrosine phosphorylation of proteins above 100-kDa as well as those below 90-kDa but did not induce phosphorylation of proteins in the range of 50-55-kDa range .
+Costimulation with both antibodies resulted in the hyperphosphorylation of multiple substrates in the range of 150 to 34-kDa range .
+In contrast , neither G10-2 nor 619-1 induced an increase in protein tyrosine phosphorylation ( data not shown ) .
+Regulation of TJ393/CD43-induced Apoptosis by Phosphotyrosine Kinase Inhibitors-It was apparent that mAb J393-induced tyrosine phosphorylation peaked at 5 min and rapidly diminished thereafter .
+Since the dephosphorylation of specific substrates might be involved in down-regulat-ing CD43-induced signals , we examined the effect of tyrosine phosphatase inhibition on mAb J393-induced apoptosis .
+Jurkat cells pretreated overnight with the phosphotyrosine phosphatase ( PTPase ) inhibitor , BMLOV ( 55 ) , were found to be more responsive to the induction of apoptosis by mAb J393 .
+As shown in Fig .
+8A , BMLOV was not toxic to Jurkat cells ; however , it enhanced mAb J393-induced killing in a dose-dependent manner .
+The level of cell death increased from 32 to 65 % as a result of treatment with 45 um BMLOV .
+Inhibition of PTPase activity by BMLOV had less effect on anti-CD3-induced apoptosis , whether used alone or in combination with mAb J393 .
+The effect of inhibition of tyrosine kinase activity on apoptosis was also examined .
+In Fig .
+8B , the level of apoptosis induced by mAb J393 was reduced from 35 to 16 % in the presence of the 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog 27692 80 A 60 < d A 2 40 `` C O x 20 a- -4 & -- -- -- ® 0 T T T T 0 10 20 30 40 50 BMLOV , LM B Untreated 619-4 Herbimycin A J393 4393 + Herbimycin A 1393 + 619-4 J393 + G19-4 + Herbimycin A 0 20 40 680 80 100 % Cell Death Fic .
+8 .
+Modulating the level of protein tyrosine phosphorylation modulates the level of mAb J398-induced apoptosis .
+A , Jurkat cells were treated for 24 h with 5 pg/ml anti-CD48/mAb J898 and 10 ug/ml anti-CD8/mAb G19-4 in the presence of varying doses of the PTPase inhibitor BMLOV following an overnight pretreatment with the inhibitor .
+The level of apoptosis was determined cytofluorimetrically as described under `` Experimental Procedures . ''
+BMLOV treatment alone ( @ -- @ ) or in combination with mAb G19-4 ( M -- R ) had minimal effect on apoptosis ; however , BMLOV acted in a dose-dependent manner to enhance cell death induced by mAb J898 ( & -¥ ) or mAb J398 + mAb G19-4 ( @ -- @ ) .
+B , Jurkat cells were treated for 24 h with 5 ug/ml mAb J398 and 10 ug/ml G19-4 in the presence of 3 uM of the protein tyrosine kinase inhibitor herbimycin A following a 6-h pretreatment with the inhibitor .
+Herbimycin A treatment alone had little effect on apoptosis ; however , herbimycin A acted to decrease the level of cell death induced by mAb J398 or mAb J398 + mAb G19-4 .
+tyrosine kinase inhibitor herbimycin A .
+Furthermore , apoptosis induced by treating Jurkat cells with mAb J393 plus anti-CD3 was inhibited 95 % by herbimycin A .
+These results strongly suggested a role for protein tyrosine phosphorylation/ dephosphorylation events in regulating CD43-mediated signals leading to an apoptotic response .
+mAb J393-induced Alterations in the Nuclear Localization of Transcriptional Regulatory Proteins-In order to determine whether mAb J393-induced signal transduction events might lead to downstream alterations in gene activation , we exam ined the effects of anti-CD43 mAb J393 , anti-CD3 mAb G19-4 , Induction of Apoptosis in T-cells by Anti-CD43 mAb Untreated G19.4 1393 G19.4 + 1393 I E < -NF- KB hand lung lang bet < -AP-1 l—JUHH -Oct tad band « = -- IRE Fic .
+9 .
+Apoptosis induced by mAb J393 is associated with alterations in the nuclear localization of NF- « B and IRE transcription factors .
+Actively growing Jurkat cells were treated with 5 ug/ml anti-CD48/mAb J893 , 10 pg/ml antiCD3/mAb G19-4 , or a combination of the two antibodies for 1 h at 37 °C .
+These cells were used in the preparation of nuclear extracts for the detection of specific DNA-binding proteins by electrophoretic gel mobility shift assay as described under `` Experimental Procedures . ''
+The above phosphorimages of non-denaturing polyacrylamide gel electrophoresis show the high M , shift in radiolabel due to binding of specific `` °P-labeled oligonucleotides to nuclear proteins .
+Treatment by mAb J898 alone or in combination with mAb G19-4 resulted in a decrease in the amount of NF-kB and IRE in the nucleus but did not affect AP-1 or Oct levels .
+and a combination of both antibodies on the nuclear localization of the transcriptional factors NF-kB , AP-1 ( fos/jun ) , octa-mer , and interferon-inducible regulatory element ( IRE ) DNA-binding proteins .
+Jurkat cells ( 1 X 10 '' ) were aliquoted in 1-ml volumes containing either mAb 619-4 ( anti-CD3 ) , mAb J393 ( anti-CD43 ) , each at 10 ug/ml , a combination of both , or left untreated .
+The cells were then incubated at 37 °C for 1 h and pelleted by centrifugation , and nuclear extracts were prepared for analysis as described under `` Experimental Procedures . ''
+As shown in Fig .
+9 , BMS-2 cells had constitutively elevated levels of the four transcription factors within the nucleus .
+Treatment of the cells with mAb J393 had a marked effect on reducing the nuclear levels of both NF- « B and IRE binding proteins but not AP-1 or Octamer .
+Treatment of the cells with mAb G19-4 had little effect on nuclear levels of these factors , whereas combined antibody treatment inhibited nuclear localization the greatest degree .
+Expression of mAb J393 Epitopes in T-lymphocytes-Using flow cytometry we examined several different cell types of hematopoietic origin and found the expression of J393/CD43 to be highly restricted ( data not shown ) .
+All lineages known to express CD43 were reactive with mAb G10-2 .
+By contrast , mAb J393 failed to react with human erythrocytes , platelets , neu-trophils , eosinophils , monocytes , T- and B-lymphocytes , freshly isolated CD34 '' bone marrow-derived precursor cells , and freshly prepared thymocytes .
+However , immunoblot analysis of whole cell lysates revealed the presence of mAb J393 epitopes in both resting and activated peripheral blood T-lymphocytes .
+As shown in Fig .
+10 , resting T-cells predominantly expressed the 120-kDa mAb G10-2-reactive isoform of CD43 that appeared to decrease following cellular activation .
+By comparison , resting T-cells expressed a very low level of mAb J893 reactivity that was elevated following activation .
+The 140-kDa isoform observed in Jurkat cells was not detected in either 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog Induction of Apoptosis in T-cells by Anti-CD43 mAb G10-2 J393 F -- - P1 p 1 2 30 40506 200 < M ; 160 fue < M , 140 dash « « 97 - « s .
+69 Fig .
+10 .
+Expression of the mAb J393/CD43 epitope in peripheral blood T-cells .
+Enriched preparations of peripheral blood T-cells ( 5 X 10° ) were activated for 48 h by costimulation using anti-CD3/anti-CD28 antibodies , and whole cell lysates were analyzed by immunoblot technique as described under `` Experimental Procedures . ''
+mAb G10-2 immunoblot : lane 1 , Jurkat cells ; lane 2 , resting T-cells ; lane 3 , activated T-cells .
+mAb J898 immunoblot : lane 4 , Jurkat cells ; lane 5 , resting T-cells ; lane 6 , activated T-cells .
+As shown , mAb G10-2 lost reactivity with Jurkat cell-derived CD43 in Nonidet P-40 containing lysis buffer .
+resting or activated T-lymphocytes ; however , a higher 160-kDa band of reactivity specific for mAb J393 was present in activated cells .
+It should be noted that in activated T-cells mAb J393 and mAb G10-2 cross-reacted with isoforms of CD43 that were of 97 kDa or smaller .
+As a further demonstration of mAb J393 reactivity with human T-lymphocytes , PHA-activated peripheral T-cells were fixed , permeabilized , and immunostained as described under `` Experimental Procedures . ''
+Examination of this preparation by confocal microscopy revealed localization of mAb J393 antigen at or near the plasma membrane ( Fig .
+11 ) .
+DISCUSSION The existence of a CD43-mediated pathway for signaling apoptosis in T-cell lineages has not been previously described .
+Our observation that the BMS-2 Jurkat cell line co-expressed two antigenically distinct isoforms of CD43 on its surface provided us with a good model for examining structure-function relationships between these two molecules .
+While both mAb J393 and mAb G10-2 induced homotypic adhesion , only mAb J393 induced apoptosis .
+This implied that the apoptotic response was independent of the homotypic adhesion phenomenon and was associated with a specific CD43 isoform .
+The reactivity of mAb G10-2 required terminal sialic acid moieties , whereas reactivity of mAb J893 was sialic acid-independent .
+Other investigators have observed sialic acid-independent CD43 antibodies to elicit stronger cellular responses than their sialic acid-dependent counterparts ( 10 ) .
+We found the carbohydrate structure of J393/CD43 in Jurkat cells to be deficient in oligosaccharide complexity and sialic acid content when compared with that of the G10-2/CD43 isoform expressed in HPB-ALL cells .
+The majority of serine/threonine residues in the extracellular portion of the J393 antigen contained only terminal GaINAc monosaccharides , similar to the Tn antigen-bear-ing CD43 molecule expressed in Jurkat cells ( 50 ) .
+Glycopeptides generated from intact mAb J393 antigen lost functional epitope as determined by immunoaffinity chromatography run under conditions that favor interaction of low valency glycopeptides with the antibody .
+Low valency for antibodies has been reported for glycopeptides containing the cluster antigens of Tn when compared with intact glycoprotein ( 56 ) .
+Although mAb J393 likely recognizes the T ' n-containing isoform of CD43 , it does not react with the surface of certain cell types expressing Tn epitopes .
+Therefore , we propose that mAb J893 recognizes a unique epitope on CD43 that has not been previously characterized .
+Fig .
+11 .
+Detection of mAb J393/CD43 epitopes in peripheral blood T-cells .
+Enriched preparations of PHA-activated peripheral blood T-cells were fixed , permeabilized , immunostained with mAb J398 , and examined by confocal microscopy as described under `` Experimental Procedures . ''
+This confocal micrograph depicts the intracellular localization of mAb J898 epitopes in T-cells .
+Little is known about how CD43 functions as a signaling molecule .
+We find that soluble , bivalent antibody is sufficient to initiate a CD43 signal , unlike the requirement for trimeric ligation by members of the TNF receptor superfamily including CD95/Fas ( 57 ) .
+In T-lymphocytes , CD43 has been shown to be constitutively phosphorylated in resting cells and hyperphosphorylated following cellular activation ( 58 ) .
+Because CD43 contains no catalytic region or tyrosine residues within the cytoplasmic domain , its phosphorylation is thought to reflect its association with serine/threonine-specific protein kinases ( 59-61 ) .
+However , investigators characterizing CD43 as a CD28-independent costimulatory molecule have described the physical association of CD43 with CD3 in a complex containing the SRC family protein tyrosine kinases Ick and fyn ( 11 ) , suggesting an involvement of CD43 with tyrosine phosphorylation events .
+Indeed , pretreatment of Jurkat cells with the tyrosine kinase inhibitor herbimycin A significantly interfered with mAb J393-induced cell death .
+We found that treatment of Jurkat cells with mAb J393 induced a rapid increase in overall protein tyrosine phosphorylation and , in particular , for proteins in the 50-55-kDa range .
+Interestingly , this group of proteins was not phosphorylated following engagement of CD3/ TcR , suggesting a degree of specificity in the pattern of CD43-induced tyrosine phosphorylation .
+Moreover , concomitant ligation of J393/CD43 and CD3/TcR resulted in the hyperphosphorylation of these CD43-dependent substrates , providing a biochemical correlate for the synergy observed for these two receptor molecules in mediating apoptosis .
+Collectively , these findings suggest that protein tyrosine phosphorylation of specific substrates is important in signaling CD43-mediated apoptosis .
+We found that preventing dephosphorylation of phosphoty-rosyl residues by blocking phosphatase activity resulted in a significant enhancement in mAb J393-induced cell death .
+Thus , the PTPase inhibitor BMLOV mimicked the action of CD3/TcR in potentiating CD43-mediated cell death , seemingly consistent with a hyperphosphorylated state .
+These results indicate that the catalytic activity of BMLOV-sensitive phos- 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog 27694 phatases negatively regulates CD43-mediated apoptosis .
+It is likely that the potentiation of CD43-mediated apoptosis by CD3/IcR engagement involves CD45 phosphatase activity since CD45 is expressed in high abundance in Jurkat cells and is required to activate TcR-associated SRC family kinases allowing for competent antigen-induced signal transduction ( 62 , 63 ) .
+Therefore , in this context CD45 may be positively regulating CD43-mediated apoptosis by directly enhancing kinase activity .
+Notably , BMLOV treatment of Jurkat cells does not interfere with TcR-induced tyrosine phosphorylation ( 55 ) which may explain why BMLOV treatment did not block the synergism we observed for TcR/CD43-induced apoptosis .
+Con-versely , the catalytic activity of SH2 PTPases may be expected to exert a negative regulatory effect on CD43-mediated apoptosis , since PTPIC has been shown to negatively regulate antigen receptor signaling in B-lymphocytes as confirmed in PTP1C-deficient mice expressing the motheaten phenotype ( 64 ) .
+Further investigation is necessary to identify which enzymes and substrate sites are involved in this CD43-mediated pathway .
+It was recently reported that CD3/TcR-induced apoptosis in T-cells is mediated by the autocrine production of the ligand for CD95/Fas ( FasL ) , thereby activating the CD95/Fas receptor signaling pathway ( 65 ) .
+Interestingly , a requirement for tyrosine kinase activation in CD95/Fas-mediated programmed cell death has been described in conjunction with a requirement for ceramide-initiated RAS activation ( 66 , 67 ) ; however , these signals alone were not sufficient for subsequent apoptosis .
+We found that neither a blocking antibody to CD95/Fas nor the competing fusion protein CD95/Fas-Ig prevented J393/CD43-induced apoptosis , making it unlikely that FasL was mediating this response .
+Moreover , we observed that combined engagement of J393/CD43-CD3/TcR leads to a rapid reduction in the nuclear localization of NF- « B and IRE regulatory proteins normally associated with transcriptional activation of the FasL gene ( 68 ) .
+Likewise , since sphingomyelinase-dependent NF-kB activation has been reported to lead to apoptosis signaled by the TNF receptor-1 `` death domain '' ( 69 ) , it is unlikely that TNF receptor-1 is involved in J393/CD43-mediated killing .
+Therefore , engagement of CD43 may define a distinct signaling pathway for programmed cell death that differs from that of the TNF-nerve growth factor receptor family .
+Perhaps in the BMS-2 Jurkat cells , constitutive activation and nuclear localization of NF- « B and IRE DNA-binding proteins are critical for continued proliferation ; hence , a decrease in nuclear localization of these transcriptional factors may lead to molecular events that promote growth arrest and eventual suicide .
+Recent findings in CD43-deficient T-cells generated by homolo-gous recombination indicate that CD43 acts as a negative regulator of T-cell activation and proliferation ( 8 ) , which may reflect our observation that CD43 signaling can suppress the activity of transcriptional regulators of early T-cell activation genes .
+While mAb J393 reacted strongly with Jurkat cell surfaces , it failed to immunostain the surface of either resting or activated peripheral blood T-lymphocytes .
+However , immunoblot analysis revealed the presence of several mAb J393-reactive proteins in the lysates of activated T-cells , possibly representing intracellular intermediates of CD43 in the process of O-glycan elongation .
+Interestingly , in activated T-cells both mAb J393 and mAb G10-2 cross-reacted with a 97-kDa isoform of CD43 .
+Investigators have previously shown that isoform-specific antibodies may cross-react with linear protein epitopes on the deglycosylated molecule and that these epitopes may be modified by glycosylation in conferring antigenic specificity ( 28 ) .
+This suggested that the antigenic specificity for these two Induction of Apoptosis in T-cells by Anti-CD43 mAb antibodies developed as a consequence of activation-induced changes in the glycosylation of the core protein .
+Furthermore , the mAb J393-specific 140-kDa isoform present in Jurkat cells was replaced with a 160-kDa isoform in activated T-cells .
+Pre-sumably , the J393/CD43 intermediate in T-lymphocytes contains less sialic acid than its counterpart in Jurkat cells , thus contributing to its reduced electrophoretic mobility ( 14 ) .
+Unlike T-cells from normal individuals , Jurkat cells have been shown to be deficient in B1,3-galactosyltransferase activity , a key enzyme in the formation of complex O-glycan structures ( 49 ) .
+Thus , we postulate that the epitope for mAb J898 is tightly regulated in T-cell lineages , normally being masked at the cell surface by the presence of complex carbohydrate chains attached to the CD43 protein .
+Our finding that apoptosis can be induced through a CD43-mediated pathway may have physiologic significance in peripheral lymphoid tissues such as the thymus and lymph nodes , since the inhibition of O-glycan elongation in T-cells potenti-ates the apoptotic effect of galectin-1 , an endogenous ligand for CD43 expressed at these sites ( 70 ) .
+Concomitant engagement of specific integrin molecules may serve to modulate CD43-induced responses as our data suggest , in addition to the specific regulation of integrin expression mediated by CD43 as observed by others ( 71 ) .
+We propose that the truncated O-glycan structure of the J393/CD43 molecule represents a molecular phenotype with an altered affinity or specificity for natural ligands involved in cell-cell interactions and that following its ligation an apoptotic response may be triggered in appropriate cell types .
+As mentioned previously , abnormalities in O-glycan biosyn-thesis are found in a variety of pathologic conditions involving hematopoietic and immunologic disorders , often correlating with the appearance of Tn antigen and autoantibodies to cell-surface molecules including CD43 ( 14 , 18 , 72 ) .
+These findings suggest that the expression of alternatively glycosylated isoforms of CD43 may contribute to the progression of such diseases by promoting T-cell deficiency and lymphopenia as a consequence of programmed cell death .
+Acknowledgments-We express our appreciation to Drs .
+Jeffrey Ledbetter , Gary Schieven , Paul Gladstone , Jacques Garrigues , and Irv Bernstein ( Fred Hutchinson Cancer Research Center , Seattle , WA ) for helpful discussions and reagents , Patti Moran-Davis and Alison Wallace for expert technical assistance , and Teresa Nelson for assistance in the preparation of this manuscript .
+REFERENCES 1 .
+Remold-O'Donnell , E. , Kenny , D. M. , Parkman , R. , Cairns , L. , Savage , B. , and Rosen , F. S. ( 1984 ) J. Exp .
+Med .
+159 , 1705-1723 2 .
+Kenny , D. , Cairns , L. , Remold-O'Donnell , E. , Peterson , J. , Rosen , F. S. , and Parkman , R. ( 1986 ) Blood 68 , 1329-1332 3 .
+Brown , W. R. A. , Barclay , A. N. , Sunderland , C. A. , and Williams , A. F. ( 1981 ) Nature 289 , 456-460 4 .
+Rosenstein , Y. , Park , J. K. , Hahn , W. C. , Rosen , F. S. , Bierer , B. E. , and Burakoff , S. J .
+( 1991 ) Nature 854 , 233-235 5 .
+Ardman , B. , Sikorski , M. A. , and Staunton , D. E. ( 1992 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+89 , 5001-5005 6 .
+Manjunath , N. , Johnson , R. S. , Staunton , D. E. , Pasqualini , R. , and Ardman , B .
+( 1993 ) J. Immunol .
+151 , 1528-1534 .
+Kojima , N. , Saito , M. , and Shuichi , T. ( 1994 ) Exp .
+Cell Res .
+214 , 587-542 .
+Manjunath , N. , Correa , M. , Ardman , M. , and Ardman , B .
+( 1995 ) Nature 877 , 535-538 9 .
+Sportsman , J. R. , Park , M. M. , Cheresh , D. A. , Fukuda , M. , Elder , J. H. , and Fox , R. I .
+( 1985 ) J. Immunol .
+185 , 158-164 10 .
+Axelsson , B. , Youseffi-Etemad , R. , Hammarstrom , S. , and Perlmann , P. ( 1988 ) J. Immunol .
+141 , 2912-2917 11 .
+Alvarado , M. , Klassen , C. , Cerny , J. , Horejsi , V. , and Schmidt , R. E. ( 1995 ) Eur .
+J. Immunol .
+25 , 1051-1055 12 .
+Parkman , R. , Remold-O'Donnell , E. , Kenny , D. M. , Perrine , S. , and Rosen , F. S. ( 1981 ) Lancet ii , 1387-1389 13 .
+Siminovitch , K. A. , Greer , W. L. , Axelsson , B. , Rubin , L. A. , Novogrodsky , A. , and Peacocke , M. ( 1998 ) Immunodefic .
+Rev .
+4 , 99-108 14 .
+Ardman , B. , Sikorski , M. A. , Settles , M. , and Staunton , D. E. ( 1990 ) J. Exp .
+Med .
+172 , 1151-1158 15 .
+Lefebvre , J.-C. , Giordanengo , V. , Limouse , M. , Doglio , A. , Cucchiarini , M. , Monpoux , F. , Mariani , R. , and Peyron , J.-F. ( 1994 ) J. Exp .
+Med .
+180 , 1609-1617 go =a 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog 16 .
+17. .
+Thunher , M. , Rusconi , S. , and Berger , E. G. ( 1993 ) J. Clin .
+Invest .
+91 , 19 .
+20 .
+21 .
+22 .
+28 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+82 .
+38 .
+84 .
+35 .
+36 .
+37. .
+Hewick , R. M. , Hunkapiller , M. W. , Hood , L. E. , and Dryer , W. J .
+( 1981 ) J. Biol .
+39 .
+40 .
+Induction of Apoptosis in T-cells by Anti-CD43 mAb Ellies , L. G. , Jones , A. T. , Williams , M. J. , and Ziltener , H. J .
+( 1994 ) Glycobi-ology 4 , 885-893 Saitoh , O. , Piller , F. , Fox , R. L. , and Fukuda , M. ( 1991 ) Blood 77 , 1491-1499 2103-2110 Shelley , C. S. , Remold-O'Donnell , E. , Davis , A. E. , Bruns , G. A. P. , Rosen , F. S. , Carroll , M. C. , and Whitehead , A. S. ( 1989 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+86 , 2819-2823 Pallant , A. , Eskenazi , A. , Mattei , M.-G. , Fournier , R. E. K. , Carlsson , S. R. , Fukuda , M. , and Frelinger , J. G. ( 1989 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+86 , 1328-1332 Shelly , C. S. , Remold-O'Donnell , E. , Rosen , F. S. , and Whitehead , A. S. ( 1990 ) Biochem .
+J .
+270 , 569-576 Cyster , J. , Somoza , C. , Killeen , N. , and Williams , A. F. ( 1990 ) Eur .
+J. Immunol .
+20 , 875-881 Cyster , J. G. , Shotton , D. M. , and Williams , A. F. ( 1991 ) EMBO J .
+10 , 893-902 Jones , A. T. , Federsppiel , B. , Ellies , L. G. , Williams , M. J. , Burgener , R. , Duronio , V. , Smith , C. A. , Takei , F. , and Ziltener , H. J .
+( 1994 ) J. Immunol .
+153 , 3426-3439 Bierhuizen , M. F. A. , Maemura , K. , and Fukuda , M. ( 1994 ) J. Biol .
+Chem .
+269 , 4473-4479 Fox , R. I. , Hueniken , M. , Fong , S. , Behar , S. , Royston , I. , Singhal , S. K. , and Thompson , L. ( 1983 ) J. Immunol .
+181 , 762-767 Baum , L. G. , Pang , M. , Perillo , N. L. , Wu , T. , Delegeane , A. , Uittenbogarrt , C. H. , Fukuda , M. , and Seilhamer , J. J .
+( 1995 ) J. Exp .
+Med .
+181 , 877-887 Silvermann , L. B. , Wong , R. C. K. , Remold-O'Donnell , E. , Vercelli , D. , Sancho , J. , Terhorst , C. , Rosen , F. , Geha , R. , and Chatila , T. ( 1989 ) J. Immunol .
+142 , 4194-4200 Wong , R. , Remold-O'Donnell , E. , Vercelli , D. , Sancho , J. , Terhorst , C. , Rosen , F. , Geba , R. , and Chatila , T. ( 1990 ) J. Immunol .
+144 , 1455-1460 Mentzer , S. J. , Remold-O'Donnell , E. , Crimmis , M. A. V. , Bierer , R. E. , Rosen , F. S. , and Burakoff , S. J .
+( 1987 ) J. Exp .
+Med .
+165 , 1383-1392 Sperling , A. I. , Green , J. M. , Mosley , R. L. , Smith , P. L. , DiPaolo , R. J. , Klein , J. R. , Bluestone , J .
+A. , and Thompson , C. B .
+( 1995 ) J. Exp .
+Med .
+182 , 139-146 Bazil , V. , Brandt , J. , Tsukamoto , A. , and Hoffman , R. ( 1995 ) Blood 86 , 502-511 Cooper , M. D. , Chase , H. P. , Lowman , J. T. , Krivit , W. , and Good , R. A .
+( 1968 ) Clin .
+Stud .
+44 , 499-513 Bowen , D. L. , Lane , H. C. , and Fauci , A. S. ( 1985 ) Ann .
+Intern .
+Med .
+108 , 704-709 Hayden , M. S. , Linsley , P. S. , Gayle , M. A. , Bajorath , J. , Brady , W. A. , Norris , N. A. , Fell , H. P. , Ledbetter , J .
+A. , and Gilliland , L. K. ( 1994 ) Therap .
+Immunol .
+1 , 3-15 Mittler , R. S. , Greenfield , R. S. , Schacter , B .
+Z. , Richard , N. F. , and Hoffmann , M. K. ( 1987 ) J. Immunol .
+188 , 3159-8166 Matsudaira , P. ( 1987 ) J. Biol .
+Chem .
+262 , 10035-10038 Chem .
+256 , 7990-7997 Maresh , G. A. , Wang , W.-C. , Beam , K. S. , Malacko , A. R. , Hellstrom , L. , Hellstom , K. E. , and Marquardt , H. ( 1994 ) Arch .
+Biochem .
+Biophys .
+811 , 95-102 Lee , N. , Wang , W.-C. , and Fukuda , M. ( 1990 ) J. Biol .
+Chem .
+265 , 20476-20487 41 .
+42 .
+48 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+57 .
+58 .
+59 .
+60 .
+61 .
+62 .
+63 .
+64 .
+65 .
+66 .
+67 .
+68 .
+69 .
+70 .
+TL .
+72 .
+27695 Carlsson , S. R. , Sasaki , H. , and Fukuda , M. ( 1986 ) J. Biol .
+Chem .
+261 , 12787-12795 Maemura , K. , and Fukuda , M. ( 1992 ) J. Biol .
+Chem .
+267 , 24379-24386 Wang , W.-C. , Clark , G. F. , Smith , D. F. , and Cummings , R. D. ( 1988 ) Anal .
+Biochem .
+175 , 390-896 Mittler , R. S. , Rankin , B. M. , and Kiener , P. A .
+( 1991 ) J. Immunol .
+147 , 3484-3440 Dignam , J. D. , Lebovitz , R. M. , and Roeder , R. G. ( 1983 ) Nucleic Acids Res .
+11 , 1475-1489 Sen , R. , and Baltimore , D. ( 1986 ) Cell 46 , 705-716 Tepper , M. A. , Nadler , S. G. , Esselstyn , J. M. , and Sterbenz , K. G. ( 1996 ) J. Immunol .
+155 , 2427-2486 Mittler , R. S. , Rao , P. E. , Talle , M. A. , Look , R. , and Goldstein , G. ( 1983 ) J. Kxp .
+Med .
+158 , 99-111 Piller , V. , Piller , F. , and Fukuda , M. ( 1990 ) J. Biol .
+Chem .
+265 , 9264-9271 Nakada , H. , Inoue , M. , Tanaka , N. , Numada , Y. , Kitagawa , H. , Fukui , S. , and Yama-Shina , I .
+( 1991 ) Biochem .
+Biophys .
+Res .
+Commun .
+179 , 762-767 Dakour , J. , Lundblad , A. , and Zopf , D. ( 1987 ) Anal .
+Biochem .
+161 , 140-148 Ohlson , S. , Lundblad , A. , and Zopf , D. ( 1988 ) Anal .
+Biochem .
+169 , 204-208 Dhein , J. , Walczak , H. , Baumler , C. , Debatin , K.-M. , and Krammer , P. H. ( 1995 ) Nature 878 , 488-441 Rudd , C. E. , Janssen , O. , Cai , Y.-C. , da Silva , A. J. , Raab , M. , and Prasad , K. V. S. ( 1994 ) Immunol .
+Today 15 , 225-234 Schieven , G. L. , Wahl , A. F. , Myrdal , S. , Grosmaire , L. , and Ledbetter , J .
+A .
+( 1995 ) J. Biol .
+Chem .
+270 , 20824-20831 Inoue , M. , Nakada , H. , Tanaka , N. , and Yamashina , I .
+( 1994 ) Cancer Res .
+54 , 85-88 Smith , C. A. , Farrah , T. , and Goodwin , R. G. ( 1994 ) Cell 76 , 959-962 Piller , V. , Piller , F. , and Fukuda , M. ( 1989 ) J. Biol .
+Chem .
+264 , 18824-18831 Chatila , T. A. , and Geha , R. S. ( 1988 ) J. Immunol .
+140 , 4308-4314 Axelsson , B. , and Perlmann , P. ( 1989 ) Scand .
+J. Immunol .
+80 , 589-547 Fukuda , M. , and Carlsson , S. R. ( 1986 ) Med .
+Biol .
+64 , 335-343 Hovis , R. R. , Donovan , J .
+A. , Musci , M. A. , Motto , D. G. , Goldman , F. D. , Ross , S. E. , and Koretzky , G. A .
+( 1993 ) Science 260 , 544-546 Volarevic , S. , Niklinska , B .
+B. , Burns , C. M. , June , C. H. , Weissman , A. M. , and Ashwell , J. D. ( 1993 ) Science 260 , 541-5438 Thomas , M. L. ( 1995 ) Immunology 7 , 279-288 Ju , S.-T. , Panka , D. J. , Cui , H. , Ettinger , R. , El-Khatib , M. , Sherr , D. H. , Stanger , B .
+Z. , and Marshak-Rothstein , A .
+( 1995 ) Nature 878 , 444-448 Eischen , C. M. , Dick , C. J. , and Leibson , P. J .
+( 1994 ) J. Immunol .
+153 , 1947-1954 Gulbins , E. , Bissonnette , R. , Mahboubi , A. , Martin , S. , Nishioka , W. , Brunner , T. , Baier , G. , Baier-Bitterlich , G. , Byrd , C. , Lang , F. , Kolesnick , R. , Altman , A. , and Green , D. ( 1995 ) Immunity 2 , 841-351 Takahashi , T. , ef al .
+( 1994 ) Int .
+Immunol .
+6 , 1567-1574 Wiegmann , K. , Schutze , S. , Machleidt , T. , Witte , D. , and Kronke , M. ( 1994 ) Cell 78 , 1005-1015 Perillo , N. L. , Pace , K. E. , Seilhamer , J. L. , and Baum , L. G. ( 1995 ) Nature 878 , 736-739 Hernandez-Caselles , T. , Martinez-Esparza , M. , Lazarovits , A. I. , and Aparicio , P. ( 1996 ) J. Immunol .
+156 , 3668-3677 Berger , E. G. , Thurnher , M. , and Dinter , A .
+( 1994 ) Transfus .
+Clin .
+Biol .
+1 103-108 610Z '01 uo 1son $ Aq /S10°0q [ 'mmmy/ : dyy wrojr popeopumog Characterization of a CD43/Leukosialin-mediated Pathway for Inducing Apoptosis in Human T-Lymphoblastoid Cells T. Joseph Brown , Walt W. Shuford , Wei-Chun Wang , Steven G. Nadler , Tina S. Bailey , Hans Marquardt and Robert S. Mittler J. Biol .
+Chem .
+1996 , 271:27686-27695. doi : 10.1074/jb0.271.44.27686 Access the most updated version of this article at http : /www.jbe.org/content/271/44/27686 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 72 references , 39 of which can be accessed free at http : //www .
+full.html # ref-list-1 610Z '01 uo 1son $ 4q /S10°0q [ 'mmmy/ : dyy wrojr popeopumog

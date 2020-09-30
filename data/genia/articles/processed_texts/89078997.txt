@@ -1,0 +1,863 @@
+Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Octamer-binding proteins from B or HeLa cells stimulate transcription of the immunoglobulin heavy-chain promoter in vitro Jonathan H. LeBowitz , Tsuyoshi Kobayashi , * > * Louis Staudt , > ~~ David Baltimore , * `` and Phillip A .
+Sharp Center for Cancer Research , and *Department of Biology , Massachusetts Institute of Technology , Cambridge , Massachusetts 02139 USA ; Whitehead Institute for Biomedical Research , Cambridge , Massachusetts 02142 USA The B-cell-type specificity of the immunoglobulin ( Ig ) heavy-chain and light-chain promoters is mediated by an octanucleotide { ( OCTA ) element , ATGCAAAT , that is also a functional component of other RNA polymerase II promoters , such as snRNA and histone H2B promoters .
+Two nuclear proteins that bind specifically and with high affinity to the OCTA element have been identified .
+NF-A1 is present in a variety of cell types , whereas the presence of NF-A2 is essentially confined to B cells , leading to the hypothesis that NF-A2 activates cell-type-specific transcription of the Ig promoter and NF-A1 mediates the other responses of the OCTA element .
+Extracts of the B-cell line , BJA-B , contain high levels of NF-A2 and specifically transcribe Ig promoters .
+In contrast , extracts from HeLa cells transcribed the Ig promoter poorly .
+Surprisingly , addition of either affinity-enriched NF-A2 or NF-A1 to either a HeLa extract or a partially purified reaction system specifically stimulates the Ig promoter .
+This suggests that the constitutive OCTA-binding factor NF-A1 can activate transcription of the Ig promoter and that B-cell-specific transcription of this promoter , at least in vitro , is partially due to a quantitative difference in the amount of OCTA-binding protein .
+Because NF-A1 can stimulate Ig transcription , the inability of this factor to activate in vivo the Ig promoter to the same degree as the snRNA promoters probably reflects a difference in the context of the OCTA element in these two types of promoters .
+[ Key Words : Cell-type specificity ; octanucleotide element ; transcription ; NF-A1 ; NF-A2 ] Received June 6 , 1988 ; revised version accepted August 23 , 1988 .
+Cell-type-specific regulation of transcription is mediated through the interaction of sequence-specific DNA binding proteins with cis-acting elements associated with genes ( McKnight and Tjian 1986 ; Sassone-Corsi and Borrelli 1986 ; Maniatis et al .
+1987 ; Guarente 1988 ; Jones et al .
+1988 ) .
+The immunoglobulin ( Ig ) heavy-chain gene contains two cell-type-specific regulatory elements that function independently to promote transcription : the heavy-chain enhancer and the promoter upstream region ( Banerji et al .
+1983 ; Gillies et al .
+1983 ; Grosschedl and Baltimore 1985 ; Mason et al .
+1985 ) .
+The heavy-chain enhancer contains an array of binding sites for specific proteins that act as activators or , perhaps in some cases , as repressors of transcription ( Church et al .
+1985 ; Ephrussi et al .
+1985 ; Scholer and Gruss 1985 ; Augereau and Chambon 1986 ; Landolfi et al .
+1986 ; Schlokat et al .
+1986 ; Sen and Baltimore 1986 ; Singh et al .
+1986 ; Staudt et al .
+1986 ; Wasylyk and Wasylyk 1986 ; Weinberger et al .
+1986 , 1988 ; Gerster et al .
+1987 ; Lenardo et al .
+1987 ; Present addresses : `` Ajinomoto , Co. , Inc. , Applied Research Department , Kawasaki , Japan ; Branch , National Cancer Institute , National Institutes of Health , Bethesda , Maryland 20892 USA .
+GENES & DEVELOPMENT 2:1227-1237 © 1988 by Cold Spring Harbor Laboratory ISSN 0890-9369/88 $ 1.00 Peterson and Calame 1987 ) .
+In contrast , only a single cell-type-specific transcriptional element , the octanucleotide ( OCTA ) element ( ATGCAAAT = OCTA ) , has been identified in the Ig promoter ( Faulkner and Zachau 1984 ; Parslow et al .
+1984 ; Grosschedl and Baltimore 1985 ; Mason et al .
+1985 ) .
+This element is found 20-30 nucleotides upstream of the TATA box in the heavy-chain promoter and in an inverted orientation in the k-chain promoter .
+It is also a functional component of the heavy-chain enhancer .
+In each of these contexts , the OCTA element has been shown to direct cell-type-specific transcription of the cis-linked gene ( Bergmann et al .
+1984 ; Faulkner and Zachau 1984 ; Foster et al , 1985 ; Gopal et al .
+1985 ; Picard and Schaffner 1985 ; Mizu-shima-Sugano and Roeder 1986 ; Dreyfus et al .
+1987 ; Lenardo et al , 1987 ; Wirth et al .
+1987 ) .
+However , the OCTA element has also been identified as a functional element in a number of genes that are transcribed in all cell types .
+The human histone H2B gene contains the OCTA element 10 bp upstream of the TATA box ( Sive and Roeder 1986 ) .
+In this context , the OCTA element stimulates transcription of the H2B gene 1227 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press LeBowitz et al .
+3- to 10-fold in HeLa extracts ( Sive et al .
+1986 ) .
+The OCTA element is also found in the enhancers of the U1 , U2 , and U4 snRNA genes { Mattaj et al .
+1985 ; Mangin et al .
+1986 ; Sive and Roeder 1986 ; Ares et al .
+1987 ; Boh-mann et al .
+1987 ; Dahlberg and Lund 1987 ; Murphy et al .
+1987 ; Roebuck et al .
+1987 ) .
+These genes are transcribed by RNA polymerase II but have no TATA box .
+In all three cases , an OCTA sequence and a binding site for the general transcription factor Spl are present in an element mapping from -220 to -280 .
+Mutations in the U2 snRNA gene OCTA element abolish transcription of the gene .
+Additionally , OCTA elements are present upstream of the herpes simplex virus ( HSV ) thymidine ki-nase gene ( Parslow et al .
+1987 ) and may also be important for the « TIF-mediated activation of the HSV « genes ( Pruijn et al .
+1986 ; Kristie and Roizman 1987 ; McKnight et al .
+1987 ; O'Hare and Goding 1988 ) .
+Finally , the U6 snRNA gene and the 75K RNA gene , both of which are transcribed by RNA polymerase III , contain an apparently functional OCTA element ( Bark et al .
+1987 ; Carbon et al .
+1987 ; Krol et al .
+1987 ; Murphy et al .
+1987 ; Das et al .
+1988 ) .
+Therefore , although sufficient to direct B-cell-specific transcription of some cis-linked genes , the OCTA element also functions as a transcriptional activator in most cell types .
+Nuclear proteins that interact specifically with the OCTA element have been identified in both lymphoid and nonlymphoid cell lines and tissues .
+Gel electrophoresis assays using a binding site probe containing the OCTA element have revealed two major protein-DNA complexes whose quantities vary in different cell types ( Landolfi et al .
+1986 ; Staudt et al .
+1986 ) .
+The slower-mi-grating DNA-protein complex-containing factor NF-A1 is detectable in extracts of both lymphoid and nonlymphoid cells .
+The faster-migrating complex formed by NF-A2 has been detected only in extracts from B-cell lines .
+These two DNA-binding proteins exhibit indistinguishable DNA binding characteristics , as exhibited by DNase I footprinting and methylation interference assays ( Staudt et al .
+1986 ) .
+Both OCTA-binding proteins have been purified recently ; NF-Al1 ( OTF-1 ) has a molecular weight of ~90,000 , whereas NF-A2 ( OTF-2 ) has a molecular weight of ~61,000 [ Fletcher et al .
+1987 ; Scheidereit et al .
+1987 ; Sturm et al .
+1987 ; Wang et al .
+1987 ; O'Neil and Kelly 1988 ) .
+Furthermore , Northern analysis with a partial cDNA , which probably encodes the NF-A2 protein ( Staudt et al .
+1988 ) , indicates that the NF-A2 and NF-Al proteins are encoded by distinct genes .
+The cDNA segment only hybridizes to poly { A ) * RNA from B cells .
+The existence of the two distinct OCTA-binding proteins has led to the hypothesis that NF-A2 is responsible for the cell-type-specific transcription from Ig promoters , whereas NF-A1 activates the class of OCTA-dependent genes transcribed in all cell types .
+In fact , in vitro , purified OTF-2 can activate transcription of an Ig promoter , whereas OTF-1 can activate transcription of the histone H2B promoter [ Fletcher et al .
+1987 ; Scheidereit et al .
+1987 ) .
+However , these studies do not address whether the general factor NF-Al ( OTF-1 ) is capable of 1228 GENES & DEVELOPMENT activating transcription from an Ig promoter .
+This experiment is critical for determining whether the cell-type specificity of OCT A-dependent transcription solely reflects the specificity of the OCTA-binding proteins .
+We have established an in vitro transcription system that reproduces the biological cell-type specificity of the Ig heavy-chain promoter using nuclear extracts from a human B-cell line { BJA-B ) and HeLa cells .
+We show that both the lymphoid-specific OCTA-binding protein NF-A2 and the constitutive OCT A-binding protein NF-A1 are capable of activating transcription from the Ig heavy-chain promoter .
+Results Nuclear extracts prepared from either BJA-B cells or from Hela cells were tested for their ability to initiate transcription accurately from plasmids containing derivatives of an Ig heavy-chain promoter .
+Three 5 deletion mutants of the Ig heavy-chain promoter-pA80 and A69 , which retained the OCTA element , and mA48 , in which the OCTA element has been deleted [ Fig .
+1 ) -were used as the initial test templates in transcription reactions .
+A plasmid , pFLBH , containing the adenovirus major late promoter ( MLP ) was included as an internal control in all transcription experiments .
+Specific products of the transcription reactions were analyzed by hybridization to bacteriophage M13 single-stranded recombinants containing inserts that spanned the initiation sites of either the Ig promoter or the adenovirus MLP .
+These inserts were complementary to 89 and 220 nucleotides of product RNAs that were accurately initiated at the Ig and MLP promoters , respectively { See Materials and methods } .
+As expected , pUCpuA80 and pUCpmA69 were both transcribed in BJA-B extracts at significantly higher levels ( 10- to 20-fold ) than in HeLa extracts ( Fig .
+2 , lanes 5 , 7 , 13 , 15 ) .
+Transcription from pUCpmA48 was virtually undetectable in either extract ( Fig .
+2 , lanes 6 and 14 ) .
+A small but reproducible difference was often detected in the levels of transcription supported by HeLa extracts in reactions containing pUCpA80 and pUCpmA69 , as compared with that containing the OCTA-deleted plasmid pUCpAd48 { data not shown ) .
+This suggested that the HeLa nuclear extract was utilizing the OCTA element in transcription of the Ig promoter .
+Identical results were obtained whether linear or supercoiled templates were used and whether the u promoters resided in a pUC or pBR backbone ( data not shown ) .
+These results are consistent with the previous experiments showing that cell-type-specific transcription in vitro from Ig promoters requires the presence of the OCTA element ( Mi-zushima-Sugano and Roeder 1986 ; Scheidereit et al .
+1987 ) .
+To extend these observations , a series of plasmids was constructed in which synthetic oligonucleotides containing either the OCTA element or single-base variations of it were inserted into pUCA48 just 5 to the deletion end point ( see Fig .
+1 for resulting constructs and Materials and methods for details of construction ) .
+Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Ig promoter transcription in vitro E 57-50 -30 24 + : _ ' | r ; waso 4 E +1 | i - » nase -/_-per -- a ] _ E +1 l i ¥ Ereral - » wA48 TATA |- -L E -69 61 a , 3 pUCwis A48 ATGCAAAT - |- ] - » m E +1 i puowsa4s | -C- arrrecat TATA ] r* +5I7 E +1 H pUC-7/8 A48 ATTTGCeT raraAl -* +5|7 e E +1 i | | c* | pUC-11/12 A48 _*_| attg acat TATA L Figure 1 .
+- Structure of Ig promoter templates .
+The locations of the RNA cap site ( +1 ) , TATA box , and OCTA element are indicated .
+( -80 , -~69 , and -48 ) The end points of 5 ' deletions in the Ig promoter upstream region relative to the mRNA cap site .
+( +57 ) The downstream end point of the immunoglobulin promoter sequence .
+The sequence of the OCTA element in the wild-type and point mutant oligonucleotide constructs is indicated with mutations denoted by lowercase letters .
+E ( EcoRI ) and H ( HindIII ) indicate the position of these restriction sites in the parent vectors for the purposes of orientation .
+The 5 ' deletion mutants wA80 , 1A69 , and pmA48 were placed either in a pBR322 backbone ( pBRuA80 , pBRuA69 , pBRpA48 ) or in a pUC backbone ( pUCpuA80 , pUCuA69 , pUCuA48 ) .
+( See Materials and methods for the details of plasmid constructions . )
+Plasmids pUCwt3A48 and pUCwt5A48 , which contain the wild-type OCTA sequence , were both efficiently transcribed in BJA-B nuclear extracts , whereas these plasmids were inactive when assayed in HeLa nuclear extracts [ Fig .
+2 , lanes 1-2 , 9-10 } .
+Transcription from the two point mutant constructs , pUC-7/8¥48 and pUC-11/ 12A48 , was not observed in either BJA-B or HeLa nuclear extracts ( Fig .
+2 , lanes 3-4 , 11-12 ) .
+These results confirm that B-cell-specific transcription from the Ig heavy-chain promoter is dependent upon the OCTA element .
+Interestingly , the wild-type OCTA-oligonucleotide constructs were transcribed about one-third as efficiently as pUCpuA80 and pUCpuA69 ( Fig .
+2 , lanes 1-2 , 5 , 7 ) .
+This might be due to the absence of important flanking sequences in the oligonucleotide-plasmid constructs ( Ballard and Bothwell 1986 ; Eaton and Calame 1987 ) or , alternatively , to the difference in position of the OCTA element in these promoters .
+The OCTA element is 12 nucleotides farther upstream of the TATA box in the oligonucleotide-plasmid constructs than in the Ig-promoter constructs .
+Extract mixing experiments using BJA-B and HeLa extracts were done to determine whether there was a dom- inant repressor in the latter extracts that interfered with transcription from the Ig promoter .
+Transcription from pBRpuA69 and pBRpA48 templates was compared in the mixed extracts with levels of transcription produced by either extract alone ( data not shown ) .
+It was apparent that the HeLa extract did not repress the transcriptional activity of the BJA-B extract .
+This suggests that a transcriptional activator is present in the B-cell extract that specifically stimulates the Ig promoter .
+The likely candidate for the positive activator in BJA-B nuclear extract was NF-A2 , the B-cell-specific OCTA-binding protein .
+However , Hela extracts contained NF-A1 , a factor that also interacts with high affinity with the OCTA element .
+To determine the contributions of these OCTA-binding proteins , it was necessary to remove them specifically from both nuclear extracts and assay whether the ability to stimulate Ig transcription was a property that resided in the depleted extracts or whether this activity was associated with one or both of the OCTA-binding proteins .
+Both BJA-B and HeLa extracts were depleted of OCTA-binding proteins by passing them over a DNA affinity column containing covalently attached oligonucleotide segments GENES & DEVELOPMENT 1229 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press LeBowitz et al .
+wt3 wt5 MLP » 10 2 3 40 5 6 7 8 9 ela wt5 A80 I 7/8 11/12 ] 4I 5C iG ( | A48 10 11 12 13 14 45 46 Figure 2 .
+- Gel electrophoresis of products from in vitro transcription of wild-type and point mutant oligonucleotide templates .
+Transcription reactions were carried out as described in Materials and methods .
+Products were resolved on a 6 % polyacrylamide-urea gel .
+Portions of the gel that contain correctly initiated transcription products are displayed .
+( Lanes 1-8 ) BJA-B nuclear extract ; { lanes 9-16 ) Hela nuclear extract .
+Each reaction contained 1.9 pg/ml pFLBH , which bears the adenovirus MLP as an internal control .
+Ig promoter templates used in each reaction are as follows : ( lanes 1 and 9 ) pUCwt3A48 ; ( lanes 2 and 10 } pUCwt5A48 ; { lanes 3 and 10 ) pUC-7/8A48 ; ( lanes 4 and 11 } pUC-11/12448 ; { lanes 5 and 13 } pUCpA80 ; { lanes 6 and 14 ) ( lanes 7 and 15 ) pUCpuA69 ; ( lanes 8 and 16 ) pFLBH , 19 ug/ml .
+Arrows denote the location of correctly initiated transcripts from the Ig promoter templates and from the adeno- virus MLP template .
+encompassing the OCTA-binding site .
+Flowthrough fractions , designated 'depleted extract , ' ( AH or AB ) , were depleted of 80-90 % of NF-A1 and NF-A2 DNA-binding activity ( data not shown ) .
+NF-A1 and NF-A2 were subsequently eluted from the affinity column with high salt concentrations ( see Materials and methods for details ) .
+Recoveries of the OCTA-binding activities through this step typically ranged between 40 % and 80 % .
+Other DNA-binding proteins , in addition to those specific for the OCTA sequence , might be retained selectively on the affinity column during the two-step fractionation .
+Fractions from the affinity column were also assayed for the DNA-binding activity of MLTFE { major late transcription factor , USF ) , a protein that binds specifically to sequences in the adenovirus MLP ( Carthew et al .
+1985 ; Sawadogo and Roeder 1985 ) .
+Under the chromatography conditions , which included 50 pg/ml of poly { dIdC - dIdC ) , ~70 % of the MLTF binding activity flowed through and was present in the depleted extract when the BJA-B extract was passed over the affinity column .
+Furthermore , although these depleted extracts were able to transcribe the adenovirus MLP at levels virtually indistinguishable from those of the complete extracts , neither could transcribe the Ig promoter plasmid ( pBRpA69 ) at significant levels { see Fig .
+4 , lanes 1 , 11 , 13 , and 23 ) .
+This strongly suggests that the chromatography was specific for the OCTA-binding protein .
+Fractions containing affinity-enriched OCTA-binding protein were prepared from HeLa and BJA-B extracts that contained approximately equivalent DNA-binding units per volume ( Fig .
+3 ) .
+The DNA-binding assays were done essentially under transcription conditions to facilitate direct comparison of binding and transcription activities { see Materials and methods for details ) .
+BJA-B extracts typically contain ~3-10 times more total OCTA-binding activity than HeLa extracts .
+The fraction from 1230 GENES & DEVELOPMENT BJA-B contained NF-A2 activity almost exclusively , whereas the equivalent HeLa fraction contained NF-A1-binding activity only ( see Fig .
+3 and Materials and methods ) .
+These fractions were assayed for their ability to complement the depleted BJA-B and HeLa extracts for transcription of the Ig promoter pBRpA69 .
+Representative results are presented in Figure 4 .
+When increasing amounts of either OCTA-binding protein fraction were added to the BJA-B depleted extract ( lanes 13-23 ) , levels of transcription from the Ig promoter increased linearly .
+Similar results were obtained when these protein fractions were added to a HeLa-depleted extract ( lanes 1-11 ) .
+As a control for the effect of any general transcription factors that might have been selected fortuitously in the OCTA-binding protein fractions , the Ig transcriptional signal was normalized against the signal from the adenovirus MLP ( Fig .
+5A , B ) .
+This revealed that the transcriptional activities of both affinity-enriched OCTA-binding proteins were related linearly to the total DNA-binding activity .
+Addition of the OCTA-binding protein from B cells { ( NF-A2 ) to either depleted extract was approximately twofold more effective in stimulating transcription than the analogous protein NF-Al from Hela cells .
+Neither of the two OCTA-binding protein fractions was capable of stimulating transcription from the plasmid pBRpA48 or from the OCT A-oligonu-cleotide mutant constructs described above [ ( data not shown ) .
+Thus , we conclude that both OCTA-binding proteins NF-A1 and NF-A2 are capable of stimulating transcription from the Ig promoter when added to extracts of either B or non-B cells .
+The transcriptional activity of affinity-enriched OCTA-binding protein was also tested in a reconstituted transcription reaction containing partially purified general transcription factors and purified RNA polymerase II { see Materials and methods ) .
+These fractions , prepared Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Ig promoter transcription in vitro aH __ aH aB __ AB + OBP ( B ) OBP ( H ) OBP ( H ) OBP ( B ) OBP ( H ) OBP ( B ) I 1 \ u Q/ u Q `` _ in A 0b d o mQ om & 148 1 & 8 w O - iO op -- 66 C266 .
+666666 6 6 5 S 6 5 ~ o `` `` 1 2 3 4 5 6 7 8 9 10 1112 13 141516171819 Figure 3 .
+- Gel mobility shift assays of OBP fractions affinity-purified from BJA-B and HeLa nuclear extracts .
+Reactions were assembled and carried out as described in Materials and methods .
+The DNA probe used was prepared from plasmid pUCwt3 and contains the wild-type OCTA element embedded in the pUC polylinker ( see Materials and methods } .
+( Lanes 1-3 ) 1.0 , 0.5 , and 0.25 pl , respectively , of the OBP fraction from the BJA-B [ OBP ( B ) ] ; ( lanes 4-6 ) 1.0 , 0.5 , and 0.25 pl of the OBP fraction from HeLa extracts [ OBP ( H ) ] ; ( lanes 7-9 ) 0.5 , 0.25 , and 0.125 ul each of OBP { ( H ) and depleted HeLa extract ( AH ) ; ( lanes 10-12 ) 0.5 , 0.25 , and 0.125 1 each of OBP ( B ) and depleted Hela extract { AH } ; [ lanes 13-15 ) 0.5 , 0.25 , and 0.125 ul of OBP { H ] ) and depleted BJA-B extract ( AB ) ; ( lanes 16-18 ) 0.5 , 0.25 , and 0.125 .
+each of OBP { ( B ) and depleted BJA-B extract { AB } ; ( lane 19 ) no addition .
+Arrows indicate the position of complexes representing NF-Al , NF-A2 , and free probe .
+The band running just below that designated NF-A2 represents binding of a nonspecific DNA binding protein to the probe since it is not competed by excess unlabeled OCTA probe { data not shown ) .
+from HeLa cells , did not contain appreciable levels of NF-Al activity and did not transcribe the Ig promoter .
+When increasing amounts of either NF-A1l- or NF-A2-containing fractions were added to the reconstituted system , transcription from the Ig promoter was stimulated linearly .
+The normalized data indicate that the two OCTA-binding proteins have almost identical ratios of transcription stimulatory/DNA binding activities ( Fig .
+5C ) .
+The Hela OCTA-binding protein fraction clearly stimulates transcription from the Ig promoter when added to either a reconstituted system or to a depleted HeLa extract .
+This suggests that Ig transcription in vitro does not require a B-cell-specific factor and that the inefficient transcription of the Ig promoter in complete HeLa extracts reflects a low level of OCTA-dependent stimulatory activity .
+To test this possibility , OCTA-binding protein fractions were added directly to complete HeLa nuclear extracts ( Fig .
+5D ) .
+Once again , both OCTA-binding protein fractions were capable of stimulating transcription from the Ig promoter .
+However , when the endogenous levels of NF-Al in the Hela ex tract are taken into account , the equivalent of 55 OCTA-binding protein ( OBP ) units , the NF-A2 fraction appears to be approximately fourfold more potent in transcriptional activation than the NF-A1 fraction .
+Discussion The paradox that the same octanucleotide sequence , OCTA , directs B-cell-specific transcription of Ig promoters and cell-type constitutive transcription of other promoters has become more defined with the recent recognition that a gene expressed in a B-cell-specific fashion encodes a protein that binds to this sequence ( Staudt et al .
+1988 ) .
+This gene probably encodes the previously identified B-cell-specific factor NF-A2 , and this factor is most likely responsible for the high levels of OCTA-dependent transcription in B cells .
+OCTA-dependent transcription of genes in non-B cells , such as the histone H2B and snRNA genes , is probably mediated by the constitutive factor NF-A1 , i.e .
+, a protein expressed in all cell types .
+The paradox can then be restated .
+Why does the NF-A1 factor not stimulate transcription of the GENES & DEVELOPMENT 1231 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press LeBowitz et al .
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 Figure 4 .
+- Products from transcription reactions with depleted extracts and added OBP fractions .
+Transcription reactions were assembled as described in Materials and methods , except that reactions contained 7 ul of OBP-depleted BJA-B { AB } or HeLa ( AH ) nuclear extract as indicated .
+Also , OCT protein fractions derived from either BJA-B , OBP { ( B ) , or HeLa OBP { ( H ] extracts were added as indicated .
+These fractions were prepared as described in Materials and methods .
+The templates used in these reactions were pBRpA69 and pFLBH .
+( Lanes 1-171 ) 7 pl of depleted HeLa extract that contains 7 units of NF-A1 .
+Addition of 3 wl of OBP { H ) or OBP ( B ] ) { 70 units ) to 7 pl AHeLa provides a mix with OBP activity equivalent to that in 7 wl intact Hela extract .
+( Lanes 13-23 ) 7 pl of depleted BJA-B extract that contains 14 units of NF-A2 and 7 units of NF-A1l .
+Addition of 8 wl of OBP { H ) or 9 pl of OBP ( B ) ( 196 units } to 7 pul ABJA-B extract provides a mix with OBP activity equivalent to that in 7 pl intact BJA-B extract .
+In addition , lanes 2-5 contained 2 , 4 , 6 , and 8 ul of OBP ( B ) , respectively .
+( Lanes 6-9 ) 2 , 4 , 6 , and 8 wl of OBP { ( H ) } , respectively ; ( lane 10 ) 8 pl of HeLa extract ; { lane 11 ) an additional 8 ul of depleted Hela extract ; ( lanes 14-17 ) 2 , 4 , 6 , and 8 pl of OBP ( B ) , respectively ; ( lanes 18-21 ) 2 , 4 , 6 , and 8 pl of OBP { ( H } , respectively ; ( lane 22 ) 8 pl of HeLa extract ; { lane 23 ) an additional 8 jl of depleted BJA-B extract ; ( lanes 12 and 24 ) 15 pl of HeLa and BJA-B nuclear extracts , respectively .
+Arrows denote the location of correctly initiated transcripts from the Ig promoter templates ( Ig ) and from the adenovirus MLP template .
+Regions of the gel that contain correctly initiated transcripts are displayed .
+Ig promoter in non-B cells , and how does NF-AZ specifically stimulate Ig transcription in B cells ?
+Part of the answer to the above paradox is probably quantitative .
+The constitutive factor NF-Al probably does weakly stimulate transcription of the Ig promoter in non-B cells .
+Low levels of OCTA-dependent transcription of Ig-like promoters have been observed following transfection of NIH-3T3 cells ( Dreyfus et al .
+1987 , Wirth et al .
+1987 ) .
+A correspondingly low level of OCTA-dependent transcription was observed in this in vitro analysis of the activity of the Ig promoter in HeLa nuclear extracts and has been described in other studies ( Sen and Baltimore 1987 ) .
+More importantly , addition of higher concentrations of the affinity-enriched NF-Al factor to a HeLa nuclear extract proportionally stimulated OCTA-dependent Ig transcription .
+Thus , the constitutive factor NF-Al can promoter transcription by binding to the OCTA sequence in the Ig promoter .
+Several observations suggest possible explanations for the high activity of the Ig promoter in B cells .
+First , many B cells contain high levels of the OCTA-binding promoter NF-A2 , which promotes Ig transcription effi-ciently .
+In some B-cell lines such as BJA-B , the level of detectable NF-A2-binding activity is 5-10 times greater than that of NF-Al in HeLa cells .
+The relationship between the amount of NF-A2 activity and the level of Ig promoter activity in a given cell line has not been explored systematically in vivo .
+However , it is clear from 1232 GENES & DEVELOPMENT in vitro studies that addition of affinity-enriched NF-A2 to depleted extracts stimulates Ig promoter transcription linearly .
+It is interesting in this regard that Sen and Baltimore ( 1987 ) failed to observe higher levels of OCTA-dependent transcription of the xk promoter in extracts of B lymphoma cell lines than in extracts of HeLa cells .
+This is probably explained by the fact that both of the Epstein-Barr-transformed cell lines used in this previous study contained low levels of the B-cell-specific factor NF-A2 .
+In addition to the quantitative difference as an explanation , the NF-A2 factor may be particularly efficient in stimulating the Ig promoter .
+The activity of the NF-A2 was twofold higher than that of the constitutive factor NF-A1 when compared at equivalent levels of occupancy of the Ig promoter .
+This small difference in activity in vitro of NF-A1 and NF-A2 when bound to the Ig promoter may reflect a more dramatic difference in vivo .
+As mentioned before , snRNA promoters and other promoters are transcribed in an OCTA-dependent fashion in non-B cells ( Mattaj et al .
+1985 ; Dahlberg and Lund 1987 ; Parslow et al .
+1987 ; La Bella et al .
+1988 ) .
+In contrast , the Ig promoter is transcribed very poorly in non-B cells , as compared with the genes for snRNAs .
+Thus , in non-B cells , the degree of stimulation of transcription by OCTA recognition in the Ig and snRNA promoters is very different .
+Although we have no direct evi-dence , we suggest that the contexts of the OCTA Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Ig promoter transcription in vitro J > 0 1.2 0.83 a 2 < |_| = 0.67 a 0.8 - E ” g | c S 0.67 3 0.41 A - G 2 S 0.47 5 T § | | -- OBP ( H ) S 0.27 S a V. -- OBP ( H g 0.2 - OBP ( B ) p os OBPEB ; 00 ° I * I 00 T T t T 0 100 200 0 100 200 OBP units & C p OBP units 5 0.8 J B yq - a .
+4 g | g 0.6 eal I .
+Z .
+3 7 & .C ] 2 0.47 8 3 { A - | 5 44 -+ OBP ( H ) < 0.217 -- OBP ( H ) - -+ _ OBP ( B ) - -+ _ OBP ( B ) 0 T ~ -- I `` 0.0 r 1 -- - r 0 100 200 300 0 100 200 300 OBP units OBP units added Figure 5 .
+( A ) Quantitation of transcription levels in depleted HeLa extracts .
+Levels of correctly initiated products from the Ig and MLP depicted in Fig .
+4 were quantitated by densitometry .
+Transcription from the Ig promoter was normalized to the level of transcription from the adenovirus MLP for each data point .
+This normalized transcription activity ( Ig/MLP ) was plotted against the units of OCTA-binding protein activity added to each reaction .
+OBP ( H ] and OBP { ( B ) represent OCT A-binding protein fractions affinity-enriched for HeLa or BJA-B extracts , respectively .
+( B ) Quantitation of transcription levels in depleted BJA-B extracts .
+Levels of correctly initiated products from the Ig and MLPs depicted in Fig .
+4 were quanitated by densitometry .
+Transcription from the Ig promoter was normalized to the level of transcription from the adenovirus MLP and plotted as described in A .
+( C ) Reconstituted transcription reactions with added OCTA-binding protein fractions .
+Reconstituted transcriptions were assembled as described in Materials and methods .
+The templates used in these reactions were pBRpA69 and pFLBH .
+Reactions received 2 , 5 , and 10 pl , respectively , of OCTA-binding protein affinity-enriched from BJA-B extracts , OBP ( B ) } , or 2 , 5 , and 10 pl , respectively , of OCTA-binding protein affinity-entriched from Hela extracts , OBP ( H ] .
+Levels of correctly initiated products from the Ig and MLPs were quantitated by densitometry .
+Transcription from the Ig promoter was normalized to the level of transcription from the adenovirus MLP and plotted as described in A .
+{ D ) Transcription reactions with HeLa extract and added OCTA-binding protein fractions .
+Transcription reactions were carried out as described in Materials and methods .
+Each reaction contained 5 pl of HeLa nuclear extract .
+The templates used in these reactions were pBRpA69 and pFLBH .
+Reactions received 2 , 5 , and 10 pl , respectively , of OCT A-binding protein affinity-entriched from BJA-B extracts , OBP ( B ) , or 2 , 5 , and 10 pl , respectively , of OCTA-binding protein affinity-enriched from HeLa extracts , OBP ( H } .
+Levels of correctly initiated products from the Ig and MLPs were quantitated by densitometry .
+Transcription from the Ig promoter was normalized to the level of transcription from the adenovirus MLP and plotted as described for A .
+GENES & DEVELOPMENT 1233 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press LeBowitz et al .
+binding site in these promoters may explain the difference .
+The critical change in context is probably not variations in distance between the OCTA-binding site and the site of initiation .
+It more likely reflects interaction of NF-Al1 with other DNA-binding factors in the vicinity of OCTA site .
+For example , the H2B and snRNA promoters contain binding sites for other known factors such as SP1 and CAATT adjacent to the OCTA element ( Sive et al .
+1986 ; Ares et al .
+1987 ) .
+These factors may facilitate the binding and activity of the NF-Al factor and thus generate the high levels of OCT A-dependence typical of snRNA promoters .
+In contrast , recent studies make it clear that a B-cell-specific promoter primarily consists of an OCTA element upstream of a TATA box ( Dreyfus et al .
+1987 ; Wirth et al .
+1987 ) .
+Thus , NF-Al may not stimulate the Ig promoter efficiently in vivo because of the absence of interactions with other cellular factors .
+In a more elaborate model , the lack of activity of Ig promoter constructs in nonlymphoid cells in vivo could be due to the existence of regulatory proteins that interact with and modulate the transcriptional activity of NF-A1 dependent upon the context of the bound fac-tor .
+NF-Al appears to be involved in a number of unusual transcriptional programs .
+Aside from being a pol II transcription factor , NF-Al may also participate in transcription of pol III promoters such as those for 7SK and U5 snRNA ( for reviews , see Folk 1988 ; Sollner-Webb 1988 ) , and it also appears to participate in the cell-cycle regulation of histone H2B transcription ( La Bella et al .
+1988 ) .
+Furthermore , NF-Al may participate as a DNA replication protein in the replication of the adenovirus genome [ Pruijn et al .
+1986 ; Rosenfeld et al .
+1987 ) .
+A pleiotropic effector such as NF-A1 surely must interact with other proteins that modulate its many activities .
+One of these proteins might be capable of specifically inhibiting the activity of NF-A1 when bound in the context on Ig promoters .
+Such an inhibitor may have been titrated out in the in vitro experiments reported here or have been inactivated during extract preparation and fractionation .
+There is ample precedent for transcription factor-specific inhibitors , including the well-character-ized GaIS8O suppression of Gall4 activity in yeast ( John-ston et al .
+1987 ; Ma and Ptashne 1987 ) .
+Materials and methods Buffers Buffer D contained 20 mm HEPES-KOH ( pH 7.9 ) , 20 % glycerol , 100 mm KCl , 0.2 mm EDTA , 0.5 mm PMSF , 0.5 mm DTT , and 0.01 % NP-40 .
+Cell growth and extracts The BJA-B cell line is derived from a human African Burkitt 's lymphoma , is Epstein-Barr virus ( EBV ) negative , and expresses surface Ig ( Klein et al .
+1974 ) .
+BJA-B cells were grown in RPMI 1640 media ( Hazelton ) with 10 % fetal calf serum , 50 mm B-mercaptoethanol , 100 U/ml penicillin , and 100 ug/ml strepto-mycin .
+Batches of 8 liters of BJA-B cells were grown in suspension in spinner bottles and harvested at a cell density of about 105/ml .
+HeLa cells were grown in JMEM ( Hazelton ) with 5 % 1234 GENES & DEVELOPMENT horse serum .
+Batches of 8 liters of Hela cells were grown in suspension in spinner flasks and harvested at a cell density of ~2-3 x 105/ml .
+Nuclear extracts from harvested cells were prepared as described ( Dignam et al .
+1983 ) .
+Protein concentrations of extracts were determined by the method of M.M .
+Bradford [ 1976 ] .
+Plasmids and constructions pUCi8wt5 and pUC18wt3 contain the synthetic oligonucleotide 5-GATCATTTGCATGATC-3 ' ligated in either orientation into the BamHI site in the polylinker site of pUC18 as described ( Wirth et al .
+1987 ) .
+The orientation shown above is that for pUC18wt5 .
+pUC18-7/8 and pUC18-11/12 contain , respectively , the synthetic oligonucleotide 5'-GATCAT-TTGCCTGATC-3 ' and 5-GATCATTGGCATGATC-3 ' cloned into the BamHI site of pUC18 { Wirth et al .
+1987 ) .
+pUC18pA80 , pUC18pA69 , and pUC19pA48 contain 5 deletions of a murine immunoglobulin V ; promoter fragment derived from the heavy-chain gene ( Grosschedl and Baltimore 1985 ) cloned into the Smal and Sall sites of pUC18 .
+The promoter fragments extend from -80 , -69 , and -48 , respectively , relative to the cap site to a Sall site at +57 .
+( These plasmids were the kind gift of Thomas Wirth . )
+pBRpA80 , pBRpA69 , and pBRpuA48 were constructed by ligating ( T4 DNA ligase , Bochringer-Mannheim Biochemicals ) the EcoRI-HindIII fragments of the analogous pUC constructs into EcoRL- and Hin-dIlll-cut pBR322 .
+The plasmids pUCwt3A48 , pUCwt5A48 , pUC-7/8¥48 , and pUC-11/12A48 were constructed by sequentially cutting pUCpA48 with Kpnl , removing the resultant 3 ' overhang with T4 DNA polymerase ( Boehringer-Mannheim Biochemicals ) , digesting with HindIII , and isolating the resultant KpnlI-HindIII fragment .
+This fragment , which contained the p. promoter sequences , was then ligated into the series of pUC oligo plasmids that had been first cut with Xbal and after the Xbal 5 overhangs were filled in with Klenow , then cut with HindIII .
+Plasmid pFLBH , which contains sequences derived from the adenovirus MLP has been described { Samuels et al .
+1984 ) .
+M13 probes Ml & dmpl1A48 and Mlampl18A48 were constructed by ligating the EcoRI-HindIlI fragment of pUC18pA48 into EcoRI- and HindlI-cut Mlampll and RF DNAs , respectively .
+M1l & mp11A48 contains the strand complementary to the p promoter RNA .
+MI13XH11 ( a kind gift of Richard Carthew ) contains sequences derived from plasmid pFLBH and is complementary to MLP RNA ( Samuels et al .
+1984 ) .
+Growth and isolation of single-stranded M13 phage DNA was accomplished as described ( LeBowitz and McMacken 1986 ] .
+DNA binding reactions DNA binding assays were performed by gel electrophoresis ( Fried and Crothers 1981 ; Garner and Revzin 1981 ) .
+Radiolabeled probe for DNA binding reactions was prepared by digesting 20-30 pg of plasmid pUCwt3 with EcoRI and HindIII .
+The single-stranded tails were filled in using Klenow fragment in the presence of 100-200 wCi [ « -*2P ] dATP .
+Radiolabeled probe fragment was subsequently isolated after electrophoresis in a 5 % acrylamide gel by eluting from a crushed gel slice .
+The eluted probe fragment was then purified by chromatography on a Elutip column [ Schleicher and Schuell ) .
+Binding reactions ( 15 pl ) contained ~10 fmoles of radiolabeled probe , 12 mm HEPES-KOH ( pH 7.9 } , 12 % glycerol , 4 mm Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press MgCl , , 60 mm KCI , 1 mm EDTA , 1 mm DTT , 3 ug poly { dI - dC-dI + dC } ( Pharmacia ) , 3 ug bovine serum albumin ( nuclease free ; Boehringer-Mannheim Biochemicals ) , and protein fractions , as indicated .
+After 20 min of incubation at room temperature , nu-cleoprotein complexes were resolved from free probe by electrophoresis on 4 % acrylamide gels in a running buffer consisting of 25 mm Tris-HCI , 190 mm glycine , and 1 mm EDTA ( pH 8.3 ) .
+Gels were quantitated by densitometry using an Ultrascan XL laser densitometer ( LKB ) .
+One unit of binding activity represents 0.25 fmole bound probe under the reaction conditions stated .
+Transcription reactions Transcription reactions ( 25 pl ) contained 19 pg/ml supercoiled test DNA template , 1.9 ug/ml pFLBH , 12 mm HEPES-KOH { pH 7.9 ) , 12 % glycerol , 3.6 % polyvinyl alcohol , 4 mm MgCl , , 1 ram DTT , 1 mm EDTA , 60 mm KCI , 460 wm ATP , 60 pm CTP , 60 wm GTP , 10 pm UTP , 10 Ci [ a-2P ] JUTP , 4 mm creatine phosphate , and ~ 200-400 pg nuclear extract protein .
+Reactions were incubated for 60 min at 30°C and were terminated by placing them on ice , followed immediately by the addition of 200 pl of stop solution ( 7 m urea , 100 mm LiCl , 0.5 % SDS , 10 mM EDTA , 250 w/ml tRNA , 10 mm Tris-HCl at pH 7.9 ) .
+Nucleic acids were purified from these reactions , as described { Manley et al .
+1983 ) .
+RNA analysis was carried out by a hybridization selection procedure in which RNAs were hybridized to M13 phage single-stranded DNA recombinants that contained inserts complementary to and spanning the expected start sites of transcription .
+This was done essentially as described ( Hansen and Sharp 1983 ) , except that hybrids were digested routinely with 10 units of RNase Tl ( Calbiochem ) for 30 min at 30°C .
+RNase Tl was removed by a subsequent incubation with 40 pg of proteinase K at 30°C for 30 min .
+RNA molecules were resolved by electrophoresis on 0.4-mm , 6 % acrylamide , 7 M urea gels with a running buffer of Tris-borate , EDTA ( Maxam and Gilbert 1980 ] .
+Transcription reactions were quantitated by densitometry using an Ultrascan XL laser densitometer [ LKB ] .
+Reconstituted transcription reactions were carried out in a final volume of 25 wl .
+Reaction conditions were identical to those described above , except for the addition of 25 units of RNasin ( Promega Biochemicals ) .
+General transcription factors were supplied as second-column fractions derived from HeLa whole-cell extracts .
+RNA polymerase II was prepared from calf thymus .
+These fractions were prepared and used as described { Samuels et al .
+1982 ) .
+Reconstituted reactions were incubated at 30°C for 90 min and processed as described above .
+Depletion of OCTA-binding proteins from nuclear extracts and preparation of NF-A1 and NF-AZ fractions An OCTA-oligonucleotide affinity column matrix was constructed by coupling a multimerized , synthetic oligonucleotide derived from the murine Ig mopC41 x gene promoter to cy-anogen bromide activated Sepharose-CL4B ( Pharmacia ) as described ( Kadonaga and Tjian 1986 ) .
+The oligonucleotide sequence was 5° GATCTAACTGCTTCTTAATTTGCATACCCTCACTGCATCG3 ' SATTGACGAAGAATTAAACGTATGGGAGTGACGTAGCCTAG5 ' Nuclear extracts derived from BJA-B cells were made to 50 ug/ml poly { dI - dC-dI + dC ) and then passed over the OCTA-oligonucleotide affinity resin equilibrated with buffer D. Approximately 40-60 mg of protein was loaded per milliliter of column volume .
+The flowthrough fraction was collected and constitutes the OCT A-depleted extract ( AB ) .
+After a wash with Ig promoter transcription in vitro 2 column volumes of buffer D , the OCTA-binding protein fraction was eluted with 2 column volumes of buffer D containing 1 M KCl .
+This fraction was then dialyzed against buffer D before assay in transcription reactions .
+HeLa-depleted fractions from HeLa nuclear extracts were prepared in an identical fashion .
+However , OCTA-binding fractions from Hela nuclear extracts were prepared by loading signficantly higher amounts of protein onto the affinity column , between 200 and 350 mg/ml column volume .
+Binding units for OBP { H ) and OBP ( B ) were calculated from titrations in the presence of ABJA-B and AHeLa extracts .
+After subtracting out the residual OBP activities due to the A extracts , the unit activities are as follows : OBP ( H ] ) = 25 U/ul NF-Al ; OBP ( B ) = 22 U/ul NF-A2 plus 2 U/ul NF-Al .
+The OBP ( B ) units used for comparing transcriptional activities are that of NF-A2 alone : 22 U/pl .
+Acknowledgments We wish to thank T. Kristie , R. Clerc , and H. Singh for comments on this manuscript ; those mentioned above and S. Bura-towski , R. Carthew , and L. Chodosh for helpful discussions ; P. Auger and U. Ryder for help with the cell culture ; T. Wirth for the gift of Ig promoter deletion plasmids ; and M. Siafaca for preparing the manuscript .
+J. HL .
+acknowledges postdoctoral support from the Helen Hay Whitney Foundation , and L.S .
+from the Jane Coffin Childs Memorial Fund for Medical Research .
+This work was supported by National Science Foundation grant CDR-8500003 , U.S. Public Health Service grant POL-CA42063 , partially from the National Cancer Institute Cancer Center core grant P30-CA14051 , and from Ajinomoto General Support for the Center for Cancer Research , Ajinomoto Co. , Inc. , to P.A.S .
+and an American Cancer Society grant { IM-3558 ) to D.B .
+References Ares , M. , Jr. , J. Chung , L. Giglio , and A.M. Weiner .
+1987 .
+Distinct factors with Spl and NF-A specificities bind to adjacent functional elements of the human U2 snRNA gene enhancer .
+Genes Dev .
+1 : 808-817 .
+Augereau , P. and P. Chambon .
+1986 .
+The mouse immunoglobulin heavy-chain enhancer : Effect on transcription in vitro and binding of proteins present in HeLa and lymphoid B cell extracts .
+EMBO J .
+5 : 1791-1797 .
+Ballard , D.W. and A. Bothwell .
+1986 .
+Mutational analysis of the immunoglobulin heavy-chain promoter region .
+Proc .
+Natl .
+Acad .
+Sci .
+83 : 9626-9630 .
+Banerji , J. , L. Olson , and W. Schaffner .
+1983 .
+A lymphocyte-spe-cific cellular enhancer is located downstream of the joining region in immunoglobulin heavy-chain genes .
+Cell 33 : 729-739 .
+Bark , C. , P. Weller , J. Zabeilski , L. Janson , and U. Petterson .
+1987 .
+A distant enhancer element is required for transcription of a U6 RNA gene .
+Nature 328 : 356-362 .
+Bergman , Y. , D. Rice , R. Grosschedl , and D. Baltimore .
+1984 .
+Two regulatory elements for immunoglobulin k light-chain gene expression .
+Proc .
+Natl .
+Acad .
+Sci .
+81 : 7041-7045 .
+Bohmann , D. , W. Keller , T. Dale , H.R .
+Scholer , G. Tebb , and ILW .
+Mattaj .
+1987 .
+A transcription factor which binds to the enhancers of SV40 , immunoglobulin heavy-chain and U2 snRNA genes .
+Nature 325 ; 268-272 .
+Bradford , MM .
+1976 .
+A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein dye binding .
+Anal .
+Biochem .
+72 : 248-254 .
+GENES & DEVELOPMENT 1235 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press LeBowitz et al .
+Carbon , P. , S. Murgo , J.P. Ebel , A. Krol , G. Tebb , and I. Mattaj .
+1987 .
+A common octamer motif binding protein is involved in the transcription of U6 snRNA by RNA polymerase III and U2 snRNA polymerase II .
+Cell 51 ; 71-79 .
+Carthew , RW .
+, L.A. Chodosh , and P.A .
+Sharp .
+1985 .
+An RNA polymerase II transcription factor binds to an upstream element in the adenovirus major late promoter .
+Cell 43 : 439-448 .
+Church , G.M .
+, A. Ephrussi , W. Gilbert , and S. Tonegawa .
+1985 .
+Cell-type-specific contacts to immunoglobulin enhancers in nuclei .
+Nature 318 : 798-801 .
+Dahlberg , J. and E. Lund .
+1987. snRNA genes and their transcription .
+In Structure and function of major and minor snRNPa ( ed .
+M. Bimstiel } .
+Springer-Verlag , Heidelberg .
+Das , G. , D. Henning , D. Wright , and R. Reddy .
+1988 .
+Upstream regulatory elements are necessary and sufficient for the transcription of a U6 RNA gene by RNA polymerase IIL .
+EMBO J .
+7 : 503-512 .
+Dignam , J.D .
+, R.M .
+Lebovitz , and R.G .
+Roeder .
+1983 .
+Accurate transcription initiation by RNA polymerase II in a soluble extract from isolated mammalian nuclei .
+Nucleic Acids Res .
+11 : 1475-1489 .
+Dreyfus , M. , N. Doyen , and F. Rougeon .
+1987 .
+The conserved decanucleotide from the immunoglobulin heavy-chain promoter induces a very high transcriptional activity in B-cell when introduced into an heterologous promoter .
+EMBO J .
+6 : 1685-1690 .
+Eaton , S. and K. Calame .
+1987 .
+Multiple DNA sequence elements are necessary for the function of an immunoglobulin heavy-chain promoter .
+Proc .
+Natl .
+Acad .
+Sci .
+84 : 7638 .
+Ephrussi , A. , G.M .
+Church , S. Tonegawa , and W. Gilbert .
+1985 .
+B lineage-specific interactions of an immunoglobulin enhancer with cellular factors in vivo .
+Science 227 : 134-140 .
+Faulkner , F.G. and H.Z .
+Zachau .
+1984 .
+Correct transcription of an immunoglobulin x gene requires an upstream fragment containing conserved sequence elements .
+Nature 310 : 71-74 .
+Fletcher , C. , N. Heintz , and R.G .
+Roeder .
+1987 .
+Purification and characterization of OTF-1 , a transcription factor regulating cell cycle expression of a human histone H2b gene .
+Cell 51 : 773-781 .
+Folk , W.R. 1988 .
+Changing directions in pol III transcription .
+{ Commentary ) Genes Dev .
+2 : 373-375 .
+Foster , J. , J. Stafford , and C. Queen .
+1985 .
+An immunoglobulin promoter displays cell-type specificity independently of the enhancer .
+Nature 315 : 423-425 .
+Fried , M. and D.M .
+Crothers .
+1981 .
+Equilibrium and kinetics of the lac repressor-operator interactions by polyacrylamide gel electrophoresis .
+Nucleic Acids Res .
+9 : 6505-6525 .
+Garner , MM .
+and A. Revzin .
+1981 .
+A gel electrophoresis method for quantifying binding of proteins to specific DNA regions : Applications to components of the Escherichia coli lactose operon regulatory system .
+Nucleic Acids Res .
+9 : 3047-3060 .
+Gerster , T. , P. Matthias , M. Thali , J. Jirieny , and W. Schaffner .
+1987 .
+Cell type-specificity elements of the immunoglobulin heavy-chain gene enhancer .
+EMBO J .
+6 : 1323-1330 .
+Gillies , S.D .
+, S.L .
+Morrison , V.T .
+Oi , and S. Tonegawa .
+1983 .
+A tissue-specific transcriptional enhancer element is located in the major intron of a rearranged immunoglobulin heavy-chain gene .
+Cell 33 : 717-728 .
+Gopal , T.V .
+, J. Shimada , A.W .
+Baur , and A.W .
+Nienhuis .
+1985 .
+Contribution of promoter to tissue-specific expression of the mouse immunoglobulin k gene .
+Science 229 : 1102-1104 .
+Grosschedl , R. and D. Baltimore .
+1985 .
+Cell type specificity of 1236 GENES & DEVELOPMENT immunoglobulin gene expression is regulated by at least three DNA sequence elements .
+Cell 41 : 885-897 .
+Guarente , L. 1988 .
+UASs and enhancers : Common mechanism of transcriptional activation in yeast and mammals .
+Cell 52 : 303-305 .
+Hansen , U. and P.A .
+Sharp .
+1983 .
+Sequences controlling in vitro transcription of SV40 promoters .
+EMBO J .
+2 : 2293-2303 .
+Janson , L. , C. Bark , and U. Pettersson .
+1987 .
+Identification of proteins interacting with the enhancer of human U2 small nuclear RNA genes .
+Nucleic Acids Res .
+15 ; 4997-5016 .
+Johnston , S.A. , J.M .
+Salmeron , Jr. , and S.S. Dincher .
+1987 .
+Interactions of positive and negative regulatory proteins in the galactose regulon of yeast .
+Cell 50 : 143-146 .
+Jones , N.C. , P.W.J .
+Rigby , and B. Ziff .
+1988 .
+Trans-acting protein factors and the regulation of eukaryotic transcription : Lessons from studies on DNA tumor viruses .
+Genes Dev .
+2 ; 267-281 .
+Kadonaga , J.T .
+and R. Tjian .
+1986 .
+Affinity purification of sequence specific DNA binding proteins .
+Proc .
+Natl .
+Acad .
+Sci .
+83 : 5889-5893 .
+Klein , G. , T. Lindahl , M. Jondal , W. Leibold , J. Menezes , K. Nisson , and C. Sundstrom .
+1974 .
+Continuous lymphoid cell lines with characteristics of B cells ( bone-marrow-derived ! )
+, lacking the Epstein-Barr virus genome and derived from three human lymphomas .
+Proc .
+Natl .
+Acad .
+Sci .
+71 : 3283-3286 .
+Kristie , TM .
+and B. Roizman .
+1987 .
+Host cell proteins bind to the cis-acting site for virion-mediated induction of herpes simplex virus 1 a genes .
+Proc .
+Natl .
+Acad .
+Sci .
+84 : 71-75 .
+Krol , A. , P. Carbon , J.P. Ebel , and B. Appel .
+1987 .
+Xenopus trop-icalis UG snRNA genes transcribed by RNA polymerase III contain the promoter elements used by pol II dependent U snRNA genes .
+Nucleic Acids Res .
+15 : 2463-2478 .
+La Bella , F. , HL .
+Sive , R.G .
+Roeder , and N. Heintz .
+1988 .
+Cell-cycle regulation of a human histone H2b gene is mediated by the H2b subtype-specific consensus element .
+Genes Dev .
+2 : 32-39 .
+Landolfi , N.F .
+, J.D .
+Capra , and P.W .
+Tucker .
+1986 .
+Interaction of cell type-specific nuclear proteins with immunoglobulin VH promoter region sequences .
+Nature 323 : 548-551 .
+LeBowitz , J.H .
+and R. McMacken .
+1984 .
+The bacteriophage A O and P protein initiators promote the replication of single-stranded DNA .
+Nucleic Acids Res .
+12 ; 3069-3088 .
+Lenardo , M. , JW .
+Pierce , and D. Baltimore .
+1987 .
+Protein binding sites in Ig gene enhancers determine transcriptional activity and inducibility .
+Science 236 : 1573-1577 .
+Ma , J. and M. Ptashne .
+1987 .
+The carboxy-terminal 30 amino acids of Gal4 are recognized by GaI8O .
+Cell 51 : 137-142 .
+Mangin , M. , M. Ares , Jr. , and A.M. Weiner .
+1986 .
+Human U2 small nuclear RNA genes contain an upstream enhancer .
+EMBO J .
+5 : 987-995 .
+Maniatis , T. , S. Goodbourn , and J.A .
+Fischer .
+1987 .
+Regulation of inducible and tissue-specific gene expression .
+Science 236 : 1237-1245 .
+Manley , J.L .
+, A .
+Fire , M. Samuels , and P.A .
+Sharp .
+1983 .
+In vitro transcriptions : Whole cell extract .
+Methods Enzymol .
+101 : 568-581 .
+Mason , J.O0 .
+, G.T .
+Williams , and M.S .
+Neuberger .
+1985 .
+Transcription cell type specificity is conferred by an immunoglobulin VH gene promoter that includes a functional consensus sequence .
+Cell 41 ; 479-487 .
+Mattaj , LW .
+, S. Lienhard , J. Jiricny , and E.M. de Robertis .
+1985 .
+An enhancer-like sequence within the Xenopus U2 gene promoter facilitates the formation of stable transcription complexes .
+Nature 316 : 163-167 .
+Maxam , A.M. and W. Gilbert .
+1980 .
+Sequencing end-labeled Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press DNA with base-specific chemical cleavages .
+Methods Enzymol .
+65 : 499-580 .
+McKnight , JL.C .
+, TM .
+Kristie , and B. Roizman .
+1987 .
+Binding of the virion protein mediating a gene induction in herpes simplex virus l-infected cells to its cis site requires cellular proteins .
+Proc .
+Natl .
+Acad .
+Sci .
+84 : 7061-7065 .
+McKnight , S. and R. Tjian .
+1986 .
+Transcriptional selectivity of viral genes in mammalian cells .
+Cell 46 : 795-805 .
+Mizushima-Sugano , J. and R.G .
+Roeder .
+1986 .
+Cell-type-specific transcription of an immunoglobulin « light-chain in vitro .
+Proc .
+Natl .
+Acad .
+Sci .
+83 : 8511-8515 .
+Murphy , J.T .
+, JM .
+Skuzeski , E. Lund , TH .
+Steinberg , R.R .
+Bur-gess , and J.E .
+Dahlberg .
+1987 .
+Functional elements of the U1 snRNA promoter .
+Identification of 5 separate regions required for efficient transcription and template competition .
+J. Biol .
+Chem .
+262 : 1795-1803 .
+Murphy , S. , C.D .
+Liegro , and M. Melli .
+1987 .
+The in vitro transcription of the 7SK RNA gene by RNA polymerase III is dependent only on the presence of an upstream promoter .
+Cell 51 : 81-87 .
+O'Hare , P. and C.R .
+Goding .
+1988 .
+Herpes simplex virus regulatory elements and the immunoglobulin octamer domain bind a common factor and are both targets for virion tran-sactivation .
+Cell 52 : 435-445 .
+O'Neill , EA .
+and TJ .
+Kelly .
+1988 .
+Purification and characterization of nuclear factor III ( origin initiation factor C ) .
+Sequence-specific DNA binding protein required for efficient initiation of adenovirus DNA replication .
+/J .
+Biol .
+Chem .
+263 : 934-937 .
+Parslow , T.G .
+, D.L .
+Blair , W.J .
+Murphy , and D.K .
+Granner .
+1984 .
+Structure of the 5 ' ends of immunoglobulin genes : A novel conserved sequence .
+Proc .
+Natl .
+Acad .
+Sci .
+81 : 2650-2654 .
+Parslow , T.G .
+, S.D .
+Jones , B .
+Bond , and K.R .
+Yamamoto .
+1987 .
+The immunoglobulin octanucleotide : Independent activity and selective interaction with enhancers .
+Science 235 : 1498-1501 .
+Peterson , C.L .
+and K.L .
+Calame .
+1987 .
+Complex protein binding within the mouse immunoglobulin heavy-chain enhancer .
+Mol .
+Cell .
+Biol .
+7 : 4194-4203 .
+Picard , D. and W. Schaffner .
+1985 .
+Cell-type preference of the immunoglobulin k and l gene promoters .
+EMBO J .
+4 : 2831-2838 .
+Pruija , G.J.M .
+, W. van Driel , and P.C .
+van der Vliet .
+1986 .
+Nuclear factor III , a novel sequence specific DNA binding proteins from Hela cells stimulating adenovirus DNA replication .
+Nature 322 : 656-659 .
+Roebuck , K.A .
+, R.J. Walker , and W.E .
+Stumph .
+1987 .
+Multiple functional motifs in the chicken U2 RNA gene enhancer .
+Mol .
+Cell .
+Biol .
+7 : 4185-4193 .
+Rosenfeld , P.J .
+, EA .
+O'Neill , R.J. Wides , and TJ .
+Kelly .
+1987 .
+Sequence specific interactions between cellular DNA-binding proteins and the adenovirus origin of DNA replication .
+Mol .
+Cell .
+Biol .
+7 : 875-886 .
+Samuels , M. , A .
+Fire , and P.A .
+Sharp .
+1982 .
+Separation and characterization of factors mediating accurate transcription by RNA polymerase IL J. Biol .
+Chem .
+257 : 14419-14427. .
+1984 .
+Dinucleotide priming of transcription mediated by RNA polymerase IL .
+J. Biol .
+Chem .
+259 : 2517-2525 .
+Sassone-Corsi , P. and E. Borrelli .
+1986 .
+Transcriptional regulation by trans-acting factors .
+Trends Genet .
+2 ; 215-219 .
+Sawadogo , M. and R.G .
+Roeder .
+1985 .
+Interaction of a gene-spe-cific transcription factor with the adenovirus major late promoter upstream of the TATA box region .
+Cell 43 : 165-175 .
+Scheidereit , C. , A. Heguy , and R.G .
+Roeder .
+1987 .
+Identification and purification of a human lymphoid specific otamer-binding protein { ( OTF-2 ) that activates transcription of an immunoglobulin promoter in vitro .
+Cell 51 : 783-793 .
+Ig promoter transcription in vitro Schlokat , U. , D. Bohmann , H. Scholer , and P. Gruss .
+1986 .
+Nuclear factors binding specific sequences within the immunoglobulin enhancer interact differentially with other enhancer elements .
+EMBO J .
+5 : 3251-3258 .
+Scholer , HR .
+and P. Gruss .
+1985 .
+Cell type-specific transcriptional enhancement in vitro requires the presence of transacting factors .
+EMBO J .
+4 : 3005-3013 .
+Sen , R. and D. Baltimore .
+1986 .
+Multiple factors interact with the immunoglobulin enhancer sequences .
+Cell 46 : 705-716. .
+1987 .
+In vitro transcription of immunoglobulin genes in a B-cell extract : Effects of enhancer and promoter sequences .
+Mol .
+Cell .
+Biol .
+7 : 1989-1994 .
+Singh , H. , R. Sen , D. Baltimore , and P.A .
+Sharp .
+1986 .
+A nuclear factor that binds to a conserved sequence motif in transcriptional control elements of immunoglobulin genes .
+Nature 319 : 154-158 .
+Sive , HL .
+and R.G .
+Roeder .
+1986 .
+The interaction of a common factor with conserved promoter and enhancer sequences in histone H2b , immunoglobulin and U2 small nuclear ( sn ) RNA genes .
+Proc .
+Natl .
+Acad .
+Sci .
+83 : 6382-6386 .
+Sive , HL .
+, N. Heintz , and R.G .
+Roeder .
+1986 , Multiple sequence elements are required for maximal in vitro transcription of a human histone H2b gene .
+Mol .
+Cell .
+Biol .
+6 : 3329-3340 .
+Sollner-Webb , B .
+1988 .
+Surprises in polymerase III transcription .
+Cell 52 ; 153-154 .
+Staudt , LM .
+, R.G .
+Clerc , H. Singh , J.H .
+LeBowitz , PA. Sharp , and D. Baltimore .
+1988 .
+Molecular cloning of a Iymphoid-specific cDNA encoding a protein that binds to the regulatory octamer DNA motif .
+Science 241 : 577-580 .
+Staudt , LM .
+, H. Singh , R. Sen , T. Wirth , P.A .
+Sharp , and D. Baltimore .
+1986 .
+A lymphoid-specific protein binding to the octamer motif of immunoglobulin genes .
+Nature 323 : 640-643 .
+Sturm , R. , T. Baumtuher , R. Franza , Jr. , and W. Herr .
+1987 .
+A 100-kD HeLa cell octamer binding protein ( OBP100 ) interacts differently with two separate octamer-related sequences within the SV40 enhancer .
+Genes Dev .
+1 : 1147-1160 .
+Wang , J. , K. Nishiyama , K. Araki , D. Kitamura , and T. Wa-tanabe .
+1987 .
+Purification of an octamer sequence ( ATG-CAAAT ) -binding protein from human B-cells Nucleic Acids Res , 15 : 10105-10116 .
+Wasylyk , C. and B. Wasylyk .
+1986 , The immunoglobulin heavy-chain B-lymphocyte enhancer stimulates transcription in non-lymphoid cells , EMBO J .
+5 : 553-560 .
+Weinberger , J. , D. Baltimore , and P.A .
+Sharp .
+1986 .
+Distinct factors bind to apparently homologous sequences in the immunoglobulin heavy-chain enhancer .
+Nature 322 : 846-848 .
+Weinberger , J. , P.S .
+Jat , and P.A .
+Sharp .
+1988 .
+Localization of a repressive sequence contributing to B-cell specificity in the immunoglobulin heavy-chain enhancer .
+Mol .
+Cell , Biol .
+8 : 988-992 .
+Wirth , T. , L. Staudt , and D. Baltimore .
+1987 .
+An octamer oligonucleotide upstream of a TATA box is sufficient for lymphoid-specific promoter activity .
+Nature 329 : 174-177 .
+GENES & DEVELOPMENT - 1237 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press > t N-t $ & Development Octamer-binding proteins from B or HeLa cells stimulate transcription of the immunoglobulin heavy-chain promoter in vitro .
+J H LeBowitz , T Kobayashi , L Staudt , et al .
+Genes Dev .
+1988 , 2 : Access the most recent version at doi:10.1101/gad.2.10.1227 References _ This article cites 81 articles , 30 of which can be accessed free at : http : /genesdev.cshlp.org/content/2/10/1227.full.htmli # ref-list-1 License Email Alerting _ Receive free email alerts when new articles cite this article - sign up in the box at the top Service - `` ight corner of the article or click here .
+CRISPR KO , CRISPRa , CRISPRi libraries .
+CELLECTA Custom or genome-wide .
+Copyright © Cold Spring Harbor Laboratory Press

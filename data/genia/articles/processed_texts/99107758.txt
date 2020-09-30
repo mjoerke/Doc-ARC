@@ -1,0 +1,839 @@
+The EMBO Journal Vol.18 No.2 pp.420-432 , 1999 Regulation of IL-4 expression by the transcription factor JunB during T helper cell differentiation Baiyong Li , Cathy Tournier ' , Roger J.Davis ' and Richard Howard Hughes Medical Institute , Section of Immunobiology , Yale University School of Medicine , New Haven CT 06520 and 'Howard Hughes Medical Institute , Program in Molecular Medicine , Department of Biochemistry and Molecular Biology , University of Massachusetts Medical School , Worcester , MA 01605 , USA Corresponding author e-mail : richard .
+The molecular basis for restricted cytokine expression by T helper 1 ( Th1 ) and T helper 2 ( Th2 ) cells is unclear .
+Previous studies found that P1 , an element of the interleukin 4 ( IL-4 ) promoter that binds AP-1 , is important for Th2-restricted IL-4 expression .
+Here we show that JunB , but not the other Jun family members , was selectively induced in Th2 cells and not in Thl cells during differentiation .
+JunB has previously been considered to be a negative regulator of transcription .
+However , we show that JunB binds directly to the P1 site and synergizes with c-Maf to activate an IL-4 luciferase reporter gene .
+JunB-control of IL-4 expression is mediated by the phosphorylation of JunB at Thr102 and -104 by JNK MAP kinase .
+The synergy between c-Maf and JunB can be attributed to cooperative DNA binding , which is facilitated by JunB phosphorylation .
+In transgenic mice , elevated JunB levels caused increased expression of several Th2 cytokines in developing Th1 cells .
+JunB also upregulated IL-4 expression in response to immunization .
+Thus , the early increase of JunB protein in Th2 cells can provide the specificity for c-Maf in IL-4 expression during T cell development and directs thereby Th2 differentiation .
+Keywords : cytokine/JunB/phosphorylation/Th2 Introduction In response to antigen stimulation , naive T helper ( Th ) cells differentiate into different types of effector cells that are classified based on their distinct cytokine profiles and immune regulatory functions ( Mosmann et al .
+, 1986 ; Paul and Seder , 1994 ) .
+Th1 cells produce interleukin 2 ( IL-2 ) and interferon y ( IFN-y ) , and play an important role in the cell-mediated immune response against intracellular pathogens .
+Th2 cells produce IL-4 , IL-5 and IL-10 , and are involved in humoral immunity and the allergic response .
+There is ample evidence that the dominance of either Th1 or Th2 responses directly affects the outcome of a wide array of immunologically mediated clinical conditions , including autoimmune and allergic responses , and infectious diseases ( Abbas et al .
+, 1996 ; Romagnani , 1997 ) .
+It is therefore of great clinical significance to 420 identify and manipulate factors that dictate the ratio of Th1 to Th2 cells .
+The course of CD4 T cell differentiation appears to be influenced by many factors .
+Cytokines are critical for the determination of the outcome of the differentiation to effector T cells ( Paul and Seder , 1994 ; Constant and Bottomly , 1997 ) .
+Thus , IL-4 that is present during priming promotes the differentiation of Th2 cells while preventing the differentiation of Th1 cells ( Hsieh et al .
+, 1992 ; Seder et al .
+, 1992 ; Swain , 1993 ) , whereas IL-12 and IFN-y have the opposite effect ( Hsieh et al .
+, 1993 ; Manetti et al .
+, 1993 ; Seder et al .
+, 1993 ) .
+The molecular basis for T helper cell subset differentiation is still unclear .
+The well-established role of IL-4 in determining Th2 differentiation argues that regulating the expression of IL-4 during Th differentiation could determine the outcome .
+Several regulatory sites have been identified within the 5 ' flanking region of the IL-4 gene which are capable of directing expression of a reporter gene in transient transfection studies ( Abe et al .
+, 1992 ; Li-Weber et al .
+, 1992 ; Bruhn et al .
+, 1993 ; Chuypilo et al .
+, 1993 ; Szabo et al .
+, 1993 ; Todd et al .
+, 1993 ; Rooney et al .
+, 1995 ) .
+These sites , designated PO , P1 , P2 and P3 , contain sequences that bind members of the NFAT family of transcription factors .
+P1 , P2 and P3 also contain adjacent sites that bind activator protein 1 ( AP-1 ) ( Rooney et al .
+, 1995 ) .
+Studies on cis-elements demonstrated that both the PO and P1 regions are important in determining Th2-specific expression of IL-4 .
+A region encompassing PO was shown to confer preferential expression in long-term cultured Th2 cells but not in Th1 cells ( Bruhn et al .
+, 1993 ) .
+This region contains an NFAT site and to its proximal side , a MARE half site which was shown to have binding affinity for both C/EBPRB and c-Maf ( Davydov et al .
+, 1995 ; Ho et al .
+, 1996 ) .
+NFAT plays a pivotal role in IL-4 gene activation ( Chuvpilo et al .
+, 1993 ; Szabo et al .
+, 1993 ) .
+However , it is present in both Thl and Th2 cells and activates the transcription of cytokine genes characteristic for both cell types ( Rooney et al .
+, 1994 , 1995 ) .
+In contrast , c-Maf ( Ho et al .
+, 1996 ) and GATA-3 ( Zheng and Flavell , 1997 ) were recently reported to be selectively expressed in Th2 but not in Th1 cells and both are able to drive ectopic IL-4 expression .
+c-Maf was shown to bind to a region proximal to PO and activate IL-4 transcription synergistically with NFATp ( Ho et al .
+, 1996 ) .
+In transgenic mouse studies , a multimerized P1 region ( AP-1 plus NFAT ) conferred Th2-restricted expression of transcriptional activity during T cell differentiation ( Wenner et al .
+, 1997 ) .
+In contrast , in a related study , multimerization of the NFAT binding site of the P1 element without the AP-1 site was expressed in both Th1 and Th2 subsets ( Aune and Flavell , 1997 ) .
+These data suggested that Th2-specific regulation of the P1 element may result from regulation of transcription factors that bind to the AP-1 portion of the element .
+© European Molecular Biology Organization Our recent examination of AP-1 activity during T helper cell differentiation using AP-1 luciferase transgenic mice showed that a high level of AP-1 transcriptional activity was induced upon stimulation in Th2 cells , but not in Th1 cells ( Rincon et al .
+, 1997 ) .
+This AP-1 activity correlated with the presence of JunB , which accumulates in Th2 cells , but not in Th1 or naive T cells , suggesting a potential role for JunB in Th2 differentiation ( Rincon et al .
+, 1997 ) .
+In the present study , we therefore examined whether JunB has any direct effect on IL-4 expression using both transient transfection and transgenic approaches .
+Early transfection studies showed that JunB inhibits c-Jun transcriptional activity ( Chiu et al .
+, 1989 ; Schutte et al .
+, 1989 ) .
+This observation and later findings that the N-terminal region of JunB possesses a docking site but not phosphorylation sites for JNK ( Gupta et al .
+, 1996 ; Kallunki et al .
+, 1996 ) both pointed to the hypothesis that JunB is a repressor of transcription mediated by AP-1 .
+Here we show , however , that JunB is instead a strong transcriptional activator of IL-4 .
+We demonstrate that JunB upregulates Th2 cytokines in transgenic mice and that JunB synergizes with c-Maf to activate the IL-4 promoter .
+JunB transcriptional activity , as well as its synergism with c-Maf for IL-4 expression , is enhanced by phosphorylation on Thr1l02 and Thr1l04 by JNK .
+These results provide a new molecular mechanism whereby precursor cells differentiate into effector cells secreting high levels of Th2 cytokines .
+Results Preferential expression of JunB protein in Th2 cells Our previous study demonstrated that among the Jun family of transcription factors , AP-1 DNA-binding complexes containing JunB preferentially accumulated in Th2 cells but not in Thl cells ( Rincon et al .
+, 1997 ) .
+We considered it to be likely that JunB accumulation would account for the enhanced AP-1 transcriptional activity in Th2 cells .
+To confirm the differential expression of JunB , we performed Western blot analysis using extracts from in vitro differentiated Th1 and Th2 cells ( Figure 1A ) .
+At day 3 of in vitro differentiation of purified naive T cells , the JunB protein level was upregulated in Th2 cells relative to Th1 cells , while c-Jun and JunD protein levels were approximately the same in Thl and Th2 cells .
+We further investigated the kinetics of JunB protein expression during the differentiation of Th precursors ( Figure 1B ) .
+While the level of JunB protein remained relatively constant in developing Th1 cells , the JunB protein level was upregulated in developing Th2 cells at day 3 of in vitro priming .
+Transactivation of the IL-4 promoter by JunB The upregulation of AP-1 transcriptional activity and accumulation of JunB in Th2 cells suggested that Th2-specific AP-1 activity is contributed by JunB .
+The P1 site of the IL-4 promoter , previously shown to confer Th2-restricted IL-4 expression , is known to bind AP-1 .
+These findings suggest a role for JunB in tissue-specific expression of IL-4 .
+We therefore tested whether JunB could drive ectopic expression by the IL-4 promoter in the B lymphoma cell line M12 , which does not usually express IL-4 .
+JunB regulates Th2 differentiation A Thi Tha c-Jun a .
+“ JunD __ # # tat w* t- » JunB gr B Day1 Day2 Day3 Th 10 2 1 2 1 2 JunB | sew sow woe =- » deb Actin -- « tik aas 4b # i ams « ih Fig .
+1 .
+Upregulation of JunB in Th2 cells .
+( A ) JunB is selectively upregulated in Th2 cells .
+Naive T cells were differentiated into Th1 and Th2 for 3 days and nuclear extracts were isolated .
+The amount of c-Jun , JunB and JunD was examined by Western blot analysis using antibodies specific for each transcription factor .
+( B ) Time course of JunB protein expression during Th1/Th2 differentiation .
+Naive T cells were differentiated towards the Th1 or Th2 pathways and nuclear extracts were isolated from each population at various days as indicated .
+JunB was detected by Western blot analysis .
+A polyclonal antibody against actin was used as a loading control for immunoblots .
+The full-length cDNA of JunB or other Jun family members were co-transfected with an IL-4 promoter ( -157 to +68 ) reporter plasmid into M12 cells .
+The luciferase activity generated with or without PMA/ionomycin stimulation was measured .
+A LacZ gene was also co-transfected and the B-galactosidase ( -gal ) activity was used as a control to normalize the luciferase reading for transfection efficiency .
+Overall , c-Jun and JunB exhibited a similar ability , which was much greater than that of JunD , to activate ectopic expression of the IL-4 reporter gene ( Figure 2A ) .
+Specifically , for both JunB and c-Jun , the activity of the IL-4 promoter responded in a dose-dependent manner in a range from 2-10 ug of input DNA yielding a 10-fold increase after PMA/ionomycin stimulation .
+In contrast , no dramatic increase in IL-4 promoter activity was observed when as much as 10 ug JunD expression vector was co-transfected .
+Since the transcriptional activity of c-Jun is known to be enhanced by phosphorylation by mitogen-activated protein kinase ( MAP kinases ) ( Whitmarsh and Davis , 1996 ) , we tested whether the high level of transcriptional activity that was induced in response to PMA/ionomycin was mediated by MAP kinase signaling pathways .
+At least three distinct MAP kinase families have been identified : ERK ( extracellular signal-regulated kinase ) , JNK ( c-Jun N-terminal kinase or stress-activated protein kinase , SAPK ) and p38 MAP kinase ( also known as cytokine-suppressive - anti-inflammatory - drug-binding protein , CSBP , or reactivating kinase , RK ) .
+ERK is mainly involved in responses to signals initiated by growth factors and hormones ( Robinson and Cobb , 1997 ) , whereas JNK and p38 MAP kinase are activated by environmental stresses and pro-inflammatory cytokines ( Ip and Davis , 1998 ) .
+In order to investigate the possible role of MAP kinases in IL-4 expression , we first examined MAP kinase activation in M12 cells after PMA/ionomycin treatment ( Figure 2B ) .
+421 B.Li et al .
+A B control UNO - PMA/ION JNK p3SMAPK k p EHPMA/ ION = 3 3 3 O 305 5 £ 0 E 0 € 0 < 3 2 .
+> 2 4 10 O 2 0 2 0 2 5 a 0 w 0 o 0 0 d 0 @ # 2 > > > Fo E4 s = e 6 H 3 q § 4 £ [ 3 ] 6 o t o $ 1° 0 o o a > 0 30 60 90 120 0 30 60 90 120 0 30 60 90 120 5 a Time Time Time a 3 10 0 - 10000 20000 30000 c-Jun -- * , ATF2 ﬂ- “ .. c-Myc wes Luciferase/lacZ Time _ 0 5 15 3060120 0 5 1530 60120 0 5 15 30 60120 C D Control SNO PMA¥/ON EPMA/ION JIP JunB JIP+JunB c-Jun IL-4 luciferase JIP+c-Jun 0 2000 4000 6000 8000 Luciferase/LacZ c-Jun Api luciferase Luciferase collagenase Api JunB+MLK3 c- Jun+ MLK3 JunB+ MLK3 c- Jun+ MLK3 JunB+MLK3 c-Jun+ MLK3 Control MLK3 JunB c- Jun Control MLK3 JunB c- Jun Control MLK3 JunB c- Jun 0 5000 10000 15000 20000 25000 30000 Luciferase/ LacZ Fig .
+2 .
+Transactivation of the IL-4 promoter by JunB .
+( A ) Transactivation of the IL-4 promoter by c-Jun , JunB and JunD .
+Various amounts of expression vector for Jun family members were co-transfected with 4 ug IL-4 promoter luciferase and 50 ng B-gal vectors into M12 cells .
+The cells were left overnight and then treated ( black bars ) or not treated ( white bars ) with PMA/ionomycin .
+Extracts were made 24 h later and relative activities of luciferase over LacZ were determined .
+( B ) PMA/ionomycin stimulates JNK activity in M12 cells .
+The cells were treated for various times , as indicated , with PMA/ionomycin .
+Endogenous JNK , p38 MAP kinase and ERK were immunoprecipitated and the MAPK activity was measured in the immune complex by protein kinase assay using recombinant c-Jun , ATF2 and c-Myc as substrate , respectively .
+The phosphorylated c-Jun , ATF2 and c-Myc were detected after SDS-PAGE by autoradiography and quantitated by PhosphorImager analysis .
+MAPK activity is presented as relative protein kinase activity .
+( C ) JIP-1 blocks the induction of IL-4 luciferase expression in M12 cells .
+M12 cells were co-transfected with c-Jun ( 5 ug ) or JunB ( 5 ug ) , IL-4 luciferase ( 4 ug ) and B-gal ( 50 ng ) vectors with or without JIP-1 ( 4 ug ) .
+Cells were left overnight and then treated ( black bars ) or not treated ( white bars ) with PMA/ionomycin .
+Relative activities of luciferase over LacZ were determined .
+( D ) Transcriptional activation by JunB is promoter specific .
+Four micrograms of IL-4 luciferase , c-Jun AP-1 luciferase or collagenase AP-1 luciferase construct and 50 ng B-gal vectors were co-transfected with 2 ug of expression vector for JunB , c-Jun or MLK3 , or various combinations as indicated into M12 cells .
+No PMA/ionomycin was added .
+Extracts were made 24 h later and relative activities of luciferase over LacZ were determined .
+The endogenous JNK , p38 MAP kinase and ERK activity was measured by immune complex protein kinase assay using c-Jun , ATF2 and c-Myc as substrates , respectively .
+Stimulation of M12 cells with PMA/ionomycin induced a potent and transient activation of JNK which reached a maximum after 30 min .
+However , this treatment caused only a small increase in ERK activity and only modest changes in p38 MAP kinase activity were detected .
+These data indicated a prominent role for JNK rather than p38 or ERK MAP kinases in the response of M12 cells to PMA/ionomycin .
+422 We then studied the effect of the inhibition of the JNK signaling pathway on the induction of the IL-4 promoter activity .
+The cytoplasmic JNK binding protein JIP-1 has recently been identified as a potent inhibitor of nuclear signal transduction by the JNK pathway when it is overexpressed ( Dickens et al .
+, 1997 ) .
+Therefore , M12 cells were co-transfected with or without JIP-1 , JunB or c-Jun , and the IL-4 promoter reporter plasmid .
+Figure 2C shows that JIP-1 inhibited both the c-Jun- and JunB-dependent activation of the IL-4 promoter in response to PMA/ ionomycin stimulation .
+We further examined the role of the JNK signaling pathway in JunB-dependent IL-4 promoter activation .
+Co-transfection of MLK3 , a potent inducer of signal transduction by the JNK pathway ( Rana et al .
+, 1996 ; Tibbles et al .
+, 1996 ) together with JunB or c-Jun dramatically enhanced IL-4 promoter activity ( Figure 2D ) .
+Co-transfection of another JNK activator MKK7 ( Tournier et al .
+, 1997 ) together with JNK1 also enhanced JunB-and c-Jun-dependent IL-4 promoter activation ( data not shown ) .
+These data demonstrated that JNK MAP kinase is involved in the regulation of JunB-dependent IL-4 promoter activity .
+In one sense our results with JunB were puzzling since JunB has previously been shown to inhibit c-Jun-mediated transcription ( Chiu et al .
+, 1989 ; Schutte et al .
+, 1989 ) .
+However , our experiments clearly established JunB as a transcriptional activator .
+To examine whether JunB has similar activity in the context of other promoters , we used luciferase reporter constructs that contains either the c-Jun promoter AP-1 site or the collagenase promoter AP-1 site ( Figure 2D ) .
+In all cases , c-Jun activated the promoters when co-transfected with MLK3 ; in contrast , JunB only showed activity at the IL-4 promoter .
+Hence , transcriptional activation by JunB is promoter specific .
+JunB is phosphorylated by the JNK MAP kinase c-Jun transcriptional activity is known to be regulated by phosphorylation on two serines ( residues 63 and 73 ) by the JNK MAP kinase ( Whitmarsh and Davis , 1996 ) .
+In contrast , these phosphorylation sites are not conserved in JunB , although the JNK binding site is conserved in both c-Jun and JunB .
+The presence of the JNK binding site in JunB suggests that JunB may be a substrate for JNK .
+However , previous studies using fragments of JunB did not support this hypothesis ( Gupta et a/ .
+, 1996 ; Kallunki et al .
+, 1996 ) .
+We therefore examined potential sites of JunB phosphorylation by JNK using full-length recombinant JunB .
+These studies demonstrated that JunB is indeed an excellent substrate for JNK ( Figure 3A ) .
+In contrast , JunB was a weak substrate for the p38 MAP kinase and was not significantly phosphorylated by ERK MAP kinase .
+Positive control experiments were performed by investigating the phosphorylation of c-Jun by JNK , ATF2 by p38 MAP kinase , and c-Myc by ERK2 to ensure that all kinases were active .
+Examination of the sequence of JunB revealed the motif Thr-Pro-Thr-Pro ( residues 102-105 ) which is in a primary sequence context that is similar to the sites of phosphorylation of the transcription factor ATF2 by JNK ( Gupta et al .
+, 1995 ) .
+To examine whether Thr102 and Thr104 are sites of JunB phosphorylation by JNK , we examined the effect of replacement of these residues with Ala ( Figure 3B ) .
+To determine the sites on JunB phosphorylated by JNK - MAP kinase , - phosphoamino-acid _ analysis was performed using wild-type and mutant glutathione S-transferase ( GST ) -JunB .
+The mutant JunBala protein was constructed by replacing Thr102 and Thr104 of JunB with Ala residues .
+We immunopurified JNK from control ( - ) and UV-stimulated ( + ) cells , and recombinant wild-type or mutant JunB proteins were used as substrates in an immune complex protein kinase assay .
+A marked increase in the level of [ °°P ] phosphothreonine and a small increase in the level of was observed with wild JunB regulates Th2 differentiation A JunB _ c-Jun JunB _ ATF2 JunB c-Myc 100 & T5 & 6 ® $ 50 ® © * 25 0 n a toad ¢ 3 & gr ¢ « 4 4 9 « 3 * # $ « 34 4 JNK p38 MAPK ERK JunB JunBala B * * ~ * UV ‘ .
+JunB MBL < p Ser ( P ) Wie : .
+« « lkthr ( P ) C - mMLk3 - + = + JNK1 + + + + JunBWT JunBala Fig .
+3 .
+JunB is phosphorylated by JNK .
+( A ) JunB is a better substrate for JNK than for p38 MAP kinase or ERK .
+COS-7 cells were transiently transfected with expression vectors ( pCDNA3 ) encoding either epitope-tagged-JNK1 , -p38a MAP kinase or -ERK2 .
+Thirty-six hours after transfection , the cells were untreated ( - ) or treated ( + ) with UV-C ( 80 J/m `` ) or TPA ( 100 ng/ml ) .
+The cells were harvested after incubation at 37°C ( 60 and 15 min , respectively ) .
+Epitope-tagged MAP kinases were immunoprecipitated and the MAP kinase activity was measured in the immune complex by protein kinase assay using recombinant JunB , c-Jun , ATF2 or c-Myc as indicated .
+The phosphorylated recombinant proteins were detected after SDS-PAGE by autoradiography and quantitated by PhosphorImager analysis .
+MAP kinase activity is presented as relative protein kinase activity .
+( B ) JNK phosphorylates JunB on Thr102 and Thr104 .
+Epitope-tagged-JNK1 was isolated by immunoprecipitation from extracts of cells stimulated ( + ) or not ( - ) with UV-C ( 80 J/m `` ) for 60 min and used for protein kinase assays with recombinant wild-type or mutant JunB , as substrates .
+The mutant JunBala protein was constructed by replacing Thr102 and Thr104 with Ala residues .
+The phosphorylated recombinant proteins were detected after SDS-PAGE by autoradiography and were analyzed by analysis .
+( C ) JunB is phosphorylated on Thr102 and Thr104 in M12 cells .
+A Flag-tagged JunB expression vector was co-transfected with a JNK1 expression vector with or without MLK3 expression vector into M12 cells .
+Cell extracts were isolated 24 h later and Western blot analysis was performed using a monoclonal antibody to Flag .
+423 B.Li et al .
+A CONTROL aNO PMA/ION JUNB NFATp NFATe Gatas CcEBP MAF JUNB+NFATp JUNB+NFATe JUNB+GATA3 JUNB+C/EBP JUNB+MAF 0 10000 20000 30000 40000 50000 60000 Luciferase/LacZ CONTROL aN PMA/ION EPMA/ION MAF JUND JUNB CJUN+MAF JUND+MAF JUNB+MAF 0 20000 40000 _ 60000 _ 80000 Luciferase/LacZ CONTROL - PMA/ION BPMA/IO N Bwt ( 21g ) Bwt ( 51g ) Bala ( 21g ) Bala ( 51g ) Bglu ( 21g ) [ g Bglu ( Sug ) [ a MAF MAF+Bwt MAF+Bala MAF+Bglu 0 2000 4000 6000 8000 1E+0 0 0 0 0 5 Luciferase/ LacZ FlagJunB | - oy $ G3 & { 5 Maf > 0 8 s to 4 o wan ym yay pan mps oue Fig .
+4 .
+JunB activates the IL-4 promoter synergistically with c-Maf .
+( A ) JunB and c-Maf synergistically activate the IL-4 promoter .
+Various combinations of expressions vectors as indicated were co-transfected with IL-4 luciferase and B-gal vectors into M12 cells .
+The amount of DNAs used are IL-4 promoter luciferase 4 ug , B-gal 50 ng , c-Maf 0.8 ug , and all other DNAs 2 jig .
+Luciferase and LacZ values were determined with or without stimulation .
+( B ) Among Jun family members only JunB synergizes with c-Maf to activate the IL-4 promoter .
+A JunB expression vector was co-transfected with expression vectors for different transcription factors , as indicated .
+Luciferase assays were then performed .
+The amount of DNA used was the same as above .
+( C ) The synergy between JunB and c-Maf was enhanced by JunB phosphorylation .
+JunB wild type ( JunB ) , JunB Thr102/104- > Ala mutant ( JunBala ) and JunB Thr102/104-Glu mutant ( JunBglu ) together with other DNAs were used in transient transfection assays .
+The amount of JunB vectors used without c-Maf is indicated .
+JunB vectors ( 2 pug ) were used in the transfection when both JunB and c-Maf were co-expressed .
+( D ) Phosphorylation does not change JunB protein expression in the transfection experiment .
+Figure 4C was repeated with Flag-tagged JunB , JunBala and JunBglu constructs .
+The amount of JunB protein in the last six samples of Figure 4C was determined by Western blot analysis using a monoclonal antibody against the Flag epitope .
+type JunB .
+In contrast , when JunBala was used as a substrate for JNK , only a small increase in the level of was observed .
+Control studies were performed using wild-type c-Jun and mutated c-Jun in which the JNK phosphorylation sites Ser63 and Ser73 were replaced with Ala residues ( c-Junala ) .
+As expected , the marked serine phosphorylation of c-Jun by JNK was abrogated in the c-Junala mutant ( data not shown ) .
+These data demonstrated that JunB is phosphorylated by JNK MAP kinase on Thr102 and Thr1Q04 .
+To further confirm the involvement of JunB phosphorylation in the transfection assays described in this report , we examined whether JunB is phosphorylated in M12 cells .
+A Flag-tagged JunB expression vector was co-transfected with JNK1 expression vector with or without 424 a MLK3 expression vector into M12 cells .
+Cell extracts were isolated 24 h later and Western blot analysis was performed using a monoclonal antibody against Flag .
+Co-transfection of MLK3 induced phosphorylation of JunB , which was manifested as a slower-migrating band .
+In contrast , the phosphorylated , slower-migrating band was not observed in co-transfection assay using MLK3 and JunBala .
+Thus , in M12 cells , JunB is phosphorylated on Thr102 and Thr104 residues .
+JunB and c-Maf activate the IL-4 promoter synergistically Next we co-transfected with JunB other transcription factors that are known to activate the IL-4 promoter , including NFATp , NFATce , GATA-3 , C/EBPB and c-Maf .
+Anti c-Jun + Anti JunB * upper w- .
+-- - supershift lower *~ a n i # ( is im C AP-1 NFAT JunB regulates Th2 differentiation JunB c-Jun JunD 3 y t g t G 5 t G a f f 2 f f a f f E d 2 E 0 z 5 o z wen , ' ' NFAT MARE Wild type M 1 CTGTGTGCCGCAAATTTTCCAATGTAAACTCATTTCCCTTGGTTTCAGCAACTTTA M 2 CTGGTGTAATAAACGGGGAAAATGTAAACTCATTTCCCTTGGTTTCAGCAACTTTA M3 CTGGTGTAATAAAATTTTCCAATGTAAACTCCGGGAACTTGGTTTCAGCAACTTTA M 4 CTGGTGTAATAAAATTTTCCAATGTAAACTCATTTCCCTTGGTTGACTACACTTTA S a c © & D a 0 gp $ 0 a 3 7 3 3 3 L 9 7 K ?
+§ g f $ f s Extract I 3 5 3 3 5 PMA/ION « o ee oes # k 0 # 0s # +o + + + DNA - fragment Wild type M1 M2 M 3 M4 cums enue W = cames w « -- - tik atte -~ CONTROL H MAF JUNB JUNB+MAF CONTROL i g NO PMA/ION Eg PMA/ION IL4p WT IL4p AP-1 mutant JUNB+MAF | raz CONTROL if MAF JUNB JUNB+MAF IL4p MARE mutant r r r r 10000 20000 30000 40000 50000 0 A synergistic effect on IL-4 activation was observed between JunB and c-Maf , but not with any other factors ( Figure 4A ) .
+While c-Maf alone or JunB alone stimulated the IL-4 promoter activity by ~6- and ~4-fold , respectively , c-Maf and JunB together generated an ~50-fold stimulation .
+Remarkably , the synergy between c-Maf and JunB was specific , as this effect was not observed when JunB was substituted with the other Jun family members c-Jun and JunD ( Figure 4B ) .
+To determine whether the state of phosphorylation of JunB has any effect on the synergy between JunB and c-Maf , we co-transfected c-Maf with JunBala or JunBglu Fig .
+5 .
+JunB binds the IL-4 promoter synergistically with c-Maf .
+( A ) Electrophoretic mobility shift analysis ( EMSA ) of the P1 element .
+Radiolabeled oligonucleotides containing the AP-1 and NFAT site of the P1 element was used in the gel shift assay .
+Extracts are made from activated Th2 cells ( see Materials and methods ) .
+C-Jun and JunB antibodies were used for supershift analysis .
+( B ) Interaction between JunB and c-Maf .
+The C-terminal ( b-Zip domain ) and N-terminal halves of c-Maf with S-tag were immobilized on agarose .
+In vifro translated c-Jun , JunB and JunD labeled with [ *°S } methionine were incubated with the beads .
+Bound proteins were resolved on SDS-PAGE .
+C-Maf and N-Maf refer to proteins bound to beads coupled with C- and N-terminal halves of c-Maf .
+( C ) The wild-type and mutant DNA fragments of the IL-4 promoter .
+Sequences of the DNA fragment spanning -87 to -31 of the IL-4 promoter and various mutants .
+M1 represents the DNA fragment that has mutated the P1 AP-1 site ; in similar fashion : M2 , P1 NFAT ; M3 , PO NFAT ; M4 , MARE .
+( D ) C-Maf binding to IL-4 promoter DNA is facilitated by phosphorylated JunB .
+Wild-type or mutant DNA fragments were incubated with c-Maf beads and with or without various protein preparations as indicated .
+Bound DNA fragments were resolved on a non-denaturing polyacrylamide gel .
+( E ) The AP-1 and MARE sites are required for synergistic activation of IL-4 promoter by JunB and c-Maf .
+IL-4 promoter luciferase constructs with either the AP-1 site or the MARE site mutated were compared with the wild-type IL-4 promoter construct with a luciferase assay .
+mutants .
+JunBglu was constructed by replacing Thr102 and Thr104 with glutamic acid residues .
+JunBglu would therefore be expected to mimic a constitutively active form of JunB .
+Both mutants and the wild-type JunB vector when co-transfected alone with the IL-4 reporter gene generated modest activation of the IL-4 promoter ( Figure 4C ) .
+Although there was still some synergy with c-Maf when JunBala was co-transfected , the activity was lower than when wild-type JunB was used .
+However , the JunBglu mutant generated a very potent synergy with c-Maf in activating the IL-4 promoter .
+These data indicated that phosphorylation of JunB enhanced its ability to 425 B.Li et al .
+synergize with c-Maf in transcriptional activation .
+Since the protein stability of c-Jun is known to be influenced by phosphorylation ( Ip and Davis , 1998 ) , we examined the JunB protein level in the above transfection experiments by Western blot analysis .
+Similar amounts of JunB and JunB-mutant proteins were detected in each sample regardless of the status of PMA/ionomycin treatment or c-Maf co-transfection ( Figure 4D ) .
+Thus , the different levels of luciferase activity measured using the different JunB proteins was not caused by changes in the amount of JunB protein .
+Cooperative binding of JunB and c-Maf to IL-4 promoter DNA Previous gel-shift experiments using the Th2 cell-specific P1 element showed that JunB is able to bind to the AP-1 site ( Rooney et al .
+, 1995 ) .
+Extracts from Th2 cells cultured from primary T cells form a similar pattern of shifted bands on the P1 element ( Wenner et al .
+, 1997 ) , and competition experiments using various oligonucleotides showed that the AP-1 site was bound .
+To examine whether JunB is the AP-1 factor that binds to P1 in primary T cells , we performed gel-shift experiments using P1 oligonucleotides and nuclear extracts from day 3 Th2 cells differentiated in vitro .
+The double-shifted bands characteristic of the P1 element were formed , and the upper band was supershifted by JunB antibody but not by c-Jun antibody ( Figure 5A ) .
+The synergy between JunB and c-Maf raised the possibility that JunB interacts directly with c-Maf , since c-Jun was known to bind c-Maf directly ( Kerppola and Curran , 1994 ) .
+Alternatively , indirect interaction through a common binding partner , a transcriptional co-activator for example , was also possible We expressed both the C-terminal half b-Zip domain and the N-terminal half of the recombinant c-Maf protein in Escherichia coli , and immobilized the purified proteins on agarose beads taking advantage of the S-tag in the expression vector construct .
+We incubated the beads with radiolabeled JunB , c-Jun or JunD protein obtained from in vitro transcription-translation reactions .
+Both JunB and c-Jun bound to the C-terminal half of c-Maf which contains the leucine-zipper motif ( Figure 5B ) .
+In contrast , JunD did not bind to either moiety of c-Maf .
+c-Maf has been reported to bind the MARE half site around -40 bp of the IL-4 promoter ( Ho et al .
+, 1996 ) .
+We therefore sought to determine whether JunB also bound this site , potentially in cooperation with c-Maf .
+However , an EMSA experiment using a probe of -62 to -25 bp of the IL-4 promoter did not form any bands that could be supershifted by JunB antibody ( data not shown ) .
+To examine whether JunB potentiated the binding of c-Maf to DNA , we took beads carrying immobilized c-Maf and added in vitro translated JunB and radiolabeled DNA fragments spanning bps -87 to -31 of the IL-4 promoter and various mutants of this DNA element ( sequences listed in Figure 5C ) .
+We did not observe any substantial increase in bound DNA when in vitro-translated JunB was used ( data not shown ) .
+However , we did see a large increase in DNA bound to c-Maf when we substituted the in vitro-translated JunB with extracts from M12 cells transfected with JunB and treated with PMA/ionomycin ( Figure 5D ) .
+We did not see the increase when using 426 CD4 promoter/ enhancer -t » -W » - JunB Spliced mRNA B WT 110 58 60 62 1 2 3 4 5 C WT 58 60 62 JunB *~* # =* te # tat ACtIN - « « soe mae mit D 120000 G Unstimulated 100000 @ Stimulated | 3 & sooo 0 £ & s00t0 3 0 £ ° 40000 € £ f 20000 o wT 11 se 60 62 Fig .
+6 .
+Expression of JunB in CD4-JunB transgenic mice .
+( A ) Schematic diagram of the CD4-JunB transgene .
+The JunB cDNA was fused with the second exon of the CD4 gene .
+The arrow at the bottom indicates the downstream primer used for screening both the transgene and the expression of transgene mRNA .
+The first arrow from the left above the construct indicates the primer used for screening the transgene mRNA in RT-PCR .
+The second arrow indicates the primer used for screening the transgene incorporation .
+( B ) RT-PCR showing expression of transgene in mice .
+Total RNA was isolated from T cells in peripheral blood of transgene positive mice and wild-type littermates .
+RT-PCR was done using primers described in Figure 1A and Materials and Methods .
+B-tubulin was used as a control .
+( C ) Increase of JunB protein in transgenic mice .
+JunB Western blot analysis was done with T cells isolated from lymph nodes of transgenic mice and wild-type littermates .
+Western blot analysis using a polyclonal antibody against actin was used as a loading control .
+( D ) Normal proliferation of transgenic T cells .
+Naive T cells were isolated from transgenic mice or wild-type littermates and cultured with ConA , IL-2 and APC ( see Materials and methods ) for 2 days and [ °H ] thymidine was added .
+Radioactivity incorporation was measured 18 h later in triplicate .
+extracts from c-Jun transfected cells , which argues that JunB specifically increased c-Maf binding to DNA .
+Signi-ficantly , PMA/ionomycin treatment was required to increase DNA binding , which suggests that JunB phosphorylation may be required since PMA/ionomycin dramatically induces JNK activity .
+We tested this hypothesis by using extracts from JunBala or JunBglu transfected cells .
+Extracts from JunBala transfected cells did not JunB regulates Th2 differentiation A -s 350 C f 2 m a __ 300 ; 60 |-w & E 250 | & 50 | Rs e e @ 200 | £40 | & E & L 3 .
+a £4 & 150 3 30 ig 1090 | 3 20 | = 1 =l 50 | - TD C B-tubulin pf o T o © T o M T o m z 8 og = £ oc T B og - L4 ** E : ** 3 , ga E : 350 ; 1000 __ 300 | _ -- E 200 | E soo 2200 - g 600 +-* 150 | | 400 u , 109 | 5 |L1D g 50 3 200 | 0 ~ k s o ® 3 o ® D 250 E 100 F 90000 pa -O-Wild Type -O-Wild Type 2 so000 } E .
+| { - @ -JunB pa | .
+\ - @ -JunB L a .
+£ 200 < 80 & 7oo0o | 3 E ~ `` _ 150 3 cso | & 60000 .
+Lo g | & 100 3 § 50000 it & 040 f | _ § 40000 | 50 2 soo00 | o 29 [ L , 20000 | 5 0 QL [ 10 100 o 8 10000 | H ( ug/ml ) 0 1 10 100 5 0 ln wild JunB KLH ( ug/ml ) Type Fig .
+7 .
+Upregulation of Th2 cytokines in JunB transgenic mice .
+( A ) RT-PCR .
+Naive T cells were isolated from transgenic or wild-type littermates and differentiated in vitro toward Th1 using ConA , IL-12 and anti-IL-4 antibody .
+Three days later , total RNA was isolated and cytokine RT-PCR was done .
+B-tubulin was used as a control .
+( B ) ELISA .
+Cytokine ELISA was performed with the supernatant of the day 3 culture used in Figure 7A .
+Average values from line 58 and line 62 were used for the graph .
+( C ) In vitro T cell differentiation was performed as described in Figure 7A except that no anti-IL-4 antibody was added .
+The amount of IL-4 secreted was examined by cytokine ELISA .
+( D and E ) Cytokine production in KLH-immunized mice .
+T cells from draining lymph node of KLH immunized mice were cultured with various amount of KLH for 4 days .
+IL-4 and IFN-y was measured using ELISA .
+The wild-type mice used were the transgene negative littermates .
+( F ) [ °H ] thymidine was added to the culture at day 3 and incorporation of radioactivity was measured 18 h later in triplicate .
+facilitate DNA binding even with PMA/ionomycin treat-ment , while extracts from JunBglu transfected cells were sufficient to mediate binding even without PMA/ionomycin treatment .
+These experiments argue strongly that the cooperative DNA binding of JunB and c-Maf is facilitated by JunB phosphorylation .
+To map the DNA sequence that is required for this cooperative binding , we used the -87/-31 bp fragment of the IL-4 promoter with mutations at various sites .
+Mutations at the P1 AP-1 site and the MARE half site greatly reduced DNA binding while mutations at either NFAT sites had no effect ( Figure 5D ) .
+These experiments indicated that JunB and c-Maf bind distant elements ( centered on -80 and -40 , respectively ) of the IL-4 promoter and that cooperativity of binding is facilitated through JunB phosphorylation .
+To test further whether the AP-1 and MARE sites are required for JunB and c-Maf mediated synergistic activation of IL-4 promoter , we generated IL-4 promoter luciferase constructs with either the AP-1 site or the MARE site mutated .
+Figure 5E shows that both constructs lost the ability to support synergistic promoter activation by JunB and c-Maf in luciferase assays .
+Thus , synergy between JunB and c-Maf requires functional AP-1 and MARE sites .
+Upregulation of cytokines in differentiating Th1 cells from JunB transgenic mice To examine whether JunB plays a causal role in Th2 cytokine expression in vivo , we generated transgenic mice that express JunB in T cells ( Figure 6A ) .
+Since the CD4 promoter construct we employed lacks the CD4 silencer , JunB is expressed in both CD4 and CD8 cells ( Killeen et al .
+, 1993 ) .
+The expression of the JunB transgene in peripheral T cells was verified by RT-PCR using one primer derived from the first exon of CD4 gene and the other primer from the 5 ' region of JunB cDNA ( Figure 6A ) .
+Of the nine transgenic lines generated , four lines tested positive for transgene expression .
+Among them , line 62 has a higher copy number and higher expression level than other lines ( Figure 6B ) .
+We then examined JunB protein levels in T cells by Western blot analysis ( Figure 6C ) .
+JunB protein was significantly increased in transgenic mice compared with wild-type littermates .
+It should be noted that this increase is roughly equivalent to the 427 B.Li et al .
+increase of the endogenous JunB protein in Th2 cells ( Figure 1 ) .
+Expression of the JunB transgene did not have any overt effect on lymphocyte development since the transgenic lines had normal profiles of thymocyte subpopu-lations staining for CD4 and CDS and spleen cells ( CD4 and CD8 cells , and B cells ) ( data not shown ) .
+The proliferation of naive CD4 T cells in response to Con A , IL-2 and APC was slightly enhanced in the transgenic lines compared with the wild-type littermates ( Figure 6D ) .
+To test whether JunB is sufficient to turn on Th2 cytokine expression , we examined the effect of the JunB transgene in Th1 cells , a condition where Th2 cytokine expression is not usually observed .
+We reasoned that elevation of the JunB level in Th1 cells by transgenesis to an equivalent level as found in Th2 cells would test whether JunB plays a similar role in Th2 differentiation .
+Naive CD4 T cells from transgene-positive animals and negative littermates were differentiated in vitro to the Th1 subset by culture with ConA plus IL-2 , IL-12 and anti-IL-4 mAb for 3 days , by which time T helper cells have already differentiated to produce the corresponding cytokines .
+The expression levels of several cytokines were examined by RT-PCR ( Figure 7A ) .
+In both transgenic lines examined , the level of IFN-y was essentially the same as that in the wild-type littermate controls .
+In contrast , a much higher level of IL-4 and IL-5 mRNA was observed in both transgenic lines than in the negative littermate controls .
+The levels of IL-6 and IL-10 were also increased .
+The slightly stronger signal seen in line 62 corresponded with its higher level of JunB expression than in other lines .
+To quantitate the amount of cytokines produced in the culture , we performed ELISA with the supernatant of the day 3 culture used above ( Figure 7B ) .
+In the transgenic T cells , IFN-y remained unchanged at high level .
+The amount of IL-5 was increased by 3- to 4-fold ; the amount of IL-6 and IL-10 were both increased , although to a lesser extent .
+IL-4 secretion by both wild-type and transgenic cells was virtually undetectable due to the fact that anti-IL-4 mAb was added to the culture to skew the response toward Th1 differentiation ( data not shown ) .
+To quantitate the difference in IL-4 secretion , we repeated the above experiment without anti-IL-4 mAb .
+ELISA measurements showed that T cells from JunB transgenic mice produced 4- to 5-fold more IL-4 than negative littermates ( Figure 7C ) .
+These data indicated that overexpression of JunB was sufficient to turn on Th2 cytokine expression , even in a Th1l population .
+Upregulation of IL-4 in antigen re-stimulated T cells from KLH-immunized mice To test whether JunB transgenic T cells were predisposed to develop into IL-4 producing cells in vivo , we immunized mice using Keyhole Limpet Hemocyanin ( KLH ) with complete Freund 's Adjuvant ( CFA ) and harvested T cells from draining lymph nodes after 9 days .
+Cytokine production by these cells in response to KLH was measured by ELISA ( Figure 7D and E ) .
+KLH in CFA elicits an immune reaction skewed toward Thl .
+As expected , we saw a relatively high level of IFN-y production using wild-type T cells .
+The amount of IFN-y produced in transgenic T cells , however , was slightly lower ( Figure 7D ) .
+Interestingly , although the amount of IL-4 produced in both wild 428 type and transgenic cells was quite low , there was a consistently higher amount of IL-4 produced by the transgenic T cells ( Figure 7E ) .
+At the same time , the proliferative ability of the transgenic T cells was essentially the same as the negative littermate T cells ( Figure 7F ) .
+Thus , elevation of JunB levels to that of Th2 cells is sufficient to direct the synthesis of Th2 cytokines in Th1 cell populations .
+Discussion The molecular basis for T-helper-restricted expression of cytokines is poorly understood .
+IL-4 is the key cytokine that determines the Th2-differentiation pathway .
+Recently , c-Maf ( Ho et al .
+, 1996 ) and GATA-3 ( Zheng and Flavell , 1997 ) have been shown to be selectively expressed in Th2 but not in Th1 cells .
+Both factors are able to induce IL-4 gene expression in populations that normally do not express this gene .
+In addition , GATA-3 has a profound global effect on the expression of most Th2 cytokines .
+While it is at present unclear how GATA-3 acts , either locally at cytokine promoters or globally at the Th2 locus or both , c-Maf directly binds and activates the IL-4 gene .
+However , it is not yet clear how c-Maf plays its role in Th2 differentiation since by the time c-Maf upregulation is manifested at day 8 after T cell activation ( Ho et al .
+, 1996 ) , Th2 differentiation has been completed for several days .
+Our studies ( Rincon et al .
+, 1997 ; this report ) show that a third transcription factor , JunB , is selectively expressed in developing Th2 cells but not in Thl cells .
+Moreover , we now demonstrate that JunB plays a causal role in this process since JunB overexpression in transgenic mice upregulated all Th2 cytokines assayed .
+We further demonstrate that JunB and c-Maf activate IL-4 expression synergistically .
+The early upregulation of JunB in Th2 cells could provide the tissue specificity for c-Maf during Th2 differentiation while the accumulation of large amounts of c-Maf later might serve to maintain a high level of IL-4 .
+Previous studies of the role of AP-1 in T helper cell development have generated somewhat inconsistent results .
+First , different observations were made as to whether AP-1 complexes are differentially accumulated in Thl versus Th2 cells .
+In gel-shift experiments using extracts from long-term Thl and Th2 clones AE7 and D1QO , Rooney et al .
+( 1995 ) found that AP-1 complexes from both AE7 and D10 cells were able to bind the P1 element of the IL-4 promoter , and that JunB was present in both of the complexes that were detected by EMSA .
+However , in another study using primary T cells ( Wenner et al .
+, 1997 ) , the AP-1-containing complex which shows a lower mobility in the gel-shift assay was only observed using activated Th2 extracts .
+A parallel study ( Rincon and Flavell , 1997 ) also found accumulated AP-1 complexes with some c-Fos , and high levels of JunB-containing complexes in Th2 cells but not in Th1 cells .
+Furthermore , AP-1 transcriptional activity was also enhanced in Th2 cells relative to Th1 cells .
+Secondly , different conclusions have been made as to whether AP-1 contributes to Th2-specific IL-4 expression .
+The observation that the NFAT/ AP-1 sites of the IL-2 and IL-4 promoters were functionally interchangeable in AE7 and D10 cells ( Rooney et al .
+, 1995 ) led to the proposal that AP-1 does not determine Th1/Th2 specificity .
+However , in transgenic mice , multimerization of the same NFAT/AP-1 site was found to direct luciferase reporter gene expression only in Th2 cells ( Wenner et al .
+, 1997 ) as was the expression of similar AP-1 and NFAT/AP-1 sites from the IL-2 promoter ( Rincon and Flavell , 1997 ; Rincon et al .
+, 1997 ) .
+These discrepancies could simply represent the different behaviors of long-term T cell clones and primary cells , or alternatively , differences in experimental systems .
+The analysis of promoter activity during the process of Th1/ Th2 differentiation not only provides a normal cellular context , but also addresses developmental requirements and we have therefore used this approach ( Rincon and Flavell , 1997 ; Rincon et al .
+, 1997 ; this study ) .
+Our finding that JunB is specifically induced in developing Th2 cells provides a molecular explanation for the observation that P1 NFAT/AP-1 elements drive Th2-restricted expression .
+Several mechanisms assure the specificity of IL-4 gene activation by JunB .
+First , the differential induction of JunB was not observed for either c-Jun or JunD .
+Thus , JunB is the only Jun family member that is differentially regulated and has the potential to contribute to Th-specific gene expression .
+Secondly , among the Jun family members , only JunB is capable of synergizing with c-Maf to activate the IL-4 gene .
+As shown by Western blot analysis , c-Jun is present in both Th1l and Th2 cells , and c-Jun alone possesses an ability to activate the IL-4 promoter that is similar to JunB .
+However , the synergy between JunB and c-Maf generates much higher IL-4 promoter activity , while c-Jun can only generate at most low level activity in this context .
+Finally , the fact that JunB was found to inhibit c-Jun transcriptional activity could provide another mechanism for this specificity ( Chiu et al .
+, 1989 ; Schutte et al .
+, 1989 ) .
+Although it was proposed that JunB might form heterodimers with c-Jun and thus attenuate the formation of c-Jun homodimers , the mechanism for JunB inhibition of c-Jun transcriptional activity is not clear .
+Our discovery that JunB is an excellent substrate for JNK raised the possibility that in those experiments overexpressed JunB might have competed with c-Jun for JNK binding and thus led to reduced c-Jun phosphorylation .
+The fact that JunB has a much lower activity than c-Jun in driving transcription of a TRE-luciferase reporter and its apparent inhibitory effect on c-Jun transcriptional activity ( Chiu et al .
+, 1989 ; Schutte et al .
+, 1989 ) has loosely classified JunB as a transcriptional repressor .
+However , our study has clearly shown that JunB directly binds the IL-4 promoter and activates its transcription .
+Interestingly , JunB does not activate two other constructs containing AP-1 binding sites , while c-Jun does .
+Thus , JunB differs in its promoter selectivity from c-Jun and activates or inhibits transcription within a specific promoter context .
+A striking finding of our current study is the role of phosphorylation on JunB function in T helper cells .
+Previously JunB had not been thought to be a phosphorylation substrate for JNK , despite the fact that this molecule has a conserved JNK binding site ( Gupta et al .
+, 1996 ; Kallunki et a/ .
+, 1996 ) .
+We found , however , that the synergy of JunB with c-Maf was strongly potentiated by stimulation of M12 cells with PMA plus ionomycin .
+Furthermore , direct studies of JunB phosphorylation showed that two threonine residues flanked by prolines ( Thr1l02 and JunB regulates Th2 differentiation Thr104 ) were phosphorylated equally efficiently as the prototypic JNK phosphorylation sites at Ser63 and Ser73 of c-Jun ( Figure 3A ) .
+The JunB phosphorylation sites are similar to the phosphorylation sites on ATF-2 , also recognized by JNK ( Gupta et al .
+, 1995 ) .
+Consistent with these findings , removal of these phosphorylation sites by replacement of both Thr residues with Ala , abolished phosphorylation and reduced the transcriptional synergy with c-Maf .
+Conversely , replacement of these Thr residues with Glu , mimicking constitutive phosphorylation at these sites , gave stronger synergy in the absence of stimulation with PMA plus ionomycin than was observed with wild-type or Ala mutants ( Figure 4C ) .
+The initial observation of transcriptional synergy between JunB and c-Maf and the fact that they are both b-Zip proteins raised the possibility that they might form heterodimers ( Kerppola and Curran , 1994 ) .
+Although we found that JunB directly interacts with c-Maf in vitro , we could not identify a DNA element that binds JunB within the vicinity of the c-Maf binding site .
+The identification of the P1 element as the binding site for JunB indicated that JunB and c-Maf probably bind to independent sites , possibly as homodimers .
+The DNA-binding experiment using c-Maf beads suggests that JunB and c-Maf interact with each other , directly or indirectly ( Figure 5 ) .
+This interaction is enhanced by JunB phosphorylation , which also contributed significantly to the transcriptional synergy between JunB and c-Maf suggesting that this interaction mediates this synergy .
+The potentiation of c-Maf DNA binding by JunB appears to be mediated , at least in part , by the phosphorylation of JunB by JNK at Thr102 and Thr1Q04 .
+This may explain why c-Jun only poorly mediates this interaction and therefore does not synergize with c-Maf to drive transcription mediated by the IL-4 promoter .
+In contrast , c-Jun is strongly phosphorylated at Ser63 and Ser73 , and is only poorly phosphorylated by JNK on other sites .
+Similar to our previous findings with GATA-3 , JunB stimulates expression of multiple Th2 cytokine genes .
+JunB strongly actives IL-4 and IL-5 , and modestly activates IL-6 and IL-10 expression ( Figure 7 ) whereas GATA-3 strongly increased IL-4 , IL-6 and IL-10 , and to a lesser extent IL-5 .
+JunB could induce IL-4 expression directly and increase the expression of other cytokines indirectly through the effect on IL-4 .
+However , the fact that little IL-4 was present in the Th1 culture due to the addition of IL-4 antibody argues against the latter scenario .
+Alternatively , JunB could directly activate each cytokine gene .
+JunB emerges as a new Th2-specific transcription factor that regulates Th2-restricted cytokine expression .
+It would be interesting to further dissect in future experiments the immediate early events that lead to upregulation of JunB in Th2 cells but not in Thl cells , which ultimately influences the fate of Th1/Th2 differentiation .
+Materials and methods Plasmid constructs and site-directed mutagenesis The IL-4-luciferase reporter plasmid pIL4-157luc has been described previously ( Zheng and Flavell , 1997 ) .
+The expression vectors c-Jun/ pMexNeo , JunD/pMexNeo and JunB/pMexNeo II were kind gifts of Dr R.Bravo .
+pREPA4/NFATe was a kind gift from Dr L.Glimcher .
+pSH210 ( expression vector for human NFATcZ/NFATp ) was kindly provided by Dr G.Crabtree .
+pSKMSV/EBPB ( expression vector for C/EBPB ) was 429 B.Li et al .
+kindly provided by Dr S.McKnight .
+Bacterial expression of GST-Jun ( Dérijard et al .
+, 1994 ) , GST-ATF2 ( Gupta et al .
+, 1995 ) and GST-Myc ( Alvarez et al .
+, 1991 ) have been described previously .
+The mammalian and the bacterial expression vectors for wild-type and mutants JunB were constructed by subcloning the JunB full-length DNA into pCDNA3 ( Invitrogen ) and a PCR fragment corresponding to residues 1-248 of JunB into pGEX-5X1 ( Pharmacia-LKB Biotechnology , Inc. ) .
+The Flag epitope ( -Asp-Tyr-Lys-Asp-Asp-Asp-Asp-Lys- ; Immunex Corp. ) was inserted between codons 1 and 2 by insertional overlapping PCR ( Ho et al .
+, 1989 ) .
+To replace Thr102 and Thr104 with Ala or Glu , site-directed mutagenesis was performed with overlap extension by PCR as described previously ( Ho et al .
+, 1989 ) .
+The structure of the expression vectors was confirmed by automated sequencing using a model 373A machine ( Applied Biosystems Inc. ) .
+The GST fusion proteins were purified by glutathione affinity chromatography ( Smith and Johnson , 1988 ) .
+The IL-4 luciferase constructs with AP-1 or MARE sites mutated were generated using Quick Change Kit ( Stratagene ) .
+The primers used were : CCAGAATAACTGACAATCTGGCTGCAGAAAATTTTCCAA-TGTAAACTC and GAGTTTACATTGGAAAATTTTCTGCAGCCA-GATTGTCAGTTATTCTGG for the AP-1 site mutation ; CTCATTTT-CCCTTGGTTTCGAATTCTTTAACTCTATATATAGAGAG and CTCT-CTATATATAGAGTTAAAGAATTCGAAACCAAGGGAAAATGAG for the MARE site mutation .
+In vitro differentiation of CD4 T cells Naive CD4 T cells were isolated from transgenic mice or wild-type littermates using methods described previously ( Kamogawa et al .
+, 1993 ) .
+Preparation of APC has also been described previously ( Kamogawa et al .
+, 1993 ) .
+To differentiate CD4 T cells in vitro , naive T cells ( 1x10 ml ) were cultured with an equal number of APC , 2.5 mg/ml Con A and 30 U/ml IL-2 in Bruff 's medium containing 5 % fetal calf serum ( FCS ) .
+For Th1 differentiation , IL-12 ( 3.5 ng/m ! )
+and the anti-IL-4 monoclonal antibody 11B11 were added ; for Th2 differentiation , IL-4 ( 1000 U/ml ) and the IFN-y monoclonal antibody XMG1.2 were added .
+For re-stimulation , cells were harvested 4 days after stimulation , washed and cultured for 24 h in Bruff 's medium supplemented with 2.5 ug/ml Con A. Transgenic mice The JunB cDNA was subcloned into the Sell site of the CD4 promoter/ enhancer plasmid p37.1 ( a gift from Dr D.Littman ) , which expresses in both CD4 and CD8 cells .
+A Nof fragment of this plasmid was isolated and injected into fertilized eggs of ( B6XC3HDF ; , and transgenic mice were generated as previously described ( Hogan et al .
+, 1986 ) .
+Founders were screened with primer CD4seq2 derived from the CD4 second exon and primer JunBrl derived from the 5 ' end of JunB cDNA .
+Positive founders were confirmed by Southern blotting .
+The expression of the transgene was checked with RT-PCR on peripheral lymphocytes using primer CD4seql derived from the first exon of CD4 gene and the JunBr1 .
+Founders were bred with B6 mice and the F ; mice were used for experiments .
+The sequences of the primers are as follows : JunBrl , 5'-GTGGGTTTCAGGAGTTTGTAGTCG-3 ' ; CD4seq2 , 5'-GCTCA-GATTCCCAACCAACAAGAG-3 ' ; CD4seql , 5'-GTGAAGGAAGG-ACTGGCCAGAG-3 ' .
+RT-PCR Total RNA was prepared using Trizol from Gibco-BRL according to the manufacturer 's instructions .
+Reverse transcription was done using Superscript II ( Gibco-BRL ) .
+The primers for cytokines and PCR conditions were described previously ( Reiner et al .
+, 1994 ; Zheng and Flavell , 1997 ) .
+The primers for B-tubulin are 5-TGTCCATGAAGGAGGTGG-ATGAG-3 ' and 5'-ATGTTGCTCTCAGCCTCGGTGAAC-3 ' .
+Immunization Mice were immunized with 50 jug KLH in complete Freund 's adjuvant ( CFA ) in each hind footpad .
+CD4 T cells in draining lymph nodes were isolated 9 days later as described previously ( Kamogawa et al .
+, 1993 ) and 2X10° cells were cultured with APC in the presence of the indicated amount of KLH .
+After 4 days , supernatant IL-4 and IFN-y was assayed using an ELISA kit as recommended by the manufacturer ( PharMingen ) .
+For proliferation assays , 1 Ci was added to the culture .
+Cells were harvested after 18 h and the radioactivity was measured with a B-counter ( Beckman ) .
+Triplicates of each sample were measured and average values determined .
+EMSA Naive T cells were differentiated to Th2 in vitro for 3 days .
+The cells were activated with PMA ( 50 ng/m ! )
+and ionomycin ( 1 uM ) for 2 h and 430 nuclear extracts were isolated as previously described ( Schreiber et al .
+, 1989 ; Tugores et al .
+, 1992 ) .
+Complementary oligo nucleotides containing P1 element ( 5'-GACAATCTGGTGTAATAAAATTTTCCAATG-3 ' and its complementary strand ) were labeled with [ °°P ] ATP ( ICN ) using T4 polynucleotide kinase ( NEB ) , annealed , and purified using a G50 Sepharose column .
+Radiolabeled probe ( 210+ c.p.m . )
+was incubated in the binding reaction buffer 10 mM HEPES pH 7.4 , 1 mM EDTA , 50 mM NaCl , 8 % glycerol , 1 mM DTT , 0.5 mM PMSF together with 4 ug of nuclear extract , 4 pug of poly ( dI-dC ) for 30 min on ice .
+In the supershift experiments , JunB and c-Jun polyclonal antibodies ( Santa Cruz ) were pre-incubated with extract for 20 min before adding probe .
+The total volume for the binding reaction is 20 pil , of which , 15 pul was loaded onto a 4 % polyacrylamide gel with 0.5 % TBE and run at 16 mA at 4°C for 2.5 h. Western blot analysis Nuclear extract ( 20 pg ) was run on a precast 10 % SDS-PAGE gel ( Novex ) and transferred to Immobilon-p transfer membrane ( Millipore ) with a semi-dry transfer unit ( Hoefer ) .
+The membrane was blotted with polyclonal JunB , c-Jun , JunD antibodies ( Santa Cruz ) or a monoclonal antibody against the Flag epitope ( Kodak ) and processed using the ECL Western blot reagents ( Amersham ) .
+A polyclonal antibody against actin was used as a control for loading .
+Tissue culture and transfection assays COS-7 cells were cultured at 37°C in Dulbecco 's modified Eagle 's medium ( DMEM ) supplemented with 10 % heat-inactivated fetal bovine serum ( Life Technologies , Inc. ) , 2 mM glutamine , 100 U/ml penicillin and 100 U/ml !
+streptomycin in a humidified environment with 5 % CO ; .
+Transient transfections were performed with the LipofectAMINE reagent ( Life Technologies , Inc. ) according to the manufacturer 's recommenda-tions .
+After 36 h , the cells were serum-starved overnight and treated with UV-C ( 80 J/m ) , or TPA ( 100 ng/m ! )
+for 60 and 15 min , respectively , prior to lysis .
+Cell extracts were prepared in lysis buffer ( 20 mM Tris pH 7.4 , 10 % glycerol , 1 % Triton X-100 , 0.137 M NaCl , 25 mM B-glycerophosphate , 2 mM EDTA , 1 mM sodium orthovanadate , 10 ug/ml leupeptin , 10 ug/ml aprotinin , 1 mM phenylmethylsulfonyl fluoride ] and centrifuged at 915 000 g ( 15 min at 4°C ) .
+The concentration of total soluble protein in the supernatant was quantitated using the Bradford method ( Bio-Rad ) .
+The B cell lymphoma M12 was cultured in Bruff 's medium supplemented with 5 % FBS .
+The transfection of M12 cells was done essentially as previously described ( Ho et al .
+, 1996 ) .
+Protein kinase assays Epitope-tagged MAPKs were immunoprecipitated from cell extracts by incubation for 3 h at 4°C with the M2 monoclonal antibody to Flag ( IBI-Kodak ) or 12CA5 monoclonal antibody to HA ( Boehringer Mannheim ) bound to protein G-Sepharose beads ( Pharmacia-LKB Biotechnology , Inc. ) .
+Endogenous JNK , p38 MAPK and ERK were immunoprecipitated with polyclonal antibodies pre-bound to protein A-Sepharose beads ( Pharmacia-LKB Biotechnology , Inc. ) .
+The immune complexes were washed twice with lysis buffer and three times with the kinase buffer ( 25 mM HEPES pH 7.4 , 25 mM B-glycerophosphate , 25 mM MgCl ; , 0.5 mM dithiothreitol , 0.1 mM sodium orthovanadate ) .
+The MAPK activity was measured at 30°C for 20 min in 30 pil of kinase buffer containing 1 ug of recombinant GST-Jun , GST-JunB , GST-ATF2 or GST-Mye and 50 uM [ y°P ] JATP ( 10 Ci/mmol , 1 Ci = 37.6 Gbg ) .
+The reactions were terminated by addition of Laemmli sample buffer .
+Proteins were resolved by 10 % SDS-PAGE and identified by autoradiography .
+The incorporation of [ °°PJphosphate into the GST fusion protein was quantitated by PhosphorImager analysis .
+Phosphoamino acid analysis Phosphoamino acid analysis was performed by partial acid hydrolysis ( 1 h at 110°C in 6 M HCJ ) and thin layer electrophoresis as described ( Davis and Czech , 1985 ) .
+Protein immobilization and DNA binding The expression vectors pET29 containing N-terminal ( amino acid residues 1-170 ) and C-terminal ( amino acid residues 171-370 ) fragments of c-Maf were kind gifts from Dr L.Glimcher .
+The truncated c-Maf proteins were expressed using T7 polymerase in the BL21 ( DE3 ) strain .
+The proteins were induced as described ( Ho et al .
+, 1996 ) and purified using the S-tag purification kit ( Novagen ) .
+Proteins were immobilized on the beads without the final elution step .
+In vitro transcription-translation was done using the Promega TNT coupled rabbit reticulocyte lysate system with incorporated .
+Proteins from a 12.5 ul reaction were used as input to assay for c-Maf binding .
+The reaction also contains 20 ul c-Maf beads in a total volume of 50 pl .
+The binding buffer was the same as the EMSA binding buffer .
+The samples were mixed on a rotator at room temperature for 2 h and washed with binding buffer three times .
+Proteins immobilized on the beads were separated on a 10 % SDS-PAGE gel and exposed to film .
+The transcription-translation vectors JunDpKS* , JunBpKS* and c-JunpTZ18R were kind gifts of Dr R.Bravo .
+For the c-Maf-beads DNA binding experiments either 12.5 ul TNT product or 100 ug extract from M12 cells ( 2 % 10° M12 cells transfected with 20 ug JunB , JunBala , JunBglu or c-Jun expression vector ; PMA/ionomycin was added 1h before making extracts ) , 40 pull c-Maf Beads , 30 ug poly ( dI-dC ) with or without radiolabeled DNA fragment ( 1 X10° c.p.m . )
+in 100 ul total volume were incubated at room temperature for 2 h with constant mixing .
+After binding , beads were washed three times and extracted with phenol .
+DNA was ethanol precipitated and resolved on an 8 % polyacrylamide gel .
+Luciferase assay For luciferase assays , 4 ug IL-4 promoter luciferase reporter plasmid and 0.8 ug c-Maf expression plasmids were used .
+For all other expression plasmids , 2 ug of was used unless otherwise noted in the figure legends .
+Protein concentration of the M12 extracts were measured using the Bio-Rad protein assay reagent .
+Two-hundered micrograms of extract was used to assay luciferase activity with the Promega luciferase assay substrate .
+Fifty nanograms of a LacZ reporter plasmid was co-transfected in all the experiments .
+Fifty micrograms of extract was incubated with 8 mM chlorophenolred-B-p-galactopyranoside ( CPRG ) , 0.2 M Na , HPOy4 pH 7.3 , 1 mM MgCl , , and 45 mM B-mercaptoethanol for 20 min at 37°C and ODs ; , readings were measured .
+Acknowledgements We are grateful to Dr L.Glimcher , Dr R.Bravo , Dr G.Crabtree , and Dr S.McKnight for generously providing various plasmids .
+We thank F.Manzo for manuscript preparation .
+B.L .
+and C.T .
+are associates and R.A.E and R.J.D .
+are investigators of the Howard Hughes Medical Institute .
+R.J.D .
+is supported by NIH grants CA65861 and CA72009 .
+References Abbas , Murphy , K.M .
+and Sher , A .
+( 1996 ) Functional diversity of helper T lymphocytes .
+Nature , 383 , 787-793 .
+Abe , E. , De Waal Malefyt , R. , Matsuda , L. , Arai , K .
+and Arai , N .
+( 1992 ) An 11-base-pair DNA sequence motif apparently unique to the human interleukin 4 gene confers responsiveness to T-cell activation signals .
+Proc .
+Natl Acad .
+Sci .
+USA , 89 , 2864-2868 .
+Alvarez , E. , Northwood , LC .
+, Gonzalez , FA .
+, Latour , D.A .
+, Seth , A. , Abate , C. , Curran , T .
+and Davis , R.J .
+( 1991 ) Pro-Leu-Ser/Thr-Pro is a consensus primary sequence for substrate protein phosphorylation .
+J. Biol .
+Chem .
+, 266 , 15277-15285 .
+Aune , T.M .
+and Flavell , R.A .
+( 1997 ) Differential expression of transcription directed by a discrete NF-AT binding element from the IL-4 promoter in naive and effector CD4 T cells .
+J .
+Immunol .
+, 159 , 36-43 .
+Bruhn , K .
+W. , Nelms , K. , Boulay , J.L .
+, Paul , W.E .
+and Lenardo , M.J .
+( 1993 ) Molecular dissection of the mouse interleukin-4 promoter .
+Proc .
+Natl Acad .
+Sci .
+USA , 90 , 9707-9711 .
+Chiu , R. , AngeL , P .
+and Karin , M .
+( 1989 ) Jun-B differs in its biological properties from and is a negative regulator of , c-jun .
+Cell , 59 , 979-986 .
+Chuvpilo , S. , Schomberg , C. , Gerwig.R .
+, Heinfling , A. , Reeves , R. , Grummt , F .
+and Serfling , E .
+( 1993 ) Multiple closely-linked NFAT/ octamer and HMG I ( Y ) binding sites are part of the interleukin-4 promoter .
+Nucleic Acids Res .
+, 21 , 5694-5704 .
+Constant , S.L .
+and Bottomly , K .
+( 1997 ) Induction of Th1 and Th2 CD4+ T cell responses : the alternative approaches .
+Annu .
+Rev .
+Immunol .
+, 15 , 297-322 .
+Davis , R.J .
+and Czech , M.P .
+( 1985 ) Tumor-promoting phorbol diesters cause the phosphorylation of epidermal growth factor receptors in normal human fibroblasts at threonine-654 .
+Proc .
+Natl Acad .
+Sci .
+USA , 82 , 1974-1978 .
+Davydov , LV .
+, Krammer , PH .
+and Li-Weber , M .
+( 1995 ) Nuclear factor-IL6 activates the human IL-4 promoter in T cells .
+J .
+Immunol .
+, 155 , 5273-5279 .
+Dérijard , B. , Hibi , M. , Wu , L.-H. , Barrett , T. , Su , B. , Deng , T. , Karin , M .
+and Davis , J.R .
+( 1994 ) JNK1 : A protein kinase stimulated by UV light and JunB regulates Th2 differentiation Ha-Ras that inds and phosphorylates the c-jun activation domain .
+Cell , 76 , 1025-1037 .
+Dickens , M. , Rogers , J. , Cavanagh , J. , Raitano , A. , Xia , Z. , Halpem , J. , Greenberg , M. , Sawyers , C .
+and Davis , RJ .
+( 1997 ) A cytoplasmic inhibitor of the JNK signal transduction pathway .
+Science , 277 , 693-696 .
+Gupta , S. , Campbell , D. , Dérijard , B .
+and Davis , R.J .
+( 1995 ) Transcription factor ATF2 regulation by the JNK signal transduction pathway .
+Science , 267 , 389-393 .
+Gupta , S. , _ Barrett , T. , - Whitmarsh , A.J .
+, - Cavanagh , J. , - Sluss , HK .
+, Dérijard , B .
+and Davis , R.J .
+( 1996 ) Selective interaction of JNK protein kinase isoforms with transcription factors .
+EMBO J. , 15 , 2760-2770 .
+Ho , ILC .
+, Hodge , M.R .
+, Rooney , J.W .
+and Glimcher , L.H .
+( 1996 ) The proto-oncogene c-maf is responsible for tissue-specific expression of interleukin-4 .
+Cell , 85 , 973-983 .
+Ho , S.N .
+, Hunt , H.D .
+, Horton , R.M .
+, Pullen , J.K .
+and Pease , L.R .
+( 1989 ) Site-directed mutagenesis by overlap extension using the polymerase chain reaction .
+Gene , 77 , 51-59 .
+Hogan , B. , Costantini , F .
+and Elizabeth , L .
+( 1986 ) Manipulating the Mouse Embryo : A Laboratory Manual .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY .
+Hsich , C.S .
+, Heimberger , A.B .
+, Gold , J.S .
+, O'Garra , A .
+and Murphy , K.M .
+( 1992 ) Differential regulation of T helper phenotype development by interleukins 4 and 10 in an B T-cell-receptor transgenic system .
+Proc .
+Natl Acad .
+Sci .
+USA , 89 , 6065-6069 .
+Hsich , C.S .
+, Macatonia , S.E .
+, Tripp , C.S .
+, Wolf , S.F , O'Garra , A .
+and Murphy , K.M .
+( 1993 ) Development of TH1 CD4+ T cells through IL-12 produced by Listeria-induced macrophages .
+Science , 260 , 547-549 .
+Tp , Y.T .
+and Davis , R.J .
+( 1998 ) Signal transduction by the c-Jun N-terminal kinase ( JNK ) -from inflammation to development .
+Curr Opin .
+Cell Biol .
+, 10 , 205-219 .
+Kallunki , T. , Deng , T. , Hibi , M .
+and Karin , M .
+( 1996 ) c-Jun can recruit JNK to phosphorylate dimerization partners via specific docking interactions .
+Cell , 87 , 929-939 .
+Kamogawa , Y. , Minasi , L .
+A. , Carding , S.R .
+, Bottomly , K .
+and Flavell , R.A .
+( 1993 ) The relationship of IL-4- and IFN y-producing T cells studied by lineage ablation of IL-4-producing cells .
+Cell , 75 , 985-995 .
+Kerppola , T.K .
+and Curran , T .
+( 1994 ) Maf and Nrl can bind to AP-1 sites and form heterodimers with Fos and Jun .
+Oncogene , 9 , 675-684 .
+Killeen , N. , Sawada , S .
+and Littman , D.R .
+( 1993 ) Regulated expression of human CD4 rescues helper T cell development in mice lacking expression of endogenous CD4 .
+EMBO J. , 12 , 1547-1553 .
+Li-Weber , M. , Eder , A. , Krafft-Czepa , H .
+and Krammer , P.H .
+( 1992 ) T cell-specific negative regulation of transcription of the human cytokine IL-4 .
+J .
+Immunol .
+, 148 , 1913-1918 .
+Manetti , R. , - Parronchi , P. , Giudizi , M.G .
+, Piccinni , M.P .
+, Maggi , E. , Trinchieri , G .
+and Romagnani , S .
+( 1993 ) Natural killer cell stimulatory factor ( interleukin 12 [ IL-12 ] ) induces T helper type 1 ( Th1 ) -specific immune responses and inhibits the development of IL-4-producing Th cells .
+J. Exp .
+Med .
+, 177 , 1199-1204 .
+Mosmann , T.R .
+, - Cherwinski , H. , Bond , M.W .
+, - Giedlin , M.A .
+- and Coffman , R.L .
+( 1986 ) Two types of murine helper T cell clone .
+I .
+Definition according to profiles of lymphokine activities and secreted proteins .
+J .
+Immunol .
+, 136 , 2348-2357 .
+Paul , W.E .
+and Seder , R.A .
+( 1994 ) Lymphocyte responses and cytokines .
+Cell , 76 , 241-251 .
+Rana , A. , Gallo , K. , Godowski , P. , Hirai , S. , Ohno , S. , Zon , L. , Kyriakis , J.M .
+and Avruch , J .
+( 1996 ) The mixed lineage kinase SPRK phosphorylates and activates the stress-activated protein kinase activator , SEK-1 .
+J. Biol .
+Chem .
+, 271 , 19025-19028 .
+Reiner , S.L .
+, Zheng , S. , Corry , D.B .
+and - Locksley , R.M .
+( 1994 ) Constructing polycompetitor cDNAs for quantitative PCR .
+J. Immunol .
+Methods , 175 , 275 .
+Rincéon , M .
+and Flavell , R.A .
+( 1997 ) Transcription mediated by NFAT is highly inducible in effector CD4+ T helper 2 ( Th2 ) cells but not in Th1 cells .
+Mol .
+Cell .
+Biol .
+, 17 , 1522-1534 .
+Rincéon , .M .
+, Dérijard , B. , Chow , C. , Davis , R.J .
+and FlavelLR.A .
+( 1997 ) Reprogramming the signalling requirement for AP-1 ( activator protein-1 ) activation during differentiation of precusor CD4 T cells into effector Th1 and Th2 cells .
+Genes Funct .
+, 1 , 51-68 .
+Robinson , M.J .
+and Cobb , ( 1997 ) Mitogen-activated protein kinase pathways .
+Curr .
+Opin .
+Cell Biol .
+, 9 , 180-186 .
+Romagnani , S .
+( 1997 ) The Th1/Th2 paradigm .
+Immunol .
+Today , 18 , 263-266 .
+431 B.Li et al .
+Rooney , J.W .
+, Hodge , M.R .
+, McCaffrey , P.G .
+, Rao , A .
+and Glimcher , L.H .
+( 1994 ) A common factor regulates both Th1- and Th2-specific cytokine gene expression .
+EMBO J. , 13 , 625-633 .
+Rooney , J.W .
+, Hoey , T .
+and Glimcher , LH .
+( 1995 ) Coordinate and cooperative roles for NF-AT and AP-1 in the regulation of the murine IL-4 gene .
+Immunity , 2 , 473-483 .
+Schreiber , E. , Matthias , P. , Muller , M.M .
+and Shaffner , W .
+( 1989 ) Rapid detection of octamer binding proteins with 'mini'-extracts prepared from a small number of cells .
+Nucleic Acids Res .
+, 17 , 6419 .
+Schutte , J. , Viallet , J. , Nau , M. , Segal , S. , Fedorko , J .
+and Minna , J .
+( 1989 ) jun-B inhibits and c-fos stimulates the transforming and trans-activating activities of c-jun .
+Cell , 59 , 987-997 .
+Seder , R.A. , Paul , W.E .
+, Davis , and Fazekas de St Groth , B .
+( 1992 ) The presence of interleukin 4 during in vitro priming determines the lymphokine-producing potential of CD4+ T cells from T cell receptor transgenic mice .
+J. Exp .
+Med .
+, 176 , 1091-1098 .
+Seder , R.A. , Gazzinelli , R. , Sher , A. and Paul , W.E .
+( 1993 ) Interleukin 12 acts directly on CD4+ T cells to enhance priming for interferon y production and diminishes interleukin 4 inhibition of such priming .
+Proc .
+Natl Acad .
+Sci .
+USA , 90 , 10188-10192 .
+Smith , S.B .
+and Johnson , K.S .
+( 1988 ) Single-step purification of polypeptides expressed in Escherichia coli as fusions with glutathione-S-transferase .
+Gene , 67 , 31-40 .
+Swain , S.L .
+( 1993 ) IL4 dictates T-cell differentiation .
+Res .
+Immunol .
+, 144 , 616-620 .
+Szabo , S.J .
+, - Gold , J.S .
+, Murphy , T.L .
+- and - Murphy , K.M .
+( 1993 ) Identification of cis-acting regulatory elements controlling interleukin-4 gene expression in T cells : roles for NF-Y and NF-ATc [ published erratum appears in Mol .
+Cell .
+Biol .
+1993 , 13 , 5928 ] .
+Mol .
+Cell .
+Biol .
+, 13 , 4793-4805 .
+Tibbles , L.A. , Ing , YL .
+, Kiefer , F. , Chan , J. , Iscove , N. , Woodgett , J.R .
+and Lassam , N.J .
+( 1996 ) MLK-3 activates the SAPK/JNK and p38/RK pathways via SEK1 and MKK3/6 .
+EMBO J. , 15 , 7026-7035 .
+Todd , M.D .
+, Grusby , M.J. , Lederer , J.A .
+, Lacy , E. , Lichtman , A.H .
+and Glimcher , L.H .
+( 1993 ) Transcription of the interleukin 4 gene is regulated by multiple promoter elements .
+J. Exp .
+Med .
+, 177 , 1663-1674 .
+Tournier , C. , Whitmarsh , A.J .
+, Cavanagh , J. , Barreft , I .
+and Davis , RJ .
+( 1997 ) Mitogen-activated protein kinase kinase 7 is an activator of the c-Jun NH2-terminal kinase .
+Proc .
+Natl Acad .
+Sci .
+USA , 94 , 7337-7342 .
+Tugores , A. , Alonso , M.A .
+, Sanchez-Madrid , F .
+and de Landazuri , M.O .
+( 1992 ) Human T cell activation through the activation-inducer molecule/CD69 enhances hthe activity of transcripiton factor AP-1 .
+J .
+Immunol .
+, 148 , 2300-2306 .
+Wenner , C.A .
+, Szabo , S.J .
+and Murphy , K.M .
+( 1997 ) Identification of IL-4 promoter elements conferring Th2-restricted expression during T helper cell subset development .
+J .
+Immunol .
+, 158 , 765-773 .
+Whitmarsh , A. and Davis , R.J. ( 1996 ) Transcription factor APO1 regulation by mitogen-activated protein kinase signal transduction pathways .
+J. Mol .
+Med .
+, 74 , 589-607 .
+Zheng , W. and Flavell , R.A .
+( 1997 ) The transcription factor GATA-3 is necessary and sufficient for Th2 cytokine gene expression in CD4 T cells .
+Cell , 89 , 587-596 .
+Received September 8 , 1998 ; revised November 24 , 1998 ; accepted November 25 , 1998 432

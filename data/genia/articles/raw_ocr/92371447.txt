@@ -1,0 +1,530 @@
+The EMBO Journal vol.11 no.9 pp.3395 - 3403 , 1992 TAR-independent transactivation by Tat in cells derived from the CNS : a novel mechanism of HIV-1 gene regulation J.Paul Taylor , Roger Pomerantz ' , Omar Bagasra ' , Mashiul Chowdhury , Jay Rappaport® , Kamel Khalili® and Shohreh Amini Department of Biochemistry and Molecular Biology , Molecular Neurovirology Section , Jefferson Institute of Molecular Medicine , 'Department of Medicine , Division of Infectious Disease , Thomas Jefferson University , Philadelphia , PA 19107 and Laboratory of Oral Medicine , National Institute of Dental Research , National Institutes of Health , Bethesda , MD 20892 and Division of Renal Diseases and Hypertension , Department of Medicine , The George Washington University , Washington , CD 20037 , USA *Corresponding author Communicated by R.Perry The Tat protein of human immunodeficiency virus type 1 ( HIV-1 ) is essential for productive infection and is a potential target for antiviral therapy .
+Tat , a potent activator of HIV-1 gene expression , serves to greatly increase the rate of transcription directed by the viral promoter .
+This induction , which seems to be an important component in the progression of acquired immune deficiency syndrome ( AIDS ) , may be due to increased transcriptional initiation , increased transcriptional elongation , or a combination of these processes .
+Much attention has been focused on the interaction of Tat with a specific RNA target termed TAR ( trans-activation responsive ) which is present in the leader sequence of all HIV-1 mRNAs .
+This interaction is believed to be an important component of the mechanism of transactivation .
+In this report we demonstrate that in certain CNS-derived cells Tat is capable of activating HIV-1 through a TAR-independent pathway .
+A Tat-responsive element is found upstream within the viral promoter that in glial-derived cell lines allows transactivation in the absence of TAR .
+Deletion mapping and hybrid promoter constructs demonstrate that the newly identified Tat-responsive element corresponds to a sequence within the viral long terminal repeat ( LTR ) previously identified as the HIV-1 enhancer , or NF-xB domain .
+DNA band-shift analysis reveals NF-xB binding activity in glial cells that differs from that present in T lymphoid cells .
+Further , we observe that TAR-deleted mutants of HIV-1 demonstrate normal late gene expression in glial cells as evidenced by syncytia formation and production of viral p24 antigen .
+These results suggest that the upstream Tat-responsive element is sufficiently active to support viral replication and indicate that an alternative regulatory circuit influencing HIV-1 gene expression is operational within some cells .
+Key words : HIV-1/TAR element/Tat protein © Oxford University Press Introduction AIDS and related conditions caused by infection with HIV are frequently associated with multiple disorders of the central nervous system ( CNS ) ( Price et al. , 1988 , 1990 ; Rosenblum et al. , 1988 ) .
+At least 60 % of AIDS patients develop symptoms of neurologic disease and 90 % demonstrate neuropathologic abnormalities at autopsy ( Navia et al. , 1986 ; Lechtenberg and Sher , 1988 ) .
+In some cases neurologic complications dominate the clinical course or are the only manifestation of AIDS ( Navia and Price , 1987 ) .
+Debilitating dementia , encephalopathy and opportunistic infections are the abnormalities most commonly observed ( Epstein et al. , 1985 ; Price et al. , 1988 , 1990 ; Gabuzda , 1990 ) .
+The presence of HIV-1 in the brain and cerebrospinal fluid ( CSF ) of AIDS patients and a strong correlation between the level of HIV-1 expression and clinical severity strongly suggest a direct role for HIV-1 in some of the neurological complications found in infected individuals ( Ho et al. , 1985 ; Levy et al. , 1985 ; Gyorkey et al. , 1987 ; Koenig et al. , 1986 ; Giulian et al. , 1990 ) .
+However , the precise mechanism of pathogenesis within the CNS is not yet clear .
+A direct cytopathic effect in infected cells may be responsible for some HIV -induced CNS disease ; it has also been suggested that toxic substances released from infected cells may be deleterious to CNS function ( Giulian et al. , 1990 ) .
+Within the CNS , HIV-1 infection has been observed predominantly in microglia , but infection is also observed in oligodendroglia , astroglia and neurons ( Koenig et al. , 1986 ; Wiley et al. , 1986 ; Gyorkey et al. , 1987 ; Ward et al. , 1987 ; Michaels et al. , 1988 ; Price et al. , 1988 ; Rhodes et al. , 1988 ) .
+Further , it has been demonstrated that many astrocytic cell lines are permissive to HIV-1 infection in vitro ( Cheng-Mayer et al .
+, 1987 ; Chiodi et al. , 1987 ; Dewhurst et al. , 1987 ) .
+Some studies report low levels or fail to detect virus in astrocytes .
+These observations may reflect the nature of the lytic cycle in astrocytes .
+Evidence suggests that HIV-1 infects astrocytes latently , making the virus difficult to detect , yet expression is reactivated by specific cytokines or contact with lymphoid or monocytoid cells resulting in a cytopathic effect and virus transmission to other permissive cells ( Chiodi et al. , 1987 ; Dewhurst et al .
+, 1987 ; Tornatore et al. , 1991 ) .
+This latent infection may serve as a large viral reservoir and , in addition , contribute to significant CNS pathology upon reactivation ( Pomerantz et al. , 1990 ) .
+Productive infection by HIV-1 is dependent on the activity of the regulatory protein Tat ( Dayton et al. , 1986 ; Fisher et al. , 1986 ) , a potent activator of HIV-1 gene expression ( Arya et al .
+, 1985 ; Sodroski et al .
+, 1985 ) .
+Since production of Tat is also augmented upon activation , this viral protein serves to establish a strong positive feedback loop that results in a massive induction of HIV-1 gene expression and , 3395 J.P.Taylor et al .
+consequently , further propagation of the infection ( Cullen and Greene , 1989 ; Cullen , 1990 ) .
+Tat belongs to an emerging class of regulatory proteins that exert their function after binding to a specific RNA target ( Lazinski et al. , 1989 ) .
+Tat binds to a specific RNA structure , termed the TAR element , found at the 5'-end of all HIV-1 mRNAs ( Dingwall et al. , 1989 ; Muller et al .
+, 1990 ; Roy et al .
+, 1990 ; Calnan et al. , 1991a , b ) .
+It appears that interaction of this regulatory protein with this specific RNA target is an important component of the activation mechanism ( Rosen et al. , 1985 ; Feng and Holland , 1988 ; Berkhout et al. , 1989 ; Calnan et al. , 1991a , b ) .
+In addition , evidence suggests that upstream regulatory elements within the viral promoter are required to mediate Tat transactivation ( Berkhout et al. , 1989 ; Southgate and Green , 1991 ; Kamine ert al. , 1991 ) .
+We undertook a study of the mechanism of activation of HIV-1 transcription by the Tat protein .
+Our initial findings demonstrated that within cells derived from the CNS , Tat transactivation occurs independent of the TAR element , suggesting that an alternative mechanism of transcriptional control is functional within these cells .
+The results presented here ( i ) demonstrate TAR-independent transactivation of HIV-1 transcription by the Tat protein in a cell-type specific manner , ( ii ) show detail mapping experiments of the HIV-1 LTR that identify the promoter element responsible for mediating Tat responsiveness , ( iii ) demonstrate the differences between glial cells and T cells in binding activity to this Tat-responsive element , and ( iv ) demonstrate that this novel mechanism of transcriptional activation by Tat is sufficient to support normal HIV-1 gene expression .
+Results In glial-derived cell lines Tat transactivates the LTR in a TAR-independent fashion The consequence of activation of the HIV-1 long terminal repeat ( LTR ) by Tat is an enhanced rate of transcription .
+This induction may result from an increased rate of transcription initiation , more efficient elongation or a combination of these mechanisms ( Laspia ert al. , 1989 , 1990 ; Feinberg et al .
+, 1991 ) .
+This transactivation leads to greatly increased levels of LTR-directed mRNAs ( Muesing et al. , 1987 ) .
+In order to examine this phenomenon within glial cells , a plasmid expressing chloramphenicol acetyltransferase ( CAT ) under direction of the HIV-1 LTR was cotransfected with a Tat expression plasmid into the cell lines U87MG , U138MG ( both derived from human glioblastomas ) and C6 ( derived from a rat glioblastoma ) .
+We observed that the presence of Tat results in the transactivation of LTR-directed transcription comparable to that seen in cell lines of non-CNS origin , i.e .
+H9 , HeLa and COS ( Figure 1A -F ) .
+To examine the dependence of Tat activity on the TAR element , the LTR-CAT construct was modified so that sequences encoding TAR were deleted .
+The minimal functional TAR element is encoded by nucleotides +19 to +42 relative to the transcription start site .
+The TAR-deleted LTR was created by removal of nucleotides downstream of +24 by restriction digestion ( ATAR constructs ) .
+Previous studies have demonstrated that removal of the TAR sequence from the LTR abolishes Tat responsiveness in cells of non-glial origin ( Hauber and Cullen , 1988 ; Okamoto et al. , 1990 ) .
+Indeed , we observe that Tat is unable to activate expression of the TAR-deleted LTR in either an unstimulated lymphoid 3396 cell line ( H9 ) or non-lymphoid cell lines ( COS and HeLa ) ( Figure 1D-F ) .
+However , in the glial-derived cell lines , significant transactivation is still detected ( Figure 1A -C ) .
+Quantitation of the CAT activity reveals cell-type specific differences in basal transcription level , but demonstrates that the TAR deletion itself does not influence basal transcription ( Figure 1A'-F ' ) .
+The TAR deletion , therefore , only influences Tat responsiveness .
+Cotransfection experiments performed with Tat expressed from a variety of promoters ( human B-actin , cytomegalovirus immediate early and SV40 late promoters ) yielded consistent results ( unpublished data ) .
+A nuclease S1 protection assay was used to quantitate LTR-directed mRNA from transfected cells .
+Densitometric analysis indicates that with Tat transactivation the quantity of transcripts produced from the TAR-deleted LTR is ~30 % of that seen with the intact LTR ( Figure 2A ) .
+These results confirm that the observed CAT activity reflects increases in steady-state levels of mRNA .
+Northern blot analysis of equivalent amounts of the same RNA with a probe for B-actin serves as a control for RNA integrity and concentration ( Figure 2B ) .
+Primer extension analysis of LTR-directed mRNA from the TAR-containing and TAR-deleted LTRs demonstrates that transcription initiates from the same site ( unpublished data ) .
+The results from transient transfection and RNA analysis indicate that Tat is capable of activating LTR expression in a TAR-independent manner .
+Mapping the promoter sequences required for TAR-independent transactivation To identify regions of the LTR that are involved in mediating Tat activity in the absence of TAR , a series of deletion mutants were employed ( Figure 3A ) .
+Cotransfection of each of these constructs with the ptat expression plasmid into the U87MG cell line allowed identification of LTR sequences that are required for Tat responsiveness in the absence of TAR .
+Deletion of 5 ' LTR sequences from nucleotide - 176 to nucleotide -117 relative to the transcription start site causes a slight decrease in basal transcription [ as has been previously observed , Rosen et al .
+( 1985 ) ] , but does not influence the Tat responsiveness of either the TAR-containing ( pCD23 ) or the TAR-deleted LTR ( pCD23ATAR ) ( Figure 3A and B , lanes 1-12 ) .
+This result indicates that sequences sufficient for Tat transactivation of the LTR within these cells are contained within nucleotides -117 to +24 .
+Construct pCD23AS contains a small deletion in the region corresponding to the boundary of stem and loop in TAR ( nucleotides +35 to +38 ) , and otherwise leaves the leader sequence intact .
+Previous observations have demonstrated that this deletion abolishes Tat responsiveness in non-glial cells ( Okamoto eral. , 1990 ) .
+The basal activity of Tat responsiveness of pCD23AS is indistinguishable from that of pCD23ATAR , demonstrating that the level of transactivation observed is not influenced by the length of the leader sequence ( Figure 3A and B , lanes 13-15 ) .
+Further 5 ' deletion to nucleotide -65 results in a reduced basal transcription ( Figure 3B , cf .
+lanes 7 and 10 to lanes 16 and 19 ) .
+This observation is consistent with removal of the enhancer domain ( present between nucleotides -103 and -80 ) .
+Removal of these sequences does not interfere with Tat transactivation of the TAR-containing LTR ( pCD52 ) , but abolishes Tat responsiveness of the TAR-deleted LTR ( pCDS2ATAR ) ( Figure 3A and B , lanes 16-21 ) .
+These results suggest that sequences contained within nucleotides A B € @ # # @ © ® e e eo © © D E .
+ha E a 3 900 5 : _ $ is Lo § e a 328 so M e a a p Fic ¢ « a 9 $ 2g = a € a & & a a a § $ 5§ xo $ _ a a '' a o O ® 0 0 1 2 3 4 5 6 1 2 D ' .
+a E 3 « a a m _ a s oo s 1500 w e 3 a. , 1200 $ « $ 48 8 $ & ° 90 $ Jax a , a m a 5a - a a a < i % `` I 3 a a a 6 w o m C « a 300 `` a m y o ai inl ind F 6 a *- x~ o _-_ 1 2 3 a 5 6 *e # * ® « @ < # | a « a a s = jo 747.3 £ 130.8 w TAR-independent transactivation by Tat 0 - @ ° @ < b n -+ @ © @ « > - < 325.8 £ 37.8 21.2 £ 4.1 80.6 £ 10.4 358.9 £ 34.5 192.9 £ 35.7 112.1 £ 20.2 22.4 £ 2.8 a o w w m o 889.1 £ 94.1 13.4 £ 40.5 J ... t. __ n 1175x142 | e Ur » 4 18.8 a 8.5 143 a 5.5 Mllﬂzﬂ Mirna “ 0va:20 I 1-18.5L13 Fig .
+1 .
+( A-F ) Dependence of Tat responsiveness on the TAR element in different cell lines .
+Either the wild-type HIV-1 LTR-CAT construct ( pCD16 ) or a TAR-deleted LTR-CAT construct ( pCD16ATAR ) ( 200 ng ) were cotransfected with 0 , 1 or 5 ug of a Tat-expressing plasmid ( ptat ) .
+Representative experiments are shown .
+Cell lines : ( A ) U87-MG , ( B ) U138-MG , ( C ) C6 , ( D ) H9 , ( E ) HeLa , ( F ) COS. Quantitation of CAT assay results represent an average of multiple experiments .
+Each experiment was repeated three or more times .
+-117 to -65 are dispensable when the TAR element is intact , and are therefore not strictly required for mediating Tat activity , yet are required for the Tat responsiveness that operates independently of the TAR element .
+The identified sequence encompasses the HIV-1 enhancer ( capable of binding the inducible transcription factor NF-xB ) ( Nabel and Baltimore , 1987 ; Kawakami et al. , 1988 ) and a GC-rich region capable of binding the transcription factor Spl ( Jones et al. , 1986 ; Garcia et al. , 1987 ) .
+Identification of the NF-xB domain as the element mediating Tat responsiveness To define precisely the LTR sequence responsible for mediating TAR-independent Tat transactivation in astrocytic cells , a series of PCR-generated deletion mutants of the HIV-1 LTR linked to the CAT gene was constructed ( Figure 4A ) .
+These constructs are designed to allow sequential examination of small segments of the LTR within the region spanning -117 to -65 , as well as sequences downstream 3397 J.P.Taylor et al .
+Fig .
+2 .
+Analysis of RNA from transiently transfected U87-MG cells .
+( A ) Nuclease S1 protection analysis .
+Cells were cotransfected with the indicated LTR-CAT reporter plasmid with ( lanes 2 and 4 ) or without ( lanes 1 and 3 ) 5 ug of ptat .
+Forty-eight hours post-transfection total RNA was prepared and analysed by nuclease S1 protection as described in Materials and methods .
+Arrows indicate the position of the full-length 458 nucleotide probe and the expected 256 nucleotide protected fragment .
+P , untreated S1 probe .
+( B ) Northern blot analysis .
+To control for RNA integrity and concentration 20 ug of total RNA from these samples were analysed for B-actin by Northern analysis as described in Materials and methods .
+of the transcription start site .
+Each of these segments has been previously implicated as a cis-element involved in transcription regulation ( Rosen et al. , 1985 ; Nabel and Baltimore , 1987 ; Kawakami ert al. , 1988 ; Ratnasabapathy et al. , 1990 ) .
+Analysis of CAT activity following cotransfection of these constructs with the expression plasmid B-actin-Tat demonstrates that removal of sequences downstream of the cap site ( construct p117/3 ) or upstream of the NF-xB-binding domain ( construct p105/3 ) does not influence TAR-independent Tat responsiveness ( Figure 4B ) .
+Removal of one NF-xB-binding site ( construct p91/3 ) reduces Tat transactivation , while removal of both NF-xB-binding sites ( construct p80/3 ) eliminates Tat responsiveness .
+These results indicate that the NF-xB domain is required for the TAR-independent Tat transactivation observed in astrocytic cells .
+The NF-xB domain is sufficient to confer Tat responsiveness to a heterologous promoter To examine whether the HIV-1 enhancer ( NF-xB-binding domain ) is sufficient to confer TAR-independent Tat responsiveness to an unresponsive promoter in astrocytic cells , this sequence was examined in a heterologous background .
+A number of hybrid promoters were constructed by introducing the NF-xB and Spl binding domains of HIV-1 to the upstream region of the promoter for mouse whey acidic protein ( WAP ) ( Figure 4A ) .
+Transient transfection assay of these constructs demonstrated that the presence of the NF-xB domain is sufficient to confer TAR-independent Tat responsiveness in US7MG cells ( Figure 4B ) .
+Transcription directed by the NF-xB-containing WAP promoter is enhanced ~6-fold by Tat .
+This level of induction is similar to that observed for the TAR-deleted HIV-1 3398 promoter in US7MG cells .
+In contrast , a construct in which the inserted NF-xB domain is mutated ( GGGACTTTCC altered to CTCACTTTCC ) is not responsive to Tat ; this suggests that a specific interaction with this region is involved in Tat responsiveness .
+The presence of the Spl domain in the chimeric WAP promoter has no significant influence on Tat responsiveness in the absence of the NF-xB domain , but seems to contribute to a slightly greater Tat responsiveness when the NF-xB and Spl domains are both present .
+In the H9 lymphoid cell line these hybrid promoter constructs are all unresponsive to Tat ( unpublished data ) .
+Comparison of NF-xB-binding activity of glial cells to the 'classic ' NF-xB of T lymphoid cells The NF-xB domain of the HIV-1 LTR consists of a DNA sequence motif that is shared among a variety of viral and cellular genes ( see Baeuerle et al. , 1991 for a review ) .
+The nuclear factors that bind to this DNA element have been intensely studied because of their role in inducing the expression of immune response genes of T lymphocytes .
+The observation that the NF-xB domain mediates Tat responsiveness in US7MG cells led us to examine NF-xB-binding activity in this glial cell line .
+DNA band-shift analysis demonstrates a pattern of two complexes ( labelled a and B in Figure 5 ) , both enhanced by PMA stimulation ( Figure 5A , lanes 1 and 2 ) , the binding of which is specifically competed out by wild-type oligonucleotide but not mutant oligonucleotide ( GGGACTTTCC altered to CTCACTTTCC ) ( Figure 5B ) .
+Interestingly , however , the mobility of these two complexes differs greatly from the mobility of NF-xB complexes derived from T lymphoid cells ( Figure 5A , lanes 3 and 4 ) .
+Although the a band seems to be common to both extracts , the 3 band appears to exist only in glial cell extracts .
+This result implies that additional , or perhaps entirely different , NF-xB-binding activities are present in glial cells .
+The addition of exogenous Tat protein to glial nuclear extracts , and examination of extracts prepared from glial cells constitutively expressing Tat , revealed no obvious influence on the binding of glial-derived NF-xB or the migration of the & and ( 3 complexes ( unpublished data ) .
+This suggests an indirect role for Tat in influencing NF-xB-binding activity .
+Binding analyses using highly purified xB-binding protein ( s ) from glial cells and analysis of in vitro , cell-free transcription are essential to define the role of these factors , if any , in mediating activation of LTR-directed transcription by Tat ( J.P.Taylor , in preparation ) .
+Ability of the upstream Tat-responsive element to support viral replication To examine the biological significance of the transfection assay results , we investigated the ability of the upstream Tat-responsive element to support replication of whole virus in astrocytic cell lines .
+U87MG cells are found to permit normal gene expression of wild-type HIV-1 [ RIP-7 derivative of HXB2 ( McCune et al. , 1988 ) ] .
+Under light microscopy , scattered syncytia are observed that range from a few to a hundred fused cells ( Figure 6A ) .
+ELISA assay for HIV-1 p24 antigen production indicates that in US87MG cells late gene expression occurs at lower levels but with similar kinetics to that seen following transfection of H9 cells .
+HIV-1 p24 antigen production reaches a maximum at ~24 h post-transfection with the wild-type proviral clone in H9 and US7MG cells ( Figure 7 ) and decreases gradually over the 10 days post-transfection ( R.Pomerantz , submitted ) .
+Two TAR-independent transactivation by Tat TATA TAR CAT « 176 -- -- -- -- ________________ - pCD16 176 - _- - -- - pCD16ATAR F 0000 einen emesis - -- - pCD23 o ___ pCD23ATAR 2 _- pCD23AS -65 - -- -- -- - pCD52 65 -- e > -- -- -- -pCD52ATAR B pCD16 _ pCD16ATAR pCD52 _ pCDS52ATAR pot o -- howe ~ Po -I _- plat w » o @ * & o o o 99 e Stat * plat ] « « : _- ptat| é # 9 o o o @ a 16 17 18 19 20 21 Fold Transactivation : - 16.6 18.1 3.1 25.7 30.1 0.78 0.91 hd x o en s ] = + a o & a 0 % 6 co + \o ¢ z - wo4 ike cmm 2 500 € .. al oi M a a bu & s od a $ 243 40 e e oa o a B s B & 4 ~ fo 5 < 2 e 300 { | 3 % o = % o 2 g e T7 p 50 *A § a w en # wi wl a w + s « : x , be 25 g 200 « « a o « a pes o « m - = 3 o o _o a* § ° R a _ & no $ $ A _ ® # 000 +4 p 100 < w Po s a o , x 0 % € m i- o a f bo uo a ta & s co ' o 5 es G g & 7 e es to o m Fig .
+3 .
+Targeting the Tat-responsive element .
+( A ) LTR-CAT deletion constructs ( not drawn to scale ) .
+kB , NF-xB-binding site ( nucleotides -80 to -104 ) ; Sp1 , GC-rich region capable of binding the transcription factor Sp1 ; TATA , putative TATA box ; TAR , transactivation responsive element .
+All numbering is relative to the transcription start site which is designated +1 .
+( B ) Transient transfection and CAT assay analysis of the deletion constructs in U87-MG cells .
+The indicated LTR-CAT constructs ( 300 ng ) were cotransfected with 0 , 1 or 5 ug of ptat .
+A representative experiment is shown .
+( C ) Quantitation of CAT assay results represent an average of five to eight independent experiments .
+Each experiment was repeated three or more times .
+FOLD TRANSACTIVATION -o - n 3 8 ke S01 tata +l tan +80 p117/80 Ah -- -+24 p117/24 +3 p117/3 ~10§ -- -- -- -- +3 p105/3 « 91 -- -- -- - +3 p91/3 +80 -- - +3 p80/3 CAAT TATA 86 -- mm-aam -- - +24 pWAPCAT HJ -- -- -- - +24 pGC-WAPCAT +24 pkB-WAPCAT OHO -- -- -- -- +24 pkBpy-WAPCAT ma BB§ # -- -- -- - +24 pkB/GC-WAPCAT Fig .
+4 .
+Fine mapping of the Tat-responsive element and analysis in a heterologous background .
+( A ) Deletion constructs , designed to sequentially examine previously identified promoter elements , and hybrid promoter constructs were constructed as described in Materials and methods .
+Within the LTR the NF-kB domain ( kB ) , GC-rich domain ( Spl ) , TATA box ( TATA ) , and TAR element ( TAR ) are identified .
+Within the whey acidic protein promoter the CAAT box ( CAAT ) and TATA box ( TATA ) are identified .
+( B ) Fold transactivation by Tat as determined by transient transfection analysis .
+The indicated CAT constructs were cotransfected with 10 ug of actin-tat .
+3399 J.P.Taylor et al .
+Fig .
+5 .
+DNA band-shift analysis of nuclear extracts derived from U87MG cells and Jurkat T cells .
+( A ) Comparison of NF-xB-binding activity of U87MG cells to that found in Jurkat T cells .
+Lane 1 , unstimulated U87MG cells ; lane 2 , U87MG cells after 24 h stimulation with 50 ng/ml phorbol-myristic acid ( PMA ) ; lane 3 , unstimulated Jurkat T cells ; lane 4 , Jurkat T cells after 24 h stimulation with PMA .
+a and $ identify two complexes formed upon incubation of U87-MG nuclear extract with a wild-type NF-xB probe .
+( B ) Specificity of glial-derived NF-xB-binding factors .
+Lane 1 , competition with 100 ng of unlabelled wild-type NF-xB oligonucleotide ; lane 2 , competition with 100 ng of unlabelled mutant NF-xB oligonucleotide .
+mutant proviral clones ( ATAR1 and ATAR2 , mutant derivatives of HXB2 RIP-7 ) that contain deletions within the TAR element were utilized .
+It has been previously demonstrated that neither of the mutant derivatives is able to productively infect lymphoid cells .
+Indeed , we observed no evidence of late viral gene expression in H9 cells with either TAR-deleted virus for 10 days post-transfection .
+Repeated assays for HIV-1 p24 antigen production were negative ( Figure 7A ) .
+In contrast , following transfection of the ATAR1 and ATAR2 mutants into US7MG cells , substantial p24 expression was observed ( Figure 7B ) .
+Consistent results were observed following transfection of the ATAR mutants into U138MG cells ( unpublished data ) .
+The syncytia observed following transfection of U87MG cells with the ATAR proviruses resemble those produced by infection with the wild-type virus ( Figure 6B ) .
+The ELISA assay for HIV-1 p24 antigen production indicates that in U8S7ZMG cells late gene expression in both ATAR1 and ATAR2 proceeds at a rate comparable with that of wild-type virus with HIV-1 p24 antigen production reaching a maximum at 24 h post-transfection ( Figure 7B ) and decreases gradually over the 10 days post-transfection ( R.Pomerantz , submitted ) .
+No evidence of syncytia formation or HIV-1 p24 production was detectable following transfection of either H9 or US7MG cells with a Afat mutant derivative of HXB2 RIP-7 ( unpublished data ) .
+These results indicate that in U87MG cells , as in non-glial cell types , normal HIV-1 gene expression was dependent upon Tat .
+Yet in the astrocytic cell line the TAR element is no longer required to mediate the Tat effect .
+Discussion We conclude that a Tat-responsive element within the LTR other than TAR is operational and is sufficient to support 3400 normal HIV-1 gene expression in the appropriate host cell .
+These data substantiate and extend the observations by others that first , the TAR element is not strictly required for Tat responsiveness and second , that upstream promoter elements within the LTR are involved in mediating Tat transactivation .
+That the TAR element is not strictly required for Tat responsiveness has been demonstrated by a variety of experiments designed to allow Tat to bypass the TAR binding step .
+In HeLa and COS cells Tat responsiveness can be restored to TAR-deleted promoters by providing an artificial target for Tat binding within the LTR ( Berkhout et al .
+, 1990 ; Selby and Peterlin , 1990 ; Southgate et al .
+, 1990 ; Southgate and Green , 1991 ; Kamine et al. , 1991 ) .
+Further , in certain PMA-stimulated lymphoid cells , TAR-independent transactivation of the LTR has been observed and is dependent on the HIV-1 enhancer ( Harrich et al. , 1990 ) .
+From these studies it has been generally concluded that the TAR element functions primarily as a tether for Tat , bringing this transcription factor into the proximity of basal transcription elements and allowing optimal access to the transcriptional machinery .
+In this report we demonstrate for the first time that in a cell type-specific manner , transactivation by Tat occurs independently of the TAR element without artificial perturbation , suggesting that an alternative mechanism of recruitment of Tat to the promoter is at work .
+In support of this hypothesis we have noted interesting results with Tat mutants that have the basic domain altered so that they are no longer capable of binding TAR .
+These Tat mutants are unable to transactivate LTR-directed transcription in HeLa cells ( Calnan eral. , 1991b ) but are functional in the background of astrocytic cells ( J.P. Taylor , in preparation ) .
+The sequence identified as responsible for TAR-independent Tat responsiveness in astrocytic cells is capable of binding the transcription factor NF-xB , an interaction that correlates with activation of LTR-directed transcription ( Nabel and Baltimore , 1987 ; Kawakami et al. , 1988 ) .
+Evidence from one study suggests that this enhancer sequence is involved even in TAR-dependent transactivation ( Berkhout et al .
+, 1990 ) .
+The transcription factor NF-xB is composed of a number of factors that belong to the rel family of proteins ( Baeuerle , 1991 ) .
+Different members of the rel family have been found expressed in a cell type-specific manner ( Baeuerle , 1991 ) .
+We find in glial cells the expression of PMA-inducible NF-xB-binding complex ( es ) with an electrophoretic mobility that is distinct from the 'classic ' NF-xB of T lymphocytes .
+In vitro transcription in cell-free extracts demonstrates that these glial-derived NF-xB-binding proteins activate LTR-directed transcription and are involved in mediating TAR-independent Tat transactivation ( J.P. Taylor , in preparation ) .
+At present , however , we have not detected association of Tat with the NF-xB complex derived from glial cells utilizing our current assays ( mobility shift and UV cross-linking ) .
+Substantial quantities of highly purified protein are needed to examine direct interaction of glial-derived NF-xB with Tat and its involvement in mediating transactivation of the HIV-1 LTR .
+In this regard , protein purification and cloning of the gene encoding glial-derived xB are currently underway .
+The observations presented here can be added to the substantial evidence that upstream promoter sequences within the LTR are involved in mediating Tat transactivation .
+It has been demonstrated that the GC-rich sequences found between the enhancer and the TATA box , which are capable of binding Spl , are required for TAR-dependent trans- TAR-independent transactivation by Tat Fig .
+6 .
+Light microscopy demonstrating syncytia formation .
+U87-MG cells were transfected with the HIV-1 wild-type proviral clone HXB2 RIP-7 or a mutant derivative , and 72 h later fixed and stained as described in Materials and methods .
+( A ) Transfection with wild-type HXB2 .
+( B ) Transfection with the ATAR1 deletion mutant .
+activation by Tat ( Okamoto et al. , 1990 ; Kamine et al. , 1991 ) .
+In a provocative series of experiments it was demonstrated that the Sp1-binding sites could be functionally replaced by a variety of basal transcription elements in permitting Tat transactivation , although the Spl element was optimal ( Southgate and Green , 1991 ) .
+These observations suggest that the status of transcriptional initiation and the rate of initiation rather than the specific factors involved , play a role in determining responsiveness to Tat .
+These observations are interesting in light of the results presented in this report .
+We observe that the NF-xB-binding domain is capable of conferring Tat responsiveness to a heterologous promoter , but that the Tat responsiveness of this promoter is increased by the presence of Spl-binding sites .
+Perhaps in the absence of the Sp1-binding sites the CAAT box present within the WAP promoter is functionally substituting for the ‘ E ‘ A H9 B U87MG & 3000 3000 § @ 2000 2000 F § 100 1000 hos & o OP PP Fig .
+7 .
+HIV-1 p24 antigen assay of supernatants from transfected H9 and U87-MG cells .
+Cells were transfected with 5 ug of the indicated proviral clone and analysed for p24 production as described in Materials and methods .
+Only the 24 h time point ( peak production ) is shown .
+( A ) H9 cells , ( B ) U87-MG cells .
+§of $ d < a 3401 J.P.Taylor et al .
+GC-rich sequences that are required for Tat responsiveness by the LTR .
+The observations presented here support the proposition that differential utilization of the Tat protein , probably regulated by cellular factors , influences the HIV-1 replicative cycle .
+The presence or absence of such cellular factors , or their level of activity , could be influenced by cell type or environmental stimuli .
+Perhaps Tat functions by directly or indirectly stabilizing the interaction of cellular transcription factors to upstream promoter elements .
+Alternatively , Tat could play some role in regulating the activity of a promoter-bound transcription factor .
+The fact that in some circumstances Tat activates HIV-1 transcription independently of the TAR element may have implications for antiviral therapies that are aimed at Tat function or the Tat/TAR interaction .
+The identity of cellular factors responsible for the TAR-independent Tat responsiveness observed in glial cells , and their mechanism of action , are under investigation in our laboratory .
+Materials and methods Cell culture , transfections and CAT assays U87-MG , U138-MG , HeLa and COS-1 cells were maintained in DMEM supplemented with 10 % fetal bovine serum ( Gibco ) and antibiotics .
+C6 cells were maintained in Ham 's F-10 medium supplemented with 15 % horse serum ( Gibco ) and 2.5 % fetal bovine serum .
+Cells were plated at a density of 5 x 10° cells/6-cm dish and refed fresh growth media 3 h prior to transfection by the calcium phosphate coprecipitation method ( Graham and van der Eb , 1973 ) .
+H9 cells were maintained in RPMI 1640 .
+H9 cells ( 1 x 10 '' ) were transfected by the DEAE-dextran method ( Arya et al. , 1985 ) .
+Reporter plasmid ( 200 ng or 300 ng ) was cotransfected with 1 , 5 or 10 ug of ptat or actin-tat and 5 ug of pRSV-Ggal .
+The total amount of DNA transfected was normalized to 20 ug using pUC19 DNA .
+Forty-eight hours post-transfection the cells were harvested and a crude protein extract was prepared by freeze and thaw .
+Equal amounts of total protein ( 100 ug ) were incubated in a 1 h reaction to assay for CAT activity .
+The fold transactivation was quantitated by scintillation counting of spots cut from the TLC plate .
+The transfection efficiency throughout these experiments was monitored by cotransfection with pRSV- @ gal ( kindly provided by Dr Nadia Rosenthal , Boston University ) and found not to differ significantly .
+Each experiment was repeated three or more times with different plasmid preparations .
+Plasmids and oligonucleotides All cloning procedures followed standard protocols ( Maniatis et al. , 1982 ) .
+Plasmids pCD16 , pCD23 and pCDS2 are HIV-1 LTR deletions linked to the reporter gene chloramphenicol acetyltransferase ( CAT ) and are shown in Figure 3 .
+Plasmid pCD23AS contains a deletion of nucleotides +35 to +38 ( Okamoto er al. , 1990 ) .
+The ATAR deletions in the LTR-CAT constructs ( pCD16ATAR , pCD23ATAR and pCDS2ATAR ) were created by restriction digestion with Bg//HindII , followed by blunting with Klenow enzyme and religation .
+The resulting deletion extends from +24 to +80 relative to the transcription start site .
+Plasmids p117/3 , p105/3 , p91/3 and p80/3 were constructed by inserting PCR-generated fragments between the Xbal and BamHI sites in the polylinker of the promoterless plasmid pBLCAT3 ( Luckow and Schultz , 1987 ) .
+Amplimers used were : -117 5-CGCGTCTAGACGAGCTTTCTACAAGGGAC-3 ' -105 - 5-CGCGTCTAGAGGGACTTTCCGCTGGGGAC-3 ' -91 - 5-CGCGTCTAGATGGGGACTTTCCAGGGAGG-3 ' -80 5-CGCGTCTAGACAGGGAGGCGTGGCCTGGG-3 ' +3 5-CGCGGGATCCCCCAGTACAGGCAAAAAGC-3 ' Construct p117/80 was created by restriction digestion of pCD23 with HindIII , followed by blunting with Klenow enzyme and further digestion with Xbal .
+This releases a fragment containing HIV-1 LTR sequences from 3402 -117 to +80 with one Xbal end and one blunt end .
+The pBLCAT3 vector was prepared for this insert by BamHI digestion , followed by blunting with Klenow enzyme and further digestion with Xbal .
+Construct p117/24 was created by BgilI digestion of p117/80 , which removes sequences between the Bg/ll site in the HIV-1 LTR ( +24 relative to transcription start site ) and the BgilI site in the pBLCAT3 polylinker , followed by religation .
+Plasmid pWAP-CAT ( kindly provided by Dr Ulrich Seibenlist ) contains nucleotides -88 to +24 of the mouse WAP promoter linked to the CAT gene ( Schmidt et al. , 1990 ) .
+pxBWAP-CAT contains two copies of wild-type NF-xB-binding site from the HIV-1 LTR ( nucleotides -104 to -79 ) inserted at position -86 of pWAP-CAT ; pxBy-WAP-CAT contains two copies of a mutant NF-xB-binding site ( GGGACTTTCC altered to CTCACTTTCC ) inserted at position -86 of pWAP-CAT .
+pGC-WAP-CAT contains the GC-rich region from the HIV-1 LTR ( nucleotides -45 to -79 ) inserted at position -86 of pWAP-CAT .
+pxB/GC-WAP-CAT contains this GC-rich region inserted downstream of the xB sites , upstream of the WAP promoter in pxB-WAP-CAT .
+Proviral clones were kindly provided by Dr Mark Feinberg , Whitehead Institute , Boston , MA .
+Provirus plasmids ATAR1 and ATAR2 are mutant derivatives of HXB2 RIP-7 ( McCune et al. , 1988 ) .
+ATARI was created by a partial Sacl digest ( single cut ) followed by blunting with Klenow enzyme .
+This resulted in the removal of nucleotides +35 to +38 relative to the cap site and affected only the 5° LTR .
+This mutation is equivalent to that in pCD23AS .
+ATAR2 was created by a partial Sacl digest that removed the nucleotides between +38 and +187 in the 5 ' LTR only .
+The Atat mutant derivative of HXB2 RIP-7 contains an M/xl linker insertion within the coding sequence for Tat ( Feinberg et al. , 1991 ) .
+All plasmids were sequenced to confirm correct construction .
+Oligonucleotides used in band-shift analysis were ( single strand shown ) : 5'-TCGACAGAGGGGACTTTCCGAGAGGC-3 ' | wild-type xB site 5'-TCGACAGAGCTCACTTTCC GAGGC-3 ' mutant xB site The Tat expression plasmid ptat has been previously described ( Knight er a/. , 1987 ) .
+Actin-Tat was constructed by inserting a PCR-amplified fragment containing the coding sequence for the 86 amino acid form of Tat downstream of the human -actin promoter in the plasmid pHFGA-1 ( Gunning et a/. , 1983 ) .
+RNA analysis Total RNA was extracted from transfected cells by the hot-acid phenol method ( Queen and Baltimore , 1983 ) .
+For nuclease S1 analysis purified RNA ( 20 pg ) and labelled DNA probe were suspended in 20 pl of 0.4 M NaCl-O.04 M PIPES [ piperazine-N , V'bis ( 2 ) -ethanesulfonic acid ; pH 6.4 ] -1.25 mM EDTA-80 % formamide and heat denatured at 65°C for 15 min .
+The samples were transferred immediately to a 37°C water bath and incubated overnight .
+Hybridizations were terminated by the addition of nine volumes of 0.25 M NaCl-0.03 M sodium acetate ( pH 4.6 ) - 1 mM ZnSO , , which had been pre-equilibrated to 4°C .
+Nuclease S1 was added to a final concentration of 800 U/ml , and the reaction sample was incubated for 60 min at 37°C .
+Protected DNA fragments were then purified and analysed by electrophoresis in a denaturing acrylamide-urea gel .
+The $ 1 probe consisted of a uniformly labelled , single-stranded DNA of 458 nucleotides that was prepared as previously described ( Khalili er a/ .
+, 1986 ) .
+The expected size of the protected fragment is 256 nucleotides .
+For Northern blot analysis 20 ug of total RNA was run on a 1 % agarose- formaldehyde gel , transferred to nitrocellulose , and hybridized to the 2.1 kb BamHI B-actin cDNA fragment derived from pHFGA-1 ( Gunning et al. , 1983 ) .
+DNA band-shift analysis Nuclear extracts were prepared according to the method of Dignam et a/ .
+( 1983 ) .
+The procedure for band-shift analysis was essentially as described by Singh er al .
+( 1986 ) .
+P-End-labelled wild-type xB oligonucleotide ( 40 000 counts ) was incubated with 8 ug of nuclear extract in a binding buffer consisting of 10 mM Tris pH 7.4 , 50 mM NaCl , 1 mM Na-EDTA , 5 % glycerol , 1 mM dithiothreitol , 4 ug poly ( dI-dC ) , 0.5 mg/ml BSA and 3 mM GTP .
+Following a 30 min incubation on ice the resulting complexes were resolved on a low ionic 6 % native polyacrylamide gel containing 6.7 mM Tris pH 7.4 , 3.3 mM Na-acetate , and 1 mM Na-EDTA .
+Electrophoresis was carried out at 4°C at a constant 140 V with a recirculating buffer .
+The gel was then dried and autoradiographed at -70°C with an intensifying screen .
+HIV-1 p24 assay and cell staining H9 , U87-MG and U138-MG cells were transfected with 5 ug of the indicated proviral clone .
+At various time points ( from 10 h to 10 days ) post-transfection aliquots of supernatant were analysed with an ELISA kit for HIV-1 p24 antigen following the manufacturer 's instructions ( Du Pont ) .
+To observe syncytia formation , 72 h post-transfection , US7-MG cells were washed with phosphate-buffered solution , fixed with absolute methanol , Giemsa-Wright stained , and photographed at 20 % or 40 % magnification .
+Acknowledgements The authors wish to express their appreciation to Dr R.C.Gallo , Dr F. Wong-Staal , and members of their labs for encouragement and support ; and members of the Khalili lab for helpful discussion .
+This work was supported by grant AI00930 awarded to R.J.P .
+by the National Institutes of Health ; and grants CA47996 awarded by the National Cancer Institute , A128272 awarded by the National Institutes of Health , and 922-2-6RG awarded by AmFAR to K.K .
+and S.A. References Arya , S.K. , Guo , C. , Josephs , S.F .
+and Wong-Staal , F .
+( 1985 ) Science , 229 , 69-73 .
+Bacuerle , P .
+A .
+( 1991 ) Biochim .
+Biophys .
+Acta , 1072 , 63-80 .
+Berkhout , B. , Silverman , R.H .
+and Jeang.K .
+( 1989 ) Cell , 59 , 273-282 .
+Berkhout , B. , Gatignol , A. , Rabson , A.B .
+and Jeang.K .
+( 1990 ) Cell , 62 , 757-767 .
+Calnan , B.J. , Biancalana , $ . , Hudson , D .
+and Frankel , A.D. ( 1991a ) Genes Dev. , 5 , 201-210 .
+Calnan , B.J. , Tidor , B. , Biancalana , S. , Hudson , D .
+and Frankel .
+A.D. ( 1991b ) Science , 252 , 1167-1171 .
+Cheng-Mayer , C. , Rutka , J.T. , Rosenblum , M.L. , McHugh , T. , Stites , D.P .
+and Levy , J .
+( 1987 ) Proc .
+Natl .
+Acad .
+Sci .
+USA , 84 , 3526-3530 .
+Chiodi , F. $ . , Fuerstenberg , $ . , Gidlund.M. , Asjo , B .
+and Fenyo , E.M .
+( 1987 ) J .
+Virol. , 61 , 1244-1247 .
+Cullen , B.R .
+( 1990 ) Cell , 63 , 655-657 .
+Cullen , B.R .
+and Greene , W.C. ( 1989 ) Cell , 58 , 423-426 .
+Dayton , A.1. , Sodroski , J.G. , Rosen , C.A. , Goh , W.C. and Haseltine , W. A .
+( 1986 ) Cell , 44 , 941-947 .
+Dewhurst , $ . , Sakai , K. , Bresser , J. , Stevenson , M. , Evinger-Hodges .
+M.J. and Volsky , D.J .
+( 1987 ) J .
+Virol. , 61 , 3774-3782 .
+Dignam , J.D. , Lebovitz , R.M .
+and Roeder , R.G .
+( 1983 ) Nucleic Acids Res. , 11 , 1475-1489 .
+Dingwall , C .
+et al .
+( 1989 ) Proc .
+Natl .
+Acad .
+Sci .
+USA , 86 , 6925-6929 .
+Epstein , L.G. , Sharer , L.R. , Joshi , V. V. , Fojas , M.M. , Koenigsberger , MR. and Oleske , J.M .
+( 1985 ) Ann .
+Neurol. , 17 , 488-496 .
+Feinberg .
+M.B. , Baltimore , D. and Frankel , A.D. ( 1991 ) Proc .
+Natl .
+Acad .
+Sci .
+USA , 88 , 4045-4049 .
+Feng , $ S .
+and Holland , E.C .
+( 1988 ) Nature , 334 , 165-167 .
+Fisher , .
+A.G. et al .
+( 1986 ) Nature , 320 , 367-371 .
+Gabuzda , D.H .
+( 1990 ) J .
+Am .
+Acad .
+Dermatol. , 22 , 1232-1236 .
+Garcia , J.A. , Wu , F. , Mitsuyasu , R .
+and Gaynor , R.B .
+( 1987 ) Embo J. , 3761-3770 .
+Giulian , D. , Vaca.K .
+and Noonan , C .
+A .
+( 1990 ) Science , 250 , 1593-1596 .
+Graham , F.L .
+and van der Eb , A.J .
+( 1973 ) Virology , 52 , 456-467 .
+Gunning.P. , Ponte.P. , Okayama , H. , Engel , J.. Blau.H .
+and Kedes , L .
+( 1983 ) Mol .
+Cell .
+Biol. , 3 , 787-795 .
+Gyorkey , F. , Melnick , J.L .
+and Gyorkey , P .
+( 1987 ) J. Infect .
+Dis. , 155 , 870-876 .
+Harrich , D. , Garcia , J. , Mitsuyasu , R .
+and Gaynor , R .
+( 1990 ) EMBO J. , 9 , 4417-4423 .
+Hauber , J .
+and Cullen , B.R .
+( 1988 ) J .
+Virol. , 62 , 673-679 .
+Ho , D.D .
+et al .
+( 1985 ) N. Engl .
+J .
+Med. , 313 , 1493 .
+Jones , K.A. , Kadonga , J.T. , Luciw , P .
+A. and Tjian , R .
+( 1986 ) Science , 232 , 755-759 .
+Kamine , J. , Subramanian , T .
+and Chinnadurai , .G .
+( 1991 ) Proc .
+Natl .
+Acad .
+Sci .
+USA , 88 , 8510-8514 .
+Kawakami , K. , Scheidereit , C .
+and Roeder , R.G .
+( 1988 ) Proc .
+Nat ! .
+Acad .
+Sci .
+USA , 85 , 4700-4704 .
+Khalili , K. , Khoury , G .
+and Brady , J .
+( 1986 ) J .
+Virol. , 60 , 935-942 .
+Knight.D.M. , Flomerpelt , F.A .
+and Ghrayeb.J .
+( 1987 ) Science , 236 , 837-840 .
+Koenig , $ .
+et al .
+( 1986 ) Science , 233 , 1089-1093 .
+Laspia , M.F. , Rice , A.P .
+and Mathews , ( 1989 ) Cell , 59 , 283-292 .
+Laspia.M.F.. Rice.A.P .
+and Mathews.M.B .
+( 1990 ) Genes Dev. , 4 .
+2397-2408 .
+Lazinski , D. , Grzadzielska , E .
+and Das.A .
+( 1989 ) Cell , 59 , 207-218 .
+Lechtenberg.R .
+and Sher.J.H .
+( 1988 ) AIDS in the Nervous System , Churchill Livingstone , New York .
+Levy.J .
+A.. , Shimabukuro.J..
+Hollander , H. , MillsJ .
+and Kaminsky.L .
+( 1985 ) TAR-independent transactivation by Tat Lancet , 2 , 586-588 .
+Li , X.L. , Moudgil , T. , Vinters , H.V .
+and Ho , D.D .
+( 1990 ) J .
+Virol. , 64 , 1383-1387 .
+Luckow , B .
+and Schultz , G .
+( 1987 ) Nucleic Acids Res. , 15 , 5490 .
+Maniatis , T. , Fritsch , E.F .
+and Sambrook , J .
+( 1982 ) Molecular Cloning : a Laboratory Manual .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY .
+McCune , J.M. , Rabin , L.B. , Feinberg , M.B. , Lieberman , M. , Kosek , J.C. , Reyes , G.R .
+and Weissman , L.L .
+( 1988 ) Cell , 53 , 55-67 .
+Michaels.J. , Sharer , L.R .
+and Epstein , L.G .
+( 1988 ) Immunodef .
+Rev. , 1 , 71-104 .
+Muesing. , M.A. , Smith , D.H. and Capon , D.J .
+( 1987 ) Cell , 48 , 691-701 .
+Muller , W.E. , Okamoto.T. , Reuter , P. , Ugarkovic , D .
+and Schroder , H.C .
+( 1990 ) J. Biol .
+Chem. , 265 , 3803-3808 .
+Nabel.G .
+and Baitimore , D .
+( 1987 ) Nature , 326 , 711-714 .
+Navia , B.A .
+and Price , R.W .
+( 1987 ) Arch .
+Neurol. , 44 , 65-69 .
+Navia , B .
+A. , Cho , E.S. , Petito , C.K .
+and Price , R.W .
+( 1986 ) Ann .
+Neurol .
+, 19 , 525-535 .
+Okamoto.T. , Benter , T. , Josephs , S.F. , Sadaie , M.R .
+and Wong-Staal , F .
+( 1990 ) Virology , 177 , 606-614 .
+Pang , $ . , Koyanagi , Y. , Miles , S. , Wiley , C. , Vinters , H.V .
+and Chen , L.S.Y .
+( 1990 ) Nature , 343 , 85-89 .
+Pomerantz , R.J. , Trono , D. , Feinberg , M. B. and Baltimore , D. ( 1990 ) Cell , 61 , 1271-1276 .
+Price , R.W. , Brew , B.J. , Sidtis , J.J. , Rosenblum , M. , Scheck , A.C .
+and Cleary , P .
+( 1988 ) Science , 239 , 586-592 .
+Price , Brew , B.J .
+and Rosenblum , M .
+( 1990 ) In Waksman , B.H .
+( ed .
+) , Immunologic Mechanisms in Neurologic and Psychiatric Disease .
+Raven Press , New York , pp .
+269-289 .
+Queen , C .
+and Baltimore , D .
+( 1983 ) Cell , 33 , 741-748 .
+Ratnasabapathy , R. , Sheldon , M. , Johal , L .
+and Hernandez , N. ( 1990 ) Genes Dev. , 4 , 2061-2074 .
+Reyes , R .
+and Weissman , L.L .
+( 1988 ) Cell , 53 , 55-67 .
+Rhodes , R.H. , Ward , J.M. , Walker , D.L .
+and Ross , A .
+A .
+( 1988 ) Arch .
+Pathol .
+Lab .
+Med. , 112 , 1207-1213 .
+Rosen , C.A. , Sodroski , J.G .
+and Haseltine , W. A .
+( 1985 ) Cell , 41 , 813-823 .
+Rosenblum , M.L. , Levy , R.M .
+and Bredesen , D.E .
+( 1988 ) AIDS and the Nervous system .
+Raven Press , New York .
+Roy , S. , Delling , U. , Chen , C.-H. , Rosen , C .
+and Sonenberg , N .
+( 1990 ) Genes Dev. , 4 , 1365-1373 .
+Schmidt .
+A. , Hennighausen.L .
+and Siebenlist , U .
+( 1990 ) J .
+Virol. , 64 , 4037-4041 .
+Selby , M.J. and Peterlin , B.M .
+( 1990 ) Cell , 62 , 769-776 .
+Singh , H. , Sen , R. , Baltimore , D .
+and Sharp , P.A .
+( 1986 ) Nature , 319 , 154-158 .
+Sodroski , J. , Patarca , R. , Rosen , C. , Wong-Staal , F .
+and Haseltine , W.A .
+( 1985 ) Science , 229 , 74-77 .
+Southgate , C.D .
+and Green , ( 1991 ) Genes Dev. , 5 , 2496-2507 .
+Southgate , C. , Zapp.M.L .
+and Green , M.R .
+( 1990 ) Nature , 345 , 640-642 .
+Tornatore , C. , Nath , A. , Amemiya , K .
+and Major , E.O .
+( 1991 ) J .
+Virol. , 65 , 6094-6100 .
+Ward , J.M. , O'leary , T.J. , Baskin , G.B. , Beneviste.R. , Harris , C.A. , Nara , P.L .
+and Rhodes , R.H .
+( 1987 ) Am .
+J .
+Pathol. , 127 , 199-205 .
+Wiley , C .
+A. , Schrier , R.D. , Nelson , J.A. , Lampert , P.W .
+and Oldstone , M.B.A. ( 1986 ) Proc .
+Natl .
+Acad .
+Sci .
+USA , 83 , 7089-7093 .
+Received on March 5 , 1992 ; revised on May 20 , 1992 3403

@@ -1,0 +1,1009 @@
+MOLECULAR AND CELLULAR BIOLOGY , Sept. 1996 , p. 4656-4664 0270-7306/96/ $ 04.00+0 Copyright © 1996 , American Society for Microbiology Vol .
+16 , No .
+9 Interaction of the Human T-Cell Lymphotropic Virus Type 1 Tax Transactivator with Transcription Factor IIA KAREN E. CLEMENS , '' GRAZIELLA PIRAS , ' MICHAEL F. RADONOVICH , ' KYEONG SOOK CHOI , !
+JANET F. DUVALL , * JEFF DEJONG , '' ROBERT ROEDER , '' anp JOHN N. BRADY'* Laboratory of Molecular Virology , National Cancer Institute , Bethesda , Maryland 20892-5055 '' ; Department of Biology , University of Texas at Dallas , Richardson , Texas 75080 ; and The Rockefeller University , New York , New York 10021 '' Received 8 April 1996/Returned for modification 17 May 1996/Accepted 3 June 1996 The Tax protein of human T-cell lymphotropic virus type 1 ( HTLV-1 ) is a 40-kDa transcriptional activator which is critical for HTLV-1 gene regulation and virus-induced cellular transformation .
+Tax is localized to the DNA through its interaction with the site-specific activators cyclic AMP-responsive element-binding protein , NF-B , and serum response factor .
+It has been suggested that the recruitment of Tax to the DNA positions Tax for interaction with the basal transcriptional machinery .
+On the basis of several independent assays , we now report a physical and functional interaction between Tax and the transcription factor , TFIIA .
+First , Tax was found to interact with the 35-kDa ( « ) subunit of TFIIA in the yeast two-hybrid interaction system .
+Importantly , two previously characterized mutants with point mutations in Tax , M32 ( Y196A , K1978 ) and M41 ( H287A , P288S ) , which were shown to be defective in Tax-activated transcription were unable to interact with TFIIA in this assay .
+Second , a glutathione-S-transferase ( GST ) affinity-binding assay showed that the interaction of holo-TFIIA with GST-Tax was 20-fold higher than that observed with either the GST-Tax M32 activation mutant or the GST control .
+Third , a coimmunoprecipitation assay showed that in HTLV-1-infected human T lymphocytes , Tax and TFIIA were associated .
+Finally , TFIIA facilitates Tax transactivation in vitro and in vivo .
+In vitro transcription studies showed reduced levels of Tax-activated transcription in cell extracts depleted of TFIIA .
+In addition , transfection of human T lymphocytes with TFIIA expression vectors enhanced Tax-activated transcription of an HTLV-1 long terminal repeat-chloramphenicol acetyltransferase reporter con-struct .
+Our study suggests that the interaction of Tax with the transcription factor TFIIA may play a role in Tax-mediated transcriptional activation .
+Human T-cell lymphotropic virus type 1 ( HTLV-1 ) is associated with adult T-cell leukemia and the degenerative neuro-muscular disease tropical spastic paraparesis/HTLV-1-associ-ated myelopathy ( 28 , 66 , 72 , 108 ) .
+HTLV-1 encodes a 40-kDa protein , Tax , which transforms rodent fibroblasts ( 90 ) , immortalizes normal human T cells ( 34 ) , and can induce a leukemia-like disease in transgenic mice ( 36 ) .
+Tax is critical for HTLV-1 gene regulation ( 44 , 68 , 75 , 85 ) and has been shown to modulate the expression of a number of cellular genes which include genes encoding cytokines ( interleukin-1 [ IL-1 ] , IL-2 , IL-3 , IL-6 , IL-8 , and granulocyte-macrophage colony-stimulat-ing factor ) ( 35 , 37 , 60 , 61 , 65 , 83 , 100 , 103 ) , genes encoding cytokine receptors ( IL-2 receptor a ) ( 14 , 15 , 43 , 52 , 76 ) , proto-oncogenes ( c-fos , c-myc ) ( 2 , 20 , 23-25 ) , and genes encoding lymphotoxin ( 69 , 70 ) , parathyroid hormone-related protein ( 18 , 98 ) , and major histocompatibility complex class I proteins ( 77 ) .
+The deregulation of these Tax-responsive cellular genes may play an important role in HTLV-1 transformation .
+The HTLV-1 Tax protein is able to modulate gene expression by several independent mechanisms .
+Tax can induce the nuclear localization of the NF- « B factors c-rel , p65 , p50 , and p52 ( 14 , 46 , 51 , 88 ) by overriding the inhibitory function of IxBa ( 38 , 46 , 51 , 56 , 62 , 88 ) .
+Recent reports suggest that Tax activation of the NF-kB pathway involves the induction of phosphorylation and proteasome-mediated degradation of IxBa ( 56 , 62 ) .
+In addition , Tax interacts with transcription factors such as the serum response factor ( 23 , 25 ) , several * Corresponding author .
+Mailing address : Laboratory of Molecular Virology , National Cancer Institute , Bldg .
+41 , Rm .
+B403 , Bethesda , MD 20892-5055 .
+Phone : ( 301 ) 496-6201 .
+Fax : ( 301 ) 496-4951 .
+Electronic mail address : bradyj @ dced41.nci.nih.gov .
+4656 NF- « B family members ( 6 , 38 , 62 , 89 ) , and the bZIP protein , cyclic AMP element-binding protein ( CREB ) ( 1 , 33 , 104 , 105 ) , indirectly forming a complex with the template DNA .
+Studies have further demonstrated that Tax binds to the DNA-binding basic segment of the bZIP proteins , enhancing their binding affinity and interaction with Tax-responsive , non-consensus CRE sites ( 1 , 4 , 5 , 22 , 71 , 96 , 111 ) .
+Interestingly , when fused to a Gal4 DNA-binding domain , Tax was able to activate transcription from a minimal promoter , suggesting that Tax possesses an intrinsic transactivation function ( 26 , 79 ) .
+On the basis of these studies , it is thought that after localizing to the DNA through interaction with site-specific activators , Tax may affect the dynamics of transcription through contact with the basal transcription machinery .
+RNA polymerase II-directed transcription requires the assembly of a large preinitiation transcription complex composed of the basic transcription factors TFIIA , TFIIB , TFIID ( TATA-binding protein [ TBP ] and TBP-associated factors [ TAFs ] ) , TFHIF , TFIIH , and TFIIE ( reviewed in references 81 and 110 ) .
+Transcriptionally competent preinitiation complexes formed in vitro assemble by an ordered multistep pathway beginning with the binding of TFIID to the TATA box at the promoter region on the DNA template ( 7 , 63 , 94 ) .
+TFIIA , which directly binds TBP , is thought to enter the complex at an early point in the assembly process after or simultaneously with the TFIID-DNA nucleation step ( 73 , 97 , 109 , 110 ) .
+The assembly process then continues with the subsequent association of TFIIB , RNA polymerase II complexed to TFIIF , TFIIE , and TFIIH ( 109 ) .
+Transcriptional activators exhibit activation domain-dependent interactions with TBP , TFIIB , TFIIF , TFIIH , and TAFs ( 9 , 11-13 , 32 , 41 , 54 , 86 , 91 , 95 , 101 , 112 ) and may function by Vou .
+16 , 1996 increasing the number of functional preinitiation complexes ( 12 , 39 , 54 , 109 ) .
+Recent studies suggest that TFIIA may also be targeted by activators and coactivators ( 27 , 49 , 53 , 67 ) .
+TFIIA was initially observed to preclude the association of protein inhibitors with TBP-promoter complexes , whose interaction with TBP can prevent the assembly of functional preinitiation complexes ( 3 , 42 , 48 , 50 , 58 , 59 , 99 ) .
+However , additional studies in which highly purified and potentially in-hibitor-free transcription factors were used showed a TFIIA enhancement of activated transcription suggesting a direct role for TFIIA in the activation process ( 87 ) .
+In these and other systems , TFIIA is also able to enhance basal transcription reconstituted with TBP ( 16 , 48 , 55 , 87 ) .
+As pointed out by Goodrich et al .
+( 31a ) , the prevalence of promoter diversity suggests that interactions between general transcription factors , transcriptional activators , and the DNA template may vary from promoter to promoter .
+It is speculated that a critical rate-limiting step in activator-dependent preinitiation complex formation is the formation of the DNA-TFIID-TFIIA complex ( 10 ) .
+VP16 and the Epstein-Barr virus transactivator Zta , which both interact with TFIIA in an activation domain-dependent manner ( 49 , 67 ) , increase the stability and rate of formation of DNA-TFIID-TFIIA complexes ( 49 , 53 , 67 ) .
+Another recent study found that a GAL4-VP16 fusion protein stimulated the formation of an activated transcription complex , requiring the presence of TFIIA , the TFIID TAFs , and the nonhistone chromosomal protein HMG-2 , a protein that appears to play a role in the architecture of the transcription complex ( 82 ) .
+Purified human TFIIA is composed of stoichiometric amounts of a 35-kDa ( « ) subunit and a 19-kDa ( B ) subunit , generated from a 55-kDa precursor ( aB ) , and a 12-kDa subunit ( y ) , all of which are essential for TFIIA function ( 16 , 17 , 55 , 67 , 87 , 106 , 107 ) .
+The cDNAs encoding the highly homologous human , Drosophila , and yeast TFIIA subunits have been cloned ( 16 , 17 , 45 , 55 , 67 , 87 , 106 , 107 ) .
+To understand the molecular mechanisms by which Tax regulates transcription from RNA polymerase II promoters , we have studied the potential interaction of Tax with the basal transcription factor TFIIA .
+By using several independent assays , including the yeast two-hybrid system , affinity chromatog-raphy , and coimmunoprecipitation analysis , our studies have shown that the HTLV-1 transactivator , Tax , interacts with the 35-kDa ( « ) subunit of TFIIA .
+Importantly , two Tax mutants which fail to activate transcription in vivo failed to interact with TFIIA .
+Moreover , we demonstrate that TFIIA is important for Tax transactivation .
+In vitro transcription assays with cell extracts depleted of TFIIA showed a marked reduction in Tax-activated transcription .
+In addition , Tax-mediated transactivation was enhanced in human T lymphocytes upon coexpression of holo-TFIIA .
+Our studies suggest that one mechanism of Tax transactivation involves contact with the transcriptional machinery through TFIIA , thereby altering the level of transcription .
+MATERIALS AND METHODS Two-hybrid interaction assay .
+The LexA DNA-binding domain ( DBD ) fusion proteins were generated with the 2m HIS3 yeast shuttle vector , pNL202 , which is identical to pBEG202 ( 31 ) with the addition of a simian virus 40 nuclear localization signal , consisting of amino acids PPKKKRKVA , inserted downstream of the 202-amino-acid LexA moiety .
+The activation domain ( AD ) fusion proteins were generated with the 2um TRPZ yeast shuttle vector , pJG4-5 , which directs the synthesis of the simian virus 40 nuclear localization signal ( as in pNL202 ) , the B42 acidic activation domain , and the influenza virus HA1 epitope tag ( total of 107 amino acids ) ( 31 ) .
+The LexA DBD fusion proteins are constitutively expressed from the ADF promoter , while the AD fusion proteins are expressed from the galactose-induced , glucose-repressed GeZ-Z promoter .
+The 2m URA3 reporter plasmid , pJK103 , directs the synthesis of the lacZ gene from HTLV-1 Tax TRANSACTIVATOR INTERACTION WITH TFIIA 4657 a minimal GeZZ promoter controlled by two high-affinity lexA operator sites ( 31 ) which is transcriptionally silent unless bound by a LexA-containing protein or protein complex with activation potential .
+Cloning of the fusion protein constructs was conducted by PCR amplification of Tax , TFIIA , and TBP cDNAs with the high-fidelity polymerase Vent ( New England Biolabs ) and primers with the appropriate restriction sites designed to omit the initiating methionine .
+Three independent clones of the Tax-DBD fusion construct ( and mutants ) were tested with at least two independent clones of the p55 and p35 TFIIA-AD fusion constructs .
+The identity of the Tax mutants ( a kind gift of Warner Greene , University of California , San Francisco ) was verified by sequence analysis ( Sequenase ; U.S. Biochemicals ) .
+Yeast transformations were performed by the standard lithium acetate method as described by Gictz et al .
+( 29 ) with Seccharomyces cerevisiae EGY188 ( MATa trpl ura3 his3 LEU : :pLexop2-LEU2 ) previously transformed with pJK103 ( 31 ) .
+pEG202 , pJG4-5 , pJK103 , 5. cerevisiae EGY188 , and anti-LexA antibody were generously provided by Roger Brent , Massachusetts General Hospital , Boston .
+Levels of B-galactosidase generated from the pJK103 reporter plasmid were used as a measure of the interaction between the AD and DBD fusion proteins .
+B-Galactosidase activity was determined with exponentially growing yeast cells 12 to 14 h after induction with 2.0 % galactose as described by Reynolds and Lundblad ( 74 ) and was calculated as follows : 1,000 ( OD , ; , ) / ( time [ in minutes ] it takes for substrate to turn yellow ) ( volume [ in milliliters ] of cell suspen-sion ) ( ODeng ) .
+GST-fusion protein-binding assays .
+Bacterially generated glutathione- $ -trans-ferase ( GST ) -Tax , GST-Tax M32 , GST-TBP , and GST fusion proteins were purified by binding to glutathione-Sepharose beads ( Pharmacia ) and quantitated by sodium dodecyl sulfate ( SDS ) -polyacrylamide gel electrophoresis followed by Coomassic blue staining .
+A 100-ug sample of the GST-fusion protein-bead complex was incubated with 1.5 mg of HeLa whole-cell extract ( WCE ) ( 57 ) for 2 h at 4°C in buffer A ( 80 mM KCI , 1 % Nonidet P-40 , 20 mM Tris [ pH 7.9 ] ) .
+After a brief centrifugation , the supernatant ( flowthrough ) was collected and the protein-complexed beads were washed extensively with buffer B ( 80 mM KC ] , 150 mM NaCl , 0.25 % Triton X-100 , 20 mM Tris [ pH 7.9 ] ) and then washed with 400 pl of buffer C ( 300 mM KCl , 1 % Triton X-100 , 20 mM Tris [ pH 7.9 ] ) .
+Cellular proteins which bound to the fusion protein-complexed beads were eluted with buffer D ( 2.0 M NaCl , 10 % glycerol , 20 mM Tris [ pH 7.9 ] ) .
+The flowthrough and wash fractions were precipitated with trichloroacetic acid .
+A 100-pg sample of HeLa cell extract , 1/15 of the total flowthrough , and the complete wash and elution fractions were run on an SDS-4 to 20 % polyacrylamide gel .
+Western blot ( immunoblot ) analysis was conducted with a 1:2,000 dilution of polyclonal antiserum to the 35-kDa subunit of TFIIA ( UBI ) .
+The blots were stripped in buffer S ( 67.5 mM Tris [ pH 6.8 ] , 2 % SDS , 100 mM B-mercaptocthanol ) for 30 min at 50°C and then reblotted with a 1:1,000 dilution of antiserum to TFIIB ( anti-TFIIB , C ; § ; Santa Cruz Biotechnology , Inc. ) .
+TFIIA and TFIIB were visualized by enhanced chemiluminescence ( see the section on immunoblot analysis , below ) .
+Immunoprecipitation and immunoblot analysis .
+HTLV-1-infected C81 human T lymphocytes , which express high levels of Tax , were lysed in TNN buffer ( 50 mM Tris-HCl [ pH 7.5 ] , 120 mM NaCl , 5 mM EDTA , 0.5 % P-40 , 50 mM NaF , 0.2 mM sodium orthovanadate , 1 mM dithiothreitol , 100 pg of phenylmethyl-sulfonyl fluoride , 20 ug of aprotinin per ml , 10 pg of leupeptin per ml ) for 20 min on ice , and then cell debris was removed by centrifugation at 10,000 x g for 10 min ( 30 ) .
+Immunoprecipitations were conducted by incubating 300 ug of total-cell protein for 1 h at 4°C with 3 pl of preimmune rabbit serum , rabbit antibody directed against the 35-kDa ( « ) subunit of TFIIA ( Oncogene Sciences ) , rabbit antibody directed against the 55-kDa ( « B ) TFIIA subunit , a mixture of four anti-Tax monoclonal antibodies with different specificities , or a monoclonal antibody to the influenza virus HA1 epitope ( 12CA5 ) as a control .
+Selected samples were precleared with 40 pl of nonspecific rabbit antiserum prior to treatment with immune serum .
+Antibody-bound proteins were collected with 25 pl of a 0.1-g/ml protein A-Sepharose ( Pharmacia ) solution in TNN buffer .
+Bound proteins were washed four times in 500 l of TNN buffer , eluted by boiling in Laemmli buffer , and separated on an SDS-10 % polyacrylamide gel .
+The proteins were transferred to Immobilon-P membranes ( Millipore ) at 100 V for 1 h at 4°C with Western transfer buffer ( 0.1 M glycine , 12.5 mM Tris [ pH 8.3 ] ) .
+Membranes were blocked with 5 % milk powder in TNET buffer ( 10 mM Tris [ pH 7.5 ] , 2.5 mM EDTA , 50 mM NaCl , 0.1 % Tween 20 ) for 1 h , washed in TNET without milk , and incubated for 1 h in primary antibody ( 1:1,000 dilution of Tax monoclonal antibody mix or 1:2,500 dilution of antibody to the 55-kDa [ aB ] subunit of TFIIA ) at room temperature .
+After extensive washing , the immunoprecipitated proteins were detected with the appropriate horseradish peroxidase-linked secondary antibody followed by enhanced chemiluminescence ( Amersham } .
+In vitro transcription assay .
+Assays were conducted with the pTRE-1 ; , plasmid containing two copies of the promoter-proximal 21-bp repeat from the HTLV-1 long terminal repeat upstream of the chicken ovalbumin TATA box and a G-free cassette as described by Duvall et al .
+( 19 ) .
+Samples were analyzed on a 4 % denaturing polyacrylamide gel .
+HeLa whole-cell extracts were depleted of TFIIA by incubation with protein A-Sepharose-coupled ( Pharmacia ) preimmune or immune serum specific for the 55-kDa ( « B ) subunit of TFIIA ( 19 ) .
+The depleted extracts and bound proteins were analyzed for the presence of TFIIA and TBP by Western blot analysis as described by Duvall et al .
+( 19 ) .
+4658 CLEMENS ET AL .
+Transfection and CAT assays .
+The cDNA encoding the 55-kDa precursor ( aB ) of TFIIA ( pCMV55 ) was cloned as a HindIII-NofI fragment and the cDNA encoding 12 kDa ( y ) of TFIIA ( pCMV12 ) was cloned as a HindII-BamHI fragment into the peDNA3 vector ( InVitrogen ) , which directs transcription from the cytomegalovirus promoter .
+The cDNA for HTLV-1 Tax was expressed from the cytomegalovirus promoter by using the pCTax construct ( 84 ) .
+pU3RCAT contains the upstream HTLV-1 long terminal repeat ( LTR ) driving the chloramphenicol acetyltransferase reporter gene ( 47 ) .
+Human Jurkat T lymphocytes ( 78 ) were grown in RPMI 1640 medium ( Gibco/BRL ) supplemented with 10 % fetal calf serum .
+Cells ( 1.5 x 10 '' ) were electroporated as described previously ( 47 ) with 0 to 10 ng of pCTax , 0 to 50 ng of pCMVp55 ( « B ) , 0 to 200 ng of pCMVp12 ( 7 ) , and 1 pg of pU3RCAT .
+Chloramphenicol acetyltransferase activity was assayed 16 h posttransfection as described previously ( 40 ) .
+Results were quantitated with a PhosphorImager and the Image Quant program ( Molecular Dynamics ) .
+RESULTS Tax associates with TFIIA in S. cerevisige .
+The interaction between Tax and TFIIA was first analyzed in vivo with the yeast two-hybrid interaction system ( 31 ) .
+Wild-type Tax and several previously characterized Tax point mutants ( 84 ) were generated as fusion proteins with the DBD of LexA by in-frame cloning into the yeast shuttle vector , pNL202 .
+The 55-kDa precursor ( « B ) , and the 35- , 19- , and 12-kDa ( « , B , and y , respectively ) subunits of TFIIA were expressed as fusion proteins with the epitope-tagged ( HA1 ) acidic AD by using the pJG4-5 shuttle vector .
+Interaction between the protein fused to the LexA DBD and the protein fused to the acidic AD results in the localization of the AD to the LexA operator on the pJK103 reporter plasmid and subsequent activation of the lacZ gene .
+The Tax DBD , which possessed a low intrinsic level of activation ( twofold above that of the DBD vector alone [ data not shown ] ) , showed a significant level of interaction with the 35-kDa ( « ) subunit of TFIIA ( p35-AD ) ( 11.4-fold over Tax DBD levels ) and with the 55-kDa ( « B ) precursor protein ( p55-AD ) ( 5.2-fold ) ( Fig .
+1A ) .
+Both wild-type and mutant Tax proteins failed to interact with the 19-kDa ( B ) or 12-kDa ( y ) TFIIA subunits ( Fig .
+1A ) ( data not shown ) .
+Tax was also tested for interaction with the general transcription factors TBP and TFIIB ( Fig .
+1A ) .
+Although earlier reports suggest an association between Tax and TBP in vitro ( 8 ) , the interaction between these two proteins in the yeast two-hybrid system was negligi-ble .
+Similarly , no interaction was observed between Tax and TFIIB ( Fig .
+1A ) .
+Additionally , when TFIIA was tested for association with the Drosophilia transactivator Bicoid , no interaction was observed , implying that TFIIA does not bind to transactivators indiscriminately ( data not shown ) .
+As a further control for these studies , the interaction of Tax with TFIIA was compared with the interaction of TBP and TFIIA , which have been shown previously to interact in the cell .
+In both vector orientations , TBP and TFIIA interaction levels were approximately twofold higher than the levels of interaction between Tax and TFIIA ( data not shown ) .
+Expression of the TBP , TFIIB , Bicoid , and TFIIA fusion proteins were confirmed by Western blot analysis ( data not shown ) .
+Several Tax point mutants , previously tested in lymphocytes for transactivation of the HTLV-1 LTR , via the CREB activation pathway , and the human immunodeficiency virus type 1 ( HIV-1 ) LTR , via the NF-KB activation pathway , were tested for interaction with TFIIA ( Fig .
+1B ) ( 84 ) .
+We chose to evaluate a subset of mutants whose previous characterization ( 84 ) was not biased as a result of abnormal protein localization or stability ( Fig .
+1C ) .
+The M3 ( F13A G148 ) , M16 ( P92A P93S ) , M19 ( Q126A , H1278 ) , and M45 ( I315R , P3168 ) mutants were shown previously to transactivate , often weakly , both the HTLV-1 and HIV-1 LTR promoters The M47 mutant ( L319R , L320S ) was able to activate only the HIV-1 LTR Mor .
+CELL .
+BioL .
+Fold Induction Fold Induction M47 ( cro-320 ) M21 M32 M45 ( 134-138 ) ( 19-197 ) pitsiq M3 M16 - M19 M30 M41 ( 1344 ) ( @ ta2 .
+( rear ) ( 192-193 ) cerzsq | \ |__ ] | | 1 50 100 150 200 250 300 353 amino acids FIG .
+1 .
+Tax associates with TFIIA in the yeast two-hybrid interaction system .
+( A ) Levels of interaction between Tax and TFIIA , TBP , and TFIIB .
+B-Galactosidase levels , which reflect the extent of interaction between the chimeric DBD and AD fusion proteins , are displayed as the fold increase over levels observed with each chimeric DBD fusion protein and the AD vector alone .
+( B ) B-Galactosidase levels as determined in panel A with cells constitutively expressing the wild-type or M3 , M16 , M19 , M21 , M30 , M32 , M41 , M45 , or M47 Tax-DBD fusion proteins approximately 12 to 14 h after galactose induction of the TFILA-AD fusion protein ( see Materials and Methods ) .
+Results are the mean of three independent experiments .
+( C ) Diagram showing amino acid modifications of the Tax mutants used in this study ( 84 ) .
+Vou .
+16 , 1996 Bo pp $ 8888 p & & & & S8 RPN \Q\Q\° ’ \° ‘ 5 o CRC 0 § 8 x & 2 8 & § ¢ ¢ ¢ m S S S S S S R S 5 S $ G 85 6 6 0 Ww © § $ 8 » n @ 5 © $ & a S r ¢ox 82 2 ~ w ~ & 16 16 6 C & § & p @ ~ A & a RS S ware « « < - p55 S45 ) - : : : « + oss tos .
+ie Sowe : woe < - p19 `` WR < - p12 * `` \ < - AD FIG .
+2 .
+Western blot analysis of cells coexpressing the Tax-DBD and TFIIA-AD fusion proteins .
+( A and B ) Cells coexpressing both fusion proteins were lysed ( see Materials and Methods ) , and 150 pg of total-cell protein was analyzed on an SDS-10 % polyacrylamide gel .
+Following electrophoretic separa-tion , the proteins were transferred to Immobilon and immunoblotted with a 1:2,000 dilution of serum directed against the LexA moiety of the DBD-fusion protein ( provided by Roger Brent ) , and proteins were analyzed by enhanced chemiluminescence .
+Lanes are identified by the DBD/AD fusion proteins that are coexpressed in each sample .
+( C ) Comparison of p55 TFIIA-AD levels in cells coexpressing the wild-type , M32 , and M41 Tax-DBD fusion proteins .
+Total-cell protein ( 300 pg ) was immunoprecipitated as described in Materials and Methods with 5 pg of antibody directed against the HA epitope ( 12CA5 ) on the AD fusion protein .
+The precipitated material was run on an SDS-10 % polyacrylamide gel , transferred , and immunoblotted with the HA antisera as described for panel B .
+( D ) Same samples as in panel A , except that 50 pg of total-cell protein was separated on a mini SDS-4 to 20 % polyacrylamide gel , transferred to a polyvi-nylidene difluoride membrane , and immunoblotted with a 1:4,000 dilution of antiserum directed against the HA epitope tag on the AD fusion protein ( 12CA5 ; Berkeley ) .
+promoter .
+The M21 ( P134 , D135S ) , M30 ( D192A , G1938 ) , M32 ( Y¥196A , K1978 ) , and M41 ( H287A , P288S ) mutants were unable to activate either viral LTR ( 84 ) .
+Interestingly , the transactivation-defective Tax mutants , M32 ( Y196A , K1978 ) and M41 ( H287A , P288S ) failed to interact with either the 55-kDa ( « B ) precursor or the 35-kDa ( « ) subunit of TFIIA .
+The remaining Tax mutants used in this assay were able to interact with both the p55 and p35 TFIIA proteins .
+Western blot analysis demonstrated that all the mutant Tax DBD fusion proteins , including M32 and M41 , were expressed at similar levels during coexpression of the TFIIA-AD fusion protein , demonstrating that the lack of interaction is not due to the absence of fusion protein ( Fig .
+2A and B ) .
+In addition , the p55 , p35 , p19 , and p12 TFIIA AD fusion proteins were all expressed in the presence of the wild-type Tax DBD , indicating that the inability of Tax to interact with the p19 and p12 subunits was not due to a change in the stability or expression of the fusion proteins ( Fig .
+2C and D ) .
+TFIIA from HeLa cells interacts with GST-Tax .
+We next determined if native TFIIA could interact with the HTLV-1 Tax protein .
+HeLa WCE was incubated with purified GST-Tax , GST-Tax M32 , GST-TBP , or GST protein complexed to glutathione-Sepharose beads .
+Following a 2-h incubation , the su- HTLV-1 Tax TRANSACTIVATOR INTERACTION WITH TFIIA 4659 A B TBP Tax ast [ C-T -T Elution © © © u .
+& § .
+5 S. §§ & o & & & an Co SF g 6¢Y 4 6 ¢ J & $ P TFIIA ( p35 ) -P| « » @ - - -- l o | TFE ( 33 ) - Ci - - -P a » 1 2 3 4 50 6 7 8 9 10 11 12 13 FIG .
+3 .
+TFIIA from HeLa cells interacts with GST-Tax .
+GST-Tax , GST-Tax M32 , GST-TBP , or GST fusion proteins ( 100 pg ) bound to glutathione-Sepharose beads were incubated with 1.5 mg of HeLa WCE .
+After collection of the supernatant , the beads were washed and bound proteins were eluted with buffer containing 2.0 M NaCl .
+Hela WCE ( 100 pg ) , 1/15 of the supernatant ( flowthrough [ FT ] ) , and the entire wash ( Wash ) and elution ( Elution ) fractions were run on an SDS-4 to 20 % polyacrylamide gel , and the proteins were transferred to nitrocellulose and immunoblotted with antibody against the p35 subunit of TFIIA .
+The blot was stripped and reprobed with antibody to TFIIB ( results shown below the TFIIA results ) .
+pernatant was collected ( flowthrough fraction ) and the beads were extensively washed with a low-ionic-strength buffer ( buffer B [ containing 80 mM KCl and 150 mM NaCl ] ) and then washed once with a higher-strength buffer ( buffer C [ containing 300 mM KCIJ ) .
+The bound proteins were then eluted from the beads with 2.0 M NaCl ( buffer D ) .
+Then 1/15 volume of the flowthrough fraction and the entire wash and elution fractions were examined by Western blot analysis for the 35-kDa ( « ) subunit of TFIIA ( Fig .
+3A ) .
+TFIIA bound to GST-Tax but failed to interact with GST alone ( Fig .
+3A , lanes 7 and 10 ) .
+The GST -Tax M32 mutant , which failed to interact with TFIIA in the two-hybrid interaction assay , demonstrated a 20-fold reduction in TFIIA-binding when compared with wild type GST-Tax ( Fig .
+3B , lanes 11 and 12 ) .
+As observed in the two-hybrid assay , interaction between TBP and TFIIA was greater than interaction between Tax and TFIIA .
+However , in the affinity column , the difference in association is more pronounced ( TBP bound TFIIA 14-fold more than Tax did ) ( Fig .
+3A , lanes 4 and 7 ) .
+As a control for these studies and to confirm results from the two-hybrid assay , the interaction of the GST fusion proteins with TFIIB was assessed by stripping the original Western blot and reprobing with antibody directed against TFIIB ( 33 kDa ) ( Fig .
+3 ) .
+Consistent with the results of the yeast two-hybrid assay , Tax was unable to interact with TFIIB ( Fig .
+3A , bottom , lane 7 ) .
+The GST-TBP protein did interact with TFIIB , albeit less efficiently than it interacted with TFIIA .
+Tax coprecipitates with TFIIA in HTLV-1 infected cells .
+We then determined if Tax could associate with native TFIIA by coimmunoprecipitation analysis by using WCE from Tax-expressing C81 T lymphocytes .
+Proteins were immunoprecipitated with a polyclonal antiserum directed against the 35-kDa ( « ) subunit of TFIIA ( anti-TFIIA ) or a nonspecific rabbit serum ( PT ) , and this was followed by Western analysis of the precipitated proteins with an anti-Tax antibody .
+Tax precipitated with the anti-TFIIA but not with the nonspecific rabbit serum ( Fig .
+4A ) .
+In a reciprocal experiment , we immunoprecipitated proteins from the C81 cell extracts with anti-Tax monoclonal antibodies and subjected then to immunoblotting with TFIIA-specific antisera .
+The 35-kDa ( « ) subunit of TFIIA was immunoprecipitated with the monoclonal antibody to Tax ( Fig .
+4B , lane 3 ) but not with a control monoclonal antibody against the HA1 epitope ( 12CA5 ) or with beads alone ( protein 4660 CLEMENS ET AL .
+A anti-Tax IP | ooo st a FZ 00 ; anti- TFIIA TFIIA p35- » FIG .
+4 .
+Coimmunoprecipitation assays demonstrating Tax-TFIIA association in Tax-expressing T lymphocytes ( C81 cells ) .
+( A ) Exponentially growing C81 cells were lysed , and 300 pg of total-cell protein was immunoprecipitated ( IP ) with 3 pl of polyclonal antibody directed against the 35-kDa subunit of TFIIA ( anti-TFIIA ) , or nonspecific polyclonal control antibody ( PT ) .
+Precipitated proteins along with 50 ug of untreated C81 cell extract ( C81 ) were separated by SDS-gel electrophoresis followed by immunoblotting with monoclonal anti-Tax antibody .
+( B ) C81 cell extracts were immunoprecipitated with monoclonal anti-Tax antibody ( anti-Tax ) , a control monoclonal antibody against the HA epitope , protein A-Sepharose beads alone ( PAS ) , or anti-TFIIA antibody ( anti-p55 ) as a positive control .
+Precipitated proteins were analyzed by SDS-gel electrophoresis followed by immunoblotting with anti-TFIIA ( p55 ) antibody .
+A-Sepharose ) , demonstrating the specific coprecipitation of Tax with TFIIA ( Fig .
+4B , lanes 1 and 2 ) .
+These results demonstrate that Tax and TFIIA are able to associate in Tax-expressing T lymphocytes .
+TFIIA facilitates Tax transactivation in vitro .
+The functional requirement for TFIIA in Tax transactivation was first addressed by an in vitro transcription assay .
+Assays were conducted with HeLa whole-cell extracts and pTRE-1 ; , , a super-coiled template which contains two 21-bp repeat elements from the HTLV-1 LTR placed upstream of the chicken ovalbumin promoter and a G-free cassette .
+Upon addition of Tax , transcription was increased approximately sixfold ( Fig .
+5 , lanes 1 and 2 ) .
+Antibody specific for Tax neutralized this effect , TFIIA- - Preimmune WCE depleted depleted - 04 ( e- oa ) - 4 % 10 20 3 4 50 6 FIG .
+5 .
+TFIIA is required for Tax transactivation in vitro .
+In vitro transcription assays were conducted with the pTRE-1 ; , plasmid , which contains two 21-bp repeats from the HTLV-1 LTR , an ovalbumin promoter , and a G-free cassette ( see Materials and Methods ) ( 101 ) .
+HeLa WCE were either untreated ( lanes 1 and 2 ) , depleted of TFIIA by preclearing the WCE with anti-TFIIA antibody ( lanes 3 and 4 ) , or precleared with control preimmune antibody ( lanes 5 and 6 ) .
+Transactivation by Tax was performed by addition of baculovirus-generated Tax ( lanes 2 , 4 , and 6 ) .
+Tax Mor .
+CELL .
+BioL .
+indicating that the enhanced transcription is Tax dependent ( reference 19 and data not shown ) .
+When the extract was depleted of TFIIA by using a TFIIA-specific antibody ( anti-p55 ) , a decrease in both basal and Tax-transactivated transcription was observed ( lanes 3 and 4 ) .
+The decrease in basal transcription to background levels prevented an accurate quantitative comparison of the fold Tax transactivation .
+We calculate , however , that the level of Tax-transactivated transcription in the TFIIA-depleted extract was reduced 11-fold compared with that of the untreated control ( lanes 2 and 4 ) .
+Treatment of the extract with preimmune serum , which modestly reduced the overall level of basal or Tax-activated transcription , did not significantly reduce the level of Tax transactivation ( six- to sevenfold increase ) ( lanes 5 and 6 ) .
+As controls for these experiments , Western blot analysis confirmed that TFIIA was absent in the TFIIA antibody-depleted cell extract but present in the preimmune antibody-depleted extract ( 19 ) .
+Further , when purified TFIIA was added back to the TFIIA-depleted cell extract Tax transactivation was restored ( data not shown ) ( 19 ) .
+These results suggest that TFIIA is important for Tax-activated transcription , in that Tax transactivation is reduced in the absence of TFIIA .
+TFIIA enhances Tax-mediated activation in vivo .
+We then asked if TFIIA can influence Tax-activated transcription in vivo in a transient-expression assay .
+Jurkat T lymphocytes were cotransfected with an HTLV-1 LTR-driven CAT reporter ( pU3RCAT ) , a Tax expression vector ( pCTax ) , and plasmids expressing p55 ( « B ) , equivalent to coexpression of p35 ( « ) and p19 ( B ) ( 17 , 55 , 106 ) , and the p12 ( 7 ) subunits of TFIIA .
+We initially established conditions allowing for minimal levels of Tax transactivation such that the effect of TFIIA on Tax transactivation could be evaluated ( Fig .
+6A ) .
+These studies demonstrated that Tax activates transcription in a dose-dependent manner and that suboptimal levels of Tax transactivation could be achieved with 2 to 5 ng of the Tax expression plasmid .
+Upon coexpression of the p55 ( « B ) and p12 ( y ) TFIIA subunits , Tax-activated transcription increased to 12-fold above basal levels ( Fig .
+6B ) .
+Importantly , cotransfection of the p55 ( « B ) or the p12 ( y ) expression plasmid with pU3RCAT and pCTax failed to alter Tax transactivation levels , consistent with the known functional requirement for all three TFIIA subunits ( Fig .
+6B ) .
+In addition , the p55 ( « B ) and p12 ( 7 ) subunits , when tested in the absence of Tax , had no effect on the basal activity of the LTR reporter plasmid , suggesting that the effect of TFIIA on LTR transcription was Tax dependent .
+These in vivo results support our in vitro observations that TFIIA is involved in Tax-activated transcription .
+DISCUSSION Most site-specific activators are modular in structure with distinct and often interchangeable domains required for DNA binding , dimerization , and transactivation ( 39 , 64 , 92 ) .
+Numerous reports describe a physical association between the AD of transactivating proteins and the general transcription factors TBP , TFIIB , TFIIF , TFIID , and the TFIID TAFs ( 9 , 11 , 13 , 32 , 41 , 54 , 86 , 91 , 97 , 101 , 112 ) .
+The relevance of such interactions has been supported by studies which demonstrate by mutagenic analysis that loss of association between these activators and the general transcription factors corresponds to a reduced capacity of the transactivator to stimulate transcription ( 41 ) .
+In this study , we provide evidence for a physical interaction between Tax and the 35-kDa ( « ) subunit of TFIIA by using the yeast two-hybrid interaction system , by association of GST -Tax with native TFIIA from HeLa cells , and by coimmunoprecipitation of Tax and TFIIA in Tax-expressing T lym- Vou .
+16 , 1996 20 A 1 18 2 3 C < T 0 S 6 LL .
+15 B Fold Cat Activity Tax ( ng ) p 55 ( ng ) 0 0 50 0 0 50 50 50 p12 ( ng ) 0 0 0 50 200 50 200 200 FIG .
+6 .
+TFIIA enhances Tax transactivation in vivo .
+( A ) Jurkat T cells were transfected with 1 pg of pU3RCAT and 0 to 10 ug of pCTax to determine amounts of pCTax sufficient for minimal Tax transactivation .
+( B ) Jurkat cells were transfected with 5 ng of pCTax , 1 ug of pU3RCAT , 0 to 50 ng of pCMVp35 ( aB ) , or 0 to 200 ng of pCMVp12 ( y ) .
+CAT activities determined are the mean of four independent experiments .
+phocytes .
+We also demonstrate that TFIIA can enhance Tax-activated transcription from a Tax-responsive promoter in vitro and from the HTLV-1 LTR in T lymphocytes .
+This enhanced activation appears to be specific to the interaction of TFIIA with Tax , since Tax failed to interact with TBP or TFIIB .
+Interestingly , we identified two previously characterized ( 84 ) activation-defective point mutants of Tax , M32 ( Y¥196A , K1978 ) and M41 ( H287A , P288S ) , which were unable to interact with TFIIA in the yeast two-hybrid assay .
+When tested in the GST-binding assay , the M32 mutant showed a 20-fold reduction in TFIIA binding compared with wild-type Tax .
+Localizing the region ( s ) of Tax critical to its activation function has been hindered by the pleiotropic nature of Tax .
+In addition , mutagenesis within multiple regions of Tax often renders the protein transcriptionally inactive , further complicating the structure-function analysis of Tax ( 80 , 84 , 93 ) .
+Nev-ertheless , several studies involving Tax point and deletion mutants have succeeded in segregating and assigning functions to different domains of Tax ( 84 ) .
+Transactivation of the HTLV-1 LTR , mediated by CREB , is affected by mutations in the HTLV-1 Tax TRANSACTIVATOR INTERACTION WITH TFIIA 4661 amino and carboxy termini , while transactivation of the HIV-1 LTR , involving NF- « B , is sensitive to mutations in the central region of Tax .
+One approach used to define the minimal activation domain of Tax has been to fuse different domains of Tax to a heterol-ogous DBD .
+One such study in which GAL4-Tax was used to activate transcription from a minimal promoter with upstream GALA4-binding sites found that amino acids 289 to 320 of Tax defined the minimal AD , although flanking regions of Tax enhanced this effect ( 79 ) .
+A second study involving GAL4-Tax concluded that two contiguous domains of Tax encompassing amino acids 2 to 255 and 227 to 337 were required for Tax-activated transcription ( 93 ) .
+Interestingly , the M32 ( Y¥196A , K1978 ) and M41 ( H287A , P288S ) mutants , which failed to interact with the 55-kDa ( « B ) or 35-kDa ( « ) subunits of TFIIA , are defective in transactivating both the HIV-1 and HTLV-1 LTRs .
+These mutants may interfere with Tax-TFIIA association either by disrupting the structure of a limited region of Tax that is required for this interaction or by exerting a more global effect on the structural integrity of the Tax protein .
+Significantly , the M32 ( Y196A , K1978 ) mutation resides within a region of Tax rendered transcriptionally inactive by mutagenesis .
+In contrast , mutants altered in Tax immediately surrounding the M41 ( H287A , P288S ) point mutant , such as M39 , M40 , M42 , and M43 ( 84 ) , show nearly wild-type levels of transactivation from both LTRs .
+It is therefore possible that the M32 mutation affects a region of Tax critical to the structural integrity of the protein .
+The M41 mutant , within the minimal activation domain , may be important for interaction with TFIIA .
+It is important to note that the M21 and M30 mutants , defective in transactivation of both the HIV-1 and HTLV-1 LTRs ( 84 ) , interacted with TFIIA in the two-hybrid assay .
+It is possible that Tax-activated transcription requires the interaction of Tax with other transcription factors in addition to TFIIA and that the M21 and M30 Tax mutants are deficient in this interaction .
+For example , Tax may interact with TAFs or other proteins which constitute the holoenzyme .
+TFIIA has been shown to enhance the stability of TFIID-promoter complexes as well as to preclude the association of inhibitors that target TBP .
+The Epstein-Barr virus transactivator Zta and the C-terminal domain of VP16 have been shown to stabilize and increase the rate of formation of DNA-TFIID-TFIIA complexes upon which functional preinitiation complexes are assembled ( 10 , 49 ) .
+Zta , which , like Tax , lacks a classical transactivation domain , interacts with the p55 ( « B ) subunit of TFIIA .
+In contrast , the C-terminal domain of the acidic activator VP16 interacts with the p12 ( 7 ) TFIIA subunit .
+A distinct and more N-terminal activation domain of VP16 fails to interact with TFIIA , suggesting that contact with TFIIA represents only one of the pathways through which VP16 operates ( 49 ) .
+Since TFIIA is required for many , if not all , activators to stimulate transcription , the requirement may not be manifested as an activator interaction in some cases .
+Since Tax operates through contact with DNA-binding transactivators , it is likely that synergy plays an important role in Tax-mediated transactivation .
+Indeed , interactions between Tax and several site-specific activators , which may interact with the general transcription factors , have been described .
+For example , CREB , which is involved in Tax-mediated activation , interacts with both TFIIB , perhaps in conjunction with the CREB-binding protein , as well as with TFIID ( 21 , 102 ) .
+Our results suggest that Tax can interact with TFIIA through the 35-kDa ( a ) subunit .
+Hence , it is possible that the multimeric Tax-CREB-CBP complex targets multiple components of the transcription initiation complex including TFIIA , TFIIB , and TFIID .
+The Tax-CREB interaction , as well as their indepen- 4662 CLEMENS ET AL .
+dent interactions with the transcriptional machinery , may confer a greater stability on this multiprotein complex , allowing for the subsequent addition of the remaining transcription factors .
+Alternatively , the Tax-CREB component may structurally modify the transcription complex such that enhanced transcription from CRE-containing Tax-responsive promoters is favored .
+ACKNOWLEDGMENTS We thank Ramin Shiekhattar and Fatah Kashanchi for sharing unpublished data regarding the interaction of Tax with different general transcription factors .
+We also thank Jiirgen Dittmer for a critical evaluation of the manuscript and other members of the Laboratory of Molecular Virology for helpful discussions .
+10 .
+11 .
+12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+REFERENCES .
+Adya , N. , and C.-Z .
+Giam .
+1995 .
+Distinct regions in human T-cell lympho- tropic virus type I Tax mediate interactions with activator protein CREB and basal transcription factors .
+J. Virol .
+69:1834-1841. .
+Alexandre , C. , and B. Verrier .
+1991 .
+Four regulatory elements in the human c-fos promoter mediate transactivation by HTLV-1 tax protein .
+Oncogene 6:543-551. .
+Auble , D. T. , and S. Hahn .
+1993 .
+An ATP-dependent inhibitor of TBP binding to DNA .
+Genes Dev .
+7:844-856. .
+Baranger , A. M. , C. R. Palmer , M. K. Hamm , H. A. Giebler , A. Brauweiler , J. K. Nyborg , and A. Schepartz .
+1995 .
+Mechanism of DNA-binding enhancement by the human T-cell leukaemia virus transactivator Tax .
+Nature ( London ) 376:606-608. .
+Beimling , P. , and K. Moelling .
+1992 .
+Direct interaction of CREB protein with 21 bp Tax-response elements of HTLV-1 LTR .
+Oncogene 7:257-262. .
+Beraud , C. , S. Sun , P. Ganchi , D. Ballard , and W. Greene .
+1994 .
+Human T-cell leukemia virus type I Tax associates with and is negatively regulated by the NF-xB2 p100 gene product : implications for viral latency .
+Mol .
+Cell .
+Biol .
+14:1374-1382. .
+Buratowski , S. , S. Hahn , L. Guarente , and P. A .
+Sharp .
+1989 .
+Five inter mediate complexes in transcription initiation by RNA polymerase IL Cell 56:549-561. .
+Caron , C. , R. Rousset , C. Beraud , V. Moncollin , J.-M. Egly , and P. Jalinot .
+1993 .
+Functional and biochemical interaction of the HTLV-1 Tax1 transactivator with TBP .
+EMBO J .
+12:4269-4278. .
+Chen , J. , L. D. Attardi , C. P. Verrijzer , K. Yokomori , and R. Tjian .
+1994 .
+Assembly of recombinant TFIID reveals differential coactivator requirements for distinct transcriptional activators .
+Cell 79:93-105 .
+Chi , T. , P. Lieberman , K. Ellwood , and M. Carey .
+1955 .
+A general mechanism for transcriptional synergy by eucaryotic activators .
+Nature ( London ) 377:254-257 .
+Chiang , C.-M. , and R. G. Roeder .
+1995 .
+Cloning of an intrinsic human TFIID subunit that interacts with multiple transcriptional activators .
+Science 267:531-536 .
+Choy , B. , and M. R. Green .
+1993 .
+Eukaryotic activators function during multiple steps of preinitiation complex assembly .
+Nature ( London ) 366 : 531-536 .
+Colgan , J. , S. Wampler , and J. L. Manley .
+1993 .
+Interaction between a transcriptional activator and transcription factor IIB in vivo .
+Nature ( London ) 362:549-553 .
+Crenon , L , C. Beraud , P. Simard , J. Montagne , P. Veschambre , and P. Jalinot .
+1993 .
+The transcriptionally active factors mediating the effect of the HTLV-I Tax transactivator on the IL-2R alpha kappa B enhancer include the product of the c-rel proto-oncogene .
+Oncogene 8:867-875 .
+Cross , S. L. , M. B. Feinberg , J .
+B. Wolf , N. J. Holbrook , F. Wong-Staal , and W. J. Leonard .
+1987 .
+Regulation of the human interleukin-2 receptor a chain promoter : activation of a non-functional promoter by the transactivator gene of HTLV-I .
+Cell 49:47-56 .
+DeJong , J. , R. Bernstein , and R. G. Roeder .
+1995 .
+Human general transcription factor TFIIA : characterization of a cDNA encoding the small subunit and requirement for basal and activated transcription .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 92:3313-3317 .
+DeJong , J. , and R. G. Roeder .
+1993 .
+A single cDNA , hTFIA/a , encodes both the p35 and p19 subunits of human TFIIA .
+Genes Dev .
+7:2220-2234 .
+Dittmer , J. , S. D. Gitlin , R. L. Reid , and J. N. Brady .
+1993 .
+Transactivation of the P2 promoter of the parathyroid hormone related protein ( PTHrP ) by HTLV-I Tax ; : evidence for the involvement of transcription factor Ets-1 .
+J. Virol .
+67:6087-6095 .
+Duvall , J. F. , F. Kashanchi , A. Cvekl , M. F. Radonovich , G. Piras , and J. N. Brady .
+1995 .
+Transactivation of the HTLV-I Tax1-responsive 21 bp repeats requires holo-TFIID and TFIIA .
+J. Virol .
+69:5077-5086 .
+Duyao , M. P. , D. J. Kessler , D. B. Spicer , C. Bartholomew , J. L. Cleveland , M. Siekevitz , and G. E. Sonenshein .
+1992 .
+Transactivation of the c-myc 21 .
+22 .
+23 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+Mor .
+CELL .
+BioL .
+promoter by human T cell leukemia virus type 1 tax is mediated by NFxB .
+J. Biol .
+Chem .
+267:16288-16291 .
+Ferreri , K. , G. Gill , and M. Montminy .
+1994 .
+The cAMP-regulated transcription factor CREB interacts with a component of the TFIID complex .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 91:1210-1213 .
+Franklin , A .
+A. , M. F. Kubik , M. N. Uittenbogaard , A. Brauweiler , P. Utaisincharoen , M. A. Matthews , W. S. Dynan , J. P. Hoeffler , and J. K. Nyborg .
+1993 .
+Transactivation by the human t-cell leukemia virus Tax protein is mediated through enhanced binding of activating transcription factor-2 ( ATF-2 ) ATF-2 response and cAMP element-binding protein ( CREB ) .
+J. Biol .
+Chem .
+268:21225-21231 .
+Fujii , M. , T. Chubjo , T. Minamino , N. Masaaki , K. Miyamoto , and M. Seiki .
+1995 .
+Identification of the Tax interaction region of serum response factor that mediates the aberrant induction of immediate-early genes through CArG boxes by HTLV-1 Tax .
+Oncogene 11:7-14 .
+Fujii , M. , P. Sassone-Corsi , and I. M. Verma .
+1988. c-fos promoter transactivation by the tax , protein of human T-cell leukemia virus type I. Proc .
+Natl .
+Acad .
+Sci .
+USA 85:8526-8530 .
+Fujii , M. , H. Tsuchiya , T. Chubjo , T. Akizawa , and M. Seiki .
+1992 .
+Interaction of HTLV-I Tax , with p67° '' '' causes the aberrant induction of cellular immediate early genes through CArG boxes .
+Genes Dev .
+62066-2076 .
+Fujisawa , J. , M. Toita , T. Yoshimura , and M. Yoshida .
+1991 .
+The indirect association of human T-cell leukemia virus Tax protein with DNA results in transcriptional activation .
+J. Virol .
+65:4525-4528 .
+Ge , H. , and R. G. Roeder .
+1994 .
+Purification , cloning , and characterization of a human coactivator , PC4 , that mediates transcriptional activation of class II genes .
+Cell 78:513-523 .
+Gessain , A. , F. Barin , J. C. Vernant , O. Gaut , L. Maurs , A. Calender , and G. de The .
+1985 .
+Antibodies to human T lymphotropic virus type I in patients with tropical spastic paraparesis .
+Lancet ii:407-409 .
+Gietz , D. , A. St. Jean , R. A .
+Woods , and R. H. Schiestl 1992 .
+Improved method for high efficiency transformation of intact yeast cells .
+Nucleic Acids Res .
+20:1425 .
+Ginsberg , D. , G. Vairo , T. Chittenden , Z. Xiao , G. Xu , K. L. Wydner , J .
+A. DeCaprio , J .
+B. Lawrence , and D. M. Livingston .
+1994 .
+E2F-4 , a new member of the E2F transcription factor family , interacts with p107 .
+Genes Dev .
+8:2665-2679 .
+Golemis , E. M. , J. Gyuris , and R. Brent .
+1994 .
+Interaction trap/two-hybrid system to identify interacting proteins , p. 13.14.1-13.14.17 .
+In F. A. Ausubel , R. Brent , D. D. Kingston , J. G. Moore , J .
+A. Seidman , J .
+A. Smith , and D. Struhl ( ed .
+) , Current protocols in molecular biology .
+Greene Publishing Associates and Wiley-Interscience , New York .
+31a.Goodrich , J .
+A. , G. Cutler , and R. Tjian .
+1996 .
+Contacts in context : pro 32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42. moter specificity and macromolecular interactions in transcription .
+Cell 84:825-830 .
+Goodrich , J .
+A. , T. Hoey , C. Thut , A. Admon , and R. Tjian .
+1993 .
+Drosophilia TAFII4O interacts with both a VP16 activation domain and basal transcription factor TFIIB .
+Cell 75:519-530 .
+Goren , I. , O. J. Semmes , K. T. Jeang , and K. Moelling .
+1995 .
+The amino terminus of Tax is required for interaction with the cyclic AMP response clement binding protein .
+J. Virol .
+69:5806-5811 .
+Grassmann , R. , C. Dengler , I. Muller-Fleckenstein , B. Fleckenstein , K. McGuire , M.-C. Dokhelar , J. G. Sodroski , and W. Haseltine .
+1989 .
+Transformation to continuous growth of primary human T-lymphocytes by human T-cell leukemia virus type I X-region genes transduced by Herpesvirus saimiri vector .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 86:3351-3355 .
+Greene , W. C. , W. J. Leonard , Y. Wano , P. B. Svetlik , N. J. Peffer , J. G. Sodroski , C. A. Rosen , W. C. Gob , and W. A. Haseltine .
+1986 .
+Transactivator gene of HTLV-II induces IL-2 receptor and IL-2 cellular gene expression .
+Science 232:877 .
+Grossman , W. J. , J. T. Kimata , F. H. Wong , M. Zutter , T. J. Ley , and L. Ratner .
+1995 .
+Development of leukemia in mice transgenic for the tax gene of human T-cell leukemia virus type 1 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 92:1057-1061 .
+Himes , S. R. , L. S. Coles , R. Katsikeros , R. K. Lang , and M. F. Shannon .
+1993 .
+HTLV-I tax activation of the GM-CSF and G-CSF promoters requires the interaction of NF-kappa B with other transcription factor fam-ilies .
+Oncogene 8:3189-3197 .
+Hirai , H. , T. Fujisawa , K. Suzuki , M. Ueda , M. Muramatsu , A. Tsuboi , N. Arai , and M. Yoshida .
+1992 .
+Transcriptional activator Tax of HTLV-1 binds to the NF-kB precursor p105 .
+Oncogene 7:1737-1742 .
+Hori , R. , and M. Carey .
+1994 .
+The role of activators in assembly of RNA polymerase II transcription complexes .
+Curr .
+Opin .
+Genet .
+Dev .
+4:236-244 .
+Ikeuchi , K. , S. Kim , R. Byrn , S. Goldring , and J. Groopman .
+1990 .
+Infection of nonlymphoid cells by human immunodeficiency virus type 1 or type 2 .
+J. Virol .
+64:4226-4231 .
+Ingles , C. J. , M. Shales , W. D. Cress , S. J. Triezenberg , and J. Greenblatt .
+1991 .
+Reduced binding of TFIID to transcriptionally compromised mutants of VP16 .
+Nature ( London ) 351:588-590 .
+Inostroza , J .
+A. , F. H. Mermelstein , I. Ha , W. S. Lane , and D. Reinberg .
+1992 .
+Dri , a TATA-binding protein-associated phosphoprotein and inhibitor of class II gene transcription .
+Cell 70:477-489 .
+Vou .
+16 , 1996 43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+57 .
+58 .
+59 .
+60 .
+61 .
+62 .
+63 .
+64 .
+65 .
+66 .
+67 .
+68 .
+Inoue , J. , M. Seiki , T. Taniguchi , S. Tsuru , and M. Yoshida .
+1986 .
+Induction of interleukin 2 receptor gene expression by p40 '' encoded by human T-cell leukemia virus type 1 .
+EMBO J .
+5:2883-2888 .
+Jeang , K.-T. , J. Brady , M. Radonovich , J. Duvall , and G. Khoury .
+1988. p40 '' * frans-activation of the HTLV-1 LTR promoter , p. 181-189 .
+In B. Cullen , L. P. Gage , M. A. Q. Siddiqi , A. M. Skalka , and H. Weissbach ( ed .
+) , Mechanisms of control of gene expression .
+Alan R. Liss , Inc. , New York .
+Kang , J. J. , D. T. Auble , J .
+A. Ranish , and S. Hahn .
+1995 .
+Analysis of the yeast transcription factor TFIIA : distinct functional regions and polymerase II-specific role in basal and activated transcription .
+Mol .
+Cell .
+Biol .
+15 : 1234-1243 .
+Kanno , T. , K. Brown , and U. Siebenlist .
+1995 .
+Evidence in support of a role for human T-cell leukemia virus type 1 Tax in activating NF-kappa B via stimulation of signaling pathways .
+J. Biol .
+Chem .
+270:11745-11748 .
+Kashanchi , F. , J. F. Duvall , and J. N. Brady .
+1992 .
+Electroporation of viral transactivator proteins into lymphocyte suspension cells .
+Nucleic Acids Res .
+20:4673-4674 .
+Kim , T. K. , Y. Zhao , H. Ge , R. Bernstein , and R. G. Roeder .
+1995 .
+TATA-binding protein residues implicated in a functional interplay between negative cofactor NC2 ( Dr1 ) and general transcription factors TFIIA and TFIIB .
+J. Biol .
+Chem .
+270:10976-10981 .
+Kobayashi , N. , T. G. Boyer , and A. J. Berk .
+1995 .
+A class of activation domains interacts directly with TFIIA and stimulates TFIIA-TFIID-pro-moter complex assembly .
+Mol .
+Cell .
+Biol .
+15:6465-6473 .
+Kraus , V. B. , J .
+A. Inostroza , K. Yeung , D. Reinberg , and J. R. Nevins .
+1994 .
+Interaction of the Dr-1 inhibitory factor with the TATA binding protein is disrupted by adenovirus E1A .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 91:6279-6282 .
+Lanoix , J. , J. Lacoste , N. Pepin , N. Rice , and J. Hiscott .
+1994 .
+Overproduction of NFKB2 ( lyt-10 ) and c-Rel : a mechanism for HTLV-1 Tax-mediated trans-activation via the NF-kappa B signalling pathway .
+Oncogene 9:841-852 .
+Leung , K. , and G. J. Nabel .
+1988 .
+HTLV-1 transactivator induces interleukin-2 receptor expression through an NF-kB-like factor .
+Nature ( London ) 333:776-778 .
+Lieberman , P. M. , and A. J. Berk .
+1994 .
+A mechanism for TAFs in transcriptional activation : activation domain enhancement of TFIID-TFIIA-promoter DNA complex formation .
+Genes Dev .
+8:995-1006 .
+Lin , Y. , and M. R. Green .
+1991 .
+Mechanism of action of an acidic transcriptional activator in vitro .
+Cell 64:971-981 .
+Ma , D. , H. Watanabe , F. Mermelstein , A. Admon , K. Oguri , X .
+Sun , T. Wada , T. Imai , T. Shiroya , D. Reinberg , and H. Handa .
+1993 .
+Isolation of a cDNA encoding the largest subunit of TFIIA reveals functions important for activated transcription .
+Genes Dev .
+7:2246-2257 .
+Maggirwar , S. B. , E. Harhaj , and S. C. Sun .
+1995 .
+Activation of NF-kappa B/Rel by Tax involves degradation of I kappa B-alpha and is blocked by a proteasome inhibitor .
+Oncogene 11:993-998 .
+Manley , J. L. , A .
+Fire , A. Cano , P. A .
+Sharp , and M. L. Gefter .
+1980 .
+DNA-dependent transcription of adenovirus genes in a soluble whole-cell extract .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 77:3855-3859 .
+Meisterernst , M. , and R. G. Roeder .
+1991 .
+Family of proteins that interact with TFIID and regulate promoter activity .
+Cell 67:557-567 .
+Merino , A. , K. R. Madden , W. S. Lane , J. J. Champoux , and D. Reinberg .
+1993 .
+DNA topoisomerase I is involved in both repression and activation of transcription .
+Nature ( London ) 365:227-232 .
+Mori , N. , S. Murakami , S. Oda , D. Prager , and S. Eto .
+1995 .
+Production of interleukin 8 in adult T-cell leukemia cells : possible transactivation of the interleukin 8 gene by human T-cell leukemia virus type 1 Tax .
+Cancer Res .
+55:3592-3597 .
+Mori , N. , F. Shirakawa , K. Saito , S. Murakami , et al .
+1994 .
+Transactivation of the interleukin-1 alpha gene promoter by human T-cell leukemia virus type I tax in T cells .
+Blood 84:1688-1689 .
+Murakami , T. , H. Hirai , T. Suzuki , J. Fujisawa , and M. Yoshida .
+1995 .
+HTLV-I Tax enhances NF-kappa B2 expression and binds to the products p52 and p100 , but does not suppress the inhibitory function of p100 .
+Virology 206:1066-1074 .
+Nakajima , N. , M. Horikoshi , and R. G. Roeder .
+1988 .
+Factors involved in specific transcription by mammalian RNA polymerase II : purification , genetic specificity , and TATA box-promoter interactions of TFIID .
+Mol .
+Cell .
+Biol .
+8:4028-4040 .
+Nelson , H. 1995 .
+Structure and function of DNA-binding proteins .
+Curr .
+Opin .
+Genet .
+Dev .
+5:180-189 .
+Nimer , S. D. , J. C. Gasson , K. Hu , I. Smalberg , J. L. Williams , I. S. Y. Chen , and J. D. Rosenblatt .
+1989 .
+Activation of the GM-CSF promoter by HTLV-I and -II tax proteins .
+Oncogene 4:671 .
+Osame , M. , K. Usuku , S. Izumo , N. Tjichi , H. Amitani , A. Igata , M. Mat-sumoto , and M. Tara .
+1986 .
+HTLV-I associated myelopathy , a new clinical entity .
+Lancet ii1031-1032 .
+Ozer , J. , P. A. Moore , A. H. Bolden , A. Lee , C. A. Rosen , and P. M. Lieberman .
+1994 .
+Molecular cloning of the small ( gamma ) subunit of human TFIIA reveals functions critical for activated transcription .
+Genes Dev .
+8:2324-2335 .
+Paskalis , H. , B. K. Felber , and G. N. Pavlakis .
+1986 .
+Cis-acting sequences HTLV-1 Tax TRANSACTIVATOR INTERACTION WITH TFIIA 69 .
+70 .
+71 .
+72 .
+73 .
+74 .
+75 .
+76 .
+77 .
+78 .
+79 .
+80 .
+81 .
+82 .
+83 .
+84 .
+85 .
+86 .
+87 .
+88 .
+89 .
+90 .
+91 .
+92 .
+93 .
+4663 responsible for the transcriptional activation of human T-cell leukemia virus type I constitute a conditional enhancer .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 83:6558-6562 .
+Paul , N. L. , M. J. Lenardo , K. D. Novak , T. Sarr , W.-L. Tang , and N. H. Ruddle .
+1990 .
+Lymphotoxin activation by human T-cell leukemia virus type T-infected cell lines : role for NF-kB .
+J. Virol .
+64:5412-5419 .
+Paul , N. L. , I. Millet , and N. H. Ruddle .
+1993 .
+The lymphotoxin promoter is stimulated by HTLV-I tax activation of NF-kappa B in human T-cell lines .
+Cytokine 5:372-378 .
+Perini , G. , S. Wagner , and M. R. Green .
+1995 .
+Recognition of bZIP proteins by the human T-cell leukaemia virus transactivator Tax .
+Nature ( London ) 376:602-605 .
+Poiesz , B. , F. Ruscetti , A. Gazdar , P. Bunn , J. Minna , and R. Gallo .
+1980 .
+Detection and isolation of type C retrovirus particles from fresh and cultured lymphocytes of a patient with cutaneous T-cell lymphoma .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 77:7415-7419 .
+Reinberg , D. , M. Horikoshi , and R. G. Roeder .
+1987 .
+Factors involved in specific transcription in mammalian RNA polymerase II : functional analysis of initiation factors IIA and IID and identification of a new factor operating at sequences downstream of the initiator site .
+J. Biol .
+Chem .
+262:3322-3330 .
+Reynolds , A. , and V. Lundblad .
+1989 .
+Yeast vectors and assays for the expression of cloned genes , p. 13.6.1-13.6.4 .
+In F. A. Ausubel , R. Brent , D. D. Kingston , J. G. Moore , J .
+A. Seidman , J .
+A. Smith , and K. Struhl ( ed .
+) , Current protocols in molecular biology .
+Greene Publishing Associates and Wiley-Interscience , New York .
+Rosen , C. A. , J. G. Sodroski , and W. A. Haseltine .
+1985 .
+Location of cis-acting regulatory sequences in the human T-cell leukemia virus type I long terminal repeat .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 82:6502-6506 .
+Ruben , S. , H. Poteat , T.-H. Tan , K. Kawakami , R. Roeder , W. Haseltine , and C. A. Rosen .
+1988 .
+Cellular transcription factors and regulation of IL-2 receptor gene expression by HTLV-I tax gene product .
+Science 241:89-92 .
+Sawada , M. , A. Suzumura , M. Yoshida , and T. Marunouchi .
+1990 .
+Human T-cell leukemia virus type I trans-activator induces class I major histocompatibility complex antigen expression in glial cells .
+J. Virol .
+64:4002-4006 .
+Schneider , U. , J.-U .
+Schwenk , and G. Bonkamm .
+1977 .
+Characterization of EBV-genome negative `` null '' and `` T '' cell lines derived from children with acute lymphoblastic leukemia and leukemia transformed non-Hodgkin lymphoma .
+Int .
+J .
+Cancer 19:621-626 .
+Semmes , O. J. , and K. Jeang .
+1995 .
+Definition of a minimal activation domain in human T-cell leukemia virus type I Tax .
+J. Virol .
+69:1827-1833 .
+Semmes , O. J. , and K. T. Jeang .
+1992 .
+Mutational analysis of human T-cell leukemia virus type I Tax : regions necessary for function determined with 47 mutant proteins .
+J. Virol .
+66:7183-7192 .
+Sheldon , M. , and D. Reinberg .
+1995 .
+Tuning-up transcription .
+Curr .
+Biol .
+5143-46 .
+Shykind , B. M. , J. Kim , and P. A .
+Sharp .
+1995 .
+Activation of the TFIID-TFIIA complex with HMG-2 .
+Genes Dev .
+9:1354-1365 .
+Sickevitz , M. , M. B. Feinberg , N. Holbrook , F. Wong-Staal , and W. C. Greene .
+1987 .
+Activation of interleukin 2 and interleukin 2 receptor ( Tac ) promoter expression by the trans-activator ( tat ) gene product of human T-cell leukemia virus , type I. Proc .
+Natl .
+Acad .
+Sci .
+USA 84:5389-5393 .
+Smith , M. R. , and W. C. Greene .
+1990 .
+Identification of HTLV-I fax transactivator mutants exhibiting novel transcriptional phenotypes .
+Genes Dev .
+4:1875-1885 .
+Sodroski , J. G. , C. A. Rosen , and W. A. Haseltine .
+1984 .
+Trans-acting transcriptional activation of the long terminal repeat of human T lymphotropic viruses in infected cells .
+Science 225:381-385 .
+Stringer , K. F. , C. J. Ingles , and J. Greenblatt .
+1990 .
+Direct and selective binding of an acidic transcriptional activation domain to the TATA-box factor TFIID .
+Nature ( London ) 345:783-786 .
+Sun , X. , D. Ma , M. Sheldon , K. Yeung , and D. Reinberg .
+1994 .
+Reconsti-tution of human TFIIA activity from recombinant polypeptides : a role in TFIID-mediated transcription .
+Genes Dev .
+8:2336-2348 .
+Suzuki , T. , H. Hirai , T. Murakami , and M. Yoshida .
+1995 .
+Tax protein of HTLV-1 destabilizes the complexes of NF-kappa B and I kappa B-alpha and induces nuclear translocation of NF-kappa B for transcriptional activation .
+Oncogene 10:1199-1207 .
+Suzuki , T. , H. Hirai , and M. Yoshida .
+1994 .
+Tax protein of HTLV-I interacts with the Rel homology domain of NF-kappa B p65 and c-Rel proteins bound to the NF-kappa B binding site and activates transcription .
+Oncogene 9:3099-3105 .
+Tanaka , A. , C. Takahashi , S. Yamaoka , T. Nosaka , M. Maki , and M. Hatanaka .
+1990 .
+Oncogenic transformation by the tax gene of human T-cell leukemia virus type I in vitro .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 87:1071-1075 .
+Thut , C. J. , J. L. Chen , R. Klemm , and R. Tjian .
+1995. p53 transcriptional activation mediated by coactivators TAFp40 and TAF , ,60 .
+Science 267 : 100-104 .
+Triezenberg , S. 1995 .
+Structure and function of transcriptional activation domains .
+Curr .
+Opin .
+Genet .
+Dev .
+5:190-196 .
+Tsuchiya , H. , M. Fujii , Y. Tanaka , H. Tozawa , and M. Seiki .
+1994 .
+Two 4664 94 .
+95 .
+96 .
+97 .
+98 .
+99 .
+100 .
+101 .
+102 .
+103 .
+CLEMENS ET AL .
+distinct regions form a functional activation domain of the HTLV-1 transactivator Tax1 .
+Oncogene 9:337-340 .
+Van Dyke , M. , R. G. Roeder , and M. Sawadogo .
+1988 .
+Physical analysis of transcription preinitiation complex assembly on a class II gene promoter .
+Science 241:1335-1338 .
+Verrijzer , C. P. , J.-L. Chen , K. Yokomori , and R. Tjian .
+1995 .
+Binding of TAFs to core elements directs promoter selectivity by RNA polymerase II .
+Cell 81:1115-1125 .
+Wagner , S. , and M. Green .
+1993 .
+HTLV-I Tax protein stimulation of DNA binding of bZIP proteins by enhancing dimerization .
+Science 262:395-399 .
+Wang , W. , J. D. Gralla , and M. Carey .
+1992 .
+The acidic activator GAL4-AH can stimulate polymerase II transcription by promoting assembly of a closed complex requiring TFIID and TFIIA .
+Genes Dev .
+6:1716-1727 .
+Watanabe , T. , K. Yamaguchi , K. Takatsuki , M. Osame , and M. Yoshida .
+1990 .
+Constitutive expression of parathyroid hormone-related protein gene in human T cell leukemia virus type 1 ( HTLV-1 ) carriers and adult T cell leukemia patients that can be frens-activated by HTLV-1 tax gene .
+J. Exp .
+Med .
+172:759-765 .
+White , R. J. , B. C. Khoo , J .
+A. Inostroza , D. Reinberg , and S. P. Jackson .
+1994 .
+Differential regulation of RNA polymerases I , II , and III by the TBP-binding repressor Dr1 .
+Science 266:448-450 .
+Wolin , M. , M. Kornuc , C. Hong , S. K. Shin , F. Lee , R. Lau , and S. Nimer .
+1993 .
+Differential effect of HTLV-I infection and HTVL Tax on interleukin 3 expression .
+Oncogene 8:1905-1911 .
+Xiao , H. , A. Pearson , B. Coulombe , R. Truat , S. Zhang , J. L. Regier , S. L. Triezenberg , D. Reinberg , O. Flores , C. J. Ingles , and J. Greenblatt .
+1994 .
+Binding of basal transcription factor TFIIH to the acidic activation domains of VP16 and p53 .
+Mol .
+Cell .
+Biol .
+14:7013-7024 .
+Xing , L. , V. K. Gopal , and P. G. Quinn .
+1995. cAMP response clement-binding protein ( CREB ) interacts with transcription factors IIB and IID .
+J. Biol .
+Chem .
+270:17488-17493 .
+Yamashita , L. , S. Katamine , R. Moriuchi , Y. Nakamura , T. Miyamoto , K. Eguchi , and S. Nagataki .
+1994 .
+Transactivation of the human interleukin-6 104 .
+105 .
+106 .
+107 .
+108 .
+109 .
+110 .
+111 .
+112 .
+Mor .
+CELL .
+BioL .
+gene by human T-lymphotropic virus type I Tax protein .
+Blood 84:1573-1578 .
+Yin , M. J. , E. Paulssen , J. Seeler , and R. B. Gaynor .
+1995 .
+Chimeric proteins composed of Jun and CREB define domains required for interaction with the human T-cell leukemia virus type 1 Tax protein .
+J. Virol .
+69:6209-6218 .
+Yin , M. J. , E. J. Paulssen , J. S. Seeler , and R. B. Gaynor .
+1995 .
+Protein domains involved in both in vivo and in vitro interactions between human T-cell leukemia virus type 1 Tax and CREB .
+J. Virol .
+69:3420-3432 .
+Yokomori , K. , A. Admon , J .
+A. Goodrich , J. L. Chen , and R. Tjian .
+1993 .
+Drosophilia TFIIA-L is processed into two subunits that are associated with the TBP/TAF complex .
+Genes Dev .
+7:2235-2245 .
+Yokomori , K. , M. P. Zeidler , J.-L. Chen , C. P. Verrijzer , M. Mlodzik , and R. Tjian .
+1994 .
+Drosophila TFIIA directs cooperative DNA binding with TBP and mediates transcriptional activation .
+Genes Dev .
+8:2313-2323 .
+Yoshida , M. , M. Seiki , K. Yamaguchi , and K. Takatsuki , 1984 .
+Monoclonal integration of human T-cell leukemia provirus in all primary tumors of adult T-cell leukemia suggests a causative role of human T-cell leukemia virus in disease .
+Proc .
+Natl .
+Acad .
+Sci .
+USA §1:2534-2537 .
+Zawel , L. , and D. Reinberg .
+1993 .
+Initiation of transcription by RNA polymerase II : a multi-step process .
+Prog .
+Nucleic Acid Res .
+Mol .
+Biol .
+44:67-108 .
+Zawel , L. , and D. Reinberg .
+1995 .
+Common themes in assembly and function of eukaryotic transcription complexes .
+Annu .
+Rev .
+Biochem .
+64:533-561 .
+Zhao , L.-J. , and C.-Z .
+Giam .
+1992 .
+Human T-cell lymphotropic virus type I ( HTLV-I ) transcriptional activator , Tax , enhances CREB binding to HTLV-I 21-base-pair repeats by protein-protein interaction .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 89:7070-7074 .
+Zhu , H. , V. Joliet , and R. Prywes .
+1994 .
+Role of transcription factor TFIIF in serum response factor-activated transcription .
+J. Biol .
+Chem .
+269:3489-3497 .

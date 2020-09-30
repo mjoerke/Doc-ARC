@@ -1,0 +1,787 @@
+The EMBO Journal Vol.16 No.18 pp.5639-5653 , 1997 Cooperation of Spi-1/PU.1 with an activated erythropoietin receptor inhibits apoptosis and Epo-dependent differentiation in primary erythroblasts and induces their Kit ligand-dependent proliferation Christine Tran Quang ' , Oliver Wessely* , Martine Pironin ' , Hartmut Beug* and Jacques Ghysdael '' * CNRS UMR146 , Institut Curie , Section de Recherche , Centre Universitaire , Batiment 110 , 91405 Orsay , France and *Institute of Molecular Pathology ( IMP ) , Vienna , Austria Corresponding author Spi-1/PU.1 is a myeloid- and B-cell specific transcription factor which is also involved in Friend virus-induced murine erythroleukemia .
+The pre-leukemic phase of Friend erythroleukemia results from activation of the erythropoietin receptor ( EpoR ) by the spleen focus forming virus ( SFFV ) envelope glyco-protein , followed by the emergence of leukemic clones characterized by overexpression of Spi-1 and mutation of the p53 tumor suppressor gene .
+We developed a heterologous system to analyze the contribution of these alterations to the induction of primary erythroblast transformation .
+Avian erythroblasts expressing the activated mouse EpoR ( R129C ) differentiated into erythrocytes in response to hEpo .
+Expression of Spi-1 in these cells inhibited this ability to differentiate and rescued the cells from the apoptotic cell death program normally induced upon hEpo withdrawal .
+Although devoid of any effect by itself , a mutant p53 cooperated with Spi-1 and EpoR ( R129C ) to reinforce both pheno-types .
+Analysis of erythroblasts co-expressing Spi-1 and the wild-type mouse EpoR showed that differentiation arrest and inhibition of apoptosis depended on specific cooperation between Spi-1 and EpoR ( R129C ) .
+This cooperation was also required to induce the sustained proliferation of differentiation-blocked erythroblasts in response to ligand activation of the endogenous tyrosine kinase receptor c-Kit .
+These results show that Spi-1/PU.1 requires signals emanating from specific cytokine and growth factor receptors to affect the survival , proliferation and differentiation control of primary erythroblasts .
+They also suggest that the function of Spi-1/PU.1 in the late phase of Friend leukemia requires specific signaling from the gpSS-modified EpoR generated during the early phase of the disease .
+Keywords : apoptosis/erythropoietin receptor/Friend erythroleukemia/c-Kit/PU.1/Spi-1 Introduction Tumor development arises from the additive or cooperative activity of multiple pathways , resulting from the activation of proto-oncogenes and the deletion or functional inactivation of tumor suppressor genes .
+To understand tumori- © Oxford University Press genesis , it is necessary to determine precisely if and how each of these genetic alterations acts on its own to deregulate the balance between proliferation , differentiation and apoptosis and how they ultimately cooperate to result in full malignancy .
+A particularly well studied example of multistep tumori-genesis is represented by the acute erythroleukemia caused by the Friend leukemia virus .
+This viral complex consists of a helper virus , F-MuLV , and a replication-defective spleen focus forming virus ( SFFV ) .
+When injected into adult mice , this complex induces fatal erythroleukemia associated either with anemia in the case of the SFFV-A variant or with polycythemia in the SFFV-P-induced disease ( for review , see Kabat , 1989 ; Ben-David and Bernstein , 1991 ) .
+The early phase of Friend disease is characterized by the massive polyclonal proliferation of erythroid progenitors in the spleen of infected animals , followed by the emergence of leukemic clones at a later stage ( for review , see Ben-David and Bernstein , 1991 ) .
+At the molecular level , each of these steps is characterized by specific events .
+The onset of the early phase and the differences in maturation and erythropoietin ( Epo ) responsiveness of SFFV-A and SFFV-P pre-leukemic cells are controlled directly by the virus-encoded gp55 envelope glycoprotein ( Aizawa et al. , 1990 ; for review , see Koury et al. , 1984 ; Wolff and Ruscetti , 1988 ; Kabat , 1989 ) .
+The SFFV-P gp55 binds to the erythropoietin receptor ( EpoR ) , an interaction which appears to be sufficient to induce the pre-leukemic phase of Friend disease ( Aizawa et al. , 1990 ; Hoatlin et al. , 1990 ) .
+The late , leukemic phase of the disease is characterized by at least two genetic alterations .
+In > 90 % of the cases , the integration of an SFFV provirus at the spi-1 locus results in the overexpression of an otherwise unaltered Spi-1 protein ( Moreau-Gachelin et al. , 1988 ; Paul et al. , 1991 ) .
+Spi-1/PU.1 is a transcription factor of the ETS family which is required for the normal development of mouse B cells and macrophages ( Scott et al. , 1994 ; McKercher et al. , 1996 ) .
+In contrast to its well-established role in myeloid and lymphoid cell development , the precise function of Spi-1/PU.1 in Friend-induced erythroleukemia and erythroid cell transformation is still debated ( Schuetze et al. , 1993 ; Delgado et al. , 1994 ; Tran Quang et al. , 1995 ; Moreau-Gachelin et al. , 1996 ) .
+The late stage of Friend disease is also characterized by the frequent inactivation of the p53 tumor suppressor gene either by alterations in one of its alleles and deletion of the second normal allele or , more frequently , by point mutations in conserved domains of the p53 protein ( for review , see Ben-David and Bernstein , 1991 ) .
+The recurrent nature of these alterations , i.e .
+activation of the EpoR by gp55 , Spi-1 overexpression and the loss of p53 function , suggests that each of these events is important for disease development .
+Most likely , cooperation between these pathways is also required for the development of the leukemic 5639 C.Tran Quang et al .
+phenotype , but a systematic study of the single and/or combined functions of the Friend leukemia molecular alterations has not been carried out to date .
+To clarify unequivocally the action and cooperation between the activated EpoR , overexpressed Spi-1 and mutated p53 in erythroblasts , we sought to express these proteins in a heterologous system , namely chicken primary erythroid progenitors .
+By this approach , possible effects of the endogenous versions of these proteins , particularly of the EpoR , could be avoided since avian erythroid progenitors are unresponsive to mammalian Epo ( Steinlein et al. , 1994 ) .
+For several reasons , we employed ts-v-Sea chicken erythroblasts , previously shown to be particularly useful to study the activity of genes essential for proliferation and differentiation of hematopoietic progenitors ( Zenke et al. , 1988 , 1990 ) .
+Firstly , bone marrow cells expressing ts-v-Sea can be expanded into a homogeneous population of immature erythroblasts at the permissive temperature ( 37°C ) .
+Inactivation of the temperature-sensitive ts-v-Sea tyrosine kinase at 42°C induces the cells to synchronously undergo terminal differentiation into mature erythrocytes .
+Terminal differentiation is strictly dependent on the presence of avian Epo and insulin , representing the physiological inducers of this differentiation pathway ( Knight et al. , 1988 ) .
+Secondly , a large variety of mammalian genes regulating hematopoiesis , including cytokines and receptor tyrosine kinase , signal transducers and transcription factors , have been expressed in these cells and found to carry out their expected function ( Kahn et al. , 1986 ; Khazaie et al. , 1988 ; Schroeder et al. , 1992 ; Steinlein et al. , 1994 ; Wessely et al. , 1997b ) .
+In previous experiments , we showed that expression of Spi-1 delayed the differentiation of ts-v-Sea progenitors while a mutant form of p53 had no effect ( Tran Quang et al. , 1995 ) .
+However , in the course of Friend disease towards full malignancy , Spi-1 overexpression and inactivation of p53 occur in cells in which EpoR signaling is already activated as the result of its interaction with SFFV gp55 , suggesting a possible cooperation between these functionally altered proteins .
+A similar functional activation of EpoR is caused by substitution of Arg129 by Cys in its extracellular domain , resulting in its constitutive dimerization and activation of its mitogenic potential in several immortalized cell lines ( Yoshimura et al. , 1990 ) .
+Furthermore , infection of mice with an EpoR ( R129C ) -transducing retrovirus caused polycythemia and spleno-megaly , indicating that the expression of EpoR ( R129C ) mimics the gp55-dependent activation of the EpoR characteristic of Friend erythroleukemia ( Longmore and Lodish , 1991 ) .
+In this study , we analyzed whether overexpressed Spi-1 and mutated p53 cooperate with EpoR ( R129C ) to deregulate proliferation , differentiation and/or apoptosis of primary erythroid progenitors .
+For this , retroviral vectors were developed , which allowed the simultaneous transfer of EpoR ( R129C ) , mutant p53 and Spi-l1 into ts-v-Sea erythroblasts .
+We show that the co-expression of these proteins profoundly modifies the response of these cells to Epo , inducing the survival of progenitors tightly blocked in their differentiation .
+Further analyses demonstrate that this phenotype is critically dependent upon a specific cooperation of Spi-l with the mutant EpoR ( R129C ) .
+Finally , we show that ligand-induced activation of the endo- 5640 genous tyrosine kinase receptor c-Kit in EpoR ( R129C ) / Spi-1- and EpoR ( R129C ) /ts p53/Spi-l1-expressing , differentiation-arrested erythroblasts induces their massive and sustained proliferation .
+Results Strategy to co-express EpoR ( R129C ) , Spi-1 and mutant p53 in primary ts-v-Sea erythroblasts To co-express two or even three exogenous proteins [ mouse EpoR or EpoR ( R129C ) together with Spi-1 and/ or the p53 ( V135A ) mutant , hereafter referred to as ts p53 ] in primary erythroblasts , the following strategy was devised .
+Oncogenic avian retroviruses exist in two forms , either as oncogene-carrying , replication-defective viruses requiring a replication-competent helper virus for production of infectious particles , or as replication-competent retroviruses bearing an additional oncogene .
+Similarly to avian leukosis viruses , the latter can serve as helper viruses to rescue replication-defective viruses .
+We therefore designed recombinant retroviral vectors based on the genetic structure of both virus types , each expressing an exogenous gene of interest .
+To increase further the number of genes transferred by the replication-defective vector type , we utilized two distinct cDNAs separated by the internal ribosome entry site ( IRES ) of the encephalomyocarditis ( EMC ) virus to allow the translation of bi-cistronic mRNAs .
+As the replication-defective virus component , we utilized the CRNCM vector , expressing exogenous cDNAs downstream from an internal cytomegalovirus ( CMV ) promoter and containing a gag-neo fusion gene as selectable marker .
+As shown in Figure 1A and detailed in Materials and methods , this vector was used to express Spi-1 , ts p53 , EpoR and EpoR ( R129C ) as single proteins .
+To allow the co-expression of two proteins from this vector , a cassette containing two distinct cDNAs separated by an IRES element was used ( see Materials and methods ) .
+This strategy was used to obtain the co-expression of ts p53 plus Spi-1 ( Figure 1A ) .
+To produce infectious particles from these defective retroviral genomes , we used the Rous sarcoma virus-derived RCAS-A vector ( Hughes et al. , 1987 ) .
+Alternat-ively , RCAS-A derivatives were used , in which the cDNAs encoding either EpoR or EpoR ( R129C ) were inserted downstream of the 3 ' splice acceptor site ( Figure 1A ) .
+These constructs were used to rescue the replication-defective properties of the CRNCM derivatives to generate infectious virus stocks as pseudotypes , thus achieving combined expression of Spi-1 and/or ts p53 with either EpoR or EpoR ( R129C ) ( Figure 1A ) .
+Specifically , chicken embryo fibroblasts ( CEFs ) were co-transfected with each of the CRNCM-derived constructs plus RCAS-A or the RCAS-EpoR derivatives , followed by selection of infected cells with G418 .
+Immunoprecipitation analysis was employed to verify expression of the expected proteins in the virus-producing fibroblasts .
+After metabolic labeling of infected CEFs , cell lysates were subjected to immunoprecipitation analysis using the appropriate antibodies .
+This is exemplified in Figure 1B showing the co-expression of EpoR , ts p53 and Spi-1 in G418-resistant CEFs co-transfected with CRNCM ts p53-IRES-Spi-1 plus RCAS-EpoR .
+All other combinations of RCAS- and Helper viruses Replication-defective viruses EpoR and Spi-1 in erythroblast transformation Proteins encoded by the respective retrovirus stocks | II H gag ] neo _J-CMV LL ] EpoR [ ILK 8s | ro | ev __ } [ [ | RCAS-A | IJ H sag ] neo _ } -CMY LH EpoR ( R129C ) EpoR/Spi I H_ & [ rot T ay ~ } EpoX } { [ [ J -| » LL H ss ] neo _ HCwy ) I| EpoR/ts p53 RCAS EpoR -p [ [ [ } - [ gag|l neo ts p53_ } - [ ires } -f Spi-1 EpoR/ts p53/Spi * CD EMV HH EpoR ( R129C ) /Spi [ | H ®s T ro |_ aay __ | |- EpoR ( R129C ) /ts p53 RCAS EpoR ( R129C ) Hey } # p53 Sp EpoR ( R129C ) /ts p53/Spi B Q , g + £ & '' > C y & & & 3° # « # & « & 94 - 94 - 94 68 `` 1 aal < = * a5 - < .
+< - Cp 45 ] -l 45 - 25 anti- EpoR anti-p53 4 & % . > C & & Im anti-Spi Fig.1 .
+Schematic representation of the retroviral constructs used to co-express EpoR , Spi-1 and mutant p53 .
+( A ) cDNAs encoding EpoR , EpoR ( R129C ) , p53 ( V135A ) ( hereafter referred to as ts p53 ) , Spi-1 or a ts p53-IRES-Spi-1 cassette were inserted into the CRNCM retroviral vector , downstream of the CMV promoter .
+This vector also contains a gag-neo fusion gene which allows selection of infected cells by their resistance to G418 .
+EpoR and EpoR ( R129C ) cDNAs were also cloned into the replication-competent RCAS-A retroviral vector .
+CRNCM , RCAS-A and derivatives were co-transfected in fibroblasts as indicated ( branched arrows ) to generate the respective virus stocks .
+( B ) Co-expression of EpoR , ts p53 and Spi-1 in fibroblasts co-transfected by the RCAS EpoR and CRNCM ts p53-IRES-Spi retroviral vectors .
+G418-resistant CEFs were labeled with L- [ *°SJmethionine/- [ * '' 8 cysteine and cell lysates subjected to immunoprecipitation analyses using an antibody raised against the mouse EpoR , an antibody to p53 and an antibody specific for Spi-1 .
+Immunoprecipitates were analyzed by electrophoresis on polyacrylamide gels in the presence of SDS , followed by fluorography .
+Specifically immunoprecipitated proteins are indicated by arrowheads .
+CRNCM-derived retroviral vectors resulted in a similarly efficient co-expression of the expected proteins ( data not shown ) .
+To generate ts-v-Sea erythroblast clones expressing the proteins under study , bone marrow cells were co-infected with the appropriate virus stock plus the ts-v-Sea virus ( see Materials and methods ) .
+Colonies of infected bone marrow cells were grown in semi-solid medium , expanded and screened for their response to recombinant human erythropoietin ( hEpo ) .
+Responsive clones were analyzed further for their proliferative and differentiation properties after shift to 42°C to inactivate the ts-v-Sea protein tyrosine kinase .
+As shown in previous studies , ts-v-Sea erythroblasts induced to differentiate in response to Epo exit from the cell cycle , accumulate the late erythroid differentiation marker hemoglobin and acquire the morphology and hemoglobin content of fully mature erythrocytes ( Knight et al. , 1988 ) .
+Therefore , the simultaneous determination of cell numbers and hemoglobin content normalized to numbers of viable cells allows quantification of differentiation in the different ts-v-Sea clones analyzed .
+As an additional parameter , morphological differentiation of these cells into hemoglobinized erythrocytes can be analyzed by histochemical staining of cytocentrifuged cells with neutral benzidine and histological dyes .
+5641 C.Tran Quang et al .
+EpoR A B aC , 10 p 8-6 ” I g C8 a* 1.00 '' « - & @ & & 1° 2 3 : E4 © o + anti-EpoR E5 ou C Ins Ins + hEpo ~ .
+.- 0 _s # 261 | t 4 & f 3 < 7 0 % 100 % Hemoglobin level o Ins ® Ins + hEpo C7 E5 E2 E4 EpoR ( R129C ) Ins Ins + hEpo a .
+; g ' 2 8 .
+*®*w % B a : = @ s © * EpoR ( R129C ) o i & . '
+j .
++ .
+-i 0 % 100 % Fig .
+2 .
+EpoR ( R129C ) induces erythroid differentiation in response to hEpo .
+Clones of ts-v-Sea erythroblasts expressing either wild-type EpoR or mutant EpoR ( R129C ) were analyzed at 42°C for their ability to differentiate in response to hEpo .
+( A ) Analysis of the expression of EpoR and EpoR ( R129C ) in two representative clones .
+Clones EpoR C7 and EpoR ( R129C ) E4 as well as control ts-v-Sea erythroblasts were subjected to labeling and immunoprecipitation analysis using antiserum to mouse EpoR as described in the legend to Figure 1 , using constant amounts of acid-insoluble radioactive counts from all extracts .
+Specifically immunoprecipitated proteins are indicated by an arrowhead .
+( B ) Quantitative determination of hemoglobin levels ( see Materials and methods ) in EpoR and EpoR ( R129C ) clones 3 days after shift to 42°C in insulin ( white bars ) or insulin plus recombinant hEpo ( 0.1 U/ml ) ( black bars ) .
+Normalized values ( hemoglobin level per 10° live cells at day 3 ) are plotted .
+( C ) Morphology and hemoglobin expression in one representative EpoR and EpoR ( R129C ) clones , 3 days after shift to 42°C in insulin or insulin plus hEpo .
+Cells were cytocentrifuged onto slides , stained with neutral benzidine plus histological dyes and photographed under blue light , to reveal histological details and staining for hemoglobin .
+Under these conditions , the oval , small erythrocytes exhibit dark staining .
+It should be noted that the morphology of the erythrocytes obtained from EpoR ( R129C ) -expressing cells was slightly abnormal , containing a majority of spindle-like cells .
+The bar diagrams provide a quantitative evaluation of the stage of erythroid maturation in Ins + hEpo .
+The frequency of immature erythroblasts is shown as white sectors , early reticulocytes as light gray sectors , late reticulocytes as dark gray sectors and mature erythrocytes as black sectors .
+Expression of EpoR { ( R129C ) in avian primary erythroid progenitors Mice infected with a retrovirus encoding EpoR ( R129C ) develop erythrocytosis and splenomegaly in a way similar to the pre-leukemic phase of SFFV-induced erythroleukemia ( Longmore and Lodish , 1991 ) .
+Therefore , we first analyzed the consequences of the expression of the constitutively dimerized EpoR ( R129C ) in avian primary erythroid progenitors .
+EpoR ( R129C ) or wild-type mouse EpoR ts-v-Sea clones were generated as described in Materials in methods and shown to express a similar level of the expected EpoR or EpoR ( R129C ) proteins ( Figure 2A ) .
+In addition , binding assays and Scatchard analysis using **I-labeled recombinant human Epo ( hEpo ) showed that both EpoR and EpoR ( R129C ) clones expressed physiological numbers of receptors at their cell surface ( 250-500 receptors molecules per cell ; K , = 0.33 nM and data not shown ) .
+We noticed that methylcellulose colonies obtained with EpoR ( R129C ) were clearly larger than those expressing wild-type EpoR .
+To verify that EpoR ( R129C ) could indeed confer a proliferative advantage to ts-v-Sea erythroblasts , EpoR ( R129C ) and EpoR clones were expanded in liquid cultures at 37°C and their proliferation rates in the absence of hEpo were compared by daily cell counting .
+The outgrowth of EpoR ( R129C ) clones was significantly faster than that of EpoR clones ( data not shown ) .
+This indicates that , in accordance with the results obtained in several myeloid cell lines ( Yoshimura et a/. , 1990 ; Miura et al. , 5642 1994 ; Shikama et al. , 1996 ) , EpoR ( R129C ) confers a proliferative advantage to avian primary erythroid progenitors .
+In order to analyze whether EpoR ( R129C ) is able to induce differentiation , clones of ts-v-Sea erythroblasts expressing EpoR ( R129C ) were shifted to 42°C in the presence of hEpo .
+Under these conditions , ts-v-Sea erythroblasts expressing the wild-type mouse EpoR are induced to terminally differentiate within 3-4 days in response to hEpo ( Steinlein et a/. , 1994 ) .
+Three days after differentiation induction , EpoR ( R129C ) clones also differentiated into mature erythrocytes in response to hEpo ( Figure 2C ) , showing highly elevated hemoglobin levels ( Figure 2B ) .
+Terminal differentiation of these cells was accompanied by the 2-4 cell divisions which normally characterize Epo-induced differentiation of erythroblasts [ Figure 6 , inset in the EpoR ( R129C ) panel ] .
+This response was specific for the exogenous expression of murine EpoR , since control ts-v-Sea clones failed to accumulate hemoglobin in response to hEpo ( Steinlein et al. , 1994 ; and data not shown ) .
+Both EpoR- and EpoR ( R129C ) -expressing erythroblasts failed to form mature erythrocytes in the absence of hEpo , undergoing cell disintegration instead ( Figure 2C ) .
+In fact , the absence of hEpo rapidly committed both types of cells to undergo apoptosis , as shown by the accumulation of terminal deoxynucleotidyl transferase ( TdT ) -positive cells in TUNEL assays , 18 h after shift to 42°C ( Figure 3D , and data not shown ) .
+In line with the well known anti-apoptotic EpoR and Spi-1 in erythroblast transformation A & < > D ye§5° © o* .
+poe ?
+of X EpoR ( R129C ) __ EpoR ( R129C ) /ts p53 - EpoR ( R129C ) /Spi ) « L0 \ .33 '' § 8 E -p po & _ & s * 3 __ g j * « `` ' « * '' < r 102 3 4 5 67 8 ir = =- & ae `` aa - ‘ -- dilits = | -- a g | \ anti-EpoR anti- p53 anti-Spi g 7 Fifi ) , i 355275 ” # - -- - » B Hemoglobin level propidium iodide a 8 2 0 Ins % % & * ® Ins + hEpo fa Ko .
+f fpfﬁ ‘ # : L ¥ « é , « ¢ q* 8 & C ; & C < - & *p TH ._ & g '' « ° a4 cn 88 D12 ﬁﬁo ﬁﬂq € € EpoR ( R129C ) /ts p53 - EpoR ( R129C ) /Spii Puc ‘ bcl-2 C Ins Ins + hEpo Ins Ins + hEpo “ ti '.- + $ 17 k. m 49 : `` a ~ a= ; +4 * % | Ins Ins + hEpo f 4 '' a ' - | ( `` ~* ¥ ® a ‘ g & f | # a .
++* | % y L + `` am 8 3.111 e . '
+g EpuRleZ ‘ JCNKE p33 EpoR ( R129C ) /Spi boc -- -0 % 100 % 0 % 100 % Fig .
+3 .
+Spi-1 , but not mutant p53 , induces increased cell survival and inhibition of terminal differentiation of EpoR ( R129C ) erythroblasts .
+Clones of ts-v-Sea erythroblasts expressing EpoR ( R129C ) /ts p53 or EpoR ( R129C ) /Spi-1 were analyzed at 42°C for their ability to differentiate in response to hEpo .
+( A ) Immunoprecipitation analysis of the proteins in representative EpoR ( R129C ) /ts p53 and EpoR ( R129C ) /Spi-1 clones and control ts-v-Sea erythroblasts , using the anti-EpoR antibody ( lanes 1-3 ) , the anti-p53 antibody ( lanes 4 and 5 ) and the Spi-1 specific antibody ( lane 6-8 ) .
+In lane 8 , an excess of the nominal GST-Spi-1 immunogen was included as specific competitor .
+Specifically immunoprecipitated proteins are indicated by arrowheads .
+( B ) Quantitative determination of hemoglobin levels in EpoR ( R129C ) /ts p53 and EpoR ( R129C ) /Spi-1 clones 3 days after shift to 42°C in insulin ( white bars ) or insulin plus recombinant hEpo ( 0.1 U/ml ) ( black bars ) .
+Normalized values ( hemoglobin level per 10° live cells at day 3 ) are plotted .
+( C ) Stained cytospins ( see legend to Figure 2 ) are from representative EpoR ( R129C ) /ts p53 and EpoR ( R129C ) /Spi-1 clones 3 days after shift to 42°C , cultivated in the absence or presence of hEpo .
+Note the presence of maturing cells and erythrocytes in the EpoR ( R129C ) /ts p53 clone ( small , dark , oval cells ) whereas the immature erythroblasts present in the EpoR ( R129C ) /Spi-1 clone show large , round cells weakly or not stained for hemoglobin ( see black arrow ) .
+The white arrow in the Ins panel points to a dead cell , whereas a similar white arrow in the Ins + hEpo panel indicates an erythrocyte .
+Evaluation of the maturation stage in Ins + hEpo is shown as a bar diagram .
+The frequency of immature erythroblasts is shown as white sectors , early reticulocytes as light gray sectors , late reticulocytes as dark gray sectors and mature erythrocytes as black sectors .
+( D ) ts-v-Sea erythoblast clones expressing EpoR ( R129C ) , EpoR ( R129C ) /ts p53 or EpoR ( R129C ) /Spi-1 were cultivated at 42°C in differentiation medium containing insulin , but no hEpo .
+After 18 h , cells were collected and subjected to the TdT/propidium iodide ( PI ) assay for detection of apoptotic cells ( see Materials and methods ) .
+PI staining quantitates cellular DNA content , and in sifu labeling of DNA ends by fluorescein-12-dUTP using TdT assesses apoptosis .
+Discrimination between the various cell cycle stages as well as between apoptotic and healthy cells is depicted in the left panel .
+Percentages of apoptotic cells are indicated at the bottom of each panel .
+( E ) be/-2 RT-PCR analysis in EpoR ( R129C ) - and EpoR ( R129C ) / Spi-l-expressing erythroblasts .
+RT-PCR products were analyzed on a 2 % agarose gel containing ethidium bromide .
+The expected fragment of 159 bp as well as the 75 bp fragment for the control mRNA encoding ribosomal protein S17 are indicated by a black and a gray arrow , respectively .
+properties of Epo ( for review , see Koury and Bondurant , 1992 ) , survival of EpoR- and EpoR ( R129C ) -expressing erythroblasts was rescued in the presence of hEpo ( data not shown ) .
+These results indicated that in the presence of hEpo , expression of EpoR ( R129C ) , like that of wild-type EpoR , leads to terminal differentiation of avian primary erythroblasts .
+The expression of Spi-1 in EpoR ( R129C ) erythroblasts confers increased survival of erythroid progenitors impaired in their differentiation During the course of SFFV-induced erythroleukemia , Spi-1 overexpression and deletion or mutation of p53 occur in erythroblasts already expressing a gp55-activated form of the EpoR .
+It is unclear , however , whether Spi-1 , mutant p53 and the activated EpoR function independently of each other , or whether they have to cooperate to deregulate the proliferation and differentiation control of erythro- blasts .
+We therefore analyzed whether the expression of either ts p53 or Spi-1 could modify the proliferation and differentiation control of EpoR ( R129C ) erythroblasts .
+ts-v-Sea erythroblast clones expressing either EpoR ( R129C ) /ts p53 or EpoR ( R129C ) /Spi-1 were generated as outlined above ( see Material and methods and Figure 1A ) and shown to express the expected proteins ( Figure 3A , and data not shown ) .
+After shift to 42°C , several clones were analyzed for survival , proliferation and differentiation .
+In the absence of hEpo , EpoR ( R129C ) /ts p53 erythroblasts rapidly ceased to proliferate and rapidly lost viability .
+The latter is evidenced by the high numbers of TdT-positive , apoptotic cells within 18 h after shift to 42°C ( Figure 3D ) and by the absence of live cells after 3 days ( Figure 3C , Ins panel ) .
+In the presence of hEpo , however , these clones accumulated high levels of hemoglobin ( Figure 3B ) and differentiated into mature erythrocytes ( Figure 3C ) .
+Thus , EpoR ( R129C ) /ts p53 erythroblasts behaved essentially similarly to control erythroblasts expressing only EpoR ( R129C ) ( compare 5643 C.Tran Quang et al .
+A & GR. ‘ Q ‘ Q ‘ f ’ ﬁq P a “ ?
+> C QON ’ “ 19d : t xﬁf ’ d Co Q-SSL 06° } 0 ? “ th yo £33 '' « & '' ° is : 8 '' < % 1 2 3 4 5 6 7 anti-EpoR anti- p53 anti-Spi + GST-Spi B C Hemoglobin level a 8 € 6 al o Ins is : 4 @ Ins + hEpo % : o 0 4 B2 B11 D EpoR ( R129C ) /Spi EpoR ( R129C ) /tsp53/Spi | fluorescein-12-dUTP propidium iodide Fig .
+4 .
+Mutant p53 cooperates with EpoR ( R129C ) and Spi-1 to tightly block apoptosis and arrest differentiation in erythroid progenitors .
+Clones of ts-v-Sea erythroblasts expressing EpoR ( R129C ) /ts p53/Spi-1 were analyzed at 42°C for their ability to differentiate in response to hEpo .
+( A ) Immunoprecipitation analysis of the proteins in representative EpoR ( R129C ) /ts p53/Spi-1 and control ts-v-Sea erythroblast clones using antibodies to EpoR ( lanes 1 and 2 ) , p53 ( lanes 3 and 4 ) and Spi-1 ( lane 5-7 ) .
+In lane 7 , an excess of the nominal GST-Spi-1 immunogen was included as specific competitor .
+Specifically immunoprecipitated proteins are indicated by arrowheads .
+( B ) Quantitative determination of hemoglobin levels in two EpoR ( R129C ) /ts p53/Spi clones 3 days after shift to 42°C in insulin ( white bars ) or insulin plus recombinant hEpo ( 0.1 U/ml ! )
+( black bars ) .
+Normalized values ( hemoglobin level per 10° live cells at day 3 ) are plotted .
+( C ) Stained cytospins ( see legend to Figure 2 ) of a representative EpoR ( R129C ) /ts p53/Spi-1 clone are shown 3 days after shift to 42°C in either the absence ( Ins ) or presence ( Ins + hEpo ) of hEpo .
+Evaluation of the maturation stage in Ins + hEpo is shown as a bar diagram .
+The frequency of immature erythroblasts is shown as white sectors , early reticulocytes as light gray sectors , late reticulocytes as dark gray sectors and mature erythrocytes as black sectors .
+Note the completely immature , unstained large and round erythroblasts obtained under both conditions .
+( D ) ts-v-Sea erythoblasts clones expressing EpoR ( R129C ) /Spi-1 or EpoR ( R129C ) /ts p53/Spi-1 were cultivated at 42°C in differentiation medium containing insulin , but no hEpo .
+After 18 h , cells were collected and subjected to the TdT/PI assay for detection of apoptotic cells ( see legend to Figure 3D ) .
+Percentages of apoptotic cells are indicated at the bottom of each panel .
+Figures 2 and 3 ) .
+These results show that the expression of mutant p53 neither detectably rescued EpoR ( R129C ) erythroblasts from apoptosis in the absence of hEpo nor affected their ability to differentiate terminally in response to hEpo .
+In striking contrast to the above results , EpoR ( R129C ) erythroblast clones expressing Spi-l were found to be altered substantially in both their survival and differentiation properties .
+In the presence of hEpo , EpoR ( R129C ) / Spi-1 clones showed only a modest increase in their hemoglobin level ( < 2-fold ; Figure 3B ) as compared with the 2.5- to > 10-fold increase seen in EpoR ( R129C ) /ts p53- or EpoR ( R129C ) -expressing clones ( compare Figures 2B and 3B ) .
+Moreover , the vast majority of EpoR ( R129C ) / 5644 Spi-1 cells remained immature , as shown by their erythro-blastic morphology and their lack of benzidine staining ( black arrows , Figure 3C , Ins + Epo panel and data not shown ) .
+The block of differentiation induced by Spi-1 in EpoR ( R129C ) erythroblasts was , however , not complete , as shown by the occasional appearance of fully mature hemoglobinized cells ( white arrow in Figure 3C , Ins + hEpo panel ) .
+In addition to its inhibitory effect on hEpo-induced differentiation , the expression of Spi-1 was also found to enhance strongly the survival of EpoR ( R129C ) erythroblasts in the absence of hEpo .
+Indeed , in contrast to progenitors expressing EpoR ( R129C ) or EpoR ( R129C ) /ts p53 , EpoR ( R129C ) /Spi-1 cells retained a large proportion of healthy , immature cells in the absence of hEpo ( black arrow , Figure 3C , Ins panel ; compare with Figure 2C ) .
+This effect of Spi-1 on cell survival is also manifest by the reduction of TdT-positive , apoptotic cells in EpoR ( R129C ) /Spi-1 erythroblasts as compared with EpoR ( R129C ) cells ( Figure 3D ) .
+It is of note that the distribution of cells in G1 , S and G ; was roughly comparable between EpoR ( R129C ) and EpoR ( R129C ) /Spi-1 erythroblasts .
+Therefore , protection of EpoR ( R129C ) /Spi-1 erythroblasts from apoptosis is likely to be responsible for the modest increase in cumulative cell numbers observed under these conditions [ Figure 6A , compare EpoR ( R129C ) and EpoR ( R129C ) /Spi-1 panels ] .
+Ligand-induced activation of EpoR and cell survival of an erythroleukemic cell line have been shown recently to be associated with the expression of be/-2 ( Silva et al. , 1996 ) .
+We therefore analyzed the expression of bel-2 in EpoR ( R129C ) and EpoR ( R129C ) /Spi-1 erythroblast clones .
+Cells were shifted to 42°C in either the presence or absence of hEpo for 8 h and analyzed by RT-PCR for the expression of be/-2 .
+The results in Figure 3E show that in the absence of hEpo , a condition which leads to apoptosis , EpoR ( R129C ) erythroblasts fail to express a detectable level of bei-2 .
+In these cells , be/-2 expression was induced in response to hEpo ( Figure 3E ) .
+In contrast , EpoR ( R129C ) /Spi-1 erythroblasts expressed be/-2 irrespective of the presence or absence of hEpo ( Figure 3E ) .
+We conclude from these experiments that Spi-1 arrests hEpo-dependent differentiation of EpoR ( R129C ) erythroblasts and enhances their survival in the absence of hEpo and the up-regulation of be/-2 expression .
+Co-expressed EpoR ( R129C ) , ts p53 and Spi-1 completely arrest erythroblast differentiation and enhance their protection from apoptosis in the absence of hEpo We showed that expression of mutant p53 is by itself not sufficient to alter the survival and differentiation properties of EpoR ( R129C ) erythroblasts .
+However , the p53 gene is frequently mutated or deleted in Friend leukemic cells , suggesting an important role for the loss of p53 function in disease progression .
+We therefore analyzed whether mutant p53 could cooperate with Spi-1 to further modify the phenotype of EpoR ( R129C ) erythroblasts .
+ts-v-sea erythroblast clones expressing EpoR ( R129C ) /ts p53/Spi-1 were generated as described above ( Figure 1A ) .
+These clones expressed the expected proteins , as shown by immunoprecipitation analyses ( Figure 4A , and data not shown ) .
+After shift to 42°C , three representative EpoR ( R129C ) /ts p53/Spi-1 clones were analyzed for their response to hEpo deprivation or stimulation ( Figure 4B and C ) .
+Like EpoR ( R129C ) /Spi-1 cells , EpoR ( R129C ) /ts p53/Spi-1 erythroblasts showed enhanced survival in the absence of hEpo and were arrested in their differentiation in the presence of hEpo .
+Interestingly , however , both parameters were expressed in a much more pronounced fashion in EpoR ( R129C ) /ts p53/Spi-1 cells than in the EpoR ( R129C ) /Spi-1 cells ( compare Figure 4B and C with Figure 3B and C ) .
+For instance , EpoR ( R129C ) /Spi-1 populations always contained a mixture of immature and dead cells when maintained in the absence of hEpo .
+Additionally , these cells were only partially arrested in differentiation , as shown by their slightly elevated hemo- EpoR and Spi-1 in erythroblast transformation globin levels in the presence of hEpo and by the presence of a significant proportion of partially mature and mature cells .
+In contrast , EpoR ( R129C ) /ts p53/Spi-1 cells were viable in the absence of hEpo and consisted of a homogeneous population of immature erythroblasts which expressed particularly low hemoglobin levels ( Figure 4B and C ) .
+The enhanced protection of EpoR ( R129C ) /ts p53/ Spi-1 cells from apoptosis is also evident from the further reduction of TdT-positive cells following deprivation of hEpo as compared with EpoR ( R129C ) /Spi-1 cells maintained under similar conditions ( Figure 4D ) .
+We conclude from these experiments that Spi-1 and ts p53 cooperate to enhance the survival of EpoR ( R129C ) erythroblasts in the absence of hEpo and to arrest their hEpo-induced terminal differentiation tightly .
+Spi-1/ts p53-induced survival and differentiation arrest depends upon their specific cooperation with EpoR ( R129C ) Similarly to mice harboring a gp55 transgene ( Aizawa et al. , 1990 ) , mice infected with an EpoR ( R129C ) retrovirus develop a transplantable erythroleukemia several weeks after infection .
+However , no such activity was found upon exogenous expression of the wild-type EpoR ( Longmore and Lodish , 1991 ) .
+Therefore , we tested whether the cooperation of Spi-1l and ts p53 with EpoR ( R129C ) was specific for the mutant receptor or would also occur with the wild-type mouse EpoR .
+ts-v-Sea erythroblast clones expressing the expected EpoR/ Spi-1 or EpoR/ts p53/Spi-1 proteins ( Figure 5A ) were generated as outlined previously ( Figure 1A ) .
+Both types of clones were found to terminally differentiate in response to hEpo , as analyzed by the accumulation of high levels of hemoglobin ( 4- to > 10-fold ; Figure 5B ) and their differentiation into fully mature erythrocytes ( Figure 5C ) .
+In that respect , these clones are hardly distinguishable from clones expressing EpoR only ( compare Figure 5B and C with Figure 2B and C ) .
+As expected , clones co-expressing EpoR and ts p53 also underwent terminal differentiation in a fashion indistinguishable from those expressing EpoR ( data not shown ) .
+Similarly to clones expressing EpoR alone , both EpoR/Spi-1 and EpoR/ts p53/Spi-1 erythroblasts also failed to survive in the absence of hEpo .
+This was demonstrated both by the rapid appearance of high levels of TdT-positive , apoptotic cells upon hEpo deprivation ( Figure 5 , and data not shown ) and the presence of disintegrated cells at later times ( Figure 5C , Ins panel ) .
+We conclude from these experiments that the enhanced survival and the tight arrest of differentiation caused by the expression of Spi-1 and mutant p53 in primary erythroblasts require their specific cooperation with an activated form of the EpoR .
+Stem cell factor cooperates with EpoR ( R129C ) and Spi-1 to promote the proliferation of differentiation-arrested , hEpo-independent cells Thus far , we have demonstrated that the cooperation between EpoR ( R129C ) and Spi-1/ts p53 gave rise to cells that share certain properties with Friend erythroleukemic cells , i.e .
+their altered Epo-responsiveness .
+However , the primary cells described here do not undergo sustained proliferation , while bona fide Friend virus-transformed 5645 C.Tran Quang et al .
+A A < éﬁq dgﬁﬂ £ Cave & ®5Q® ‘ 5Q is '' ~ Gof ( Po ° 1 _ __2 3 4 5 6 7 .
+8 with Hilts | -a -= lls wou | -at anti-EpoR anti- p53 anti-Spi B Hemoglobin level a 6 § 4 E o Ins A 2 ® Ins + hEpo a C 0 4 B3 B9 C10 B2 C12 D10 EpoR/ts p53/Spi EpoR/Spi C Ins Ins + hEpo Ins Ins + hEpo EpoR/ts p53/Spi EpoR/Spi -- it -- f -i-0 % 100 % D E EpoR ( R129C ) /Spi EpoR/Spi Ta al § $ 1 : * || ory | es ?
+A & = propidium iodide Fig .
+5 .
+Wild-type EpoR is unable to cooperate with Spi-1 and mutant p53 in differentiation arrest and apoptosis inhibition .
+Clones of ts-v-Sea erythroblasts expressing EpoR/Spi-1 or EpoR/ts p53/Spi-1 were analyzed at 42°C for their ability to differentiate in response to hEpo .
+( A ) Immunoprecipitation analysis of the proteins in representative EpoR/Spi-1 and EpoR/ts p53/Spi-1 clones and a control ts-v-Sea-erythroblast clone was performed using antibodies to EpoR ( lanes 1-3 ) , p53 ( lanes 4 and 5 ) and Spi-1 ( lanes 6-8 ) .
+Specifically immunoprecipitated proteins are indicated by arrowheads .
+( B ) Quantitative determination of hemoglobin levels in EpoR/ts p53/Spi-1 and EpoR/Spi-1 clones , 3 days after shift to 42°C in insulin ( white bars ) or insulin plus recombinant hEpo ( 0.1 U/ml ) ( black bars ) .
+Normalized values ( hemoglobin level per 10° live cells at day 3 ) are plotted .
+( C ) Stained cytospins ( see legend to Figure 2 ) of representative EpoR/ts p53/Spi-1 and EpoR/Spi-1 clones are shown 3 days after shift to 42°C in either the absence ( Ins ) or presence ( Ins + hEpo ) of hEpo .
+Note the mature , oval , darkly stained erythrocytes in Ins + hEpo and apoptotic cells in Ins .
+The bar diagrams provide a quantitative evaluation of the stage of erythroid maturation in Ins + hEpo .
+The frequency of immature erythroblasts is shown as white sectors , early reticulocytes as light gray sectors , late reticulocytes as dark gray sectors and mature erythrocytes as black sectors .
+( D ) ts-v-Sea erythoblast clones expressing EpoR ( R129C ) /Spi-1 or EpoR/Spi-1 were cultivated at 42°C in differentiation medium containing insulin , but no hEpo .
+After 18 h , cells were collected and subjected to the TdT/PI assay for detection of apoptotic cells ( see legend to Figure 3D ) .
+Percentages of apoptotic cells are indicated at the bottom of each panel .
+erythroblasts are able to do so .
+A cytokine required for ligand activation of c-Kit could induce the proliferation proliferation and maturation of erythroid progenitors is of EpoR ( R129C ) /Spi-1 and EpoR ( R129C ) /ts p53/Spi-1 stem cell factor ( SCF ) , the ligand for the receptor tyrosine erythroblasts .
+kinase c-Kit ( SCF receptor ) .
+Since ts-v-Sea erythroblasts Erythroblast clones expressing EpoR ( R129C ) /Spi-1 or express c-Kit ( Beug et al. , 1995b ) , we analyzed whether EpoR ( R129C ) /ts p53/Spi-1 were shifted to 42°C in the 5646 A EpoR ( R1293C ) EpoR ( R129C ) /ts p53 EpoR/Spi 40 40 40 3 3 I 3 30 +4 30 23633 30 4 2 E 1 17 l lQ E 20 20 +0 ( amas 20 l o | , ___.. , .
+a O i | C | | 10 4 10 4 10 T | | | | | | , # 48 __| _ , ¢4 % % 4 , +48 _| 0 0 5 0 5 I '' pp o ¥ fa .~ .
+/ ) m * ® * % a* 4 th EpoR ( R129C ) /Spi - EpoR ( R129C ) /ts p53/Spi 40 - 40 30 pr -o- Ins E -a- Ins + hEpo a 20 { -o- Ins + SCF ﬂ -*- Ins + SCF + hEpo EpoR and Spi-1 in erythroblast transformation B s ‘ Ql ?
+pea ?
+3 8 C & « C ® 2 2 .J « R _ 48 es - O OP o£ ~- +O SCF _ -R- CIR ] antphosphotyrosine 48 hours after shift 5 hours after shift Fig .
+6 .
+Stem cell factor promotes cell proliferation of erythroblasts co-expressing EpoR ( R129C ) and Spi-1 .
+( A ) Erythroblast clones expressing the proteins indicated at the top of each panel were shifted to 42°C in the presence of four different combinations of factors .
+These were : ( i ) insulin ( Ins ) ; ( ii ) insulin plus recombinant hEpo ( Ins + hEpo ) ; ( iii ) insulin plus stem cell factor ( Ins + SCF ) ; and ( iv ) insulin plus hEpo plus SCF ( Ins + hEpo + SCF ) .
+Cells were maintained at densities between 1 and 4X 10° cells by proper dilution , counted daily using an electronic cell counter ( CASY , Schirfe System , Germany ) and cumulative cell numbers determined .
+To depict the slow growth of the first three cell types more accurately , respective growth curves were redrawn using an enlarged ordinate ( insets ) .
+Photographs of cytospins from these cells are shown below to demonstrate their stage of maturation after 3 days at 42°C in the presence of insulin , hEpo and SCF , .
+( B ) Cells from EpoR/Spi-1 or EpoR ( R129C ) / Spi-1 clones were shifted to 42°C in the presence of insulin plus hEpo .
+After 5 and 48 h , cells were either left untreated or were stimulated for 10 min with 1 ug/ml of SCF Cell extracts were prepared and subjected to Western blot analysis to determine either the levels of endogenous c-Kit expression , using a monoclonal antibody to chicken c-Kit , or the level of phosphorylated receptor , using the monoclonal anti-phosphotyrosine antibody 4G10 .
+Note that 5 h after shift to 42°C , both cell types express similar levels of c-Kit , which becomes phosphorylated in response to SCF stimulation .
+However , 48 h after shift , EpoR/Spi cells have completely down-regulated endogenous c-Kit while EpoR ( R129C ) /Spi-1 co-expressing cells still maintained high levels of functional c-Kit expression .
+presence or absence of SCF , and cell proliferation was monitored by daily cell counting .
+Control cells expressing EpoR ( R129C ) , as well as EpoR ( R129C ) /ts p53 and EpoR/ Spi-1 erythroblasts , were treated similarly .
+EpoR ( R129C ) / Spi-1 and EpoR ( R129C ) /ts p53/Spi-1 cells were found to proliferate in response to SCF ( Figure 6A , open circles ) .
+This proliferative response was found to be strictly dependent upon the expression of Spi-1 since neither EpoR ( R129C ) nor EpoR ( R129C ) /ts p53 erythroblasts were induced to self-renew in response to SCF ( Figure 6A , open circles ) .
+In addition , SCF-induced proliferation was dependent upon the cooperation of Spi-l - with EpoR ( R129C ) since erythroblasts expressing Spi-1 plus the wild-type EpoR failed to proliferate in SCF ( Figure 6A , open circles ) .
+To analyze whether hEpo activation of EpoR ( R129C ) would enhance SCF-induced proliferation or rather cause differentiation induction , EpoR ( R129C ) /Spi-1 and EpoR ( R129C ) /ts p53/Spi-1 erythroblasts were cultivated in the presence of hEpo and SCF .
+Under these conditions , both EpoR ( R129C ) /Spi-1 and EpoR ( R129C ) /ts p53/Spi-1 cells remained immature ( Figure 6A , lower panels ) and only a modest increase of their SCF-dependent proliferation was observed in response to hEpo ( Figure 6A , compare open and filled circles ) .
+In contrast , even in the presence of SCF , hEpo induced terminal differentiation of EpoR ( R129C ) , EpoR ( R129C ) /ts p53 and EpoR/Spi-1 erythroblasts , as shown by benzidine and histological staining of cytocentrifuged cells ( Figure 6A , lower panels ) .
+The lack of proliferation of erythroblasts which express either EpoR ( R129C ) alone or wild-type EpoR together with Spi-1 was not due to a defect in c-Kit expression .
+Indeed , 5 h after shift to 42°C , these cells expressed c-Kit at a level similar to that seen in SCF-responsive EpoR ( R129C ) /Spi-1 erythroblasts as analyzed by Western blot using a monoclonal antibody to avian c-Kit and by 5647 C.Tran Quang et al .
+EpoR ( R129C ) EpoR ( R129C ) /Spi @ ¥ U .
+% # s ® # Fig .
+7 .
+Spi-1 plus SCF induce the outgrowth of transformed colonies from EpoR ( R129C ) erythroblasts .
+Cells ( 1.5 % 10° ) of erythroblast clones expressing either EpoR ( R129C ) ( left panels ) or EpoR ( R129C ) / Spi-1 ( right panels ) were seeded in 4 ml of CFU-E-methocel medium containing insulin , hEpo and SCF .
+After 4 days at 42°C , colonies were photographed .
+Upper panels show a representative field of colonies grown from EpoR ( R129C ) - and EpoR ( R129C ) /Spi-1-expressing cells at low ( 13-fold ) magnification , while the lower panels show one typical colony from each cell type at a higher ( 66-fold ) magnification .
+its phosphorylation on tyrosine in response to SCF ( Figure 6B , and data not shown ) .
+However , while EpoR ( R129C ) and EpoR/Spi-1 erythroblasts completely lost c-Kit expression 48 h after shift to 42°C , EpoR ( R129C ) /Spi-1 erythroblasts maintained high level of c-Kit ( Figure 6B , and data not shown ) .
+Further evidence for the fact that cooperation with Spi-1 is required for SCF-induced proliferation of EpoR ( R129C ) erythroblasts was obtained in colony assays .
+EpoR ( R129C ) or EpoR ( R129C ) /Spi-1 erythroblasts were suspended in methylcellulose in the presence of insulin , hEpo and SCF and incubated at 42°C .
+While erythroblasts expressing EpoR ( R129C ) alone only formed small compact colonies in these conditions , - EpoR ( R129C ) /Spi-l-expressing erythroblasts formed large colonies consisting mainly of undifferentiated cells ( Figure 7 ) .
+Taken together , these results show that in EpoR ( R129C ) / Spi-1 and EpoR ( R129C ) /ts p53/Spi-1 erythroblasts , SCF-induced activation of c-Kit is sufficient to promote the rapid proliferation of differentiation-arrested erythroblasts and that the presence of hEpo does not affect this property significantly .
+Discussion The aim of the present study was to develop a heterologous biological system to analyze whether the molecular events characteristic of the late phase of Friend disease ( Spi-1 expression ; mutation of p53 ) cooperate with those specifying the pre-leukemic phase of the disease ( altered EpoR signaling ) to induce erythroblast transformation .
+Primary 5648 avian erythroblasts capable of self-renewal and differentiation in culture were employed for this purpose .
+We show here that the cooperation of Spi-1 with a constitutively dimerized mouse EpoR ( R129C ) : ( i ) interferes with the terminal differentiation program normally induced in these cells in response to hEpo ; ( ii ) enhances their survival by inhibiting the cell death program normally observed in these cells upon hEpo withdrawal ; and ( iii ) allows their proliferation in response to ligand-induced activation of the endogenous SCF receptor ( c-Kit ) .
+These effects are specific for the co-expression of Spi-1 with an activated form of the EpoR ( which resembles the EpoR modified by SFFV gp55 ) since they were not observed in erythroblasts co-expressing Spi-1 and the wild-type mouse EpoR .
+Finally , we show that mutant p53 , although devoid of a major role by itself , cooperates with Spi-1 to further enhance the survival and differentiation arrest of EpoR ( R129C ) -expressing erythroblasts .
+These phenotypes do not appear to be restricted to ts-v-Sea erythroblasts , since preliminary experiments using primary SCF/transforming growth factor- ( TGF ) progenitors ( Pain et al. , 1991 ; Hayman et al. , 1993 ) show that co-expression of EpoR ( R129C ) and Spi-1 also leads to a block in their hEpo-induced differentiation whereas EpoR/Spi-l-expressing clones differentiated terminally in these conditions ( C. Tran Quang , unpublished observations ) .
+Spi-1 function in survival , proliferation and differentiation of erythroid progenitors One important finding of our study is that the cooperation of Spi-1 with EpoR ( R129C ) profoundly modifies several aspects of the survival , differentiation and proliferation control of primary erythroblasts .
+This result reconciles the apparently contradictory observations previously made in different systems , which concluded that Spi-1 had a role in either erythroblast immortalization , proliferation or differentiation ( Schuetze et al. , 1993 ; Delgado et al. , 1994 ; Tran Quang et al. , 1995 ; Moreau-Gachelin et al. , 1996 ) .
+Furthermore , our data provide a rationale for the fact that the emergence of erythroblasts expressing Spi-1 only occurs as a late event , during the leukemic evolution of Friend disease .
+The pre-leukemic phase of Friend disease is invariably characterized by the massive expansion of otherwise normal erythroblasts caused by the alteration of EpoR signaling by the gp55 envelope glycoprotein of SFFV ( for review , see Kabat , 1989 ; Ben-David and Bernstein , 1991 ) .
+These studies did not resolve , however , whether alteration of EpoR signaling by gp55 is merely required to increase the size of a population of pre-leukemic cells prone to subsequent oncogenic alterations , or whether it also plays a role during the evolution towards a fully leukemic phenotype .
+Our observation that the changes in the response to both hEpo and SCF imposed by Spi-1 in primary erythroblasts is only observed upon its co-expression with EpoR ( R129C ) , but not when combined with the wild-type mouse EpoR agrees with the second hypothesis .
+Our results therefore favor a model in which the effects of Spi-1 on the survival , differentiation and proliferation control during the generation of leukemic erythroblasts also depend upon signaling events which are specific to activated forms of the mouse EpoR .
+Although this as well as other studies clearly establish an essential role for Spi-1 in erythroid cell transformation , the molecular mechanisms underlying its action are still unclear .
+Spi-1/Pu.1 binds to purine-rich sequences in the promoter/enhancer region of target genes to activate their expression ( for review , see Ghysdael and Boureux , 1997 ) .
+Besides its carboxy-terminal ETS domain responsible for specific DNA binding ( Klemsz et al. , 1990 ; Kodandapani et al. , 1996 ) , Spi-1 contains several non-redundant activation domains localized in its amino-terminal half ( Hagemeier et al. , 1993 ; Shin and Koshland , 1993 ; Klemsz and Maki , 1996 ) .
+In addition to its activity as a sequence-specific transcriptional activator , Spi-1 also functions as a transcriptional co-regulator through its interaction either with other cis- linked DNA-binding proteins ( Pongubala et al. , 1992 ; Eisenbeis et al. , 1993 ; Feinman et al. , 1994 ; Nagulapalli et al. , 1995 ) or in trans with other transcription factors ( Gauthier et al. , 1993 ; Weintraub et al. , 1995 ) .
+Experiments are in progress to analyze the activity of mutant forms of Spi-1 in order to investigate whether the various aspects of its cellular functions in our system rely on the same or separate functional domains of the protein and to identify the target genes involved in the different facets of its activity .
+We found no major difference in the expression of several transcriptional regulators known to play a pivotal role in erythropoiesis , including GATA1I , GATAZ2 and EKLE , in Spi-1/EpoR ( R129C ) erythroblasts as compared with control EpoR ( R129C ) -expressing cells .
+Spi-1 was found , however , to induce the expression of suggesting a role for the regulation of the Bcel-2 pathway in Spi-l-induced survival of EpoR ( R129C ) erythroblasts .
+bel-2 was , however , also up-regulated in EpoR/Spi-1-expressing erythroblasts , which die in the absence of hEpo ( C.Tran Quang , unpublished results ) .
+Therefore , the up-regulation of bei-2 can not by itself explain the enhanced survival observed in EpoR ( R129C ) /Spi-1 erythroblasts in the absence of hEpo .
+This indicates that EpoR ( R129C ) , either alone or in combination with Spi-1 , deregulates the expression and/or the activity of other components of the Bcl-2 pathway , or of a different pathway which cooperates with Bcl-2 to inhibit effectively the cell death program induced in response to hEpo withdrawal .
+Function of mutant EpoR ( R129C ) In contrast to its reported ligand-independent activation in other systems ( Yoshimura et al. , 1990 ; Pharr et al. , 1993 ) , avian primary erythroblasts expressing EpoR ( R129C ) still require hEpo to terminally differentiate .
+We found that erythroblasts co-expressing EpoR ( R129C ) and a phosphorylation mutant of Spi-1/Pu.1 [ PU.1 ( S148A ) Pongubala et al. , 1993 ] were able to survive and to differentiate even in the absence of hEpo ( C.Tran Quang , unpublished observations ) .
+This shows that EpoR ( R129C ) can induce ligand-independent differentiation of avian primary erythroblasts provided that the anti-apoptotic function of Spi-1 is expressed .
+It remains to be analyzed whether these requirements rescue the inefficient coupling of unliganded EpoR ( R129C ) to signaling pathways preventing apoptosis , or relieve an antagonism between its ligand-independent self-renewal and differentiation-inducing properties in primary erythroblasts .
+The effects of Spi-1 on the survival , differentiation and proliferation control of erythroblasts depends upon its co-expression with EpoR ( R129C ) .
+Therefore , the constitutive EpoR and Spi-1 in erythroblast transformation and/or altered signaling properties of EpoR ( R129C ) presumably control the expression or the activity of other proteins to dictate the cellular outcome of Spi-1 expression .
+These proteins could be components of a Spi-1-dependent pathway or may regulate directly the activity of Spi-1 itself , e.g .
+by altering its phosphorylation .
+Indeed , Spi-1/ PU.1 is a phosphoprotein ( Pongubala et al. , 1993 ) and certain aspects of its physiological function in B cells and macrophages critically depend upon its phosphorylation on specific serine residues ( Pongubala et al.,1993 ; Celada et al. , 1996 ; Lodie et al. , 1997 ) .
+Normal , ligand-induced activation of EpoR is coupled to the transient activation of Janus protein tyrosine kinase 2 ( JAK2 ) , followed by the phosphorylation of several tyrosine residues in its intracellular domain and the subsequent activation of a variety of intracellular signaling pathways including the RAS/MAPKinase pathway , the PI3 kinase pathway and transcriptional factors of the STAT family ( for review , see Thle , 1995 ) .
+Little information is available regarding the differences between normal EpoR signaling and the signaling events which result from its interaction with gp55 or from its constitutive dimerization in EpoR ( R129C ) .
+It is of importance to note that the cellular outcome of the interaction of EpoR with the gp55 of SFFV-A and SFFV-P is distinct ( Hankins , 1980 ; Hankins et a/. , 1980 ; for review , see Kabat , 1989 ; Ruscetti et a/. , 1990 ; Li and Baltimore , 1991 ) , a difference which is likely to reflect either qualitative or quantitative signaling properties of the EpoR activated by the different gp55s .
+Ectopic expression of EpoR ( R129C ) in several factor-dependent myeloid cell lines has been shown to result in the low , constitutive activation of JAK2 as well as DNA binding of several members of the STAT family of transcriptional regulators , while coupling to ERKs was found to be inefficient ( Miura et al. , 1994 ) .
+Gp55/EpoR signaling in leukemic Friend cells also results in the constitutive activation of STAT1 , STAT3 and STATS and of the ERK pathway ( Ohashi et al. , 1995 ; S.Ruscettti , personal communication ) .
+Because of its heterologous nature , our biological system is particularly well suited to analyze whether cooperation of Spi-1 with mutant forms of EpoR ( R129C ) depends upon the sustained activation of signaling pathways normally activated only transiently following ligand-induced activation of EpoR and/or upon the activation of qualitatively distinct signaling events , specific to constitutively activated forms of EpoR .
+Role of c-Kit The impaired erythropoiesis in mice bearing a c-Kit mutation at the White spotting ( W ) locus and the analysis of the response of human , mouse and chicken erythroid progenitors to SCF-activated c-Kit indicate an important role for this factor in their early maturation , in particular at the BFU-E to CFU-E transition ( Gregory and Eaves , 1978 ; Nocka et al. , 1989 , 1990 ; Hayman et al. , 1993 ; Muta and Krantz , 1993 ) .
+The only detectable effect of SCF on ts-v-Sea erythroblasts harboring either mouse EpoR or EpoR ( R129C ) is a slight retardation of their hEpo-induced differentiation ( C. Tran Quang , unpublished observations ) .
+In contrast , expression of Spi-1 in EpoR ( R129C ) erythroblasts was found to induce the self-renewal of these cells in response to SCF , a response 5649 C.Tran Quang et al .
+which is linked to the differentiation arrest induced by Spi-1 since it is not observed in EpoR/Spi-1 erythroblasts .
+The SCF-dependent proliferation of EpoR ( R129C ) / Spi-1 erythroblasts could be caused by at least two scenarios .
+We observed that in conditions which normally induce its down-regulation , c-Kit expression was maintained in erythroblasts co-expressing EpoR ( R129C ) and Spi-1 ( Figure 6B ) .
+The simplest explanation is , therefore , that the SCF-induced proliferation of these cells results from the maintenance of c-Kit expression in differentiation-blocked erythroblasts .
+In addition , cooperation of EpoR ( R129C ) and Spi-1 may also alter c-Kit intracellular signaling or its consequences to induce erythroblast proliferation .
+A specific cooperation between EpoR ( R129C ) and ligand-activated c-Kit was also observed in mouse fetal liver cells , resulting in the emergence of granulocyte and macrophage colonies ( Pharr et al. , 1993 ) .
+This is not surprising in the light of the results presented here , since myeloid cells express high levels of Spi-1/PU.1 and require this transcription factor for their normal development ( Scott et al. , 1994 ; Celada et al. , 1996 ; McKercher et al. , 1996 ) .
+It has long been known that several host genes control the susceptibility of mice to leukemia induction by the Friend virus .
+In particular , mutations at the W locus or at the SCF-encoding Steel locus ( $ §/ ) , strongly reduce the susceptibility of mice to SFFV-induced erythroleukemia ( for review , see Teich et al. , 1982 ; Ben-David and Bernstein , 1991 ) .
+Since mice carrying either W or S/ mutations have reduced numbers of erythroid progenitors , their resistance to SFFV may merely reflect a reduction in the number of target cells for Friend virus transformation .
+Our results show that the proliferation of EpoR ( R129C ) erythroblasts requires both the expression of Spi-1 and ligand activation of endogenous c-Kit .
+This suggests that the altered expression of Spi-1 as it occurs during the course of the leukemic phase of Friend disease may identify a step at which activation of the c-Kit signaling pathway is required for the proliferation of leukemic blasts and disease progression .
+This dependence upon c-Kit signaling is , however , likely to be a transient property in the evolution of Friend disease since leukemic clones can emerge which are not dependent on c-Kit function for their proliferation ( Mager et al. , 1981 ) .
+Role of mutant p53 In line with previous studies which showed that p53 function is not essential for hematopoietic cells to undergo apoptosis in response to cytokine withdrawal ( Lotem and Sachs , 1993 ; Gottlieb et al. , 1994 ; Canman et al. , 1995 ) , EpoR and EpoR ( R129C ) erythroblasts expressing the mutant p53 ( V135A ) failed to survive in the absence of hEpo .
+In contrast , expression of p33 ( V135A ) in EpoR ( R129C ) /Spi-1 erythroblasts further enhanced the independence of these cells toward Epo , resulting in a tight block of apoptosis and terminal differentiation in response to hEpo withdrawal or stimulation , respectively .
+It therefore appears that as the result of their reprograming by Spi-1 , EpoR ( R129C ) /Spi-1 erythroblasts become more critically dependent upon a p53-dependent pathway for their response to hEpo .
+It is of note that reintroduction of a wild-type p53 in a Friend leukemia cell line was also found to induce hemoglobinization and to restore its 5650 dependence on Epo for survival ( Johnson et al. , 1993 ) .
+Loss of function or mutation of p53 has generally been linked to immortalization of mouse fibroblasts ( Levine et al. , 1991 ) .
+It is also a common event during the generation of immortalized hematopoietic lines of murine and human origin ( Beug et al. , 1995a ) .
+Even in chicken cells , the exceedingly rare immortalization of fibroblastic and hematopoietic cells was almost invariantly associated with loss or mutation of p53 ( Ulrich et al. , 1992 ) .
+Thus , the frequent alterations seen during the development of Friend leukemia may well be simply associated with immortalization itself ( for review , see Johnson and Benchimol , 1992 ) .
+However , our results suggest that mutation of p53 is also likely to have an earlier , immortaliz-ation-independent effect on the differentiation and survival control of EpoR ( R129C ) /Spi-l-expressing cells .
+In line with this , mutations of p53 observed in some established Friend cell lines were found to correspond to those seen in the primary leukemic cells from which they were derived ( Mowat et al. , 1985 ; Chow et al. , 1987 ; Ben-David et al. , 1990 ; Munroe et al. , 1990 ) .
+An immortalization-independent function of mutant p53 in leukemia would also explain the relatively frequent p53 mutations in human leukemia , the cells of which are , as a rule , not immortalized .
+Materials and methods CRNCM- and RCAS-derived retroviral constructs and generation of the corresponding viruses cDNAs encoding either EpoR , EpoR ( R129C ) , Spi-1 or ts p53 were inserted into the pCRNCM retroviral vector ( Steinlein et al. , 1994 ) , 3 '' of the CMV promoter .
+For this , a 1.55 kb fragment encoding the entire mouse EpoR ( R129C ) protein ( a generous gift of Dr H.Lodish ) , originally cloned at the KpnI site of the pXM plasmid , was inserted at the KpnI site of pUC19 .
+An EcoRI-StyI fragment containing the EpoR ( R129C ) -encoding fragment was generated from the pUC19 intermediate and subcloned into EcoRI- and Xbal-digested pCRNCM vector .
+The retroviral constructs encoding the wild-type mouse EpoR , ts p53 ( V135A ) and Spi-1 have been described previously ( Steinlein et al. , 1994 ; Tran Quang et al. , 1995 ) .
+To achieve the co-expression of ts p53 and Spi-1 , the respective cDNAs were inserted on either side of an IRES sequence and the resulting cassette cloned downstream of the CMV promoter of pCRNCM .
+For that , a Pviull-Bgill fragment of pCITE2a ( Novagen ) encoding the EMC virus IRES element ( Elroy-Stein et al. , 1989 ) was inserted between the Smal and Bg/lI sites of a modified Cla12 adaptator plasmid to yield Clal2 IRES .
+Clal2 was modified by insertion of a linker oligonucleotide providing the following restriction sites : Clal , EcoRI , Xbal , Smal , Bgill , Nofl , HindIII , Clal .
+An EcoRI fragment containing the complete hSpi-1 cDNA was cloned into an EcoRI digested M13 mp18 plasmid and mutated using the oligonucleotide 5 ' GCACGCCTGTAACACCATGGCGGGCTCCGAG 3 ' and the Sculptor in vifro mutagenesis system ( Amersham ) , to introduce an Neo !
+site at the ATG start codon of Spi-1 .
+An EcoRI-Apal fragment encoding the full-length Spi-1 protein but which removed a potential polyadenyl-ation site was then subcloned into a previously described pUC19 derivative ( Tran Quang ef al. , 1995 ) .
+This plasmid was subjected to partial Neo !
+digestion and complete BamHI digestion , and the Ncol-BamHI fragment encoding Spi-1 was inserted into Ncol- and Bgill-digested Clal2 IRES , resulting in the in-frame insertion of Spi-1 , downstream of the IRES sequence , to generate Clal2IRES-Spi-1 .
+The EcoRI-Xbal cDNA fragment encoding ts p53 ( V135A ) of pSP65-ts p53 ( V135A ) ( Tran Quang et al. , 1995 ) was next inserted into EcoRI and Xbal-digested Clal2IRES-Spi-1 .
+The resulting ts p53-IRES-Spi-1 cassette was excised by Clel digestion and inserted into Clal-digested pCRNCM .
+To generate RCAS-A derivatives encoding mouse EpoR or EpoR ( R129C ) , the EcoRI-Xbal cDNA fragment encoding EpoR and the EcoRI-Styl cDNA fragment encoding EpoR ( R129C ) were subcloned into EcoRI- and Xbal-digested Clal2 adaptator plasmid .
+The resulting plasmid was then digested with Clal and the respective fragments cloned at the Clal site of the pRCAS-A , downstream of the 3 ' splice acceptor site .
+To generate infectious retroviruses from the respective vectors , 15 ug of purified vector DNA from each of the pCRNCM derivatives were mixed with 2.5 ug of vector DNA from either empty RCAS-A helper plasmid or from the RCAS derivatives encoding mouse EpoR or EpoR ( R129C ) .
+The DNA mixture were then transfected into primary chicken fibroblasts using the calcium phosphate co-precipitation method .
+After 48 h , transfected and infected cells were selected for neomycin resistance by cultivation in Dulbecco 's modified Eagle 's medium supplemented with 10 % fetal calf serum and 2 % chicken serum in the presence of 0.4 mg/ml of G418 ( Gibco ) .
+All retroviral vector combinations depicted in Figure 1 were generated by this approach .
+Metabolic labeling and immunoprecipitation analyses A total of 3X10° fibroblasts or 10 '' erythroblasts of selected clones were incubated for 10 min in methionine and cysteine-free Eagle 's medium ( Flow Laboratories ) supplemented with 1 mM glutamine .
+Cells were centrifuged , suspended in 1 ml of this medium containing 500 uCi of an L— [ 3SS ] methionine/L— [ 3SS ] cysteine mixture ( Amersham ) and labeled for 1 h at 37°C .
+Cells were then diluted in ice-cold phosphate-buffered saline ( PBS ) , spun down and lysed in 3 ml of lysis buffer [ 10 mM Tris-HC ] pH 7.4 ; 0.1 M NaCI ; 0.001 M EDTA ; 1 % Triton X-100 ; 0.5 % sodium deoxycholate ; 0.1 % SDS ; 1 % aprotinin ; 100 ug/ml phenylmethylsulfonyl fluoride ( PMSF ) ; 10 ug/ml leupeptin ] .
+After lysis for 10 min on ice , lysates were centrifuged at 100 000 g for 30 min .
+Immunoprecipitation analyses were performed as described previously ( Tran Quang ef al. , 1995 ) and immunoprecipitates electrophoresed in a polyacrylamide gel in the presence of 0.1 % SDS , followed by fluorography of the dried gel .
+The antisera used included a rabbit polyclonal Spi-1 antiserum or , as a control , the same antiserum blocked by an excess of its nominal antigen ( Tran Quang et al. , 1995 ) , a rabbit polyclonal EpoR antiserum directed against the carboxy-terminal part of the receptor ( a generous gift of Dr H.Lodish ) and a monoclonal antibody to p53 ( mAb122 ) ( a generous gift of Dr P.May ) .
+Generation of ts-v-Sea bone marrow cells co-infected with the various recombinant viruses An enriched population of erythroid progenitors was obtained following cultivation of freshly prepared bone marrow cells from 5- to 12-day-old SPAFAS chicks for 2 days in modified CFU-E medium ( Glineur et aZ. , 1990 ) supplemented with 100 ng/ml recombinant chicken SCF , 5 ng/ml TGFQ ( Promega ) , 1 1M estradiol ( Sigma ) and 1 M dexamethasone ( Sigma ) as previously described ( Wessely et al. , 19972 ; Hayman et al. , 1993 ) .
+These cells were doubly infected with the $ 13 virus encoding the temperature-sensitive ts-v-Sea protein kinase ( Knight et al. , 1988 ) together with one of the recombinant viruses described above ( see Figure 1 ) .
+Specifically , double infections were carried out by co-cultivating erythroblast cultures with mitomycin C-treated fibroblasts producing the respective viruses .
+After 48 h , infected erythroblasts were seeded in CFU-E-methocel supplemented with SCF , insulin and 2.7 mg/ml of G418 .
+After 5-7 days at 37°C , the doubly infected erythroblast colonies were picked , expanded in CFU-E medium containing SCF and insulin ( Novo-Nordik ) and analyzed by Northern blot for the expression of the cDNAs encoded by the recombinant viruses .
+Only positive clones were analyzed further for protein expression and phenotypic properties .
+Differentiation induction and assays for erythroid differentiation parameters Differentiation induction .
+Erythroblast clones previously shown to express the proteins under study were seeded at 1.5 % 10° cells/ml in differentiation medium ( Kowenz et al. , 1987 ) and incubated at 42°C .
+Factors added were ( i ) 1.4 nM insulin ( Ins ) , ( ii ) a combination of insulin and recombinant hEpo ( 0.1 U/ml ! )
+( Ins + hEpo ) , ( iii ) a combination of insulin and 100 ng/ml of SCF ( Ins + SCF ) or , ( iv ) a combination of insulin , SCF and hEpo ( Ins + SCF + hEpo ) .
+Live cells ( as determined by their size ) were counted daily in an electronic cell counter ( CASY , Schiarfe-system , Germany ) and maintained at densities between 10° and 2X10 % /ml by daily medium addition or partial medium change plus re-addition of the respective cytokines .
+Human recombinant Epo was a generous gift of Janssen-Cilag .
+Photometric hemoglobin assay .
+Three 50 ul aliquots were collected each day from each of the various differentiation-induced cells and transferred to V-bottom shaped microtiter plates .
+Cells were washed twice in PBS and lysed for 20 min in 20 ul of H ; O at 4°C .
+Then 125 jil of developing agent ( 0.5 mg/ml O-phenylenediamine in 0.1 M citrate/phosphate buffer , pH 5 , containing 1 pil/ml of H ; O ; ) was added to each well and the color reaction was allowed to develop in the dark .
+Then 25 pl of 8 M sulfuric EpoR and Spi-1 in erythroblast transformation acid was added to stop the color reaction .
+Absorbance was measured at 492 nm in an ELISA photometer .
+For each time point of the analysis , absorbance values were normalized to live cell numbers as counted that day .
+Morphological and histochemical staining .
+Aliquots ( 100 pl ) of differentiation-induced cells were cytocentrifuged onto slides and stained with neutral benzidine plus histological dyes ( Diff-Quik ) as described earlier ( Beug et al. , 1982 ) .
+Images were taken using a CCD camera ( Photometrics ) and a blue filter ( 480 nm ) , so that mature cells appear darkly stained .
+Images were processed with Adobe Photoshop .
+The proportion of cells at different maturation stages [ erythrocytes ( Ery ) , late reticulocytes ( LR ) , early reticulocytes ( ER ) and erythroblasts ( Ebl ) as defined in Beug ef al .
+( 1982 ) ] was determined by microscopic evaluation of the cytospin preparation ( at least 300 cells were evaluated in each determination ) .
+Binding of [ `` * '' `` LLabeled hEpo ( 30-60X10 % c.pm./ug ) , a generous gift from Dr P.Mayeux ( ICGM , Paris ) , was obtained by the Iodogen labeling pro-cedure .
+Epo binding experiments and Scatchard analyses were performed as previously described ( Mayeux et al. , 1990 ) .
+Flow cytometry Erythroblast clones were analyzed for apotosis and cell cycle distribution using a TdT/propidium iodide ( PI ) assay ( Gorezyca , 1993 ) .
+Cells ( 3X 10° ) were deprived of hEpo for 18 h at 42°C , fixed in 5 ml of PBS containing 1 % formaldehyde and permeabilized in 70 % ethanol .
+Apoptotic DNA fragments were then end-labeled in situ with fluorescein-12-dUTP by TdT using the Apoptosis Detection system ( Promega ) .
+Cells were counterstained with 5 ug/ml PI ( Sigma ) containing 250 ug/ml DNase-free RNase A ( Sigma ) and analyzed on a FACScan flow cytometer ( Becton Dickinson ) .
+A total of 4000 events were collected .
+Immunoblot analysis Erythroblasts were deprived of SCF by incubation at 42°C in the presence of both insulin and hEpo .
+Aliquots of each cultures were collected 5 and 48 h after shift and either left untreated or stimulated with 1 ug/ml of SCF for 10 min .
+A total of 2X10° cells were lysed in 20 pul of lysis buffer ( 50 mM Tris-HCI pH 8.0 ; 100 mM NaCl ; 1 % Triton-X-100 ; 1 % aprotinin ; 100 ug/ml PMSF ; 1 mM Na orthovanadate ) .
+Cell lysates were then centrifuged at 14 000 r.p.m .
+for 10 min and the supernatants collected .
+Cell extracts corresponding to equivalent cell numbers were subjected to electrophoresis in an 8 % polyacrylamide gel in the presence of SDS .
+After electrotransfer onto Immobilon-P membranes , equivalent loading was confirmed by Ponceau Red staining ( Sigma ) .
+Blots were blocked as previously described ( Crowe and Hayman , 1991 ) and incubated overnight with either a monoclonal antibody to chicken c-Kit ( a generous gift of Dr M.Hayman ) or with the monoclonal anti-phosphotyrosine antibody 4G10 ( UBI ) .
+After washing , blots were incubated with horseradish peroxidase-conjugated secondary antibody ( Amersham ) for 1 h before adding ECL substrate solution and exposing to Kodak X-Omat film .
+RNA expression analysis by RT-PCR Total RNA of erythroblasts shifted to 42°C for 8 h in the presence or absence of hEpo was prepared by the guanidinium thiocyanate extraction method .
+To assess mRNA expression of be/-2 , RT-PCR was used .
+The cDNAs were synthesized using the first strand cDNA synthesis kit ( Amersham ) with the manufacturers 's random primers .
+The generated cDNA products were amplified using Taq polymerase and the following primers : bel-2 5° primer TGGACAACATTGCCACCTGG ; bel-2 3 ' primer : AGGCTCAGGATGGTCTTCAG .
+A control RT-PCR was realized in parallel using the following primers specific for the RNA encoding ribosomal protein $ 17 ( 5 ' primer : TACACCCGTCTGGGCAACGAC ; 3 ' primer : CCGCTGGATGCGCTTCATCAG ) .
+Amplification conditions were : denaturation for 4 min at 94°C followed by 10 amplification cycles ( 1 min 94°C , 1 min 70°C , 1 min 75°C ) and a further 30 cycles ( 1 min 94°C , 1 min 55°C , 1 min 75°C ) .
+The amplification was followed by a 10 min elongation step at 72°C .
+PCR products were analyzed on a 2 % agarose gel containing ethidium bromide .
+Acknowledgements The authors thank D.Rouillard for FACS analyses ; M.Hayman , P.May , P.Mayeux and H.Lodish for reagents ; P.Clausser ( Janssen-Cilag ) for generous supply of recombinant human erythropoietin ; S.Gisselbrecht , 5651 C.Tran Quang et al .
+D.Kabat , G.Longmore , P.Mayeux and S.Ruscetti for helpful discussions ; and G.Calothy for critical reading of the manuscript .
+C.T .
+is supported by pre-doctoral fellowships from the French MESR and the Ligue Nationale Contre le Cancer .
+This work was supported by funds from the Centre National de la Recheche Scientifique , Institut Curie , Association pour la Recherche sur le Cancer , Ligue Nationale contre le Cancer ( Axe Oncogenése ) , Fondation contre la Leucémie and the EEC ( Biomed 2 Program , Contract BMH4-CT96-1355 ) .
+References Aizawa , S. , Suda , ¥. , Furuta , Y. , Yagi , T. , Takeda , N. , Watanabe , N. , Nagayoshi , M .
+and Ikawa , Y .
+( 1990 ) Env-derived gp55 gene of Friend spleen focus-forming virus specifically induces neoplastic proliferation of erythroid progenitor cells .
+EMBO J. , 9 , 2107-2116 .
+Ben-David , Y .
+- and - Bernstein , A .
+( 1991 ) - Friend - virus-induced erythroleukemia and the multistage nature of cancer .
+Cell , 66 , 831-834 .
+Ben-David , Y. , Lavigueur , A. , Cheong , G .
+and Bernstein , A .
+( 1990 ) Insertional inactivation of the p53 gene during friend leukemia : a new strategy for identifying tumor suppressor genes .
+New Biol. , 2 , 1015-1023 .
+Beug , H. , Palmieri , S. , Freudenstein , C. , Zentgraf , H .
+and Graf , T .
+( 1982 ) Hormone-dependent terminal differentiation in vitro of chicken erythroleukemia cells transformed by ts mutants of avian erythroblastosis virus .
+Cell , 28 , 907-919 .
+Beug , H. , Metz , T. , Miillner , E.W .
+and Hayman , M .
+( 19952 ) Self renewal and differentiation in primary avian hematopoietic cells : An alternative to mammalian in vitro models ?
+In WolffL .
+and Perkins , A .
+( eds ) , Molecular Aspects of Myeloid Stem Cell Development.Springer Verlag , New York and London , Vol .
+213 , pp .
+29-42 .
+Beug , H. , Schroeder , C. , Wessely,0. , Deiner , E. , Meyer , S. , Ischenko , LD .
+and Hayman , M.J. ( 1995b ) Transformation of erythroid progenitors by viral and cellular tyrosine kinases .
+Cell Growth Differ. , 6 , 999-1008 .
+Canman , C.E. , Gilmer , T.M. , Coutts , S.B .
+and Kastan , M.B .
+( 1995 ) Growth factor modulation of p53-mediated growth arrest versus apoptosis .
+Genes Dev. , 9 , 600-611 .
+Celada , A. , Borras , FE. , Soler , C. , Lloberas , J. , Klemsz , M. , van Beveren , C. , McKercher , S .
+and Maki , R.A .
+( 1996 ) The transcription factor PU.1 is involved in macrophage proliferation .
+J. Exp .
+Med. , 184 , 61-69 .
+Chow , V. , Ben-David , Y. , Bernstein , A. , Benchimol , S .
+and Mowat , M .
+( 1987 ) Multistage Friend erythroleukemia : independent origin of tumor clones with normal or rearranged p53 cellular oncogenes .
+J .
+Virol. , 61 , 2777-2781 .
+Crowe , A .
+and Hayman , M .
+( 1991 ) A myristylated form of the sea oncoprotein can transform chicken embryo fibroblasts .
+J .
+Virol. , 65 , 2533-2538 .
+Delgado , M. , Hallier , M. , Meneceur , P , Tavitian , A .
+and Moreau-Gachelin , F .
+( 1994 ) Inhibition of Friend cells proliferation by spi-1 antisense oligodeoxynucleotides .
+Oncogene , 9 , 1723-1727 .
+Eisenbeis , C.F. , Singh , H .
+and Storb , U .
+( 1993 ) PU.1 is a component of a multiprotein complex which binds an essential site in the murine immunoglobulin lambda 2-4 enhancer .
+Mol .
+Cell Biol. , 13 , 6452-6461 .
+Elroy-Stein,0. , FuerstTR .
+and Moss , B .
+( 1989 ) Cap-independent translation of mRNA conferred by encephalomyocarditis virus 5 ' sequence improves the performance of the vaccinia virus/bacteriophage T7 hybrid expression system .
+Proc .
+Natl Acad .
+Sci .
+USA , 86 , 6126-6130 .
+Feinman , R. , - Qiu , W.Q. , - Pearse , R.N. , - Nikolajezyk , B.S. , - Sen , R. , Sheffery , M .
+and Ravetch , J .
+V. ( 1994 ) PU.1 and an HLH family member contribute to the myeloid-specific transcription of the Fc gamma RIIIA promoter .
+EMBO J. , 13 , 3852-3860 .
+Gauthier , J. , Bourachot , B. , Doucas , V. , Yaniv , M .
+and Moreau-Gachelin , F .
+( 1993 ) Functional interference between the Spi-1/PU.1 oncoprotein and steroid hormone or vitamin receptors .
+EMBO J. , 12 , 5089-5096 .
+Ghysdael , J .
+and Boureux , A .
+( 1997 ) The Ets family of transcriptional regulators .
+In Yaniv , M .
+and Ghysdael , J .
+( eds ) , Oncogenes as Transcriptional Regulators .
+Birkhauser Verlag , Basel , Vol .
+1 , pp .
+29-89 .
+Glineur , C. , Zenke , M. , Beug , H .
+and Ghysdael , J .
+( 1990 ) Phosphorylation of the v-erbA protein is required for its function as an oncogene .
+Genes Dev. , 4 , 1663-1676 .
+Gorzyca , W. , Gong , J .
+and Darzynkiewics , Z .
+( 1993 ) Detection of DNA strand breaks in individual apoptotic cells by the in sifu terminal deoxynucleotidyl-transferase and nick translation assays .
+Cancer Res. , 53 , 1945-1951 .
+Gottlieb , E. , Haffner , R. , von Ruden , T. , Wagner , E .
+and Oren , M .
+( 1994 ) 5652 Down-regulation of wild-type p53 activity interferes with apoptosis of IL-3-dependent hematopoietic cells following IL-3 withdrawal .
+EMBO J. , 13 , 1368-1374 .
+Gregory , C .
+and Eaves , A .
+( 1978 ) Three stages of erythropoietic progenitor cells differentiation distinguished by a number of physical and biologic properties .
+Blood , 51 , 527-536 .
+Hagemeier , C. , Bannister , A.J. , Cook , A .
+and Kouzarides , T .
+( 1993 ) The activation domain of transcription factor PU.1 binds the retinoblastoma ( RB ) protein and the transcription factor TFIID in vitro : RB shows sequence similarity to TFIID and TFIIB .
+Proc .
+Nail Acad .
+Sci .
+USA , 90 , 1580-1584 .
+Hankins , W. ( 1980 ) Polycythemia- and anemia-inducing erythroleukemia viruses exhibit differential erythroid transforming effects in vitro .
+Cell , 22 , 693-699 .
+Hankins , W.D. , Krantz,8.B. , Kost , T.A .
+and Koury , M.J .
+( 1980 ) In vitro transformation of mouse hematopoietic cells by the spleen focus-forming virus .
+Cold Spring Harbor Symp .
+Quant .
+Biol. , 44 , 1211-1214 .
+Hayman , M. , Meyer , S. , Martin , F. , Steinlein , P .
+and Beug , H .
+( 1993 ) Self-renewal and differentiation of normal avian erythroid progenitor cells : regulatory roles of the TGF alpha/c-ErbB and SCF/c-kit receptors .
+Cell , 74 , 157-169 .
+Hoatlin , M. , Kozak , S. , Lilly , F , Chakraborti , A. , Kozak , C .
+and Kabat , D .
+( 1990 ) Activation of erythropoietin receptors by Friend viral gp55 and by erythropoietin and down-modulation by the murine Fv-2r resistance gene .
+Proc .
+Natl Acad .
+Sci .
+USA , 87 , 9985-9989 .
+Hughes , S.H. , Greenhouse , J.J. , Petropoulos , C.J .
+and Sutrave , P .
+( 1987 ) Adaptor plasmids simplify the insertion of foreign DNA into helper-independent retroviral vectors .
+J .
+Virol. , 61 , 3004-3012 .
+Thle , J.N .
+( 1995 ) Cytokine receptor signalling .
+Nature , 377 , 591-594 .
+Johnson , P .
+and Benchimol , S .
+( 1992 ) Friend virus induced murine erythroleukaemia : the p53 locus .
+Cancer .
+Surv. , 12 , 137-151 .
+Johnson , P. , Chung , $ .
+and Benchimol , S .
+( 1993 ) Growth suppression of Friend virus-transformed erythroleukemia cells by p53 protein is accompanied by hemoglobin production and is sensitive to erythropoietin .
+Mol .
+Cell Biol. , 13 , 1456-1463 .
+Kabat , D .
+( 1989 ) Molecular biology of Friend viral erythroleukemia .
+Curr .
+Top .
+Microbiol .
+Immunol. , 148 , 1-42 .
+Kahn , P. , Frykberg.L. , Brady , C. , Stanley , L. , Beug , H. , Vennstrom , B .
+and Graf , T .
+( 1986 ) v-erbA cooperates with sarcoma oncogenes in leukemic cell transformation .
+Cell , 45 , 349-356 .
+Khazaie , K. , DulL , T. , Graf , T. , Schlessinger , J. , Ullrich , A. , Beug , H .
+and Vennstrom , B .
+( 1988 ) Truncation of the human EGF receptor leads to differential transforming potentials in primary avian fibroblasts and erythroblasts .
+EMBO J. , 7 , 3061-3071 .
+Klemsz , M .
+and Maki , R .
+( 1996 ) Activation of transcription by Pu-1 requires both acidic and glutamine domains .
+Mol .
+Cell Biol. , 16 , 390-397 .
+Klemsz , M. , McKercher , S. , Celada , A. , Van Beveren , C .
+and Maki , R .
+( 1990 ) The macrophage and B cell-specific transcription factor PU.1 is related to the ets oncogene .
+Cell , 61 , 113-124 .
+Knight , J. , Zenke , M. , Disela , C. , Kowenz , E. , Vogt , P. , Engel , J. , Hayman , M .
+and Beug , H .
+( 1988 ) Temperature-sensitive v-sea transformed erythroblasts : a model system to study gene expression during erythroid differentiation .
+Genes Dev. , 2 , 247-258 .
+Kodandapani , R. , Pio , F. , Ni , C.Z. , Piccialli , G. , Klemsz , M. , McKercher , S. , Maki , R.A .
+and Ely , K.R .
+( 1996 ) A new pattern for helix-turn-helix recognition revealed by the PU.1 ETS-domain-DNA complex .
+Nature , 380 , 456-460 .
+Koury , M .
+and Bondurant , M .
+( 1992 ) The molecular mechanism of erythropoietin action .
+Eur .
+J. Biochem , 210 , 649-663 .
+Koury , M.J. , - Sawyer , S.T .
+- and - Bondurant , ( 1984 ) - Splenic erythroblasts in anemia-inducing Friend disease : a source of cells for studies of erythropoietin-mediated differentiation .
+J .
+Cell .
+Physiol. , 121 , 526-532 .
+Kowenz , E. , Leutz , A. , Doderlein , G. , Graf , T .
+and Beug , H .
+( 1987 ) ts-oncogene-transformed erythroleukemic cells : a novel test system for purifying and characterizing avian erythroid growth factors .
+Haematol .
+Bluttransfus. , 31 , 199-209 .
+Levine , A.J. , Momand , J .
+and Finlay , C.A .
+( 1991 ) The p53 tumour suppressor gene .
+Nature , 351 , 453-456 .
+Li , J .
+and Baltimore , D .
+( 1991 ) Mechanism of leukemogenesis induced by mink cell focus-forming murine leukemia viruses .
+J .
+Virol. , 2408-2414 .
+Lodie , T. , Savedra , R. , Golenbock , D. , Van Beveren , C. , Maki , R .
+and Fenton , M .
+( 1997 ) Stimulation of macrophages by lipopolysaccharide alters the phosphorylation stages , conformation , and function of Pu.1 via activation of casein kinase II .
+J .
+Immunol. , 158 , 1848-1856 .
+Longmore , G.D .
+and Lodish , H.F .
+( 1991 ) An activating mutation in the murine erythropoietin receptor induces erythroleukemia in mice : a cytokine receptor superfamily oncogene .
+Cell , 67 , 1089-1102 .
+Lotem , J .
+and Sachs , L .
+( 1993 ) Hematopoietic cells from mice deficient in wild-type p53 are more resistant to induction of apoptosis by some agents .
+Blood , 82 , 1092-1096 .
+Mager , D. , Mak , A .
+and Bernstein , A .
+( 1981 ) Quantitative colony method for tumorigenic cells transformed by two distinct strains of Friend leukemia virus .
+Proc .
+Nat !
+Acad .
+Sci .
+USA , 78 , 1703-1707 .
+Mayeux , P. , Casadevall , N. , Muller,0 .
+and Lacombe , C .
+( 1990 ) Glycosylation of the murine erythropoietin receptor .
+FEBS Lett. , 269 , 167-170 .
+McKercher , S.R .
+et al .
+( 1996 ) Targeted disruption of the PU.1 gene results in multiple hematopoietic abnormalities .
+EMBO J. , 15 , 5647-5658 .
+Miura,0. , Miura , Y. , Nakamura , N. , Quelle , F.W. , Witthuhn , B.A. , Thile , J.N .
+and Aoki , N .
+( 1994 ) Induction of tyrosine phosphorylation of Vav and expression of Pim-1 correlates with Jak2-mediated growth signaling from the erythropoietin receptor .
+Blood , 84 , 4135-4141 .
+Moreau-Gachelin , F. , Tavitian , A .
+and Tambourin , P .
+( 1988 ) Spi-1 is a putative oncogene in virally induced murine erythroleukaemias .
+Nature , 331 , 277-280 .
+Moreau-Gachelin , F. , Wendling , F , Molina , T. , Denis , N. , Titeux , M. , Grimber , G. , Briand , P. , Vainchenker , W .
+and Tavitian , A .
+( 1996 ) Spi-1/ PU.1 transgenic mice develop multistep erythroleukemias .
+Mol .
+Cell Biol. , 16 , 2453-2463 .
+Mowat , M. , Cheng , A. , Kimura , N. , Bernstein , A .
+and Benchimol , S .
+( 1985 ) Rearrangements of the cellular p53 gene in erythroleukaemic cells transformed by Friend virus .
+Nature , 314 , 633-636 .
+Munroe , D. , Peacock , J .
+and Benchimol , S .
+( 1990 ) Inactivation of the cellular p53 gene is a common feature of Friend virus-induced erythroleukemia : relationship of inactivation to dominant transforming alleles .
+Mol .
+Cell Biol. , 10 , 3307-3313 .
+Muta , K .
+and Krantz , S.B .
+( 1993 ) Apoptosis of human erythroid colony-forming cells is decreased by stem cell factor and insulin-like growth factor I as well as erythropoietin .
+J .
+Cell .
+Physiol. , 156 , 264-271 .
+Nagulapalli , S. , Pongubala , J.M .
+and Atchison , M.L .
+( 1995 ) Multiple proteins physically interact with PU.1 .
+Transcriptional synergy with NF-IL6 beta ( C/EBP delta , CRP3 ) .
+J .
+Immunol. , 155 , 4330-4338 .
+Nocka , K. , Majumder , S. , Chabot , B. , Ray , P. , Cervone , M. , Bernstein , A .
+and Besmer , P .
+( 1989 ) Expression of c-kit gene products in known cellular targets of W mutations in normal and W mutant mice-evidence for an impaired c-kit kinase in mutant mice .
+Genes Dev. , 3 , 816-826 .
+Nocka , K. , Buck , J. , Levi , E .
+and Besmer , P .
+( 1990 ) Candidate ligand for the c-kit transmembrane kinase receptor : KL , a fibroblast derived growth factor stimulates mast cells and erythroid progenitors .
+EMBO J. , 9 , 3287-3294 .
+Ohashi , T. , Masuda , M. and Ruscetti , S.K .
+( 1995 ) Induction of sequence-specific DNA-binding factors by erythropoietin and the spleen focus-forming virus .
+Blood , 85 , 1454-1462 .
+Pain , B .
+et al .
+( 1991 ) EGF-R as a hemopoietic growth factor receptor : the c-erbB product is present in chicken erythrocytic progenitors and controls their self-renewal .
+Cell , 65 , 37-46 .
+Paul , R. , Kozak , S. , Kozak , C .
+and Kabat , D .
+( 1991 ) The Sfpi-1 proviral integration site of Friend erythroleukemia encodes the ets-related transcription factor Pu.1 .
+J .
+Virol. , 65 , 464-467 .
+Pharr , P.N. , Hankins , D. , Hofbauer , A. , Lodish , H.F .
+and Longmore , G.D .
+( 1993 ) Expression of a constitutively active erythropoietin receptor in primary - hematopoietic progenitors - abrogates - erythropoietin dependence and enhances erythroid colony-forming unit , erythroid burst-forming unit , and granulocyte/macrophage progenitor growth .
+Proc .
+Natl Acad .
+Sci .
+USA , 90 , 938-942 .
+Pongubala , J.M. , Nagulapalli , S. , Klemsz , M.J. , McKercher , S.R. , Maki , R.A. and Atchison , M.L .
+( 1992 ) PU.1 recruits a second nuclear factor to a site important for immunoglobulin kappa 3 ' enhancer activity .
+Mol .
+Cell Biol. , 12 , 368-378 .
+Pongubala , J. , Van Beveren , C. , Nagulapalli , S. , Klemsz , M. , McKercher , S. , Maki , R .
+and Atchison , M .
+( 1993 ) Effect of PU.1 phosphorylation on interaction with NF-EMS and transcriptional activation .
+Science , 259 , 1622-1625 .
+Ruscetti , S.K. , Janesch , N.J. , Chakraborti , A. , Sawyer , S.T .
+and Hankins , W.D .
+( 1990 ) Friend spleen focus-forming virus induces factor independence in an erythropoietin-dependent erythroleukemia cell line .
+J .
+Virol. , 64 , 1057-1062 .
+Schroeder , C. , Gibson , L. , Zenke , M .
+and Beug , H .
+( 1992 ) Modulation of normal erythroid differentiation by the endogenous thyroid hormone EpoR and Spi-1 in erythroblast transformation and retinoic acid receptors : a possible target for v-erbA oncogene action .
+Oncogene , 7 , 217-227 .
+Schuetze,8. , Stenberg , P .
+and Kabat , D .
+( 1993 ) The Ets-related transcription factor PU.1 immortalizes erythroblasts .
+Mol .
+Cell Biol. , 13 , 5670-5678 .
+Scott , E.W. , Simon , M.C. , Anastasi , J .
+and Singh , H .
+( 1994 ) Requirement of transcription factor PU.1 in the development of multiple hematopoietic lineages .
+Science , 265 , 1573-1577 .
+Shikama , Y. , Barber , D.L. , D'Andrea , A.D .
+and Sieff , C.A .
+( 1996 ) A constitutively activated chimeric cytokine receptor confers factor-independent growth in hematopoietic cell lines .
+Blood , 88 , 455-464 .
+Shin , M.K .
+and Koshland , M.E .
+( 1993 ) Ets-related protein PU.1 regulates expression of the immunoglobulin J-chain gene through a novel Ets-binding element .
+Genes Dev. , 7 , 2006-2015 .
+Silva , M. , Grillot , D. , Benito , A. , Richard , C. , Nunez , G .
+and Fernandez-Luna , J.L .
+( 1996 ) Erythropoietin can promote erythroid progenitor survival by repressing apoptosis through Bcl-XL and Bcl-2 .
+Blood , 88 , 1576-1582 .
+Steinlein , P. , Deiner , E. , Leutz , A. and Beug , H .
+( 1994 ) Recombinant murine erythropoietin receptor expressed in avian erythroid progenitors mediates terminal erythroid differentiation in vitro .
+Growth Factors , 10 , 1-16 .
+Teich , N. , Wyke , J. , Mak , T. , Bermnstein , A .
+and Hardy , W .
+( 1982 ) Pathogenesis of retrovirus-induced disease .
+In RNA Tumor Viruses .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY , pp .
+785-998 .
+Tran Quang , C. , Pironin , M. , Von Lindern , M. , Beug , H .
+and Ghysdael , J .
+( 1995 ) Spi-1 and mutant p53 regulate different aspects of the proliferation and differentiation of primary erythroid progenitors .
+Oncogene , 11 , 1229-1239 .
+Ulrich , E. , Bochmelt , G. , Bird , A. and Beug , H .
+( 1992 ) Immortalization of conditionally transformed chicken cells : loss of normal p53 expression is an early step that is independent of cell transformation .
+Genes Dev , 6 , 876-887 .
+Weintraub,8.J. , Chow , K.N. , Luo , R.X. , Zhang , S.H. , He , S .
+and Dean , D.C .
+( 1995 ) Mechanism of active transcriptional repression by the retinoblastoma protein .
+Nature , 375 , 812-815 .
+Wessely,0. , Deiner , E. , Beug , H .
+and Von Lindem , M .
+( 19972 ) The glucocorticoid receptor is a key regulator of the decision between self-renewal and differentiation in erythroid progenitors .
+EMBO J. , 16 , 267-280 .
+Wessely,0. , - Von - Lindern , M. , Levitzki , A. , Gazit , A. , Ischenko , L , Mellitzer , G. , Hayman , M .
+and Beug , H .
+( 19976 ) Distinct regulatory roles of the receptor tyrosine kinases c-erbB and c-Kit in erythroid differentiation and proliferation .
+Cell Growth .
+Differ. , 8 , 481-493 .
+Wolff , L .
+and Ruscetti , S .
+( 1988 ) The spleen focus-forming virus ( SFFV ) envelope gene , when introduced into mice in the absence of other SFFV genes , induces acute erythroleukemia .
+J .
+Virol. , 62 , 2158-2163 .
+Yoshimura , A. , Longmore , G .
+and Lodish , H.F ( 1990 ) Point mutation in the exoplasmic domain of the erythropoietin receptor resulting in hormone-independent activation and tumorigenicity .
+Nature , 348 , 647-649 .
+Zenke , M .
+et al .
+( 1988 ) v-erbA specifically suppresses transcription of the avian erythrocyte anion transporter ( band 3 ) gene .
+Cell , 52 , 107-119 .
+Zenke , M. , Munoz , A. , Sap , J. , Vennstrom , B .
+and Beug , H .
+( 1990 ) v-erbA oncogene activation entails the loss of hormone-dependent regulator activity of c-erbA .
+Cell , 61 , 1035-1049 .
+Received on May 5 , 1997 ; revised on July 2 , 1997 5653

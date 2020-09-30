@@ -1,0 +1,819 @@
+Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press A novel B-cell lineage-specific transcription factor present at early but not late stages of differentiation Alcide Barberis , Katharina Widenhorn , Luigi Vitelli , * and Meinrad Busslinger® Institute of Molecular Pathology , Dr. Bohr-Gasse 7 , A-1030 Vienna , Austria A novel B-cell-specific transcription factor , BSAP , was identified as a mammalian homolog of the sea urchin protein TSAP , which interacts with the promoters of four tissue-specific late histone H2A-2 and H2B-2 genes .
+As shown by mobility-shift , methylation interference , and mutational analyses , the mammalian protein BSAP recognizes all four sea urchin binding sites in a manner indistinguishable from TSAP ; however , the two proteins differ in molecular weight .
+BSAP is exclusively restricted to the B-cell lineage of lymphoid differentiation .
+Its expression appears to be activated during pro-B-cell development , is abundant at the pre-B-and mature B-cell stages , but is absent in terminally differentiated plasma cells .
+Moreover , BSAP is clearly a B-cell-specific transcription factor , as a wild-type but not a mutant TSAP-binding site of the sea urchin functions only in transfected B cells as an upstream promoter element .
+Competition experiments did not reveal any high-affinity binding site for BSAP in known regulatory regions of immunoglobulin and class II major histocompatibility ( MHC ) genes , suggesting that BSAP is a regulator of a different set of B-lymphoid-specific genes .
+[ Key Words : B-cell-specific transcription factor ; B-lymphocyte differentiation ; mammalian TSAP homolog ] Received December 21 , 1989 ; revised version accepted February 19 , 1990 .
+The pathway by which the hematopoietic stem cell differentiates into B lymphocytes can be divided into several stages that are defined by the state of rearrangement and expression of the immunoglobulin gene family , the presence of cell-surface markers , and the cell 's susceptibility to growth and differentiation factors .
+The pro-B lymphocyte , an early progenitor cell committed to B-cell differentiation , still contains both the immunoglobulin heavy- and light-chain genes in germ line configuration but already expresses certain B-lymphoid-specific surface proteins ( Katamine et al .
+1984 ; McKearn et al .
+1985 ; Palacios and Steinmetz 1985 ; Muller-Sieburg et al .
+1986 ; Palacios et al .
+1987 ; Davidson et al .
+1988 ) .
+Differentiation of pro-B cells to pre-B cells is accompanied by functional rearrangement of the p heavy-chain gene .
+As a consequence , pre-B cells express cytoplasmic j protein but fail to synthesize light chains of the k and A type required for assembly of complete surface IgM mole-cules .
+Pre-B cells differentiate into mature B cells expressing immunoglobulin proteins on their surface by productively rearranging either the x or A light-chain gene locus .
+B cells are able to undergo isotype switching and , upon stimulation by appropriate signals , give rise to mature plasma cells that secrete large amounts of im- Present addresses : 'Department of Biochemistry and Molecular Biology , Harvard University , Cambridge , Massachusetts 02138 USA ; `` Istituto Superiore di Sanita , Laboratorio di Biologia Cellulare , 00161 Rome , Italy .
+author .
+munoglobulin of a given specificity [ for review , see Cooper and Burrows 1989 ; Melchers 1989 ) .
+Much of the insight into B-cell development has been gained by the analysis of transformed cell lines and tumors , which are arrested at various stages of B-lymphocyte differentiation and essentially retain their lineage specificity faithfully ( Greaves et al .
+1986 ; Hanley-Hyde and Lynch 1986 ) .
+Tissue-specific gene expression is primarily controlled at the level of transcription initiation .
+The B-cell-specific regulation of two gene families coding for immunoglobulin and class HI major histocompatibility ( MHC ) proteins has been studied in detail .
+These analyses revealed that both the promoter and an enhancer region contribute to the B-cell-specific transcription of immunoglobulin and class II MHC genes { for reviews , see Blackwell and Alt 1989 ; Fehling et al .
+1989 ) .
+These regulatory regions contain multiple sequence elements that interact with ubiquitous , as well as B-cell-specific , transcription factors ( Dorn et al .
+1988 ; Sen and Baltimore 1989 } .
+The critical regulatory sequences and factors differ , however , between the two gene families ( Koch et al .
+1989 ) .
+A common theme is nevertheless emerging , in that the interplay of ubiquitous and B-cell-restricted transcription factors is responsible for mediating B-lymphoid-specific expression .
+Five different B-cell-specific transcription factors have been identified to date .
+The Oct-2 protein interacts with the sequence ATTTGCAT that is present in all immunoglobulin promoters , in the GENES & DEVELOPMENT 4:849-859 © 1990 by Cold Spring Harbor Laboratory Press ISSN 0890-9369/90 $ 1.00 849 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Barberis et al .
+IgH enhancer ( Clerc et al .
+1988 ; Miiller et al .
+1988 ; Scheidereit et al .
+1988 ) , and in some , but not all , promoters of class II MHC genes ( Sherman et al .
+1989 ) .
+Another less well-characterized B-cell-specific activity binds to an element , HE2 , in the human IgH enhancer ( Maeda et al .
+1987 ; Araki et al .
+1988 ) .
+The inducible transcription factor NF-kB is only constitutively active in B cells and plasma cells and interacts with the Igx enhancer ( Sen and Baltimore 19862 , b ) and with the upstream region of certain class II MHC genes [ Dorm et al .
+1988 ; Blanar et al .
+1989 ) .
+The protein NF-W1 binds to an important enhancer element of the class II MHC gene Ea ( Dorm et al .
+1989 } , whereas yet another B-cell-specific protein appears to interact with the upstream region of the Aa gene ( Boothby et al .
+1988 ) .
+We have previously characterized a tissue-specific activator protein [ TSAP ) of the sea urchin , which is , at least in part , responsible for the developmental and tissue-specific regulation of two nonallelic pairs of late histone H2ZA-2 and H2B-2 genes ( Barberis et al .
+1989 ) .
+The four TSAP-binding sites of these genes are shown together with their deduced consensus sequence in Figure 1 .
+We have now identified a novel B-cell lineage-specific activator protein ( BSAP ) that recognizes all four binding sites in a manner indistinguishable from the sea urchin protein .
+This mammalian homolog of TSAP is present at equal concentrations in murine and human pro-B , pre-B , and mature B cells but is undetectable in terminally differentiated plasma cells .
+Competition experiments indicate further that BSAP may not be involved in the transcriptional control of immunoglobulin and class II MHC genes and thus suggest a role for it in the regulation of a different family of B-lymphoid-specific genes .
+A H2B-24 _ _ - 79 CGCGGAGEACTGATGCAGCGCGGAT - 55 H2B-22 _ - 70 - CAATACGCAACGAAGCGAAGACGGA - 46 H2A21 __ -126 - GTTGACACGCTTGAAGAAATAGTTG -102 H2A22 _ -108 _ TGTGACGCAGCGGTGGGTGACGACT - 84 M consensus Figure 1 .
+Known recognition sequences of the sea urchin transcription factor TSAP .
+The promoter sequences of the four late histone HZA-2 and H2B-2 genes , protected by TSAP from DNase I digestion , are shown together with the deduced consensus sequence ( see Barberis et al .
+1989 ] .
+The only strictly invariant position ( C ) is highlighted by boldface type .
+Numbers _refer to the nucleotide positions relative to the transcription initiation site .
+Arrows denote the C- A mutation that was analyzed in the experiments of Figs .
+4 and 8 .
+All four histone genes are exclusively expressed in the tube foot of the adult sea urchin ( Kemler and Busslinger 1986 ) .
+850 GENES & DEVELOPMENT Results The human B-cell line BJA-B contains a DNA-binding activity homologous to the sea urchin TSAP Using the electrophoretic mobility-shift assay ( Fried and Crothers 1981 ; Garner and Rezvin 1981 ) we have screened nuclear extracts of different murine and human cell lines for a DNA-binding activity homologous to the tissue-specific transcription factor TSAP of the sea urchin ( Barberis et al .
+1989 ] .
+The only cell line that scored positive in this initial screen was the human B-cell line BJA-B .
+Figure 2A shows a comparison of the BJA-B extract with a nuclear extract of sea urchin gastrula embryos .
+Short end-labeled DNA fragments containing one of the four TSAP-binding sites of the late histone H2A-2 and H2B-2 genes ( see Fig .
+1 ) were incubated in both nuclear extracts , and specific protein-DNA complexes were analyzed on a native polyacrylamide gel .
+All four binding sites gave rise to a protein-DNA complex of similar electrophoretic mobility and intensity in the BJA-B extract .
+For reasons discussed below , we refer to this DNA-binding activity as BSAP .
+The BSAP complex migrates faster than the two TSAP complexes B1 and B2 , suggesting that the human and sea urchin proteins differ from each other in molecular size [ see below ) .
+The relative affinity of BSAP for all four sea urchin-binding sites was analyzed in cross-competition experiments ( Fig .
+2B ) .
+The BSAP complex generated with each of the four sea urchin-binding sites is competed away at identical concentrations of unlabeled competitor DNA containing the -binding site of the H2B-2.2 gene .
+This complex is clearly specific , as unrelated pUC18 plasmid DNA starts to compete only at high DNA concentra-tions .
+Therefore , BSAP appears to recognize all four binding sites with equal affinity , as does the sea urchin TSAP ( Barberis et al .
+1989 ] .
+The sequence recognition of BSAP was compared with that of the sea urchin TSAP by methylation interference analysis ( Siebenlist et al .
+1980 } .
+An end-labeled DNA fragment containing the TSAP-binding site of the H2B-2.1 gene was partially methylated at G and A residues and used in mobility-shift experiments with sea urchin gastrula or human BJA-B nuclear extracts .
+Free and bound DNA was eluted from the gel , cleaved at modified purines , and analyzed on a denaturing sequencing gel .
+Methylated G and A residues that interfere with protein binding are expected to be under-repre-sented in the bound , relative to the free , DNA fraction .
+As shown in Figure 3 , the same methylated G and A residues in both DNA strands interfere with binding of the sea urchin TSAP and human BSAP .
+We therefore conclude that both proteins interact with DNA in a very similar manner .
+This conclusion is further supported by the mutational analysis shown in Figure 4 .
+All four TSAP recognition sequences share only one strictly invariant nucleotide position , C , with one another , as is shown in Figure 1 .
+This C residue was mutated to an A in the binding sites of the H2B-2.1 and H2A-2.2 genes { see Fig .
+1 } .
+This point mutation drastically reduced complex for Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press A ) B ) BJAB BJAB gastrula , -- *A~ -- -® a > .at a > at ” $ 95 6 .L # ¥ Wy probes » q `` q @ QZ ‘ 33 ?
+& H2B-2.1 Q “ < [ Bi > o ( B23 > BSAP > » H2B-2.2 .~ « < 4 H2A-21 '* « wile H2A-2.2 `` swon r ] e 0 20 60 180 600 « & molar excess ~- : .
+B-cell-specific transcription factor BSAP Figure 2 .
+Interaction of BSAP with all four TSAP-binding sites of the sea urchin H2A-2 and H2B-2 genes .
+( A ) Electrophoretic mobility-shift analysis .
+End-labeled oligonucleotides containing the TSAP-binding sites of the four late H2A-2 and H2B-2 genes ( Barberis et al .
+1989 ) were incubated in nuclear extracts of sea urchin gastrula embryos and the human lym-phoblastoid cell line BJA-B , followed by separa-TSAP tion of the protein-DNA complexes on a na- ( H2B-2.2 ) tive 4 % polyacrylamide gel , as described in Materials and methods .
+B1 and B2 denote the two specific complexes of the sea urchin TSAP activity , and F indicates the position of free DNA .
+( B ) Competition experiments .
+A DNA fragment containing multimerized TSAP-binding sites of the H2B-2.2 gene ( Barberis et al .
+1989 ] and Mspl-digested pUC18 DNA were included as competitor DNA in the binding re of competitor action at the indicated molar ratios relative to the labeled DNA probe .
+Only the section of the autoradiograph containing the BSAP complex is shown for each competition experiment .
+mation with the mammalian BSAP and the sea urchin TSAP in mobility-shift experiments ( Fig .
+4 ) .
+Again , both proteins were affected to the same degree in their DNA-binding potential by this base change .
+In summary , we gastr .
+_ BJA-B gastr .
+_ BJA-B FB F B FOB F B Ge @ - ao # ime ame cae P wee ass P J : == SE wae sen aam < < % < Pre dite a cae ow wae ane < < - ®t < u < wow < < < L « » < < < < < < 4 < < « san t < b « tte @ coding strand non-coding strand Figure 3 .
+- Comparison of the contact sites of the human BSAP and the sea urchin TSAP .
+A HindIII-FEcoRI restriction fragment containing the cloned TSAP-binding site of the H2B-2.1 gene was at either the HindlIlH or EcoRI site of the pSP64 polylinker and then used for methylation interference analysis of the TSAP and BSAP complex in nuclear extracts of sea urchin gastrula embryos and human BJA-B cells , as described by Barberis et al .
+{ 1989 } .
+F and B denote free and bound DNA , respectively .
+Methylated G and A residues that interfere with protein binding are indicated by arrowheads .
+Strong and weak interferences are distinguished by solid and open symbols , respectively .
+have shown that the human BJA-B cells contain a DNA-binding activity that recognizes all four sea urchin TSAP-binding sites with equal affinity and , where ana-lyzed , in a manner indistinguishable from the sea urchin TSAP .
+By these criteria , BSAP appears to be the mammalian homolog of the sea urchin TSAP .
+The mammalian BSAP and the sea urchin TSAP differ in molecular weight Although the mammalian BSAP and the sea urchin TSAP interact with DNA in a similar manner , both proteins differ in their electrophoretic mobility in native polyacrylamide gels ( Fig .
+2 ) .
+To understand the nature of gastrula BJAB H2B-2.1 H2A22 H2B-21 H2A22 ._/\__S A “ A “ Fiﬁ s O2 t f t f t 2 mt sac { f } > C # - # # BSAP -- » Sows y Figure 4 .
+- A single point mutation in the TSAP recognition sequence prevents binding of both TSAP and BSAP .
+A single C- A mutation was introduced at the only strictly invariant position in the TSAP recognition sequences of the H2B-2.1 and H2A-2.2 genes ( see Fig .
+1 } .
+The wild-type and mutant oligonucleotides were used for mobility-shift analysis with nuclear extracts of sea urchin gastrula embryos and human BJA-B cells .
+For description of oligonucleotides , see Materials and methods .
+GENES & DEVELOPMENT 851 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Barberis et al .
+this difference , we have determined the molecular weight of the two proteins by the indirect method of UV cross-linking ( Ogata and Gilbert 1977 ) .
+A uniformly labeled and 5-bromo-deoxyuridine-substituted DNA probe of the H2A-2.2 TSAP-binding site was used in mobility-shift experiments with nuclear extracts of either sea urchin gastrula embryos or human BJA-B cells ( see Materials and methods ) .
+After electrophoretic separation of the protein-DNA complexes , the radioactive DNA was cross-linked to the protein in situ in the gel followed by DNase I digestion .
+Labeled protein was then eluted and analyzed by 10 % SDS-PAGE .
+As shown in Figure 5A , this procedure detected a polypeptide of 50 kD in the BJA-B extract [ lane 2 ) and two different polypeptides of 85 kD ( complex B1 , lane 3 ) and 76 kD { complex B2 , lane 4 ) in the sea urchin gastrula extract .
+These labeled proteins correspond to BSAP and TSAP , as the same C - A mutation that strongly reduces DNA binding of both proteins ( Figs .
+1 and 4 ) also prevents protein labeling by UV cross-linking ( Fig .
+5A , lanes 1 and 5 ) .
+These findings clearly demonstrate that BSAP and TSAP differ from each other in molecular weight .
+The above experiment did not rule out the possibility that BSAP ( and TSAP ) is a heteromeric complex containing additional polypeptides of different molecular weights that are required for DNA-binding activity .
+To address this question , we fractionated the BJA-B extract by preparative SDS-PAGE ( Laemmli et al .
+1970 } , cut the gel into slices , and eluted the protein .
+Eluted material was denatured , renatured , and analyzed for binding activity by mobility-shift assay ( Fig .
+5B ) .
+Intact BSAP activity was recovered in gel slice 3 , which contains proteins in the range of 50 kD .
+This evidence suggests strongly that BSAP consists of only one polypeptide of 50 kD .
+BSAP is present at early , but not late , stages of B-cell differentiation We then studied the cell-type specificity of BSAP .
+Nu clear extracts were prepared from lymphoid , myeloid , and nonhematopoietic cell lines of human and murine origin .
+The integrity of each nuclear extract was tested first by analysis of the pattern of octamer-binding proteins in electrophoretic mobility-shift experiments { data not shown ) .
+The nuclear extracts were then screened for the presence of BSAP .
+The result of this survey is summarized in Table 1 , and representative mobility-shift experiments are shown in Figure 6 .
+BSAP was found exclusively in B-lymphoid cells .
+No BSAP activity could be detected , even after long autoradiographic exposure , in seven T-lymphoid , five myeloid , three erythroid , and five nonhematopoietic cell lines .
+The strict B-cell specificity of BSAP was further corroborated by analyzing nuclear extracts of different rat tissues [ Fig .
+6 ) .
+The spleen was shown to contain about the same amount of BSAP protein as the various B-lymphoid cell lines .
+This is in agreement with the fact that ~50 % of the nucleated spleen cells are B lymphocytes ( Patrick et al .
+1986 ) .
+However , BSAP activity was not detectable in nuclear extracts from thymus , liver , and brain .
+The thymus is the central lymphoid organ for T-cell development and consists > 95 % of T cells ( Patrick et al .
+1986 ) .
+The absence of BSAP in thymus therefore strongly argues that this protein is restricted to the B-cell lineage of lymphoid differentiation .
+The temporal regulation of BSAP expression during B-cell development was investigated by analysis of a series of transformed cell lines that are arrested at different stages of B-cell differentiation { see introductory section ; Table 1 , Fig .
+6 ) .
+BSAP is clearly absent in the earliest progenitor B-cell line tested , LyD9 [ Palacios et al .
+1987 ) .
+However , BSAP is already abundantly expressed in pro-B cells that have progressed further along the B-cell differentiation pathway , that is , in the murine cell line HAFTL-1scl ( Davidson et al .
+1988 ) and in the human cell line FLEB 14 ( Katamine et al .
+1984 ) .
+This suggests that the expression of BSAP is initiated during pro-B-cell development .
+Interestingly , BSAP is present at similar Figure 5 .
+Molecular weight determination of BSAP and TSAP .
+( A ) UV cross-linking .
+Nuclear extracts of BJA-B cells ( lane 1 and 2 ) and sea urchin gastrula embryos [ lane 3-5 ) were incubated with a uniformly labeled and 5-bromodeoxyuridine substituted DNA probe containing the TSAP-binding site of the H2A-2.2 gene .
+Protein-DNA complexes were separated on a 4 % native polyacrylamide gel , UV-irradiated in the gel , digested with DNase I , eluted from acrylamide , and analyzed by 10 % SDS-PAGE [ Laemmli 1970 } , as described in Materials and methods .
+The wild-type TSAP recognition sequence was used for labeling of BSAP in lane 2 and for detection of the polypeptides of the TSAP complexes Bl and B2 in lanes 3 and 4 , respectively .
+A mutant TSAP probe containing the C- A mutation that drastically reduces protein binding ( Figs .
+1 and 4 ) also prevents transfer of label to BSAP ( lane 1 } and to the upper TSAP band Bl { lane 5 } .
+'*C-labeled proteins ( Amersham , Inc. ) were used as molecular weight markers in lane M. ( B ) Mobility-shift analysis of gel-purified and renatured BSAP activity .
+Nuclear proteins of the BJA-B extract were fractionated by 12 % SDS-PAGE , .
+The region of 70-30 kD was divided into seven gel slices .
+Proteins were eluted , denatured , renatured , and subjected to mobility-shift analysis with the labeled H2B-2.1 TSAP probe .
+Unfractionated BJA-B extract was used in lane B .
+Only the section of the autoradiograph containing the BSAP complex is shown .
+The minor DNA-binding activity of faster electrophoretic mobility , which is present in fraction 4 , appears to be a proteolytic degradation product of BSAP that is also present at low abundance in the unfractionated extract .
+852 GENES & DEVELOPMENT A ) 1 + M 2 0 5 m 100 e R97 Bi « < .
+> _ t - 69 esar- - UW - 46 t 69kD - 46kD 31 kD ¢ ‘ T—jT— ‘ T ' TAT a tas a sos esar > li - ® Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Table 1 .
+B-cell lineage specificity of BSAP Cell line BSAP Cell type Pro-B cell LyD9 ( mouse ) HAFTL-1scl ( mouse ) FLEB 14 { human } HAFTL-pBcl.6 { mouse ) 18.81 ; , , ( mouse ) PD31 { mouse ) 70Z/3 { mouse ) NALM 6 ( human ] REH ( human } B cells 38-C-13 ( mouse ) WEHI-231 { mouse ) WEHI-279.1 { mouse ) BJA-B ( human ] Namalwa ( human ] Raji ( human ) J558L { mouse ) $ 194 ( mouse ) P3X63-Ag8.653 ( mouse } $ P2/0 { mouse ) MPC-11 { mouse ) T cells BW 5147 ( mouse } EL4 ( mouse ) YAC-1 ( mouse ) Molt-4 ( human ) CCRF-CEM { human } Hut-78 { human } Jurkat ( human ) HAFTL-M1g4 { mouse ) P388D1 ( mouse } WEHI-3 ( mouse ) HL6O0 ( human } U937 ( human ] MEL { mouse ) K562 ( human } HEL ( buman } Nonhematopoietic NIH 3T3 ( mouse ) cells 208F { rat ] Hela ( human ) PC12 ( rat } F9 ( mouse ) Pre-B cells 1 -+ + 4+ 4+ 4 4+ 4 4+ 4+ 4+ 4 4+ + +04 Plasma cells Monocyte/ macrophage Erythroid cells Nuclear extracts of all the cell lines shown were analyzed for BSAP activity by mobility-shift assay .
+Representative results of these experiments are shown in Fig .
+6 .
+The nonhematopoietic cell lines are of the following origin : ( NIH-3T3 and 208F ) rodent fibroblasts ; ( HeLa ) human cervix carcinoma ; ( PC12 ) rat pheo-chromocytoma , ; ( F9 ) mouse embryocarcinoma .
+concentration not only in the two pro-B cells HAFTL-1 and FLEB 14 but also in all six pre-B and mature B-cell lines tested .
+However , BSAP activity was not detected in five plasmacytoma cell lines that represent the equivalent of immunoglobulin-secreting plasma cells .
+From this we conclude that BSAP expression is turned off at the time of terminal differentiation to plasma cells .
+Hence , BSAP is present at early , but not late , stages of B-cell differentiation .
+It is worth noting that the temporal expression pattern of BSAP is apparently identical in human and murine B lymphocytes ( Fig .
+6 ; Table 1 ) .
+Surprisingly , the BSAP protein did not exhibit any lineage infidelity at all in our analysis , which was further B-cell-specific transcription factor BSAP supported by the following observation .
+The pro-B cell HAFTL-1 can be differentiated , upon stimulation with lipopolysaccharides ( LPS ) , within either the myelomonocytic or B-cell lineages ( Davidson et al .
+1988 ) .
+The derived pre-B-cell line HAFTL-pBcl.6 still expresses the same amount of BSAP protein as the parental pro-B-cell line HAFTL-1 ( Fig .
+6 ) .
+In contrast , BSAP expression is lost in the derived macrophage cell line HAFTL-M1g4 , suggesting that BSAP may be incompatible with myelomonocytic differentiation .
+BSAP does not bind to known regulatory regions of immunoglobulin and class II MHC genes So far , we have used TSAP-binding sites of sea urchin histone genes to identify a mammalian DNA-binding factor that is exclusively expressed during B-cell differentiation .
+The question therefore arises whether BSAP is indeed a novel DNA-binding activity and/or whether it interacts with known regulatory regions of B-cell-specific genes .
+We have first analyzed the promoter and enhancer regions of immunoglobulin genes for potential BSAP-binding sites .
+As shown in Figure 7A , DNA fragments of an immunoglobulin V ; , gene promoter , of the IgH enhancer , of the intronic Igx enhancer , and of the downstream x 3 ' enhancer all competed inefficiently and only at high molar ratios for BSAP complex forma-tion , in contrast to the homologous TSAP recognition sequence .
+We regard this competition as unspecific , particularly because the bacterial plasmid pUC18 competed in the same range of DNA concentrations ( data not shown ) .
+This unspecific competition appears to be caused by the length and complexity of the four DNA fragments , as a short oligonucleotide containing only the NF- « B-binding site did not compete , not even at the highest molar ratio .
+This discrepancy is best explained by the fact that the consensus recognition sequence for both TSAP and BSAP is degenerate ( Figs .
+1 and 2 ) .
+Other short oligonucleotides containing the recognition sequences for additional transcription factors known to bind to the immunoglobulin enhancer and promoter regions { see introductory section ) also failed to compete for BSAP binding ( Fig .
+7B ) .
+We therefore conclude that neither the enhancers of the IgH and Igx genes nor one of the many immunoglobulin V ; , gene promoters contain a high-affinity binding site for BSAP .
+Class II MHC genes are expressed at a constitutively high level in mature B cells .
+The B-cell-specific regulation of the murine Ea gene depends on three motifs , referred to as X , Y , and W elements ( Koch et al , 1989 ) , whereas the upstream region of the Aa gene contains two novel regulatory elements ( BRE1 and BRE ) that are recognized by the same B-cell-specific protein ( Boothby et al .
+1988 ) .
+As shown in Figure 7C , none of these regulatory sequences competed for BSAP binding .
+A purine-rich sequence was shown previously to play an important role in the expression of SV40 and lymphotropic papovavirus ( LPV ) in B cells ( Pettersson and Schaffner 1987 ) .
+This Pu motif also did not compete for BSAP binding and , hence , interacts with a lymphoid-specific protein other than BSAP ( Fig .
+7B ) .
+GENES & DEVELOPMENT 853 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Barberis et al .
+1.5 a o > C 0D 0D # # us 00 a » G # an am Figure 6 .
+B-cell lineage specificity of BSAP .
+The same amount of nuclear protein isolated from the cell lines and rat tissues indicated was analyzed by mobility-shift assay with the TSAP probe of the H2B-2.1 gene .
+Most cell lines are described in the text , in Table 1 , or in Materials and methods .
+All of these competition experiments failed to reveal any high-affinity binding site for BSAP in known regulatory regions of immunoglobulin and class II MHC genes .
+We therefore conclude that BSAP is a novel B-cell-specific DNA-binding protein that may be involved in the regulation of other B-lymphoid-specific genes .
+BSAP is a B-cell-specific transcription factor We then tested whether BSAP can act as a B-cell-specific transcription factor .
+As no potential target gene for BSAP has yet been identified , we pursued the following strategy .
+The TSAP-binding site of the sea urchin H2A-2.2 gene was cloned in both orientations upstream of the TATA box of the rabbit B-globin gene into the OVEC-S vector [ Fig .
+8C ; Westin et al .
+1987 ) .
+These plasmids were transiently transfected into BJA-B cells , together with a reference gene that was linked at its TATA box to the SV40 enhancer and contained a deletion in the B-globin leader sequence { OVEC-Ref ; Fig .
+8C ) .
+B-Globin gene expression of both the test and reference genes was measured by RNase protection analysis , and the result is shown in Figure 8A .
+The wild-type TSAP-binding site efficiently stimulated correct transcription initiation of the B-globin gene of plasmid OVEC-B as compared to the parental construct OVEC-S .
+Therefore , the TSAP recognition sequence was fully active as an upstream regulatory element in both orientations in BJA-B cells .
+This increase in transcription was not observed with the mutant TSAP-binding site containing the C- A point mutation that prevents BSAP binding ( Figs .
+1 and 4 ) .
+This evidence clearly ruled out the possibility that the observed transcriptional stimulation was caused by another , fortuitously created pro-tein-binding site in the OVEC-B plasmids .
+We therefore conclude that BSAP is a transcription factor .
+This contention was further corroborated by the experiment of Figure 8B , where we compared B-globin gene expression of the OVEC-B and OVEC-S plasmids in several additional cell lines .
+The presence of the TSAP-binding site clearly stimulated transcription in another human B-cell line , Namalwa .
+However , no transcriptional increase was observed in cell lines lacking BSAP-binding activity , that is , in the plasma cell line P3X63-Ag8.653 , in the 854 GENES & DEVELOPMENT CS '\\ ’ ’ \ A ( L C ) FEA ¢ 46 ” $ 0 ix go e8¢ ad s t Q ) Q x6 Q® « & 6° ” 9+ ¢ « M4 « fag §§ , C DIII | ass - - > e088 T-cell line EL4 , in Hela cells , and in NIH-3T3 fibro-blasts .
+Hence , these functional data , taken together with the biochemical results of Figures 6 and 7 , clearly demonstrate that BSAP deserves its name as B-cell-specific activator protein because it is a novel transcription factor that is exclusively expressed during B-cell differentiation .
+Discussion BSAP is a mammalian homolog of the sea urchin transcription factor TSAP The novel B-cell-specific transcription factor BSAP appears to be a mammalian homolog of the sea urchin TSAP ( Barberis et al .
+1989 ) by the following criteria .
+First , the mammalian BSAP binds to all four TSAP-binding sites of the sea urchin histone H2A-2 and H2B-2 genes and recognizes them with equal affinity , as does the sea urchin protein .
+These four binding sites differ considerably in primary sequence ( Barberis et al .
+1989 } ; consequently , BSAP appears to exhibit the same seemingly degenerate mode of sequence recognition as TSAP .
+Second , BSAP and TSAP interact with DNA in a similar manner , as they contact the same bases within their recognition sequence in methylation interference experiments .
+Third , a single C- A mutation at the only strictly invariant position within the TSAP-binding sites prevents binding of both proteins to the same degree .
+This mutational analysis further confirms our previous sequence alignment of the four TSAP-binding sites [ Fig .
+1 ; Barberis et al .
+1989 ) .
+Taken together , all of this evidence indicates that the sea urchin TSAP and the mammalian BSAP share a highly conserved DNA-binding do-main .
+However , the two proteins differ markedly in their molecular weight , as determined by UV cross-linking .
+The apparent sizes of the two TSAP polypeptides in sea urchin embryos are 85 kD ( B1 ) and 76 kD ( B2 ) , whereas the human BSAP has an apparent molecular mass of 50 kD .
+This size difference suggests that the sea urchin and mammalian proteins vary considerably outside of their conserved DNA-binding region , possibly reflecting the presence of additional domains of distinct function .
+Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press A ) -~ ® £ e As < o- ~ > we- **.. 2 Rp .
+, _ ® IgH enh .
+a 50 Neca __ ~~*® Igx enh .
+< ®rm .
+S ** `` `` ~zg IgV prom .
+g x3 `` enh .
+io TSAP & C 10 100 600 COMPETITOR DNA ( femtomoles ) B ) competitor DNA g , & 2 $ « * > $ 9 goq ’ $ 3 ; gem & Figure 7 .
+- BSAP is a novel DNA-binding activity .
+( l ) Competition analysis with immunoglobulin promoter and enhancer DNA fragments .
+Increasing quantities of the indicated DNA fragments were used for competition with the same amount of labeled H2B-2.1 TSAP probe in mobility-shift experiments with the BJA-B extract .
+BSAP binding was quantitated by densito-metric scanning of the autoradiographs .
+The immunoglobulin V ; , promoter fragment contained the DNA sequences from position -285 ( HindII ) to +130 ( Ball ) , relative to the transcription start site of the murine 70Z VH * gene [ Nelson et al .
+1983 ) .
+The IgH enhancer DNA corresponded to a Hinf !
+fragment extending from nucleotide 345 to 566 of the murine IgH enhancer ( for numbering , see Gerster et al .
+1987 ) .
+A 480-bp Alul fragment of the Igx gene was used as intronic Igx enhancer DNA ( Picard and Schaffner 1984 ) .
+An 810-bp Sacl-Xbal fragment located 9 kb downstream of the Igx gene was used as x3 ' enhancer competitor ( Meyer and Neuberger 1989 ) { B ) Competition with recognition sequences of transcription factors that bind to regulatory regions of immunoglobulin genes .
+( C ) Competition with regulatory sequences of class I MHC genes .
+In both cases , a 700-fold excess of the indicated double-stranded oligonucleotides was used as competitor DNA in mobility-shift experiments with BJA-B extracts .
+Only the relevant part of the autora-diographs containing the BSAP complex is shown .
+For description of oligonucleotides , see text and Materials and methods .
+B-cell specificity of BSAP The mammalian BSAP and the sea urchin TSAP share an additional feature .
+Both factors are present in a strictly tissue-specific manner in the adult organism .
+Whereas TSAP expression is restricted to the tube foot of the sea urchin ( Barberis et al .
+1989 ) , BSAP appears to be expressed exclusively during mammalian B-cell differentiation .
+The B-cell specificity of BSAP is high B-cell-specific transcription factor BSAP lighted by the complete absence of BSAP in all T-lymphoid , myelomonocytic , erythroid , and nonhematopoietic cell lines tested .
+Moreover , BSAP activity was not observed in liver , brain , or thymus , but it was abundant in nuclear extract from spleen , which consists of up to 50 % of B lymphocytes ( [ Patrick et al .
+1986 ) .
+The expression of BSAP is temporally regulated during B-cell ontogeny .
+It appears to be initiated during pro-B-cell differentiation on the basis of the absence of BSAP activity in the early progenitor B-cell line LyD2 ( Palacios et al .
+1987 } and the presence of BSAP in the cell lines HAFTL-1 [ Davidson et al .
+1988 ) and FLEB 14 ( Katamine et al .
+1984 ) , which represent later stages of pro-B-cell development .
+BSAP is present at approximately the same concentration from the pro-B- to the mature B-cell stage of differentiation .
+However , its expression is turned off at the time of terminal differentiation to plasma cells , as demonstrated by the lack of activity in all plasmacytoma cell lines analyzed .
+The strict lineage fidelity of BSAP is astonishing , particularly in comparison to the `` B-cell-specific ' Oct-2 protein , which is promiscuously expressed in certain T-lymphoid and myelomonocytic cell lines ( Landolfi et al .
+1986 ; Schreiber et al .
+1988 ; A. Barberis et al .
+, unpubl . )
+.
+This finding argues strongly for an important role of BSAP in establishing and maintaining part of the B-cell phenotype .
+In agreement with this hypothesis is the observation that the expression of BSAP segregates entirely with the B-cell phenotype ( Fig .
+6 ) , following differentiation of the HAFTL-1 cell line along the B-cell and monocyte/macrophage lineages ( Davidson et al .
+1988 ) .
+A more practical consequence of this is that BSAP may serve as a useful genetic marker for early stages of B-cell differentiation .
+BSAP is a novel transcription factor The sea urchin TSAP was shown previously to be a developmental and tissue-specific transcription factor of a subset of late histone genes ( Barberis et al .
+1989 ) .
+Cell transfection experiments have now demonstrated that the mammalian homolog BSAP can also act as a cell-type-specific transcription factor , because a minimal promoter consisting of a TATA box and a sea urchin TSAP recognition sequence was active only in B cells but not in cell lines lacking BSAP activity .
+A bewildering variety of B-cell-specific transcription factors has been identified so far ( see introductory section ) .
+BSAP appears to be yet a new addition to this list , because it differs from all of the other proteins as judged by the failure of cross-competition in DNA-binding assays .
+Hence , BSAP is not identical with Oct-2 ( Clerc et al .
+1988 ; Muller et al .
+1988 ; Scheidereit et al .
+1988 ) , NF-KB { Sen and Baltimore 19862 , b ) , NF-W1 ( Dorn et al .
+1989 ) , the DNA-binding activities interacting with the human IgH enhancer fragment HE2 ( Araki et al .
+1988 } , the upstream elements BRE-1/2 of the mouse class II MHC gene Aa ( Boothby et al .
+1988 ) , and the purine-rich motif of the SV40 and LPV enhancer ( Pettersson and Schaffner 1987 ) .
+In contrast to BSAF , some of these transcription factors ( Oct-2 , NF- « B , and the HE2-binding protein } were GENES & DEVELOPMENT 855 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Barberis et al .
+BJA-B wt mut N I P3X63 EL4 NIH 3T3 HeL .
+A A amalwa ela B B B B Aus -A- of -- , a h-4 - > < - > S B S B S B S B S B S M upstream a # & | e C- sranscripts ~* 0 ?
+wn `` *u , - @ a » @ e M `` ' < - - =_ - > W # ~ , ‘ 190 & `` ” ~ ] - < - reference - > { ﬂ ‘ x f 147 C ) OVEC-B OVEC-S OVEC-Ref TSAP TATA _ B-globin sv 40 TATA _ B-globin SV 40 SV 40 __ TATA - B-globin f enhancer — < _—m—Mc : m enhancer enhancer del Figure 8 .
+- BSAP is a B-cell-specific transcription factor .
+( A ) Activity of a minimal promoter consisting of a TATA box and the H2A-2.2 TSAP-binding site in BJA-B cells .
+The plasmids OVEC-B and OVEC-S were transiently transfected into BJA-B cells , together with OVEC-Ref , and the expression of the B-globin reporter gene was analyzed by SP6 RNA mapping , as described in Materials and methods .
+( 5 end ) Correctly initiated transcripts of the B-globin gene present in OVEC-B and OVEC-S ; { reference ) transcripts of the plasmid OVEC-Ref .
+( B ) The TSAP-binding site is a B-cell-specific upstream element .
+The expression of the B-globin gene of OVEC-B and OVEC-S was analyzed in the B-cell line Namalwa , the plasmacytoma cell line P3X63-Ag8.653 , the T-cell line EL4 , HeLa cells , and NIH-3T3 fibroblasts , as described above .
+5'-End-labeled pUC18 DNA digested with MspI was used as marker ( lane M ; sizes given in nucleotides ) .
+[ ( C ) Schematic diagram of the OVEC plasmids .
+OVEC-S and OVEC-Ref have been described by Westin et al .
+( 1987 ) .
+The wild-type and mutant H2A-2.2 TSAP oligonucleotides used in the mutational analysis of Fig .
+4 were cloned into the Sall site of OVEC-S in both orientations ( indicated by arrows ) to generate the OVEC-B plasmids .
+shown to be fully active in plasma cells ( Sen and Baltimore 1986a ; Gerster et al .
+1987 ; Araki et al .
+1988 ) .
+Moreover , competition experiments also failed to reveal any high-affinity binding sites for BSAP in the IgH and Igx enhancers , as well as in an immunoglobulin V ; , gene promoter .
+An extensive search of the upstream sequences of the class II MHC gene Ea also did not lead to the identification of a novel B-cell-specific transcription factor other than NF-W1 ( Dorn et al .
+1989 ) .
+Taken together , all this evidence therefore indicates that BSAP does not interact with known control regions of immunoglobulin and class II MHC genes .
+Consequently , BSAP may not be involved in the regulation of these two gene families .
+Potential target genes for BSAP The sea urchin TSAP and the mammalian BSAP are both transcription factors with a conserved DNA-binding domain and a strictly tissue-specific expression pattern ; however , the two proteins differ in other aspects .
+This is emphasized not only by the difference in molecular weight but also by the fact that TSAP is expressed in the tube foot rather than in the coelomocyte , the primitive immune system of the sea urchin ( Barberis et al .
+1989 ) .
+Moreover , the late H2A-2 and H2B-2 genes of the sea urchin that are regulated by TSAP are , to our knowledge , the only core histone genes known to be expressed in a 856 GENES & DEVELOPMENT tissue-specific manner in somatic cells of higher eu-karyotes ( Kemler and Busslinger 1986 ) .
+It is therefore unlikely that a B-cell-specific equivalent of these genes may exist in the mammalian genome .
+All of this evidence led us to conclude that the two transcription factors BSAP and TSAP fulfill different functions in their respective tissues by regulating different sets of genes .
+Different stages of mammalian B-cell development are characterized by the expression of specific cell-surface proteins , many of which are involved in signal transduc-tion { Loken et al .
+1987 ) .
+The genes coding for some of these surface antigens have recently been isolated and characterized .
+At least three of these genes ( { mb-1 , Lyb-2 , and CD19 ) are exclusively expressed in pro-B , pre-B , and mature B cells but not in plasma cells ( Nadler et al .
+1983 ; Sakaguchi et al .
+1988 ; Stamenkovic and Seed 1988 ; Uckun et al .
+1988 ; Nakayama et al .
+1989 ; Tedder and Isaacs 1989 ) and , hence , show an expression pattern similar to that of BSAP .
+It is therefore possible that BSAP may regulate these genes .
+The best candidate is the mouse mb-1 gene , which codes for a CD3-like trans-membrane protein [ Sakaguchi et al .
+1988 ) .
+The expression of this gene was analyzed in many of the cell lines used in our study , and in all cases , there was complete correlation between mb-1 and BSAP expression ( Saka-guchi et al .
+1988 ) .
+The Lyb-2 gene codes for another mouse B-cell differentiation antigen that appears to play Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press an important role as a receptor for a B-cell growth factor or lymphokine ( Nakayama et al .
+1989 ) , whereas the CD19 gene encodes the earliest and most reliable human B-cell lineage surface marker ( Nadler et al .
+1983 ; Stamenkovic and Seed 1988 ; Uckun et al .
+1988 ; Tedder and Isaacs 1989 ) .
+However , the involvement of BSAP in the transcriptional control of these genes will remain speculative as long as the regulatory regions of these genes have not yet been sequenced and characterized .
+Materials and methods Cell lines The murine cell line LyD9 ( Palacios et al .
+1987 ] was obtained from Ronald Palacios ; the HAFTL cell lines ( HAFTL-lscl , HAFTL-M1g4 , HAFTL-pBcl.6 ; Davidson et al .
+1988 ) and cell lines J558L , $ 194 , 18.81 , , , PD31 , 38-C-13 , and P388D1 were obtained from Una Chen ; the human cell lines FLEB 14 ( Katamine et al .
+1984 ) , NALM 6 , and REH were from Mel Greaves ; WEHI-231 , SP2/0 , MPC-11 , Molt 4 , and Jurkat were from Susan Carlson ; WEHI-3 , BW 5147 , and EL4 were from Gordon Keller ; BJA-B , Namalwa , WEHI-279.1 , and 70Z/3 were from Patrick Matthias ; Hela , MEL , and K562 were from Frank Grosveld ; HL60 , U937 , HEL , and PC12 were from Genentech , Inc. ; and F9 , NIH-3T3 tk~ , and 208F were from Erwin Wagner .
+All other cell lines were purchased from American Type Culture Collection ( Rockville , MD } .
+Preparation of nuclear extracts Hematopoietic cells were grown to 10° cells/ml in RPMI 1640 supplemented with 10 % fetal calf serum , 1 % penicillin/strep-tomycin ( 1000 IU of each per milliliter ) , 1 % L-glutamine ( 2 mm } , and 50 wm B-mercaptoethanol , and all nonhematopoietic cells were grown in Dulbecco 's modified Eagle medium ( DMEM } supplemented with the same ingredients except for B-mercaptocthanol .
+Nuclear extracts were prepared according to Dignam et al .
+( 1983 ) , with minor modifications .
+The following protease inhibitors were added to all solutions at the indicated final concentration : 5 pg/ml leupeptin , 5 ug/ml pepstatin A , 5 ug/ral antipain , 5 ug/ml chymostatin , 0.5 mm PMSF , 1 um aprotinin , 1 mM 6-amino capronic acid , and 10 um TRCK ( N-tosyl-L-phenylalanine chloromethyl ketone ) .
+Most nuclear extracts were immediately frozen away after salt extraction in buffer C [ 0.3 m NaCl , 20 mm HEPES ( pH 7.9 } , 20 % glycerol , 1 mm EDTA , 1 mm EGTA , 1 mm DTT ] , whereas the proteins of the BJA-B extracts were precipitated by ( NH , ) ; , SO , , followed by dialysis for 5 hr against buffer D [ 20 mm HEPES ( [ pH 7.9 ) , 20 % glycerol , 20 mm KCI , 0.2 mm EDTA , 0.2 mm EGTA , 1 mm DTT ] .
+Nuclear extracts from sea urchin gastrula embryos and rat tissues were prepared as described by Barberis et al .
+( 1987 ) and Lichtsteiner et al .
+[ 1987 ] , respectively .
+The protein concentration of all extracts was determined by the method of Bradford { 1976 ) .
+Electrophoretic mobility-shift and methylation interference analysis For electrophoretic mobility-shift experiments , 1-3 fmoles of end-labeled DNA were incubated with 3-5 pg of nuclear protein and 2 ug of poly [ d { I-C ) ] in 20 pl of a buffer containing 10 mM HEPES ( pH 7.9 } , 100 mm KCl , 4 % Ficoll , 1 mm EDTA , and 1 mM DTT .
+After incubation at room temperature for 15 min , protein-DNA complexes were separated on a 4 % polyacryl- B-cell-specific transcription factor BSAP amide gel in 0.25 x TBE buffer at 10 V/cm for 2-3 hr at room temperature .
+Competitor DNA was included into the reaction mixture in the amounts described in the legends to Figs .
+2 and 7 .
+Methylation interference analysis was carried out as described by Barberis et al .
+( 1989 ) .
+Oligonucleotide probes and competitors The cloned oligonucleotides containing the TSAP-binding sites of the sea urchin histone H2A-2 and H2B-2 genes were described previously by Barberis et al .
+( 1989 ] .
+These oligonucleotides were excised from the polylinker of the pSP64 vector by Aval and Pst !
+digestion and end-labeled with and Klenow DNA polymerase .
+The oligonucleotides used in the mutational analysis of Figure 4 contained either the promoter sequence of the H2B-2.1 gene from position -50 to -85 or that of the H2A-2.2 gene from position -79 to -114 { Kemler and Busslinger 1986 ) and were flanked in all cases by Sa/l ends .
+These oligonucleotides were end-labeled by [ y-*P|ATP and T4 polynucleotide kinase .
+The same oligonucleotides were cloned in both orientations into the Sall site of OVEC-S { Westin et al .
+1987 ) to generate the OVEC-B plasmids [ Fig .
+8 ) .
+The following double-stranded oligonucleotides that were used as competitor DNAs in mobility-shift assays have been described previously : the TSAP competitor containing the binding site of the late H2B-2.2 gene by Barberis et al .
+( 1989 } ; the octamer oligonucleotide by Barberis et al .
+{ 1987 ) ; the Y oligonucleotide containing the CCAAT box of the Ea { MHC II ) gene by Superti-Furga et al .
+( 1988 ) ; the X , Pu ( PuSV ) , and wE3 oligonucleotides by Dorn et al .
+( 1988 ) ; the W oligonucleotide by Dorn et al .
+( 1989 ) ; the BRE-2 oligonucleotide by Boothby et al .
+{ 1989 } ; and the E1 , E2 , and E4 oligonucleotides by Elmaleh et al .
+( 1990 ) .
+The HE2 oligonucleotide contained the sequence ATTTAGGAAGCAAAAAAACAC of the human IgH enhancer ( Maeda et al .
+1987 ; Araki et al .
+1988 ) , and the NF- « B oligonucleotide contained the sequence CCAGAGGGGACTITTTCC-GAGAGGG of the mouse Igx enhancer ( Sen and Baltimore 19862 ) .
+UV cross-linking The - oligonucleotide GGGTTGTGACGCAGCGCGTGGGT-GACGACTCCAGAGTCGACA containing the H2A-2.2 TSAP-binding - site was annealed to the primer TGTCGACTCTGGAG prior to synthesis of the complementary strand in the presence of 5-bromodeoxyuridine triphos-phate ( 5-BrdUTP ) and [ a-2P ] dCTP as follows .
+Annealed oligonucleotides ( 0.5 pmole } were incubated at 15°C for 2 hr in 10-pl reactions containing 1 unit of Klenow DNA polymerase , 66 mm Tris ( pH 7.5 ) 66 mm MgCl , 10 mm DTT , 50 pCi of [ a-+2P ] dCTP , and 50 wm 5-BrdUTP , dGTP , and dATP .
+Labeled DNA ( 5 x 10° epm ) was incubated in a volume of 100 pl for 15 min with 70 ug of nuclear protein under the conditions described above for electrophoretic mobility-shift analysis .
+Following electrophoretic separation , protein-DNA complexes were cross-linked in situ in the gel by 12-min exposure to UV light on a transilluminator { TM 15 emitting at 302 nm ; , UVP , Inc. , San Gabriel , CA ) .
+The acrylamide slices containing protein-DNA complexes were treated for 1 hr with DNase I in the presence of 10 mm MgCl , and the same protease inhibitor cocktail described above for extract preparation .
+Proteins were eluted from acrylamide in 150 mm NaCl , 20 mm HEPES { pH 7.9 ) , 2 mm EDTA , 5 mm DTT , and 1 % SDS , precipitated with 25 % TCA , and analyzed by 10 % SDS-PAGE , followed by autoradiography .
+GENES & DEVELOPMENT 857 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press Barberis et al .
+Renaturation of gel-purified BSAP Nuclear proteins of the BJA-B extract were fractionated by 12 % SDS-PAGE , eluted from the acrylamide slices , and renatured by the method of Hager and Burgess { 1980 } , as described in detail by Briggs et al .
+( 1986 ) .
+DNA transfection and RNA analysis BJA-B , Namalwa , P3X63-Ag8.653 , and EL4 cells were transfected by the DEAE-dextran procedure with 2 ug of the test plasmid { ( OVEC-B or OVEC-S ) and 2 ug of the reference plasmid { OVEC-Ref ) , as described by Gerster et al .
+( 1987 ) , whereas 5 ug of each plasmid was introduced into HeLa and NIH-3T3 tk-cells by the calcium phosphate coprecipitation method ( Graham and van der Eb 1973 ) .
+Cytoplasmic RNA was extracted 48 hr later according to Favaloro et al .
+( 1980 ) , and 10 ug of RNA was analyzed by SP6 RNA mapping , as described in detail by Vitelli et al .
+( 1988 ) .
+The radioactive anti-mRNA probe contained the sequences from position -37 to +179 relative to the transcription start site of the rabbit -globin gene present in the OVEC plasmid ( Westin et al .
+1987 ) .
+Acknowledgments We are especially grateful to Una Chen , Ronald Palacios , and Mel Greaves for providing early B-lymphoid cell lines .
+We also thank Susan Carlson and Patrick Matthias for providing additional B- and T-cell lines , Walter Schaffner for the OVEC reporter plasmids , Iris Kemler for immunoglobulin DNA clones , Kerstin Meyer for the 3 ' k enhancer plasmid , Patrick Matthias for pB , wE2 , and E4 oligonucleotides , Gotthold Schaffner and his team for oligonucleotide synthesis , Ingeburg Hausmann for expert graphical work , and Adrian Bird , Gordon Keller , and Ben Adams for critical reading of the manuscript .
+References Araki , K. , H. Maeda , J. Wang , D. Kitamura , and T. Watanabe .
+1988 .
+Purification of a nuclear trans-acting factor involved in the regulated transcription of a human immunoglobulin heavy chain gene .
+Cell 53 ; 723-730 .
+Barberis , A. , G. Superti-Furga , and M. Busslinger .
+1987 .
+Mutually exclusive interaction of the CCAAT-binding factor and of a displacement protein with overlapping sequences of a histone gene promoter .
+Cell 50 : 347-359 .
+Barberis , A. , G. Superti-Furga , L. Vitelli , I. Kemler , and M. Busslinger .
+1989 .
+Developmental and tissue-specific regulation of a novel transcription factor of the sea urchin .
+Genes Dev .
+3 : 663-675 .
+Blackwell , TK .
+and FW .
+Alt .
+1989 .
+Immunoglobulin genes .
+In Molecular immunology .
+( ed .
+B.D .
+Hames and D.M .
+Glover ) , pp .
+1-60 .
+IRL Press , Oxford .
+Blanar , M.A .
+, LC .
+Burkly , and R.A. Flavell .
+1989 .
+NF- « B binds within a region required for B-cell-specific expression of the major histocompatibility complex class II gene Eat .
+Mol .
+Cell Biol .
+9 ; 844-846 .
+Boothby , M. , E. Gravallese , H.-C. Liou , and LH .
+Glimcher .
+1988 .
+A DNA binding protein regulated by IL-4 and by differentiation in B cells .
+Science 242 : 1559-1562 .
+Bradford , M.M .
+1976 .
+A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding .
+Anal .
+Biochem .
+72 : 248-254 .
+Briggs , MR. , J.T .
+Kadonaga , S.P .
+Bell , and R. Tjian .
+1986 .
+Purification and biochemical characterization of the promoter 858 GENES & DEVELOPMENT specific transcription factor , Spl .
+Science 234 : 47-52 .
+Clerc , R.G .
+, LM .
+Corcoran , J.H .
+LeBowitz , D. Baltimore , and P.A .
+Sharp .
+1988 .
+The B-cell-specific Oct-2 protein contains POU box- and homeo box-type domains .
+Genes Dev .
+2 : 1570-1581. Cooper , M.D .
+and P.D .
+Burrows .
+1989 .
+B-cell differentiation .
+In Immunoglobulin genes .
+{ ed .
+T. Honjo , FW .
+Alt , and TH .
+Rabbitts ] , pp .
+1-21 .
+Academic Press , London .
+Davidson , W.F .
+, J.H .
+Pierce , S. Rudikoff , and H.C. Morse HL 1988 .
+Relationships between B cell and myeloid differentia-tion : Studies with a B lymphocyte progenitor line , HAFTL-1 .
+J. Exp .
+Med .
+168 : 389-407 .
+Dignam , J.D .
+, R.M .
+Lebovitz , and R.G .
+Roeder .
+1983 .
+Accurate transcription initiation by RNA polymerase II in a soluble extract from isolated mammalian nuclei .
+Nucleic Acids Res .
+11 : 1475-1489 .
+Dorn , A. , HJ .
+Fehling , W. Koch , M. Le Meur , P. Gerlinger , C. Benoist , and C. Mathis .
+1988 .
+B-cell control region at the 5 !
+end of a major histocompatibility complex class II gene : Sequences and factors .
+Mol .
+Cell Biol .
+8 : 3975-3987 .
+Dotn , A. , C. Benoist , and D. Mathis .
+1989 .
+New B-lymphocyte-specific enhancer-binding proteins .
+Mol .
+Cell Biol .
+9 ; 312-320 .
+Elmaleh , N. , P. Matthias , and W. Schaffner , 1989 .
+A factor known to bind to the endogenous Ig heavy chain enhancer only in lymphocytes is a ubiquitously active transcription factor .
+Eur .
+J. Biochem .
+187 ; 507-503 .
+Favaloro , J. , R. Trisman , and R. Kamen .
+1980 .
+Transcription maps of polyoma virus-specific RNA : Analysis by two-dimensional nuclease S1 mapping .
+Methods Enzymol .
+65 : 718-749 .
+Fehling , HJ .
+, S. Viville , W. van Ewijk , C. Benoist , and D. Mathis .
+1989 .
+Fine-tuning of MHC class II gene expression in defined microenvironments .
+Trends Genet .
+5 : 342-347 .
+Fried , M. and D.M .
+Crothers .
+1981 .
+Equilibria and kinetics of lac repressor-operator interactions by polyacrylamide gel electrophoresis .
+Nucleic Acids .
+Res.9 : 6505-6525 .
+Garner , M.M .
+and A. Revzin .
+1981 .
+A gel electrophoresis method for quantifying the binding of proteins to specific DNA regions : Application to components of the Escherichia coli lactose operon regulatory system .
+Nucleic Acids Res .
+9 : 3047-3060 .
+Gerster , T. P. Matthias , M. Thali , J. Jiricny , and W. Schaffner .
+1987 .
+Cell type-specific elements of the immunoglobulin heavy chain gene enhancer .
+EMBO J .
+6 : 1323-1330 .
+Graham , F.L .
+and A. van der Eb .
+1973 .
+A new technique for the assay of infectivity of human adenovirus 5 DNA .
+Virology 52 : 456-467 .
+Greaves , MF .
+, LC .
+Chan , AJ.W .
+Furley , SM .
+Watt , and H.V .
+Molgaard .
+1986 .
+Lineage promiscuity in hematopoietic differentiation and leukemia .
+Blood 67 : 1-11 .
+Hager , D.A .
+and RR .
+Burgess .
+1980 .
+Elution of proteins from sodium dodecyl sulfate , and renaturation of enzymatic ac-tivity : Results with sigma subunit of Escherichia coli RNA polymerase , wheat germ DNA topoisomerase , and other en-zymes .
+Anal .
+Biochem .
+109 ; 76-86 .
+Hanley-Hyde , J.M .
+and R.G .
+Lynch .
+1986 .
+The physiology of B cells as studied with tumor models .
+Annu .
+Rev .
+Immunol .
+4 : 621-649 .
+Katamine , S. , M. Otsu , K. Tada , S. Tsuchiya , T. Sato , N. Ishida , T. Honjo , and Y. Ono .
+1984 .
+Epstein-Barr virus transforms precursor B cells even before immunoglobulin gene rear-rangements .
+Nature 309 : 369-372 .
+Kemler , I. and M. Busslinger .
+1986 .
+Characterization of two nonallelic pairs of late histone HZA and H2B genes of the sea urchin : Differential regulation in the embryo and tissue Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press specific expression in the adult .
+Mol .
+Cell .
+Biol .
+6 : 3746-3754 .
+Koch , W. , C. Benoist , and D. Mathis .
+1989 .
+Anatomy of a new B-cell-specific enhancer .
+Mol .
+Cell Biol .
+9 : 303-311 .
+Laemmli , U.K. 1970 .
+Cleavage of structural proteins during the assembly of the head of bacteriophage T4 .
+Nature 227 : 680-685 .
+Landolfi , N.F .
+, D.J .
+Capra , and P.W .
+Tucker .
+1986 .
+Interaction of cell-type-specific nuclear proteins with immunoglobulin V ; , promoter region sequences .
+Nature 323 : 548-551 .
+Lichtsteiner , S. , J. Wuarin , and U. Schibler .
+1987 .
+The interplay of DNA-binding proteins on the promoter of the mouse albumin gene .
+Cell 51 : 963-973 .
+Loken , MR. , V.O .
+Shah , KL .
+Dattilio , and CI Civin .
+1987 .
+Flow cytometric analysis of human bone marrow .
+IL Normal B lymphocyte development .
+Blood 70 : 1316-1324 .
+Maeda , H. , K. Araki , D. Kitamura , J. Wang , and T. Watanabe .
+1987 .
+Nuclear factors binding to the human immunoglobulin heavy-chain gene enhancer .
+Nucleis Acids Res .
+15 : 2851-2869 .
+McKearn , J.P. , J. McCubrey , and B. Fagg .
+1985 .
+Enrichment of hematopoietic precursor cells and cloning of multipotential B-lymphocyte precursors .
+Proc .
+Natl .
+Acad .
+Sci .
+82 : 7414-7418 .
+Melchers , F. 1989 .
+The many roles of immunoglobulin molecules in the development and growth control of the B-lymphocyte lineage .
+In Immunoglobulin genes .
+( ed .
+T. Honjo , FW .
+Alt , and TH .
+Rabbitts ) , pp .
+23-44 .
+Academic Press , London .
+Meyer , K.B .
+and M.S .
+Neuberger .
+1989 .
+The immunoglobulin k locus contains a second , stronger , B-cell-specific enhancer which is located downstream of the constant region .
+EMBO J .
+8 : 1959-1964 .
+Muller-Sieburg , C.E .
+, C.A .
+Whitlock , and LL .
+Weissman .
+1986 .
+Isolation of two early B lymphocyte progenitors from mouse marrow : A committed pre-pre-B cell and a clonogenic Thy-1° hematopoietic stem cell .
+Cell 44 : 653-662 .
+Muller , M.M .
+, S. Ruppert , W. Schaffner , and P. Matthias .
+1988 .
+A cloned octamer transcription factor stimulates transcription from lymphoid-specific promoters in non-B cells .
+Nature 336 : 544-551 .
+Nadler , LM .
+, K.C .
+Anderson , G. Marti , M. Bates , E. Park , J.F .
+Daley , and S.F .
+Schlossman .
+1983 .
+B4 , a human B lympho-cyte-associated antigen expressed on normal , mitogen-acti-vated , and malignant B lymphocytes .
+J. Immunol .
+131 ; 244-250 .
+Nakayama , E. , I. von Hoegen , and J.R. Parnes .
+1989 .
+Sequence of the Lyb-2 B-cell differentiation antigen defines a gene su-perfamily of receptors with inverted membrane orientation .
+Proc .
+Natl .
+Acad .
+Sci .
+86 : 1352-1356 .
+Nelson , KJ .
+, J. Haimovich , and RP .
+Perry .
+1983 .
+Characterization of productive and sterile transcripts from the immunoglobulin heavy-chain locus : Processing of j , , and j , mRNA .
+Mol .
+Cell Biol .
+3 ; 1317-1332 .
+Ogata , R. and W. Gilbert .
+1977 .
+Contacts between the lac re-pressor and thymines in the lac operator .
+Proc .
+Natl , Acad .
+Sci .
+74 ; 4973-4976 .
+Palacios , R. and M. Steinmetz .
+1985 .
+IL3-dependent mouse clones that express B-220 surface antigen , contain Ig genes in germ-line configuration , and generate B lymphocytes in vivo .
+Cell 41 ; 727-734 .
+Palacios , R. , H. Karasuyama , and R. Rolink .
+1987 .
+Lyl+ Pro-B lymphocyte clones : Phenotype , growth requirements and differentiation in vitro and in vivo .
+EMBO J .
+6 : 3687-3693 .
+Patrick , C.C .
+, J .
+-M Goust , and G. Virella .
+1986 .
+Tissues and cells in the immune response .
+In Introduction to medical B-cell-specific transcription factor BSAP immunology .
+( ed .
+G. Virella , J.-M Goust , HH .
+Fudenberg , and C.C .
+Patrick ] pp .
+7-24 .
+Marcel Dekker , New York .
+Pettersson , M. , and W. Schaffner .
+1987 .
+A purine-rich DNA sequence motif present in SV40 and lymphotropic papovavirus binds a Iymphoid-specific factor and contributes to enhancer activity in lymphoid cells .
+Genes Dev .
+1 : 962-972 .
+Picard , D. and W. Schaffner .
+1984 .
+A lymphocyte-specific enhancer in the mouse immunoglobulin « enhancer .
+Nature 307 : 80-82 .
+Sakaguchi , N. , S-I Kashiwamura , M. Kimoto , P. Thalmann , and F. Melchers , 1988 .
+B lymphocyte-restricted expression of mb-1 , a gene with CD3-like structural properties .
+EMBO J .
+7 : 3457-3464 .
+Scheidereit , C. , J.A .
+Cromlish , T. Gerster , K. Kawakami , C.-G. Balmaceda , A.R .
+Currie , and R.G .
+Roeder .
+1988 .
+A human lymphoid-specific transcription factor that activates immunoglobulin genes is a homeobox protein .
+Nature 336 : 551-557 .
+Schreiber , E. Matthias , P. , M.M .
+Miiller , and W. Schaffner .
+1988 .
+Identification of a novel lymphoid specific octamer binding protein ( OTF-2A ) by proteolytic clipping bandshift assay ( PCBA ) .
+EMBO J .
+7 : 4221-4229 .
+Sherman , P.A .
+, P.V .
+Basta , A. Heguy , M.K .
+Wloch , R.G .
+Roeder , and J.P.-Y Ting .
+1989 .
+The octamer motif is a B-lymphocyte-specific regulatory element of the HLA-DRa gene promoter .
+Proc .
+Natl .
+Acad .
+Sci .
+86 : 6739-6743 .
+Sen , R. and D. Baltimore .
+19863 .
+Multiple nuclear factors interact with the immunoglobulin enhancer sequences .
+Cell 46 : 705-716. .
+1986b .
+Inducibility of k immunoglobulin enhancer binding protein NF- « B by a posttranslational mechanism .
+Cell 47 : 921-928. .
+1989 .
+Factors regulating immunoglobulin-gene tran-scription .
+In Immunoglobulin genes .
+{ ed .
+T. Honjo , FW .
+Alt , and TH .
+Rabbitts } , pp .
+327-324 .
+Academic Press , London .
+Siebenlist , U. , R. Simpson , and W. Gilbert .
+1980 .
+E. coli RNA polymerase interacts homologously with two different pro-moters .
+Cell 20 : 269-281 .
+Stamenkovic , I. and B .
+Seed .
+1988 .
+CD19 , the earliest differentiation antigen of the B cell lineage , bears three extracellular immunoglobulin-like domains and an Epstein-Barr virus-re-lated cytoplasmic tail .
+J. Exp .
+Med .
+168 : 1205-1210 .
+Superti-Furga , G. , A. Barberis , G. Schaffuer , and M. Busslinger .
+1988 .
+The -117 mutation in Greek HPFH affects the binding of three nuclear factors to the CCAAT region of the y-globin gene .
+EMBO J .
+7 : 3099-3107 .
+Tedder , TF .
+and C.M .
+Isaacs .
+1989 .
+Isolation of cDNAs encoding the CD19 antigen of human and mouse B lympho-cytes : A new member of the immunoglobulin superfamily .
+J. Immunol .
+143 ; 712-717 .
+Uckun , FM .
+, W. Jaszcez , J.L .
+Ambrus , A.S. Fauci , K. Gajl-Pec-zalska , C.W .
+Song , M.R .
+Wick , D.E .
+Myers , K. Waddick , and JA .
+Ledbetter .
+1988 .
+Detailed studies on expression and function of CD19 surface determinant by using B43 mono-clonal antibody and the clinical potential of anti-CD19 im-munotoxins .
+Blood 71 : 13-29 .
+Vitelli , L. , I. Kemler , B. Lauber , M.L .
+Birnstiel , and M. Busslinger .
+1988 .
+Developmental regulation of micro-injected histone genes in sea urchin embryos .
+Dev .
+Biol .
+127 : 54-63 .
+Westin , G. , T. Gerster , M.M .
+Muller , G. Schaffner , and W. Schaffner .
+1987 .
+OVEC , a versatile system to study transcription in mammalian cells and cell-free extracts .
+Nucleic Acids Res .
+151 6787-6798 .
+GENES & DEVELOPMENT 859 Downloaded from genesdev.cshlp.org on May 10 , 2019 - Published by Cold Spring Harbor Laboratory Press > t N-t $ & Development A novel B-cell lineage-specific transcription factor present at early but not late stages of differentiation .
+A Barberis , K Widenhorn , L Vitelli , et al .
+Genes Dev .
+1990 , 4 : Access the most recent version at doi:10.1101/gad.4.5.849 References _ This article cites 53 articles , 22 of which can be accessed free at : http : /genesdev.cshlp.org/content/4/5/849.full.html # ref-list-1 License Email Alerting _ Receive free email alerts when new articles cite this article - sign up in the box at the top Service - `` ight corner of the article or click here .
+CRISPR KO , CRISPRa , CRISPRi libraries .
+CELLECTA Custom or genome-wide .
+Copyright © Cold Spring Harbor Laboratory Press

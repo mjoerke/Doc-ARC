@@ -1,0 +1,831 @@
+MoLECcULAR AND CELLULAR BroLOoGY , Mar .
+1999 , p. 2098-2108 0270-7306/99/ $ 04.00+0 Vol .
+19 , No .
+3 Copyright © 1999 , American Society for Microbiology .
+All Rights Reserved .
+Activation-Dependent Transcriptional Regulation of the Human Jas Promoter Requires NF- « B p50-p65 Recruitment HENRY CHAN , DAVID P. BARTOS , anp LAURIE B. OWEN-SCHAUB* Department of Immunology , The University of Texas M. D. Anderson Cancer Center , Houston , Texas 77030 Received 19 June 1998/Returned for modification 14 August 1998/Accepted 10 December 1998 Fas ( CD95 ) and Fas ligand ( CD95L ) are an interacting receptor-ligand pair required for immune homeosta-sis .
+Lymphocyte activation results in the upregulation of Fas expression and the acquisition of sensitivity to FasL-mediated apoptosis .
+Although Fas upregulation is central to the preservation of immunologic tolerance , little is known about the molecular machinery underlying this process .
+To investigate the events involved in activation-induced Fas upregulation , we have examined mRNA accumulation , fas promoter activity , and protein expression in the Jurkat T-cell line treated with phorbol myristate acetate and ionomycin ( P/D ) , pharmacological mimics of T-cell receptor activation .
+Although resting Jurkat cells express Fas , Fas mRNA was induced approximately 10-fold in 2 h upon P/I stimulation .
+Using sequential deletion mutants of the human fas promoter in transient transfection assays , we identified a 47-bp sequence ( positions -306 to -260 relative to the ATG ) required for activation-driven fas upregulation .
+Sequence analysis revealed the presence of a previously unrecognized composite binding site for both the Spl and NF-KB transcription factors at positions -295 to -286 .
+Electrophoretic mobility shift assay ( EMSA ) and supershift analyses of this region documented constitutive binding of Spl in unactivated nuclear extracts and inducible binding of p50-p65 NF-KB heterodimers after P/I activation .
+Spl and NF-B transcription factor binding was shown to be mutually exclusive by EMSA displacement studies with purified recombinant Spl and recombinant p50 .
+The functional contribution of the « B-Spl composite site in P/I-inducible fas promoter activation was verified by using B-Sp1 concatamers ( -295 to -286 ) in a thymidine kinase promoter-driven reporter construct and native promoter constructs in Jurkat cells overexpressing Site-directed mutagenesis of the critical guanine nucleotides in the xB-Sp1 element documented the essential role of this site in activation-dependent fas promoter induction .
+Lymphocyte activation results in the transcription of a number of gene products that mobilize and maintain a functional immune response .
+Such gene products regulate cellular differ-entiation , effector function , and clonal expansion of the responding lymphocyte population .
+One such gene product is Fas ( CD95 ) , a cell surface protein known to induce apoptosis in activated lymphocytes upon binding to its cognate ligand ( FasL ) .
+The essential roles of Fas and FasL in the maintenance of peripheral self-tolerance underscore their prominence as homeostatic regulators of the immune system ( reviewed in reference 41 ) .
+Within the T-cell compartment , Fas is expressed on immature thymocytes , but does not appear to be involved in thymic deletion ( 13 , 17 ) .
+Fas expression on resting peripheral blood lymphocytes is low to absent ( 26 , 37 , 41 , 44 ) .
+Primary T-cell activation results in upregulation of fas mRNA and protein followed by the gradual acquisition of sensitivity to Fas-mediated apoptosis ( 37 , 44 ) .
+Although the regulation of Fas-mediated apoptosis is complex , involving assembly of the intracellular proteins necessary to initiate the apoptotic cascade ( 7 , 40 ) and an absence or low abundance of inhibitory proteins , such as FAP-1 ( 53 ) , FLIP ( 22 ) , bel-2 , and bel-x , , ( 6 , 23 , 25 ) , Fas receptor cross-linking is fundamentally required ( 24 ) .
+Fas expression is maintained on activated lymphocytes for several weeks ( 44 ) , and upon secondary exposure to anti-gen , FasL is upregulated ( 1 , 14 , 26 ) .
+Autocrine or paracrine interactions of Fas and FasL result in the apoptotic elimination of responding CD4* lymphocytes , a process termed `` activa- * Corresponding author .
+Mailing address : The University of Texas M. D. Anderson Cancer Center , 1515 Holcombe Blvd. , Box 178 , Houston , TX 77030 .
+Phone : ( 713 ) 792-8735 .
+Fax : ( 713 ) 745-1633 .
+E-mail : lowensch @ mdanderson.org .
+2098 tion-induced cell death '' ( AICD ) ( 1 , 14 , 26 ) .
+AICD can also be induced in CD4 * T-cell lines by T-cell receptor ( TCR ) engagement or pharmacological mimics of TCR signaling , such as anti-CD3 antibodies or phorbol myristate acetate ( PMA ) plus ionomycin ( P/I ) , respectively .
+In direct contrast , activated CD8 * T cells do not appear to undergo apoptosis as a result of Fas ligation , but rather are stimulated to undergo clonal expansion by reverse signaling through FasL ( 59 ) .
+Thus , while Fas appears to be equivalently upregulated in both CD4 * and CD8* T cells upon activation ( 37 ) , the signals transduced by both Fas and FasL have dissimilar biological effects on the two lymphocyte subsets .
+The transcriptional machinery controlling Fas expression is largely unknown .
+Genomic organization studies showed that human fas is a single-copy gene containing nine exons and eight introns , spanning approximately 25 kb ( 5 ) .
+Sequences proximal to the Fas translational start site have a relatively high GC content ( 61 % ) between -590 and -1 , a number of CpG dinucleotides ( 28 CpGs between -590 and -1 ) , and an absence of conventional TATA and CAAT boxes ( 5 ) .
+These are properties characteristic of a class of polymerase II-dependent promoters that include housekeeping genes ( reviewed in reference 3 ) and other members of the tumor necrosis factor ( TNF ) -nerve growth factor receptor superfamily ( 28 , 51 , 52 , 54 ) .
+Although Fas is constitutively expressed on a variety of nonhematopoietic cells and hematopoietic cell lines ( 33 , 43 ) , multiple reports have documented Fas inducibility in response to such stimuli as UV irradiation , viral infection , wild-type p53 , hypoxia , and chemotherapeutic agents ( 2 , 34 , 39 , 45 , 47 , 61 ) .
+To date , however , the molecular events regulating constitutive and inducible fas expression have not been elucidated .
+In the present study , we have investigated the transcriptional Vor .
+19 , 1999 machinery required for activation-dependent induction of Fas expression in the CD4 * Jurkat T-cell line .
+Although constitutively expressed on Jurkat cells , Fas can be markedly upregulated by P/I activation .
+Using deletion constructs of the fas promoter in luciferase reporter assays , we demonstrate the presence of a previously unrecognized , activation-responsive 47-bp sequence containing a composite binding site for both Sp1 and NF-xB transcription factors .
+Characterization of this noncanonical site ( located at positions -295 to -286 ) by electrophoretic mobility shift assay ( EMSA ) and supershift analyses revealed that Sp1 was constitutively bound to this site in untreated Jurkat cells , while p50-p65 NF- « B heterodimers were bound after P/I activation .
+Site-directed mutagenesis of the critical guanine nucleotides in the < B-Sp1 site , as well as inhibition of IxB degradation or NF-kB translocation , inhibited inducible Fas transcription .
+Taken together , our results indicate a critical requirement for NF- « B translocation to the site at positions -295 to -286 in activation-driven fas promoter induction .
+MATERIALS AND METHODS Cell culture and cellular activation .
+The T-lymphoma cell line Jurkat-E6 was obtained from the American Type Culture Collection ( Rockville , Md . )
+and cultured in complete medium ( RPMI 1640 with 10 % fetal bovine serum [ FBS ] and 2 mM r-glutamine ) at 0.4 X 10° to 0.7 X 10° cells/ml .
+For activation studies , Jurkat cells were removed from culture and washed once with RPMI 1640 , plated in 10 ml of complete medium , and rested overnight .
+The following day , cells were activated with PMA ( 50 ng/m ! )
+and ionomycin ( 3 pg/ml ) for the times indicated ( Sigma , St. Louis , Mo . ) .
+Flow cytometric analysis .
+Indirect antibody staining and flow cytometric analyses were carried out as described previously ( 43 ) .
+Briefly , 10° cells in 100 pl of Dulbecco 's phosphate-buffered saline ( D-PBS ) containing 2 % FBS and 0.1 % sodium azide ( fluorescence-activated cell sorter [ FACS ] buffer ) were incubated with either 150 ng of UB2 ( Kaimaya Biomedical Co. , Tukwila , Wash. ) or isotype-matched , control mouse anti-human immunoglobulin G1 ( IgG1 ) antibodies ( Sig-ma ) at 4°C for 30 min .
+Samples were washed twice in FACS buifer , and phyco-erythrin-conjugated goat anti-mouse IgG secondary antibodies were added in 100 pl of FACS buffer for 30 min at 4°C .
+Samples were washed twice with FACS buffer , fixed overnight in PBS containing 1 % paraformaldehyde , and analyzed with a FACScan ( Becton Dickinson and Co. , Mountain View , Calif. ) .
+Ten thousand cells were analyzed for each sample , with the gate set to exclude dead cells and debris .
+RNA isolation and RPAs .
+At the indicated time points , P/I-treated Jurkat cells were pelleted and washed once in D-PBS .
+Control Jurkat cells were similarly cultured but were not treated with P/I .
+Total RNA from 10 '' cells per sample was extracted with the RNeasy kit ( Qiagen , Chatsworth , Calif. ) according to the manufacturer 's instructions , and RNase protection assays ( RPA ) were performed with the HybSpeed RPA kit ( Ambion , Austin , Tex . ) .
+Samples ( 25 pg of total RNA ) were hybridized to a riboprobe spanning Fas exons 3 to 6 ( cDNA sequence 510 to 750 ) and a control glyceraldehyde-3-phosphate dehydrogenase ( GAPDH ) riboprobe .
+Following RNAse digestion , protected products were boiled , separated by electrophoresis on a 5 % urea-polyacrylamide gel electrophoresis ( PAGE ) gel , and analyzed by autoradiography .
+Scanning densitometry ( Molecular Dynamics , Sunnyvale , Calif. ) was used to quantitate the fas and GAPDH band intensities of cach sample .
+Relative fold induction was calculated by dividing each normalized f2s/GAPDH ratio against the zero time point .
+Generation of fas promoter constructs and site-directed mutagenesis .
+A human placental genomic phage library ( Clonetech , Palo Alto , Calif. ) was screened with a PCR-generated , [ a-* '' P ] dCTP-labeled Fas cDNA probe containing 5 ' untranslated exon 1 and 2 sequences : forward , 5 ' GGACCCGCTCAGTACGG AGTT ; reverse , 5° TTCACCTGGAGGACAGGGCTTATG ( Life Technolo-gies , Grand Island , N.Y. ) .
+Plaque hybridizations were carried out as previously described ( 52 ) , and filters were washed sequentially in 6 % SSC ( 0.9 M NaCl , 0.09 M sodium citrate ) -0.1 % sodium dodecy ] sulfate ( SDS ) at 42°C for 20 min , 2 % SSC-0.1 % SDS at 60°C for 20 min , and 1 % SSC-0.1 % SDS for 20 min before autoradiography .
+Approximately 1.35 x 10° plaques were screened , followed by sequential hybridizations of the positive clones .
+Subsequent subcloning of SacI or HindIII inserts into pGEMI1Zf ( + ) ( Promega , Madison , Wis. ) identified a 2.16-kb HindIII fragment containing 1.74 kb proximal to the Fas translational start site ( FasH3 ) .
+Sanger dideoxy sequencing ( U.S. Biochemical Corp. , Cleve-land , Ohio ) confirmed that FasH3 contained 5 ' flanking sequences identical to those previously reported for human fas ( 5 ) .
+Reporter constructs were generated with the 2.16-kb FasH3 fragment and primers corresponding to sequences -1739 to -1717 ( 5 ' AATAATCACTCAT CTCACTGGGC ) and -43 to -19 ( 5° CGAAGTGAAAGAGCITTCCCCAAC TRANSCRIPTIONAL REGULATION OF THE HUMAN frs PROMOTER - 2099 TC ) by PCR to generate a 1.72-kb product .
+This PCR product was then subcloned into the peR2 expression vector ( Invitrogen , San Diego , Calif. ) and digested with EcoRI , and the insert was shuttled into pGEM7+ ( Promega ) ( pFPR7+ ) .
+A partial Xhol digest and complete HindIII digest of pFPR7+ were made to insert the 1.7-kb fragment into the pGL2Basic luciferase reporter construct ( Promega ) in either orientation .
+The final constructs , FPR1-Luc ( + ) and FPR1-Luc ( - ) , spanning the region ( 1739 to -19 ) upstream of the fas ATG were sequenced to verify orientation and identity .
+The thymidine kinase promoter reporter construct tk-Luc was generated by subcloning the Bg/II-HindIII fragment of the thymidine kinase promoter from pRL-tk ( Promega ) into pGEM-11 , followed by insertion of the Secl-Hind [ II fragment into pGL2B .
+The A5/A6-tk-Luc reporter was constructed by subcloning the Secl fragment from FPR-Luc ( + ) into tk-Luc , digesting it with Xhol-Psfl , treating it with a Klenow fragment to fill recessed ends , and performing blunt end ligation .
+Deletion constructs were generated as follows .
+A5-Lue ( -460 to -19 ) is the product of a religated XhoI digest of FPR-Luc { + ) ; A6-Lue ( -236 to -19 ) is the product of a religated complete SacI digest of FPR-Luc ( + ) .
+Constructs within the A5-Luc region were generated by PCR with the following oligonucleotides , digested with KpnI ( underlined ) -HindIlI ( double underlined ) , and subcloned directly into pGL2B : A5.4+ ( 5 ) GGGTACC-*°GCCACTGCAGGAACGCCC CGGGACAG ) ; A5.5+ ( 5'GGGTACC TACC ) ; A5.7+ *°TCCCCAACCCGGGCGTTCCCCAGCG ) ; A5.8+ _ ( 5GGGTACC `` ° GACCACCGGGGCTTTTCGTGAGCTCGTCT ) ; FasRIH- - CGAAGTGAAAGAGCTTCCCCAAC ) .
+The mutagenized reporter constructs AS5M5.7-Luc and A5M5.8-Luc were generated by PCR with the appropriate primers ( A5.7M , 5°CTCCCCAACCCittCG TTCCCCAGCG [ forward ] and 5°CCTCGCTGGGGAACGaaaGGGTTGG [ re-verse } ; A5.8M , 5°CCGecyCTTITTCGTGAGCTCGTCT [ forward ] and 5'AGAC GAGCTCACGAAAAGrggCGG [ reverse ] ; mutated nucleotides are in lower-case ) by using the QuikChange site-directed mutagenesis kit ( Stratagene , La Jolla , Calif. ) according to the manufacturer 's recommendations .
+All constructs were confirmed by dideoxy sequencing with vector and internal primers .
+Luciferase reporters containing « B-Sp1 concatemers were constructed with oligonucleotides having two copies of the element at position -295 to position -286 .
+These oligonucleotides were synthesized with either KpnI ( underlined ) or Sacl ( double underlined ) 3 ' overhangs ( forward , 5°CGGGCGTTCCCAAAAAG GGCGTTCCCGAGCT and reverse , 5CGGGAACGCCCITTITTTGGGAACG CCCGGTAC ; forward , 5'CGGGCGTTCCCAAAAAGGGCGTTCCCGGTAC and reverse , 5°CGGGAACGCCCTITTITTGGGAACGCCCGAGCT } .
+The corresponding 5° KpnI-3 ' Sacl or 5 '' Secl-3 ' KpnI oligonucleotides were annealed ( 10 min at 85°C and then cooled to room temperature ) , and timed ligations were prepared with T4 ligase with various ratios of the double-stranded primers .
+Aliquots of the reaction mixtures were heated to 75°C for 10 min to inactivate the ligase before subcloning into the KpnI-Sacl-digested tk-Luc vector ( see above ) .
+Various clones were screened by sequence analysis to determine the number of B-Sp1 elements present .
+The resultant constructs containing two , four , and six copies of the kB-Sp1 site were used for transient transfection and reporter assays .
+Transient transfections and reporter assays .
+A DEAE-dextran-chloroquine mixture was used for transient transfection of Jurkat cells .
+Briefly , 5 X 10° to 7.5 X 10° exponentially growing cells were washed and resuspended in 1 ml of transfection solution ( RPMI plus 250 pg of DEAE-dextran per ml , 0.1 M Tris [ pH 7.2 ] , and 0.1 mM chloroquine ) together with 10 pg of reporter construct and 10 ng of the pRL-tk Renilla normalizing luciferase vector ( Promega ) .
+The cells were incubated for 1.5 h at 37°C , washed , and plated in 10 ml of complete media .
+After a 20-h recovery , transfected cells were activated with P/I for 8 h. Cell extracts and luciferase reagents were prepared with the Promega Dual-Lucif-erase Reporter Assay System .
+Both firefly and Renilla luciferase activities were monitored with a luminometer ( Turner Industries , Sunnyvale , Calif. ) .
+Normalized reporter activity is expressed as the firefly luciferase value divided by the Renilla luciferase value .
+Relative fold induction is calculated as the normalized reporter activity of the test sample divided by either the untreated FPR-Luc or A5-Luc reporter construct , as indicated below .
+The Rous sarcoma virus promoter-driven IxBa construct ( RSV-IxBa ) and vector control were obtained from Tse-Wa Tan ( Baylor College of Medicine , Houston , Tex . ) .
+Nuclear extract preparation , EMSAs , supershift analyses , and displacement studies .
+Nuclear extracts were prepared by a modified method of Dignam et al .
+( 15 ) .
+In brief , 7.5 X 10° Jurkat cells were washed in PBS and pelleted before resuspension in 200 l of cold buffer A ( 10 mM HEPES ( pH 7.9 ) , 50 mM NaCl , 1 mM dithiothreitol , 0.1 mM EDTA , 0.1 mM phenylmethylsulfonyl fluoride [ PMSF ] ) and incubated for 20 min on ice prior to the addition of 200 ul of cold buffer B ( buffer A with 0.1 % Nonidet P-40 ) .
+Cells were gently pipetted and returned on ice for another 20 min .
+Nuclei were pelleted ( 5,000 x g , 2 min ) , washed in buffer A , and pelleted again , and nuclear proteins were extracted in 25 ul of buffer D ( 400 mM NaCl , 20 mM HEPES ( pH 7.9 ) , 1 mM EDTA , 1 mM EGTA , 1 mM dithiothreitol 1 mM PMSF ) .
+The tubes were iced for at least 30 min , followed by centrifugation at 4°C for 10 min .
+The supernatant was recov-ered , snap-frozen in liquid nitrogen , and stored at -80°C prior to use .
+Probes used for EMSAs were radiolabeled by [ y-P ] ATP end labeling with T4 polynucleotide kinase .
+Briefly , 30 pg of the A5-Luc plasmid was digested with Xhol , dephosphorylated with calf intestine phosphatase , and both enzymes were inactivated at 85°C for 10 min .
+An aliquot of the digest ( 7.5 mg ) was end labeled 2100 CHAN ET AL .
+with [ y- > °P ] ATP for 60 min before the kinase was inactivated at 75°C for 10 min .
+The end-labeled plasmid was then digested overnight with Seel , and the released probe A ( -460 to -236 ) was gel purified as described previously ( 11 ) .
+The oligonucleotide probe B ( -306 to -278 ; 5'~**°CTCCCCAACCCGGGCGTTC CCCAGCGAGG ) or its mutated counterpart was annealed to the corresponding complementary sequence before 1 pmol was end labeled with [ y-*°P ] ATP for 30 min .
+The labeled probe was purified from unincorporated nucleotides by using a Chroma Spin 10 column ( Clonetech ) following the manufacturer 's instructions .
+The specific activities of all `` P-labeled oligoprobes were routinely 5 X 10° to 6 x 10° cpm per pmol .
+Protein concentration was determined with the Bio-Rad protein assay reagent ( Bio-Rad , Richmond , Calif. ) .
+For EMSAs , 6 pg of nuclear extract was incubated in a total volume of 19 pl of binding buffer [ 50 mM NaCl , 10 mM Tris ( pH 7.9 ) , 0.5 mM EDTA , 1 mg of poly ( dI-dC ) , and 5 % glycerol ] for 15 min at room temperature before 50,000 cpm of the indicated y-* '' P-end-labeled probe was added for another 15 min .
+For competition assays , excess unlabeled oligonucleotides were preincubated for 15 min prior to the addition of the radiolabeled probe ( 50,000 cpm ) .
+For antibody-mediated supershift assays , extracts were preincubated with 1 pl of either anti-p50 , -p65 , -c-Rel ( Oncogene Research , Cam-bridge , Mass . )
+-relB , -p52 , or -Sp1 ( Santa Cruz Biotechnology , Santa Cruz , Calif. ) antibodies at 4°C for 45 min before the addition of the radiolabeled probe .
+The reactions were loaded on a 4.5 % polyacrylamide nondenaturing PAGE gel in 0.5 % Tris-borate-EDTA electrophoresed for 2.5 h at 100 V before drying and exposed to autoradiographic film .
+For displacement studies , 4 footprinting units ( fpu ) of Sp1 ( ~30 ng ; Promega ) was preincubated in a total volume of 19 pl of binding buffer for 5 min prior to addition of 12,500 cpm of labeled probe B .
+After 15 min at room temperature , increasing amounts of recombinant p50 NF- « B ( Promega ) subunits were added for an additional 15 min before the mixture was loaded on a 4.5 % polyacrylamide PAGE gel as described above .
+RESULTS Expression of Fas mRNA and protein is upregulated in Jurkat cells by pharmacological agents that mimic T-cell activation .
+While resting T cells express low to undetectable levels of the Fas protein ( 26 , 37 , 41 , 44 ) , it is rapidly upregulated upon exposure to specific antigens , mitogens , cytokines , TCR antibodies , and various pharmacological agents such as P/I ( 6 , 37 , 44 ) .
+The Jurkat T-cell line has an activated T-cell phenotype , in that it constitutively expresses cell surface Fas ( Fig .
+1A ) .
+Because we were interested in the transcriptional mechanisms controlling Fas expression , we asked whether Fas could be upregulated in Jurkat cells upon activation .
+To this end , Jurkat cells were stimulated with P/I for various times , and mRNA and protein expression was determined with RPAs and FACS analyses , respectively .
+As shown in Fig .
+1A , Jurkat cells transiently upregulated surface Fas after P/I stimulation .
+Increased Fas was detectable as early as 4 h poststimulation , reached maximal levels by 8 h , and declined to near-baseline levels by 24 h. A 1.5- to 2.0-fold increase in both the percentage of cells expressing Fas as well as the mean fluorescence intensity ( MFT ) , representative of antigenic density on a per-cell basis , was observed .
+Correspondingly , as shown in Fig .
+1B , Fas mRNA levels were upregulated by 10-fold in Jurkat cells activated for 2 h ; mRNA levels declined subsequently over the time period examined ( 24 h ) .
+These results demonstrate an immediate-early , activation-dependent upregulation of Fas in P/I-stimulated Jurkat cells , suggesting a likely transcriptional control .
+A 220-bp region in the Fas promoter is required for activation-dependent upregulation .
+To test the premise that activation-dependent Fas upregulation was modulated at the level of transcription , approximately 1.7 kb of the 5 ' region flanking the fas translational start site ( nucleotides -1739 to -19 ) were isolated from a human placental genomic library and subcloned into the pGL2-Basic luciferase reporter vector in both orientations relative to the luciferase gene .
+The basal activity of the FPR1-Luc ( + ) construct was first determined by transient transfections into various T- and B-cell lines , followed by extract preparations and luciferase activity measurements .
+As shown in Fig .
+2A , the FPR1-Luc ( + ) construct demonstrated Mor .
+CELL .
+BioL .
+% Fas + MFI Isotype-matched Control 49.9 2.88 ID 5 60.6 2.97 [ e ] h € 91.2 4.32 2 58.3 3.13 Log Fluorescence Intensity Untreated P /I Time ( Hrs ) : 0 8 24 2 4 8 24 Fas ( CD95 ) @ s - 0 0 0 ® GAPDH |No | mee .
+cae .
+sass .
+ses .
+mame Normalized Fas/GAPDH ratio : | 3.5 | 6.4 | 8.1 | 35.0| 20.6 ) 20.9|11.9 Relative Fold Induction : | 1.0 | 1.8 | 2.3 | 10.0| 5.9 | 6.0 | 3.4 FIG .
+1 .
+Time course induction of Fas upregulation in P/I-treated Jurkat cells .
+( A ) Cells were harvested at the indicated time , and Fas expression was analyzed by flow cytometry .
+Isotype-matched control antibody staining is represented as a dashed line , and Fas staining is represented as solid lines .
+The percentage of specific Fas staining and the mean fluorescence intensity ( MFT ) of Jurkat cells at each time point are shown to the right .
+( B ) Cells were harvested at the indicated time , total RNA was isolated , and Fas mRNA accumulation was determined by RNAse protection analysis .
+Scanning densitometry was used to normalize Fas mRNA levels and to calculate the relative fold induction compared to that of the untreated , time zero sample .
+basal activity in the Jurkat ( 13-fold over empty vector ) , Molt-4 ( 32-fold ) , and HSB ( 14-fold ) T-cell lines .
+In B-cell lines , modest basal activity was observed only in Raji cells ( fivefold over empty vector alone ) , but not in Daudi or Ramos cells .
+These results document that the 1.7-kb region upstream of the fas ATG contains a functional promoter operative in T-cell lines and certain B-cell lines .
+To determine whether FPR1-Luc ( + ) was responsive to activation , transiently transfected Jurkat cells were treated with P/I as described in Materials and Methods , and the relative luciferase activities of untreated and P/I-stimulated cells were compared .
+As shown in Fig .
+2B , FPR1-Luc ( + ) activity increased approximately 17-fold in response to P/I treatment Vor .
+19 , 1999 [ 4 ] ~1739 CJ perss B FPR-Luc ( + ) 30 N & ae o > .
+£2 3 5 p < I k= o .
+o 2 S © d [ € ] P/I ( Hrs ) Jurkat Molt4 HSB _ Raji Daudi Ramos Competitor None Sp1 xB AP- < - C2 -m *- C1 - » « - NS .
+-p Probe A : -460 / -236 compared to the basal activity of unstimulated Jurkat cells .
+The fas promoter is orientation dependent , since FPR1-Luc ( - ) was inactive in both resting and stimulated cells .
+To more precisely map the fas promoter region ( s ) responsive to P/I activation , two deletion constructs containing the sequences from -460 to -19 ( AS-Luc ) and -240 to -19 ( A6-Luc ) were prepared as described in Materials and Methods .
+As shown in Fig .
+2B , P/I inducibility of the fas promoter was maintained when the sequences between -1739 and -460 were deleted .
+However , when sequences between -460 and -240 were deleted , P/I-induced upregulation was virtually absent .
+As shown , FPR1-Luc ( + ) and A5S-Luc were upregulated 17- and 15-fold after P/I treatment , respectively , while the A6-Luc construct was upregulated by less than 4-fold .
+Interestingly , no differences were noted in the activity of these constructs in unstimulated Jurkat cells , suggesting that the fas promoter sequences between -460 and -240 are critically important for activation-dependent , but not basal , transcription .
+Sequence analysis within this region demonstrated the presence of consensus elements for several transcription factors , including AP-2 , GAS , NF-kB , and NF-AT .
+To investigate whether the 220-bp region between -460 and -240 contained enhancer elements responsive to P/I activation , this region was subcloned proximal to a thymidine kinase promoter in a luciferase reporter construct ( AS/A6-tk-Luc ) , and transient transfection reporter assays were carried out .
+As shown in Fig .
+2B , the AS/A6-tk-Lue construct was highly inducible by P/I ( 12-fold relative to tk-Luc ) , at levels comparable to that of the native Fas promoter .
+These results suggest that the fas promoter region between -460 and -240 contains enhancer element ( s ) necessary for activation responsiveness .
+TRANSCRIPTIONAL REGULATION OF THE HUMAN f @ s PROMOTER - 2101 FPR1 - Lue ( + ) ~19 19 FPR1 - Lue ( - ) 1739 ~460 A5 - Lue 19 24° - [ lue ] A6 - Luc +19 tk - Lue [ - ] None BB pa 0 5 10 15 20 A5/A6 « tk - Luc Relative Fold Induction FIG .
+2 .
+Basal and inducible fas promoter activity and in vitro EMSA analysis .
+( A ) FPR1-Luc ( + ) containing the sequence from -1739 to -19 is active in T-cell lines and the B-lymphocyte line Raji , but inactive in Daudi or Ramos cells .
+Cells were transfected with 10 ug of either the empty reporter ( pGL2B [ D ] ) or the fas promoter reporter vector ( FPR1-Luc [ MI ] ) ; 10 ng of pRL-tk vector was cotransfected for normalization .
+Extracts were taken after 40 h , and luciferase activity was determined .
+Relative fold activity was calculated as the normalized FPR1-Luc ( + ) activity divided by the normalized pGL2B value .
+( B ) fas promoter sequences -460 to -240 are required for inducible fas reporter activity .
+FPR1-Luc in both orientations ( forward and reverse ) , A5-Luc , A6-Luc , tk-Lue , and A5/A6-tk-Lue constructs were transiently transfected into Jurkat cells with pRL-tk for normalization , and the cells were then left untreated ( C ) or were activated with P/I ( I ) for 8 h before harvesting of the extracts for measurement of luciferase activity .
+The values shown are averages of three independent experiments ( + standard deviation ) and are expressed as relative fold induction over normalized luciferase values from untreated Jurkat cells containing FPR1-Luc ( + ) .
+For tk-Luc and A5/A6-tk-Luc , the relative fold induction was calculated separately as the normalized luciferase value divided by the untreated , normalized tk-Luc luciferase value .
+( C ) Specific protein complexes bind the enhancer region between -460 and -236 .
+*°P-labeled probe A ( 50,000 cpm ) was mixed with nuclear extracts from untreated or P/l-activated Jurkat cells ( left panel , lanes 1 to 3 ) .
+Specific complexes ( C1 and C2 ) are indicated .
+N.S. , nonspecific complexes .
+Cold competition mixtures with a 25-fold excess of the indicated consensus elements ( right panel , lanes 4 to 7 ) were mixed with extracts from Jurkat cells activated with P/I for 1 h prior to addition of labeled probe A .
+To analyze whether transcription factors may be involved in the activation-dependent upregulation of the fas promoter within this region , EMSA analyses were carried out .
+Nuclear extracts , prepared from unactivated and P/I-stimulated Jurkat cells , were incubated with a °°P -labeled probe spanning the fas promoter region between -460 and -236 ( probe A ) .
+A time course analysis revealed the presence of two complexes binding to this region .
+An upper complex , designated C2 , was constitutively bound in unactivated Jurkat extracts throughout the course of activation ( Fig .
+2C , lanes 1 to 3 ) .
+A second lower complex , designated C1 , bound only upon P/I activation ( Fig .
+2C , Lane 2 ) .
+To determine the nature of the C1 and C2 com-plexes , cold-target competition was carried out with 25-fold excesses of the Sp1 , NF-kB , and AP-1 consensus elements .
+As shown ( Fig .
+2C , lane 5 ) , CZ binding was inhibited by Sp1-specific oligonucleotides , indicating the presence of an Sp1-like transcription factor at this site .
+C1 binding was specifically competed by using « kB consensus oligonucleotides derived from the human immunodeficiency virus long terminal repeat ( HIV LTR ) ( Fig .
+2C , lane 6 ) .
+Other cold-target consensus elements tested , including AP-1 , AP-2 , NF-ATp , and GAS , were incapable of inhibiting either C1 or C2 binding ( Fig .
+2C , lane 7 , and data not shown ) .
+Thus , in the promoter region required for activation-dependent Fas upregulation , Spl 2102 CHAN ET AL .
+A5 A54 C 460 CTCGAGGTCC TCACCTGAAG TGAGCATGCC AGCCACTGCA NFB __ ___ aas 420 GGAACGECCC aeaacagaaa TacccaTtTo : Técaaceaac Ass NFATprAP-2 « 380 CCTGACTCCT TCCTCACCCT GAGTICTICCC : GCTCCCTACC A 5.7 340 CGCGCGCAGG CCAAGTTGCT GAATCAATGG AGCCCTCCCC ; 295/-286 300 AACCCG @ @ C @ TTCCCCAGCG AGGCTTCCTT CCCATCCTCC A 5.8 NFxB A6 250 TGACCACCGGIGGCTT LtCaT @ aGCTcaTCT C -230 NE- « B NF- « B -- B A60 400 -300 -200 -100 19 460 A5 Lue -429 A5.4 Luc 366 A5.5 -Lue 19 « 306 A5.7 Luc 259 A5.8 Lue 240 A6 -Lue Relative Fold Induction FIG .
+3 .
+Localization of activation-dependent fas promoter activity .
+( A ) The fas nucleotide sequence between -460 and -230 is shown with known consensus transcription factor elements indicated ( shaded areas ) .
+The location and designation of the various deletion constructs are indicated by the solid arrow .
+( B ) P/I inducibility of the fas promoter localizes between nucleotides -306 and -260 .
+Jurkat cells transiently transfected with 10 g of the various deletion constructs and 10 ng of pRL-tk as the normalizing vector were left untreated ( 0 ) or activated with P/I ( @ I ) for 8 h before extracts were prepared for luciferase activity measurements .
+The values shown are averages of three independent experiments + standard deviation and are expressed as the relative fold induction of the various deletion constructs over the untreated , normalized A5-Luc luciferase value .
+bound constitutively , while NF- « B complex formation occurred only in response to stimulation .
+Activation-dependent Fas promoter induction requires nucleotides -306 to -260 .
+To analyze the region between -460 and -240 in further detail , sequential deletions of A5-Luc spanning 40- to 60-bp intervals were generated by PCR .
+The precise sequences contained in the various constructs are shown in Fig .
+3A .
+Basal and inducible promoter activities in transiently transfected , unactivated , and P/I-stimulated Jurkat cells , respectively , are shown in Fig .
+3B .
+Deletion of nucleotides -460 to -306 and -259 to -240 had little effect on the activation-dependent induction of the fas promoter ( AS to A5.7 , A5.8 to A6 ) , ruling out the contribution of the consensus NF- « B sites located at -421 to -412 and -252 to -243 , the GAS element at -394 to -386 , and the NF-ATp-AP-2 site at positions -358 to -345 .
+When nucleotides -306 to -260 ( A5.7 to A5.8 ) were deleted , however , inducible reporter activity was reduced to that observed with the A6 construct .
+The sequences between -306 and -260 were devoid of any mapped transcription factor consensus sites , except for a kB-like motif present at positions -295 to -286 .
+This motif con Mor .
+CELL .
+BioL .
+tains the sequence GGGCGTTCCC and differs from the derived consensus kB p50-p65 heterodimer motif GGGRNNY YCC ( 20 , 30 , 48 ) at position 4 ( change of R to C ) .
+Notably , however , the critical G , _ , nucleotides necessary for p50 binding are maintained .
+Comparison of this motif to a consensus Sp1 site , KRGGCGKRRY ( 35 ) , also revealed homology at 8 of 10 residues , indicating a possible interaction with this transcription factor .
+Taken together with results from our previous studies showing that complexes that could be competed with Sp1 and NF-kB oligonucleotides bound to the fas promoter region at -406 to -236 , it seemed likely that these transcription factors , acting alone or in combination , might be required for activation-dependent fas promoter induction .
+Spl and NF- < B conjointly bind at the motif ( -295 to -286 ) during activation-driven fas promoter induction .
+To further investigate the transcription factors involved in fas promoter upregulation in P/T-activated Jurkat cells , EMSA analyses of nuclear extracts were performed with a 29-bp probe spanning the noncanonical « B-Sp1-like motif ( -306 to -278 ; probe B ) .
+In concert with our previous observations with probe A , spanning nucleotides -460 to -236 ( Fig .
+2C ) , we observed constitutive binding of the CZ complex in both unactivated and P/I-stimulated extracts and inducible binding of the C1 complex upon activation ( Fig .
+4A ) .
+C1 was induced de novo within 15 min of P/I addition ( Fig .
+4A , lane 2 ) and persisted for up to 2 h postactivation ( Fig .
+4A , lane 5 ) .
+The specificities of C1 and C2 binding to probe B were first demonstrated by cold-com-petition assays using excess unlabeled probe B ( Fig .
+4A , lane 9 ) .
+Jurkat extracts were coincubated with radiolabeled probe B and 25-fold excesses of either unlabeled AP-1- or NF-AT-specific oligonucleotides or a mutated probe B ( GGG to TTT [ see below ] ) .
+Under these conditions , no displacement was observed in either C1 or C2 binding complexes ( Fig .
+4A , lanes 7 , 8 , and 10 ) .
+To investigate Sp1-NF- « B binding to probe B , Jurkat extracts were incubated with labeled probe B and increasing concentrations of unlabeled NF-kB consensus oligo-nucleotides .
+With a 25-fold excess , NF-kB oligonucleotides effectively competed the inducible C1 complex , but not the C2 complex .
+However , at 100-fold excess , both C2 and nonspecific binding were inhibited ( Fig .
+4A , lanes 11 to 12 ) .
+Increasing concentrations of Spl oligonucleotides , on the other hand , specifically competed the constitutive C2 complex , but not the inducible C1 binding ( Fig .
+4A , lanes 13 and 14 ) .
+We next addressed whether extracts from P/I-activated Jurkat cells bound to probe B could be supershifted by using antibodies against various NF- « kB-Rel family members , including p50 , p52 , p65 , c-Rel , and RelB .
+As shown in Fig .
+4B , the inducible C1 complex was supershifted with antibodies against p50 , p65 , and to a lesser extent , c-Rel , indicating the presence of these heterodimers in the shifted complex ( Fig .
+4B , lanes 2 to 4 ) .
+No such shifted complexes were observed in extracts from unactivated Jurkat cells lacking the inducible C1 complex ( data not shown ) .
+Antibodies against Sp1 , on the other hand , shifted the constitutive C2 complex in both activated ( Fig .
+4B , lanes 7 and 8 ) and unactivated Jurkat extracts ( data not shown ) .
+These results imply that Spl is bound to the kB-Sp1l site at -295 to -286 during normal basal transcription , whereas NF-kB p50-p65 heterodimers occupy the < B-Sp1 site during activation-driven fas promoter induction .
+Mutually exclusive binding of Spl versus NF-KB at nucleotides -295 to -286 .
+To assess whether binding of Spl and NF-kB to the -295 to -286 site in the fas promoter occurs concurrently or as a mutually exclusive event , EMSA analyses were performed with probe B with recombinant Sp1 and increasing amounts of recombinant p50 .
+Consistent with our observations using extracts from unactivated Jurkat cells , a Vor .
+19 , 1999 [ 4 ] Time ( min . )
+Competition & « & A , F .
+$ $ '' & '' % A .
+® CCC { & a ¢ » @ _®P A J 24 Free Probe 1 2 3 4 5 6 7 8 9 10 11 12 13 14 Probe B : -306 / -278 \\ ® o © A , o C3 & & & '' & 0000 C Antibody : C P L4 C $ @ # 6 -G- p65/c-rel - < 4- Spi -- p50 Probe B : -306 / -278 Sp1 ( 120ng ) + -o + + +/+ 0 0 5 10 20 40 p50 ( ng ) : | Sp1 : : | pso Free Probe 1 2 3 4 5 6 Probe B : -306/-278 FIG .
+4 .
+In vitro analysis of a potential « B-Sp1 site at -295 to -286 .
+( A ) Time course analysis of complex binding to probe B ( -306 to -278 ) .
+Jurkat cells were activated with P/I for the indicated time , nuclear extracts were harvested , and EMSA analysis was performed with *°P-labeled probe B ( left panel , lanes 1 to 5 ) .
+TRANSCRIPTIONAL REGULATION OF THE HUMAN f @ s PROMOTER - 2103 single complex is observed when probe B is mixed with Spl alone ( Fig .
+4C , lane 2 ) .
+As increasing amounts of recombinant p50 are added , however , the intensity of the Sp1 complex is decreased , with a concomitant increase in the lower p50 binding complex ( Fig .
+4C , lanes 3 to 6 ) .
+These results indicate that the fas promoter region at -295 to -286 contains a single < B-Sp1 binding motif to which either Spl or NF- « B is exclusively bound .
+Upon cellular activation , constitutively bound Sp1 is likely displaced by NF-xB to drive fas promoter upregulation .
+NF-B recruitment regulates activation-dependent Fas promoter induction .
+Although the above in vitro analyses document that NF- « B heterodimers are rapidly recruited to the fas promoter region controlling activation-dependent induction , these studies do not address the functional consequences of the effects of NF-kB recruitment on fas promoter activity .
+To investigate the role of NF- « B recruitment in activation-driven fas upregulation , the effects of various inhibitors of NF- « B function were examined .
+Jurkat cells transiently transfected with the A5-Luc reporter were pretreated with two pharmacological inhibitors of NF- « B and then activated with P/I , and luciferase activity was determined .
+As shown in Fig .
+5A , cyclosporin A pretreatment of Jurkat cells completely prevented P/I-dependent upregulation of the fas promoter .
+Because this calcineurin inhibitor can inhibit NF-AT translocation and disrupt Ca** signals leading to NF-kB induction ( 36 ) , the fungal metabolite gliotoxin , a specific inhibitor of IxB- « degradation and NF-kB translocation , was also used ( 46 ) .
+Gliotoxin , but not the inactive gliotoxin derivative bis-dethio-bis ( methylthi0 ) gliotoxin , completely abolished P/I inducibility of the AS-Luc reporter , consistent with the notion that NF- « B recruitment was functionally required for activation-dependent fas promoter induction .
+The critical requirement for NF- « B recruitment was additionally verified in Jurkat cells overexpressing wild-type IxB- « .
+The overexpression of IxB- « , a natural inhibitor of NF-kB translocation , has been shown to effectively block « B-dependent transactivation ( 31 , 32 ) .
+As shown in Fig .
+5B , P/T-activated Jurkat cells transiently transfected with the AS-Lue reporter and RsV-IxB- « expression plasmid showed a dose-dependent decrease in fas promoter activity with increasing IxB-a « concentration .
+Taken together , these results strongly support the premise that NF-kB translocation is essential for activation-dependent fas promoter induction .
+The B-like motif at -295 to -286 controls activation-dependent fas promoter responses .
+While previous experiments indicated that NF- « B translocation was essential for fas promoter induction , the functional significance of the kB element at positions -295 to -286 remained to be tested .
+To Cold competition was performed with 1-h-activated Jurkat cell nuclear extracts with a 25-fold excess of consensus oligonucleotides for the transcription factors AP-1 , NF-AT , wild-type probe B ( W-T ) , or mutated probe B ( Mut . )
+added prior to incubation with *°P-labeled probe B ( lanes 7 to 10 ) .
+For NF- « B and Sp1 competition , a 25-fold excess ( lanes 11 and 13 ) and 100-fold excess ( lanes 12 and 14 ) of consensus oligonucleotides were added to equivalent amounts of P/I-activated nuclear extracts prior to addition of *°P-labeled probe B .
+N.S. , nonspecific binding .
+( B ) Supershift analyses of P/l-activated Jurkat cell nuclear extracts .
+Nuclear extracts were subjected to EMSA analysis in the absence ( lane 1 ) or presence of the indicated specific antisera ( lanes 2 to 8 ) , or preimmune IgG ( lane 9 ) .
+With two different anti-Sp1 antisera , probe B binding to the upper C2 complex was shown to be either shifted or inhibited ( lanes 7 and 8 ) .
+Arrows indicate the identity of the shifted complexes .
+( C ) Mutual exclusive binding of Sp1 and NF- « B p50 to probe B. Recombinant Sp1 ( 4 fpu [ 120 ng ] ) was preincubated with 12,500 cpm of radiolabeled probe B in the absence ( lane 2 ) or presence of increasing amounts ( 0 to 40 ng ) of recombinant NF- « B p50 ( lanes 3 to 6 ) prior to EMSA analysis .
+Brackets indicate the Sp1-probe B and p30-probe B complexes .
+2104 CHAN ET AL .
+[ - ] .
+None © P/ 15 10 Relative Fold Induction None - CsA GT DGT Inhibitors Mor .
+CELL .
+BioL .
+100 5 T 5 75 T. € & - 50 T C < I o [ vet 25 32 T 0 0 2.5 5 7.5 10 RsV-IxBa co-transfected ( ug ) FIG .
+5 .
+Inhibition of activation-dependent fas promoter upregulation .
+( A ) Pharmacological inhibition of A5-Luc induction by P/I .
+Jurkat cells transiently transfected with 10 pg of A5-Lue and 10 ng of pRL-tk were preincubated in the absence ( None ) or presence of cyclosporin A ( CsA [ 1 pg/ml ) ) , gliotoxin ( GT [ 1 pg/ml ] ) , or bis-dethio-bis ( methylthio ) gliotoxin ( DGT [ 3 pg/ml ] ) for 30 min prior to P/I stimulation for 8 h. Following incubation , cells were harvested for extract preparation , and luciferase activity was determined .
+The values shown are representative of two independent experiments + standard deviation and are expressed as the relative fold induction over normalized untreated A5-Luc activity .
+( B ) Dose-dependent inhibition of P/I-inducible A5-Luc reporter activity by I « Ba .
+Increasing amounts of wild-type RsV-IxBa ( ID ) or vector control ( ® ) expression plasmid were cotransfected into Jurkat cells with 10 ug of A5-Lue and 10 ng of pRL-tk 40 h prior to P/I activation .
+Cells were harvested for extract preparation after 8 h of P/I exposure , and luciferase activity was measured .
+The values shown are averages from two independent experiments + standard deviation and are expressed as percent inhibition of P/I-induced , normalized A5-Luc reporter activity .
+determine the specific contribution of this kB-Sp1l element , oligonucleotides were synthesized with the composite site altered ( as underlined ) ( GGGCGTTCCC to TTTCGTTCCC ) and with a mutagenized A5 fas reporter construct generated by PCR .
+This construct was designated ASM5.7-Luc .
+As a control , a second A5 reporter construct containing the xB site at -262 to -253 was also mutagenized ( ASMS5.8 ; GGGGCTTITTC to GCCYCTTTITC ) and used in reporter assays .
+Jurkat cells transiently transfected with the wild-type AS-Lue construct , ASMS5.7-Luc , or the ASMS5.8-Luc control were activated with P/I , and reporter activity was measured .
+Similar to previous experiments with the A5 deletion constructs ( Fig .
+3B ) , both wild-type AS-Lue and ASM5.8-Luc showed an approximate 15-fold induction following activation ( Fig .
+6 ) .
+In contrast , ASM5.7-Luc reporter activity increased only threefold after P/I treatment .
+These results document the functional contribution of the kB-Spl site at positions -295 to -286 , but not the consensus NF-kB site at -262 to -243 , in activation-dependent fas promoter induction .
+Interestingly , while ASM5.7-Lue induction was significantly suppressed compared to that of the wild-type A5-Luc construct ( 79.6 % + 10.61 % , respectively ) P/I inducibility was not entirely abolished .
+Such findings suggest that an additional site or sites , perhaps in the region from -19 to -240 ( compare Fig .
+3B to Fig .
+6 ) , may be required for maximal fas promoter induction during T-cell activation .
+To further verify the transcriptional contribution of the -295 to -286 kB-Sp1 composite site , concatemer constructs containing multiple copies of this element upstream of a thymidine kinase promoter-driven luciferase reporter were generated ( Fig .
+2B ) .
+Constructs containing none , two , four , or six copies of the xB-Sp1 element were transiently transfected into Jurkat cells , and the reporter activity was measured after P/I activation ( Fig .
+6B ) .
+As expected , the inducibility of the con-catemer-reporter constructs increased with the number of the < B-Sp1 elements multimerized , with six copies showing a > 35-fold specific induction over that of the thymidine kinase promoter alone .
+As observed previously with the A5-Luc construct ( Fig .
+5 ) , P/I inducibility of the xB-Sp1 concatemers was specifically eliminated by inhibitors of NF- « B translocation .
+Fig ures 6B and C show the effects of gliotoxin and IxB- « overexpression on P/I inducibility of the < B-Spl-containing constructs .
+Furthermore , in cells transfected with six copies of the element basal reporter activity was fourfold higher in unstimulated Jurkat cells than that of the tk-Luc reporter alone , suggesting a possible enhancement of constitutive fas promoter regulation by multiple Spl sites .
+Taken together , these experiments confirm the functional significance of the xB-Sp1 site at -295 to -286 in the control of activation-driven fas promoter induction .
+DISCUSSION In recent years , much attention has been focused on how the immune response is downregulated .
+Because self-reactive T cells are ineffectively deleted by negative selection in the thy-mus , the preservation of immune homeostasis requires self-regulatory mechanisms for the maintenance of tolerance and the control of excessive T-cell proliferation to foreign antigens in the periphery .
+Apoptosis is responsible for maintaining T-cell homeostasis by at least two mechanisms-AICD that occurs after TCR ligation by antigen and passive cell death that occurs in the absence of antigen or cytokine stimulation ( 1 , 14 , 26 , 63 ) .
+The Fas-FasL-mediated pathway of apoptosis appears to be central in the regulation of peripheral tolerance , because mutations in either the receptor or the ligand can induce lymph-adenopathy and autoimmune disease in mice and humans caused by defects in AICD and peripheral T- and B-cell deletion ( 18 , 60 , 65 ) .
+Fas is constitutively expressed on most cultured T cells , whereas freshly isolated , naive ( CD4SRO* ) peripheral blood T cells have little to no surface Fas .
+Early after T-cell activation , Fas is rapidly upregulated , but these Fas-positive cells remain resistant to Fas-induced apoptosis ( 26 , 37 , 41 , 44 ) .
+With the progression of an immune response , Fas-positive T cells acquire sensitivity to Fas-induced killing ( 37 , 44 ) .
+Although Fas upregulation is known to be a prerequisite for the elicitation of Fas-FasL-mediated AICD ( 1 , 14 , 26 ) , the molecular mechanisms underlying this process have not been well investigated .
+In this report , we have identified the imme- Vor .
+19 , 1999 NF-xB __ « B/Sp1 NF- « B aso -C u L WE A5 - Lue 400 -300 200 -100 __ NF- « B xB/Sp1 NF- « B t K 400 300 200 » 100 Tg Lue | ASM5.7 - Luc NF-xB xB/Sp1 NF- « B —'|—|+_ Luc _| A5M5.8 - Luc 460 `` 200 [ ] None tk - Lue @ p m ct 1- GT + PA [ Lue ] S2tk- Luc DGT + P/ x/SA4tk - Lue oo 0 10 20 30 40 Relative Fold Induction 1057 a T [ ] Vector N Rsv-isBo : Relative Inhibition ( % ) 3 & I 1 « 35-x/S2tk x/S4tk x/S6tk diate transcriptional events and cis-acting elements required for activation-induced fas expression in the human Jurkat cell line .
+Using transient transfection reporter assays , we have localized a 47-bp sequence ( -306 to -260 ) upstream of the translational start site that confers P/I inducibility of the fas promoter ( Fig .
+3B ) .
+Within this region , a critical 10-bp enhancer ( -295 to -286 ) was shown to bind Sp1 during basal transcription expression and NF- « B p50-p65 heterodimers after P/I activation ( Fig .
+4 ) .
+When binding of NF-kB was inhibited by the blockade of kB translocation or mutagenesis of the site , activation-dependent Fas upregulation was lost .
+Our findings provide the first molecular evidence for differen- TRANSCRIPTIONAL REGULATION OF THE HUMAN f @ s PROMOTER - 2105 Relative Fold Induction 5 10 15 20 [ ] None ® P/ FIG .
+6 .
+The « B-Sp1 enhancer element is required for P/l-inducible A5-Luc reporter activity .
+( A ) Nucleotide mutagenesis of A5-Luc at either the « B-Sp1 element ( GGG-CCC ; -295 to -293 [ ASMS5.7-Luc ] ) or the downstream NF- « B element ( GGG-CCY ; -252 to -249 [ A5M5.8-Luc ] ) was introduced by PCR .
+Wild-type or mutagenized constructs were cotransfected into Jurkat cells with 10 ng of pRL-tk , and the cells were activated with P/I for 8 h prior to being harvested for extract preparation and luciferase activity measurements .
+The values shown are averages of three independent experiments + standard deviations and are expressed as the relative fold increase over untreated , normalized A5-Lue luciferase activity .
+( B ) Concatemer constructs containing either none ( tk-Luc ) , two ( x/S2tk-Luc ) , four ( x/§4tk-Luc ) , or six ( x/S6tk-Luc ) copies of the « B-Sp1 element ( -295 to -286 ) were juxtaposed upstream of a thymidine kinase-driven luciferase reporter and cotransfected into Jurkat cells as mentioned above before activation with P/I and luciferase measurements .
+Inhibition of NF- « B activity were analyzed by preincubation of transfected cells with either gliotoxin ( GT [ 1 pug/ml ] ) or bis-dethio-bis ( methylthio ) gliotoxin ( DGT [ 1 ug/m1 ] ) as described in the legend to Fig .
+5 prior to activation with P/I .
+Relative fold induction is calculated against the untreated , normalized tk-Luc reporter luciferase activity .
+( C ) Specific inhibition of NF- « B-dependent upregulation of the kB-Sp1 motif concatemers by coexpression of RsV-IxBa .
+Multimerized constructs were cotransfected with 5 ug of cither RsV-IxBa or vector-only expression plasmids before activation with P/I as described above .
+Extracts were taken for luciferase measurements , and relative inhibition is calculated as the percentage of P/I-induced luciferase activity of the corresponding reporter constructs .
+tial control of constitutive and inducible Fas expression and suggest an intervention strategy for inducible Fas upregulation .
+Spl is a zinc-finger transcription factor constitutively expressed in a variety of cell types that binds the GC-rich consensus sequences ( KGGGCGGRRY or KRGGCGKRRY ) present in many cellular and viral promoters .
+The N terminus of Sp1 contains glutamine- and serine/threonine-rich domains required for transactivation , while the C terminus is involved in synergistic activation and interaction with other transcription factors ( 12 ) .
+Although Sp1 has been shown to independently initiate transcription in TATA-less promoters ( reviewed in reference 3 ) , it can also form homo- or heteromultimeric complexes to transactivate a number of disparate promoters , including interleukin 2 , VCAM-1 , and the HIV LTR ( 42 , 50 , 56 ) .
+Several lines of circumstantial evidence suggest that Spl may be involved in basal fas transcription .
+First , sequences proximal to the fas translational start site have a relatively high GC content ( 61 % between positions -590 and -1 ) and an absence of conventional TATA and CAAT boxes ( 5 ) , typical of a subclass of polymerase II-dependent promoters controlled by the interactions of the glutamine-rich activation domains of Sp1 with TFIID components ( 9 ) .
+Second , the TATA-less , GC-rich area of the fas promoter ( -590 to -1 ) has been shown to be 2106 CHAN ET AL .
+functional in analyses of transcriptional start sites ( 5 ) .
+Third , the TATA-less A5 fas promoter construct was sufficient in driving basal transcription .
+Fourth , Spl bound to the kB-Spl site at positions -295 to -286 in resting , but not activated , Jurkat cell extracts ( data not shown ) .
+Finally , multimers of the kB-Sp1 element at positions -295 to -286 showed increase basal transcription in Jurkat cells ( Fig .
+6B ) .
+Although Sp1 may be involved in the control of fas transcription in resting Jurkat cells , it is likely that multiple Sp1 binding elements are required for optimal basal levels of Fas expression .
+In this regard , site-directed mutagenesis of the xB-Sp1 site at -295 to -286 alone inhibited basal fas transcription by ~20 % , while disruption of a second consensus Sp1 site at -140 to -131 repressed basal fas transcription by greater than 50 % ( data not shown ) .
+Nuclear translocation of the NF- « B-Rel transcription factor family occurs in T lymphocytes in response to TCR engagement ( reviewed in reference 20 ) .
+The prototypic form of NF- « B is a heterodimer complex containing NF- « kB1-p50 or NF- « kB2-p52 in combination with a transactivating subunit such as c-Rel or RelA ( p65 ) ( reviewed in reference 64 ) .
+Each NF- « xB-Rel family member contains a conserved N-terminal region responsible for decameric DNA binding , dimerization , and IxB interaction ; NF- « B-responsive genes are transacti-vated by the C-terminal domain of dimeric NF- « B-Rel family members .
+In resting T lymphocytes , various NF- « B subunits are sequestered in the cytoplasm by virtue of their association with by the IxB family of inhibitors ( IxBa , IxBB , IxBg , IxBy , and bel-3 ) , which masks their nuclear localization signal ( reviewed in reference 64 ) .
+During T-cell activation , intracellular signaling triggers multiple kinase pathways that converge in the activation of the IxB kinase complex ( IKK ) ; IKK then phos-phorylates IxBa or IxBB at conserved serines , resulting in the targeting of the kB inhibitor for ubiquitin-proteasome-depen-dent destruction and permitting the nuclear translocation of NF-kB ( 10 ) .
+Binding sites for NF-kB have been found in numerous genes involved in effector T-cell function , including those regulating cytokine production , cell adhesion molecules , and apoptosis .
+In this report , we have demonstrated that NF- « B p50-p65 mediates inducible fas promoter activation in T lymphocytes at -460 to -240 and confers the majority of P/I responsiveness at a single , noncanonical < B-Spl-like motif ( GGGCGTTCCC ) located at -295 to -286 .
+Interestingly , although two consensus NF-KB sites as well as GAS , NF-ATp , AP-2 , and Egr-1 sites are also present within this region , the contribution of these elements to either basal or inducible fas promoter induction in Jurkat cells was insignificant ( Fig .
+3 ) .
+Notably , however , such motifs may be functional in other cell types , because Egr-1 binding at -371 to -338 has been reported to repress fas transcription during B-cell activation ( 16 ) .
+The mutually exclusive binding of either Spl or NF-kB to the novel composite < B-Sp1 site at -295 to -286 in the fas promoter differs from the previously described cross-coupling of NF-kB with the transcription factor AP-1 or HMG I ( Y ) ( 58 , 62 ) .
+Our observations are not unexpected , however , in light of reports documenting the functional interference of Spl and NF- « B at selected NF-kB binding sites ( 21 ) and crystallographic data showing that Sp1 and p50 homodimers both interact with DNA at the major groove ( 19 , 38 , 49 ) .
+In this report , we provide multiple lines of evidence that NF- « B p50-p65 heterodimers displace Sp1 at the composite kB-Sp1 site to drive activation-dependent interaction of the fas promoter .
+First , P/I-dependent promoter induction requires the sequences between -306 and -260 containing the kB-Sp1l site ( Fig .
+3B ) .
+Second , NF-kB p50-65 heterodimers bound to this region of the fas promoter only during activation ( Fig .
+4A and B ) .
+Third , recombinant NF- « B p50 displaced Sp1 binding to Mor .
+CELL .
+BioL .
+the xB-Sp1 site in a dose-dependent manner ( Fig .
+4C ) .
+Fourth , recruitment of NF-kB to the fas promoter region at -295 to -286 was required for activation-dependent fas promoter induction , but not for basal activity ( Fig .
+5 ) .
+Fifth , specific mutagenesis of the NF-kB site at -295 to -286 significantly diminished P/I-dependent fas promoter induction ( Fig .
+6A ) .
+Finally , multimers of the « B-Sp1 site juxtaposed to a minimal thymidine kinase promoter were functionally responsive to P/I stimulation in a dose-dependent manner ( Fig .
+6B ) .
+In further support of our observations that NF- « B is critically required for activation-induced fas upregulation , several inducers of NF-kB , including UV irradiation , hypoxia , cytokines , and TNF , have been reported to rapidly upregulate Fas ( 24 , 44 , 61 ) .
+It is interesting to speculate that Sp1 , bound to the kB-Sp1 site during basal transcription , may facilitate rapid activation-induced fas promoter responsiveness mediated by NF-kB translocation as a consequence of its role in DNA bending ( 57 ) .
+If Fas is similarly regulated in Jurkat and fresh T cells , our findings may be relevant to HIV pathogenesis , in which increased Fas expression and sensitivity to FasL-induced apoptosis have been reported during infection and disease progression ( 2 , 4 , 27 ) .
+Interestingly , both HIV-1 binding and gp120-mediated CD4 cross-linking can induce NF-kB ( 8 ) .
+Because NF-kB can drive both HIV-1 expression ( 50 ) and fas upregulation , inhibition of NF-kB may be one major strategy to suppress both viral replication ( 31 ) and premature execution of the AICD pathway resulting in T-cell depletion .
+Indeed , inhibitors of NF-kB may also effectively repress Fas-driven apoptosis in response to metabolic stress , genotoxic insults , and viral infections .
+Although our studies clearly demonstrate a critical role for NF- « B in fas upregulation , other transcriptional or posttran-scriptional processes may also be operative , depending upon the cell type and cellular microenvironment .
+For example , the proline- , glutamine- , and histidine-rich protein TDAGS1 has been reported to be critical for Fas mRNA induction after TCR engagement ( 47 ) .
+Our laboratory has demonstrated that wild-type p53 can upregulate fas expression in both hematopoietic and nonhematopoietic cells ( 45 ) .
+Taken with our current observations , it is plausible that p53 may act with NF- « B to increase fas transcription , particularly under conditions of metabolic and genotoxic stress .
+mRNA stability may also regulate fas expression .
+In this regard , the 3 ' untranslated region of fas contains several AU-rich elements reported to induce selective mRNA degradation ( 29 , 55 ) .
+Given the potent biological function of the Fas protein , multiple levels of gene regulation involving both cis-acting transcription and mRNA stability would not be unexpected .
+In summary , our studies have identified a novel kB-Spl enhancer motif in the fas promoter in which NF-kB p50-p65 dimers bind to drive activation-dependent Fas upregulation in T cells .
+The critical involvement of NF-kB further underscores the importance of this transcription factor in immuno-homeostasis and prompts consideration for strategies aimed toward its manipulation in various pathophysiological states involving inappropriate Fas and FasL interactions , including malignant disease , autoimmunity , and AIDS .
+ACKNOWLEDGMENTS This work was supported in part by NIH Cancer Center Support Core grant CA16672 , NIH predoctoral fellowship ( H.C. ) , and American Cancer Society grant CIM 88929 ( L.B.O.-S. ) .
+We thank Karen Ramirez for providing technical expertise with flow cytometric analyses and Kathleen McAveney and David McConkey for critical reading of the manuscript .
+Vor .
+19 , 1999 10 .
+11 .
+12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+25 .
+26 .
+REFERENCES .
+Alderson , M. R. , T. W. Tough , T. Davis-Smith , S. Braddy , B. Falk , K. A. Schooley , R. G. Goodwin , C. A. Smith , F. Ramsdell , and D. H. Lynch .
+1995 .
+Fas ligand mediates activation-induced cell death in human T lymphocytes .
+J. Exp .
+Med .
+181:71-77. .
+Aries , S. , B. Scgaaf , C. Muller , R. Dennin , and K. Dalhoff .
+1995 .
+Fas ( CD95 ) expression of CD4* T cells from HIV-infected patients increases with dis-case progression .
+J. Mol .
+Med .
+73:591-593. .
+Azizkhan , J. C. , D. E. Jensen , A. J .
+Pierce , and M. Wade .
+1993 .
+Transcription from TATA-less promoters : dihydrofolate reductase as a model .
+Crit .
+Rev .
+Eukaryot .
+Gene Expr .
+3:229-254. .
+Banda , N. K. , J. Bernier , D. K. Kurabara , R. Kurrie , N. Haligwood , R. P. Sekaly , and T. H. Finkel .
+1992 .
+Crosslinking CD4 by human immunodeficiency virus gp120 primes T cells for activation-induced apoptosis .
+J. Exp .
+Med .
+176:1099-1106. .
+Behrmann , L , H. Walczak , and P. H. Krammer .
+1994 .
+Structure of the human APO-1 gene .
+Eur .
+J. Immunol .
+24:3057-3062. .
+Boise , L. H. , A. J. Minn , P. J. Noel , C. H. June , M. A. Accavitti , T. Lindsten , and C. B. Thompson .
+1995 .
+CD28 costimulation can promote T cell survival by enhancing the expression of Bcl-x , Immunity 3:87-98. .
+Boldin , M. P. , T. M. G. Goncharou , Y. V. Goltsev , and D. Wallach .
+1996 .
+Involvement of MACH1 , a novel MORT1/FADD interacting protease , in Fas/APO-1 and TNF receptor-induced cell death .
+Cell 85:803-815. .
+Briant , L. , N. Coudronniere , V. Hebmann-Robert , M. Benkirane , and C. Devaux .
+1996 .
+Binding of HIV-1 virions or gp120-anti-gp120 immune complexes to HIV-1-infected quiescent peripheral blood mononuclear cells reveals latent infection .
+J. Immunol .
+156:3994-4004. .
+Chen , J. L. , L. D. Attardi , C. P. Verrijzer , K. Yokomori , and R. Tjian .
+1994 .
+Assembly of recombinant TFIID reveals differential coactivator requirements for distinct transcriptional activators .
+Cell 79:93-105 .
+Chen , Z. , J. P. Hagler , V. F. Melandri , B. D. Scherer , and T. Maniatis .
+1995 .
+Signal-induced site-specific phosphorylation targets IxBa « to the ubiquitin-proteasome pathway .
+Genes Dev .
+9:1586-1597 .
+Chodish , L. A .
+1989 .
+DNA-protein interactions , p. 12.2.1-12.2.10 , In F. M. Ausubel et al .
+( ed .
+) , Current protocols in molecular biology , vol .
+2 .
+Greene Publishing Associates and Wiley-Interscience , New York , N.Y. Courey , A. J. , D. A. Holtzman , S. P. Jackson , and R. Tjian .
+1989 .
+Synergistic activation by the glutamine-rich domains of human transcription factor Sp1 .
+Cell 59:827-836 .
+Debatin , K.-M. , D. Siiss , and P. H. Krammer .
+1994 .
+Differential expression of APO-1 on human thymocytes : implications for negative selection ?
+Eur .
+J. Immunol .
+24:753-758 .
+Dhein , J. , H. Walczak , C. Baumler , K. M. Debatin , and P. H. Krammer .
+1995 .
+Autocrine T-cell suicide mediated by APO-1/ ( Fas/CD95 ) .
+Nature 373 : 438-441 .
+Dignam , J. , R. Lebovitz , and R. Roeder .
+1983 .
+Accurate transcription initiation by RNA polymerase II in a soluble extract from isolated mammalian nuclei .
+Nucleic Acids Res .
+11:1475-1489 .
+Dinkel , A. , W. K. Aicher , C. Haas , P. F. Zipfel , H.-H. Peter , and H. Eibel .
+1997 .
+Transcription factor Egr-1 activity down-regulates Fas and CD23 expression in B cells .
+J. Immunol .
+159:2678-2684 .
+Drappa , J. , N. Brot , and K. B. Elkon .
+1993 .
+The Fas protein is expressed at high levels on €CD4+CD8+ thymocytes and activated mature lymphocytes in normal mice but not in the lupus-prone strain , MRL /pr/lpr .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:10340-10344 .
+Fisher , G. H. , F. J. Rosenberg , S. E. Straus , J. K. Dale , L. A. Middleton , A. Y. Lin , W. Strober , M. J. Lenardo , and J. M. Puck .
+1995 .
+Dominant interfering Fas gene mutations impair apoptosis in a human autoimmune lymphoproliferative syndrome .
+Cell 81:935-946 .
+Ghosh , G. , G. V. Duyne , S. Ghosh , and P. B. Sigler .
+1995 .
+Structure of NF- « B p50 homodimer bound to a « B site .
+Nature 373:303-310 .
+Ghosh , S. , M. J .
+May , and E. B. Kopp .
+1998 .
+NF- « B and Rel proteins : evolutionarily conserved mediators of immune responses .
+Annu .
+Rev .
+Immunol .
+16:225-260 .
+Hirano , F. , H. Tanaka , Y. Hirano , M. Hiramoto , H. Handa , I. Makino , and C. Scheidereit .
+1998 .
+Functional interference of Sp1 and NF- « B through the same DNA binding site .
+Mol .
+Cell .
+Biol .
+18:1266-1274 .
+Irmler , M. , M. Thome , M. Hahne , P. Schneider , K. Hofmann , V. Steiner , J.-L. Bodmer , M. Schriter , K. Burns , C. Mattmann , D. Rimoldi , L. E. French , and J. Tschopp .
+1997 .
+Inhibition of death receptor signals by cellular FLIP .
+Nature 388:190-195 .
+Itoh , N. , Y. Tsujimoto , and S. Nagata .
+1993 .
+Effect of bel-2 on Fas antigen-mediated cell death .
+J. Immunol .
+151:621-627 .
+Itoh , N. , S. Yonehara , A. Ishii , M. Yonebara , S. Mizushima , M. Sameshima , A. Hase , Y. Seto , and S. Nagata .
+1991 .
+The polypeptide encoded by the cDNA for human cell surface antigen Fas can mediate apoptosis .
+Cell 66 : 233-243 .
+Jiiittela , M. , M. Benedict , M. Tewari , J .
+A. Shayman , and V. M. Dixit .
+1995 .
+Bcl-x and bel-2 inhibit TNF and Fas-induced apoptosis and activation of phospholipase A ; in breast carcinoma cells .
+Oncogene 10:2297-2305 .
+Ju , S. T. , D. J. Panka , H. Cul , R. Ettinger , M. El-Kbatib , D. H. Sherr , B .
+Z. Stanger , and A. Marshak-Rothstein .
+1995 .
+Fas ( CD95 ) /FasL interactions TRANSCRIPTIONAL REGULATION OF THE HUMAN fas PROMOTER 27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41. .
+Neish , A. S. , L. M. Khachigian , A .
+Park , V. R. Baichwal , and T. Collins .
+1995 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+2107 required for programmed cell death after T-cell activation .
+Nature 373:444-448 .
+Katsikis , P. D. , E. S. Wunderlich , C. A. Smith , L. A. Herzenberg , and L. A. Herzenberg , 1995 .
+Fas antigen stimulation induces marked apoptosis of T lymphocytes in human immunodeficiency virus-infected individuals .
+J. Exp .
+Med .
+181:2029-2036 .
+Kemper , O. , and D. Wallach .
+1993 .
+Cloning and partial characterization of the promoter for the human p35 tumor necrosis factor ( INF ) receptor .
+Gene 134:209-216 .
+Kruys , V. , O. Marinx , G. Shaw , J. Deschamps , and G. Huez .
+1989 .
+Translational blockade imposed by cytokine-derived UA-rich sequences .
+Science 245:852-855 .
+Kunsch , C. , S. M. Ruben , and C. A. Rosen .
+1992 .
+Selection of optimal « xB/Rel DNA-binding motifs : interaction of both subunits of NF- « B with DNA is required for transcriptional activation .
+Mol .
+Cell .
+Biol .
+12:4412-4421 .
+Kwon , H. , N. Pelletier , C. DeLuca , P. Genin , S. Cisternas , R. Lin , M. A. Wainberg , and J. Hiscott .
+1998 .
+Inducible expression of IxBa repressor mutants interferes with NF- « B activity and HIV-1 replication in Jurkat T cells .
+J. Biol .
+Chem .
+273:7431-7440 .
+Lai , J.-H. , G. Horvath , J. Subleski , J. Bruder , P. Ghosh , and T.-H. Tan .
+1995 .
+RelA is a potent transcriptional activator of the CD28 response element within the interleukin 2 promoter .
+Mol .
+Cell .
+Biol .
+15:4260-4271 .
+Leithiuser , F. , J. Dhein , G. Mechtersheimer , K. Koretz , S. Briiderlein , C. Henne , A. Schmidt , K.-M. Debatin , P. H. Krammer , and P. Moller .
+1993 .
+Constitutive and induced expression of APO-1 , a new member of the nerve growth factor/tumor necrosis factor receptor superfamily , in normal and neoplastic cells .
+Lab .
+Investig .
+69:415-429 .
+Leverkus , M. , M. Yaar , and B .
+A. Gilchrest .
+1997 .
+Fas/Fas ligand interaction contributes to UV-induced apoptosis in human keratinocytes .
+Exp .
+Cell Res .
+232:255-262 .
+Locker , J .
+1996 .
+Transcription factors-essential data .
+John Wiley & Sons , Chichester , West Sussex , United Kingdom .
+Marienfeld , R. , M. Neumann , S. Chuypilo , C. Escher , B. Kneitz , A. Avots , A. Schimpl , and E. Serfling .
+1997 .
+Cyclosporin A interferes with the inducible degradation of NF- « B inhibitors , but not with the processing of p105/NFkB1 in T cells .
+Eur .
+J. Immunol .
+27:1601-1609 .
+Miyawaki , T. , T. Uehara , R. Nibu , T. Tsuji , A. Yachie , S. Yonehara , and N. Taniguchi .
+1992 .
+Differential expression of apoptosis-related Fas antigen on lymphocyte subpopulations in human peripheral blood .
+J. Immunol .
+149 ; 3753-3758 .
+Muller , C. W. , F. A. Rey , M. Sodeoka , G. L. Verdine , and S. C. Harrison .
+1995 .
+Structure of the NF-kB p50 homodimer bound to DNA .
+Nature 373 : 311-317 .
+Muller , M. , S. Strand , H. Hug , E.-M. Heinemann , H. Walczak , W. J. Hoff-mann , W. Stremmel , P. H. Krammer , and P. R. Galle .
+1997 .
+Drug-induced apoptosis in hepatoma cells is mediated by the CD95 ( APO-1/Fas ) receptor/ ligand system and involves activation of wild-type p53 .
+J. Clin .
+Investig .
+99:403-413 .
+Muzio , M. , A. M. Chinnaiyan , F. C. Kischkel , K. O'Rourke , A. Shevchenko , J. Ni , C. Scaffidi , J. D. Bretz , M. Zhang , R. Gentz , M. Mann , P. H. Krammer , M. E. Peter , and V. M. Dixit .
+1996 .
+FLICE , a novel FADD-homologous ICE/Ced-3-like protease , is recruited to the CD95 ( Fas/APO-1 ) death inducing signaling complex .
+Cell 85:817-827 .
+Nagata , S. 1997 .
+Apoptosis by death factor .
+Cell 88:355-365 .
+Sp1 is a component of the cytokine-inducible enhancer in the promoter of vascular cell adhesion molecule-1 .
+J. Biol .
+Chem .
+270:28903-28909 .
+Owen-Schaub , L. B. , R. Radinsky , E. Kruzel , K. Berry , and S. Yonehara .
+1994 .
+Anti-Fas on nonhematopoictic tumors : levels of Fas/APO-1 and bcl-2 are not predictive of biological responsiveness .
+Cancer Res .
+54:1580-1586 .
+Owen-Schaub , L. B. , S. Yonehara , W. L. Crump , and E. A. Grimm .
+1992 .
+DNA fragmentation and cell death is selectively triggered in activated human lymphocytes by Fas antigen engagement .
+Cell .
+Immunol .
+140:197-205 .
+Owen-Schaub , L. B. , W. Zhang , J. C. Cusack , L. S. Angelo , S. M. Santee , T. Fujiwara , J .
+A. Roth , A .
+B. Deisseroth , W.-W. Zhang , E. Kruzel , and R. Radinsky .
+1995 .
+Wild-type human p53 and a temperature-sensitive mutant induce Fas/APO-1 expression .
+Mol .
+Cell .
+Biol .
+15:3032-3040 .
+Pahl , H. L. , B. Kraub , K. Schulze-Osthoff , T. Decker , E. B.-M. Traenckner , M. Vogt , C. Myers , T. Parks , P. Warring , A. Mihlbacher , A. P. Czernilofsky , and P. A. Baeuerle .
+1996 .
+The immunosuppressive fungal metabolite gliotoxin specifically inhibits transcription factor NF- « B .
+J. Exp .
+Med .
+183:1829-1840 .
+Park , C. G. , S. Y. Lee , G. Kandala , S. Y. Lee , and Y. Choi .
+1996 .
+A novel gene product that couples TCR signaling to Fas ( CD95 ) expression in activation-induced cell death .
+Immunity 4:583-591 .
+Parry , G. C. , and N. Mackman .
+1994 .
+A set of inducible genes expressed by activated human monocytic and endothelial cells contain xB-like sites that specifically bind c-Rel-p65 heterodimers .
+J. Biol .
+Chem .
+269:20823-20825 .
+Pavletich , N. P. , and C. O. Pabo .
+1991 .
+Zinc finger-DNA recognition : crystal structure of a Zif268-DNA complex at 2.1 A .
+Science 252:809-817 .
+Perkins , N. D. , N. L. Edwards , C. S. Duckett , A .
+B. Agranoff , R. M. Schmid , and G. J. Nabel .
+1993 .
+A cooperative interaction between NF- « B and Sp1 is 2108 51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+57 .
+58 .
+CHAN ET AL .
+required for HIV-1 enhancer activation .
+EMBO J .
+12:3551-3558 .
+Rothe , J. , H. Bluethmann , R. Gentz , W. Lesslauer , and M. Steinmetz .
+1993 .
+Genomic organization and promoter function of the murine tumor necrosis factor receptor B gene .
+Mol .
+Immunol .
+30:165-175 .
+Santee , S. M. , and L. B. Owen-Schaub .
+1996 .
+Human tumor necrosis factor receptor p75/80 ( CD120b ) gene structure and promoter characterization .
+J. Biol .
+Chem .
+271:21151-21159 .
+Sato , T. , S. Irie , S. Kitada , and J. C. Reed .
+1995 .
+FAP-1 : A protein tyrosine phosphatase that associates with Fas .
+Science 268:411-415 .
+Sehgal , A. , N. Patil , and M. Chao .
+1988 .
+A constitutive promoter directs expression of the nerve growth factor receptor gene .
+Mol .
+Cell .
+Biol .
+8:3160-3167 .
+Shaw , G. , and R. Kamen .
+1986 .
+A conserved AU sequence from the 3 ' untranslated region of GM-CSF mRNA mediates selective mRNA degra-dation .
+Cell 46:659-667 .
+Sherka , C. , E. L. Decker , and P. F. Zipfel .
+1995 .
+A regulatory element in the human interleukin 2 gene promoter is a binding site for the zinc finger proteins Sp1 and EGR-1 .
+J. Biol .
+Chem .
+270:22500-22506 .
+Sjottem , E. , C. Andersen , and T. Johansen .
+1997 .
+Structural and functional analyses of DNA bending induced by Sp1 family transcription factors .
+J. Mol .
+Biol .
+267:490-504 .
+Stein , B. , A. S. Baldwin , Jr. , D. W. Ballard , W. C. Greene , P. Angel , and P. Herrlich .
+1993 .
+Cross-coupling of the NF- « B p65 and Fos/Jun transcription 59 .
+60 .
+61 .
+62 .
+63 .
+64 .
+65 .
+Mor .
+CELL .
+BioL .
+factors produces potentiated biological function .
+EMBO J .
+12:3879-3891 .
+Suzuki , L , and P. J. Fink .
+1998 .
+Maximal proliferation of cytotoxic T lymphocytes requires reverse signaling through Fas ligand .
+J. Exp .
+Med .
+187 ; 123-128 .
+Takabashi , T. , M. Tanaka , C. I. Brannan , N. A. Jenkins , N. G. Copeland , T. Suda , and S. Nagata .
+1994 .
+Generalized lymphoproliferative disease in mice , caused by a point mutation in the Fas ligand .
+Cell 76:969-976 .
+Tanaka , M. , H. Ito , S. Adachi , H. Akimoto , T. Nishikawa , T. Kasajima , F. Marumo , and M. Hiroe .
+1994 .
+Hypoxia induces apoptosis with enhanced expression of Fas antigen messenger RNA in cultured neonatal rat cardio-myocytes .
+Circ .
+Res .
+75:426-433 .
+Thanos , D. , and T. Maniatis .
+1992 .
+The high mobility group protein HMG I ( Y ) is required for NF- « B-dependent virus induction of the human IFN-B gene .
+Cell 71:777-789. van Parijs , L. , A. Ibraghimoy , and A. K. Abbas .
+1996 .
+The roles of costimulation and Fas in T-cell apoptosis and peripheral tolerance .
+Immunity 4:321-326 .
+Verma , I. M. , J. K. Stevenson , E. M. Schwartz , D. Van Antwerp , and S. Miyamoto .
+1995 .
+Rel/NF- « B/IxB family : intimate tales of association and dissociation .
+Genes Dev .
+9:2723-2735 .
+Watanabe-Fukunaga , R. , C. I. Brannan , N. G. Copeland , N. A. Jenkins , and S. Nagata .
+1992 .
+Lymphoproliferation disorder in mice explained by defects in Fas antigen that mediates apoptosis .
+Nature 356:314-317 .

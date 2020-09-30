@@ -1,0 +1,989 @@
+MOLECULAR AND CELLULAR BIOLOGY , Nov. 1996 , p. 6582-6592 0270-7306/96/ $ 04.00+0 Copyright © 1996 , American Society for Microbiology Vol .
+16 , No .
+11 Calcium-Dependent Immediate-Early Gene Induction in Lymphocytes Is Negatively Regulated by p21 '' * '' * CHANG-YAN CHEN , LORA W. FORMAN , anp DOUGLAS V. FALLER* Cancer Research Center and Departments of Medicine and Biochemistry , Boston University School of Medicine , Boston , Massachusetts 02118 Received 23 February 1996/Returned for modification 15 April 1996/Accepted 7 August 1996 The induction of immediate-early ( IE ) response genes , such as egr-1 , c-fos , and c-jun , occurs rapidly after the activation of T lymphocytes .
+The process of activation involves calcium mobilization , activation of protein kinase C ( PKC ) , and phosphorylation of tyrosine kinases .
+p21 '' , a guanine nucleotide binding factor , mediates T-cell signal transduction through PKC-dependent and PKC-independent pathways .
+The involvement of p21 '' * '' in the regulation of calcium-dependent signals has been suggested through analysis of its role in the activation of NF-AT .
+We have investigated the inductions of the IE genes in response to calcium signals in Jurkat cells ( in the presence of activated p21 ' '' '' ) and their correlated consequences .
+The expression of activated p21 ' '' '' negatively regulated the induction of IE genes by calcium ionophore .
+This inhibition of calcium-activated IE gene induction was reversed by treatment with cyclosporin A , suggesting the involvement of calcineurin in this regulation .
+A later result of inhibition of this activation pathway by p21 '' was down-regulation of the activity of the transcription factor AP-1 and subsequent coordinate reductions in ZL-2 gene expression and protein production .
+These results suggest that p21 ' '' '' is an essential mediator in generating not only positive but also negative modulatory mechanisms controlling the competence of T cells in response to inductive stimulations .
+Cells modulate incoming environmental signals from the environment , often via receptor-ligand interactions , and integrate positive and negative stimuli in such a way that the cellular response can be modulated in both magnitude and duration .
+Signals initiating at the cell membrane are transduced to the nucleus through a variety of parallel and sometimes interacting cytoplasmic second messengers .
+One type of target for these signaling events , the transcription factors , can themselves be activating or inhibitory and individually , or in concert , can further integrate the variety of signals impinging upon them .
+Thus , the coordinated interactions between multiple signal transduction pathways and transcription factors result in specific biological programs .
+In T lymphocytes , the activation events resulting from mito-gen stimulation or cross-linking of the T-cell receptor ( TcR ) -CD3 complex include phospholipid hydrolysis , with subsequent increases in calcium mobilization , protein kinase C ( PKC ) activation , and tyrosine phosphorylation ( 4 , 23 , 24 , 44 , 83 ) .
+Following these immediate signaling consequences of TcR triggering , p21 '' '' '' activity is rapidly stimulated , as measured by its conversion from the GDP- to the GTP-bound state ( 19 , 28 , 29 , 35 ) .
+There are at least two mechanisms , acting through PKC-dependent and PKC-independent pathways , which are responsible for p21 '' regulation ( 35 , 88 ) .
+It has been suggested that p21 '' may be involved in the calcium-mediated arm of the T-cell activation pathway and may cooperate with calcineurin , a calcium-dependent protein phosphatase ( PP2B ) , to regulate the activation of the nuclear factor of activated T cells ( NF-AT ) , an important transcription factor for interleukin 2 ( IL-2 ) induction ( 5 , 6 , 11a ) .
+After the activation of p21 '' '' * '' , the activities of numerous regulators , including Raf , the mitogen-activated protein ( MAP ) kinases , and the extracellular signal-regulated MAP kinases ( ERKs ) , are induced ( 34 , 46 , 77 , 81 , 86 ) .
+* Corresponding author .
+Mailing address : Cancer Research Center , Boston University School of Medicine , 80 E. Concord St. E-124 , Boston , MA 02118 .
+Phone : ( 617 ) 638-4173 .
+Fax : ( 617 ) 638-4176 .
+6582 In response to membrane-generated signals , several distinct nuclear events also occur in appropriate spatial and temporal orders : the induction of immediate-early ( IE ) genes , such as the c-fos , c-jun , egr-1 , and IL-2 receptor ( IL-2R ) genes ; the induction of the IL-2 gene through regulation by transcription factors NF-AT , NF-kB , AP-1 , and Oct-1 ; and the final mitogenic response via the binding of IL-2 to its cognate receptor .
+It is not fully understood , however , how these different signals are modulated and integrated into a genetic pathway by epis-tasis , interact or form complexes with each other , and terminate after a precise time interval .
+The IE genes c-fos , egr-1 , and c-jun are rapidly and transiently induced in response to a number of environmental stimuli ( 17 , 41 , 47 , 50 , 76 , 79 ) .
+The rapid transactivation of the c-fos gene has been extensively studied , and its induction is mediated by discrete transcription factors , such as SRF , Elk-1 , and CREB , depending on the cell type and stimuli delivered ( 32 , 67 , 72 , 73 , 78 ) .
+In fibroblasts , serum stimulation mediating phosphorylation and activation of the SRF-Elk-1 complex may be regulated by a p21 '' '' -dependent kinase cascade , involving , sequentially , Raf , MAP kinase , and pp90* ( 7 , 12 , 27 , 49 ) .
+Calcium stimulation activates SRF and CREB through an Ras-independent mechanism involved in a calmodulin kinase ( 56 , 58 , 67 , 69 , 73 ) .
+Transcription of egr-7 is induced shortly after mitogenic stimulation in cells of most lineages and generally parallels the pattern observed for c-fos ( 76 ) .
+The coregulation c-fos and egr-1 can be explained , to some extent , by the elements common to the promoters of the genes ( 55 ) .
+The induction of c-jun gene transcription by AP-1 in T cells is regulated by the Jun N-terminal protein kinase JNK , in an Ras-depen-dent fashion ( 18 , 75 ) .
+In activated T cells , it has been suggested that the transcription of c-fos and c-jun may be controlled by a calcium-regulated , cyclosporin A ( CsA ) -sensitive signaling pathway ( 79 ) .
+Despite a great deal of progress in identifying and characterizing the signal transducers that positively regulate IE gene transcription ( 18 , 50 , 69 , 73 ) , much less is known about negative regulatory mechanisms which modulate and attenuate the Vou .
+16 , 1996 signals to achieve an appropriately timed transcriptional or biological response .
+Specifically , potential cross-talk between the p21 '' '' -mediated and calcium-activated pathways regulating IE gene expression in lymphocytes has not been elucidated .
+To study this issue , a constitutively activated p21 '' * '' gene , v-Ha-ras , was stably transfected into a human T-lymphoblastoid cell line , Jurkat , and the response of the IE genes to stimulation with calcium ionophore was examined .
+Here we present biochemical evidence that activated p21 '' negatively regulates the calcium-mediated induction of the IE genes egr-1 , c-fos , and c-jun and subsequently down-regulates the DNA-binding activity of transcription factor AP-1 and IL-2 production .
+The negative effect of p21 '' on egr-1 and fos gene induction by calcium can be abolished by pretreatment with CsA , a calcineurin inhibitor .
+Expression of activated p21 '' '' can also inhibit calcium-mediated c-jun induction , but this inhibition can not be blocked by CsA .
+Together , these results suggest that p21 '' , as an important signal transducer , not only mediates mitogenic signaling but also functions as an inhibitor , in a negative and calcium-dependent fashion , to regulate a precise biological response .
+MATERIALS AND METHODS Cell lines and cell transfections .
+The human T-lymphoid cell line Jurkat ( American Tissue Culture Collection , Rockville , Md . )
+was cultured in Dulbecco modified Eagle medium containing 10 % heat-inactivated newborn calf serum ( Hazelton Research Products , Inc. , Lenexa , Kans .
+) , 2 mM 1-glutamine , 100 U of penicillin per ml , and 100 ng of streptomycin per ml .
+Jurkat cells were stably transfected by electroporation as previously described ( 43 ) .
+The v-Ha-ras-ex-pressing vector PH1 , a circularly permuted clone of the Harvey sarcoma virus , was the gift of E. Scolnick , Merck Pharmaceuticals .
+This gene was cotransfected with a selectable marker conferring resistance to geneticin ( G418 ; Gibco ) .
+Subsequently , transfectants were subcloned and selected for resistance to G418 .
+The expression of the v-ras transcript and p21 '' '' '' protein levels for each subclone were quantitated by RNA blotting and immunoblotting , respectively , and one representative subclone ( number 7 ) , which expresses relatively high levels of v-ras mRNA , was used throughout the experiments presented here .
+The results found with this clone were representative of results obtained with the other independently derived lines , which expressed different levels of v-res transcripts and protein ( e.g. , clone 19 ) ( 10 ) .
+Full characterization of the Ras transcript and protein expression of these clones has been reported ( 11a ) .
+As controls for the transfection and selection processes , some Jurkat cells were transfected only with the neomycin resistance gene , designated neo , and used in the studies described below in parallel with the res transfectants .
+After transfection , cells were carried in the same growth medium plus 0.7 mg of G418 per ml .
+For studies of calcium mobilization , cells were pelleted by centrifugation , resuspended at 10° cells/ml in a buffered salt solution containing glucose and 1. mM 1- [ 2-amino-5- ( 6-carboxyindol-2-yl ) phenoxy ] -2- ( 2'-amino-5 ' -methyl-phenoxy ) ethane-N , N , V ' , V ' -tetraacetic acid sodium ( INDO-1 ) , incubated at room temperature for 20 min to allow uptake of the INDO-1 , and washed once in 50 volumes of balanced salt solution to remove excess dye .
+Calcium mobilization in response to ionophore was then determined with a stirred cuvette at 37°C in an Aminco-Bowman fluorimeter with real-time recording at 405 and 480 nm .
+RNA blot analysis .
+After subjecting the cells to different stimuli , total cellular RNA was isolated by guanidine thiocyanate-phenol RNA extraction , quantified , separated by electrophoresis on formaldehyde agarose gels , and transferred to nitrocellulose ( Costar , Cambridge , Mass . ) .
+Hybridizations and high-stringency washes were performed as previously described ( 20 ) .
+*°P-labeled DNA probes were generated by the random oligonucleotide primer method ( 21 ) .
+The egr-7 probe was a 1.6-kb Bg/II fragment of murine egr-7 cDNA ( generously provided by V. P. Sukhatme ) .
+The fos probe was a 1.1-kb EcoRI-Sell fragment of the murine ¢-fos cDNA .
+The c-jun probe was a 1.7-kb Psfl fragment of the murine c-jun cDNA .
+In some experiments , the concentrations of the reagents used were as follows : 200 ng of CsA ( gift of Sandoz Pharmaceuticals , East Hanover , N.J. ) per ml , 5 ng of sirolimus per ml , 1.5 M calmodulin kinase inhibitor ( Sigma St. Louis , Mo .
+) , and 10 M forskolin ( Sigma ) .
+We have previously shown that these reagents , at the concentrations and exposure times used herein , have the desired effects of inhibiting NF-AT and IL-2 induction , inhibiting S6 kinase activity , inhibiting calmodulin kinase activity , or stimulating PKA .
+Each inhibitor was added into the medium of cell cultures 10 min before further stimulation .
+For the IL-2 gene expression experiment , poly ( A ) * mRNA was isolated with a FastTrack kit , version 2.0 ( Invitrogen , San Diego , Calif. ) .
+The IL-2 probe was generated by PCR as a 200-bp DNA fragment .
+Plasmids and transient transfections .
+The vector p6O0O0cat3 contains the chlor-amphenicol acetyltransferase ( CAT ) gene under the control of 600 bp of the murine c-fos gene promoter ( generous gift of R. Muller ) .
+Cells ( 20 x 10° ) were transiently transfected by electroporation ( 960 mF ; 250 V ) with 20 ug of reporter NEGATIVE REGULATION OF IE GENE EXPRESSION BY Ras 6583 plasmid .
+The transfected cells were split into several aliquots for stimulation as indicated in the figures .
+Cotransfections with a Rous sarcoma virus B-galactosidase vector were used to verify equivalent efficiencies of transfection .
+Following 4 h of stimulation , cells were lysed in 25 mM Tris buffer and an assay of CAT activity was conducted with an organic extraction to separate the acetylated products ; the assay was followed by quantitation by scintillation counting .
+In some experiments , the reaction products were separated by thin-layer chromatography rather than organic extraction .
+Immunoblotting .
+Cells ( 20 X 10° per treatment ) were lysed in lysis buffer as described for the MAP kinase assay .
+Cell lysates ( 100 pg ) were separated on 8 % acrylamide gel and subsequently immunoblotted with either anti-PKCo or anti-PKCB antibodies ( Transduction Laboratories , Lexington , Ky. ) .
+The blot was developed with an anti-mouse immunoglobulin alkaline phosphatase reagent ( Oncogene Science , Uniondale , N.Y. ) .
+Phosphorylation analyses and immunoprecipitations .
+Cells ( 50 X 10° ) were washed twice with 1 % phosphate-buffered saline ( PBS ) and resuspended in permeabilization medium containing 0.6 IU of streptolysin O per ml , 10 mM PIPES [ piperazine-N , NV ' -bis ( 2-ethanesulfonic acid ) , pH 7.2 ] , 120 mM KCI , 30 mM NaCl , 10 mM MgCl ; , 100 nM CaCl , , 1 mM ATP , and 5 Ci of [ « -P ] JATP .
+The stimuli were added simultaneously .
+The optimum streptolysin O ( Wellcome Diagnostics , London , United Kingdom ) concentration was determined to be 0.6 IU/ml , at which > 90 % of cells became permeable to trypan blue within 1 min .
+After incubation at 37°C for 5 min , cells were lysed in a lysis buffer ( 30 ) .
+For analysis of the phosphorylation of the CD3y chain induced by calcium , the concentration of CaCl , required to give 500 nM free calcium at 37°C and pH 7.2 was predicted with the computer program Chelate ( generous gift from J. Down-ward ) with appropriate dissociation constants for Ca *~* , Mg ** , and H* .
+Subsequent cell lysis was performed in a solution containing 50 mM HEPES ( N-2-hydroxyethylpiperazine-V ' -2-ethanesulfonic acid , pH 7.4 ) , 1 % Triton X-100 , 100 mM NaCl , 5 mM MgCl , , 1 mg of bovine serum albumin , 10 mM benzamidine , 10 g of leupeptin per ml , 10 g of aprotinin per ml , and 10 pg of trypsin inhibitor per ml .
+The immunoprecipitation was performed with an anti-CD3y chain monoclonal antibody ( generous gift from C. Terhorst , Boston , Mass . ) .
+Subsequently , immunoprecipitated CD3y chains were separated on 12.5 % acrylamide gels under reducing conditions and detected by autoradiography at -70°C .
+Measurement of ratios of GTP/GDP bound to p21 '' .
+Cells ( 50 x 10° per treatment ) were washed twice in phosphate-free RPMI medium containing 10 % dialyzed fetal bovine serum and 1 % r-glutamine and cultured in the same medium with 0.5 mCi of Ortho- [ °°P ] per ml for 3 h. Following exposure to 200 ng of CsA per ml for 10 min , stimulation was terminated by lysis of the cells in 50 mM HEPES ( pH 7.4 ) -1 % Triton X-114-20 mM MgC1 , -150 mM NaCl-10 ug of aprotinin and leupeptin per ml .
+The nuclei were removed by centrifugation , and lysates were adjusted to 500 mM NaCl , 0.05 % sodium dodecyl sulfate ( SDS ) , and 0.5 % sodium deoxycholate .
+Immunoprecipitation was performed with the rat anti-Ras monoclonal antibody Y13-259 ( Oncogene Science ) .
+The immuno-precipitates were washed with lysis buffer , and bound nucleotide was eluted with 2 mM EDTA-2 mM dithiothreitol ( DTT ) -0.2 % SDS-0.5 mM unlabeled GDP and GTP at 68°C .
+The eluted products were separated on polycthylencimine-cellulose plates run in 1.2 M ammonium formate-0.8 M HCI The GTP/GDP ratios were determined with an LKB ( Uppsala , Sweden ) laser densitometer and software .
+Measurement of MAP activation .
+Cells ( 10 X 10° treatment ) were stimulated with the reagents as indicated in the figures for 10 min or left untreated .
+Stimulation was terminated by lysis in 20 mM Tris ( pH 7.5 ) -2 mM EGTA [ ethylene glycol-bis ( B-aminoethyl -tetraacetic acid ] -5 mM NaF-0.5 % Triton X-100-1 mM Na ; VO , -1 mM DTT-1 mM phenylmethylsulfonyl fluo-ride-0.1 mM benzamidine .
+After the protein concentrations were equalized , the lysates were incubated for 20 min at 37°C in buffer containing 20 mM HEPES ( pH 7.4 ) , 10 mM MgC ) ; , and 100 M ATP containing 2 wCi of [ y-*°P ] JATP , 2 mM EGTA , 1 mM DTT , 100 pM okadaic acid , 100 wM Na , VO , , and 1 ug of myelin basic protein ( MBP ; Sigma ) to assay MBP kinase activity .
+Reaction mixtures were then spotted onto P81 filters ( Whatman , Fairfield , N.J. ) .
+Filters were washed in 50 mM phosphoric acid and dried with ethanol .
+Radioactively labeled MBP bound to the washed filters was measured by scintillation counting .
+EMSA .
+Nuclear extraction and electrophoretic mobility shift assays ( EMSA ) were performed essentially as previously described ( 3 ) .
+After different stimula-tions , cells ( 5 X 10° ) were harvested , washed with cold 1 % PBS twice , resuspended in 400 wl of buffer A ( 10 mM HEPES [ pH 7.9 ] , 1.5 mM MgCl , , 10 mM KCI , 0.5 mM DTT , 0.2 mM phenylmethylsulfonyl fluoride , 1 pg of aprotinin per ml ) , and incubated on ice for 15 min .
+Subsequently , 35 l of buffer C ( 20 mM HEPES [ pH 7.9 ] , 25 % glycerol , 420 mM NaCl , 1.5 mM MgCl , , 0.2 mM EDTA , 0.5 mM DTT , 0.2 mM phenylmethylsulfony ] fluoride ) was added to the cell pellets and the mixtures were incubated for 20 min on ice .
+Binding reactions were carried out in 15-4l volumes consisting of 100 mM HEPES ( pH 7.8 ) , 0.5 M potassium glutamate , 50 mM MgCl , , 10 mM DTT , 50 % glycerol , 3 mg of poly ( dI-dC ) , 200 pg of end-labeled double-stranded oligonucleotide , and 10 g of nuclear extract for 20 min ( for NF-AT and NF-xB binding ) or 15 min ( for AP-1 and Oct-1 binding ) on ice .
+The complexes were analyzed by electrophoresis at room temperature on 5 % acrylamide gels ( 85 ) .
+The oligonucleotides used as probes in EMSA were as follows : human AP-1 site , 3 ' ; human NF-AT site , 5-GATCGGAGGAAAAACTGTTTCATACAGAAG GCGT-3 ' ; and human Oct-1 site , 5'-TGTCGAATGCAAATCACTAGAA-3 ' .
+6584 CHEN ET AL .
+For a human NF- « B probe , the upstream regulatory element of the c-myc gene , which contains the binding site 5-GGGTITTTCCC-3 ' , was used .
+The oligonucleotides were end labeled with [ °°P ] JATP and polynucleotide kinase .
+For quan-titation , autoradiograms were scanned with an LKB laser densitometer and LKB software .
+IL-2 immunoassay .
+After stimulation , the cells were harvested at different time points and the overlying conditioned media were collected by centrifuga-tion .
+An ELISA for IL-2 protein quantitation was performed with Quantikine ( R & D Systems , Minneapolis , Minn. ) .
+Optical densities at 450 nm were used for quantitation .
+RESULTS Expression of activated ( v-Ha- ) ras blocks the induction of egr-1 and e-fos by Ca** .
+To study the regulatory function of p21 '' in Ca **-mediated signal transduction , especially in T lymphocytes , v-Ha-ras , mutated at codon 12 , was stably transfected into the lymphoblastoid T-cell line Jurkat , together with a vector conferring neomycin resistance for transfection selec-tion .
+Transfectants were cloned and tested for v-ras expression ( the resulting cell lines are collectively designated PH1 ) .
+The effects of different stimuli on the induction of IE genes , in the presence or absence of activated v-Ha-ras , were examined ( Fig .
+1a and b ) .
+Jurkat or PH1 cells were stimulated with calcium ionophore or phorbol esters ( phorbol myristate acetate [ PMA ] ) separately , and RNA blot analysis was performed to quantitate the expression of the egr-1 and c-fos genes .
+In Jurkat cells , egr-1 and c-fos were induced by both calcium ionophore and PMA .
+The relative magnitudes of the inductions of these genes were higher ( by two- to threefold ) with PMA than with calcium ionophore .
+This may reflect activation of different second-messenger pathways by these agonists and/or utilization of discrete gene promoter or enhancer re-gions .
+As expected , EGTA , a calcium chelator , abolished the expression of both genes after treatment with calcium ionophore , demonstrating a requirement for extracellular calcium .
+In ( v-ras-expressing ) PH1 cells ( clone 7 ) , egr-1 and c-fos transcripts could be induced by PMA treatment but not by calcium ionophore treatment .
+To exclude the possibility that the blockade to the inductions of these genes by calcium ionophore in PH1 cells was due to the presence of the cotransfected Neo vector or the transfection and selection process itself , analysis of egr-1 and c-fos expression was performed in the cells transfected with the Neo vector alone .
+The patterns of the expression of these genes were identical to that found in the parental Jurkat cells , indicating that the inhibition of the induction of egr-1 and c-fos by calcium ionophore in PH1 cells is Ras spe-cific .
+Multiple other , independently derived lines of PH1 cells ( e.g. , PH1 clone 19 ) were examined in similar studies , and identical results were obtained ( Fig .
+1a and b ) , demonstrating that the inhibition of the expression of egr-1 and c-fos induced by calcium ionophore is due to the presence of activated p21 '' rather than to clonal variation .
+The kinetics of the inductions of egr-1 and c-fos were also examined in Jurkat and PHI1 cells to exclude the possibility that activated v-Ha-ras might alter the time or duration of the inductions of the genes examined .
+transcript induction by calcium ionophore peaked between 1 to 2 h in Jurkat cells , whereas c-fos transcript induction peaked at 30 min .
+Examination at time points from 30 min to 4 h disclosed no induction of either IE transcript in the PH1 cell lines ( data not shown ) .
+To further confirm the phenomenon of the blockade of calcium-dependent IE gene induction by v-Ha-ras observed in stable transfections , transient expression of a c-fos promoter-driven reporter gene was analyzed .
+The fos-CAT gene , regulated by 600 bp of promoter , was moderately induced by calcium ionophore in Jurkat cells but not in PH1 ( clone 7 ) cells ( Fig .
+1c ) , which was in agreement with the results observed in studies of the endogenous c-fos gene in the Mor .
+CELL .
+BioL .
+stable transfectants .
+The same fos promoter-CAT gene activity was induced by either PMA alone or PMA plus calcium ionophore , regardless of the presence or the absence of activated v-Ha-ras .
+RNA blot analysis of the expression of a calcium-independent IE gene , the c-myc gene , revealed that c-myc transcripts could be induced by PMA treatment but not calcium ionophore treatment in both Jurkat and PHI1 cells ( data not shown ) , further demonstrating that the inhibitory effect of activated p21 '' * '' is specific for the calcium-activated pathway and not a general inhibitory phenomenon for all IE gene activation .
+The magnitude and duration of Ca ** influx stimulated by calcium ionophore and the protein expression of calcineurin in PH1 cells were examined , in comparison with those features in Jurkat and Neo ( control ) cells , to exclude the possibility that the blockade to calcium-activated IE gene induction by v-Ha-ras represents a secondary adaptive mechanism to p21 ' '' '' in which calcium mobilization in response to ionophore was impaired or calcineurin levels were altered .
+The magnitude and duration of calcium flux induced by ionophore , as measured by the indicator INDO-1 , were identical to those in multiple PH1 , Jurkat , and Neo cell lines ( data not shown ) , as were cellular calcineurin levels , suggesting that transfected v-Ha-ras does not alter these aspects of Ca ** signaling .
+egr-7 transcript induction by calcium ionophore or by PMA in Jurkat cells was unaffected after incubating Jurkat cells in medium conditioned with PH1 cell cultures for 48 h ( data not shown ) , excluding the possibility of an autocrine inhibitory effect on calcium-dependent IE gene in p21 '' '' .
+The p21 ' '' '' blockade to induction of egr-7 and c-fos by calcium is PKC independent .
+T lymphocytes express two major PKC isoforms , a and B ( 15 , 42 , 63 , 64 ) .
+These different isoforms of PKC can be distinguished by their differential sensitivities to calcium , the « isoform of PKC being several log units more calcium dependent than B isoform ( 2 , 60 ) .
+Jurkat cells have been reported to express high levels of the PKC a isotype but low levels of the PKC B isotype ( 52 ) , in comparison with peripheral blood-derived T lymphocytes which contain high levels of PKC B but relatively low levels of the a isotype .
+To determine whether activated p21 '' might cause a change in the ratio of PKC isoforms , and perhaps a change in the sensitivity of the cells to Ca** , thereby altering expression of the IE genes in response to calcium ionophore , the levels of PKC a and B isoforms were determined by immunoblotting ( Fig .
+2a ) .
+Equal amounts of PKC B ( 80-kDa ) and « ( 82-kDa ) isoforms were observed in both Jurkat and PH1 ( clone 7 ) cells .
+Furthermore , since the CD37 chain is one of the substrates for PKC in T cells ( 1 , 9 , 25 , 70 , 84 ) , the phosphorylation of the CD3y chain was assayed under conditions of 500 nM free calcium or 100 nM PMA ( Fig .
+2b ) .
+Free calcium ( 500 nM ) induced phosphorylation of the CD37 chain , which was further enhanced twofold by PMA treatment in both cell types .
+Overall , these results suggested that the ratio of the isoforms of PKC is unchanged in the presence of activated p21 '' '' .
+To determine if the difference in the inductions of the IE genes by calcium ionophore treatment in Jurkat and PH1 cells was due to the altered regulatory influence of intracellular calcium levels on PKC activity , the effect of down-regulation of PKC activity by prolonged treatment with high concentrations of PMA on IE gene induction was examined .
+Down-regulation of PKC by high doses of PMA appears to be mediated through recruitment of cytoplasmic PKC enzyme to the cellular mem-brane , where it is rapidly degraded by a protease ( 60 ) .
+To evaluate any residual activity of PKC after down-regulation , phosphorylation of the CD3y chain , a PKC substrate , was assayed in Jurkat and PH1 ( 28 ) cells ( Fig .
+2¢c ) .
+After prolonged Vou .
+16 , 1996 a Jurkat Neo 285 - > « a Gth ~. < _egr_1 188- » EGTA - o= - + PMA = = 0 # - -o - + lona - + - + 600 + o-PH1 ( 7 ) PH1 ( 19 ) 288 -t » as . < _egr_1 188 - » EGTA - - - + PMA = - - 0 # o- -o } + lono = + - + -o $ ob Jurkat PH1 ( 7 ) Neo 288 -- ( se m - @ dase - < -fos EGTA - - - + so > 00 } # PMA = o= 0 # > 00 = o= o # > 0 o- - o o+ # + lono _- + = + = +o - + - + C 20 Jurkat PH1 ( 7 ) eggs e [ ] control \o - - o o - CZ ] lono 8004 0+ -- + _- fono £00600 # 00 } 0+ + PMA EPMA RBB 15 > Z > fu ) O < 10 7 F— < C O 50 Jurkat PH1 ( 7 ) Cell Line FIG .
+1 .
+Induction of egr-7 and c-fos gene expression by calcium ionophore or PMA .
+( a ) Total cellular RNAs were extracted from Jurkat , PH1 clones 7 and 19 , and neo transfectants after incubation in 2 M calcium ionophore ( Iono ) or 100 nM PMA for 1 h or exposure of the cells to 200 nM EGTA for 10 min prior to calcium ionophore treatment .
+After fractionation of 15-pg RNA samples on an agarose gel and transfer to BioBlot-supported nitrocellulose , the levels of egr-7 transcript expression were determined by hybridization to random-primed cDNA probes .
+B-acfin transcripts were probed for as controls for equal loadings and transfers ( data not shown ) .
+The panel shows an autoradiogram .
+The migration positions of the egr-7 and c-fos transcripts are marked , as are the positions of 188 and 288 rRNA species .
+( b ) After cells were stimulated as indicated for 30 min , cellular RNAs were prepared as described above and subsequently probed for c-fos expression .
+( c ) A c-fos promoter-CAT chimeric gene was transiently transfected into either Jurkat or PHI1 ( clone 7 ) cells .
+After being stimulated as indicated for 4 h , the cells were harvested for assay of CAT activity .
+control , untreated control ; Iono , 2 M calcium ionophore ; PMA , 100 nM PMA ; Iono + PMA , 100 nM PMA plus 2 wM calcium ionophore .
+Standard error bars are NEGATIVE REGULATION OF IE GENE EXPRESSION BY Ras 6585 treatment ( 24 h ) with 500 nM PMA , the CD37 chain was no longer phosphorylated by restimulation with 100 nM PMA in either cell type ( Fig .
+2¢ , lanes 3 and 4 ; compare these results with the results of stimulation with 100 nM PMA in control cells [ Fig .
+2¢ , lanes 1 and 2 ] ) , demonstrating full suppression of PKC activity .
+Following down-regulation of PKC activity by 24 h of exposure to 500 nM PMA , retreatment with 100 nM PMA did not efficiently induce the gene in either cell type ( Fig .
+2d , lanes 3 and 6 ) , further demonstrating the abrogation of PKC activity by this treatment .
+After abolition of PKC activity by a high-dose-PMA treatment , egr- remained inducible in Jurkat cells by calcium ionophore treatment but not in PH1 ( clone 7 ) cells as expected ( Fig .
+2d ) , thus ruling out a role for PKC in the mediation of the calcium signal .
+p21'*-mediated inhibition of IE gene expression is blocked by CsA .
+The immunosuppressant CsA can bind to immunophi-lin and further inhibit calcineurin , a calcium- or calmodulin-regulated serine or threonine phosphatase , thus blocking T-cell function by preventing transcriptional activation of the gene that encodes the T-cell growth factor IL-2 .
+Calcineurin is a major component of the calcium signaling pathway in T cells , mediating T-cell activation via regulation of the translocation of the cytoplasmic component of NF-AT ( NF-ATp ) of the transcription factor NF-AT ( 14 , 22 , 37 , 54 , 61 ) .
+Because p21 '' '' negatively regulated the calcium-dependent induction of the IE genes egr-1 and c-fos as demonstrated above , the expression of these genes after stimulation with either calcium ionophore or PMA was examined after pretreatment with CsA .
+Induction of the egr-1 and c-fos genes in PH1 cells by calcium ionophore was restored in the presence of CsA ( Fig .
+3a ) , indicating that p21 '' may exert its negative regulatory function via calcineurin and that such regulation is calcium dependent .
+In parental ( or control-transfected ) Jurkat cells , these genes were induced normally by ionophore in the presence of CsA .
+PMA treatment also induced egr-1 and c-fos gene expression normally in the presence of CsA .
+In the control lanes for this blot , shown in Fig .
+1a and b , CsA alone did not cause the induction of egr-7 or c-fos .
+In transient-expression assays using the 600-bp c-fos promoter-CAT reporter gene chimera , the fos-CAT gene was rendered inducible by calcium ionophore in PH1 ( clone 7 ) cells by the presence of CsA ( Fig .
+3b ; compare with Fig .
+1¢c ) to levels observed in control Jurkat cells .
+Oncogenic , activated Ras , through a decrease in its level of intrinsic guanosine triphosphatase activity or an elevation of its exchange rate of GDP to GTP , or by prolonging its association with GTP , thereby maintaining its active form , can stimulate cellular growth and cause transformation .
+The activities of MAP kinases , which are stimulated as a consequence of p21 '' activation in many cells ( 34 ) , were examined in Jurkat and PH1 ( clone 7 ) cells ( Fig .
+3¢ ) .
+As expected , the levels of activity of MAP kinases in untreated PH1 ( clone 7 ) cells were consistently higher than in the untreated control Jurkat cells .
+PMA plus calcium ionophore or PMA alone induced elevated levels of MAP kinase activity in both cell types , indicating that constitutively activated v-Ha-ras did not significantly alter the responsiveness of this downstream effector .
+Treatment with CsA similarly had no effect on constitutive or induced MAP kinase activity ( not shown ) .
+Furthermore , to assess whether the blockade of p21 '' '' activity on the calcium-activated gene induction shown .
+Cotransfections with a Rous sarcoma virus B-galactosidase vector as an internal control verified equivalent efficiencies of transfection .
+The figure inset is an autoradiogram of the same type of experiment , but one in which the reaction products were separated by chromatography rather than by organic extraction .
+6586 CHEN ET AL .
+a A O n a\ & .C , > 13 » _ ¢ _ g8 < 4-PKC o. PKC B -t » b v so s '' s '' s¢ a¢ 5 w & « - » _- » 606° 6 & 0 , C g , C & '' ,0 ¥ C F gC yo g¢ une .
+cae < -CD3 y C $ _ 4qF & P Cal F & C , C 8 & C 6 s¢ $ ® $ _ $ & , C & , C a A a A F 3 w g CD3 y -t » sein d Jurkat PH1 ( 7 ) 285 -t mp | < - egr-1 185- » + + + + + + - PMA 500 nM 24h = + = = + -- lono l -o - 0 + PMA FIG .
+2. egr-1 and c-fos expression induced by calcium ionophore is PKC independent .
+( a ) Immunoblotting of PKC « and B isoforms .
+Lysates from Jurkat and PH1 ( clone 7 ) cells were immunoblotted with either an anti-PKC B-specific monoclonal antibody or an anti-PKC « -specific monoclonal antibody , and the migration positions of these isoforms are indicated .
+( b ) Calcium and PMA stimulation of CD3y chain phosphorylation in Jurkat and PH1 ( clone 7 ) cells .
+Permeabilized cells were incubated for 5 min in the presence of 500 nM free calcium or 100 nM PMA together with [ y-*P ] ATP .
+After being immunoprecipitated with an anti-CD3y chain antibody , the proteins were separated on a SDS-10 % polyacrylamide gel .
+Contl , control .
+( c ) Jurkat and PH1 cells were treated with or without 500 nM PMA for 24 h and then permeabilized in the presence of 100 nM PMA and [ y-*°P ] ATP .
+After immunoprecipitation with an anti-CD3y chain antibody , phosphorylated proteins were separated on an SDS-10 % polyacrylamide gel .
+( d ) Jurkat and PH1 ( clone 7 ) cells were treated with 500 nM of PMA for 24 h and stimulated with 2 wM calcium ionophore ( Iono ) or 100 nM PMA for 1 h. Fifteen nanograms of total RNA from each sample was fractionated on an agarose gel and transferred to BioBlot-supported nitrocellu-lose .
+The levels of egr-7 expression were determined by hybridization with random-primed cDNA probes .
+B-ectin transcripts were probed for as controls for equal loadings and transfers ( data not shown ) .
+pathway by CsA might be due to direct interference by CsA with a GTP-dependent p21 '' '' effector activity , the effect of CsA on the ratio of guanosine nucleotides binding to p21 '' '' was determined .
+The relative ratios of the GTP-bound form of p21 '' in untreated PHI1 ( clone 7 ) cells were increased ( by an average of 1.8-fold ) in comparison with untreated Jurkat cells , Mor .
+CELL .
+BioL .
+as expected , and CsA had no effect on p21 '' * '' activation in either cell type ( Fig .
+3d ) .
+The induction of c-fos by calcium in a pheochromocytoma cell line has been reported to be mediated through a calmodulin kinase II-dependent pathway and the cyclic AMP ( cAMP ) -responsive binding protein CREB ( 57 , 73 ) .
+To further characterize the negative regulatory function of p21 ' '' '' on calcium-dependent IE gene induction , specific regulators of these and other potential second messengers were used to determine the involvement of molecules related to different signaling pathways .
+Sirolimus , which blocks signaling by the 70-kDa S6 protein kinases ( pp70°°* ) ( 13 ) , forskolin ( a stimulator of the cAMP -regulated protein kinase PKA ) , or a calmodulin kinase inhibitor was added to cell cultures before stimulation with PMA or calcium ionophore .
+None of these inhibitors had any effect on egr-1 induction by calcium ionophore or by PMA or on its inhibition by activated p21 '' ( data not shown ) .
+Activated p21 '' inhibits calcium-dependent c-gjun induction , and this effect is not CsA sensitive .
+Some jur gene family members are reported to be regulated by calcium signals ( 18 , 33 , 38 , 75 ) .
+As Jun proteins are important components of the AP-1 transcription factor complex and may also be involved in the calcium-dependent regulation of the activities of other transactivators ( such as OAP-1 ) , the effects of constitutively activated p21 '' on the induction of c-jun by calcium ionophore was assessed , in the presence or absence of CsA ( Fig .
+4a and b ) .
+Calcium ionophore or PMA treatment induced c-jun transcript expression in Jurkat cells .
+The magnitude of c-jun induction by PMA was consistently slightly greater ( by 1.8- to 2.3-fold ) than by calcium ionophore .
+In the presence of p21 '' , this induction by ionophore , but not by PMA , was blocked .
+In contrast to the effects on egr-1 and c-fos , however , pretreatment with CsA did not restore induction of c-jun by calcium ionophore .
+Negative regulation of c-jun transcript expression by p21 '' '' thus differs from those of egr-1 and c-fos .
+Transcription factor AP-1 is a potential target of negative regulation by activated p21 '' .
+The transcriptional factor complex AP-1 consists of either Fos-Jun family heterodimers or Jun-Jun family homodimers , and the activities of both preexisting and newly synthesized AP-1 are subject to both posttranslational modulation of Jun and Fos protein activities and transcriptional regulation of the c-fos and c-jun genes ( 8 , 16 , 40 , 48 ) .
+Activation of AP-1 DNA-binding activity in the cell at early time points likely involves posttranslational modification of preexisting Fos and/or Jun components , as new protein synthesis is not required .
+Since activated p21 '' negatively regulated the induction of c-fos and c-jun transcripts in response to calcium , it was possible that this inhibitory effect of p21 '' '' influenced the duration of induced AP-1 activity , which de-pends , at later time points after stimulation , on the continued production of new Fos and Jun proteins .
+To test this predic-tion , EMSA of AP-1 and other transcription factors involved in IL-2 activation , including NF-AT , NF- « B , and Oct-1 , were performed at different times after stimulation .
+The cells were stimulated with PMA plus calcium ionophore , which mimics stimulation through the TeR , for 4 , 6 , or 8 h ( Fig .
+5 ) .
+Oct-1 was constitutively expressed and its levels were unchanged in nuclear extracts at all time points after stimulation ( Fig .
+5d ) , whereas the DNA-binding activities of NF-AT , NF-kB and AP-1 ( Fig .
+5a to c ) were strongly induced by stimulation , in comparison with those of the unstimulated controls .
+The relative DNA-binding activity of NF-AT , NF- « B , or Oct-1 did not show subsequent changes , however , over the time course examined .
+The level of DNA-binding activity of AP-1 in the control Jurkat cells continued to increase over time ( by 1.8-fold over Vou .
+16 , 1996 NEGATIVE REGULATION OF IE GENE EXPRESSION BY Ras 6587 a Jurkat PH1 ( 7 ) Jurkat PH1 ( 7 ) 28S-A » > i « » ® __ » us += se & « - » UD - < fos 188 » +o 4+ + + + + +o + + + + + CsA =o ob - =o of - « o # - =- + - ono Koe $ o 00k s # < 0 8 0400 } - 40 PMA b C 20 100 Ju.rkat .
+1,141.0 ) - [ _J ] CsA control g L_ ] control 0 * e @ » - I : CsA lono Q |0n0 tof fof poos - CC CsA PMA O CZ PMA 15 | ~ C +00 - > - + pma ~- RWW CsA lono+PMA C | RRM PMA hl > CS 3 6 o A- < 10 - © 50 0 - a < L_ 5 9 Az 5 - A A |_ < ( an Cd bal ' 7 L_ 7 0 - 0 - hees Jurkat PH1 ( 7 ) Jurkat PH1 ( 7 ) Cell Line Cell Line d of 0 98 '' 50 yor '' gt 50° git got '' [ get gan CsA 200 ng/m !
+- = - + +0 + > - - + 40+ 0 0 ' ‘ ' ' ’ .
+0 .
+0 ‘ - < -GDP C FY J ¢ | _ - < -- atP PH1 ( 7 ) Jurkat FIG .
+3 .
+Restoration of calcium ionophore-induced egr-7 and c-fos expression in PH1 cells by CsA .
+( a ) Jurkat and PH1 ( clone 7 ) cells were treated with 200 ng of CsA per ml for 10 min and stimulated with 2 M calcium ionophore ( Iono ) or 100 nM PMA for 1 h , separately .
+RNA blotting was performed as described above for c-fos and egr-1 expression .
+The same blots were stripped and reprobed for quantitation of the levels of c-fos transcripts .
+This blot was part of the same experiment and blot shown in Fig .
+1 , and control lanes showing egr-7 and c-fos levels in untreated cells are shown in Fig .
+la and b .
+( b ) A c-fos promoter-CAT chimeric gene was transiently transfected into either Jurkat or PHI1 ( clone 7 ) cells exposed to CsA ( 200 ng/m ! )
+prior to and during the stimulations .
+After being stimulated as indicated for 4 h , the cells were harvested for assay of CAT activity .
+control , untreated control ; Iono , 2 M calcium ionophore ; PMA , 100 nM PMA ; Iono + PMA , 100 nM PMA plus 2 wM calcium ionophore .
+Standard error bars are shown .
+Cotransfections with a Rous sarcoma virus B-galactosidase vector as an internal control verified equivalent efficiencies of transfection .
+The inset is an autoradiogram of the same type of experiment , but one in which the reaction products were separated by chromatography rather than by organic extraction .
+The control experiments in which the cells were not treated with CsA are shown in Fig .
+1¢c .
+( c ) Constitutive and stimulated MAP kinase activity .
+The relative °°P incorporation into a MAP kinase-specific substrate ( MBP ) was used to quantitate MAP kinase phosphotransferase activity .
+Error bars represent the standard deviations over three independent experiments .
+control , untreated cells ; Jono , 2 wM calcium ionophore ; PMA , 100 nM PMA ; Iono + PMA , 100 nM PMA plus 2 M calcium ionophore .
+( d ) p21 '' '' activation in Jurkat and PH1 cells after inhibition of calcineurin activity .
+After inhibition of calcineurin by CsA , cells were treated with either 100 nM PMA or 2 wM Ca ** ionophore for 10 min and immunoprecipitated p21 '' was assayed for GTP/GDP ratios .
+Contl , control .
+unstimulated levels ) , peaking at 6 to 8 h after stimulation .
+In fold ) was seen at later time points .
+The relatively low amount contrast , in PH1 cells , AP-1 DNA-binding activity peaked at of AP-1 DNA-binding activity seen at 8 h after stimulation may 2 h poststimulation ( by 2-fold over that of the unstimulated therefore be the consequence of the inability of the cell to control ) and attenuation of the DNA-binding ( by 0.8- to 1.2- recruit newly synthesized Fos and Jun family members at later 6588 CHEN ET AL .
+a Jurkat PH1 ( 7 ) 28§S-® _ , P ® `` « | te .
+* M « # % d We ( *~ WB - < jun 188- » .
+E * aan an a -o- - toot oo # -o - - to + CsA ook oR & # ok =- + - o- + - lono Kok 400k } + # -o - 4 } - + PMA Mor .
+CELL .
+BioL .
+b Neo PH1 ( 19 ) -t » « o to _ # tp ( td tp < - jun 18§ - » o- e 4 40+ oe e 0 oto 4 + CsA -o4 & - -o+ - -- + - dono wo e ook 4 # -o - R o o- - 4 PMA FIG .
+4 .
+Induction of c-gun transcript expression by calcium ionophore ( Iono ) or PMA , with or without CsA treatment .
+Jurkat , Neo , and PH1 clone 7 and 19 cells were treated with 200 ng of CsA per ml for 10 min or left untreated and stimulated with calcium ionophore or PMA for 40 min .
+RNAs were harvested and c-jun transcripts were analyzed as described in the text .
+Autoradiograms are shown here .
+time points to sustain the AP-1 complex activity , itself the consequence of negative regulation of c-fos and c-jun induction by activated p21 '' '' .
+The downstream events in T-cell activation which require AP-1 activity include IL-2 production .
+To determine whether the differences in inducible AP-1 DNA-binding activities in PH1 cells had any effect on later activation events , IL-2 gene induction and IL-2 protein production were assayed .
+Jurkat and PH1 ( clone 7 ) cells were stimulated with calcium ionophore plus PMA for 8 , 10 , or 12 h ( Fig .
+6a ) .
+The poly ( A ) * mRNA of the cells was isolated , and IL-2 gene induction was quantitated .
+IL-2 gene transcripts were strongly and consistently expressed in Jurkat cells at 8 to 12 h after stimulation .
+In contrast , the level of IL-2 gene expression in PHI1 cells started to fall at 10 h after stimulation and was almost undetectable at 12 h. To measure IL-2 protein production at later times after activation , the cells were stimulated with PMA plus calcium ionophore .
+At 12 h after stimulation , the media of the cells were changed , and then the media were collected at 24 h to assess IL-2 production between 12 and 24 h after stimulation or at 36 h to assess IL-2 production between 12 and 36 h after stimulation .
+The conditioned media were analyzed by ELISA for their concentrations of IL-2 protein ( Fig .
+6b ) .
+The production of IL-2 protein increased over the time intervals examined in Jurkat cells but decreased in PHI1 cells over the same period .
+Stimulated IL-2 production in the presence of activated p21 '' * '' was therefore not sustained in comparison with IL-2 production in parental or control-transfected Jurkat cells .
+Thus , these temporal and quantitative differences in IL-2 production caused by activated p21 '' , together with the discrepant induction of the IL-2 gene , paralleled the results obtained when AP-1 DNA-binding activity was examined , as described above .
+DISCUSSION T lymphocytes are induced to secrete lymphokines , enter the cell cycle , and proliferate when an appropriate antigenic stimulus is presented to their surface membrane TcRs ( 24 , 83 ) .
+One important sequela of TeR stimulation is the rapid activation of SOS activity , resulting in an increase in the relative amounts of GTP bound to p21 '' .
+This p21 '' *-regulated signaling cascade is essential for T-cell activation ( 19 , 29 ) , as well as for the proliferation and differentiation of other cell lineages ( 53 , 68 ) .
+We have shown previously that the presence of constitutively activated p21 '' can augment the T-cell immunological response , in terms of IL-2 production , at early periods ( up to 12 h ) after stimulation ( 11a ) .
+This synergistic effect may be achieved through the interaction between activated p21 '' and calcineurin ( 5 , 6 , 9a , 87 ) .
+However , it has also been demonstrated that p21 '' may be involved in negative feedback attenuation mechanisms or desensitization processes , as a part of the regulation of activation , perhaps to control or limit superfluous or redundant incoming signals ( 59 , 65 , 80 , 82 , 89 ) .
+In contrast to such activation responses or feedback attenuations regulated by p21 '' , little is known about negative modulatory signals transmitted by p21 ' '' '' and how cross-talk of signals transduced by p21 '' modulates the magnitude of ongoing signals .
+In Drosophila melanogaster , activated Ras has been shown to negatively regulate yan function , modulating the magnitude of signals , and this appears to be critical for the differentiation of neuronal and nonneuronal tissues during developmental stages ( 62 , 66 ) .
+Similar negative modulatory functions of p21 '' have not yet been thoroughly investigated in mammalian cells .
+Here , we showed that constitutive expression of activated p21 '' , perhaps through an interaction with calcineurin , blocks calcium-dependent IE gene induction in T lymphocytes and , longer term , by attenuation of AP-1 DNA-binding activity and IL-2 production , inhibits or limits an immunological response .
+Thus , in addition to serving as a critical signal transducer during activation , p21 ' '' '' appears to be directly or indirectly involved in mediating at least two different types of negative regulation : feedback attenuation control and negative regulatory modulation .
+The positive actions of p21 ' '' '' , as described earlier ( 35 , 51 , 53 , 87 ) , are intrinsic to a variety of cellular responses to external stimuli .
+Through the interaction with its downstream molecules , p21 '' elicits certain genetic programs which are responsible for the regulation of cell activation or growth ( 35 , 53 ) and , in some cases , which may cause cell transformation .
+We have previously demonstrated such a positive action of p21 '' '' , which is manifested as a synergistic increase in the stimulated DNA-binding activity of NF-AT under certain conditions , coordinate with a transient augmentation of IL-2 mRNA expression and IL-2 production ( 9a ) .
+Feedback attenuation or desensitization of incoming mitogenic or growth-related signals by p21 '' '' '' has been demonstrated in different cell lines , in which the activated p21 '' '' interferes with the activity of upstream molecules , such as platelet-derived growth factor type-B receptor ( 65 , 80 , 89 ) , double-stranded RNA-dependent protein kinase ( PKR ) ( 59 ) , and SOS ( 82 ) , so as to diminish or block the signal transmission .
+In contrast to the model of feedback attenuation control , the results presented here suggest that activated p21 '' may also activate or mediate a negative regulatory function , through which the magnitude of ongoing signals are negatively modified in parallel with an activation process , perhaps to prevent overshoot and to maintain the competence of a cell for further respon-siveness .
+One arm of the T-cell-activation signal negatively regulated by p21 '' '' is the calcium-activated pathway studied here , which is independent of PKC signals .
+Activated Ras , perhaps through an as yet undefined mechanism , interacts with the activating signal generated by calcium to mediate the neg- Vou .
+16 , 1996 a PK @ a a 69 6° ® o°¢ © 009 , C « & © - & o°tb « ° C - C ECO C .° y '' y '' & < 2 “ & & & ﬁ W “ - < -AP-1 -C & Q ‘ s “ Q ‘ s “ ® '' Jurkat PH1 ( 7 ) b 00° 06° & 00 06° ® 0 0 A 00° 39° 00° & 00° 39° x\°° 8 aP aP ar & aFr aP ar ¢ C 8C § 9 5 ¢ H “ - < -NF-AT Jurkat PH1 ( 7 ) C $ 339 & 6:80 ® _C , & 9 & 9 & Om of » Om o 0 0 ‘ 1 ' 900 x\°° x\°° \°o x90 “ sC y 8g - & $ g Cy C3 $ 00 » '' & « 00° & & 00° “ Q6 ?
+ar Q ‘ s ?
+0°°\ Q6 ?
+Q ‘ s } Q6 ?
+- < « +- NFKB Jurkat PH1 ( 7 ) d & _ < 0 ( 0 ( o 0 NC X\°° x\°° ) < \°o A X\°° x\°° x\°Q € ar ar _ € ar ar r o M wous Sumi ) wud - < -Oct-1 Jurkat PH1 ( 7 ) FIG .
+5 .
+Time course of the DNA-binding activity of the transcriptional factors mediating IL-2 induction .
+( a ) Nuclear extracts were prepared from Jurkat and PH1 cells stimulated with 2 wM calcium ionophore plus 100 nM PMA for 4 , 6 , and 8 h and incubated with a labeled oligonucleotide containing the consensus AP-1 binding site .
+An EMSA was performed .
+Results of EMSA using an NF-AT site ( b ) , an NF- « B site ( c ) , and an Oct-1 site ( d ) are shown .
+Contl , control .
+ative regulation of IE genes .
+One signaling molecule which may be unique to the Ca ** pathway is the calcium-dependent protein phosphatase calcineurin , a molecule critical to T-cell-activation pathways .
+The suppression by CsA of the p21 '' '' inhibitory activity on induction of and c-fos by calcium suggested the possible involvement of calcineurin .
+We have previously presented evidence that activated p21 '' renders T lymphocytes more resistant to the inhibitory effects of CsA on NEGATIVE REGULATION OF IE GENE EXPRESSION BY Ras 6589 NF-AT activation ( 9a ) .
+We speculated that this increased resistance to CsA imparted by activated p21 '' may reflect an augmentation of calcineurin activity .
+That is , activated p21 '' * '' appears to directly or indirectly promote or prolong the activity of calcineurin , which in turn may negatively regulate some signaling pathways while activating others .
+Thus , calcineurin may play a crucial dual function in mediating both the positive and the negative regulatory activities of p21 '' '' '' .
+Furthermore , the inability of CsA to reverse inhibition of calcium-mediated c-jun expression by activated Ras suggests the existence of another , distinct negatlve regulatory pathway in which p21 '' is involved but which is , in this case , independent of calcineurin activity .
+The transforming growth factor B1 receptor and T-cell activation-related coreceptor CTLA-4 are cell-surface molecules which are able to generate negative signals along with mitogenic or stimulatory ones .
+It will be interesting to determine whether negative modulation by p21 '' is involved in such regulatory pathways .
+The full effects of negative regulation of the Ca ** -activat-ed IE gene induction pathway on T-cell activation are yet to be completely defined , but one potentially important consequence follows from the effects on c-jun and c-fos gene induction .
+Transcription factor AP-1 is critically involved in IL-2 a Q , “ N60 ( to Q ) “ 60 60:0 \0 “ x “ \0 “ ° 3 \0° w '' , ~ '' P co® 9s ?
+gpa '' Q ‘ s “ Q9 “ gs '' pa « o « p cn emp « « » - < - IL-2 Jurkat PH1 ( 7 ) b 0.5 El Ctrl ( 72 ) 12-24h 0.4 U 1 » -s5 2 0.3 { C 3 o o 0.2 0.1 0.0 7 Jurkat PH1 ( 7 ) Cell Line FIG .
+6 .
+RNA blot analysis of IL-2 gene expression in Jurkat and PH1 ( clone 7 ) cells and ELISA for quantitation of the production of IL-2 protein at various times after stimulation .
+( a ) The cells were stimulated for the times indicated .
+Poly ( A ) * mRNAs were isolated , separated on an agarose gel , and hybridized with a °°P-labeled human ZL-2 probe .
+Equal loadings of total mRNAs into the lanes of the gel were ensured by rehybridization of the blot with a radiolabeled probe for B-actin ( data not shown ) .
+( b ) Conditioned media from cells were collected at intervals after stimulation with PMA plus Ca ** ionophore ( 12 to 24 and 12 to 36 h ) after an initial change of medium at 12 h. Subsequently , the samples were subjected to ELISA for IL-2 quantitation .
+The units on the vertical axis represent the optical densities ( O.D . )
+of ELISA samples .
+Ctrl , control .
+6590 CHEN ET AL .
+induction , the hallmark of T-cell activation ( 36 , 45 , 71 ) , and may itself also be a target for mediation of T-cell clonal anergy ( 39 ) .
+The AP-1 complex is composed of Jun-Jun family ho-modimers or Fos-Jun family heterodimers .
+The decline in the level of AP-1 activity we observed after 8 h poststimulation in cells expressing activated p21 '' correlated well with the inhibition of IE gene induction by p21 '' '' .
+This finding suggests a potential mechanism mediating immunoanergy in which abnormal regulation of p21 '' '' activity may result in an immune unresponsiveness , via attenuation of the magnitude and duration of AP-1 transcriptional activation .
+The DNA-binding activity of the T-cell-specific transcription factor NF-ATp , which complexes with c-Fos and c-Jun as their nuclear component to regulate IL-2 gene expression , was unaffected by activated Ras , indicating that the individual nuclear components of the final complete NF-AT transcription complex may at times be lim-iting .
+The induction of egr-7 is a ubiquitous effect of mitogenic stimulation and in some cases accompanies cell differentiation ( 17 , 41 , 47 , 50 , 76 , 79 ) .
+The role of egr-1 in signal transduction is poorly understood , however , and it is therefore difficult to predict the impact of the negative regulation of egr-7 induction by p21 '' on T-cell signaling .
+Induction of IE genes by calcium alone has not been thoroughly studied in T lymphocytes , and our unpublished work indicates that calcium ionophore does not induce the same set of IE genes in fibroblasts .
+c-fos induction by calcium in a pheochromocytoma cell line has been reported to be mediated through a calmodulin kinase II-dependent pathway and the cAMP-responsive binding protein CREB ( 57 , 73 ) .
+Treatment of Jurkat cells with dibutyryl cAMP ( unpublished data ) or forskolin ( an activator of PKA ) did not induce egr-7 in lymphocytes .
+Similarly , a protein kinase A inhibitor did not inhibit the induction of these genes by calcium in Jurkat cells ( 11b ) .
+The promoter elements of these IE genes responsible for lin-eage-specific induction by calcium are currently under investi-gation .
+Calmodulin is the major intracellular calcium receptor .
+Calmodulin binds to and directly regulates the activities of a large number of enzymes , including the calmodulin kinases , the protein phosphatases , calcineurin , and protein phosphatase 2A .
+The best-characterized calcium-activated signals in the T-cell signal transduction cascade leading to IL-2 gene induction are mediated through calcineurin .
+CsA , an inhibitor of calcineurin , did not inhibit induction of the IE genes by calcium in Jurkat cells .
+The lack of effect of inhibitors of PKC , calmodulin kinase II , or calcineurin on the induction of the IE genes by ionophore in Jurkat cells indicates that these particular calcium-activated enzymes are not involved in this pathway .
+Inhibitors of protein tyrosine kinases were also ineffective in blocking IE gene induction by calcium ( data not shown ) .
+While the expression of p21 '' is clearly responsible for the blockade to calcium-induced signals reported herein , the use of cells stably expressing activated p21 '' * '' in these studies may not allow one to distinguish the direct effects of p21 '' from the potential indirect or adaptive responses to the long-term expression of an activated ras gene .
+Analysis of the effects of the blockade of the calcium signal on later events in activation , including elaboration of IL-2 , required the use of a uniform population of T lymphocytes stably expressing activated p21 '' .
+However , some adaption to chronic expression of activated Ras likely occurs at a number of levels within the cell .
+The basal levels of Ras activity in the v-ras-transfected cells studied here , as defined by p21 '' '' -bound GTP/GDP ratios , were of a magnitude similar to that observed after stimulation of the control Jurkat cells .
+Feedback mechanisms that control Ras function may be constitutively upregulated during chronic expression or may no longer respond in the same way as during Mor .
+CELL .
+BioL .
+Ca++ Ca**+ CaM e -- *Ras * ¥ a -L 1s _| : egr- 1 -L '' ofos FIG .
+7 .
+Schematic model of the potential regulatory roles of p21 '' '' in the calcium signaling pathway in T lymphocytes .
+CaM , calmodulin ; CN , calcineurin ; arrows , stimulation ; double bars with minus signs , inhibition .
+& _I : c.jun transient Ras activation .
+For example , the activity of MAP kinase is induced manyfold by acute expression of activated Ras , but longer-term Ras expression results in a more modest level of chronic activation of this kinase activity ( 26 ) , to just the level of magnitude we observed in the lymphoid cells studied in this report .
+Under unstimulated conditions , however , there were no differences in terms of IE gene expression , in the activities of activation-related transcriptional factors or in calcium fluctuations , in the absence or presence of activated Ras , in these Jurkat cells , suggesting that the signaling pathways examined here were not generally deranged by activated p21 '' .
+It was similarly possible that the lack of responsiveness of the IE genes we report here in the cells expressing v-Ras was an adaptive response in the endogenous regulation of these genes , rather than an effect of Ras expression .
+The transient-transfection studies we employed using the fos promoter-CAT reporter vector , however , demonstrated that exogenously introduced genes were similarly suppressed .
+Whether the mechanistic effects on calcium signaling we observed during long-term expression of Ras also occur during transient activation of Ras during , for example , mitogenic stimulation remain to be determined .
+Our results demonstrating a critical role for Ras in the modification of activation signals may initially appear paradoxical , given the established functions of p21 '' * '' in a number of pathways that promote cell survival , proliferation , differentiation , or some combination of these processes .
+Yet , it has recently been reported by us and other groups that p21 '' * '' not only regulates cell growth but also is involved in the induction of apoptosis in lymphoid cells as well as in cells of other lineages , depending upon its interaction with other molecules , such as PKC , Bcl-2 , and ceramide ( 10 , 11 , 31 ) .
+Thus , p21 ' '' relays information from a variety of extracellular signals across the membrane to regulate many different pathways .
+Ras appears to be capable of dual functions in modifying such signals .
+In one case , the positive ( activation ) signals delivered by Ras may regulate the preexisting components , such as Jun and Fos proteins ( 74 ) , leading to the activation of IL-2 ( Fig .
+7 ) .
+How Vou .
+16 , 1996 ever , the negative modulation may prevent overproduction of , or efficiently terminate the activity of , newly synthesized components of the signal transduction pathway and keep cells capable of responding to further stimuli .
+The molecular mechanisms whereby p21 '' '' , as a central regulator of diverse biological processes , recognizes , distinguishes , integrates , and modifies signals before transducing to downstream molecules , subsequently leading to cell growth , anergy , or apoptosis , are not yet established .
+Further investigation of the switch points for Ras to direct signaling along such diverse pathways will further elucidate the nature of this molecule .
+ACKNOWLEDGMENTS We thank Rolf Muller for providing c-fos promoter plasmids , Cox Terhorst for providing anti-CD3y antibody , Vikas Sukhatme for the egr-1 probe , Edward Scolnick for the pHI1 clone , and Sandoz Pharmaceuticals for CsA .
+We thank Jackson Gibbs for helpful discussions .
+This work was supported by research grant CA50459 from the National Cancer Institute ( D.V.F . ) .
+C.Y.C .
+was supported by a Cardiovascular Biology Training Grant from the National Heart , Lung and Blood Institute .
+REFERENCES 1 .
+Acres , R. B. , P. J. Conlon , D. Y. Mochizuki , and B. Gallis .
+1986 .
+Rapid phosphorylation and modulation of the T4 antigen on cloned helper T cells induced by phorbol myristate acetate or antigen .
+J. Biol .
+Chem .
+261:16210-16216 .
+2 .
+Alexander , K. R. , J. M. Hexham , S. C. Lucas , J. D. Graves , D. A. Cantrell , and M. J. Crumpton , .
+1989 .
+A protein kinase C pseudosubstrate peptide inhibits phosphorylation of the CD3 antigen in streptolysin-O-permeabilized human T lymphocytes .
+Biochem .
+J .
+260:893-901 .
+3 .
+Andrews , N. C. , and D. V. Faller .
+1991 .
+A rapid micropreparation technique for extraction of DNA-binding proteins from limiting numbers of mammalian cells .
+Nucleic Acids Res .
+19:2499-2503 .
+4 .
+Ashwell , J. D. , and R. D. Klausner .
+1990 .
+Genetic and mutational analysis of the T-cell antigen receptor .
+Annu .
+Rev .
+Immunol .
+8:139-167 .
+5 .
+Baldari , C. T. , A. Heguy , and J. L. Telford .
+1993 .
+Calcium dependent activation of the NF-AT transcription factor by p56 '' ** .
+FEBS Lett .
+323:233-235 .
+6 .
+Baldari , C. T. , A. Heguy , and J. L. Telford .
+1993 .
+Calcium-dependent cyclosporin A-sensitive activation of the interleukin-2 promoter by p59 % '' .
+J. Biol .
+Chem .
+268:8406-8408 .
+7 .
+Blenis , J .
+1993 .
+Signal transduction via the MAP kinases : proceed at your own RSK .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:5889-5892 .
+8 .
+Boyle , W. J. , T. Smeal , L. H. K. Defize , P. Angel , J. R. Woodgett , M. Karin , and T. Hunter .
+1991 .
+Activation of protein kinase C decreases phosphorylation of c-Jun at sites that negatively regulate its DNA-binding activity .
+Cell 64:573-584 .
+9 .
+Cantrell , D. A. , A .
+A. Davies , and M. J. Crumpton , .
+1985 .
+Activators of protein kinase C down-regulate and phosphorylate the T3/T-cell antigen receptor complex of human T lymphocytes .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 82:8158-8163 .
+10 .
+Chen , C. Y. , and D. V. Faller .
+1995 .
+Direction of p21 '' '' * generated signals towards cell growth or apoptosis is determined by protein kinase C and Bcl-2 .
+Oncogene 11:1487-1498 .
+11 .
+Chen , C.-Y. , and D. V. Faller , 1996 .
+Phosphorylation of Bcl-2 protein and association with p21 '' '' '' in Ras-induced apoptosis .
+J. Biol .
+Chem .
+271:2376-2379 .
+11a.Chen , C.-Y. , L. W. Forman , and D. V. Faller .
+Multiple targets of cyclosporin A in suppression of IL-2 induction in T lymphocytes .
+Submitted for publi-cation .
+11b.Chen , C.-Y. , and D. V. Faller .
+Unpublished data .
+12 .
+Chen , R.-H. , C. Sarnecki , and J. Blenis .
+1992 .
+Nuclear localization and regulation of erk- and rdk-encoded protein kinases .
+Mol .
+Cell .
+Biol .
+12:915-927 .
+13 .
+Chung , J. , C. J. Kuo , G. R. Crabtree , and J. Blenis .
+1992 .
+Rapamycin-FKBP specifically blocks growth-dependent activation of and signaling by the 70 kd S6 protein kinases .
+Cell 69:1227-1236 .
+14 .
+Clipstone , A. , and G. R. Crabtree .
+1992 .
+Identification of calcineurin as key signaling enzyme in T lymphocyte activation .
+Nature ( London ) 357:695-697 .
+15 .
+Coussens , L. , P. Parker , L. Rhee , T. L. Yang-Feng , M. D. Waterfield , U. Franck , and A. Ullrich .
+1986 .
+Multiple , distinct forms of bovine and human protein kinase C suggest diversity in cellular signaling pathways .
+Science 233:859-866 .
+16 .
+Curran , T. , and J .
+B. Franza .
+1988 .
+Fos and Jun : the AP-1 connection .
+Cell 55:395-396 .
+17 .
+Crabtree , G. R. 1989 .
+Contingent genetic regulatory events in T lymphocyte activation .
+Science 243:355-361 .
+NEGATIVE REGULATION OF IE GENE EXPRESSION BY Ras 6591 18 .
+Derijard , B. , M. Hibi , L.-H. Wu , T. Barrett , B. Su , T. Deng , M. Karin , and R. J. Davis .
+1994 .
+JNK1 : a protein kinase stimulated by UV light and Ha-Ras that binds and phosphorylates the c-jun activation domain .
+Cell 76:1025-1037 .
+19 .
+Downward , J. , J. D. Graves , P. H. Warne , S. Rayter , and D. A. Cantrell .
+1990 .
+Stimulation of upon T-cell activation .
+Nature ( London ) 346:719-723 .
+20 .
+Faller , D. V. , L. J. Mundschau , L. W. Forman , and M. A. Quinones .
+1994. v-mos suppresses platelet-derived growth factor ( PDGF ) type-B receptor autophosphorylation and inhibits PDGF-BB-mediated signal transduction .
+J. Biol .
+Chem .
+269:5022-5029 .
+21 .
+Feinberg , A. P. , and B. Vogelstein .
+1983 .
+A technique for radiolabeling DNA restriction endonuclease fragments to high specific activity .
+Anal .
+Biochem .
+132:6-13 .
+22 .
+Flanagan , W. M. , B. Corthesy , R. J. Bram , and G. R. Crabtree .
+1991 .
+Nuclear association of a T-cell transcription factor blocked by FK-506 and cyclosporin A .
+Nature ( London ) 352:803-806 .
+23 .
+Frank , S. J. , B .
+B. Niklinska , D. G. Orloff , M. Mevcep , J. D. Ashwell , and R. D. Klausner .
+1990 .
+Structural mutations of the T cell receptor { and its role in T cell activation .
+Science 249:174-177 .
+24 .
+Fraser , J. D. , D. Straus , and A. Weiss .
+1993 .
+Signal transduction events leading to T-cell lymphokine gene expression .
+Immunol .
+Today 14:357-362 .
+25 .
+Friedrich , B. , and M. Gullberg .
+1988 .
+The role of protein kinase C in early activation vs. growth of T lymphocytes .
+Eur .
+J. Immunol .
+18:489-492 .
+26 .
+Gallego , C. , S. K. Gupta , L. E. Heasley , N. X. Qian , and G. L. Johnson .
+1992 .
+Mitogen-activated protein kinase activation resulting from selective oncogene expression in NIH-3T3 and Rat-la cells .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 89:7355-7359 .
+27 .
+Gonzalez , F. A. , A. Seth , D. L. Raden , D. S. Bowman , F. S. Fay , and R. J. Davis .
+1993 .
+Serum-induced translocation of mitogen-activated protein kinase to the cell surface ruffling membrane and the nucleus .
+J .
+Cell Biol .
+122:1089-1101 .
+28 .
+Graves , J. D. , and D. A. Cantrell .
+1991 .
+An analysis of the role of guanine nucleotide binding proteins in antigen receptor/CD3 antigen coupling to phospholipase C. J. Immunol .
+146:2102-2107 .
+29 .
+Graves , J. D. , J .
+Downward , M. Izquierdo-Pastor , S. Rayter , P. H. Warne , and D. A. Cantrell .
+1992 .
+The growth factor IL-2 activates p21 '' '' * proteins in normal human T lymphocytes .
+J. Immunol .
+148:2417-2422 .
+30 .
+Graves , J. D. , S. C. Lucas , D. R. Alexander , and D. A. Cantrell .
+1990 .
+Guanine nucleotide regulation of inositol phospholipid hydrolysis and CD3-antigen phosphorylation in permeabilized T lymphocytes .
+Biochem .
+J .
+265 : 407-413 .
+31 .
+Gulbins , E. , R. Bi tte , A. Mahboubi , S. Martin , W. Nishioka , T. Brun-ner , G. Baier , G. Baier-Bitterlich , C. Byrd , F. Lang , R. Kolesnick , A. Altman , and D. Green .
+1995 .
+Fas-induced apoptosis is mediated via a ceramide-initiated Ras signaling pathway .
+Immunity 2:341-351 .
+32 .
+Hayes , T. E. , A. M. Kitchen , and B. H. Cochran .
+1987 .
+Inducible binding of a factor to the c-fos regulatory region .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 84:1272-1276 .
+33 .
+Hibi , M. A. , B. H. Lin , T. Smeal , A. Minden , and M. Karin .
+1993 .
+Identification of an oncoprotein- and UV-responsive protein kinase that binds and potentiates the c-Jun activation domain .
+Genes Dev .
+7:2135-2148 .
+34 .
+Izquierdo , B. M. , S. J. Leevers , C. J. Marshall , and D. A. Cantrell .
+1993. p21 '' couples the T cell antigen receptor to extracellular signal-regulated kinase 2 in T lymphocytes .
+J. Exp .
+Med .
+178:1199-1208 .
+35 .
+Izquierdo , M. , J .
+Downward , J. D. Graves , and D. A. Cantrell .
+1992 .
+Role of protein kinase C in T-cell antigen receptor regulation of p21 '' '' '' : evidence that two p21 '' '' regulatory pathways coexist in T cells .
+Mol .
+Cell .
+Biol .
+12:3305-3312 .
+36 .
+Jain , B. J. , V. E. Valge-Archer , A. J. Sinskey , and A. Rao .
+1992 .
+The AP-1 site at -150 bp , but not the NF-kB site , is likely to represent the major target of protein kinase C in the interleukin 2 promoter .
+J. Exp .
+Med .
+175:853-862 .
+37 .
+Jain , J. , P. G. McCaffrey , V. E. Valge-Archer , and A. Rao .
+1992 .
+Nuclear factor of activated T cells contains Fos and Jun .
+Nature ( London ) 356:801-804 .
+38 .
+Kallunki , T. , B. Su , I TsigeIny , H. K. Kluss , B. Derijard , G. Moore , R. Davis , and M. Karin .
+1994 .
+JNK2 contains a specificity-determining region responsible for efficient c-Jun binding and phosphorylation .
+Genes Dev .
+8:2996-3007 .
+39 .
+Kang , S.-M. , B. Beverly , A.-C. Tran , K. Brorson , R. H. Schwartz , and M. J. Lenardo .
+1992 .
+Transactivation by AP-1 is a molecular target of T cell clonal anergy .
+Science 257:1134-1138 .
+40 .
+Karin , M. The regulation of AP-1 activity by mitogen-activated protein kinases .
+1995 .
+J. Biol .
+Chem .
+270:16483-16486 .
+41 .
+Kerppola , T. K. , and T. Curran .
+1991 .
+Transcription factor interactions : basics on zippers .
+Curr .
+Opin .
+Struct .
+Biol .
+1:71-79 .
+42 .
+Knopf , J. L. , M. Lee , L. A. Sultzman , R. W. Kriz , G. R. Loomis , R. M. Hewich , and R. M. Bell .
+1986 .
+Cloning and expression of multiple protein kinase C cDNAs .
+Cell 46:491-502 .
+43 .
+Koka , P. , K. A. van de Mark , and D. V. Faller .
+1991 .
+Trans-activation of genes encoding activation-associated human T lymphocyte surface proteins by murine retroviral sequences .
+J. Immunol .
+146:2417-2425 .
+6592 44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+57 .
+58 .
+59 .
+60 .
+61 .
+62 .
+63 .
+64 .
+65 .
+66 .
+67 .
+CHEN ET AL .
+Koning , F. 1991 .
+Lymphocyte antigen receptors : a common design ?
+Immunol .
+Today 12:100-101 .
+Kronke , M. , W. J. Leonard , J. M. Depper , and W. C. Green .
+1985 .
+Sequential expression of genes involved in human T lymphocyte growth and differen-tiation .
+J. Exp .
+Med .
+161:1593-1598 .
+Leevers , S. J. , and C. J. Marshall .
+1992 .
+Activation of extracellular signal-regulated kinase , ERK2 , by p21 '' '' '' oncoproteins .
+EMBO J .
+11:569-572 .
+Lemaire , P. , O. Revelant , R. Bravo , and P. Charnay .
+1988 .
+Two mouse genes encoding potential transcription factors with identical DNA-binding domains are activated by growth factors in cultured cells .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 85:4691-4695 .
+Lenardo , M. J. , and D. Baltimore .
+1989 .
+NF- « B : a pleiotropic mediator of inducible and tissue-specific gene control .
+Cell 58:227-229 .
+Lenormand , P. , C. Sardet , G. Pages , G. 'Allemain , A. Brunet , and J. Pouyssegur .
+1993 .
+Growth factors induce nuclear translocation of MAP kinases ( p42 '' '' ** and p44 ' '' ** ) but not of their activator MAP kinase kinase ( p56 '' * ) in fibroblasts .
+J .
+Cell .
+Biol .
+122:1079-1088 .
+Lim , R. W. , B. C. Varnum , and H. R. Herschman .
+1987 .
+Cloning of tetra-decanoyl phorbol ester-induced `` primary response '' sequences and their expression in density-arrested Swiss 3T3 cells and a TPA nonproliferative variant .
+Oncogene 1:263-270 .
+Lowy , D. R. , and B. M. Willumsen .
+1993 .
+Function and regulation of Ras .
+Annu .
+Rev .
+Biochem .
+62:851-891 .
+Lucas , S. , R. Marais , J. D. Graves , K. Alexander , P. Parker , and D. A. Cantrell .
+1990 .
+Heterogeneity of protein kinase C expression and regulation in T lymphocytes .
+FEBS Lett .
+260:53-56 .
+Marshall , M. S. 1993 .
+The effector interactions of p21 ( ras ) .
+Trends Biochem .
+Sci .
+18:250-254 .
+McCaffrey , P. G. , B .
+A. Perrino , T. R. Soderling , and A. Rao .
+1993 .
+NF-AT , , , a T lymphocyte DNA-binding protein that is a target for calcineurin and immunosuppressive drugs .
+J. Biol .
+Chem .
+268:3747-3752 .
+McMahon , S. B. , and J. G. Monroe .
+1992 .
+Role of primary response genes in generating cellular responses to growth factors .
+FASEB J .
+6:2707-2715 .
+McMahon , S. B. , and J. G. Monroe .
+1995 .
+A ternary complex factor-dependent mechanism mediates induction of egr-7 through selective serum response elements following antigen receptor cross-linking in B lymphocytes .
+Mol .
+Cell .
+Biol .
+15:1086-1093 .
+Miranti , C. K. , D. D. Ginty , G. Huang , T. Chatila , and M. E. Greenberg .
+1995 .
+Calcium activates serum response factor-dependent transcription by a Ras- and Elk-1-independent mechanism that involves a Ca '' */calmodulin-dependent kinase .
+Mol .
+Cell .
+Biol .
+15:3672-3684 .
+Misra , R. P. , A. Bonni , C. K. Miranti , V. M. Rivera , M. Sheng , and M. E. Greenberg .
+1994 .
+L-type voltage-sensitive calcium channel activation stimulates gene expression by a serum response factor-dependent pathway .
+J. Biol .
+Chem .
+269:25483-25493 .
+Mundschau , L. J. , and D. V. Faller .
+1992 .
+Oncogenic ras induces an inhibitor of double-stranded RNA-dependent eukaryotic initiation factor-2 « -kinase activation .
+J. Biol .
+Chem .
+267:23092-23098 .
+Nishizuka , Y .
+1988 .
+The molecular heterogeneity of protein kinase C and its implications for cellular regulation .
+Nature ( London ) 334:661-665 .
+Northrop , J. P. , K. S. Ullman , and G. R. Crabtree .
+1993 .
+Characterization of the nuclear and cytoplasmic components of the lymphoid specific nuclear factor of activated T cells ( NF-AT ) complex .
+J. Biol .
+Chem .
+268:2917-2923 .
+O'Neill , E. M. , I. Rebay , R. Tjian , and G. M. Rubin .
+1994 .
+The activities of two Ets-related transcription factors required for Drosophila eye development are modulated by the Ras/MAPK pathway .
+Cell 78:137-147 .
+Ono , Y. , T. Kwokawa , U. Kawahara , O. Nishimura , R. Marumoto , K. Iga-rashi , Y. Sugiro , T. Kikkawa , K. Ogita , and Y. Nishizuka .
+1986 .
+Cloning of rat brain protein kinase C complementary DNA .
+FEBS Lett .
+203:111-115 .
+Parker , P. J. , L. Coussens , N. Totty , L. Rhee , S. Young , E. Chen , M. D. Waterfield , U. Francke , and A. Ullrich .
+1986 .
+The complete primary structure of protein kinase C-the major phorbol ester receptor .
+Science 233:853-859 .
+Rake , J .
+B. , M. A. Quinones , and D. V. Faller .
+1991 .
+Inhibition of platelet-derived growth factor-mediated signal transduction by transforming ras .
+Suppression of receptor autophosphorylation .
+J. Biol .
+Chem .
+266:5348-5352 .
+Rebay , L , and G. M. Rubin .
+1995 .
+Yan functions as a general inhibitor of differentiation and is negatively regulated by activation of the Ras1/MAPK pathway .
+Cell 81:857-866 .
+Rivera , V. M. , M. Sheng , and M. E. Greenberg .
+1990 .
+The inner core of the serum response element mediates both the rapid induction and subsequent 68 .
+69 .
+70 .
+71 .
+72 .
+73 .
+74 .
+75 .
+76 .
+77 .
+78 .
+79 .
+80 .
+81 .
+82 .
+83 .
+84 .
+85 .
+86 .
+87 .
+88 .
+89 .
+Mor .
+CELL .
+BioL .
+repression of c-fos transcription following serum stimulation .
+Genes Dev .
+4:255-268 .
+Roden , R. B. S. , Y. Shacharhill , S. C. Cosulich , T. R. Hesketh , and J. C. Metcalfe .
+1993 .
+A common requirement for p21 ( ras ) function in the mitogenic signaling pathways of Swiss 3T3 fibroblasts .
+Cell Growth Differ .
+4:957-964 .
+Rosen , L. B. , D. D. Ginty , M. J. Weber , and M. E. Greenberg .
+1994 .
+Membrane depolarization and calcium influx stimulate MEK and MAP kinase via activation of Ras .
+Neuron 12:1207-1221 .
+Samelson , L. E. , J. Harford , R. H. Schwartz , and R. D. Klausner .
+1985 .
+A 20-kDa protein associated with the murine T-cell antigen receptor is phosphorylated in response to activation by antigen or concanavalin A. Proc .
+Natl .
+Acad .
+Sci .
+USA 82:1969-1973 .
+Shaw , J.-P. , P. J. Utz , D. B. Durand , J. J. Toole , E. A. Emmel , and G. R. Crabtree .
+1988 .
+Identification of a putative regulator of early T cell activation genes .
+Science 241:202-205 .
+Sheng , M. , S. T. Dougan , G. McFadden , and M. E. Greenberg .
+1988 .
+Calcium and growth factor pathways of c-fos transcriptional activation require distinct upstream regulatory sequences .
+Mol .
+Cell .
+Biol .
+8:2787-2796 .
+Sheng , M. , and M. E. Greenberg .
+1990 .
+The regulation and function of c-fos and other immediate carly genes in the nervous system .
+Neuron 4:477-485 .
+Stacey , D. W. , T. Watson , H.-F. Kung , and T. Curran .
+1987 .
+Microinjection of transforming ras protein induces c-fos expression .
+Mol .
+Cell .
+Biol .
+7:523-527 .
+Su , B. , E. Jacinto , M. Hibi , T. Kallunki , M. Karin , and Y. Ben-Neriah .
+1994 .
+JNK is involved in signal integration during costimulation of T lymphocytes .
+Cell 77:727-736 .
+Sukhatme , V. P. , X. Cao , L. C. Chang , C.-H. Tsai-Morris , D. Stamenkovich , P. C. P. Ferreira , D. R. Cohen , S. A. Edwards , T. B .
+Shows , T. Curran , M. M. LeBeau , and E. D. Adamson .
+1988 .
+A zinc finger-encoding gene co-regulated with c-fos during growth and differentiation , and after cellular depolariza-tion .
+Cell 53:37-43 .
+Thomas , S. M. , M. DeMarco , G. D'Arcangelo , S. Halegoua , and J. S. Brugge .
+1992 .
+Ras is essential for nerve growth factor and phorbol ester-induced tyrosine phosphorylation of MAP kinases .
+Cell 68:1031-1040 .
+Treisman , R. 1990 .
+The SRE : a growth factor responsive transcriptional regulator .
+Semin .
+Cancer Biol .
+1147-58 .
+Ullman , K. S. , J. P. Northrop , C. L Verweij , and G. R. Crabtree .
+1990 .
+Transmission of signals from the T lymphocyte antigen receptor to the genes responsible for cell proliferation and immune function : the missing link .
+Annu .
+Rev .
+Immunol .
+8:421-452 .
+Vaziri , C. , and D. V. Faller .
+1995 .
+Repression of platelet-derived growth factor B-receptor expression by mitogenic growth factors and transforming oncogenes in murine 3T3 fibroblasts .
+Mol .
+Cell .
+Biol .
+15:1244-1253 .
+Vries-Smits , A. M. M. , B. M. T. Burgering , S. J. Leevers , C. J. Marshall , and J. L. Bos .
+1992 .
+Involvement of p21 '' in activation of extracellular signal-regulated kinase 2 .
+Nature ( London ) 357:602-605 .
+Waters , S. B. , K. H. Holt , S. E. Ross , L.-J .
+Syu , K.-L. Guan , A. R. Saltiel , G. A. Koretzky , and J. E. Pessin .
+1995 .
+Desensitization of Ras activation by a feedback disassociation of the SOS-Grb2 complex .
+J. Biol .
+Chem .
+270 : 20883-20886 .
+Weiss , A. , B .
+A. Irving , L. K. Tan , and G. A. Koretzky .
+1991 .
+Signal transduction by the T cell antigen receptor .
+Semin .
+Immunol .
+Ser .
+3:313-324 .
+Weiss , A. R. , R. L. Wiskocil , and J. D. Stobo .
+1984 .
+The role of T3 surface molecules in the activation of human T cells : a two-stimulus requirement for IL-2 production reflects events occurring at pre-translational level .
+J. Immunol .
+133:123-129 .
+Weng , H. Q. , S. Y. Choi , and D. V. Faller .
+1995 .
+The Moloney leukemia retroviral long terminal repeat trans-activates AP-1-inducible genes and AP-1 transcription factor binding .
+J. Biol .
+Chem .
+270:13637-13644 .
+Wood , K. W. , C. Sarnecki , T. M. Roberts , and J. Blenis .
+1992 .
+Ras mediates nerve growth factor receptor modulation of three signal-transducing protein kinases : MAP kinase , RAF-1 , and RSK .
+Cell 68:1041-1052 .
+Woodrow , B. M. , N. A. Clipstone , and D. A. Cantrell .
+1993. p21 '' and calcineurin synergize to regulate the nuclear factor of activated T cells .
+J. Exp .
+Med .
+178:1517-1522 .
+Woodrow , M. A. , S. Rayter , J .
+Downward , and D. A. Cantrell .
+1993. p21 '' function is important for T cell antigen receptor and protein kinase C regulation of nuclear factor of activated T cells .
+J. Immunol .
+150:3853-3861 .
+Zubiaur , M. , L. W. Forman , L. L. Stice , and D. V. Faller , 1995 .
+A role for activated p21 '' in inhibition of platelet-derived growth factor ( PDGF ) receptor activation .
+Oncogene 12:1213-1222 .

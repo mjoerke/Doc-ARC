@@ -1,0 +1,878 @@
+MOLECULAR AND CELLULAR BIOLOGY , Nov. 1997 , p. 6437-6447 0270-7306/97/ $ 04.00+0 Copyright © 1997 , American Society for Microbiology Vol .
+17 , No .
+11 Blockade of T-Cell Activation by Dithiocarbamates Involves Novel Mechanisms of Inhibition of Nuclear Factor of Activated T Cells SARA MARTiNEZ-MARTiNEZ,1 PABLO GOMEZ net ARCO , '' ANGEL LUIS ARMESILLA , !
+JOSE ARAMBURU , '' CHUN LUO , '' ANJANA RAO , '' anp JUAN MIGUEL REDONDO !
+* Servicio de Inmunologia , Hospital de la Princesa y Centro de Biologia Molecular , Consejo Superior de Investigaciones Cientificas ( CSIC ) -Universidad Autonoma de Madrid ( UAM ) , Madrid 28049 , Spain , '' and Center for Blood Research , Boston , Massachusetts 021152 Received 13 March 1997/Returned for modification 9 May 1997/Accepted 6 August 1997 Dithiocarbamates ( DTCs ) have recently been reported as powerful inhibitors of NF-B activation in a number of cell types .
+Given the role of this transcription factor in the regulation of gene expression in the inflammatory response , NF-KB inhibitors have been suggested as potential therapeutic drugs for inflammatory diseases .
+We show here that DTCs inhibited both interleukin 2 ( IL-2 ) synthesis and membrane expression of antigens which are induced during T-cell activation .
+This inhibition , which occurred with a parallel activation of c-Jun transactivating functions and expression , was reflected by transfection experiments at the IL-2 promoter level , and involved not only the inhibition of NF-B-driven reporter activation but also that of nuclear factor of activated T cells ( NFAT ) .
+Accordingly , electrophoretic mobility shift assays ( EMSAs ) indicated that pyrrolidine DTC ( PDTC ) prevented NF-KB , and NFAT DNA-binding activity in T cells stimulated with either phorbol myristate acetate plus ionophore or antibodies against the CD3-T-cell receptor complex and simultaneously activated the binding of AP-1 .
+Furthermore , PDTC differentially targeted both NFAT p and NFATc family members , inhibiting the transactivation functions of NFATp and mRNA induction of NFATc .
+Strikingly , Western blotting and immunocytochemical experiments indicated that PDTC promoted a transient and rapid shuttling of NFATp and NFATe , leading to their accelerated export from the nucleus of activated T cells .
+We propose that the activation of an NFAT kinase by PDTC could be responsible for the rapid shuttling of the NFAT , therefore transiently converting the sustained transactivation of this transcription factor that occurs during lymphocyte activation , and show that c-Jun NH-terminal kinase ( JNK ) can act by directly phosphorylating NFATp .
+In addition , the combined inhibitory effects on NFAT and NF-KB support a potential use of DTCs as immunosuppressants .
+The interaction of T lymphocytes with antigens triggers a complex signaling cascade that switches on the gene program leading to T-cell activation .
+During this process , T cells express the autocrine growth factor interleukin 2 ( IL-2 ) , which promotes cell proliferation by interacting with its receptor , also expressed by activated T cells .
+The transcriptional regulation of the IL-2 gene has been extensively analyzed with the IL-2 promoter , a 275-bp region located upstream of the transcriptional start site of the gene .
+Cis-Acting elements for several transcription factors have been identified within this regulatory region .
+The factors which bind to these motifs include AP-1 , NF-kB , Oct-1 , and nuclear factor of activated T cells ( NFAT ) family proteins ( reviewed in references 15 and 26 ) .
+The transcription factor NFAT plays an essential role in IL-2 gene expression ( 59 ) .
+Binding sites for NFAT have also been found within the promoter regions of several cytokines , including granulocyte-macrophage colony-stimulating factor , tumor necrosis factor alpha , IL-3 , IL-4 , and IL-5 ( 10-12 , 17 , 27 , 34 , 44 , 64 ) .
+NFAT is composed of a complex whose binding specificity is mediated by a cytosolic subunit and an inducible nuclear component comprised of AP-1 family members .
+The cytoplasmic subunit is encoded by a family of genes constituted by at least four structurally related NFAT members , NFATp/ * Corresponding author .
+Mailing address : Centro de Biologia Molecular Severo Ochoa ( CBM-SQ ) , Facultad de Ciencias , Universidad Autonoma de Madrid , Cantoblanco , 28049 Madrid , Spain .
+Phone : 34-1-397 84 13 .
+Fax : 34-1-397 47 99 .
+6437 NFAT1 , NFATc , NFAT3 , and NFATX/NFAT4/NFATc3 ( 20 , 23 , 31 , 35 , 37 , 43 ) .
+These members translocate to the nucleus upon calcium mobilization during T-cell activation involving the calcineurin-dependent dephosphorylation of the transcription factor .
+Blockade of this pathway by the immunosuppressive drugs cyclosporin A ( CsA ) and FK 506 results in inhibition of the phosphatase activity of calcineurin , thus preventing the subsequent dephosphorylation and translocation of NFAT to the nucleus .
+Hence , NFAT can be considered a secondary target of the action of the immunosuppressive drugs , whose inhibition accounts , at least in part , for the transcriptional inhibitory effects of the immunosuppressants ( 28 , 55 ) .
+In the nucleus , NFAT family proteins can interact with the inducible nuclear component formed by Fos and Jun family members to bind cooperatively and transactivate NFAT sites in vitro ( 8 , 15 , 25 , 26 , 48 ) .
+Dithiocarbamates ( DTCs ) are antioxidant compounds that have been shown to exert opposite effects on the activity of NF-kB and AP-1 transcription factors .
+In T cells , DTCs inhibit activation of NF-kB by a number of stimuli that promote the production of reactive oxygen intermediates proposed as common second messengers in the activation of the transcription factor ( 3 , 52 , 57 ) .
+In contrast , AP-1 has been shown to be activated by DTCs in a number of cell types , including T lymphocytes ( 18 , 57 , 58 ) .
+Although the precise primary cellular targets involved in DTC-mediated changes in the activity of these transcription factors have not been identified so far , the inhibition by pyrrolidine DTC ( PDTC ) of NF-KB involves the 6438 MARTINEZ-MARTINEZ ET AL .
+blockade of IxB- « phosphorylation ( 66 ) , whereas PDTC-mediated AP-1 activation in T lymphocytes is accompanied by a strong and sustained activation of c-Jun NH , -terminal kinase ( JNK ) ( 18 ) .
+Since DTCs affect the activity of transcription factors important for gene regulation during the T-cell activation process , we analyzed here the effects of these agents on IL-2 gene expression and on the activity of its promoter region , which is in turn regulated by multiple transcription factors that integrate signals transmitted from different pathways .
+We found that despite the activation exerted on AP-1 , DTCs inhibited NFAT-dependent transactivation and binding by mechanisms different from those mediated by the immunosuppressive drugs FK 506 and CsA .
+We discuss the potential benefits derived from the use of DTCs as immunosuppressants and speculate on the putative involvement of an NFAT kinase mediating the inhibitory effects of these agents on the NFATp transactivation functions .
+MATERIALS AND METHODS Cell culture and reagents .
+Jurkat and PEER cells ( « B and y8 T-cell lines ) were maintained in RPMI 1640 medium ( Gibco-BRL ) supplemented with 10 % fetal bovine serum .
+Peripheral blood mononuclear cells were isolated from healthy volunteers , and venous blood was drawn with heparin syringes and diluted in an equal volume of saline solution .
+The suspension was layered over a Ficoll-Hypaque cushion and centrifuged .
+Mononuclear cells were collected , washed , and resuspended in RPMI 1640 medium supplemented with 10 % fetal bovine serum .
+The cells were then incubated at 37°C for 1 h on plastic dishes to remove monocytes .
+The peripheral blood lymphocytes ( PBLs ) ( 5 X 10° per well ) were then stimulated with immobilized anti-CD3 monoclonal antibody ( MAb ) in a 24-well tissue culture plate previously precoated for 2 h with 100 pl of a 10-pg/ml solution of UCHT.1 anti-CD3 antibody ( 9 ) at 37°C .
+Phorbol 12-myristate 13-acetate ( PMA ) , PDTC , diethyl DTC ( DDTC ) , disulfiram , butylated hydroxyan-isole ( BHA ) , N-acetylcysteine ( NAC ) , and the calcium ionophore A23187 were purchased from Sigma .
+CsA was obtained from Sandoz .
+Antibodies , flow cytometry analysis , and IL-2 immunoassay .
+After different treatments , cells were collected by centrifugation , resuspended in phosphate-buffered saline ( PBS ) , and incubated at 4°C for 30 min with hybridoma culture supernatant of TP1/55 anti-CD69 MAb ( 50 ) or fluorescein isothiocyanate-conjugated anti-CD25 antibody from Becton Dickinson .
+Cells were washed with PBS and resuspended in 300 pl of propidium iodide ( 2 ng/pl ) , and bound anti-CD69 antibody was detected with fluorescein isothiocyanate-conjugated rabbit F ( ab ' ) , anti-mouse immunoglobulin G ( IgG ) ( Dako A/S , Roskilde , Denmark ) .
+The supernatant from the myeloma P3X63 was used as a negative control .
+The anti-CD3 MAbs were purified by affinity chromatography on a protein A-Sepha-rose column .
+When cells were activated with anti-CD3 antibodies , the biotinyl-ated TP1/55 MAb was used to monitor CD69 expression .
+In this case , biotinyl-ated TEA 2/1 ( anti-ELAM-1 MAb ) was used as a negative control .
+Samples were analyzed by flow cytometry in a FACScan cytofluorometer ( Becton Dickinson , Mountain View , Calif. ) .
+Analysis was performed with viable cells ( typically higher than 95 % ) as determined by staining with the fluorochrome propidium iodide .
+Since we observed variability among different batches of Jurkat cells regarding the doses of DTCs required to achieve maximal inhibition of membrane markers of T-cell activation , we routinely performed flow cytometry analysis of CD69 with doses of PDTC ranging between 50 and 200 M to select the minimal dose of PDTC that achieved the maximal inhibition in activated Jurkat cells .
+IL-2 levels were measured with an enzyme-linked immunosorbent assay kit purchased from Amersham .
+Cell supernatants from Jurkat T cells were collected 20 h after stimulation .
+Plasmid constructs .
+The reporter constructs NFAT-Luc , containing three tandem copies of the NFAT binding site fused to the IL-2 minimal promoter , and IL-2-Luc , containing the region spanning from -326 to +45 of the human IL-2 promoter or enhancer have been described previously ( 16 ) and were provided by G. Crabtree .
+The pKBF-Luc construct includes a trimer of the NF- « B motif of the H-2K® gene upstream of the herpes simplex virus thymidine kinase minimal promoter driving the luciferase reporter gene ( 73 ) .
+The GAL4 plasmids RSV-GALA4-DBD ( RSV is Rous sarcoma virus ) and GALA4-hNFAT1 ( 1-415 ) have been described previously ( 32 ) .
+The GAL4-hNFAT1 ( 1-415 ) plasmid encodes the transactivation domain of NFAT1/p ( amino acids 1 to 415 ) in frame with the GAL4 DNA binding domain ( DBD ) .
+RSV-GALA4-DBD is the parental vector including just the DBD ( amino acids 1 to 147 ) of GALA .
+RSV-GAL4-c-Jun ( wild type ) and RSV-GAL4-c-Jun S ; + S ; , constructs that encode the wild-type transactivation domain of c-Jun and this domain mutated in its phosphorylation sites ( Ser 63 and Ser 73 ) , respectively ( 45 ) , were gifts from P. Angel .
+The GAL4-Luc reporter plasmid , including five Mor .
+CELL .
+BroL.. GAL4 DNA binding sites fused to the luciferase gene ( provided by R. Perona ) has been described previously ( 39 ) .
+Transient transfections and luciferase assays .
+Jurkat cells ( 2 X 10 '' ) were transiently transfected with 5 ug of luciferase reporter plasmid with 10 pg of Lipofectin reagent ( Gibco BRL ) for 8 h in 1 ml of OPTIMEM ( Gibco BRL ) or were cotransfected with 2 mg of GAL4 expression plasmids and 4 ug of GAL4-Luc construct , with 10 ug of Lipofectin reagent added for 8 h in 1 ml of OPTIMEM in transactivation experiments .
+The cells were then diluted in complete medium and after 36 h were preincubated or not with different concentrations of PDTC for 2 h and stimulated with PMA plus A23187 for 3 or 8 h as indicated .
+Cells were then collected by centrifugation and lysed according to the instructions of a Promega luciferase assay kit .
+The luciferase activity was measured for 30 s with a Lumat LB9501 luminometer ( Berthold , Germany ) .
+Nuclear extracts and EMSAs .
+For nuclear extracts , Jurkat cells were pretreated or not with 100 M PDTC for 2 h and further stimulated for 1 , 4 , or 8 additional h with 20 ng of PMA per ml plus 1 wM A23187 .
+PBLs were also pretreated or not with PDTC for 2 h and then washed with PBS and incubated with hybridoma culture supernatant of anti-CD3 SPV-T3 MAb ( 62 ) for 30 min at 4°C .
+Next , cells were incubated with Dynabeads M-450 coupled to sheep anti-mouse IgG ( Dynal A.S. , Oslo , Norway ) for 30 min under bidirectional rotation at 4°C .
+The Dynabeads with T cells attached were collected with a suitable magnet , resuspended in ice-cold RPMI 1640 with 10 % fetal bovine serum at 4°C , and incubated at 37°C for 15 , 60 , and 120 min in the presence or absence of PDTC .
+Small-scale nuclear extracts were then prepared according to a procedure described elsewhere ( 54 ) with some modifications .
+Briefly , cells were collected by centrifugation , washed once with PBS , and resuspended in 400 pl of ice-cold buffer A ( 10 mM HEPES [ pH 7.6 ] , 10 mM KCI , 0.1 mM EDTA , 0.1 mM EGTA , 0.75 mM spermidine , 0.15 mM spermine , 1 mM dithiothreitol [ DTT ] , 0.5 mM phenylmethylsulfonyl fluoride [ PMSF ] , 10 mM 1 ug of pepstatin per ml , 2 ug each of leupeptin and aprotinin per ml ) .
+After 15 min on ice , 0.6 % ( vol/vol ) Nonidet P-40 was added , and cells were vortexed and centrifuged in a microcentrifuge for 30 s at 15,000 x g. The nuclear pellet was extracted with 50 ul of buffer C ( 20 mM HEPES [ pH 7.6 ) , 0.4 M NaCl , 1 mM EDTA , 1 mM EGTA , 1 mM DTT , 0.5 mM PMSF , 10 mM Na ; MoO , , 1 ag of pepstatin per ml , 4 mg of leupeptin per ml , 4 ug of aprotinin per ml ) for 30 min on a rocking platform and further centrifuged at 15,000 x g for 10 min .
+The supernatants were collected and stored at -80°C .
+All steps were performed on ice or at 4°C .
+Protein concentrations were determined by Bradford assay .
+Gel retardation assays were performed as previously described ( 18 ) with some modifications .
+Nuclear extracts ( 1 to 5 ug ) were incubated with 1 pg of poly ( dI-dC ) and 3 pl of 5X DNA binding buffer ( 10 % [ wt/vol ] polivinylethanol , 12.5 % [ vol/vol ] glycerol , 50 mM Tris [ pH 8 ] , 2.5 mM EDTA , 2.5 mM DTT ) in a final volume of 13 pl on ice for 10 min .
+Next , 25,000 cpm ( 2.5 x 10 '' to 5 X 10 '' cpm/ug ) of °°P-labeled double-stranded oligonucleotides ( 2 pl ) was added , and this mixture was incubated at room temperature for 40 min .
+In competition experiments , 30-fold molar excess of unlabeled homologous oligonucleotides was added to the binding reaction mixture prior to the addition of the probe .
+The DNA-protein complexes were resolved by electrophoresis on a 4 % nondenatur-ing polyacrylamide gel .
+The sequences of the oligonucleotides ( 5 ' to 3 ' ) used as probes in EMSAs were gatcGGAGGAAAAACTGTITCATACAGAAGGCGT ( distal NFAT site of human IL-2 promoter ) , gatecGGGATTTCACCT ( NF-kB binding site of human IL-2 promoter ) , and GCCCCCTCTGACTCATGCTG ACA ( nucleotides -68 to -46 , including the AP-1 site of the CDZ7¢ promoter ) .
+The pairs of complementary synthetic oligonucleotides were annealed and labeled with the Klenow fragment of the DNA polymerase I ( for NF- « B and NFAT oligonucleotides ) or with the avian myeloblastosis virus reverse transcrip-tase in the case of AP-1 oligonucleotide .
+Supershift assays were performed by incubating the antiserum ( 0.5 wl ) and nuclear extract for 15 min at 4°C , before addition of the probe to the binding reaction mixture .
+The antiserum 67.1 , specific for NFAT1/p , has been previously described ( 21 ) .
+Western blot analysis .
+After the different treatments , cells ( 2 x 10° ) were washed with ice-cold PBS and resuspended in hypotonic buffer ( 10 mM Tris-Cl [ pH 7.5 ] , containing 10 mM NaCl , 3 mM MgCl , 1 mM PMSF , 0.5 mM DTT , 0.1 mM EGTA , 2 M leupeptin , 1 pg of aprotinin per ml , and 0.05 % Nonidet P-40 ) .
+Cells were then centrifuged at 650 x g to pellet the nuclei , and the supernatant was removed .
+The nuclear pellet was washed in the hypotonic buffer without detergent and resuspended in Laemmli buffer .
+For the preparation of whole-cell extracts , total proteins from the different cells ( 10° ) were extracted as previously described ( 2 ) .
+Nuclear and total extracts were boiled and separated by sodium dodecyl sulfate ( SDS ) -polyacrylamide ( 6 % ) gel electrophoresis under reducing conditions .
+Gels were transferred to nitrocellulose membranes that were incubated in blocking solution ( 5 % [ wt/vol ] skim milk in Tris-buffered saline [ TBS ] buffer ) for 90 min at room temperature , washed twice in TBS-T ( TBS , 0.05 % Tween 20 ) , and incubated with antiserum 67.1 ( 0.03 % [ vol/vol ] ) in TBS-T for 2 h. Membranes were then washed four times for 5 min each in TBS-T , and perox-idase-labeled goat anti-rabbit IgG ( Pierce ) was incubated for 90 min at room temperature .
+After three washes with TBS-T and one wash with H , O , mem-brane-bound antibody was visualized with the Amersham ECL ( enhanced chemi-luminescence ) detection reagent .
+Solid-phase JNK assays .
+After the indicated treatment , PBLs ( 5 X 10° per sample ) were lysed for 15 min on ice with lysing buffer ( 20 mM HEPES [ pH 7.6 ] , voL .
+17 , 1997 10 mM EGTA , 40 mM B-glycerophosphate , 1 % Nonidet P-40 , 2.5 mM MgCl , , 2 mM sodium orthovanadate , 1 mM DTT , 1 mM PMSF , 20 pg of aprotinin per ml , 20 ag of leupeptin per ml ) and centrifuged at 12,000 x g for 10 min at 4°C .
+The supernatants were collected and incubated with 0.3 ug of a rabbit polyclonal anti-JNK-1 antibody ( Santa Cruz Biotech , Inc. ) .
+One hour after this incubation , protein A beads were added , and the mixture was incubated at 4°C for an additional 2 h. The immune complexes were washed three times with PBS that contained 1 % Nonidet P-40 and 2 mM vanadate and once with kinase buffer ( 20 mM HEPES [ pH 7.6 ] , 2 mM DTT , 10 mM B-glycerophosphate , 20 mM MgCl , , 0.1 mM Na , ; VO , ) .
+After the washing , the supernatant was removed and the kinase reaction was initiated by addition of 40 pl of kinase buffer containing 20 M cold ATP , 0.1 @ Ci of and 1 ug of GST-c-Jun ( 1-79 ) ( GST is glutathione S-transferase ) or GST-NFATp ( 1-415 ) per reaction at 30°C for 20 min .
+The reaction was stopped by addition of 10 pl of 5 % Laemmli buffer , and this mixture was boiled for 5 min and then analyzed by SDS gel electrophoresis on a 12 % acrylamide gel .
+GST-c-Jun ( 1-79 ) and GST-NFATp ( 1-415 ) proteins were isolated from 250 ml of bacterial cultures expressing pGEX-c-Jun ( 1-79 ) plasmid ( 19 ) or pGEX2T-NFATp ( 1-415 ) ( 33 ) plasmid , respectively , with GSH-Sepharose 4B beads ( Pharmacia Biotech. , Inc. ) .
+Northern blot analysis .
+After different treatments , Jurkat cells were harvested , and total RNA was isolated with the Ultraspec system ( Biotecx Laboratories , Inc. ) .
+Poly ( A ) * RNAs were purified by using the PolyATtract mRNA isolation system III ( Promega ) .
+For Northern blot analysis , poly ( A ) * RNA from each sample ( 0.5 pg ) was denatured , electrophoresed on a 1 % formaldehyde agarose gel , and blotted onto a nitrocellulose membrane .
+After UV cross-linking , the filters were hybridized overnight at 42°C with the corresponding specific probes : a 2.2-kb EcoRI fragment of the NFATc cDNA ( 40 ) , a 0.8-kb PsfI fragment of IL-2 cDNA , a 0.8-kb HindIII-PsfI fragment of c-Jun cDNA , and a 0.6-kb HindIII-BamHI fragment of the B-actin cDNA .
+Immunocytochemical localization of NFATp and NFATe .
+Jurkat cells ( 10° ) were electroporated with 10 ug of pEF-BOS NFAT1 plasmid , which expresses influenza virus hemagglutinin ( HA ) -tagged NFATp ( 33 ) , or 20 ug of pSH102CA418 ( provided by G. Crabtree ) , which expresses HA-tagged NFATc ( 1 to 418 ) ( 43 ) .
+Forty-eight hours after transfection , cells were plated on polylysine-coated coverslips and either were left untreated or were incubated with PDTC ( 50 .M ) for 2 h before stimulation with PMA plus Ca** ionophore as indicated .
+The subcellular localization of NFATp was analyzed by immunofluorescence with anti-HA antibody ( 12CA5 ) as previously described ( 33 ) .
+The percentages of cells displaying nuclear or cytoplasmic staining were scored visually after counting of at least 150 HA-expressing cells in the experiments shown .
+Two or four different fields are presented at each time point analyzed .
+RESULTS Inhibition of T-cell activation by DTCs .
+Signals transduced by the activation of T-cell receptor ( TCR ) induce the synthesis of IL-2 and the expression of IL-2 receptors ( IL-2Rs ) and other activation antigens ( 14 , 70 ) .
+The activation process can be mimicked by simultaneous treatment of T cells with stimuli that activate protein kinase C and elevate intracellular Ca** , such as phorbol esters and calcium ionophores ( 15 , 67 ) .
+To determine the effects of the different antioxidants on the T-cell activation process , flow cytometry analysis of Jurkat cells activated with the phorbol ester PMA and the calcium ionophore A23187 , either preincubated or not with different DTCs , PDTC , or DDTC and its disulfide-linked form disulfiram , were carried out .
+As shown in Fig .
+1 , doses of DTCs in the range of 50 to 100 mM inhibited the upregulated expression of the T-cell activation antigen CD69 and the IL-2Ra « chain ( CD25 ) induced by PMA plus ionophore .
+The pretreatment with DTCs strongly inhibited the cell surface expression of CD25 , whereas that of CD69 was not totally blocked .
+Conversely , DTCs induced low levels of expression of CD69 that persisted but were not further increased by subsequent stimulation with PMA plus ionophore .
+Similar results were obtained by using unfrac-tionated PBLs stimulated with PMA plus ionophore , and inhibition of CD69 membrane expression was also observed in the T-cell population activated through the CD3-TCR complex ( Fig .
+1B ) .
+The synthesis of IL-2 requires the efficient integration of signals transmitted through different pathways during T-cell activation .
+We next explored whether the inhibitory effects observed with the DTCs were also reflected at the IL-2 expression level .
+The IL-2 secretion by Jurkat cells in response to DITHIOCARBAMATES BLOCK NFAT ACTIVATION - 6439 A CD69 CD25 PDTC s do is zo 0 5 40 45 20 DDTC C EL L_ NU M BER Disulfiram 0 5 do as 20 0 § do dS 20 a ﬁ * u ‘ a 10° 19° 10 l 10 1 a 10 !
+10° LOG FLUORESCENCE INTENSITY P+Io anti-CD3 PDTC CELL NUMBER 0 10 zo so 40 se 0 40 20 an ao so ( 10° 10 a LOG FLUORESCENCE INTENSITY FIG .
+1 .
+Effect of DTCs on membrane expression of T-cell activation markers .
+( A ) Flow cytometry profiles of CD69 and CD25 expression in Jurkat cells either untreated or treated with different DTCs ( thin lines ) are compared with those of cells stimulated with PMA plus Ca** ionophore ( thick lines ) or cells pretreated with the DTCs for 2 h and further stimulated with PMA plus ionophore ( dotted lines ) .
+In the control panel ( - ) dotted lines indicated the staining with P3X63 myeloma supernatant , used as a negative control , and thin lines indicate the baseline expression of CD69 or CD25 .
+DTCs were added for 16 h at doses of 100 M ( PDTC and DDTC ) and 50 M ( disulfiram ) .
+PMA ( 20 ng/ml ) and Ca** fonophore A23187 ( 1 uM ) were also added for 16 h. ( B ) Profiles of CD69 expression in PBLs untreated or pretreated for 2 h with 50 uM PDTC and further stimulated with 20 ng of PMA per ml plus 1 M ionophore or by incubation in UCHT.1 ( anti-CD3 ) -coated cells ( thin lines ) are compared with those of cells stimulated with PMA plus ionophore or immobilized anti-CD3 antibody ( thick lines ) .
+Cells were treated with the indicated reagents for 16 h. The dotted lines indicated the staining with anti-ELAM antibody used as a negative control .
+PMA plus ionophore was inhibited , in a dose-dependent man-ner , by the different antioxidants tested ( Fig .
+2 ) .
+DTCs also blocked IL-2 secretion at concentrations ranging from 20 to 50 pM .
+Since DDTC and disulfiram , but not PDTC , have been reported to produce acidification in long-term-treated cell cultures ( 53 ) and PDTC displayed a very potent inhibitory effect on membrane expression of T-cell activation markers and IL-2 secretion , we used this derivative of DTC to further characterize the mechanism accounting for the interference with the T-cell activation process observed .
+Blockade of IL-2 transcription by DTCs .
+To characterize the molecular mechanisms involved in the inhibition of the IL-2 secretion by DTCs , we performed Northern blot analysis of Jurkat cells treated or not with PDTC and then stimulated with PMA plus ionophore .
+IL-2 mRNA steady-state levels , detected as early as 4 h and strongly increased after 8 h of stimulation , were totally abrogated in cells exposed to PDTC ( Fig .
+3A ) .
+The 6440 MARTINEZ-MARTINEZ ET AL .
+ro .
+000 « 500 IL-2 ( pg/ml ) .000 500 Prto ° -- - Fu oto oR o + ~ PDTC ___ DDTC _- Disulfiram ﬁmxem ‘ sﬁ 5,96st % aP ( aM ) ( am ) ( M ) FIG .
+2 .
+Inhibition of IL-2 production by DTCs .
+Jurkat cells were either pretreated or not with the indicated micromolar concentrations of DTCs for 2 h and then were stimulated with 20 ng of PMA per ml plus 1 uM Ca** ionophore A23187 ( P+I0 ) .
+IL-2 was measured in the supernatants by enzyme-linked immunosorbent assay 20 h after stimulation .
+The levels of IL-2 detected in supernatant of cells single treated with the different DTCs were the same as those in the control cells ( < 60 pg/ml ) .
+The results are represented as the mean + standard deviation of two independent measures .
+Cell viability , tested by trypan blue exclusion just before collection of the supernatants , was higher than 90 % for the different treatments .
+treatment with PDTC did not result in nonspecific or toxic inhibition of gene expression ; rehybridization of the blotted membrane with a c-jun probe revealed that PDTC triggered a simultaneous and sustained induction of the c-jun transcripts , as previously described ( 18 ) .
+Furthermore , c-jun mRNA levels were synergistically increased by treatment with PDTC plus the combination of PMA and ionophore under conditions in which IL-2 transcription was completely abolished ( Fig .
+3A ) .
+Since the proximal region of the IL-2 promoter ( containing 275 bp of the upstream regulatory region of the IL-2 gene ) includes binding sites for a number of transcription factors that mediate the induction of IL-2 gene expression ( 15 ) , we next studied whether the inhibitory effects of DTCs on IL-2 transcriptional expression were mediated through inhibition of the IL-2 promoter .
+The transcriptional activity of Jurkat cells transfected with a reporter plasmid containing the IL-2 promoter region in response to PMA plus ionophore was abrogated by treatment with PDTC ( Fig .
+3B ) , DDTC , or disulfiram ( data not shown ) .
+Effects of PDTC on different transcription factors that regulate IL-2 promoter activity .
+We further dissected the mechanisms responsible for the PDTC-mediated inhibition of IL-2 transcription by analyzing the effects of the DTC on the activity and binding of the transcription factors AP-1 , NF-kB , and NFAT , which have been shown to be critical for the activity of the IL-2 promoter ( 15 , 26 , 46 ) .
+As described for other stimuli ( 52 , 53 ) , the potent activation by PMA plus ionophore of the NF-kB reporter construct was blocked by pretreatment with PDTC ( Fig .
+4A , upper ) .
+In contrast , the activity of an AP-1-dependent reporter plasmid , which is stimulated by PDTC in Jurkat cells ( 18 ) , was synergistically increased by the combination of PMA plus ionophore and PDTC ( data not shown ) .
+Although AP-1 cooperates with NFAT to activate transcription through the NFAT distal site of the IL-2 promoter , inter-estingly , the transcriptional activation of a reporter construct directed by this NFAT motif was abrogated by PDTC ( Fig .
+4A , lower ) .
+The data obtained in these transfection experiments correlated with the effect of PDTC on the DNA binding of Mor .
+CELL .
+BroL.. PDTC P+lo P+o/PDTC PDTC P+lo P+I0/PDTC PDTC P+lo P+1o/PDTC # __ .
+© IL-2 c-jun f-actin & IL-2 Luc transcriptional activity ( R.L.V .
+10 5 o lad + Aa PDTC PDTC/P+Io FIG .
+3 .
+Effects of PDTC on IL-2 transcription .
+( A ) Northern blot analysis with poly ( A ) * RNAs from Jurkat cells treated with PDTC or PMA plus A23187 ( P+I0 ) or pretreated with PDTC for 2 h and then stimulated with PMA plus A23187 ( P+1I0/PDTC ) for the times indicated .
+After agarose electrophoresis and blotting , the membrane was sequentially hybridized with IL-2 , c-Jun , and B-actin probes as indicated .
+C , control .
+( B ) The transcriptional activity of IL-2 promoter ( bp -326 to +45 ) was tested by transfection of Jurkat cells with Lipofectin for 8 h. Thirty-six hours posttransfection , cells were treated with PDTC or PMA plus ionophore ( P+I0 ) or were preincubated with PDTC for 2 h and further stimulated with PMA plus ionophore ( PDTC/P+I0 ) for 8 h. The results are expressed as relative light units ( R.L.U . )
+measured for 30 s. Results are representative of five independent experiments .
+PDTC ( 50 M ) , PMA ( 20 ng/ml ) , and Ca** ionophore ( 1 M ) were used at the same doses in single or combined treatments in panels A and B. such transcription factors analyzed by EMSAs .
+Thus , the specific binding to NF- « xB and NFAT probes from the human IL-2 promoter , strongly induced by PMA plus ionophore , was inhibited by DTC , whereas AP-1 DNA-binding activity was stimulated by PDTC with the same nuclear extracts ( Fig .
+4B ) .
+These effects were not due to a direct interference of PDTC with DNA-transcription factor interaction , since exogenous addition of PDTC to the binding reaction mixtures in EMSAs , even at concentrations of 100 pM , did not affect the formation of the specific complexes ( data not shown ) .
+The effect of PDTC on NF- « B DNA-binding activity was also observed in PBLs activated by PMA plus ionophore ( data not shown ) .
+In addition , PDTC completely blocked the specific binding to the voL .
+17 , 1997 A 500 1 PDTC | P+lo DITHIOCARBAMATES BLOCK NFAT ACTIVATION - 6441 |_ PDTC/P+Ho 1 PDTC/P+Io 1 PDTC 1 P+lo |_ PDTC/P+He + PDTC + P+lo 1 PDTC 1 P+lo + PDTC + P+lo + PDTC + P+lo 400 NFkB transcriptional activity ( R.L.V . )
+10 3 P+lo PDTC PDTC/P+Io 40 so 20 NFAT transcriptional activity ( R.L.UV . )
+103 2 C 1 P+lo PDTC PDTC/P+o AP-1 NFkB anti- CD3 PDTC/anti-CD3 60 120 FIG .
+4 .
+PDTC-mediated changes in the activity and DNA binding of transcription factors that regulate IL-2 promoter activity .
+( A ) Transcriptional activities of NF- « B- and NFAT-dependent luciferase reporter plasmids were analyzed by transfection of Jurkat cells .
+Cells were transfected and treated with PDTC or PMA plus ionophore or were pretreated with PDTC and then stimulated with PMA plus ionophore with the same doses and conditions described in the legend to Fig .
+3 .
+( B ) DNA-binding activities of NFAT , AP-1 , and NF- « B factors were analyzed with the same pools of nuclear extracts from Jurkat cells either untreated or treated with 100 M PDTC or 20 ng of PMA per ml plus 1 M ionophore ( P+I0 ) for 4 h. For the combined treatment ( PDTC/P+I0 ) , PDTC was incubated for 2 h , followed by a 4-h stimulation with P+Io at the same doses as those used in separate treatments .
+Specific binding was tested by addition to the binding reaction mixtures of 30-fold molar excess of unlabeled homologous oligonucleotide ( Comp .
++ ) .
+( C ) NFAT DNA-binding activity was analyzed for nuclear extracts from purified T lymphocytes stimulated with cross-linked T3b anti-CD3 antibody for 15 , 60 , and 120 min .
+Cells were pretreated with PDTC for 2 h and further stimulated with anti-CD3 antibody ( PDTC/anti-CD3 ) for the indicated times .
+NFAT probe in nuclear extracts from both PBLs activated by PMA plus ionophore and T cells stimulated by cross-linking with immobilized T3b anti-CD3 MAb ( Fig .
+4C and data not shown ) .
+Mechanisms of inhibition of NFAT by PDTC .
+The possible effects of DTC on the activity of the NFAT cytosolic component that could account for the observed inhibition were analyzed .
+Other drugs which block the binding and transactivating abilities of NFAT , such as CsA and FK 506 , target the phosphatase activity of calcineurin , thus preventing the subsequent dephosphorylation and translocation of cytosolic NFAT ( 28 , 55 ) .
+Therefore , we explored whether PDTC affected the dephosphorylation of NFAT1/p and its translocation to the nucleus upon activation of Jurkat cells .
+Western blot analysis of fractionated cellular extracts indicated that treatment with PMA plus ionophore or ionophore alone induced the dephosphorylation and translocation to the nucleus of NFAT .
+As previously reported ( 29 , 49 , 60 , 65 ) , the dephosphorylation or translocation of NFAT was detected as early as 5 min , maintained for at least 90 min , and blocked by CsA ( Fig .
+5A ) .
+Strikingly , exposure of cells to PDTC prior to the addition of ionophore or PMA plus ionophore resulted in transient dephosphorylation and translocation of NFATp , and the bulk of the transcription factor was found in the cytosolic extracts , after 90 min of single or combined treatment with PDTC ( Fig .
+5A and data not shown ) .
+It is noteworthy that the mobility of NFATp exported from the nucleus of PDTC-treated cells was lower than that displayed by the phosphorylated form in untreated Jurkat cells ( Fig .
+5A ) .
+To further analyze the effects of PDTC on the nuclear shuttling of NFATp , we performed immunocytochemical experiments in Jurkat cells transiently transfected with HA-tagged full-length NFATp ( 33 ) .
+As shown in Fig .
+5B , HA-tagged recombinant NFATp was found in the cytoplasm of unstimulated cells and translocated to the nucleus upon stimulation with PMA plus ionophore .
+In agreement with the Western blot analysis , pretreatment with PDTC promoted a rapid nuclear export of NFATp from the nucleus of cells activated with PMA plus ionophore .
+In these cells , the tagged recombinant NFATp protein was already detected in the cytoplasm of ~50 % of the transfected cells after 30 min of activation , and the nuclear export was complete by 90 min ( Fig .
+5B , lower panel ) .
+Therefore , PDTC , by mechanisms at present 6442 MARTINEZ-MARTINEZ ET AL .
+P+1o/PDTC P+lo o o 5 90 5 90 5 90 5 90 Io/PDTC tn P+Io/CsA tn 1o/CsA min - | & - » “ ﬁr “ ?
+Wes | 1,11 , -- * to- c aome Gime ~ + Fal * NUCLEAR - » - » P `` Unstimulated PMA + ionomycin 30 min 90 min PDTC FIG .
+5 .
+Rapid shuttling of NFATp induced by PDTC .
+( A ) Western blot analysis of fractionated cell extracts from Jurkat cells ( 10° per line in nuclear lysates and 5 X 10° for total lysates ) treated for 5 or 90 min with 20 ng of PMA per ml plus 1 aM ionophore or 1 M ionophore alone either pretreated or not with PDTC ( 100 wM ) or CsA ( 100 ng/m ! )
+for 2 and 1 h , respectively .
+The antiserum 67.1 was used for NFAT1/p detection .
+The electrophoretic mobilities of the upper and lower bands corresponding to the phosphorylated and dephosphorylated forms of NFAT1 , respectively , are indicated by arrows .
+C , control .
+( B ) Immunocytochemical staining of Jurkat cells transfected with HA-tagged NFATp either untreated ( - ) or incubated with PDTC ( 50 wM ) for 2 bh .
+After incubation , cells were stimulated with PMA ( 20 ng/m ! )
+plus ionomycin ( 3 uM ) ( PMA +ionomycin ) for 30 or 90 min , fixed , and analyzed by immunofluorescence with anti-HA antibody .
+The upper panel shows the subcellular localization of HA-tagged NFATp in resting and stimulated cells , and the lower panel corresponds to stimulation with PMA plus ionomycin in PDTC-pretreated cells .
+unknown , accelerates the shuttling of the transcription factor in activated Jurkat cells .
+In view of the requirement of sustained activation to promote NFAT-dependent transcription ( 65 ) , we next investigated whether PDTC affected the transactivating ability of NFAT in activated cells .
+For this purpose , we performed co-transfection experiments with a chimeric expression plasmid encoding the NH , -terminal transactivation domain of NFATp fused to the GAL4 DBD ( 32 ) , together with a GAL4-Luc reporter plasmid .
+As shown in Fig .
+6 , PDTC prevented the transactivation function of NFATp induced by PMA plus ionophore .
+As controls , in parallel transfections , we included GALA expression vectors encoding the transactivation domain of c-Jun ( GAL4-c-Jun wild type ) .
+Strikingly , PDTC inhibited the transactivation by the GALA-NFAT hybrid induced by PMA plus ionophore , under the same conditions that strongly increased the transactivation by the GAL4-c-Jun construct .
+As occurred with the activity of an AP-1 reporter construct , PDTC and PMA-ionophore strongly synergized activating the GAL4-c-Jun construct .
+As an additional control , we also included in the experiments a plasmid identical to the GALA4-c-Jun wild type but double mutated in serines located at positions 63 and Mor .
+CELL .
+BroL.. 73 ( GAL4-c-Jun S , ; + S , ) ( 45 ) .
+Transactivation by this mutated plasmid was not affected at all by treatments with the stimuli that strongly increased the activity of the wild type ( Fig .
+6 ) .
+In order to investigate whether the effect of PDTC on the rapid nuclear export of NFATp in activated Jurkat cells was also operative in other cell types , we carried out Western blotting experiments with the y8 T-cell line PEER as well as with PBLs .
+The phosphorylated status of NFATp was monitored after different times of activation with ionophore in fractionated cellular extracts of control and PDTC-treated cells .
+As shown in Fig .
+7 , pretreatment of PBL and PEER cells with PDTC resulted in a rapid export of NFATp with a kinetics similar to that displayed by Jurkat cells .
+Similarly , treatment with the Ca** ionophore induced the sustained presence of the dephosphorylated form in the nucleus for at least 90 min in these cells .
+Since DTCs are able to activate JNK ( 18 ) and NFAT kinases have been proposed to be involved and implicated in the activation of the nuclear export of NFAT-4 and NFATe , respectively ( 5 , 61 ) , we next analyzed whether NFATp was a target for JNK .
+Solid-phase kinase analysis of JNK immunoprecipitated from PBLs treated with either PMA plus ionophore or PDTC indicated that both stimuli activated JNK activity , inducing the phosphorylation of both NFATp and c-Jun ( Fig .
+8 ) .
+This striking result shows that NFATp is a substrate of JNK , which is activated after PBL treatment with PDTC or PMA plus ionophore .
+Recent studies have shown that the composition of NFAT changes during the T-cell activation process .
+Thus , NFATp is rapidly activated and translocated to the nucleus within minutes after T-cell activation .
+Several hours after activation , the bulk of NFATp is found in the cytoplasm , and other NFAT family members have been suggested to mediate NFAT pendent sustained transcription ( 29 ) .
+In addition , in NFAT1/ p-deficient mice , IL-2 gene expression upon signaling through the TCR does not appear to be significantly affected ( 22 , 72 ) , which suggests that other NFAT family members might play a more relevant role in IL-2 gene activation or compensate for the absence of NFAT1/p .
+Since we had observed complete inhibition of NFAT -dependent transcription by PDTC , we decided to analyze by EMSA its effects on the kinetics of binding of NFAT in Jurkat cells activated with PMA plus ionophore .
+These experiments showed that nuclear factor binding to the NFAT probe , observed after 1 h of activation and further increased after 4 and 8 h , was inhibited by PDTC at all different times analyzed ( Fig .
+9 , left ) .
+Serological analysis with the 67.1 specific anti-NFATp antibody revealed the predominant presence of NFATp in nuclear extracts of cells activated for 1 h , while 8 h after activation , excess of the specific antiserum only blocked and supershifted part of the NFAT complex ( Fig .
+9 , right ) .
+Since NFATe has been shown to be transcriptionally induced during T-cell activation ( 43 ) and is detected in the nucleus later after T-cell stimulation ( 29 ) , we performed Northern blot analysis to determine whether the expression of NFATe during activation was affected by PDTC .
+These experiments revealed that the NFATe mRNA steady-state levels , undetected in untreated Jurkat cells , were upregulated after 1 h of treatment with PMA plus ionophore , peaked at 4 h , and were maintained at high levels for at least 8 h of activation .
+Exposure to PDTC prior to the activation of the cells drastically inhibited NFATc gene expression at the times analyzed ( Fig .
+10A and data not shown ) .
+To determine whether nuclear export of NFATec was affected by PDTC , we performed immunofluorescence analysis of Jurkat cells transfected with HA-tagged NFATe ( 1-418 ) .
+Vor .
+17 , 1997 DITHIOCARBAMATES BLOCK NFAT ACTIVATION - 6443 ( 5x GAL4 ) Luc ( 5XGAL4 ) Lue GAL4-hNFAT1 ( 1-415 ) GAL4-DBD GAL4-c-JUNwt GAL4-c-JUNS¢S , `` ( A 250 - re p 1 & > B L 9 ao `` o e omi § A o to 150 - B ' 3 = ) 30 B A 3 & A 100 - 20 a e E 50 - 10 o - 0-4K .
+mem .
+CT- _ [ G-29 a 0 N @ R & V0 & @ & 9 & § @ § & 0 4 A & R & * _ PDTC PDTC/P+e - `` * '' _ PDTC PDTC/P+HIe * PDTC/PHe -* '' PDTC FIG .
+6 .
+Opposite effects of PDTC on the transactivation of NFATp and c-Jun .
+Jurkat T cells were cotransfected by lipofection with 4 g of a GAL4-Luc reporter plasmid per ml together with 2 jg of the expression vectors coding for the fusion proteins GALA-hNFAT1 ( 1-415 ) ; GAL4-c-Jun ( wt , wild type ) ; the mutated version , GAL4-c-Jun S , + S ; ; or the parental empty vector RSV-GALA-DBD per ml for 8 h. After 36 h , cells were pretreated or not with 25 or 50 uM PDTC and further stimulated with 20 ng of PMA per ml plus 1 wM A23187 for 3 h. The results are expressed as relative light units ( R.L.U . )
+measured for 30 s and are representative of three independent experiments .
+These experiments revealed that the translocation of recombinant NFATc to the nucleus was detected as early as 15 min in 30 to 50 % of the activated cells either treated or not with PDTC .
+However , after 90 min , the nuclear export was total in the cells treated with the DTC , whereas the staining pattern remained nuclear in 90 % of the cells activated in the absence of PDTC ( Fig .
+10B ) .
+Taken together , our results indicate that the combined effects of PDTC inhibiting the transactivating functions of NFATp and the transcriptional induction of NFATc might well account for the inhibition of binding and NFAT reporter-dependent transcription of activated T cells .
+In addition , given the critical role of NFAT in the IL-2 gene regulation ( 15 , 46 ) , this combined effect could itself account for the inhibition of IL-2 transcription and expression .
+DISCUSSION The transmission of signals derived from the T-cell stimulation involves at least three different pathways mediated by Ras , protein kinase C , and Ca**-calcineurin ( 15 , 24 ) .
+These path ways couple the signals from the plasma membrane with the activation of transcription factors which regulate the expression of a large number of genes during the T-cell activation program .
+Among these genes , those that code for cytokines play a crucial role in the regulation of the immune response .
+Cytokines control processes such as proliferation and differ-entiation , as well as multiple effector functions of immune cells .
+The fact that the immunosuppressive drugs CsA and FK 506 abrogate the cytokine transcription emphasizes not only the relevance of cytokines in regulating the immune responses , but also the central role that the Ca**-calcineurin pathway plays in T lymphocytes .
+In this study , we showed that different DTCs interfere with the T-cell activation process and analyzed the effect of the pyrrolidine derivative of DTC ( PDTC ) on the transcription factors that regulate IL-2 gene expression .
+This analysis revealed that PDTC strongly inhibited NFAT activation by mechanisms different from those used by the immunosuppressive drugs CsA and FK 506 .
+We have shown that DTCs block IL-2 production and inhibit the surface upregulation of T-cell activation antigens such as CD69 and CD25 in both Jurkat and peripheral blood T cells .
+A B .
+& 9 3 al B o s & 9 = * n Ac » 5 15 30 90 5 15 30 90 min s b # 4 | rtorar ha < cmuttv cua » < at > disc } -- + » f NUCLEAR sumy ._ ... enum en Cine tot 4 % FIG .
+7 .
+Shuttling of NFATp in PBLs and in the PEER T-cell line .
+Western blot analysis of fractionated cell extracts from PEER cells ( A ) or PBLs ( B ) ( 5 X 10° cells per sample in total and 10° cells for nuclear lysates ) treated for the indicated times with 1 M ionophore ( Io ) either pretreated or not with 100 wM PDTC for 2 h. For NFAT1/p detection , the antiserum 67.1 was used .
+The arrows indicate the phosphorylated and dephosphorylated forms of NFATp .
+C , control .
+6444 MARTINEZ-MARTINEZ ET AL .
+P+Io PDTC - 0.25 4 0.25 0.5 1 4 h C -- m » emmm ) - c-Jun FIG .
+8 .
+JNK phosphorylates NFATp in vitro .
+PBLs treated with 20 ng of PMA per ml plus 1 wM ionophore ( P+I0 ) or 100 wM PDTC were lysed and immunoprecipitated with antibody specific to JNK1 at the indicated times .
+The immune complexes were incubated with GST-c-Jun ( 1-79 ) or GST-NFATp ( 1-415 ) in kinase buffer in the presence of [ y- > PJATP for 20 min .
+The reactions were stopped and separated on SDS-12 % polyacrylamide gels .
+Although these effects clearly reflect inhibition of the T-cell activation process , DTCs by themselves also trigger signals leading to a moderate surface expression of CD69 .
+In fact , the expression of CD69 in Jurkat cells stimulated with PMA plus ionophore or in T cells activated with anti-CD3 MAb was not completely inhibited by DTCs and remained at the same level as those induced by the single treatment with the DTCs .
+This activating effect resembles that exerted by PDTC on ICAM-1 activation in endothelial cells ( 40 ) and appears to be mediated by transcriptional induction of the CD69 gene promoter through AP-1 ( 9a ) .
+Given the fact that PDTC is able to induce a sustained and strong activation of JNK in Jurkat T cells ( 18 ) as well as in human PBLs ( Fig .
+8 ) , such stimulation may also be related to the observed CD69 upregulation .
+Despite its ability to activate AP-1 in several cell types , including T cells ( 18 , 57 ) , DTCs have been proposed as potential inhibitors of cytokine production in T cells by virtue of their capacity to block NF-kB activation ( 52 ) .
+The metal-che-lating and oxygen radical-scavenging antioxidative properties of these compounds have been suggested to mediate the inhibition of this transcription factor ( 52 ) .
+Strikingly , as occurs with DTCs , other antioxidants such as NAC and thioredoxin not only are inhibitors of NF-kB , but also activate AP-1 ( 38 , 51 , 52 , 63 ) .
+Although we have observed that the antioxidants NAC and BHA also interfere with the T-cell activation process , their inhibitory effects on the expression of activation antigens and IL-2 production are weaker than those displayed by DTCs ( data not shown ) .
+In addition , we have found that NAC fails to interfere with the nuclear shuttling of NFATp upon activation of Jurkat cells ( data not shown ) .
+Thus , the effects of NAC on T-cell activation might be more related to its capacity to inhibit NF-kB .
+Although these experiments suggest that the effects of DTCs on NFAT are not related to their reactive oxygen intermediate scavenger properties , we can not exclude the possibility that the stronger antioxidative potency of DTCs could account for such effects .
+The relative contributions of different members of the NFAT family of transcription factors to the transcriptional activation of the IL-2 gene are not completely understood .
+It seems that NFAT p plays a major role in early T-cell activation and then is slowly deactivated ( 29 ) , whereas the bulk of NFATe is induced and activates transcription later on .
+However , in NFAT1/p-deficient mice , IL-2 transcription upon signaling through the TCR is not significantly affected ( 22 , 72 ) , which suggests that other NFAT family members may play a more important role in the transcriptional regulation of the IL-2 gene .
+Thus , the inhibitory effects of PDTC on NFATe may be more relevant to the inhibition of IL-2 than that exerted on the transactivating abilities of NFATp .
+The prominent role of NFATe in this process would also be consistent Mor .
+CELL .
+BroL.. with the severe inhibition that the expression of a transdomi-nant negative of NFATc exerts on the transcriptional activation of the IL-2 promoter construct ( reference 43 and data not shown ) .
+Although we have not addressed the mechanisms by which PDTC blocks NFATe gene expression , it is tempting to speculate that the transcription factors inhibited by PDTC would also be involved in the transcriptional regulation of NFATe .
+In such case , although we do not rule out that DTCs may affect other transcription factors , NF- « B or NFAT family members would be good candidates for regulation of NFATe gene transcription .
+Initially , the presence of normal levels of NFATe in NFATp-deficient mice would argue against an essential role of NFAT p in the regulation of NFATc expression .
+However , a putative role of NFATp in regulating NFATc-inducible expression can not be excluded , and compensatory mechanisms may also operate through other family members , such as NFAT ' x , in the deficient mice .
+The functional characterization of the cis-acting and trans-acting elements involved in the transcriptional regulation of the NFATc gene promoter will clarify which factors are actually involved in this regula-tion .
+In contrast to the sustained translocation to the nucleus induced by ionophore or PMA plus ionophore ( 29 ) , PDTC triggered a rapid nuclear shuttling of NFATp in the different T-cell types analyzed .
+Recently , calcium signaling has been shown to induce an association between the NFAT4 family member and calcineurin , which are both imported to the nucleus as a complex .
+Once in the nucleus , a putative kinase has been proposed to promote the nuclear export of the transcription factor ( 61 ) .
+Furthermore , glycogen synthase kinase-3 has been shown to phosphorylate critical serines of NFAT that are required for nuclear export and to enhance the nuclear exit of the transcription factor .
+However , glycogen synthase kinase-3 activity requires the previous phosphorylation of NFATc by an unknown kinase ( s ) that could directly phosphorylate NFATe ( 5 ) .
+In this context , it is tempting to speculate about the existence of an NFAT kinase activated by PDTC that would be responsible for the accelerated induction of the nuclear export of NFAT .
+Supporting this hypothesis is the fact that NFATp exported from the nucleus of PDTC-treated cells 1h 4h Sh P+lo Ih - P+lo 8h 6110 - - $ - + # PDTC P+lo PDTC/P+Io PDTC P+lo PDTC/P+Io PDTC P+lo PDTC/P+Io FIG .
+9 .
+Kinetics analysis and contribution of NFATp to DNA-binding activity of NFAT .
+DNA-binding activity of NFAT was analyzed in nuclear extracts from Jurkat cells treated for 1 , 4 , and 8 h with PDTC or PMA plus ionophore ( P+I0 ) or preincubated for 2 h with PDTC and then treated with PMA plus ionophore for different times as indicated ( left panel ) .
+C , control .
+Nuclear extracts from Jurkat cells stimulated with the PMA plus ionophore for 1 and 8 h were analyzed by EMSA in the presence or absence of 0.5 pl of the anti-NFATp antibody 67.1 .
+The autoradiograph was overexposed to visualize the supershifted complex , indicated by an arrow ( right panel ) .
+Doses of 100 M PDTC , 20 ng of PMA per ml , and 1 M A23187 were used in single or combined treatments .
+vor .
+17 , 1997 A 1h 4h T3 ~~ g n n Ba Ba 2 g 2 & e R A T A a T a JQ - AB A AB Bie = Be = Be $ # # A| B-actin unstimulated DITHIOCARBAMATES BLOCK NFAT ACTIVATION - 6445 PMA+lIo 15 min 90 min NFATc .
+.
+.
+.
+- = FIG .
+10 .
+Effect of PDTC on gene expression and nuclear translocation of NFAT in activated cells .
+( A ) Poly ( A ) * mRNAs from Jurkat cells treated with 50 uM PDTC ( PDTC ) or 20 ng of PMA per ml plus 1 wM A23187 ( P+I0 ) or pretreated for 2 h with 50 wM PDTC and then stimulated with 20 ng of PMA per ml plus 1 M ionophore ( PDTC/P+I0 ) for 1 and 4 h were isolated , separated by agarose gel electrophoresis , transferred onto a nitrocellulose membrane , and sequentially hybridized with NFATe and B-actin cDNA probes .
+C , control .
+( B ) Staining of Jurkat cells transfected with HA-tagged NFATc pretreated or not with 50 wM PDTC for 2 h and further stimulated with 20 ng of PMA per ml plus 1 M ionophore for 15 or 90 min .
+After incubation , cells were fixed and analyzed by immunofluorescence with anti-HA antibody .
+The subcellular localization of HA-tagged NFATc in resting and activated cells is shown in the upper panels , and that of PDTC-pretreated cells is represented in the lower panels .
+displays a lower mobility than that of untreated cells that could be due to hyperphosphorylation of the transcription factor .
+Since we have shown that NFATp is directly phosphorylated by JNK and that PDTC exerts a potent and sustained activation of JNK in Jurkat cells ( 18 ) , as well as in PBLs , it is conceivable that the sustained activation of JNK may be related to the rapid nuclear exit of NFATp .
+However , in vivo experiments will be required to elucidate whether JNK is indeed involved in regulating the shuttling of NFATp .
+Alternatively , a possible late effect of PDTC involving inhibition of calcineurin that would allow normal kinases to reverse NFATp dephosphorylation can not be excluded .
+Independently of the mechanisms by which PDTC promotes the accelerated export of NFATp from the nucleus of activated cells , this rapid export may well account for its inhibitory effect on the transactivation of NFATp , and the identification of the cellular targets involved in this process may help the design of new strategies and drugs for immunosuppressive purposes .
+In this regard , it is important to note that maintenance of NFAT in the nucleus as a result of a sustained increase in Ca , '' * , but not a transient increase , has been shown to be required to switch on IL-2 gene expression in activated Jurkat T cells ( 65 ) .
+The inhibition of activation both NF-kB and NFAT by DTCs suggests a potential use of these agents as immunosuppressive drugs .
+NFAT and NF-kB control the transcription of many cytokine genes and are involved in the response to proinflammatory stimuli in a number of cell types and in the T-cell activation process ( 3 , 46 ) .
+The effects of DTCs are not restricted to transformed T-cell lines ; in primary human T lymphocytes , PDTC has been shown to inhibit cell proliferation and CD25 expression in response to costimulation with anti-CD28 and anti-CD2 MAbs ( 1 ) , as well as the IL-2 secretion induced by costimulation with antibodies against TCR-CD3 and CD28 ( 30 ) .
+As occurs with Jurkat T cells , in activated PBLs , DTCs inhibit cell surface expression of activation antigens and binding of NFAT and NF-kB to their cognate sequences in EMSAs .
+Based on their effects in vitro , it will be very important to analyze the potential of DTCs as immuno- suppressive drugs in vivo .
+In fact , DDTC has already been used in human immunodeficiency virus-infected patients , and beneficial effects of the drug in delaying AIDS symptoms have been reported ( 47 ) .
+However , several effects of DTCs observed in vitro must be taken into consideration when the use of these drugs in vivo is evaluated .
+First of all , DTCs activate AP-1 in a number of cell types .
+This effect has been involved in the upregulation of ICAM-1 expression in endothelial cells ( 40 ) , and it is likely to mediate CD69 membrane expression and the activation of other AP-1-dependent genes .
+Although the overall effect of DTCs in cells analyzed seems to be inhibitory , AP-1-dependent gene activation could potentially interfere with the putative anti-inflammatory properties of these com-pounds .
+In addition , overdosage or long-term treatments with PDTC can desensitize cells to the inhibitory effect of the drug ( 53 ) .
+Furthermore , although DTCs have been found to prevent apoptotic cell death ( 7 , 13 , 56 ) , they have also been involved in triggering of apoptosis ( 42 , 71 ) .
+Although at the times and doses analyzed , DTCs do not affect the viability of Jurkat cells , we have observed that longer treatments with these agents result in loss of cell viability associated with a clear pattern of apoptosis .
+Since a role for NF-kB activation in the suppression of signals leading to cell death has been suggested ( 4 , 6 , 68 , 69 ) , it is possible that some genes whose expression is regulated by NF-kB may be involved in protective mechanisms against programmed cell death .
+Hence , these possible effects must be contemplated in cases in which in vivo protocols involving long-term treatments with DTCs are used .
+On the other hand , a potential benefit of DTCs versus other immunosuppressive drugs is related to DTC 's ability to target other cells apart from those of the immune system .
+Thus , whereas CsA and FK 506 mediate in vivo immunosuppression preferentially through T lymphocytes , PDTC can also efficiently block cytokine production and the induction of the VCAM-1 and E-selectin expression in endothelial cells activated by proinflammatory stimuli ( 36 , 41 ) .
+Since VCAM-1 and ELAM-1 are adhesion molecules involved in leukocyte-endothelial cell interactions required for the recruitment and emigration of cells of the immune system 6446 MARTINEZ-MARTINEZ ET AL .
+to inflamed tissues , it will be very important to determine whether such processes are affected by DTCs in vivo .
+The ability of DTCs to inhibit the transcriptional activation of both NFAT and NF- « B in a variety of immunocompetent cells and the fact that these compounds have previously been used as pharmaceutical drugs support their potential use as immunosuppressants .
+While such use will require a careful and thorough analysis by evaluation of the overall effects of DTCs in vivo , DTCs have been shown to be useful probes for studying signaling pathways and regulation of transcription factors implicated in the T-cell activation process .
+ACKNOWLEDGMENTS We are very grateful to P. Angel , G. Crabtree , M. Karin , and R. Perona for providing us with critical reagents that made this work possible .
+We also thank A. Lopez-Rivas , F. R. Gonzdlez-Amaro , M. Lopez-Cabrera , V. Calvo , and C. Lopez Rodriguez for stimulating discussions and critical reading of the manu-script ; Eva Moreno for excellent secretarial assistance ; David Sancho for providing us with purified anti-CD3 MAbs ; and M. Ortiz de Land & -zuri for helpful suggestions for the manuscript and continuous support .
+This work was supported by grants from Ministerio de Educacion y Ciencia ( MEC ) of Spain CICYT S $ SAF94.0817 and PM96-0076 and grant AC046/96 from Comunidad Autonoma de Madrid ( CAM ) ( to J.M.R . ) .
+S.M.M .
+was supported by a fellowship from the Ministerio de Educacion y Ciencia , P.G.A .
+was supported by a fellowship from the Comunidad Autonoma de Madrid , J.A .
+was supported by a fellowship from the Arthritis Foundation , and A.L.A .
+was supported by grant AC046/96 from the Comunidad Autonoma de Madrid .
+REFERENCES 1 .
+Algarté , M. , P. Lécine , R. Costello , A. Plet , D. Olive , and J. Imbert .
+1995. in vivo regulation of interleukin-2 receptor a gene transcription by the coordinated binding of constitutive and inducible factors in human primary T cells .
+EMBO J .
+14:5060-5072 .
+2 .
+Aramburu , J. , L. Azzoni , A. Rao , and B. Perussia .
+1995 .
+Activation and expression of the nuclear factors of activated T cells , NFATp and NFAT , in human natural killer cells : regulation upon CD16 ligand binding .
+J. Exp .
+Med .
+186:801-810 .
+3 .
+Baeuerle , P. A. , and T. Henkel .
+1994 .
+Function and activation of NF- « B in the immune system .
+Annu .
+Rev .
+Immunol .
+12:141-179 .
+4 .
+Baichwal , V. R. , and P. A. Baeuerle .
+1997 .
+Apoptosis : activate NF-B or dic ?
+Curr .
+Biol .
+7:94-96 .
+5 .
+Beals , C. R. , C. M. Sheridan , C. W. Turck , P. Gardner , and G. R. Crabtree .
+1997 .
+Nuclear export of NF-ATc enhanced by glycogen synthase kinase-3 .
+Science 275:1930-1933 .
+6 .
+Beg , A .
+A. , and D. Baltimore .
+1996 .
+An essential role for NF- « B in preventing TNF- « -induced cell death .
+Science 274:782-784 .
+7 .
+Bessho , R. , K. Matsubara , M. Kubota , K. Kuwakado , H. Hirota , Y. Waka-zono , Y. W. Lin , A. Okuda , M. Kawai , R. Nishikomori , and T. Heike .
+1994 .
+Pyrrolidine dithiocarbamate , a potent inhibitor of nuclear factor kappa B ( NF-kappa B ) activation , prevents apoptosis in human promyelocytic leukemia HL-60 cells and thymocytes .
+Biochem .
+Pharmacol .
+48:1883-1889 .
+8 .
+Boise , L. H. , B. Petryniak , X. Mao , C. H. June , C.-Y .
+Wang , T. Lindsten , R. Bravo , K. Kovary , J. M. Leiden , and C. B. Thompson .
+1993 .
+The NFAT-1 DNA binding complex in activated T cells contains Fra-1 and JunB .
+Mol .
+Cell .
+Biol .
+13:1911-1919 .
+9 .
+Burns , G. F. , A. W. Boyd , and P. B. Beverly .
+1982 .
+Two monoclonal anti-human T lymphocyte antibodies have similar biologic effects and recognize the same surface antigen .
+J. Immunol .
+129:1451-1457 .
+9a.Castellanos , M. C. , C. Munoz , M. C. Montoya , E. Lara-Pezzi , M. Lopez-Cabrera , and M. O. de Landszuri .
+J .
+Immunol. , in press .
+10 .
+Chuypilo , S. D. , D. Schomberg , R. Gerwig , A. Heinfling , R. Reeves , F. Grummt , and E. Serfling .
+1993 .
+Multiple closely-linked NFAT/octamer and HMG I ( Y ) binding sites are part of the interleukin-4 promoter .
+Nucleic Acids Res .
+21:5694-5704 .
+11 .
+Cockerill , P. N. , M. F. Shannon , A. G. Bert , G. R. Ryan , and M. A. Vadas .
+1993 .
+The granulocyte-macrophage colony-stimulating factor/interleukin 3 locus is regulated by an inducible cyclosporin A-sensitive enhancer .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:2466-2470 .
+12 .
+Cockerill , P. N. , A. G. Bert , F. Jenkins , G. R. Ryan , M. F. Shannon , and M. A. Vadas .
+1995 .
+Human granulocyte-macrophage colony-stimulating factor enhancer function is associated with cooperative interactions between AP-1 and NFATp/c .
+Mol .
+Cell .
+Biol .
+15:2071-2079 .
+13 .
+Cotter , T. G. , R. S. Fernandes , S. Verhaegen , and J. V. McCarthy .
+1994 .
+Cell death in the myeloid lineage .
+Immunol .
+Rev .
+142:93-112 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+Mor .
+CELL .
+BroL.. Crabtree , G. R. 1989 .
+Contingent genetic regulatory events in T lymphocyte activation .
+Science 243:355-361 .
+Crabtree , G. R. , and N. A. Clipstone .
+1994 .
+Signal transmission between the plasma membrane and nucleus of T lymphocytes .
+Annu .
+Rev .
+Biochem .
+63:1045-1083 .
+Durand , D. B. , J.-P. Shaw , M. R. Bush , R. E. Replogle , R. Belagaje , and G. R. Crabtree .
+1988 .
+Characterization of antigen receptor response elements within the interleukin-2 enhancer .
+Mol .
+Cell .
+Biol .
+8:1715-1724 .
+Goldfeld , A. E. , P. G. McCaffrey , J. L. Strominger , and A. Rao .
+1993 .
+Identification of a novel cyclosporin-sensitive element in the human tumor necrosis factor alpha gene promoter .
+J. Exp .
+Med .
+178:1365-1379 .
+Gomez del Arco , P. , S. Martinez-Martinez , V. Calyo , A. L. Armesilla , and J. M. Redondo .
+1996 .
+JNK ( c-Jun NH-terminal kinase ) is a target for antioxidants in T lymphocytes .
+J. Biol .
+Chem .
+271:26335-26340 .
+Hibi , M. , A. Lin , T. Smeal , A. Minden , and M. Karin .
+1993 .
+Identification of an oncoprotein- and UV-responsive protein kinase that binds and potenti-ated the c-Jun activation domain .
+Genes Dev .
+7:2135-2148 .
+Ho , S. N. , D. J. Thomas , L. A. Timmerman , X. Li , U. Francke , and G. R. Crabtree .
+1995 .
+NFATc3 , a lymphoid-specific NFATc family member that is calcium-regulated and exhibits distinct DNA binding specificity .
+J. Biol .
+Chem .
+270:19898-19907 .
+Ho , S. N. , J. Jain , A. Rao , and P. G. Hogan .
+1994 .
+Expression of the transcription factor NFATp in a neuronal cell line and in the murine nervous system .
+J. Biol .
+Chem .
+269:28181-28186 .
+Hodge , M. R. , A. M. Ranger , F. C. de la Brousse , T. Hoey , M. J. Grusby , and L. H. Glimcher .
+1996 .
+Hyperproliferation and dysregulation of IL-4 expression in NFATp-deficient mice .
+Immunity 4:397-405 .
+Hoey , T. , Y .
+Sun , K. Williamson , and X. Xu .
+1995 .
+Isolation of two new members of NF-AT gene family and functional characterization of the NF-AT proteins .
+Immunity 2:461-472 .
+Izquierdo , M. , K. Reif , and D. Cantrell .
+1995 .
+The regulation and function of p21 '' '' * during T-cell activation and growth .
+Immunol .
+Today 16:159-164. .
+Jain , J. , P. G. McCaffrey , Z .
+Miner , T. K. Kerppola , J. N. Lambert , G. L. Verdine , T. Curran , and A. Rao .
+1993 .
+The T-cell transcription factor NFATp is a substrate for calcineurin and interacts with Fos and Jun .
+Nature 365:352-355 .
+Jain , J. , C. Lob , and A. Rao .
+1995 .
+Transcriptional regulation of the IL-2 gene .
+Curr .
+Opin .
+Immunol .
+7:333-342 .
+Lee , H. J. , E. S. Masuda , N. Arai , K. Arai , and T. Yokota .
+1995 .
+Definition of cis-regulatory elements of the mouse IL-5 gene promoter : involvement of nuclear factor of activated T cell-related factors in interleukin-5 expression .
+J. Biol .
+Chem .
+270:17541-17550 .
+Liu , J .
+1993 .
+FK506 and cyclosporin A : molecular probes for studying intracellular signal transduction .
+Immunol .
+Today 14:290-295 .
+Loh , C. , J .
+A. Carew , J. Kim , P. G. Hogan , and A. Rao .
+1996 .
+T-cell receptor stimulation elicits an carly phase of activation and a later phase of deacti-vation of the transcription factor NFAT1 .
+Mol .
+Cell .
+Biol .
+16:3945-3954 .
+Los , M. , H. Schenk , K. Hexel , P. A. Baeuerle , W. Drige , and K. Schulze-Osthoff .
+1995 .
+IL-2 gene expression and NF-kB activation through CD28 requires reactive oxygen production by 5-lipoxygenase .
+EMBO J .
+14:3731-3740 .
+Luo , C. , E. Burgeon , J .
+A. Carew , P. G. McCaffrey , T. M. Badalian , W. S. Lane , P. G. Hogan , and A. Rao .
+1996 .
+Recombinant NFAT1 ( NFATp ) is regulated by calcineurin in T cells and mediates transcription of several cytokine genes .
+Mol .
+Cell .
+Biol .
+16:3955-3966 .
+Luo , C. , E. Burgeon , and A. Rao .
+1996 .
+Mechanisms of transactivation by nuclear factor of activated T cells .
+1 .
+J. Exp .
+Med .
+184:141-147 .
+Luo , C. , K. T.-Y .
+Shaw , A. Raghavan , J. Aramburu , F. Garcia-Cozar , B .
+A. Perrino , P. G. Hogan , and A. Rao .
+1996 .
+Interaction of calcineurin with a domain of the transcription factor NFAT1 that controls nuclear import .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 93:8907-8912 .
+Masuda , E. S. , H. Tokumitsu , A. Tsuboi , J. Shlomai , P. Hung , K.-L. Arai , and N. Arai .
+1993 .
+The granulocyte-macrophage colony-stimulating factor promoter cis-acting element CLEO mediates induction signals in T cells and is recognized by factors related to AP-1 and NFAT .
+Mol .
+Cell .
+Biol .
+13:7399-7407 .
+Masuda , E. S. , Y. Naito , H. Tokumitsu , D. Campbell , F. Saito , C. Hannum , K.-T. Arai , and N. Arai .
+1995 .
+NFAT , a novel member of the nuclear factor of activated T cells family that is expressed predominantly in the thymus .
+Mol .
+Cell .
+Biol .
+15:2697-2706 .
+Mauri , N. , M. K. Offerman » , R. Swerlick , C. Kunsch , C. A. Rosen , M. Ahmad , R. W. Alexander , and R. M. Medford .
+1993 .
+Vascular cell adhesion molecule-1 ( VCAM-1 ) gene transcription and expression are regulated through an antioxidant-sensitive mechanism in human vascular endothelial cells .
+J. Clin .
+Invest .
+92:1866-1874 .
+McCaffrey , P. G. , C. Luo , T. K. Kerppola , J. Jain , T. M. Badalian , A. M. Ho , E. Burgeon , W. S. Lane , J. N. Lambert , T. Curran , G. L. Verdine , A. Rao , and P. G. Hogan .
+1993 .
+Isolation of the cyclosporin-sensitive T-cell transcription factor NF-ATp .
+Science 262:750-754 .
+Meyer , M. , R. Schreck , and P. A. Baeverle .
+1993 .
+H , O ; and antioxidants have opposite effects on activation of NF-xB and AP-1 in intact cells : AP-1 as secondary antioxidant-responsive factor .
+EMBO J .
+12:2005-2015. voL .
+17 , 1997 39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 .
+Minden , A. , A. Lin , F.-X .
+Claret , A. Abo , and M. Karin .
+1995 .
+Selective activation of the JNK signaling cascade and c-jun transcriptional activity by the small GTPases Rac and Cdc42Hs .
+Cell 81:1147-1157 .
+Munoz , C. , M. C. Castellanos , A. Alfranca , A. Vara , M. A. Esteban , J. M. Redondo , and M. O. de Landfzuri .
+1996 .
+Transcriptional up-regulation of intracellular adhesion molecule-1 in human endothelial cells by the antioxidant pyrrolidine dithiocarbamate involves the activation of activating pro-tein-1 .
+J. Immunol .
+157:3587-3597 .
+Munoz , C. , D. Pascual-Salcedo , M. C. Castellanos , A. Alfranca , J. Aragonés , A. Vara , J. M. Redondo , and M. O. de LandSzuri .
+1996 .
+Pyrrolidine dithiocarbamate inhibits the production of interleukin-6 , interleukin-8 , and granulocyte-macrophage colony-stimulating factor by human endothelial cells in response to inflammatory mediators : modulation of NF- « B and AP-1 transcription factors activity .
+Blood 88:3482-3490 .
+Nobel , C. S. I. , M. Kimland , B. Lind , S. Orrenius , and A. F. G. Slater .
+1995 .
+Dithiocarbamates induce apoptosis in thymocytes by raising the intracellular level of redox-active copper .
+J. Biol .
+Chem .
+270:26202-26208 .
+Northrop , J. P. , S. N. Ho , D. J. Thomas , L. Chen , L. Timmerman , G. P. Nolan , A. Admon , and G. R. Crabtree .
+1994 .
+NF-AT components define a family of transcription factors targeted in T-cell activation .
+Nature ( London ) 369:497-502 .
+Priesch ] , E. E. , V. Gouilleux-Gruart , C. Walker , N. E. Harrer , and T. Baum-ruker , 1995 .
+A nuclear factor of activated T cell-like transcription factor in mast cells is involved in IL-5 gene regulation after IgE plus antigen stimulation .
+J. Immunol .
+154:6112-6119 .
+Radler-Pohl , A. , C. Sachsenmaier , S. Gebel , H.-P. Auer , J. T. Bruder , U. Rapp , P. Angel , H. J. Rahmsdorf , and P. Herrlich .
+1993 .
+UV-induced activation of AP-1 involves obligatory extranuclear steps including Raf-1 kinase .
+EMBO J .
+12:1005-1012 .
+Rao , A .
+1994 .
+NFATp : a transcription factor required for the coordinated induction of several cytokine genes .
+Immunol .
+Today 15:274-281 .
+Reisinger , E. C. , P. Kern , M. Ernst , P. Bock , H. D. Flad , M. Dietrich , and German DTC Study Group .
+1990 .
+Inhibition of HIV progression by dithio-carb .
+Lancet 335:679-682 .
+Rooney , J. W. , T. Hoey , and L. H. Glimcher .
+1995 .
+Coordinate and cooperative roles for NF-AT and AP-1 in the regulation of the murine IL-4 gene .
+Immunity 2473-483 .
+Ruff , V. A. , and K. L. Leach .
+1995 .
+Direct demonstration of NFATp dephosphorylation and nuclear localization in activated HT-2 cells using a specific NFATp polyclonal antibody .
+J. Biol .
+Chem .
+270:22602-22607 .
+Sanchez-Mateos , P. , and F. Sinchez-Madrid .
+1991 .
+Structure-function relationship and immunochemical mapping of external and intracellular anti-genic sites on the lymphocyte activation inducer molecule , AIM/CD69 .
+Eur .
+J. Immunol .
+21:2317-2325 .
+Schenk , H. , M. Klein , W. Erdbriigger , W. Drige , and K. Schulze-Osthoff .
+1994 .
+Distinct effects of thioredoxin and antioxidants on the activation of transcription factors NF- « B and AP-1 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 91:1672-1676 .
+Schreck , R. , P. Rieber , and P. A. Baeuerle .
+1991 .
+Reactive oxygen intermediates as apparently widely used messengers in the activation of the NF- « B transcription factor and HIV-1 .
+EMBO J .
+10:2247-2258 .
+Schreck , R. , B. Heier , D. N. Miinnel , W. Drige , and P. A. Baeuerle .
+1992 .
+Dithiocarbamates as potent inhibitors of nuclear factor kB activation in intact cells .
+J. Exp .
+Med .
+175:1181-1194 .
+Schreiber , E. , P. Matthias , M. M. Muller , and W. Shaffner .
+1989 .
+Rapid detection of octamer binding proteins with `` mini-extracts , '' prepared from a small number of cells .
+Nucleic Acids Res .
+17:6419 .
+Schreiber , S. L. , and G. R. Crabtree .
+1992 .
+The mechanism of action of DITHIOCARBAMATES BLOCK NFAT ACTIVATION 56 .
+57 .
+58 .
+59 .
+60 .
+61 .
+62 .
+63 .
+64 .
+65 .
+66 .
+67 .
+68 .
+69 .
+70 .
+71 .
+72 .
+73 .
+6447 cyclosporin A and FK506 .
+Immunol .
+Today 13:136-142 .
+Schulze-Osthoff , K. , P. H. Krammer , and W. Drige .
+1994 .
+Divergent signalling via APO-1/Fas and the TNF receptor , two homologous molecules involved in physiological cell death .
+EMBO J .
+13:4587-4596 .
+Schulze-Osthoff , K. , M. Los , and P. A. Baeuerle .
+1995 .
+Redox signalling by transcription factors NF-kB and AP-1 in lymphocytes .
+Biochem .
+Pharmacol .
+50:735-741 .
+Sen , C. K. , and L Packer .
+1996 .
+Antioxidant and redox regulation of gene transcription .
+FASEB J .
+10:709-720 .
+Shaw , J. P. , P. J. Utz , D. B. Durand , J. J. Toole , E. A. Emmel , and G. R. Crabtree .
+1988 .
+Identification of a putative regulator of early T cell activation genes .
+Science 241:202-205 .
+Shaw , K .
+T.-Y. , A. M. Ho , A. Raghavan , J. Kim , J. Jain , J .
+Park , S. Sharma , A. Rao , and P. G. Hogan .
+1995 .
+Immunosuppressive drugs prevent a rapid dephosphorylation of transcription factor NFAT1 in stimulated immune cells .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 92:11205-11209 .
+Shibasaki , F. , E. R. Price , D. Milan , and F. McKeon .
+1996 .
+Role of kinases and the phosphatase calcineurin in the nuclear shuttling of transcription factor NF-AT4 .
+Nature 382:370-373 .
+Spits , H. , H. Yssel , J. Leeuwenberg , and J. E. De Vries .
+1985 .
+Antigen-specific cytotoxic T cell and antigen-specific proliferation T cell clones can be induced to cytolytic activity by monoclonal antibodies against T3 .
+Eur .
+J. Immunol .
+15:88-91 .
+Staal , F. J. T. , M. Roederer , and L. A. Herzenberg , 1990 .
+Intracellular thiols regulate activation of nuclear factor « B and transcription of human immunodeficiency virus .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 87:9943-9947 .
+Szabo , S. J. , J. S. Gold , T. L. Murphy , and K. M. Murphy .
+1993 .
+Identification of cis-acting regulatory elements controlling interleukin-4 gene expression in T cells : roles for NF-Y and NF-AT , .
+Mol .
+Cell .
+Biol .
+13:4793-4805 .
+Timmerman , L. A. , N. A. Clipstone , S. N. Ho , J. P. Northrop , and G. R. Crabtree .
+1996 .
+Rapid shuttling of NF-AT in discrimination of Ca** signals and immunosuppression .
+Nature 383:837-840 .
+Traenckner , E.B.-M. , H. L. Pahl , K. N. Schmidt , S. Wilk , and P. A. Baeuerle .
+1995 .
+Phosphorylation of human IxB- « on serines 32 and 36 controls pro-teolysis IxB- « and NF- « B activation in response to diverse stimuli .
+EMBO J .
+14:2876-2883 .
+Trunceh , A. , F. Albert , P. Golstein , and A. M. Schimitt-Verhulst .
+1985 .
+Early steps of lymphocyte activation by synergy between calcium ionophores and phorbol ester .
+Nature 313:318-320 .
+Van Antwerp , D. J. , S. J. Martin , T. Kafri , D. R. Green , and I. M. Verma .
+1996 .
+Suppression of TNF- « -induced apoptosis by NF- « B .
+Science 274:787-789 .
+Wang , C.-Y. , M. W. Mayo , and A. S. Baldwin , Jr. 1996 .
+TNF- and cancer therapy-induced apoptosis : potentiation by inhibition of NF-kB .
+Science 274:784-787 .
+Weiss , A. , and D. R. Littman .
+1994 .
+Signal transduction by lymphocyte antigen receptors .
+Cell 76:263-274 .
+Wu , M. , H. Lee , R. E. Bellas , S. L. Schauer , M. Arsura , D. Katz , M. J. FitzGerald , T. L. Rothstein , D. H. Sherr , and G. E. Sonenshein .
+1996 .
+Inhibition of NF- « B/Rel induces apoptosis of murine B cells .
+EMBO J .
+15:4682-4690 .
+Xanthoudakis , S. , J. P. B. Viola , K. T. Y. Shaw , C. Luo , J. D. Wallace , P. T. Bozza , T. Curran , and A. Rao .
+1996 .
+An enhanced immune response in mice lacking the transcription factor NFAT1 .
+Science 272:892-895 .
+Yano , O. , J. Kanellopoulos , M. Kieran , O .
+Le Bail , A. Israél , and P. Kouril-sky .
+1987 .
+Purification of KBF1 , a common factor binding to both H-2 and beta 2-microglobulin enhancers .
+EMBO J .
+63317-3324 .

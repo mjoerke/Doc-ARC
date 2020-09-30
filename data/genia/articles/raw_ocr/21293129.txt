@@ -1,0 +1,581 @@
+THE JOURNAL oF BIOLOGICAL CHEMISTRY © 2001 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+276 , No .
+24 , Issue of June 15 , pp .
+20989-20998 , 2001 Printed in U.S.A. Synergistic Transcriptional Activation of Human Acyl-coenzyme A : Cholesterol Acyltransterase-1 Gene by Interferon-y and All-trans- Retinoic Acid THP-1 Cells*® Received for publication , December 20 , 2000 , and in revised form , February 23 , 2001 Published , JBC Papers in Press , February 28 , 2001 , DOI 10.1074/jbc.MO11488200 Jin-Bo Zhi-Jun Duan } , Wei Yaot , Oneil Lee '' , Li Yangt , Xin-Ying Yangt , Xia Sunt , Catherine C. Y. Chang§ , Ta-Yuan Chang§1 , and Bo-Liang Lit ] From the { Institute of Biochemistry and Cell Biology , Shanghai Institutes for Biological Sciences , Chinese Academy of Sciences , Shanghai 200031 , China and the §Department of Biochemistry , Dartmouth Medical School , Hanover , New Hampshire 03755 Acyl-coenzyme A : cholesterol acyltransferase ( ACAT ) is an intracellular enzyme involved in cellular cholesterol homeostasis and in atherosclerotic foam cell formation .
+Human ACAT-1 gene contains two promoters ( P1 and P7 ) , each located in a different chromosome ( 1 and 7 ) ( Li , B. L. , Li , X. L. , Duan , Z. J. , Lee , O. , Lin , S. , Ma , Z. M. , Chang , C. C. , Yang , X. Y. , Park , J. P. , Mohandas , T. K. , Noll , W. , Chan , L. , and Chang , T. Y .
+( 1999 ) J. Biol Chem .
+274 , 11060-11071 ) .
+Interferon-y ( IFN-y ) , a cyto-kine that exerts many pro-atherosclerotic effects in vivo , causes up-regulation of ACAT-1 mRNA in human blood monocyte-derived macrophages and macrophage-like cells but not in other cell types .
+To examine the molecular nature of this observation , we identified within the ACAT-1 P1 promoter a 159-base pair core region .
+This region contains 4 Spl elements and an IFN-y activated sequence ( GAS ) that overlaps with the second Spl element .
+In the monocytic cell line THP cell , the combination of IFN-y and all-trans-retinoic acid ( a known differentiation agent ) enhances the ACAT-1 P1 promoter but not the P7 promoter .
+Additional experiments showed that all-trans-retinoic acid causes large induction of the transcription factor STAT1 , while IFN-y causes activation of STAT1l such that it binds to the GAS/Spl site in the ACAT-1 P1 promoter .
+Our work provides a molecular mechanism to account for the effect of IFN-y in causing transcriptional activation of ACAT-1 in macrophage-like cells .
+ACAT is an intracellular enzyme responsible for catalyzing the intracellular formation of cholesteryl esters from choles- * This work was supported by National Natural Scientific Foundation of China Grant 89425005 ( to B. L. L. ) , Shanghai Science and Technology Commission Grant 97XD14022 ( to B. L. L. ) , and National Institutes of Health Grant HL 86709 ( to T. Y. C. ) .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement '' in accordance with 18 U.S.C .
+Section 1734 solely to indicate this fact .
+« To whom corresponding may be addressed : Dept .
+of Biochemistry , Dartmouth Medical School , Hanover , NH .
+Tel .
+: 608-650-1622 ; Fax : 603-650-1483 ; E-mail : Ta .
+Yuan.Chang @ Dartmouth.EDU .
+| To whom correspondence may be addressed : Institute of Biochemistry and Cell Biology , 820 Yue-Yang Road , Shanghai 2000831 , China .
+Tel .
+: 86-21-6474-7085 ; Fax : 86-21-6488-8857 ; E-mail : boliang @ server.shene.ac.cn .
+'The abbreviations used are : ACAT , acyl-coenzyme A : cholesterol acyltransferase ; bp , base pair ( s ) ; GAS , IFN-y activated sequence ; IFN-y , interferon-gamma ; ATRA , all-frans-retinoic acid ; CHAPS , 8- [ ( 8-cholamidopropyl ) -dimethylammonio|-1-propanesulfonate ; FBS , fetal bovine serum ; PBS , phosphate-buffered saline ; EMSA , electrophoretic mobility shift assays ; RT-PCR , reverse transcriptase-polymerase chain This paper is available on line at http : //www.jbc.org terol and long-chain fatty acyl-coenzyme A ( 1 ) .
+In mammals , two ACAT genes have been identified ( 2-5 ) .
+In adult human tissues , ACAT-1 is the major enzyme present in various tissues , including macrophages , liver ( hepatocytes and Kupffer cells ) , and adrenal gland ( 6 , 7 ) .
+ACAT-1 is also present in the intestine ; however , the major enzyme involved in the intestinal cholesterol absorption may be ACAT-2 , which is mainly located in the apical region of the intestinal villi ( 7 ) .
+The relative tissue distributions of ACAT-1 and ACAT-2 in mice and monkeys are not entirely consistent with those found in humans ( 8 , 9 ) raising the possibility that the distribution of the two ACAT 's in various tissues may be species dependent .
+In macrophages and other cell types , a dynamic cholesterol-cholesteryl ester cycle exist ; the formation of intracellular cholesteryl esters is catalyzed by ACAT-1 , while the hydrolysis of cholesteryl esters is catalyzed by the enzyme neutral cholesteryl ester hydrolase ( 10 , 11 ) .
+The net accumulation of intracellular cholesteryl esters is affected at the substrate level , as well as at the levels of the enzymes ACAT and neutral cholesteryl ester hydrolase ( 12-14 ) .
+The main mode of sterol-specific regulation of ACAT-1 has been identified at the post-translational level , involving allosteric regulation by its substrate cholesterol ( 1 , 15 ) .
+On the other hand , the cellular and molecular nature of non-sterol-mediated ACAT-1 regulation remains largely unknown .
+Recently , using mouse macrophage-derived foam cells , Panousis and Zuckerman ( 12 ) reported that IFN-y increased the cellular cholesteryl ester content and reduced high density lipoprotein-mediated cholesterol efflux ; its cellular effects were attributed to its ability to increase ACAT message ( 12 ) and to induce down-regulation of the Tangier Disease gene ( the ABC1 trans-porter ) ( 16 ) .
+In the current work , we showed that IFN-y increased ACAT-1 message and protein content in human monocyte-derived macrophages .
+To examine the molecular mechanism of IFN-y action on ACAT-1 gene regulation in macrophages , we identified the important cis-acting elements in the human ACAT-1 P1 promoter .
+In order to perform transient transfection experiments , we used THP-1 cell , a monocytic human cell line as the cell model .
+Upon treatment with retinoids , including all-trans-retinoic acid ( ATRA ) , THP-1 cells differentiate into macrophage-like cells ( 17-20 ) .
+Our results show that ATRA and IFN-y synergistically caused up-regulation of ACAT-1 gene expression .
+Additional experiments revealed that ATRA causes increased gene expression of the transcription factor STAT1 , while IFN-y is essential to cause reaction ; GAPDH , glyceraldehyde-3-phosphate dehydrogenase ; knt , kelonucleotides .
+20989 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 20990 STAT1 to undergo phosphorylation dependent dimerization and to bind to the GAS site present in the ACAT-I P1 promoter .
+EXPERIMENTAL PROCEDURES Cell Culture and Treatments-Human monocytes were isolated according to a published procedure ( 21 ) with slight modification : human leukocyte packs were obtained from Shanghai Blood Service Center and used within 1 day .
+The cells were diluted ( 2:1 , v/v ) with cold phosphate-buffered saline ( PBS ) , layered on an equal volume of Ficoll-Paque ( Amersham Pharmacia Biotech ) , and centrifuged for 20 min at 2,500 rpm at room temperature .
+Mononuclear cells were collected and washed three times at 4°C ( to remove platelets ) by adding 100 ml of PBS followed by centrifugation at 1,000 rpm for 10 min .
+The remaining red blood cells in the pellet were lysed by treatment with 10 ml of 0.2 % NaCl for 45 s , followed by sequential additions of 10 ml of 1.6 % NaCl and 30 ml of cold PBS .
+The pelleted cells were suspended in cold RPMI 1640 with 7 % human type AB serum to a density of 5 X 10°/ml , plated onto 60-mm tissue culture dishes that were precoated with 2 ml/dish of FBS , and incubated for 90 min at 37 °C .
+Next , the dishes were washed three times with warm RPMI 1640 ( 37 °C ) to remove unadhered cells .
+The adhered cells were judged to be more than 95 % monocytes by @ -naphthylacetate esterase staining .
+The cells were cultured for up to 16 days in RPMI 1640 medium supplemented with 7 % human type AB serum , with a medium change every other day .
+Other cell lines were from ATCC .
+Cells were incubated 60-mm dishes in a 37 °C incubator with 5 % atmospheric CO , .
+All media were supplemented with 100 ug/ml kanamycin , 50 units/ml streptomycin , 2 g/liters sodium bicarbon-ate , plus 10 % fetal bovine serum ( FBS ) .
+THP-1 and U937 cells were grown in RPMI 1640 medium .
+HepG2 and Caco-2 cells were grown in Dulbecco 's modified Eagle 's medium .
+HEK293 cells were grown in minimal essential medium medium .
+Chinese hamster ovary cell lines AC29 and 25RA ( 22 , 28 ) were grown in F12 medium .
+Reagents-Human type AB serum was from Sigma .
+Fetal bovine serum was obtained from Life Technologies , Inc. ( Life Technologies , Grand Island , NY ) .
+Purified recombinant human IFN-y ( 1 X 10 '' units/mg of protein ) was a generous gift from Professor Xin-yuan Liu ( 24 ) at the Shanghai Institute of Biochemistry and Cell Biology .
+ATRA was from Sigma .
+Rabbit anti-Spl ( PEP2 , catalog number sc-59-G , 200 ug/ml ) and anti-STAT1 ( C-111 , catalog number sc-417 , 200 pg/ml ) polyclonal antibodies were from Santa Cruz Biotechnology .
+[ a- '' °P ] - and [ y-*°P ] dATP ( 6000 Ci/mmol ) were from Amersham Pharmacia Biotech .
+CHAPS , taurocholate , oleoyl-coenzyme A , egg phosphatidycholine , cholesteryl oleate , cholesterol , and fatty acid-free bovine serum albumin were all from Sigma .
+Reagent-grade solvents were from Fisher .
+[ °H ] Oleoy ] -coenzyme A was chemically synthesized as described ( 25 ) .
+Radioactive reagents were from Amersham Pharmacia Biotech .
+Chimeric Plasmid Construction-The 682-bp DNA fragment containing the human ACAT-1 P1 promoter ( -598/+84 ) ( 26 ) was inserted into the multiple cloning sites of the luciferase reporter gene vector pGL2-E ( Promega ) .
+This fragment was stepwise deleted from both ends by various suitable restriction endonucleases to create plasmids that contained the 834 , -188/+84 , -125/+34 , -598/-126 , and the -598/ -189 fragments , respectively .
+Deletion and Site-directed Mutagenesis of the Sp1 and GAS Elements in ACAT-1 P1 Promoter in pGL2-E-Deletions were achieved by PCR-mediated mutagenesis using the corresponding set of mutant primers that included a 6-bp KpnI or NhelI linker flanking the primer sequences on the vector .
+The primer sequences on the vector are : GLP1 , 5'-TGT-ATCTTATGGTACTGTAACTG-3 ' ; GLP2 , CTTCCA-3 ' .
+The primers used to make 5'- and 3'-deletion mutations ( to generate the -110/+84 , -100/+84 , -100/-7 , -100/-17 , and the -100/-27 fragments ) were 5'-aaaggtaccGGTGGGCGGAAC-3 ' , 5-aaa-ggtaccACTGGCAACCTG-3 ' , 5'-aaagetagCcCGGCCCCTACGC-3 ' , 5-aa-agetagCcGCCCCCTGCCTC-3 ' , and 5'-aaagetagCTCCGAGCACCGC-3 ' , respectively .
+The PCR products were then digested with KprI and Nhel and subcloned into an empty pGL2-E vector .
+The fidelity of all these constructs was verified by sequencing .
+Site-directed mutagenesis was undertaken using a modification of the procedure described by Ho et al .
+( 27 ) .
+Briefly , two overlapping fragments of the promoter subcloned into the pGL2-E vector were amplified separately .
+The first reaction used a flanking primer that hybridized with the vector at the 5'-end of the inserted sequence , and an internal primer that hybridized at the site of the desired mutation and contained the mismatched base .
+The second reaction included one flanking primer that hybridized with the vector at the 3'-end of the inserted sequence , and an internal primer that overlapped with the site of the desired mutation and also contained the mismatched base .
+The two overlapping fragments generated by PCR Activation of ACAT-1 by IFN-y in Foam Cell Formation are `` fused '' by denaturing and annealing in a subsequent primer extension reaction .
+Finally the `` fusion '' product was amplified by PCR using the primers GLP1 and GLP2 .
+The product of the final PCR was digested with KpnI and NheI and subcloned into the pGL2-E vector .
+To guard against PCR-associated nucleotide incorporation errors , the integrity of all the constructs generated was sequenced using an automated ABI Prism 377 DNA sequencer ( Perkin-Elmer Applied Biosystems , Canada Inc. , Mississaug , ON ) .
+To generate the fragments Spl-lm , Spl-2m , Sp1l-8m , Spl-4m , and GASm , respectively , the following sets of primer pairs were used : 5'-CCTCCCCGTTCCGGTACCTCCCC-8'/5'-GGGGAGGTACCGGAACGGGGAGG-3 ' , 5'-CAGTTCCGTTCACCTCC-CCGCC-3'/5-GGCGGGGAGGTGAACGGAACTG-3 ' , 5'-GAGGCAGG-5'- 5-GTTGCCAGCCCCGCCCACCTCC-3'/5-GGAGGTGGGC-GGGGCTGGCAAC-3 ' .
+For additional mutagenesis work , we used Spl-lm as the template and 5-CAGTTCCGTTCACCTCCCCGTT-3/5 as the primer pair to generate Sp1l-12m , used Spl-12m as the template and 5'-GAGGCAG-GAAGCGTAGGGGCCG-3'/5-CGGCCCCTACGCTTCCTGCCTC-3 ' as the primer pair to generate Sp1l-123m , used Sp1l-123m as the template and 5'-AAGCGTAGAAGCCGGGCTGTCC-3'/5-GGACAGCCCGGCTT-CTACGCTT-3 ' as the primer pair to generate Sp1l-1234m .
+STAT1 Mutant Expression Plasmid-The human STAT1 cDNA ( en-coding the 750 amino acids of STAT1 protein ) in pRC/CMV ( pRC/CMV-STAT1 ) was a gift from Dr. Darnell ( Rockefeller University ) .
+The mutant STATI expression plasmid was created using the site-directed mutagenesis procedure of Ho ef al .
+( 27 ) .
+Two sets of primers 5'-GGAGAGAAGCTTCTTGGT-3'/5-CTGAAGTCTAGAAGGGTG-3 ' and 5'-AAGGAACTGGATTTATCAAGACTGA-3/5'-TCAGTCTTGATA-AATCCAGTTCCTT-3 ' were used to mutate STAT1 at amino acid 701 ( the Jak1/2 phosphorylation site ) from tyrosine to phenylalanine ( 28 ) .
+The expression plasmid pRC/CMV-STAT1-Y701Fm was constructed by inserting the mutant PCR product digested with HindII/Xbal into the same sites of pRC/CMV .
+Transfection and Luciferase Assay-A series of ACAT Pl promoter/ luciferase reporter ( Luc ) constructs were transfected into THP-1 or U937 cells using the DEAE-dextran method ( 29 , 80 ) .
+After washing twice with PBS , 1 X 10° cells were transfected with 1.5 ug of ACAT-1 promoter/Luc plasmid and 0.75 ug pCH110 as internal control in 1 ml of STBE ( 25 mm Tris-HCl , pH 7.4 , 5 mM KCl , 0.7 mM CaCl , , 187 mM NaCl , 0.6 mM Na , HPO , , 0.5 mM MgC ] , ) containing 150 ug of DEAE-dextran .
+The cells were incubated for 20 min at 37 °C , washed once with RPMI 1640 without FBS , then resuspended in 5 ml of fresh RPMI 1640 with 10 % FBS , and plated at 2 X 10° cells/ml/well in a 24-well plate for 40 h. HepG2 , CACO-2 , and HEK293 cells were transfected by the methods of calcium phosphate co-precipitation essentially as described by Liu et al .
+( 31 ) .
+Briefly , cells were plated at 1 X 10° cells/well in 1 ml of medium in 24-well tissue culture plates 1 day before transfection .
+One h before transfection , cells were replaced with fresh medium .
+Calcium phosphate precipitates containing ( per well ) 0.3 ug of ACAT-1 promoter/Luc and 0.15 ug of pCH110 were prepared .
+The DNA/calcium phosphate precipitates were incubated with the cells at 37 °C for 8 h , after which time the cells were washed once with PBS , and replaced with Dulbecco 's modified Eagle 's medium or minimal essential medium containing 10 % FBS .
+After incubation for 7 h , cells were treated with or without IFN-y ( 100 units/ml ) , or ATRA ( 10~® M ) , or IFN-y ( 100 units/ml ) plus ATRA ( 10~° M ) .
+40 h later , the cells were harvested and the cell pellets were lysed in 200 ul of lysis buffer ( Reporter lysis buffer , Pro-mega , catalog number E397A ) , vortexed for 5 s , and spun at 2000 % g for 5 min at room temperature .
+60 pl of the cell lysate was mixed with 60 pil of luciferase assay buffer ( Promega ) for luciferase activity measurement ( Promega Instruction Bulletin Part number TB101 ) in an Auto Lumat BG-P luminometer ( MGM Instrument Inc. ) .
+For B-galactosidase activity assay , the luminescent B-galactosidase detection Kit II was used ( CLONTECH User Manual PT2106-1 ) .
+Reverse Transcription-Polymerase Chain Rreaction-The total RNA ( 4 ug ) prepared according to the single step acid guanidinium thiocyanate phenol chloroform method ( Trizol Regent , Life Technologies , Inc. ) was annealed with 1 ug of oligo ( dT ) ( 12-18 in length ) in a total volume of 20 pl and reverse transcribed with 5 units of avian myeloblastosis virus reverse transcriptase ( Life Technologies , Inc. ) at 42 °C for 50 min , and then diluted to a volume of 80 pl as the ss-cDNA product .
+The 4 ul of diluted ss-cDNA product was added to a reaction mixture in a final volume of 20 pl containing 10 mM Tris-HCl ( pH 8.3 ) , 50 mM KCl , 1.5 mM MgCl , , 0.5 mM dNTP , 0.5 mM each pair of primers , and 1 unit of Tag DNA polymerase ( Life Technologies , Inc. ) .
+To serve as controls , GAPDH gene expression was assessed to ascertain that equal amounts of cDNA 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Activation of ACAT-1 by IFN-y in Foam Cell Formation A Relative luciferase activity ( fold ) 1598 P1 promoter evi -324 -188 I -125 -_- -y -126 -189 [ mmm Chs ) C -- ms SV40 Promoter B Sma I ( +125 ) cmescecces seacccocec CCCJGGGAAG Eecsceckeac crlecccegha - -100 Spt Spl CTGGCAACCT GGGGACCACC AATAGGATGC TCAGCCGGAG GTGGcccTrec -50 - a GCGTGaAceca Gceetectce cacccacfee ccopmacfeec cepecrercc +1 Spl Spl +1 # # GGCGCTTTAG CTTAGCAGGC CACGTTGCGG GCCCTGGGCG CCAGGAGAGC +51 3 Apa I ( +34 ) TTCCCGGAGT CCAC +65 Exon 1 Fic .
+1 .
+A 159-bp core region comprises the basal transcriptional activity of ACAT-I P1 promoter .
+A , Luc constructs ( bars shown on the left panel ) containing serial 5 ' and 3 '' deletions as indicated between -598 and +84 of the ACAT-1 P1 promoter were co-transfected with pCH110 into THP-1 cells .
+The cells were harvested 48 h after transfection for activity assays .
+The luciferase activity per each cell extract was normalized by using the B-galactosidase value found in the same cell extract .
+The reporter construct activities shown on the right panel were expressed as relative luciferase activities , using the value of the reporter activity driven by the SV40 promoter as one .
+Values were means of triplicate determinations .
+Sizes of error bars indicated 1 S.E .
+B , nucleotide sequence analysis of ACAT-1 P1 promoter core region .
+The four Spl elements were boxed .
+Asterisks indicate the three major transcriptional initiation sites ( Li et al .
+( 26 ) ) .
+Sequence of Exon 1 was underlined .
+were added to each PCR .
+The PCR products ( 10 ul ) , taken at several different cycles ( from 26 to 32 ) , were separated in agarose gel and quantified by using the UVP Labwork Software ( UVP Inc. ) .
+The sets of primers used are 5'-AAAGGAGTCCCTAGAG-3'/5-GGATGAGAACTC-TTGC-3 ' for ACAT-1 P1 product ( hACAT-1 eDNA K1 1486-2043 , amplifying a 558-bp fragment ) , 5-ACCCACCATTATCTAA-3'/5'-ACC-CACCATTATCTAA-3 ' for human ACAT P7 product cDNA K1 982-1670 , amplifying a 689-bp fragment ) ( 2 , 26 ) , 5'-GCCCGAC-CCTATTACAAAAA-3/5'-CTGCCAACTCAACACCTCTG-3 ' for STAT1 coding sequence ( amplifying a 646-bp fragment ) ( 82 ) and 5'-GAGTCAACGGATTTGGTCG-3'/5-GAAGTGGTGGTACCTCTTCC-3 ' for GAPDH ( amplifying a 291-bp fragment ) ( 82 ) .
+Electrophoretic Mobility Shift Assays ( EMSAs ) -Nuclear extract was prepared as described ( 83 ) .
+THP-1 cells were harvested and washed twice with cold PBS at 4 °C , and resuspended gently in 400 pl of buffer A ( 10 mym HEPES , pH 7.9 , 10 mM KCl , 1.5 mm MgCl , , 0.5 mM dithiothreitol , 0.2 mM phenylmethylsulfonyl fluoride ) , and stored on ice for 10 min , then vortexed for 10 s. Nuclei were pelleted ( 10,000 x g , 10 s ) , resuspended with ice-cold buffer C ( 20 mm HEPES , pH 7.9 , 25 % glycerol , 420 mM NaCl , 1.5 mM MgCl , , 1 mm EDTA , 0.5 mM dithiothreitol , 0.2 mM phenylmethylsulfonyl fluoride ) , and incubated on ice for 20 min .
+The mixture was subjected to centrifugation ( 10,000 X g ) for 2 min at 4°C , and the supernatant as nuclear extract was stored in aliquots at -80 °C .
+For EMSA , 10 pg of protein of nuclear extract was incubated for 10 min on ice in 10 l of binding buffer ( 10 mM Tris-HCl , pH 7.5 , 1 mM MgCl , , 4 % glycerol , 50 mM NaCl , 0.5 mM dithiothreitol , 0.5 mM EDTA , and 3 ug of poly ( dI ) - ( dC ) from Amersham Pharmacia Biotech Inc. ) .
+DNA probes were labeled using T , polynucleotide kinase ( Promega ) and [ y-*°P ] dATP .
+1 ng of labeled probe ( ~1 x 10 '' dpm ) was added to the binding reaction mixture and incubated at 25 °C for 30 min .
+For `` supershift '' analyses , 1 pl of each antibody as indicated was added and 20991 A Relative luciferase activity ( fold ) 0 1 2 3 4 5 6 PI promoter Sp1 .
+Spl Sp1 .
+Spl I 11 | A A A B promoterless SV40 promoter Relative luciferase activity ( fold ) 1 2 3 4 5 6 PI promoter Sp1 Spl Spi Spl - mas hs Com- sxc ths ) promoterless CBee SV40 promoter C € € Spl-1234-Mutant _A N / Anti-Spl antibody 1.5 ug pGL2-E 100 ng cold probe 10 pg nuclear extract 3 ug poly ( dl-dC ) I ng [ `` P ] -labeled probe + + + r dod +4 40d goa ++ 4 4 ron } % *+ # # 1 # ou ++ 4 iod +4 d d dod + 4 4 1 a +o # # 4 dod ++ 4 oi # u +4 4 bol + `` UH t lal Spl SpI Spt Spl H N Com- mm '' Wild xE '' Spl-1234-Mutant Fic .
+2 .
+Four Spl elements are functionally present in ACAT-1 P1 promoter .
+A , Luc constructs containing serial 5'- and 3'-deletion ( bars shown on the left ) of the 159-bp core region were transfected into THP-1 cells .
+The luciferase activities ( shown on right ) were determined in the same manner as described in the legend to Fig .
+14 .
+The promoterless plasmid pGL2-E was used as a negative control .
+B , Luc constructs containing single or multiple Spl mutations ( marked by the X ) of the 159-bp core region were transfected into THP-1 cells .
+The luciferase activities shown on right panel were determined as described in the legend to Fig .
+14 .
+C , EMSAs using nuclear extracts of THP-1 cells .
+The wild-type and Sp1l-1234-mutant DNA fragments of ACAT-1 P1 promoter ( depicted at the Zeft panel ) were , respectively , labeled and 1 10* dpm of labeled probe was used for each binding reaction .
+Lane 1 , °°P-labeled wild-type DNA as probe alone .
+Lane 2 , binding reaction between labeled wild-type DNA probe and nuclear extracts .
+Lane 3 , competition by adding 100-fold molar excess of cold probe to the binding reaction described for lane 2 .
+Lane 4 , competition by adding 100-fold molar excess of nonspecific DNA to the binding reaction described for lane 2 .
+Lane 5 , supershift reaction by adding 1 pl of anti-Sp1l antibody to the binding reaction described for lane 2 .
+Lanes 6-10 , the same conditions as described for lanes 1-5 , except using the Sp1l-1284-mu-tant DNA as the labeled probe .
+incubated 30 min at 25 °C before adding the probe .
+Binding reactions were size fractionated on a nondenaturing 4.5 % acrylamide gel ( 29:1 , mass : mass , acrylamide : N , N'-methylenebisacrylamide ) , ran at 200 V for 3 h in 0.5 X TBE buffer .
+The gel was dried and autoradiographed with PhosphorImager scanning system .
+RNA Preparation and Northern Blot Analysis-THP-1 cells were cultured at 2 X 10°/ml in 60-mm dishes .
+Human blood monocytes were cultured at 1.5 X 10 % 60-mm dishes .
+Cells were treated with IFN-y as indicated for 40 h before harvest .
+The preparation of total RNA was 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 20992 Fic .
+3 .
+Effect of IFN-y on the A ACAT-1 gene expression during the human blood monocyte-macrophage differentiation process .
+Human blood monocytes were cultured at 1.5 x 10 % 60-mm dish for various days as indicated and then treated with or without IFN-y ( 100 units/ml ) for 40 h before harvested for preparation of total RNA and protein extract .
+A and B , quantitation by RT-PCR ( 26 to 32 cycles ) .
+Appropriate primers de- GAPDH 4.0 |-scribed under `` Experimental Procedures '' were used to obtain the ACAT-1 P1 pro- é | : moter transcript ( designated as the P1 ( 330 product ) , the ACAT-1 P7 promoter tran- 3 script ( designated as P7 product ) , and the .92.0|-transcript for the control gene ( indicated a as GAPDH ) by RT-PCR .
+Control experi- m 1.0 ments indicated that between cycles 25 and 35 , the ACAT-1 P1 transcript and the ACAT-1 P7 transcript could be estimated 0 semiquantitatively by RT-PCR ( data not shown ) .
+The ratio of DNA contents ( shown at the bottom panels ) was determined by using the UVP Labwork soft- C ware ( UVP Inc. ) .
+C , immunoblotting of ACAT-1 protein from extracts of blood monocyte-derived macrophages treated with or without IFN-y ( 100 units/ml ) for 40 h. Protein extracts were prepared and immunoblotting were conducted as de- scribed under `` Experimental Proce- dures . ''
+Samples used ( 40 ug of protein/ lane ) were freshly prepared with SDS .
+The membrane was incubated with DM10 ( 0.5 ug/ml ) as the primary antibody .
+The immunoreactive proteins were visualized using the ECL detection system and au toradiography .
+The intensities of bands were determined by using the UVP Lab work software ( UVP Inc. ) .
+The data are expressed as relative ACAT-1 protein level using the value in untreated cells as 1.0 .
+The ratios of the ACAT-1 protein from treated or untreated cells were shown at the bottom panel .
+according to the single step acid guanidinium thiocyanate phenol chloroform method ( Trizol Regent , Life Technologies , Inc. ) .
+Total RNA , 20 ug/ sample , were electrophoresed in a 1 % agarose gel containing 2.2 M formaldehyde and transferred to a Nytran membrane ( Schleicher and Schuell , Dassel , Germany ) with 3.0 M sodium chloride , 0.3 M sodium citrate ( 20 X SSC ) as the transfer buffer .
+The membrane was cross-linked by UV irradiation and incubated for 10 min at 65 °C in 0.5 M sodium phosphate buffer ( pH 7.2 ) , 7 % SDS , 1 mM EDTA ( prehybridization buffer ) .
+The polymerase chain reaction products of human ACAT-1 cDNA ( 1486-2686 , 1.2-kilobases ) and human GAPDH cDNA ( 291-bp ) were used as templates for labeling probes .
+Labeled probes were made with [ a-* '' PIdATP by the random primer method using a Random-labeling Kit ( Promega ) .
+Blots were prehybridized and hybridized with labeled probes and washed under high stringency conditions .
+Hybridization was carried out at 65 °C in the same solution as prehybridization , except for the addition of labeled probe .
+The membrane was washed with 40 mM sodium phosphate buffer ( pH 7.2 ) , 0.1 % SDS at room temperature for 5 min three times , and at 65°C for 20 min .
+After washing , the membrane was exposed and the intensity of the bands was quantified by densitometric analysis using the UVP Labwork software ( UVP Inc. ) .
+To serve as control , rehybridization of the same blot with the human GAPDH probe was carried out .
+The sample mRNA expression levels were normalized by the intensity of the human GAPDH mRNA bands .
+Western Blot Analysis-Cells were harvested with 10 % SDS in 50 mM Tris , 1 mM EDTA ( pH 7.5 ) with 25 mM dithiothreitol , and incubated at 37 °C for 20 min , then sheared with a syringe fitted with an 18-gauge needle .
+Protein concentration of the cell extract was determined by a modified Lowry method ( 84 ) .
+The affinity purified anti-ACAT-1 IgGs ( designated as DM10 ) was used as the primary antibodies against ACAT-1 ( 35 ) .
+Western blots , using freshly prepared cell extracts in SDS , were conducted according to a previously described procedure ( 85 ) .
+ACAT Activity Assay-The assay was performed essentially as described previously ( 15 , 35 ) .
+AC29 , 25RA , and THP-1 cells were cultured erproduct = l o i i u i ti a cnd Activation of ACAT-1 by IFN-y in Foam Cell Formation B P7 product GAPDH Ratio of DNA 2 to- 40-40 -+ Ratio of protein DE } ; 0 IFN-y _ - - + - + - + - + ba bo 42 4 go co a a at 2 X 10°/ml in 60-mm dishes and then treated in various manners for 40 h as indicated .
+The ACAT-l-deficient mutant cell line AC29 , and its parental cell 25RA derived from Chinese hamster ovary cells ( 2 , 15 , 35 ) were used to ensure that the ACAT activity assayed in vitro work properly .
+For THP-1 cells , the suspended and adherent cells were collected by direct centrifugation and scrapping , respectively , at room temperature .
+The two groups of cells collected from the same dish were pooled together , washed with PBS once , and centrifuged to collect the cell pellets .
+Cold 1 mM Tris , 1 mM EDTA ( pH 7.8 ) , at 100 ul/sample , was added to cell pellet chilled on ice .
+The mixtures were left on ice for 5 min .
+Brief but vigorous vortexing ( 30 s to 1 min ) was used to cause extensive cell lysis .
+The protein concentration of the cell homogenates was kept at 2-4 mg/ml in buffer A ( 50 mM Tris , 1 mM EDTA at pH 7.8 with protease inhibitors ) .
+The enzyme was solubilized and assayed in mixed micelle condition as previously described ( 85 ) .
+RESULTS A 159-bp Core Region with 4 Sp1 Elements Is Responsible for Human ACAT-1 P1 Promoter Activity-Human ACAT-1 gene is located in two different chromosomes ( 1 and 7 ) , each chromosome containing a separate ACAT-1 promoter ( Pl and P7 ) .
+Northern analyses have revealed the presence of four ACAT-1 mRNAs ( 7.0 , 4.3 , 3.6 , and 2.8-knt ) in all the human tissues and cell lines examined ( 3 ) .
+The 2.8 and 3.6-knt messages are produced from the P1 promoter , while the 4.3-knt mRNA is produced from two different chromosomes by a novel RNA recombination event that presumably involves trans-splicing ( 26 ) .
+The P1 promoter is contiguous with the coding sequence and spans from -598 to +65 of the ACAT-1 genomic DNA ( 26 ) .
+To determine the minimal region of the P1 promoter , we trans- 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Activation of ACAT-1 by IFN-y in Foam Cell Formation A 4 5 2 3|-8 2 } 8 Eh _|—| “ I T 2 u 0 + -o & - + -o £0 IFN-y ai « 4 3 ATRA mos $ > % moe oz wo as up of P ] P ?
+PNY-III B 4 t o . !
+_ WD On ( N !
+aa Relative luciferase activity ( fold ) IFN-y - + - + - + - + - + - + - % - % +o - + ATRA ~ ~ + % = = + + ~~~ + + -o- 4+ 0+ -= $ 4 HEK293 HepG2 CaCo-2 u937 THP-1 Fig .
+4 .
+The synergistic effect of IFN-y and ATRA on ACAT P1 promoter is promoter specific and cell type specific .
+A , the Lus constructs containing ACAT-1 P1 , or P7 , or the SV40 promoters ligated to the luciferase reporter vector ( pGL2-C ) were transfected into THP-1 cells .
+7 h after transfection , cells were treated with or without IFN-y ( 100 units/ml ) , or with ATRA ( 10~° M ) or IFN-y ( 100 units/ml ) plus ATRA ( 10~° M ) , respectively .
+The luciferase activity was determined in lysates of THP-1 cells 40 h later , and normalized by using values of -galactosidase .
+The data were expressed as luciferase activities relative to the value from untreated cells as one .
+Values represented the means from triplicate determinations .
+Sizes of error bars represented 1 S.E .
+B , the Luc construct containing ACAT-1 P1 promoter was transfected into THP-1 , U937 , HepG2 , Caco-2 , or HEK298 cells as indicated by methods described under `` Experimental Procedures . ''
+The cells were then treated and assayed as described in A. fected THP-1 cells with constructs containing various deleted fragments fused upstream to a luciferase reporter gene of the pGL2-enhancer vector ( pGL2-E ) , and measured luciferase activities .
+As shown in the right panel !
+of Fig .
+1A , the results indicated that the maximal transcriptional activity is located within the 159-base pair from -125 to +34 ( Fig .
+14 ) .
+Sequence analysis by computer revealed 4 Spl elements are located in this core region ( Fig .
+1B ) .
+We next performed various specific deletion analyses to test the relative importance of these 4 Spl elements .
+The results ( Fig .
+2 , A and B ) showed that the most important basal transcription activity is present in the first two Spl elements from the 5'-end of the 159-bp core region .
+To demonstrate the functional importance of the 4 Spl elements involved in basal transcription , we next performed EMSA .
+We used nuclear extracts of THP-1 cells and the 159-bp DNA fragments containing mutations in each of all the 4 Spl elements as labeled probes .
+The bindings of labeled probes were tested by competing with unlabeled wild-type or mutated probes in 100-fold molar excess .
+The results ( Fig .
+2C ) illustrated that the wild-type DNA fragment formed several DNA-protein complexes ( Zanes 2 , 4 , and 5 ) ; the bindings were eliminated upon incubation with excess unlabeled probe ( Zane 3 ) and 20993 J » Relative luciferase activity ( fold ) 0 : P R 500 1000 1500 2000 IFN-y ( U/m1 ) a 6C 3 2 $ s- > .Z § 4 } & © w § 3 2 ' 3 3 2 } 9 Mu s 1f 43 | [ « 4 n T i .
+i 10® 10® 107 106 105 ATRA - ( M ) 7 | o\ I HH Relative luciferase activity ( fold ) a 3 2 E 1 F 0 i L 1 \ 12 24 36 48 60 Time ( hour ) Fic .
+5 .
+The dose and time dependence of the IFN-y and ATRA effects .
+The Luc constructs containing ACAT-1 P1 promoter was transfected into THP-1 cells .
+7 h after transfection , A , cells were treated with or without ATRA ( 10~° M ) alone , or with ATRA plus the indicated concentrations of IFN-y , respectively , for 40 h ; B , cells were treated with or without IFN-y ( 100 units/ml ) alone , or with IFN-y plus indicated concentrations of ATRA for 40 h ; C , cells were treated with or without ATRA ( 10° M ) plus IFN-y ( 100 units/ml ) for the indicated lengths of time , respectively .
+Afterward , the luciferase activity was determined as described under `` Experimental Procedures . ''
+supershifted by incubation with the anti-Spl antibodies ( Zane 5 ) .
+Additional control experiments showed that the fragment containing mutations in all 4 Spl elements had no specific binding ( Zanes 7-10 ) .
+610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 20994 FiG .
+6 .
+IFN-y and ATRA symergisti- A cally increase ACAT-1 mRNA .
+Total RNAs were prepared from THP-1 cells treated for 40 h with or without IFN-y ( 100 units/ml ) , or with ATRA ( 10~° M ) or with IFN-y ( 100 units/ml ) plus ATRA ( 10~ '' M ) , respectively .
+A and B , quantita- GAPDH tion by RT-PCR ( 26 to 32 cycles ) .
+Appro- 20 priate primers described under `` Experimental Procedures '' were used to obtain the ACAT-1 P1 promoter transcript ( designated as the P1 product ) , the ACAT-1 P7 promoter transcript ( designated as P7 product ) , and the transcript for the control gene ( indicated as GAPDH ) by RT-PCR .
+Control experiments indicated that between cycles 25 and 35 , the ACAT-1 P1 0 transcript and the ACAT-1 P7 transcript IFN-y could be estimated semiquantitatively by ATRA RT-PCR ( data not shown ) .
+The ratio of DNA contents ( shown at the bottom panels ) was determined using the UVP Lab- C work software ( UVP Inc. ) .
+C , quantitation by Northern analysis .
+20 ug of total RNAs per lane from cells treated in various Ratio of DNA _ Activation of ACAT-1 by IFN-y in Foam Cell Formation B 0.8 0.6 0.4 Ratio of DNA 0.2 0 ~ *+ ~ + IFN-y _ - + =- + - - * *+ ATRA | - = + + manners as indicated was employed , using a *°P-labeled ACAT-1 cDNA probe ; the same filter was rehybridized with a *°P-labeled human GAPDH cDNA probe .
+After exposing with PhosphorImager , the intensities of the 2.8- and 3.6-knt ACAT-1 R. 3.6 knt- » | | 2.8 |x } were normalized to that of the GAPDH mRNA levels ; the intensities of bands were determined by using the UVP Lab GAPDH~* Ratio of RNA o o in work software ( UVP Inc. ) .
+The ratios of the 2.8- and 3.6-knt message from cells IFN-y treated in various manners as indicated ATRA were shown on the right panel .
+Interferon-y Causes up-regulation of Human ACAT Expression in Blood Monocyte-derived Macrophages-The human blood monocytes were incubated in culture for up to 16 days .
+This procedure causes monocytic cells to differentiate into mature macrophages within several days .
+Cells incubated for various time points were treated with or without IFN-y for 40 h. The total RNAs and proteins of treated and untreated cells were extracted for RT-PCR and Western blot .
+The results show that both the ACAT-I P1 promoter transcript and the ACAT-1 protein level increased during the monocyte differentiation process ; and these increases were further augmented in cells treated with IFN-y ( Fig .
+3 , A and C ) .
+In contrast , the level of the human ACAT-1 P7 promoter transcript was not significantly altered throughout the time course of the experiment ( Fig .
+3B ) .
+The Combination of IFN-y and ATRA Is Needed to Enhance ACAT-1 P1 Promoter Activity in THP-1 Cell-Using THP-1 cell , we tested the functional responses of the ACAT-1 P1 promoter toward IFN-y , ATRA , or a combination of both .
+As shown in Fig .
+4A , treating cells with IFN-y and ATRA , but not with IFN-y or with ATRA alone , synergistically enhanced the luciferase expression driven by the ACAT-1 P1 promoter .
+To investigate the cell type and promoter specificity of this effect , we tested the human ACAT-1 P1 , P7 , and SV40 promoters in THP-1 cells , using the luciferase reporter activity assays .
+The results ( Fig .
+4A ) showed that neither IFN-y , ATRA , nor their combination , had any detectable effect on the ACAT-1 P7 or the SV40 promoter .
+We also tested the potential effect of ATRA and/or IFN-y on ACAT-1 P1 promoter in other human cell lines including HEK293 , HepG2 , CaCO-2 , and U937 .
+The results ( Fig .
+4B ) demonstrated that the synergistic effect of ATRA and IFN-y occurred only in the monocytic cell lines ( eg .
+U937 , THP-1 ) , but not in other cell types ( eg .
+HEK293 , HepG2 , or CACO-2 ) .
+Using THP -1 cells , we next investigated the time and dose requirements .
+For IFN-y , the results showed that the - 1.0 25 0.8 2.0 0.6 1.5 04 } n 02 0° 0 = + = + aoe es ATRA - ~10 % ( % n -l p % 2.8 knt 3.6 knt enhancement exhibited a saturable process , with maximal enhancement seen when IFN-y reached 500 units/ml ( Fig .
+54 ) .
+For ATRA , a non-saturable , linear relationship between concentration and effect was observed ( Fig .
+5B ) .
+The effect of IFN-y and ATRA continued to increase within the time frame examined ( 60 h , Fig .
+5C ) .
+To ascertain that the activating effect of ATRA/IFN-y on ACAT-1 promoter bears biological relevance , we treated THP-1 cells for 40 h with either IFN-y or ATRA , or a combination of both , then examined the ACAT-1 at the levels of mRNAs , protein , and enzyme activities .
+Semiquantitative RT-PCR analysis showed that the level of human ACAT-1 P1 promoter transcripts in treated cells increased by about 3-fold ( Fig .
+6A ) , while the level of human ACAT-1 P7 promoter transcripts were not significantly altered ( Fig .
+6B ) .
+Consistent with these re-sults , Northern blotting ( Fig .
+6C ) showed that the amounts of 3.6- and 2.8-knt mRNAs ( 26 ) were significantly enhanced by the combination treatment of IFN-y and ATRA .
+In addition , the ACAT-1 protein as analyzed by Western blotting ( Fig .
+7A ) , as well as by the ACAT enzyme activity , measured in cholesterol-independent manner , was all significantly and proportionally increased ( Fig .
+7B ) .
+IFN-y Activated Sequence ( GAS ) Is Required for the Synergistic Effect by IFN-y and ATRA-Sequence analysis by computer showed that the core region of human ACAT-1 P1 promoter contained an GAS that overlaps exactly with the second Spl element from 5'-end ( Fig .
+8A ) .
+To test its functional signif-icance , a series of P1 promoter deletion and point mutation constructs were made , linked to a luciferase reporter gene , and used in transient transfection studies in THP-1 cells .
+The results indicated that the two constructs containing the GAS element ( at the top of Fig .
+84 ) responded to IFN-y and ATRA , while the shorter promoter lacking the GAS element and first two Spl elements ( at the bottom of Fig .
+8A ) did not .
+Specific 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Activation of ACAT-1 by IFN-y in Foam Cell Formation mutations in the GAS element , but not mutations in the Spl elements , abrogated the synergistic effect by IFN-y and ATRA ( Fig .
+8B ) .
+Therefore , the GAS element , rather than the 4 Spl sites plays an important role in mediating the regulatory response to IFN-y and ATRA .
+To further examine the functional significance of the GAS element , we isolated nuclear extracts from THP-1 cells co-treated with IFN-y and ATRA , and performed EMSA using the wild-type Pl promoter ( the 159-bp DNA ) as the labeled probe .
+As shown in Fig .
+8 , C and D , two specific bands , one migrating slower than the other , were detectable ( lane 2 ) .
+These two bands were abolished by preincubation with unlabeled competitors containing all the Spl and GAS elements ( lane 3 ) .
+As shown in Fig .
+8C , gel supershift assays using either anti-Spl antibodies ( Zane 4 ) or anti-STAT1 antibodies ( lane 5 ) , or both antibodies ( Zane 6 ) , indicated that these two bands were specific complexes formed between STAT1 and Spl .
+When excess unlabeled probes containing either the first or the second Spl element were used as competitors , the two bands were also competed out ( Zanes 7 and 8 ) .
+When unlabeled probe containing only the first two mutant or all four mutant Spl elements were used as competitors , both bands moved faster ( Zanes 9 and 10 ) than those in the control lane ( Zane 2 ) .
+These two bands were supershifted by using the anti-Spl antibody ( Zane 11 ) but not by using the anti-STAT1 antibody ( Zane 12 ) .
+Additional experiments ( Fig .
+8D ) showed that when labeled wild-type DNA fragments were used as probe and unlabeled DNA fragment containing all four wild-type Spl elements and the mutant GAS ( GASm ) as competitors , one band was found to move faster than the control lane ( comparing lanes 4-6 with lane 2 ) .
+This band was supershifted by adding anti-STAT1 antibody , but not by adding anti-Spl antibody ( comparing lanes 4-6 ) .
+When labeled probe containing mutant GAS was used , two bands moved faster ( Zanes 8 ) ; they were supershifted by anti-Spl antibody but not by anti-STAT1 antibody ( comparing lanes 10 and 11 ) .
+Together , these results demonstrate that the first two Sp1 sites and the GAS site are functionally important , and that the second Spl site overlaps with a GAS site to form a novel overlapping GAS/Spl element .
+This GAS/Spl element is recognized by both STAT1 and Spl present in the nuclear extracts of treated THP-1 cells .
+ATRA Induces STAT1 Expression , While IFN-y Causes the STAT1 to Dimerize and Bind to GAS Element in the ACAT-1 Promoter-STAT1 is a key component of the IFN-y-dependent transcriptional activation complex ( 36 , 37 ) .
+We examined the transcript level of STAT1 in control and treated THP-1 cells by RT-PCR .
+As shown in Fig .
+94 , STATI transcript was not detectable in control THP-1 cells ( Zane 1 ) .
+Treating cells with ATRA gave rise to a remarkable increase ( Zane 3 ) , while treating cells with IFN-y caused only a modest increase in the STAT1 transcript ( lane 2 ) .
+Treating cells with ATRA with or without IFN-y caused large increases in similar fashion ( Zane 4 ) .
+These results indicated that treating THP-1 cells with ATRA , with or without IFN-y , increased significant gene expression of STAT1 .
+It has been shown that STAT1 can be activated as a homodimer that moves into the nucleus and acts as a mature transcription factor by binding to the GAS element ( 39 ) .
+The dimerization of STAT1 requires tyrosine phosphorylation of STAT1 in a manner triggered by IFN-y ( 38 ) .
+Mutant STAT1 ( STAT1-Y701Fm , replacing tyrosine 701 with phenyl-alanine ) is unable to undergo the tyrosine phosphorylation dependent dimerization process ( 40 ) .
+To test the possibility that IFN-y may be involved in activating STAT1 to up-regulate the ACAT-1 gene , we prepared wild-type STAT cDNA ( STATI1-Y701 ) and the mutant STAT1 eDNA ( STATI-Y701Fm ) in pRC/CMV vector .
+We then transfected these constructs in 20995 A so kp- “ a 3 § 2 £2 .
+$ 11 0 IFN-7 = + = + ATRA - - + + B pee T 3 al c 3 al .
+3 § a % +3 IL I md Ac29 25RA THP-1 Fig .
+7 .
+IFN-y and ATRA synergistically increase ACAT-1 protein and enzyme activity .
+A , immunoblotting of ACAT-1 protein from extracts of THP-1 cells were treated in various manners as indicated .
+Cells were seeded at 2 X 10°/ml in 60-mm dishes with 7.5 ml of medium , and treated for 40 h with or without IFN-y ( 100 units/ml ) , or with ATRA ( 10~ '' M ) or IFN-y ( 100 units/ml ) plus ATRA ( 10~° M ) as indicated .
+Cell extracts were prepared and immunoblotting were conducted as described under `` Experimental Procedures . ''
+Samples ( 40 ug of protein/ lane ) were freshly prepared with SDS .
+The membrane was incubated with DM10 ( 0.5 ug/ml ) as the primary antibody .
+The immunoreactive proteins were visualized using the ECL detection system and autora-diography .
+The intensities of bands were determined by using the UVP Labwork software ( UVP Inc. ) .
+The data are expressed as relative protein using the value in untreated THP-1 cells as 1.0 .
+The ratios of the protein from cells treated in various manners as indicated were shown at the bottom panel .
+B , ACAT activity assayed in vitro .
+AC29 , 25RA , and THP-1 cells were cultured at 2 X 10°/ml in 60-mm dishes with 7.5 ml of medium and treated for 40 h with or without IFN-y ( 100 units/ml ) , or with ATRA ( 10~° M ) , or with IFN-y ( 100 units/ml ) plus ATRA ( 10~° mM ) as indicated .
+ACAT activities were assayed as described under `` Experimental Procedures . ''
+The data are expressed as relative ACAT activity using the value in untreated THP-1 cells as 1.0 .
+The ACAT specific activity in untreated cell extracts was 74 pmol/mg/min .
+dividually into the IFN-y and/or ATRA-treated THP-1 cells , and measured ACAT-1 P1 promoter activity .
+As shown in Fig .
+9B , when cells were treated with IFN-y alone , a significant enhancement of the P1 promoter was seen when these cells were transfected with wild-type STAT1 cDNA .
+The enhancement was not seen when mutant STAT1 cDNA was used ( comparing the sizes of the second bar in the STATI-Y701 panel with the second bar in the STATI-Y701Fm panel ) .
+These results imply that IFN-y is involved in stimulating the phosphorylation of STAT1 , causing the dimeric form of STAT1 to bind to the GAS element .
+To further test this interpretation , we treated THP-1 cells with IFN-y alone , and transfected with or without the wild-type or the mutant STATZI cDNAs , then prepared the nuclear extracts of these cells and performed EMSAs .
+As shown in Fig .
+9C , the two GAS-specific bands were detectable in the nuclear extracts of cells transfected with wild-type 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Activation of ACAT-1 by IFN-y in Foam Cell Formation A B Gas y activated P Relative luciferase activity ( fold ) Spt Sp !
+Spl Spi e ( GAS ) is 0 1 2 3 4 m -a Spi Spl Spl Spl +04 10+ i seray .
+wild GAS mutant Anti-STAT1 antibody - - - - + + - - - - - + _ A C ly A o Anti-Sp1 antibody = - = + - + - - - - + - Anti-STAT1 antibody ~ ~ - - - \ - - m + 2 100 ng Sp1-1234m - - - - - - - - - + + + Anti-Sp1 antibody - - - - + - - - - - + 100 ng Sp1-12m - - - - - - - - + - - - 100 ng GASm - - - + + + m - - - M 100 ng Sp1-2m - - - - - - - + - - - - 100 ng cold probe - - + - - - - - + - 100 ng Sp1-Im - - - - - -o + - - - - - 10 ug nuclear extract - + + + + + - + + + + 100 ng cold probe 800-0 & o- ~ `` He £0 - ~ ~ - 3 ug poly ( dl-dC ) + + + + + + + + + + + 10 pg nuclear extract S o o o e a e e. I ng [ `` P } -labeled probe _+ _ # _ # _ + _ % _ % _ # 4 + % + 3 us poly ( dl-dC ) +o ko 40 $ 0 # 0 # 0 o $ o # 0 # 0 40 # 0 o+ # 1 ng [ `` P ] -labeled probe - + + + + + + + + + + + + F # | an f a Gas ham Spi Spl Spi Spi bed rt E- +4 pe Cho ® -- - amt ** 4.63 tes wild prot pect on n. lid £ GAS Spt Sp1 Spt Spl yeu 4 ++ bad £5 i Spl Sp Spl Spl Wild GAS mutant I ro m 5 se © Fic .
+8 .
+Identification of a functional GAS element in ACAT-I P1 promoter .
+A , individual Lue constructs containing the 159-bp core region ( shown on the left panel ; with wild-type at the top , two different deletions as indicated in the middle or the bottom ) were transfected into THP-1 cells .
+7 h after transfection , cells were treated with or without IFN-y ( 100 units/ml ) , or with ATRA ( 10~® M ) , or with IFN-y ( 100 units/ml ) plus ATRA ( 10~ '' M ) as indicated for 40 h. Results of luciferase activities are shown on the right panel .
+B , individual Luc constructs with or without various mutations in Spl or in GAS ( as indicated on the /eft panel ) were transfected into THP-1 cells .
+Cells were treated and assayed in the same way as described in A .
+C and D , EMSAs using nuclear extracts of THP-1 cells treated for 40 h with IFN-y ( 100 units/ml ) plus ATRA ( 10~° M ) .
+The wild-type and mutant GAS DNA fragments as indicated were labeled ; 1 X 10 '' dpm of labeled probe was used in each binding reaction .
+C , lane 1 , *°P-labeled wild-type fragment as the probe alone serving as negative control .
+Lane 2 , binding reaction between labeled probe and the nuclear extracts .
+Lane 3 , competition by adding 100-fold molar excess of cold wild-type probe ; Zanes 4-6 , supershift reactions by adding 1 pl of anti-Spl antibody , 1 ul of anti-STAT1 antibody , or 1 pl of anti-Spl antibody and 1 ul of anti-STAT1 antibody as indicated to the binding reaction ; Zanes 7-10 , competition by adding 100-fold molar excess of probe containing mutation within the first , or second , or the first two , or all four Spl elements as indicated to the binding reaction ; lanes 11 and 12 , supershift reactions by adding 1 pl of anti-Sp1l antibody or 1 pl of anti-STAT1 antibody as indicated to the binding reaction described for lane 10 .
+D , lanes 1-3 , the same conditions as described for Fig .
+7C , lane 1-3 , were employed ; lane 4 , competition by adding 100-fold molar excess of probe containing the mutant GAS element ; lanes 5 and 6 , supershift reactions by adding 1 pl of anti-Spl antibody or anti-STAT1 antibody as indicated to the binding reaction described for lane 4 ; lanes 7-9 , the same conditions as described for lames 1-3 were employed , except the mutant GAS DNA fragment was used as the labeled probe ; lanes 10 and 11 , supershift reactions by adding 1 ul of anti-STAT1 antibody or anti-Spl antibody as indicated to the binding reactions described in Zane 8 .
+STAT1 cDNA ( comparing lane 6 with lane 2 ) .
+These two bands were not detectable in extracts of cells transfected with the mutant STATI cDNA ( comparing lane 10 with lane 2 ) .
+Results of the gel supershift assays using anti-STAT1 and anti-Spl antibodies confirmed that these two bands were complexes resulting from specific interactions of STAT1 and Spl with the ACAT-1 P1 promoter ( Zanes 8 and 9 ) .
+Additional EMSAs , using the nuclear extracts from control ( untransfected ) THP-1 cells or from mutant cDNA-transfected cells showed that the two bands described above migrated faster .
+These bands were not supershifted with anti-STAT1 antibodies , but were supershifted with anti-Spl antibodies ( comparing lane 4 and 5 with 12 and 13 ) .
+These results showed that the GAS site , not the Spl sites , formed specific complexes with the wild-type STAT1 after activation by IFN-y through the tyrosine-phosphorylation dependent mechanism .
+DISCUSSION ACAT-1 mRNAs and protein contents are significantly increased during the human monocyte-macrophage differentiation process in vitro ( 21 , 41 ) .
+Its protein content is amply present in macrophage-derived foam cells localized in the human atherosclerotic lesion , implying that up-regulation of the ACAT-1 gene plays important roles in macrophage foam cell formation in atherosclerosis ( 42 ) .
+In mouse macrophages , ACAT-1 message was found to be up-regulated by cells with IFN-y ( 12 ) .
+The molecular basis of these findings has not been pursued at the gene transcription level .
+In our current work , we showed that IFN-y increased ACAT-1 mRNAs and protein contents during the human blood monocyte-macrophage differentiation process .
+We then found that treating the human monocyte-like THP-1 cells with ATRA and IFN-y caused up-regulation of ACAT-1 gene expression in cell-type specific man-ner .
+To elucidate the molecular basis of this finding , we identified a 159-bp core region with Spl elements that is responsible for the P1 promoter activity .
+This region also contains an IFN-y activated sequence ( GAS ) that overlaps exactly with the second Spl element ( TGGGCGGAA , with the Spl site underlined ) .
+To our knowledge , this is the first example in literature describing an overlapping SpLGAS site .
+Using luciferase constructs in transient trasfection studies , we demon 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Activation of ACAT-1 by IFN-y in Foam Cell Formation A 20 & is § 10 = os 0 IFNy = + A £ ATRA - ~ + + B IFNy - 4+ - + -o ¥ - + - £ - % ATRA | - - + + -o- 40+ -o- +o+ Control STATI-¥701 - STATI-¥701Fm C Control STATI-¥701 STAT1-¥701Fm A a `` Anti-STATI antibedy | Lo - - - & C- - - @ CI 2 2 Anti-Spl antibody < 0 > 0 > 0 & 00 > o > o > # 0c= -o 4 00 > 100 ng cold probe # 0 > 08 > o > & 00 > o > o > # o > 10 pg nuclear extract h +o + o # + +0 + +oo+ + +o 3 ug poly ( dl-dC ) +o boob b ¢ ¢ bok b ¢ & + + I ng [ PP } -labeled probe _+ _ + + % + % % % o # O+ O+ +0 + GAS Spi Sp Spi Sp Wild Fic .
+9 .
+STAT1 is involved in the synergistic effect of IFN-y and ATRA .
+Total RNAs were prepared from THP-1 cells treated for 40 h with or without IFN-y ( 100 units/ml ) , or ATRA ( 10~° M ) , or IFN-y ( 100 units/ml ) plus ATRA ( 10~° M ) as indicated .
+A , quantitation by RT-PCR ( 30 cycles ) .
+Primers were used for STAT1 and the GAPDH cDNAs as described under `` Experimental Procedures . ''
+Control experiments indicated that between cycles 25 and 35 , the IFN-y receptor transcripts and the STAT1 transcript could be estimated semiquantitatively by RT-PCR ( data not shown ) .
+B , THP-1 cells were co-transfected with the Lue construct containing the wild-type ACAT-1 Pl promoter core region , and the wild-type STAT1 ( indicated as STAT1-Y701 ) , or the mutant STAT1 ( indicated as STAT1-Y701F 'm ) , or the empty vector ( indicated as control ) .
+7 h after transfection , the cells were treated in various manners as indicated for 40 h. The luciferase activities of treated cell extracts were then determined in the same way as described in the legend to Fig .
+1A .
+C , EMSAs using nuclear extracts from the transfected THP-1 cells treated for 40 h with IFN-y ( 100 units/ml ) .
+The wild-type 159-bp core region DNA was labeled as probe ; 1 X 10 '' dpm of labeled probe was used for each binding reaction .
+Lane 1 , *°P-labeled probe alone .
+Lane 2 , binding reaction between labeled probe and the nuclear extracts .
+Lane 3 , competition by adding 100-fold molar excess of cold probe .
+Lane 4 , supershift reaction by adding 1 ul of anti-Spl antibody .
+Lane 5 , supershift reaction by adding 1 ul of anti-STAT1 antibody .
+For lanes 2-5 , nuclear extracts were from cells transfected with the empty vector .
+Lanes 6-9 and 10-13 are results using the same series of reaction conditions as described in lanes 2-5 , but using the nucleic extracts from THP-1 cells transfected with wild-type STAT1 cDNA or with mutant STAT1 eDNA , respectively .
+strated that the combination of IFN-y and ATRA is needed to enhance ACAT-1 P1 promoter activity .
+Additional experiments using RT-PCR and EMSA showed that ATRA caused large induction of the transcription factor STAT1 , while IFN-y triggered the phosphorylation dependent activation of STAT1 .
+The 20997 activated STAT1 then acts by binding to the overlapping GAS Spl site in the ACAT-1 P1 promoter .
+Our work dissects the non-sterol-mediated ACAT regulation at the transcriptional level , and provides a molecular mechanism to account for part of the effects of IFN-y in causing macrophage foam cell formation in vitro .
+In atherosclerosis , the infiltration of T-cells and monocyte-derived macrophages into the intimal layer of the artery is believed to lead to foam cell formation .
+Activated T cells found in human atheroma secrete high levels of IFN-y ( 43 , 44 ) .
+IFN-y has been shown to exert certain proatherosclerogenic actions in vitro .
+It induces VCAM-1 on endothelial cells ( 45 ) , decreases apoE secretion , and increases uptake of hypertriblyderidemic very low density lipoprotein on macrophages ( 46 ) , induces my-osin heavy chain-II on macrophages and smooth muscle cells ( 47 ) , and induces scavenger receptors on smooth muscle cells during atherogenesis ( 48 ) .
+On the other hand , IFN-y has also been shown to exert protective action against atherosclerosis in certain in vitro systems examined ( 49 , 50 ) .
+Recently , it has been shown that apoE knockout mice crossed with the IFN-y receptor knockout mice display reductions in lesion size , lipid accumulation , and cellularity ( 51 ) .
+In addition , in mice , post-transplant graft arteriosclerosis is associated with the presence of IFN-y ; the serological neutralization or the genetic absence of IFN-y markedly reduces the extent of intimal expansion ( 52 ) .
+These results support the notion that IFN-y is pro-atherogenic in vivo .
+If this concept holds true , then our finding described here may explain some of the effects of IFN-y on foam cell formation in vivo .
+IFN-y exhibits antigrowth or antiproliferation effects in various target cells .
+Its effects often occur synergistically with retinoids ( 53 ) .
+To cite a few examples , in various myelogenous leukemic cell lines , Gianni et al .
+( 54 ) showed that ATRA can bypass IFEN/IFN receptors and induce the expression of IFN-regulated genes including STATI ; Matikainen et al .
+( 55 , 56 ) showed that ATRA causes up-regulation of several IFN-specific transcription factors and signal inducers including STAT , and enhances their responsiveness toward IFNs .
+The molecular mechanism ( s ) for the synergism observed between ATRA and IFNs in these studies remain to be elucidated .
+Our work described here may serve to explain some of the synergistic ac tions of ATRA and IFNs described in these studies .
+Acknowledgments-We thank Dr. Darnell for wild-type STATI cDNA , and Dr. Xinyuan Liu for the gifts of recombinant IFN-y .
+We also acknowledge Deng-Hong Zhang for participating in certain stages of this work , and thank Bao-Liang Song , Nian-Yi Zhang , and Wei Qi for helpful discussions .
+REFERENCES 1 .
+Chang , T. Y. , Chang , C. C. Y. , and Cheng , D. ( 1997 ) Annu .
+Rev .
+Biochem .
+66 , 613-638 2 .
+Chang , C. C. Y. , Hub , H. Y. , Cadigan , K. M. , and Chang , T. Y .
+( 1993 ) J. Biol .
+Chem .
+268 , 20747-20755 3 .
+Anderson , R. A. , Joyce , C. , Davis , M. , Reagan , J. W. , Clark , M. , Shelness , G. S. , and Rudel , L. L. ( 1998 ) J. Biol .
+Chem .
+278 , 26747-26754 4 .
+Cases , S. , Novak , S. , Zheng , Y. W. , Myers , H. M. , Lear , S. R. , Sande , E. , Welch , C. B. , Lusis , A. J. , Spencer , T. A. , Krause , B. R. , Erickson , S. K. , and Farese , R. V. , Jr. ( 1998 ) J. Biol .
+Chem .
+278 , 26755-26764 5 .
+Oelkers , P. , Behari , A. , Cromley , D. , Billheimer , J. T. , and Sturley , S. L. ( 1998 ) J. Biol .
+Chem .
+278 , 26765-26771 6 .
+Lee , O. , Chang , C. C. , Lee , W. , and Chang , T. Y .
+( 1998 ) J. Lipid Res .
+89 , 1722-1727 7 .
+Chang , C. C. , Sakashita , N. , Ornvold , K. , Lee , O. , Chang , E. T. , Dong , R. , Lin , S. , Lee , C. Y. , Strom , S. C. , Kashyap , R. , Fung , J. J. , Farese , R. V. , Jr. , Patoiseau , J. F. , Delhon , A. , and Chang , T. Y .
+( 2000 ) J. Biol .
+Chem .
+275 , 28083-28092 8 .
+Buhman , K. K. , Accad , M. , Novak , S. , Choi , R. S. , Wong , J. S. , Hamilton , R. L. , Turley , S. , and Farese , R. V. , Jr. ( 2000 ) Nat .
+Med .
+6 , 1841-1347 9 .
+Lee , R. G. , Willingham , M. C. , Davis , M. A. , Skinner , K. A. , and Rudel , L. L. ( 2000 ) J. Lipid Res .
+41 , 1991-2001 10 .
+Brown , M. S. , and Goldstein , J. L. ( 1983 ) Arnu .
+Rev .
+Biochem .
+52 , 228-261 11 .
+Fielding , C. J .
+( 1992 ) FASEB J .
+6 , 8162-3168 12 .
+Panousis , C. G. , and Zuckerman , S. H. ( 2000 ) J. Lipid Res .
+41 , 75-83 13 .
+Ross , R. ( 1993 ) Nature 362 , 801-809 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; 20998 14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+28 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+Brown , M. S. , Ho , Y. K. , and Goldstein , J. L. ( 1980 ) J. Biol .
+Chem .
+255 , 9344-9352 Chang , C. C. , Lee , C. Y. , Chang , E. T. , Cruz , J. C. , Levesque , M. C. , and Chang , T. Y .
+( 1998 ) J. Biol .
+Chem .
+278 , 85182-85141 Panousis , C. G. , and Zuckerman , S. H. ( 2000 ) Arterioscler .
+Thromb .
+Vasc .
+Biol .
+20 , 1565-1571 Banka , C. L. , Black , A. S. , Dyer , C. A. , and Curtiss , L. K. ( 1991 ) J. Lipid Res .
+82 , 35-43 Alessio , M. , Monte , L .
+De. , Scirea , A. , Gruarin , P. , Tandon , N. N. , and Sitia , R. ( 1996 ) J. Biol .
+Chem .
+271 , 1770-1775 Tontonoz , P. L. , Nagy , J. G. , Alvalez , A. , Thomazy , V. A. , and Evans , R. M. ( 1998 ) Cell 98 , 241-252 Shiffman , D. , Mikita , T. , Tai , J. T. , Wade , D. P. , Porter , J. G. , Seilhamer , J. J. , Somogyi , R. , Liang , S. , and Lawn , R. M. ( 2000 ) J. Biol .
+Chem .
+275 , 37324-37382 Cheng , W. , Kvilekval , K. V. , and Abumrad , N. A .
+( 1995 ) Am .
+J. Physiol .
+269 , E642-648 Cadigan , K. M. , and Chang , T. Y .
+( 1988 ) J. Lipid Res .
+29 , 1683-1692 Chang , T. Y. , and Limanek , J. S. ( 1980 ) J. Biol .
+Chem .
+255 , 7787-7795 Jiang , C. L. , Lu , C. L. , Chen , Y .
+Z. , and Liu , X. Y .
+( 1999 ) Peptides 20 , 1385-1388 Bishop , J. E. , and Hajra , A. K. ( 1980 ) Anal .
+Biochem .
+106 , 344-350 Li , B. L. , Li , X. L. , Duan , Z. J. , Lee , O. , Lin , S. , Ma , Z. M. , Chang , C. C. , Yang , X. Y. , Park , J. P. , Mohandas , T. K. , Noll , W. , Chan , L. , and Chang , T. Y .
+( 1999 ) J. Biol .
+Chem .
+274 , 11060-11071 Ho , S. N. , Hunt , H. D. , Horton , R. M. , Pullen , J. K. , and Pease , L. R. ( 1989 ) Gene ( Amst . )
+77 , 51-59 Vinkemeier , U. , Cohen , S. L. , Moarefi , L. , Chait , B. T. , Kuriyan , J. , and Darnell , J. E. , Jr. ( 1996 ) EMBO J .
+15 , 5616-5626 Powell , J. T. , Klaasse Bos , J. M. , and van Mourik , J .
+A .
+( 1992 ) FEBS Lett .
+808 , 173-177 Mack , K. D. , Wei , R. , Elbagarri , A. , Abbey , N. , and McGrath , M. S. ( 1998 ) J. Immunol .
+Methods .
+211 , 79-86 Liu , J. , Streiff , R. , Zhang , Y. L. , Vestal , R. E. , Spence , M. J. , and Briggs , M. R. ( 1997 ) J. Lipid Res .
+88 , 2035-2048 Sakamoto , S. , Nie , J. , and Taniguchi , T. ( 1999 ) J. Immunol .
+162 , 4881-4384 Andrews , N. C. , and Faller , D. V. ( 1991 ) Nucleic Acids Res .
+19 , 2499 Oosta , G. M. , Mathewson , N. S. , and Catravas , G. N. ( 1978 ) Anal .
+Biochem .
+89 , 31-34 Chang , C. C. , Chen , J. , Thomas , M. A. , Cheng , D. , Del Priore , V. A. , Newton , 41 .
+42 .
+43. .
+Geng , Y. J. , Holm , J. , Nygren , S. , Bruzelius , M. , Stemme , S. , and Hansson , 45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+Activation of ACAT-1 by IFN-y in Foam Cell Formation R. S. , Pape , M. E. , and Chang , T. Y .
+( 1995 ) J. Biol .
+Chem .
+270 , 29532-29540 .
+Schindler , C. , and Darnell , J. E. , Jr. ( 1995 ) Annu .
+Rev .
+Biochem .
+64 , 621-651 .
+Darnell , J. E. , Jr. , Kerr , I. M. , and Stark , G. R. ( 1994 ) Science 264 , 1415-1421 .
+Aguet , M. , Dembic , Z. , and Merlin , G. ( 1988 ) Cell 55 , 273-280 .
+Schindler , C. , Shuai , K. , Prezioso , V. R. , and Darnell , J. E. , Jr. ( 1992 ) Science 257 , 809-813 .
+Walter , M. J. , Look , D. C. , Tidwell , R. M. , Roswit , W. T. , and Holtzman , M. J .
+( 1997 ) J. Biol .
+Chem .
+272 , 28582-28589 Wang , H. , Germain , S. J. , Benfield , P. P. , and Gillies , P. J .
+( 1996 ) Arterioscler .
+Thromb .
+Vasc .
+Biol .
+16 , 809-814 Miyazaki , A. , Sakashita , N. , Lee , O. , Takahashi , K. , Horiuchi , S. , Hakamata , H. , Morganelli , P. M. , Chang , C. C. Y. , and Chang , T. Y .
+( 1998 ) Arterioscler .
+Thromb .
+Vase .
+Bio .
+18 , 1568-1574 Hansson , G. K. , Holm , J. , and Jonasson , L. ( 1989 ) Am .
+J. Pathol .
+185 , 169-175 G. K. ( 1995 ) Arterioscler .
+Thromb .
+Vasc .
+Biol .
+15 , 1995-2002 Li , H. , Cybulsky , M. I. , Gimbrone , M. A. , Jr. , and Libby , P. ( 1993 ) Arterioscler Thromb .
+18 , 197-204 Whitman , S. C. , Argmann , C. A. , Sawyez , C. G. , Miller , D. B. , Hegele , R. A. , and Huff , M. W. ( 1999 ) J. Lipid Res .
+40 , 1017-1028 Jonasson , L. , Holm , J. , Skalli , O. , Gabbiani , G. , and Hansson , G. K. ( 1985 ) J. Clin .
+Invest .
+76 , 125-1831 Li , H. , Freeman , M. W. , and Libby , P. ( 1995 ) J. Clin .
+Invest .
+95 , 122-133 Christen , S. , Thomas , S. R. , Garner , B. , and Stocker , R. ( 1994 ) J. Clin .
+Invest .
+93 , 2149-2158 Geng , Y. J. , and Hansson , G. K. ( 1992 ) J. Clin .
+Invest .
+89 , 1822-1330 Gupta , S. , Pablo , A. M. , Jiang , X. C. , Wang , N. , Tall , A. R. , and Schindler , C. ( 1997 ) J. Clin .
+Invest .
+99 , 2752-2761 Tellides , G. , Tereb , D. A. , Kirkiles-Smith , N. C. , Kim , R. W. , Wilson , J. H. , Schechner , J. S. , Lorber , M. L. , and Pober , J. S. ( 2000 ) Nature 408 , 207-211 Mangelsdorf , D. J. , Umesono , K. , and Evans , R. M. ( 1994 ) in The Retinoids : Biology , Chemistry and Medicine ( Sporn , M. B. , Roberts , A .
+B. , and Goodman , D. S. , eds ) 2nd Ed. , pp .
+819-8349 , Raven Press , Ltd. , New York Gianni , M. , Terao , M. , Fortino , I. , LiCalzi , M. , Viggiano , V. , Barbui , T. , Rambaldi , A. , and Garattini , E. ( 1997 ) Blood 89 , 1001-1012 Matikainen , S. , Lehtonen , A. , Sareneva , T. , and Julkunen , I .
+( 1998 ) Leuk .
+& Lymphoma 80 , 63-71 Matikainen , S. , Ronni , T. , Lehtonen , A. , Sareneva , T. , Melen , K. , Nordling , S. , Levy , D. E. , and Julkunen , I .
+( 1997 ) Cell Growth Differ .
+8 , 687-698 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ; Synergistic Transcriptional Activation of HumanAcyl-coenzyme A : Cholesterol Acyltransterase-1 Gene by Interferon-y and All-trans-Retinoic Acid THP -1 Cells Jin-Bo Yang , Zhi-Jun Duan , Wei Yao , Oneil Lee , Li Yang , Xin-Y ing Yang , Xia Sun , Catherine C. Y. Chang , Ta-Yuan Chang and Bo-Liang Li J. Biol .
+Chem .
+2001 , 276:20989-20998. doi : 10.1074/jbc.MO1 1488200 originally published online February 28 , 2001 Access the most updated version of this article at doi : 10.1074/jbe .
+M01 1488200 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 55 references , 30 of which can be accessed free at http : //www 610Z '01 Aepy uo 1san8 4g /S10-aqf / wroj ;

@@ -1,0 +1,666 @@
+MoLECULAR AND CELLULAR BroLOGY , Aug. 1997 , p. 4381-4389 0270-7306/97/ $ 04.00+0 Copyright © 1997 , American Society for Microbiology Vol .
+17 , No .
+8 GABP Factors Bind to a Distal Interleukin 2 ( IL-2 ) Enhancer and Contribute to c-Raf-Mediated Increase in IL-2 Induction ANDRIS AVOTS , ** ANGELIKA HOFFMEYER , ° EGBERT FLORY , `` ALEXANDER CIMANIS , `` ULF R. RAPP , `` anp EDGAR SERFLING'* Department of Molecular Pathology , Institute of Pathology and Institute of Medical Radiation Research and Cell Biology , `` University of Wiirzburg , D-97080 Wiirzburg , Germany , and Biomedical Research and Study Center , University of Latvia , LV-1067 Riga , Latvia® Received 14 January 1997/Returned for modification 21 February 1997/Accepted 29 April 1997 Triggering of the T-cell receptor-CD3 complex activates two major signal cascades in T lymphocytes , ( i ) Ca**-dependent signal cascades and ( ii ) protein kinase cascades .
+Both signal cascades contribute to the induction of the interleukin 2 ( IL-2 ) gene during T-cell activation .
+Prominent protein kinase cascades are those that activate mitogen-activated protein ( MAP ) kinases .
+We show here that c-Raf , which is at the helm of the classic MAP-Erk cascade , contributes to IL-2 induction through a distal enhancer element spanning the nucleotides from positions -502 to -413 in front of the transcriptional start site of the IL-2 gene .
+Induction of this distal IL-2 enhancer differs from induction of the proximal IL-2 promoter-enhancer , since it is induced by phorbol esters alone and independent from Ca** signals .
+In DNA-protein binding studies , we detected the binding of transcription factors GABPa and -B to a dyad symmetry element ( DSE ) of the distal enhancer , which is formed by palindromic binding sites of Ets-like factors .
+Introduction of point mutations suppressing GABP binding to the DSE interfered with the induction of the distal enhancer and the entire IL-2 promoter-enhancer , while overexpression of both GABP factors enhanced the IL-2 promoter-enhancer induction .
+Overexpression of BXB , a constitutive active version of c-Raf , and of further members of the Ras-Raf-Erk signal cascade exerted an increase of GABP-mediated promoter-enhancer induction .
+In conjunction with previously published data on c-Raf-induced phosphorylation of GABP factors ( E. Flory , A. Hoffmeyer , U. Smola , U. R. Rapp , and J. T. Bruder , J. Virol .
+70:2260-2268 , 1996 ) , these results indicate a contribution of GABP factors to the Raf-mediated enhancement of IL-2 induction during T-cell activation .
+The induction of interleukin 2 ( IL-2 ) transcription is a hallmark of activation of peripheral T lymphocytes .
+It is initiated by the interaction of processed antigens presented in the context of major histocompatibility complex proteins with the T-cell receptor ( TCR ) -CD3 complex .
+The triggering of the TCR complex instantly induces numerous tyrosine protein phospho-rylations and an immediate increase in intracellular Ca** in T cells ( for a recent review , see reference 6 ) .
+The increase in intracellular Ca** , which was caused by an influx of extracellular Ca** and mobilization of Ca** from intracellular stores , plays a key role in the activation of T cells and IL-2 expression .
+Inhibition of enzymatic activity of the Ca** -calmodulin-depen-dent phosphatase calcineurin by the immunosuppressants cyclosporin A ( CsA ) and FK506 inhibits both T-cell activation and IL-2 expression ( 24 ) .
+NF-AT factors , which bind to and control the promoters of numerous lymphokine genes in T lymphocytes , are the major targets of Ca**-dependent signaling pathways in the induction of the IL-2 gene ( 31 ) .
+The inactive cytosolic NF-AT proteins are bound by calcineurin , de-phosphorylated , and , in a complex with calcineurin , translocated into the nuclei of T cells , in which calcineurin appears to stimulate NF-AT-mediated transcription by counteracting an NF-AT protein kinase ( 41 ) .
+Prominent protein tyrosine kinases ( PTKs ) , whose activity is induced by triggering the TCR complex , are members of the src kinase family p56 `` ~* and p59 `` , as well as the syk-like kinase ZAP-70 ( 6 ) .
+One downstream , indirect target of PTKs is the * Corresponding author .
+Mailing address : Institute of Pathology , Josef-Schneider-Str .
+2 , D-97080 Wiirzburg , Germany .
+Phone : 49 0931 201 34 29 .
+Fax : 49 0931 201 34 29 ( or 34 40 ) .
+4381 GTP-binding protein p21 `` * `` .
+Active p21 `` `` was shown to be essential for the signal transfer from the TCR to the nuclei of T cells , resulting in the activation of the human IL-2 promoter ( 6 ) .
+c-Raf is a direct target of p21 `` and becomes transiently translocated to the cell membrane after its interaction with Ras ( see reference 32 for a review ) .
+In T cells , triggering of the TCR results in the activation of c-Raf ( 26 , 42 ) and Erk-2 ( 14 , 51 ) , an extracellular signal-regulated kinase of the mitogen-activated protein ( MAP ) kinase family .
+Other members of the family of MAP kinases which might be involved in the induction of IL-2 promoter in T cells are the JNK-SAP kinases .
+Like the induction of IL-2 synthesis , the triggering of Jurkat cells through the TCR-CD3 complex and CD28 coreceptor resulted in a CsA-sensitive induction of JNK activity ( 43 ) , suggesting a role for JNK/SAP kinases in IL-2 induction .
+The promoters of human and murine IL-2 genes have been studied extensively and are defined as DNA segments of approximately 275 bp whose activity determines faithful IL-2 expression ( see reference 39 for a recent review ) .
+The IL-2 promoter harbors several binding sites for transcription factors which control T-cell-restricted induction of the IL-2 gene .
+Prominent transacting factors of the IL-2 promoter are the NF-AT- , NF- « B- , octamer- , and AP-1-like factors .
+Although all of these factors are also expressed in nonlymphoid cells , NF-AT and NF- « B factors are expressed in higher concentrations in lymphoid cells .
+The enhanced levels and the predominant Ca**-dependent activation of NF-AT factors in T cells , which is supported by the interplay with other factors , result in a strong T-cell-specific induction of the IL-2 promoter .
+Other experimental data indicate that the IL-2 promoters do not harbor all of the sequence elements required for the correct transcriptional control of IL-2 gene expression .
+In only 1 4382 AVOTS ET AL .
+of 17 lines of transgenic mice carrying IL-2 promoter-lacZ reporter genes , the reporter gene was induced in an inducible and T-cell-specific manner ( 3 ) .
+This implies that DNA sequences outside the IL-2 promoter might also be involved in the control of IL-2 expression .
+Such sequences could correspond to the DNA segments highly conserved between humans and mice , which span up to 2 kb of the 5 ' region of IL-2 genes ( 15 , 25 ) .
+When DNA segments from this region of the murine IL-2 gene were tested in transient transfections , a DNA segment spanning the nucleotides from -578 to -321 ( -578/ -321 ) enhanced induction of the proximal promoter-enhancer 25 ) .
+( 121 this study , we show that a DNA segment from the upstream region of the human IL-2 gene , spanning the nucleotides from -502 to -413 ( -502/-413 ) , contains an inducible transcriptional enhancer .
+This distal enhancer overlaps with a DNase I-hypersensitive region which was found to be structurally distorted in T cells but not in other cells ( 34 ) .
+In contrast to the proximal IL-2 promoter , the activity of the distal enhancer is stimulated by phorbol esters alone , whereas an increase in Ca** had a marginal effect on its induction .
+The induction of the distal enhancer is controlled by the transcription factors GABPa and -B , which interact with two Ets-like binding motifs of palindromic configuration .
+Overexpression of several active members of the Ras-Raf-Erk signaling cascade stimulated GABP-mediated induction of the distal enhancer , while overexpression of dominant-negative members of this signaling cascade interfered with GABP -mediated induction of the distal enhancer .
+These and further data concerning Raf-mediated phosphorylation of GABP factors ( 10 ) and increase of IL-2 secretion ( 26 ) indicate that the GABP factors binding to the distal IL-2 enhancer contribute to Ras-Raf-Erk-medi-ated induction of IL-2 expression .
+MATERIALS AND METHODS Cells , DNA transfections , CAT assays , and measurement of IL-2 secretion .
+Human Jurkat T leukemia cells and A 3.01 T lymphoma cells were grown in RPMI medium supplemented with 5 % fetal calf serum to a density of 2 x 10° cells per ml .
+The cells were transfected according to a standard DEAE-dextran transfection protocol ( 30 ) or the DMRIE-C ( GIBCO ) transfection protocol according to the manufacturer 's instructions .
+Cotransfections were done with cDNA vectors for overexpression of dominant-negative and constitutive-active versions of Ras ( RasN17 and v-H-Ras , respectively ) ( 2 ) and Raf-1 ( C48 and BXB , respectively ) ( 5 ) .
+The expression vector for Erk-2 as well as the SxTREcoll-tkCAT and 4xTREjun-tkCAT constructs have also been described elsewhere ( 16 , 47 ) .
+At 20 h after transfection , the cells were divided .
+One part of the cells was used as an uninduced control , while the other parts of the cultures were induced for 20 to 24 h as indicated in the figure legends ( e.g .
+, see Fig .
+2 ) .
+The cells were lysed , chloramphenicol acetyltransferase ( CAT ) assays were per-formed , and the percentages of acetylated chloramphenical were measured with a PhosphorImager .
+DNA cloning .
+A 3.2-kb EcoRI fragment spanning the nucleotides from positions -1955 to approximately +1200 ( -1955/+1200 ) of the genomic human IL-2 gene was excised from the lambda clone Charon 4A-IL32 ( 15 ) and used for the construction of thymidine kinase ( tk ) CAT plasmids with pBLCATS3 ( 2a ) .
+Plasmid -499/+5 containing the proximal and distal enhancers was synthesized by PCR .
+The proximal enhancer construct -326/+5 was obtained by subsequent digestion with XmnI .
+The constructs -583/-164 and -583/-326 were constructed by digestion with Real ( cutting at -583 ) and Drel ( cutting at -164 ) or XmnI , respectively .
+Plasmid -583/+5 was obtained by ligation and cloning of -326/+5 and -583/-326 segments into The distal enhancer segment -502/-413 was synthesized by PCR followed by cloning in pBLCAT5 .
+The IL-2 segments of all constructs were sequenced .
+The following constructs containing further upstream DNA segments ( see Fig .
+1 ) were obtained by cloning of DNA restriction fragments : -682/-582 , Ddel fragment ; -913/-682 , Ddel fragment ; -1018/-582 , HindIWW/Xbel fragment ; -1018/-969 , Mval fragment ; -1326/-1011 , Hinfl fragment ; -1525/-1326 , Hinfl fragment ; -1731/-1524 , Hin { l/Seu3A fragment ; and -1957/-1731 , Sau3A fragment .
+The -1976/-1902 fragment was synthesized by PCR .
+Mutations into the protein binding sites of the distal enhancer ( -502/-413 ) or the entire 5 ' region ( -499/+5 ) were introduced with a site-directed mutagenesis system ( Amersham [ version 2 ] ) and the following oligonucleotides : Octy , ( -502 ) gattT ATGCG GTTAG CTCAT ( -487 ) ; GATAy , ( -489 ) CATTG Mor .
+CELL .
+BioL .
+TGTCC ATAAA AAGGT ( -470 ) ; ERE-Ay , ( -445 ) AATAC ACTTG GT GTT TAATC ( -426 ) ; and ERE-By , ( -461 ) T CTGAA ACACC AAACC AATA ( -442 ) .
+The following CAT constructs containing multiple copies of dyad symmetry element ( DSE ) and Ets-related element ( ERE ) motifs were con-structed : 4xDSE ( from -424 to -462 [ all four copies cloned in the Xbel site of pBLCATS opposite to the direction of CAT gene transcription ] ) , 4xDSE-A , , ( all copies opposite to the transcription direction ) , 4xDSE-B , , , ( the most proximal and distal copies in the orientation of transcription and the two inner copies in the opposite orientation ) , 4xDSE-A , , +B , ( all copies in the direction of transcription ) , 5xERE-A DNA ( from -426 to -445 [ cloned in the Xbel site of pBLCATS in the orientation of transcription ] ) , SxERE-A , , ( four copies in the direction of transcription and the most proximal in the opposite ) , SXERE-B ( from -442 to -461 [ all copies were cloned opposite to the direction of transcription ] ) , and ERE-B , , , ( copies one , three , and four-relative to the transcriptional start site-were cloned in the direction opposite to that of transcription and the others were cloned in the direction of transcription ) .
+DNA-protein binding and other analyses .
+Crude nuclear protein extracts were prepared according to the method described by Schreiber et al .
+( 37 ) , with the exception that Nonidet P-40 was omitted and nuclei were prepared by passing the cells 10 times through an injection needle ( 26G3/8 ) .
+In electrophoretic mobility shift assays ( EMSAs ) , 4 pg of nuclear proteins was preincubated with 2 ug of poly ( dI » dC ) as unspecific competitor on ice for 10 min .
+A total of 5,000 cpm ( equivalent to approximately 0.2 ng ) of a *°P-labelled oligonucleotide probe was added , and the samples were incubated for 15 min on ice and fractionated on 5 % native polyacrylamide ( PAA ) gels in 0.4 % Tris-borate-EDTA buffer at room temperature ( 36 ) .
+The gels were dried and exposed for autoradiography .
+The following oligonucleotides were chemically synthesized and used in the EMSAs as probes and competitors : DSE , ( -462 ) TTCTGAA ACAGG AAACC AATAC ACTTC CTGTT TAATC AA ( -424 ) ERE-A , ( -445 ) AATAC ACTTC CTGTT TAATC ( -426 ) ERE-B , ( -461 ) T CTGAA ACAGG AAACC AATA ( -442 ) ; and 2xERE-A : A GACTT TGTCC TTTGG TATAC ACTTC CTGTT AATC ( -426 ) .
+The sequences of ERE mutations ERE-Ay and ERE-By , are shown above .
+In supershift EMSAs , 1 ug of polyclonal antibodies was added to the complete binding reaction mixture , which was preincubated for 25 min on ice ( see above ) , in parallel with the same amount of preimmune serum , and incubated for a further 20-min period on ice .
+In preclearing experiments , 10 pg of nuclear proteins from Jurkat cells was diluted in 50 pl of 1 % binding buffer ( 36 ) and incubated on ice for 2 h with 2.5 pg of polyclonal antibodies raised against GABP factors .
+A 10-ul volume of protein A agarose beads ( GIBCO ) washed in binding buffer was added as a 50 % suspension .
+The slurry was incubated at 4°C for 3 h with gentle rotation followed by a brief centrifugation .
+The supernatants were collected and used in EMSAs .
+In EMSA-Western blot experiments ( 7 , 9 ) , binding reactions were scaled up 10-fold , and , for more efficient complex formation , a 500-fold molar excess of unlabelled probe was added .
+After electrophoresis on a preparative 5 % native PAA gel , the complexes were electrotransferred onto a nitrocellulose BA85 filter ( first filter to which the protein was bound ) and a DE81 filter paper ( second filter to which the released DNA was bound ) .
+The wet DE81 filters were exposed for autoradiography , while the nitrocellulose filters were processed as described for Western blot assays ( 35 ) .
+The ECL system ( Amer-sham ) was used for immunodetection .
+In DNase I footprint protection assays , whole protein extracts from El4 cells induced for 3 h with tetradecanoyl phorbol acetate ( TPA ) -concanavalin A ( ConA ) were used after fractionation by heparin-agarose column chromatogra-phy .
+Pooled proteins of 0.2 and 0.4 M KCI fractions were used in the assays as described previously ( 40 ) .
+In Cu®*-phenanthroline footprint assays , 5'-end-la-belled oligonucleotide probes were used .
+The assays were performed in situ by incubating the EMSA gel in the Cu®*-phenanthroline cleavage reagents as described elsewhere ( 19 ) .
+Antibodies .
+GABPa and B1 proteins were bacterially expressed according to the method described by Thompson et al .
+( 45 ) , purified , and used for the generation of polyclonal antibodies in rabbits ( 10 ) .
+In Western blots , incubations of transferred nuclear proteins with anti-GABPa and -81 antibodies gave rise to one band of the expected size ( unpublished results ) .
+Antibodies raised against Ets-1 and Ets-2 ( sc-112 ) , PEA3 ( se-113 ) , Erk-1 ( se-93 ) , Erk-2 ( se-154 ) , and JNK1 ( sc-474 ) were purchased from Santa Cruz Biotechnology , Inc. Antibodies directed against recombinant Elk-1 , Elf-1 , and NFATp were kind gifts of A. Nordheim , J. Leiden , and A. Rao , respectively .
+RESULTS The activity of a distal IL-2 enhancer is controlled through binding sites for Ets-like transcription factors .
+Jurkat T cells were transfected with IL-2-tkCAT reporter constructs bearing various DNA segments from the conserved 5 ' region of the human IL-2 gene .
+As it can be seen in Fig .
+1 , a segment spanning the upstream nucleotides from positions -499 to +5 ( -499/+5 ) showed approximately 50 % more inducible activity than the proximal -326/+5 segment which is thought to har- Vor .
+17 , 1997 GABP FACTORS CONTROL A DISTAL IL-2 ENHANCER 4383 A ) % homology , human/mouse CAT-activity , fold over vector [ ] c1o18-969 ) 2 10 ] ( 52441326 ) [ _- om14524 ) ~~ [ _ ] FIG .
+1 .
+A transcriptional enhancer is located within the -502/-413 DNA segment of the human IL-2 gene .
+( A ) The upstream sequences of human and murine IL-2 genes are highly conserved .
+The scheme shows the sequence homologies between the human and murine IL-2 genes ( 15 , 25 ) as percentages of homology in a window of 10 nucleotides .
+( B ) Activities of various DNA segments from the 5 ' region of the human IL-2 gene after transfection into Jurkat cells .
+CAT constructs containing the indicated DNA segments in front of the tk promoter in pBLCATS5 ( 2 ) were transfected into Jurkat cells .
+At 20 h after transfection , the cells were divided .
+One-half of the cells was used as an uninduced control ( W/O ) ; the other half was induced by TPA ( 20 ng/m ! )
+and ionomycin ( 0.5 M ) ( T+1 ) for 20 h. bor the majority of IL-2 promoter-enhancer DNA sequences .
+In addition , fragment -583/-164 , which contains more upstream DNA but lacks the immediate proximal DNA , was even stronger than the former DNA fragments .
+To identify the DNA motifs responsible for this increase in activity , we used fragments -583/-326 and -502/-413 in transfections .
+Since transfection of the -502/-413 fragment resulted in approximately the same , albeit less-inducible , activity as that with the former longer fragment , we focused our attention on this fragment .
+The activity of the -502/-413 DNA segment was stronger than the activity of most of the other DNA segments from the conserved region upstream of the IL-2 promoter ( Fig .
+1 ) .
+In two copies , the inducible activity of the -502/-413 segment was almost as strong as the induction of the IL-2 promoter spanning about 100 bp more DNA ( Fig .
+2A ) .
+However , in contrast to induction of the proximal IL-2 promoter in Jurkat cells , which requires treatment of cells with TPA and ionomycin , TPA treatment alone induced the full activity of the -502/ -413 segment .
+TPA and ionomycin treatment led only to a slight increase of induction , while similarly to the promoter induction , ConA , ionomycin , or forskolin treatment alone were without any stimulatory effect on this distal element ( Fig .
+2A ) .
+Since the -502/-413 element was also active from a position downstream of the CAT reporter gene ( Fig .
+2B ) , it is able to act as a transcriptional enhancer , and , for simplicity , we designate it the distal IL-2 enhancer , in contrast to the proximal IL-2 promoter .
+Induction of the IL-2 promoter by TPA plus ionomycin is efficiently suppressed by 100-ng/ml CsA and impaired by forskolin ( 39 ) .
+Both compounds did not affect the induction of the distal enhancer ( Fig .
+2A ) .
+This shows that the distal enhancer differs distinctly in its induction properties from the proximal promoter .
+The distal enhancer contains potential binding sites for oc- tamer factors around position -495 , GATA factors at -480 , and two sites for the binding of Ets-like factors , which were designated EREs , at -450 and -435 ( Fig .
+3C ) .
+The EREs form a DSE .
+In DNase I footprint experiments with whole cellular protein extracts enriched by heparin-agarose chroma-tography , these motifs were protected by DNA-binding proteins from T cells ( Fig .
+3A and B ) .
+Introduction of point mutations into the ERE sites suppressing factor binding had a suppressive effect on enhancer induction .
+A moderate suppression was observed when point mutations were introduced into the GATA site , while mutation of the octamer site did not lead to a suppression of enhancer induction ( Fig .
+2C ) .
+This shows that the factor ( s ) binding to the EREs is important for the transcriptional activity of the entire distal enhancer .
+The palindromic configuration of EREs is very important for the full activity of the distal enhancer .
+Multimers of DSE containing the EREs in the natural palindromic configuration showed a strong induction in Jurkat cells , while multimeric EREs carrying direct ERE repeats were only poorly active .
+Mutations of GG nucleotides within the GGAA core in one of both EREs had a deleterious effect on the induction of tkCAT reporter genes under the control of DSE multimers ( Fig .
+4A ) .
+Mutations within one ERE motif ( ERE-Am ) exerted a moderate negative effect on the activity of the IL-2 promoter-enhancer region .
+This is shown in Fig .
+4B , in which the activity of the IL-2 wild-type promoter spanning nucleotides from -583 to +5 is compared with the activity of the same promoter but mutated in the ERE-A motif .
+The IL-2 promoter containing a mutated ERE motif ( ERE-Ay , ) shows approximately 75 % of the constitutive and inducible activity of the wild-type promoter .
+This indicates that the factors binding to the ERE motifs contribute to the overall activity of the IL-2 promoter in T cells .
+The EREs of the distal enhancer are bound by the transcription factors GABPa and GABPRB .
+Incubation of the DSE 4384 AVOTS ET AL .
+Mor .
+CELL .
+BioL .
+10 B ) 30 [ ] 326/+5 A 2x ( -502/-413 ) -499/+5 & C 5° E 3 3 3 E 5 € & 3 20 3 6 ] 3 & m a 101 bss sy boss ss sss 7 B ( % 4 2 0 T ConA T+ConA | T+L - TeleCsA T+LF | OF céxfé ‘ ob ~§¢ % ’ V ‘ § yh hs a & * 3° « * FIG .
+2 .
+Induction properties of the distal IL-2 enhancer .
+( A ) The distal IL-2 enhancer differs in its induction properties from the proximal IL-2 promoter .
+Jurkat cells were transfected with CAT constructs containing either one copy of the IL-2 promoter ( -326/+5 ) , two copies of the distal enhancer ( -502/-413 , cloned in the Xbal site of pBLCATS [ 2a ] in the orientation of transcription ) , or one copy of the -499/+5 DNA fragment containing the proximal and distal promoters-enhancers .
+At 20 h after transfection , the cells were treated with TPA ( T ) ( 20 ng/ml ) , ConA ( 5 pg/ml ) , ionomycin ( I ) ( 0.5 wM ) , forskolin ( F ) ( 5 mM ) , CsA ( 200 ng/ml ) , or combinations of these compounds as indicated .
+( B ) The distal ( dist ) IL-2 enhancer acts downstream from the CAT reporter gene .
+A tkCAT construct containing two copies of distal enhancer ( cloned into the Smal site of pBLCATS behind the CAT gene ) was transfected into Jurkat cells which were induced with TPA-ionomycin .
+( C ) Point mutations within the Ets-like ERE-A motif of the distal enhancer interfere with the activation of enhancer activity in T cells .
+CAT constructs containing two copies of wild-type enhancer ( WT ) or of enhancers with mutations within the octamer site ( Oct , , , ) , the GATA site ( GATA , , , ) , or the ERE-A motif ( ERE-A , , , ) , were transfected in parallel into Jurkat cells which were induced by TPA-ionomycin for 20 h. with nuclear proteins from uninduced or induced Jurkat cells plex formation [ see lanes 7 to 10 ] ) .
+Complexes II , III , and IV generated four large , prominent complexes in EMSAs , which were also generated with single EREs , while complex I was were designated complexes I , II , III , and IV ( Fig .
+5A ; a further specific for the DSE ( Fig .
+5 and 6 ) .
+The generation of complex prominent , faster running complex is due to unspecific com- I depends on the palindromic configuration of EREs within the A ) BSA - El4+ B ) BSA _- El4+ Pu12 ” 7345 Pu 1 2 34 5 -450 > 433° 470+ * * f -420 * ~478 > sar -se so so an aso e sof ( 5 ) TATGCAATTAGCTCATTGTGTGGATAAAAAGGTAAAACCATTC e ( 3 ' ) ATACGTTAATCGAGTAACACACCTATTTTTCCATTTTGGTAAG `` L_ ] noma ] fortes c Oct GATA F a_ `` e > FREA -450 £200 -417 g « C raped = -- - ~500 » `` TGAAACAGGAAACCAATACACTTCCTGTTTAATCAACAAATCT ( 3 ) ACTTTGTCCTTTGGTTATGTGAAGGACAAATTAGTTGTTTAGA ( 5 ) me* '- TREB FIG .
+3 .
+Detection of factor binding to the Oct , GATA , and Ets-like ERE motifs in DNase I footprint protection assays .
+DNA fragments ( -583 to -326 ) containing the distal enhancer were labelled at either position -326 ( A ) or position -583 ( B ) and incubated with 25 , 50 , or 100 pg ( lanes 3 to 5 ) of protein extracts from TPA-induced El4 cells fractionated on a heparin-agarose column .
+In the control lanes 1 and 2 , the probe was incubated with 25 and 50 g of bovine serum albumin ( BSA ) , respectively , and subjected to DNase I cleavage .
+Pu , purine-specific sequencing reactions .
+Only parts of footprinting gels with the relevant factor binding sites are shown .
+( C ) Sequence of the distal IL-2 enhancer .
+The brackets indicate the footprints as detected over the factor binding sites in the DNase I footprint protection assays .
+Vor .
+17 , 1997 GABP FACTORS CONTROL A DISTAL IL-2 ENHANCER - 4385 A ) 30 _ ] a T+I+F bo & a pea & a ( uonepfare 4 ) W a* ee & C_s & F ¥ __ g V Na !
+bo tn j U w/o S T+I -- I 20 157 107 4 ) $ 90 $ wT ERE-Am-s & ( 583/45 ) - ( 5838 ) w 496 tr FIG .
+4 .
+The DSE-ERE motifs act as transcriptional enhancers .
+( A ) The DSE displays a strong inducible activity in Jurkat cells .
+The CAT constructs containing multiple copies of DSE and ERE motifs ( see Materials and Methods ) were transfected in parallel into Jurkat cells which were induced by TPA-ionomycin ( T+1 ) or additionally by forskolin ( T+I+F ) for 20 h. ( B ) The ERE-A site from the distal IL-2 enhancer contributes to the overall transcriptional activity of the IL-2 5 ' region .
+CAT constructs bearing either the 5 ' wild-type ( WT ) region ( -583/+5 ) or the same region but containing a defective ERE-A site ( ERE-Am ) were transfected into Jurkat cells which were induced with TPA-ionomycin for 20 h. W/O , without induction .
+DSE .
+When two EREs were fused to a tandem repeat , no complex I was generated , although the tandem repeat was of the size of the palindromic DSE ( data not shown ) .
+Competitions with an excess of unlabelled ERE-A or ERE-B oligonucleotide suppressed the generation of complexes I to IV , while competitions with EREs mutated in the two central G residues did not affect complex formation ( Fig .
+5A and 6A ) .
+Competitions with AP-1 ( TRE and UPS ) , octamer ( Oct and UPS ) , Ets ( NF- « 4 ) , and NF-AT sites were also without effect on complex formation ( Fig .
+5A , lanes 6 to 12 ) .
+The inability of Ets-NF- « 4 and NF-AT-Pu-b , oligonucleotides to compete for the factors binding to the ERE or DSE DNA suggests that neither typical Ets proteins , such as Ets-1 or Ets-2 , nor NF-AT proteins are components of ERE complexes .
+Typical ERE complexes were also generated in EMSAs by using nuclear proteins from several other T-cell lines , such as A 3.01 , HUT 78 , and El4 T lymphoma cells , and human peripheral T lymphocytes .
+One notable exception was Molt 4 T cells , which contain very low levels of complex I to IV proteins but rather Pu.1-SpiB-like proteins , which bind to the ERE motifs ( 1 ) .
+The DNA cleavage patterns of DSE and ERE complexes in Cu `` *-phenanthroline footprint assays indicate a tight binding of complex II to IV proteins to five ( or six ) nucleotides around the GGAA core .
+For the complex I proteins , more nucleotides were found to be contacted ( Fig .
+5B ) .
+This suggests that additional proteins are components of large complex I .
+To determine which transcription factors are part of ERE complexes , a panel of antibodies raised against Ets-like and NF-AT factors was used in supershift EMSAs .
+Neither antibodies raised against Ets-1 or Ets-2 or Elk ( Fig .
+6B ) nor against Elf-1 , PEA3 , or NF-ATp ( not shown ) reacted with the ERE complexes .
+However , antibodies raised against the GABPa and -B specifically suppressed the generation of complexes II to IV when they were added to EMSAs ( Fig .
+6B ) or in preclearing assays ( Fig .
+6C ) .
+In EMSA-Western blot assays , anti-GABPa antibodies reacted with almost all ERE complexes , including the huge complex I and complex VI , a fast-migrating complex ( Fig .
+6D , lanes 3 and 4 and 11 to 14 ) .
+GABP $ B antibodies reacted preferentially with complexes I and III ( Fig .
+6D ) .
+These results indicate that the GABP factors are the most prominent proteins binding to the ERE-DSE motifs .
+c-Raf enhances IL-2 induction through GABP factors .
+Cotransfections of CAT reporter genes controlled by multiples of the DSE or distal enhancer with GABPa and -B expression vectors into Jurkat cells and A 3.01 T cells resulted in a distinct increase in CAT activities .
+As shown in Fig .
+7A , a 5-fold increase was detected for the induction of DSE , and a 2.2-fold increase was detected for distal enhancer induction ( Fig .
+7A ) .
+Mutations within one of both ERE motifs abolished any induction , indicating the important functional role of GABP binding for induction of the distal enhancer .
+When in the same cells the effect of GABPs on the induction of the entire IL-2 promoter-enhancer region was investigated , a weak ( 1.5- to 2-fold ) increase in induction was observed .
+However , this effect could be enhanced 2-fold by cotranfection of a vector overexpressing BXB , a constitutive-active version of c-Raf ( Fig .
+7A ) .
+Mutation of one GABP binding site abolished GABP-mediated increase of IL-2 promoter-enhancer activity and impaired the stimulatory effect of Raf-BXB ( Fig .
+7A ) .
+These data indicate that the c-Raf-mediated increase of IL-2 induction is partially mediated through the GABP factors binding to the distal IL-2 enhancer .
+To substantiate the observed effect of c-Raf on GABP-mediated enhancer activity , we cotransfected the 4xDSE-tkCAT construct into Jurkat cells with several cDNA vectors overexpressing various members of the Ras-Raf-Erk signaling cas-cade .
+These were cither dominant-negative versions of Ras ( RasN17 ) and c-Raf ( Raf-C4B ) or constitutive-active versions of Ras ( v-H-Ras ) and c-Raf ( Raf-BXB ) .
+In addition , a vector overexpressing wild-type Erk-2 was transfected .
+As shown in Fig .
+7B , overexpression of all active versions of signaling molecules led to a distinct increase in inducible DSE activity , whereas dominant-negative Raf ( Raf-C4B ) reduced DSE ac 4386 AVOTS ET AL .
+Mor .
+CELL .
+BioL .
+G RFP I H II IV a ¢ « * a n r FFZFLZZZZELE I- « se « me G R FP I H MIV frve __ non xe .433-\s _ ... _454-.——= II - { - -enasnao08 « wor poe woe & mndpanh A -447 + ain -- = .116° GD ~ `` az *~ Shau..- -- as - Smail .._ Efe : yess 2. i “ - _ -439° aam = ch ; wite .~ 71:33 re 436+ M @ : .G -435° CtP 102 % 3 4 5 60 70 80 9 10 11 12 1 2 % 3 4 5 6 7 1 2 % 3 4 5 6 7 C ) -262-4.160 cuFT CEG .
+GAA GACTT .
+_/ r DSE FIG .
+5 .
+Binding of nuclear proteins from Jurkat cells to the ERE motifs of palindromic DSE .
+( A ) EMSAs .
+A 4-ug amount of nuclear proteins from uninduced Jurkat cells ( lane 2 ) or cells induced for 3 h with TPA-ionomycin ( lanes 1 and 3 to 12 ) were incubated with a DSE oligonucleotide probe ( lanes 2 to 12 ) or an ERE-A probe ( lane 1 ) followed by electrophoresis on a 4 % native PAA gel .
+For specific competition , a 100-fold molar excess of the following oligonucleotides was added : ERE-A ( lane 4 ) , ERE-B ( lane 5 ) , mutant ERE-Ay , ( lane 6 ) , mutant ERE-By , ( lane 7 ) , a TRE consensus site of human collagenase promoter ( lane 8 [ 47 ] ) , the upstream promoter site ( UPS ) of the IL-2 promoter , i.e .
+, a composite AP-1-octamer site ( lane 9 [ 27 ] ) , the distal purine box of the murine IL-2 promoter , a NF-AT binding site ( lane 10 , [ 30 ] ) , NF-a4 , an Ets-binding site from the murine TCR « -chain promoter ( lane 11 [ 22 ] ) , and a consensus octamer binding site ( lane 12 ) .
+The DSE-specific complexes I , II , III , and IV and the free probe ( FP ) are indicated .
+( B ) Cu®*-phenanthroline footprint assays .
+DSE probes labelled at the 5 ' ends of the upper ( left ) or lower ( right ) strands were incubated with nuclear proteins from induced Jurkat cells , fractionated on EMSA gels , and subjected to Cu * -phenantroline cleavage ( 19 ) .
+After electrotransfer onto DES1 paper , the transferred free probes ( FP ) and the complexes I to IV ( see panel A ) were eluted and fractionated on a 12 % PAA sequencing gel , along with G- and purine ( R ) -specific sequencing reactions .
+The G residues and the GGAA core motifs within the DSE DNAs are indicated .
+( C ) Compilation of binding of nuclear proteins to the DSE DNA .
+Thick brackets , binding of complexes II to IV ; thin brackets , binding of complex I to DSE DNA as detected in the Cu®*-phenantroline footprint assays ( see panel B ) ; arrows , palindromic ERE motifs ; boldface , core of GABP binding motifs .
+tivity drastically .
+These data suggest an important role for the Ras-Raf-Erk signaling cascade in induction of GABP factors binding to and controlling the distal IL-2 enhancer in T cells .
+DISCUSSION In this work , we have identified a distal IL-2 enhancer which is located within the highly conserved upstream region of the human IL-2 gene .
+Due to the binding of transcription factors GABPa and -B , the induction conditions of the distal enhancer differ from those of the proximal IL-2 promoter .
+One may assume that external signals transferred through the classical Ras-Raf-Erk MAPK cascade on the GABP factors contribute to induction of the IL-2 promoter during T-cell activation .
+GABPa and -B have originally been described as factors controlling the immediate early gene activation of herpes simplex virus type 1 ( 20 , 21 , 45 ) .
+GABP factors have also been described to control numerous other promoters , including the cytochrome oxidase promoter ( 13 , 48 ) .
+However , there are only a few reports of GABP factors as regulators of lymphoid-specific genes .
+It has been shown that GABPa and -B bind to the IL-2 receptor B-chain promoter in T cells ( 23 ) .
+GABP factors control the activity of the human immunodeficiency virus long terminal repeat promoter in Jurkat cells ( 10 ) .
+GABP -like complexes were also generated in EMSAs of B-cell proteins with Ets-like binding sites of immunoglobulin promoters ( 38 ) , and the interplay between GABPs and the Ets-factor PU.1 might control immunoglobulin expression and the weak activity of the IL-2 promoter in some B-cell lines ( 1 ) .
+These findings suggest an important role of GABP factors in gene control in hematopoietic cells , in which they are expressed at high concentrations .
+GABPa is a 55-kDa protein which belongs to the Ets family of transcription factors ( see references 17 and 50 for reviews ) .
+Although it is known that Ets factors play an important role in the transcriptional control of TCR genes ( 22 ) , it is unclear whether they play a similar important role in the control of cytokine promoters in T cells .
+One notable exception is Elf-1 , which , in cooperation with NF-kB factors , was shown to control the activation of the IL-2 receptor « -chain promoter ( 18 ) and , along with AP-1 , the granulocyte-macrophage colony-stimulating factor promoter ( 49 ) .
+In a similar way , Elf-1 appears to control IL-3 promoter activity ( 12 ) .
+Although the promoters of several other interleukin genes , including the IL-2 promoter , contain numerous Ets-like binding sequences Vou .
+17 , 1997 GABP FACTORS CONTROL A DISTAL IL-2 ENHANCER - 4387 ERE-A A ) C ) - ERE-A ERE-B ERE-Apy - ERE-By Oct E +Ti +TA _| +TVCsA ( -t | - PL « 8 | Pla 8 [ Pla 6|PI a 8 |Pla B| Plo B ® « -- - W A4 ; - * way se » san amin @ * o « ae a “ -.~ .
+# on db 10 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 1 2 3 4 5 6 7 8 9 10111213141516171819 B ) 2 8 D ) ” PI RCL | 32p ECL I & s e @ A G a « | B B « « a « a|n g B B 1 P- tug ws `` ts 1 2 3 4 5 6 7 123456739101112131415161718 FIG .
+6 .
+GABPa and GABPB factors bind to the palindromic ERE-DSE motifs of the distal IL-2 enhancer .
+( A ) Detection of specific protein binding to the ERE-A site .
+ERE-A probes were incubated with 4 g of nuclear proteins from induced Jurkat cells .
+For competition , the following amounts of unlabelled oligonucleotides were added : a 50- , 100- , 250- , and 500-fold molar excess of ERE-A ( lanes 2 to 5 , respectively ) ; a 50- , 100- , 250- , and 500-fold excess of ERE-B ( lanes 6 to 9 , respectively ) ; a 100- , 250- , and 500-fold excess of mutant ERE-Ay , ( lanes 10 to 12 , respectively ) ; a 100- , 250- , and 500-fold excess of mutant ERE-By , ( lanes 13 to 15 , respectively ) ; and a 250-fold excess of an octamer consensus site ( lane 16 ) .
+( B ) EMSAs with antibodies raised against GABP factors .
+Nuclear proteins from induced Jurkat cells were incubated on ice for 10 min before the addition of probe .
+After a further incubation for 15 min , 1 pl ( 1 mg of protein ) of the following polyclonal rabbit antibodies was added : preimmune ( PT ) serum 1 ( lane 2 ) anti-GABPa ( lane 3 ) , ( lane 4 ) , anti-Ets-1-Ets-2 ( sc-112 [ Santa Cruz } ) ( lane 5 ) , preimmune serum 2 ( lane 6 ) , and anti-Elk-1 ( 166 .
+« D ) ( lane 7 ) .
+In lane 1 , no antibody was added .
+( C ) Preclearing experiments with antibodies specific for GABP factors .
+Nuclear proteins from uninduced Jurkat cells ( lanes 2 to 4 and 11 to 13 ) or cells induced by TPA-ionomycin ( TT ) in the absence ( lanes 1 , 5 to 7 , and 14 to 16 ) or presence ( lanes 8 to 10 and 17 to 19 ) of CsA were incubated with GABP-specific antibodies followed by incubations with protein A agarose beads and , after a short centrifugation , with ERE-A ( lanes 1 to 10 ) or ERE-B ( lanes 11 to 19 ) probes in EMSAs .
+( D ) Detection of GABPa and GABPB binding to the ERE-DSE motifs in EMSA-Western blot experiments .
+ERE-A ( lanes 1 and 2 ) - , DSE ( lanes 7 and 8 ) - , DSE-Am- ( lane 9 ) - , and DSE-Bm ( lane 10 ) -protein complexes generated after incubation with nuclear proteins from induced Jurkat cells and fractionated on a preparative native 5 % PAA gel were electrotransferred to nitrocellulose and DE81 membranes .
+In lanes 1 and 2 as well as 7 to 10 , autoradiographs of transferred and released *°P-labelled DNAs are shown .
+Lanes 3 to 6 and 11 to 18 show reactions of shifted and transferred proteins with GABPa ( lanes 3 , 4 , and 11 to 14 ) - and GABPL ( lanes 5 , 6 , and 15 to 18 ) -specific antibodies .
+The DSE-ERE-specific complexes are indicated .
+Except for complex VI , which seems to consist of GABPa proteins only , the other GABP-specific complexes I to IV consist of GABP heterodimers .
+ECL , enhanced chemiluminescence .
+to which Elf-1 is able to bind ( 44 ) , during T-cell activation these sites are bound by NF-AT factors which lack any sequence homologies with Ets factors .
+This does not exclude a role of Ets factors in lymphokine gene control .
+Overexpression of Ets-1 antisense RNA in Jurkat cells led to a pronounced increase in IL-2 synthesis and IL-2 promoter activity , suggesting a role for Ets-1 in the suppression of IL-2 transcription in unstimulated T cells , in which Ets-1 is strongly expressed ( 33 ) .
+The two highly related murine GABPB polypeptides GABPB1 and -2 , which are encoded by two unlinked genes ( 8 ) , contain tandem series of approximately 30 amino acids which share sequence homologies with the notch-ankyrin repeats of several other transcription factors .
+Although alone is unable to bind to DNA , it is required for the avid binding of GABP factors to their target sequence GCCGGAAGT ( 4 ) , which is often arranged in direct repeats .
+The GABP binding site within the ERE-A of the distal IL-2 enhancer shares 7 of 9 bp with the GABP consensus sequence , whereas the weaker binding site ERE-B shares only 5 bp with the consensus motif ( Fig .
+5C ) .
+However , these sequences are located approximately 15 bp apart in a palindromic configuration which is very important for the activity of the distal enhancer .
+Generation of the huge DNA-protein complex I is specific for the palindromic DSE probe , and it is very likely that the formation of this ( tetrameric ? )
+complex is important for the strong DSE induction .
+Tandemly arranged GABP binding sites have been detected in several other promoters ( see , e.g .
+, reference 13 ) , and the interaction between two and more heterodimeric GABP factors appears to be important for activation by these factors .
+The activity of many , if not all , members of the Ets family of transcription factors appears to be regulated by phosphoryla-tion .
+Mitogenic stimulation of thymocytes and Jurkat cells results in a Ca**-dependent phosphorylation of Ets-1 or Ets-2 protein ( 11 , 28 ) .
+Well-characterized Ets factors , whose activity is induced within seconds upon mitogenic stimulation of cells , 4388 AVOTS ET AL .
+o A ) C Vector I © GaBP & B G GABP & /B+BXB Fold activation Mor .
+CELL .
+BioL .
+UJ Ne/ ® Fold activation 0~ Activator : - Erk ?
+BXB Cab 4xDSE -- - 4xDSE -Am v-H-Ras - RasN17 Erk ?
+Reporter : FIG .
+7 .
+GABP factors contribute to c-Raf-mediated increase of IL-2 promoter-enhancer activity .
+( A ) Inhibition of GABP binding to the distal IL-2 enhancer impairs IL-2 induction .
+A 0.6-ug amount of tkCAT constructs containing four copies of the wild-type DSE ( 4xDSE ) , a mutated DSE ( 4xDSE-Am ) , two copies of the wild-type distal enhancer ( 2xDIST ) or of the distal enhancer mutated in the ERE-A ( 2xDIST-Am ) , or one copy of the IL-2 wild-type 5 ' region ( -583/+5 ) or the same fragment mutated in the ERE-A ( -583/+5-Am ) was cotransfected each with 1 ug of GABPa and -B expression vectors into A 3.01 T-lymphoma cells by using DMRIE ( GIBCO ) , without or with 1 pg of Raf-BXB expression vector as indicated .
+After 40 h , the cells were harvested and used for CAT assays .
+( B ) Ras-Raf-Erk proteins enhance the induction of GABP-mediated DSE activity .
+A 1-pg amount of DNA from 4xDSE-tkCAT or 4xDSE-Am-tkCAT constructs was cotransfected with 5 g of cDNA vectors overexpressing Erk-2 or constitutive-active versions of c-Raf ( Raf-BXB ) and Ras ( v-H-Ras ) or dominant-negative versions of c-Raf ( Raf-C4B ) and Ras ( RasN17 ) .
+After 20 h , the cells were induced with TPA for 24 h. The fold induction of CAT activity values were calculated as the activities of cells cotransfected with the various expression vectors versus the activities of cells transfected with the reporter gene alone .
+are Elk-1 and its relatives , SAP-1 and SAP-2 .
+Activation of the Erk , SAPK/JNK , and p38 MAPK pathways stimulates the rapid phosphorylation of several Ser residues within the C-terminal transactivation domains of these transcription factors ( see reference 46 for a recent review ) .
+These phosphorylation events facilitate ternary complex formation with the serum-responsive factor and induction of the c-fos promoter ( 29 ) .
+In Jurkat cells , the activity of GABP binding sites is also induced by stimuli of these MAPK pathways , in particular by the phorbol ester TPA ( Fig .
+2 ) and UV light ( 1 ) .
+Although we did not observe marked alterations in the DNA binding of GABP factors , i.e .
+, in the generation of complexes II to IV after TPA-ionomycin treatment , these or other stimuli could also facilitate the generation of larger GABP-containing complexes .
+One candidate for such a ternary complex is complex I , which contains GABP and , probably , additional proteins .
+To investigate the conditions for the generation of putative ternary GABP complexes , EMSAs with the DSE as a probe and nuclear proteins from Jurkat cells which have been induced with various stimuli are in progress .
+The stimulatory effect of constitutive active versions of Ras , c-Raf , and Erk-2 signaling molecules and the inhibition of GABP activity by C4b , a dominant-negative version of c-Raf , indicate that the GABP factors are targets of the Ras-Raf-Erk signaling cascade in T cells .
+This is strongly supported by the phosphorylation of GABP proteins by Erk-2 in vitro and , upon TPA-serum stimulation , in vivo ( 10 ) .
+Interestingly , UV light irradiation and methlyl methane sulfonate , which are strong inducers of SAPK/JNK and p38 kinases ( 46 ) , also enhance GABP-mediated activity and , in concert with TPA , exert a strong synergistic effect on GABP-mediated gene induction ( 1a ) .
+This suggests that the activity of GABP factors might be modulated not only by the classical Ras-Raf-Erk cascade but rather by the convergence of several signaling pathways on GABP transcriptional complexes .
+It remains to be shown in detail how the activation of these MAPK pathways contributes to IL-2 induction .
+ACKNOWLEDGMENTS We are indebted to Elke Leibold and Nona Pictrowski for excellent technical assistance .
+For critical reading of the manuscript , we thank Tan Johnston .
+For gifts of reagents , we thank P. Angel , C. Baldari , J. Leiden , P. Matthias , A. Nordheim , and J. L. Telford .
+We thank E. Grens ( Riga , Latvia ) for his interest and continuous support .
+This work was supported by the Sonderforschungsbereich 165 ( Wiirzburg , Germany ) of the Deutsche Forschungsgemeinschaft , the Wilhelm Sander-Stiftung , and the Volkswagenstiftung .
+A.A. was also supported by an EC grant for Cooperation in Science and Technology with Central and Eastern European Countries ( ERB-CIPA-CT-92-0108 ) .
+REFERENCES 1 .
+Avots , A .
+Unpublished results .
+la.Avots , A. , et al .
+Unpublished data .
+2 .
+Baldari , C. T. , A. Heguy , and J. F. Telford .
+1993. ras protein activity is essential for T-cell antigen receptor signal transduction .
+J. Biol .
+Chem .
+268:2693-2698 .
+2a.Boshart , M. , M. Kliippel , A. Schmidt , G. Schiitz , and B. Luckow .
+1992 .
+Reporter constructs with low background activity utilizing the cat gene .
+Gene 110:129-130 .
+3 .
+Brombacher , F. , T. Schiifé .
+Wei tein , C. Tschopp , E. Andersen , K. Burki , and G. Baumann .
+1994 .
+IL-2 promoter-driven lacZ expression as a monitoring tool for IL-2 expression in primary T cells of transgenic mice .
+Int .
+Immunol .
+6:186-197 .
+4 .
+Brown , T. A. , and S. L. McKnight .
+1992 .
+Specificities of protein-protein and protein-DNA interaction of GABPa and two newly defined ets-related proteins .
+Genes Dev .
+62502-2512 .
+5 .
+Bruder , J. T. , G. Heidecker , and U. R. Rapp .
+1992 .
+Serum- , TPA- , and Ras-induced expression from Ap-1/Ets-driven promoters requires Raf-1 ki-nase .
+Genes Dev .
+6545-556 .
+6 .
+Cantrell , D. 1996 .
+T cell antigen receptor signal transduction pathways .
+Annu .
+Rev .
+Immunol .
+14:259-274 .
+7 .
+Christianson , A. M. K. , and F. C. Kafatos .
+1993 .
+Antibody detection of protein complexes bound to DNA .
+Nucleic Acids Res .
+21:4416-4417 .
+8. de la Brousse , F. C. , E. H. Birkenmeier , D. S. King , L. B. Rowe , and S. L. McKnight .
+1994 .
+Molecular and genetic characterization of GABPB .
+Genes Dev .
+8:1853-1865 .
+9 .
+Demezuk , S. , M. Harbers , and B. Vennstrom .
+1993 .
+Identification and analysis of all components of a gel retardation assay by combination with immu-noblotting .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:2574-2578 .
+10 .
+Flory , E. , A. Hoffmeyer , U. Smola , U. R. Rapp , and J. T. Bruder .
+1996 .
+Raf-1 kinase targets GA-binding protein ( GABP ) in transcriptional regulation of Vor .
+17 , 1997 11 .
+12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+25 .
+26 .
+27 .
+28 .
+P 29 .
+30 .
+31. the human immunodeficiency virus type 1 promoter .
+J. Virol .
+70:2260-2268 .
+Fujiwara , S. , S. Koizumi , R. J. Fisher , N. K. Bhat , and T. S. Papas .
+1990 .
+Phosphorylation of the Ets-2 protein : regulation by the T-cell antigen receptor-CD3 complex .
+Mol .
+Cell .
+Biol .
+10:1249-1253 .
+Gottschalk , L. R. , D. M. Giannola , and S. G. Emerson .
+1993 .
+Molecular regulation of the human IL-3 gene : inducible T cell-restricted expression required intact AP-1 and Elf-1 nuclear protein binding sites .
+J. Exp .
+Med .
+178:1681-1692 .
+Gugneja , S. , J. V. Virbasius , and R. C. Scarpulla .
+1995 .
+Four structurally distinct , non-DNA-binding subunits of human nuclear respiratory factor 2 share a conserved transcriptional activation domain .
+Mol .
+Cell .
+Biol .
+15:102-111 .
+Izquierdo , M. , S. J. Leevers , C. J. Marshall , and D. Cantrell .
+1993. p21 ' `` `` * couples the T cell antigen receptor to extracellular signal-regulated kinase 2 in T lymphocytes .
+J. Exp .
+Med .
+178:1199-1208 .
+Jankevics , E. , G. Makarenkova , A. Tsimanis , and E. Grens .
+1994 .
+Structure and analysis of the 5° flanking region of the human interleukin-2 gene .
+Biochim .
+Biophys .
+Acta 1217:235-238 .
+Janknecht , R. , W. H. Ernst , V. Pingoud , and A. Nordheim .
+1993 .
+Activation of ternary complex factor Elk-1 by MAP kinases .
+EMBO J .
+12:5097-5104 .
+Janknecht , R. , and A. Nordheim .
+1993 .
+Gene regulation by Ets proteins .
+Biochim .
+Biophys .
+Acta 1155:346-356 .
+John , S. , R. B. Reeves , J.-X .
+Lin , R. Child , J. M. Leiden , C. B. Thompson , and W. J. Leonard .
+1995 .
+Regulation of cell-type-specific interleukin-2 receptor « -chain gene expression : potential role of physical interactions between Elf-1 , HMG-I ( Y ) , and NF-xB family proteins .
+Mol .
+Cell .
+Biol .
+15 : 1786-1796 .
+Kuwabara , M. D. , and D. S. Sigman .
+1987 .
+Footprinting DNA-protein complexes in situ following gel retardation assays using 1,10-phenanthroline-copper ion : Escherichia coli RNA polymerase-lac promoter complexes .
+Biochemistry 26:7234-7238 .
+LaMarco , K. , C. C. Thompson , B. P. Byers , E. M. Walton , and S. L. McKnight .
+1991 .
+Identification of Ets- and Notch-related subunits in GA binding protein .
+Science 253:789-792 .
+LaMarco , K. L. , and S. L. McKnight .
+1989 .
+Purification of a set of cellular polypeptides that bind to the purine-rich cis-regulatory element of herpes simplex virus immediately carly genes .
+Genes Dev .
+3:1372-1383 .
+Leiden , J. M. 1993 .
+Transcriptional regulation of T cell receptor genes .
+Annu .
+Rev .
+Immunol .
+11:539-570 .
+Lin , JX , , N. K. Bhat , S. John , W. S. Queale , and W. J. Leonard .
+1993 .
+Characterization of the human interleukin-2 receptor B-chain gene promoter : regulation of promoter activity by ets gene products .
+Mol .
+Cell .
+Biol .
+13:6201-6210 .
+Liu , J .
+1993 .
+FK506 and cyclosporin , molecular probes for studying intracellular signal transduction .
+Immunol .
+Today 14:290-295 .
+Novak , T. J. , P. M. White , and E. V. Rothenberg .
+1990 .
+Regulatory anatomy of the murine interleukin-2 gene .
+Nucleic Acids Res .
+18:4523-4533 .
+Owaki , H. , R. Varma , B. Gillis , J. T. Bruder , U. R. Rapp , L. S. Davis , and T. D. Geppert .
+1993 .
+Raf-1 is required for T cell IL2 production .
+EMBO J .
+12:4367-4373 .
+Pfeuffer , L , S. Klein-HeBling , A. Heinfling , S. Chuypilo , C. Escher , T. Brabletz , B. Hentsch , H. Schwarzenbach , P. Matthias , and E. Serfling .
+1994 .
+Octamer factors exert a dual effect on the IL-2 and IL-4 promoters .
+J. Immunol .
+153:5572-5585 .
+P. , K. E. Boulukos , J. C. Gesquiere , D. Stehelin , and J. Ghysdael .
+1988 .
+Mitogenic stimulation of thymocytes results in the calcium-dependent phosphorylation of c-ets-1 proteins .
+EMBO J .
+7:977-983 .
+Price , M. A. , F. H. Cruzalegui , and R. Treisman .
+1996 .
+The p38 and Erk MAP kinase pathways cooperate to activate ternary complex factors and c-fos transcription in response to UV light .
+EMBO J .
+15:6552-6563 .
+Randak , C. , T. Brabletz , M. Hergenriither , I. Sobotta , and E. Serfling .
+1990 .
+Cyclosporin A suppresses the expression of the interleukin 2 gene by inhibiting the binding of lymphocyte-specific factors to the IL-2 enhancer .
+EMBO J .
+92529-2536 .
+Rao , A .
+1994 .
+NF-ATp : a transcriptional factor required for the co-ordinate induction of several cytokine genes .
+Immunol .
+Today 15:274-281 .
+GABP 32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+FACTORS CONTROL A DISTAL IL-2 ENHANCER - 4389 Rapp , U. R. , J. T. Bruder , and J. Troppmair .
+1994 .
+Role of the Raf signal transduction pathway in fos/jun regulation and determination of cell fates , p. 221-247 .
+In P. Angel and P. Herrlich ( ed . )
+, The fos and jun families of transcription factors .
+CRC Press Inc. , Boca Raton , Fla. Romano-Spica , V. , P. Georgiou , H. Suzuki , T. S. Papas , and N. K. Bhat .
+1995 .
+Role of ETS1 in IL-2 gene expression .
+J. Immunol .
+154:2724-2732 .
+Rothenberg , E. , and S. B .
+Ward .
+1996 .
+A dynamic assembly of diverse transcription factors integrates activation and cell-type information for interleukin 2 gene regulation .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 93:9358-9365 .
+Sambrook , J. , E. F. Fritsch , and T. Maniatis .
+1989 .
+Molecular cloning : a laboratory manual , 2nd ed .
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. Schreiber , E. , P. Matthias , M. M. Miiller , and W. Schaffner .
+1988 .
+Identification of a novel lymphoid specific octamer binding protein ( OTF-2B ) by proteolytic bandshift assay ( PCBA ) .
+EMBO J .
+7:4221-4229 .
+Schreiber , E. , P. Matthias , M. M. Miiller , and W. Schaffner .
+1989 .
+Rapid detection of octamer binding proteins with `` miniextracts , `` prepared from a small number of cells .
+Nucleic Acids Res .
+17:6419 .
+Schwarzenbach , H. , J. W. Newell , and P. Matthias .
+1994 .
+Involvement of the ets family factor PU.1 in the activation of immunoglobulin promoters .
+J. Biol .
+Chem .
+270:898-907 .
+Serfling , E. , A. Avots , and M. Neumann .
+1995 .
+The architecture of the interleukin-2 promoter : a reflection of T lymphocyte activation .
+Biochim .
+Biophys .
+Acta 1263:181-200 .
+( Review . )
+Serfling , E. , R. Barthelmiis , I. Pfeuffer , B. Schenk , S. Zarius , R. Swoboda , F. Mercurio , and M. Karin .
+1989 .
+Ubiquitous and lymphocyte-specific factors are involved in the induction of the mouse interleukin 2 gene in T lymphocytes .
+EMBO J .
+8:465-473 .
+Shibasaki , F. , E. R. Price , D. Milan , and F. McKeon .
+1996 .
+Role of kinases and the phosphatase calcineurin in the nuclear shuttling of transcription factor NF-AT4 .
+Nature 382:370-373 .
+Siegel , J. N. , C. H. June , H. Yamada , U. R. Rapp , and L. E. Samelson .
+1993 .
+Rapid activation of c-Raf-1 after stimulation of the T-cell receptor or the muscarinic receptor type 1 in resting T cells .
+J. Immunol .
+151:4116-4127 .
+Su , B. , E. Jacinto , M. Hibi , T. Kallunki , M. Karin , and Y. Ben-Neriah .
+1994 .
+JNK is involved in signal integration during costimulation of T lymphocytes .
+Cell 77:727-736 .
+Thompson , C. B. , C.-Y .
+Wang , I. C. Ho , P. R. Bohjanen , B. Petryniak , C. H. June , S. Miesfeldt , L. Zhang , G. J. Nabel , B. Karpinski , and J. M. Leiden .
+1992. cis-acting sequences required for inducible interleukin-2 enhancer function bind a novel Ets-related protein , Elf-1 .
+Mol .
+Cell .
+Biol .
+12:1043-1053 .
+Thompson , C. C. , T. A .
+Brown , and S. L. McKnight .
+1991 .
+Convergence of Ets- and Notch-related structural motifs in a heteromeric DNA binding complex .
+1991 .
+Science 253:762-768 .
+Treisman , R. 1996 .
+Regulation of transcription by MAP kinase cascades .
+Curr .
+Opin .
+Cell .
+Biol .
+8:205-215. van Dam , H. , D. Wilhelm , I. Herr , A. Steffen , P. Herrlich , and P. Angel .
+1995 .
+ATF-2 is preferentially activated by stress-activated protein kinases to mediate c-jun induction in response to genotoxic agents .
+EMBO J .
+14:1798-1811 .
+Virbasius , J. V. , C.-M. A. Virbasius , and R. C. Scarpulla .
+1993 .
+Identity of GABP with NRF-2 , a multisubunit activator of cytochrome oxidase expres-sion , reveals a cellular role for an ETS domain activator of viral promoters .
+Genes Dev .
+7:380-392 .
+Wang , C.-Y .
+, A. G. Bassuk , L. H. Boise , C. B. Thompson , R. Bravo , and J. M. Leiden .
+1994 .
+Activation of the granulocyte-macrophage colony-stimulating factor promoter in T cells requires cooperative binding of Elf-1 and AP-1 transcription factors .
+Mol .
+Cell .
+Biol .
+14:1153-1159 .
+Wasylyk , B. , S. L. Hahn , and A. Giovane .
+1993 .
+The Ets family of transcription factors .
+Eur .
+J. Biochem .
+211:7-18 .
+Whitehurst , C. E. , T. G. Boulton , M. H. Cobb , and T. D. Geppert .
+1992 .
+Extracellular signal-regulated kinases in T cells .
+Anti-CD3 and 4§-phorbol 12-myristate 13-acetate-induced phosphorylation and activation .
+J. Immunol .
+148:3230-3237 .

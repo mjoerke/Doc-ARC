@@ -1,0 +1,951 @@
+Negative regulation of the heat shock transcriptional response by HSBPI1 Sanjeev H. Satyal , Dayue Chen , Susan G. Fox , James M. Kramer , `` and Richard I. Morimoto Department of Biochemistry , Molecular Biology and Cell Biology , Rice Institute for Biomedical Research , Northwestern University , Evanston , Illinois 60208 USA ; *Department of Cell and Molecular Biology , Northwestern University Medical School , Chicago , Ilinois 60611 USA In response to stress , heat shock factor 1 ( HSF1 ) acquires rapid DNA binding and transient transcriptional activity while undergoing conformational transition from an inert non-DNA-binding monomer to active functional trimers .
+Attenuation of the inducible transcriptional response occurs during heat shock or upon recovery at non-stress conditions and involves dissociation of the HSF1 trimer and loss of activity .
+We have used the hydrophobic repeats of the HSF1 trimerization domain in the yeast two-hybrid protein interaction assay to identify heat shock factor binding protein 1 ( HSBP1 ) , a novel , conserved , 76-amino-acid protein that contains two extended arrays of hydrophobic repeats that interact with the HSF1 heptad repeats .
+HSBPI is nuclear-localized and interacts in vivo with the active trimeric state of HSF1 that appears during heat shock .
+During attenuation of HSFI1 to the inert monomer , HSBP1 associates with Hsp70 .
+HSBPI negatively affects HSF1 DNA-binding activity , and overexpression of HSBP1 in mammalian cells represses the transactivation activity of HSF1 .
+To establish a biological role for HSBP1 , the homologous Caenorhabditis elegans protein was overexpressed in body wall muscle cells and was shown to block activation of the heat shock response from a heat shock prom construct .
+Alteration in the level of HSBP1 expression in C. elegans has severe effects on survival of the animals after thermal and chemical stress , consistent with a role for HSBP1 as a negative regulator of the heat shock response .
+[ Key Words : HSF1 ; negative regulation ; transcriptional activity ; heat shock response ] Received March 9 , 1998 ; revised version accepted April 28 , 1998 .
+Cells respond to stress by induction of a highly regulated family of proteins referred to as heat shock proteins .
+This family of proteins is essential for the cell to cope with the deleterious effects of stress on the synthesis , folding , and translocation of nascent polypeptides and to prevent the aggregation of misfolded proteins ( Lindquist and Craig 1988 ; Gething and Sambrook 1992 ; Hartl 1996 ) .
+The elevated expression of genes encoding heat shock proteins in response to environmental and physiological stress is mediated by heat shock factor ( HSF ) , an inducible transcriptional activator that is ubiquitously expressed in all organisms from yeast to humans and is essential for the inducible transcriptional response ( Lis and Wu 1993 ; Morimoto 1993 ; Morimoto et al .
+1994 ; Wu et al .
+1994 ; Wu 1995 ) .
+HSF is an essential gene in yeast that encodes a constitutively trimeric protein ( that is constitutively bound to DN A ) prior to heat shock and responds to heat shock by enhanced DNA binding , inducible phosphorylation , and acquiring transcriptional activity ( Jakobsen and Pelham 1988 ; Sorger and Pelham 1988 ; Wiederrecht et al .
+1988 ; Sorger and Nelson 1989 ; Giardina and Lis 1995 ) .
+In contrast , Drosophila and other metazoans have addi- *Corresponding author .
+E-MAIL r-morimoto @ wu.edu ; FAX ( 847 ) 491-4461. tional regulatory steps such that HSF under nonstressed conditions is maintained as an inactive monomer that is converted upon heat shock to the active DNA-binding and inducibly phosphorylated trimer ( Larson et al .
+1988 ; Clos et al .
+1990 ; Westwood and Wu 1993 ; Baler et al .
+1993 ; Sarge et al .
+1993 ; Cotto et al .
+1996 ) .
+Multiple HSF genes have been cloned in vertebrates , of which HSFI1 is the predominant stress responsive transcriptional acti-vator , although HSF3 also has an essential role in the inducible stress response ( Rabindran et al .
+1991 ; Sarge et al .
+1991 ; Schuetz et al .
+1991 ; Nakai and Morimoto 1993 ; Nakai et al .
+1997 ; Tanabe et al .
+1998 ) .
+The isolation and characterization of four vertebrate HSF genes has revealed important distinctions in their regulation in response to diverse environmental and physiological signals .
+Among the key features of the structure of HSFs are a trimerization motif that includes two hydrophobic re-peats , HR-A/B , positioned immediately adjacent to the DNA-binding domain ( Sorger and Nelson 1989 ; Rabindran et al .
+1991 ) .
+In yeast , the hydrophobic repeats form a triple-stranded , coiled-coil structure ( Sorger and Nelson 1989 ; Peteranderl and Nelson 1992 ) .
+The HSFs of metazoans contain an addtional hydrophobic repeat , HR-C , located near the extreme carboxyl terminus of HSF , adjacent to the transcriptional transactivation domain .
+Mutation or deletion of HR-C results in constitutive trimerization and DNA-binding activity ( Nakai and Mori- 1962 GENES & DEVELOPMENT 12:1962-1974 © 1998 by Cold Spring Harbor Laboratory Press ISSN 0890-9369/98 $ 5.00 ; www.genesdev.org moto 1993 ; Rabindran et al .
+1993 ; Zuo et al .
+1994 ) .
+Interactions between HR-A/B and HR-C have been implicated in maintenance of the monomeric state of HSF1 , although the mechanism of intramolecular negative regulation of DNA binding appears more complex and remains unresolved .
+Regions distinct from the hydrophobic repeats are also involved in the negative regulation of the DNA-binding activity of Drosophila HSF ( Orosz et al .
+1996 ; Zandi et al .
+1997 ) .
+Located at the extreme carboxy terminus of HSF1 is the heat shock responsive transactivation domain ( Green et al .
+1995 ; Shi et al .
+1995 ; Newton et al .
+1996 ) .
+The repression of the activation domain at normal temperatures is regulated by phosphorylation at residues in the region between the hydrophobic repeats A/B and C ( Knauf et al .
+1996 ; Kline and Morimoto 1997 ) .
+Upon activation , HSF1 undergoes stress-inducible serine phosphorylation ; trimer formation is not dependent on phosphorylation , as both recombinant HSF1 and HSF1 in salicylate treated cells , which are both trimeric and DNA-binding-competent , lack inducible phosphorylation at serine residues ( Rabindran et al .
+1991 ; Jurivich et al .
+1992 ; Sarge et al .
+1993 ; Cotto et al .
+1996 ) .
+An important feature of HSF1 activation is the transient nature of the transcriptional response , a consequence of both the intensity and the duration of exposure to the stress .
+During continuous heat shock or upon recovery following heat shock , HSF1 rapidly attenuates as characterized by decreased transcriptional activity , conversion of the trimer to the monomer state , loss of DNA binding , and dephosphorylation ( Abravaya et al .
+1991 , 1992 ; Sarge et al .
+1993 ) .
+How these events are regulated is poorly understood ; however , there is both genetic and biochemical evidence to support a mechanism involving feedback control via the expression and accumulation of heat shock proteins .
+During attenuation , HSF1 trimers are associated with Hsp70 ( Abravaya et al .
+1992 ) .
+Additional support for heat shock protein-medi-ated autoregulation is provided by observations that HSF1 attenuates more rapidly in mammalian cells overexpressing Hsp70 and that Hsp70 binds to and represses the HSF1 transactivation domain ( Mosser et al .
+1993 ; Rabindran et al .
+1994 ; Shi et al .
+1998 ) .
+Other proteins may also be involved either in activation or attenuation of HSF1 based on evidence that recombinant HSFI1 is active as a DNA-binding trimer rather than the inert monomer and that HSF1 overexpressed in mammalian cells is constitutively active ( Rabindran et al .
+1991 ; Sarge et al .
+1993 ) .
+In this study we describe the properties of a novel nuclear localized hydrophobic repeat-containing protein , heat shock factor binding protein 1 ( HSBP1 ) , which interacts with HSFI1 trimers and negatively regulates HSF1 activity .
+Results HSBPI interacts with the trim erization motif of HSFI The yeast two-hybrid protein interaction screen was used to identify proteins that interact with the trimer HSBP1-a novel regulatory protein of HSF1 ization domain ( HR-A/B ) of HSF1 .
+At least five independent isolates of HSBP1 were obtained in a screen using a Madin-Darby canine kidney ( MDCK ) cDN A library .
+The full-length canine HSBP1 cDNA was used to isolate human HSBP1 by a nucleic acid hybridization screen of a human cDNA library ( Fig .
+1A ) .
+Analysis of the deduced human HSBP1 sequence revealed a novel 76-amino-acid-residue protein of acidic character containing two potential hydrophobic repeats ( Fig .
+1¥ , C ) .
+The human and canine HSBP1 sequences are nearly identical and differ at only two amino acid positions ( Fig .
+1B ) A search of nucleic acid and protein databases identified a predicted 98-amino-acid protein of unknown function from Caenorhabditis elegans , which shares 54 % sequence identity with human HSBP1 ( Fig .
+1B ) ( Wilson et al .
+1994 ) .
+A search of the yeast genome database did not reveal a HSBP1 homolog .
+The interaction between HSF1 and HSBP1 was analyzed in yeast using the LexA DNA-binding domain alone , chimeras with the HSFl trimerization domain ( LexA-HSFIHRA/B ) , and with point mutations or deletion mutants of the HSF1 hydrophobic repeats ( Fig .
+2 ) .
+HSBP1 neither interacts with LexA , nor with HSF1 fusions containing deletions or substitutions of the hydrophobic amino acids , thus revealing that an intact trim erization domain of HSF1 is essential for interaction with HSBPI1 .
+Analysis of the amino acid sequence of HSBPI1 revealed the presence of two extended arrays of hydrophobic repeats ; therefore , we examined whether interactions between HSBP1 and HSFl were mediated through these motifs .
+Double point mutations at the a and d positions of both hydrophobic repeats ( mutants 16/19 and 45/48 ) in HSBP1 were created and reintroduced into the yeast two-hybrid assay ( Fig .
+2 ) Mutation of the hydrophobic residues to lysines in either mutant 16/19 or 45/48 resulted in the loss of interaction between HSBP1 and HSF1 .
+A mutant containing lysines at all four hydrophobic residues ( Tetra mutant ) also did not interact with the HSF1 hydrophobic repeats .
+These results establish the importance of the hydrophobic repeats as the basis for interactions between HSBP1 and HSF1 .
+HSBPI is a nuclear-localized protein that interacts in vivo with HSFI Evidence that HSBP1 and HSF1 interact in vivo was obtained by cotransfection of HeLa cells with HSF1 and hemagglutinin ( HA ) epitope-tagged HSBPI1 .
+HSFI is a constitutive DNA-binding competent trimer when overexpressed by transient transfection ( Sarge et al .
+1993 ) .
+Extracts of cells transfected with HSBP1 and wild-type HSF1 or with a mutant form of HSF1 containing a deletion of HR A were used to perform imm tions with anti-HA epitope antiserum and analyzed by SDS-PAGE .
+Only the wild-type , and not the mutant , HSFI1 coprecipitates with the epitope-tagged HSBP1 ( Fig .
+3A ) in agreement with the specificity of interactions observed in the yeast-based protein association assay .
+The subcellular localization of HSBP1 was established GENES & DEVELOPMENT 1963 Satyal et al .
+ACGGAAGTGTAGGTTACGCTCTGAG GGAGATGGCCGACACTGACCCCAAG Mo A E T D P K TGCAGACACTCCTGCAGCAGATGCA 0 T L L Q Q M Q CAGATCATTGGGAGAATTGATGATA Q I I G R I D D M AAAGAATATCGCGGACCTCATGACA K N I A D L M T GTGAAAACAAGATACCTGCCACGCA E N K I P A T Q TATACTGGAATCTGGCATTTTTCCA TTGCAGCTAACTACTATGTGTACAC TCTTATCACCTAGTATATAGTTAGT CTTGAACATGGTATCTTCACATCTT TTATTAAACACTAAAACTTTGGCGG ACATCACCGCCAAGCTGGGCATCGG ACCGTGCAGGACCTCACCTCGGTGG T v Q D L T S v ov AGATAAATTTCAGACCATGTCTGAC D K F Q T M S D TGCAGTAGTCGCATTGATGATCTGGA $ S R I D D L E CAGGCTGGGCTGCAACAACTGGAAA Q A G Vv E E L B S AAAGAGTTGAAGGTTGCTAATAATT KOS AGCCAAGAGAAGATCGAATGGCTTT AGGTTTTATATTATAAAGTATGCAT TTGTAGAGTGATTTCCCCCCAGTTT GGACCTTGGTCAGTTGTGCTATTCA TTPCTTGCATAAAAAAAAAAAAA 50 100 150 300 350 400 450 500 547 A Figure 1 .
+Isolation of HSBP1 , a novel and B conserved protein that interacts with the ceHsB1 trimerization domain of HSF1 .
+( 4 ) The se- AHSBPL quence of the human HSBP1 cDNA .
+cHSBPL HSBP1 was isolated based on its ability to interact with the trimerization domain of mHSF1 .
+( B ) Comparison of the deduced iiisBill amino acid sequences of the C. elegans , cHSBPL human , and canine HSBP1 .
+The identities among the three proteins are indicated by the shaded regions .
+Asterisks indicate the CeHSBL two amino acid difference between the hu- hHSBP1L cHSBPL man and the canine HSBP1 proteins .
+( C ) AQLDAPADGN VRK YLKKIVNFLK NPKTOIG Rec -- -- -- - vor o ecccccecce vo o cccccccece ccc -- Hydrophobic repeats of HSBP1 .
+Analysis of the amino acid sequence of HSBPI1 re- C vealed the presence of potential hydrophobic repeats indicated by the a and d positions .
+a @ by transient overexpression of HA-tagged HSBP1 in HeLa cells .
+Immunofluoresence staining using anti-HA antibodies revealed that HSBP1 is predominantly nuclear localized ( Fig .
+3B ) .
+The use of an epitope-tagged form of HSBP1 was essential , as our polyclonal antisera against HSBP1 recognizes only the native endogenous protein .
+The subcellular localization of HSBPI1 is unaffected by heat shock ( data not shown ) .
+Northern blot analysis revealed that the levels of HSBP1 mRNA are abundant in all of the cell lines HeLa , Cos7 , 3T3 , and MDCK ) and animal tissues ( heart , liver , testis , ovary , brain , pancreas , kidney , placenta , and pituitary ) tested and unaffected in the cell lines by heat shock ( data not shown ) .
+HSBPI interacts with HSF1 trimers and Hsp70 HSF1 exists in at least two distinct states , an inert monomer in control cells and an active trimer induced upon heat shock .
+To identify the point during the heat shock 1964 GENES & DEVELOPMENT MAETDPKTVOQDLTSVVQTLLOQMOQDKFQTMSDQT ICRIDDMS SRI DDLEKNIADLMTOQAGVEELEGENKI PATPEKS a d a d a d a d response that HSBP1 is associated with HSF1 , 3T3 cells were exposed to different regimens of continuous or transient heat shock , at either 42°C or 43°C , followed by recovery at control conditions .
+HSFl1 DNA binding is activated transiently upon exposure to 42°C or in a sustained manner at 43°C ; under these conditions , HSFI exhibits the characteristic mobility shift on SDS-PAGE resulting from stress-induced phosphorylation ( Figs .
+4 and 5 ) ( Abravaya et al .
+1992 ; Sarge et al .
+1993 ; Cotto et al .
+1996 ) .
+Sustained exposure of mammalian cells to 42°C leads to transient activation of HSF1 such that DNA binding is detected within 15 min of heat shock and persists for a period of 2 hr , after which DNA binding is no longer detected ( Fig .
+4A ) .
+Western blot analysis performed on whole cell lysates with anti-HSF1 antibodies revealed that HSF1 rapidly converts to the inducibly phosphorylated state that persists for 2 hr ( Fig .
+4B ) .
+Beyond 2 hr , HSFI reverts back to the constitutively phosphorylated HSBP1-a novel regulatory protein of HSF1 Hydrophobic repeats A/B of mHSFL 137 180 218 | < < HR A » |-4 HRB -- -- -- -- » | DSVTRLLTDVQLMKGKQECMDSKLLAMKHENEALWREVASLRQKHAQQQK VVNKLIQFLISL VQ-SNRILGV KRKIPLMSDSNSAHS a a a - d dd a d a - d a d K K K K aa dd aa K KK Hydrophobic repeats of HSBP1 MAETDPKTVQDLTSVVQTLLQQMQDKFQTMSDQIIGRIDDMSSRIDDLEKNIADLMTQAGVEELEGENKIPATPKS a d a d a d d d a = d a KK Mutant 16/19 Interaction with HSBP1 : -galactosidase activity LexA-HSFI HR A/B 311 +/- 31 LexA < 1 LexA-HSF2 HR A/B 8 +/- 3 LexA-HSFIAHR B 6 +/- 1 LexA-MI47K 351 +/- 20 LexA-Q151K/M154K 69 +/- 3 LexA-L168K 40 +/- 2 LexA-HSFIAHR A < l LexA- 190K 32 +/- 2 LexA-F192K 18 +/- 5 LexA-L193K 9 +/- 3 KK Mutant 45/48 Interaction with HSF1 HR A/B : B-galactosidase activity HSBPI 311 +/- 31 Mutant 16/19 24 +/- 5 Mutant 45/48 15 +/- 2 Tetra mutant < 1 Figure 2 .
+Interactions between HSF !
+and HSBP1 are mediated through hydrophobic repeats .
+The amino acid sequences of the hydrophobic repeats of HSF and HSBP1 with the amino acids forming the repeats indicated by a and d positions .
+The sites of the mutations to lysines ( K ) are shown .
+Various LexA fusions were tested for their ability to interact with HSBP1 in the yeast two-hybrid system .
+The B-galactosidase enzyme activities along with the standard deviations observed are indicated .
+HSBP1 interacts with LexA fusion with the trimerization domain of mHSF1 but not with the trimerization domain of mHSF2 ( HSF2 HR-A/B ) .
+To assess which hydrophobic residues of the trim erization domain of HSF1 contribute to the interaction with HSBP1 , we used a panel of LexA fusions with specific mutations in the trimerization domain of HSF1 as indicated above .
+Mutants 16/19 , 45/48 , and the Tetra mutant ( containing all four substitutions ) of HSBP1 were also tested for their ability to interact with the trimerization domain of mHSF1 fused to LexA .
+state simultaneous with the loss of DNA-binding activity .
+The whole cell extracts were also used for immunoprecipitation analysis using anti-HSBP1 antiserum to assess interactions of HSBP1 with HSF1 and Hsp70 ( Fig .
+4C ) .
+The HSBP1 immunoprecipitates were subjected to SDS-PAGE and immunoblot analysis with anti-HSF1 antibodies .
+Only the inducibly phosphorylated DN A-binding trimeric form of HSFI is associated with HSBPI .
+Complexes of HSF1/HSBPI1 are detected within 15 min of heat shock and extend for a period of 2 hr .
+HSBPI1 is neither associated with the control non-DNA-binding form of HSF1 nor with the form that reappears during attenuation ( 2-3 hr ) of the heat shock response .
+Preim-mune antiserum and a nonspecific antibody ( anti-HA epitope ) did not precipitate HSF1 from the cell lysates ( Fig .
+3A ; data not shown ) .
+To further substantiate these observations , experiments using a regimen of transient ( 1 hr ) heat shock at 42°C followed by immediate recovery at 37°C were performed ( Fig .
+4D ) .
+These conditions are known to result in a more rapid recovery from the induced state as measured by attenuation of HSF1 DNA-binding activity ( Fig .
+4D ) .
+Even under these conditions , HSBP1 is only associated with the trimeric DNA-binding and inducibly-phosphorylated state of HSF1 and not with either the control form ( prior to heat shock ) or the recovery form of HSFI ( Fig .
+46 , F ) .
+Previous studies have shown that the DNA-binding form of HSFI1 is associated with Hsp70 ( Abravaya et al .
+1992 ; Baler et al .
+1992 ; Rabindran et al .
+1994 ; Shi et al .
+1998 ) .
+Therefore , we examined whether HSBPI1 is also associated with Hsp70 by performing immunoblot analysis with an anti-Hsp70 antibody .
+During a continuous 42°C heat shock , HSBPI1 associates with Hsp70 only during the attenuation phase of the heat shock response ( Fig .
+4C ) .
+This corresponds precisely to the period , extending through 4 hr of heat shock , when the levels of Hsp70 increase ( Fig .
+4B ) .
+These observations reveal that HSBP1 and Hsp70 interact at a later point in the heat shock response relative to the appearance of HSBP1/ HSF1 complexes .
+Interaction between HSBP1/Hsp70 coincides temporally with the loss of HSF1 DNA-binding activity and conversion of the trimer to monomer state .
+Similar results were also obtained in the experimental protocol using rapid heat shock and recovery in which GENES & DEVELOPMENT 1965 Satyal et al .
+5 Fal # m HSF1 HSFI C soa € & & Extract HSBP1 Imemenopeecipitaizs `` eal mens ) HSBFI Figure 3 .
+HSFI interacts with HSBP1 in vivo and is a nuclear localized protein .
+( 4 ) HeLa cells were cotransfected with HA-tagged HSBP1 and non-epitope-tagged HSF1 or mutant HSF1 containing a deletion of HR A .
+The extracts were used to perform immunoblot analysis using HSF1 antiserum and immuno-precipitations with an anti-HA epitope antibody .
+The HSBPI1 imm unoprecipitates were separated by 8 % and 16 % SDS-PAGE and analyzed for their HSF1 and HSBP1 content , respectively , by immunoblot analysis .
+( B ) The cellular localization of HSBP1 was determined by transient transfection of the HA-tagged HSBP1 in HeLa cells .
+The cells were fixed and imm ence staining was performed with an anti-HA epitope monoclo-nal antibody .
+( C ) Hoechst staining revealed the nuclear staining of the transfected cell and also adjacent nontranfected cells .
+Hsp70 association with HSBP1 was detected after 1 hr of recovery at a point when the levels of Hsp70 increase ( Fig .
+4B , F ) .
+The association of Hsp70 with HSBP1 is transient and was not detected after 4 hr of recovery ( Fig .
+4F ) .
+Figure 4 .
+HSBPI1 interacts specifically with HSFI1 trimers and leads to the recruitment of Hsp70 .
+3T 3 cells were exposed to 42°C for the indicated times ranging from 15 min to 4 hr ( A-C ) or treated at 42°C for 1 hr followed by recovery at 37°C for 4 hr ( D-F ) .
+The cell extracts were used for gel mobility shift analysis ( A , D ) , immunoblot analysis , and imm unoprecipita-tions with anti-HSBP1 antibodies .
+The cell extracts ( B , E ) and imm unoprecipitates ( C , F ) were separated on an 8 % SDS-polyacrylamide gel and then used for immunoblotting analysis with anti-HSF1 and anti-Hsp70 antibodies .
+Immunc-precipitate 1966 GENES & DEVELOPMENT C These observations reveal that HSBPI1 interacts with both HSF1 and Hsp70 .
+To characterize further the nature of these interactions , we used a heat shock regimen of continuous or transient exposure to 43°C and subsequent recovery at 37°C .
+An important distinction of a continuous 43°C heat shock is that the heat shock response does not attenuate at this temperature ( Abravaya et al .
+1991 ) .
+Consequently , HSF1 DNA-binding activity persists during exposure to 43°C and HSF1 remains in the inducibly phosphorylated state ( Fig .
+5A , B ) .
+In contrast to the transient association observed for HSF1 and HSBP1 at 42°C , the interaction between HSBP1 and HSF1 persists at 43°C heat shock conditions ( Fig .
+5C ) .
+At 43°C , interactions between Hsp70 and HSBPI1 are not detected and there is no increase in the level of Hsp70 presumably due to a general block in protein synthesis that occurs at this temperature ( Welch and Subhan 1986 ) .
+However , if the cells are transiently treated at 43°C and allowed to recover at 37°C , HSBP1 interacts transiently with HSF1 and at a later time during recovery complexes between HSBPI1 and Hsp70 are detected ( Fig .
+5E , F ) .
+Although these experiments suggest a sequential link between the activation of HSFIl to the inducibly phosphorylated trimeric state , association with HSBP1 and the association between HSBPI1 and Hsp70 during attenuation or recovery from heat shock , they do not address whether it is the same population of HSBP1 that is sequentially associated with HSF1 and Hsp70 .
+Coexpression of HSBPI and HSFI in reticulocyte lysates negatively influences HSFl DNA -binding activity The effect of HSBP1 on HSF1 DNA-binding activity was examined by the use of an assay in which in vitro-translated HSF1 can be activated from the inert to the trim D FES azop Recovery at 37°C Co19 30 IH 28 3H « H Co IH IH 28 3H 46 # ts ot n o= l E 42900 Recovery at 37°C - « 3° ___ Co 17 30 1H 2H 3H « H Co IH IH 28 3H < H we ... ... Atv ( Bt rami 5 aem _== ’ = $ , A—HEFL TTT To- == < - amg ( ggg git = -- « -== -- ( 51 ) 71 ) F -- HSE1 _-_-_-._._w_- -- HspM ) 4300 Recovery at 37°C 43°C Co 17 IF IH 28 38 4H Co IH IH 2H 3H 46 3 E Recovery at 37°C 43°C C C- IH IH IH 3H 4H Secum BR g rus =z waged muro Extract fever sus Hevea gua # C F mms : semi cme -- - < n is .
+s Immunc-precipitate -n. eric DNA-binding form upon incubation at 43°C ( Sarge et al .
+1991 ) .
+In vitro-transcribed HSF1 RN A was cotrans-lated with increasing amounts of HSBP1 RNA and the lysates were incubated at 43°C and analyzed for HSFI1 DNA-binding activity by gel mobility shift assay ( Fig .
+6A ) .
+To ensure that HSF1 was expressed to similar levels and its synthesis was unaffected by coexpression of HSBP1 , the vitro translation reaction was supplemented with and analyzed by SDS-PAGE ( Fig .
+6B ) .
+In vitro-translated HSF1 exhibited DN A binding following heat shock , and coexpression of HSBP1 interfered with the level of heat-induced HSF1 DNA-binding activity attained ( Fig .
+6A ) .
+The reduction in HSF1 DN A-binding activity in the presence of increasing amounts of HSBP1 could suggest that HSBP1 , perhaps together with other components in the reticulocyte lysate , either interferes with the formation of the stable DNA-binding state or mediates the conversion of the trimeric form of HSFI1 to its monomeric state .
+HSFI HSFI HSFL A a +3 % X HSBPI o 43 OC HSFIL -- HSBPL -- HSBP1-a novel regulatory protein of HSF1 Figure 5 .
+Interaction of HSBP1 coincides with the attenuation of HSFL DNA-binding activity .
+3T 3 cells were treated at 43°C for up to 4 hr ( A -C ) or treated at 43°C for 1 hr and allowed to recover at 37°C for 1-4 hr ( D-F ) to allow attenuation of HSFI .
+The extracts were used for gel mobility shift analysis ( 4 , D ) , immunoblot analysis , and im munoprecipitations with anti-HSBP1 antibodies .
+The cell extracts ( B , E ) and immunoprecipitates ( C , F ) were separated on an 8 % SDS-polyacrylamide gel and then used for immunoblotting analysis with anti-HSF1 and anti-Hsp70 antibodies .
+-- Hsp70 -- HSF -- Hep Overexpression of HSBPI1 represses HSFI transactivation If the effects of HSBP1 on in vitro activation of HSF1 are relevant to the regulation of HSF1 activity , then overexpression of HSBP1 , in vivo , would be predicted to have negative effects on HSFI1 activity .
+The effect of HSBP1 on the activity of mammalian HSF1 was assessed by transfection of HSBP1 together with a plasmid containing the human Hsp70 promoter fused to the CAT reporter gene ( pHB-CAT ) into COS7 cells .
+Heat shock treatment of cells transfected with the pHB-CAT reporter alone resulted in a 14.1 + 0.4-fold increase in CAT activity .
+Expression of HSBP1 resulted in a 2.8 + 0.5-fold increase in CAT activity ( corresponding to an average fivefold re-duction ) ( Fig .
+7 ) .
+To assess whether the reduction in HSFI transactivation was strictly due to overexpression of HSBP1 , cells were cotransfected with HSBP1 mutants ( 16/19 and the tetra mutant ) and the effects on HSFI Figure 6 .
+Coexpression of HSBP1 and HSF1 in reticulocyte lysates blocks in vitro activation of HSF1 DNA-binding activity .
+( 4 ) mHSF1 RNA was cotrans-lated with increasing amounts of HSBP1 RNA using the rabbit reticulocyte lysate system , and the lysates were incubated at 4°C , 37°C , and 43°C for 1 hr .
+The DNA-binding activity of mHSFI1 was analyzed by gel mobility shift assay .
+The amount of HSFl DNA tus _ binding activity obtained upon cotranslation with HSBP1 is indicated in percent activity relative to the amount in the case of translation of HSF !
+alone .
+( B ) An aliquot of the in vitro translation reaction in A was supplemented with analyzed by SDS-PAGE , and autoradiography .
+Quantification of HSF1 and HSBP1 synthesis revealed a ratio of 1:25 samme ) - ( HSFL/HSBP1 ) and 1:70 in the 1x RNA and 3 % RNA reaction , respectively .
+GENES & DEVELOPMENT 1967 Satyal et al .
+Relative CAT activity C H C H C H C H pHBCAT pHBCAT+ pHBCAT+ pHBCAT+ HSBP1 Mutant 16/19 Tetra mutant Figure 7 .
+The overexpression of HSBP1 results in reduced HSF1 transactivation ability .
+pHB-CAT ( ksp70 promoter fused to the CAT reporter gene ) , pRSV-luciferase with or without HSBP1 or mutants of HSBP1 ( mutant 16/19 and tetra mutant ) were transfected into COS7 cells .
+Cells were harvested either at 48 hr post-transfection ( C ) or after a 2-hr heat treatment at 42°C and a 4-hr recovery period ( H ) .
+Transfection efficiencies were normalized to equivalent luciferase activities .
+The relative CAT activities are indicated with standard deviations observed .
+transactivation analyzed .
+Expression of the HSBPI1 tetra mutant resulted in a 10.6 + 0.8-fold increase in CAT activity , whereas the HSBP1 16/19 mutant resulted in a 6.9 + 0.3-fold increase in CAT activity .
+Equivalent levels of wild-type and mutant HSBP1 were expressed in the transfected cells ( data not shown ) .
+These results establish that both HSBP1 mutants , which we have shown previously to exhibit impaired interactions with the HSF1 hydrophobic repeats of HSF1 , have diminished effects on the transactivation capability of HSF1 .
+Thus , the transient overexpression of HSBP1 in mammalian cells has negative effects on the transcriptional activity of the endogenous HSF1 .
+Overexpression of CeHSB-1 in a tissue-specific manner blocks activation of the heat shock response Taken together , our results suggest a role for HSBP1 as a Figure 8 .
+Overexpression of CeHSB-1 results in a block of the activation of the stress response in C. elegans .
+( A , B ) The PC72 reporter strain containing integrated copies of the hspl6 : : lacZ fusion was treated at 33°C for 1 hr and stained for B-galactosidase activity .
+lacZ « $ _ A `` , .
+activity was observed in intestinal , pharyn- geal , nerve ring , and body wall muscle cells [ intestinal ( @ ) and body wall muscle ( bm ) cells are indicated by arrows ] .
+Animals were pho- tographed at 10 % ( 4 , C ) and 40 % ( B , D ) magnifi- cation .
+( C , D ) The unc-54 : whsb-1 fusion was o used to overexpress CeHSB-1 specifically in body wall muscle cells of the PC72 strain .
+® .
+These animals were also stained for B-galac- tosidase activity after heat shock .
+Intestinal cells are stained ( @ rrow ) , but there is reduced staining of body wall muscle cells .
+1968 GENES & DEVELOPMENT negative regulator of the HSF-mediated heat shock transcriptional response .
+To determine if HSBP1 directly influences the heat shock response in vivo , we took advantage of the conserved nature of the heat shock response among eukaryotes and examined whether overexpression of the C. elegans homolog , CeHSB-1 , encoded by the gene Asb-1 , led to an inhibition of the heat shock response in the whole animal .
+The initial objective was to ask whether overexpression of CeHSB-1 affected the activation of the stress response .
+The C. elegans heat shock response was monitored using the PC72 reporter strain , which contains integrated copies of a Aspl6 : lacZ reporter fusion ( Stringham and Candido 1993 ) .
+The promoter region of the C. elegans hsp16 gene contains multiple arrays of heat shock elements that are essential for heat shock and chemical stress induction of hsp16 transcripts ( Kay et al .
+1986 ; Stringham and Candido 1994 ) .
+Incubation of the PC72 reporter animals for 1 hr at 33°C results in the expression of inducible B-galactosidase activity in intestinal , nerve ring , pharyngeal and body wall muscle cells , whereas no detectable staining is detected in animals maintained at normal growth temperature .
+Indicated in Figure 8 , A and B , is the expression of the lacZ reporter in the intestinal and the body wall muscle cells by the arrows .
+In the background of this reporter strain , CeHSB-1 was overexpressed in body wall muscle cells from a transgene carrying an unc-54 prom oter : : hsb-1 expression construct .
+When these transgenic animals were heat shocked , B-galactosidase activity was detected in pharyngeal , intestinal cells , and nerve ring cells whereas little or no activity was detected in body wall muscle cells ( Fig .
+8C , D ) .
+These results provide biological evidence that CeHSBP-1 is a negative regulator of the heat shock response , consistent with the results obtained in cultured mammalian cells .
+Altered levels of HSB1 influence the survival of C. elegans follow ing exposure to chemical and therm al stress The inducible expression of heat shock genes is essential for survival following exposure to extreme chemical and ll-ii-JF1 `` , t , h ; | = `` /A « egt i i .
+& E ﬁr t g Hut w _ m a c £ hsb-1 5806 HSBP1-a novel regulatory protein of HSF1 Figure 9 .
+Shown is a schematic representa-8129 tion of the hsb-1 locus with the CeHSB-1 cod -o g < 4 -- _ ATG ENET CgllG 5874 ___ extent of deletion ___ 6537 KO8SE7 cosmid - Sequences shown as a solid bar .
+The numbers represent nucleotide num bering from the sequence of the cosmid KO8E7 ( @ ccession no .
+777666 ) .
+The CH116 mutant strain contains a deletion of the entire coding sequences and some of the upstream sequences as indicated by the broken lines and the allele name .
+The Pstl ( P ) -Sall ( 8 ) 2.3-kb fragment from cosmid KO8E7 was used for establishing strains that overexpress CeHSB-1 .
+thermal stress .
+To examine whether CeHSB-1 had such an effect on survival of the entire animal , we generated strains either overexpressing or lacking CeHSB-1 .
+Animals that overexpress CeHSB-1 were generated by integrating extra copies of the Asb-1 gene into the genome .
+Animals lacking CeHSB-1 were produced by generating a strain containing a deletion of the Asb-1 gene .
+The deletion strain CH116 lacks Asb-1 coding and noncoding sequences as determined by nucleotide sequence analysis of the deletion junction ( Fig .
+9 ) .
+Deletion of CeHSB-1 in C. elegans does not appear to have deleterious effects on growth or fecundity of worms , thus demonstrating that hsb-1 is not an essential gene in C. elegans .
+On the other hand , worms that overexpress CeHSB-1 display a 15 % reduction in fecundity as compared to wild-type worms ( Table 1 ) .
+If CeHSB-1 is a negative regulator of the stress response , then the overexpression of CeHSB-1 should result in reduced survival upon exposure to thermal and chemical stress .
+Wild-type , CH116 ( Aksb-1 ) , and CeHSB-l-overexpressing animals were exposed to thermal stress and the number of surviving progeny were determined ( Table 1 ) .
+Survival after exposure to thermal stress reflects the ability of the progeny to withstand thermal stress and develop to adulthood .
+Heat treatment of L4 stage wild-type worms resulted in survival of 48 % of progeny as compared to worms maintained under control conditions .
+By comparison , only 20 % -27 % of the progeny of CeHSB-l-overexpressing strains survived heat treatment .
+Much of the reduction in the num ber of progeny resulted from a large number of embryos that failed to hatch .
+The relatively large variation in the num ber of surviving progeny of the CH1417 strain upon thermal stress is partly attributable to the fact that some animals failed to have progeny .
+On the other hand , CH116 worms containing a deletion of Ahsb-1 gene displayed a level of survival following thermal stress similar if not slightly better than wild type .
+The effects of chemical stress such as exposure to sodium arsenite or mercuric chloride , known to activate the stress response in C. elegans , were also examined ( Stringham and Candido 1994 ) .
+Exposure of L2/L3 stage wild-type N2 animals to 200 um sodium arsenite or 55 um mercuric chloride for 24 hr resulted in 63 % -64 % survival rates , whereas CeHSB-1-overexpressing animals had reduced survival rates of 18 % -50 % and the Asb-I deletion strain survived at a level similar to wild type ( Table 2 ) .
+The results of overexpression of CeHSB-1 reveal that elevated levels of CeHSB-1 have deleterious effects on the ability of an organism to cope with thermal and chemical stress , whereas the loss of CeHSB-1 results in similar or slightly better survival rates than wild-type animals .
+Discussion HSBP1 was identified in a protein interaction screen to identify novel trans-regulatory proteins that bind to the hydrophobic heptad repeats of HSF1 .
+One property of HSBP1 that suggests a role in regulating the activity of HSFI1 is the interaction of HSBP1 with the HSF1 trimer and not with the monomeric non-DN A-binding form of HSFI that exists both prior to heat shock and during attenuation of the heat shock response .
+The association of HSBP1 with HSF1 trimers and with Hsp70 is intrigu-ing , as these events coincide with attenuation of the heat shock response and the conversion of the HSF1 trimer to monomer .
+Evidence that HSBP1 has a regulatory role in the heat shock response follows from the negative effects of HSBP1 on both HSF DNA-binding and transactivation activity in vitro , in transient transfection assays in mammalian cells , and on the heat shock response in C. elegans .
+In the context of whole animals , overexpression of CeHSB-1 reduces the ability of an organism to cope with thermal and chemical stress .
+Based on these observations , we propose that HSBP1 is a negative regulator of the heat shock response .
+One of the key steps in the regulation of HSF1 activity is reversible oligomerization , which occurs via the hydrophobic heptad repeats .
+Though indirect , the phenotypes of single and multisite point mutations in the hydrophobic amino acids of HSF1 and HSBP1 in the yeast protein interaction assay are consistent with the sugges- Table 1 .
+Survival of progeny from wild-type , CeHSB-l-deficient , and CeHSB-l-overexpressing anim als after therm al stress Percent Strain Control Heat shock of control N2 305 +40 149 £13 48 CH116 317 +56 182 +32 57 CH1417 226 +38 46 +37 20 CH1357 241 +23 66 + 62 27 The wild-type ( N2 ) , Asb-1 deletion ( CH116 ) and CeHSB-1-overexpressing ( CH1417 and CH1357 ) strains were treated at 33°C for 2 hr , and the number of viable progeny that hatched and developed to adulthood were counted .
+The mean number of progeny produced and the standard deviation are shown ( r = 7 ) .
+For each strain , the number of viable progeny produced after heat shock was compared to the same strain without heat shock and expressed as percent of control .
+GENES & DEVELOPMENT 1969 Satyal et al .
+Table 2 .
+Survival upon exposure to chemical stress is reduced in animals with elevated levels of CeHSB-1 Percent survival Strain arsenite mercuric chloride N2 63 64 CH116 63 85 CH1417 25 50 CH1357 N.D. 39 CH1418 18 38 The wild-type ( N2 ) , Asb-1 deletion ( CH116 ) , and CeHSB-1 , overexpressing ( CH1417 , CH1357 , and CH1418 ) animals were exposed to 200 um sodium arsenite or 55 uM mercuric chloride for 24 hr , and the number of surviving animals was counted .
+The results of a typical experiment are shown ( @ = 30-40 animals ) .
+The experiment was performed four times , and in all cases the CeHSB-1-overexpressing strains showed reduced survival as compared to wild type .
+tion that HSF1 and HSBP1 interact through their respective hydrophobic repeats .
+Recombinant HSBPI1 is ~60 % a-helical based on circular dichroism spectrum analysis and corresponds to native homo-oligomers as determined by analytical centrifugation ( C. Airey and S. Lin , pers .
+comm . )
+.
+Additional studies will be necessary to establish the biochemical parameters for HSFI1 interaction with HSBP1 .
+Studies on the contribution of individual aliphatic residues toward the specificity of leucine zipper interactions in other proteins have failed to yield simple rules for predicting the formation of oligomers ( Land-schulz et al .
+1988 ; Vinson et al .
+1993 ; Harbury et al .
+1994 ; Lumb and Kim 1995 ) We can only speculate whether the interactions between HSBP1 and HSFI1 occur via formation of higher-order oligomeric coiled-coil structures and if these interactions are causal in the transition of the HSF1 trimer to monomer .
+The principal evidence for specificity of interaction between HSF1 and HSBP1 in vivo is based on the results of im munoprecipitation experiments at different points before , during , and after heat shock .
+Although we conclude that HSBP1 is associated only with HSF1 trimers , our results do not exclude the possibility that the monomer is also associated with HSBP1 .
+For exam ple , the ability of HSBPI1 to be detected as a component of the control form of HSF1 could be obscured by its interactions with other proteins .
+Although we prefer the interpretation that HSBP1 has negative effects on the activation of HSFI DNA-binding activity in reticulocyte lysates by destabilizing the trimer , HSBP1 could also interfere with conversion of the monomer to the trimer .
+The association of HSF1 with HSBPI1 is coincident with the appearance of HSF1 trimers .
+Furthermore , comparison of the im munoprecipitation results from cells heat shocked at 42°C versus 43°C reveals that the association of HSBPI1 alone is insufficient to cause dissociation of HSF1 trim ers .
+During heat shock at 42°C , HSBP1 is transiently associated with HSF1 , whereas at 43°C , HSBP1 interactions persist as attenuation of the heat shock response does not occur .
+It is intriguing to note that while HSBP1 1970 GENES & DEVELOPMENT associates with HSF1 at both heat shock temperatures , Hsp70 association with HSBP1 is only observed at 42°C , under conditions where attenuation of the heat shock response occurs .
+The lack of association of Hsp70 with HSBP1 at 43°C is probably explained by the absence of induced Hsp70 .
+We suggest that the detection of HSBP1/ HSF1 complexes early during heat shock may reflect the equilibrium that exists between activation and attenuation of the heat shock transcriptional response .
+There is increasing evidence from biochemical and genetic studies that heat shock proteins , in particular Hsp70 , are involved in the regulation of HSF .
+Interaction of Hsp70 with HSFI is detected during attenuation of the heat shock transcriptional response ( Abravaya et al .
+1992 ; Baler et al .
+1992 ) .
+Overexpression of Hsp70 by stable transfection of the Hsp70 gene in rat and human cells results in a more rapid attenuation of the heat shock transcriptional response and involves direct interaction between Hsp70 and HSF1 ( Mosser et al .
+1993 ; Rabindran et al .
+1994 ; Shi et al .
+1998 ) .
+Furthermore , Drosophila SL2 cells expressing higher levels of heat shock proteins also exhibit an accelerated attenuation of HSF ( Rabindran et al .
+1994 ) .
+These biochemical observations are supported by genetic studies , for example , an extragenic suppressor of a poor growth phenotype at 37°C of a yeast HSP70 mutant was a mutant allele of HSF with decreased DN A-binding activity ( Halladay and Craig 1995 ) .
+These observations are consistent with our finding that HSBPI1 interacts with Hsp70 and the suggestion that this event may be involved in the dissociation of HSF1 trimers to the latent monomer state during the attenuation process .
+Support for a similar function for Hsp70 ( DnaK ) is its role in the disruption of the multiprotein complex at the origin of A DNA replication and in the conversion of inert RepA dimers to the monomer state that binds to the P1 origin of replication ( Georgopoulos et al .
+1990 ; Wickner et al .
+1991 ) .
+The phenotypes that result from increased or decreased levels of CeHSB-1 in C. elegans offer intriguing hints into the complexity of the heat shock response .
+Although on one hand , CeHSB-1 clearly functions as a negative regulator of the heat shock transcriptional response and prevents the activation of a heat shock pro-moter-lacZ construct , at the level of the entire animal , overexpression of CeHSB-1 only reduces survival following exposure to extreme stress .
+In part , this is explained by the constitutive expression of heat shock proteins and the presence of other stress-inducible responses .
+Thus , whereas CeHSB-1 may have a dominant role in the regulation of HSF activity and the heat shock transcriptional response , at the level of the organism , other redundant mechanisms ensure survival .
+A more thorough analysis will be necessary to establish the phenotypes of CeHSB-1 deletion under normal and stress conditions .
+Although it is generally considered that the heat shock response is universal , there are an increasing number of observations that the heat shock transcriptional response is dampened in certain neuronal cells and during aging ( Pardue et al .
+1992 ; Heydari et al .
+1993 ) .
+The in ability of aged human cells cultured in vitro , or aged rodents , to mount a robust heat shock response correlates with a reduction in activation of HSF1 DN A-binding activity , yet the levels of HSF1 protein are not reduced ( Choi et al .
+1990 ; Fawcett et al .
+1994 ) .
+It has been suggested that the aging-dependent reduction of HSF1 trimerization could be due to other trans-regulatory proteins that interfere with the formation of the stable trimers .
+Proteins such as HSBP1 may have a role in the suppression of the activation of the stress response during the aging process .
+Materials and methods Two-hybrid system screen The yeast two-hybrid system plasmids and strains were the gift of R. Brent , and the protocol for the screen was adapted from Gyuris et al .
+( 1993 ) .
+LexA fusion with the hydrophobic repeats of m HSF1 , Lex A-HSF1-HR-A/B , was made using PCR primers to create EcoRI and Salil sites at amino acids 124 and 227 of mHSF1 , respectively , and inserting the PCR product into pEG202 .
+LexA fusions with mutations in HR-A/B were made in a similar manner .
+Mutations in mHSF1 and HSBP1 were made by overlapping PCR or as described previously ( Deng and Nick-oloff 1992 ) .
+LexA fusion with trimerization domains of mHSF2 contained the amino acids 107-213 of mHSF2 .
+The LexA fusion plasmids were transformed into EGY48 using lithium acetate ( Schiestl and Gietz 1989 ) .
+DNA-binding abilities of the various LexA fusions were monitored in a repression assay using reporter plasmid JK101 ( Brent and Ptashne 1984 ) .
+A cDNA library was made using poly ( A ) ® RNA from MDCK cells , and the cDNA products were inserted into pJG4-5 using standard procedures .
+The cDNA library was transformed into EGY48 with pEG202 HSFIHR-A/B and pSH18-34 lacZ-reporter plasmid , and ~3 million transformants were pooled and frozen .
+Twenty million galactose colony-forming units were plated on leucine-deficient plates , and 326 colonies were obtained of which 63 displayed galactose-dependent blue color on medium containing X-gal .
+The plasmids containing the cDNA inserts were rescued into KC8 , and sequence analysis of the cDNA inserts of the candidate clones revealed that 23 of 63 positive clones were HSBP1 .
+DNA manipulations and in vitro translation assay The EcoRI-Xhol fragment containing the HSBP1 cDNA from pJG4-5 was cloned into the EcoRI-Sall sites of pGEX-5X-1 ( Pharmacia ) and the EcoRI-Xhol sites of pcDN A3 ( Invitrogen ) .
+The HSBP1 cDNA fragment was blunt ended using Klenow enzyme and inserted into pUHD 15-1 ( Gossen and Bujard 1992 ) , cut with EcoRI , and blunt ended .
+The amino-terminal HA-tagged HSBP1 construct was made using a PCR primer that contained the sequences for the HA epitope tag and the PCR product was inserted into pecDN A3 .
+Using standard protocols , a human placental cDNA library was screened for the human homolog of HSBP1 and four clones were isolated and sequenced .
+Homolog search of DNA and protein sequence databases was performed with the BLAST programs ( Altschul et al .
+1990 ) .
+Potential hydrophobic repeats in HSBP1 were identified using an analysis described by Cohen and Parry ( 1994 ) .
+In vitro transcription and translation reactions were performed using rabbit reticulocyte lysate ( Promega ) , as described previously ( Sarge et al .
+1991 ) , with the following modifications : pcDN A3-HSBP1 DN A linearized by digestion with Xbal was used as a template for in HSBP1-a novel regulatory protein of HSF1 vitro transcription reactions .
+The in vitro-transcribed RNAs were resuspended in 20 ul of water and typically 0.5 ul of HSF1 RNA , and 0.5-1.5 ul of HSBP1 RNA was used for the in vitro translation reactions .
+Five microliters of the translations were used for gel mobility assays following treatment at 37°C or 43°C for 1 hr .
+Translation efficiencies were assessed by the addition of 10 uCi of P°SJmethionine to a 5-ul aliquot of the translation reaction without methionine .
+Imm unoprecipitation analysis The glutathione S-transferase ( GST ) -HSBP1 fusion protein was expressed and purified using glutathione-Sepharose beads ( Pharmacia ) .
+Polyclonal rabbit antiserum was prepared against the GST-HSBP1 protein by injection of a water-in-oil emulsion using Titerm ax ( Vaxcel ) .
+3T 3 cells grown to approximately 80 % confluency in 10-cm dishes were harvested after the relevant treatments and lysed in 500 pul of immunoprecipitation ( IP ) buffer ( 50 mm Tris at pH 7.4 , 250 mm NaCl , 5 mm EDTA , 0.5 mM DTT , 0.5 mm PMSF , 1 ug/ml leupeptin , 1 ug/ml pepstatin A , 0.1 % NP-40 ) by three freeze-thaw cycles .
+The extracts were spun for 10 min at 10,000g and the supernatants were used for immunoprecipitations , gel mobility shift assays ( performed as described in Sarge et al .
+1993 ) , and immunoblotting analysis .
+For immunoprecipitations , 1 ul of the anti-HSF1 , anti-H SBP1 antisera , or anti-HA ascites fluid was added to the extracts and incubated overnight at 4°C followed by addition of 25 ul of a 1:1 slurry of protein A-Sepharose CL-4B ( Pharmacia ) beads in IP buffer .
+After 1 hr of mixing , the immunoprecipitates ( antigen-antibody complexes ) were collected by a brief spin , washed three times in IP buffer , and transferred to fresh tubes .
+The immunoprecipitates were resuspended in SDS sample buffer , boiled , and subjected to 8 % and 15 % SDS-PAGE and immunoblotting analysis performed using chemiluminesence ( ECL-Amersham ) as described previously ( Sarge et al .
+1993 ) .
+Mono-clonal antibody 2A4 , which recognizes the cytosolic Hsp70 fam ily mem bers , was used for detection of Hsp70 ( S.P .
+Murphy , S.G. Fox , and R.I. Morimoto , unpubl . )
+.
+Cell culture HeLa , MDCK , and 3T 3 cells were grown in Dulbecco 's modified Eagle medium ( DMEM ) with 5 % calf serum ( GIBCO-BRL ) , whereas COS7 cells were grown in DMEM supplemented with 10 % fetal bovine serum at 37°C .
+The cells were heat shocked at the indicated temperatures and , where indicated , allowed to recover at 37°C .
+Transfections COS7 cells were transfected using liposomes ( Campbell 1995 ) .
+Five micrograms of pHBCAT ( Wu et al .
+1986 ) , 3 ug of pUHD 15-1 , 5 ug of pUHD 10-3 containing HSBP1 , and 2 ug of pRSV-luciferase or pCH110 ( Pharmacia ) were used for each transfection .
+For transfections involving the reporter alone , 8 ug of pGEM1 was used to ensure equal amounts of DNA in each transfection .
+Fifteen micrograms of DNA was incubated with the liposomes and added to cells with 4 ml of serum free OPTI-MEM ( GIBCO medium.. Twelve hours following addition of DNA , the medium was replaced with DMEM medium containing serum and 48 hr after addition of DNA , the cells were treated at 42°C for 2 hr and allowed to recover at 37°C for 4 hr .
+The cells were harvested , cell extracts were prepared ; CAT , B-galactosidase , and luciferase assays were performed as described ( Gorman et al .
+1982 ; DeWet et al .
+1987 ) ; and the transfection efficiencies were normalized to equivalent luciferase or GENES & DEVELOPMENT 1971 Satyal et al .
+B-galactosidase activities .
+For immunoflouresence analysis , HeLa cells were transfected with HA-tagged HSBP1 , and 24 hr post-transfection the cells were fixed and stained as described in Sarge et al .
+( 1993 ) .
+A 1 ug/ml solution of the anti-HA ascites fluid in PBS with 1 % BSA was used as the primary antibody , 2 ug/ml FITC-conjugated anti-mouse antibody ( Jackson Labs . )
+was used as the secondary antibody , and the immunofluoresence was observed and photographed using a 63 % oil immersion lens .
+C. elegans protocols C. elegans variety Bristol , strain N2 , and derived strains were grown as described in Brenner ( 1974 ) .
+The Psfl-Sall fragment containing 2.3 kb of the promoter region and the Ahsb-/ gene from cosmid KO8E7 was cloned into pGEM3Zf ( + ) and the DN A was coinjected with the rol-6 ( su1006 ) dominant marker plasmid pRF4 to generate transgenic strains that overexpress CeHSB-1 from extrachromosomal arrays ( Mello et al .
+1991 ) .
+One of these transgenic strains , CH1367 egRx 159 , was y-itradi-ated to obtain strain CH1417 16 , in which part of the array is integrated into the genome .
+( Mello and Fire 1995 ) .
+CH1417 was outcrossed three times before being analyzed .
+PCR primers were used to create an EcoRI site preceding the ATG initiation codon of Asb-1 and an Xhol site following the termination codon .
+The PCR product was digested with EcoRI and Xhol , ends filled with Klenow enzyme , and ligated to EcoRV-cut pPD30.38 that contains the unc-54 promoter ( Fire et al .
+1990 ) .
+The construct was coinjected with a plasmid containing sqt-1 ( sc13 ) into PC72 ubIn5 animals that contain an integrated copy of hspl6 : =lacZ reporter .
+The sqt-1 ( sc13 ) mutation causes a left Roller phenotype that can suppress the 1006 ) right Roller phenotype of PC72 ( Kramer and Johnson 1993 ) .
+Two transgenic strains that carried the injected DNA , as indicated by their non-Roller phenotype , were characterized .
+Non-Roller animals were picked into 250 ul of PBS and treated at 33°C for 1 hr .
+B-Galactosidase staining was performed as described and the animals mounted in 70 % glycerol in PBS ( Fire 1992 ) .
+The animals were photographed using a Nikon Optiphot microscope at 10x and 40x magnification using a MTI 3CCD camera and IP Lab Spectrum software .
+For exposure to thermal stress , L4 stage animals were treated at 33°C for 2 hr .
+Animals were then individually transferred to plates and the number of progeny produced were counted .
+Animals were also subjected to chemical stress by treatment with sodium arsenite or mercuric chloride at the indicated concentrations for 24 hr , and the number of surviving animals was determ ined .
+A deletion of the Ahsb-1 gene was generated using a protocol described by Gary Moulder and Robert Barstead ( pers .
+comm .
+; http : //snme01.omrf.uokhsc.edu/revgen/RevGen.htm1 ) L4 stage animals were treated with 4,5,8-trimethylpsoralen in the dark followed by 366 nm UV treatment for 2 min .
+The animals were harvested 24 hr later , treated with basic hypochlorite , and the eggs released .
+The eggs were allowed to hatch , and 500 L1 stage worms were placed on 10-cm NGM agarose plates and allowed to grow for 4-5 days .
+One-fourth of the worms were pelleted and digested in PCR buffer ( 10 mm Tris-HCI at pH 8.3 , 50 mm KCI , 2.5 mM MgCl , , 0.45 % Tween 20 , 0.45 % NP-40 , 0.01 % gelatin ) containing 200 ug/ml proteinase K and incubated at 65°C over-night .
+Two microliters of the lysate was used for nested PCR using primers that flank the hsb-/ gene .
+Plates ( 488 ) , representing 5 X 10° mutagenized genomes , were screened .
+The PCR products were analyzed by agarose gel electrophoresis , and the presence of smaller than wild-type sized PCR products were assessed .
+One positive plate was identified .
+A sib selection pro 1972 GENES & DEVELOPMENT tocol was used to isolate a single worm homozygous for the deletion and designated CH116 Asb-1 ( cg116 ) .
+The deletion strain was backcrossed twice to N2 .
+The deletion junction was determined by cloning of the Psfl-Sall PCR-generated genomic fragment into pGEM3Zf ( + ) , and upon sequencing , the deletion junction , a deletion of 664 bases , was identified .
+Acknowledgments We thank many colleagues who provided key reagents , including R. Brent and R. Finlay for plasmids and yeast strains for the two-hybrid system , K. Struhl for KC8 £ .
+coli strain , K.E .
+Mayo for a human placental cDN A library , A. Coulson for the KO8E7 cosmid , P. Candido for the gift of the PC72 reporter strain and generous advice , R.A. Lamb for anti-HA epitope antibody and Shaoru Wang for generating transgenic C. elegans strains .
+We thank D. Linzer , S. Mathur , R. Holmgren , and J. Widom for critical comments on this manuscript .
+These studies were supported by a grant to RLM .
+from the National Institute of General Medical Sciences and a grant to J.M.K .
+from the National Institute of Child Health and Human Development .
+The publication costs of this article were defrayed in part by payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 USC section 1734 solely to indicate this fact .
+Note added in proof The GenBank accession number for the human HSBP1 cDNA sequence described in this paper is AFO68754 .
+References Abravaya , K. , B. Phillips , and R.I. Morimoto .
+1991 .
+Attenuation of the heat shock response in HeLa cells is mediated by the release of bound heat shock transcription factor and is modulated by changes in growth and in heat shock temperatures .
+Genes & Dev .
+51 2117-2127 .
+Abravaya , K. , M.P .
+Myers , S.P .
+Murphy , and R.I. Morimoto .
+1992 .
+The human heat shock protein hsp70 interacts with HSF , the transcription factor that regulates heat shock gene expression .
+Genes & Dev .
+6 : 1153-1164 .
+Altschul , S.F .
+, W. Gish , W. Miller , EW .
+Myers , and D .J .
+Lipman .
+1990 .
+Basic local alignment search tool .
+Z Mol .
+Biol .
+215 : 403-410 .
+Baler , R. , W.J .
+Welch , and R. Voellmy .
+1992 .
+Heat shock gene regulation by nascent polypeptides and denatured proteins : hsp70 as a potential autoregulatory factor .
+J Cell Biol .
+117 : 1151-1159 .
+Baler , R. , G. Dahl , and R. Voellmy .
+1993 .
+Activation of human heat shock genes is accompanied by oligomerization , modi-fication , and rapid translocation of heat shock transcription factor HSF1 .
+Mol .
+Cell .
+Biol .
+13 : 2486-2496 .
+Brenner , S. 1974 .
+The genetics of Caenorhabditis elegans .
+Genetics 77i71-94 .
+Brent , R. and M. Ptashne .
+1984 .
+A bacterial repressor protein or a yeast transcriptional terminator can block upstream activation in yeast .
+Nature 312 : 612-615 .
+Campbell , M.J. 1995 .
+Lipofection reagents prepared by simple ethanol injection technique .
+BioTechniques 18 : 1027-1032 .
+Choi , H.S .
+, Z. Lin , B.S .
+Li , and A.Y .
+Liu .
+1990 .
+Age-dependent decrease in the heat-inducible DNA sequence-specific binding activity in human diploid fibroblasts .
+J Biol .
+Chem .
+265 : 18005-18011 .
+Clos , J. , JT .
+Westwood , P.B .
+Becker , S. Wilson , K. Lam bert , and C. Wu .
+1990 .
+Molecular cloning and expression of a hexa-meric Drosophila heat shock factor subject to negative regulation .
+Cell 63 : 1085-1097 .
+Cohen , C. and D.A.D .
+Parry .
+1994 .
+« -helical coiled coils : More facts and better predictions .
+Science 263 : 488-489 .
+Cotto , J.J. , M. Kline , and RI Morimoto .
+1996 .
+Activation of heat shock factor 1 DNA binding precedes stress-induced serine phosphorylation .
+Evidence for a multistep pathway of regulation .
+J Biol .
+Chem .
+271:3355-3358 .
+Deng , W.P .
+and J.A .
+Nickoloff .
+1992 .
+Site-directed mutagenesis of virtually any plasmid by eliminating a unique site .
+Anal .
+Biochem .
+200 : 81-88 .
+DeWet , J.R. , K.V .
+Wood , M. Deluca , D.R .
+Helinskin , and S. Sub-ramani .
+1987 .
+Firefly luciferase gene : Structure and expression in mammalian cells .
+Mol .
+Cell .
+Biol .
+71 725-737 .
+Fawcett , T.W .
+, S.L .
+Sylvester , K.D .
+Sarge , R.I. Morimoto , and N.J. Holbrook .
+1994 .
+Effects of neurohormonal stress and aging on the activation of mammalian heat shock factor 1 .
+Z Biol .
+Chem .
+2691 32272-32278 .
+Fire , A .
+1992 .
+Histochemical techniques for locating Escherichia coli B-galactosidase activity in transgenic organisms .
+Genet .
+Anal .
+Techniques Applic .
+91 151-158 .
+Fire , A. , SW. Harrison , and D. Dixon .
+1990 .
+A modular set of lacZ fusion vectors for studying gene expression in Caenorhabditis elegans .
+Gene 931 189-198 .
+Georgopoulos , C. , D. Ang , K. Liberek , and M. Zylicz .
+1990 .
+Properties of the E. coli heat shock proteins and their role in bacteriophage A growth .
+In Stress proteins in biology and medicine ( ed .
+R.I. Morimoto , A. Tissieres , and C. Georgopoulos ) , pp .
+191-221 .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY .
+Gething , M.J. and J. Sambrook .
+1992 .
+Protein folding in the cell .
+Nature 3551 33-45 .
+Giardina C. and J.T .
+Lis .
+1995 .
+Dynamic protein-DNA architecture of a yeast heat shock promoter .
+Mol .
+Cell .
+Biol .
+15 : 2737-2744 .
+Gorman , C.M .
+, LF .
+Moffat , and BH .
+Howard .
+1982 .
+Recom bi-nant genomes which express chloramphenicol acetyltrans-ferase in mammalian cells .
+Mol .
+Cell .
+Biol .
+21 1044-1051 .
+Gossen , M. and H. Bujard .
+1992 .
+Tight control of gene expression in mammalian cells by tetracycline-responsive promot-ers .
+Proc .
+Natl .
+Acad .
+Sci .
+891 5547-5551 .
+Green , M. , T.J. Schuetz , E.K .
+Sullivan , and R.E .
+Kingston .
+1995 .
+A heat shock-responsive domain of human HSFI1 that regulates transcription activation domain function .
+Mol .
+Cell .
+Biol .
+151 3354-3362 .
+Gyuris , J. , E. Golemis , H. Chertkov , and R. Brent .
+1993 .
+Cdil , a human G1 and S phase protein phosphatase that associates with Cdk2 .
+Cell 751791-803 .
+Halladay , J.T .
+and E.A .
+Craig .
+1995 .
+A heat shock transcription factor with reduced activity suppresses a yeast HSP70 mu-tant .
+Mol .
+Cell .
+Biol .
+15148904897 .
+Harbury , P.B .
+, P.S .
+Kim , and T. Alber .
+1994 .
+Crystal structure of an isoleucine-zipper trimer .
+Nature 371 : 80-83 .
+Hartl , F.U .
+1996 .
+Molecular chaperones in cellular protein fold-ing .
+Nature 381 : 571-579 .
+Heydari , A.R .
+, B. Wu , R. Takahashi , R. Strong , and A. Richard-son .
+1993 .
+Expression of heat shock protein 70 is altered by age and diet at the level of transcription .
+Mol .
+Cell .
+Biol .
+13 : 2909-2918 .
+Jakobsen , B.K .
+and H.R .
+Pelham .
+1988 .
+Constitutive binding of yeast heat shock factor to DNA in vivo .
+Mol .
+Cell .
+Biol .
+8 : 5040-5042 .
+Jurivich , D.A .
+, L. Sistonen , R.A. Kroes , and R.I. Morimoto .
+1992 .
+Effect of sodium salicylate on the human heat shock response .
+Science 255 : 1243-1245 .
+HSBP1-a novel regulatory protein of HSF1 Kay , R.J. , R.J. Boissy , R.H. Russnak , and EP .
+Candido .
+1986 .
+Efficient transcription of a Caenorhabditis elegans heat shock gene pair in mouse fibroblasts is dependent on multiple promoter elements which can function bidirectionally .
+Mol .
+Cell .
+Biol .
+61 3134-3143 .
+Kline , M.P .
+and R.I. Morimoto .
+1997 .
+Repression of the heat shock factor 1 transcriptional activation domain is modulated by constitutive phosphorylation .
+Mol .
+Cell .
+Biol .
+17 : 2107-2115 .
+Knauf , U. , EM .
+Newton , J. Kyriakis , and R.E .
+Kingston .
+1996 .
+Repression of human heat shock factor 1 activity at control temperature by phosphorylation .
+Genes & Dev .
+10:2782-2793 .
+Kramer , J.M .
+and J.J. Johnson .
+1993 .
+Analysis of mutations in the sqt-1 and rol-6 collagen genes of Caenorhabditis elegans .
+Genetics 135 : 1035-1045 .
+Landschulz , W.H .
+, P.F .
+Johnson , and S.L .
+McKnight .
+1988 .
+The leucine zipper : A hypothetical structure common to a new class of DNA binding proteins .
+Science 240 : 1759-1764 .
+Larson , J.S .
+, TJ .
+Schuetz , and R.E .
+Kingston .
+1988 .
+Activation in vitro of sequence-specific DNA binding by a human regulatory factor .
+Nature 3351 372-375 .
+Lindquist , S. and EA .
+Craig .
+1988 .
+The heat-shock proteins .
+Annu .
+Rev .
+Genet .
+221631-677 .
+Lis , J. and C. Wu .
+1993 .
+Protein traffic on the heat shock pro-moter : Parking , stalling , and trucking along .
+Cell 74 : 1-4 .
+Lumb , K.J .
+and P.S .
+Kim .
+1995 .
+Measurement of interhelical electrostatic interactions in the GCN4 leucine zipper .
+Sci- ence 268 : 436-439 .
+Mello , C.C .
+, J.M .
+Kramer , D. Stinchcomb , and V. Ambros .
+1991 .
+Efficient gene transfer in C. elegans : Extrachromosomal maintenance and integration of transforming sequences .
+EMBO J .
+10 : 3959-3970 .
+Mello , C. and A .
+Fire .
+1995 .
+DN A transformation .
+In Methods in cell biology .
+Vol 48 .
+Caenorhabditis elegans : Modern biological analysis of an organism ( ed .
+H.F. Epstein and D.C. Shakes ) , pp .
+451-482 .
+Academic Press , Inc. San Diego , CA .
+Morimoto , R.I. 1993 .
+Cells in stress : Transcriptional activation of heat shock genes .
+Science 259 : 1409-1410 .
+Morimoto , RL .
+, D.A .
+Jurivich , P.E .
+Kroeger , S.K .
+Mathur , S.P .
+Murphy , A. Nakai , K. Sarge , K. Abravaya , and LT. Sistonen .
+1994 .
+Regulation of heat shock gene transcription by a family of heat shock factors .
+In The biology of heat shock proteins and molecular chaperones ( ed .
+R.I. Morimoto , A. Tissieres , and C. Georgopoulos ) , pp .
+417-456 .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY .
+Mosser , D.D .
+, J. Duchaine , and B. Massie .
+1993 .
+The DN A-binding activity of the human heat shock transcription factor is regulated in vivo by hsp70 .
+Mol .
+Cell .
+Biol .
+13 : 5427-5438 .
+Nakai , A. and R.I. Morimoto .
+1993 .
+Characterization of a novel chicken heat shock transcription factor , heat shock factor 3 , suggests a new regulatory pathway .
+Mol .
+Cell .
+Biol .
+13 : 1983-1997 .
+Nakai , A. , M. Tanabe , Y. Kawazoe , J. Inazawa , R.I. Morimoto , and K. Nagata .
+1997 .
+HSF4 , a new member of the human heat shock factor gene family which lacks properties of a transcriptional activator .
+Mol .
+Cell .
+Biol .
+17 : 469-481 .
+Newton , EM .
+, U. Knauf , M. Green , and R.E .
+Kingston .
+1996 .
+The regulatory domain of human heat shock factor 1 is sufficient to sense heat stress .
+Mol .
+Cell .
+Biol .
+161 839-846 .
+Orosz , A. , J. Wisniewski , and C. Wu .
+1996 .
+Regulation of Drosophila heat shock factor trimerization : Global sequence requirements and independence of nuclear localization .
+Mol .
+Cell .
+Biol .
+16 : 7018-7030 .
+Pardue , S. , K. Groshan , J.D .
+Raese , and M. Morrison-Bogorad .
+1992 .
+Hsp70 m RN A induction is reduced in neurons of aged GENES & DEVELOPMENT 1973 Satyal et al .
+rat hippocampus after thermal stress .
+Neurobiol .
+A ging 13 : 661-672 .
+Peteranderl , R. and H.C. Nelson .
+1992 .
+Trimerization of the heat shock transcription factor by a triple-stranded « -helical coiled-coil .
+Biochemistry 31 : 12272-12276 .
+Rabindran , S.K .
+, G. Giorgi , J. Clos , and C. Wu .
+1991 .
+Molecular cloning and expression of a human heat shock factor , HSF1 .
+Proc .
+Natl .
+Acad .
+Sci .
+881 6906-6910 .
+Rabindran , S.K .
+, R.1 .
+Haroun , J. Clos , J. Wisniewski , and C. Wu .
+1993 .
+Regulation of heat shock factor trimer formation : Role of a conserved leucine zipper .
+Science 259 : 230-234 .
+Rabindran , S.K .
+, J. Wisniewski , L. Li , G.C .
+Li , and C. Wu .
+1994 .
+Interaction between heat shock factor and hsp70 is insufficient to suppress induction of DNA-binding activity in vivo .
+Mol .
+Cell .
+Biol .
+141 6552-6560 .
+Sarge , K.D .
+, V. Zimarino , K. Holm , C. Wu , and R. I. Morimoto .
+1991 .
+Cloning and characterization of two mouse heat shock factors with distinct inducible and constitutive DN A-binding ability .
+Genes & Dev .
+5:1902-1911 .
+Sarge , K.D .
+, S.P .
+Murphy , and R.I. Morimoto .
+1993 .
+Activation of heat shock gene transcription by heat shock factor 1 involves oligomerization , acquisition of DNA-binding activity , and nuclear localization and can occur in the absence of stress .
+Mol .
+Cell .
+Biol .
+13 : 1392-1407 .
+Schiestl , R.H. and R.D .
+Gietz .
+1989 .
+High efficiency transformation of intact yeast cells using single stranded nucleic acids as a carrier .
+Curr .
+Genet .
+16 : 339-346 .
+Schuetz , T .J .
+, G.J .
+Gallo , L. Sheldon , P. Tempst , and R.E .
+Kingston .
+1991 .
+Isolation of a cDNA for HSF2 : evidence for two heat shock factor genes in humans .
+Proc .
+Natl .
+Acad .
+Sci .
+88 : 6911-6915 .
+Shi , Y. , P.E .
+Kroeger , and R.I. Morimoto .
+1995 .
+The carboxyl-terminal transactivation domain of heat shock factor 1 is negatively regulated and stress responsive .
+Mol .
+Cell .
+Biol .
+15 : 4309-4318 .
+Shi , Y. , D.D .
+Mosser , and R.I. Morimoto .
+1998 .
+Molecular chaperones as HSF1-specific transcriptional repressors .
+Genes & Dev .
+12 : 654-666 .
+Sorger , P.K .
+and H.C. Nelson .
+1989 .
+Trimerization of a yeast transcriptional activator via a coiled-coil motif .
+Cell 59 : 807-813 .
+Sorger , P.K .
+and H.R .
+Pelham .
+1988 .
+Yeast heat shock factor is an essential DNA-binding protein that exhibits tempera-ture-dependent phosphorylation .
+Cell 541 855-864 .
+Stringham , E.G .
+and EP .
+Candido .
+1993 .
+Targeted single-cell induction of gene products in Caenorhabditis elegans : A new tool for developmental studies .
+J Exp .
+Zool .
+266:227-233 .
+Stringham , E.G .
+and E.P .
+Candido .
+1994 .
+Transgenic strains of the soil nematode Caenorhabditis elegans as biological monitors of environmental stress .
+Environ .
+Toxicol .
+Chem .
+8:1211-1220 .
+Tanabe , M. , Y. Kawazoe , S. Takeda , R.I. Morimoto , K. Nagata , and A. Nakai .
+1998 .
+Disruption of the HSF3 gene results in the severe reduction of heat shock gene expression and loss of therm EMBO J 17 : 1750-1758 .
+Vinson , C.R .
+, T. Hai , and S.M .
+Boyd .
+1993 .
+Dimerization specificity of the leucine zipper-containing bZIP motif on DNA binding : Prediction and rational design .
+Genes & Dev .
+7:1047-1058 .
+Welch , W.J .
+and J.P. Suhan .
+1986 .
+Cellular and biochemical events in mammalian cells during and after recovery from physiological stress .
+J Cell Biol .
+103 : 2035-2052 .
+Westwood , J.T .
+and C. Wu .
+1993 .
+Activation of Drosophila heat shock factor : Conformational change associated with a monomer-to-trimer transition .
+Mol .
+Cell .
+Biol 13 : 1974 GENES & DEVELOPMENT 3481-3486 .
+Wickner , S. , J. Hoskins , and K. McKenney .
+1991 .
+Monomeriza-tion of RepA dimers by heat shock proteins activates binding to DNA replication origin .
+Proc .
+Natl .
+Acad .
+Sci .
+881 7903-7907 .
+Wiederrecht , G. , D. Seto , and C.S .
+Parker .
+1988 .
+Isolation of the gene encoding the S. cerevisiae heat shock transcription factor .
+Cell 54 : 841-853 .
+Wilson , R. , R. Ainscough , K. Anderson , C. Baynes , M. Berks , J. Bonfield , J. Burton , M. Connell , T. Copsey , J. Cooper et al .
+1994 .
+2.2 Mb of contiguous nucleotide sequence from chromosome III of C. elegans .
+Nature 368 : 32-38 .
+Wu , BJ .
+, R.E .
+Kingston , and RI .
+Morimoto .
+1986 .
+Human HSP70 promoter contains at least two distinct regulatory domains .
+Proc .
+Natl .
+Acad .
+Sci .
+831 629-633 .
+Wu , C. , J. Clos , G. Giorgi , R.I. Haroun , S.-J .
+Kim , S.K .
+Rabindran , J.T .
+Westwood , J. Wisniewski , and G. Yim .
+1994 .
+Structure and regulation of heat shock transcription factor .
+In The biology of heat shock proteins and molecular chaperones ( ed .
+R.I Morimoto , A. Tissieres , and C. Georgopoulos ) , pp .
+395-416 .
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY .
+Wu , C. 1995 .
+Heat shock transcription factors : Structure and regulation .
+Annu .
+Rev .
+Cell .
+Dev .
+Biol .
+11:441-469 .
+Zandi , E. , T.N .
+Tran , W. Chamberlain , and C.S .
+Parker .
+1997 .
+Nuclear entry , oligomerization , and DNA binding of the Drosophila heat shock transcription factor are regulated by a unique nuclear localization sequence .
+Genres & Dev .
+11 : 1299-1314 .
+Zuo , J. , R. Baler , G. Dahl , and R. Voellmy .
+1994 .
+Activation of the DNA-binding ability of human heat shock transcription factor 1 may involve the transition from an intramolecular to an intermolecular triple-stranded coiled-coil structure .
+Mol .
+Cell .
+Biol .
+141 7557-7568 .

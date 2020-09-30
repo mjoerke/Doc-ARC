@@ -1,0 +1,465 @@
+THE JOURNAL or BIOLOGICAL CHEMISTRY .
+© 1995 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+270 , No .
+35 , Issue of September 1 , pp .
+20653-20659 , 1995 Printed in U.S.A. Phosphorylation of the Transcription Factor NFATp Inhibits Its DNA Binding Activity in Cyclosporin A-treated Human B and T Cells* ( Received for publication , April 4 , 1995 , and in revised form , June 12 , 1995 ) Jungchan Park } , Nabeel R. Yaseent , Patrick G. Hogan§ , Anjana Raot|** , and Surendra Sharmai # # } From the { Section of Experimental Pathology , Department of Pathology , Roger Williams Medical Center-Brown University , Providence , Rhode Island 02908 , the §Department of Neurobiology , Harvard Medical School , the Division of Cellular and Molecular Biology , Dana Farber Cancer Institute , and the Department of Pathology , Harvard Medical School , Boston , Massachusetts 02115 Cyclosporin A ( CsA ) exerts its immunosuppressive effect by inhibiting the activity of nuclear factor of activated T cells ( NFAT ) , thus preventing transcriptional induction of several cytokine genes .
+This effect is thought to be largely mediated through inactivation of the phosphatase calcineurin , which in turn inhibits translocation of an NFAT component to the nucleus .
+Here we report that CsA treatment of Raji B and Jurkat T cell lines yields a phosphorylated form of NFATp that is inhibited in DNA-binding and in its ability to form an NFAT complex with Fos and Jun .
+Immunoblot analyses and metabolic labeling with show that CsA alters NFATp migration on SDS-polyacrylamide gel electrophoresis by increasing its phosphorylation level without affecting subcellular distribution .
+Dephosphorylation by in vitro treatment with calcineurin or alkaline phosphatase restores NFATp DNA binding activity and its ability to reconstitute an NFAT complex with Fos and Jun proteins .
+These data point to a new mechanism for CsA-sensitive regulation of NFATp in which dephosphorylation is critical for DNA binding .
+The immunosuppressive drugs cyclosporin A ( CsA ) and FK-506 repress an early event in T cell activation by inhibiting a step ( s ) in intracellular calcium signaling , thus preventing the transcription of several cytokine genes including interleukin ( IL ) -2 , IL-3 , IL-4 , granulocyte/macrophage colony-stimulating factor , tumor necrosis factor- « , and other molecules that play a major role in coordinating the immune response ( for review , see Sigal and Dumont ( 1992 ) , Schreiber and Crabtree ( 1992 ) , and Bierer et al .
+( 1993 ) ) .
+Although the mechanism ( s ) by which these drugs inhibit transcription of a discrete set of cytokines is not yet well defined , recent studies have implicated the Ca**/cal-modulin-dependent protein phosphatase , calcineurin ( CaN ) , as * This work was supported in part by National Institutes of Health Grants CA55910 ( to S. S. ) and CA42471 and GM46227 ( to A. R. ) , and by grants from the Harvard-Hoffmann LaRoche collaborative research agreement ( to A. R. and P. G. H. ) .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 U.S.C .
+Section 1734 solely to indicate this fact .
+** Supported by a scholar award form the Leukemia Society of America .
+# } To whom correspondence and reprint requests should be ad-dressed .
+Tel .
+: 401-456-6565 ; Fax : 401-456-6569 . '
+The abbreviations used are : CsA , cyclosporin A ; IL , interleukin ; PMA , phorbol 12-myristate 13-acetate ; PHA , phytohemagglutinin ; NFAT , nuclear factor of activated T cells ; CaN , calcineurin ; AP , calf intestinal alkaline phosphatase ; EMSA , electrophoretic mobility shift assay ; USF , upstream stimulatory transcription factor ; LDH , H subunit of lactate dehydrogenase .
+an intracellular component responsible for regulating the drug-sensitive expression of at least the IL-2 , tumor necrosis fac-tor-a , and granulocyte/macrophage colony-stimulating factor genes ( Clipstone and Crabtree , 1992 ; O'Keefe et al .
+, 1992 ; Goldfeld et al .
+, 1994 ; Tsuboi et al .
+, 1994 ) .
+Nuclear factor of activated T cells ( NFAT ) is involved in the transcription of these cytokines and may be a major target of the activity of CaN and the immunosuppressive drugs ( Emmel et al .
+, 1989 ; Granelli-Piperno et al .
+, 1990 ; Randak et al .
+, 1990 ; Chuypilo et al .
+, 1993 ; Cockerill et al .
+, 1998 ; Goldfeld et al .
+, 1993 ; Masuda et al .
+, 1993 ; Szabo et al .
+, 1993 ; Rooney et al .
+, 1994 ; for review , see Rao ( 1994 ) ) .
+Induction of NFAT parallels that of IL-2 and requires protein kinase C-dependent and Ca**-dependent signaling processes that can be triggered in vitro by the combination of phorbol ester ( PMA ) and ionomycin or PMA and phytohemag-glutinin ( PHA ) ( Durand et al .
+, 1988 ; Ullman et al .
+, 1990 ; Flanagan et al .
+, 1991 ) .
+The structural complexity of NFAT was first appreciated by Flanagan et al .
+( 1991 ) , who proposed a two-component structure consisting of a PMA-inducible nuclear component resistant to CsA and FK-506 and a T cell-specific cytosolic component present in unstimulated T cells that translocated to the nucleus upon ionomycin or PHA stimulation .
+The translocation of the cytosolic component is sensitive to CsA and FK-506 , indicating that this step is controlled directly or indirectly by CaN .
+Thus , the simplest proposal to account for activation has been that CaN `` activates `` NFAT solely by controlling translocation of the cytosolic component to the nucleus ( Schreiber and Crabtree , 1992 ) .
+The PMA-inducible nuclear component was later shown to consist of ubiquitous Fos and Jun family proteins ( Jain et al .
+, 1992 , 1993a ; Boise et al .
+, 1993 ; Northrop et al .
+, 1993 ; Yaseen et al .
+, 1993 , 1994 ; Jain et al .
+, 1994 ) .
+Recently , a pre-existing component of NFAT ( NFATp ) ( for review , see Rao ( 1994 ) ) was purified from cytoplasmic extracts of a murine T cell line ( Jain et al .
+, 1998a ) , and its cDNA was cloned ( McCaffrey et al .
+, 1993b ) .
+Although its expression is not restricted to T cells , its biochemical characteristics are very similar to the cytosolic component that has been described by Flanagan et al .
+( 1991 ) .
+NFATp is present in the cytoplasm of unstimulated murine T cells , it translocates to the nucleus upon Ca**-dependent stimulation , and its translocation is blocked by CsA .
+Purified NFAT p is able to directly bind to the murine IL-2 NFAT motif and to form an NFAT complex in association with Fos and Jun proteins ( Jain et al .
+, 1993a ; McCaffrey et al .
+, 1993b ) .
+NFATp is a phosphoprotein with a molecular mass of ~120 kDa that acts as an in vitro substrate of CaN ( Jain et al .
+, 1998a ; McCaffrey et al .
+, 1993a ) , supporting the notion that NFATp is a potential * K. T. Y. Shaw , A. M. Ho , A. Raghavan , J. Kim , J. Jain , J .
+Park , S. Sharma , A. Rao , and P. G. Hogan , submitted for publication .
+20653 20654 target of CsA .
+A related cytoplasmic protein , NFATc , has been characterized in human T cells .
+Expression of NFAT ' c in nonlymphoid cells is able to activate NFAT-driven transcription with PMA and ionomycin stimulation as well as confer DNA-binding activity ( Northrop et al .
+, 1994 ) .
+The DNA-binding domains of both NFATp and NFATe display a distinct sequence similarity with the Rel homology region of Rel proteins ( McCaffrey et al .
+, 1998b ; Northrop et al .
+, 1994 ) .
+However , whereas NFATp is constitutively expressed in a variety of lymphoid cells and in certain nonlymphoid cells ( Ho et al .
+, 1994 ; Wang et al .
+, 1995 ) , `` RNA expression of NFATc is induced by PMA and ionomycin stimulation , partially inhibited by CsA , and largely restricted to T cells ( Northrop et al .
+, 1994 ) .
+Furthermore , it has recently been shown that NFAT is constitutively nuclear in double-positive thymocytes ( Sen et al .
+, 1994 ) .
+Therefore , it appears that T cell-specific , CsA-sensitive NFAT-mediated transcription is a complex phenomenon involving more than one protein regulated by more than one mechanism .
+We have recently shown that NFAT is inducible in human B cells upon PMA/PHA stimulation and that a constitutively expressed component present in nuclear extracts of unstimulated transformed B and T cell lines is necessary and sufficient for reconstituting a specific NFAT complex in association with recombinant Fos and Jun proteins ( Yaseen et al .
+, 1993 , 1994 ) .
+The constitutive component is therefore similar to NFATp in its ability to form an NFAT complex in combination with Fos and Jun proteins .
+However , its presence in nuclear extracts of unstimulated human B and T cell lines raised the question of whether and how CsA inhibits the NFAT activity in this system , since CsA has been assumed to inhibit NFAT complex formation by blocking the migration of a cytoplasmic component to the nucleus ( Flanagan et al .
+, 1991 ; Schreiber and Crabtree , 1992 ) .
+In this report , we show that the constitutive factor found in nuclear extracts of unstimulated B and T cell lines is a human homologue of murine NFATp and that its ability to reconstitute an NFAT complex in cooperation with Fos and Jun is inhibited by CsA treatment .
+This inhibition is due to loss of DNA-binding activity of human NFATp resulting from an increase in its phosphorylation level as in vitro phosphatase treatment completely restores DNA-binding activity of the factor .
+These observations demonstrate an additional mechanism for CsA-mediated inhibition of NFAT complex formation .
+EXPERIMENTAL PROCEDURES Cell Culture , Stimulation , and Cyclosporin A ( CsA ) Treatment-Jurkat and Raji cell lines purchased from ATCC were cultured in RPMI 1640 medium supplemented with 10 % fetal bovine serum and 2 mM glutamine .
+HeLa cell line was a kind gift from Dr. Peter Shank and was cultured in Dulbecco 's modified Eagle 's medium supplemented with 10 % fetal bovine serum and 1 mM sodium pyrophosphate .
+Cell lines were seeded in fresh medium at 2.5 X 10° cells/ml , and at 48 h after seeding , nuclear and cytoplasmic extracts were prepared as described below .
+Stimulation of cells was done by adding 2 ug/ml PHA and 50 ng/ml PMA to cell cultures 4 h prior to nuclear and cytoplasmic extrac-tions .
+For CsA studies , the preliminary experiments suggested that CsA ( Sandoz ) could be used at 1 ug/ml concentration for 1 h to 24 h without affecting cell viability or data reproducibility .
+Accordingly , cell cultures were treated with 1 ug/ml of CsA ( Sandoz ) for 16 h prior to nuclear and cytoplasmic extraction .
+Cell Extraction-To prepare nuclear and cytoplasmic extracts , 1-2 x 10° cells were harvested by centrifugation , washed 3 times with calci-um-deficient phosphate-buffered saline , and resuspended to 2.5 x 10 `` cells/ml in a buffer containing 10 mM Tris , pH 7.4 , 10 mm NaCl , 3 mm MgCl , , 0.5 mM dithiothreitol , 2.5 mm EGTA , protease inhibitors ( 5 ug/ml aprotinin , 5 ug/ml antipain , 100 uM benzamidine , 5 ug/ml leu-peptin , 5 ug/ml pepstatin , 5 ug/ml soybean trypsin-chymotrypsin inhib-itor , and 1 mM phenylmethylsulfonyl fluoride ) , and phosphatase inhibitors ( 50 mM NaF and 20 mx sodium pyrophosphate ) .
+Resuspended cells were lysed by adding 5 % Nonidet P-40 to bring the final concentration of Nonidet P-40 to 0.05 % and incubated on ice for 10 min .
+The cell Mechanism for Cyclosporin A Inhibition of NFAT lysates were centrifuged at 300 x g for 10 min to separate nuclei from cytoplasmic fraction .
+Nuclear pellets were washed once with 1 ml of the same buffer , and resuspended in 300-400 pl of a nuclear extraction buffer containing 20 mM Hepes , pH 7.9 , 0.42 M NaCl , 1.5 mm MgCl , , 25 % ( v/v ) glycerol , 0.2 mM EDTA , 0.5 mM dithiothreitol , and the above protease inhibitors .
+Resuspended nuclei were incubated on ice for 30 min with occasional shaking to extract the nuclear proteins and finally spun down in a microcentrifuge for 5 min .
+The supernatant with nuclear proteins was dialyzed against a dialysis buffer ( 20 mM Hepes , pH 7.9 , 100 mm KCl , 0.2 mM EDTA , 20 % ( v/v ) glycerol , 1 mM phenylmethylsulfonyl fluoride , and 0.5 mM dithiothreitol ) .
+For preparation of cytoplasmic fractions , the 300 x g supernatant was further centrifuged at 100,000 x g for 1 h. Cytoplasmic proteins in the supernatant were precipitated at 1.5 M ammonium sulfate for 30 min on ice , and the precipitated proteins were collected by centrifuga-tion at 100,000 x g for 30 min .
+The protein pellets were resuspended in the dialysis buffer supplemented with the above protease inhibitors , and dialyzed extensively against the dialysis buffer .
+The protein concentration was determined using the Bio-Rad protein assay kit with bovine serum albumin as a standard .
+Oligonucleotides Used in DNA Binding-Human NFAT oligonucleotide is a 30-mer containing the NFAT binding site from the IL-2 pro-moter , and its sequence is 5-GGAGGAAAAACTGTTTCATACAGAAG-GCGT-3 ' ( Emmel et al .
+, 1989 ) .
+The murine NFAT oligonucleotide from the distal NFAT site of the murine IL-2 promoter is a 33-mer , and its sequence | is - 5'-gateGCCCAAAGAGGAAAATTTGTTTCATACAG-3 ' ( Jain et al .
+, 1993b ) .
+The oligonucleotide used as a nonspecific competitor contains a 5'-purine-rich motif , and its sequence is 5'-AAGAAG-GAGAAAATACCTTTTTGATTTTCACA-3 ' .
+Double-stranded oligonucleotides were prepared by reannealing of synthetic single-stranded oligonucleotides purchased from Research Genetics and labeled with [ a-*°P ] dCTP ( 3000 Ci/mmol , Amersham Corp. ) by filling in the recessed ends using Klenow enzyme .
+Electrophoretic Mobility Shift Assay-Binding reactions have been described previously ( Yaseen et al .
+, 1993 ) .
+Briefly , 5 or 10 ug of nuclear proteins were incubated at room temperature in a DNA binding buffer containing 10 mm Tris , pH 7.5 , 50 mM NaCl , 1 mm EDTA , 1 mm 2-mercaptoethanol , 1 % Ficoll ( M , 400,000 ) , and 300 ng of poly ( dI-dC ) poly ( dI-dC ) along with cold competitors , if any .
+After a 10-min incubation , 0.1-0.25 ng of radioactive NFAT oligonucleotide probe was added , and the incubation was continued for 20 min .
+For supershift assays , 1 pl of 1/10-diluted rabbit antisera specific to murine NFATp was added to binding reactions , and the incubation was continued for a further 10 min .
+Two rabbit antisera raised against either recombinant NFATp ( R59 ) or an amino-terminal peptide fragment ( 67.1 ) of NFATp were used ( McCaffrey et al .
+, 1993b ; Ho et al .
+, 1994 ) .
+For NFAT reconstitution with recombinant Fos and Jun proteins , and DNA binding to the murine oligonucleotide , the binding buffer used was identical to the above except that 5 mM dithiothreitol was substituted for 2-mercapto-ethanol and 0.2 mg/ml bovine serum albumin was added as described previously ( Yaseen ef al .
+, 1994 ) .
+Purified recombinant Fos and Jun proteins ( Kerppola and Curran , 1991 ) were a kind gift from Dr. Tom Kerppola and Dr. Tom Curran .
+In Vitro Phosphatase Treatment-Nuclear extract ( 40 ug ) from either CsA-untreated or treated cells was mixed with 3 units of calf intestinal alkaline phosphatase ( AP ) ( Pharmacia Biotech Inc. ) in a buffer containing 20 mM Hepes , pH 7.4 , 50 mm KCl , 2.5 mm MgC ] ; , 0.1 mm EDTA , 10 % glycerol , 0.5 mM dithiothreitol , incubated at 30 °C for 15 min .
+For CaN treatment , the same amount of nuclear extract was mixed with 2 ug of CaN ( Upstate Biotechnology Inc. ) and 1 ug of calmodulin ( Upstate Biotechnology Inc. ) in the same buffer except that 1.5 mM MnCl , was added and incubated at 30 °C for 15 min .
+According to manufacturers , CaN has a specific activity of 1 unit/mg , and AP has a specific activity of 2300 units/mg , as measured by hydrolysis of p-nitrophenyl phos-phate .
+For the dose-dependent effect of CaN and AP on dephosphorylation of NFATp ( Fig .
+4C ) , increasing amounts of CaN and AP were used as indicated in the figure legend .
+For inhibition of the phosphatase activity of AP and CaN , 20 mM sodium pyrophosphate and 50 mM NaF were added to reaction mixtures before the incubation .
+Heat inactivation of CaN was conducted for 10 min at 75 °C before adding to nuclear extract .
+Control nuclear extracts were mixed with the same volume of buffer but without phosphatase and incubated at 30 °C for 15 min .
+Immunoblot Analysis-Nuclear and cytoplasmic proteins were separated on a 7 % SDS-polyacrylamide gel and transferred to a nitrocellulose membrane .
+The filter was incubated in TBS-T ( 10 mm Tris , pH 7.6 , 150 mm NaCl , 0.2 % Tween 20 ) containing 5 % nonfat dry milk overnight at 4 °C .
+First antibody incubation was carried out in TBS-T Mechanism for Cyclosporin A Inhibition of NFAT containing 2 % bovine serum albumin using 1:3000-diluted R59 anti-serum .
+Following incubation for 3 h at room temperature , the membrane was rinsed in TBS-T , incubated with secondary antibody , a donkey anti-rabbit IgG antibody conjugated to horseradish peroxidase ( Amersham Corp. ) , for 1 h at room temperature , and then rinsed again .
+The membrane was developed using the enhanced chemiluminesence ( ECL ) detection system ( Amersham Corp. ) .
+For immunoblotting of H subunit of lactate dehydrogenase ( LDH ) and transcription factor USF , equal amounts of nuclear and cytoplasmic extracts were fractionated on a 10 % SDS-polyacrylamide gel , and transferred to a nitrocellulose membrane .
+The rest of the procedure was the same as that used for NFATp immunoblotting except for the first and second antibodies used .
+A monoclonal mouse anti-human LDH antibody ( Sigma ) and 1:2000-diluted goat anti-mouse IgG antibodies conjugated to horseradish peroxidase ( Santa Cruz Biotech . )
+were used for first and second antibody incubations , respectively .
+After detecting LDH by ECL system , horseradish peroxidase on the filter was inactivated by incubation in Tris-buffered saline containing 0.2 % Tween 20 and 15 % hydrogen peroxide at room temperature for 30 min .
+The filter was reprobed with 0.2 ug/ml of rabbit anti-USF antibodies ( Santa Cruz Biotech . )
+, and a donkey anti-rabbit IgG antibody conjugated to horseradish peroxidase was used as a secondary antibody .
+*P Labeling and Immunoprecipitation-Raji cells ( 2 X 10° cells ) were washed 3 times with phosphate-free RPMI 1640 , equally divided into two flasks , and incubated with 0.5 mCi of in 10 ml of phosphate-free medium for 1 h. One of the flasks was treated with 1 ug/ml CsA , while an appropriate concentration of ethanol was added to untreated culture as vehicle control .
+After incubation for another 2 h , nuclear extracts were prepared and quantitated as described previously .
+Nuclear protein ( 300 ug ) from CsA-treated cells was incubated with 4 ug of CaN as described previously , and then CaN-treated and untreated nuclear proteins were precleared with protein A-Sepharose in TEN buffer ( 50 mm Tris , pH 7.6 , 150 mM NaCl , and 1 mM EDTA ) including 1 mg/ml bovine serum albumin , protease inhibitors ( same as used for nuclear extraction ) , and phosphatase inhibitors ( 10 mM sodium pyrophosphate and 25 mM NaF ) .
+NFATp was immunoprecipitated for 3 h with R59 antiserum and protein A-Sepharose , and immunoprecipitates were washed 3 times with the above buffer containing 0.3 M KCl instead of NaCl .
+Immunoprecipitated proteins were separated on a SDS-polyacrylamide gel , transferred to nitrocellulose , and then subjected to immunoblot analysis using R59 antiserum to compare recovery of NFAT p from different samples .
+After luminescence on the membrane disappeared , the same membrane was scanned by a PhosphorImager to detect *°P-labeled NFATp .
+RESULTS The Constitutive Component of NFAT Is a Target of CsA-We have previously shown that NFAT binding activity is inducible in human B cells ( Yaseen et al .
+, 1993 ) , and this observation has been recently confirmed in activated murine B cells ( Choi et al .
+, 1994 ; Venkataraman et al .
+, 1994 ) .
+To test whether NFAT induction in human B cells is sensitive to CsA as is the case in T cells ( Emmel et al .
+, 1989 ; Mattilla et al .
+, 1990 ; Jain et al .
+, 1992 ) , nuclear extracts were prepared from Raji B cells ( a human Burkitt 's lymphoma cell line ) and Jurkat T cells ( a human T cell lymphoma cell line ) stimulated with PMA and PHA in the presence or absence of CsA .
+These extracts were then analyzed for binding activity to a human IL-2 NFAT oligonucleotide in electrophoretic mobility shift assay ( EMSA ) ( Fig .
+14 ) .
+Nuclear extracts from B and T cells stimulated in the presence of CsA were lacking in NFAT binding activity ( Fig .
+14 , lanes 2 and 4 compared with lanes 1 and 3 ) , indicating that CsA prevented the induction of NFAT binding in B as well as in T cells .
+We have previously demonstrated that a constitutive component present in nuclear extracts of unstimulated human B and T cell lines could reconstitute an NFAT complex in association with purified recombinant Fos and Jun proteins ( Yaseen et al .
+, 1993 , 1994 ) .
+Since Fos and Jun induction is not sensitive to CsA , it was likely that the target for CsA inhibition in NFAT was the constitutive component found in unstimulated B and T cells .
+To find out whether the constitutive component is a target of CsA , nuclear extracts from unstimulated Raji B and Jurkat T cells treated with or without CsA were tested for their 20655 A B Raji Jurkat Jurkat Raji f ?
+sk -CsA +CsA - -Cs +Cs .
+CsA - +o - + & f~-s f -- - Fos/Jun ~o $ % % o go ® % & NFAT - » ~ .
+NFAT -* .
+.
+« > * - @ 0ODDOC® Free Probe 10 r : 3 4 102 3 4 5 60 7 8 Fic .
+1 .
+CsA inhibits DNA binding activity of the constitutive component of NFAT in human lymphocytes .
+A , inhibition of inducible NFAT complex in T and B cells by CsA treatment .
+EMSA using a radioactive probe containing the human IL-2 NFAT site was performed with nuclear extracts from Jurkat ( a T cell line ) and Raji ( a B cell line ) stimulated with 50 ng/ml PMA and 2 ug/ml PHA in the absence ( lanes 1 and 3 ) or presence ( lanes 2 and 4 ) of 1 ug/ml CsA .
+NFAT induction was inhibited in both B and T cells by CsA treatment .
+Arrows indicate NFAT complexes and free probe .
+B , EMSA was performed using nuclear extracts from unstimulated Raji B and Jurkat T cells , either untreated ( lanes 1 , 2 , 5 , and 6 ) or treated ( lanes 3 , 4 , 7 , and 8 ) with 1 ug/ml of CsA .
+Extracts were incubated with a labeled human IL-2 NFAT oligonucleotide in the absence ( odd-numbered lanes ) or presence ( even-numbered lanes ) of 125 nM recombinant Fos/Jun heterodimers .
+ability to cooperate with recombinant Fos/Jun heterodimers in NFAT reconstitution ( Fig .
+1B ) .
+As expected , nuclear extracts of CsA-untreated B and T cells were able to reconstitute an NFAT complex ( lanes 2 and 6 ) .
+On the other hand , those of CsA-treated cells lost most of their ability to reconstitute an NFAT complex ( lanes 4 and 8 ) .
+These results indicate that the constitutive component of NFAT is a target of CsA , but they do not show whether CsA treatment leads to loss of the component from lymphocyte nuclei or to its modification in a way that prevents it from binding to DNA .
+The Constitutive Component of NFAT Is a Homologue of the Murine Pre-existing Component of NFAT ( NFAT observation that the constitutive component is not only a pre-existing subunit of NFAT but a potential target of CsA-mediated inhibition of NFAT induction suggested that this factor might be related to NFATp .
+To test this possibility , we utilized antisera against murine NFATp ( McCaffrey et al .
+, 1993b ; Ho et al .
+, 1994 ) in `` supershift `` assays ( Fig .
+2 ) .
+Incubation of nuclear extracts with the preimmune serum had no effect ( lanes 2 and 6 ) , while two antisera against murine NFATp supershifted native NFAT complexes from stimulated Raji cells ( Zanes 3 and 4 ) as well as NFAT complexes reconstituted by combining nuclear extracts from unstimulated cells with Fos/Jun heterodimers ( lanes 7 and 8 ) .
+Similar results were obtained with Jurkat cells , and several other NFATp-specific antisera such as a « -72 , « -25.1 , and « -R89 also recognized human NFAT complexes in EMSA ( data not shown ) .
+Differences in the migration of supershifted complexes by the two antisera is likely due to the nature of the antisera , namely anti-recombinant NFATp ( Ab1 ) and anti-peptide ( 67.1 ) ( A52 ) .
+Taken together with immunoblot analyses using antiserum against NFATp ( Figs .
+3 and 4 ) , these data strongly suggest that the constitutive component detected in nuclear extracts of B and T cell lines is a 20656 Raji Raji PHA+PMA Unstim I 1 T I o & C S & & Antiserum ( gé \¢ < ~° , \ yp 0x6 } \4~ ‘ ° , \ r © © & GC » 9 @ oC @ P p Fos-Jun - > - = = = > =- # 0 # 0 # + awe We e t `` T_ 1° 2 3 4 50 6 7 8 Fic .
+2 .
+The constitutive component is a human homologue of NFATp .
+EMSA was performed with nuclear extracts ( 10 ug ) from either PHA/PMA-stimulated ( lanes 1-4 ) or unstimulated ( lanes 5-8 ) Raji cells , using labeled human IL-2 NFAT oligonucleotide as a probe in the presence of preimmune serum , antiserum against recombinant murine NFATp ( A61 ) , or antiserum against a peptide in murine NFATp ( Ab2 ) as described ( see `` Experimental Procedures `` ) .
+With unstimulated nuclear extracts , 125 nM Fos/Jun heterodimers were added to the reaction mixtures for NFAT reconstitution ( lanes 5-8 ) .
+Since antisera were diluted in phosphate-buffered saline , 1 wl of phosphate-buffered saline was added to the control reactions ( lanes 1 and 5 ) .
+Native and reconstituted NFAT complexes are indicated by an arrow .
+human homologue of NFATp or a closely related isoform .
+Therefore , we will refer to the component as human NFATp .
+CsA Alters the Migration of Human NFATp from Unstimulated Cells on SDS-polyacrylamide gel electrophoresis-Using an antiserum against recombinant murine NFATp , we addressed the question , raised earlier , of whether CsA treatment results in the disappearance of NFATp from nuclear extracts or in its modification .
+Equivalent amounts of nuclear and cytoplasmic extracts prepared in equal volumes from CsA-untreated or -treated Raji B and Jurkat T cell lines were subjected to electrophoresis on a SDS-polyacrylamide gel , and NFATp was detected by immunoblot analysis ( Fig .
+3A ) .
+Similar amounts of NFATp were present in both nuclear and cytoplasmic extracts with no significant change in distribution after CsA treatment .
+NFATp in both nuclear and cytoplasmic extracts of untreated Raji cells showed a diffuse band pattern in a molecular mass range of 116-130 kDa ( lanes 1 and 2 ) , whereas that of CsA-treated Raji cells displayed one major band with an apparent molecular mass of ~130 kDa ( lanes 3 and 4 ) .
+In Jurkat T cells , NFATp from untreated cells migrated slightly faster than that seen in CsA-treated cells and did not show a diffuse band pattern .
+It thus appears that , in these cell Mechanism for Cyclosporin A Inhibition of NFAT B Raji Jurkat A Raji Jurial CsA ie + a F II [ I CsA ® - _ _+ _ _- + N C N C N C N C 5910 1F 1F 13 N C N C N C N C -200 USF - » -- -- _ as an ._ ( 43 , 44 kDa ) o Anco -116 LDH - # # ad « -- ame had « p - a » - 85 ( 35 kDa ) 102 s 40 50 607 B 102 3 4 50 60 7 8 Fic .
+3 .
+Effect of CsA on posttranslational modification of NFATp .
+A , immunoblot analysis of NFATp was performed with both nuclear and cytoplasmic extracts .
+Nuclear and ammonium sulfate-pre-cipitated cytoplasmic proteins were prepared in equal volumes from Raji and Jurkat cells either untreated or treated with 1 ug/ml CsA as described under `` Experimental Procedures . ``
+Equal volumes of nuclear ( N ) and cytoplasmic ( C ) extracts were separated on 7 % SDS-polyacrylamide gels , transferred on nitrocellulose membranes , and immuno-blotted for NFATp with an antiserum to recombinant murine NFATp .
+The amounts of proteins loaded on each lane were as follows : lane 1 , 30 ug ; lane 2 , 71 ug ; lane 3 , 31 ug ; lane 4 , 100 ug ; lane 5 , 30 ug ; lane 6 , 47 ug ; lane 7 , 28 ug ; lane 8 , 39 ug .
+Arrows indicate NFAT p , and molecular mass standards ( in kDa ) are marked at the right .
+B , immunoblot analyses performed with antibodies raised against a nuclear protein ( USF ) and a cytoplasmic protein ( LDH ) demonstrate absence of significant contamination of nuclear extracts with cytoplasmic proteins .
+Equal volumes of the nuclear ( N ) and cytoplasmic ( C ) extracts used in panel A were separated on a 10 % SDS-polyacrylamide gel and analyzed in immunoblot assays using either anti-USF antibody ( top ) or anti-LDH antibody ( bottom ) .
+lines , CsA alters the migration of NFATp on a SDS-polyacrylamide gel but does not affect its subcellular distribution .
+A band migrating at ~85 kDa is strongly recognized by the antibody in cytoplasmic extracts of Raji B cells ( Fig .
+34 , lanes 2 and 4 ) .
+The migration of this band is not altered by CsA treatment , and its nature is currently unclear .
+Since NFATp has been reported to be mainly a cytoplasmic protein in unstimulated murine T cells ( McCaffrey et al .
+, 1993a ) , it was important to rule out significant contamination of nuclear extracts with cytoplasmic proteins .
+Nuclear and cytoplasmic extracts prepared by the same method were tested in immunoblot analyses with antibodies against a cytoplasmic protein marker , the LDH ( Cahn et al .
+, 1962 ) , or to a nuclear protein marker , USF .
+The USF transcription factor , composed of 43- and 44-kDa polypeptides , is a member of the basic , helix-loop-helix family and localized predominantly in the nucleus ( Sawadogo et al .
+, 1988 ; Pognonec and Roeder , 1991 ) .
+The majority of USF was detected in nuclear extracts prepared from both B and T cells ( Fig .
+3B , top ) , whereas LDH was mainly observed in cytoplasmic extracts ( Fig .
+3B , bottom ) .
+These data rule out any significant contamination of nuclear extracts with cytoplasmic proteins .
+CsA-mediated Phosphorylation of NFAT p in Raji and Jurkat Cells-To test whether the migration shift after CsA treatment ( Fig .
+3A ) is due to phosphorylation of NFATp , nuclear extracts were treated with calf intestinal AP or CaN in vitro and analyzed by immunoblot assays ( Fig .
+4 , A and B ) .
+As expected , NFATp migrated at a higher apparent molecular mass in nuclear extracts from CsA-treated Raji cells ( Fig .
+44 , lane 4 ) .
+Interestingly , NFATp in CsA-treated cells migrated faster after AP treatment ( lane 5 ) , and CaN treatment increased the migration to that observed in the untreated cells ( lane 6 ) .
+Migration of NFAT p in CsA-untreated Raji cells was not significantly changed by either one of the phosphatase treatments ( lanes 1-3 ) .
+Similarly , the apparent molecular mass of NFAT p in Mechanism for Cyclosporin A Inhibition of NFAT A B Raji Jurkat -CsA +CsA 5 -CsA +CsA z A 7 7 8 3 - % a % a % & 2 ® a % a & & % < o < 0 < E I < o < o < o - 200 - §§ 1or s 40 50 60 f s 9 102 s 4 5 60 Tos D + CsA c g CaN AP Immunoblot Phosphorimager Y ( w s see -_ ] - CsA + CsA - CsA + CsA |- 200 § % -_- $ -_- 5 ~ @ we « = ina Etﬂ Toe mae water .- .
+'- “ s o > > x wit 7 a ® > H 85 10203 a 00506 1 r s 4 s 6 T s s 10 i Fic .
+4 .
+In vitro dephosphorylation of NFATp by calf intestinal AP and CaN .
+A and B , nuclear extracts ( 40 ug ) from either CsA-untreated ( lanes 1-3 ) or treated ( lanes 4-8 ) Raji and Jurkat cells were incubated either alone or with AP or CaN in the presence or absence of phosphatase inhibitors ( / ) consisting of 20 mM sodium pyrophosphate and 50 mM NaF , and analyzed in immunoblot assays using an antiserum to recombinant murine NFATp .
+Lane 8 in panel A is heat-inactivated CaN , and lane 9 in panel A is nuclear extract of HeLa cells .
+NFATp is indicated by arrows .
+C , immunoprecipitation of NFATp from nuclear extracts of metabolically *°P-labeled Raji cells .
+Raji cells were treated with or without 1 ug/ml CsA for 2 h in medium containing [ *P Jorthophosphate , and nuclear extracts were prepared as described under `` Experimental Procedures . ``
+Nuclear extracts ( 300 ug ) from CsA-treated cells were treated with CaN .
+NFATp was immunoprecipitated with R59 antiserum from nuclear extracts and analyzed in an immunoblot assay ( left panel ) .
+The same membrane was scanned by a PhosphorImager ( right panel ) .
+Filled arrow indicates phosphorylated NFATp , and open arrow indicates dephosphorylated form .
+D , nuclear extracts ( 40 ug ) from CsA-treated Raji cells were incubated either alone ( lanes 2 and 7 ) or with increasing amounts of CaN ( lanes 3-6 ) or AP ( lanes 8-11 ) , and analyzed in an immunoblot assay .
+Lane 1 is CsA-untreated .
+The amounts of CaN used in each lane were as follows : lane 3 , 0.06 ug ; lane 4 , 0.12 ug ; lane 5 , 0.25 ug ; lane 6 , 0.50 ug .
+Those of AP were as follows : lane 8 , 1.4 units ; lane 9 , 2.8 units ; lane 10 , 5.6 units ; lane 11 , 11.2 units .
+NFATp is indicated by arrows .
+CsA-untreated Jurkat cells was decreased by AP treatment ( Fig .
+4B , lane 2 ) , and further by CaN to the level of that of CsA-untreated Raji cells ( lane 3 ) .
+NFATp in CsA-treated Jurkat cells showed similar changes to those of CsA-untreated cells by AP or CaN treatments ( lanes 5 and 6 ) .
+These migration changes were blocked by general phosphatase inhibitors such as sodium pyrophosphate and NaF ( Fig .
+44 , lane 7 , and Fig .
+4B , lanes 7 and 8 ) and by heat inactivation of CaN ( Fig .
+4A , lane 8 ) , strongly suggesting that they resulted from dephosphorylation of NFATp .
+NFATp was not detected in HeLa cell nuclear extracts ( Fig .
+44 , lane 9 ) , consistent with absence of NFAT induction and its transactivation function in HeLa cells ( Shaw et al .
+, 1988 ) .
+To further confirm that the migration shifts observed with CsA and CaN treatments are indeed due to changes in the phosphorylation level of NFATp , Raji cells were metabolically labeled with [ *P Jorthophosphate in the presence or absence of CsA treatment .
+Nuclear extracts were treated with or without 20657 CaN , and NFATp was immunoprecipitated , separated on SDS-polyacrylamide gel electrophoresis , and transferred to nitrocellulose membrane ( Fig .
+4C ) .
+Immunoblotting with NFATp antibody confirmed the migration shift and the presence of similar amounts of NFATp in the different samples ( Fig .
+4C , left panel ) .
+PhosphorImager scan of the same membrane showed that CsA treatment resulted in an increased level of phosphorylation of NFATp and that the phosphorylation level returned to base line after CaN treatment of nuclear extract ( Fig .
+4C , right panel ) .
+These data confirm that NFATp migration shifts in response to CsA and phosphatase treatments are accompanied by appropriate shifts in its phosphorylation level .
+The smaller migration shift after AP treatment suggests that AP dephosphorylates fewer sites than CaN .
+Furthermore , comigration of Jurkat and Raji NFATp after CaN treatment suggests that NFATp in Jurkat cells may be identical to that of Raji cells and that the difference in migration observed without phosphatase treatments ( Fig .
+3A , lanes 1 and 5 ) was due either to different degrees of phosphorylation of NFATp in B versus T cells or to differential nonspecific phosphatase activity during extract preparation .
+To exclude the possibility that the differential effects of AP and CaN on NFATp migration are due to less than optimal enzyme concentrations , nuclear extracts from CsA-treated Raji cells were treated with increasing amounts of CaN or AP and analyzed in an immunoblot assay ( Fig .
+4D ) .
+The faster migrating form of NFAT p began to appear at 0.12 ug of CaN treatment ( lane 4 ) and at 0.25 ug of CaN all NFATp became faster migrating ( lane 5 ) ; further migration shift was not even observed up to 2 ug of CaN treatment as shown earlier in Fig .
+4A .
+Similarly , NFATp migration was faster , but not as much as that of CaN treatment , at 1 unit of AP , and a higher concentration of AP up to 12 units did not generate further migration shift .
+Thus , a smaller migration shift observed with AP as compared with that observed with CaN is not due to suboptimal enzyme concentration and is most likely due to dephosphorylation of fewer sites .
+Dephosphorylation of NFATp after CsA Treatment Restores Its Ability to Form an NFAT Complex-To examine whether dephosphorylation of NFAT p restores NFAT binding activity in CsA-treated Raji B and Jurkat T cells , nuclear extracts from CsA-treated cells were exposed in vitro to either AP ( Fig .
+5A ) or CaN ( Fig .
+5B ) .
+These extracts were then compared by EMSA with untreated nuclear extracts for their ability to form NFAT complexes in cooperation with Fos/Jun dimers .
+NFAT reconstitution in CsA-untreated Raji and Jurkat cells was not significantly influenced by AP or CaN treatment ( compare lane 6 with lane 2 in each panel ) .
+In contrast , inhibition of NFAT reconstitution in CsA-treated cells was completely reversed by either one of the phosphatase treatments ( compare lane 8 with lane 4 in each panel ) , and the restoration was blocked by sodium pyrophosphate and NaF ( Fig .
+5B , lane 9 ) .
+The restored NFAT complexes had the same DNA-binding specificity as those from CsA-untreated cells , as assessed by competition tests with specific and nonspecific competitors and supershifts with antisera to murine NFAT p ( data not shown ) .
+These results demonstrate that dephosphorylation of NFATp is essential for NFAT complex assembly in cooperation with Fos and Jun proteins .
+More-over , partial dephosphorylation mediated by AP is sufficient to restore the ability of nuclear extracts to participate in NFAT complex assembly .
+Minor migration differences observed in NFAT complexes restored by phosphatase treatment ( Fig .
+54 , top panel , compare lane 2 with lane 8 , and Fig .
+5B , bottom panel , compare lane 2 with lanes 6 and 8 ) are probably due to differing degrees of dephosphorylation of NFATp under the conditions indicated , which also resulted in different migrations on SDS-polyacrylamide gels ( Fig .
+4 ) .
+A B -CsA _ +GsA _ CsA +CsA -CsA _ +GsA _ CsA +CsA -A- -- f- 4 fo-3 AP -o 6 4 4+ 4+ o+ % CaN L .
+- 0 .
+4 4 + 4 +7 Fosiun $ .
+ion ip n % Foslun - & - 4g - og - 40+ .
+.
+Rajl * ' ' ' Rajl \ .
+u ae we Jurkat Y .
+1 & @ _J J Fic .
+5 .
+Dephosphorylation of NFATp restores reconstitution of NFAT complex in nuclear extracts from CsA-treated cells .
+A , nuclear extracts from CsA-untreated or treated Raji ( fop panel ) and Jurkat ( bottom panel ) cells were treated with ( lanes 5-8 ) or without ( lanes 1-4 ) AP , and subsequently tested for DNA-binding to a human IL-2 NFAT oligonucleotide in the presence ( even numbered lanes ) or absence ( odd numbered lanes ) of Fos/Jun heterodimers .
+B , same experiment as in A but with CaN instead of AP .
+In addition to CaN , 50 mM NaF and 20 mm sodium pyrophosphate were added to the reaction mixture to inhibit CaN phosphatase activity in lane 9 , bottom panel .
+Reconstituted NFAT complexes are indicated by an arrow .
+The faint band observed under the reconstituted NFAT complex represents weak direct binding of Fos/Jun heterodimers to the human IL-2 NFAT site ( Yaseen et al .
+, 1994 ) .
+Dephosphorylation of NFAT p Is Required for DNA Binding-Failure of the phosphorylated form of NFAT p to form NFAT complexes could be due to either inability to bind to DNA or inability to interact with Fos/Jun dimers or both .
+Since NFATp is able to bind directly to the murine IL-2 NFAT motif in the absence of Fos and Jun proteins ( Jain et al .
+, 1992 ) , we tested whether the effect of CsA on NFAT binding activity is mediated at the level of NFATp-DNA interaction or at the level of pro-tein-protein interaction between NFATp and Fos/Jun dimers .
+We first tested the effect of CsA on direct DNA binding ( Fig .
+6 ) .
+EMSA using nuclear extracts from unstimulated human Raji B cells with a murine IL-2 NFAT oligonucleotide as a probe showed two bands , a strong lower band and a weak upper band ( lane 1 ) .
+Of those two bands , however , only the strong lower band was supershifted or inhibited by addition of antisera to murine NFATp ( data not shown ) , indicating that the lower band represents a NFATpDNA complex .
+NFATp in nuclear extracts of CsA-treated cells lost its DNA-binding activity ( lane 2 ) , whereas the unidentified upper band was unaffected , suggesting that dephosphorylation of NFATp ( which is prevented by CsA ) is required for DNA-binding activity .
+To determine whether dephosphorylation of NFAT p can restore its direct DNA-binding activity , nuclear extracts from CsA-treated Raji B cells were treated with either AP or CaN and analyzed for binding to the murine IL-2 NFAT motif by EMSA .
+DNA-binding activity of NFATp in CsA-treated cells was restored by AP and CaN treatments ( lanes 4 and 5 , respec-tively ) , and the restored DNA binding was specific to the murine NFAT motif , based on unlabeled oligonucleotide competition and supershifts with antisera to murine NFAT p ( data not shown ) .
+Phosphatase inhibitors blocked recovery of DNA binding of NFATp to a murine IL-2 NFAT oligonucleotide , indicating that restoration resulted from dephosphorylation of NFAT p ( lanes 5 and 6 ) .
+The NFATp : DNA complex restored by AP migrated slower than that of CsA-untreated cells , while the complex restored by CaN migrated at a position identical to that of CsA untreated cells .
+Together with the apparent molecular weight differences in immunoblot analyses generated by AP and CaN treatments of nuclear extracts ( Fig .
+44 , lanes 5 and 6 ) , this indicates differing degrees of dephosphorylation of Mechanism for Cyclosporin A Inhibition of NFAT + CsA = [ 7 < + ma Z 8 a. s - oA & , % < 4 O < I o Free Probe -m M 10 2 30 4 50 6 Fic .
+6 .
+In vitro dephosphorylation of human NFATp restores direct binding to the murine NFAT site .
+Nuclear extracts from CsA-treated Raji cells were incubated either alone ( lane 2 ) or with AP ( lanes 3 and 5 ) or CaN ( lanes 4 and 6 ) in the presence or absence of phosphatase inhibitors ( F ) and tested for DNA-binding activity to a murine IL-2 NFAT oligonucleotide in EMSA .
+EMSA was performed with a nuclear extract from CsA-untreated Raji cells for comparison ( lane 1 ) .
+Sodium pyrophosphate ( 20 mit ) and NaF ( 50 mm ) were added to the phosphatase reaction mixtures to inhibit phosphatase activity of AP ( lane 5 ) and CaN ( lane 6 ) .
+NFATp-DNA complexes are indicated by arrows .
+NFATp and suggests that only a subset of phosphorylated sites is involved in inhibiting DNA binding .
+DISCUSSION A widely accepted model of CsA-mediated inhibition of cytokine gene expression involves inactivation of a calcium-depend-ent phosphatase and sequestration of a cytoplasmic component ( s ) of the transcription factor NFAT .
+It has been suggested that in activated T cells , a cytoplasmic component ( s ) is dephosphorylated by the Ca**-dependent phosphatase CaN resulting in its translocation to the nucleus where it joins Fos/Jun proteins to form the NFAT complex ( Clipstone and Crabtree , 1992 ; McCaffrey et al .
+, 1993a ) .
+However , the fact that unstimulated human Raji B and Jurkat T cell lines constitutively express a nuclear component that can participate in reconstitution of the NFAT complex in the presence of Fos/Jun heterodimers ( Yaseen et al .
+, 1993 , 1994 ) poses the question of whether this nuclear non-AP-1 component is also a target for CsA in the absence of a calcium signal .
+Our preliminary experiments showed that CsA treatment of unstimulated Raji and Jurkat cells results in loss of reconstitution of the NFAT complex in the presence of Fos/Jun heterodimers ( Fig .
+1B ) .
+This observation can not be accounted for by the loss of stimulation-depend-ent translocation of a cytoplasmic component ( s ) to the nucleus , since it occurred in unstimulated cells in which the factor is constitutively nuclear .
+The data presented here show that this factor is a human homologue of murine NFATp and point to an additional mechanism for the CsA-mediated inhibition of NFAT activity in T and B cells .
+Mechanism for Cyclosporin A Inhibition of NFAT Several lines of evidence suggest that the constitutive component that we detect in nuclear extracts of unstimulated B and T cell lines is a human counterpart of murine NFATp .
+1 ) Both proteins are able to reconstitute an NFAT complex with murine and human IL-2 NFAT binding sites in the presence of Fos/Jun heterodimers ; both also bind specifically to a murine NFAT oligonucleotide without Fos and Jun proteins ( Jain et al .
+, 1992 , 1993b ; Yaseen et al .
+, 1998 ; Figs .
+1 and 6 ) .
+2 ) Both are phosphoproteins with an apparent molecular mass of ~120 kDa and serve as in vitro substrates of CaN ( McCaffrey et al .
+, 1993a ; Figs .
+3 and 4 ) .
+3 ) Both are targets of CsA ( McCaffrey et al .
+, 1993a ; this work ) .
+4 ) Antisera specific to the murine NFATp ( McCaffrey et al .
+, 1993b ; Ho et al .
+, 1994 ) supershift NFAT complexes formed by the human constitutive component on both human and murine NFAT oligonucleotides ( Fig .
+2 ) and recognize it on immunoblots ( Figs .
+3 and 4 ) .
+On the other hand , the observation that an NFATp homologue is constitutively nuclear in transformed human B and T cell lines is intriguing as NFATp is mainly cytoplasmic in unstimulated murine T cells ( McCaffrey et al .
+, 1998a ) .
+However , these two observations are not mutually exclusive .
+One interpretation of this difference is that transformation-associated activation in Raji B and Jurkat T cells may result in nuclear localization of NFATp .
+The DNA binding activity of nuclear NFATp in unstimulated Raji and Jurkat cells was strongly inhibited by CsA treatment ( Figs .
+1 and 6 ) , an effect that could be observed within the first hour of treatment ( data not shown ) .
+The loss of DNA-binding activity was due to increased phosphorylation of NFATp as in vitro treatment of nuclear extracts from CsA-treated cells with AP and CaN could restore this activity ( Figs .
+5 and 6 ) .
+Increased phosphorylation of NFAT p appears to be the main consequence of CsA-treatment in Raji and Jurkat cell lines , with no appreciable change in its subcellular distribution ( Figs .
+3 and 4 ) .
+Thus , CsA not only inhibits the translocation of NFATp to the nucleus , but also inhibits the DNA binding activity of NFATp that is already in the nucleus .
+These observations imply that CsA can prevent NFAT-mediated transactivation even when NFATp is already in the nucleus as is the case in transformed cells .
+Indeed , CsA can inhibit NFATp DNA binding activity when added up to 4 h after in vitro cell stimulation by PHA and PMA .
+* It is interesting to note that AP dephosphorylation of CsA-treated extracts resulted in a smaller migration shift on a SDS-polyacrylamide gel than CaN dephosphorylation , although both treatments resulted in complete restoration of DNA binding activity ( Fig .
+4 ) .
+Furthermore , NFATp from Jurkat and Raji cells shows a slight difference in migration on SDS-polyacrylamide gel electrophoresis ( Fig .
+3 ) .
+This difference is reduced by AP treatment and completely abolished by CaN treatment ( Fig .
+4 ) .
+These findings suggest that there are partially dephosphorylated forms of NFATp in Raji and Jurkat cells , and this dephosphorylation may involve CaN or other phosphatases .
+Indeed , treatment of Jurkat cells with ionomycin led to further dephosphorylation of NFATp , which may be necessary for transcriptional activation but not for DNA-bind-ing . ``
+Consequently , NFATp may have multiple phosphorylation sites , only some of which are involved in the regulation of DNA-binding activity , while others may subserve different functions such as transcriptional activation and subcellular localization .
+In summary , our findings demonstrate that immunosuppressive drugs can inhibit the activation of NFAT by directly preventing the DNA binding ability of NFATp through increased phosphorylation , suggesting that these drugs can affect NFAT function at multiple steps .
+Our data also suggest the presence of multiple physiologically important phosphorylation sites * J .
+Park and S. Sharma , unpublished data .
+20659 within the NFAT molecule and raise the question of whether CaN is the only phosphatase involved in NFAT regulation and in the response to CsA and FK-506 .
+Acknowledgments-We thank Dr. Abby Maizel for thoughtful reading of the manuscript ; Dr. Peter Shank for providing HeLa cell line ; and Drs .
+Tom Curran and Tom Kerppola for providing recombinant Fos and Jun proteins and for valuable suggestions and criticisms .
+We also thank Drs .
+Jugnu Jain and Akiko Takeda for helpful advice and discussion on various aspects of this work .
+REFERENCES Bierer , B. E. , Hollander , G. , Fruman , D. , and Burakoff , S. J .
+( 1998 ) Curr .
+Opin .
+Immunol .
+5 , 163-773 Boise , L. H. , Petryniak , B. , Mao , X. , June , C. H. , Wang , C.-Y .
+, Lindsten , T. , Bravo , R. , Kovary , K. , Leiden , J. M. , and Thompson , C. B .
+( 1993 ) Mol .
+Cell .
+Biol .
+13 , 1911-1919 Cahn , R. D. , Kaplan , N. O. , Levine , L. , and Zwilling , E. ( 1962 ) Science 136 , 962-969 Choi , M. S. , Brines , R. D. , Holman , M. J. , and Klaus , G. G. B .
+( 1994 ) Immunity 1 , 179-187 Chuypilo , S. , Schomberg , C. , Gerwig , R. , Heinfling , A. , Reeves , R. , Grumit , F. , and Serfling , E. ( 1998 ) Nucleic Acids Res .
+21 , 5694-5704 Clipstone , N. A. , and Crabtree , G. R. ( 1992 ) Nature 357 , 695-697 Cockerill , P. N. , Shannon , F. , Bert , A. G. , Ryan , G. R. , and Vadas , M. A .
+( 1993 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+90 , 2466-2470 Durand , D. B. , Shaw , J.-P. , Bush , M. R. , Replogle , R. E. , Belagaje , R. , and Crabtree , G. R. ( 1988 ) Mol .
+Cell .
+Biol .
+8 , 1715-1724 Emmel , E. A. , Verweij , C. L. , Durand , D. B. , Higgins , K. M. , Lacy , E. , and Crabtree , G. R. ( 1989 ) Science 246 , 1617-1620 Flanagan , W. M. , Corthésy , B. , Bram , R. J. , and Crabtree , G. R. ( 1991 ) Nature 852 , 803-807 Goldfeld , A. E. , McCaffrey , P. G. , Strominger , J. L. , and Rao , A .
+( 1993 ) J. Exp .
+Med .
+178 , 1365-1379 Goldfeld , A. E. , Tsai , E. , Kincaid , R. , Belshaw , P. J. , Schreiber , S. L. , Strominger , J. L. , and Rao , A .
+( 1994 ) J. Exp .
+Med .
+180 , 763-768 Granelli-Piperno , A. , Nolan , P. , Inaba , K. , and Steinman , R. M. ( 1990 ) J. Exp .
+Med .
+172 , 1869-1872 Ho , A. M. , Jain , J. , Rao , A. , and Hogan , P. G. ( 1994 ) J. Biol .
+Chem .
+269 , 28181-28186 Jain , J. , McCaffrey , P. G. , Valge-Archer , V. E. , and Rao , A .
+( 1992 ) Nature 356 , 801-804 Jain , J. , McCaffrey , P. G. , Miner , Z. , Kerppola , T. K. , Lambert , J. N. , Verdine , G. L. , Curran , T. , and Rao , A .
+( 1998a ) Nature 365 , 852-355 Jain , J. , Miner , Z. , and Rao , A .
+( 1993b ) J. Immunol .
+151 , 837-848 Jain , J. , Nalefski , E. A. , McCaffrey , P. G. , Johnson , R. S. , Spiegelman , B. M. , Papaioannou , V. , and Rao , A .
+( 1994 ) Mol .
+Cell .
+Biol .
+14 , 1566-1574 Kerppola , T. K. , and Curran , T. ( 1991 ) Cell 66 , 317-326 Masuda , E. S. , Tokumitsu , H. , Tsuboi , A. , Shlomai , J. , Hung , P. , Arai , K.-L. , and Arai , N. ( 1993 ) Mol .
+Cell .
+Biol .
+18 , 7399-7407 Mattila , P. S. , Ullman , K. S. , Fiering , S. , Emmel , E. A. , McCutcheon , M. , Crabtree , G. R. , and Herzenberg , L. A .
+( 1990 ) EMBO J .
+9 , 4425-4483 McCaffrey , P. G. , Perrino , B .
+A. , Soderling , T. R. , and Rao , A .
+( 19988 ) J. Biol .
+Chem .
+268 , 3747-3752 McCaffrey , P. G. , Luo , C. , Kerppola , T. K. , Jain , J. , Badalian , T. M. , Ho , A. M. , Burgeon , E. , Lane , W. S. , Lambert , J. N. , Curran , T. , Verdine , G. L. , Rao , A. , and Hogan , P. G. ( 1993b ) Science 262 , 750-754 Northrop , J. P. , Ullman , K. S. , and Crabtree , G. R. ( 1993 ) J. Biol .
+Chem .
+268 , 2917-2923 Northrop , J. P. , Ho , S. N. , Chen , L. , Thomas , D. J. , Timmerman , L. A. , Nolan , G. P. , Admon , A. , and Crabtree , G. R. ( 1994 ) Nature 8369 , 497-502 O'Keefe , S. J. , Tamura , J. , Kincaid , R. L. , Toceci , M. J. , and O'Neill , E. A .
+( 1992 ) Nature 357 , 692-694 Pognonesc , P. , and Roeder , R. G. ( 1991 ) Mol .
+Cell .
+Biol .
+11 , 5125-5136 Randak , C. , Brabletz , T. , Hergenrother , M. , Sobotta , I. , and Serfling , E. ( 1990 ) EMBO J .
+9 , 2529-2536 Rao , A .
+( 1994 ) Immunol .
+Today 15 , 274-281 Rooney , J. W. , Hodge , M. R. , McCaffrey , P. G. , Rao , A. , and Glimcher , L. H. ( 1994 ) EMBO J .
+13 , 625-633 Sawadogo , M. , Van Dyke , M. W. , Gregor , P. D. , and Roeder , R. G. ( 1988 ) J. Biol .
+Chem .
+263 , 11985-11993 Schreiber , S. L. , and Crabtree , G. R. ( 1992 ) Immunol .
+Today 18 , 136-142 Sen , J. , Shinkai , Y. , Alt , F. W. , Sen , R. , and Burakoff , S. J .
+( 1994 ) J. Exp .
+Med .
+180 , 2321-2327 Shaw , J.-P. , Utz , P. J. , Durand , D. B. , Toole , J. J. , Emmel , E. A. , and Crabtree , G. R. ( 1988 ) Science 241 , 202-205 Sigal , N. H. , and Dumont , F. J .
+( 1992 ) Annu .
+Rev .
+Immunol .
+10 , 519-560 Szabo , S. J. , Gold , J. S. , Murphy , T. L. , and Murphy , K. M. ( 1993 ) Mol .
+Cell .
+Biol .
+18 , 4793-4805 Tsuboi , A. , Masuda , E. S. , Naito , Y. , Tokumitsu , H. , Arai , K. , and Arai , N. ( 1994 ) Mol .
+Biol .
+Cell 5 , 119-128 Ullman , K. S. , Northrop , J. P. , Verweij , C. L. , and Crabtree , G. R. ( 1990 ) Annu .
+Rev .
+Immunol , 8 , 421-452 Venkataraman , L. , Francis , D. A. , Wang , Z. , Liu , J. , Rothstein , T. L. , and Sen , R. ( 1994 ) Immunity 1 , 189-196 Wang , D. Z. , McCaffrey , P. G. , and Rao , A .
+( 1995 ) Ann .
+N. Y. Acad .
+Sci .
+, in press Yaseen , N. R. , Maizel , A. L. , Wang , F. , and Sharma , S. ( 1998 ) J. Biol .
+Chem .
+268 , 14285-14293 Yaseen , N. R. , Park , J. , Kerppola , T. , Curran , T. , and Sharma , S. ( 1994 ) Mol .
+Cell .
+Biol .
+14 , 6886-6895

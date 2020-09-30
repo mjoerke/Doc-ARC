@@ -1,0 +1,338 @@
+1984-1990 - Nucleic Acids Research , 1997 , Vol .
+25 , No .
+10 © 1997 Oxford University Press A novel genetic system to isolate a dominant negative effector on DNA-binding activity of Oct-2 Atsushi Terunuma , Kiyotaka Shiba and Tetsuo Noda* Department of Cell Biology , The Cancer Institute , Japanese Foundation for Cancer Research , Kami-lkebukuro , Toshima-ku , Tokyo 170 , Japan Received January 9 , 1997 ; Revised and Accepted March 24 , 1997 ABSTRACT Recent studies have revealed that interactions between transcription factors play an important role in regulation of gene expression in eukaryotic cells .
+To isolate cDNA clones that dominantly inhibit the DNA-binding activity of Oct-2 , chosen as a representative factor , we have developed a novel screening system .
+This employs an Escherichia coli tester strain carrying a modified lac operon as a reporter gene , with the lac operator sequence replaced by an octamer sequence .
+Oct-2 expressed in this tester strain represses the expression of the reporter gene and changes the phenotype of the cell from Lact to Lac- .
+Introduction of a cDNA expression library prepared from a human T-cell line into the Oct-2-harboring tester strain allowed selection of three Lac+ clones out of 1 x 10° transformants .
+One of them , hT86 , encoding a putative zinc finger protein was found to derepress B-galactosidase activity in the Oct-2-harboring tester strain at the transcriptional level .
+In gel mobility shift assays , hT86 attenuated the intensity of the retarded band composed of the octamer probe and Oct-2 , suggesting a dominant negative effect on the DNA-binding activity of Oct-2 .
+The strategy described here provides a new approach for studying protein-protein interactions that govern the complex regulation of gene expression .
+INTRODUCTION Gene expression is positively or negatively regulated by a number of proteinaceous factors at the transcriptional level .
+Recent studies have revealed that heteromeric interactions among transcription factors provide for an array of regulation patterns which participate in the integrated program of gene expression ( 1-7 ) .
+For instance , one of the helix-loop-helix ( HLH ) proteins , Id , has been demonstrated to form a heterodimer with other HLH family members like MyoD , E12 or E47 attenuating their DNA-binding in vitro and , in the MyoD case , inhibiting the activator function in cultured cells ( 3 ) .
+The Ca*+*+-binding protein , calmodulin , is another example which also forms heterodimers with several HLH proteins and inhibits their DNA-binding activity in vitro ( 8 ) .
+Thus , negative modulation of DNA-binding activity through heteromeric complex formation may be a common form of regulation of gene expression .
+DDBJ/EMBL/GenBank accession no .
+D45213 To isolate candidate negative regulators of eukaryotic transcription factors from a cDNA library , we have constructed a novel genetic screening system employing Escherichia coli .
+It is well established that most eukaryotic transcription factors are composed of two domains , a DNA-binding domain and a transcriptional control domain ( 9 ) .
+Generally , the two activities of DNA-binding and transcription control can therefore be functionally dissected .
+Genetic systems have already been reported in which the DNA-binding activity of eukaryotic transcriptional factors such as GALA , Sp1 , EBNA-1 and Oct-2 is recapitulated in £.colf cells ( 10-13 ) .
+In the published cases , eukaryotic activators functioned as repressors by binding to targets inserted near the transcription start sites of reporter genes .
+Our aim was to isolate eukaryotic genes that negatively modulate DNA-binding activity of an eukaryotic activator that functions in £.colf as a repressor so that modulators can be isolated as clones that derepress reporter gene expression in the system .
+We selected the POU family that is characterized by a unique bipartite DNA-binding POU domain ( 14 ) as a model for this study .
+I-POU is a POU family protein and known to negatively modulate the activity of another POU family member , Cfl-a , via protein-protein interactions ( 5 ) , although its inhibitory effect could not be observed in a recent study ( 15 ) .
+These two proteins are coexpressed in overlapping subsets of cells in the central nervous system of Drosophila melanogaster .
+Cfl-a binds to a specific cis-acting element and activates dopa-decarboxylase gene expression ( 5,16 ) .
+I-POU forms heterodimers with Cfl-a when they are mixed in vitro , thus blocking its DNA-binding , and in cultured cells , inhibits the Cfl-a-dependent activation of a reporter gene ( 5 ) .
+It is also known that a mouse POU protein , Skn-1i , which is expressed specifically in epidermis and hair follicles , inhibits the transcriptional activator function of Oct-1 in cultured cells ( 17 ) .
+In addition to such negative modulation , positive regulation stemming from interactions between POU proteins has also been reported .
+For instance , two molecules of Oct-2 can bind cooperatively to two adjacent target sequences in the immunoglobulin promoter and interact with each other to increase the transcriptional activation effect in vitro ( 18 ) .
+Similarly the pituitary-specific transcription factor , Pit-1 , forms a homodimer using the POU-specific domain in the presence of its target sequence in vitro ( 19 ) .
+It can also form a heterodimer with Oct-1 and cooperatively activate reporter gene expression in cultured cells ( 20 ) .
+*To whom correspondence should be addressed .
+Tel : +81 3 3918 0111 ; Fax : +81 3 3917 7564 ; Email : tnoda @ hge.ims.u-toky0.ac.jp lac operator gﬁg ACARTTTCACACAGGAARCRGACCATGGCCATG =35 =10 ommacaommtecn -10 lacZ I_ ] [ pB T3 ] GSCTCCTATCTTGTGCTCGAGTCACACAGGAAACAG /Xhol\ TCGAAGTACTAATTAGCATTATAA G TGA ’ I ‘ TAATCGTAATATI ‘ ICAGCT octamer Slte [ pAP18 ] TCGAAGTACTAA ’ I ‘ GA ‘ ICAGTA 'AAAG TCATGATTACTAGTCATATITCAGCT mutant octamer site [ pBP6 ] Figure 1 .
+Construction of tester strains .
+The nucleotide sequence of the lac promoter and operator region of pTV119N is shown on the top .
+Sequences of oligonucleotides used for in vitro mutagenesis and for construction of octamer and mutant octamer cassettes are also illustrated .
+Asterisks indicate the 5 ends of the mRNAs ( determined by primer extension experiments as shown in Fig .
+2 ) .
+In this study , we examined the negative modulation for Oct-2 , which is expressed predominantly in lymphoid cells and functions as a transcriptional activator via binding to a cis-acting octamer site ( 14,21-24 ) .
+We report here the isolation of a human clone , hT86 , using our E.coli genetic system , that negatively modulates the DNA-binding activity of Oct-2 .
+MATERIALS AND METHODS Nucleotide sequence The nucleotide sequence of hT86 has been deposited in the DDBJ database under accession number D45213 .
+Construction of tester strains and plasmids Reporter genes were constructed as follows .
+The lae operator sequence of plasmid pTV119N ( Takara Shuzo ) was replaced with the XAhol recognition sequence to construct pBT3 ( Fig .
+1 ) .
+The lacZYA gene from pMC1403 ( 25 ) was fused to the mutated lac operator to construct pBT15 in which codons 1-5 of lacZ ' were fused to codons 8 onwards of lacZ from pMC1403 in frame .
+Into the Xhol site , an oligonucleotide containing octamer binding sequence ( AP : 5-TCGACTTITTATAATGCTAATTAGTACT-3 ' + 3 -GAA-ATATTACGATTAATCATGAAGCT-5 ' ) or its mutant ( BP : 5 `` -TC-GACTTTATACTGATCATTAGTACT-3 + 3 `` -GAAATATGACT-AGTAATCATGAAGCT-5 ' ) were inserted .
+The reporter genes were subcloned into a plasmid vector pPP213 ( constructed by Dr M. Imai ) , derived from pBR322 and carry ing a 5.7 kb fragment of the Charon 25 A phage vector ( 26 ) , and then transferred to Acy which is a derivative of Charon 25 to construct AAP18 and ABP6 .
+These phages were lysogenized into H11006 [ araA139 A ( ara-leu ) 7697 A ( lacIPOZY ) X74 galU galK strA trpA380c recA ) ( 27 ) .
+Detailed procedures for construction of these phage strains are available upon request .
+The 1.3 kb HindIII-EcoRI fragment of mouse Oct-3 cDNA ( kindly provided by Dr H. Hamada ) ( 28 ) was subcloned into the HindIII-EcoRI sites of pTZ19U ( 29 ) to construct pAT1 expressing Oct-3 as a B-galactosidase-fusion protein ( residues 1-15 of B-galactosidase followed by residues 36-352 of Oct-3 ) .
+For expression of Oct-2 , we used a p15A derivative plasmid vector , pKV287 , composed of the Asp700-Sau96I portion of Nucleic Acids Research , 1997 , Vol .
+25 , No .
+10 _ 1985 pACYC184 carrying a p15A replicon and a Tc `` marker ( 30 ) and the Pyvull-EcoRI portion of pTVI119N that carries lacP .
+A full-length cDNA of human Oct-2 ( 2.2 kb Asp718-EcoRI fragment ; provided by Dr H. Hamada ) ( 24,31 ) was subcloned into the Asp718-EcoRI sites of pKV287 to construct pAS22 , expressing Oct-2 as a BB-galactosidase-fusion protein ( residues 1-5 of -galactosidase followed by residues 1-463 of Oct-2 ) .
+The EcoRI-EcoRI fragment of pAS22 containing the lac promoter , lac operator and Oct-2 coding region was subcloned into the EcoRI site of pKV287 to give the plasmid pAS22D carrying the Oct-2 cDNA driven by two tandemly arrayed Zac promoters .
+pAS22DH , a derivative of pAS22D , encodes Oct-2 with the N-terminal fused to an HA epitope ( YPYDVPDYA ) .
+pAS22DHAC was constructed by deleting the C-terminal 93 amino acids of Oct-2 using the Nde !
+site of the gene .
+pASZZDAN was constructed by deleting the 161 amino acid N-terminal portion of Oct-2 using the Smal site of the gene .
+phT 86 has a human cDNA insert in the pSI4001 vector ( 32 ) .
+phT86RO and phT860OF carry the cDNA insert in the opposite direction to lacZ ' and out of its open reading frame in pBluescript , respectively .
+Scoring phenotypes of tester strains Colonies of tester strains transformed with each expression vector were streaked on M9 minimal agar plates ( 33 ) supplemented with 0.2 ug/ml thiamine , 0.2 % glucose , 0.2 % casamino acids ( Difco Laboratories ) , 0.2 % 5-bromo-4-chloro-3-indolyl- { B-D-galactopyra-noside ( X-gal ) , 25 ug/ml leucine , 25 pg/ml tryptophan and appropriate antibiotics .
+Plates were incubated at 30°C for 24 h , left at room temperature for 24-48 h and examined for colony color .
+The B-galactosidase activity was determined as described by Miller ( 33 ) .
+Analyses of transcripts Total cellular RNA of E.coli was prepared from tester strains with the method described previously ( 34 ) .
+The levels of lacZ mRNA in tester strains were quantitated by S1 mapping ( 35 ) .
+Two oligonucleotide probes were prepared : one was for the reporter with the octamer cassette ( AP : 5-CCATGGTCTGTTTCCTGT-GTGACTCGACTTTATAATGCTAATTAGTACTTCGAGCA- and the other was for the reporter with the mutant octamer cassette ( BP : 5-CCATGGTCTGTTTCCTGTGTGAC-TCGACTTITTATACTGATCATTAGTACTTCGAGCACAAC-3 ) .
+These probes were designed to include the transcription start site of corresponding reporter genes , which had been identified by primer extension experiments .
+Total cellular RNA ( 101g ) and the 5'-end-labeled probe ( 0.17 pmol ) were mixed in a volume of 50 ul .
+They were incubated at 75°C for 15 min and annealed at 55°C for 3 h , then mixed with 350 ul of a solution containing 333 mM NaCl , 3.7 mM ZnS $ Q4 and 67 mM sodium acetate , with addition of 2 ug of salmon sperm DNA ( Sigma Chemical Co. ) and 510 U of S1 nuclease ( Takara Shuzo ) .
+The mixtures were incubated at 37°C for 1 h , then extracted with phenol-chloroform , precipitated with ethanol and the precipitates dissolved in 3 ul TE buffer .
+The products ( 2 p ) were electrophoresed on 6 % polyacrylamide gels containing 8 M urea .
+Radioactivity was scanned using a Biolmage Analyzer BAS2000 ( Fujix ) and presented as a photo-stimulated Tuminescence ( PSL ) value determined by BAS2000 and correlated with conventional Becquerel values .
+1986 Nucleic Acids Research , 1997 , Vol .
+25 , No .
+10 Northern blot analysis of hT86 RNA Transcripts of hT86 in a variety of human tissues were analyzed using a Multiple Tissue Northern Blot ( Clontech ) .
+Membranes were probed with labeled hT86 DNA in 20 ml hybridization buffer [ 50 % deionized formamide , 0.2 % SDS , 5 % dextran sulfate , 5x Denhart 's solution ( 20 mM MOPS , 5 mM sodium acetate and 0.5 mM EDTA ) and 5x SSPE ( 0.9 M NaCl , 50 mM sodium phosphate , pH 7.4 ) and 5 mM disodium EDTA ] containing 2 mg yeast tRNA and 2 mg salmon sperm DNA .
+The membrane was rinsed once with 5x SSC , washed once with 5x SSC containing 0.2 % SDS at 65°C for 30 min and rinsed three times with 5x SSC .
+Gel mobility shift assay Gel mobility shift assays were performed essentially as described by Imagawa et al .
+( 36 ) .
+The E.coli were cultured in 50 ml of LB medium containing 50 ug/ml ampicillin at 37°C to an optical density at 600 nm of 0.7-0.8 .
+Bacteria were harvested and resuspended in 4 ml of 0.12 M HM buffer ( 20 mM HEPES , pH 7.9 , 1 mM MgC ) , 2 mM dithiothreitol , 17 % glycerol and 0.12 M KC ] .
+Each suspension was sonicated at 20 kHz for 30 s three times ( Bioruptor , CosmoBio ) , clarified by centrifugation at 1500 g , and the lysate purified further with SpinBind ( FMG BioProducts ) to remove nucleic acid .
+Protein samples ( 6.25 pl ) were mixed with 6.25 ul 20 mM Tris , pH 7.5 , 10 % glycerol , 2 mM dithiothreitol , 20 mM EDTA , 0.32 mg/ml poly ( dI-dC ) ( Pharmacia ) and 20 nmol/m !
+of competitor oligonucleotides , where necessary , and incubated at room temperature for 15 min .
+Then 1 x 10+-1 x 106 c.p.m .
+of radio-labeled probe ( 2-200 pmol/ul ) were added and incubation continued for an additional 15 min .
+Each sample was loaded on a 5 % polyacrylamide gel ( 0.17 % bis-acrylamide ; 0.5x TBE ) and electrophoresed at 150 V for 1 h. Western blot analysis of HA-tagged Oct-2 protein Protein samples were fractionated by electrophoresis on 10-20 % gradient SDS-polyacrylamide gels ( Daiichi Pure Chemicals , Tokyo ) , transferred onto Immobilon polyvinylidene difluoride transfer membranes ( Millipore ) and probed with a mouse anti-HA monoclonal antibody .
+Proteins were detected by a horseradish peroxidase-linked sheep anti-mouse Ig antibody ( Amersham ) and the ECL chemiluminescent system ( Amersham ) .
+RESULTS Design of the system Structures of the reporter genes constructed for the system are shown in Figure 1 .
+In these genes , the 54 bp lac repressor-binding sequence ( 37 ) in the lac operon was replaced with the target sequence for Oct-2 ( ATGCTAAT ) or its mutant derivative ( CTGATCAT ) ( 23 ) to create reporter genes carried on phages , AAP18 and ABP6 , respectively .
+Tester strains , HI1006AAP18 and HI1006ABP6 , carrying these reporter genes , formed blue colonies on agar plates containing X-gal ( Lact phenotype ; Fig .
+3 ) .
+The transcription start sites of these reporter genes were determined by primer extension mapping ( Fig .
+2 ) to be eight bases upstream from the octamer or the mutant octamer site ( indicated by asterisks in Fig .
+1 ) , proximal to the transcription start site of the original Zac operon .
+Because the octamer binding site is located immediately downstream of the transcription start site , we CJ ~35 & CJ +10 +10 « egen last mutant octamer octamer Po | m. Fy N Figure 2 .
+Primer extension mapping for the 5° end of lacZ transcript .
+Total cellular RNA ( 30 ug ) from the tester strains HI1006AAP18 ( A ) or HI1006ABP6 ( B ) was hybridized with 5-end-labeled 20mer oligonucleotide primer , which anneals to 5 region of lacZ mRNA .
+The primer was extended with reverse transcriptase and the product was electrophoresed on 6 % polyacrylamide gel containing 8 M urea .
+The ladder was prepared using the same primer and the template plasmid carrying the reporter gene .
+The schema represents the transcription start site and composition of the modified Zac control region .
+The nucleotide sequences corresponding to the 5¢ ends of products are shown in Figure 1. expected that binding of octamer protein at the binding site of AAP18 would repress transcription of the lacZ gene and result in reduction of -galactosidase activity .
+As expected , expression of Oct-2 or Oct-3 in HI1006AAP18 changed the color of colonies on X-gal plates from blue to white whereas HI1006ABP6 formed blue colonies , indicating that octamer proteins act as repressors by binding to the octamer sequence in the system .
+The observed phenotypic change correlated with the level of B-galactosidase activity in cell extracts ( Table 1 and 2 ) .
+We confirmed that the altered expression was at the transcription level by performing S1 mapping analysis as summarized in Table 1 .
+Table 1 .
+Effect of Oct-3 on lacZ expression in tester strains Testers and effectors lacZ mRNA* - B-Galactosidase - Color of activity colonies® HI1006AAP184 empty vector ( pTZ19U ) 640 244 blue Oct-3 plasmid ( pAT1 ) 174 4.1 white HI1006ABP6® empty vector ( pTZ19U ) 1363 19.6 blue Oct-3 plasmid ( pAT1 ) 761 15.2 blue `` lacZ mRNA was quantitated by S1 mapping .
+Radioactivity analyzed with BAS2000 ( Fujix ) was presented as a PSL ( photo-stimulated luminescence ) value .
+PB-Galactosidase activity was determined by Miller 's method .
+©Each strain was streaked onto X-gal plates and incubated at 30°C to evaluate the phenotype .
+4 : °HI1006AAP18 and HI1006ABP6 are tester strains containing an octamer and a mutant octamer cassettes , respectively , in place of the lac operator .
+Isolation of cDNA clones interfering with the repressor function of Oct-2 Our system in which the Oct protein functions as a repressor was applied for isolation of cDNA clones that dominantly inhibit the DNA binding activity of Oct-2 .
+A cDNA expression library constructed from a human T-cell line ( 32,38 ) was introduced into the Oct-2 expressing HI1006AAP18 cells for this purpose .
+From vector vector ( HIHODGAAPTE ) ( HILOOGABPG ) ii 1v Oct- Oct-3 ( HI1O0GAAPT8 ) ( HILODGABPGY B = £ .
+Oct-2 vector 1 + 11 vector CCH w ~ ~ * `` ~ Figure 3 .
+Effects of Oct-3 , Oct-2 and hT86 on phenotype .
+The tester strains were incubated on M9 minimal plates at 30°C for 24 h and then at room temperature for 24-48 h to monitor the phenotype .
+( A ) Tester strains , HI1006AAP18 and HI1006ABP6 , were transformed with the vector plasmid pTZ19U or the Oct-3 expression vector , pAT 1. i : pTZ19U into HI1006AAP18 ; ii : pAT1 into HI1006AAP18 ; iii : pTZ19U into HI1006ABP6 ; iv : pAT1 into HI1006ABP6 ; ( B ) HI1006AAP18 was transformed with the following plasmid .
+sets .
+i ; : pAS22D ( Oct-2 ) and pTVI119N ( vector ) ; ii : pKV287 ( vector ) and pTV119N ; iii : pAS22D and phT86 ( hT86 ) .
+1 x 10° transformants , 14 Lact colonies were selected on M9 minimal plates containing X-gal .
+cDNA plasmids were recovered from these clones and used to re-transform HI1006AAP18 expressing Oct-2 to confirm the phenotype .
+Three out of the 14 clones gave reproducible phenotypic change .
+We focused on the one ( bCT1 ) which gave the most marked Lact expression .
+The bCT1 clone has a 540 bp insert .
+To ascertain whether it contained a full length cDNA , we searched for a longer version of bCT1 in the original library and found clone hT86 with a 630 bp insert .
+Because hT86 showed the same phenotype as bCT1 in the tester strain , it was adopted for further characterization in this work .
+The nucleotide sequence and a possible translation product of 116 codons are shown in Figure 4 .
+We could not find any significant sequence similarity between hT86 and OBF-1/0CA-B that is known to associate with Oct-1 or Oct-2 ( 22 ) .
+The product includes 18 acidic and 20 basic residues , and a typical zinc finger motif of TFIIIA-type .
+The size of the transcript of hT86 was Nucleic Acids Research , 1997 , Vol .
+25 , No .
+10 _ 1987 A 1 Mok A k 1 50 R ROR R DOL D E 1 H R OE L R P Q G S A R o A 2500 R Q BOD RON A BOF D B Db L P S G G L HoR 121 450 C b A C A ROY FOI D @ TO NOL KO P HOF R s 181 .
+GOTGTCTeeccrececeAGeTaCTTCATCGATTCCACCAACCTEAAGACCCACTTCCGAT 65 _ K D HOK K ROL K Q Los V B POY s Q B E A 241 .
+CCAAMGACCACARGAAAAGCCTGAAGCAGCTGAGCGTCGAGCCCTACAGTCAGCAACAGG 850 E R A A G M G s ¥ Vv R BOR ROL A V POT E 301 105 v s T BR y ROE M D T s T * 361 .
+421 GCAGAGGAATTECCCATGGACACTERCGCAAGCACTAGCCTEGCAGGGAGCCTGCCAACC 481 .
+541 GGAACTGGACAAMGAAAAAAAARAAAAA B IDP $ p F N Y L RSO K A T 60 8 , A R S -- -- -- DLPGgoGLI-IR KK $ OLKQLS- -- ~-~-~ Figure 4 .
+The nucleotide sequence of hT86 .
+( A ) The nucleotide sequence and predicted peptide sequence ( presented above ) .
+The numbering of the nucleo-tides and amino acid residues is indicated on the left .
+The zinc finger motif is underlined .
+( B ) The putative zinc finger structure of hT86 represented as peptide sequence loop .
+Positions predicted to be involved in the tetrahedral coordination of a zinc atom are shown within boxes .
+found to be ~640 nt , as described below , indicating that the clone has a full cDNA insert .
+Activity of hT86 against the repressor function of Oct-2 in vivo The phenotypic change of the Oct-3 carrying tester strain from Lac- to Lact upon introduction of hT86 suggested that the translated product from hT86 negatively modulates the repressor function of Oct-2 .
+To confirm this possibility , we performed the following experiments .
+Introduction of hT 86 alone into the tester strain did not increase the B-galactosidase activity ( Table 2 ) , excluding the possibility that a direct enhancement of gene expression was involved .
+Since the nucleotide sequence of hT86 could serve as a Oct-2 binding target sites and derepress the expression of the reporter gene by sequestering the Oct-2 protein within cell , we constructed two variants that do not produce zinc-finger like proteins .
+The phT86RO containing the hT86 insert in the reverse orientation to the promoter and the phT860F carrying the insert out of the open-reading frame for the zinc finger protein , did not show dominant negative effects on the repression activity of Oct-2 in the tester strain ( Table2 ) , excluding the possibility that the nucleotide sequence is responsible for the de-repression .
+By examining the amount of Oct-2 proteins in cells , with and without hT86 , using the HA-tagged version of Oct-2 ( Fig .
+5A ) , we could also exclude the possibility that hT86 1988 - Nucleic Acids Research , 1997 , Vol .
+25 , No .
+10 1 `` .
+C B HA POU ILC ~ TI HA-Oct-2 Ce -- I Figure 5 .
+Effects of hT86 on the expression level and DNA-binding activity of Oct-2 protein .
+( A ) HA-tagged Oct-2 protein was detected by Western blot analysis .
+The arrowhead indicates the HA-Oct-2 .
+The larger signal is due to crossreaction of the anti-HA antibody with an endogenous protein of E.coli .
+Protein samples were prepared from tester strains that had been transformed with sets of plasmid vectors .
+Lane 1 : pKV287 ( vector ) and pTV119N ( vector ) ; lane 2 : pAS22DH ( HA-Oct-2 expression vector ) and pTV119N ; lane 3 : pAS22DH and phT86 ( hT86 ) .
+( B ) Diagrammatic illustration of the HA-Oct-2 deletions , with 93 C-terminal residues and 180 N-terminal residues ( including 161 residues of the N-terminal of Oct-2 ) respectively , being removed from HA-Oct-2 to make HA-Oct-2AC and Oct-2AN .
+The black and grey boxes represent the HA-tag and the POU domain , respectively .
+Each protein was fused at its N-terminal end with the N-terminal 18 residues of B-galactosidase ( not shown ) .
+( C ) DNA-binding activity of HA-Oct-2 and its deletion mutants as determined by gel mobility shift assay .
+Each protein set was expressed in E.coli and incubated with the [ ¢- > 2P ] dCTP-labeled octamer probe .
+Lane 1 : pKV287 ( vector ) and pTV119N ( vector ) ; lane 2 : pAS22DH ( HA-Oct-2 ) and pTV119N ; lane 3 : pAS22DH and phT86 ( hT86 ) ; lane 4 : pAS22DHAC ( HA-Oct-2AC ) and pTV119N ; lane 5 : pASZ2DHAC and phT86 ; lane 6 : pAS22DAN ( Oct-2AN ) and pTV119N ; lane 7 : pAS2ZDAN and phT86 .
+interferes with the repressor function of Oct-2 by suppressing the translation .
+The level of the HA-tagged Oct-2 protein was essentially unaltered in the presence of hT 86 ( Fig .
+5A , lanes 2 and 3 ) , indicating that hT86 does n't reduce the protein production .
+The above results thus strongly suggested that the hT86 product negatively modulates the DNA binding activity of Oct-2 .
+hT86 inhibition Oct-2 and octamer sequence complex formation in vitro The effects of translation products of hT 86 on complex formation by Oct-2 with short DNA containing the octamer sequence were tested using the cell extract applied for the Western blot analysis in Figure 5A and gel mobility shift assays .
+The complex formation between the HA-tagged Oct-2 protein and the P-labeled octamer probe was attenuated to ~5 % when the protein sample was prepared from the tester strain expressing both hT86 and HA-tagged Oct-2 simultaneously ( Fig .
+5C , lanes 2 and 3 ) .
+These data demonstrated interference by hT86 with the DNA-binding of the Oct-2 protein .
+We further determined the region of Oct-2 that is responsible for this inhibition by using mutant forms ( Fig .
+5B ) .
+HA-Oct-2AC lacks the C-terminal region of Oct-2 whereas Oct-2AN lacks the N-terminal region .
+Both mutants retain the POU domain .
+Gel mobility shift assays using the extracts prepared from cells expressing both hT86 and HA-Oct-2AC or hT86 and Oct-2AN were performed .
+The bound complex formation was attenuated with both extracts ( Fig .
+5C , lanes 5 and 7 ) , indicating that the region of Oct-2 containing the POU domain is responsible for the hT86 mediated inhibition .
+Table 2 .
+Effects of Oct-2 and hT86 on lacZ expression Effectors in HI1006AAP18* -Galactosidase - Color of activity ?
+colonies® Empty vectors ( pKV287 + pTV119N ) 26.5 blue Oct-2 plasmid ( pAS22D4 ) 7.4 white + empty vector ( pTV119N ) Oct-2 plasmid ( pAS22D ) 24.1 blue + hT86 plasmid ( phT86® ) Oct-2 plasmid ( pAS22D ) not tested white + mock hT86 plasmid ( phT86RO® ) Oct-2 plasmid ( pAS22D ) not tested white + mock hT86 plasmid ( phT86OFE ) Empty vector ( pTV119N ) 28.7 blue hT86 plasmid ( phT86 ) 17.5 blue 2HI1006AAP18 is a tester strain containing an octamer cassette in place of the lac operator .
+PB-Galactosidase activity was determined by Miller 's method .
+©Each strain was streaked onto M9 plates containing X-gal and incubated at 30°C to evaluate the phenotype .
+4°pAS22D and phT86 express full-length Oct-2 and hT86 proteins , respectively .
+carries hT86 cDNA in reverse orientation to the promoter .
+EphT86OF carries hT86 cDNA out of the open-reading-frame for the putative zinc finger protein .
+Ubiquitous expression of hT86 Northern blot analyses using RNA samples prepared from the human T-cell lines , HUT78 , A3.01 , MOLT-4 and H9 ( 39-42 ) and a human macrophage-like cell line , U937 ( 43 ) detected a single transcript of ~640 nt in all cases ( data not shown ) .
+Similarly , analyses of poly A* RNA from various human tissues , including spleen , thymus , prostate , testis , ovary , small intestine , colon and peripheral blood leukocytes , consistently demonstrated a single transcript of ~640 nt .
+The expression level of hT86 was slightly lower in the thymus and peripheral blood leukocytes than in other tissues ( Fig .
+6 , lanes 2 and 8 ) .
+DISCUSSION The E.coli tester strain constructed in this study allows monitoring of the DNA-binding activity of Oct proteins in terms of phenotypic change in lactose utilization .
+The Oct proteins function as transcriptional repressors by binding to the octamer sequence that is located between the lac promoter and the lacZ gene and give Lac~ phenotype to the tester strain .
+Using this system , in the present study , we were able to selected hT86 that changes the phenotype of Oct-2 expressing cells from Lac to Lact .
+This selection is based on the functional interaction between Oct-2 and ( ki ) Figure 6 .
+Northern blot analysis of hT86 transcripts in human tissues .
+Detection was with an [ 0-2P ] dCTP-labeled 473 bp Spel-Neol fragment of phT86 .
+The upper panel demonstrates the presence of 640-base transcripts of hT86 , and the lower panel shows B-actin transcripts assayed as a control .
+Lane 1 : spleen ; lane 2 : thymus ; lane 3 : prostate ; lane 4 : testis ; lane 5 : ovary ; lane 6 : small intestine ; lane 7 : colon ; lane 8 : peripheral blood leukocytes .
+selected clones , in contrast to yeast two-hybrid systems which select clones that physically interact with a bait protein ( 44,45 ) .
+The derepression of lacZ caused by hT86 was not due to enhanced expression of B-galactosidase , suppressed expression of Oct-2 or its sequestration of Oct-2 protein .
+The protein encoded by hT86 was thus shown to be itself responsible for the enhancement of lacZ expression .
+Gel shift assays using lysates from cells expressing Oct-2 and hT86 showed that it in fact somehow abolished the DNA binding activity of Oct-2 protein .
+hT86 codes for a polypeptide that contains a single canonical Cys : Hisy zinc-finger motif ( 46 ) .
+The extended family of zinc-finger transcriptional factors usually contain more than one zinc-finger motif and the actual multiplicity has been reported to correlate with DNA binding activity ( 47 ) .
+Therefore , hT86 might not be expected to bind tightly to a specific DNA element .
+In agreement with this notion , we could not detect specific binding of hT86 to the octamer site in gel mobility shift assays ( data not shown ) .
+The fact , however , that hT86 slightly repressed the -galactosidase activity of the tester strain ( Table 2 ) suggests that it can bind to the octamer binding site in vivo .
+Zinc-finger structures are also known to be involved in protein-protein interactions in some cases ( 47-49 ) .
+The hT86 protein could heterodimerize with Oct-2 so that its DNA-binding ability is impaired .
+The dominant negative effect of hT86 protein on Oct-2 protein in gel mobility shift assays was only observed when both proteins were expressed simultaneously in the tester strain , and not when proteins were prepared separately from each transformant and mixed in vitro ( data not shown ) .
+This is in line with the finding that assembly of many oligomeric proteins is dependent on their co-translation ( 50 ) .
+Interaction of Oct-2 and hT86 may also require their co-translation .
+The northern analyses showed that hT86 transcripts in spleen , thymus , prostate , testis , ovary , small intestine , colon and peripheral Nucleic Acids Research , 1997 , Vol .
+25 , No .
+10 _ 1989 blood leukocytes , strongly suggesting that it is a ubiquitously expressed gene .
+The tissues tested included both Oct-2-expressing and non-expressing examples .
+Because Oct-family proteins are expressed in a variety of tissues , it may be possible that hT86 exerts a general modulatory influence on these octamer proteins .
+In particular , Oct-1 is worthy of attention because it is expressed ubiquitously and belongs to the same subfamily as Oct-2 ( 51 ) .
+In this regard , it is noteworthy that the expression rate of hT86 did differ with the tissue examined ( Fig .
+6 ) .
+Further evidence that hT86 is a modulator for octamer proteins including Oct-2 may be expected from additional experiments with tissue culture and gene targeting of hT86 .
+ACKNOWLEDGEMENTS The authors would like to thank Dr Hiroshi Hamada ( Osaka University ) for providing cDNA of Oct-2 and Oct-3 , Professor Mutsuo Imai ( Kyoto University ) for the phage vector system and the related E.coli strains and Dr Katsuya Shigesada ( Kyoto University ) for the cDNA expression library .
+A.T. is a graduate student of Tohoku University .
+This work was supported by a grant from the Ministry of Education , Science and Culture of Japan .
+REFERENCES 1 Ayer , D. E. , Kretzner , L. and Eisenman , R. N. ( 1993 ) Cell , 72 , 211-222 .
+2 Bacuerle , P. A. and Baltimore , D. ( 1988 ) Science , 242 , 540-546 .
+3 Benezra , R. , Davis , R. L. , Lockshon , D. , Turner , D. L. and Weintraub , H. ( 1990 ) Cell , 61 , 49-59 .
+4 Lassar , A .
+B. , Davis , R. L. , Wright , W. E. , Kadesch , T. , Murre , C. , Voronova , A. , Baltimore , D. and Weintraub , H. ( 1991 ) Cell , 66 , 305-315 .
+Treacy , M. N. , He , X. and Rosenfeld , M. G. ( 1991 ) Nature , 350 , 577-584 .
+Xue , D. , Tu , Y. and Chalfiec , M. ( 1993 ) Science , 261 , 1324-1328 .
+Zervos , A. S. , Gyuris , J. and Brent , R. ( 1993 ) Cell , 72 , 223-232 .
+Corneliussen , B. , Holm , M. , Waltersson , Y. , Onions , J. , Hallberg , B. , Thormell , A. and Grundstrom , T. ( 1994 ) Nature , 368 , 760-764 .
+9 Ptashne , M. ( 1992 ) A Genetic Switch .
+Cell Press , Blackwell Scientific Publications , Cambridge .
+10 Botfield , M. C. , Jancso , A. and Weiss , M. A .
+( 1994 ) Biochemistry , 33 , 6177-6185 .
+11 Elledge , S. J. , Sugino , P. , Guarente , L. and Davis , R. W. ( 1989 ) Proc .
+Natl .
+Acad .
+Sci .
+USA , 86 , 3689-3693 .
+12 Kadonaga , J. T. , Carner , K. R. , Masiarz , F. R. and Tjian , R. ( 1987 ) Cell , 51 , 1079-1090 .
+13 - Paulmier , N. , Yaniv , M. , von Wilcken-Bergmann , B. and Miiller-Hill , B .
+( 1987 ) EMBO J. , 6 , 3539-3542 .
+14 Clerc , R. G. , Corcoran , L. M. , LeBowitz , J. H. , Baltimore , D. and Sharp , P. A .
+( 1988 ) Genes Dev .
+, 2 , 1570-1581 .
+15 Turner , E. E. ( 1996 ) Proc .
+Natl .
+Acad .
+Sci .
+USA , 93 , 15097-15101 .
+16 Johnson , W. A. and Hirsh , J .
+( 1990 ) Nature , 343 , 467-470 .
+17 Andersen , B. , Schonemann , M. D. , Flynn , S. E. , Pears , R. V. IL , Singh , H. and Rosenfeld , M. G. ( 1993 ) Science , 260 , 78-82 .
+18 Poellinger , L. , Yoza , B. K. and Roeder , R. G. ( 1989 ) Nature , 337 , 573-576 .
+19 Ingraham , H. A. , Flynn , S. E. , Voss , J. W. , Albert , V. R. , Kapiloff , M. S. , Wilson , L. and Rosenfeld , M. G. ( 1990 ) Cell , 61 , 1021-1033 .
+20 Voss , J. W. , Wilson , L. and Rosenfeld , M. G. ( 1991 ) Genes Dev .
+, 5 , 1309-1320 .
+21 Ko , H.-S. , Fast , P. , McBride , W. and Staudt , L. M. ( 1988 ) Cell , 55 , 135-144 .
+22 Luo , Y. , Fujii , H. , Gerster , T. and Roeder , R. G. ( 1992 ) Cell , 71 , 231-241 .
+23 Miller , M. M. , Ruppert , S. , Schaffner , W. and Matthias , P. ( 1988 ) Nature , 336 , 544-551 .
+24 Scheidereit , C. , Cromlish , J .
+A. , Gerster , T. , Kawakami , K. , Balmaceda , C.-G. , Currie , R. A. and Roeder , R. G. ( 1988 ) Nature , 336 , 551-557 .
+25 Casadaban , M. J. , Chou , J. and Cohen , S. N. ( 1980 ) J .
+Bacteriol .
+, 143 , 971-980 .
+26 - Sambrook , J. , Fritsch , E. F. and Maniatis , T. ( 1989 ) Molecular Cloning : A Laboratory Manual , Cold Spring Harbor Laboratory Press , New York .
+go ~1 \ in 1990 Nucleic Acids Research , 1997 , Vol .
+25 , No .
+10 27 28 29 30 31 32 33 34 35 36 37 38 Hirano , M. , Shigesada , K. and Imai , M. ( 1987 ) Gene , 57 , 89-99 .
+Okamoto , K. , Okazawa , H. , Okuda , A. , Sakai , M. , Muramatsu , M. and Hamada , H. ( 1990 ) Cell , 60 , 461-472 .
+Mead , D. A. , Szczesna-Skorupa , E. and Kemper , B .
+( 1986 ) Protein Engng , 1 , 67-74 .
+Rose , R. E. ( 1988 ) Nucleic Acids Res .
+, 16 , 355 .
+Gerster , T. , Balmaceda , C.-G. and Roeder , R. G. ( 1990 ) EMBO J. , 9 , 1635-1643 .
+Shigesada , K. , Itamura , S. , Kato , M. , Hatanaka , M. , Imai , M. , Tanaka , M. , Masuda , N. , Nagai , J. and Nakashima , K. ( 1987 ) Gene , 53 , 163-172 .
+Miller , J. H. ( 1972 ) Experiments in Molecular Genetics , Cold Spring Harbor Laboratory , Cold Spring Harbor .
+Shiba , K. and Mizobuchi , K. ( 1990 ) J .
+Bacteriol .
+, 172 , 1992-1997 .
+Ausubel , F. M. , Brent , R. , Kingston , R. E. , Moore , D. D. , Seidman , J. G. , Smith , J .
+A. and Struhl , K. ( 1992 ) Current Protocols in Molecular Biology , Greene Publishing Associates and Wiley-Interscience , New York .
+Imagawa , M. , Miyamoto , A. , Shirakawa , M. , Hamada , H. and Muramatsu , M. ( 1991 ) Nucleic Acids Res .
+, 19 , 4503-4508 .
+Manly , S. P. and Matthews , K. S. ( 1984 ) J. Mol .
+Biol .
+, 179 , 315-333 .
+Hanada , S. , Tsubai , F. and Namba , Y .
+( 1985 ) Recent Adv .
+RES Res .
+, 25 , 124-133 .
+39 40 41 42 Folks , T. , Benn , S. , Rabson , A. , Theodore , T. , Hoggan , M. D. , Martin , M. , Lightfoote , M. and Sell , K. ( 1985 ) Proc .
+Natl .
+Acad .
+Sci .
+USA , 82 , 4539-4543 .
+Gazdar , A. F. , Carney , D. N. , Bunn , P. A. , Russell , E. K. , Jaffe , E. S. , Schechter , G. P. and Guccion , J. G. ( 1980 ) Blood , 55 , 409-417 .
+Popovic , M. , Sarngadharan , M. G. , Read , E. and Gallo , R. C. ( 1984 ) Science , 224 , 497-500 .
+Takada , A. , Takada , Y. and Minowada , J .
+( 1974 ) J. Exp .
+Med .
+, 140 , 538-548 .
+Sundstrom , C. and Nilsson , K. ( 1976 ) Int .
+J .
+Cancer , 17 , 565-577 .
+Fields , S. and Song , O .
+( 1989 ) Nature , 340 , 245-246 .
+Chien , C. T. , Bartel , P. L. , Sternglanz , R. and Fields , S. ( 1991 ) Proc .
+NatZ .
+Acad .
+Sci .
+USA , 88 , 9578-9582 .
+Berg , J. M. ( 1990 ) Annu .
+Rev .
+Biophys .
+Biophys .
+Chem .
+, 19 , 405-421 .
+Berg , J. M. and Shi , Y .
+( 1996 ) Science , 271 , 1081-1085 .
+Schille , R. and Evans , R. M. ( 1991 ) Trends Genet .
+, 7 , 377-381 .
+Webster , L. C. and Ricciardi , R. P. ( 1991 ) Mol .
+Cell .
+Biol .
+, 11 , 4287-4296 .
+Jaenicke , R. and Rudolph , R. ( 1986 ) Methods Enzymol .
+, 131 , 218-250 .
+Rosenfeld , M. G. ( 1991 ) Genes Dev .
+, 5 , 897-907 .

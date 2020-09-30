@@ -1,0 +1,828 @@
+The EMBO Journal Vol.16 No.13 pp.3924-3934 , 1997 c-Myb and Ets proteins synergize to overcome transcriptional repression by ZEB Antonio A.Postigo , Allan M.Sheppard , Michael L.Mucenski ' and Douglas C.Dean* Departments of Medicine and Cell Biology , Washington University School of Medicine , St Louis , MO 63110 and 'Division of Biology , Oak Ridge National Laboratory , Oak Ridge , TN 37831 , USA Corresponding author e-mail : dean @ im.wustl.edu The Zfh family of zinc finger/homeodomain proteins was first identified in Drosophila where it is required for differentiation of tissues such as the central nervous system and muscle .
+ZEB , a vertebrate homolog of Zfh-1 , binds a subset of E boxes and blocks myogenesis through transcriptional repression of muscle genes .
+We present evidence here that ZEB also has an important role in controlling hematopoietic gene transcription .
+Two families of transcription factors that are required for normal hematopoiesis are c-Myb and Ets .
+These factors act synergistically to activate transcription , and this synergy is required for transcription of at least several important hematopoietic genes .
+ZEB blocks the activity of c-Myb and Ets individually , but together the factors synergize to resist this repression .
+Such repression imposes a requirement for both c-Myb and Ets for transcriptional activity , providing one explanation for why synergy between these factors is important .
+The balance between repression by ZEB and transcriptional activation by c-Myb/Ets provides a flexible regulatory mechanism for controlling gene expression in hematopoietic cells .
+We demonstrate that one target of this positive/negative regulation in vivo is the 4 integrin , which play a key role in normal hematopoiesis and function of mature leukocytes .
+Keywords : c-Myb/Ets/hematopoiesis/o4 integrin/ repression/ZEB Introduction The Zfh family is comprised of zinc finger/homeodomain proteins that were first identified in Drosophila where they are required for proper differentiation of tissues such as the central nervous system ( CNS ) and muscle ( Fortini et al .
+, 1991 ; Lai et al .
+, 1993 ) .
+However , the mechanism of action of the Zfh protein in Drosophila is unknown .
+A vertebrate homolog of Drosophila Zfh-2 , ATBF-1 , has been identified and shown to repress the expression of the a-fetoprotein gene ( Yasuda et al .
+, 1994 ) .
+We have found recently that the vertebrate homolog of Drosophila Zfh-1 , ZEB , represses muscle genes and regulates myogenic differentiation ( Postigo and Dean , 1997 ) .
+Thus , the Zth family appears to regulate tissue differentiation by repressing gene transcription .
+ZEB binds to a subset of E boxes ( CANNTG ) with the 3924 sequence CACCTG ( Genetta et al .
+, 1994 ) .
+Once bound to these sites in the promoter region of muscle genes , ZEB represses transcription and blocks muscle differentiation .
+ZEB is displaced from these E boxes as myogenic basic helix-loop-helix proteins ( bHLH ) ( myoD , myogenin , myf-5 , MRF-4 ) , that also bind to these sites , accumulate during muscle differentiation ( Postigo and Dean , 1997 ) .
+The interplay between ZEB and bHLH proteins at different genes may provide a mechanism for imposing temporal order on the expression of muscle genes .
+Zfh-1 is expressed in the CNS , and its overexpression results in an early embryonic lethal phenotype with severe CNS defects in Drosophila ( Fortini et al .
+, 1991 ) .
+ZEB is also expressed in the CNS , suggesting that it may have a role in differentiation of other tissues in addition to muscle .
+In fact , ZEB was described originally in B cells , although no transcriptional activity was reported ( Genetta et al .
+, 1994 ) .
+Therefore , we investigated a role for ZEB in hematopoietic cells .
+One target of ZEB in myogenesis is the 4 integrin gene ( Postigo and Dean , 1997 ) .
+o4 is one of a number of integrins that associate with a common B1 subunit ( Lobb and Hemler , 1994 ; Springer , 1994 ) .
+o4 integrin is expressed early in muscle development where it interacts with its ligand vascular cell adhesion molecule 1 ( VCAM-1 ) to mediate cell-cell interactions important for myogenesis ( Rosen et al .
+, 1992 ; Sheppard et al .
+, 1994 ) .
+Interestigly , G4 integrin is also expressed in hematopoietic cells , where it has a key role in the differentiation of all hematopoietic lineages through its interaction with fibronectin and VCAM-1 in the stromal matrix and stromal cells in the bone marrow and fetal liver ( Miyake et al .
+, 1991 ; Roldan et a/ .
+, 1992 ; Teixido et al .
+, 1992 ) .
+o4 is expressed before most lineage-specific markers on all hematopoietic cell lineages during the early stages of hematopoiesis ( Sanchez et al .
+, 1993 ; Hamamura et al .
+, 1996 ) .
+However , as hematopoietic differentiation proceeds , its expression becomes restricted to only a few lineages such as lymphocytes and some subsets of myeloid cells , where it continues to function by targeting these leukocytes to sites of inflammation ( Lobb and Hemler , 1994 ) .
+These observations , together with recent reports showing that 4 is required in vivo for normal hematopoiesis in mice ( Hamamura et a/ .
+, 1996 ; Arroyo et al .
+, 1996 ) , indicate an important role for 4 in hematopoiesis and leukocyte function .
+( 4 integrin expression continues to be regulated in mature leukocytes as G4 expression is up-regulated during mitogenic activation ( Sanchez-Madrid et al .
+, 1986 ) and differentially regulated among lymphoid subsets ( Shimizu et al .
+, 1990 ; Picker et al .
+, 1991 ) .
+We demonstrate that ZEB activity , and hence ( 4 integrin expression , is regulated in hematopoietic cells through a mechanism distinct from that which we have characterized in muscle ( Postigo and Dean , 1997 ) .
+Instead of being displaced from the promoter by bHLH proteins , the © Oxford University Press hematopoietic transcription factor c-Myb synergizes with Ets proteins to resist repression by ZEB in hematopoietic cells .
+In addition to regulating the 04 gene , c-Myb and Ets also play a crucial role in the regulation of other hematopoietic genes and thus in hematopoiesis itself ( Graf , 1992 ; Lipsick , 1996 ) .
+Disruption of ets and c-myb genes has been shown to severely affect the proper development of multiple hematopoietic lineages ( Mucenski et al .
+, 1991 ; Scott et al .
+, 1994 ; Muthusamy et al .
+, 1995 ; Shivdasani and Orkin , 1996 ) .
+Interestingly , the E26 virus , which carries the v-myb oncogene as a fusion with v-ets , efficiently induces erythroleukemia , whereas avian myelo-blastosis virus ( AMV ; which carries v-myb but lacks v-ets ) does not ( Radke et al .
+, 1982 ; Metz and Graf , 1991 @ , b ) , providing evidence of the potent effect of the synergism between c-Myb and Ets in the regulation of hematopoietic genes and specific steps in hematopoiesis .
+Only a few hematopoietic genes have been identified as targets of c-Myb , and it is interesting to note that several of these genes which have been examined in detail are dependent upon synergism between c-Myb and Ets .
+Such genes include the early myeloid markers mim-1 ( Ness et al .
+, 1989 ; Dudek et al .
+, 1992 ) and CD13 ( Shapiro , 1995 ) , CD4 ( Siu et al .
+, 1992 ) , p56 `` ( McCracken et al .
+, 1994 ) and the early hematopoietic marker CD34 ( Melotti and Calabretta , 1994 ; Melotti et al .
+, 1994 ) .
+It has been demonstrated with some of these genes that expression is not induced by c-Myb or Ets separately , but is dependent on the combination of both factors ( McCracken et al .
+, 1994 ) , suggesting that , as with the oA gene , this synergy may overcome a silencer that blocks activity of the factors individually .
+Indeed , such silencer elements have been reported in some of the above genes ( Allen et al .
+, 1992 ; Sawada et al .
+, 1994 ; Perrotti et al .
+, 1995 ; Duncan et al .
+, 1996 ) .
+Although the repressor protein has not been characterized for CD4 and p56 ' `` * , ZEB sites are evident in both genes , suggesting that ZEB may be responsible for the silencer activity .
+Here , we demonstrate that ZEB is important in regulating gene expression in hematopoietic cells .
+Regulation of ZEB activity in hematopoietic cells is distinct from that in muscle , and our results suggest that a fine balance between repression by ZEB and synergistic activation by c-Myb and Ets regulates gene expression in hematopoietic cells .
+Results ZEB is expressed and binds ZEB sites in hematopoietic cells , but it does not repress gene expression ZEB blocks muscle differentiation by repressing muscle genes .
+One such gene is 4 integrin ( Postigo and Dean , 1997 ) .
+In addition to its expression in muscle , ( 4 integrin has a key role in hematopoietic differentiation , leukocyte trafficking and recruitment of leukocytes to sites of inflammation ( Miyake et al .
+, 1991 ; Yednock et al .
+, 1992 ; Lobb and Hemler , 1994 ) .
+The interaction between 04 integrin on hematopoietic cells and VCAM-1 and fibronectin on stromal cells and stromal matrix in the fetal liver and bone marrow is important for normal hematopoiesis ( Miyake et al .
+, 1991 ; Roldan et al .
+, 1992 ) .
+Previous results demonstrated that Ets sites in the first c-Myb/Ets overcome ZEB repression 76 bp of the ( 4 promoter gene are active in most cell types ( Rosen et al .
+, 1994 ) , making it unlikely that these sites alone could account for the restricted pattern of o4 expression .
+In order to understand how the 0A gene is regulated in hematopoietic cells , we transfected 04 gene promoter constructs into G4 ( + ) and ( 4 ( - ) cells .
+In o4 ( - ) cells , the activity of the promoter was blocked in constructs containing sequences upstream of -300 bp ( Figure 1A-D ) .
+This pattern of promoter activity was the same as the pattern we found in o4 ( - ) myoblasts ( Figure 1D , and Postigo and Dean , 1997 ) .
+Two ZEB sites ( at positions -361 and -399 bp ) are responsible for this silencer activity in myoblasts ( Postigo and Dean , 1997 ) .
+When the same constructs were transfected into the o4 ( + ) T-cell line Jurkat , the erythroleukemia cell line HEL or the B cell line Raji , we found that the activity is maintained in promoter constructs extending to -2.0 kb ( Figure 1E and F ) as o4 ( - ) myoblasts differentiate into x4 ( + ) myotubes ( Figure 1H ) .
+The lack of repressor activity suggested that ZEB may not be expressed in hematopoietic cells .
+However , we found that Jurkat cells express high levels of ZEB ( Figure 2A ) , and ZEB has also been shown to be expressed in B cells ( Genetta et al .
+, 1994 ) .
+In muscle , ZEB is displaced from E361 and E399 by bHLH proteins as ( 4 ( - ) myoblasts differentiate into O4 ( + ) myotubes ( Figure 1D and H , and Postigo and Dean , 1997 ) .
+Even though ZEB is expressed in hematopoietic cells , it was possible that the ratio of ZEB to bHLH proteins ( E proteins ) is low and ZEB is prevented from binding ZEB sites .
+However , increasing this ratio by overexpression of ZEB in hematopoietic cells did not result in repressor activity ( Figure 2B ) , contrary to myotubes where overexpression of ZEB displaced myoD/E proteins complexes from E boxes and blocked o4 promoter activity ( Figure 2C , and Postigo and Dean , 1997 ) .
+Next , we examined the capacity of ZEB to bind ZEB sites from the oA promoter .
+Gel retardation assays with E361 and E399 gave the same pattern of nuclear protein binding with nuclear extracts from 04 ( + ) hematopoietic cells and with ( 4 ( - ) cells ; we found binding of ZEB along with the ubiquitous bHLH protein USF ( upstream stimulatory factor ) ( Sawadogo and Roeder , 1985 ) ( Figure 3A and B ) .
+However , the ZEB sites bind only weakly to USF , and overexpression of USF did not activate or repress transcription through the ZEB sites ( results not shown ) .
+Therefore , the lack of repression of the o4 promoter observed in hematopoietic cells was not due to the lack of binding of ZEB to its sites in the oA promoter .
+ZEB sites are silencers in hematopoietic cells One explanation for the lack of ZEB repressor activity in hematopoietic cells was that a hematopoietic-specific transcription factor may block ZEB function in the context of the o4 gene promoter .
+To investigate this possibility , we first examined the activity of ZEB sites out of the context of the o4 promoter .
+ZEB sites efficiently blocked the activity of the Ets sites from the o4 promoter in 04 ( + ) hematopoietic cells ( Figure 4A ) as well as in G4 ( - ) cell types ( Figure 4B ) .
+These results are in contrast to 04 ( + ) myotubes where the loss of ZEB activity ( E361 and E399 did not have any repressor effect on Ets activity ) was the result of the displacement of ZEB by myoD/E12 3925 A.A.Postigo et al .
+J » & `` ° HT-1080 , fibrosarcoma , o4 ( - ) 3 P < E a 50 B § & 0 « $ 732.61 > % 4 % * `` 4 9 `` Q1 7.07331 } < 4 Q9 , zﬁﬁﬁ $ 1ng 100 C33 , cervical carcinoma , o4 ( - ) & 3 e < E a 50 § a 0 QpV ’ ) ‘ l ‘ l ?
+‘ mb ‘ 7 ‘ J 422 to 0 0 , 4.2 .
+`` % * , 4 , YP ?
+9p 1p 1p Ap p Fp Ip 1D 100 10T1/2 , fibroblasts , od4 ( - ) 50 Relative CAT Activity 100 C2C12 , myoblasts , o4 ( - ) Relative CAT Activity U a C Jurkat , T cell line , ( 4 ( + ) 100 z a § 4 I ; 50 O F -l e C a 0 ay 5 2 Cp o. N 54 , 2 poé % ¢ % d % % o % 4 , 79 ?
+10 177 D lp 1p F HEL , erythroleukemia , 04 ( + ) Relative CAT Activity w = J & & tence 4 % .
+4 a n. 4 09 .
+I . ``
+oC I4 giv } 1i % ?
+1ft % ﬁgﬁ % z % zgzqz T Raji , B cell line , 04 ( + ) 100 Relative CAT Activity tn & r rae a 4 g g 49 `` p Toe `` o ** 46 » ?
+1312 1p 1p 1p pnp p C€2C12 , myotubes , 04 ( + ) Relative CAT Activity # 5 © Fig .
+1 .
+04 gene promoter activity is under negative regulation in G4 ( - ) cells but not in 04 ( + ) cells .
+Numbers in the construct name indicate the position in the flanking sequences .
+Cells were transfected as described in Materials and methods .
+Results are the average of duplicate assays and are representative of at least five separate experiments .
+For transfection in C2C12 myotubes , C2C12 myoblast cells were switched to media containing 2 % horse serum and maintained for 4 days before harvesting for analysis of CAT activity as described ( Rosen et al .
+, 1992 ) .
+during myogenic differentiation ( Figure 4C , and Postigo and Dean , 1997 ) .
+Overexpression of the bHLH E proteins E12 and E47 did not have any effect on repression by ZEB in Jurkat cells ( Figure 4A ) , further suggesting that bHLH proteins do not displace ZEB in hematopoietic cells as they do in muscle cells ( Postigo and Dean , 1997 ) .
+The hematopoietic transcription factor c-Myb is necessary but not sufficient to overcome repression by ZEB The results described above suggest that a hematopoietic-specific transcription factor may overcome ZEB repression 3926 in the context of the 4 gene promoter .
+c-Myb is one of the first transcription factors detected during hematopoiesis , where it has been shown to play a key role in the differentiation process ( reviewed in Graf , 1992 ) .
+Additionally , c-Myb has been shown to synergize with Ets factors in the regulation of hematopoietic genes .
+The early appearance of oA during hematopoiesis suggests that od expression is likely to depend upon a transcription factor such as c-Myb .
+Indeed , a number of potential c-Myb sites are evident upstream and downstream of the ZEB sites ( from -130 bp to -2.0 kb ) in the oé4 promoter ( Figure 5A and data not shown ) .
+Gel-shift experiments demonstrated that B Lymphoid cells -2.0 ® 16 ( Ets ) 20 10 % chloramphenicol acetylated C Myotubes % chloramphenicol acetylated o s S3 49,0 * , * % % ” o f000 T 1p » Tp Xe Xe 2 Fig .
+2 .
+Lymphoid cells express high levels of ZEB mRNA and overexpression of ZEB does not silence 4 promoter activity .
+( A ) mRNA levels for ZEB in 04 ( - ) C2C12 myoblasts , G4 ( - ) HT1080 fibrosarcoma cells and 4 ( + ) T-lymphoid Jurkat cells were determined by Northern blot analysis using a NIeI-HindIlH fragment of ZEB cDNA .
+( B ) Overexpression of ZEB in G4 ( + ) Jurkat lymphoid cells does not silence 04 promoter activity .
+Twenty-five ug of ACAT reporter constructs were co-transfected with 60 pug of an expression vector for ZEB .
+Similar results were obtained with the erythroleukemia cell line HEL ( data not shown ) .
+( C ) Overexpression of ZEB in G4 ( + ) C2C12 myotubes represses 4 gene promoter activity and restores silencer activity .
+C2C12 myoblasts were transfected with 8 ug of QACAT reporters and 12 ug of ZEB and stimulated to fuse into myotubes as in Figure 1. some of these sites bind efficiently to recombinant c-Myb ( data not shown ) .
+In addition , the -130 to 400 region as well as individual sites in the 04 promoter were tested c-Myb/Ets overcome ZEB repression A B LJ -USF- - kth4a im \USF -IEB- - b } { bab4t - HHM ) | Probe Fig .
+3 .
+ZEB binds ZEB sites in both G4 ( - ) and 4 ( + ) cells .
+Gel retardation assays using a probe containing ZEB sites E361 and E399 from the G4 promoter gave a similar pattern of binding with nuclear extracts from 04 ( + ) Jurkat cells ( A ) and o4 ( - ) HT1080 cells ( B ) .
+Antibodies ( 0.5 ug ) against ZEB , USF , E12 , HEB ( this figure ) and MyoD and c-Myb ( not shown ) were added in the binding assays .
+Only ZEB and USF show binding , as demonstrated by supershift of the corresponding bands ( indicated as * ) .
+'NS ' indicates non-specific complexes .
+ZEB and USF binding was competed with a 50-fold excess of unlabeled probe , but not with the corresponding mutant probe ( not shown ) .
+for c-Myb binding with nuclear extracts from Jurkat cells ( Figure 5A and B and data not shown ) .
+Binding was evident with extracts from Jurkat cells but not with extracts from the control 4 ( - ) /c-myb ( - ) fibrosarcoma cell line HT1O80 ( Figure 5A ) .
+This binding was blocked by unlabeled c-Myb sites from the 04 gene promoter and other genes regulated by c-Myb [ such as the T-cell receptor ( TCR ) 8 enhancer ( Hernandez-Munain and Krangel , 1994 ) ] , but not by their corresponding mutated sites ( Figure 5B ) .
+Additionally , binding was inhibited by anti-c-Myb antibodies ( Figure 5B ) .
+To determine whether c-Myb was sufficient to activate the oA gene promoter in o4 ( - ) cells , an expression vector for c-Myb was co-transfected with oA gene promoter constructs into the 4 ( - ) /c-myb ( - ) HTIO8O fibrosarcoma cells .
+c-Myb overcame the repressor activity of ZEB and activated the oé4 gene promoter ( Figure 6A ) .
+Reporter constructs containing different combinations of Ets sites , ZEB sites and c-Myb sites were then transfected into Jurkat cells [ as well as 04 ( - ) HTIO8O cells ] ( Figure 6A and B ) .
+The activity of the ZEB sites in Jurkat cells was blocked by the combination of Ets and c-Myb sites ; however , mutation of either the Ets or c-Myb sites restored repressor activity ( Figure 6B ) .
+These results demonstrate the requirement for both Ets and c-Myb sites to overcome repression by ZEB .
+It is interesting to note that addition of the c-Myb sites to the Ets sites did not change the level of transcription significantly above that of the Ets sites alone .
+Therefore , c-Myb does not overcome ZEB repression by increasing transcription when combined with Ets factors and simply overwhelming repression by ZEB .
+Instead , the combination of c-Myb and Ets activates transcription through a mechanism distinct from either factor alone and in a fashion resistant to ZEB .
+ZEB fused to the DNA-binding domain ( DBD ) of the yeast protein Gal4 blocked the activity of the Ets sites ( Figure 6C ) , demonstrating directly that ZEB blocks Ets transactivation .
+Additionally , ZEB fused to the DBD of the bacterial protein LexA blocked transactivation by 3927 A.A.Postigo et al .
+A 04 ( + ) hematopoietic cells % chloramphenicol acetylated ju & ~ 6 On Or % 00 Cy Uy Up Ap A r , & ‘ éyx r * p 4 4 4 , 4 x x0 67 > `` : B ad ( - cells 2 20 20 a } i i 10 0 | 0 } 0 C 04 ( + ) myotubes 16 | ZEB site | 3b 3 2 4 .
+C 3 G 5 Or , C 6 6 ‘ 0 © *C Crypt » A Q ’ z ’ g , `` 6333 ‘ 06 ‘ 299 P. 3 % Fig .
+4 .
+ZEB sites are silencers in 04 ( + ) Jurkat cells when taken out of the context of the 04 gene promoter .
+E361 and E399 ZEB binding sites were cloned upstream of the ( 4 Ets sites in the -7604CAT , and the resulting constructs were transfected in 04 ( + ) Jurkat cells .
+Repressor activity was found in G4 ( + ) Jurkat cells ( A ) ( similar results were obtained with the erythroleukemia HEL cell line ) as well as in 04 ( - ) HT1080 cells ( B ) but not in G4 ( + ) C2C12 myotubes ( C ) .
+The control E box at -585 bp which is not a ZEB site did not repress Ets activity .
+Overexpression of the bHLH E proteins E12 and E47 in Jurkat cells did not block repression by ZEB ( A ) .
+Twenty five ug of ( ACAT reporter constructs were co-transfected in Jurkat with or without 60 ug of E12 or E47 expression vectors .
+In HT1O80 cells and C2C12 myotubes , 3 pig of the reporter constructs were transfected .
+c-Myb fused to the DBD of Gal4 ( Figure 6C ) , indicating that ZEB blocks the transactivation domain of c-Myb .
+Thefore , ZEB blocks the transactivation activity of Ets and c-Myb individually , but the combination of these sites synergistically overcomes the repression .
+These results suggest that expression of c-Myb is an important determining factor in the control ( 4 expression in hematopoetic cells .
+In support of this conclusion , forced expression of c-Myb in 04 ( - ) /c-myb ( - ) cells led to expression of endogenous 04 on the cell surface ( Figure 7 ) .
+As another way of demonstrating an important role for c-Myb in the regulation of ( 4 gene expression , we used a dominant-negative form of c-Myb ( MT ) that contains the DBD of c-Myb but lacks the transactivation domain ( Badiani et al .
+, 1994 ) .
+This dominant-negative c-Myb has been shown previously to block c-Myb function in vivo and in vitro ( Badiani et al .
+, 1994 ; Taylor et al .
+, 1996 ) .
+Co-transfection of the MT expression vector with the -2.00A4CAT reporter in Jurkat cells repressed the activity of -2.004CAT to a level similar to that found in 04 ( - ) HT1O80 cells ( Figure 8A ) .
+These results provide additional evidence that c-Myb is required for ( 4 gene promoter activity in hematopoietic cells .
+Loss of ( 4 expression on hematopoietic progenitors in c-myb ( -/- ) mice c-myb ( -/- ) mice die in utero due to severe anemia , showing a reduced number of hematopoietic precursors in the liver ( Mucenski et al .
+, 1991 ) .
+We examined the expression of 4 integrin on hematopoietic cells in embryonic day 14.5 c-myb ( -/- ) mice .
+If c-Myb is indeed important for expression of 04 , then ( 4 should be absent from hematopoietic cells in these mice .
+We found that expression of 04 integrin in the hematopoietic cell pro 3928 genitors present in the fetal liver was abrogated in the c-myb ( -/- ) mice ( Figure 8B ) , but was high in c-myb ( +/ + ) mice ( Figure 8C ) , indicating that in vivo expression of 04 requires c-Myb .
+As controls , expression of other markers seemed to be unaffected in c-myb ( -/- ) mice ( results not shown ) .
+Expression of G4 in other tissues such as skeletal and smooth muscle and neural crest derivatives was similar in both the ( -/- ) and ( +/+ ) genotypes ( data not shown ) , indicating a selective role for c-Myb in the expression of 4 in the hematopoietic system .
+These results demonstrate a key role for c-Myb in the regulation of the oA gene , and place 04 as one of the first genes demonstrated to be regulated by c-Myb in vivo .
+Discussion ZEB is a vertebrate homolog of the Drosophila Zfh-1 protein .
+Zfh-1 has been shown to be important in differentiation of tissues such as the CNS and muscle in Drosophila ( Fortini et al .
+, 1991 ; Lai et al .
+, 1993 ) .
+We have found previously that ZEB is an active transcriptional repressor that , like Zfh-1 , regulates muscle differentiation ( Postigo and Dean , 1997 ) .
+ZEB is also expressed in other tissues , and we present evidence here that it may also have a regulatory role in hematopoiesis .
+Both c-Myb and Ets are required for normal hematopoiesis ( Shivdasani and Orkin , 1996 ) .
+These factors can act in synergy to activate transcription , and this synergy is essential for activation of important hematopoietic genes ( reviewed in Graf , 1992 ) .
+ZEB blocks the activity of Ets and Myb individually , but repressor activity is overcome by the c-Myb/Ets synergy .
+ZEB sites in the promoter of the 4 integrin gene render expression dependent upon the synergy between c-Myb and Ets and may provide a explanation for why this synergy A Hﬂi t Id'iﬁf t __ if ?
+” ©4 ( + ) lymphocytes - 04 ( - ) & ° Fou o .g & Competitor Q ‘ c—N'héﬁé ’ b — @ $ | f USF- , r | n ZEB~- || ns- | biMbL ’ { probe - m B < 4 = ] 2 § 4 4 a 5 5 x t t to to 3 A A a m `` 3 fog VL aa 3 T 20 Competitor a .
+2 E E BE 6 4 myb -- l Wik Probe Fig .
+5 .
+The hematopoietic transcription factor c-Myb binds to the 04 promoter .
+( A ) A number of c-Myb sites are evident in the G4 promoter between -130 bp and -2.0 kb ( this figure and data not shown ) ( arrows on the top indicate c-Myb sites , whereas arrows on the bottom indicate the ZEB sites ) .
+Gel retardation assay using as a probe from -130 to -400 of the G4 gene promoter shows the binding of c-Myb in nuclear extracts from G4 ( + ) lymphoid cell line Jurkat but not from 04 ( - ) HT1080 fibrosarcoma cells , as evidenced by competition with a 50-fold excess of unlabeled probe containing a consensus c-Myb sequence .
+'NS ' indicates non-specific complexes .
+( B ) Gel retardation assay using nuclear extracts from 04 ( + ) /c-myb ( + ) Jurkat cells and the c-Myb site at position -134 bp of the 04 gene promoter as a probe .
+'Competitor® ' indicates addition to the binding reaction of a 50-fold excess of unlabeled wild-type and mutant ( mut ) c-Myb sites from the 4 gene ( -134 ) or the TCR & enhancer [ 8EB3 ( 3 ' ) , Hernandez-Munain and Krangel , 1994 ] .
+'NS ' indicates non-specific complexes .
+is required .
+During differentiation and cell activation , the level of c-Myb varies and , when it is expressed , it synergizes with Ets factors to overcome ZEB repression and activate hematopoietic genes .
+We presented in vitro and in vivo evidence that in the absence of c-Myb , ZEB c-Myb/Ets overcome ZEB repression blocks oA expression throughout all hematopoietic cell lineages .
+Conversely , we found that without ZEB , the o4 gene would be expressed constitutively as a result of the Ets sites in the promoter .
+This mechanism of regulating ZEB activity and 4 expression in hematopoietic cells is different from what we found previously in muscle cells , where ZEB is displaced from ZEB sites by myogenic bHLH factors that appear during myogenic differentiation ( Postigo and Dean , 1997 ) .
+During development , initial hematopoiesis takes place in the yolk sac ( or analogs in mammalians ) and paraortic compartments ( reviewed in Dorshkind , 1994 ; Orkin , 1995 ) .
+Hematopoietic stem cells migrate from those sites to the fetal liver of the embryo where most of the embryonic hematopoiesis occurs .
+Perinatally , stem cells migrate to the thymus and bone marrow .
+Recently , chimeric animal experiments have shown that B1 integrins ( a larger subclass of integrins including ( 41 ) are involved in this migration process ( Hirscht et al .
+, 1996 ) .
+Hematopoiesis in the fetal liver , thymus and bone marrow requires the interaction of adhesion molecules on the stem cells with ligands in stromal cells .
+One of the interactions that has been shown in vivo and in vitro to be crucial for normal hematopoietic development is the binding of the 4 integrin on the surface of stem cells to its ligands VCAM-1 and fibronectin in the stroma of these organs ( Miyake et al .
+, 1991 ; Roldan et al .
+, 1992 ) .
+o4 appears on the surface of precursor cells very early during hematopoiesis , before most lineage-specific markers ( Sanchez et al .
+, 1993 ) .
+Antibodies against 04 and VCAM-1 have been shown to block differentiation of cultured precursors ( Miyake et al .
+, 1991 ; Roldan et al .
+, 1992 ; Teixido et al .
+, 1992 ) .
+Likewise , injection of anti-o4 antibodies into pregnant mice blocked erythropoiesis and inhibited other lineages in the embryos ( Hamamura et al .
+, 1996 ) .
+Additionally , it has been shown in mice chimeric for ( 4 that this integrin is required for lymphoid differentiation in the bone marrow ( Arroyo et al .
+, 1996 ) .
+Disruption of the c-myb gene causes mice to die in utero due to a failure in liver hematopoiesis , resulting in severe anemia ( Mucenski et al .
+, 1991 ) .
+Interestingly , the precursors cells present in c-myb ( -/- ) animals are able to differentiate in culture to their corresponding mature phenotypes , indicating that the defect is in the failure of the precursor population in the liver to expand , instead of in the differentiation process per se ( Mucenski et al .
+, 1991 ) .
+c-Myb has been shown to be required for hematopoietic cells to enter S phase , suggesting that c-Myb is important for efficient cell division ( Stern and Smith , 1986 ; Gewirtz et al .
+, 1989 ) .
+Moreover , recent evidence has demonstrated that inactivation of c-Myb in hematopoietic cells triggers apoptosis and that c-Myb regulates expression of be/-2 , which protects against apoptosis ( Frampton et al .
+, 1996 ; Taylor et al .
+, 1996 ) .
+We found that one result of the disruption of the c-myb gene is the loss of ( 4 integrin expression .
+As outlined above , the failure of hematopoiesis in the c-myb ( -/- ) mice appears to result from a failure in proliferation and/ or triggering of apoptosis ( Mucenski et al .
+, 1991 ; Frampton et al .
+, 1996 ; Taylor et al .
+, 1996 ) .
+Interestingly , G4 integrin can transmit signals that trigger cell proliferation ( Nojima et al .
+, 1990 ; Damle and Aruffo , 1991 ) , and adhesion of integrins to ligand has been shown to prevent apoptosis 3929 A.A.Postigo et al .
+A 04 ( - ) cells -76 [ ash dic } sic } | @ ss !
+| { mpste } [ EEpac ) Gost 30 % chloramphenicol acetylated Ha tn tnt t c 5a % a , ' o * 0.47 3 `` * % `` Q ’ fcv ?
+» x bas C , B 04 ( + ) hematopoietic cells sz 30 57 a .
+8 $ p `` G # ' co & & , < 6 , < , `` 4 , *C , ts ol oo 5 o & BD 3B o * , `` * .
+** a/ b , to `` *o * G. h Co `` D & * T2 z ' C . '
+o < T ' c , ' > ( Koopman et al .
+, 1994 ) .
+Therefore , the loss of o4 integrin in c-myb ( -/- ) mice may contribute to the failure of the hematopoietic population to expand , a phenotype observed in these animals ( Mucenski et al .
+, 1991 ) .
+Early during hematopoiesis , G4 integrin is expressed in all cell lineages : lymphoid and myeloid precursors , erythroblasts and megakaryocytes ( Miyake et al .
+, 1991 ; Rosemblat et al .
+, 1991 ; Teixido et al .
+, 1992 ; Avraham et al .
+, 1993 ; Sadahira et al .
+, 1995 ; Hamumura et al .
+, 1996 ) .
+As these precursors mature , G4 expression becomes restricted to lymphocytes and some myeloid cells ( Lobb and Hemler et a/ .
+, 1994 ) .
+Thus , control of 0A expression is very tightly regulated during hematopoiesis .
+Regulation of 4 integrin expression continues to be critical beyond hematopoiesis , where it is expressed differentially on the different lymphocyte subsets ( Shimizu et al .
+, 1990 ; Picker et al .
+, 1991 ) , and its expression is up-regulated upon mitogenic stimulation ( Sanchez-Madrid et al .
+, 1986 ) .
+Deregulation of G4 expression has been associated with inflammatory diseases and hematologic malignancies ( Freedman et al .
+, 1992 ; Moller et al .
+, 1992 ; Juneja et al .
+, 1993 ; Kuriyama et al .
+, 1994 ) .
+We propose that control of 4 integrin expression in hematopoietic cells is the result of a fine balance between repression by ZEB and activation by c-Myb/Ets .
+ZEB imposes a requirement for both c-Myb and Ets to activate the 4 gene ( and perhaps other 3930 % chloramphenicol acetylated F Fig .
+6. c-Myb regulates G4 gene promoter activity .
+( A ) Overexpression of c-Myb in the 04 ( - ) HT1080 cell line overcomes repression by ZEB .
+Three ug of the -7604CAT , -2.004CAT , pETS-ZEB-CAT and pETS-ZEB-MYB-CAT reporter constructs were co-transfected with 0.9 ug of a PSV-c-Myb expression vector .
+pETS-ZEB-CAT indicates that the ZEB site E361 was cloned upstream of the Ets sites in the -760A4CAT reporter .
+pETS-ZEB-MYB-CAT indicates that four copies of the c-Myb site at -134 bp were cloned upstream of the ZEB sites of the pETS-ZEB-CAT construct .
+( B ) The activity of the 04 gene promoter in Jurkat cells depends on synergistic activity of c-Myb and Ets transcription factors .
+Mutation of the Ets sites ( indicated by pETSmut ) abolishes the capacity of c-Myb to overcome ZEB repression .
+Thirty ug of the different reporters were transfected in Jurkat cells ( similar results were obtained using the erythroleukemia HEL cell line ) .
+( C ) ZEB represses transcriptional activation by Ets and c-Myb factors individually .
+Three ug of -76-G4-CAT ( containing five copies of the Gal4 DNA-binding site upstream of the -7604CAT ) was co-transfected in HT1O80 cells with 2 ug of G-ZEB which encodes a fusion protein of ZEB with the DBD of Gal4 .
+One ug of pL-G ( containing six LexA-binding sites and two Gal4 sites upstream of the E1B TATA box ) was co-transfected in HT1080 with 0.5 ug of a Gal4-c-Myb expression vector with or without 2 ug of L-ZEB which encodes a fusion protein between the DBD of LexA and ZEB .
+RELATIVE CELL NUMBER r ~- `` IA “ , T T rer rory -- - T 10° 10 10° 10° LOG FLUORESCENCE INTENSITY Fig .
+7. c-Myb stimulates expression of the endogenous 04 gene in 04 ( - ) cells .
+Flow cytometric analysis showing that G4 appears on the surface of the 04 ( - ) /c-myb ( - ) T98G glioblastoma cell line ( dashed line ) after stable expression of c-Myb [ SV-myb-M-T98G cell line ( Melotti et al .
+, 1994 ) ] ( solid line ) .
+As a control , B1 integrin showed no significant change in expression .
+Likewise , no change was seen in the level of expression of the 5 integrin ( not shown ) .
+The fluorescence intensity of an isotype-matched negative control antibody overlaid with the expression of ( 4 integrin in T98G cells ( not shown ) .
+hematopoietic genes ) .
+We present evidence that regulation of 04 expression can result from variations of c-Myb expression : c-Myb levels ( in parallel to oA expression ) decline during hematopoiesis as precursors mature ( Graf , 1992 ) and increases as a result of mitogenic activation ( Torrelli et al .
+, 1985 ; Pauza , 1987 ) .
+Erythroblasts and megakaryocytes lose 04 expression in parallel with the c-myb ) Gap Gm .
+1 @ Crs ) t & % chloramphenicol acetylated L tn L_________J -2.0CA a !
+c-myb ( -/- ) c-myb ( +/+ ) Fig .
+8 .
+Inactivation or disruption of the c-myb gene abolishes expression of 4 integrin in hematopoietic cells .
+( A ) Overexpression of a dominant-negative form of c-Myb ( DN-myb ; MT ) blocked the activity of the 4 gene promoter in Q4 ( + ) Jurkat cells .
+Twenty-five ug of -7604CAT and -2.004CAT reporter constructs were co-transfected in ( 4 ( + ) Jurkat cells with 25 , 50 and 75 ug of DN-myb .
+Note that DN-myb blocked the activity of -2.0 o4 CAT ( contains c-Myb sites ) but not of -760A4CAT ( lacks c-Myb sites ) .
+( B and C ) ( 4 is expressed on all hematopoietic cells in E14.5 liver of c-myb ( +/+ ) mice ( B ) but was not evident on hematopoietic cells in the E14.5 liver of c-myb ( -/- ) mice ( C ) .
+Frozen sections of E14.5 mice were immunostained with anti-o4 antibody as described ( Rosen et al .
+, 1992 ) .
+Precursors in the fetal liver of c-myb ( -/- ) embryos expressed other hematopoietic markers ( results not shown ) .
+disappearance of c-Myb as they mature to erythrocytes and platelets ( Rosemblat et al .
+, 1991 ; Avraham et al .
+1993 ; Sadahira et al .
+, 1995 ; Hamumura et al .
+, 1996 ) .
+Lymphoid and some subsets of myeloid cells also down-regulate ( 4 expression as c-Myb decreases during their differentiation , although they still express 04 when they reach the bloodstream ( Lobb and Hemler , 1994 ) .
+Expression is again up-regulated upon cellular activation ( Sanchez-Madrid et al .
+, 1986 ) .
+The Ets family comprises an increasing number of members ( Leiden , 1993 ; Wasylick et al .
+, 1993 ; Crepieux et al .
+, 1994 ) .
+The set of Ets factors that bind the 04 promoter seems to vary from one cell type to another and , at least , includes Ets-1 and GABP a and [ } ( Rosen et al .
+, 1994 and unpublished results ) .
+The expression and activity of Ets proteins are regulated during T lymphocyte differentiation and activation ( Pognonec et al .
+, 1988 ; Bhat et al .
+, 1989 , 1990 ; Muthusamy et al .
+, 1995 ) .
+Although we have found that the Ets sites in the 4 gene promoter are active c-Myb/Ets overcome ZEB repression in most cells that we have tested , it is possible that , like those of c-Myb , their activity varies during hematopoietic differentiation and in different hematopoietic lineages , providing an additional level of regulation .
+Likewise , it is also possible that the level of ZEB in hematopoietic cells changes during hematopoiesis and/or cell activation .
+Therefore , in addition to c-Myb , regulation of Ets and/or ZEB activities could add further flexibility to the regulation of the oA gene ( and perhaps other hematopoietic genes regulated by c-Myb/Ets ) .
+Although the studies presented here have relied on the comparison of promoter activities in hematopoietic cells versus non-hematopoietic cells , they provide strong evidence that c-Myb and Ets factors synergize to overcome repression by ZEB .
+While these experiments do not provide conclusive evidence that the c-Myb/Ets-ZEB regulatory pathway plays a critical role in hematopoietic cell differentiation and function , taken together with patterns of c-Myb and Ets expression and the experiments in the c-myb ( -/- ) mice , these experiments suggest that this balance between repression by ZEB and activation by c-Myb/Ets is involved in the regulation of the 4 gene and possibly several other hematopoietic genes .
+Interestingly , the combination of c-Myb and Ets did not increase transcription significantly above the level with Ets alone .
+Therefore , the c-Myb/Ets combination does not overcome repression by ZEB simply by increasing transcription but , instead , the c-Myb/Ets synergy activates transcription through a mechanism distinct from that of either factor alone .
+It will be of interest to determine the molecular basis for the resistance to ZEB repression .
+However , further information about how c-Myb/Ets synergize to activate transcription is needed .
+ZEB may provide a tool to analyze such mechanisms of transcriptional synergy .
+A target of future studies will be the components of the basal transcription complex that interact with c-Myb/Ets .
+It is likely that the combination of c-Myb and Ets proteins interact with basal transcription complex components in a fashion distinct from either factor alone and in a manner that is resistant to disruption by ZEB .
+Materials and methods Cell culture The HT1O80 fibrosarcoma [ American Type Culture Collection ( ATCC ) , Rockville , MD ] and C33A cervical carcinoma cell lines ( ATCC ) were mantained in Dulbecco 's modified Eagle 's medium ( DMEM ) ( Life Technologies , Gaithersburg , MD ) containing 5 % fetal calf serum ( FCS ) and 5 % calf serum ( Life Technologies ) .
+The T-cell line Jurkat ( ATCC ) , B-cell line Raji ( ATCC ) and the erythroleukemia HEL cell line ( ATCC ) were mantained in RPMI 1640 media containing 10 % FCS .
+C2C12 myoblasts ( ATCC ) and C3H10T1/2 fibroblasts ( ATCC ) were grown in DMEM containing 13 % FCS .
+For differentiation of C2C12 myoblasts to myotubes , cells were changed to DMEM-2 % horse serum ( Life Technologies ) as described ( Rosen et al .
+, 1992 ) and maintained for 4 days ; by this time > 90 % of cells had fused into myotubes .
+The glioblastoma cell line T98G and its c-myb overexpression derivative SV-myb-T98G were obtained from B.Calabretta ( Jefferson University , Philadelphia , PA ) ( Melotti et al .
+, 1994 ) and mantained in the same media as the HT1O80 cell line .
+Plasmid construction 04 promoter deletion constructs have been described previously ( Rosen et al .
+, 1994 ) .
+Numbers in the construct name indicate the amount of 5'-flanking sequence present .
+PSV-CAT has been described previously ( Rosen et al .
+, 1994 ; Weintraub et al .
+, 1995 ) .
+Fragments of the o4 gene promoter were obtained by PCR with primers containing KpnI ( 5 ' ) and Apal ( 3 ' ) sites ( Rosen et al .
+, 1994 ) .
+The products were digested with 3931 A.A.Postigo et al .
+Kpni-Apal and cloned into the corresponding sites upstream of the Ets sites in -76CAT ( Rosen ef al .
+, 1994 ) .
+For E box constructs , annealed oligonucleotides containing the indicated E box ( es ) along with either 3 or 10 bp of flanking sequence ( results were identical with both ) and containing KpnI and Apal sites were cloned into the corresponding sites upstream of the Ets sites in -76CAT .
+In E361M , the CACCTG core was mutated to TTGGCC or TTCCCC and in E399 to ACGCCT or ACCCCA , which blocked nuclear protein binding ( data not shown ) .
+Prokaryotic expression vector for human c-myb Flag ( Flag-c-omyb ) and eukaryotic expression vectors pSV and pSV-c-myb were obtained from B.Calabretta .
+Expression vectors for E12 and E47 bHLH E proteins were obtained from FPeverali ( EMBL , Heidelberg , Germany ) .
+The expression vector for ZEB was constructed as described previously ( Postigo and Dean , 1997 ) .
+The dominant-negative c-Myb MT construct was obtained from K.Weston ( Institute for Cancer Research , London , UK ) .
+Gal4-c-Myb CD was obtained from J.S.Lipsick ( State University of New York , Stony Brook , NY ) .
+pG-L was described previously ( Weintraub et al .
+, 1995 ) .
+Full-length ZEB cDNA was fused in-frame with the the DBDs of Gal4 and LexA proteins by cloning in BamHI-Xbal sites of PM1 and pBXL3 ( Weintraub et al .
+, 1995 ) to make Gal4-ZEB ( G-ZEB ) and LexA-ZEB ( L-ZEB ) fusion proteins , respectively .
+The pETS-ZEB-MYB-CAT reporter construct containing Ets sites , ZEB sites and c-Myb sites was constructed in the following way : two copies of the E361 site in ( 4 integrin ( including 6 bp upstream and downstream of the E box consensus site ) were cloned in the KpnlI-Apal sites of 7604CAT ( pETS-CAT ) to make pETS-ZEB-CAT .
+Then , four copies of the c-Myb site at -134 bp in the 04 gene ( other c-Myb sites from the 04 promoter were also used with identical results ) were cloned in Clal-Stul sites of a polylinker blunt ended and cloned at the KpnI site to make pETS-ZEB-MYB-CAT .
+pETS-MYB-CAT was constructed in a similar way but lacking the two copies of the E361 site .
+Transient transfections and CAT assays Jurkat , HEL and Raji cells were transfected by electroporation , and other cells were transfected by the calcium phosphate method ( Rosen et aZ .
+, 1994 ) .
+After 48 h , lysates were collected , the transfection efficiency was corrected and CAT assays were performed as described ( Rosen et al .
+, 1994 ) .
+DNA was brought to a total of 6 jug for 60 mm ( or 20 ug for 100 mm ) dishes .
+For transfection in C2C12 myotubes , myoblast cells were switched to media containing 2 % horse serum and cells were maintained for 4 days before harvesting for analysis of CAT activity ( Rosen et al .
+, 1992 ) .
+Gel retardation assays Nuclear extracts were prepared as described ( Osborn et al .
+, 1989 ) .
+Oligonucleotide probes were end labeled with [ y-° `` P ] JATP using T4 polynucleotide kinase .
+The EcoRI ends of the -130/400 04 fragment were labeled with Klenow fragment and [ & -°P ] dATP .
+Two to three ug of nuclear protein extracts or 0.1 pill of bacterial extracts from GST-ZEB-transformed bacteria were incubated with 1 ug of bovine serum albumin ( BSA ) and 0.5 ug of poly ( dIdC ) in 25 pil of reaction mix containing 10 mM Tris-HCI pH 7.9 , 50 mM NaCl , 1 mM EDTA , 10 % glycerol for 10 min on ice in the presence or absence of a 50-fold excess of unlabeled probe or 0.5 ug of antibodies per reaction .
+After 10 min , 6 fmol of labeled probe was added for 10 min and incubated on ice , followed by another 10 min at room temperature .
+Then , samples were subjected to electrophoresis as described ( Rosen et al .
+, 1994 ) .
+Antibodies against USF , myoD , HEB , E2 proteins and c-Myb were purchased from Santa Cruz Biotechnologies ( Santa Cruz , CA ) .
+Antibody against ZEB was obtained from H.Kondoh ( Osaka University , Osaka , Japan ) ( Funahashi et al .
+, 1993 ) .
+FACS analysis Approximately 1X10° cells were incubated at 4°C with 50 ul of hybridoma culture supernatant of TS2/16 ( B1 integrin ) or HP2/1 ( 04 integrin ) mAbs ( FSanchez-Madrid , Hospital de la Princesa , Spain ) ( Pulido et al .
+, 1991 ) or 50 ul of 10 ug/ml solutions of P1D6 mAb ( « 5 integrin , Becton Dickinson , Palo Alto , CA ) or control mouse IgG1 or IgG2a ( Sigma Chem .
+Co , St. Louis , MO ) for 30 min .
+After two washes with phosphate-buffered saline ( PBS ) , cells were incubated with a goat anti-mouse Ig F ( ab ) ' ; fragment-fluorescein isothiocyanate ( FITC ) ( 1:100 dilution ) ( Dako , Glostrup , Denmark ) for another 30 min at 4°C , and green fluorescence was examined by flow cytometry using a FACScan .
+Tissue staining Tissue sections from e-myb ( -/- ) , ( -/+ ) and ( +/+ ) mice ( Mucenski , 1991 ) were immunostained with anti-04 integrin ( PS/2 , Pharmingen , 3932 San Diego , CA ) , TER 119 antigen ( TER119 , Pharmingen ) and CD45 ( I-3/2.3 , M.Thomas , Washington University , MO ) and examined by fluorescence microscopy .
+Cell staining was performed as described ( Mucenski et al .
+, 1991 ) Acknowledgements We are indebted to Drs B.Calabretta , T.Kadesch , H.Kondoh , J .
+$ .Lipsick , F.Peverali , FSanchez-Madrid , M. Thomas , H. Weintraub and K. Weston for antibodies , plasmids and cell lines .
+We thank Drs T.Graf , C.Hernandez-Munain and R.Kopan for helpful comments on the manuscript .
+This work was supported by the National Institutes of Health and the Leukemia Society of America .
+References Allen , J.M .
+, Forbush , K.A .
+and Perlmutter , R.M .
+( 1992 ) Functional dissection of the Ick proximal promoter .
+Mol .
+Cell .
+Biol .
+, 12 , 2758-2768 .
+Arroyo , A.G. , Yang , J.T .
+, Raybum , H. , Hynes , R .
+( 1996 ) Differential requirements for 4 integrins during fetal and adult hematopoiesis .
+Cell , 85 , 997-1008 .
+Avraham , H. , Cowley , S. , Chi , S.Y .
+, Jiang , S .
+and Groopman , J.E .
+( 1993 ) Characterization of adhesive interactions between human endothelial cells and megakaryocytes .
+J. Clin .
+Invest .
+, 91 , 2378-2384 .
+Badiani , P. , Corbella , P , Kioussis , D. , Marvel , J .
+and Weston , K .
+( 1994 ) Dominant interfering alleles define a role for c-myb in T cell development .
+Genes Dev .
+, 8 , 770-782 .
+Bhat , N.K .
+ef al .
+( 1989 ) Expression of Ets genes in mouse thymocyte subsets and T cells .
+J .
+Immunol .
+, 142 , 672-678 .
+Bhat , N.K .
+, Thompson , C.B .
+, Lindsten , T. , June , C.H .
+, Fujiwara , S. , Koizumi , S. , Fisher , R.J .
+and Papas , T.S .
+( 1990 ) Reciprocal expression of human ETSI and ETS2 genes during T-cell activation : regulatory role for the protooncogene ETSI .
+Proc .
+Natl Acad .
+Sci .
+USA , 87 , 3723-3727 .
+Crepieux , P. , Coll , J .
+and Stehelin , D .
+( 1994 ) The Ets family of proteins : weak modulators of gene expression in quest for transcriptional partners .
+Crif .
+Rev .
+Oncogen .
+, 5 , 615-638 .
+Damle , N.K .
+and Aruffo , A .
+( 1991 ) Vascular cell adhesion molecule 1 induces T-cell antigen receptor-dependent activation of CD4+T lymphocytes .
+Proc .
+Natl Acad .
+Sci .
+USA , 88 , 6403-6407 .
+Dorshkind , K .
+( 1994 ) Transcriptional control points during lymphopoiesis .
+Cell , 79 , 885-892 .
+Dudek , H. , Tantravahi , R.V .
+, Rao , V.N .
+, Reddy , E.S .
+and Reddy , E.P .
+( 1992 ) Myb and Ets proteins cooperate in transcriptional activation of the mim-1 promoter .
+Proc .
+Natl Acad .
+Sci .
+USA , 89 , 1291-1295 .
+Duncan , D.D .
+, Adlam , M .
+and Siu , G .
+( 1996 ) Asymmetric redundancy in CD4 silencer function .
+Immunity , 4 , 301-311 .
+Fortini , M.E .
+, Lai , Z.C .
+and Rubin , G.M .
+( 1991 ) The Drosophila zfh-1 and zfh-2 genes encode novel proteins containing both zinc-finger and homeodomain motifs .
+Meck .
+Dev .
+, 34 , 113-122 .
+Frampton , J. , Ramqvist , T .
+and Graf , T .
+( 1996 ) v-myb of E26 leukemia virus up-regulates be/-2 and suppresses apoptosis in myeloid cells .
+Genes Dev .
+, 10 , 2720-273 .
+Freedman , A.S. , Munro , J.M .
+, Morimoto , C. , Mclntyre , B.M .
+, Rhynhart , K. , Lee , N .
+and Nadler , L.M .
+( 1992 ) Follicular non-Hodgkin 's lymphoma cell adhesion to normal germinal centers and neoplastic follicles involves very late antigen-4 and vascular cell adhesion molecule-1 .
+Blood , 79 , 206-212 .
+Funahashi , J. , Seikido , R. , Murai , K. , Kamachi , Y .
+and Kondoh , H. ( 1993 ) Delta-crystallin enhancer binding protein delta EF1 is a zinc finger-homeodomain protein implicated in postgastrulation embryogenesis .
+Development , 119 , 433-446 .
+Genetta , T. , Ruezinsky , D .
+and Kadesch , T .
+( 1994 ) Displacement of an E box-binding repressor by basic helix-loop-helix proteins : implications for B-cell specificity of the immunoglobulin heavy-chain enhancer .
+Mol .
+Cell .
+Biol .
+, 14 , 6153-6163 .
+Gewirtz , A.M. , Anfossi , G. , Venturelli , D. , Valpreda , S. , Sims , R .
+and Calabretta , B .
+( 1989 ) G1/S transition in normal human T-lymphocytes requires the nuclear protein encoded by c-myb .
+Science , 245 , 180-183 .
+Graf , T .
+( 1992 ) Myb : a transcriptional activator linking proliferation and differentiation in hematopoietic cells .
+Curr : Opin .
+Genet .
+Dev .
+, 2 , 249-255 .
+Hamamura , K. , Matsuda , H. , Takeuchi , Y. , Habu , S. , Yagita , H .
+and Okumura , K .
+( 1996 ) A critical role of VLA-4 in erythropoiesis in vivo .
+Blood , $ 7 , 2513-2517 .
+Hernandez-Munain , C .
+and Krangel , M.S .
+( 1994 ) Regulation of the T-cell receptor delta enhancer by functional cooperation between c-Myb and core-binding factors .
+Mol .
+Cell .
+Biol .
+, 14 , 473-483 .
+Hirsch , E. , Iglesias , A. , Potocnik , A.J .
+, Hartmann , U .
+and Fassler , R .
+( 1996 ) Impaired migration but not differentiation of haematopoietic stem cells in the absence of B1 integrins .
+Nature , 380 , 171-175 .
+Juneja , H.S .
+, Schmalsteig , F.C .
+, Lee , S .
+and Chen , J .
+( 1993 ) Vascular cell adhesion molecule-1 and VLA-4 are obligatory adhesion proteins in the heterotypic adherence between human leukemia/lymphoma cells and marrow stromal cells .
+Exp .
+Hematol .
+, 21 , 444-450 .
+Koopman , G. , Keehnen , R.M .
+, Lindhout , E. , Newman , W. , Shimizu , Y. , van Seventer , G.A .
+, de Groot , C .
+and Pals , S.T .
+( 1994 ) Adhesion through the LFA-1 ( CD11a/CD18 ) -ICAM-1 ( CD54 ) and the VLA-4 ( CD49d ) -VCAM-1 ( CD106 ) pathways prevents apoptosis of germinal center B cells .
+J .
+Immunol .
+, 152 , 3760-3767 .
+Kuriyama , Y. , Nakano , .M .
+, Kawanishi , Y. , Iwase,0 .
+, Kuge , S .
+and Toyama , K .
+( 1994 ) Significance of VLA-4 and LFA-1 expressions in neoplastic follicle formation and its deterioration in B-cell non-Hodgkin 's lymphomas .
+Leukemia Lymph .
+, 13 , 123-129 .
+Lai , Z.C .
+, Rushton , E. , Bate.M .
+and Rubin , G.M .
+( 1993 ) Loss of function of the Drosophila zfh-1 gene results in abnormal development of mesodermally derived tissues .
+Proc .
+Natl Acad .
+Sci .
+USA , 90 , 4122-4126 .
+Leiden , J.M .
+( 1993 ) Transcriptional regulation of T cell receptor genes .
+Annu .
+Rev .
+Immunol .
+, 11 , 539-570 Lipsick , J.S .
+( 1996 ) One billion years of Myb .
+Oncogene , 13 , 223-235 .
+Lobb , R.R .
+and Hemler , M.E .
+( 1994 ) The pathophysiologic role of ( 4 integrins in vivo .
+J. Clin .
+Invest .
+, 94 , 1722-1728 .
+McCracken , S. , Leung,8 .
+, Bosselut , R. , Ghysdael , J .
+and Miyamoto , N.G .
+( 1994 ) Myb and Ets related transcription factors are required for activity of the human Ick type I promoter .
+Oncogene , 9 , 3609-9615 .
+Melotti , P .
+and Calabretta , B .
+( 1994 ) Ets-2 and c-Myb act independently in regulating expression of the hematopoietic stem cell antigen CD34 .
+J. Biol .
+Chem .
+, 26 , 25303-25309 Melotti , P. , Ku , D.H .
+and Calabretta , B .
+( 1994 ) Regulation of the expression of the hematopoietic stem cell antigen CD34 : role of c-myb .
+J. Exp .
+Med .
+, 179 , 1023-1028 .
+Metz , T .
+and Graf , T .
+( 1991a ) Fusion of the nuclear oncoproteins v-Myb and v-Ets is required for the leukemogenicity of E26 virus .
+Cell , 66 , 95-105 .
+Metz , T .
+and Graf , T .
+( 1991b ) v-myb and v-ets transform chicken erythroid cells and cooperate both in frans and in cis to induce distinct differentiation phenotypes .
+Genes Dev .
+, 5 , 369-380 .
+Miyake , K. , Weissman , LS .
+, Greenberger , J.S .
+and Kincade , P.W .
+( 1991 ) Evidence for a role of the integrin VLA-4 in lympho-hemopoiesis .
+J. Exp .
+Med .
+, 173 , 599-607 .
+Moller , P. , Eichelmann , A. , Koretz , K .
+and Mechtersheimer , G .
+( 1992 ) Adhesion molecules VLA-1 to VLA-6 define discrete stages of peripheral B lymphocyte development and characterize different types of B cell neoplasia .
+Leukemia , 6 , 256-264 .
+Mucenski , ML .
+, McLain , K. , Kier , A.B .
+, Swerdlow , S.H .
+, Schreiner , Miller , T.A .
+, Pictryga , D.W. , Scott , and Potter , S.S .
+( 1991 ) A functional c-myb gene is required for normal murine fetal hepatic hematopoiesis .
+Cell , 65 , 677-689 .
+Muthusamy , N. , Barton , K .
+and Leiden , J.M .
+( 1995 ) Defective activation and survival of T cells lacking the Ets-1 transcription factor .
+Nature , 377 , 639-642 .
+Ness , S.A. , Marknell , A. and Graf , T .
+( 1989 ) The v-myb oncogene product binds to and activates the promyelocyte-specific mim-1 gene .
+Cell , 59 , 1115-1125 .
+Nojima , Y. , Humphries , M.J , Mould , A.P , Komoriya , A. , Yamada , K.M .
+, Schlossman , S.F .
+and Morimoto , C .
+( 1990 ) VLA-4 mediate CD3-dependent CD4+ T cell activation via the CS1 alternatively spliced domain of fibronectin .
+J. Exp .
+Med .
+, 172 , 1185-1192 .
+Orkin , S.H .
+( 1995 ) Hematopoiesis : how does it happen ?
+Curr .
+Opin .
+Cell Biol .
+, 7 , 870-877 .
+Osborn , L. , Kunkel , S .
+and Nabel , G.J .
+( 1989 ) Tumor necrosis factor & and interleukin 1 stimulate the human immunodeficiency virus enhancer by activation of the nuclear factor xB .
+Proc .
+Natl Acad .
+Sci .
+USA , 86 , 2336-2340 .
+Pauza , C.D .
+( 1987 ) Regulation of human T-lymphocyte gene expression by interleukin 2 : immediate-response genes include the proto-oncogene c-myb .
+Mol .
+Cell .
+Biol .
+, 7 , 342-348 .
+Perrotti , D. , Melotti , P. , Skorski , T. , Casella , I. , Peschle , C .
+and Calabretta , B .
+( 1995 ) Overexpression of the zinc finger protein MZF1 inhibits hematopoietic development from embryonic stem cells : correlation c-Myb/Ets overcome ZEB repression with negative regulation of CD34 and c-myb promoter activity .
+Mol .
+Cell .
+Biol .
+, 15 , 6075-6087 .
+Picker , L.J .
+, Terstappen , L .
+W. , RottL.S .
+, Streeter , PR .
+, Stein , H .
+and Butcher , E.C .
+( 1991 ) Differential expression of homing-associated adhesion molecules by T cell subsets in man .
+J .
+Immunol .
+, 145 , 3247-3255 .
+Pognonec , P. , Boulukos , K.E , Gesquiere , J.C. , Stehelin , D .
+and Ghysdael , J .
+( 1988 ) Mitogenic stimulation of thymocytes results in the calcium-dependent phosphorylation of c-ets-1 proteins .
+EMBO J. , 7 , 977-983 .
+Postigo , A.A .
+and Dean , D.C .
+( 1997 ) ZEB , a vertebrate homolog of Drosophila zfh-1 , is a negative regulator of muscle differentiation .
+EMBO J. , 16 , 3935-3943 .
+Pulido , R. , Elices , M.J. , Campanero , M.R .
+, Osborn , L. , Schiffer , S. , Garcia-Pardo , A. , Lobb , R. , HemlerM.E .
+and Sanchez-Madrid , F .
+( 1991 ) Functional evidence for three distinct and independently inhibitable adhesion activities mediated by the human integrin VLA-4 .
+Correlation with distinct 4 epitopes .
+J. Biol .
+Chem .
+, 266 , 10241-10245 .
+Radke , K. , Beug , H. , Kornfeld , S .
+and Graf , T .
+( 1982 ) Transformation of both erythroid and myeloid cells by E26 , an avian leukemia virus that contains the myb gene .
+Cell , 31 , 643-653 .
+Roldan , E. , Garcia-Pardo , A .
+and Brieva , J.A .
+( 1992 ) VLA-4-fibronectin interaction is required for the terminal differentiation of human bone marrow cells capable of spontaneous and high rate immunoglobulin secretion .
+J. Exp .
+Med .
+, 175 , 1739-1747 .
+Rosemblatt , M. , Vuillet-Gaugler , M.H .
+, Leroy , C .
+and Coulombel , L .
+( 1991 ) Coexpression of two fibronectin receptors , VLA-4 and VLA-5 , by immature human erythroblastic precursor cells .
+J. Clin .
+Invest .
+, 87 , 6-11 .
+Rosen , G.D. , Sanes , J.R. , LaChance , R. , Cunningham , J.M .
+, Roman , J .
+and Dean , D.C .
+( 1992 ) Roles for the integrin VLA-4 and its counter receptor VCAM-1 in myogenesis .
+Cell , 69 , 1107-1119 .
+Rosenm , G.D. , Barks , J.L .
+, Iademarco , M.F .
+, Fisher , R.J .
+and Dean , D.C .
+( 1994 ) An intricate arrangement of binding sites for the Ets family of transcription factors regulates activity of the alpha 4 integrin gene promoter .
+J. Biol .
+Chem .
+, 269 , 15652-15660 .
+SadahiraY .
+, Yoshino , T .
+and Monobe , Y .
+( 1995 ) Very late activation antigen 4-vascular cell adhesion molecule 1 interaction is involved in the formation of erythroblastic islands .
+J. Exp .
+Med .
+, 181 , 411-415 .
+Sanchez-Madrid , F , de Landazuri , M.O .
+, Morago , G. , Cebrian , M. , Acevedo , A .
+and Bernabeu , C .
+( 1986 ) VLA-3 : a novel polypeptide association within the VLA molecular complex : cell distribution and biochemical characterization .
+Eur .
+J .
+Immunol .
+, 16 , 1343-1349 .
+Sanchez , M.J. , - Gutierrez-Ramos , J.C. , _ Fernandez , E. , - Leonardo , E. , Lozano , J. , Martinez-A .
+, C .
+and Toribio , M.L .
+( 1993 ) Putative prethymic T cell precursors within the early human embryonic liver : a molecular and functional analysis .
+J. Exp .
+Med .
+, 177 , 19-33 .
+Sawada,8 .
+, Scarborough , J.D .
+, Killeen , N .
+and Littman , D.R .
+( 1994 ) A lineage-specific transcriptional silencer regulates CD4 gene expression during T lymphocyte development .
+Cell , 77 , 917-929 .
+Sawadogo , M .
+and Roeder , R.G .
+( 1985 ) Interaction of a gene-specific transcription factor with the adenovirus major late promoter upstream of the TATA box region .
+Cell , 43 , 165-175 .
+Scott , E.W .
+, Simon , M.C .
+, Anastasi , ) .
+and Singh , J.H .
+( 1994 ) Requirement of transcriptional factor PU.1 in the development of multiple hematopoietic lineages .
+Science , 265 , 1573-1575 .
+Shapiro , L.H .
+( 1995 ) Myb and Ets proteins cooperate to transactivate an early myeloid gene .
+J. Biol .
+Chem .
+, 270 , 8763-8771 .
+Sheppard , A.M. , Onken , M.D .
+, Rosen , G.D. , Noakes , P.G .
+and Dean , D.C .
+( 1994 ) Expanding roles for alpha 4 integrin and its ligands in development .
+Cell Adkesion Commun .
+, 2 , 27-43 .
+Shimizu , Y. , Van Seventer , G.A .
+, Horgan , K.J .
+and Shaw , S .
+( 1990 ) Regulated expression and binding of three VLA ( beta 1 ) integrin receptors on T cells .
+Nature , 345 , 250-253 .
+Shivdasani , R.A .
+and Orkin , S.H .
+( 1996 ) The transcriptional control of hematopoiesis .
+Blood , 87 , 4025-4039 .
+Siu , G. , Wurster , A.L .
+, Lipsick , J.S .
+and Hedrick , S.M .
+( 1992 ) Expression of the CD4 gene requires a myb transcription factor .
+Mol .
+Cell .
+Biol .
+, 12 , 1592-1604 .
+Springer , T.A .
+( 1994 ) Traffic signals for lymphocyte recirculation and leukocyte emigration : the multistep paradigm .
+Cell , 76 , 301-314 .
+Stern , J.B .
+and Smith , K.A .
+( 1986 ) Interleukin-2 induction of T-cell G1 progression and c-myb expression .
+Science , 233 , 203-206 .
+Taylor , D. , Badiani , P .
+and Weston , K .
+( 1996 ) A dominant interfering myb mutant causes apoptosis in T cells .
+Genes Dev .
+, 10 , 2732-2744 .
+Teixido , J. , Hemler , M.E .
+, Greenberger , J.S .
+and Anklesaria , P .
+( 1992 ) Role of beta 1 and beta 2 integrins in the adhesion of human CD34hi stem cells to bone marrow stroma .
+J. Clin .
+Invest .
+, 90 , 358-367 .
+3933 A.A.Postigo et al .
+Torelli , G. , Selleri , L. , Donelli , A. , Ferrari , S. , Emilila , G. , Venturelli , D. , Moretti , L. and Torelli , U .
+( 1985 ) Activation of c-myb expression by phytohemagglutinin stimulation in normal human T lymphocytes .
+Mol .
+Cell .
+Biol .
+, 5 , 2874-2877 .
+Wasylyk , B. , Hahn , S.L .
+and Giovane , A .
+( 1993 ) The Ets family of transcription factors .
+Eur J .
+Biochem .
+, 211 , 7-18 .
+Weintraub , S.J .
+, Chow , K.N .
+, Luo , R.X .
+, Zhang , S.H .
+, He , S .
+and Dean , D.C .
+( 1995 ) Mechanism of active transcriptional repression by the retinoblastoma protein .
+Nature , 375 , 812-815 .
+Yasuda , H. , Mizuno , A. , Tamaoki , T .
+and Torinaga , T .
+( 1994 ) ATBF1 , a multiple-homeodomain zinc finger protein , selectively down-regulates AT-rich elements of the human alpha-fetoprotein gene .
+Mol .
+Cell .
+Biol .
+, 14 , 1395-1401 .
+Yednock , T.A .
+, Cannon , C. , Fritz , L.C .
+, Sanchez-Madrid , F. , Steinman , L .
+and Karin , N .
+( 1992 ) Prevention of experimental autoimmune encephalomyelitis by antibodies against alpha 4 beta 1 integrin .
+Nature , 356 , 63-66 .
+Received on February 5 , 1997 ; revised on March 26 , 1997 3934

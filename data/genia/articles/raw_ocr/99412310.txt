@@ -1,0 +1,638 @@
+JouRrNaAL or VirRoLoGY , Oct. 1999 , p. 7981-7987 0022-538 X/99/ $ 04.00+0 Vol .
+73 , No .
+10 Copyright © 1999 , American Society for Microbiology .
+All Rights Reserved .
+Induction of Bel-x , , Expression by Human T-Cell Leukemia Virus Type 1 Tax through NF-KB in Apoptosis-Resistant T-Cell Transfectants with Tax TOMONORI TSUKAHARA , * MARI KANNAGLI , ~* TAKASHI OHASHI , '* HIROTOMO KATO , '' MASAAKI ARAL* GABRIEL NUNEZ , * YOUICHI IWANAGA , * NAOKI YAMAMOTO , '' KIYOSHI OHTANI , * MASATAKA NAKAMURA , '' anp MASAHIRO FUJII® Department of and Department of Molecular Virology , '' Medical Research Division , and Human Gene Sciences Center , '' Tokyo Medical and Dental University , Tokyo 113 , CREST , Japan Science and Technology Corporation , Saitama 332 , '' and Department of Virology , Niigata University School of Medicine , Niigata 951 , ° Japan , and Department of Pathology , University of Michigan Medical School , Ann Arbor , Michigan 48109° Received 10 February 1999/Accepted 14 June 1999 Human T-cell leukemia virus type 1 ( HTLV-1 ) Tax is thought to play a pivotal role in immortalization of T cells .
+We have recently shown that the expression of Tax protected the mouse T-cell line CTLL-2 against apoptosis induced by interleukin-2 ( IL-2 ) deprivation and converted its growth from being IL-2 dependent to being IL-2 independent .
+In this study , we demonstrate that constitutive expression of be/-x/ but not bel-2 , bel-xs , bak , bad , or bax was associated with apoptosis resistance after IL-2 deprivation in CTLL-2 cells that expressed Tax .
+Transient-transfection assays showed that be/-x promoter was transactivated by wild-type Tax .
+Similar effects were observed in mutant Tax retaining transactivating ability through NF-KB .
+Deletion or substitution of a putative NF-B binding site identified in the be/-x promoter significantly decreased Tax-induced trans-activation .
+This NF-KB-like element was able to form a complex with NF-KB family proteins in vitro .
+Furthermore , Tax-induced transactivation of the be/-x promoter was also diminished by the mutant IBa , which specifically inhibits NF-KB activity .
+Our findings suggest that constitutive expression of Bel-x ; , induced by Tax through the NF-B pathway contributes to the inhibition of apoptosis in CTLL-2 cells after IL-2 deprivation .
+Human T-cell leukemia virus type 1 ( HTLV-1 ) is the etio-logical agent of adult T-cell leukemia ( 22 , 34 ) .
+HTLV-1 encodes a 40-kDa regulatory protein , Tax , that accelerates viral gene expression ( 6 , 13 , 15 , 39 , 41 ) .
+This protein is thought to be responsible for the transforming features of HTLV-1 .
+This conclusion is supported by several lines of evidence , such as in vitro transformation of rodent fibroblasts and human T cells ( 1 , 27 , 46 ) and in vivo induction of a variety of mesenchymal tumors and leukemia in transgenic mice carrying the tax gene ( 20 , 29 ) .
+Various mechanisms of T-cell leukemogenesis by HTLV-1 Tax have been proposed .
+Some of them relate to the transcriptional activator function of this protein .
+Tax activates the transcription of not only HTLV-1 itself but also a number of cellular genes in trans .
+This transactivation by Tax is mediated through interaction with transcriptional factors CREB , NF-kB , and serum response factor ( 14 , 42-44 , 56 ) .
+Thus , the expression of a variety of target genes related to cellular activation and growth is enhanced by Tax .
+These include genes for interleukin-2 ( IL-2 ) , IL-6 , granulocyte-macrophage colony-stimu-lating factor , the « chain of IL-2 receptor , Fra-1 , c-Myc , c-Fos , and c-Jun ( 36 , 55 ) .
+Aberrant expression of these proteins could be involved in the dysregulated proliferation of HTLV-1-in-fected cells .
+Recent studies support another hypothesis ; that Tax may induce cell cycle promotion through protein-protein interaction .
+Suzuki et al .
+( 45 ) demonstrated that Tax binds and inac-tivates p16 '' ~* '' '' , a negative regulatory molecule of the cell * Corresponding author .
+Mailing address : Department of Immuno-therapeutics , Tokyo Medical and Dental University , Medical Research Division , 1-5-45 Yushima , Bunkyo-ku , Tokyo 113 , Japan .
+Phone : 81 ( 3 ) 5803-5798 .
+Fax : 81 ( 3 ) 5803-0235 .
+E-mail : kann.impt @ med.tmd.ac.jp .
+7981 cycle .
+Tax may also directly associate with cyclin D , which is important in cell cycle transition from G , to S phase ( 30 ) .
+Tax also influences cell apoptosis .
+We and others have previously shown that human T-cell lines expressing Tax were resistant to apoptosis signals triggered through Fas receptors ( 2 , 9 ) .
+A similar resistance to apoptosis was observed in T cells derived from transgenic mice carrying the tax gene ( 25 ) .
+Resistance to cell apoptosis is one of the mechanisms of autoim-munity and is also an important requirement for the immortalization of T cells ( 7 , 33 ) .
+Other investigators , however , have reported opposite observations ; Tax induces apoptosis of rat fibroblasts and a human T-cell line under certain conditions ( 7 , 53 ) .
+The precise mechanisms of the Tax effect on apoptosis are not well understood .
+We have recently shown that the expression of Tax in a mouse T-cell line CTLL-2 converted its growth from being IL-2 dependent to being IL-2 independent .
+Not only promotion of cell cycle but also prevention of apoptosis occurred in these cells in the absence of IL-2 ( 23 ) .
+In the present study , we investigated the mechanisms by which Tax prevents apoptosis .
+We demonstrated ( i ) that constitutive expression of Bel-x , , one of the molecules protecting cells against apoptosis , is associated with resistance of CTLL-2/Tax transfectants to apoptosis induced by IL-2 deprivation and ( ii ) that Tax transactivates bel-xl through the NF-kB pathway .
+This is the first report that indicates the involvement of Bel-x , , in HTLV-1 Tax-induced inhibition of apoptosis in T cells .
+MATERIALS AND METHODS Plasmids .
+Plasmids containing wild-type tax ( pBMT-2Tax ) , mutant tax genes ( pBTax703 and pBTaxM22 ) driven by a B-actin promoter , and its control plasmid ( pHBAPr-1-neo ) were used ( 21 , 26 ) .
+Wild-type Tax encoded in pBMT-2Tax is effective in the activating NF- « B , CArG , and CRE sites .
+On the other hand , the 7982 TSUKAHARA ET AL .
+Tax mutant encoded by pBTax703 can activate the NF- « B site but not the CArG or the CRE site , while the Tax mutant encoded by pBTaxM22 can activate the CArG and CRE site but hardly the NF-B site ( 40 , 44 ) .
+We also used the mouse bel-x promoter-driven luciferase ( Luc ) reporter plasmid pGL2-3.2 , which contained a 3.2-kbp fragment upstream of the bei-x gene ( 19 ) .
+pGL2 ( 1160 ) , pGL2 ( 848 ) , pGL2 ( 822 ) , and pGL2 ( 631 ) were newly generated by insertion of DNA fragments of the bel-x promoter at the base positions of -1160 to -75 , -848 to -75 , -822 to -75 , and -631 to -75 from the translation initiation ATG of the bel-x gene , respectively , into the basic pGL2 vector containing a Luc reporter gene ( Promega , Madison , Wis. ) .
+These DNA fragments were amplified by PCR with DNA templates extracted from CTLL-2 cells and four sense primers , ( 5'-CCGCTCGAGGAGGTCTCCACTGTGGGAGC-3 ' , 5 '' -CCGCTCGAGGGAA GTCCCTTTAGGGTTTC-3 ' , 5-CTCATCTAGGGCTGGTACIT-3 ' , and 5'-C CGCTCGAGTGGTCGATGGAGGAACCAGG-3 ' ) and one antisense primer ( 5'-GAAGATCTAGCGATTCTCTTCCAGGATC-3 ' ) .
+pGL « BM is a mutant of pGL2 ( 848 ) , carrying CC-to-GG mutations at positions of -841 and -840 within the NF- « B binding site , which were generated by PCR by using primers with the mutation .
+Plasmid integrity was confirmed by DNA sequencing .
+Another Luc reporter plasmid , WT-Luc , containing five tandem repeats of 21-bp Tax-inducible CREs of HTLV-1 LTR originated from 21WT-CAT ( 16 ) , was kindly provided by J. Fujisawa ( Kansai Medical University , Osaka , Japan ) .
+peDNA3-IxBaM was constructed by cloning an IxBoM-coding region in pBlue-script SK ( - ) -I « xBa $ 32A/5836A , a kind gift from J. Inoue ( Tokyo University , Tokyo , Japan ) , into pcDNA3 ( Invitrogen , Carlsbad , Calif. ) with the cytomega-lovirus promoter .
+pSV-B-Galactosidase Vector ( Promega ) was also used .
+Cell lines and transfections .
+The mouse IL-2-dependent T-cell line CTLL-2 ( 18 ) was maintained in RPMI 1640 medium with 10 % fetal calf serum ( FCS ) ( RPMI-10 % FCS ) , 50 M 2-mercaptocethanol and 1 nM human recombinant IL-2 ( brIL-2 ; Ajinomoto , Yokohama , Japan ) at 37°C and 5 % CO , CTLL-2 cell clones permanently expressing wild-type and mutant HTLV-I Tax were established by neomycin-selection after gene transfection as described below .
+CTLL-2 cells ( 10 '' ) were resuspended in 0.7 ml of FCS-free RPMI containing 10 ug of wild-type or mutant Tax expression plasmids and electroporated by use of a Gene Pulser ( Bio-Rad , Hercules , Calif. ) at 320 V and 950 mF .
+Then , the cells were resuspended in 20 ml of RPMI-10 % FCS and 1 nM hrIL-2 .
+After 48 h , the cells were selected in 24-well plates in G418-containing medium ( 0.4 mg/m ! )
+for 3 weeks .
+Wells were screened for Tax expression by Western blot analysis , and cells in the wells positive for Tax were further cloned by the limiting-dilution method .
+In this study , we used two or three randomly selected clones for each group of CTLL-2/Tax transfectants .
+We also used an IL-2-independent T-cell line , Jurkat , which originated from human acute lymphocytic leukemia ( 38 ) .
+Western blot analysis .
+Expressions of HTLV-1 Tax , Bcl-x ; , and « -tubulin in CTLL-2 cell clones were analyzed by Western blot assays as described previously ( 23 ) .
+Briefly , cell lysates prepared from CTLL-2 ( 5 X 10° cells ) were subjected to electrophoresis under reduced conditions on a discontinuous 12.5 % polyacrylamide gel with sodium dodecyl sulfate , and the proteins in the gel were transferred to polyvinylidene difluoride membranes .
+The blots were first incubated with a human serum containing anti-Tax antibodies , rabbit antiserum specific for Bcel-x ; , ( Transduction Laboratories , Lexington , Ky. ) , or mouse monoclonal antibody to « -tubulin ( Oncogene , Cambridge , Mass .
+) , then rinsed , and finally incubated with second antibodies conjugated with horseradish peroxidase .
+Sites of antibody binding were visualized by using ECL Western blotting detection system ( Amersham International Plc , Little Chalfont , Buckinghamshire , United Kingdom } .
+RPA .
+We analyzed the levels of belzl , bel-xs , bak , bax , bel-2 , and bad gene mRNAs in CTLL-2 cells cultured with or without IL-2 for 48 h by RNase protection assay ( RPA ) with the RPA II kit ( Ambion , Austin , Tex . )
+as described previously ( 24 ) .
+Cells were lysed in Isogen ( Nippon Gene , Toyama , Japan ) solution , and total cellular RNA was extracted by separation over CHCl , and precipitation with isopropanol .
+The total RNA ( 20 mg ) was hybridized with a mixture of `` P-labeled antisense RNA probes ( 3 X 10* cpm ) overnight at 42°C in a hybridization buffer containing 80 % formamide and then treated with RNase A/T1 .
+The resultant protected RNAs were separated on a 5 % acrylamide gel with 8 M urea and visualized by autoradiography .
+As internal controls , the mRNA levels of a ribosomal protein ( L32 ) and glyceraldehyde-3-phosphate dehydrogenase ( GAPDH ) were analyzed .
+RNA probes used for this assay were synthesized by in vitro transcription with templates included in an mAPO-2 multiprobe template set ( PharMingen , San Diego , Calif. ) .
+Transient-transfection assay .
+To evaluate the ability of Tax to activate transcription of bel-x , 10° Jurkat cells were cotransfected by the DEAE-dextran method with 4 pg of a reporter plasmid pGL2-3.2 or control WT-Luc , 1 ug of pSV-B-galactosidase containing the bacterial B-galactosidase gene driven by the simian virus 40 ( SV40 ) promoter , and an effector plasmid containing wild-type or mutant Tax at a 1:2 molar ratio with the reporter plasmids .
+After 48 h of incubation , cells were harvested , and Luc activity in the cellular lysates was measured with a luminometer ( Lumat ; Berthold & Co. ) .
+All Luc assays were performed in triplicates .
+At the same time , the activity of B-galactosidase in the lysates was measured as described previously ( 37 ) .
+Luc activity was normalized with B-galactosidase activity .
+EMSA .
+Binding activity of NF- « B proteins to NF-kB elements was examined by electrophoretic mobility shift assay ( EMSA ) as described previously ( 23 ) .
+In J. Virou .
+A 1 2 3 4 5 6 7 8 -a bel-xl -a bel-xs UW a » # # B a » # B # B a » -a bak w we a » a » a » as an an -a bax a # an # » # # » # B # p -a bci-2 -a bad L32 « @ a GAPDH 1 2 3 4 5 6 17 8 Nee - ques « .~ » « * - @ Bcl-x1 comm mmm came A ) ) ) : FIG .
+1 .
+Constitutive expression of bel-x/ mRNA and Bcl-x , protein in CTLL-2/Tax transfectants in the absence of IL-2 .
+( A ) RNase protection assays with specific probes for bel-xl , bel-xs , bak , bax , bel-2 , and bad genes were performed by using 20 pg of total RNA samples extracted from CTLL-2/Vec- # 22 ( lanes 1 and 2 ) , CTLL-2/WT- # 34 ( lanes 3 and 4 ) , CTLL-2/703- # 23 ( lanes 5 and 6 ) , and CTLL-2/M22- # 23 ( lanes 7 and 8 ) after 48 h of culture in the presence ( lanes 1 , 3 , 5 , and 7 ) or absence ( lanes 2 , 4 , 6 , and 8 ) of 1 nM IL-2 .
+Similar results were obtained with another set of independent clones .
+( B ) Western blot analysis of Bcl-x ; , ( top ) and « -tubulin ( bottom ) expression in CTLL-2/Tax transfectants .
+In each lane , we used 50 ug of total cell lysates prepared from a similar set of CTLL-2 clones as described in panel A .
+The arrangement of lanes is similar to that of panel A .
+Specific protein bands are indicated by arrows .
+Similar results were obtained with another set of independent clones .
+brief , 10 pg of nuclear extracts prepared from 10 '' of CTLL-2/Tax transfectants cultured with or without IL-2 for 48 h were preincubated with a binding buffer containing 1 g of poly ( dI-dC ) .
+They were then incubated with approximately 20,000 cpm of °°P-labeled oligonucleotide probes containing NF-kB like elements for 20 min at room temperature .
+The DNA-protein complex was separated on a 5 % polyacrylamide gel and visualized by autoradiography .
+To examine the specificity of the NF-B-like element of the probes , unlabeled competitor oligonucleotides were preincubated with nuclear extracts for 20 min on ice prior to incubation with probes .
+The probes or competitors utilized were prepared by annealing the sense and antisense synthetic oligonucleotides as follows : NF- « B-like element in the belx promoter , 5'-cgatAAAGGGACTTCCAAGat-3 ' and 3'-taTTTCCCTGAAGGTTCtage-5 ' ; NF- « B-like mutant clement , 5'-cgatAA ACCGACTTCCAAGat-3 ' and 3'-taTTTGGCTGAAGGTTCtage-5 ' ; typical NF- « B element of SV40 early promoter , 5'-cgatAGAGGGGACTTITCCGat-3 ' and 3'-taTCTCCCCTGAAAGGCtage-5 ' ; and typical CRE sequence of T-cell receptor « promoter , 5'-cgatCCATGACGTCATGGat-3 ' and 3'-taGGTACTG CAGTACCtage-5 ' .
+( Lowercase letters signify nonsense nucleotides inserted to make cohesive ends , which increases the radiolabeling efficiency . )
+To identify NF- « B proteins in the DNA-protein complex by EMSA , antibodies specific for various NF-kB family proteins , including NF- « B p65 , NF- « B p50 , c-Rel , RelB , and NF- « B p52 ( Santa Cruz Biotechnology , Santa Cruz , Calif. ) , were used to elicit supershift and/or inhibition of the bands .
+These antibodies were incubated with the nuclear extracts for 1 h on ice prior to incubation with radiolabeled probes in EMSA .
+RESULTS Constitutive expression of be/-x mRNA and Bel-x , , protein in CTLL-2 cells stably transfected with HTLV-1 Tax .
+We previously established CTLL-2 clones stably transfected with various Tax plasmids such as wild-type Tax ( WT ) , mutant Tax retaining ability to activate NF-kB ( 703 ) , or mutant Tax defi- voL .
+73 , 1999 25000 20000 - T 15000 10000 -I Luciferase activity 5000 o BA wT 703 M22 FIG .
+2 .
+Transactivation of belx promoter by Tax .
+Jurkat cells ( 10° ) were cotransfected with 2 g of the Luc reporter plasmid pGL2-3.2 driven by the beix promoter , 1 pg of pSV-B-galactosidase , and 2 pg of Tax-expressing plasmids or its control vector pHBAPr-1-neo ( BA ) .
+The Tax-expressing plasmids utilized were pBMT-2Tax ( WT ) , pBTax703 ( 703 ) , and pBTaxM22 ( M22 ) .
+Luciferase activities were normalized with B-galactosidase activity .
+Data represent the mean + the standard deviation ( SD ) of three independent experiments .
+cient in activating the NF- « B site ( M22 ) ( 23 ) .
+By using these clones , we demonstrated that CTLL-2 clones transfected with WT Tax ( CTLL-2/WT ) and mutant Tax 703 ( CTLL-2/703 ) but not the parental CTLL-2 or CTLL-2 clones transfected with Tax M22 ( CTLL-2/M22 ) or control vector ( CTLL-2/Vee ) were resistant to apoptosis induced by IL-2 deprivation ( 23 ) .
+To dissect the molecular mechanisms of Tax-induced inhibition of apoptosis in CTLL-2 cells , we determined the NF-xB SP-1 -- - { el } : = pGL2-3.2 _F -1160 —D—o— ( D—0—Mﬁé——| : pGL2 ( 1160 ) _F -848 WM pGL2 ( 848 ) _F -822 WEDGLKSZZ ) _F 631 -- é & @ -//4-C -- pGL2 ( 631 ) —F s18 -- - pGL2xBM r INDUCTION OF Bcl-x , BY HTLV-1 Tax THROUGH NF-kB - 7983 mRNA-levels of several apoptosis-related genes , including be/-xl , bel-xs , bak , bax , bel-2 , and bad in CTLL-2/Tax transfectants , by using RNase protection assays .
+A representative result is shown in Fig .
+1A .
+In a clone of CTLL-2/Vee ( CTLL-2/Vec- # 22 ) , the mRNA level of bei-xl , which is known to inhibit apoptosis , was markedly decreased after 48 h of IL-2 deprivation .
+Expression of bak slightly decreased by IL-2 deprivation , but none of the other members of the bel family tested was significantly affected by IL-2 deprivation .
+Bei-xs mRNA , a spliced variant of be/-xl ( 19 ) , was not detected in any of these CTLL-2 cells regardless of the presence of IL-2 .
+In contrast , clones of CTLL-2/WT and CTLL-2/703 ( CTLL-2/WT- # 34 and CTLL-2/703- # 23 , respectively ) showed a constitutive expression of bei-xl even in the absence of IL-2 .
+However , the induction of bei-xl mRNA in a CTLL-2/M22 clone ( CTLL-2/M22- # 23 ) was dependent on the presence of IL-2 .
+Similar results were obtained by using another set of independent clones of CTLL-2/Tax transfectants .
+Constitutive expression of the Bel-x , , protein in stable CTLL-2 transfectants with Tax was also confirmed by Western blot analysis .
+As shown in Fig .
+1B , CTLL-2/WT- # 34 and CTLL-2/703- # 23 but not CTLL-2/Vee or CTLL-2/M22- # 23 expressed detectable levels of Bel-x , , protein after 48 h of IL-2 deprivation .
+The levels of « -tubulin , a cytoskeletal protein as an internal control , was comparable among these clones .
+The protein levels of Bak in CTLL-2/WT clones did not differ from those of CTLL-2/Vee clones in the absence of IL-2 ( data not shown ) .
+These results suggested that the constitutive expression of Bel-x , , in CTLL-2/WT and CTLL-2/703 clones in the absence of IL-2 may contribute to Tax-induced resistance to apoptosis .
+We then explored the mechanisms of Bcl-x , induction by HTLV-1 Tax .
+Transactivation of be/-x promoter by HTLV-1 Tax .
+Using transient-transfection assays , we then assessed whether Tax can enhance be/-x promoter activity .
+In these assays , HTLV-1 Luciferase activity 0 5000 10000 15000 20000 I I I | I 25000 I +Tax D ~Tax FIG .
+3 .
+Mapping of HTLV-1 Tax-responsive region in the bex promoter .
+A series of Luc reporter plasmids based on pGL2 vectors containing fragments of 5 ' flanking region of the bel-x gene were cotransfected into Jurkat cells with WT Tax plasmid pBMT-2Tax ( solid bars ) or its control plasmid ( open bars ) , together with reference plasmid pSV-B-galactosidase .
+Luciferase activities normalized with B-galactosidase activities after 48 h of incubation are indicated .
+Constructs of the reporter plasmids utilized are schematically illustrated in the left panel .
+Fragments of the 5 ' flanking region of bel-x gene are represented by heavy lines , and the number at the 5 ' end of each construct indicate the 5'-most end base positions from the translation initiation codon of the bel-x gene .
+The locations of the binding sites for transcription factors NF-B ( ] ) , SP-1 ( { } ) , Ets-1 ( @ ) and GATA-1 ( ¥ ) , identified by using a transcription factor database ( 1a ) , are also indicated .
+pGL2 « BM contained mutations within the NF- « B site ( X ) as described in Materials and Methods .
+Similar results were obtained in two independent experiments .
+7984 TSUKAHARA ET AL .
+negative IL-2-independent human T-cell line Jurkat but not CTLL-2 cells were used since CTLL-2 cells can not survive in the absence of IL-2 after transfection with plasmids .
+Jurkat cells were cotransfected with Tax effector plasmids and a Luc reporter plasmid ( pGL2-3.2 ) containing a 3.2-kbp segment of 5 ' flanking region of the mouse be/-x gene in the absence of IL-2 ( 19 ) .
+As shown in Fig .
+2 , the Luc activities of Jurkat cells transfected with WT Tax or Tax 703 were seven to nine times higher than those of cells transfected with the control vector .
+However , Luc activity in cells transfected with Tax M22 plasmid was almost equivalent to that in control cells .
+These results indicated that both WT Tax and Tax 703 transactivates bex promoter activity , presumably through the NF- « B pathway .
+Mapping of HTLV-1 Tax-responsive regions in the bex promoter .
+We next mapped Tax-responsive elements in the mouse be/-x promoter .
+Several consensus motifs for the binding of transcription factors such as SP-1 , Ets-1 , and GATA-1 have been identified ( 19 ) .
+We also identified an NF- « B binding motif ( GGGACTTCC ) similar to the one in the immunoglobulin promoter , which was located at positions -848 to -840 of the bel-x promoter in an inverted direction .
+To examine the contributions of these sites for Tax-induced transactivation , a series of Luc reporter constructs with several fragments of different lengths of 5 ' deleted bei-x promoters were prepared and transiently transfected into Jurkat cells along with Tax expression plasmid or control plasmid ( Fig .
+3 ) .
+The highest level of Tax-induced Luc activity was observed in cells transfected with the longest construct , pGL2-3.2 .
+The two deletion constructs , pGL2 ( 1160 ) and pGL2 ( 848 ) , also responded to Tax significantly .
+All three constructs contained both SP-1 and NF- « B binding site-like elements .
+However , the Tax-induced Luc activity was markedly reduced in cells transfected with pGL2 ( 822 ) , which had the SP-1 but not the NF- « B site .
+The shortest construct pGL2 ( 631 ) , which lacked both the NF-kB and the SP-1 sites , elicited minimal responses to Tax .
+Furthermore , a mutated NF- « B-Lue plasmid , pGL « BM , which had the same length as pGL2 ( 848 ) but had a CC-to-GG mutation at positions -841 and -840 within the NF- « B motif , exhibited markedly reduced levels of Tax-induced transactivation as observed with pGL2 ( 822 ) .
+These results suggest that the NF-kB site located at positions -848 to -840 in the be/-x gene promoter region is one of the major responsive elements of Tax-induced transactivation of be/kx .
+Binding of NF-KB family proteins to the NF- element in bel-x promoter .
+We further examined whether NF- « B family proteins can actually bind to the putative NF-kB element identified in the be/-x promoter by EMSA .
+The synthetic oligonucleotide containing the NF-kB-site at positions of -848 to -840 in the bel-x promoter was used as a probe .
+As shown in Fig .
+4A , a clear shifted band was observed when the probes were incubated with nuclear extracts of CTLL-2/WT- # 34 cultured in the presence or the absence of IL-2 .
+However , the binding activity of nuclear extracts of CTLL-2/Vec- # 22 was dependent on the presence of IL-2 .
+Similar results were observed with parental CTLL-2 cells ( data not shown ) .
+Complex formation was competed by 100-fold excess cold probe or unlabeled oligonucleotides with a typical NF-kB consensus sequence of SV40 early promoter but not by oligonucleotides with a mutant NF- « B-like sequence of the be/-x promoter or other unrelated competitors such as CRE sequence .
+When the mutant NF- « B-like sequence was used as a probe , complex formation was not observed with nuclear extracts from CTLL-2/WT- # 34 cultured in the absence of IL-2 .
+When anti-NF-kB p50 antibody was preincubated with nuclear factors of CTLL-2/WT- # 34 , the bands formed with the probes supershifted in the EMSA , whereas anti-NF- « B p65 and anti-ReIB partially J. Virou .
+A 1 2 3 4 5 6 7 8 9 10 11 - U WU WW =-i % I ' !
+B 1 2 3 4 5 6 7 `` “ H “ u “ “ 4 FIG .
+4 .
+Binding of NF- « B family proteins to *°P-labeled oligonucleotide probes in EMSA .
+( A ) Nuclear extracts ( 10 pg ) from CTLL-2/Vec- # 22 ( lanes 2 and 3 ) and CTLL-2/WT ( lanes 4 to 9 ) cultured in the presence ( lanes 2 and 9 ) or absence ( lanes 3 to 8 ) of IL-2 were incubated with ( lanes 5 to 8 ) or without ( lanes 2 to 4 and 9 ) a 100-fold excess of competitors and then incubated with probes containing the NF- « B-like element in the be/x promoter .
+The DNA-protein complexes were separated on a 5 % polyacrylamide gel and visualized by autoradiography .
+Competitors used included unlabeled probe ( lane 5 ) , mutant NF- « B like element ( lane 6 ) , a typical NF- « B sequence ( lane 7 ) , and a typical CRE sequence ( lane 8 ) .
+Lane 1 represents the band of probes alone .
+Radiolabeled probes containing a mutant NF- « B-like element were also incubated without ( lane 10 ) or with ( lane 11 ) nuclear extracts from CTLL-2/WT cultured in the absence of IL-2 .
+Specific bands are indicated by arrows .
+( B ) Nuclear extracts ( 10 g ) from IL-2-untreated CTLL-2/WT were preincubated without ( lane 1 ) or with antibodies specific for NF- « B family proteins , including NF-xB p65 ( lane 2 ) , NF- « B p50 ( lane 3 ) , c-Rel ( lane 4 ) , RelB ( lane 5 ) , NF- « B p52 ( lane 6 ) , and control rabbit antiserum ( lane 7 ) , and then incubated with radiolabeled probe containing the NF- « B-like element in the bex promoter .
+The lower arrow indicates NF-xB-DNA complex alone , while the upper arrow indicates a supershifted band with an anti-NF- « B p50 antibody .
+Similar results were obtained with at least three independent CTLL-2/WT clones .
+inhibited the complex formation ( Fig .
+4B ) .
+A similar pattern of supershift was also observed when a typical NF-kB consensus sequence was used as a probe ( data not shown ) .
+These results indicated that p65 and p50 subunits of NF- « B and RelB can bind the NF- « B like element identified in the be/-x promoter .
+Suppression of Tax-induced enhancement of be/-x promoter activity by blocking NF-B pathway .
+We then examined whether blocking of the NF- « B pathway can affect Tax-induced transactivation of bei-x/ by transient assays by using a super-repressor form of IxBa mutant ( IxBaM ) that specifically suppresses NF-xB activity .
+IxBaM contains serine to alanine mutations at residues 32 and 36 , which abolish phosphorylation sites by IxB kinase .
+The IxBaM expression vector was cotransfected into Jurkat cells along with the WT Tax plasmid and the pGL2-3.2 .
+As shown in Fig .
+5A , the elevated Luc activity in response to WT Tax was markedly suppressed by cotransfec-tion with IxBaM but not with the control plasmid .
+In contrast , voL .
+73 , 1999 A 25000 pGL2-3.2 up 20000 P. b-Z I 15000 ® 4 Cal a im 10000 £ & k=l jul 5000 0 J pBMT-2Tax - - + 4 peDNA3-IxBaM - - + - + INDUCTION OF Bcl-x , BY HTLV-1 Tax THROUGH NF-kB - 7985 B 80000 WT-Lue 60000 - as 4 40000 20000 o -- - + + - + - + FIG .
+5 .
+Involvement of NF- « B pathway in Tax-induced transactivation of be/-x promoter .
+( A ) Jurkat cells were cotransfected with 4 mg of bel-x/ promoter-Luc reporter plasmid pGL2-3.2 , 1 pg of pSV-B-galactosidase , and various combinations of 2 ug of pBMT-2Tax and 2 pg of pcDNA3-IxBoM as indicated .
+The total plasmid amount for transfection was always adjusted up to 9 pg by adding control plasmids pHBAPr-1-neo or pcDNA3 .
+The Luc activity of the samples after 48 h of incubation was normalized to the B-galactosidase activity .
+Data represent the mean + the SD of three independent experiments .
+( B ) Control experiments with reporter plasmids without potential NF-xB binding sites .
+Jurkat cells were transfected with 4 pg of HTLV-LTR ( 21 bp ) -Luc reporter plasmid WT-Luc , 2 ug of pBMT-2Tax , 1 ug of pSV-B-galactosidase , and 2 pg of pcDNA3-IxBaM or pecDNA3 .
+The luciferase activity was indicated as described in panel A. the Luc activity of another Luc reporter plasmid , WT-Luc , which can be activated by Tax through the CRE pathway but not through the NF- « B pathway ( 16 ) , was not affected by IxBaM ( Fig .
+5B ) .
+These results confirmed that the NF-kB pathway was involved in Tax-induced transactivation of the bel-x promoter in these cells .
+Involvement of NF-B pathway in constitutive bei-xl promoter activity in CTLL-2/Tax transfectants .
+Finally , we examined involvement of the NF- « B pathway in Tax-induced constitutive expression of be/-xl in CTLL-2 cells .
+CTLL-2/WT- # 34 were transfected with the pGL2-3.2 in the presence or absence of IxBaM in IL-2-free conditions .
+As shown in Fig .
+6A , the bel-x promoter activity in CTLL-2/WT- # 34 was partially inhibited by transfection with IxBaM but not with control plasmid .
+The Luc activity of WT-Luc lacking potential NF- « B sites was not affected by IxBaM in these cells ( Fig .
+6B ) .
+Similar results were obtained with at least three independent CTLL-2/WT clones .
+These results confirmed the involvement of the NF- « B pathway in Tax-induced transactivation of be/-xl in CTLL-2 cells , as well as in Jurkat cells .
+DISCUSSION In this study , we demonstrated that HTLV-1 Tax transactivates the bel-x promoter through NF-kB .
+Tax-mediated constitutive expression of Bel-x , , in CTLL-2 cells expressing Tax is presumed to prevent these cells from apoptosis induced by IL-2 deprivation .
+This can be one of the molecular mechanisms of apoptosis resistance shown in our previous study , which demonstrated that Tax converted IL-2-dependent growth of CTLL-2 to IL-2-independent growth ( 23 ) .
+RNA protection assays showed that be/-x/ , but not other members of be !
+family tested , was constitutively expressed in CTLL-2/WT and CTLL-2/703 clones in the absence of IL-2 ( Fig .
+3A ) .
+Constitutive expression of Bel-x , , protein was also observed in these cells ( Fig .
+3B ) .
+Bel-x , , has been shown to inhibit apoptosis of several types of cells including T lympho- cytes ( 4 , 32 ) , and overexpression of Bel-x , , protects CTLL-2 cells against apoptosis after IL-2 deprivation ( 3 ) .
+Therefore , Tax-induced constitutive expression of Bel-x , , can be the underlying molecular mechanism of resistance of CTLL-2 cells expressing Tax to apoptosis after IL-2 deprivation .
+Other investigators , however , reported that the otherwise IL-3-depen-dent B cells could grow independently of IL-3 when they expressed both Tax and c-Myc but not Tax or c-Myc alone ( 28 ) .
+bel-xl induction by Tax was not observed in these cells .
+Such variation in the ability of Tax to induce be/-x/ among different A B pGL2-3.2 WTLue 100 4 100 4 1 a S rs .
+75 7 2 ' 3 4 a § 50 7 [ 50 7 M € 3 l 254 25 4 0 T 0 T peDNA3-IxBoM - + - + FIG .
+6 .
+Inhibition of constitutive activation of promoter in CTLL-2/Tax transfectants by IxBaM .
+( A ) CTLL-2/WT clone cells were transfected with pGL2-3.2 , pSV-B-galactosidase , and either peDNA3-IxBaM ( solid bar ) or peDNA3 ( open bar ) .
+Luc activity after 48 h of incubation in the absence of IL-2 was normalized to B-galactosidase activity and indicated as the percentage of activity in the IxBaM ( - ) sample .
+Data represent the mean + the SD of three independent experiments .
+( B ) Control experiments with the WT-Luc reporter plasmid instead of pGL2-3.2 .
+7986 TSUKAHARA ET AL .
+cell types implies a requirement of cellular mediators in this phenomenon .
+Although Bcel-2 is also known to protect cells against apoptosis ( 10 , 11 ) , the expression of be/-2 did not correlate with Tax-induced resistance to apoptosis of CTLL-2 in the present system .
+This finding is consistent with that of previous reports demonstrating that Tax did not induce be/-2 expression in human endothelial cells and a pro-B cell line ( 28 , 31 ) .
+Expression of bax , an accelerator of apoptosis , was not significantly affected by Tax in the present study .
+However , other investigators reported that Tax repressed bex transcription ( 5 ) .
+In general , the Bcl-2/Bax and Bcl-x , /Bax ratios are thought to be important determinants of apoptosis ( 35 ) .
+Our results of Tax-induced activation of be/-xl , together with the finding of Tax-induced repression of bex by others , suggest that Tax inhibits apoptosis by increasing the Bcl-x , /Bax ratio in HTLV-1-in-fected cells .
+Tax is known to activate NF- « B by activating IxB kinases and other related molecules ( 8 , 17 , 47 , 54 ) .
+Involvement of the NF- « kB pathway in Tax-induced transactivation of be/-xl was strongly suggested by our results that the be/-x promoter was activated by mutant Tax preferentially activating NF-kB ( Fig .
+3 ) and that an NF-kB-like element at positions -848 to -840 from the translation initiation codon of bei-x gene was responsive for Tax-induced activation of the be/-x promoter ( Fig .
+4 ) .
+The binding of NF-kB family proteins , including NF- « B p65 , NF- « kB p50 , and RelB , to the NF- « B-like element that we identified in the mouse be/-x promoter was also confirmed in in vitro ( Fig .
+4B ) .
+Similar NF-kB binding sequences were also found in the human be/-x promoter ( 12 ) .
+Furthermore , the Tax-mediated be ! -x promoter activation was profoundly inhibited by a super-repressor mutant of IxBa ( Fig .
+5 and 6 ) or by introduction of mutations in the NF- « B-like element in the mouse bel-x promoter constructs .
+These findings suggest that the NF- « B-like element is one of the major responsive regions of Tax-induced be/-x promoter activation .
+NF- « B activation is known to inhibit apoptosis induced by tumor necrosis factor alpha or immunoglobulin G cross-linking in several types of cells unrelated to HTLV-1 ( 48 , 49 , 51 ) .
+A few reports suggested the involvement of inhibitor of apoptosis protein ( 50 ) and IEX-1L ( 52 ) , although these could be a part of multiple mechanisms and may also vary among different cell types .
+The molecular mechanisms of NF- « B-induced inhibition of apoptosis , apart from the bei-x/ induction demonstrated in the present study , remain to be clarified .
+In conclusion , we demonstrated in the present study that Tax enhanced the expression of Bel-x , , at least through the NF-kB pathway , and that this was associated with cellular resistance to apoptosis .
+Tax-mediated Bcl-x , induction may be one of the underlying mechanisms of inhibition of apoptosis of HTLV-1 infected cells , which might contribute to the pathogenesis of HTLV-1 infection .
+ACKNOWLEDGMENTS We thank K. Matumoto ( Osaka Red Cross Center , Osaka , Japan ) ; J. Fujisawa ( Kansai Medical University , Osaka , Japan ) ; and J. Inoue ( Tokyo University , Tokyo , Japan ) for providing pHBAPr-1-neo ; pBMT-2Tax , pBTax703 , pBTaxM22 , and WT-Luc ; and IxBaM , respectively .
+We also thank F. G. Issa , Word-Medex , Sydney , Australia , for the careful reading and editing of the manuscript .
+This work was supported in part by grants from the Agency of Science and Technology of Japan , and Core Research for Evolutional Science and Technology of Japan Science and Technology Corpora-tion .
+J. Virou .
+REFERENCES 1 .
+Akagi , T. , H. Ono , and K. Shimotohno .
+1995 .
+Characterization of T cells immortalized by Tax1 of human T-cell leukemia virus type 1 .
+Blood 86:4243-4249. la.Akiyama , Y .
+12 May 1998 , posting date .
+TFSEARCH .
+[ Online . ]
+http : //pdap1.tre.rwep.or.jp/research/db/TFSEARCHLhtml .
+[ 1 February 1999 , last date accessed . ]
+2 .
+Arai , M. , M. Kannagi , M. Matsuoka , T. Sato , N. Yamamoto , and M. Fujii .
+1998 .
+Expression of FAP-1 ( Fas-associated phosphatase ) and resistance to Fas-mediated apoptosis in T cell lines derived from human T cell leukemia virus type l-associated myelopathy/tropical spastic paraparesis patients .
+AIDS Res .
+Hum .
+Retroviruses 14:261-267 .
+3 .
+Boise , L. H. , C. L. McShan , and C. B. Thompson .
+1996 .
+Introduction of the cell survival gene bel-x , improves the viability of CTLL-2 cells without affecting their IL-2 proliferative response .
+Implications for the development of bioassays .
+J. Immunol .
+Methods 191:143-148 .
+4 .
+Boise , L. H. , A. J. Minn , P. J. Noel , C. H. June , M. A. Accavitti , T. Lindsten , and C. B. Thompson .
+1995 .
+CD28 costimulation can promote T cell survival by enhancing the expression of Bcl-X ; .
+Immunity 3:87-98 .
+5 .
+Brauweiler , A. , J. E. Garrus , J. C. Reed , and J. K. Nyborg .
+1997 .
+Repression of bax gene expression by the HTLV-1 Tax protein : implications for suppression of apoptosis in virally infected cells .
+Virology 231:135-140 .
+6 .
+Chen , I S. , A. J. Cann , N. P. Shah , and R. B. Gaynor .
+1985 .
+Functional relation between HTLV-II x and adenovirus E1A proteins in transcriptional activation .
+Science 230:570-573 .
+7 .
+Chlichlia , K. , G. Moldenhauer , P. T. Daniel , M. Busslinger , L. Gazzolo , V. Schirmacher , and K. Khazaie .
+1995 .
+Immediate effects of reversible HTLV-1 tax function : T-cell activation and apoptosis .
+Oncogene 10:269-277 .
+8 .
+Chu , Z. L. , J .
+A. DiDonato , J. Hawiger , and D. W. Ballard .
+1998 .
+The Tax oncoprotein of human T-cell leukemia virus type 1 associates with and persistently activates IxB kinases containing IKKa and IKK $ .
+J. Biol .
+Chem .
+273:15891-15894 .
+9 .
+Copeland , K. F. , A. G. Haaksma , J. Goudsmit , P. H. Krammer , and J. L. Heeney .
+1994 .
+Inhibition of apoptosis in T cells expressing human T cell leukemia virus type I Tax .
+AIDS Res .
+Hum .
+Retroviruses 10:1259-1268 .
+10 .
+Cory , S. 1995 .
+Regulation of lymphocyte survival by the bel-2 gene family .
+Annu .
+Rev .
+Immunol .
+13:513-543 .
+11 .
+Deng , G. , and E. R. Podack .
+1993 .
+Suppression of apoptosis in a cytotoxic T-cell line by interleukin 2-mediated gene transcription and deregulated expression of the protooncogene bel-2 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:2189-2193 .
+12 .
+Dixon , E. P. , D. T. Stephenson , J .
+A. Clemens , and S. P. Little .
+1997 .
+Bcl-X. , , , . , , is elevated following severe global ischemia in rat brains .
+Brain Res .
+776:222-229 .
+13 .
+Felber , B. K. , H. Paskalis , C. Kleinman-Ewing , F. Wong-Staal , and G. N. Pavlakis .
+1985 .
+The pX protein of HTLV-I is a transcriptional activator of its long terminal repeats .
+Science 229:675-679 .
+14 .
+Fujii , M. , T. Niki , T. Mori , T. Matsuda , M. Matsui , N. Nomura , and M. Seiki .
+1991 .
+HTLV-1 Tax induces expression of various immediate carly serum responsive genes .
+Oncogene 6:1023-1029 .
+15 .
+Fujisawa , J. , M. Seiki , T. Kiyokawa , and M. Yoshida .
+1985 .
+Functional activation of the long terminal repeat of human T-cell leukemia virus type I by a trans-acting factor .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 82:2277-2281 .
+16 .
+Fujisawa , J. , M. Toita , T. Yoshimura , and M. Yoshida .
+1991 .
+The indirect association of human T-cell leukemia virus tax protein with DNA results in transcriptional activation .
+J. Virol .
+65:4525-4528 .
+17 .
+Geleziunas , R. , S. Ferrell , X. Lin , Y. Mu , E. T. Cunningham , Jr. , M. Grant , M. A. Connelly , J. E. Hambor , K. B. Marcu , and W. C. Greene .
+1998 .
+Human T-cell leukemia virus type 1 Tax induction of NF-B involves activation of the IxB kinase alpha ( IKKa ) and IKKB cellular kinases .
+Mol .
+Cell .
+Biol .
+18:5157-65 .
+18 .
+Gillis , S. , and K. A. Smith .
+1977 .
+Long term culture of tumour-specific cytotoxic T cells .
+Nature 268:154-156 .
+( Letter . )
+19 .
+Grillot , D. A. , M. Gonzalez-Garcia , D. Ekhterae , L. Duan , N. Inohara , S. Ohta , M. F. Seldin , and G. Nunez .
+1997 .
+Genomic organization , promoter region analysis , and chromosome localization of the mouse bel-x gene .
+J. Immunol .
+158:4750-4757 .
+20 .
+Grossman , W. J. , J. T. Kimata , F. H. Wong , M. Zutter , T. J. Ley , and L. Ratner .
+1995 .
+Development of leukemia in mice transgenic for the tax gene of human T-cell leukemia virus type I. Proc .
+Natl .
+Acad .
+Sci .
+USA 92:1057-1061 .
+21 .
+Gunning , P. , J. Leavitt , G. Muscat , S. Y. Ng , and L. Kedes .
+1987 .
+A human B-actin expression vector system directs high-level accumulation of antisense transcripts .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 84:4831-4835 .
+22 .
+Hinuma , Y. , K. Nagata , M. Hanaoka , M. Nakai , T. Matsumoto , K. I. Ki-noshita , S. Shirakawa , and I. Miyoshi .
+1981 .
+Adult T-cell leukemia : antigen in an ATL cell line and detection of antibodies to the antigen in human sera .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 78:6476-6480 .
+23 .
+Iwanaga , Y. , T. Tsukahara , T. Ohashi , Y. Tanaka , M. Arai , M. Nakamura , K. Ohtani , Y. Koya , M. Kannagi , N. Yamamoto , and M. Fujii .
+1999 .
+Human T-cell leukemia virus type 1 Tax protein abrogates interleukin-2 dependence in a mouse T-cell line .
+J. Virol .
+73:1271-1277. voL .
+73 , 1999 24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+Kiefer , M. C. , M. J. Braver , V. C. Powers , J. J. Wu , S. R. Umansky , L. D. Tomei , and P. J. Barr .
+1995 .
+Modulation of apoptosis by the widely distributed Bcl-2 homologue Bak .
+Nature 374:736-739 .
+Kishi , S. , S. Saijyo , M. Arai , S. Karasawa , S. Ueda , M. Kannagi , Y. Iwakura , M. Fujii , and S. Yonehara .
+1997 .
+Resistance to fas-mediated apoptosis of peripheral T cells in human T lymphocyte virus type I ( HTLV-1 ) transgenic mice with autoimmune arthropathy .
+J. Exp .
+Med .
+186:57-64 .
+Matsumoto , K. , K. Akashi , H. Shibata , M. Yutsudo , and A. Hakura .
+1994 .
+Single amino acid substitution ( 58Pro-Ser ) in HTLV-1 tax results in loss of ras cooperative focus formation in rat embryo fibroblasts .
+Virology 200:813-815 .
+Matsumoto , K. , H. Shibata , J. I Fujisawa , H. Inoue , A. Hakura , T. Tsukahara , and M. Fujii 1997 .
+Human T-cell leukemia virus type 1 Tax protein transforms rat fibroblasts via two distinct pathways .
+J. Virol .
+71:4445-4451 .
+Miyazaki , T. , Z. J. Liu , and T. Taniguchi .
+1996 .
+Selective cooperation of HTLV-1-encoded p40'** with cellular oncoproteins in the induction of hematopoietic cell proliferation .
+Oncogene 12:2403-2408 .
+Nerenberg , M. , S. H. Hinrichs , R. K. Reynolds , G. Khoury , and G. Jay .
+1987 .
+The tat gene of human T-lymphotropic virus type 1 induces mesenchymal tumors in transgenic mice .
+Science 237:1324-1329 .
+Neuvent , C. , K. G. Low , F. Maldarelli , I. Schmitt , F. Majone , R. Gr and K. T. Jeang .
+1998 .
+Human T-cell leukemia virus type 1 Tax and cell cycle progression : role of cyclin D-cdk and p110Rb .
+Mol .
+Cell .
+Biol .
+18:3620-3632 .
+Nicot , C , , T. Astier-Gin , and B. Guillemain .
+1997 .
+Activation of Bcl-2 expression in human endothelial cells chronically expressing the human T-cell lymphotropic virus type I. Virology 236:47-53 .
+Noel , P. J. , L. H. Boise , J. M. Green , and C. B. Thompson .
+1996 .
+CD28 costimulation prevents cell death during primary T cell activation .
+J. Immunol .
+157:636-642 .
+Petropoulos , C. J. , I. Givol , and S. H. Hughes .
+1996 .
+Comparative analysis of the structure and function of the chicken c-myc and v-myc genes : v-myc is a more potent inducer of cell proliferation and apoptosis than c-myc .
+Oncogene 12:2611-2621 .
+Poiesz , B. J. , F. W. Ruscetti , A. F. Gazdar , P. A. Bunn , J. D. Minna , and R. C. Gallo .
+1980 .
+Detection and isolation of type C retrovirus particles from fresh and cultured lymphocytes of a patient with cutaneous T-cell lymphoma .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 77:7415-7419 .
+Reed , J. C. , H. Zha , C. Aime-Sempe , S. Takayama , and H. G. Wang .
+1996 .
+Structure-function analysis of Bel-2 family proteins .
+Regulators of programmed cell death .
+Adv .
+Exp .
+Med .
+Biol .
+406:99-112 .
+Rosenblatt , J. D. , S. Miles , J. C. Gasson , and D. Prager .
+1995 .
+Transactivation of cellular genes by human retroviruses .
+Curr .
+Top .
+Microbiol .
+Immunol .
+193:25-49 .
+Rosenthal , N. 1987 .
+Identification of regulatory elements of cloned genes with functional assays .
+Methods Enzymol .
+152:704-720 .
+Schneider , U. , H. U. Schwenk , and G. Borakamm .
+1977 .
+Characterization of EBV-genome negative `` null '' and `` T '' cell lines derived from children with acute lymphoblastic leukemia and leukemic transformed non-Hodgkin lymphoma .
+Int .
+J .
+Cancer 19:521-526 .
+Seiki , M. , J. Inoue , T. Takeda , A. Hikikoshi , M. Sato , and M. Yoshida .
+1985 .
+The p40x of human T-cell leukemia virus type I is a trans-acting activator of viral gene transcription .
+Jpn .
+J .
+Cancer Res .
+76:1127-1131 .
+Smith , M. R. , and W. C. Greene .
+1990 .
+Identification of HTLV-1 tax trans-activator mutants exhibiting novel transcriptional phenotypes .
+Genes Dev .
+4:1875-1885 .
+( Errata , 5:150 , 1991 ; 9:2324 , 1995 . )
+Sodroski , J. G. , C. A. Rosen , and W. A. Haseltine .
+1984 .
+Trans-acting tran INDUCTION OF Bcl-x , BY HTLV-1 Tax THROUGH NF- « B 42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+55 .
+56 .
+7987 scriptional activation of the long terminal repeat of human T lymphotropic viruses in infected cells .
+Science 225:381-385 .
+Sun , S. C. , J. Elwood , C. Beraud , and W. C. Greene .
+1994 .
+Human T-cell leukemia virus type I Tax activation of NF-k B/Rel involves phosphorylation and degradation of Ix Bo and RelA ( p65 ) -mediated induction of the c-re/ gene .
+Mol .
+Cell .
+Biol .
+14:7377-7384 .
+Suzuki , T. , J. L Fujisawa , M. Toita , and M. Yoshida .
+1993 .
+The trans-activator tax of human T-cell leukemia virus type 1 ( HTLV-1 ) interacts with cAMP-responsive element ( CRE ) binding and CRE modulator proteins that bind to the 21-base-pair enhancer of HTLV-1 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:610-614 .
+Suzuki , T. , H. Hirai , J. Fujisawa , T. Fujita , and M. Yoshida .
+1993 .
+A trans-activator Tax of human T-cell leukemia virus type 1 binds to NF- « B p50 and serum response factor ( SRF ) and associates with enhancer DNAs of the NF- « B site and CArG box .
+Oncogene 8:2391-2397 .
+Suzuki , T. , S. Kitao , H. Matsushime , and M. Yoshida .
+1996 .
+HTLV-1 Tax protein interacts with cyclin-dependent kinase inhibitor p16 '' ~*** and counteracts its inhibitory activity towards CDK4 .
+EMBO J .
+15:1607-1614 .
+Tanaka , A. , C. Takahashi , S. Yamaoka , T. Nosaka , M. Maki , and M. Ha-tanaka .
+1990 .
+Oncogenic transformation by the tax gene of human T-cell leukemia virus type I in vitro .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 87:1071-1075 .
+Uhlik , M. , L. Good , G. Xiao , E. W. Harbaj , E. Zandi , M. Karin , and S. C. Sun .
+1998 .
+NF- « B-inducing kinase and IxB kinase participate in human T-cell leukemia virus I Tax-mediated NF- « B activation .
+J. Biol .
+Chem .
+273 : 21132-21136 .
+Van Antwerp , D. J. , S. J. Martin , T. Kafri , D. R. Green , and I. M. Verma .
+1996 .
+Suppression of TNF- « -induced apoptosis by NF- « B .
+Science 274:787-789 .
+Wang , C. Y. , M. W. Mayo , and A. S. Baldwin , Jr. 1996 .
+TNF- and cancer therapy-induced apoptosis : potentiation by inhibition of NF- « B .
+Science 274:784-787 .
+Wang , C. Y. , M. W. Mayo , R. G. Korneluk , D. V. Goeddel , and A. S. Baldwin , Jr. 1998 .
+NF- « B antiapoptosis : induction of TRAF1 and TRAF2 and c-IAP1 and c-IAP2 to suppress caspase-8 activation .
+Science 281:1680-1683 .
+Wu , M. , H. Lee , R. E. Bellas , S. L. Schauer , M. Arsura , D. Katz , M. J. FitzGerald , T. L. Rothstein , D. H. Sherr , and G. E. Sonenshein .
+1996 .
+Inhibition of NF-xB/Rel induces apoptosis of murine B cells .
+EMBO J .
+15:4682-4690 .
+Wu , M. X. , Z. Ao , K. V. Prasad , R. Wu , and S. F. Schlossman .
+1998 .
+IEX-1L , an apoptosis inhibitor involved in NF- « B-mediated cell survival .
+Science 281:998-1001 .
+Yamada , T. , S. Yamaoka , T. Goto , M. Nakai , Y. Tsujimoto , and M. Ha-tanaka .
+1994 .
+The human T-cell leukemia virus type I Tax protein induces apoptosis which is blocked by the Bel-2 protein .
+J. Virol .
+68:3374-3379. .
+Yin , M. J. , L. B. Christerson , Y. Yamamoto , Y. T. Kwak , S. Xu , F. Mercurio , M. Barbosa , M. H. Cobb , and R. B. Gaynor .
+1998 .
+HTLV-I Tax protein binds to MEKK1 to stimulate IxB kinase activity and NF-kB activation .
+Cell 93:875-884 .
+Yoshida , M. , T. Suzuki , J. Fujisawa , and H. Hirai .
+1995 .
+HTLV-1 oncoprotein tax and cellular transcription factors .
+Curr .
+Top .
+Microbiol .
+Immunol .
+193:79-89 .
+Zhao , L. J. , and C. Z. Giam .
+1992 .
+Human T-cell lymphotropic virus type I ( HTLV-I ) transcriptional activator , Tax , enhances CREB binding to HTLV-I 21-base-pair repeats by protein-protein interaction .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 89:7070-7074 .

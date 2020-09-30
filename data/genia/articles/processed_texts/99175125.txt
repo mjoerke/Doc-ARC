@@ -1,0 +1,310 @@
+Communication Bacterial Lipopolysaccharide Activates Nuclear Factor-KB through Interleukin-1 Signaling Mediators in Cultured Human Dermal Endothelial Cells and Mononuclear Phagocytes* ( Received for publication , January 21 , 1999 ) Frank X .
+Zhang ?
+, Carsten J. Kirschning§ , Roberta Mancinelli1 , Xiao-Ping Xu| , Yiping Jing , Emmanuelle Faure } , Alberto Mantovani1 , Mike Rothe§ , Marta Muzio , and Moshe Arditi } # ** From the { Division of Pediatric Infectious Diseases , Ahmanson Department of Pediatrics , Steven Spielberg Pediatric Research Center and the |\Division of Cardiology and the Burns and Allen Research Institute , Cedars-Sinai Medical Center and UCLA School of Medicine , Los Angeles , California 90048 , §Tularik Inc. , South San Francisco , California 98080 , and the Department of Immunology and Cell Biology , Mario Negri Institute , 1-20157 Milan , Italy Bacterial lipopolysaccharide ( LPS ) -mediated immune responses , including activation of monocytes , macrophages , and endothelial cells , play an important role in the pathogenesis of Gram-negative bacteria-induced sepsis syndrome .
+Activation of NF-KB is thought to be required for cytokine release from LPS-responsive cells , a critical step for endotoxic effects .
+Here we investigated the role and involvement of interleukin-1 ( IL-1 ) and tumor necrosis factor ( TNF-a ) signal transducer molecules in LPS signaling in human dermal microvessel endothelial cells ( HDMEC ) and THP-1 monocytic cells .
+LPS stimulation of HDMEC and THP -1 cells initiated an IL-1 receptor-like NF-KB signaling cascade .
+In transient cotransfection experiments , dominant negative mutants of the IL-1 signaling pathway , including MyD88 , IRAK , IRAK2 , and TRAF6 inhibited both IL-1-and LPS-induced NF- « B-luciferase activity .
+LPS-induced NF-KB activation was not inhibited by a dominant negative mutant of TRAF2 that is involved in TNF sig-naling .
+LPS-induced activation of NF- « B-responsive reporter gene was not inhibited by IL-1 receptor antago-nist .
+TLR2 and TLR4 were expressed on the cell surface of HDMEC and THP cells .
+These findings suggest that a signal transduction molecule in the LPS receptor complex may belong to the IL-1 receptor/toll-like receptor ( TLR ) super family , and the LPS signaling cascade uses an analogous molecular framework for signaling as IL-1 in mononuclear phagocytes and endothelial cells .
+* This work was supported by National Institutes of Health Grant Al40275 ( to M .
+A . )
+, by funds from MURST and AIRC , and European Community Grants BIO4CT972107 and BMH4CT983277 ( to M. M ) .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 U.S.C .
+Section 1734 solely to indicate this fact .
+** To whom correspondence should be addressed : Dept .
+of Pediatrics , Cedars-Sinai Medical Center , 8700 Beverly Blvd .
+, Rm .
+4310 , Los Angeles , CA 90048 .
+Tel .
+: 310-855-4471 ; Fax : 310-652-0681 ; E-mail : moshe.arditi @ eshs.org .
+THE JOURNAL oF BIOLOGICAL CHEMISTRY Vol .
+274 , No .
+12 , Issue of March 19 , pp .
+7611-7614 , 1999 © 1999 by The American Society for Biochemistry and Molecular Biology , Inc .
+Printed in U.S.A. Lipopolysaccharide ( LPS ) , or endotoxin , is the major component of the outer surface of Gram-negative bacteria .
+LPS is a potent activator of cells of the immune and inflammatory systems , including macrophages , monocytes , and endothelial cells , and contributes to systemic changes known as septic shock ( 1 , 2 ) .
+LPS-induced activation of monocytes/macrophages is mediated through a cell surface receptor glycoprotein , known as membrane CD14 ( mCD14 ) .
+The binding of LPS to mCD14 is enhanced by LPS-binding protein , a plasma protein ( 3 ) .
+On the other hand , vascular endothelial cells do not express mCD14 and respond to LPS only in the presence of soluble CD14 ( 4-6 ) .
+We ( 7 ) and others ( 8-12 ) have shown that protein tyrosine phosphorylation and activation of ERK1 , ERK2 , p38 mitogen-activated protein kinase , and c-Jun N-terminal kinase appear to be important for LPS-induced cellular activation .
+LPS rapidly induces nuclear factor- « kB ( NF-kB ) in both monocytic ( 13 , 14 ) and endothelial cells ( 15 ) .
+Activation of NF-KB is required for release of proinflammatory cytokines , including interleukin-1 ( IL-1 ) , interleukin-6 ( IL-6 ) , and tumor necrosis factor ( TNF ) ( 16 , 17 ) .
+However , the molecular mechanisms of the signaling cascade induced by LPS to activate NF-kB are un-known .
+Furthermore , the signaling LPS receptor is still unidentified .
+The toll gene controls dorsoventral pattern formation during the early embryonic development of Drosophila melanogaster ( 18 ) .
+Toll initiates a signaling pathway homologous to the mammalian NF- « B activation cascade ( 18 ) .
+The toll family of receptors is defined by homology to the Drosophila toll protein ( 19 , 20 ) .
+The mammalian IL-1 receptor is a member of the toll family ( 18 ) .
+Five other mammalian family members ( toll-like receptors 1 through 5 , TLR1-5 ) have been identified , but their function is uncertain .
+Several TLRs , similar to IL-1R , have been observed to signal through the NF-kB pathway ( 19-22 ) .
+LPS signaling also leads to activation of NF-kB , and recent studies suggested that a toll-like receptor ( TLR ) might be a signaling receptor that is activated by LPS ( 22 , 23 ) .
+In these reports , expression of TLR2 in LPS-unresponsive human embryonic kidney cells ( 293 cells ) enabled these cells to respond to LPS stimulation ( 22 , 23 ) .
+These investigators observed that LPS binds to a TLR2 extracellular domain and suggested that TLR2 is a candidate for a long sought LPS receptor , although the data were generated from a transfected and normally LPS-unresponsive cell line ( 22 , 23 ) .
+A recent study in the LPS-resistant C3H-HeJ mice has implicated another toll homologue ( TLR4 ) as a signal-transducing component in the LPS receptor complex ( 24 ) .
+It is known that the IL-1 signaling pathway in mammals is strikingly similar to the toll signaling pathway in Drosophila ( 19-22 ) .
+The molecular events linking the IL-1 receptor ( IL-1R ) signaling complex to the induction of NF-kB have been recently characterized .
+Upon binding of IL-1 to its receptors ( IL-1R ) , IL-1R associates with the IL-1 receptor accessory protein ( IL-1RAcP ) ( 26 , 27 ) .
+The complex then recruits and activates an * The abbreviations used are : LPS , lipopolysaccharide ; HDMEC , human dermal microvessel endothelial cells ; IL-1 , interleukin-1 ; IL-1R , IL-1 receptor ; IL-1RacP , IL-1R accessory protein ; IL-6 , interleukin-6 ; IRAK , IL-1 receptor-associated kinase ; MyD88 , myeloid differentiation protein ; NF- « B , nuclear factor-kB ; NIK , NF-B-inducing kinase ; RT-PCR , reverse transcription-polymerase chain reaction ; TLR , toll-like receptor ; TNF , tumor necrosis factor ; TRAF , tumor necrosis factor receptor-associated factor ; PAGE , polyacrylamide gel electrophoresis .
+This paper is available on line at http : //www.jbc.org 7611 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( A B Fold induction & Fold induction 0 U 2 4 6 0 1 10 100 _ 1008 Time ( hr ) LPS ( agin ! )
+is S .. , 100 crocs S = 50 s & o S & Relative luciferase activit Relative luciferase activity & 0 1 2 3 Vector AIRAK - a TRAF6 a TRAFZ A MyDS ( ug ) Fic .
+1 .
+Dominant negative versions of MyD88 and TRAF6G but not TRAF2 inhibited LPS-induced NF-KB activity in human THP-1 cells .
+Human THP-1 cells were transiently transfected with NF- « B-luciferase and B-galactosidase reporter vectors and dominant negative mutants of MyD88 , TRAF6 , and TRAF2 for 24 h. The total amount of DNA was kept constant with peDNA3 vector .
+The cells were then stimulated with LPS ( 100 ng/m ! )
+for different periods of time ( A ) or increasing amounts of LPS for 6 h ( B ) .
+Some cells were transfected with different amounts of MyD88 mutants and stimulated with 100 ng/ml LPS for 6 h ( C ) .
+Cells were transfected with TRAF2 and TRAF6 mutants and then stimulated with 100 ng/ml LPS for 6 h ( D ) .
+Luciferase and B-galactosidase assays were performed as described under `` Exper-imental Procedures . ``
+The time and dose response experiments ( A and B ) are one representative of two independent experiments with similar qualitative results .
+C and D were graphed with means and standard deviations of three or more experiments .
+adapter protein myeloid differentiation protein ( MyD88 ) ( 28 , 29 ) .
+MyD88 in turn recruits two distinct putative serine-threo-nine kinases , namely IL-1 receptor-activated kinase ( IRAK ) and IRAK2 , to the receptor complex ( 30 ) .
+IRAK and IRAK2 interact subsequently with the adapter molecule , TNF receptor-associated factor 6 ( TRAF6 ) ( 31 , 32 ) , which links them to the protein kinase NF- « B-inducing kinase ( NIK ) ( 83 ) .
+NIK activates the IkB kinase complex ( IKKa and IKK $ B ) that directly phosphorylates IxB ( 34-36 ) .
+The phosphorylation of initiates ubiquitin-proteasome-mediated degradation and liberates and activates NF-kB ( 16 , 17 ) .
+On the other hand , TNF and its receptor complex activate TRAF2 , but not TRAF6 ( 37 , 38 ) .
+Downstream signaling pathways of IL-1 and TNF distal to TRAF6 and TRAF2 converge ( 16 , 17 ) .
+In this study , we tested the hypothesis that LPS activates NF-kB through IL-1 signaling molecules , namely MyD88 , IRAK , IRAK2 , and TRAF6 in two LPS-responsive cell types .
+Dominant negative mutants of these signaling elements were transfected into human monocytes ( THP-1 cells ) and human dermal endothelial cells together with a NF- « B-responsive reporter gene , and LPS-induced NF-kB luciferase activity was measured .
+Our results indicate that LPS transduces signals of NF- « B activation utilizing the IL-1 signaling molecules in both monocytic and endothelial cells .
+EXPERIMENTAL PROCEDURES Cell Culture-Human THP-1 cells ( from ATCC ) were cultured in RPMI medium with 10 % fetal calf serum .
+The immortalized human dermal endothelial cells ( generous gift of Dr. Candal of the Center for Disease Control , Atlanta ) were cultured in MCDB-131 medium with 10 % heat-inactivated fetal bovine serum , 2 mM glutamine , and 100 ug/ml penicillin and streptomycin in 6-well plates .
+Expression Vectors and Transfection of THP-1 Cells-Dominant negative expression vectors of MyD88 , IRAK , IRAK2 , TRAF2 , TRAF6 , and NIK have been characterized and described before ( 30 , 32 , $ 3 ) .
+Cells were used for transfection with FuGene 6 Transfection Reagent ( Boeh-ringer Mannheim ) following the manufacturer 's instructions in RPMI LPS Activates NF-kB through IL-1 Signaling Molecules aoc o N 0 o Relative luciferase activity - Jp > Io P lel co o o © [ = ] = ] Vector - A NK - a MyDé8 A IRAK A IRAK2 A TRAFS IL-1R - A TRAF 2 antagonist Relative luciferase activity Vector IL-1R ANK -- 4 MyD38 0 wIRAK -- ) TRare antagonist Relative luciferase activity Vector A NK ATRAF 2 A MyD88 A RAK A TRAF Fic .
+2 .
+Dominant negative versions of MyD88 , IRAK , IRAK2 , TRAF6 , and NIK but not TRAF2 inhibited LPS-induced NF-kB activity in HDMEC .
+Human dermal endothelial cells grown on 6-well plates were transfected with dominant negative mutants of MyD88 , IRAK , IRAK2 , TRAF6 , TRAF2 , and NIK as well as reporter genes for 24 h. The amount of total DNA was kept constant with peDNA3 vector .
+The cells were treated with 100 ng/ml LPS ( A ) , 400 units/ml human IL-1 ( B ) , 200 units/ml human TNF-a ( C ) for 6 h. Some cells were also treated with 100 ng/ml IL-1 receptor antagonist for 6 h ( A and B ) .
+NF- « B luciferase activity was obtained with luciferase assay and normalized with -galactosidase activity .
+Data shown are one representative experiment of two experiments with similar qualitative results .
+with 10 % serum .
+Reporter genes pCMV-B-galactosidase ( 0.5 ug ) and ELAM-NF- « B-luciferase ( 2 ug ) and peDNA3 empty vector or dominant negative mutants of MyD88 , IRAK , TRAF6 , TRAF2 , and NIK ( 3 ug each ) were used .
+After a 24-h transfection , cells were stimulated for 6 h with 100 ng/ml LPS .
+Cells were then lysed , and luciferase activity was measured with a Promega kit ( Promega , Madison , WI ) and a luminom-eter .
+B-Galactosidase activity was determined by the calorimetric method to normalize transfection efficiency as described earlier ( 30 ) .
+Data shown are means of two independent experiments .
+Transfection of Human Dermal Endothelial Cells-Transfection was carried out using the same method described above .
+The amount of NF- « B luciferase construct DNA was 1.5 ug , and empty vector and various dominant negative constructs were 2 ug each .
+Cells were transfected for 24 h and stimulated for 6 h with 100 ng/ml LPS , human TNF-a ( 200 units/ml , Genzyme , Cambridge , MA ) , recombinant human IL-1 ( 400 units/ml , Genzyme ) , and recombinant IL-1 receptor antagonist ( 100 ng/ml , R & D Systems , Minneapolis , MN ) in 2 ml of serum-containing MCDB-131 medium .
+Reverse Transcription-Polymerase Chain Reaction ( RT-PCR ) Analy-sis-Total RNA was isolated from HDMEC and THP-1 cells using a Qiagen kit ( Valencia , CA ) and treated with RNase-free DNase I .
+For RT reaction , the SuperScript `` Preamplification system ( Life Technolo-gies , Inc. ) was applied .
+PCR amplification was performed with Tag polymerase ( Qiagen , Valencia , CA ) for 28 cycles at 95 °C for 40 s , 54 °C for 40 s , and 72°C for 1 min .
+PCR primers for TLR2 were 55-GC-CAAAGTCTTGATTGATTGG and 5'-TTGAAGTTCTCCAGCTCCTG .
+PCR primers for TLR4 were 5-TGGATACGTTTCCTTATAAG and 5'-GAAATGGAGGCACCCCTTC .
+GAPDH primers were obtained from CLONTECH .
+Immunostaining and Immunoblotting-Smeared THP-1 cell and cultured HDMEC on slides were fixed with acetone for 5 min and then stained with rabbit anti-TLR2 and TLR-4 antibody ( 1:100 ) and rabbit 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( LPS Activates NF-kB through IL-1 Signaling Molecules 7613 RT 3 o es 4 - dermal EC - dermal EC - THP-1 - THP fo ¥ I .
+& ~ > R - sos » GAPDH im -- -1018 bp 1 2 B8 4 Fic .
+3 .
+Expression of TLR2 and TLR4 in HDMEC and THP-1 cells .
+Expression of TLR2 mRNA ( upper panel , 347 base pairs ) and TLR4 mRNA ( middle panel , 548 base pairs ) in HDMEC ( lanes 1 and 3 ) and THP-1 cells ( lanes 2 and 4 ) was analyzed by PCR following reverse transcription ( RT ; lanes 1 and 2 ) or without RT ( Zanes 3 and 4 ) .
+RT-PCR analysis of GAPDH expression was used as control ( lower panel , 983 base pairs ) .
+Labels of base pairs at the right are DNA standard markers .
+IgG following the instructions on a DACO immunostaining kit .
+The anti-TLR2 and anti-TLR4 antisera were raised against synthetic pep-tides ( extracellular domains of TLR2 and TLR4 ) by BABCO ( Richmond , CA ) .
+The sequence of the synthetic peptide for TLR2 was a 27-amino acid peptide , starting at amino acid residue 277 of the mature hTLR2 ( FRASDNDRVIDPGKVETLTIRRLHIPR ) , whereas the peptide for TLRA4 was a 23-amino acid peptide , starting at amino acid 201 of mature hTLR4 ( FKEIRHKLTLRNNFDLSLNVMKT ) .
+Following immunoper-oxidase staining , the representative fields were photographed .
+THP-1 and HDMEC cells were lysed in Laemmli buffer and separated with a 10 % SDS-PAGE gel .
+The protein was then transferred onto a polyvinylidene difluoride membrane , and then the membrane was probed with anti-TLR2 , anti-TLR4 antibodies , and prebleeds corresponding to each antibody ( 1:2,000 ) .
+After incubation with horseradish peroxidase-conjugated goat anti-rabbit antibody , the membrane was developed with an enhanced chemiluminescence ECL detection kit .
+RESULTS AND DISCUSSION A series of defense mechanisms are triggered in vertebrates and invertebrates in response to Gram-negative bacterial infections by sensing the presence of LPS ( 1-3 ) .
+LPS-induced signal relay is thought to be initiated following its binding to specific cellular receptors which then triggers intracellular signaling pathways leading to the activation of NF-kB ( 4-12 ) in various LPS-responsive cell types .
+To date , the identification of a functional , signal-transducing component of the putative LPS receptor complex and the signaling pathways involved in LPS-induced activation of NF-kB have remained elusive .
+Recent findings suggested that LPS might use signaling molecules of the TLR and IL-1R superfamilies to transduce signals ( 23 , 24 ) .
+To investigate the potential involvement of IL-1 and TNF signal transducers in LPS signaling in two LPS-responsive cell types , HDMEC and THP-1 cells , we cotransfected dominant negative constructs of various components of the NF- « B signaling cascades for IL-1 and TNF together with NF- « B-luciferase reporter gene .
+LPS induced the activation of NF-kB in a time- ( Fig .
+1A ) and dose-dependent ( Fig .
+1B ) manner in THP-1 cells .
+Activation of NF-kB reached a maximum at a LPS concentration of 100 ng/ml and when cells were stimulated with LPS for 6 h ( Fig .
+1 , A and B ) .
+Similar results were also obtained from endothelial cells .
+A mutant version of MyD88 ( AMyD88 ) , encoding only for the COOH-terminal toll-IL-1R-like domain , which abrogates IL-1R-induced NF-kB activation ( 30 ) , inhibited both LPS- and IL-1-mediated NF- « B activation ( Figs .
+1C and 2 , A and B ) but not TNF-induced NF-kB activation ( Fig .
+2C ) .
+IRAK and IRAK-2 are two additional proximal mediators of the IL-1R A THP-I HDMEC ® C3 ¥ & `` `` R j ¢ Ctrl 8 j a 7 6 j r x mo % 3 `` B ﬁ-ﬁg * % & @ l ar TLR2 A TLR4 _ `` `` ~oq \ % Antiserum Prebleeds - HDMEC EHP-T HDVEC Fig .
+4 .
+Immunostaining and immunoblotting .
+In pare !
+A , THP-1 cells ( a , c , and e ) and HDMEC cells ( b , d , and f ) were immunostained with rabbit IgG ( a and 6 ) , anti-TLR2 ( c and d ) , and anti-TLR4 ( e and f ) ( 1:100 ) .
+In panel B , THP-1 and HDMEC cell lysates were resolved with SDS-PAGE and probed with anti-TLR2 , anti-TLR4 antibodies , and corresponding prebleeds .
+Molecular mass markers are indicated at the right .
+The apparent molecular masses for TLR2 and TLR4 were 85 kDa and 92 kDa , respectively .
+< - 9 % 4 kDa 4-974 kDa signaling complex ( 30 ) .
+Dominant negative constructs of IRAK ( AIRAK ) and IRAK2 ( AIRAK2 ) inhibited both LPS- ( Figs .
+1D and 24 ) and IL-1R-mediated NF-kB activation ( Fig .
+2B ) , but not TNF-induced NF-kB activation ( Fig .
+2C ) .
+NF-kB activation induced by various cytokine receptors is mediated by members of the TRAF adapter family .
+While TRAF2 plays a crucial role in NF-KB activation by TNFR-1 and TNFR-2 ( 37 , 38 ) , TRAF6 has been implicated in IL-1 signaling ( 31 , 32 ) .
+Therefore , we next determined whether dominant negative versions of TRAF6 ( ATRAF6 ) or TRAF2 ( ATRAF2 ) could act to inhibit LPS-induced NF-KB activity .
+ATRAF-6 but not ATRAF2 significantly impaired LPS-induced NF- « B activation , suggesting that TRAF6 may act as an additional downstream mediator of LPS-induced NF-kB activation cascade ( Figs .
+1D and 24 ) .
+ATRAF2 blocked TNF-induced NF-KB activation in endothelial cells ( Fig .
+2C ) , but not LPS-induced NF- « B activation ( Figs .
+1D and 24 ) .
+Because the pathways for IL-1 and TNF-a signaling converge at the level of NIK for NF- « B activation , we next investigated whether dominant negative NIK mutant ( ANIK ) would block LPS-induced , as well as IL-1- and TNF-induced , NF- « B activation .
+As expected , ANIK blocked NF-kB activation induced by LPS , IL-1 , and TNF- @ ( Fig .
+2 ) .
+IL-1 receptor antagonist had no effect on LPS-induced NF- « B activation ( Fig .
+24 ) but inhibited IL-l-induced NF- « B activation in endothelial cells ( Fig .
+2B ) .
+This observation suggests that NF-KB activation that we measured following 6 h of 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( 7614 TNF IL-1 LPS HTNFR HIL-1R HTLR or LPS receptor ?
+TRADD MyDss RIP IRAK TRAF2 /IRAK2 TRAFE NIK IKKo : .
+IB I NF- « B activation Fic .
+5 .
+Schematic diagram of signaling cascades for LPS , IL-1 , and TNF .
+The diagram illustrates that LPS utilizes IL-1 signaling molecules ( MyD88 , IRAK , IRAK2 , and TRAF6 ) but not TNF signaling molecules ( TRAF2 ) .
+LPS stimulation of cells is not due to an autocrine effect such as LPS-induced IL-1 release from endothelial cells .
+These data suggest that LPS stimulation of endothelial cells and THP-1 cells triggers an IL-1R-like signal relay leading to activation of NF- « B ( Fig .
+5 ) .
+Further support for this concept is provided by the observation of a 15-year-old girl with recurrent infections who was found to be resistant to both LPS and IL-1 stimulation in vivo and in vitro ( 39 ) .
+The authors suggested that resistance to LPS and IL-1 was due to a defect very early in the common signaling pathway for LPS and IL-1 ( 39 ) .
+The experiments with IL-1R antagonist also suggest that LPS does not use IL-1 receptor to transduce signals in endothelial cells .
+Although recent findings imply that TLR2 or other members of the TLR family , which use the IL-1R signaling pathway , might be an important mediator for LPS signaling ( 23 , 24 ) , further studies are needed to identify naturally existing LPS receptors in LPS-responsive cells .
+Beutler and coworkers ( 25 ) recently reported that TLR4 is the protein encoded by the LPS gene , which is mutated in the LPS-non-responsive C3H-HeJ mice .
+To investigate the expression of the TLR2 and TLR4 message in HDMEC and THP-1 cells , we used RT-PCR .
+Human THP-1 and HDMEC were found to express significant levels of both TLR2 and TLR4 mRNA ( Fig .
+3 ) .
+Expression levels of TLR2 appeared to be stronger in THP-1 whereas the expression level of TLR4 appeared to be stronger in HDMEC .
+Expression of TLR2 and TLR4 was confirmed with Northern analysis in THP-1 cells .
+Immunohistochemistry and immunoblotting data demonstrate that TLR2 and TLR4 proteins are expressed on THP-1 cells and HDMEC ( Fig .
+4 ) .
+Staining was absent in THP-1 and HDMEC incubated without the first antibody or incubated with rabbit IgG .
+These results suggest that TLR2 and TLR4 are expressed in endothelial and monocytic cells and may represent a signaling component of a cellular receptor for LPS which signals through an IL-l-like pathway ( Fig .
+5 ) .
+In summary , we have demonstrated in endothelial and THP-1 cells that LPS-induced NF-KB activation is mediated by IL-1R signaling molecules , namely MyD88 , IRAK , IRAK2 , and TRAF6 , but not the TNF signaling molecule , TRAF2 .
+We have also shown that TLR2 and TLR4 are expressed on the cell surface of two LPS-responsive cell types , endothelial cells and THP-1 cells .
+These data strongly suggest that a crucial signaling component in the LPS receptor complex may belong to the LPS Activates NF-kB through IL-1 Signaling Molecules IL-1 receptor/TLR superfamily , and the LPS signaling cascade uses an analogous molecular framework for signaling as IL-1 .
+MyD88 appears to represent the most upstream mediator of the LPS-mediated signaling cascade , which ultimately activates NF-kB , thus driving transcriptional activation of several cytokines .
+Thus , MyD88 may represent a potentially useful therapeutic target to control the molecular switch from innate to the adaptive immune response .
+REFERENCES .
+Wenzel , R. P. , Pinsky , M. R. , Ulevitch , R. J. , and Young , L. ( 1995 ) Clin .
+Infect .
+Dis .
+22 , 407-413 2 .
+Rietschel , E. T. , Brade , H. , Holst , O. , Brade , L. , Muller-Loennies , S. , Mamat , U. , Z & hringer , U. , Beckmann , F. , Seydel , U. , Brandenburg , K. , Ulmer , A. J. , Mattern , T. , Heine , H. , Schletter , J. , Loppnow , H. , Schinbeck , U. , Flad , H.-D. , Hauschidt , S. , Schade , U. F. , Di Padova , F. , Kusumoto , S. , and Schumann , R. R. ( 1996 ) Curr .
+Top .
+Microbiol .
+Immunol .
+216 , 40-81 .
+Ulevitch , R. J. , and Tobias , P. S. ( 1994 ) Curr .
+Opin .
+Immunol .
+6 , 125-130 .
+Arditi , M. , Zhou , J. , Dorio , R. , Rong , G. W. , Goyert , S. M. , and Kim , K. S. ( 1993 ) Infect .
+Immun .
+61 , 3149-3156 5 .
+Frey , E. A. , Miller , D. S. , Gullstein Jahr , T. , Sundan , A. , Bazil , V. , Espevik , T. , Finlay , B .
+B. , and Wright , S. D. ( 1992 ) J. Exp .
+Med .
+176 , 1665-1670 6 .
+Pugin , J. , Schurer-Maly , C.-C. , Letureq , D. , Moriarty , A. , Ulevitch , R. J. , and Tobias , P. S. ( 1993 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+90 , 2744-2751 7 .
+Arditi , M. , Zhou , J. , Torres , M. , Durden , D. L. , Stins , M. , and Kim , K. S. ( 1995 ) J. Immunol .
+155 , 3994-4003 8 .
+Weinstein , S. L. , Gold , M. R. , and DeFranco , A. L. ( 1991 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+88 , 4148-4152 9 .
+Weinstein , S. L. , Sanghera , J. S. , Lemke , K. , DeFranco , A. L. , and Pelech , S. L. ( 1992 ) J. Biol .
+Chem .
+267 , 14955-14962 10 .
+Reimann , T. , Biischer , D. , Hipskind , R. A. , Krautwald , S. , Lohmann-Matthes , M.-L. , and Baccarini , M. ( 1994 ) J. Immunol .
+153 , 5740-5749 11 .
+Han , J. , Lee , J.-D. , Bibbs , L. , and Ulevitch , R. J .
+( 1994 ) Science 265 , 808-811 12 .
+Schumann , R. R. , Pfeil , D. , Lamping , N. , Kirschning , C. , Scherzinger , G. , Schlag , P. , Karawajew , L. , and Herrmann , F. ( 1996 ) Blood 87 , 2805-2814 13 .
+Haeffner , A. , Thieblemont , N. , Deas , O. , Marelli , O. , Charpentier , B. , Senik , A. , Wright , S. D. , Haeffner-Cavaillon , N. , and Hirsch , F. ( 1997 ) J. Immunol .
+158 , 1310-1314 14 .
+Cordle , S. R. , Donald , R. , Read , M. A. , and Hawiger , J .
+( 1993 ) J. Biol .
+Chem .
+268 , 11803-11810 15 .
+Read , M. A. , Cordle , S. R. , Veach , R. A. , Carlisle , C. D. , and Hawiger , J .
+( 1993 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+90 , 9887-9891 16 .
+Baeuerle , P. A. , and Baltimore , D. ( 1996 ) Cell 87 , 13-20 17 .
+Baeuerle , P. A .
+( 1998 ) Curr .
+Biol .
+8 , R19-R22 18 .
+Belvin , M. P. , and Anderson , K. V. ( 1996 ) Annu .
+Rev .
+Cell .
+Dev .
+Biol .
+12 , 393-416 19 .
+Chaudhary , P. M. , Ferguson , C. , and Nguyen , V. ( 1998 ) Blood 91 , 4020-4027 20 .
+Heguy , A. , Baldari , C. T. , Macchia , G. , Telford , J. L. , and Melli , M. ( 1992 ) J. Biol .
+Chem .
+267 , 2605-2609 21 .
+Rock , F. L. , Hardiman , G. , Timans , J. C. , Kastelein , R. A. , and Bazan , J. F. ( 1998 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+95 , 588-593 22 .
+Medzhitov , R. , Preston-Hurlburt , P. , and Janeway , C. A. Jr. ( 1997 ) Nature 888 , 394-397 23 .
+Yang , R.-B .
+, Mark , M. R. , Gray , A. , Huang , A. , Xie , M. H. , Zhang , M. , Goddard , A. , Wood , W. I. , Gurney , A. L. , and Godowski , P. J .
+( 1998 ) Nature 895 , 284-288 24 .
+Kirschning , C. J. , Wesche , H. , Ayres , T. M. , Rothe , M. ( 1998 ) J. Exp .
+Med .
+188 , 2091-2097 25 .
+Poltorak , A. , He , X. , Smirnova , I. , Liu , M.-Y .
+, Van Huffel , C. , Du , X. , Birdwell , D. , Alejos , E. , Silva , M. , Galanos , C. , Freudenberg , M. , Ricciardi-Castagnoli , P. , Layton , B. , and Beutler , B .
+( 1998 ) Science 282 , 2085-2088 26 .
+Huang , J. , Gao , X. , Li , S. , and Cao , Z .
+( 1997 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+94 , 12829-12832 27 .
+Croston , G. E. , Cao , Z. , and Goeddel , D. V. ( 1995 ) J. Biol .
+Chem .
+270 , 16514-16517 28 .
+Wesche , H. , Henzel , W. J. , Shillinglaw , W. , Li , W. , and Cao , Z .
+( 1997 ) Immunity 7 , 837-847 29 .
+Burns , K. , Martinon , F. , Esslinger , C. , Pahl , H. , Schneider , P. , Bodmer , J.-L. , Di Marco , F. , French , L. , and Tschopp , J .
+( 1998 ) J. Biol .
+Chem .
+278 , 12203-12209 30 .
+Muzio , M. , Ni , J. , Feng , P. , and Dixit , V. M. ( 1997 ) Science 278 , 1612-1615 31 .
+Cao , Z. , Xiong , J. , Takeuchi , M. , Kurama , T. , and Goeddel , D. V. ( 1996 ) Science 383 , 443-446 32 .
+Muzio , M. , Natoli , G. , Saccani , S. , Levrero , M. , and Mantovani , A .
+( 1998 ) J. Exp .
+Med .
+187 , 2097-2101 33 .
+Song , H. Y. , Regnier , C. H. , Kirschning , C. , Goeddel , D. V. , Cao , Z. , and Rothe , M. ( 1997 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+94 , 9792-9796 34 .
+DiDonato , J .
+A. , Hayakawa , M. , Rothwarf , D. M. , Zandi , E. , and Karin , M. ( 1997 ) Nature 888 , 548-554 35 .
+Stancovski , I. , and Baltimore , D. ( 1997 ) Cell 91 , 299-302 36 .
+Scheidereit , C. ( 1998 ) Nature 895 , 225-226 37 .
+Rothe , M. , Sarma , V. , Dixit , V. M. , and Goeddel , D. V. ( 1995 ) Science 269 , 1421-1427 38 .
+Takeuchi , M. , Rothe , M. , and Goeddel , D. V. ( 1996 ) J. Biol .
+Chem .
+271 , 19935-19942 39 .
+Kuhns , D. B. , Long Priel , D. A. , and Gallin , J. I .
+( 1997 ) J. Immunol .
+158 , 3959-3964 H i > Co 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo ( Bacterial Lipopolysaccharide Activates Nuclear Factor-KB through Interleukin-1 Signaling Mediators in Cultured Human Dermal Endothelial Cells and Mononuclear Phagocytes Frank X. Zhang , Carsten J. Kirschning , Roberta Mancinelli , Xiao-Ping Xu , Yiping Jin , Emmanuelle Faure , Alberto Mantovani , Mike Rothe , Marta Muzio and Moshe Arditi J. Biol .
+Chem .
+1999 , 274:7611-7614. doi : 10.1074/jb0.274.12.7611 Access the most updated version of this article at http : //www.jbe.org/content/274/12/7611 Alerts : *When this article is cited * When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 39 references , 25 of which can be accessed free at http : //www.jbe.org/content/274/12/7611 .full.html # ref-list-1 6107 '01 Aepy uo 1san $ 4g /310-2q [ 'mmmy/ : dyy wou ; papeojumo (

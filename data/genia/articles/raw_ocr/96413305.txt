@@ -1,0 +1,856 @@
+MoLECULAR AND CELLULAR BroLoGY , Oct. 1996 , p. 5546-5556 0270-7306/96/ $ 04.00+0 Copyright © 1996 , American Society for Microbiology Vol .
+16 , No .
+10 Induction of be/-2 Expression by Phosphorylated CREB Proteins during B-Cell Activation and Rescue from Apoptosis BYRON E. WILSON , EVONNE MOCHON , anp LINDA M. BOXER* Center for Molecular Biology in Medicine , Palo Alto Veterans Affairs Medical Center , and Department of Medicine , Stanford University School of Medicine , Stanford , California 94305 Received 29 March 1996/Returned for modification 27 May 1996/Accepted 11 July 1996 Engagement of surface immunoglobulin on mature B cells leads to rescue from apoptosis and to proliferation .
+Levels of be/-2 mRNA and protein increase with cross-linking of surface immunoglobulin .
+We have located the major positive regulatory region for control of be/-2 expression in B cells in the 5 ' -flanking region .
+The positive region can be divided into an upstream and a downstream regulatory region .
+The downstream regulatory region contains a cyclic AMP-responsive element ( CRE ) .
+We show by antibody supershift experiments and UV cross-linking followed by denaturing polyacrylamide gel electrophoresis that both CREB and ATF family members bind to this region in vitro .
+Mutations of the CRE site that result in loss of CREB binding also lead to loss of functional activity of the be/-2 promoter in transient-transfection assays .
+The presence of an active CRE site in the be/-2 promoter implies that the regulation of be/-2 expression is linked to a signal transduction pathway in B cells .
+Treatment of the mature B-cell line BAL-17 with either anti-immunoglobulin M or phorbol 12-myristate 13-acetate leads to an increase in be/-2 expression that is mediated by the CRE site .
+Treatment of the more immature B-cell line , Ramos , with phorbol esters rescues the cells from calcium-dependent apoptosis .
+be/-2 expression is increased following phorbol ester treatment , and the increased expression is dependent on the CRE site .
+These stimuli result in phosphorylation of CREB at serine 133 .
+The phosphorylation of CREB that results in activation is mediated by protein kinase C rather than by protein kinase A .
+Although the CRE site is necessary , optimal induction of be/-2 expression requires participation of the upstream regulatory element , suggesting that phosphorylation of CREB alters its interaction with the upstream regulatory element .
+The CRE site in the be/-2 promoter appears to play a major role in the induction of bel-2 expression during the activation of mature B cells and during the rescue of immature B cells from apoptosis .
+It is possible that the CRE site is responsible for induction of be/-2 expression in other cell types , particularly those in which protein kinase C is involved .
+The induction of a humoral immune response is complex .
+It involves initial activation of resting B cells , subsequent proliferation of the activated precursors , and differentiation of the activated cells into mature immunoglobulin-secreting cells .
+The process of differentiation has been studied by using Staphylococcus aureus Cowan 1 to bind to the antigen receptor because it can induce B-cell DNA synthesis in a T-cell-inde-pendent manner ( 16 , 48 ) .
+One of the many changes in gene expression during B-cell activation is an increase in the expression of bei-2 at the mRNA level ( 22 , 45 ) .
+Engagement of the B-cell antigen receptor leads to differing outcomes depending on the stage of development of the B cell .
+Apoptosis plays a key role in this process .
+In the bone marrow , self-reactive immature surface IgM * IgD~ B cells are eliminated by apoptosis ; this process leads to induction of tolerance .
+At the pro-B-cell stage , as immunoglobulin ( Ig ) gene rearrangement is occurring , the vast majority of cells die by apoptosis .
+Binding of antigen to the antigen receptor in immature B cells leads to death by apoptosis ( 13 , 26 ) .
+In cell line models , this is associated with a decrease in the level of bel-2 mRNA ( 14 ) .
+Anti-CD40 antibodies protect against apoptosis and result in an increase in the expression of be/-2 ( 52 ) .
+Apoptosis plays a role in the development of mature lym- * Corresponding author .
+Mailing address : Division of Hematology , S-161 , Stanford University School of Medicine , Stanford , CA 94305-5112 .
+Phone : ( 415 ) 493-5000 , ext .
+63126 .
+Fax : ( 415 ) 858-3982 .
+Electronic mail address : hf.Imb @ forsythe.stanford.edu .
+5546 phocytes .
+In the germinal centers , widespread apoptosis is observed .
+Engagement of surface Ig leads to rescue from apoptosis .
+Increased expression of be/-2 is observed when germinal-center cells are prevented from undergoing apoptosis ( 33 , 35 ) .
+Binding of antigen to the B-cell receptor in resting B cells leads to proliferation .
+Binding of antigen to the B-cell receptor on either germinal-center cells or resting B cells leads to a similar pattern of second-messenger induction , including activation of Sre and Sre-related protein kinases ( 4 , 60 ) , phosphorylation on tyrosine residues of a number of substrates ( 3 , 6 , 20 , 31 ) , engagement of G proteins ( 19 , 25 , 39 ) , increased inositol 1,4,5-triphosphate levels , increased intracellular calcium levels , and activation of protein kinase C ( PKC ) ( 5 , 9 ) .
+Activation of PKC leads to activation of NF-kB and AP-1 , as well as other transcription factors ( 10 , 34 , 54 ) .
+Burkitt 's lymphoma cells undergo apoptosis after ligation of surface IgM or treatment with a calcium ionophore ( 2 , 7 , 18 , 23 , 28 , 53 ) .
+Group I Burkitt 's lymphoma cells display a surface phenotype characteristic of germinal-center cells , and they have been used as a model for germinal-center B cells ( 28 ) .
+Activation of PKC by phorbol esters reduces apoptosis induced by calcium ionophores or surface IgM ligation ( 53 ) .
+Apoptosis can also be triggered by inhibitors of PKC .
+High-level expression of Bel-2 protects Burkitt 's lymphoma cells from apoptosis induced by ionomycin or surface IgM cross-linking ( 28 , 42 ) .
+Treatment of Burkitt 's lymphoma cells with phorbol esters causes an up-regulation of be/-2 mRNA and protein ( 18 ) .
+Tumor necrosis factor alpha protects Burkitt 's lymphoma cell Vou .
+16 , 1996 lines from apoptosis induced by ionomycin by up-regulation of bel-2 by a mechanism that is dependent on PKC ( 18 ) .
+The major transcriptional promoter for bei-2 , P1 , is located 1,386 to 1,423 bp upstream of the translation start site ( 50 ) .
+This is a TATA-less , GC-rich promoter that displays multiple transcription state sites .
+A minor promoter , P2 , which is used in some cell types , is located 1.3 kb downstream from the first one ( 50 ) .
+Little information is available concerning the transcriptional control of the be/-2 gene .
+A negative regulatory element upstream of the P2 promoter has been described previously ( 61 ) .
+The proteins that bind to this element have not been identified , although p53 was shown to mediate downregu-lation of be/-2 either directly or indirectly through a 195-bp fragment of this region ( 37 ) .
+We have previously described three sites which are negative regulators of be/-2 expression in pre-B cells ( 8 ) .
+Normal pre-B cells express very little be/-2 , and extensive cell death by apoptosis occurs at this developmental stage .
+Bel-2 protein levels are increased in mature B cells .
+We have found that the three # 1 sites are not functional in mature B cells ( 8 ) .
+In the present study , we characterize the regulatory regions , including a cyclic AMP ( cAMP ) -responsive element ( CRE ) , that are responsible for the positive regulation of be/-2 expression in both pre-B cells and mature B cells .
+Elevation of intracellular cAMP levels can result in either stimulation or repression of specific gene expression ; most of these genes contain one or more CREs .
+The consensus CRE sequence is GTGACGTCA .
+cAMP binds to the regulatory subunit of PKA and releases the active catalytic subunit .
+This subunit phosphorylates the transactivation domain of CRE-binding protein ( CREB ) , which then induces the expression of genes containing CREs .
+Mutation of the phosphoacceptor site ( Ser-133 ) results in a dominant negative form of CREB ( 1 , 51 ) .
+A number of CREBs , including CREB , CRE modulator , and several activating transcription factors ( ATFs ) , have been de-scribed .
+The CREBs are basic leucine zipper transcription factors and are active as either homo- or heterodimers .
+Some of the ATFs heterodimerize with members of the Jun/Fos family of proteins ( for reviews , see references 30 , 32 , and 36 ) .
+We have elucidated the mechanism of increased bel-2 expression during B-cell activation in mature B cells and during rescue from calcium-dependent apoptosis of immature B cells .
+We have found that a CRE mediates the increase in be/-2 expression following surface Ig cross-linking in mature B cells or treatment with phorbol esters in both mature and immature B cells .
+Furthermore , we present evidence that PKC is responsible for the activation of CREB by phosphorylation .
+Optimal bel-2 activation occurs when the phosphorylated CREB interacts with an upstream regulatory region , suggesting that phosphorylation changes the interaction of CREB with neighboring promoter elements .
+MATERIALS AND METHODS Plasmid constructs .
+A DNA fragment from BamHI ( -3934 ) to Secl ( -1287 ) of the human be/-2 gene ( a generous gift from Michael Cleary , Stanford Uni-versity ) was inserted into a luciferase reporter vector with Psfl linkers .
+Numbering of the bel-2 sequence is relative to the translation start site .
+Progressive 5 ' truncations of the be/-2 sequence by restriction digestion gave rise to constructs spanning the sequence from Sacl ( -1287 ) to Xhol ( -2857 ) , Avril ( -2337 ) , Nof ( -1794 ) , SacII ( -1743 ) , SaclI ( -1693 ) , SaclII ( -1640 ) , BsrFI ( -1526 ) , and Apal ( -1337 ) .
+Additional 5 ' truncations were generated by PCR subfragment cloning to form constructs spanning the sequence from Secl ( -1287 ) to introduced BamHI sites at -1473 and -1413 ( see Fig .
+1 ) .
+To study the activity observed between SeclI ( -1640 ) and BsrFI ( -1526 ) in more detail , subfragments of this area generated by PCR cloning or oligonucleotide synthesis were inserted into a polylinker at the BsrFI site in the -1526-bel-2 plasmid constructed as described above .
+Progressive 5'-subfragment truncations spanning from -1526 to -1640 , to -1611 , to -1578 , to -1564 , and to INDUCTION OF be/-2 BY CREB PROTEINS 5547 -1552 were inserted in this polylinker .
+Interposition of the polylinker between contiguous be/-2 sequences at site -1526 did not alter promoter activity when compared with analogous controls without polylinker ( data not shown ) .
+A plasmid containing the wild-type upstream regulatory element ( WiURE ) was constructed in the same manner by inserting the PCR-cloned sequence -1640 to -1544 in the polylinker 5 '' of the -1526-bcf-2 plasmid .
+A plasmid containing the wild-type downstream regulatory element ( WtDRE ) , including the endogenous bel-2 CRE site , was constructed by inserting the synthesized oligonucleotide sequence -1552 through -1535 in the polylinker 5 '' of the -1526-bcf-2 plasmid .
+Plasmids with mutations in and near the CRE site were constructed similarly with the sequences shown in Table 1 .
+The following base pairs were mutated ( with plasmid name in parentheses ) : -1552 and -1548 ( mC1,4 ) ; -1551 through -1549 ( mC2-3 ) ; -1547 and -1545 ( mC6,8 ) ; -1541 and -1540 ( mC12,13 ) ; -1540 and -1539 ( mC€13,14 ) ; and -1540 through -1536 ( mC13-17 ) .
+A construct ( MutCRE ) with the CRE site changed from GTGACGTTA to GTGAA TTTA was prepared from the -1640 construct with the Quikchange site-directed mutagenesis kit ( Stratagene ) .
+A construct containing two CRE sites was prepared by inserting CRE oligonucleotides with Sa/l and Xhol ends into the Sa/l site of the pGL2 promoter , a luciferase reporter gene linked to the simian virus 40 promoter ( Promega ) .
+A similar construct containing two copies of the Ig heavy-chain enhancer l site has been described previously ( 8 ) .
+All plasmid sequences were confirmed by the dideoxynucleotide method ( Sequenase ; U.S. Biochemical ) .
+The CRE-dependent plasmid ( Bg/ll CAT ) and Rous sarcoma virus ( RSV ) CREB and RSV CREB M1 were obtained from Marc Montminy , Salk Institute .
+The Bg/II CAT construct contains the somatostatin gene promoter from -71 to +53 linked to the chloramphenicol acetyltransferase ( CAT ) reporter gene ( 40 ) .
+RSV CREB expresses full-length CREB from the RSV promoter , and RSV CREB M1 expresses full-length CREB with serine 133 changed to alanine ( 21 ) .
+Cell lines and transient-transfection assays .
+Nall-1 , a human pre-B-cell line , and DHL-9 , a human mature B-cell line , were cultured in RPMI medium supplemented with 10 % fetal calf serum , 100 U of penicillin per ml , 100 pg of streptomycin per ml , and 2 mM 1-glutamine .
+Neither cell line has a translocation involving the be/-2 locus .
+The Epstein-Barr virus-negative Burkitt 's lymphoma cell line , Ramos , was grown in RPMI medium supplemented with 10 % fetal calf serum .
+BAL-17 cells , a murine B-lymphoma cell line , were kindly provided by William Paul and Richard Asofsky , National Institutes of Health , Bethesda , Md .
+BAL-17 cells are a model for mature B cells and were cultured in RPMI medium supplemented with 5 % fetal calf serum , 100 U of penicillin per ml , 100 pg of streptomycin per ml , 2 mM 1-glutamine , 10 % NCTC 109 , and 0.1 % B-mercap-toethanol .
+Cell viability was determined by trypan blue exclusion .
+DNA transfections were performed with cells in the log phase ( 5 X 10° to 6 X 10° cells per ml ) .
+The cells were washed with RPMI medium and resuspended at 3 X 10 '' cells per ml in RPMI medium containing 26 pg of DEAE-dextran per ml ( 17 ) .
+A total of 10 to 20 jg of plasmid DNA was added , and electroporation was performed with a Bio-Rad gene pulser at 960 wF and 350 mV for DHL-9 , 320 mV for Ramos , 300 mV for Nall-1 , or 400 mV for BAL-17 cells .
+Transfected cells were cultured in 25 ml of supplemented RPMI medium for 48 h. Reporter gene activity was determined by the luciferase assay system ( Promega ) , and luminescence was quantitated with an LKB 1251 luminometer .
+Variation in transfection efficiency was controlled for by cotransfection with 5 ug of an RSV long terminal repeat-B-galactosidase or a simian virus 40 promoter-B-galactosidase plasmid .
+Each assay was performed at least three times in duplicate with at least two different plasmid preparations .
+The normalized mean values with standard deviations were plotted or reported in tabular form .
+Phorbol 12-myristate 13-acetate ( PMA ) , forskolin , ionomycin , or goat anti-mouse IgM was added at the concentrations indicated in Fig .
+7C , 8A , and 9C .
+Cells were harvested after 18 h ( Fig .
+7C and 8A ) or 6 h ( Fig .
+9C ) .
+EMSA .
+The oligonucleotides used as probes for the electrophoretic mobility shift assay ( EMSA ) of the CRE region are shown in Table 1 ( see below ) .
+The sequence of the CRE consensus oligonucleotide was GAACCGTGTGACGTC ACGCG .
+The oligonucleotides were synthesized with 5 ' overhangs and end labeled with [ a-* '' P ] dCTP and Klenow polymerase .
+Binding conditions were as follows : 12 mM N-2-hydroxyethylpiperazine-V'-2-ethanesulfonic acid ( HEPES ; pH 7.9 ) , 4 mM Tris ( pH 7.5 ) , 100 mM KCI , 1 mM EDTA , 1 mM dithiothreitol , 5 % glycerol , 3 mg of poly ( dI-dC ) , 1 ng ( 10+ cpm ) of end-labeled oligonucleotide probe , and 10 ug of protein from crude nuclear extract .
+Leupeptin ( 0.3 ug/m1 ) , phenylmethylsulfonyl fluoride ( 5 mM ) , antipain ( 0.3 pg/ml ) , and aprotinin ( 2 ug/l ) were included in all nuclear extract buffers .
+Samples were incubated in the presence or absence of excess competitor oligonucleotides for 15 min at room temperature .
+Electrophoresis was performed at 30 mA at 4°C in a 0.5 % Tris borate-EDTA-5 % polyacrylamide gel .
+For the supershift EMSA , the binding-reaction mixture was incubated with antibody for 30 min at 4°C , labeled oligonucleotide was added , and the mixture was incubated for 15 min at room temperature .
+Antibodies specific to the following proteins were obtained from Santa Cruz Biotechnology for use in supershift EMSA : ATF-1/CREB ( recogniz-es all CREB/ATF family proteins ) , ATF-1/ATF-2 , ATF-2 , ATF-3 , CREB-1 ( CREB ) , CREB-2 , CREM-1 , PEA3 , c-jun , egr-1 , etsl/ets2 , and c-fos .
+An antibody specific for the phosphorylated serine 133 form of CREB was obtained from Upstate Biotechnology Inc. CREB interactions were studied by addition of purified truncated CREB ( CREB bZIP 254-327 [ Santa Cruz Biotechnology ] ) to the binding-reaction mixture prior to the addition of labeled oligonucleotide .
+5548 WILSON ET AL .
+UV cross-linking and SDS-polyacrylamide gel electrophoresis .
+EMSA was performed as described above .
+UV cross-linking was performed as described previously ( 11 ) with a short-wavelength UV light box at 4°C for 60 min .
+An autoradiograph of the wet gel was used to locate the EMSA complexes .
+Regions of the gel containing the complexes were cut out , and the individual complexes were eluted at room temperature overnight in 50 mM Tris-HCI ( pH 7.9 ) -0.1 % sodium dodecyl sulfate ( SDS ) -0.1 mM EDTA-5 mM dithiothreitol-150 mM NaCl-0.1 mg of bovine serum albumin per ml .
+The eluted protein was precipitated with 4 volumes of acetone , washed with ethanol , and dried .
+It was then resuspended in Laemmli loading buffer , and SDS-polyacrylamide gel electrophoresis was performed .
+The *°P-labeled proteins were visualized by autoradiog-raphy .
+Methylation interference .
+The 5'-end-labeled oligonucleotide ( either WtDRE or bCREO ) was labeled with T4 kinase and methylated with 0.5 % dimethyl sulfate for 2 min at room temperature .
+The sequence of WtDRE is shown in Table 1 , and the sequence of bCREO was GAACCGTGTGACACGA .
+These oligonucleotides were used in EMSA as described above .
+The complexes were transferred to DEAE membrane , the membrane was exposed to film to locate the complexes , and regions containing the bound and free probes were excised .
+The DNA was eluted and cleaved with piperidine , and equal counts of bound and free samples were resolved in a 15 % acrylamide sequencing gel .
+S1 nuclease protection assay .
+BAL-17 cells were cultured in the presence of medium , 60 ng of PMA per ml , or 4 ug of anti-IgM per ml for 18 h at 37°C prior to isolation of RNA by the guanidine thiocyanate method ( 12 ) .
+The murine be/-2 probe ( 41 ) and a 1.8-kb BamHI-HindIII genomic fragment of B , -microglobulin end labeled at the EcoRI site of exon 2 ( 43 ) were hybridized with 10 pg of total RNA for 16 h at 55°C .
+Digestion with 200 U of S1 nuclease was performed for 1 h at 37°C .
+The protected fragments were separated on a 6 % sequencing gel .
+DNA fragmentation analysis .
+Ramos cells ( 5 x 10° ) were cultured for 18 h in medium with no addition or the addition of 1 g of ionomycin per ml , 50 ng of PMA per ml , or both ionomycin and PMA .
+The cells were washed , centrifuged , and resuspended in 20 pl of 10 mM EDTA-50 mM Tris-HCI-0.5 % sodium N-lauroy ] sarcosinate-0.5 ug of protease K per ml and incubated for 1 h at 50°C .
+The samples were incubated for 1 h at 37°C after addition of 10 pl of RNase A ( 100 pg/ml ! )
+and then incubated for 5 min at 70°C .
+The samples were mixed with 10 pl of 10 mM EDTA plus 1 % low-melting-point agarose and electrophoresed in 40 mM Tris-acetate-1 mM EDTA in a 1.2 % agarose gel .
+RESULTS Identification of two positive regulatory regions in the bel-2 promoter .
+The be/-2 major transcriptional promoter , P1 , is located between bp -1390 and -1440 upstream from the translation start site ( 50 ) .
+bel-2 sequence from -3934 to -1287 that contains the P1 promoter was inserted upstream of a promoterless luciferase reporter gene construct ( Fig .
+1A ) , and reporter gene activity in DHL-9 cells ( a human mature B-cell line ) was assessed .
+We were unable to demonstrate any transcript initiation at the P2 promoter ( 8 ) .
+Constructs that contained both the P1 and P2 promoters yielded similar results , although the activity of the constructs with the P2 promoter was much lower because of the negative regulatory element just upstream of P2 ( data not shown ) ( 61 ) .
+Progressive 5 ' truncations of the be ! -2 sequence revealed a positive regulatory region between the SaeclII site at -1640 and a BsrFI site at -1526 ( Fig .
+1A ) .
+In DHL-9 cells , this area resulted in a 3.8-fold increase in reporter gene activity over the basal promoter ( -1526 ) construct .
+This appeared to be the only positive regulatory region .
+Similar results were obtained with the pre-B-cell line , Nall-1 ( data not shown ) .
+Comparison of the murine and human be/-2 sequences revealed a high degree of homol-ogy in this area .
+To study the activity observed between SecII ( -1640 ) and BsrFI ( -1526 ) in more detail , subfragments of this area were inserted upstream of the BsrFI ( -1526 ) site .
+Progressive 5 ' truncations within this area revealed two positive regulatory regions in DHL-9 cells ( Fig .
+1B ) .
+The DRE , located between -1552 and -1526 , was responsible for a 1.5-fold increase in basal promoter activity over that obtained with a P1 promoter control construct .
+This activity was preserved when a 3 ' deletion narrowed this element to -1552 through -1534 .
+The remainder of the positive regulatory activity was located between -1611 and -1552 ; this area is the URE .
+Preliminary Mor .
+CELL .
+BioL .
+-Not | i- Sac II - Sac | -- Bam HI bel-2 5° promoter region |-| luciferase - $ \ Relative Luciferase Activity Gb o L 1.0 - T +4000 -3500 1500 1 T * I I -3000 -2500 -2000 B |URE+DREH basal promoter |- Juciferase & I I [ 8 § -- _ Sac II BerF Relative Luciferase Activity 1-0 I I W I * U * U ® T ~1650 -18630 -1610 1590 -1570 -1550 -1580 Termini of 55 Promoter Region FIG .
+1 .
+Identification of a positive regulatory region in the be/-2 promoter .
+( A ) Diagram of the bel-2 5 ' sequences used in the constructs with relevant restriction enzyme sites indicated and luciferase activity of progressive 5 ' deletions of the bel-2 promoter region in DHL-9 cells .
+The results are shown relative to the luciferase activity of the basal promoter ( -1526 ) construct , which was assigned a value of 1 .
+( B ) Diagram of the bel-2 5 ' sequences used in the constructs and results of transient-transfection analysis of the region between SeclI ( -1640 ) and BsrFI ( -1526 ) .
+studies suggest that the 5 ' end of the URE was located between -1611 and -1591 .
+Constructs with deletions or additions of sequence between the two regions that disrupted the helical spacing resulted in promoter activities similar to that of the DRE alone ( data not shown ) .
+These results suggest that disruption of the helical spacing between the URE and DRE leads to loss of the positive interaction between these elements .
+The URE has not been further characterized .
+Sequence specificity of protein binding to the DRE .
+EMSA of nuclear extracts obtained from the B-cell lines DHL-9 , Ramos , Nalm-6 , and Reh with an oligonucleotide corresponding to bel-2 sequence -1552 to -1525 or -1552 to -1535 , both of which contain WtDRE , revealed four specific bands Vou .
+16 , 1996 INDUCTION OF be/-2 BY CREB PROTEINS 5549 Competitor : 0 € & bCRE 1- » bCRE 2 -i » bCRE 3 - # REO - » \nemes bCRE 2 -a creo bCRE 3 -B ous bused pased pored CREO -i '' 10 20 30 40 50 6 FIG .
+2 .
+EMSA with DRE oligonucleotides and DHL-9 nuclear extracts .
+( A ) EMSA with the wild-type bCRE site and mutated sites .
+The sequences of the different DRE oligonucleotides are listed in Table 1 .
+The arrows indicate the specific complexes ; the two complexes that migrate faster than the CREO complex are nonspecific .
+( B ) Competition with mutated CRE oligonucleotides .
+The indicated oligonucleotide is present at a 50-fold molar excess .
+The specific complexes are indicated by arrows .
+( the results for DHL-9 are shown in Fig .
+2 ) .
+Sequence mutation analysis within the DRE identified two distinguishable protein-binding sites by EMSA ( Fig .
+2A ) and by EMSA with competition with the mutated oligonucleotides ( Fig .
+2B ) .
+The results are summarized in Table 1 .
+The 5 ' site spanned the sequence from -1552 to -1541 and produced a single band on EMSA which corresponded to the fastest migrating of the four specific bands ( Fig .
+2 , lane 5 ) .
+The 3 ' site spanned from -1547 to -1534 and produced one slowly migrating band and two more rapidly migrating bands ( bands 1 , 2 , and 3 from most slowly to most rapidly migrating in Fig .
+2 ) .
+The 3 ' site contains a complete CRE consensus sequence , while the 5 ' site contains only part of the CRE .
+Consequently , they are referred to as the bel-2 CRE ( bCRE ) site and the CRE-overlapping site ( CREO site ) , respectively .
+EMSA with the CRE consensus oligonucleotide with be/-2-flanking sequences yielded the same four complexes that were seen with the WtDRE oligonucleotide , and the two oligonucleotides competed against one another ( data not shown ) .
+The CREO site does not appear to be homologous to any known transcription factor consensus-binding site .
+Transient-transfection assays were performed with DHL-9 cells and reporter gene constructs that contained mutations in the CREO and bCRE sites in the absence of the URE site .
+As seen in Table 1 , it appeared the bCRE site was responsible for most if not all of the positive regulatory activity in this area .
+The CREO site appeared to have only weak stimulatory activity .
+The 5'- and 3'-binding sites were also distinguishable by in vitro methylation interference ( footprinting ) analysis , which confirmed the site lengths of -1552 to -1541 and -1547 to -1534 , respectively ( Fig .
+3 ) .
+Protein binding to the bCRE was strongly inhibited ( > 60 % inhibition ) by guanine methylation at sites -1545 , -1543 , -1541 , and -1540 .
+Weaker inhibition ( 35 to 60 % inhibition ) was seen at sites -1547 and -1535 .
+Protein binding to the CREO site was strongly inhibited by methylation at sites -1549 , -1548 , -1547 , and -1545 .
+Weaker inhibition was seen at sites -1552 and -1543 .
+This analysis confirmed an overlap between the bCRE and the CREO sites .
+Characterization of the bCRE-binding proteins .
+To further study the proteins interacting with the bCRE site , UV crosslinking and SDS-polyacrylamide gel electrophoresis of the three upper bands obtained by EMSA with the mC1,4 oligo- TABLE 1 .
+Effect of mutations in the DRE on protein binding by EMSA and on transcriptional activity measured by transient transfections with promoter-luciferase constructs in DHL-9 cells EMSA binding .
+Construct '' Sequence of the DRE site '' CRFO bCRE Lzzgggs © band bands WtURE/DRE GAACCGTGTGACGTTACGCA +++ +++ 3.07 + 0.48 MutCRE GAACCGTGTGAATTTACGCA + - 1.34 + 0.26 WtURE GAACCGTGTACTAGTGGACA + - 0.52 + 0.14 WtDRE GAACCGTGTGACGTTACGCA +++ +++ 1.51 + 0.24 mC2-3 GCCGCGTGTeaAceTTACGCA + +++ 1.45 + 0.18 mCl,4 TAACAGTGTGACGTTACGCA + +++ 1.58 + 0.30 mC6,8 GAACCTTETGACGTTACGCA + + 1.14 + 0.19 mC12,13 GAACCGTGTGAATTTACGCA + - 0.98 + 0.12 mC13,14 GAACCGTGTGACTATACGCA +++ - 1.17 + 0.14 mC13-17 GAACCGTGTGACTAGTGGCA +++ - 1.13 + 0.18 Basal bel-2 promoter control construct 1.00 + 0.11 `` A schematic representation of the expression vectors is shown in Fig .
+7A .
+* Boldface type highlights the CRE consensus sequence .
+Underlined nucleotides represent mutations from the wild-type sequence .
+5550 WILSON ET AL .
+F 2+3 1 F 2+3 1 grr T ?
+A § & C T * * A T # G e s % T C ¥ Ge A # ® C o ~- A T ® # = @ ~1535 7 0G -1552 Coding Noncoding F Creo F Creo 7~ A ' ' c oG & / T T s 7 # G # G= T # G= aG C C A C *~ g A A d- '' ~1556 -1541 Coding Noncoding o @ oa o FAACCETCETCEACCETTACE 1552 ° +1535 CTTGGCACACTQCAATGC FIG .
+3 .
+Methylation interference analysis of protein-DNA complexes formed with DHL-9 nuclear extracts and the DRE oligonucleotides .
+The EMSA complexes analyzed are indicated above cach lane .
+bCRE EMSA complexes 1 through 3 , formed with the WHDRE oligonucleotide , are shown above the CREO EMSA complexes formed with the bCREO oligonucleotide .
+The guanine residues that showed strong protection are indicated by solid circles ( CRE ) or squares ( CREO ) ; those that showed weaker protection are indicated by open circles ( CRE ) or squares ( CREO ) .
+The CRE site is underlined .
+The protected guanine residues are summarized in the sequence at the bottom of the figure , and the bCRE site is indicated in boldface letters .
+Mor .
+CELL .
+BioL .
+nucleotide were performed ( Fig .
+4A ) .
+The fourth band obtained with this probe corresponded to the CREO site complex and was not studied .
+UV cross-linking of the most slowly migrating bCRE band , band 1 , obtained by EMSA with mC1,4 yielded two protein-DNA complexes migrating at 77 and 88 kDa ( Fig .
+4A , lane 3 ) .
+Correcting for oligonucleotide size , proteins of approximately 63 and 67 kDa were predicted .
+In addition , this EMSA band yielded two faintly labeled protein-DNA complexes migrating at 130 and 170 kDa , which may represent dimeric forms of the faster-migrating proteins .
+UV cross-linking of bCRE band 2 revealed a protein-DNA complex of 53 kDa ( corrected protein size , 43 kDa ) ( Fig .
+4A , lane 2 ) .
+A faintly labeled protein-DNA complex of approximately 100 kDa , which may represent a homodimeric complex of the 43-kDa protein , was seen .
+The fastest migrating bCRE band , band 3 , yielded two protein-DNA complexes of 45 and 53 kDa ( corrected protein sizes , 34 and 43 kDa , respectively ) ( lane 1 ) .
+Again , a faintly labeled protein-DNA complex of approximately 94 kDa was seen , which may represent a het-erodimeric complex .
+EMSA supershift analyses of the bCRE complexes were performed with antibodies directed against several known CREBs ( ATF-1 , ATF-2 , ATF-3 , CREB , CREB-2 , and CREM-1 ) and several non-CREBs ( PEA3 , c-jun/AP-1 , c-fos , egr-1 , and ets1/ets2 ) .
+Performing this analysis with the mC1,4 oligonucleotide probe demonstrated a supershift of bCRE band 1 with antibodies against ATF-2 and ATF-1/ATF-2 .
+bCRE band 2 was supershifted with antibodies against CREB and ATF-1/CREB , and bCRE band 3 was supershifted only with antibody against ATF-1/CREB ( Fig .
+4B ) .
+None of the other antibodies tested shifted either the bCRE bands or the CREO band .
+Western blot ( immunoblot ) analysis of DHL-9 nuclear extract revealed abundant expression of ATF-2 ( reactive antigens found at 62 , 67 , and 170 kDa ) and CREB ( reactive antigen found at 43 kDa [ data not shown ) .
+By Western blot analysis , the ATF-1/ATF-2 antibody displayed weak cross-reactivity with the ATF-2 antigens , suggesting that the supershift A B a l LL CC o < q o ou E it .
+E ¥ ¢ E E 2 a ¥ LL LL LL i- CC CC Co w 2 E E E < & 9 4 4 9 § 4 9p 9 9 9 s & a $ 0 & & 80 as s - 200 kDa Supershift 1 Z : - 97 kDa _- 69 kDa Supershlft2,3 : =* e bCRE 1 Heel aut w - 46 kDa bCRE 2 - # bCRE 3 -a CREO-=® Rs b JV tml kame pos gree posed mund v FIG .
+4 .
+Characterization of the proteins that bind to bCRE .
+( A ) Denaturing SDS-polyacrylamide gel analysis of the UV cross-linked EMSA complexes formed with DHL-9 nuclear extract and the mC1,4 oligonucleotide .
+The EMSA complexes analyzed are indicated above each lane .
+The migration of the molecular mass markers is shown on the right .
+( B ) EMSA supershift analysis of the complexes formed with the DRE oligonucleotide and DHL-9 nuclear extract .
+The arrows indicate the complexes and the corresponding supershifted complexes .
+Vou .
+16 , 1996 2 ug/ul DHL-9 Nuclear Protein Added © a 2 zo g e # conc ‘ rerr ' i't'rjgﬁﬁﬁgrgwﬁ 2 § 7 § S3 2 2 f bCRE 1 pm + ‘ bere 2 * e - § R * IM Trunccﬁlgg-p FIG .
+5 .
+Interaction of a purified truncated CREB with the CREBs in DHL-9 nuclear extract by EMSA with the mC1,4 oligonucleotide .
+Decreasing amounts of a purified truncated CREB were added to a constant protein concentration from DHL-9 nuclear extract ( 2 pug/pl ) .
+The arrows indicate the complexes formed with DHL-9 nuclear extract , the complex formed by the truncated CREB protein , and the complex of intermediate mobility formed with the truncated CREB and with CREB in DHL-9 nuclear extract .
+Quantitation of the bands was performed for the EMSA with 1.0 and 5.0 ng of truncated CREB per ml .
+There was no change in the relative intensity of the bCRE1 and CREO bands .
+With 1.0 and 5.0 ng of truncated CREB per pl , CRE band 2 decreased by 18 and 70 % , respectively , and bCRE band 3 decreased by 28 and 83 % , respectively .
+activity seen with this antibody was a result of cross-reactivity with ATF-2 and not involvement of ATF-1 in the protein-DNA complex bCRE band 1 .
+The ATF-1/CREB antibody is known to have polyspecific reactivity .
+By Western blot analysis , it was strongly reactive with CREB-1 and weakly reactive with several other antigens ( of 35 , 38 , 49 , 65 , 74 , and 138 kDa ) .
+Members of the CREB/ATF family form homo- and heterodimers .
+To further confirm the involvement of CREB/ATF family members in the bCRE complexes , EMSA of the mC1,4 oligonucleotide was performed in the presence of decreasing amounts of a truncated CREB that contains the DNA-binding and dimerization domains ( Fig .
+5 ) .
+High concentrations of this protein ( > 10 ng/pul ) effectively blocked the binding of nuclear extract proteins to both the bCRE and CREO sites , confirming that these sites overlap and that the bCRE site can function as a CRE site ( data not shown ) .
+Lower concentrations ( 0.008 to 5 ng/pul ) of the truncated CREB produced one intermediate migrating band with concurrent relative diminution in the intensity of bCRE band 2 and 3 but not in the intensity of bCRE band 1 or of the CREO band ( Fig .
+5 ) .
+These results confirmed that the proteins involved in bCRE bands 2 and 3 are capable of dimerization with CREB .
+As ATF-2 is a distant relative of CREB and has not been shown to dimerize with CREB , it is not surprising that no interaction between the truncated CREB and the bCRE band 1 was seen ( 36 ) .
+Thus , the be/-2 CRE site appears to be able to form three complexes with B-cell nuclear extracts , each represented by a specific EMSA band .
+The most slowly migrating complex ( bCRE band 1 ) appears to consist of dimerized 63- and 67-kDa forms of ATF-2 .
+The middle complex ( bCRE band 2 ) is apparently a homodimer of CREB , and the fastest-migrating complex ( bCRE band 3 ) is a heterodimer of CREB and possibly ATF-1 .
+To confirm the importance of the CRE site in the full-length bel-2 promoter , site-directed mutagenesis was used to create a 2-bp change in the CRE site in the WtURE/DRE construct ( MutCRE ) .
+As shown in Fig .
+6 , the promoter activity decreased by 83 % relative to the WtURE/DRE construct .
+Induction of be/-2 promoter activity during B-cell activation and rescue from apoptosis .
+Because the CRE is an inducible INDUCTION OF be/-2 BY CREB PROTEINS 5551 moe oto 0 a o d Relative Luciferase Activity o a a & in & in Basal - WtUNE/DRE MutCRE Promoter FIG .
+6 .
+Effect of mutation of the bel-2 CRE site on promoter activity in DHL-9 cells .
+Luciferase activities of the WtURE/DRE and the construct with the mutated CRE site ( MutCRE ) are shown relative to the activity of the basal promoter .
+regulatory element , we wished to determine whether a CREB was involved in the increase in be/-2 expression during B-cell activation .
+DHL-9 cells could not be used for these studies because they do not express surface IgM .
+The murine B-cell line , BAL-17 , was chosen because it has been shown to recapitulate many of the characteristics of primary B cells after surface Ig receptor cross-linking .
+Although BAL-17 cells express relatively high levels of be/-2 , cross-linking of the surface Ig receptor or treatment with PMA leads to a further 2.5- to 3.5-fold increase in be/-2 mRNA levels ( Fig .
+7B , lanes 2 and 3 ) .
+To determine the effect on be/-2 promoter activity , cross-linking of surface Ig receptor was performed with goat anti-IgM antibodies 24 h after transfection of the be/-2-luciferase constructs .
+The be/-2 promoter constructs used are shown in Fig .
+7A .
+The activity of the bel-2 promoter increased by threefold ( Fig .
+7C ) .
+We used either dibutyryl-cAMP or forskolin to increase cAMP levels .
+This PKA pathway is involved in the phosphorylation of CREBs in many different cell types .
+As shown in Fig .
+7C , forskolin did not produce an increase in be/-2 promoter activity .
+Similar negative results were obtained with dibutyryl-cAMP ( data not shown ) .
+Because CREB is phosphorylated by other kinases , including PKC , we treated the BAL-17 cells with PMA .
+PMA produced a threefold activation ( Fig .
+7C ) .
+The increase in activity due to PMA was very similar to that observed with surface Ig receptor cross-linking .
+Simultaneous stimulation with PMA and Ig cross-linking resulted in little additional stimulation of promoter activity , suggesting that the stimulation evoked by surface Ig cross-linking was almost entirely due to a PKC mechanism .
+Similar results were obtained with a control plasmid ( Bg/II CAT ) that contains the somatostatin gene promoter CRE site .
+Treatment of BAL-17 cells with PMA led to a threefold increase in CAT activity , while treatment with forskolin had no effect ( data not shown ) .
+The reason for the failure of increased cAMP levels to activate a CRE site in these cells is unclear .
+It is possible that an inhibitor of PKA is present in the cell lines we used for these studies .
+The increase in activity of the be/-2 promoter with both anti-IgM and PMA was dependent on the presence of the CRE site .
+As shown in Fig .
+7C , there was no change in the activity of either the WtURE or MutCRE constructs .
+A promoter construct with the URE deleted showed only a 60 % increase in activity with PMA .
+These results suggest that the bCRE site is required for the increased promoter activity and that interaction of the URE and bCRE results in maximal stimulation of promoter activity .
+Thus , be/-2 expression is activated by surface Ig receptor cross-linking or by PMA through the CRE site in the 5'-flanking sequence .
+5552 WILSON ET AL .
+A Basal Promoter Basal Promoter Control wiure/iore [ _ ure DRE | Basal Promoter ] WtURE |__ URE ___ | -- -| Basal Promoter ] WiDRE | DRE | Basal Promoter ] MutCRE [ _ URE Mut _| Basal Promoter ] mC series 3.5 |-z $ | & so al Kel § 2s } ts ) 3 E 20 } in ke 8 15 ) 1.0 is Control WtURE/DRE WtDRE Mor .
+CELL .
+BioL .
+$ D e ? “ ® Wp 3 '' & & ° Q ‘ \X~°° Antibody : 0 _ 0 Po o P C @ igM : - = - - - + + « ae emm « - PMA : 4+ 0 - - 040 - - + Supershift -- bosd ( PW p- i flp se mae et a- ( } -2 ) / 2 3 4 1 C b bn s b 6 ... N60 Grund 2 3 Hues 5 7 1 4 6 WtURE _ MutCRE FIG .
+7 .
+Effect of B-cell stimuli on the activity of the CRE site in the be/-2 promoter in BAL-17 cells .
+( A ) Diagram of the be/-2 promoter constructs used for transient-transfection analysis .
+( B ) S1 analysis of be/-2 mRNA levels in BAL-17 cells after treatment with anti-IgM ( lane 2 ) , PMA ( lane 3 ) , or no addition ( lane 4 ) .
+Lane 1 is tRNA only .
+Protected fragments of 600 ( be/-2 ) and 202 ( B , -microglobulin promoter region ( Control ) , the WtURE/DRE , WtDRE , WtURE , and MutCRE [ B-2M ] ) nucleotides are shown .
+( C ) Transient-transfection analysis of the be/-2 basal constructs after treatment of BAL-17 cells with 60 ng of PMA per ml , 4 pg of anti-IgM per ml , 10 M forskolin , 60 ng of PMA per ml plus 10 M forskolin , and 4 ug of anti-IgM per ml plus 10 M forskolin for 18 h. ( D ) EMSA of the mC1,4 oligonucleotide with BAL-17 nuclear extract .
+Nuclear extracts were prepared after incubation with the indicated compound for 30 min .
+An antibody that recognizes all CREBs ( lane C ) or an antibody specific for the phosphorylated CREB ( lanes P ) was added prior to EMSA as indicated .
+To confirm that CREB was phosphorylated by both surface Ig receptor cross-linking and PMA , we performed EMSA with an antibody specific for phosphorylated CREB .
+Figure 7D demonstrates that very little phosphorylated CREB is present in unstimulated BAL-17 cells .
+Treatment with either anti-IgM or PMA led to the appearance of a complex that was supershifted with the antibody specific for phosphorylated CREB ( Fig .
+7D , lanes 4 and 6 ) .
+Thus , phosphorylation of CREB after surface Ig cross-linking is mediated by PKC and the phosphorylated CREBs activate the be/-2 promoter .
+BAL-17 cells express relatively high levels of be/-2 , so we wished to examine the up-regulation of be/-2 in a mature B-cell line that expressed low levels of be/-2 .
+We treated the DHL-9 cell line with PMA for 18 h after transfection of the bel-2-luciferase constructs .
+The activity of the be/-2 promoter increased by ninefold , and the increase was dependent on the CRE site ( Fig .
+8A ) .
+As was the case for BAL-17 cells , maximal stimulation required the presence of the URE .
+Analysis of the CREBs in DHL-9 nuclear extracts revealed that phosphorylation on serine 133 occurred after treatment of the cells with PMA and to a lesser extent after treatment with forskolin ( Fig .
+8B , lanes 4 and 6 ) .
+As was the case with BAL-17 cells , treatment of DHL-9 cells with forskolin did not result in an increase in bel-2 promoter activity ( data not shown ) .
+To further demonstrate the importance of CREB in the regulation of the be/-2 promoter , cotransfection experiments were performed with a wild-type CREB expression vector or a dominant negative CREB M1 expression vector .
+The dominant negative CREB contains an alanine at position 133 and can not be phosphorylated ( 21 , 51 ) .
+As shown in Fig .
+8C , cotransfection with either the wild-type CREB or CREB M1 resulted in a twofold increase in the constitutive activity of the bel-2 promoter .
+With PMA stimulation , there was a slight increase in promoter activity with the wild-type CREB construct and a dramatic decrease with the CREB M1 construct .
+These changes were mediated through the be ! -2 CRE site , because there was no change in the activity of the promoter construct with mutated CRE site ( Fig .
+8C ) .
+Furthermore , a construct with two CRE sites linked to the simian virus 40 promoter showed changes similar to the be/-2 promoter when Vou .
+16 , 1996 I > Fold Stimulation by PMA 0 Cont .
+WtURE/DRE WtURE MutCRE O 1000 800 600 400 200 % of Basal WtURE/DRE 0 1 : i os pay Cont .
+WT ___ M1 Cont .
+WT M1 Wt URE/DRE MutCRE INDUCTION OF be/-2 BY CREB PROTEINS 5553 Antibody : 0 0 P P C P Forskolin : - - - - -+ PMA : - + - + + % of Basal Activity gus ound pound U0 ( ae - Supershift bnt ug 1 2 3 4 5 6 1500 aa ho O O 900 600 300 Cont .
+WT ___ M1 CRE Cont .
+WT _M1 ri FIG .
+8 .
+Effect of PMA on the activity of the bel-2 promoter in DHL-9 cells .
+( A ) Transient-transfection analysis with the basal promoter ( Cont .
+) , WiURE/DRE , WtDRE , WIURE , and MutCRE constructs after treatment of DHL-9 cells with 50 ng of PMA per ml for 18 h. ( B ) EMSA of the mC1,4 oligonucleotide with DHL-9 nuclear extract .
+Nuclear extracts were prepared after incubation with the indicated compound for 30 min .
+An antibody that recognizes all CREBs ( lane C ) or an antibody specific for the phosphorylated CREB ( lanes P ) was added prior to EMSA as indicated .
+( C ) Cotransfection experiments in DHL-9 cells with wild-type CREB and CREB M1 and the be/-2 promoter constructs WtURE/DRE and MutCRE .
+The cells were untreated ( @ I ) or treated with 50 ng of PMA per ml for 18 h ( @ ) prior to harvesting .
+A 1-pg portion of the RSV CREB constructs ( wild type [ WT ] , dominant negative mutant ( M1 ) or the empty expression vector ( Cont . )
+and 10 jg of either WtURE/DRE or MutCRE were used in each transfection experiment .
+( D ) Cotransfection experiments in DHL-9 cells with wild-type CREB and CREB M1 and a construct with two CRE sites linked to the simian virus 40 promoter ( CRE ) or two # 1 sites linked to the simian virus 40 promoter ( # 1 ) .
+The cells were untreated ( MI ) or treated with 50 ng of PMA for 18 h ( @ ) prior to harvesting .
+A 1-pg portion of the RSV CREB constructs ( wild type [ WT ] , dominant negative mutant [ M1 ] ) or the empty expression vector ( Cont . )
+and 10 ug of either the CRE or # 1 construct were used in each transfection experiment .
+The basal activity of each promoter in the presence of the empty expression vector was assigned a value of 100. wild-type and mutant CREB expression vectors were cotransfected ( Fig .
+8D ) .
+The CRE site was required since a construct with two # 1-binding sites showed no change in activity with cotransfection of either wild-type or M1 CREB ( Fig .
+8D ) .
+These results provide additional support for the role of phosphorylated CREBs in the regulation of the be/-2 promoter during B-cell activation .
+We also wished to determine whether the CRE site in the bel-2 promoter mediated the increase in be/-2 mRNA that is seen in more immature B-cell lines that are rescued from apoptosis induced by anti-IgM or calcium ionophores .
+Treatment with phorbol esters prevents the apoptosis .
+We used the Epstein-Barr virus-negative Ramos cell line to avoid the confounding effects of Epstein-Barr virus gene products on be/-2 expression .
+We confirmed by several different techniques including cell survival and DNA fragmentation analysis that ionomycin caused apoptosis in Ramos cells ( Fig .
+9A and B ) .
+Treatment with PMA protected the cells from apoptosis ( Fig .
+9A and B ) .
+Ramos cells were transfected with the be/-2 pro moter-luciferase constructs and treated with ionomycin , PMA , or ionomycin plus PMA for 6 h before being harvested .
+As shown in Fig .
+9C , treatment with PMA or PMA plus ionomycin resulted in a 12-fold increase in be/-2 promoter activity .
+There was no increase in promoter activity if the CRE site was mu-tated .
+Finally , we demonstrated that treatment of Ramos cells with PMA resulted in phosphorylation of CREBs at serine 133 and that treatment with forskolin had a smaller effect ( Fig .
+9D , lanes 4 and 5 ) .
+DISCUSSION We have identified the major positive regulatory region of the bei-2 promoter in B cells and demonstrated that a CRE site mediates both basal expression and induction of the be/-2 promoter region in B cells following activation of PKC .
+CREBs have been shown to mediate both constitutive and kinase-inducible gene expression ( 29 , 44 , 58 ) .
+Although negative regulatory elements have been described ( 8 , 61 ) , this is the first 5554 WILSON ET AL .
+A 100 c o % Viable Cells P3 & O [ « ] ho O i i 4 _ 8 o 12 18 24 Hours O O - » - lon/PMA - » - PMA -=- lonomycin -*- Medium Mor .
+CELL .
+BioL .
+D 15 3 [ LZ Antibody : 0 0 P P P C 5 Forskolin : - - - - +-212 DPMA PMA : - + -~ + - + 5 , ionomycin 5 mound nsd joed WW pros ( h - Supershift © Bagi a wee o 3 o LL o 0 Cont .
+WtURE/DRE WiDRE WIURE MutCRE 1 2 3 4 5 6 FIG .
+9 .
+PMA treatment of Ramos cells leads to rescue from ionomycin-induced apoptosis and up-regulation of the be/-2 promoter .
+( A ) Effect of 1 pg of ionomycin per ml , 25 ng of PMA per ml , or 1 ag of ionomycin per ml plus 25 ng of PMA per ml on the viability of Ramos cells .
+( B ) Induction of apoptosis in Ramos cells at 12 h after the addition of medium , 1 ug of ionomycin per ml , 25 ng of PMA per ml , or 1 g of ionomycin per ml plus 25 ng of PMA per ml .
+( C ) Transient-transfection analysis with the basal promoter ( Cont .
+) , WtURE/DRE , WiURE , WtDRE , and MutCRE constructs after treatment of Ramos cells with 1 g of ionomycin per ml , 25 ng of PMA per ml , or 1 pg of ionomycin per ml plus 25 ng of PMA per ml for 6 h. ( D ) EMSA of the mC1,4 oligonucleotide with Ramos nuclear extract .
+Nuclear extracts were prepared after incubation with the indicated compound for 30 min .
+An antibody that recognizes all CREBs ( lane C ) or an antibody specific for the phosphorylated CREB ( lanes P ) was added prior to EMSA as indicated .
+In the presence of 1 g of ionomycin per ml , an identical EMSA pattern was obtained .
+report of a positive regulatory element in the be/-2 promoter .
+The constitutive positive region is active in both pre-B and mature B cells .
+We have previously demonstrated that the be/-2 promoter is repressed in pre-B cells by # 1-binding factors and that expression of be/-2 is low in pre-B cells ( 8 ) .
+We describe two discrete positive regulatory regions , referred to as the URE and the DRE .
+Our preliminary results demonstrate that deletions or additions of sequence between the two sites that disrupt the helical spacing lead to loss of activity .
+Although we have not completed the characterization of the URE or identified the transcription factor that binds to the URE , it is possible that protein-protein interactions between CREB and the URE factor are important .
+There are many examples of interactions between two regulatory elements that can be destroyed by a change in helical spacing ( 27 , 46 , 49 , 55 ) .
+In addition , the CREB interacts with factors that bind to an adjacent AP-1 site in a manner dependent on helical spacing ( 24 ) .
+The results of in vitro methylation analysis revealed that the bel-2 DRE consisted of two overlapping sites , CREO and bCRE .
+Transient-transfection analysis revealed that the bCRE site was associated with most of the activity in this region .
+EMSA with transcription factor antibodies , UV cross-linking followed by SDS polyacrylamide gel electrophoresis , and het-erodimerization with a truncated CREB were performed to demonstrate that CREB family members bind to the bCRE site in vitro .
+The presence of a CRE site in the be/-2 promoter implies that the regulation of be/-2 expression is linked to a signal transduction pathway in B cells .
+be/-2 induction is seen in primary B cells with activation and presumably protects the cells from apoptosis .
+It has been demonstrated that CREB can be phosphorylated and transcriptionally activated by PKC ( 59 ) .
+PKC phosphorylates CREB in B cells ( 57 ) .
+This is of interest because it may represent another pathway involved in the activation of B cells .
+Cross-linking of surface Ig results in transactivation of a CRE-dependent promoter-CAT construct ( 56 ) .
+Agents that increase cAMP levels did not activate the CRE-dependent promoter but could act synergistically with cross-linking of surface Ig .
+We have shown that cross-linking of surface Ig receptor on mature B cells leads to increased be/-2 promoter activity through a PKC-dependent pathway involving phosphorylation of CREB .
+This pathway may provide a mechanism for selection of long-lived antigen-reactive B cells by coupling antigen recognition to protection from apoptosis .
+Reagents that in Vou .
+16 , 1996 crease cAMP levels have no effect on the activity of the DRE , either alone or in combination with PMA or anti-Ig M. BAL-17 cells are derived from a malignant lymphoma and resemble partially activated mature B cells .
+They express relatively high levels of be/-2 constitutively .
+It is possible that the magnitude of induction of the be/-2 promoter would be greater in B cells that express lower levels of be/-2 such as resting , mature B cells .
+In support of this , we find that the magnitude of induction of be/-2 expression after phorbol ester treatment of another mature B-cell line , DHL-9 , is approximately threefold greater than that seen in BAL-17 cells .
+A dominant negative CREB construct interferes with the PMA-induced activation of the bei-2 promoter .
+Cotransfection of a wild-type CREB construct increased the constitutive activity by twofold .
+Stimulation with PMA resulted in a similar increase in activity of the be/-2 promoter whether wild-type CREB was cotransfected or not .
+Since we find that 10 to 20 % of the CREBs present in DHL-9 cells are phosphorylated in response to PMA ( Fig .
+8B and Western blotting data [ not shown ] ) , the increase in the level of unphosphorylated CREB may not result in more active phosphorylated CREB .
+Therefore , no increase in promoter activity with PMA would be observed .
+The dominant negative CREB appears to interfere with the function of the phosphorylated CREB , perhaps by forming inactive heterodimers .
+We have demonstrated that a similar signal transduction pathway is involved in the up-regulation of be/-2 expression in immature B cells given a survival signal .
+Treatment of Ramos cells with phorbol esters prevents apoptosis induced by ionomycin or by surface IgM cross-linking .
+be/-2 mRNA is up-regulated , and we show that expression of the be/-2 promoter increases by 12-fold following phorbol ester treatment .
+This increase in expression is dependent on the CRE site in the bel-2 promoter .
+CREBs in phorbol ester-treated Ramos cells are phosphorylated by a pathway involving PKC .
+These results are similar to those found in mature B cell lines and provide a demonstration of the physiological significance of signals through the be/-2 promoter CRE site .
+We have shown that the CRE site mediates the PKC-dependent increase in be/-2 levels in B cells at two different stages of development .
+It will be interesting to determine whether the CRE site plays a role in be/-2 induction in other cells in which Bcl-2 prevents apoptosis , including myeloid , breast , neural , and T cells .
+Recent data have demonstrated that phosphorylation of CREBs during T-cell activation occurs in a cAMP-independent manner and that the phosphorylation of CREB is inhibited by rapamycin in T cells ( 15 ) .
+In addition , be/-2 expression is inhibited by rapamycin ( 38 ) .
+Our description of CRE site regulation of the be/-2 promoter suggests that the inhibitory effect of rapamycin on be/-2 expression may be due to its interference with CREB phosphorylation in T cells .
+Sim-ilarly , in a myeloid cell line that can be rescued from apoptosis by interleukin-3 , the interleukin-3 receptor modulates be/-2 mRNA through a PKC-dependent pathway ( 47 ) .
+Our results raise the possibility that the PKC-CREB pathway we have identified is responsible for the induction of be/-2 mRNA in these cells .
+It is intriguing to speculate that CREBs acting through the CRE site serve as a general mechanism for coupling surface receptor stimulation to protection from apoptosis by Bel-2 .
+ACKNOWLEDGMENTS This work was supported by National Institutes of Health grant CA56764 and by a grant from the Baxter Foundation .
+B.E.W .
+was supported by Physician 's Research Training Award 0006 from the American Cancer Society .
+INDUCTION OF be/-2 BY CREB PROTEINS 5555 We are grateful to Paul Brindle ( St. Jude Children 's Research Hos pital ) for helpful discussions on CREB proteins .
+10 .
+11 .
+12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+25 .
+26 .
+REFERENCES .
+Barton , K. , N. Muthusamy , M. Chanyangam , C. Fischer , C. Clendenin , and J. M. Leiden .
+1996 .
+Defective thymocyte proliferation and IL-1 production in transgenic mice expressing a dominant-negative form of CREB .
+Nature ( London ) 379:81-85. .
+Bonnefoy-Berard , N. , L. Genestier , M. Flacher , and J. P. Revillard .
+1994 .
+The phosphoprotein phosphatase calcineurin controls calcium-dependent apoptosis in B cell lines .
+Eur .
+J. Immunol .
+24:325-329. .
+Brunswick , M. , L. E. Samelson , and J. J. Mond .
+1991 .
+Surface immunoglob- ulin crosslinking activates a tyrosine kinase pathway in B cells that is independent of protein kinase C. Proc .
+Natl .
+Acad .
+Sci .
+USA 88:1311-1314. .
+Burkhardt , A. L. , M. Burnswick , J .
+B. Bolen , and J. J. Mond .
+1991 .
+Anti immunoglobulin stimulation of B lymphocytes activates src-related protein-tyrosine kinases .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 88:7410-7414. .
+Cambier , J. C. , L. B. Justement , K. M. Newell , Z .
+Z. Chen , L. K. Harris , V. M. Sandoval , M. G. Klemsz , and J. T. Ransom .
+1987 .
+Transmembrane signals and intracellular `` second messengers '' in the regulation of quiescent B lymphocyte activation .
+Immunol .
+Rev .
+95:37-57. .
+Campbell , M. A. , and B. M. Sefton .
+1990 .
+Protein tyrosine phosphorylation is induced in murine B lymphocytes in response to stimulation with anti-immunoglobulin .
+EMBO J .
+9:2125-2131. .
+Chaouchi , M. , A. Vazquez , P. Galanaud , and C. Leprince .
+1995 .
+B cell antigen receptor-mediated apoptosis .
+J. Immunol .
+154:3096-3104. .
+Chen , H.-M. , and L. M. Boxer .
+1995 .
+# 1 binding sites are negative regulators of bel-2 expression in pre-B cells .
+Mol .
+Cell .
+Biol .
+15:3840-3847. .
+Chen , Z .
+Z. , K. M. Coggeshall , and J. C. Cambier .
+1986 .
+Translocation of protein kinase C during membrane immunoglobulin-mediated transmembrane signaling in B lymphocytes .
+J. Immunol .
+136:2300-2304 .
+Chiles , T. C , , J. Liu , and T. L. Rothstein .
+1991 .
+Cross-linking of surface Ig receptors on murine B lymphocytes stimulates the expression of nuclear tetradecanoyl phorbol acetate-response element-binding proteins .
+J. Immunol .
+146:1730-1735 .
+Chodosh , L. A .
+1988 .
+UV crosslinking of proteins to nucleic acids , p. 12.5.1-12.5.6 .
+In Current protocols in molecular biology .
+Greene Publishing and Wiley-Interscience , New York .
+Chomezynski , P. , and N. Sacchi .
+1986 .
+Single step method of RNA isolation by acidic guanidinium thiocyanate phenol extraction .
+Anal .
+Biochem .
+162 ; 156-159 .
+Cohen , J. J .
+1991 .
+Programmed cell death in the immune system .
+Adv .
+Immunol .
+50:55-85 .
+Cuende , E. , J. E. Ales-Martinez , L. Ding , M. Gonzalez-Garcia , C .
+Martinez-A. , and G. Nunez .
+1993 .
+Programmed cell death by bel-2-dependent and independent mechanisms in B lymphoma cells .
+EMBO J .
+12:1555-1560 .
+Feuerstein , N. , D. Huago , S. H. Hinrichs , D. J. Orten , N. Aiyar , and M. B. Prystowsky .
+1995 .
+Regulation of cAMP-responsive enhancer binding proteins during cell cycle progression in T lymphocytes stimulated by IL-2 .
+J. Immunol .
+154:68-79 .
+Forsgren , A. , A. Suedjelund , and H. Wigzell .
+1976 .
+Lymphocyte stimulation by protein A of Staphylococcus aureus .
+Eur .
+J. Immunol .
+6207-213 .
+Gauss , G. H. , and M. R. Lieber .
+1992 .
+DEAE-dextran enhances electroporation of mammalian cells .
+Nucleic Acids Res .
+20:6739-6740 .
+Genestier , L. , N. Bonnefoy-Berard , J.-P. Rouault , M. Flacher , and J.-P. Revillard .
+1995 .
+Tumor necrosis factor- « up-regulates Bcl-2 expression and decreases calcium-dependent apoptosis in human B cell lines .
+Int .
+Immunol .
+7533-540 .
+Gold , M. R. , J. P. Jakway , and A. L. DeFranco .
+1987 .
+Involvement of a guanine nucleotide-binding component in membrane Ig M-stimulated phos-phoinositide breakdown .
+J. Immunol .
+139:3604-3613 .
+Gold , M. R. , D. A .
+Law , and A. L. DeFranco .
+1990 .
+Stimulation of protein tyrosine phosphorylation by the B-lymphocyte antigen receptor .
+Nature ( London ) 345:810-813 .
+Gonzalez , G. A. , and M. R. Montminy .
+1989 .
+Cyclic AMP stimulates somatostatin gene tranciption by phosphorylation of CREB at serine 133 .
+Cell 59:675-680 .
+Graninger , W. B. , M. Seto , B. Boutain , P. Goldman , and S. J. Korsmeyer .
+1987 .
+Expression of bel-2 and bel-2-Ig fusion transcripts in normal and neoplastic cells .
+J. Clin .
+Invest .
+80:1512-1515 .
+Gregory , C. D. , C. Dive , S. Henderson , C. A. Smith , G. T. Williams , J. Gordon , and A .
+B. Rickinson .
+1991 .
+Activation of Epstein-Barr virus latent genes protects human B cells from death by apoptosis .
+Nature ( London ) 349:612-614 .
+Hanson , R. D. , J. L Grisolana , and T. J. Ley .
+1993 .
+Consensus AP-1 and CRE motifs upstream from the human cytotoxic serine protease B ( CSP-B/ CGL-1 ) gene synergize to activate transcription .
+Blood 82:2749-2757 .
+Harnett , M. M. , and G. G. B. Klaus .
+1988 .
+G protein coupling of antigen receptor-stimulated polyphosphoinositide hydrolysis in B cells .
+J. Immunol .
+140:3135-3139 .
+Hartley , S. B. , M. P. Cooke , D. A. Fulcher , A. W. Harris , S. Cory , A. Basten , and C. C. Goodnow .
+1993 .
+Elimination of self-reactive B lymphocytes pro 5556 27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+WILSON ET AL .
+ceeds in two stages : arrested development and cell death .
+Cell 72:325-335 .
+Huang , L. M. , and K. T. Jeang .
+1993 .
+Increased spacing between Sp1 and TATAA renders human immunodeficiency virus type 1 replication defective : implications for Tat function .
+J. Virol .
+67:6937-6944 .
+Knox , K. A. , M. Finney , A. E. Milner , C. D. Gregory , M. J. O. Wakelam , R. H. Vichell , and J. Gordon .
+1992 .
+Second-messenger pathways involved in the regulation of survival in germinal-centre B cells and in Burkitt lymphoma lines .
+Int .
+J .
+Cancer 52:959-966 .
+Krajewski , W. , and K. A. W. Lee .
+1994 .
+A monomeric derivative of the cellular transcription factor CREB functions as a constitutive activator .
+Mol .
+Cell .
+Biol .
+14:7204-7210 .
+Lalli , E. , and P. Sassone-Corsi .
+1994 .
+Signal transduction and gene regula-tion : the nuclear response to cAMP .
+J. Biol .
+Chem .
+269:17359-17362 .
+Lane , P. J. L. , J .
+A. Ledbetter , R. M. McConnell , K. Draves , J. Deans , G. L. Schieven , and E. A. Clark , 1991 .
+The role of tyrosine phosphorylation in signal transduction through surface Ig in human B cells .
+J. Immunol .
+146 : 715-722 .
+Lee , K. A. W. , and N. Masson .
+1993 .
+Transcriptional regulation by CREB and its relatives .
+Biochim .
+Biophys .
+Acta 1174:221-233 .
+Levy , Y. , and J.-C. Brouet .
+1994 .
+Interleukin-10 prevents spontancous death of germinal center B cells by induction of the bel-2 protein .
+J. Clin .
+Invest .
+93:424-428 .
+Liu , J. , T. C. Chiles , R. Sen , and T. L. Rothstein .
+1991 .
+Inducible nuclear expression of NF-kB in primary B cells stimulated through the surface Ig receptor .
+J. Immunol .
+146:1685-1691 .
+Liu , Y.-J. , D. Y. Mason , G. D. Johnson , S. Abbot , C. D. Gregory , D. L. Hardie , J. Gordon , and I. C. M. MacLennan .
+1991 .
+Germinal center cells express bel-2 protein after activation by signals which prevent their entry into apoptosis .
+Eur .
+J. Immunol .
+21:1905-1910 .
+Meyer , T. E. , and J. F. Habener .
+1993 .
+Cyclic adenosine 3',5'-monophos-phate response element binding protein ( CREB ) and related transcription-activating deoxyribonucleic acid-binding proteins .
+Endocr .
+Rev .
+14:269-290 .
+Miyashita , T. , M. Harigai , M. Hanada , and J. C. Reed .
+1994 .
+Identification of a p53-dependent negative response element in the be/-2 gene .
+Cancer Res .
+54:3131-3135 .
+Miyazaki , T. , Z.~-J .
+Liu , A. Kawahara , Y. Tsujimoto , E. L. Barsoumian , R. M. Perlmutter , and T. Taniguchi .
+1995 .
+Three distinct IL-2 signaling pathways mediated by bel-2 , c-myc and Ick cooperate in hematopoietic cell proliferation .
+Cell 81:223-231 .
+Monroe , J. G. , and S. Haldar , 1989 .
+Involvement of a specific guanine nucleotide binding protein in receptor immunoglobulin stimulated inositol phospholipid hydrolysis .
+Biochim .
+Biophys .
+Acta 1013:273-278 .
+Montminy , M. R. , K. A. Sevarino , J .
+A. Wagner , G. Mandel , and R. H. Goodman .
+1986 .
+Identification of a cyclic-AMP-responsive element within the rat somatostatin gene .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 83:6682-6686 .
+Negrini , M. , E. Silini , C. Kozak , Y. Tsujimoto , and C. Croce .
+1987 .
+Molecular analysis of mbcl-2 : structure and expression of the murine gene homologous to the human gene involved in follicular lymphoma .
+Cell 49:455-463 .
+Ning , Z.-Q. , J. D. Norton , D. Johnson , and J. J. Murphy .
+1995 .
+Early gene signalling-dependent and -independent induction of apoptosis in Ramos human B cells can be inhibited by over-expression of bel-2 .
+Biochem .
+Biophys .
+Res .
+Commun .
+215:23-29 .
+Parnes , J. R. , and J. G. Seidman .
+1982 .
+Structure of wild-type and mutant beta 2-microglobulin genes .
+Cell 29:661-669 .
+Quinn , P. G. 1993 .
+Distinct activation domains within cAMP response element-binding protein ( CREB ) mediate basal and cAMP-stimulated tran 45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+57 .
+58 .
+59 .
+60 .
+61 .
+Mor .
+CELL .
+BioL .
+scription .
+J. Biol .
+Chem .
+268:16999-17009 .
+Reed , J. , Y. Tsujimoto , J. D. Alpers , C. M. Croce , and P. C. Nowell .
+1987 .
+Regulation of bel-2 proto-oncogene expression during normal human lymphocyte proliferation .
+Science 236:1295-1298 .
+Reith , W. , C. A. Siegrist , B. Durand , E. Barras , and B. Mach .
+1994 .
+Function of major histocompatibility complex class II promoters requires cooperative binding between RFX and NF-Y .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 91:554-558 .
+Rinaudo , M. S. , K. Su , L. A. Falk , S. Haldar , and R. A. Mufson .
+1995 .
+Human interleukin-3 receptor modulates be/-2 mRNA and protein levels through protein kinase C in TF-1 cells .
+Blood 86:80-88 .
+Romagnani , S. , M. G. Gindizi , R. Biagiotti , F. Almerigona , E. Maggi , G. Del Prete , and M. Ricci .
+1981 .
+Surface immunoglobulins are involved in the interaction of protein A with human B cells and in the triggering of B cell proliferation induced by protein A-containing Staphylococcus aureus .
+J. Immunol .
+127:1307-1313 .
+Schanke , J. T. , and B. G. Van Ness .
+1994 .
+Organization of the transcription factor binding sites in the kappa Ig intron enhancer .
+Effects of position , orientation , and spacing , J. Immunol .
+153:4564-4572 .
+Seto , M. , U. Jaeger , R. D. Hockett , W. Graninger , S. Bennett , P. Goldman , and S. J. Korsmeyer .
+1988 .
+Alternative promoters and exons , somatic mutation and deregulation of the Bel-2-Ig fusion gene in lymphoma .
+EMBO J .
+7123-131 .
+Struthers , R. S. , W. W. Vale , C. Arias , P. E. Sawchenko , and M. R. Montminy .
+1991 .
+Somatotroph hypoplasia and dwarfism in transgenic mice expressing a non-phosphorylatable CREB mutant .
+Nature ( London ) 350:622-624 .
+Tsubata , T. , J. Wu , and T. Honjo .
+1993 .
+B-cell apoptosis induced by antigen receptor crosslinking is blocked by a T-cell signal through CD40 .
+Nature ( London ) 364:645-648 .
+Valentine , M. A. , and K. A. Licciardi .
+1992 .
+Rescue from anti-IgM-induced programmed cell death by the B cell surface proteins CD20 and CD40 .
+Eur .
+J. Immunol .
+22:3141-3148 .
+Venkataraman , L. , D. A. Francis , Z. Wang , J. Liu , T. L. Rothstein , and R. Sen. 1994 .
+Cyclosporin-A sensitive induction of NF-AT in murine B cells .
+Immunity 1:189-196 .
+Wang , G. , H. I. Yeh , and J. J. Lin .
+1994 .
+Characterization of cis-regulating elements and trans-activating factors of the rat cardiac troponin T gene .
+J. Biol .
+Chem .
+269:30595-30603 .
+Xie , H. , T. C. Chiles , and T. L. Rothstein .
+1993 .
+Induction of CREB activity via the surface Ig receptor of B cells .
+J. Immunol .
+151:880-889 .
+Xie , H. , and T. L. Rothstein .
+1995 .
+Protein kinase C mediates activation of nuclear cAMP response element-binding protein ( CREB ) in B lymphocytes stimulated through surface Ig .
+J. Immunol .
+154:1717-1723 .
+Xing , L. , and P. G. Quinn .
+1994 .
+Three distinct regions within the constitutive activation domain of cAMP regulatory element-binding protein ( CREB ) are required for transcription activation .
+J. Biol .
+Chem .
+269:28723-28736 .
+Yamamoto , K. K. , G. A. Gonzalez , W. H. I. Biggs , and M. R. Montminy .
+1988 .
+Phosphorylation-induced binding and transcriptional efficacy of nuclear factor CREB .
+Nature ( London ) 334:494-498 .
+Yamanashi , U. , Y. Fukui , B. W t , U. Kinoshita , Y. Ichimori , K. Toyoshima , and T. Yamamoto .
+1992 .
+Activation of Src-like protein kinase Lyn and its association with phosphatidylinositol 3-kinase upon B-cell antigen receptor-mediated signaling .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 89:1118-1122 .
+Young , R. L. , and S. J. Korsmeyer .
+1993 .
+A negative regulatory element in the bel-2 5'-untranslated region inhibits expression from an upstream promoter .
+Mol .
+Cell .
+Biol .
+13:3686-3697 .

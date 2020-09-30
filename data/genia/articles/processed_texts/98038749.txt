@@ -1,0 +1,551 @@
+MoLECULAR AND CELLULAR BIOLOGY , Dec. 1997 , p. 6815-6821 0270-7306/97/ $ 04.00+0 Copyright © 1997 , American Society for Microbiology Vol .
+17 , No .
+12 Regulation of Id3 Cell Cycle Function by Cdk-2-Dependent Phosphorylation RICHARD W. DEED , `` EIJI HARA , `` GRAHAM T. ATHERTON , GORDON PETERS , `` anp JOHN D .
+NORTON !
+'* CRC Department of Gene Regulation , Paterson Institute for Cancer Research , Christie Hospital NHS Trust , Manchester M20 9BX , `` and Imperial Cancer Research Fund Laboratories , London WC2A 3PX , `` United Kingdom Received 28 March 1997/Returned for modification 10 June 1997/Accepted 4 September 1997 The functions of basic helix-loop-helix ( bHLH ) transcription factors in activating differentiation-linked gene expression and in inducing G , cell cycle arrest are negatively regulated by members of the Id family of HLH proteins .
+These bHLH antagonists are induced during a mitogenic signalling response , and they function by sequestering their bHLH targets in inactive heterodimers that are unable to bind to specific gene regulatory ( E box ) sequences .
+Recently , cyclin E-Cdk2- and cyclin A-Cdk2-dependent phosphorylation of a single conserved serine residue ( Ser5 ) in Id2 has been shown to occur during late G ; -to-S phase transition of the cell cycle , and this neutralizes the function of Id2 in abrogating E-box-dependent bHLH homo- or heterodimer complex formation in vitro ( E. Hara , M. Hall , and G. Peters , EMBO J .
+16:332-342 , 1997 ) .
+We now show that an analogous cell-cycle-regulated phosphorylation of Id3 alters the specificity of Id3 for abrogating both E-box-dependent bHLH homo- or heterodimer complex formation in vitro and E-box-dependent reporter gene function in vivo .
+Furthermore , compared with wild-type Id3 , an Id3 Asp5 mutant ( mimicking phosphorylation ) is unable to promote cell cycle S phase entry in transfected fibroblasts , whereas an Id3 AlaS mutant ( ablating phosphorylation ) displays an activity significantly greater than that of wild-type Id3 protein .
+Cdk2-dependent phosphorylation therefore provides a switch during late G , -to-S phase that both nullifies an early G , cell cycle regulatory function of Id3 and modulates its target bHLH specificity .
+These data also demonstrate that the ability of Id3 to promote cell cycle S phase entry is not simply a function of its ability to modulate bHLH heterodimer-dependent gene expression and establish a biologically important mechanism through which Cdk2 and Id-bHLH functions are integrated in the coordination of cell proliferation and differentiation .
+Transcription factors characterized by the basic helix-loop-helix ( bHLH ) domain play an essential role in the regulation of cell growth and differentiation ( 24 , 30 ) .
+DNA binding of bHLH proteins to a consensus E box recognition sequence ( CANNTG ) is facilitated by the basic region located immediately N-terminal to the two amphipathic alpha helices encompassing the loop region , which together comprise the highly conserved HLH domain ( 24 , 34 ) .
+The HLH domain itself mediates dimerization , which is essential for DNA binding and transcriptional activation of target genes that are typically involved in driving cell lineage commitment and terminal differentiation ( 24 , 30 , 34 ) .
+There are two distinct classes of bHLH proteins ( 18 , 24 ) .
+Class A bHLH proteins , exemplified by the E2A-encoded E12 , E47 , and E2-5/ITF proteins ( 14 , 31 ) , often referred to as the `` E `` proteins , are ubiquitously expressed , whereas the class B subset represents a rather larger collection of more-tissue-specific transcription factors such as MyoD ( and its myogenic relatives ) in muscle cells ( 32 , 36 , 42 ) , TAL1/ LYL-1 in hemopoietic cells ( 35 ) , and NeuroD in neuronal cells ( 23 ) .
+Although homodimers of class A bHLH proteins are known to be functional , most notably in the B-lymphocyte lineage ( 2 , 3 , 44 ) , the more usual configuration for E box * Corresponding author .
+Mailing address : CRC Department of Gene Regulation , Paterson Institute for Cancer Research , Christie Hospital NHS Trust , Wilmslow Rd .
+, Manchester M20 9BX , United Kingdom .
+Phone : ( 44 ) 161 446 3129 .
+Fax : ( 44 ) 161 446 3109 .
+E-mail : grgjdn @ picr.cr.man.ac.uk .
+{ Present address : Department of Preventive Medicine , Kyoto Pre-fectural University of Medicine , Kawaramachi-Hirokohi , Kamigyo-ku , Kyoto 602 , Japan .
+6815 binding and transcriptional activation is a class A-class B bHLH heterodimer .
+The activities of bHLH proteins are regulated through a variety of mechanisms , one of which involves heterodimerization with members of the Id family of HLH proteins ( 6 ) .
+This distinct class of HLH protein , of which there are four members in mammals ( Id1 to Id4 ) ( 24 ) , is characterized by the absence of a basic DNA-binding domain .
+As a consequence , Id proteins are able to antagonize the DNA-binding and transcriptional activation functions of bHLH transcription factors through heterodimerization ( 6 , 24 ) , a process which also results in destabilization of the bHLH protein partner ( 8 ) .
+In addition , enforced ectopic expression of Id genes in a variety of cell lineages can promote cell growth and inhibit differentiation , and this is typically manifested in a delayed exit from the cell cycle under differentiation-inducing conditions ( 1 , 10 , 17 , 37 , 41 ) .
+These functional properties of Id proteins exactly mirror those of their bHLH counterparts , which , in addition to driving differentiation-linked gene expression , also function to inhibit cell proliferation , principally through an arrest in the G , phase of the cell cycle ( 7 , 33 , 40 ) .
+Significantly , Id gene and protein expression is markedly up-regulated during the G , phase transition in response to mitogenic stimulation ( 4 , 9 , 13 , 29 ) .
+Furthermore , antisense oligonucleotide blockade and antibody microinjection experiments have suggested a requirement of Id function for entry of cells into S phase ( 4 , 13 , 33 ) .
+A widely held view is that the opposing activities of bHLH and Id proteins represent a major control mechanism for determining cell fate .
+Recently , a potential link has been established between the activities of Id-bHLH proteins and cell cycle regulation by the demonstration that the Id2 protein is a substrate for cyclin E 6816 DEED ET AL .
+and cyclin A-dependent Cdk2 activity ( 12 ) .
+Cdk2-dependent phosphorylation of a serine residue at position 5 in Id2 abolishes its ability to antagonize the formation of a model E12-MyoD-E-box-binding complex in in vitro band shift assays .
+Moreover , following mitogenic stimulation in vivo , phosphorylation of Id2 at serine 5 occurs during late G , , at a time which correlates both with activation of cyclin E-Cdk2 and with the formation of a specific E box DNA-binding complex in vivo that can be abrogated with an excess of unphosphorylated Id2 protein ( 12 ) .
+These observations suggested that Cdk2-dependent phosphorylation of Id proteins might alter their target specificities and that this might represent an important mechanism for modulating Id-bHLH functions in cell cycle control .
+We have now confirmed both of these predictions with respect to Id3 , the only other well-characterized Id family member that possesses the conserved consensus Cdk phosphorylation site at serine 5 .
+Like Id2 , the Id3 protein becomes phosphorylated in late G , , at a time coincident with the activation of cyclin A- and cyclin E-dependent Cdk2 .
+In vitro phosphorylation of Id3 by Cdk2 abolishes its ability to antagonize E12 homodimer binding to an E box sequence .
+However , in contrast to Id2 , phosphorylation of Id3 greatly enhances its ability to abrogate E12-MyoD-E box complex formation in vitro , and substitution of a highly charged aspartate residue at serine 5 ( mimicking phosphorylation ) similarly enhances its ability to inhibit E12-MyoD transactivation of an E-box-dependent reporter gene in vivo .
+However , compared with the wild-type protein , AspS Id3 is completely devoid of activity in promoting S phase of the cell cycle in transfected fibroblasts , whereas an Ala5s mutant Id3 ( ablating phosphorylation ) displays an activity significantly greater than that of the wild-type protein .
+Cdk2-dependent phosphorylation of Id3 during late G , therefore nullifies a cell cycle regulatory function of this Id protein which is known to be required during early G , .
+Our findings also demonstrate that by analogy with their bHLH counterparts ( 7 , 33 , 40 ) , the cell cycle regulatory functions of Id proteins in promoting S phase may be dissociable from their ability to modulate bHLH heterodimer-dependent gene expression .
+MATERIALS AND METHODS Purification of bacterially expressed Id proteins .
+The human Id1 , Id2 ( 13 ) , and Id3 ( 9 ) coding sequences and their various mutants were cloned into the pGEX-2T vector ( Pharmacia ) or the pRSET-B vector ( Invitrogen ) for expression in bacteria .
+The recombinant proteins were expressed in Escherichia coli BL21 ( DE3 ) pLysS .
+Glutathione S-transferase ( GST ) -Id proteins were purified according to published protocols ( 39 ) .
+Histidine-tagged Id proteins produced in the pRSET-B vector were purified on nickel-charged chelating agarose as recommended by the supplier ( Invitrogen ) .
+In vitro kinase assays .
+In vitro kinase assays were performed essentially as described previously ( 12 ) .
+Briefly , Sf9 insect cells were coinfected with the appropriate recombinant baculoviruses , and whole-cell extracts were prepared 48 h postinfection as previously described ( 20 ) .
+Phosphorylation reactions ( final vol-ume , 40 pl ) were performed in a solution containing 10 mM HEPES ( pH 7.8 ) , 1 mM MgCl , , 1 mM dithiothreitol , 100 mM ATP , and 5 wCi of [ y-*°P ] ATP and incubated with 1 pg of GST-Id1 , GST-Id2 , or GST-Id3 bound to glutathione-Sepharose beads .
+After 15 min at 37°C , the reactions were terminated by the addition of 1 ml of an ice-cold buffer , NETN , containing 20 mM Tris-HCl ( pH 8.0 ) , 100 mM NaCl , 1 mM EDTA , and 0.5 % Nonidet P-40 .
+The glutathione-Sepharose beads were recovered by centrifugation , washed several times in NETN , boiled , and analyzed by sodium dodecyl sulfate-polyacrylamide gel electrophoresis ( SDS-PAGE ) with a 12 % polyacrylamide gel .
+In some experiments , the Sf9 cell lysates were preincubated for 10 min at 30°C with 20 ng of histidine-tagged p21 protein .
+Phosphate labelling and immunoprecipitation .
+Primary human B cells were isolated as described previously ( 29 ) and were rested overnight in medium ( RPMI supplemented with 10 % fetal calf serum [ FCS ] ) .
+Phorbol ester ( PMA ) was then added to 30 nM , and cells were labelled with 0.5 mCi of [ **P phate per ml for 2 h prior to harvest at various times poststimulation .
+Parallel cultures were stimulated with PMA and labelled with [ *°SJmethionine as described previously ( 8 ) .
+Labelled cells were washed in ice-cold phosphate-buffered saline ( PBS ) , and Id3 protein was immunoprecipitated from radicimmunopre-cipitation assay lysates ( 50 mM Tris-HCl [ pH 8.0 ] , 150 mM NaCl , 1 % Nonidet Mor .
+CELL .
+BioL .
+P-40 , 0.1 % SDS , 0.5 % sodium deoxycholate ) with RD-1 polyclonal anti-Id3 antibody for analysis on SDS-12 % polyacrylamide gels , as described elsewhere ( 8 ) .
+For some experiments , labelled lysates were similarly prepared from transiently transfected COS cells and used for immunoprecipitation of Id3 .
+Expression constructs ( 8 ) encoding wild-type Id3 and Id3 AlaS and Asp§5 mutants were in the pcDNA3 expression vector ( Invitrogen ) , as were expression constructs encoding cyclin E , CdK2 , p16 , and p21 .
+Electrophoretic mobility shift assays .
+Unlabelled proteins were synthesized by coupled transcription and translation of plasmid DNA by using the TNT expression system ( Promega ) with either T7 or SP6 RNA polymerase .
+Samples ( 5 wl ) of the different translation reaction mixtures were mixed and used for DNA-binding assays .
+An E box consensus oligonucleotide based on the muscle creatine kinase gene enhancer was used in all band shift assays ( 12 ) .
+This was °°P labelled with the Klenow fragment of E. coli DNA polymerase I and was used in conjunction with a mutant unlabelled oligonucleotide competitor in some experiments , as described previously ( 12 ) .
+DNA-binding reactions were done in a total volume of 20 pl comprising 20 mM HEPES ( pH 7 ) , 500 mM KCl , 1 mM dithiothreitol , 1 mM EDTA , 5 % glycerol , 1 pg of double-stranded poly ( dI-dC ) , and 0.2 ng of labelled double-stranded probe .
+The mixtures were preincubated without the labelled probe at room temperature for 10 min and for 15 min further at room temperature after addition of the labelled probe .
+The concentrations and purities of bacterially expressed ( histidine-tagged ) Id proteins used in various experiments were verified by PAGE using Coomassic blue staining .
+The binding reactions were then subjected to electrophoresis on a 6 % polyacrylamide gel in 25 mM Tris ( pH 8.3 ) -25 mM boric acid-0.5 mM EDTA at 150 V for 2 h at room temperature .
+The gels were dried , and labelled complexes were detected by autoradiography .
+Analysis of gene regulatory and cell cycle functions of Id3 .
+Mouse NIH 3T3 fibroblasts were transiently transfected by the calcium phosphate procedure with an E-box-driven chloramphenicol acetylase ( CAT ) reporter cassette together with E12 and MyoD expression vectors , as described previously ( 1 ) .
+The reporter was challenged with increasing inputs of either wild-type or mutant Id expression constructs , and all transfections were normalized for efficiency by inclusion of a luciferase reporter .
+Quantitation of CAT and luciferase activity in cells at 24 h posttransfection was performed as described previously ( 1 ) .
+The two-hybrid luciferase assay was carried out essentially as described previously ( 8 ) , except that a dual luciferase reporter system ( Stop and Glo Lucif-erase ; Promega ) was used to facilitate monitoring of transfection efficiency .
+The plasmids encoding Vp16MyoD and Gal4E12 were constructed by insertion of mouse MyoD and human E12 cDNAs , modified by the addition of a BamHI recognition site at the ATG start site , into BamHI/EcoRI-digested pVp16 Neo !
+and Psg 424 vectors , respectively ( 8 ) .
+For analysis of Id3 effects on cell proliferation , primary rat embryo fibroblasts ( cultured in Dulbecco modified Eagle medium supplemented with 10 % FCS ) were transiently transfected as above .
+The LacZ-expressing vector pCMVBGal ( 1 ) was included as a marker to permit immunofluorescent detection of transfected cells .
+Cells were pulse labelled with 10 nM bromodeoxyuridine ( BrdU ) for 4 h and then washed in PBS and fixed with 4 % paraformaldehyde .
+After per-meabilization in 0.2 % Triton X-100 ( 15 min ) , cells were incubated in a 1/500 dilution of anti-LacZ antibody ( 5 Prime-3 Prime , Boulder , Colo. ) overnight at 4°C , washed , and then incubated with a 1/100 dilution of biotin-labelled anti-rabbit antibody ( Dako ) at room temperature for 1 h. A 1/40 dilution of strepta-vidin-fluorescein isothiocyanate ( Dako ) was used for immunofluorescent detection of LacZ-expressing cells .
+For detection of incorporated BrdU , cells were then incubated with 2 M HCI for 20 min , washed in PBS , and then incubated with a 1/10 dilution of monoclonal antibody to BrdU for 30 min , essentially as described by the supplier ( Boehringer ) .
+After a wash in PBS , a direct Texas red conjugate of secondary anti-mouse antibody was used at a 1/40 dilution .
+The expression of transfected Id protein was monitored by immunofluorescent staining in these experiments , essentially as described previously ( 8 ) .
+RESULTS Cdk2-dependent phosphorylation of Id3 in vitro .
+To determine whether Id3 could be phosphorylated in vitro by cyclin-Cdk2 complexes , bacterially expressed Id proteins were incubated with cell extracts from baculovirus-infected Sf9 cells expressing combinations of cyclins and Cdk 's .
+As shown in Fig .
+1A , the Id1 protein , which lacks a consensus Cdk site , was not detectably phosphorylated by any of the combinations of cyclins or Cdk 's used .
+Consistent with previous data ( 12 ) , Id2 was phosphorylatable by cyclin A- and E-Cdk2 but not by cyclin D-Cdk4 , and the same profile was displayed by the Id3 protein ( Fig .
+1A ) .
+Interestingly , cyclin A-Cdk2 appeared to phosphor-ylate Id3 more efficiently than did cyclin E-Cdk2 in the in vitro assays ( compare the profiles of Id2 and Id3 in Fig .
+1A ) , raising the possibility of substrate specificity of these Cdk2 complexes for Id3 .
+Cyclin A- and E-Cdk2 phosphorylation of Id3 was Vor .
+17 , 1997 Id3Wt Id3Ala5 FIG .
+1 .
+In vitro phosphorylation of Id proteins by cyclin-Cdk2 complexes .
+( A ) Sf9 insect cells were coinfected with baculovirus vectors encoding the appropriate cyclins and Cdk 's in order to assemble functional complexes in vivo .
+Lysates were then incubated with the relevant GST-Id protein together with [ y-P ] JATP .
+Control lysates were from uninfected S9 cells .
+The resulting labelled proteins were analyzed by SDS-PAGE with a 12 % acrylamide gel .
+( B ) A histidine-tagged Id3 protein , either the wild type ( Wt ) or having a mutation at serine 5 ( SerS-Ala5 ) , was used for the in vitro kinase assay in the presence of the Cdk2 inhibitor , p21 ( expressed as a His-tagged fusion protein ) .
+completely abolished by the Cdk inhibitor , p21 , and also by site-directed mutagenesis of Id3 at serine 5 ( SerS-Ala5 ) , as shown in Fig .
+1B .
+Cdk2-dependent phosphorylation of Id3 in vivo .
+To investigate whether phosphorylation of Id3 occurs in vivo , primary human B cells were used , since this cell type expresses particularly abundant levels of Id3 protein .
+Following mitogenic stimulation , a transient peak of Id3 protein was detected by labelling at around 4 h poststimulation ( Fig .
+2A ) .
+This had declined by 16 h and was upregulated at 24 h , around the time of transition from G ; , to S phase of the cell cycle .
+By contrast , °°P-labelled Id3 was immunoprecipitable only at these later time points ( Fig .
+2A ) , which coincided with the appearance of cyclin A- and E-Cdk2 activity ( data not shown ) .
+The cell cycle kinetics of Id3 phosphorylation therefore appear to be identical to those previously reported for Id2 ( 12 ) .
+Moreover , when expression constructs encoding either wild-type Id3 or the Ala5 mutant of Id3 were transfected into COS cells , only the wild-type protein was °°P labelled , whereas both mutant and wild-type proteins were [ **S ) methionine labelled ( Fig .
+2B ) .
+Phosphorylation was specifically abrogated by the Cdk inhibitor , p21 ( Fig .
+2C ) , but not by p16 , which specifically targets Cdk4 and Cdk6 .
+Essentially all of the in vivo-phosphorylated Id3 can therefore be accounted for by cyclin E-and A-Cdk2 phosphorylation of the serine 5 residue .
+Cdk2-dependent phosphorylation of Id3 affects bHLH antagonism in vitro .
+Previously , phosphorylation of Id2 by cyclin A- and E-Cdk2 was shown to completely abrogate its ability to antagonize bHLH protein binding to a consensus E box oligonucleotide sequence in a model in vitro band shift system ( 12 ) .
+We therefore used the same assay system to evaluate the func- CELL CYCLE PHOSPHORYLATION OF Id3 - 6817 tional consequences of phosphorylation of Id3 .
+The Id1 protein , which is not detectably phosphorylated by cyclin A- or E-Cdk2 , provided a convenient control in these experiments .
+As shown in Fig .
+3A , specific complexes representing either an E12 homodimer or an E12-MyoD heterodimer were formed following incubation of in vitro-translated protein with a labelled E box oligonucleotide .
+Increasing the inputs of each of the three Id proteins ( in the unphosphorylated state ) gave qualitatively and quantitatively distinct profiles of inhibition of homodimer and heterodimer binding to DNA ( Fig .
+3B ) .
+Incubation of Id1 with cyclin-Cdk2 did not affect this inhibition , whereas in vitro phosphorylation of Id2 completely neutralized its function , as expected ( Fig .
+3C ) .
+However , cyclin A-Cdk2 phosphorylation of Id3 altered its bHLH-antagonizing proper-ties .
+In contrast to Id3 protein in its unphosphorylated state , which inhibits E12 homodimer but not E12-MyoD heterodimer binding , the in vitro-phosphorylated Id3 protein inhibits exclusively the E12-MyoD heterodimer but not the E12 homodimer ( Fig .
+3C ) .
+Indeed , the intensity of the E12 homodimer complex was actually increased following addition of phosphorylated Id3 protein , presumably as a result of sequestration of the MyoD partner by phosphorylated Id3 .
+Since MyoD does not form an E-box-binding homodimer ( reference 22 and data not shown ) , we could not directly test this in band shift assays .
+As shown in Fig .
+4 , the Ala5 Id3 mutant behaved in a way similar to the wild-type protein .
+However , substitution of a highly charged aspartate residue at position 5 ( Id3 Asp5 ) faithfully mimicked the properties of the in vitro-phosphorylated Time ( hrs ) - O0 4 8 16 24 mage _- e % , % g Id3- » FIG .
+2 .
+In vivo phosphorylation of Id3 by cyclin A- and E-Cdk2 complexes .
+( A ) Primary human B cells were stimulated with PMA for the times indicated and then radiolabelled with either or Id3 protein was immunoprecipitated from cell lysates and analyzed by SDS-PAGE , .
+( B ) COS cells were transiently transfected with expression vectors encoding either wild-type ( Wt ) or mutant Id3 protein ( Ser5-Ala5 ) and then radiolabelled with either [ *S ) methionine or [ **PJorthophosphate prior to analysis by immunoprecipitation as described above .
+( C ) COS cells were transfected with either wild-type or Ala5 mutant Id3 expression constructs in combination with expression vectors encoding cyclins , Cdk2 , and Cdk2 inhibitors , as indicated .
+Cells were labelled with [ °PJorthophosphate and then lysed and analyzed by immunoprecipitation and SDS-PAGE .
+6818 DEED ET AL .
+a 0 3 Id1 Mor .
+CELL .
+BioL .
+B C Id2 [ eK ] II - II 1 1 5 25 1 5 25 1 5 25 Q0v Q0 » QOv E12/MyoD-f E12/E12 prove -.| viii d U- 08 BOH Wg ( n- amana FIG .
+3 .
+Attenuation of Id function by phosphorylation at Ser5 .
+Band shift analyses were performed with a *°P-labelled E box oligonucleotide probe together with in vitro-translated E12 and MyoD proteins .
+The retarded complexes corresponding to the E12 homodimer ( con .
+E12 ) and to the E12-MyoD heterodimer ( con .
+E12/MyoD ) are indicated by arrows ; the specificity of interaction was confirmed by competition with a 50-fold excess of unlabelled wild-type ( Wt ) or mutant ( Mut ) oligonucleotide probe ( A ) .
+Complexes were challenged with increasing inputs of each histidine-tagged Id protein ( B ) or with 25 ng of each Id protein either unphosphorylated or in vitro-phosphorylated with a cell extract from Sf9 cells expressing baculovirus-encoded cyclin A-Cdk2 ( C ) .
+1Id3 protein .
+A control Id3 mutant which incorporates a helix-breaking proline residue ( Pro49 ) in the H1 domain ( 8 ) was almost totally ineffectual in inhibiting either homodimer or heterodimer bHLH binding ( Fig .
+4 ) .
+These results were confirmed in band shift assays evaluating E12 homodimer binding in isolation ( Fig .
+5 ) .
+Effects of phosphorylation on in vivo gene expression and biological properties of Id3 .
+To evaluate the in vivo consequences of Id3 phosphorylation at serine 5 , we used constructs expressing wild-type Id3 or the phosphorylation-mimicking mutant ( AspS ) to challenge E12-MyoD transactivation of an E-box-dependent reporter gene .
+As shown in Fig .
+6 , increasing inputs of wild-type Id3 significantly inhibited transactivation of the E-box-dependent reporter .
+This contrasts with the lack of inhibition of heterodimer complex seen in band shift assays ( Fig .
+3 and 4 ) and can be explained by the exogenous 1d3 protein becoming partially phosphorylated in transfected cells ( Fig .
+2B ) .
+However , in agreement with the in vitro band shift data above , the Id3 Asp mutant was much more potent than wild-type Id3 , whereas the Pro49 ( helix-breaking ) mutant had only a marginal effect on reporter gene function ( Fig .
+6 ) .
+To further establish that this enhanced activity of the 1d3 Asp mutant in inhibiting E-box-dependent reporter function is due to increased potency in inhibition of E12-MyoD interaction in vivo , we performed a competitive Gal4-Vp16 two-hybrid assay , as shown in Fig .
+7 .
+In response to increasing inputs of the wild-type Id3 expression vector , the magnitude of Gal4E12-Vp16MyoD interaction was significantly inhibited , consistent with the ability of the wild-type protein to inhibit E-box-dependent reporter gene activation ( Fig .
+6 ) .
+The Pro49 helix-breaking Id3 mutant displayed no significant inhibitory activity .
+However , the Id3 Asp5 mutant was again more potent than wild-type Id3 at disrupting E12-MyoD heterodimer formation in vivo .
+Enforced ectopic expression of Id3 under appropriate con ditions promotes cell growth and allows cells to continue cycling under conditions of low serum ( 1 ) .
+We therefore used this as an end point to evaluate the possible biological significance of phosphorylation of Id3 at serine 5 .
+Expression constructs encoding wild-type Id3 and phosphorylation-mimicking and phosphorylation-ablating mutants of Id3 were transfected into rat embryo fibroblasts along with a LacZ marker .
+The cells were then placed in low serum and subsequently pulsed with g 4 Id3Wwt IIId3Ak ' .
+!
+5I IIdSAsE ‘ IId3Pr049I 0 & 61520152015201520 é ?
+$ n NQJ “ SJ “ QJ bos | tour .
+Nai Win Gaw ) WW # © < was wee E12/MyoD EI¥ % E12 DODC -- + ) pups Orme .
+FIG .
+4 .
+Effects of phosphorylation-mimicking and phosphorylation-ablating Id3 mutants on E12-MyoD heterodimer bHLH-E box binding .
+Band shift analysis was performed as described in the legend to Fig .
+3 , and complexes were challenged with increasing inputs of bacterially synthesized wild-type ( Wt ) Id3 or the Ala5 , Asp5 , or Pro49 mutant .
+Vor .
+17 , 1997 Id1 Id2 Id3Wt_ Jd3Ala5_ 1d3Asp5 Id3Pr049 COF IT 1 I | 1 T | p 20 20 1 5 20 1 5 20 1 5 20 1 5 20 8 ng ng ng ng |_ E12/E12 g FIG .
+5 .
+Effects of phosphorylation-mimicking and phosphorylation-ablating Id3 mutants on E12 homodimeric bHLH-E box binding .
+Band shift analysis was performed as described in the legend to Fig .
+3 , and complexes were challenged with increasing inputs of bacterially synthesized wild-type ( Wt ) Id3 or the Ala5 , Asp5 , or Pro49 mutant .
+BrdU to determine the proportion of cells that remained in cycle .
+As shown in Fig .
+8 , approximately 15 % of the Id3-transfected cells incorporated BrdU , compared to only 3 % of the vector-only transfected controls .
+The proportion of cycling cells was even higher with the nonphosphorylatable Ala5 mutant ( 23 % ) , although this effect was accompanied by a degree of cytotoxicity ( data not shown ) .
+In contrast , the AspS5 and Pro49 mutants of Id3 had only a marginal effect on the proportion of cycling cells relative to the control .
+DISCUSSION Previous studies have shown that during the transition from G , , to S phase of the cell cycle , the levels of bHLH proteins , exemplified by E2A-related E proteins , remain essentially constant ( 12 , 25 ) .
+However , during early G , the activities of bHLH proteins , as assessed by the binding of cellular protein extract to E box oligonucleotides in vitro , are transiently depressed at a time coincident with the peak of induction of Id proteins ( 12 , 25 ) .
+In exponentially growing cells , most of the cellular E2A-related protein is associated with Id ( 17 ) , and in most cell types different Id proteins are typically coexpressed ( 4 , 13 ) .
+Since Id proteins display both qualitative and quantitative differences in target bHLH protein specificity ( reference 12 and as reported herein ) , it is likely that they act cooperatively to transiently abrogate the function of multiple ( as yet uncharacterized ) bHLH proteins as an essential mechanism of early G , cell cycle progression .
+However , the expression of Id proteins persists into late G , and throughout S phase , and indeed a second peak of induction is seen during late G , -to-S phase ( 13 ) , suggesting a functional role beyond early G , .
+Enigmatically , the cyclin A-and E-Cdk2-dependent phosphorylation of Id2 at late G , was previously found to completely inactivate the function of this Id protein in antagonizing homodimer and heterodimer binding to an E box oligonucleotide in vitro ( 12 ) .
+While this loss of 1Id2 activity might well explain the restoration of bHLH E box binding activity seen in cellular extracts at late G ; , in these experiments , it also cast some doubt on the functional relevance of this phosphorylated Id2 protein .
+Because of the for CELL CYCLE PHOSPHORYLATION OF Id3 - 6819 tuitous differences in bHLH-antagonizing properties between Id2 and the related Id3 protein , we have now been able to show that analogous cyclin A- and E-Cdk2-dependent cell cycle phosphorylation of Id3 does in fact change its target bHLH specificity .
+Whereas unphosphorylated Id3 abrogates an E12 homodimer complex but not the E12-MyoD heterodimer , phosphorylation at serine 5 or substitution of a highly charged aspartate residue at this position results in a switch to abrogation of the E12-MyoD heterodimer complex .
+Moreover , the Id3 AspS5 mutant inhibited E12-MyoD transactivation of an E-box-driven reporter and Gal4E12-Vp16MyoD interaction in vivo more efficiently than the wild-type protein , although we were unable to evaluate each bHLH protein partner in isolation since the respective homodimers gave only a minimal transactivation of the reporters in these assays ( reference 22 and unpublished observations ) .
+These differences could not be explained purely on the basis of expression levels or by differences in Id protein stabilities , which were comparable in control transfection experiments ( data not shown ) .
+This phospho-rylation-dependent modulation of Id protein specificity is somewhat reminiscent of that reported for phosphorylation of E2A and MyoD ( 26 , 38 ) and serves to emphasize the role of determinants mapping outside of the bHLH domain in determining the dimerization specificity of Id proteins , as previously implied from molecular modelling studies ( 43 ) .
+In this regard , it is noteworthy that the N-terminal domains of both the Id2 and Id3 proteins contain a flexible hinge region between amino acids 20 and 35 that would permit juxtaposition of the serine 5 100 80 - 2 - 60 _ @ ] |_ S l— O - 40 _ < Q _ O LL 20 - _| 0 E12/MyoD 2.5 25 2.5 25 25 25 25 2.5 Wtld3 1.0 2.5 5.0 - - - Id3Asp5 - - =o = 1.0 25 5.0 1d3Pro49 h = - - - - - 5.0 FIG .
+6 .
+Enhanced activity of the Id3 phosphorylation mimic on E12-MyoD-dependent gene expression in vivo .
+Fibroblasts were transfected with 2.5 ug of E-box-driven CAT reporter plasmid in combination with expression vectors encoding E12-MyoD , wild-type ( Wt ) Id3 , Id3 Asp5 , or Id3 Pro49 , as indicated .
+Transfected DNA was normalized to a total of 15 ug with peDNA3 carrier plasmid together with 1 ug of luciferase reporter driven by a heterologous cytomegalovirus promoter as a control for transfection efficiency .
+Twenty-four hours posttransfection , cells were harvested and relative CAT activities were determined by using [ '*CJchloramphenicol and thin-layer chromatography with quantitation by phosphoimage analysis .
+The data shown were determined from two separate experiments .
+6820 DEED ET AL .
+25 ~ 10 FOLD ACTIVATION 0 _ _I E12/MyoD - 2.0 2.0 20 2.0 2.0 2.0 2.0 2.0 Wilds -o > 1.0 25 5.000 } 0 - - o > Id3Asp5 - - -o- - 1.0 25 5.0 1d3Pro49 mom mm mr nn 5.0 FIG .
+7 .
+Enhanced inhibition of Gal4E12-Vp16MyoD interaction in vivo by the Id3 phosphorylation-mimicking Asp5 mutant .
+Cells were transfected with 1 ug cach of the Gal4 luciferase reporter pGSElbLuc , the cytomegalovirus ( CMV ) -driven Renilla luciferase expression vector pRLCMV , and the pGal4E12 and pVp16MyoD fusion vectors , together with each of the CMV-driven expression constructs indicated plus pcDNA3 empty vector to normalize for DNA input .
+At 24 h posttransfection , luciferase activities were measured .
+The results shown are from two independent experiments .
+Wt , wild type .
+phosphorylatable residue with the respective HLH regions of these Id proteins .
+Although these studies utilizing model bHLH proteins dramatically illustrate the consequences of cyclin A- and E-Cdk2-dependent phosphorylation of Id proteins on their functional properties , we have no information on how this relates to their in vivo cellular bHLH target proteins during late G , and S phase .
+This clearly represents an important area for future investigation .
+Given the rapidly expanding number of reported bHLH transcription factors ( 24 ) , it is highly probable that phosphorylation of Id2 , as with 1d3 , results in acquisition of altered target bHLH specificity rather than complete loss of bHLH functional antagonism , as previously observed in in vitro bandshift assays ( 12 ) .
+Since substitution of a phosphorylation-mimicking Asp residue at SerS in Id3 faithfully reproduced the properties of the phosphorylated Id3 protein seen in in vitro band shift assays and imparted a similar shift towards functional antagonism of bHLH heterodimer-dependent gene expression in vivo , we were able to use this mutant to address the functional significance of Cdk2-dependent phosphorylation at a biological level .
+In several reported studies , enforced ectopic expression of Id genes has been shown to promote cell growth and to delay exit from the cell cycle on removal of mitogens ; this represents an important mechanism through which Id proteins arrest cell differentiation ( 1 , 10 , 15 ) .
+The AspS Id3 mutant was completely devoid of any activity in promoting S phase , implying that Cdk-dependent phosphorylation inactivates the G , -to-S cell cycle regulatory function of this Id protein .
+Interestingly , the AlaS Id3 variant imparted a `` gain-of-function `` phenotype associated with extensive cell death ( a property which also Mor .
+CELL .
+BioL .
+precluded analysis of reporter gene function with this mutant ) .
+In further experiments , we have observed a similar though less dramatic effect with an Id2 Alas mutant ( unpublished observations ) .
+Previously , the Id2 Ala5 mutant was found to display cell toxicity , since it significantly reduced colony-forming efficiency in stable transfectants ( 12 ) .
+The exact nature of the acute cell death induced by Id3 ( and Id2 ) AlaS mutants revealed in the present study is intriguing , although it does not appear to involve induction of a classical apoptotic phenotype and more likely is the result of an alternative `` cell suicide `` mechanism ( 11 ) .
+It should be noted that most of the Id3 AlaS-transfected cells displaying features of cell death were also in S phase ( data not shown ) .
+The increased percentage of transfected cells in S phase seen with this mutant ( Fig .
+8 ) is therefore not simply attributable to selective killing of cells that are not entering S phase .
+Indeed , the death of Id3 AlaS-transfected cells may have led to an underestimation of the ability of this mutant to promote S phase .
+With the caveat that these transfection experiments generate nonphysiological levels of Id proteins , we suggest that Cdk2-dependent phosphorylation of Id2 and Id3 proteins during late G , is essential for progression through , or exit from , S phase of the cell cycle .
+While the phosphorylated Id proteins are nonfunctional in promoting cell growth , they nonetheless antagonize E-box-dependent gene expression , albeit with altered specificity .
+Thus , while unphosphorylated Id protein may target a set of bHLH proteins ( and possibly other proteins ) important for regulating G1 progression , their phosphorylated counterparts may antagonize a distinct set of bHLH transcription factors that are perhaps more important in regulating differentiation-linked gene expression .
+In addition , these data illustrate that the cell cycle regulatory functions of Id proteins in promoting S phase entry ( at least as illustrated for Id3 ) may be dissociated from the ability to modulate bHLH heterodimer-dependent gene expression .
+This further underscores the analogy between Ids and their opposing bHLH partners , in which these functional 30 20 10 « -I % CELLS IN S PHASE ~- Con Id3 1d3 Id3 1d3 WT Ala5 AspS5 Pro49 FIG .
+8 .
+Id3 mutants selectively promote cell cycle S phase in serum-starved fibroblasts .
+Rat embryo fibroblasts were transiently cotransfected with the indicated Id3 expression constructs ( wild type [ WT ] or mutant ) in combination with an expression construct encoding a lacZ marker gene .
+Control cells ( Con ) were transfected with the lacZ marker gene alone .
+Twenty-four hours posttransfection , cells were serum starved ( 0.1 % FCS ) and , after a further 24 h , were pulse labelled with BrdU .
+Cells were fixed , and lecZ-positive cells were scored by immunofluorescence in combination with detection of BrdU by use of a commercial immunofluorescence detection kit ( Boehringer ) .
+Results are expressed as percentages of lecZ-positive cells appearing in S phase and are taken from two experiments in which a minimum of 200 ZecZ-positive cells were evaluated for each transfection .
+Vor .
+17 , 1997 attributes have also been shown to be dissociable ( 33 ) .
+Mutants of bHLH proteins that are attenuated in the capacity to activate differentiation-linked gene expression are still functional in promoting cell cycle arrest ( 7 , 40 ) .
+The G , -to-S phase transition in mammalian cells is regulated through the sequential and concerted actions of Cdk 's and their regulatory partners , which culminate in phosphorylation of pRB and related pocket proteins , thereby alleviating inhibition of E2F and DP family transcription factors , whose activities are required for further progression through the cell cycle ( 5 , 16 , 19 , 21 , 27 ) .
+However , a number of other signalling molecules , typically encoded by early response genes such as the Id proteins , are also required for G , -to-S phase cell cycle progression ( 28 ) .
+Understanding how the functions of these seemingly disparate signalling molecules are integrated into the Cdk-coupled Rb-EZF mitogenic cascade represents a pressing challenge .
+The present study establishes at least one functionally important link between cyclin-dependent kinases and Id-bHLH regulation of cell cycle progression , which also impinges on mechanisms underlying the control of differentiation in the determination of cell fate .
+ACKNOWLEDGMENTS We thank C. Murre , X. H. Sun , and A. Fujisawa-Schara for the E12 , E47 , and MyoD cDNA clones .
+This work was supported by the U.K. Cancer Research Campaign and the Imperial Cancer Research Fund .
+REFERENCES 1 .
+Atherton , G. T. , H. Travers , R. W. Deed , and J. D. Norton .
+1996 .
+Regulation of cell differentiation in CC ; , myoblasts by the Id3 helix-loop-helix protein .
+Cell Growth Differ .
+7:1059-1066 .
+2 .
+Bain , G. , E. R. Maandag , D. J. Izon , D. Amsen , A. M. Kruisbeek , B. C. Weintraub , I. Krop , M. S. Schlissel , A. J. Feeney , M. van Roon , M. van der Valk , H. te Reile , A. Berns , and C. Murre .
+1994 .
+E2A proteins are required for proper B cell development and initiation of immunoglobulin gene rear-rangements .
+Cell 79:885-892 .
+3 .
+Baker , S. J. , and E. P. Reddy .
+1995 .
+B cell differentiation : role of E2A and Pax5/BSAP transcription factors .
+Oncogene 11:413-426 .
+4 .
+Barone , M. V. , R. Pepperkok , F. A. Peverali , and L. Philipson .
+1994 .
+Id proteins control growth induction in mammalian cells .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 91:4985-4988 .
+5 .
+Bartek , J. , J. Bartkova , and J. Lukas , .
+1996 .
+The retinoblastoma protein pathway and the restriction point .
+Curr .
+Opin .
+Cell Biol .
+8:805-814 .
+6 .
+Benezra , R. , R. L. Davis , D. Lockshon , D. L. Turner , and H. Weintraub .
+1990 .
+The protein Id : a negative regulator of helix-loop-helix DNA binding proteins .
+Cell 61:49-59 .
+7 .
+Crescenzi , M. , T. P. Fleming , A .
+B. Lassar , and H. Weintraub .
+1990 .
+MyoD induces growth arrest independent of differentiation in normal and transformed cells .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 87:8442-8446 .
+8 .
+Deed , R. W. , S. Armitage , and J. D. Norton .
+1996 .
+Nuclear localization and regulation of Id protein through an E protein-mediated chaperone mecha-nism .
+J. Biol .
+Chem .
+271:23603-23606 .
+9 .
+Deed , R. W. , S. M. Bianchi , G. T. Atherton , D. Johnston , M. Santibanez-Koref , J. J. Murphy , and J. D. Norton .
+1993 .
+An immediate early human gene encodes an Id-like helix-loop-helix protein and is regulated by protein kinase C activation in diverse cell types .
+Oncogene 8:599-607 .
+10 .
+Desprez , P.-Y .
+, E. Hara , M. J. Bissel , and J. Campisi .
+1995 .
+Suppression of mammary epithelial cell differentiation by the helix-loop-helix protein Id1 .
+Mol .
+Cell .
+Biol .
+15:3398-3404 .
+11 .
+Evan , G. L. , L. Brown , M. Whyte , and E. Harrington .
+1995 .
+Apoptosis and the cell cycle .
+Curr .
+Opin .
+Cell Biol .
+7:825-834 .
+12 .
+Hara , E. , M. Hall , and G. Peters .
+1997 .
+Cdk2-dependent phosphorylation of Id2 modulates activity of E2A-related transcription factors .
+EMBO J .
+16 : 332-342 .
+13 .
+Hara , E. , T. Yamaguchi , H. Nojima , T. Ide , J. Campisi , H. Okayama , and K. Oda .
+1994 .
+Id-related genes encoding helix-loop-helix proteins are required for G1 progression and are repressed in senescent human fibroblasts .
+J. Biol .
+Chem .
+269:2139-2145 .
+14 .
+Henthorn , P. , M. Kiledjan , and T. Kadesch .
+1990 .
+Two distinct transcription factors that bind the immunoglobulin enhancer uES/KE2 motif .
+Science 247:467-470 .
+15 .
+Iavarone , A. , P. Garg , A. Lasorella , J. Hsu , and M. A. Israel .
+1994 .
+The helix-loop-helix protein Id-2 enhances cell proliferation and binds to the retinoblastoma protein .
+Genes Dev .
+8:1270-1284 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+CELL CYCLE PHOSPHORYLATION OF Id3 - 6821 Jacks , T. , and R. A. Weinberg .
+1996 .
+Cell cycle control and its watchman .
+Nature 381:643-644 .
+Jen , Y. , H. Weintraub , and R. Benezra .
+1992 .
+Overexpression of Id protein inhibits the muscle differentiation program : in vivo association of Id with E2A proteins .
+Genes Dev .
+6:1466-1479 .
+Kadesch , T. 1993 .
+Consequences of heteromeric interactions among helix-loop-helix proteins .
+Cell Growth Differ .
+449-55 .
+Kamb , A .
+1995 .
+Cell-cycle regulators and cancer .
+Trends Genet .
+11:136-140 .
+Kato , J. , H. Matsushime , S. Hiebert , M. E. Ewen , and C. J. Sherr .
+1993 .
+Direct binding of cyclin D to the retinoblastoma gene product ( pRb ) and pRb phosphorylation by the cyclin D-dependent kinase CDK-4 .
+Genes Dev .
+7:331-342 .
+Lam , E. W. F. , and N. B. LaThangue .
+1994 .
+Dp and E2F proteins : coordi-pating transcription and cell cycle regulation .
+Curr .
+Opin .
+Cell Biol .
+6:859-866 .
+Lassar , A .
+B. , R. L. Davis , W. E. Wright , T. Kadesch , C. Murre , A. F. Voronova , and H. Weintraub .
+1991 .
+Functional activity of myogenic HLH proteins requires hetero-oligomerization with E12/E47-like proteins in vivo .
+Cell 66:305-315 .
+Lee , J. E. , S. Hollenberg , L. Snider , D. L. Turner , N. Lipnick , and H. Weintraub .
+1995 .
+Conversion of Xenopus ectoderm into neurons by Neu-roD , a basic helix-loop-helix protein .
+Science 268:836-844 .
+Littlewood , T. D. , and G. I. Evan .
+1995 .
+Transcription factors 2 : helix-loop-helix .
+Protein Profile 2:621-702. .
+Loveys , D. A. , M. B. Streiff , and G. J. Kato .
+1996 .
+E2A basic-helix-loop-helix transcription factors are negatively regulated by serum growth factors and by the Id3 protein .
+Nucleic Acids Res .
+24:2813-2820 .
+Mitsui , K. , M. Shirakata , and B. M. Paterson .
+1993 .
+Phosphorylation inhibits the DNA binding activity of MyoD homodimers but not MyoD-E12 het-crodimers .
+J. Biol .
+Chem .
+268:24415-24420 .
+Muller , R. , D. Mumberg , and F. C. Lucibello .
+1993 .
+Signals and genes in the control of cell-cycle progression .
+Biochim .
+Biophys .
+Acta 1155:151-179 .
+Murphy , J. J. , J. S. Newton , and J. D. Norton .
+1997 .
+Early response genes and B cell activation , p. 183-202 .
+In M. M. Harnett and K. P. Righley ( ed . )
+, Lymphocyte signalling : mechanisms , subversion and manipulation .
+John Wiley and Sons Ltd. , Chichester , United Kingdom .
+Murphy , J. J. , and J. D. Norton .
+1990 .
+Cell-type-specific carly response gene expression during plasmacytoid differentiation of human B lymphocytic leukemia cells .
+Biochim .
+Biophys .
+Acta 1049:261-271 .
+Murre , C. , G. Bain , M. A. Dijk , I. Engel , B .
+A. Furnari , M. E. Massari , J. R. Matthews , M. W. Quong , R. R. Rivera , and M. H. Stuiver .
+1994 .
+Structure and function of helix-loop-helix proteins .
+Biochim .
+Biophys .
+Acta 1218:129-135 .
+Murre , C. , P. S. McCaw , H. Vaessin , M. Caudy , L. Y. Jan , Y. N. Jan , C. V. Cabrera , J. N. Buskin , S. D. Hauschka , A .
+B. Lassar , H. Weintraub , and D. Baltimore .
+1989 .
+Interactions between heterologous helix-loop-helix proteins generate complexes that bind specifically to a common DNA sequence .
+Cell 58:537-544 .
+Olson , E. N. 1990 .
+MyoD family : a paradigm for development ?
+Genes Dev .
+4:1454-1461 .
+Peverali , F. A. , T. Ramgqvist , R. Saffrich , R. Pepperkok , M. V. Barone , and L. Philipson .
+1994 .
+Regulation of G , progresion by E2A and Id helix-loop-helix proteins .
+EMBO J .
+13:4291-4301 .
+Phillips , S. E. V. 1994 .
+Built by association : structure and function of helix-loop-helix DNA binding proteins .
+Structure 2:1-4 .
+Robb , L. , and C. G. Begley .
+1996 .
+The HLH gene SCL implicated in T cell ALL and in normal development .
+Int .
+J. Biochem .
+Cell Biol .
+28:609-618 .
+Rudnicki , M. A. , and R. Jaenisch .
+1995 .
+The MyoD family of transcription factors and skeletal myogenesis .
+Bioessays 17:203-209 .
+Shoji , W. , T. Yamamoto , and M. Obinata .
+1994 .
+The helix-loop-helix protein Id inhibits differentiation of murine erythroleukemia cells .
+J. Biol .
+Chem .
+269:5078-5084 .
+Sloan , S. , C. P. Shen , R. McCarrick- Walmsley , and T. Kadesch .
+1996 .
+Phosphorylation of E47 as a potential determinant of B-cell specificity .
+Mol .
+Cell .
+Biol .
+16:6900-6908 .
+Smith , D. B. , and K. S. Johnson .
+1988 .
+Single step purification of polypep-tides expressed in E. coli as fusions with glutathione S-transferase .
+Gene 67:31-40 .
+Sorrentino , V. , R. Pepperkok , R. L. Davis , W. Ansorge , and L. Philipson .
+1990 .
+Cell proliferation inhibited by MyoD1 independently of myogenic differentiation .
+Nature 345:813-815 .
+Sun , X.-H. , N. G. Copeland , N. A. Jenkins , and D. Baltimore .
+1991 .
+Id proteins Id1 and Id2 selectively inhibit DNA binding by one class of helix-loop-helix proteins .
+Mol .
+Cell .
+Biol .
+11:5603-5611 .
+Weintraub , H. , R. L. Davis , M. Tapscott , M. Thayer , M. Krause , R. Benezra , D. Blackwell , R. Turner , P. Rupp , S. Hollenberg , Y. Zhuang , and A .
+B. Lassar .
+1991 .
+The MyoD gene family : nodal point during specification of the muscle cell lincage .
+Science 251:761-766 .
+Wibley , J. , R. W. Deed , M. Jasiok , K. Douglas , and J. D. Norton .
+1996 .
+A homology model of the Id2 helix-loop-helix domain as a basis for structure-function predictions .
+Biochim .
+Biophys .
+Acta 1294:138-146 .
+Zhuang , Y. , P. Cheng , and H. Weintraub .
+1996 .
+B-lymphocyte development is regulated by the combined dosage of three basic helix-loop-helix genes , E2A , E2-2 , and HEB .
+Mol .
+Cell .
+Biol .
+16:2898-2905 .

@@ -1,0 +1,750 @@
+Molecular Biology of the Cell Vol .
+3 , 1339-1352 , December 1992 I « xB/MAD-3 Masks the Nuclear Localization Signal of NF- « B p65 and Requires the Transactivation Domain to Inhibit NF- « B p65 DNA Binding Parham A. Ganchi , Shao-Cong Sun , Warner C. Greene , and Dean W. Ballard* Gladstone Institute of Virology and Immunology , University of California , San Francisco , San Francisco General Hospital , California 94141-9100 Submitted August 14 , 1992 ; Accepted September 23 , 1992 The active nuclear form of the NF- « B transcription factor complex is composed of two DNA binding subunits , NF- « B p65 and NF- « B p50 , both of which share extensive N-terminal sequence homology with the v-rel oncogene product .
+The NF- « B p65 subunit provides the transactivation activity in this complex and serves as an intracellular receptor for a cytoplasmic inhibitor of NF- « B , termed IkB .
+In contrast , NF- « B p50 alone fails to stimulate « B-directed transcription , and based on prior in vitro studies , is not directly regulated by IkB .
+To investigate the molecular basis for the critical regulatory interaction between NF- « B and IxB/MAD-3 , a series of human NF- « B p65 mutants was identified that functionally segregated DNA binding , IxB-mediated inhibition , and IxB-induced nuclear exclusion of this transcription factor .
+Results from in vivo expression studies performed with these NF- « B p65 mutants revealed the following : 1 ) IxB/MAD-3 completely inhibits NF- « B p65-dependent transcriptional activation mediated through the human immunodeficiency virus type 1 « B enhancer in human T lymphocytes , 2 ) the binding of I « B/MAD-3 to NF- « B p65 is sufficient to retarget NF- « B p65 from the nucleus to the cytoplasm , 3 ) selective deletion of the functional nuclear localization signal present in the Rel homology domain of NF- « B p65 disrupts its ability to engage IxB/MAD-3 , and 4 ) the unique C-terminus of NF- « B p65 attenuates its own nuclear localization and contains sequences that are required for IxB-mediated inhibition of NF- « B p65 DNA binding activity .
+Together , these findings suggest that the nuclear localization signal and transactivation domain of NF- « B p65 constitute a bipartite system that is critically involved in the inhibitory function of I « B/MAD-3 .
+Unexpectedly , our in vivo studies also demonstrate that IxB/MAD-3 binds directly to NF- « B p50 .
+This interaction is functional as it leads to retargeting of NF- « B p50 from the nucleus to the cytoplasm .
+However , no loss of DNA binding activity is observed , presumably reflecting the unique C-terminal domain that is distinct from that present in NF- « B p65 .
+INTRODUCTION During the development of a normal immune response , the clonal expansion of activated CD4* T lymphocytes is tightly controlled by the transient transcriptional in * Corresponding author and present address : Dean W. Ballard , Howard Hughes Medical Institute , Vanderbilt University , 802 Light Hall , Nashville , TN 37232-0295 .
+© 1992 by The American Society for Cell Biology duction of specific cellular genes , including those encoding the growth factor interleukin-2 and the alpha subunit of its high-affinity membrane receptor complex ( Crabtree , 1989 ; Greene et al .
+, 1989 ) .
+Both of these growth-related genes contain promoter-proximal regulatory sequences that serve as functional binding sites for NF- « B ( Bohnlein et al .
+, 1988 ; Hoyos et al .
+, 1989 ) , a heterodimeric transcription factor that is rapidly trans-located from the cytoplasm to the nucleus during T-cell 1339 P.A .
+Ganchi et al .
+activation ( Sen and Baltimore , 1986a , b ; Lenardo and Baltimore , 1989 ) .
+Like these inducible cellular transcription units , the 5 ' long terminal repeat ( LTR ) ' of the type 1 human immunodeficiency virus ( HIV-1 ) contains two tandem NF- « B binding sites that have been implicated in the capacity of this pathogenic retrovirus to respond to a variety of immunomodulatory signals that normally lead to T-cell activation ( Kaufman et al .
+, 1987 ; Muesing et al .
+, 1987 ; Nabel and Baltimore , 1987 ; Siek-evitz et al .
+, 1987 ; Tong-Starksen et al .
+, 1987 ) .
+Thus , NF- « B represents one critical host transcription factor involved not only in normal T-cell activation and growth but also in governing the initial activation of HIV-1 gene expression in virally-infected CD4* T lymphocytes ( Greene et al .
+, 1989 ) .
+Biochemical ( Baeuerle and Baltimore , 1989 ) and molecular cloning ( Ghosh et al .
+, 1990 ; Kieran et al .
+, 1990 ; Nolan et al .
+, 1991 ; Ruben et al .
+, 1991 ; Ballard et al .
+, 1992 ) studies indicate that the heterodimeric NF- « B complex found in the nucleus of activated T cells is comprised of at least two DNA binding subunits , termed NF- « B p65 and NF- « B p50 .
+Both of these subunits share significant N-terminal amino acid sequence homology ( ~300 amino acids ) with the v-Rel oncoprotein , its cellular counterpart ( c-Rel ) , and the dorsal gene product , a maternal morphogen in Drosophila ( Gilmore , 1990 , and references therein ) .
+Notably , the NF- « B p65 subunit exhibits two unique biologic activities that are integral to the function and regulation of the NF- « B complex .
+First , NF- « B p65 , unlike NF- « B p50 , contains a strong C-terminal transactivation domain that is essential for efficient transcription directed from the HIV-1 « kB enhancer ( Schmitz and Baeuerle , 1991 ; Ballard et al .
+, 1992 ; Ruben et al .
+, 1992b ) .
+Second , this subunit acts as an intracellular receptor for I « B , a specific cytoplasmic inhibitor that appears critically involved in the regulation of NF- « B shuttling from the cytoplasm to the nucleus during T-cell activation ( Baeuerle and Baltimore , 1988a , b ; Molitor et al .
+, 1990 ; Urban and Baeuerle , 1990 ) .
+In contrast to the positive transcriptional effects exerted by NF- « B p65 , comparative studies with NF- « B p50 have suggested that it primarily serves to augment the DNA binding affinity of the heterodimeric NF- « B p65/p50 complex ( Baeuerle and Baltimore , 1989 ; Nolan et al .
+, 1991 ) .
+It also has been reported that the homodimeric form of NF- « B p50 acts as a physiologic repressor of « B-dependent transcription ( Schmitz and Baeuerle , 1991 ; Kang et al .
+, 1992 ) .
+Furthermore , despite its extensive N-terminal sequence homology with NF- « B p65 , the DNA binding activity of NF- « B p50 is not subject ' Abbreviations used : CAT , chloramphenicol acetyltransferase ; DTT , dithiothreitol ; FCS , fetal calf serum ; HEPES , N-2-hydroxyethylpi-perazine-N'-2-ethanesulfonic acid ; HIV-1 , human immunodeficiency virus type 1 ; HTLV-1 , human T cell leukemia virus type 1 ; LTR , long terminal repeat ; NLS , nuclear localization signal ; PAGE , polyacrylamide gel electrophoresis ; PBS , phosphate-buffered saline ; PKA , protein kinase A ; SDS , sodium dodecyl sulfate .
+1340 to IxB-mediated inhibition in vitro ( Baeuerle and Baltimore , 1989 ; Zabel and Baeuerle , 1990 ; Nolan et al .
+, 1991 ; Inoue et al .
+, 1992b ) .
+Instead , it appears that NF- « B p50 is expressed as an inactive 110-kDa precursor polypeptide whose DNA binding potential is regulated via proteolytic processing to remove an inhibitory C-terminal domain ( Ghosh et al .
+, 1990 ; Kieran et al .
+, 1990 ) .
+Although the transactivation and IxB binding properties of NF- « B p65 are clearly distinct from those of NF- « B p50 , the molecular mechanism underlying IxB-mediated inhibition of NF- « B function specifically through the NF- « B p65 subunit ( Urban and Baeuerle , 1990 ) remains unknown .
+In this regard , long-range deletion mapping studies with in vitro synthesized proteins suggest that the N-terminal Rel homology domain of NF- « B p65 contains structural determinants essential for its regulation by I « B ( Nolan et al .
+, 1991 ) .
+To define precisely this critical regulatory interaction in a more physiologic setting , we have analyzed the biochemical properties of a series of in vivo synthesized NF- « B p65 variants after transfection of the corresponding cDNA expression vectors in monkey COS cells .
+These studies clearly demonstrate that NF- « B p65 contains two domains that function in concert to mediate assembly with I « B/MAD-3 , resulting in the inhibition of NF- « B p65 DNA binding activity .
+Specifically , one major subregion of NF- « B p65 critically involved in I « B/MAD-3 binding corresponds to the functional nuclear localization signal ( NLS ) within the Rel homology domain .
+In addition , the C-terminal transactivation domain of NF- « B p65 is required for IxB-mediated inhibition of DNA binding but is completely dispensible for the assembly of NF- « B p65 with I « B/MAD-3 .
+Surprisingly , I « B/MAD-3 also binds to and regulates the subcellular distribution of the structurally related NF- « B p50 subunit in the absence of NF- « B p65 .
+Together , these findings suggest that IxB/ MAD-3 prevents the nuclear translocation of NF- « B by directly masking the NLS of either of these integral Rel-related subunits .
+However , the selective inhibition of NF- « B p65 DNA binding occurs through a more complex interaction involving the unique C-terminus of this transactivator .
+MATERIALS AND METHODS Expression Vectors and Reporter Plasmids All human NF- « B p65 ( Ruben et al .
+, 1991 ; Ballard et al .
+, 1992 ) , NF- « B p50 ( amino acids 1-461 ; Kieran et al .
+, 1990 ) , and IxB/MAD-3 ( Haskill et al .
+, 1991 ) cDNAs were subcloned within the polylinker sequences of the pCMV4 expression vector ( Andersson et al .
+, 1989 ) downstream of the cytomegalovirus immediate early promoter .
+Carboxy- and amino-terminal deletion mutants were amplified using the polymerase chain reaction from a template corresponding to the full-length human NF- « B p65 cDNA ( Ruben et al .
+, 1991 ) .
+Oligonucleotide primers used in these reactions were designed to incorporate a consensus translational initiation sequence ( Kozak , 1987 ) , an in-frame stop codon , and unique restriction sites to facilitate directional cloning into pCMV4 .
+Specific site-directed mutations were introduced into the full-length NF- « B p65 cDNA using the phosphorothioate method and oligonu- Molecular Biology of the Cell cleotide primers that introduced diagnostic restriction sites ( Nakamaye and Eckstein , 1986 ) .
+The Tax expression vector has been described previously ( Rimsky et al .
+, 1988 ) .
+Reporter plasmids contained either the full-length type 1 human T-cell leukemia virus ( HTLV-1 ) LTR ( Sodroski et al .
+, 1985 ) or the HIV-1 « B enhancer cassette linked to a heterologous TATA box ( Stein et al .
+, 1989 ) , cloned immediately upstream of the chloramphenicol acetyltransferase ( CAT ) reporter gene .
+COS Cell Transfections and Extract Preparations The COS monkey kidney cell line was maintained in Iscove 's medium supplemented with 10 % fetal calf serum ( FCS ) , 2 mM glutamine , and antibiotics .
+One day before transfection , cells were seeded in 0.1 % gelatin-treated six-well plates ( 3 X 10° cells/well ) .
+Plasmid DNA was transfected using the DEAE-dextran method ( Holbrook et al .
+, 1987 ) .
+Briefly , adherent cells were washed in phosphate-buffered saline ( PBS ) , incubated with 0.5 ml of DNA cocktail ( 0.5 mg/ml DEAE-dextran and 2.5 ug/ml plasmid DNA in PBS ) for 30 min at 37°C , followed by the addition of 4.5 ml of Iscoves medium containing 100 aM chlo-roquine .
+Cells were then incubated for an additional 2.5 h at 37°C .
+The medium was aspirated , and the cells were treated with 10 % di-methyl sulfoxide for 2.5 min at room temperature .
+At 48-60 h after transfection , some cells were starved for 1 h in Dulbecco 's modified Eagle medium lacking cysteine and methionine and then radiolabeled for 2 h with and [ *SJmethionine ( 150 each ) .
+Whole-cell extracts were prepared under low-stringency conditions by lysis with ELB buffer ( 50 mM N-2-hydroxyethylpiperazine-N'-2-ethanesulfonic acid [ HEPES ] , pH 7.0 , 250 mM NaCl , 0.1 % Nonidet P-40 , 5 mM EDTA , 0.5 mM dithiothreitol [ DTT ] , 1.0 mM phenyl-fluoride ) supplemented with a previously described protease inhibitor cocktail ( Ballard et al .
+, 1990 ) .
+After a 10-min incubation at 4°C , lysed cells were centrifuged at 37 000 x g for 15 min .
+Clarified supernatants were frozen in liquid nitrogen and stored at -70°C until used .
+DNA Binding Studies `` P-radiolabeled kB DNA probes were prepared by annealing a 27-base coding strand template ( 5-CAACGGCAGGGGAATTCCC-CTCTCCTT-3 ' , « B-pd ) to a complementary 10-base primer ( 5'-AAG-GAGAGGG-3 ' ) and filling in the resultant overhang using the Klenow fragment of DNA polymerase I in the presence of [ a-* `` `` P ] JdATP , [ « - `` P ] dCTP , dGTP , and dTTP ( Ballard et al .
+, 1989 ) .
+DNA binding reactions ( 20 ul ) contained 4 al of COS cell extract ( ~0.5 mg/ml ) and 0.2 ug of double-stranded poly ( dI-dC ) buffered in 20 mM HEPES , pH 7.9 , 5 % glycerol , 1 mM EDTA , 0.5 mg/ml bovine serum albumin , 1 % Nonidet P-40 , and 5 mM DTT ( Ballard et al .
+, 1989 ) .
+Approximately 10 fmol of P-labeled probe ( 200 000 cpm ) was used per reaction .
+After incubating the reactions at room temperature for 25 min , the resultant nucleoprotein complexes were resolved on a native 5 % polyacrylamide gel as previously described ( Bohnlein et al .
+, 1988 ) .
+Immunoprecipitation Analysis Rabbit antisera were prepared ( Immunodynamics , La Jolla , CA ) against carrier-conjugated peptides corresponding to unique terminal sequences present in NF- « B p65 ( amino acids 1-21 and amino acids 535-551 ) ( Ruben et al .
+, 1991 ) , NF- « B p50 ( amino acids 1-21 ) ( Kieran et al .
+, 1990 ) , and IxB/MAD-3 ( amino acids 1-29 ) ( Haskill ef al .
+, 1991 ) .
+For immunoprecipitation studies , 1 Ll of the appropriate antipeptide antiserum was mixed with 100 ul of precleared `` S-labeled COS extract and 400 Ll of ELB buffer .
+Antibody binding reactions were incubated for 1 h at 4°C and then supplemented with 10 ul ( packed volume ) of protein A-agarose ( Boehringer Mannheim , Indianapolis , IN ) .
+Solid-phase immune complexes were washed three times with 500 ul of ice-cold ELB buffer , boiled in the presence of 4 % sodium dodecyl sulfate ( SDS ) , 5 % B-mercaptoethanol , 8 M urea , and fractionated on 10 % SDS-polyacrylamide gels .
+Radiolabeled polypeptides were vi- Vol .
+3 , December 1992 Interactions of NF- « B p65 and IxB/MAD-3 sualized by fluorography in the presence of Amplify ( Amersham , Arlington Heights , IL ) .
+Western Blot Analysis Protein samples ( ~3.5 ug ) were separated on 8.75 % polyacrylamide gels followed by electrotransfer onto nitrocellulose membranes .
+Membranes were incubated in 5 % dry milk in PBS/0.1 % Tween 20 to inhibit nonspecific protein binding and then sequentially incubated with an appropriate dilution of specific rabbit antiserum ( 1 h ) and horseradish peroxidase-conjugated donkey anti-rabbit Ig ( Amersham ; 1:2500 dilution in PBS/0.1 % Tween 20 ) .
+Membranes were washed extensively with PBST after each of the incubation steps .
+Specific immune complexes were detected by enhanced chemiluminescence as specified by the manufacturer ( ECL Western Blotting Kit ; Amer-sham ) .
+Indirect Immunofluorescence COS cells were seeded on four-well chamber slides ( Nunc , Naperville , IL ) and transfected using the DEAE-dextran method .
+After 48 h , the cells were rinsed once with PBS and fixed for 20 min in 3 % parafor-maldehyde/10 % FCS in PBS .
+After rinsing twice with PBS , the cells were incubated with the primary rabbit antiserum ( diluted in PBS/ 10 % FCS ) for 1 h at room temperature , followed by three 5-min washes with PBS .
+The cells were then incubated for 1 h with the Texas red-conjugated donkey anti-rabbit IgG ( Amersham ; 1:500 dilution in PBS/10 % FCS ) .
+After washing four times in PBS , the slides were mounted in Gel/Mount ( Biomeda , Foster City , CA ) and photographed using an immunofluorescent microscope ( Diaplan ; Leitz , Wetzlar , W. Germany ) .
+Jurkat T-Cell Transfections and CAT Assays The human T-cell line , Jurkat , was maintained in RPMI supplemented with 10 % FCS , 2 mM glutamine , and antibiotics .
+Plasmid DNA was introduced into cells using DEAE-dextran ( Holbrook et al .
+, 1987 ) .
+Jurkat cells ( 5 X 10° ) were incubated in 250 Ll of a 0.5 mg/ml DEAE-dextran solution containing 10 ug of plasmid DNA for 30 min at 37°C .
+Sub-sequently , 5 ml of RPMI containing 100 aM chloroquine was added , and the incubation continued for another 30 min at 37°C .
+Cell extracts were normalized for protein recovery ( Bradford , 1976 ) and assayed for CAT activity 48 h posttransfection using the diffusion-based liquid scintillation counting method described by Neumann et al .
+( 1987 ) .
+RESULTS NF- « B p65-Mediated Activation of the HIV-1 « B Enhancer in Human T Lymphocytes is Inhibited by IxB/MAD-3 Biochemical reconstitution studies have suggested that the NF- « B p65/p50 heterodimer is functionally sequestered as a latent complex in the cytoplasm of resting T lymphocytes via specific protein-protein interactions between IxB and as yet undefined sequences within the N-terminal Rel homology domain of NF- « B p65 ( Figure 1A ) ( Baeuerle and Baltimore , 1989 ; Molitor et al .
+, 1990 ; Urban and Baeuerle , 1990 ; Nolan et al .
+, 1991 ) .
+Based on in vitro assays , the cytoplasmic form of NF- « B is likely released from IxB after phosphorylation of the inhibitor , thereby allowing the rapid translocation of NF- « B p65 to its nuclear site of action ( Ghosh and Baltimore , 1990 ; Kerr et al .
+, 1991 ) .
+Recently , Haskill et al .
+( 1991 ) have isolated a human cDNA clone ( IxB/MAD-3 ) encoding a 34- to 37-kDa polypeptide that inhibits 1341 P.A .
+Ganchi et al .
+A PKA NLS ( RRPS ) _ ( KRKR ) MLZ Rel Homology Domain COOH T T T T TOT 1 20 50 100 150 200 288 312 4114 450 500 551 $ o C 97.4 - 25 xB-TATA HTLV LTR CAT CAT l 1 F -- 1 20|-68.0 - « # < @ C f .0 C g 15 C » g 43.0 - = 10 O L « & ® 5 32s ss u , bz `` o 4 G4 4 G4 .
+4 .
+% F3 * 4 p p p tp 5 CD Ty Ta To Co 4 * 47 cab ) “ a X99 19g 09 6 ‘ 0/ 79 I ? )
+o Figure 1 .
+The transactivation function of NF- « B p65 is regulated by IxB/MAD-3 in vivo .
+( A ) Primary domain structure of NF- « B p65 .
+The N-terminal Rel homology domain ( shaded ) of NF- « B p65 , which contains two highly conserved motifs , a basic tetrapeptide nuclear localization signal ( NLS/KRKR ) , and a protein kinase A phosphorylation consensus sequence ( PKA/RRPS ) , is shown in conjunction with the C-terminal transactivation domain ( black ) and the `` mini-leucine zipper `` motif ( MLZ ; hatched ) .
+The endpoints of specific N- and C-terminal NF- « B p65 truncation mutants used throughout this study are indicated .
+( B ) Expression of C-terminally truncated NF- « B p65 mutants .
+Monkey COS cells were transfected using DEAE-dextran with cDNA expression vectors encoding either wild-type IxB/MAD-3 ( lane 6 ) , wild-type NF- « B p65 ( lane 1 ) , or C-terminal truncation mutants of NF- « B p65 containing the indicated N- and C-terminal endpoints ( lanes 2-5 ) .
+Recipient cells were metabolically labeled with [ *SJcysteine at 48 h posttransfection , and the corresponding extracts subjected to immunoprecipitation with polyclonal antipeptide antiserum specific for either NF- « B p65 ( amino acids 1-21 ; lanes 1-5 ) or IxB/MAD-3 ( amino acids 1-29 ; lane 6 ) .
+( C ) I « B/MAD-3 specifically inhibits NF- « B p65-dependent transactivation .
+Human Jurkat T cells were cotransfected with the indicated wild-type and truncated NF- « B p65 expression vectors , along with a CAT reporter plasmid containing the HIV-1 « B enhancer ( « B-TATA-CAT ) in the presence ( C ) ) or absence ( ® ) of an I « B/MAD-3 expression vector .
+In control transfections ( right ) , Jurkat cells were cotransfected with an HTLV-1 Tax expression vector and a CAT reporter plasmid linked to the full-length HTLV-1 LTR .
+CAT activities were measured after 48 h of culture and are presented as the relative fold-induction over basal levels obtained with unmodified pCMV4 expression vector alone .
+the DNA binding activity of NF- « B in vitro .
+The predicted primary structure of this human inhibitor protein is also fully consistent with the partial amino acid sequence determined for purified rabbit I « B ( Davis et al .
+, 1991 ) .
+However , the intracellular biologic effects of IxB/ MAD-3 on NF- « B-dependent transcription remain unexamined .
+Transient transfection studies have revealed that NF- « B p65 , but not NF- « B p50 , contains unique C-terminal sequences ( amino acids 451-551 ) ( Schmitz and Baeuerle , 1991 ; Ballard et al .
+, 1992 ; Ruben et al .
+, 1992b ) that are critical for activation of « B-directed transcription ( Figure 1A ) .
+To investigate whether IxB/MAD-3 specifically regulates the transactivation function of NF- « B p65 in vivo , a series of C-terminally truncated cDNAs were constructed that encode stable NF- « B p65 variants lacking progressively larger portions of the C-terminal transactivation domain ( Figure 1B ) .
+Jurkat human T cells were then cotransfected with recombinant expression 1342 vectors containing these truncated cDNAs and an HIV-1 « B-CAT reporter plasmid ( « B-TATA-CAT ) in the presence or absence of an expression vector encoding the 37-kDa human I « B/MAD-3 protein ( Figure 1B ) .
+As shown in Figure 1C , coexpression of « B-TATA-CAT with full-length NF- « B p65 ( p65 WT ) potently stimulated « B-directed transcription ( ~15-fold ) relative to the levels observed with unmodified pCMV4 expression vector .
+As expected ( Ballard et al .
+, 1992 ) , deletion of the C-terminal 101 amino acids ( amino acids 451-551 ) of NF- « B p65 disrupted the transcriptional activity observed with the wild-type NF- « B p65 protein .
+More im-portantly , coexpression of I « B/MAD-3 with functionally active members of this deletion series completely abolished NF- « B p65-mediated transcription .
+In addition , specific deletion of a ' `` mini-leucine zipper `` motif located immediately adjacent to the primary transactivation domain ( see Figure 1A ) , which is required for optimal NF- « B p65 activity ( Ruben et al .
+, 1992b ) , did not sig- Molecular Biology of the Cell nificantly affect the ability of IxB/MAD-3 to inhibit NF-kB p65-induced transcription ( Figure 1C ) .
+In contrast , IxB/MAD-3 failed to significantly block Tax-mediated transcriptional activation of the HTLV-1 LTR , a response that proceeds independently of the NF- « B/Rel transcription factor pathway ( Paskalis et al .
+, 1986 ; Shimo-tohno et al .
+, 1986 ; Brady et al .
+, 1987 ; Smith and Greene , 1990 ) .
+These studies thus demonstrate that IxB/MAD-3 functions as a potent inhibitor of NF- « B p65 in vivo , presumably by a mechanism involving the proposed ability of IxB/MAD-3 to retain NF- « B in the cytoplasm ( Baeuerle and Baltimore , 1988a , b ) .
+IxB/MAD-3 Regulates the Nuclear Expression of Both NF- « B p65 and NF- « B p50 but Blocks the DNA Binding Activity of Only NF- « B p65 The previous finding that the Rel homology domain of NF- « B p65 is involved in its interaction with IxB ( Nolan et al .
+, 1991 ) raised the possibility that homologous sequences present in the N-terminal half of NF- « B p50 might also interact with I « xB .
+To determine the relative effects of IxB/MAD-3 on the DNA binding activity of NF- « B p65 and NF- « B p50 , extracts from COS cells overexpressing each of these subunits , either in the absence or presence of IxB/MAD-3 , were tested in gel retardation assays using a *P-labeled kB enhancer probe .
+As shown in Figure 2A , in vivo synthesized forms of both subunits bound to this « B enhancer probe in the absence of I « xB/MAD-3 , leading to the formation of distinct nucleoprotein complexes ( lanes 1 and 3 ) .
+Whereas coexpression of IxB/MAD-3 with NF- « B p65 completely blocked NF- « B p65 DNA binding activity ( lane 2 ) , coexpression of IxB/MAD-3 with NF- « B p50 failed to inhibit the formation of NF- « B p50/ « B enhancer complexes ( lane 4 ) .
+These in vivo data are thus fully consistent with previous NF- « B DNA binding studies performed using in vitro synthesized proteins ( Baeuerle and Baltimore , 1989 ; Zabel and Baeuerle , 1990 ; Nolan et al .
+, 1991 ; Inoue et al .
+, 1992b ) .
+These findings indicate that NF- « B p65 contains sequences required for IxB-mediated inhibition of DNA binding that are not found in NF- « B p50 .
+However , these findings do not exclude the possibility that I « B/MAD-3 binds to NF- « B p50 , even though it fails to block its DNA binding activity .
+To directly compare the relative IxB/MAD-3 binding capacities of NF- « B p65 and NF- « B p50 , coimmunoprecipitation studies were performed with subunit-specific antipeptide antisera using *°S-labeled extracts from transfected COS cells .
+As shown in Figure 2B , the NF- « B p65-specific antiserum immunoprecipitated a major 65- to 72-kDa polypeptide in extracts from COS cells transfected with the wild-type NF- « B p65 expression vector ( lane 1 ) .
+Coexpression of IxB/MAD-3 with NF- « B p65 in these recipient cells resulted in the detection of a second major polypeptide of 35-40 kDa ( lane 2 ) , which is consistent with the molecular weight reported Vol .
+3 , December 1992 Interactions of NF- « B p65 and I « B/MAD-3 A p65 p50 B p65 p50 M 3 4 1 2 3 4 I I I I I I I I < stp ame @ ® five IxB : - + - + Figure 2 .
+- I « B/MAD-3 regulates both NF- « B p65 and NF- « B p50 in vivo .
+{ ( A ) I « B/MAD-3 selectively inhibits the DNA binding activity of NF- « B p65 but not that of NF- « B p50 .
+COS cells were transfected with cDNA expression vectors encoding wild-type NF- « B p65 ( lanes 1 and 2 ) or wild-type NF- « B p50 ( lanes 3 and 4 ) in the absence ( lanes 1 and 3 ) or presence ( lanes 2 and 4 ) of an IxB/MAD-3 expression vector .
+The DNA binding activities of recipient cell extracts were analyzed by gel retardation assay using a **P-radiolabeled « B enhancer probe , and the resultant nucleoprotein complexes were visualized by autoradiography .
+( B ) I « B/MAD-3 forms a stable complex with both NF- « B p65 and NF- « B p50 .
+S-labeled extracts from COS cells expressing NF- « B p65 ( lanes 1 and 2 ) or NF- « B p50 ( lanes 3 and 4 ) either alone ( lanes 1 and 3 ) or in combination with I « B/MAD-3 ( lanes 2 and 4 ) were subjected to immunoprecipitation analysis with subunit-specific antisera .
+Immunoreactive complexes were fractionated on a 10 % SDS-polyacrylamide gel and detected by fluorography .
+The arrow indicates the position of I « B/MAD-3 .
+( C ) Assembly with I « B/MAD-3 prevents the nuclear import of both NF- « B p65 and NF- « B p50 .
+COS cells were transfected with expression vectors encoding the indicated NF- « B subunit in the absence ( a and b ) or presence ( c and d ) of an IxB/MAD-3 expression vector .
+Transfected cells were fixed , treated with rabbit antiserum specific for each subunit , and subjected to indirect immunofluorescence staining using Texas red-conjugated anti-rabbit Ig .
+1343 P.A .
+Ganchi et al .
+A _ 4 za s a soe to so oo C Aull y 1 i 1 1 1 a 1 2 3 5 6 7 8 9 10 .
+I I I I I I I I I I .. 97.4 -IxB 68.0 ~~~ Ce @ I I I I I I .
+I I B 43.0 # IxB » +IxB « s * bee 29.0 KK Co L e to X 4 & § ’ ¢ ) °3 ’ % % 00 % 0 % ® % 3 % * > 4 43 % ** * % * % % * Figure 3 .
+The N-terminal Rel homology domain and the unique C-terminus of NF- « B p65 act in concert to mediate a fully functional interaction with I « B/MAD-3 .
+( A and B ) The C-terminal transactivation domain of NF- « B p65 is required for IxB-mediated inhibition of DNA binding .
+Monkey COS cells were transfected with pCMV4 expression vectors encoding the indicated C-terminal truncation mutants ( lanes 3-9 ) in the absence ( A ) or presence ( B ) of an IxB/MAD-3 expression vector .
+Control transfections performed with unmodified vector ( pCMV4 ) and full-length NF- « B p65 ( p65 WT ) are shown in lanes 1 and 2 , respectively .
+Extracts from recipient cells were incubated with a P-labeled « B enhancer probe , and the resultant complexes were resolved on a 5 % polyacrylamide gel and visualized by autoradiography .
+( C ) The C-terminus of NF- « B p65 is dispensible for I « B/MAD-3 binding .
+S-labeled extracts from COS cells expressing either unmodified pCMV4 ( lane 1 ) , I « B/MAD-3 ( lane 2 ) , wild-type NF- « B p65 ( lane 3 ) , or the indicated NF- « B p65 constructs in combination with I « B/MAD-3 ( lanes 4-10 ) were subjected to immunoprecipitation analysis using an NF- « B p65-specific antipeptide antiserum ( amino acids 1-21 ) .
+Radiolabeled immune complexes were resolved by electrophoresis on a 10 % SDS-polyacrylamide gel and detected by fluorography .
+The relative positions and sizes ( in kilodaltons ) of molecular weight markers are given on the left .
+The arrow identifies the position of I « B/MAD-3 .
+for human IxB/MAD-3 ( Haskill et al .
+, 1991 ) .
+This protein was also readily detected with anti-MAD-3 antiserum ( Ganchi et al .
+, unpublished results ) .
+In reciprocal antibody binding studies with extracts from NF- « B p50-transfected COS cells , the NF- « B p50-specific antiserum immunoprecipitated a 48- to 55-kDa polypeptide ( lane 3 ) , consistent with the predicted size of this Rel-related subunit .
+Surprisingly , despite the inability of I « B/MAD-3 to block NF- « B p50 DNA binding activity ( Figure 2A , lane 4 ) , IxB/MAD-3 was readily detected in immunoprecipitates from COS cells coexpressing these polypeptides ( Figure 2B , lane 4 ) .
+These findings thus demonstrate the unexpected capacity of IxB/MAD-3 and NF- « B p50 to form stable complexes in vivo .
+Studies were next performed to examine whether IxB/ MAD-3 modulated the subcellular distribution of NF- « B p50 and NF- « B p65 ( Figure 2C ) .
+Immunofluorescent staining of COS cells expressing NF- « B p65 with specific anti-NF- « B p65 antiserum revealed a diffuse , predominantly perinuclear , or whole-cell pattern of fluorescence ( Figure 2C , a ) .
+In contrast , coexpression of I « B/MAD-3 with NF- « B p65 yielded a nuclear-excluded distribution of NF- « B p65 ( Figure 2C , c ) .
+When NF- « B p50-expressing COS cells were probed with an NF- « B p50-specific antiserum , a primarily nuclear pattern of expression was 1344 observed ( Figure 2C , b ) .
+However , consistent with the capacity of NF- « B p50 to engage Ix « B/MAD-3 , this immunoreactive species was completely retargeted to the cytoplasm after coexpression with IxB/MAD-3 ( Figure 2C , d ) .
+These results demonstrate that I « B/MAD-3 is capable of regulating the subcellular localization of the homodimeric forms of both NF- « B p65 and NF- « B p50 .
+The Transactivation Domain of NF- « B p65 is Selectively Required for IxB-Mediated Inhibition of DNA Binding but not for IxB/MAD-3 Binding To determine the NF- « B p65 sequences required for IxB-mediated inhibition of DNA binding activity , the C-terminal deletion series of NF- « B p65 mutants were examined for DNA binding ( Figure 3A ) , inhibition of binding by IxB/MAD-3 ( Figure 3B ) , and stable association with IxB/MAD-3 ( Figure 3C ) after transfection in COS cells .
+In gel retardation assays , extracts from COS cells transfected with the wild-type NF- « B p65 cDNA supported the formation of a single nucleoprotein complex ( Figure 3A , lane 2 ) that was absent in DNA-binding reactions performed using control extracts prepared from cells transfected with the parental pCMV4 expression vector ( lane 1 ) .
+Deletion of the unique C-terminal Molecular Biology of the Cell non-Rel sequences of NF- « B p65 , which encompass the principal transactivation domain ( see Figure 1A ) ( Schmitz and Baeuerle , 1991 ; Ballard et al .
+, 1992 ) , modestly enhanced the overall DNA binding activity of NF- « B p65 ( Figure 3 , lanes 5-8 ) .
+These results are consistent with the earlier observations of Nolan et al .
+( 1991 ) , suggesting that these C-terminal sequences intrinsically attenuate the DNA binding activity of NF- « B p65 .
+Deletion to amino acid 291 , which removes a basic stretch of residues ( KRKR ; amino acids 301-304 ; see Figure 1A ) resembling the functional nuclear localization signal present in NF- « B p50 ( Henkel et al .
+, 1992 ) , also had no negative effect on DNA binding ( lane 8 ) .
+However , removal of three additional amino acids to residue 288 completely disrupted DNA binding activity ( lane 9 ) , thus mapping the C-terminal boundary of the NF- « B p65 DNA binding domain to between amino acids 289 and 291 within the Rel homology domain .
+In parallel experiments , this series of NF- « B p65 C-terminal deletion mutants was coexpressed in COS cells with an equivalent amount of an IxB/MAD-3 expression vector .
+Results from gel retardation studies performed with extracts from these cotransfected cells are shown in Figure 3B .
+Consistent with prior in vitro reconstitution studies ( Baeuerle and Baltimore , 1989 ; Urban and Baeuerle , 1990 ; Nolan et al .
+, 1991 ; Ruben et al .
+, 1991 ) , coexpression of wild-type NF- « B p65 with I « B/MAD-3 in vivo completely blocked « B enhancer binding activity ( lane 2 ) .
+Similar inhibitory effects were observed with an NF- « B p65 mutant lacking the C-terminal 51 amino acids ( lane 3 ) .
+However , removal of all of the primary NF- « B p65 transactivation domain ( amino acids 451-551 ; see Figure 1A ) ( Schmitz and Baeuerle , 1991 ; Ballard et al .
+, 1992 ) yielded an NF- « B p65 mutant that was entirely refractory to IxB-mediated inhibition ( lane 4 ) .
+Similarly , NF- « B p65 mutants terminated between amino acids 291 and 312 ( lanes 5-8 ) retained DNA binding activity when coexpressed with an equivalent amount of the I « xB/MAD-3 expression vector .
+Subsequent titration experiments performed with the latter NF- « B truncation mutant revealed significant inhibitory effects on DNA binding activity only at higher ( at least 4:1 vector ratio ) doses of IkB/MAD-3 ( Ganchi et al .
+, unpublished results ) .
+These surprising results suggest that the C-terminal activation domain of NF- « B p65 is required for IxB-mediated inhibition of NF- « B p65 DNA binding .
+The precise subregion ( s ) within NF- « B p65 required for IxB/MAD-3 binding in vivo remains unknown .
+To determine these requisite sequences , COS cells were cotransfected with expression vectors encoding IxB/ MAD-3 and each of the NF- « B p65 C-terminal deletion mutants .
+These cell were then metabolically radiolabeled and subjected to immunoprecipitation analysis with specific antipeptide antiserum raised against the N-terminus of NF- « B p65 .
+As shown in Figure 3C , this antiserum specifically immunoprecipitated a 65- to 72- Vol .
+3 , December 1992 Interactions of NF- « B p65 and I « B/MAD-3 kDa radiolabeled polypeptide from COS cells transfected with the NF- « B p65 expression vector ( lane 3 ) but not from COS cells transfected with an expression vector encoding I « B/MAD-3 ( lane 2 ) or lacking a cDNA insert ( lane 1 ) .
+When the IxB/MAD-3 cDNA was coexpressed with NF- « B p65 , a 35- to 40-kDa radiolabeled polypeptide was readily coimmunoprecipitated from recipient cell extracts ( lane 4 ) , indicating the formation of stable NF- « B p65 /IxB complexes in vivo .
+However , removal of the C-terminal activation domain sequences , which were required for IxB-mediated inhibition of DNA binding , had no effect on the interaction of I « B/ MAD-3 with NF- « B p65 ( lanes 5 and 6 ) .
+Further deletion to residue 312 was also without effect ( lane 7 ) , but deletion to amino acid 296 or beyond , which disrupts the putative nuclear localization signal , yielded NF- « B p65 variants that failed to complex with IxB/MAD-3 ( lanes 8-10 ) .
+These coimmunoprecipitation studies thus establish that the C-terminal boundary required for IxB/ MAD-3 binding lies between amino acids 297 and 312 , which is different from the C-terminal boundary for DNA binding ( amino acids 289-291 ) .
+These results further demonstrate that the transactivation domain of NF- « B p65 , which is required for IxB-mediated inhibition of DNA binding , is not itself an essential part of the I « B/MAD-3 binding site on NF- « B p65 .
+The Most N-terminal Residues of the Rel Homology Domain of NF- « B p65 are Required for DNA Binding but not for Association with IxB/MAD-3 To complement these C-terminal deletion mapping studies , reciprocal experiments were performed with a series of N-terminally truncated NF- « B p65 mutants .
+To optimize translation , each of these NF- « B p65 cDNA mutants was prepared using the polymerase chain reaction and matched 5 ' oligonucleotide primers that incorporated a consensus translational initiation sequence ( Kozak , 1987 ) .
+Whole-cell extracts prepared from COS cells transfected with these mutant NF- « B p65 constructs were subsequently tested in gel retardation assays ( Figure 4A ) .
+In control reactions , a single specific nucleoprotein complex was detected with extracts containing full-length NF- « B p65 ( lane 2 ) but not with extracts from mock-transfected cells ( lane 1 ) .
+This DNA binding activity persisted after deletion of up to 20 N-terminal amino acids ( lanes 3 and 4 ) , which affects NF- « B p65 sequences that are divergent from NF- « B p50 ( Ghosh et al .
+, 1990 ; Kieran et al .
+, 1990 ; Nolan et al .
+, 1991 ; Ruben et al .
+, 1991 ) .
+However , removal of 10 or more additional residues , which involves the proximal boundary of the NF- « B p65 Rel homology domain , completely abolished this DNA binding activity ( lanes 5-7 ) .
+As shown in Figure 4B , the DNA binding activity of each of the active NF- « B p65 complexes was completely inhibited by coexpression with equivalent amounts of IxB/MAD-3 ( Figure 4B ; lanes 2-4 ) .
+These findings indicate that , in 1345 P.A .
+Ganchi et al .
+1 7 Ao j $ $ f f 9 i C 97.4-1s @ 00 68.0 I I I I I B 43.0 +1xB 29.0 Lo Lo LO On On Am A 6s `` 6s ©6626 , *C 42 m , 7 , 40 , 48 , Ir , `` 0 , ' _C ' e * 3 4 % P D 4 4 V -IxB to % % % o 0 % % C & % % An On On On On On On A a % L % b , % 4 4 G % % 6 42 , A T R t *t t To 's ¢ $ .
+$ $ $ 3 a 3 , *s 9999969967 } Figure 4 .
+- The N-terminal boundaries of both the NF- « B p65 DNA binding domain and IxB/MAD-3 binding domain are distinct .
+( A and B ) The most N-terminal sequences of the Rel homology domain of NF- « B p65 are required for DNA binding .
+COS cells were transfected with the indicated NF- « B p65 expression vectors ( lanes 2-7 ) in the absence ( A ) or presence ( B ) of an I « B/MAD-3 expression vector .
+Control transfections were performed with unmodified pCMV4 ( lane 1 ) and full-length NF- « B p65 ( p65 WT ; lane 2 ) .
+Recipient cell extracts were incubated with a P-labeled palindromic « B enhancer probe , and the resultant nucleoprotein complexes were resolved on a 5 % polyacrylamide gel .
+( C ) The N-terminal half of the Rel homology domain of NF- « B p65 is dispensible for association with I « B/MAD-3 .
+Extracts from COS cells coexpressing IxB/MAD-3 together with the parental pCMV4 expression vector ( lane 1 ) or the indicated NF- « B p65 variants ( lanes 2-10 ) were subjected to immunoprecipitation analysis using an antipeptide antiserum raised against the C-terminus of NF- « B p65 ( amino acids 535-551 ) .
+Immune complexes were subjected to reducing SDS-polyacrylamide gel electrophoresis ( PAGE ) and visualized by fluorography .
+The relative positions and sizes ( in kilodaltons ) of molecular weight standards are as shown .
+The arrow indicates I « B/MAD-3 .
+contrast to the C-terminus of NF- « B p65 , virtually the entire N-terminus of NF- « B p65 is required for DNA binding .
+To delineate the N-terminal boundary of the IxB/ MAD-3 binding domain present in NF- « B p65 , a more extensive series of N-terminal truncation mutants was cotransfected into COS cells with equivalent amounts of the IxB/MAD-3 expression vector .
+Radiolabeled extracts from these cells were then prepared and subjected to immunoprecipitation analysis with an antiserum specific for the C-terminus of NF- « B p65 .
+As shown in Figure 4C , I « B/MAD-3 was readily immunoprecipitated with this antiserum when coexpressed with the full-length NF- « B p65 protein ( lane 2 ) .
+Surprisingly , deletion of up to 150 N-terminal residues did not affect the formation of a stable NF- « B p65 complex ( lanes 3-9 ) .
+However , deletion of 50 additional N-terminal amino acids completely abolished its ability to engage IkB/ MAD-3 ( lane 10 ) .
+These deletion mapping results thus localize the N-terminal boundary of the NF- « B p65 receptor domain for IxB/MAD-3 to between amino acids 151 and 200 .
+Therefore , in contrast to the DNA binding domain ( amino acids 21-291 ) , which spans virtually the entire Rel homology region , the Ix « B/MAD-3 binding domain ( amino acids 151-312 ) encompasses only the distal half of this region .
+1346 The NLS of NF- « B p65 is a Primary Target for IxB/ MAD-3 Binding Inspection of the IxB/MAD-3 receptor domain within NF- « B p65 was remarkable for the presence of a basic subregion ( KRKR ; amino acids 301-304 ; see Figure 1A ) within the Rel homology domain that is homologous to the functional NLS present at comparable positions in NF- « B p50 ( RKRQK ; Henkel et al .
+, 1992 ) and v-Rel ( KRQR ; Gilmore and Temin , 1988 ) .
+To explore the potential role of this NF- « B p65 motif in I « B-mediated inhibition , IxB/MAD-3 binding , and nuclear translo-cation , site-directed mutagenesis was used to selectively delete these four codons from the wild-type NF- « B p65 cDNA .
+Monkey COS cells were transfected with the resultant cDNA expression vector ( p65 ANLS ) along with increasing doses of the human IxB/MAD-3 expression vector .
+Extracts from these COS cell transfectants were normalized for equivalent protein expression and subjected to gel retardation analysis using a P-labeled « B enhancer probe ( Figure 5A ) .
+In the absence of IxB/MAD-3 , p65 ANLS ( lane 6 ) appeared to bind DNA with increased affinity relative to the wild-type NF- « B p65 protein ( lane 1 ) .
+As expected , titration with increasing amounts of the IxB/MAD-3 expression vector sharply attenuated the DNA binding activity of Molecular Biology of the Cell Interactions of NF- « B p65 and I « B/MAD-3 +1xB +IxB +IxB B - O4 -N -t - » - & n -o -~ - co -w wk o - wk -n -to - & - & n -o -~ - co -w Za 33 97.4 60.0 -a < » apdibdi am - » - < p65 43.0 « » « a » am €Bb - < ~IxB 29.0 N ___ RL N r roo carers cines oR p65 WT p65 ANLS p65 WT - p65 ANLS Figure 5 .
+The NLS of NF- « B p65 is critically involved in IxB/MAD-3 function .
+( A ) I « B/MAD-3 fails to inhibit the DNA binding activity of an NF- « B p65 variant lacking the highly conserved NLS .
+Monkey COS cell were transfected with expression vectors ( 0.5 ug ) encoding either wild-type NF- « B p65 ( lanes 1-5 ) or p65 ANLS ( lanes 6-10 ) , along with increasing doses ( mock , lanes 1 and 6 ; 0.25 ug , lanes 2 and 7 ; 0.5 ug , lanes 3 and 8 ; 1.0 ug , lanes 4 and 9 ; 2.0 ug , lanes 5 and 10 ) of an IxB/MAD-3 expression vector .
+Recipient cell extracts were incubated with a `` P-labeled « B enhancer probe , and the resultant nucleoprotein complexes were fractionated on a native 5 % polyacrylamide gel .
+The arrow indicates NF- « B p65 / « B enhancer complexes .
+( B ) Deletion of the NLS of NF- « B p65 disrupts its ability to bind I « B/MAD-3 .
+Whole-cell extracts described in A were subjected to immunoprecipitation analysis using an NF- « B p65-specific antipeptide antiserum ( amino acids 535-551 ) .
+Radiolabeled immunoprecipitates were fractionated by reducing SDS-PAGE and detected by autoradiography .
+The relative positions and sizes ( in kilodaltons ) of molecular weight standards are given on the left .
+The arrows indicate the positions of NF- « B p65 and IxB/MAD-3 .
+the wild-type protein ( lanes 2-5 ) .
+In contrast , similar titrations with I « B/MAD-3 in cells containing p65 ANLS failed to significantly block its DNA binding activity ( lanes 7-10 ) .
+As shown in Figure 5B , coimmunoprecipitation studies Eerformed with an NF- « B p65-specific antiserum and **S-labeled extracts derived from these cells showed markedly diminished I « B/MAD-3 binding to the p65 ANLS protein ( lanes 7-10 ) compared with the wild-type NF- « B p65 protein ( lanes 2-5 ) .
+Furthermore , as shown in Figure 6A , deletion of four amino acids immediately N-terminal ( p65 A297-300 ; lane 1 ) or eight amino acids C-terminal ( p65 A305-312 ; lane 3 ) to the KRKR motif ( deleted in lane 2 ) did not significantly affect the IxB/MAD-3 binding capacity of these mutant proteins .
+Site-directed mutation of the nearby protein kinase A ( PKA ) phosphorylation consensus sequence ( RRPS ; amino acids 273-276 ) within the Rel homology domain of NF- « B p65 also had no effect on the interaction of NF- « B p65 with I « B/MAD-3 .
+Together , these biochemical data indicate that the KRKR motif present in NF- « B p65 is selectively required for I « xB-mediated inhibition and functions as a primary subregion mediating the stable assembly of NF- « B p65 with I « B/MAD-3 in vivo .
+To confirm that this basic subregion within human NF- « B p65 is in fact a functional NLS , immunofluores- Vol .
+3 , December 1992 cence studies were performed with NF- « B p65-specific antiserum and COS cell transfectants overexpressing either the Rel homology domain of NF- « B p65 ( p65 Rel ; amino acids 1-312 ) or a variant of this terminal deletion mutant lacking the KRKR motif , termed p65 Rel AKRKR .
+Of note , preliminary studies performed with the full-length form of NF- « B p65 revealed a predominantly perinuclear or whole-cell pattern of fluorescence ( see Figure 2C ) , suggesting that the presence of the C-terminus intrinsically influences the subcellular disposition of NF- « B p65 .
+However , as shown in Figure 6B , immunofluorescence staining of COS cells transfected with a C-terminal deletion mutant truncated downstream of the KRKR motif ( p65 Rel ) clearly demonstrated a nuclear pattern of expression .
+Selective deletion of the KRKR motif within this NF- « B p65 mutant profoundly altered the subcellular distribution , yielding a polypeptide ( p65 Rel AKRKR ) confined predominantly to the cytoplasmic compartment .
+Similar results were obtained with a mutant substituted within the KRKR domain ( KRKR ~-AAAA ; Ganchi et al .
+, unpublished results ) .
+Furthermore , deletion of a region adjacent to the KRKR motif ( p65 Rel A293-296 ) failed to disrupt the nuclear targeting of this NF- « B p65 construct .
+These results confirm the NLS function of this motif in NF- « B p65 .
+1347 P.A .
+Ganchi et al .
+p65 Rel A293-296 p65 Rel AKRKR > - NIB dean GMD cums cuse Figure 6 .
+- The functional NLS of NF- « B p65 is specifically targeted by IxB/MAD-3 .
+( A ) Neither the conserved PKA site nor the sequences flanking the NLS of NF- « B p65 are involved in the association with I « B/MAD-3 .
+Extracts from COS cells expressing I « B/MAD-3 together with p65 A297-300 ( lane 1 ) , p65 ANLS ( lane 2 ) , p65 A305-312 ( lane 3 ) , p65 PKA S5 - » A ( lane 4 ) , or p65 PKA S - » G ( lane 5 ) were subjected to immunoprecipitation analysis using an antipeptide antiserum raised against the C-terminus of NF- « B p65 ( amino acids 535-551 ) .
+Immune complexes were resolved on a 10 % SDS-polyacrylamide gel and visualized by fluorography .
+The positions of NF- « B p65 ( closed arrowhead ) and IkB/MAD-3 ( open arrowhead ) are indicated .
+( B ) The highly conserved KRKR motif of NF- « B p65 serves as a functional nuclear localization signal .
+COS cells were transfected with either p65 Rel , p65 Rel AKRKR , or p65 Rel A293-296 , fixed 48 h posttransfection , and probed with an antipeptide antiserum raised against the N-terminus of NF- « B p65 ( amino acids 1-21 ) .
+Complexes were visualized using a Texas red-conjugated second antibody .
+DISCUSSION The NF- « B complex , a prominent member of the Rel family of transcription factors , is critically involved in both the physiologic activation of T cells in response to `` immunologic stimuli ( Sen and Baltimore , 1986a , b ; Lenardo and Baltimore , 1989 ) and the pathologic induction of HIV-1 gene expression in infected CD4* T lymphocytes ( Muesing et al .
+, 1987 ; Nabel and Baltimore , 1987 ) .
+The prototypic form of this heterodimeric complex is composed of two functionally distinct subunits , NF- « B p65 and NF- « B p50 ( Baeuerle and Baltimore , 1989 ; Ghosh et al .
+, 1990 ; Kieran et al .
+, 1990 ; Nolan et al .
+, 1991 ; Ruben et al .
+, 1991 ) , which share extensive N-terminal homology with the v-rel oncogene product ( Figure 7 ) ( Gilmore , 1990 ) .
+In addition , other interactive Rel-related polypeptides recently have been identified that may also participate in the NF- « B signal transduc-tion pathway through combinatorial associations involving either NF- « B p50 or NF- « B p65 ( Neri et al .
+, 1991 ; Schmid et al .
+, 1991 ; Bours et al .
+, 1992 ; Ruben et al .
+, 1992a ; Ryseck et al .
+, 1992 ) .
+Although only NF- « B p50 was originally believed to possess DNA binding activity ( Baeuerle and Baltimore , 1989 ; Urban and Baeuerle , 1990 ) , recent studies clearly have shown that NF- « B p65 is a « B-specific enhancer-binding protein in its own right ( Nolan et al .
+, 1991 ; Ruben et al .
+, 1991 ; Ballard et al .
+, 1992 ) .
+However , NF- « B p65 differs from NF- « B p50 with respect to several important functions .
+Specifically , 1348 NF- « B p65 contains a strong transactivation domain at its C-terminus that is conspicuously absent in NF- « B p50 ( Schmitz and Baeuerle , 1991 ; Ballard et al .
+, 1992 ; Ruben et al .
+, 1992b ) .
+In addition , the in vitro DNA binding activity of NF- « B p65 , but not of NF- « B p50 , is selectively inhibited by IxB , a known cytosolic antagonist of NF- « B function ( Baeuerle and Baltimore , 1989 ; Urban and Baeuerle , 1990 ; Zabel and Baeuerle , 1990 ; Nolan et al .
+, 1991 ; Ruben et al .
+, 1991 ; Inoue et al .
+, 1992b ) .
+In this regard , several cDNAs encoding I « B-like inhibitors recently have been cloned , including human MAD-3 ( Haskill et al .
+, 1991 ) , chicken pp40 ( Davis et al .
+, 1991 ) , murine I « By ( Inoue et al .
+, 1992a ) , and human Bcl-3 ( Ohno et al .
+, 1990 ; Hatada et al .
+, 1992 ; Wulezyn et al .
+, 1992 ) .
+The high degree of amino acid sequence homology shared among these various inhibitors , such as the presence of multiple ankyrin-like motifs ( Davis et al .
+, 1991 ; Haskill et al .
+, 1991 ; Inoue et al .
+, 1992a ) , suggests a family of related proteins that may differentially regulate one or more members of the NF- « B/ Rel transcription factor pathway .
+Furthermore , recent mutational analyses clearly have demonstrated that four of the ankyrin repeats present in pp40 are required to mediate its inhibitory effect on NF- « B p65 DNA binding activity ( Inoue et al .
+, 1992b ) .
+However , the corresponding sequences of NF- « B p65 that interface with these I « B binding determinants and the effect of this interaction on NF- « B p65-dependent transcription in vivo have remained unknown .
+In the present study , we have Molecular Biology of the Cell Interactions of NF- « xB p65 and I « B/MAD-3 PKA NLS ( RRPS ) - ( KRKR ) NH 2 .~ .
+Rel Homology Domain 100 211 2191 DNA Binding aft ___I `` 151 IxB Binding Required for IxB-Mediated Inhibition 312 Figure 7 .
+- Defined organization of the NF- « B p65 DNA binding domain and functionally bipartite I « B/MAD-3 receptor sequences .
+Established amino acid endpoints for the maximal DNA binding ( amino acids 21-291 ) and I « B/MAD-3 binding ( amino acids 151-312 ) domains of NF- « B p65 are shown in relation to previously defined motifs ( see Figure 1A ) .
+The region within the NF- « B p65 transactivation domain ( amino acids 450-500 ) shown to be required for IxB-mediated inhibition of NF- « B p65 DNA binding is also bracketed .
+explored in detail the molecular basis for the specific interaction between human NF- « B and IxB/MAD-3 , focusing on defining the requisite interaction sequences within NF- « B p65 and the effects of I « B/MAD-3 binding on the various intrinsic biochemical properties of NF- « B p65 and NF- « B p50 .
+IxB /MAD-3 Inhibits NF- « B p65-Dependent Transcription In Vivo Previous functional assays performed with Gal4/NF- « B p65 chimeric proteins identified a potent transactivation domain in the distal 101 amino acids of this 65-kDa subunit ( Figure 7 ) ( Schmitz and Baeuerle , 1991 ; Ballard et al .
+, 1992 ) .
+Transient expression studies in human Jurkat T cells using the wild-type and C-terminally truncated forms of NF- « B p65 show that these activation sequences also function in the context of the native protein and that IxB/MAD-3 completely negates their stimulatory effects on transcription in vivo .
+Of note , I « xB-mediated inhibition was unaffected by the selective deletion of a mini-leucine zipper motif that has been implicated as a part of the transactivation function of NF- « B p65 ( Figure 7 ) ( Ruben et al .
+, 1992b ) .
+These findings strongly suggest that MAD-3 represents at least one functional member of the proposed IxB family of polypeptides that has the capacity to regulate NF- « B p65 -dependent transcription in vivo .
+The NLS of NF- « B p65 is the Primary Functional Target of IxB/MAD-3 Phenotypic analysis of a series of N- and C-terminal NF- « B p65 truncation mutants has localized the maximal I « xB/MAD-3 binding domain to a segment of the Rel homology region encompassing amino acids 151 through 312 ( Figure 7 ) .
+This region includes a basic tetrapeptide motif ( KRKR ; amino acids 301-304 ; Figure 7 ) ( Ruben et al .
+, 1991 ) that is highly conserved among all members of the NF- « B/Rel polypeptide family ( Gil- Vol .
+3 , December 1992 more , 1990 ) .
+In this regard , it has been demonstrated that the corresponding motif within the 110-kDa precursor of NF- « B p50 ( RKRQK ) serves as a functional NLS whose expression is effectively masked in cis by inhibitory C-terminal sequences ( Blank et al .
+, 1991 ; Henkel ef al .
+, 1992 ) .
+These inhibitory precursor sequences are ultimately removed by proteolytic process-ing , thereby generating the mature 50-kDa DNA binding protein ( Ghosh et al .
+, 1990 ; Kieran et al .
+, 1990 ) .
+An alternatively spliced transcript selectively encoding this C-terminal inhibitory domain , termed recently has been cloned and shown to exhibit IxB-like activity in trans ( Inoue et al .
+, 1992a ) .
+We demonstrate here that the basic KRKR motif present in NF- « B p65 is a functional NLS .
+Furthermore , specific deletion of this NLS markedly reduces the capacity of IxB/MAD-3 to stably associate with this transactivator protein .
+These findings suggest that I « B/MAD-3 directly binds to and masks the NLS of NF- « B p65 , thereby preventing NF- « B p65 from entering the nuclear compartment .
+The highly conserved nature of this NLS among the various known Rel proteins underscores a potentially fundamental role for this basic motif in regulating the inducible nuclear import of multiple Rel family members via recognition by IkB .
+In this regard , we now show that the subcellular localization of NF- « B p50 is also regulated by IxB/MAD-3 , presumably by a similar mechanism that involves masking of its NLS ( Henkel et al .
+, 1992 ) .
+Recent studies suggest that the homodimeric form of this Rel-related subunit acts specifically as a repressor of NF- « B p65-dependent transcription from the interleukin-2 promoter ( Kang et al .
+, 1992 ) .
+It is not yet clear whether I « By , IxB/MAD-3 , or another member of this growing family of repressors is the authentic physiologic inhibitor of NF- « B p50 function .
+Notwithstanding , the ability of the C-terminus of the NF- « B p50 precursor to mask its own NLS , coupled with its homology to both IxBy and I « B/MAD-3 , suggests that the NF- « B p50 NLS plays a 1349 P.A .
+Ganchi et al .
+role similar to that of the NF- « B p65 NLS in IxB-de-pendent cytoplasmic retention .
+The Unique C-terminal Half of NF- « B p65 Attenuates the Rel Domain-Encoded Functions of DNA Binding and Nuclear Localization Transactivation In the present study , we have shown that deletion mutants of NF- « B p65 devoid of the unique C-terminal sequences are more efficiently localized within the nucleus when compared with the wild-type protein .
+Previous studies have suggested that these transcriptionally inactive NF- « B p65 mutants also bind DNA with increased affinity ( Nolan et al .
+, 1991 ) .
+The recently recognized capacity of NF- « B p65 to induce I « B/MAD-3 gene expression ( Sun et al .
+, unpublished results ) may contribute to these functional effects .
+Alternatively these effects could be a consequence of the disruption of non-covalent interactions that occur between the C-terminus of NFE- « B p65 and the N-terminal Rel homology domain .
+In what may be a related finding , specific deletion of the NLS of NF- « B p65 also enhances its DNA binding activity , suggesting that this stretch of basic residues may serve as a primary contact point for the NF- « B p65 C-terminus .
+This proposed type of intramolecular masking mechanism is not without precedent .
+For example , as noted above , the NLS within the Rel homology domain of the NF- « B p50 precursor is functionally sequestered by cis-acting C-terminal sequences ( Blank et al .
+, 1991 ; Henkel et al .
+, 1992 ) .
+In addition , C-terminally truncated variants of the Rel-related dorsal gene product , a maternal morphogen in Drosophila , have been shown to exhibit enhanced nuclear localization properties as compared with the wild-type protein ( Rushlow et al .
+, 1989 ) .
+Similarly , the cell cycle-dependent nuclear import of the yeast transcription factor , SWI5 , is contingent on the regulated disruption of an intramolecular salt bridge involving its NLS ( Moll et al .
+, 1991 ) .
+By analogy , an interplay between the modular N- and C-terminal domains in NF-kB p65 may represent an alternative mechanism for regulating the potent transcriptional activity of NF- « B p65 in an IxB-independent manner .
+This inhibitory interaction could conceivably be relieved by dimerization with other Rel polypeptides ( e.g .
+, NF- « B p50 ) or by specific posttranslational modification ( e.g .
+, phosphoryla-tion ) that induces an `` open ' `` NF- « B p65 structural con-figuration .
+The NF- « B p65 Transactivation Domain and NLS are Essential for a Fully Functional NF- « B p65 /IxB Interaction Although the N-terminal Rel homology domain of NF- « B p65 is fully capable of binding I « B/MAD-3 , I « B-mediated inhibition of NF- « B p65 DNA binding activity requires additional sequences that map to the remote 1350 C-terminal transactivation domain .
+This relationship explains the paradoxical finding that IxB/MAD-3 efficiently engages both NF- « B p65 and NF- « B p50 but inhibits the DNA binding activity of only NF- « B p65 ( see Figure 2 , A and B ) .
+Specifically , these selective inhibitory effects of IxB/MAD-3 on NF- « B p65 do not derive from subtle differences between the Rel homology domains of NF- « B p65 and NF- « B p50 ( Nolan et al .
+, 1991 ) but rather involve the unique C-terminal transactivation domain of NF- « B p65 , which is missing in NF- « B p50 .
+Coupled with the finding that the subcellular localization of NF- « B p50 can be regulated by IxB/MAD-3 , the Rel homology domain itself can be considered an IxB-resistant DNA binding unit containing an IxB-sensitive NLS .
+In this model , the ability of I « B/MAD-3 to block DNA binding activity depends critically on C-terminal sequences downstream of the Rel homology domain , which are highly divergent among the various NF- « B/ Rel polypeptides ( Gilmore , 1990 ) .
+Given the ability of I « B/MAD-3 to control the inducible expression of NF- « B at the level of subcellular localization , this alternate inhibitory potential would seem redundant .
+However , should I « B/MAD-3 gain access to the nucleus , its capacity to inhibit DNA binding may serve a pivotal role in promoting disengagement of NF- « B p65 bound to its cognate enhancer ( Zabel and Baeuerle , 1990 ) .
+In this regard , an inhibitor of NF- « B DNA binding activity has been identified in nuclear extracts from T lymphocytes and further shown to be highly sensitive to treatment with deoxycholate ( Kang et al .
+, 1992 ) , a characteristic biochemical property of IxB ( Baeuerle and Baltimore , 1988a , b ) .
+As such , through its dual capacity to block nuclear import as well as DNA binding , IB could control both the rapid mobilization of NF- « B from the cytoplasm and the subsequent termination of NF- « B p65-dependent transcription in the nucleus .
+ACKNOWLEDGMENTS We thank Karen Koerber , Paul Morrow , Nancy Peffer , and Eric Dixon for excellent technical assistance ; Dr. C. Rosen for the human NF- « B p65 clone ; Dr. A. Baldwin for the human I « B/MAD-3 clone ; Dr. B. Stein for the NF- « B p50 construct ; and Diane Gearhart for manuscript preparation .
+P. Ganchi was supported in part by NIH training grant 5T32CA-09111 .
+This work was funded by grants from the NIH ( 5RO-1AI-29117-05 ) and the J. David Gladstone Institutes .
+REFERENCES Andersson , S. , Davis , D. , Dahlback , H. , Jornvail , H. , and Russell , D.W. ( 1989 ) .
+Cloning structure , and expression of the mitochondrial cytochrome P-450 sterol 26-hydroxylase , a bile acid biosynthetic en-zyme .
+J. Biol .
+Chem .
+264 , 8222-8229 .
+Baeuerle , P.A .
+, and Baltimore , D. ( 1988a ) .
+Activation of DNA-binding activity in an apparently cytoplasmic precursor of the NF- « B transcription factor .
+Cell 53 , 211-217 .
+Baeuerle , P. A. , and Baltimore , D. ( 1988b ) .
+I « B : a specific inhibitor of the NF- « B transcription factor .
+Science 242 , 541-546 .
+Molecular Biology of the Cell Baeuerle , P.A .
+, and Baltimore , D. ( 1989 ) .
+A 65-kD subunit of active NF- « B is required for inhibition of NF- « B by IxB .
+Genes Dev .
+3 , 1689-1698 .
+Ballard , D.W. , Bohnlein , E. , Hoffman , J. , Bogerd , H. , Dixon , E.P .
+, Franza , B.R .
+, and Greene , W.C. ( 1989 ) .
+Activation of the interleukin-2 receptor a gene : regulatory role for DNA-protein interactions flanking the « B enhancer .
+New Biol .
+1 , 83-92 .
+Ballard , D.W. , Dixon , E.P .
+, Peffer , N.J. , Bogerd , H. , Doerre , S. , Stein , B. , and Greene , W.C. ( 1992 ) .
+The 65-kDa subunit of human NF- « B functions as a potent transcriptional activator and a target for v-Rel-mediated repression .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 89 , 1875-1879 .
+Ballard , D.W. , Walker , W.H .
+, Doerre , S. , Sista , P. , Molitor , J .
+A. , Dixon , E.P .
+, Peffer , N.J. , Hannink , M. , and Greene , W.C. ( 1990 ) .
+The v-rel oncogene encodes a « B enhancer binding protein that inhibits NF- « B function .
+Cell 63 , 803-814 .
+Blank , V. , Kourilsky , P. , and Israel , A .
+( 1991 ) .
+Cytoplasmic retention , DNA-binding and processing of the NF- « B p50 precursor are controlled by a small region in its C-terminus .
+EMBO J .
+10 , 4159-4167 .
+Bohnlein , E. , Lowenthal , J. W. , Siekevitz , M. , Ballard , D.W. , Franza , B.R .
+, and Greene , W.C. ( 1988 ) .
+The same inducible nuclear protein ( s ) regulates mitogen activation of both the interleukin-2 receptor-alpha gene and type 1 HIV .
+Cell 53 , 827-836 .
+Bours , V. , Burd , P.R .
+, Brown , K. , Villalobos , J. , Park , S. , Ryseck , R.-P. , Bravo , R. , Kelly , K. , Siebenlist , U .
+( 1992 ) .
+A novel mitogen-inducible gene product related to p50/p105-NF- « B participates in transactivation through a « B site .
+Mol .
+Cell .
+Biol .
+12 , 685-695 .
+Bradford , M. ( 1976 ) .
+A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding .
+Anal .
+Biochem .
+72 , 248-254 .
+Brady , J. , Jeang , K.-T. , Duvall , J. , and Khoury , G. ( 1987 ) .
+Identification of p40*-responsive regulatory sequences within the HTLV-I LTR .
+J. Virol .
+61 , 2175-2181 .
+Crabtree , G. ( 1989 ) .
+Contingent genetic regulatory events in T lym-phocyte activation .
+Science 243 , 355-361 .
+Davis , N. , Ghosh , S. , Simmons , D. L. , Tempst , P. , Liou , H.-C. , Baltimore , D. , and Bose , H.R .
+, Jr. ( 1991 ) .
+Rel-associated pp40 : an inhibitor of the Rel family of transcription factors .
+Science 253 , 1268-1271 .
+Ghosh , S. , and Baltimore , D. ( 1990 ) .
+Activation in vitro of NF- « B by phosphorylation of its inhibitor IxB .
+Nature 344 , 678-682 .
+Ghosh , S. , Gifford , A.M. , Riviere , LR .
+, Tempst , P. , Nolan , G.P .
+, and Baltimore , D. ( 1990 ) .
+Cloning of the p50 DNA binding subunit of NF- « B : homology to rel and dorsal .
+Cell 62 , 1019-1029 .
+Gilmore , T.D .
+( 1990 ) .
+NF- « B , KBF1 , dorsal , and related matters .
+Cell 62 , 841-843 .
+Gilmore , TD .
+, and Temin , H.M. ( 1988 ) .
+v-rel oncoproteins in the nucleus and in the cytoplasm transform chicken spleen cells .
+J. Virol .
+62 , 703-714 .
+Greene , W.C. , Bohniein , E. , and Ballard , D.W. ( 1989 ) .
+HIV-1 , HTLV-I and normal T-cell growth : transcriptional strategies and surprises .
+Immunol .
+Today 10 , 272-278 .
+Haskill , S. , Beg , A.A. , Tompkins , S.M .
+, Morris , J.S .
+, Yurochko , A.D. , Sampson-Johannes , A. , Mondal , K. , Ralph , P. , and Baldwin , A.S. , Jr. ( 1991 ) .
+Characterization of an immediate-early gene induced in adherent monocytes that encodes I « B-like activity .
+Cell 65 , 1281-1289 .
+Hatada , EN .
+, Nieters , A. , Wulezyn , F.G. , Naumann , M. , Meyer , R. , Nucifora , G. , McKeithan , TW .
+, and Scheidereit , C. ( 1992 ) .
+The ankyrin repeat domains of the NF- « B precursor p105 and the protooncogene bcl-3 act as specific inhibitors of NF- « B DNA binding .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 89 , 2489-2493 .
+Henkel , T. , Zabel , U. , van Zee , K. , Miiller , J.M .
+, Fanning , E. , and Baeuerle , P.A .
+( 1992 ) .
+Intramolecular masking of the nuclear location Vol .
+3 , December 1992 Interactions of NF- « B p65 and IxB/MAD-3 signal and dimerization domain in the precursor for the p50 NF- « B subunit .
+Cell 68 , 1121-1133 .
+Holbrook , N. , Gulino , A. , and Ruscetti , F. ( 1987 ) .
+Cis-acting transcriptional regulatory sequences in the gibbon ape leukemia virus ( GALV ) long terminal repeat .
+Virology 157 , 211-219 .
+Hoyos , B. , Ballard , D.W. , Bohnlein , E. , Siekevitz , M. , and Greene , W.C. ( 1989 ) .
+« B-specific DNA binding proteins : role in the regulation of human interleukin-2 gene expression .
+Science 244 , 457-460 .
+Inoue , J.-L. , Kerr , L.D .
+, Kakizuka , A. , and Verma , LM .
+( 19922 ) .
+IxBy , a 70 kd protein identical to the C-terminal half of p110 NF- « B : a new member of the IxB family .
+Cell 68 , 1109-1120 .
+Inoue , J.-I .
+, Kerr , LD .
+, Rashid , D. , Davis , N. , Bose , H.R .
+, Jr. , and Verma , LM .
+( 1992b ) .
+Direct association of pp40/I « B8 with rel/NF- « B transcription factors : role of ankyrin repeats in the inhibition of DNA binding activity .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 89 , 4333-4337 .
+Kang , S.-M. , Tran , A.-C. , Grilli , M. , and Lenardo , M.J. ( 1992 ) .
+NF- « B subunit regulation in nontransformed CD4* T lymphocytes .
+Science 256 , 1452-1456 .
+Kaufman , J.D .
+, Valanora , G. , Rodriguez , G. , Bushar , G. , Giri , C. , and Norcross , M.D .
+( 1987 ) .
+Phorbol ester enhances human immunodeficiency virus-promoted gene expression and acts on a repeated 10-base-pair functional enhancer element .
+Mol .
+Cell .
+Biol .
+7 , 3759-3766 .
+Kerr , LD .
+, Inoue , J.-L. , Davis , N. , Link , E. , Baeuerle , P.A .
+, Bose , H.R .
+, Jr. , and Verma , LM .
+( 1991 ) .
+The Rel-associated pp40 protein prevents DNA binding of Rel and NF- « B : relationship with and regulation by phosphorylation .
+Genes Dev .
+5 , 1464-1476 .
+Kieran , M. , Blank , V. , Logeat , F. , Vandekerckhove , J. , Lottspeich , F. , Le Bail , O. , Urban , M.B .
+, Kourilsky , P. , Baeuerle , P.A .
+, and Israél , A .
+( 1990 ) .
+The DNA binding subunit of NF- « B is identical to factor KBF1 and homologous to the rel oncogene product .
+Cell 62 , 1007-1018 .
+Kozak , M. ( 1987 ) .
+At least six nucleotides preceding the AUG initiator codon enhance translation in mammalian cells .
+J. Mol .
+Biol .
+196 , 947-950 .
+Lenardo , M.J. , and Baltimore , D. ( 1989 ) .
+NF- « B : a pleiotropic mediator of inducible and tissue-specific gene control .
+Cell 58 , 227-229 .
+Molitor , J.A .
+, Walker , W.H .
+, Doerre , S. , Ballard , D.W. , and Greene , W.C. ( 1990 ) .
+NF- « B : a family of inducible and differentially expressed enhancer-binding proteins in human T cells .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 87 , 10028-10032 .
+Moll , T. , Tebb , G. , Surana , U. , Robitsch , H. , and Nasmyth , K. ( 1991 ) .
+The role of phosphorylation and the CDC28 protein kinase in cell cycle-regulated nuclear import of the S. cerevisiae transcription factor SW15 .
+Cell 66 , 743-758 .
+Muesing , M.A .
+, Smith , D.H. , and Capon , D.J .
+( 1987 ) .
+Regulation of mRNA accumulation by a human immunodeficiency virus frans-ac-tivator protein .
+Cell 48 , 691-701 .
+Nabel , G. , and Baltimore , D. ( 1987 ) .
+An inducible transcription factor activates expression of human immunodeficiency virus in T cells .
+Nature 326 , 711-713 .
+Nakamaye , K. , and Eckstein , F. ( 1986 ) .
+Inhibition of restriction en-donuclease Nci I by phosphorothioate groups and its application to oligonucleotide-directed mutagenesis .
+Nucleic Acids Res .
+14 , 9679-9698 .
+Neri , A. , Chang , C.-C. , Lombardi , L. , Salina , M. , Corradini , P. , Maiolo , A.T. , Chaganti , RS.K .
+, Dalla-Favera , R. ( 1991 ) .
+B cell lymphoma-associated chromosomal translocation involves candidate oncogene lyt-10 , homologous to NF- « B p50 .
+Cell 67 , 1075-1087 .
+Neumann , J.F .
+, Morency , C. , and Russian , K. ( 1987 ) .
+A novel rapid assay for chloramphenicol acetyltransferase gene expression .
+Bio-techniques 5 , 444-447 .
+1351 P.A .
+Ganchi et al .
+Nolan , G.P .
+, Ghosh , S. , Liou , H.-C. , Tempst , P. , and Baltimore , D. ( 1991 ) .
+DNA binding and IkB inhibition of the cloned p65 subunit of NF- « B , a rel-related polypeptide .
+Cell 64 , 961-969 .
+Ohno , H. , Takimoto , G. , and McKeithan , T.W .
+( 1990 ) .
+The candidate proto-oncogene bel-3 is related to genes implicated in cell lineage determination and cell cycle control .
+Cell 60 , 991-997 .
+Paskalis , H. , Felber , B. , and Pavlakis , G. ( 1986 ) .
+Cis-acting sequences responsible for the transcriptional activation of human T-cell leukemia virus type I constitute a conditional enhancer .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 83 , 6558-6562 .
+Rimsky , L. , Hauber , J. , Dukovich , M. , Malim , M. , Langlois , A. , Cullen , B. , and Greene , W.C. ( 1988 ) .
+Functional replacement of the HIV-1 rev protein by the HTLV-I rex protein .
+Nature 335 , 738-740 .
+Ruben , S.M .
+, Dillon , P.J .
+, Schreck , R. , Henkel , T. , Chen , C.-H. , Maher , M. , Baeuerle , P.A .
+, and Rosen , C.A .
+( 1991 ) .
+Isolation of a rel-related human cDNA that potentially encodes the 65-kD subunit of NF- « B .
+Science 251 , 1490-1493 .
+Ruben , S.M .
+, Klement , J.F .
+, Coleman , T.A .
+, Maher , M. , Chen , C.-H. , and Rosen , C.A .
+( 19923 ) .
+I-Rel : a novel rel-related protein that inhibits NF- « B transcriptional activity .
+Genes Dev .
+6 , 745-760 .
+Ruben , S.M .
+, Narayanan , R. , Klement , J.F .
+, Chen , C.-H. , and Rosen , C.A .
+( 1992b ) .
+Functional characterization of the NF- « B p65 transcriptional activator and an alternatively spliced derivative .
+Mol .
+Cell .
+Biol .
+12 , 444-454 .
+Rushlow , C.A .
+, Han , K. , Manley , J.L .
+, and Levine , M. ( 1989 ) .
+The graded distribution of the dorsal morphogen is initiated by selective nuclear transport in Drosophila .
+Cell 59 , 1165-1177 .
+Ryseck , R.-P. , Bull , P. , Takamiya , M. , Bours , V. , Siebenlist , U. , Do-brzanski , P. , and Bravo , R. ( 1992 ) .
+RelB , a new Rel family transcription activator that can interact with p50-NF- « B .
+Mol .
+Cell .
+Biol .
+12 , 674-684 .
+Schmid , R.M .
+, Perkins , N.D. , Duckett , C.S .
+, Andrews , P.C .
+, Nabel , G.J .
+( 1991 ) .
+Cloning of an NF- « B subunit which stimulates HIV transcription in synergy with p65 .
+Nature 352 , 733-736 .
+Schmitz , M.L .
+, and Baeuerle , P. A .
+( 1991 ) .
+The p65 subunit is respon- sible for the strong transcription activating potential of NF- « B .
+EMBO J .
+10 , 3805-3817 .
+1352 Sen , R. , and Baltimore , D. ( 1986a ) .
+Inducibility of « immunoglobulin enhancer-binding protein NF- « B by a posttranslational mechanism .
+Cell 47 , 921-928 .
+Sen , R. , and Baltimore , D. ( 1986b ) .
+Multiple nuclear factors interact with the immunoglobulin enhancer sequences .
+Cell 46 , 705-716 .
+Shimotohno , K. , Takano , M. , Teruuchi , T. , and Miwa , M. ( 1986 ) .
+Requirement of multiple copies of a 21-nucleotide sequence in the U3 regions of human T-cell leukemia virus type I and type II long terminal repeats for trans-acting activation of transcription .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 83 , 8112-8116 .
+Siekevitz , M. , Josephs , S.F .
+, Dukovich , M. , Peffer , N.J. , Wong-Staal , F. , and Greene , W.C. ( 1987 ) .
+Activation of the HIV-1 LTR by T-cell mitogens and the tat-I protein of HTLV-I .
+Science 238 , 1575-1578 .
+Smith , M.R .
+, and Greene , W.C. ( 1990 ) .
+Identification of HTLV-I tax trans-activator mutants exhibiting novel transcriptional phenotypes .
+Genes Dev .
+4 , 1875-1885 .
+Sodroski , J. , Rosen , C. , Goh , W.C. , and Haseltine , W. ( 1985 ) .
+A transcriptional activator protein encoded by the x-lor region of the human T cell leukemia virus .
+Science 228 , 1430-1434 .
+Stein , B. , Rahmsdorf , H. , Steffen , A. , Litfin , M. , and Herrlich , P. ( 1989 ) .
+UV-induced DNA damage is an intermediate step in UV-induced expression of human immunodeficiency virus type 1 , collagenase , c-fos , and metallothionein .
+Mol .
+Cell .
+Biol .
+9 , 5169-5181 .
+Tong-Starksen , S.E .
+, Luciw , P.A .
+, and Peterin , BM .
+( 1987 ) .
+Human immunodeficiency virus long terminal repeat responds to T cell activation signals .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 84 , 6845-6849 .
+Urban , M.B .
+, and Baeuerle , P. A .
+( 1990 ) .
+The 65-kD subunit of NF- « B is a receptor for IkB and a modulator of DNA-binding specificity .
+Genes Dev .
+4 , 1975-1984 .
+Wulezyn , F.G. , Naumann , M. , and Scheidereit , C. ( 1992 ) .
+Candidate proto-oncogene bel-3 encodes a subunit-specific inhibitor of transcription factor NF- « B .
+Nature 358 , 597-599 .
+Zabel , U. , and Baeuerle , P.A .
+( 1990 ) .
+Purified human IxB can rapidly dissociate the complex of the NF- « B transcription factor with its cognate DNA .
+Cell 61 , 255-265 .
+Molecular Biology of the Cell

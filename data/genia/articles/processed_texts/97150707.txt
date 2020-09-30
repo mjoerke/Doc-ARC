@@ -1,0 +1,393 @@
+THE JOURNAL or BIOLOGICAL CHEMISTRY © 1997 by The American Society for Biochemistry and Molecular Biology , Inc. Vol .
+272 , No .
+1 , Issue of Janusry 3 , pp .
+168-173 , 1997 Printed in U.S.A. Ras-dependent , Ca**-stimulated Activation of Nuclear Factor of Activated T Cells by a Constitutively Active Cbl Mutant in T Cells* ( Received for publication , July 9 , 1996 , and in revised form , October 2 , 1996 ) Yun-Cai Liu , Chris Elly , Wallace Y. Langdon } , and Amnon Altman§ From the Division of Cell Biology , La Jolla Institute for Allergy and Immunology , San Diego , California 92121 and { Department of Pathology , University of Western Australia , Nedlands , West Australia 6009 , Australia T cell receptor ( TCR ) stimulation induces rapid tyrosine phosphorylation of cellular proteins , including Cbl , a protooncogene product whose function remains unclear .
+As a first step toward elucidating the function of Cbl in TCR-initiated signaling , we evaluated the ability of wild-type Cbl or a transforming Cbl mutant ( 702/83 ) to induce transcriptional activation of a nuclear factor of activated T cells ( NFAT ) element derived from the interleukin 2 ( L2 ) promoter in transiently cotransfected Jurkat-TAg T cells .
+702/3 , but not Chl , caused NFAT activation which was significantly enhanced by stimulation with calcium ionophore , and was drastically reduced by cyclosporin A pretreatment .
+A point mutation of a potential phosphatidylinositol 3-kinase ( PI3-K ) binding site ( Y `` * `` *EAM to Y `` **EAC ) in 70 % /3 disrupted the association of PI3-K with 702/83 , but did not reduce the induction of NFAT activity , suggesting that the interaction between Chl and PI3-K is not required in the 70 % /3-mediated induction of NFAT .
+Additional mapping studies indicated that defined deletions of C-terminal 702/83 sequences affected to a variable degree its ability to stimulate NFAT activity .
+Strikingly , deletion of 346 C-terminal residues augmented this activity , whereas removal of 20 additional residues abolished it .
+Coexpres-sion of dominant negative Ras abrogated the basal or ionomycin-stimulated , 702/3-mediated NFAT activation , suggesting a functional Ras is required for this activation .
+These results implicate Chl in Ras-dependent signaling pathways which lead to NFAT activation .
+The c-cbl protooncogene is the cellular homologue of v-cbi , a transforming gene of the Cas NS-1 retrovirus .
+The v-cbi oncogene was generated as a result of a rearrangement between Cas-Br-M virus and a sequence encoding the 355 N-terminal residues of the c-cbl product .
+This oncogene induces pro-B cell lymphomas and myeloid leukemias in mice ( 1 ) .
+The 120-kDa product of c-cbl consists of a highly basic N-terminal region , a zinc Ring finger , multiple proline-rich sequences , and several potential tyrosine phosphorylation sites ( 2 ) .
+While the transforming v-cbl product can be detected both in the cytoplasm and the nucleus , c-Cbl is exclusively cytosolic and lacks transforming activity ( 3 ) .
+Another c-cbl mutant isolated from the murine 70/3 pre-B cell lymphoma encodes a protein with an internal deletion of 17 amino acids near the zinc Ring finger .
+* This work was supported by United States Department of Health and Human Services Grants CA85299 and GM50819 .
+The costs of publication of this article were defrayed in part by the payment of page charges .
+This article must therefore be hereby marked `` advertisement `` in accordance with 18 U.S.C .
+Section 1734 solely to indicate this fact .
+§ To whom correspondence should be addressed : Division of Cell Biology , La Jolla Institute for Allergy and Immunology , 10855 Science Center Drive , San Diego , CA 92121 .
+Tel .
+: 619-558-8500 ; Fax : 619-558-3526 ; E-mail : amnon @ liai.org .
+This mutation ( 702/83 ) also activates the transforming potential of c-cbl , and the corresponding protein displays enhanced tyrosine phosphorylation ( 4 ) .
+Several recent findings support the notion that Cbl is involved in signal transduction pathways : first , the proline-rich domain of Cbl mediates constitutive associations with SH3 domains of adaptor signaling proteins , i.e .
+, Grb2 ( 5-8 ) and Neck ( 9 ) ; second , engagement of different receptors , including the epidermal growth factor receptor ( 10-14 ) and cytokine receptors ( 7 , 14-16 ) causes an increase in the phosphotyrosine ( Tyr ( P ) ) ' content of Cbl , and tyrosine-phosphorylated Cbl associates with SH2 domains of the regulatory subunit ( p85 ) of phosphatidylinositol 3-kinase ( PI38-K ) ( 5-7 , 13 , 17 , 18 ) and Crk ( 19-21 ) in an activation-dependent manner .
+Third , we found recently that in T cells , Cbl interacts with 14-3-3 proteins , and that this association is increased upon TCR stimulation ( 22 ) .
+14-3-3 proteins are thought to participate in signal transduction pathways via their association with different oncogene and protooncogene products ( 23 , 24 ) .
+Despite all of these findings , however , the physiological function of mammalian Cbl remains unclear .
+Cbl is also likely to participate in signaling pathways initiated by the T cell antigen receptor ( TCR ) -CD3 complex and other immune recognition receptors , i.e .
+the B cell antigen receptor ( 18 , 25 ) , and the IgG-Fc receptor ( 14 , 26 ) .
+TCR-CD3 ligation by processed antigenic peptides or anti-receptor antibodies leads to activation of protein tyrosine kinases of the Src and Syk families ( 27 , 28 ) which , in turn , phosphorylate multiple cellular proteins .
+These early events trigger signal transduction cascades which lead to T cell activation , lymphokine production , and proliferation .
+Cbl was recently identified as a prominent protein tyrosine kinase substrate in TCR-stimu-lated T cells ( 5 , 6 , 21 , 29 ) , and was found to associate with two protein tyrosine kinases , i.e .
+Fyn ( 5 , 29 , 30 ) and ZAP-70 ( 30 ) , in activated T cells .
+Furthermore , ZAP-70 causes increased tyrosine phosphorylation of Cbl in an Lck- and Fyn-dependent manner ( 30 ) , indicating that Cbl may couple ZAP-70 to downstream signaling events during T cell activation .
+In order to begin to address the role of Cbl in TCRCD3-mediated signaling , we evaluated the effects of wild-type or a mutated form ( 702/83 ) of Cbl on the transcriptional activation of nuclear factor of activated T cells ( NFAT ) , using transient transfection assays in Jurkat T cells .
+NFAT is a transcription factor complex that plays a critical role in the induction of interleukin 2 ( IL2 ) and other cytokine genes , and the two signal requirement for its activation mimicks the requirement for optimal proliferation and IL2 production in TCR-CD3-activated T cells ( 31 , 32 ) .
+NFAT-reporter gene activation in transiently * The abbreviations used are : Tyr ( P ) , phosphotyrosine ; TCR , T cell antigen receptor ; PI8-K , phophatidylinositol 3-kinase ; NFAT , nuclear factor of activated T cells ; PMA , phorbol myristate acetate ; mAb , monoclonal antibody ; HA , hemagglutinin ; IL , interleukin .
+168 This paper is available on line at http : //www-jbc.stanford.edu/jbc/ 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog Ras-dependent , Ca `` * -stimulated Activation of NFAT 169 transfected T cells has , therefore , been extensively used as a physiologically relevant assay for analyzing molecular events associated with T cell activation .
+We report that transient overexpression of 70 % /3 ( but not wild-type Cbl ) induces an increase in the basal activity of NFAT , which is further enhanced synergistically by calcium ionophore .
+This NFAT induction is dependent on both calcineurin and functional Ras .
+These results provide evidence that Cbl is involved in Ras-dependent T cell signaling pathways that lead to the transcriptional activation of cytokine genes .
+MATERIALS AND METHODS Antibodies-The anti-CD3e monoclonal antibody ( mAb ) , OKT3 , was purified from culture supernatants of the corresponding hybridoma by protein A-Sepharose affinity chromatography .
+Polyclonal rabbit anti-Chl antibody was from Santa Cruz Biotechnology ( Santa Cruz , CA ) .
+The 4G10 anti-Tyr ( P ) mAb and a rabbit anti-p85 antibody were purchased from Upstate Biotechnology ( Lake Placid , NY ) .
+Anti-hemagglutinin ( HA ; 12CA5 ) or anti-Grb2 mAbs were from Boehringer Mannheim and Transduction Laboratories ( Lexington , KY ) , respectively .
+Horseradish peroxidase-conjugated donkey anti-rabbit or sheep anti-mouse IgG F ( ab ' ) , fragments were from Amersham Corp. Plasmids-The cDNAs encoding human c-Cbl , v-Cbl , or the homologue of murine 702/83 ( representing an internal 17-amino acid deletion of Cbl ) were subcloned from the pGEM-2z vector into a mammalian expression vector , pEFneo ( 83 ) at the EcoRI and Xbal sites to generate pEFneo-Cbl , pEFneo-v-Cbl , and pEFneo-702/8 , respectively .
+A sequence encoding an HA tag epitope has been added to the 5 end of the 702/83 cDNA by a standard polymerase chain reaction .
+A methionine to cysteine mutation at a potential PIS-K-binding motif in Cbl ( Y**EAM ) was introduced by polymerase chain reaction amplification of a cDNA fragment encoding the Y*EAC mutation and ligation of the product into the TA cloning vector ( InVitrogen ) .
+The sequence was verified by nucleotide sequencing , and the cDNA fragment digested with SnaBI and Xbal was ligated into pEFneo-702/3 which has been digested with the corresponding enzymes to create the expression vector .
+To construct expression plasmids encoding 702/83 proteins with successive deletions of their 114 , 176 , 346 , 866 , or 456 C-terminal residues , internal restriction sites or a point mutation were used to generate plasmids Al ( deletion of an EcoRV-Xbal fragment ) , A2 ( deletion of a SnaBI-Xbal fragment ) , A8 ( point mutation of the proline-560 codon to a stop codon by polymerase chain reaction ) , A4 ( deletion of a Bgill-Xbal fragment ) , and A5 ( deletion of a Sacl-Xbal fragment ) , respectively ( see Fig .
+5A ) .
+These deletions removed distinct proline-rich sequences of the protein .
+The deletion mutants were ligated into the pEFneo vector .
+The luciferase reporter plasmids , NFAT-Lue and IL2-Luc , were generous gifts from Dr. G. Grabtree ; AP-1-Lue and were kindly provided by Dr. M. Karin .
+The dominant negative H-RasN17 plasmid in the pcDNA vector was obtained from Dr. H. Wang .
+Cell Culture and Transfection-Simian virus 40 T antigen ( TAg ) -transfected human leukemic Jurkat T cells ( Jurkat-TAg ) were grown in RPMI 1640 medium ( Life Technologies , Inc. ) supplemented with 10 % fetal bovine serum ( Harlan , Indianapolis , IN ) , L-glutamine , and antibi-otics .
+Cells in a logarithmic growth phase were transfected with the indicated amount ( usually 10 pg ) of Cbl plasmid DNA and 5 pug of the reporter plasmid by electroporation as described previously ( 22 , 34 ) .
+The cells were transferred to 24-well plate 24 h later and cultured in 1 ml of RPMI 1640 medium containing 0.2 % fetal calf serum for 4-6 h. The transfected cells were then left unstimulated or stimulated with an anti-CD38e mAb ( OKT3 ; 10 ug/m1 ) , ionomycin ( 100 ng/m !
+1 ) , and/or phorbol myristate acetate ( PMA ; 10 ng/ml ) for another 8-10 h. In some experiments , the cells were treated in triplicate with cyclosporin A ( 50 ng/ml ) for 10 min prior to stimulation .
+In order to assess the effect of dominant negative Ras , the cells were transfected with a mixture of 5 ug of pEFneo-702/83 , 10 ug of RasN17 , and 5 ug of reporter plasmid DNAs .
+Similar amounts of the corresponding empty vectors were used as controls in all transfection experiments .
+Luciferase Assay-Transfected Jurkat-TAg cells were harvested and lysed in 100 pl of lysis buffer ( 100 mM KPO , , pH 7.8 , 10 mM dithiothre-itol , 0.2 % Triton X-100 ) for 10 min at room temperature .
+The lysates were then centrifuged ( 15,000 x g , 5 min ) , and their protein content was determined in an ELISA plate reader ( Bio-Rad ) using a Bio-Rad microassay .
+Aliquots of the lysates ( 80-50 ul ) normalized to the same protein concentration were mixed with 100 ul of assay buffer ( 17.5 mM glycyl-glycine , pH 7.8 , 10 mM MgCl , , 5 mM ATP , 0.185 mM coenzyme A , 0.285 mM luciferin ) .
+Luciferase activity was determined in triplicate and expressed as arbitrary units ( AU ) .
+The standard deviation among triplicates was < 10 % , and each experiment was repeated at least three times .
+Immunoprecipitation , Immunoblotting , and PI3-K Assoy-Immuno-precipitation , immunoblotting , and PIS-K enzymatic assays were performed as described previously ( 22 , 34 ) .
+RESULTS Overexpression of 70Z/3 Induces NFAT Activity Which Is Synergistic with Ionomycin Stimulation-To explore whether Cbl or 70Z % /3 can transduce signals leading to IL2 gene transcription , we evaluated the effects of cotransfected Cbl or 702/83 cDNA on the transcriptional activity of an IL2 promoter-re-porter plasmid ( IL2-Luc ) , or reporters corresponding to defined response elements in the IL2 promoter , i.e .
+, NFAT-Luc , NFxB-Luc or AP-1-Luc , in Jurkat-TAg cells .
+Cell lysates were assayed for luciferase activity following culture in low serum-containing medium and stimulation with ionomycin and/or PMA .
+As shown in Fig .
+1A , when the full-length Cbl was transfected into unstimulated Jurkat T cells , no increase ( or a slight decrease ) in NFAT activity was observed by comparison with the empty control vector .
+Similarly , Cbl did not activate NFAT in ionomy-cin- or PMA-stimulated cells .
+In contrast , transient overexpression of 702/383 induced a ~3-4-fold increase of NFAT activity in unstimulated cells , and stimulation of the 70 % /3-transfected cells with ionomycin which was minimally active by itself ( ~2-fold activation ) , but not with PMA , resulted in a synergistic effect ( ~70-fold NFAT activation ) .
+Cbl or 702/83 did not cause detectable activation of AP-1 , and 70 % /3 overexpression led to only a slight induction of the IL2 promoter and NFkB under unstimulated or stimulated conditions ( data not shown ) .
+To rule out the possibility that the observed difference between Cbl and 702/3 was due to different expression levels of the two proteins , we assessed protein expression by immunoblotting cell lysates with an anti-Cbl antibody .
+As shown in Fig .
+1B , transient transfection of Cbl or 702/83 increased the intracellular level of a 120-kDa protein which was recognized by anti-Cbl antibody to a similar degree .
+The 70 % /3 protein could also be detected with an anti-HA antibody , since an HA tag was added to its N terminus ( Fig .
+1B ) .
+Collectively , these results indicate that 702/83 is constitutively active in T cells in terms of its ability to induce NFAT-dependent transcription , and synergizes with a Ca `` `` -dependent signal in this regard .
+The former observation is consistent with the finding that 70 % /3 can transform fibroblasts ( 4 ) .
+Calcineurin , a calcium-calmodulin dependent phosphatase which plays a critical role in NFAT induction , is a major target for the immunosuppressive effect of cyclosporin A and FK506 ( 35 , 36 ) .
+To determine whether 70¥/3-induced NFAT activation is dependent on calcineurin , the cells were pretreated with cyclosporin A .
+As shown in Fig .
+1C , cyclosporin A blocked the ionomycin-stimulated increase in NFAT activity in cells transfected with the empty vector , as well as the synergistic effect of 702/83 plus ionomycin .
+This suggests that functional calcineurin is required for the 70 % /3-mediated signal which leads to the transactivation of NFAT .
+v-Cbl Fails to Activate NFAT-Cbl was originally isolated as a product of a transforming viral oncogene ( v-cbl ) .
+Since both v-Cbl ( 1 ) and 70 % /3 ( 4 ) possess transforming activity , we wished to determine whether v-Cbl shares with 702/38 the ability to activate NFAT .
+When cells expressing the NFAT-Luc reporter plasmid were cotransfected with 702/3 , an increase of 3- and 60-fold in NFAT activity was detected in the absence or presence of ionomycin stimulation , respectively , consistent with the results shown in Fig .
+1 .
+In contrast , cotransfection with the v-Cbl expression vector failed to stimulate the basal or ionomycin-induced NFAT activity ( Fig .
+24 ) .
+This difference 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog 170 Ras-dependent , Ca `` * -stimulated Activation of NFAT A 80 [ ] pBFneo .
+G c » g 60 - 10273 3 T o 3 H 4g -I o 3 3 C C4 20 , !
+-S3 control ionomycin PMA Stimulation 0 B é S 2 m Log HL og d 5 5 CO 2 2 C 2 MW MW __ cap cms cam 98- - 98 < a= a 64- jmigd 64 !
+am ste 50- 5C Blot : anti-Cbl Blot : anti-HA 80 D pEFneo > § co Sme 10273 bst < 2 » 40-7 A 3 o ) +s 207 .
+J- $ cus control jono CsA/iono Stimulation Fig .
+1 .
+NFAT activation by 702 % /3 .
+A , Jurkat-TAg T cells were cotransfected with an NFAT-Lue reporter plasmid plus either empty pEFneo vector , or pEFneo vectors expressing Chl or 702/83 .
+Following culture and stimulation as indicated , the cells were lysed , and extracts were assayed for luciferase activity .
+Bars represent the mean of triplicate samples .
+B , aliquots of the same lysates were subjected to SDS-12.5 % polyacrylamide gel electrophoresis , and Cbl expression was assessed by immunoblotting with anti-Cbl ( eff ) or anti-HA ( right ) antibodies .
+Molecular mass ( MW ) standards are shown ( X 1000 ) .
+C , aliquots of the transfected cells were pretreated with cyclosporin A ( CsA ) prior to ionomycin ( ono ) stimulation , and luciferase activity was measured as in A .
+The data shown in A and C are representative of three experiments .
+was not due to different expression levels of 70/3 and v-Cbl , since immunoblotting with an anti-HA antibody revealed similar expression levels of the two transfected proteins ( Fig .
+2B ) .
+Therefore , despite the fact that both v-Cbl and 702/83 display transforming activity , only is capable of activating NFAT , suggesting that transformation by the two proteins involves different mechanisms .
+70Z/3-mediated NFAT Activation Is Independent of PI3-K Association with 70Z/3-TCR-CD3 cross-linking causes rapid tyrosine phophorylation of Cbl which , in turn , leads to an association of Cbl with PI3-K in an activation-dependent manner ( 5 , 6 , 17 , 29 ) .
+PI3-K has been implicated in TCRCD3- and A B é “ [ - ] pEFneo g § ) 3 7023 6 S Q é 10 ] BO web !
+So g MW w } og-| & = $ 64- < * ; 50- ma 20 36-1 o -- -control ionomycin Stimulation Fic .
+2. v-Cbl does not activate NFAT .
+A , Jurkat-TAg cells were cotransfected with the NFAT-Luc reporter plasmid plus pEFneo , pEF-neo-702/3 , or pEFneo-v-cbl , left unstimulated or stimulated with ionomycin as indicated , and lysates were assayed for luciferase activity .
+Bars represent the mean of triplicate samples .
+B , samples of the same lysates were separated by SDS-12.5 % polyacrylamide gel electrophoresis , transferred to nitrocellulose , and immunoblotted with a mouse anti-HA antibody .
+Molecular mass ( MW ) standards are shown ( X 1000 ) .
+or CD28-mediated signaling events leading to IL2 transcription ( 37 , 38 ) .
+Thus , we wished to address the possibility that an activation-induced CbI/PI3-K association plays a role in the observed NFAT activation mediated by 702/38 .
+Cbl contains two potential PI3-K-binding motifs ( 39 ) , ie .
+, Y° CEM and Y¥ `` *EAM which may mediate binding to the SH2 domain of p85 ( 17 ) .
+The first of these motifs is deleted in 70 % /3 ( 4 ) .
+To examine whether the Y `` **EAM is essential for the interaction between Cbl and PI3-K and , if so , whether this association is required for the 70Z/3-mediated NFAT activation , we mutated the methionine residue in this motif of 702/83 to cysteine ( Y**EAC ) .
+A similar methionine mutation was found to disrupt the association of the CD28 YXXM motif with PI3-K ( 87 ) .
+The relative specificity of this point mutation is indicated by the findings that : first , it did not have a global effect on the basal or anti-CD3-induced tyrosine phosphorylation of 702/83 , as revealed by anti-Tyr ( P ) immunoblotting of the corresponding immunoprecipitates ( Fig .
+3C ) ; second , the mutation did not appear to have a gross effect on the integrity and/or conformation of the 702/83 protein since it could still associate in an activation-independ-ent manner with Grb2 ( Fig .
+3D ) , which is known to constitutively associate with Cbl ( 5-8 ) .
+Jurkat-TAg cells were transiently transfected with the 702/83 expression vectors ( or empty vector ) , and their association with endogenous PI3-K was assessed by coimmunoprecipitation using the anti-HA tag mAb .
+The results ( Fig .
+34 ) demonstrate that 70 % /3 coimmunoprecipitated with p85 in unstimulated cells , and that the amount of coprecipitated p85 was markedly increased following anti-CD3 stimulation .
+The lower association in unstimulated cells most likely reflects the basal tyrosine phosphorylation of Cbl .
+In contrast , very little association of Y `` *EAC with PIS-K was observed under the same conditions ( panel A ) , although the expression levels of the two Cbl proteins were equivalent as revealed by anti-HA immunoblotting ( Fig .
+3B ) .
+This result was confirmed by performing an in vitro PI3-K enzymatic assay on the same immunoprecipitates .
+Thus , anti-HA immunoprecipitates from stimulated , Y `` **EAC-trans-fected cells contained a markedly lower PI3-K activity than their counterparts from 70 % /3-transfected cells ( Fig .
+83K ) .
+To-gether , these results suggest that the Y `` **EAM motif in 702/83 is largely responsible for the interaction with p85 .
+Next , we determined the effect of the 702/83 Y `` *EAC mutation on the 70Z/3-mediated activation of NFAT .
+The mutant plasmid or 702/83 was cotransfected with the NFAT-Lue reporter plasmid into Jurkat-TAg T cells .
+As showed in Fig .
+4A , cell lysates from Y'**EAC-transfected cells showed 1.5 to 2 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog Ras-dependent , Ca `` * -stimulated Activation of NFAT 171 WJ o L 3 m m & N a 2 E > -F -- - -- I ] OKT3 - + - + - + W M 1 ®* _ Blot : 98-1 4 - * > - anti-p $ 5 64-102 3 4 50 6 B ak Blot : 98- o `` * `` = to* | 64-C 10 2 3 4 5 6 MW os- ~- sam oe « am | Blot : -__ anti-Tyr ( P ) 64-Io 2 3 4 5 6 D MW 307 Blot : 16- anti-Grb2 1 2 3 4 50 6 E *+ © 10 20 3 4 50 6 Fic .
+3 .
+Mutation of the Y `` **EAM motif disrupts the association of 702/83 with PI3-K. Jurkat-TAg T cells were transfected with pEFneo , pEFneo-70 % /8 , or pEFneo-70Z/3/Y¥ `` `` EAC ( Y The cells were left unstimulated ( - ) , or stimulated ( + ) with an anti-CD3 antibody ( OKT3 ) .
+The cells were then lysed and Cbl proteins were immu-noprecipitated with an anti-HA mAb .
+The membrane containing SDS-12.5 % polyacrylamide gel electrophoresis-resolved immunoprecipitates was then immunoblotted with an anti-p85 antibody ( A ) and reprobed with an anti-HA mAb ( B ) .
+A parallel membrane was immunoblotted with an anti-Tyr ( P ) mAb ( C ) , followed by reprobing with an anti-Grb2 mAb ( D ) .
+The positions of molecular mass ( MW ) standards are indicated ( X 1000 ) .
+Aliquots of the same immunoprecipitates were also analyzed for PIS-K activity by thin-layer chromatography ( E ) .
+The arrow indicates the position of phosphatidylinositol 3-phosphate ( PI ( 3 ) P ) .
+times higher luciferase activity both in resting and ionomycin-stimulated cells than that from 702/3-transfected cells .
+Similar results were consistently observed in a number of repeated experiments .
+The expression levels of the transfected plasmids were determined by immunoblotting and no apparent difference was detected between 702/3 and Y `` **EAC ( Fig .
+4B ) .
+These data strongly suggest that an optimal interaction between PI3-K and 702/83 is not required for NFAT activity induced by the latter .
+The Effects of C-terminal Deletions on 70Z % /3-mediated NFAT Activation-In order to further define the region in 702/83 which is responsible for NFAT activation , we focused on the C-terminal region of the protein , since v-Cbl , which corresponds to the 361 N-terminal residues of human c-Cbl , lacked any NFAT-stimulating activity ( Fig .
+2 ) .
+The C-terminal region of c-Cbl contains a proline-rich region and several potential tyrosine phosphorylation sites ( 2 ) .
+Expression vectors encoding A 20 O pEFneo C E In 1 Relative Luc Activity 5 1 a 1 9 -_- -G control ionomycin |_ PMA Stimulation B y o < C $ oa a & N a & t > 8 E > esse asm » | Blot : anti-HA Fig .
+4 .
+NFAT activation by 702/83 is independent of PIS-K asso-ciation .
+A , Jurkat-TAg cells were transfected with NFAT-Lue plus pEFneo , pEFneo70Z/3 , or pEFneo/Y'**EAC ( Y *EAC ) .
+The cells were left unstimulated or stimulated as indicated , and lysates were then assayed for luciferase activity .
+Bars represent the mean of triplicate samples .
+The data shown are representative of six experiments .
+B , cell lysates were analyzed for the expression levels of the Chl proteins by immunoblotting with an anti-HA mAb .
+70Z/3 proteins with successive C-terminal deletions were generated ( Fig .
+5A ) and assessed for their ability to activate NFAT in Jurkat-TAg cells by transient cotransfection assays ( Fig .
+5B ) .
+As shown earlier ( Figs .
+1 and 2 ) , 70 % /3 caused a ~3-fold increase in the basal NFAT activity and stimulated it by ~70-fold in the presence of ionomycin , whereas v-Cbl was inactive .
+Similarly , mutation of the major PI3-K-binding motif ( Y¥ `` * `` EAC ) caused some increase in the corresponding activity .
+Deletion of 114 or 176 C-terminal residues ( A1 and A2 , respec-tively ) reduced the activity by ~50 % relative to the untruncated 70 % /3 .
+These results suggest that the C-terminal 114 amino acids of 702/38 contribute to maximal NFAT activation .
+Surprisingly , the A3 construct , in which the 346 C-terminal 70Z/3 residues have been deleted , induced higher basal or ionomycin-stimulated NFAT activity than the untruncated 70Z/3 construct , and deletion of additional 20 ( A4 ) or 110 ( A5 ) residues essentially abolished this activity ( Fig .
+5B ) .
+The differences in biological activity among the distinct 702/83 constructs did not reflect differences in their expression levels since immunoblotting lysates of the transiently transfected cells with an anti-HA tag antibody revealed similar expression levels of the corresponding proteins ( Fig .
+5C ) .
+A Functional Ras Is Required for the 70Z/3 Function-The finding that 70Z2/3 synergizes with ionomycin to induce NFAT activation was reminiscent of the effect of constitutively active Ras which can also cooperate with ionomycin to induce NFAT or IL2 promoter activity ( 40-43 ) .
+To examine whether NFAT activation by 702/38 is dependent on functional Ras , we cotransfected Jurkat-TAg cells with combinations of 70/3 and/or a dominant negative Ras expression vector ( or with the corresponding empty vectors ) , and assessed the degree of NFAT activation .
+The 70 % /3-induced NFAT activation was nearly completely inhibited by RasN17 in either resting or ionomycin 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog 172 Ras-dependent , Ca `` * -stimulated Activation of NFAT A Rinﬁﬁnger 70273 # ¥ `` } 'rac 17 aa deletion tn 1 10 - ] ORI MOEA z Relative Lue Activity t 1 remi control ionomycin Stimulation vicbl MW og .
+_-64- t > # 0 a an 50- woe Fic .
+5 .
+Effects of C-terminal deletions on the NFAT-inducing activity of 702/83 .
+A , schematic illustration of the 70Z/3 constructs .
+All the constructs contain an HA tag epitope at the N terminus ( star ) .
+Shown are the 17-amino acid deletion occurring near the zinc Ring finger of c-Cbl which led to the generation of 702/83 , the 11 proline-rich stretches in the C-terminal region of human Cbl ( black bars ) , and the position of the Y `` **EAC point mutation ( asterisk ) .
+The numbers of the last amino acid residue in each construct are indicated with respect to the original c-Cbl sequence .
+The v-Cbl construct encoding the N-terminal 361 amino acids of c-Cbl is also shown .
+B , Jurkat-TAg T cells were transiently cotransfected with an NFAT-luc reporter plasmid plus the indicated Cbl expression plasmids .
+Cells were cultured in the absence or presence of ionomycin ( 100 ng/ml ) for the final 8-10 h of culture and then assayed for luciferase activity .
+C , the cell lysates were analyzed for expression of the transfected Cbl proteins by immunoblotting with an anti-HA antibody .
+Molecular weight ( MW ) standards are shown ( X 100 ) .
+stimulated cells ( Fig .
+6A ) .
+The expression level of 70 % /3 was , however , similar in cells cotransfected with the control ( pcDNA3 ) or RasN17 expression vector ( Fig .
+6B ) .
+These results suggest that functional Ras is required for the 70Z2/3-mediated activation of NFAT .
+DISCUSSION In the present study , we have demonstrated that 702/3 , a mutated version of the Cbl protooncogene product , but not wild-type Cbl or v-Cbl , functions in a constitutively active manner to induce NFAT activation in Jurkat T cells and , furthermore , that 702/83 acts in synergy with calcium ionophore in this regard .
+Cyclosporin A , which selectively inhibits the function of calcineurin ( 35 , 36 ) , as well as dominant negative Ras , blocked A [ D ] pEFneo/peDNA3 [ C _| pEFneo/RasN17 70Z/3/RasN17 107 Relative Luc activity control ionomycin Stimulation B peDNA3 RasN17 r ts g & F © | S 3 s _C isd MW 98 Fic .
+6 .
+Induction of NFAT by 702/83 requires functional Ras .
+A , Jurkat-TAg T cells were cotransfected with the NFAT-Luc reporter plasmid plus pEFneo or pEFneo-70Z/3 together with empty peDNA8 vector or pcDNAS-RasN17 .
+Transfected cells were left unstimulated or stimulated with ionomycin , and lysed for the luciferase assay .
+Bars represents the mean of triplicate samples .
+The data shown are representative of three experiments .
+B , samples of the same lysates were analyzed for 70Z/3 expression by immunoblotting with an anti-HA mAb .
+A molecular weight ( MW ) standard is shown ( X 1000 ) .
+both the basal and the ionomycin-stimulated induction of NFAT by 702/83 .
+On the other hand , a mutation that markedly reduced the association of 702/83 with PI3-K did not impair the activation of NFAT and , in fact , seemed to increase it .
+These results suggest that Cbl is involved in the TCR-CD3-mediated signaling pathway ( s ) which ultimately lead to the activation of NFAT , one of the critical transcription factor complexes involved in induction of IL2 and other cytokine genes ( 31 , 32 ) .
+Optimal activation of NFAT and the IL2 promoter requires two signals which can be mimicked by agents that increase the free intracellular calcium concentration and activate the protein kinase C/Ras pathway in T cells , respectively ( 40-43 ) .
+Constitutively active calcineurin , which can replace the calcium signal , or ionomycin , can each synergize with phorbol ester or constitutively active Ras to induce NFAT activation ( 41 , 42 ) .
+Thus , calcineurin is a major target for the calcium signal involved in NFAT activation and IL2 gene transcription .
+Our finding that 702/38 synergized with ionomycin ( but not with PMA ) to induce NFAT activation , and that this effect was blocked by cyclosporin A pretreatment ( Fig .
+1 ) , strongly sug-gest , therefore , that this constitutively active Cbl can cooperate with calcineurin to provide the requisite signals for NFAT activation .
+70Z2/3 mimicks in this respect the effects of constitutively active Ras ( 41 , 42 ) .
+The similarity with Ras also extends to the finding that , like Ras ( 41 , 42 ) , 70 % /3 synergized with ionomycin ( Fig .
+1 ) , but not with an anti-CD3 mAb ( data not shown ) , to activate NFAT .
+This connection between Cbl and the Ras signaling pathway is supported by our finding that dominant negative Ras inhibited almost completely the 702/3-induced activation of NFAT , indicating that functional Ras is necessary for NFAT induction in the context of 702/38 .
+This finding does not allow us to conclude at present whether Ras acts downstream of 702/83 , or in a parallel pathway which interacts with a Cbl-dependent pathway , to induce NFAT activation .
+610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog Ras-dependent , Ca `` * -stimulated Activation of NFAT Recent studies have indicated that , in hematopoietic ( 5 , 6 , 17 ) and other ( 13 ) cells , tyrosine-phosphorylated Cbl recruits PI3-K , an interaction that may be mediated by tyrosine-con-taining YXXM motifs in Cbl and the SH2 domain of p85 ( 17 ) .
+Since PI3-K may be involved in signaling pathways leading to IL2 production ( 37 , 38 ) , it was of interest to examine whether PI3-K association with Cbl is required in order for 702/83 to activate NFAT .
+We found that a point mutation of methionine to cysteine in the Y `` **EAM motif of 702/83 reduced the association of 702 % /3 with PI3-K to a minimum , indicating that this motif is largely responsible for the interaction of 702/83 with PI3-K .
+However , this mutation increased the activation of NFAT by 702/83 , suggesting that activation-dependent recruitment of PI3-K to Chl is not required for the induction of NFAT .
+A striking observation in the present study is that the 702/83 A3 mutant , from which 346 C-terminal amino acid residues were deleted , exhibited the highest NFAT-inducing transcriptional activity .
+Further deletion of only 20 additional amino acid residues ( A4 ) completely abrogated basal or ionomycin-stimulated NFAT induction .
+One potential explanation is that the region represented by residues 541-560 in 70 % /3 interacts directly or indirectly with an essential effector involved in NFAT activation , and that removal of more proximal residues ( i.e .
+residues 561-906 ) facilitates this interaction , perhaps by abolishing other interactions with a negative regulator ( s ) .
+Al-ternatively , differences in biological activity among the various constructs represent conformational changes in the structure of 702/38 , in which case A3 may have a more favorable conformation for mediating the effector function of Cbl .
+Since the 70Z/3 deletions remove distinct proline-rich sequences which have been implicated in binding to SH3 domains of other proteins ( 5-8 , 44 ) , it is possible that interactions with SHS-containing signaling proteins are a major target for the functional effects of these deletions .
+This possibility is currently being analyzed .
+What is the molecular mechanism by which the constitutively active Cbl mutant , 702/83 , affects the transcriptional regulation of NFAT ?
+The finding that 702/3 , but not wild-type Cbl , can mediate this event suggests that amino acid residues 366-383 ( which have been deleted in 702/83 ) regulate negatively the function of Cbl or its association with effector proteins , and that their removal unmasks the ability of Cbl to activate NFAT .
+This is compatible with the findings that the same deletion activates the transforming potential of Cbl ( 4 ) .
+The notion of a negative regulatory activity associated with Cbl is supported by the recent finding that a Cbl homologue , Sli-1 , negatively regulates vulval development in Caenorhabditis el-egans , a process which is known to be initiated by a homologue of the epidermal growth factor receptor via a tyrosine kinase-and Ras-dependent signaling pathway ( 45 ) .
+The internal deletion may activate Cbl directly , or indirectly by abolishing an interaction between Chl and a putative negative regulator that binds to the deleted region .
+It is possible that this activity can also be unmasked by an undefined physiological signal which leads to Cbl activation during T cell activation .
+In any event , recent findings that Cbl functions as an adapter protein and associates with many signaling proteins suggest that Cbl-asso-ciated proteins may act as intermediate effectors to transduce signals from Chl which lead to induction of NFAT , and perhaps other transcriptional elements involved in T cell activation .
+Our findings open the way for further studies to directly investigate the mechanism by which Cbl acts to regulate signaling pathways initiated by immune recognition receptors .
+10 .
+11 .
+12. .
+Soltoff , S. P. , and Cantley , L. C. ( 1996 ) J. Biol .
+Chem .
+271 , 568-567 14 .
+15 .
+16 .
+17 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44. .
+Yoon , C. H. , Lee , J. , Jongeward , G. D. , and Sternberg , P. W. ( 1995 ) Science 269 , 173 REFERENCES .
+Langdon , W. Y. , Hartley , J. W. , Klinken , S. P. , Ruscetti , S. K. , and Morse , H. C. ( 1989 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+86 , 1168-1172 .
+Blake , T. J. , Shapiro , M. , Morse , H. C. , and Langdon , W. Y .
+( 1991 ) Oncogene 6 , 653-657 .
+Blake , T. J. , and Langdon , W. Y .
+( 1992 ) Oncogene 7 , 757-762 .
+Andoniou , C. E. , Thien , C. B. , and Langdon , W. Y .
+( 1994 ) EMBO J .
+13 , 4515-4523 .
+Fukazawa , T. , Reedquist , K. A. , Trub , T. , Soltoff , S. , Panchamoorthy , G. , Druker , B. , Cantley , L. , Shoelson , S. E. , and Band , H. ( 1995 ) J. Biol .
+Chem .
+270 , 19141-19150 .
+Meisner , H. , Conway , B. R. , Hartley , D. , and Czech , M. P. ( 1995 ) Mol .
+Cell .
+Biol .
+15 , 8571-8578 .
+Odai , H. , Sasaki , K. , Iwamatsu , A. , Hanazono , Y. , Tanaka , T. , Mitani , K. , Yazaki , Y. , and Hirai , H. ( 1995 ) J. Biol .
+Chem .
+270 , 10800-10805 .
+Panchamoorthy , G. Fukazawa , T. , Miyake , S , , Soltoff , S. , Reedquist , K. , Druker , B. , Shoelson , S. , Cantley , L. , and Band , H. ( 1996 ) J. Biol .
+Chem .
+271 , 3187-3194 .
+Rivero , L. O. , Sameshima , J. H. , Marcilla , A. , and Robbins , K. C. ( 1994 ) J. Biol .
+Chem .
+269 , 17363-17366 Bowtell , D. D. , and Langdon , W. Y .
+( 1995 ) Oncogene 11 , 1561-1567 Galisteo , M. L. , Dikic , L. , Batzer , A. G. , Langdon , W. Y. , and Schlessinger , J .
+( 1995 ) J. Biol .
+Chem .
+270 , 20242-20245 Meisner , H. , and Czech , M. P. ( 1995 ) J. Biol .
+Chem .
+270 , 25332-25335 Tanaka , S. , Neff , L. , Baron , R. , and Levy , J .
+B .
+( 1995 ) J. Biol .
+Chem .
+270 , 14847-14851 Sasaki , K. , Odai , H. , Hanazono , Y. , Ueno , H. , Ogawa , S. , Langdon , W. Y. , Tanaka , T. , Miyagawa , K. , Mitani , K. , and Yazaki , Y. Biochem .
+Biophys .
+Res .
+Commun .
+216 , 838-847 Wang , Y. , Yeung , Y. G. , Langdon , W. Y. , and Stanley , E. R. ( 1996 ) J. Biol .
+Chem .
+271 , 17-20 Hartley , D. , Meisner , H. , and Corvera , S. ( 1995 ) J. Biol .
+Chem .
+270 , 18260-18263 .
+Kim , T. J. , Kim , Y. T. , and Pillai , S. ( 1995 ) J. Biol .
+Chem .
+270 , 27504-27509 .
+de Jong , R. , ten Hoeve , J. , Heisterkamp , N. , and Groffen , J .
+( 1995 ) J. Biol .
+Chem .
+270 , 21468-21471 .
+Ribon , V. , Hubbell , S. , Herrera , R. , and Saltiel , A. R. ( 1996 ) Mol .
+Cell .
+Biol .
+16 , 45-52 .
+Sawasdikosol , S. , Ravichandran , K. S. , Lee , K. K. , Chang , J. H. , and Burakoff , S. J .
+( 1995 ) J. Biol .
+Chem .
+270 , 28983-2896 .
+Liu , Y.-C. , Elly , C. , Bonnefoy-Bérard , N. , Yoshida , H. , and Altman , A .
+( 1996 ) J. Biol .
+Chem .
+271 , 14591-14595 .
+Burbelo , P. D. , and Hall , A .
+( 1995 ) Curr .
+Biol .
+5 , 95-96 .
+Aitken , A .
+( 1995 ) Trends Biochem .
+Sci .
+20 , 95-97 .
+Cory , G. O. , Lovering , R. C. , Hinshelwood , S. , MacCarthy , Morrogh L. , Levinsky , R. J. , and Kinnon , C. ( 1995 ) J. Exp .
+Med .
+182 , 611-615 .
+Marcilla , A. , Rivero , L. O. , Agarwal , A. , and Robbins , K. C. ( 1995 ) J. Biol .
+Chem .
+270 , 9115-9120 .
+Weiss , A. , and Littman , D. R. ( 1994 ) Cell 76 , 263-274 .
+Mustelin , T. ( 1994 ) Immunity 1 , 351-356 .
+Donovan , J .
+A. , Wange , R. L. , Langdon , W. Y. , and Samelson , L. E. ( 1994 ) J. Biol .
+Chem .
+269 , 22921-22924 Fournel , M. , Davidson , D. , Weil , R. , and Veillette , A .
+( 1996 ) J. Exp .
+Med .
+183 , 301-306 Jain , J. , Loh , C. , and Rao , A .
+( 1995 ) Curr .
+Opin .
+Immunol .
+7 , 338-842 Crabtree , G. R. , and Clipstone , N. A .
+( 1994 ) Annu .
+Rev .
+Biochem .
+63 , 1045-1083 Liu , Y.-C. , Kawagishi , M. , Mikayama , T. , Inagaki , Y. , Takeuchi , T. , and Ohashi , H. ( 1993 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+90 , 8957-8961 Bonnefoy-Bérard , N. , Liu , Y.-C. , von Willebrand , M. , Sung , A. , Elly , C. , Mustelin , T. , Yoshida , H. , Ishizaka , K. , and Altman , A .
+( 1995 ) Proc .
+Natl .
+Acad .
+Sci .
+U. S. A .
+92 , 10142-10146 O'Keefe , S. J. , Tamura , J. , Kincaid , R. L. , Tocci , M. J. , and O'Neill , E. A .
+( 1992 ) Nature 857 , 692-694 Clipstone , N. A. , and Crabtree , G. R. ( 1992 ) Nature 857 , 695-697 Cai , Y.-C. , Cefai , D. , Schneider , H. , Raab , M. , Navavi , N. , and Rudd , C. E. ( 1995 ) Immunity 8 , 417-426 Ward , S. G. , June , C. H. , and Olive , D. ( 1996 ) Immunol .
+Today 17 , 187-197 Songyang , Z. , Shoelson , S. E. , Chaudhuri , M. , Gish , G. , Pawson , T. , Haser , W. G , King , F. , Roberts , T. , Ratnofsky , S. , Lechleider , R. J. , Neel , B. G. , Birge , R. B. , Fajardo , J. E. , Chou , M. M. , Hanafusa , H. , Schaffhausen , B. , and Cantley , L. C. ( 1998 ) Cell 72 , 767-778 Rayter , S. I. , Woodrow , M. , Lucas , S. C. , Cantrell , D. A. , and Downward , J .
+( 1992 ) Mol .
+Cell .
+Biol .
+11 , 4549-4556 Woodrow , M. , Clipstone , N. A. , and Cantrell , D. ( 1998 ) J. Exp .
+Med .
+178 , 1517-1522 Baldari , C. T. , Heguy , A. , and Telford , J. L. ( 1998 ) J. Biol .
+Chem .
+268 , 8406-8409 Woodrow , M. A. , Rayter , S. , Downward , J. , and Cantrell , D. A .
+( 1998 ) J. Immunol .
+150 , 3858-3861 Mayer , B. J. , and Eck , M. J .
+( 1995 ) Curr .
+Biol .
+5 , 364-367 1102-1105 610Z '01 Aepy uo 4g /810-0q [ 'mmmy/ : dyy wo ; popeoumog Ras-dependent , Ca**-stimulated Activation of Nuclear Factor of Activated T Cells by a Constitutively Active Chl Mutant in T Cells Yun-Cai Liu , Chris Elly , Wallace Y. Langdon and Amnon Altman J. Biol .
+Chem .
+1997 , 272:168-173. doi : 10.1074/jb0.272.1.168 Access the most updated version of this article at http : /www.jbe.org/content/272/1/168 Alerts : « When this article is cited « When a correction for this article is posted Click here to choose from all of JBC 's e-mail alerts This article cites 44 references , 27 of which can be accessed free at http : //www 68 .full.html # ref-list-1 610Z '01 Aepy uo 4g wo ; popeoumog

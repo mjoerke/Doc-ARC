@@ -1,0 +1,789 @@
+MoLECULAR AND CELLULAR BroLoGY , Aug. 1995 , p. 4337-4346 0270-7306/95/ $ 04.00+0 Copyright 1995 , American Society for Microbiology Vol .
+15 , No .
+8 A Functional T-Cell Receptor Signaling Pathway Is Required for p95 `` ° `` Activity JUN WU , `` SHULAMIT KATZAV , `` anp ARTHUR WEISS* > ** Departments of Microbiology and Immunology `` and Medicine® and Howard Hughes Medical Institute , `` University of California , San Francisco , California 94143 , and Lady Davis Institute , Jewish General Hospital , Montreal , Quebec H3T 1E2 , Canada `` Received 15 March 1995/Returned for modification 28 April 1995/Accepted 12 May 1995 Stimulation of the T-cell antigen receptor ( TCR ) induces activation of multiple tyrosine kinases , resulting in phosphorylation of numerous intracellular substrates .
+One substrate is p95 `` `` `` , which is expressed exclusively in hematopoietic and trophoblast cells .
+It contains a number of structural motifs , including Sre homology 2 , Src homology 3 , and pleckstrin homology domains and a putative guanine nucleotide exchange domain .
+The role of p95 `` * `` in TCR-mediated signaling processes is unclear .
+Here , we show that overexpression of p95° `` alone in Jurkat T cells leads to activation of the nuclear factors , including NFAT , involved in interleukin-2 expression .
+Furthermore , p95 `` synergizes with TCR stimulation in inducing NFAT- and inter-leukin-2-dependent transcription .
+In contrast , NFAT activation by a G-protein-coupled receptor is not modulated by p95° `` `` overexpression , suggesting that the effect is specific to the TCR signaling pathways .
+Although removal of the first 67 amino acids of p95 `` activates its transforming potential in NIH 3T3 cells , this region appears to be required for its function in T cells .
+We further demonstrate that the p95 `` `` -induced NFAT activation is not mimicked by Ras activation , though its function is dependent upon Ras and Raf .
+Furthermore , the activating function of p95 `` `` `` is blocked by FK506 , suggesting that its activity also depends on calcineurin .
+To further dissect p95 `` `` `` involvement in TCR signaling , we analyzed various Jurkat mutants deficient in TCR signaling function or TCR expression and showed that an intact TCR signaling pathway is required for p95 `` `` `` to function .
+However , overexpression of p95 `` `` `` does not appear to influence TCR-induced protein tyrosine phosphorylation or increases in cytoplasmic free calcium .
+Taken together , our data suggest that p95 `` `` `` plays an important role at an yet unidentified proximal position in the TCR signaling cascade .
+Engagement of the T-cell antigen receptor ( TCR ) by a pep-tide-bound major histocompatibility complex molecule initiates a biochemical cascade involving activation of protein tyrosine kinases ( PTKs ) , resulting in phosphorylation of multiple intracellular proteins , including the TCR { & and CD3 chains , ZAP-70 , and phospholipase C-y1 ( PLC-y1 ) ( 61 ) .
+Tyrosine phosphorylation of PLC-y1 induces its enzymatic activity ( 45 ) , leading to the generation of the two second messen-gers , diacylglycerol ( DAG ) and inositol 1,4,5-trisphosphate , which are responsible for the rapid and sustained intracellular calcium increase and activation of protein kinase C ( PKC ) , respectively .
+These early biochemical events , through poorly understood processes , lead to a variety of T-cell functions , including transcriptional activation of interleukin-2 ( IL-2 ) gene .
+Tyrosine phosphorylation of cellular proteins has been shown to be an early and obligatory step in TCR signal transduction ( 33 ) .
+Therefore , the identification and understanding the function of these molecules is of considerable interest .
+One of these TCR-induced tyrosine-phosphorylated proteins is p95 `` `` `` ( 6 , 42 ) , the product of a proto-oncogene expressed exclusively in hematopoietic and trophoblast cells ( 35 , 65 ) .
+It was first identified as a result of its malignant activation during the course of a gene transfer assay ( 35 ) .
+Truncation of the amino-terminal leucine-rich region activates its transforming potential when it is expressed in NIH 3T3 cells ( 11 , 34 , 35 ) .
+p95 `` `` `` contains a putative guanine nucleotide exchange factor ( GEF ) * Corresponding author .
+Mailing address : Howard Hughes Medical Institute , Box 0724 , University of California , San Francisco , CA 94143 .
+Phone : ( 415 ) 476-1291 .
+Fax : ( 415 ) 502-5081 .
+4337 domain for small GTPases of the Rho/Rac family .
+A homolo-gous domain is also present in CDC24 and Dbl , two known GEFs for Rho and Rac proteins ( 1 , 2 , 18 ) .
+Moreover , p95 `` `` `` also contains a number of structural motifs shared by other signaling molecules , including one Sre homology 2 ( SH2 ) domain , two SH3 domains , a pleckstrin homology domain , and a cysteine-rich domain ( 39 , 44 ) .
+Recent studies show that p95 `` `` `` becomes tyrosine phosphorylated following a variety of stimuli , including TCR , B-cell antigen receptor , and IL-2 receptor stimulation ( 5 , 6 , 16 , 42 ) .
+When p95 `` is expressed ectopically in fibroblasts , epidermal or platelet-derived growth factor will stimulate its rapid tyrosine phosphorylation .
+Activation of epidermal or platelet-derived growth factor receptors also results in association of the receptors with p95¢ `` `` via its SH2 domain ( 6 , 42 ) .
+Although p95¢ `` `` so far has not been found to associate with any receptors upon ligand stimulation in hematopoietic cells , its SH2 domain has been shown to interact with a number of signaling molecules , including ZAP-70 and an uncharacter-ized tyrosine-phosphorylated protein , Vap-1 ( 5 , 36 ) .
+Taken together , these findings suggest that p95¢ `` `` may play an important role in the receptor-mediated signaling processes in hematopoietic cells .
+TCR activation leads to cell progression from resting G , , to G , and the production of IL-2 .
+IL-2 is then available for stimulation of the IL-2 receptor in an autocrine or paracrine fash-ion , causing T cells to enter S phase , which ultimately results in cell proliferation .
+Therefore , regulation of IL-2 gene transcription is a key step in T-cell activation .
+Two critical requirements for IL-2 gene activation upon TCR stimulation are the activation of Ras and calcineurin , a calcium/calmodulin-dependent protein phosphatase ( 10 , 13 , 47 , 51 ) .
+It is believed that calcineurin is activated by the increase of intracellular calcium 4338 WU ET AL .
+caused by activation of PLC-y1 ( 61 ) .
+Two pharmacological agents , FK506 and cyclosporin A , can block TCR-mediated IL-2 gene activation by inhibiting calcineurin function ( 15 , 17 ) .
+Ras can be activated by PKC-dependent and PKC-indepen-dent pathways ( 32 ) .
+Expression of an activated form of Ras leads to IL-2 gene activation in conjunction with a calcium ionophore or an activated form of calcineurin , whereas a dominant negative form of Ras inhibits TCR signaling ( 51 , 63 ) .
+These studies emphasize the critical role of calcineurin and Ras in TCR-mediated signals that regulate IL-2 gene expression .
+Although p95¢ `` `` shares homology with the GEFs for Rho/ Rac but not Ras family members , it has been reported to account for most of the receptor-stimulated Ras GDP-GTP exchange activity in both T and B cells ( 23 , 26 ) .
+In addition , tyrosine phosphorylation of p95¢ `` `` or binding of DAG to its cysteine-rich domain was shown to be required for this exchange activity ( 23-25 ) .
+However , these findings have not been confirmed by other investigators , who demonstrated that neither p95¢ `` `` nor oncogenic vay has any detectable exchange activity for Ras and that the morphology of vav-transformed NIH 3T3 cells is distinct that of from Ras-transformed cells ( 7 , 38 ) .
+The DAG or phorbol ester binding activity of the cysteine-rich region in p95¢ `` `` also appears to be controversial , since in vitro assays failed to show any binding of p95 `` `` `` to DAG or phorbol ester ( 37 ) .
+Therefore , the functional significance of p95 `` as a Ras exchange factor in lymphocytes remains unclear .
+To explore the potential role of p95 `` in TCR-mediated signaling leading to IL-2 gene activation , we overexpressed p95 `` and oncogenic vay in Jurkat T cells and examined their effects on IL-2 promoter elements .
+Here , we find that overexpression of p95 `` `` `` alone can activate the IL-2 promoter through mechanisms which depend on both Ras and calcineurin function .
+By using various Jurkat mutants deficient in TCR signaling , we demonstrate that this p95 `` `` `` activity requires a functional TCR signaling pathway .
+MATERIALS AND METHODS Cells and reagents .
+Jurkat , JCaM1.6 ( 19 , 59 ) , 145.01 ( 40 ) , and J.RT3-T3.5 ( 46 ) cells were maintained in RPMI 1640 medium supplemented with 10 % fetal calf serum , penicillin , streptomycin , and glutamine ( medium ) .
+Simian virus 40 ( SV40 ) T-antigen ( TAg ) -transfected Jurkat ( TAg Jurkat ; a kind gift from G. Crabtree ) , J.HM1.2.1 ( 20 ) , J.HM1L.2.2 ( 20 ) , PF-2.4 , and PF-2.8 ( 46 ) cells were maintained in medium with 2.0 mg of geneticin ( Gibco ) per ml and transferred to geneticin-free medium 48 h before experiments to prevent aminoglycoside-mediated inhibition of phosphoinositide hydrolysis .
+JCaM1.6/Lck cells ( 59 ) were maintained in medium containing 250 g of hygromycin per ml .
+Plasmids .
+The p95 `` `` `` and oncogenic vay expression plasmids ( pSV115 and pSV67 , respectively ) were constructed by subcloning the EcoRI fragments of vev cDNAs from pSK115 and pSK67 into pSV7d , an SV40 origin-containing mammalian expression vector ( 34 , 35 ) .
+The same cDNA inserts were also subcloned into pEF-BOS , another mammalian expression vector ( 43 ) , to generate pEF115 and pEF67 .
+An oligonucleotide fragment comprising both a Kozak translational initiation and the myc epitope tag sequences was linked to the 5 ' end of the p95 `` cDNA to generate both pSV115myc and pEF115myc .
+Plasmid pCD8T , expressing only the extracellular and transmembrane portion of the human CD8 « molecule , has been described elsewhere ( 30 ) .
+The N17ras and DN-Raf plasmids were kind gifts from D. Cantrell .
+The NFAT , NFIL-2A , and IL-2 luciferase reporter constructs ( NFAT-Luc , NFIL2A-Luc , and IL2-Luc ) were generous gifts from G. Crabtree .
+The v-H-ras expression plasmid was kindly provided by H. Bourne .
+Abs .
+The monoclonal antibody ( MAb ) used for the stimulation of the TCR was C305 , which recognizes the Jurkat Ti B chain ( 62 ) .
+The anti-vay polyclonal antibody ( Ab ) was purchased from Santa Cruz Biotechnology ( Santa Cruz , Calif. ) .
+Antiphosphotyrosine MAb 4G10 was purchased from Upstate Biotechnology Inc. ( Lake Placid , N.Y. ) .
+A MAb , 9E10 , for the detection of the myc epitope was kindly provided by J. M. Bishop .
+A fluorescein isothiocyanate ( FITC ) -conjugated anti-CD8 « ( FITC-CD8 ) Ab was purchased from Becton Dickinson ( Mountain View , Calif. ) .
+Cell transfections , stimulations , and luciferase assays .
+TAg Jurkat cells ( 10° ) Mor .
+CELL .
+BioL .
+were transiently transfected by electroporation , as previously described ( 10 ) , with 20 ug of the reporter plasmids indicated and 50 ug of a vector containing either no insert ( empty vector ) or a p95 `` , N-terminally truncated vay , or v-H-ras cDNA insert .
+Forty hours after transfection , 10° cells were aliquoted into a 96-well plate ( Corning ) and cultured in a final volume of 100 pl of RPMI 1640 growth medium .
+Cells were unstimulated or stimulated at 37°C in growth medium containing either 1.0 M ionomycin , a 1:1,000 dilution of C305 ascites , 500 pM carbachol , or 50 ng of phorbol myristate acetate per ml and 1.0 M iono-mycin .
+After an 8-h stimulation period , cells were lysed in harvest buffer ( 100 mM KPO , [ pH 7.8 ] , 1.0 mM dithiothreitol , 1 % Triton X-100 ) , and 100 pl of lysate was mixed with 100 pl of assay buffer ( 200 mM KPO , [ pH 7.8 ] , 10 mM ATP , 20 mM MgCl ) followed by 100 pl of 1.0 mM luciferin .
+Luciferase activity , expressed in arbitrary units ( AU ) , was determined either in duplicate or in triplicate for each experimental condition .
+In the cotransfection experiments , 30 g of a vector containing either N17ras , DN-Raf , or pCD8T was cotransfected with pSV115 .
+For wild-type Jurkat T cells and mutant derivatives , plasmid pEF115 or pEF115myc ( 40 pg ) was transiently transfected into 10 `` cells .
+Forty hours after transfection , 5 X 10° cells were aliquoted into a 24-well plates in 1.5 ml of medium .
+Cells were then stimulated and assayed as described above .
+For the inhibition assays , cells were maintained in medium containing either 100 ng of FK506 per ml or 3.0 wM herbimycin A for 24 h after transfection .
+They were stimulated and assayed as described above .
+Cell purification and immunoblots .
+TAg Jurkat cells were transiently transfected with pCDS8T , along with an empty vector , pSV115 or pSV67 .
+Twenty-four hours later , cells were harvested and CD8-positive cells were enriched by adding FITC-CD8 Ab and sheep anti-mouse immunoglobulin-coated magnetic beads ( Dynal Inc. , Great Neck , N.Y. ) .
+The bound CD8-positive cells were then lysed in lysis buffer containing 1 % Nonidet P-40 , 10 mM Tris ( pH 7.8 ) , 150 mM NaCl , 2 mM EDTA , and protease and phosphatase inhibitors as previously described ( 59 ) .
+In the case of TCR stimulation , CD8-positive cells were stimulated with C305 ( 1:250 ) for 2 min and then lysed immediately .
+Lysates equivalent to 10° cells were separated by sodium dodecyl sulfate-polyacrylamide gel electrophore-sis and were transferred to nitrocellulose membranes .
+The blots were blocked with 5 % bovine serum albumin ( or 3 % ovalbumin ) in 10 mM Tris ( pH 7.9 ) -150 mM NaCl containixllg 0.05 % Tween detergent .
+Blots were incubated with primary Ab followed by [ ***IJprotein A or secondary Ab conjugated with horseradish peroxidase and then assayed by autoradiography or enhanced chemilumines-cence assay , ( ECL kit ; Amersham ) , respectively .
+Measurement of calcium by flow cytometry .
+Calcium measurements were performed as previously described ( 21 ) .
+The indicated transiently transfected cells were incubated in media at 10 % /ml with a 1.0 wM the calcium-sensitive fluorescence dye Indo-1 ( Molecular Probe , Menlo Park , Calif. ) at 37°C and then stained with FITC-CD8 Ab at 4°C .
+Fluorescence-activated cell sorter analysis was performed as previously described ( 4 ) .
+RESULTS Overexpression of p95° `` `` in Jurkat T cells increases the basal activity of IL-2 promoter elements and further potentiates TCR-mediated signal transduction .
+TCR activation contributes to the production of IL-2 .
+cis-acting elements in the IL-2 promoter bind nuclear factors , including NFAT and NFIL-ZA ( 14 ) .
+Reporter constructs containing multimers of cither element are responsive to TCR-mediated signaling and require activation of both calcineurin and Ras pathways ( 14 , 15 , 63 ) .
+To determine the role of p95 `` in T-cell signaling , we transiently overexpressed p95 `` `` `` in SV40 TAg-transfected Jurkat T cells and examined its effect on the NFAT-Luc or NFILZA-Luc reporter construct .
+The expression vector used contains an SV40 origin of replication to allow its high-level gene expression in TAg Jurkat cells ( 10 ) .
+By cotransfecting truncated CD8 as a surface marker for transfected cells and then enriching the CD8-positive transfectants , we estimated that the level of p95¢ `` `` overexpression is about 5 to 10 times that of the endogenous p95 `` `` `` by Western blotting ( immuno-blotting ) and autoradiography ( Fig .
+1A ) .
+Overexpression of p95 `` alone resulted in 30- and 15-fold increases in basal activity of the NFAT and NFIL-2A reporter constructs , respectively ( Fig .
+1B ) .
+In contrast , reporter constructs driven by a constitutively active Rous sarcoma virus promoter or CD4 enhancer promoter produced only a twofold increase of activity in the p95 `` `` `` -overexpressing cells ( data not shown ) .
+Overexpression of a truncated form of p95¢ `` `` , lacking the first 67 amino acids in the N terminus , did not lead to increases Vou .
+15 , 1995 A 106- watts < pgsvay 80 - -e < - oncogenic vay 1 2 3 200 7 [ ] vector B p9Svav 5 o ' B 0 3 B == 100 -3 s Lik .
+0 Unstimulated Anti-TCR NFAT-~Luciferase Induction Fold Induction Fold p95 `` IN TCR SIGNALING 4339 30 [ ] vector W pQ9S5vav N-trunc .
+vav 20 10 7 0 a .
+NFAT NFIL-2A Reporter Plasmid [ ] vector 20 4 n p95vav 10 7 0 Anti-TCR IL-2 Luciferase Unstimulated FIG .
+1 .
+Overexpression of p95 `` in TAg Jurkat cells augments basal and TCR-stimulated IL-2 transcriptional activity .
+( A ) TAg Jurkat cells were cotransfected with plasmids encoding pCD # /T together with either an empty vector ( lane 1 ) , wild-type ( lane 2 ) , or N-terminally truncated vay ( lane 3 ) .
+CD8-positive cells were purified , normalized , and blotted for vay expression .
+Sizes are indicated in kilodaltons .
+( B ) TAg Jurkat cells were cotransfected with either NFAT-Luc or NFIL2A-Luc together with either an empty vector , wild-type p95 `` , or N-terminally truncated ( N-trunc . )
+vay .
+Transfected cells were then assayed for luciferase activity .
+( C and D ) TAg Jurkat cells were transfected with either NFAT-Luc ( C ) or IL2-Luc ( D ) , along with either an empty vector or wild-type p95 `` .
+Cells were either unstimulated or stimulated with an anti-TCR MAb ( C305 ) and then assayed for luciferase activity .
+The results are shown as the fold induction of luciferase activity compared with the activity in unstimulated cells cotransfected with pSV 7d empty vector and the reporter construct .
+Luciferase activities of the unstimulated cells transfected with the empty vector were approximately 500 AU for NFAT-Luc and 200 AU for either NFIL2A-Luc or IL2-Luc .
+Maximal stimulated activities ( by treatment with 50 ng of phorbol myristate acetate per ml and 1.0 wM ionomycin ) were typically about 10° AU for NFAT-Luc and 5 X 10* AU for either NFIL2A-Lue or IL2-Lue .
+The results are expressed as the mean of values determined from at least three independent experiments .
+Error bars represent standard errors of the means .
+in the basal activity of either NFAT or NFIL-2A ( Fig .
+1B ) .
+The overexpression level of the truncated vay is similar to that of wild type p95¢ `` `` in TAg Jurkat cells ( Fig .
+1A ) .
+This result was surprising , since the truncated p95 `` `` `` is transforming in fibroblasts , but indicates that the effect observed with the full-length p95¢ `` `` does not simply reflect the overexpression of domains ( such as SH2 and SH3 domains ) shared by other signaling molecules .
+Moreover , it implies that the N-terminal region may be required for p95¢ `` `` function in T cells .
+Not only did overexpression of p95¢ `` `` lead to NFAT activation without TCR stimulation , it also markedly augmented TCR-stimulated NFAT activity compared with the level in the control vector-transfected cells ( Fig .
+1C ) .
+A similar 10-fold augmentation was observed on TCR-mediated induction of a reporter construct containing the entire upstream 275 bp of the IL-2 regulatory region ( Fig .
+1D ) .
+Note that TCR stimulation alone failed to activate the IL-2 promoter in this experiment because costimulation with phorbol ester or CD28 stimulation is required for activation of this promoter construct .
+Overexpression of the N-terminal truncated vay failed to enhance TCR-mediated signal transduction ( data not shown ) .
+The p95¢ `` -induced NFAT activation is not due to the expression of TAg in Jurkat cells , since we also obtained similar results when we overexpressed p95 `` `` `` in unmodified ( lacking TAg expres-sion ) Jurkat cells by using a different mammalian expression vector , pEF-BOS ( see Fig .
+3 and 4 ) .
+These data demonstrate that overexpression of p95¢ `` `` has a profound effect on TCR-mediated activation of factors involved in IL-2 gene regulation and allowed us to study further the signaling role of p95 `` `` `` in T cells .
+4340 WU ET AL .
+A 200 { vector K | p9Svav c v-H-ras o 3 - 1507 G 3 hE 3 100 { C Ld .
+l— < Lis Z 50 p | -- -- l-Unstimulated _ lonomycin Anti- TCR Stimulation ( o warr cme < 4 pg5vav 1 2 3 aap @ i .
+40 poSVoV 1 2 3 Mor .
+CELL .
+BioL .
+B [ ] vector , unstimulated 1507 E posvav , unstimulated c .0 BB vector , anti-TCR 't g pgsvav , anti-TCR G € 100-C 0 L. a ind 507 22 p L -- § r 3 Control DNA N17ras DN-Raf Cotransfection D - 250 [ ] vector , - unstimulated e p9Svav , unstimulated o-9 20 B vecior , anti-tcR o 3 p9Svav , anti-TCR G c -= 0 1504 C 0 [ nd L0 1997 < LL 4 507 o - + FK506 Treatment FIG .
+2 .
+NFAT activation is not mimicked by Ras activation but is dependent on Ras and calcineurin function .
+( A ) TAg Jurkat cells were transfected with NFAT-Luc along with either an empty vector alone , p95 `` , or v-H-ras .
+Cells were either unstimulated or stimulated with ionomycin or an anti-TCR MAb ( C305 ) and then assayed for luciferase activity .
+The results are expressed as the means of values determined from at least three independent experiments .
+Error bars represent standard errors of the means .
+( B ) Cotransfection of N17ras or DN-Raf impairs the basal and TCR-mediated NFAT activation induced by p95 `` overexpression in TAg Jurkat cells .
+A control vector , N17ras , or DN-Raf was cotransfected into TAg Jurkat cells with either a control vector or myc-p95 `` along with NFAT-Luc .
+Transfected cells were stimulated and assayed for luciferase activity .
+( C ) An aliquot of cells from each transfection in panel B was lysed and blotted for mye epitope .
+Lanes 1 through 3 represent myc-p95 `` `` `` plus vector , myc-p95 `` `` `` plus N17ras , and myc-p95 `` `` `` plus DN-Raf , respectively .
+( D ) TAg Jurkat cells were transfected with NFAT-Luc along with either a control vector or myc-p95 `` `` , stimulated in the presence or absence of FK506 , and assayed for luciferase activity .
+( E ) An aliquot of transfected cells in panel D was lysed and blotted for the myc epitope .
+Lane 1 through 3 represent control vector , and myc-p95 `` `` `` in the presence of FK506 , respectively .
+All luciferase assay results are shown as the fold induction of luciferase activity compared with the activity in unstimulated cells cotransfected with pSV7d vector and NFAT-Luc .
+The data are representative of at least two independent experiments .
+Rather than simply activating Ras alone , p95 `` `` `` appears to function upstream of or parallel to Ras and calcineurin .
+It has been shown that the minimum requirement for NFAT induction is activation of both Ras and calcineurin ( 63 ) .
+Expression of a constitutively activated Ras protein , v-H-ras , generates a signal which can synergize with a calcium signal to induce NFAT ( 51 , 63 ) .
+Since a region of p95 `` shares homology with GEF domains for the Rho/Rac family of small GTPases and has been reported to be a Ras GEF in lymphocytes , one possibility is that p95 `` overexpression in T cells directly activates Ras .
+It might then be expected to further synergize with a basal calcineurin activity leading to NFAT activation .
+Unlike p95 `` `` ** , transfection of v-H-ras into TAg Jurkat cells did not lead to a significant basal stimulation of NFAT activity ( Fig .
+2A ) .
+More over , ionomycin , a calcium ionophore which activates calcineurin , strongly synergized with v-H-ras but not with p95¢ `` `` in NFAT induction ( Fig .
+2A ) .
+These results are consistent with the recent report showing that p95¢ `` `` does not directly activate Ras ( 7 ) .
+However , Ras could still play a role in the effects of p95Y `` `` overexpression .
+Since expression of either a dominant negative Ras ( N17ras ) or a dominant negative Raf ( DN-Raf ) prevents TCR-mediated activation of NFAT and the IL-2 gene ( 48 , 51 ) , we coexpressed N1l7ras or DN-Raf along with p95 `` `` `` in TAg Jurkat cells to examine whether p95¢ `` `` may depend on the Ras pathway to exert its activity on NFAT .
+To monitor the level of p95¢ `` `` overexpression , we generated a myc epitope-tagged version of p95 `` `` `` .
+Coexpression of either N1l7ras or DN-Raf abol- Vou .
+15 , 1995 ished the elevated basal and TCR-mediated NFAT activity induced by p95 `` `` `` overexpression ( Fig .
+2B ) but did not suppress the level of transfected p95 `` `` `` ( Fig .
+2C ) .
+These data suggest that p95¢ `` `` does not simply function to directly activate Ras ; rather , it appears to influence signaling events that depend upon Ras function .
+To determine whether the p95 `` `` `` -induced activation of NFAT also requires calcineurin function , we used two immu-nosuppressive agents , FK506 and cyclosporin A , which are known to inhibit calcineurin function and thus impair TCR-mediated NFAT activation ( 15 , 17 ) .
+Treatment of Jurkat cells with either FK506 or cyclosporin A completely blocked both the elevation of basal levels and TCR-mediated NFAT activation in p95 `` `` `` -overexpressing cells ( Fig .
+2D and data not shown ) .
+The drug treatment was not toxic to the cells and did not inhibit p95¢ `` `` overexpression , as shown in Fig .
+2E .
+These results indicate that the NFAT activation in p95 `` `` `` -overexpressing cells depends on both Ras and calcineurin pathways and suggest that p95 `` may function upstream of or parallel to them in TCR signaling pathways .
+The p95 `` `` `` activity appears to be specific to TCR-mediated signaling .
+TCR engagement induces PLC activity , which leads to the hydrolysis of phosphatidylinositol 4,5-bisphosphate and generation of inositol 1,4,5-trisphosphate and DAG .
+These second messengers are responsible for the rapid and sustained intracellular calcium increase and activation of PKC upon TCR stimulation , respectively ( 61 ) .
+The calcium increase is believed to be responsible for activation of calcineurin , whereas PKC activation can lead to Ras activation ( 61 ) .
+In J.HM1.2.2 , a Jurkat T-cell line expressing the seven-transmem-brane domain heterologous human muscarinic receptor ( HMIR ) , PLC- is believed to be activated by the HMIR via a heterotrimeric G-protein-mediated mechanism ( 12 ) .
+Stimulation of the HMIR in Jurkat cells induces increases in intracellular Ca** concentration and Ras activation ( reference 20 and data not shown ) .
+We examined the effect of p95 `` `` `` overexpression in J.HM1.2.2 cells , in which stimulation through either TCR or HMIR can cause IL-2 gene activation .
+Consistent with previous studies , carbachol stimulation of the HMIR led to a potent induction of NFAT ( Fig .
+3 ) ( 12 ) .
+Strikingly , overexpression of p95 `` failed to augment the HMIR stimulation , in contrast to its effect on TCR-mediated induction ( Fig .
+3 ) .
+In addition , overexpression of p95¢ `` `` in Jurkat cells had only minimal effects on the NFAT induction following treatment with phorbol ester and calcium ionophore ( data not shown ) .
+These data argue that the p95 `` effect is specific to the TCR-mediated signaling pathways and further implicate p95¢ `` `` function in the proximal signaling events upstream of or parallel to Ras and calcineurin in T cells .
+An intact TCR signaling pathway is required for p95 `` to function .
+The earliest events occurring after TCR stimulation involve the activation of multiple cytoplasmic PTKs , manifested by the tyrosine phosphorylation of a variety of cellular proteins , including p95¢ `` `` ( 61 ) .
+The role of PTK activation is underscored by the effects of PTK inhibitors such as herbimycin A , which markedly impairs TCR signaling ( 22 , 33 ) .
+If p95 `` `` `` participates in the TCR-mediated signaling pathway , proximal TCR signaling events may influence the effect of p95 `` `` `` on NFAT activation .
+In fact , incubation of p95¢ `` `` -transfected cells with herbimycin A blocked the basal activation of NFAT ( Fig .
+4A ) , suggesting that PTKs are required for p95 `` `` `` function .
+One of the cytoplasmic PTKs required for proximal TCR signaling is Leck .
+A mutant Jurkat cell line , JCaM1.6 , lacking functional Lek fails to mobilize intracellular calcium , to induce tyrosine phosphorylation , or to express activation antigens following TCR stimulation ( 59 ) .
+Interestingly , when p95 `` `` `` was p95 `` IN TCR SIGNALING 4341 [ ] ] vector & 100 - B p9Svav 9 42 o 3 `` 3 E o H= =- 5g -|- LL .
+Z 0 Unstimulated Anti-TCR Carbachol J.HM1.2.2 FIG .
+3 .
+Overexpression of p95 `` in J.HM1.2.2 cells specifically augments the TCR-mediated NFAT activation .
+J.HM1.2.2 cells were cotransfected with NFAT-Luc and either the control vector ( pEF-BOS ) or p95® `` `` .
+Transfected cells were either unstimulated or stimulated with an anti-TCR MAb ( C305 ) or carbachol and assayed for induced luciferase activity as described in Materials and Methods .
+Luciferase activity was determined in either duplicate or triplicate for cach experimental condition .
+The results are shown as the fold induction of luciferase activity compared with the activity in unstimulated cells cotransfected with the empty pEF-BOS and NFAT-Luc reporter construct .
+Luciferase activities of the unstimulated cells transfected with the empty pEF-BOS vector were typically 500 to 1,000 AU .
+Maximal stimulated activities ( by treatment with 50 ng of phorbol myristate acetate per ml and 1.0 wM ionomycin ) were typically about 1 x 10° to 3 X 10° AU .
+The data are representative of two independent experiments .
+overexpressed in JCaM1.6 , no basal induction of NFAT was observed ( Fig .
+4B and C ) .
+Reconstitution of this mutant cell with wild-type murine Leck restored all TCR-mediated function as well as the p95 `` effect on NFAT ( Fig .
+4B and C ) ( 59 ) .
+In contrast , v-H-ras was still able to activate NFAT in synergy with ionomycin in JCaM1.6 ( Fig .
+4D ) , suggesting that p95 `` `` `` , unlike activated Ras , requires proximal signals which depend on Lck to exert its activity .
+Another Jurkat mutant cell line , 145.01 , which lacks CD45 membrane protein tyrosine phos-phatase , is defective in TCR-mediated signaling at a very proximal step ( 41 ) .
+The block in J45.01 is thought to result from negative regulation of Lek ( 58 ) .
+As with JCaM1.6 cells , no NFAT induction was detected when p95 `` `` `` was overexpressed in J45.01 cells ( Fig .
+4B and C ) .
+These data strongly suggest that a PTK ( Leck ) and a phosphatase ( CD45 ) , which are required for proximal events in TCR signaling , are crucial for p95¢ `` `` function .
+Recent studies showed that the signaling function of the TCR complex reside within a common motif ( ITAM ) in CD3 and TCR { chains ( 30 , 55 ) .
+Following TCR cross-linking , ITAMs in CD3 and TCR £ chains become tyrosine phosphor-ylated , possibly by Lck , and serve as the binding sites for another cytoplasmic PTK , ZAP-70 ( 9 , 61 ) .
+Thus , the TCR ITAMs function as membrane anchors to facilitate the interaction of Leck and ZAP-70 ( 31 ) .
+These initial biochemical events then lead to tyrosine phosphorylation of downstream intracellular substrates .
+The potential involvement of p95¢ `` `` in the initial events in TCR-mediated signaling pathways was further demonstrated by using a mutant Jurkat cell line , J.RT3-T3.5 , which fails to express a TCR because of TCR B-chain deficiency ( 46 ) .
+Overexpression of p95¢ `` `` in J.RT3-T3.5 cells had no effect on basal NFAT activity ( Fig .
+5A ) .
+Another 4342 , WU ET AL .
+Mor .
+CELL .
+BioL .
+A B s0 40 [ ] vector c R p9S5vav o 5 z 2 o 8 0 so- 3 3 C 3 £ E S 3 20 - i2 H i-|_ < m - 10 { 2 o ._ Cy - - herbimycin +- herbimycin JCaM1.6 445.01 JCaM1.6/Lck - Jurkat Treatment Cell line C D 400 wor venues cument P < 4~ LJ vector V © p9Svav / 1 2 3 A & - 3007 FAM v-H-ras / 3 / U = ] E P € / B - 200 - / 6 LL / < % LL Z / 100 - % o .
+Unstimulated lonomycin Anti- TCR JCaM1.6 FIG .
+4 .
+The effect of p95 `` `` `` overexpression on NFAT activation requires the proximal tyrosine kinase activity in Jurkat T cells .
+( A ) NFAT induction by overexpressing p95 `` is sensitive to herbimycin A treatment .
+TAg Jurkat cells were cotransfected with NFAT-Luc and either an empty vector ( pSV7d ) or p95®* `` .
+Transfected cells were either untreated or treated with herbimycin A and assayed for luciferase activity .
+Western blot analysis showed that herbimycin A treatment does not inhibit p95 `` `` `` overexpression in Jurkat cells ( data not shown ) .
+( B ) Overexpression of p95 `` in Jurkat mutants deficient in TCR signaling does not lead to basal NFAT activation .
+JCaM1.6 , 145.01 , Lek-reconstituted JCaM1.6 ( JCaM1.6/Lck ) , and wild-type Jurkat cells were transfected with NFAT -Luc and either an empty vector or mye-p95¢ `` .
+Unstimulated cells were assayed for luciferase activity .
+( C ) Anti-myc epitope blot of equivalent amount of lysates from different transfectants in panel B .
+Lanes 1 through 4 represent lysates from transfected JCaM1.6 , J45.01 , JCaM1.6/Lck , and Jurkat cells , respectively .
+( D ) v-H-ras , but not p95 `` `` `` , functions in a Lek-deficient Jurkat mutant .
+JCaM1.6 cells were transfected with NFAT-Luc along with either an empty vector , p95 `` `` `` , or v-H-ras .
+Transfected cells were either unstimulated or stimulated with ionomycin or an anti-TCR MAb ( C305 ) and subsequently assayed for luciferase activity .
+The results are shown as the fold induction over that in untreated ( A ) or unstimulated ( B and D ) vector-transfected cells .
+The data are representative of two independent experiments .
+HM1R-expressing TCR-negative Jurkat cell line , J.HM1.2.1 , also failed to induce NFAT when p95¢ `` `` was overexpressed ( Fig .
+5A ) .
+The p95¢* `` -induced NFAT activation was restored in two of the TCR- reconstituted Jurkat cells lines , PF-2.8 and PF-2.4 ( Fig .
+5A ) ( 46 ) .
+Note that the intermediate effect on NFAT activity in PF2.8 cells may reflect the fact that this cell expresses only 15 % of the level of TCR expressed by Jurkat cells ( 22 ) .
+Figure 5B shows that p95¢ `` `` was comparably overexpressed in these cells .
+In addition , J.HM1.2.1 and Jurkat cells overexpressed similar levels of p95¢ `` `` ( data not shown ) .
+Thus , a functional TCR is required for p95 `` `` `` to function .
+The proximal TCR signaling events do not appear to be altered in the p95 `` -overexpressing cells .
+The data above suggest that p95¢ `` `` may participate in the proximal events in TCR-mediated signal transduction .
+One hypothesis is that p95 `` `` `` normally acts as a positive regulator or interacts with negative regulators for a proximal PTK , Lck or ZAP-70 , involved in TCR signaling .
+Therefore one might expect that overexpression of p95¢ `` `` may activate these PTKs , resulting in hyperphos-phorylation of the downstream substrates , and lead to NFAT activation .
+To study whether p95 `` `` `` overexpression increases the levels of cellular tyrosine phosphorylation , we cotransfected truncated CD8 , using it as a surface marker to purify the p95 `` -transfected cells by using magnetic beads , and analyzed the unstimulated and TCR-stimulated cell lysates .
+We have found that when two plasmid constructs are used in such co-transfections , the plasmids are taken up and expressed by the same population of cells .
+Similar approaches have also been used by others ( 4 ) .
+As shown in Fig .
+6 , we found no significant alteration of tyrosine phosphorylation in unstimulated or stim- Vou .
+15 , 1995 A 40 £ 2 G 3 C £ C o L. |= < L_ .
+Z Jurkat - J.RT3-T3.5 J.HM1.2.1 _ PF-2.8 PF-2.4 Cell line B « -- - .
+@ aem gmme were | *+ 1 2 3 4 FIG .
+5 .
+Expression of a TCR is required for p95 `` function .
+( A ) Wild-type Jurkat , J.RT3-T3.5 , J.HM1.2.1 , PF-2.8 , and PF-2.4 cells were cotransfected with NFAT-Luc and either an empty vector ( pEF-BOS ) or myc-p95 `` `` `` .
+Transfected cells were assayed for basal luciferase activity .
+The results are shown as the fold induction over that in unstimulated vector-transfected cells .
+The data are representative of two independent experiments .
+( B ) Anti-mye blot of lysates from p95 `` -transfected Jurkat , J.RT3-T3.5 , PF-2.8 , and PF-2.4 cells ( lanes 1 through 4 , respectively ) .
+p95 `` was also overexpressed in J.HML2.1 cells to a level similar to that in Jurkat cells ( data not shown ) .
+ulated p95¢ `` `` -overexpressing cells compared with control cells , suggesting that the balance between the proximal PTKs and protein tyrosine phosphatases is largely unaltered by p95¢ `` `` overexpression .
+TCR stimulation activates PLC-y1 , resulting in the sustained rise of intracellular calcium .
+If p95¢ `` `` potentiates the proximal TCR signaling events , this calcium response may be modulated in the p95 `` `` -overexpressing cells .
+TAg Jurkat cells were cotransfected with truncated CD8 and p95¢ `` `` .
+We analyzed the TCR Stimulation - + - + 106 80 # 1 « 1 49.5 32.5-1 2 3 4 FIG .
+6 .
+Basal and TCR-stimulated cellular tyrosine phosphorylation in p95 `` `` -overexpressing Jurkat cells .
+TAg Jurkat cells were transfected with truncated CD8 along with either pSV7d vector ( lanes 1 and 2 ) or p95 `` ( lanes 3 and 4 ) .
+After 24 h , CD8-expressing cells were purified as described in Materials and Methods and either left unstimulated ( lanes 1 and 3 ) or stimulated with an anti-TCR MAb ( C305 ) for 2 min ( lanes 2 and 4 ) .
+Whole cell lysates were prepared and blotted with antiphosphotyrosine MAb 4G10 .
+p95 `` IN TCR SIGNALING 4343 intracellular calcium levels in CD8* and CD8~ cells by flow cytometry .
+The gated CD8-positive transfectants overexpressed p95 `` `` `` as determined by Western blotting ( data not shown ) .
+As shown in Fig .
+7A and B , there is no significant difference in either the basal or TCR-stimulated level of intracellular calcium in p95¢ `` `` -overexpressing cells compared with nontransfected cells .
+These data suggest that overexpression of p95¢ `` `` in Jurkat T cells does not activate the proximal PTKs involved in TCR signaling .
+DISCUSSION Signaling through the TCR results in a rapid increase in tyrosine phosphorylation of numerous intracellular proteins , including the proto-oncogene product p95 `` `` `` , and ultimately leads to transcriptional activation of the IL-2 gene ( 61 ) .
+The detailed molecular mechanism by which the biochemical events initiated by the TCR on the plasma membrane are transmitted to the nucleus is still poorly understood .
+However , the induced tyrosine phosphoproteins are likely to play an important role .
+In this report , we show that overexpression of p95¢ `` `` , one of these substrates , in Jurkat T cells leads to a marked induction of the basal and TCR-mediated IL-2 promoter activity .
+Furthermore , this p95 `` `` `` activity requires the functions of both Ras and calcineurin , as well as a functional TCR complex .
+Our data strongly implicate the involvement of p95¢ `` `` in the TCR-mediated signaling pathway .
+This finding is consistent with the impaired function of antigen receptors on T and B lymphocytes which fail to express p95 `` `` `` ( 16a , 60 , 64 ) .
+It is striking that an intact N-terminal region is required for p95¢ `` `` to exert its activity on NFAT .
+Although overexpression of the full-length vay may nonspecifically titrate out a negative inhibitor of TCR signaling pathways , this is unlikely since overexpression of the N-terminal region alone or a truncated form of p95 `` lacking its C-terminal Sre homology domains fails to mimic the effects of the full-length p95 `` in Jurkat cells ( data not shown ) .
+The leucine-rich amino-terminal of p95 `` `` `` was initially reported to contain a helix-loop-helix domain followed by a leucine zipper , similar to the carboxy-terminal region of myc proteins and the steroid binding domains of nuclear receptors ( 11 , 34 , 35 ) .
+However , when more objective and quantitative criteria were applied in the sequence comparison , none of these similarities was shown to be significant ( 1 , 3 ) .
+None-theless , removal of this region can activate p95¢ `` `` transforming potential in NIH 3T3 cells , suggesting a regulatory function of the N-terminal region ( 11 , 34 ) .
+It is interesting that this region has some similarity with molecules which interact with actin or other cytoskeletal proteins ( 1 ) .
+One possibility is that the N-terminal region allows p95 `` `` `` to bind to certain cytoskeletal components , and deletion of this region may release p95¢ `` `` to interact with other signaling processes and cause transforma-tion .
+However , in T cells , this region appears to be critical for p95 `` function , perhaps by anchoring it to an appropriate compartment to exert its physiological function .
+The identification of molecules that interact with this region will be informative to understand its function .
+p95 `` shares homology with proven or putative Rho/Rac GEF domains found in yeast CDC24 , rodent CDC25Y , and human Dbl ( 2 ) .
+Unfortunately , little is known about the functions of these GEFs , largely because of the difficulties in demonstrating their catalytic activities against Rho or Rac .
+In fact , only two members of this group , CDC24 and Dbl , have recently been demonstrated to activate Rho or Rac GTPase activity in vitro ( 2 ) .
+On the other hand , p95¢ `` `` has been reported to be responsible for antigen receptor-stimulated Ras activation in lymphocytes ( 23 , 26 ) .
+Here , we show that the 4344 WU ET AL .
+A B 104 a 24 % 8 1094 Cbs+ £ © ® 3 o § Cane © é 10 CC 6 70 % CD8~ `` 101A 10° o _ 200 400 - 600 _ 300 _ 1000 Mean ratio Mor .
+CELL .
+BioL .
+Relative number FIG .
+7 .
+Intracellular calcium level in p95 `` `` `` -overexpressing Jurkat cells .
+TAg Jurkat cells were transfected with truncated CD8 and p95 `` `` `` .
+After 24 h , cells were stained with FITC-CD8 Ab and loaded with Indo-1 as described in the text .
+( A ) The top 25 % of the transfected cells ( the CDS-positive cells ) contain the p95 `` `` -overexpressing cells ( Fig .
+1A and data not shown ) .
+The horizontal axis shows the Indo-1 fluorescence ratio representing the intracellular calcium level .
+( B ) Transfected cells were gated as in panel A and were either unstimulated or stimulated with an anti-TCR MAb ( C305 ) for 60 , 120 , 180 , 240 s. The left and right panels shows the calcium levels in gated CD8-positive and CD8-negative populations , respectively .
+effect of p95¢ `` `` overexpression is distinct from that of simply activating Ras pathway alone .
+Moreover , overexpression of another known Ras GEF , SCD25 , failed to induce NFAT activation in Jurkat cells ( data not shown ) .
+These data are consistent with the reports arguing against p95 `` as a GEF for Ras ( 7 , 38 ) .
+The exchange activity of p95 `` `` `` is further complicated by the presence in T cells of SOS , a highly conserved Ras GEF in other signaling processes ( 56 ) .
+It has been shown that upon TCR ligation , a 36-kDa protein ( pp36 ) and She become tyrosine phosphorylated and associate with Grb2 , an adapter protein for SOS ( 56 , 57 ) .
+In T cells , the pp36-Grb2-SOS or a Shc-Grb2-SOS complex , rather than p95 `` `` `` , may serve as the link between the receptor and the downstream Ras pathway ( 50 , 57 ) .
+How does overexpression of p95 `` lead to basal activation of NFAT and further synergy with TCR stimulation ?
+It is believed that the basal state of the TCR signaling represents a dynamic equilibrium between activating and inhibitory signals and that stimulation through the TCR leads to an alteration of this balance .
+One explanation is that p95 `` normally interacts with a negative regulatory protein involved in the proximal TCR signaling pathway .
+Overexpression of p95¢ `` `` would titrate out this inhibitory molecule and shift the equilibrium to favor activating signals .
+It has been shown that in T and B cells , p95 `` is able to interact with a number of proteins , including some of the proximal PTKs ( 8 , 27 , 29 , 36 ) .
+However , p95 `` `` `` does not appear to activate the proximal PTKs , since we found no induction of basal or TCR-stimulated tyrosine phosphorylation when analyzing the lysates from p95 `` `` `` -overexpressing cells .
+In addition , our data on the intracellular calcium levels in those cells also indicate that some of the known proximal events may not be altered by p95¢ `` `` overexpression .
+However , it is possible that the phosphotyrosine assay is not sensitive enough , especially if p95¢ `` `` modulates only a subset of phos-phoproteins .
+Also , since we only examined the cells 1 day after transfection , a shift of equilibrium by p95 `` `` `` overexpression may already be compensated for .
+More detailed kinetic and biochemical analyses will be important in assessing p95¢ `` `` function .
+An alternative explanation is that p95¢ `` `` may be a key limiting mediator in the TCR-mediated signaling cascade .
+Overexpression of p95¢ `` `` may amplify the basal TCR signaling and allow it to proceed .
+For instance , the requirement for Lek or TCR expression could reflect tyrosine phosphorylation of p95 `` in order to exhibit its functional activity .
+In fact , in p95¢ `` `` -overexpressing Jurkat cells , p95¢ `` `` was weakly tyrosine phosphorylated in the basal state , and its tyrosine phosphorylation was further induced upon stimulation ( data not shown ) .
+It is interesting that not only do p95¢ `` `` and Dbl contain similar GEF regions for Rho , but their oncogenic forms also share the same transforming phenotypes in NIH 3T3 cells ( 1 , 7 , 38 ) .
+Since Dbl has been recently shown to activate Rho and Rac but not Ras ( 28 ) , p95¢ `` `` may act as a Rho/Rac GEF in hematopoictic cells .
+One of the earliest responses of cells to many extracellular factors is a rapid reorganization of their actin cytoskeleton .
+It has been shown that the formation of stress fibers and focal adhesions is dependent on Rho proteins ( 53 ) , whereas membrane ruffling requires Rac proteins ( 54 ) .
+Rho and Rac have been implicated in regulating degranulation in mast cells ( 49 ) .
+In cytotoxic T cells , TCR stimulation triggers a massive and rapid cytoskeleton rearrangement .
+Moreover , expression of RacZ2 , a hematopoietic cell-specific Rac family member , is up-regulated upon T-cell activation ( 52 ) .
+Therefore , p95 `` `` -mediated activation of Rho and/or Rac may be an important TCR-mediated signaling event , in combination with the Ras and calcineurin signals , leading to downstream effector functions .
+In fact , recent evidence suggest that vay and Ras may mediate distinct but interactive signaling pathways in fibroblasts ( 7 , 35 ) .
+Overexpression of p95¢ `` `` in T cells may lead to activation of these small GTPases and further potentiate the basal TCR signals resulting in IL-2 gene activation .
+Future mutagenesis study of p95¢ `` `` and identification of its interacting proteins may help us to resolve these alternatives .
+ACKNOWLEDGMENTS We thank G. Crabtree for TAg Jurkat cells and reporter plasmids ; D. Cantrell for plasmids pEF-BOS , N17ras , and DN-Raf ; P. Dazin for flow cytometry analysis ; N. Van Oers for critical reading of the manu-script ; and B. Irving for helpful discussions .
+This work was supported in part by grant GM 44493 from the National Institutes of Health ( A.W . )
+and by grants from the Medical Research Council of Canada ( S.K . )
+and the National Cancer Institute of Canada ( S.K . )
+.
+REFERENCES 1 .
+Adams , J. M. , H. Houston , J. Allen , T. Lints , and R. Harvey .
+1992 .
+The hematopoictically expressed vay proto-oncogene shares homology with the Vou .
+15 , 1995 10 .
+11 .
+12 .
+13 .
+14 .
+15 .
+16. dbl GDP-GTP exchange factor , the ber gene and a yeast gene ( CDC24 ) involved in cytoskeletal organization .
+Oncogene 7:611-618. .
+Boguski , M. , and F. McCormick .
+1993 .
+Proteins regulating Ras and its relatives .
+Nature ( London ) 366:643-654. .
+Boguski , M. S. , A. Bairoch , T. K. Attwood , and G. S. Michaels .
+1992 .
+Proto- vay and gene expression .
+Nature ( London ) 358:113 .
+( Letter ; comment . )
+.
+Bram , R. J. , and G. R. Crabtree .
+1994 .
+Calcium signalling in T cell stimulated by a cyclophilin B-binding protein .
+Nature ( London ) 371:355-358. .
+Bustelo , X. R. , and M. Barbacid .
+1992 .
+Tyrosine phosphorylation of the vay proto-oncogene product in activated B cells .
+Science 256:1196-1199. .
+Bustelo , X. R. , J .
+A. Ledbetter , and M. Barbacid .
+1992 .
+Product of vay proto-oncogene defines a new class of tyrosine protein kinase substrates .
+Nature ( London ) 356:68-71. .
+Bustelo , X. R. , K. Suen , K. Leftheris , C. A. Meyers , and M. Barbacid .
+1994 .
+Vav cooperates with Ras to transform rodent fibroblasts but is not a Ras GDP/GTP exchange factor .
+Oncogene 9:2405-2413. .
+Bustelo , X. R. , K. Suen , W. M. Michael , G. Dreyfuss , and M. Barbacid .
+1995 .
+Association of the vay proto-oncogene product with poly ( rC ) -specific RNA-binding proteins .
+Mol .
+Cell .
+Biol .
+15:1324-1332. .
+Chan , A. C. , M. Iwashima , C. W. Turck , and A. Weiss .
+1992 .
+ZAP-70 : a 7OkD protein tyrosine kinase that associates with the TCR { chain .
+Cell 71:649-662 .
+Clipstone , N. A. , and G. R. Crabtree .
+1992 .
+Identification of calcineurin as a key signalling enzyme in T-lymphocyte activation .
+Nature ( London ) 357:695-697 .
+Coppola , J. , S. Bryant , T. Koda , D. Conway , and M. Barbacid .
+1991 .
+Mechanism of activation of the vay proto-oncogene .
+Cell Growth Differ .
+2:95-105 .
+Desai , D. , M. E. Newton , T. Kadlecek , and A. Weiss .
+1990 .
+Stimulation of the phosphatidylinositol pathway can induce T cell activation .
+Nature ( London ) 348:66-69 .
+Downward , J. , J. D. Graves , P. H. Warne , S. Rayter , and D. A. Cantrell .
+1990 .
+Stimulation of p21 `` `` `` upon T-cell activation .
+Nature ( London ) 346:719-723 .
+Durand , D. B. , J.-P. Shaw , M. R. Bush , R. E. Replogle , R. Gelagaje , and G. R. Crabtree .
+1988 .
+Characterization of antigen receptor response elements within the interleukin-2 enhancer .
+Mol .
+Cell .
+Biol .
+8:1715-1724 .
+Emmel , E. A. , C. L. Verweij , D. Durand , K. M. Higgins , E. Lacy , and G. R. Crabtree .
+1989 .
+Cyclosporin A specifically inhibits function of nuclear proteins involved in T cell activation .
+Science 246:1617-1619 .
+Evens , G. A. , O. M. Howard , R. Erwin , and W. L. Farrar .
+1993 .
+Interleukin-2 induces tyrosine phosphorylation of the vay proto-oncogene product in human T cells : lack of requirement for the tyrosine kinase Ick .
+Biochem .
+J .
+294:339-342 .
+16a.Fischer , K.-D. , A. Zmuidzinas , S. Gardner , M. Barbacid , A. Bernstein , and 17 .
+18 .
+19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+26 .
+27 .
+C. Guidos .
+1995 .
+Defective T-cell receptor signalling and positive selection of Vayv-deficient CD4TCD8* thymocytes .
+Nature ( London ) 374:474-477 .
+Fruman , D. A. , C. B. Klee , B. E. Bierer , and S. J. Burakoff .
+1992 .
+Calcineurin phosphatase activity in T lymphocytes is inhibited by FK 506 and cyclosporin A. Proc .
+Natl .
+Acad .
+Sci .
+USA 89:3686-3690 .
+Galland , F. , S. Katzayv , and D. Birnbaum .
+1992 .
+The products of the mef-2 and vay proto-oncogenes and of the yeast gene cedc-24 share sequence sim-ilarities .
+Oncogene 7:585-587 .
+Goldsmith , M. A. , P. E. Dazin , and A. Weiss .
+1988 .
+At least two non-antigen-binding molecules are required for signal transduction by the T cell antigen receptor .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 85:8613-8617 .
+Goldsmith , M. A. , D. M. Desai , T. Schultz , and A. Weiss .
+1989 .
+Function of a heterologous muscarinic receptor in T cell antigen receptor signal transduction mutants .
+J. Biol .
+Chem .
+264:17190-17197 .
+Goldsmith , M. A. , and A. Weiss .
+1987 .
+Isolation and characterization of a T-lymphocyte somatic mutant with altered signal transduction by the antigen receptor .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 84:6879-6883 .
+Graber , M. , L. K. Bockenstedt , and A. Weiss .
+1991 .
+Signalling via the inositol phospholipid pathway by the T cell antigen receptor is limited by receptor number .
+J. Immunol .
+146:2935-2943 .
+Gulbins , E. , K. M. Coggeshall , G. Baier , S. Katzay , P. Burn , and A. Altman .
+1993 .
+Tyrosine kinase-stimulated guanine nucleotide exchange activity of vay in T cell activation .
+Science 260:822-825 .
+Gulbins , E. , K. M. Coggeshall , G. Baier , D. Telford , C. Langlet , G. Baier-Bitterlich , N. Bonnefoy-Berard , P. Burn , A. Wittinghofer , and A. Altman .
+1994 .
+Direct stimulation of vay guanine nucleotide exchange activity for Ras by phorbol esters and diglycerides .
+Mol .
+Cell .
+Biol .
+14:4749-4758. .
+Gulbins , E. , K. M. Coggeshall , C. Langlet , G. Baier , N. Bonnefoy-Berard , P. Burn , A. Wittinghofer , S. Katzav , and A. Altman .
+1994 .
+Activation of Ras in vitro and in intact fibroblasts by the Vav guanine nucleotide exchange protein .
+Mol .
+Cell .
+Biol .
+14:906-913 .
+Gulbins , E. , C. Langlet , G. Baier , N. Bonnefoy-Berard , E. Herbert , A. Alt-man , and K. M. Coggeshall .
+1994 .
+Tyrosine phosphorylation and activation of vay GTP/GDP exchange activity in antigen receptor-triggered B cells .
+J. Immunol .
+152:2123-2129 .
+Gupta , S. , A. Weiss , G. Kumar , S. Wang , and A. Nel .
+1994 .
+The T-cell antigen receptor utilizes LCK , RAF-1 and MEK-1 for activating MAP kinase : evidence for the existence of a second PKC-dependent pathway in an LCK-negative Jurkat cell mutant .
+J. Biol .
+Chem .
+269:17349-17357 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+50 .
+51 .
+52 .
+53. p95 `` IN TCR SIGNALING 4345 Hart , M. J. , A. Eva , D. Zangrilli , S. A. Aaronson , T. Evans , R. A. Cerione , and Y. Zheng .
+1994 .
+Cellular transformation and guanine nucleotide exchange activity are catalyzed by a common domain on the db/ oncogene product .
+J. Biol .
+Chem .
+269:62-65 .
+Hobert , O. , B. Jallal , J. Schlessinger , and A. Ullrich .
+1994 .
+Novel signaling pathway suggested by SH3 domain-mediated p9Svav/heterogencous ribonu-cleoprotein K interaction .
+J. Biol .
+Chem .
+269:20225-20228 .
+Irving , B. , and A. Weiss .
+1991 .
+The cytoplasmic domain of the T cell receptor { chain is sufficient to couple to receptor-associated signal transduction pathways .
+Cell 64:891-901 .
+Iwashima , M. , B .
+A. Irving , N. S. C. van Oers , A. C. Chan , and A. Weiss .
+1994 .
+Sequential interactions of the TCR with two distinct cytoplasmic tyrosine kinases .
+Science 263:1136-1139 .
+Izquierdo , M. , J .
+Downward , J. D. Graves , and D. A. Cantrell .
+1992 .
+Role of protein kinase C in T-cell antigen receptor regulation of p21 `` `` `` : evidence that two p21 `` regulatory pathways coexist in T cells .
+Mol .
+Cell .
+Biol .
+12:3305-3312 .
+June , C. H. , M. C. Fletcher , J .
+A. Ledbetter , G. L. Schieven , J. N. Siegel , A. F. Phillips , and L. E. Samelson .
+1990 .
+Inhibition of tyrosine phosphorylation prevents T cell receptor-mediated signal transduction .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 87:7722-7726 .
+Katzayv , S. , J. L. Cleveland , H. E. Heslop , and D. Pulido .
+1991 .
+Loss of the amino-terminal helix-loop-helix domain of the vay proto-oncogene activates its transforming potential .
+Molec .
+Cell .
+Biol .
+11:1912-1920 .
+Katzav , S. , D. Martin-Zanca , and M. Barbacid .
+1989. vay , a novel human oncogene derived from a locus ubiquitously expressed in hematopoictic cells .
+EMBO J .
+8:2283-2290 .
+Katzav , S. , M. Sutherland , G. Packham , T. Yi , and A. Weiss .
+1994 .
+The protein tyrosine kinase ZAP-70 can associate with the SH2 domain of proto-vay .
+J. Biol .
+Chem .
+269:32579-32585 .
+Kazanietz , M. , X. R. Bustelo , M. Barbacid , W. Kolch , H. Mischak , G. Wong , G. R. Pettit , J. D. Bruns , and P. M. Blumberg .
+1994 .
+Zinc finger domains and phorbol ester pharmacophore .
+J. Biol .
+Chem .
+269:11590-11594 .
+Khosravi-Far , R. , M. Chrzanowska-Wodnicka , P. A. Solski , A. Eva , K. Burr-idge , and C. J .
+Der .
+1994 .
+Dbl and Vav mediate transformation via mitogen-activated protein kinase pathways that are distinct from those activated by oncogenic Ras .
+Mol .
+Cell .
+Biol .
+14:6848-6857 .
+Koch , C. A. , D. Anderson , M. F. Moran , C. Ellis , and T. Pawson .
+1991 .
+SH2 and SH3 domains : elements that control interactions of cytoplasmic signaling proteins .
+Science 252:668-674 .
+Koretzky , G. , J. Picus , T. Schultz , and A. Weiss .
+1991 .
+Tyrosine phosphatase CD45 is required for both T cell antigen receptor and CD2 mediated activation of a protein tyrosine kinase and interleukin 2 production .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 88:2037-2041 .
+Koretzky , G. A. , J. Picus , M. L. Thomas , and A. Weiss .
+1990 .
+Tyrosine phosphatase CD45 is essential for coupling T cell antigen receptor to the phosphatidylinositol pathway .
+Nature ( London ) 346:66-68 .
+Margolis , B. , P. Hu , S. Katzayv , J. M. Oliver , A. Ullrich , A. Weiss , and J. Schlessinger .
+1992 .
+Tyrosine phosphorylation of vev : a proto-oncogene combining SH2 and SH3 domains with motifs found in transcriptional factors .
+Nature ( London ) 356:71-74 .
+Mizushima , S. , and S. Nagata .
+1990. pEF-BOS , a powerful mammalian expression vector .
+Nucleic Acids Res .
+18:5322 .
+Musacchio , A. , T. Gibson , P. Rice , J. Thompson , and M. Saraste .
+1993 .
+The PH domain : a common piece in the structural patchwork of signalling proteins .
+Trends Biochem .
+Sci .
+18:343-348 .
+Nishibe , S. , M. I. Wahl , S. M. Hernandez-Sotomayor , N. K. Tonk , S. G. Rhee , and G. Carpenter .
+1990 .
+Increase of the catalytic activity of phospholipase C-y1 by tyrosine phosphorylation .
+Science 250:1253-1256 .
+Ohashi , P. , T. Mak , P. Van den Elsen , Y. Yanagi , Y. Yasunobu , A. Calman , C. Terhorst , J. Stobo , and A. Weiss .
+1985 .
+Reconstitution of an active surface T3/T-cell antigen receptor by DNA transfer .
+Nature ( London ) 316:606-609 .
+O'Keefe , S. J. , J. Tamura , R. L. Kincaid , M. J. Tocci , and E. A. O'Neil .
+1992 .
+FK-506- and CsA-sensitive activation of the interleukin-2 promoter by calcineurin .
+Nature ( London ) 357:692-694 .
+Owaki , H. , R. Varma , B. Gills , J. T. Bruder , U. R. Rapp , L. S. Davis , and T. D. Geppert .
+1993 .
+Raf-1 is required for T cell IL-2 production .
+EMBO J .
+12:4367-4373 .
+Price , L. S. , J. C. Norman , A. J. Ridley , and A. Koffer .
+1995 .
+The small GTPases Rac and Rho as regulators of secretion in mast cells .
+Curr .
+Biol .
+5:68-73 .
+Ravichandran , K. , U. Lorenz , S. E. Shoelson , and S. J. Burakoff .
+1995 .
+Interaction of She with Grb2 regulates association of Grb2 with mSOS .
+Mol .
+Cell .
+Biol .
+15:593-600 .
+Rayter , S. I. , M. Woodrow , S. C. Lucas , D. A. Cantrell , and J .
+Downward .
+1992. p21'* `` `` mediates control of IL-2 gene promoter function in T cell activation .
+EMBO J .
+11:4549-4556 .
+Reibel , L. , O. Dorseuil , R. Stancou , J. Bertoglio , and G. Gacon .
+1991 .
+A hematopoietic specific gene encoding a small GTP binding protein is overexpressed during T cell activation .
+Biochem .
+Biophys .
+Res .
+Comm .
+175:451-458 .
+Ridley , A. , and A .
+Hall .
+1992 .
+The small GTP-binding protein tho regulates 4346 54 .
+55 .
+56 .
+57 .
+58 .
+59 .
+WU ET AL .
+the assembly of focal adhesions and actin stress fibers in response to growth factors .
+Cell 70:389-399 .
+Ridley , A. J. , H. F. Paterson , C. L. Johnston , D. Diekmann , and A .
+Hall .
+1992 .
+The small GTP-binding protein rac regulates growth factor-induced membrane ruffling .
+Cell 70:401-410 .
+Romeo , C. , M. Amiot , and B .
+Seed .
+1992 .
+Sequence requirements for induction of cytolysis by the T cell antigen/Fc receptor { chain .
+Cell 68:889-897 .
+Schlessinger , J .
+1993 .
+How receptor tyrosine kinases activate Ras .
+Trends Biochem .
+Sci .
+18:273-275 .
+Sich , M. , A. Batzer , J. Schlessinger , and A. Weiss .
+1994 .
+GRB2 and phospholipase C-y1 associate with a 36- to 38-kilodalton phosphotyrosine protein after T-cell receptor stimulation .
+Mol .
+Cell .
+Biol .
+14:4435-4442 .
+Sich , M. , J .
+B. Bolen , and A. Weiss .
+1993 .
+CD45 specifically modulates binding of Lek to a phosphopeptide encompassing the negative regulatory tyrosine of Lek .
+EMBO J .
+12:315-322 .
+Straus , D. , and A. Weiss .
+1992 .
+Genetic evidence for the involvement of the Leck tyrosine kinase in signal transduction through the T cell antigen receptor .
+Cell 70:585-593 .
+60 .
+61 .
+62 .
+63 .
+64 .
+65 .
+Mor .
+CELL .
+BioL .
+Tarakbovsky , A. , M. Turner , S. Schaal , P. J. Mee , L. P. Duddy , K. Rajewsky , and V. L. J. Tybulewicz .
+1995 .
+Defective antigen receptor-mediated proliferation of B and T cells in the absence of Vav .
+Nature ( London ) 374:467-470 .
+Weiss , A. , and D. R. Littman .
+1994 .
+Signal transduction by lymphocyte antigen receptors .
+Cell 76:263-274 .
+Weiss , A. , and J. D. Stobo .
+1984 .
+Requirement for the coexpression of T3 and the T cell antigen receptor on a malignant human T cell line .
+J. Exp .
+Med .
+160:1284-1299 .
+Woodrow , M. , N. A. Clipstone , and D. Cantrell .
+1993. p21ras and calcineurin synergize to regulate the nuclear factor of activated T cells .
+J. Exp .
+Med .
+178:1517-1522 .
+Zhang , R. , F. W. Alt , L. Davidson , S. H. Orkin , and W. Swat .
+1995 .
+Defective signaling through the T and B cell antigenreceptors in lymphoid cells lacking the vay proto-oncogene .
+Nature ( London ) 374:470-473 .
+Zmuidzinas , A. , K. Fischer , S. A. Lira , L. Forrester , S. Bryant , A. Bernstein , and M. Barbacid .
+1995 .
+The vay proto-oncogene is required carly in embry-ogenesis but not for hematopoietic development in vifro .
+EMBO J .
+14:1-11 .

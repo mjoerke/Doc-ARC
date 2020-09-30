@@ -1,0 +1,727 @@
+JOURNAL OF ViROLOGY , Nov. 1998 , p. 8797-8805 0022-538 X , /98/ $ 04.00+0 Vol .
+72 , No .
+11 Copyright © 1998 , American Society for Microbiology .
+All Rights Reserved .
+CD4 Promoter Transactivation by Human Herpesvirus 6 LOUIS FLAMAND , *'* FABIO ROMERIO , * MARVIN S. REITZ , * anp ROBERT C. GALLO Laboratory of Virology , Rheumatology and Immunology Research Center , Centre de Recherche du CHUL and Laval University , Sainte-Foy , Quebec , Canada , `` and Institute of Human Virology , University of Maryland , Baltimore , Maryland 212012 Received 26 February 1998/Accepted 4 August 1998 The observation that human herpesvirus 6 ( HHV-6 ) can induce CD4 gene transcription and expression in CD4~ cells was reported several years ago ( P. Lusso , A .
+De Maria , M. Malnati , F. Lori , S. E. DeRocco , M. Baseler , and R. C. Gallo , Nature 349:533-535 , 1991 ) and subsequently confirmed ( P. Lusso , M. S. Malnati , A. Garzino-Demo , R. W. Crowley , E. O .
+Long , and R. C. Gallo , Nature 362:458-462 , 1993 ; G. Furlini , M. Vignoli , E. Ramazzotti , M. C. Re , G. Visani , and M. LaPlaca , Blood 87:4737-4745 , 1996 ) .
+Our objective was to identify the mechanisms underlying such phenomena .
+Using reporter gene constructs driven by the CD4 promoter , we report that HHV-6 can efficiently transactivate such genetic elements .
+Activation of the CD4 promoter occurs in the presence of the viral DNA polymerase inhibitor phosphonoformic acid , which limits expression to the immediate-early and early classes of viral genes .
+Using deletion mutants and specific CD4 promoter mutants , we identified an ATF/CRE binding site located at nucleotides -67 to -60 upstream of the CD4 gene transcription start site that is important for HHV-6 transactivation .
+The ATF/CRE site is also essential for CD4 promoter activation by forskolin , an activator of adenylate cyclase .
+Using electrophoretic mobility shift assays and specific antibodies , we showed that CREB-1 binds specifically to the -79 to -52 region of the CD4 promoter .
+Last , we have identified two open reading frames ( ORFs ) of HHV-6 , U8S6 and US9 from the immediate-early locus A , that can transactivate the CD4 promoter in HeLa cells .
+However , transactivation of the CD4 promoter by ORFs U86 and U89 is independent of the CRE element , suggesting that additional HHV-6 ORFs are likely to contribute to CD4 gene activation .
+Taken together , our results will help to understand the complex interactions occurring between HHV-6 and the CD4 promoter and provide additional information regarding the class of transcription factors involved in the control of CD4 gene expression .
+The CD4 antigen plays a role in both T-cell development and T-cell antigen recognition ( 24 , 36 , 37 , 46 ) .
+CD4 , through interactions with the nonpolymorphic region of the class II antigen of the major histocompatibility complex ( MHC ) , acts as an adhesion molecule that helps stabilize the complex formed by the T-cell receptor ( TCR ) and MHC class II antigen ( 5 , 7 , 13 , 21 ) .
+CD4 can also participate in T-cell activation through transmembrane signaling via the p56 `` ** tyrosine kinase associated with its cytoplasmic tail ( 39 , 43 , 48 , 49 ) .
+Control of CD4 gene expression is very complex .
+During the ontogeny of T cells , CD4 gene expression is turned on and off , depending on the stage of maturation of the T cell .
+A series of genetic elements , including the enhancer ( 4 , 41 , 45 , 52 ) , promoter ( 40 ) , and silencer ( 6 , 42 , 44 ) , are involved in control of the CD4 gene .
+The importance of these genetic elements for proper CD4 expression was demonstrated using transgenic animal models ( 4 , 6 , 42 , 44 ) .
+In fact , the presence of all regulatory sequences is required for proper tissue expression of the CD4 gene .
+Removal of any one of these elements influences either the level of expression or the cell type in which the gene is expressed .
+Maturation of double-positive CD4 ~CD8* thymic cells into mature single-positive CD4*CD8~ or CD4~-CD8* peripheral T cells is a consequence of selective downregulation of the CD8 or the CD4 gene , respectively .
+Inhibition of CD4 gene expression in mature CD8 T cells occurs at the transcription level through the action of the CD4 silencer ( 42 , 44 ) .
+* Corresponding author .
+Mailing address : Centre de Recherche du CHUL , Rheumatology and Immunology Dept .
+, Room T1-49 , 2705 Laurier Blvd .
+, Sainte-Foy , Quebec , Canada G1V 4G2 .
+Phone : ( 418 ) 654-2772 .
+Fax : ( 418 ) 654-2765 .
+E-mail : louis flamand @ crchul.ulaval .ca .
+8797 Very few experimental conditions were found to influence CD4 gene activation in mature CD8* T cells .
+Treatment of mature CD8* T cells with azacytidine ( 38 ) , with the lectin concanavalin A ( 3 ) , or with TCR agonists ( 9 ) was found to induce cell surface CD4 expression .
+Infection of mature CD8 * T cells by human herpesvirus 6 ( HHV-6 ) was also found to induce CD4 expression ( 26 ) .
+The ability of HHV-6 to activate the CD4 gene was also demonstrated in natural killer ( NK ) cells ( 28 ) and in the hematopoietic progenitor cell line KG-1 ( 14 ) .
+However , the molecular mechanisms leading to the expression of CD4 were never studied .
+HHV-6 has been proposed to play a cofactorial role in progression to AIDS .
+Several observations prompted this hy-pothesis .
+( i ) HHV-6 can infect CD4 * T cells ( 2 , 25 , 27 , 29 , 47 ) and therefore contribute to the decline of such cell popula-tions .
+( ii ) HHV-6 can transactivate the long terminal repeat ( LTR ) of human immunodeficiency virus ( HIV ) , thereby increasing HIV expression ( 8 , 15 , 19 , 20 , 30 , 35 , 50 ) .
+( iii ) HHV-6 is a potent inducer of tumor necrosis factor alpha secretion ( 10 ) , an inflammatory cytokine known to activate HIV expression .
+( iv ) HHV-6 can impair immunological functions such as T-cell proliferation ( 11 , 18 ) and interleukin-2 synthesis ( 11 ) .
+( v ) HHV-6 can induce CD4 expression , thereby expanding the types of target cells susceptible to HIV infection ( 14 , 26 , 28 ) .
+Although the latter is not likely to significantly contribute to disease , as HHV-6-infected cells will eventually die , the mechanisms implicated in CD4 gene activation by HHV-6 are of biological interest and will contribute to our understanding of the genetic control of the CD4 gene .
+In the present work , we studied the interactions between HHV-6 and the CD4 promoter and have identified a functional transcription factor binding site belonging to the ATF/ CRE family .
+This site is important in HHV-6-mediated trans- 8798 FLAMAND ET AL .
+activation of the CD4 promoter .
+Furthermore , two genes of HHV-6 ( U86 and U89 ) were found to transactivate the human CD4 promoter .
+The results presented provide new information regarding transcription factors interacting with the CD4 promoter and shed light on the mechanisms by which HHV-6 activates CD4 gene expression .
+MATERIALS AND METHODS Cells , culture conditions , and virus production .
+HSB-2 cells were obtained from the NIH AIDS Research and Reference Reagent Program , and HeLa cells were obtained from the American Type Culture Collection ( Manassas , Va. ) .
+HSB-2 cells were obtained as cultures in RPMI 1640 supplemented with 10 % fetal bovine serum ( FBS ) and antibiotics .
+Cells were fed once every 4 to 5 days and seeded at a density of 3 X 10° cells/ml .
+HeLa cells were cultured in Dulbecco modified Eagle medium ( D-MEM ) supplemented with 10 % FBS and antibiotics .
+Cells were passaged once a week .
+HHV-6 ( GS strain ) was propagated in HSB-2 cells and purified as described previously ( 10 ) .
+Transfection and infection and luciferase determination .
+HSB-2 cells were transfected by the DEAE-dextran method as previously described ( 12 ) .
+After transfection , cells were centrifuged , washed , and infected with HHV-6 ( multiplicity of infection , 0.1 ) for 2 h at 37°C .
+Cells were washed to remove unadsorbed virions and resuspended in complete medium .
+In experiments involving the drug phosphonoformic acid ( PFA ) , cells were incubated for 1 h with 100 ug of PFA/ml prior to infection with HHV-6 and kept throughout the experiment .
+After 48 h , cells were harvested , washed , and lysed in 150 pl of cell culture lysis buffer ( Promega , Madison , Wis. ) .
+Twenty microliters of extracts was added to 100 pl of luciferase assay reagents ( Promega ) , and activity was determined by using a T20/20 luminometer ( Turner Design , Calif. ) .
+For cotransfection studies , HeLa cells were transfected by the lipofectamine reagent ( Life Technologies , Grand Island , N.Y. ) .
+Cells were plated 1 day prior to transfection at 2 X 10°/well in a 6-well plate .
+DNA ( 0.75 pg of reporter plasmids and 0.75 ug of effector plasmids ) was mixed and incubated with 6 pl of lipofectamine reagent before being added to HeLa cells .
+After 5 h , complete D-MEM was added to the wells .
+Forty-cight hours posttransfection the medium was removed and cells were washed and lysed in cell culture lysis buffer .
+Luciferase activity in cach sample was determined as described above .
+In some experiments , HeLa cells were transfected with reporter plasmids and were treated the next day with forskolin ( 10 wM ) ( Sigma ) or the control diluent dimethyl sulfoxide ( DMSO ) .
+After an additional 24 h , cells were harvested and luciferase activity was determined .
+Flow cytometry .
+HSB-2 cells were infected with HHV-6 until signs of infection ( ballooning ) were observed ( 4 to 7 days ) by photonic microscopy .
+Cells were harvested , washed , and resuspended in 100 pl of phosphate-buffered saline ( PBS ) containing 0.1 % FBS .
+Phycoerythrin ( PE ) -labeled anti-human CD4 ( Pharmingen ) or PE-labeled isotype-matched control antibodies were added to the infected and uninfected cells for 1 h at 4°C .
+Cells were washed twice with 15 ml of cold PBS and fixed in PBS containing 1 % paraformaldehyde .
+In parallel , HHV-6 infection was determined by using monoclonal antibody OHV-1 against gp106 of HHV-6 ( Advanced Biotechnologies Inc. , Columbia , Md . )
+and fluores-cein-labeled goat anti-mouse immunoglobulin G antibodies .
+Percentages of cells expressing CD4 and HHV-6 were determined with a FACScalibur flow cytom-eter ( Becton-Dickinson , Mountain View , Calif. ) after the acquisition of 10,000 events .
+Cloning of the CD4 promoter and generation of reporter gene constructs .
+The human CD4 promoter was cloned using a PCR approach .
+From the published sequence ( 40 ) ( GenBank accession no .
+UO1066 ) two primers were synthesized ( sense , and antisense , 5'-TTCCTTCTGCAGAGTCGTGCT-3 ' ) and used to amplify an 1,100-bp fragment of Jurkat cell genomic DNA using Pfz DNA polymerase ( Stratagene , La Jolla , Calif. ) .
+The blunt-ended PCR fragment was treated with T4 polynucleotide kinase and ligated into the Smel site of the pGL3basic vector ( Promega ) to generate the -1076CD4p construct .
+The presence and orientation of the insert were determined by restriction endonuclease digestion and sequencing .
+Generation of 5° deletion mutants of the CD4 promoter .
+To generate 5 ' deletion mutants of the CD4 promoter , the -1076CD4p plasmid was digested with Nsil and KpnI and electrophoresed through a 1 % agarose gel .
+The 5.4-kb band was isolated using a QIAEX extraction kit ( QIAGEN , San Diego , Calif. ) and treated with S1 nuclease to remove the 3 ' protruding ends .
+The plasmid was then treated with Klenow enzyme ( Boehringer Mannheim , Indianapolis , Ind . )
+, extracted with phenol , precipitated , and ligated using the fast ligation kit from Bochringer Mannheim .
+Ligated plasmids were used to transformed Escherichia coli DHSa cells , and recombinant clones were confirmed by restriction endonuclease digestion and sequencing .
+This construct was named -618CD4p .
+To generate -333CD4p , the -1076CD4p construct was digested with Apel and KpnI and the 5.1-kb band was isolated and purified as described above .
+The plasmid was treated with S1 nuclease , Klenow enzyme , and self ligated .
+Bacteria were transformed , and recombinants were identified as described above .
+The -71CD4p construct was generated by digesting -1076CD4p with NkeI and Pvull .
+The 4.9-kb band was isolated as described above and treated with Klenow enzyme to generate blunt ends .
+After ligation , bacteria were transformed and J. ViRoL .
+recombinants were selected with ampicillin ( Boehringer Mannheim ) .
+The -71CD4p mutant clone was identified by digestion and sequencing .
+The -44CD4p clone was generated by digesting -1076CD4p with Nhe !
+and BinI .
+The 4.9-kb band was isolated by gel electrophoresis , treated with Klenow enzyme , and self ligated .
+Mutant clones were identified by restriction endonuclease digestion and sequencing .
+Internal deletion mutant and site-directed mutagenesis of the CD4 promoter .
+To generate the A-71-44CD4p mutant , the -1076CD4p construct was digested with Pvull and BinL .
+The 5.9-kb band was purified by gel electrophoresis , treated with Klenow , and self ligated .
+After bacterial transformation , clones were isolated and the internal deletion mutant was identified by restriction endonuclease digestion and sequencing .
+Site-directed mutagenesis of the putative ATF/CRE site of the CD4 promoter was performed using the Chameleon mutagenesis kit , following the manufacturer 's technical guidelines ( Stratagene ) .
+Both the -1076CD4p and the -71CD4p constructs were mutated to generate -1076M5CD4p and -71M5CD4p .
+The mutation changed the ATF/CRE site ( TGACGT ) to a Drel site ( TTTAAA ) .
+Mutation was confirmed by digestion with DreI and sequencing of the region of interest .
+Electrophoretic mobility shift assay .
+Nuclear extracts from uninfected and HHV-6-infected HSB-2 cells ( 10° ) were prepared according to the method of Dignam et al .
+( 5a ) .
+The sequences of the oligonucleotides used for CD4-CRE binding studies were : ( sense ) 5'-AGCTCCAGCTGGTGACGTTITGGGGCCG G-3 ' and ( antisense ) 5'-CCGGCCCCAAACGTCACCAGCTGGAGCT-3 ' , which correspond to the -79 to -52 region of the CD4 promoter .
+The double-stranded oligonucleotides corresponding to the consensus CRE binding site ( sense , 5-AGAGATTGCCTGACGTCAGAGAGCTAG-3 ' ) and the mutant CRE binding site ( sense , 5-AGAGATTGCCTGTGGTCAGAGAGCTAG-3 ' ) were purchased from Santa Cruz Biotechnology ( Santa Cruz , Calif. ) .
+One hundred nanograms of the CD4-CRE probe was end labeled with [ P ] ATP using T4 polynucleotide kinase ( New England Biolabs , Beverly , Mass . )
+and purified over a spin column ( Boehringer Mannheim ) .
+Gel shift reactions were performed in a total volume of 20 pl as follows : 8 g of nuclear extracts was preincubated for 5 min at room temperature with 2 pg of poly ( dI-dC ) ( Boehringer Mannheim ) in a binding buffer containing 20 % glycerol , 5 mM MgCl , , 2.5 mM EDTA , 2.5 mM dithiothreitol , 250 mM NaCl , and 50 mM Tris-HCI ( pH 7.5 ) .
+Subsequently , 0.1 ng ( 5 X 10 % cpm ) of the labeled probe was added to the mixture and incubated for an additional 30 min at room temperature .
+The complexes were resolved on a 4 % nondenaturing acrylamide gel containing 2 % glycerol and 0.5 % TBE ( 45 mM Tris [ pH 8.3 ] , 45 mM boric acid , 1 mM EDTA ) at room temperature for 2.5 h at 110 V. Competition experiments were performed by supplementing the reaction mixture with 20 ng ( ~200-fold molar excess ) of unlabeled competitor probe .
+For the supershift experiments , nuclear extracts were preincubated for 1 h at 4°C in the presence of 2 mg of the indicated antibody ( Santa Cruz Biotech-nology ) , poly ( dI-dC ) , and binding buffer .
+Subsequently , the labeled CD4-CRE probe was added , and the mixture was incubated at room temperature for 30 min before separation on gel .
+Western blot .
+HSB-2 or HSB-2 cells infected with HHV-6 ( multiplicity of infection , 0.1 ) for either 48 or 72 h were lysed in Laemmli SDS-PAGE sample buffer .
+Proteins ( 2 X 10° cell equivalent ) were separated by electrophoresis through an SDS-10 % acrylamide gel and transferred onto polyvinylidene diflu-oride membranes .
+Blots were probe for cither total CREB using rabbit anti-CREB antibodies ( Santa Cruz Biotechnology ) or for the phosphorylated form of CREB ( P-CREB ) using specific antibodies ( Upstate Biotechnology , Lake Placid , N.Y. ) .
+Alkaline phosphatase-conjugated goat anti-rabbit antibodies were used as secondary antibodies for the detection of proteins made by chemiluminescence .
+Quantification of CREB and P-CREB protein levels was performed by laser densitometry analysis .
+Immediate-early genes of HHV-6 .
+Plasmids containing open reading frames ( ORFs ) 16/17 ( pIEGP2-3 ' ) and ORFs 18/19 ( pIEG1-2 ) ( 35 ) from the IE-B region and a plasmid containing ORF 86 ( pHV6U86 ) ( 34 ) from the IE-A region were generously provided by John Nicholas .
+pHV6U86 was generated by PCR using the following primer pair : sense , 5'-GAAGGACTCGTCTCCGG-3 ' ( genome coordinates , 125787 to 125771 ) , and antisense , 5'-GGGTGCTATCACA TCAG-3 ' ( genome coordinates , 130936 to 130920 ) .
+The 5.1-kbp fragment which contains the entire U86 ORF was cloned into the pSK+ pBluescript vector .
+The expression plasmid pBC-ORF , kindly provided by Michelle E. D. Martin , was generated by PCR using the following primer pair : sense , 5'-ACATCTAGGTT TCATCTAGC-3 ' ( genome coordinates , 133091 to 13072 ) , and antisense , 5 `` -TT AAACATGTGACATATAAC-3 ' ( genome coordinates , 135713 to 135694 ) .
+The 2.6-kbp PCR fragment , which contains the entire U89 ORF , was cloned into pBC/CMV as described previously ( 30 ) .
+RESULTS Induction of cell surface CD4 expression in HHV-6-infected HSB-2 cells .
+Previous reports have shown that infection of mature CD8 * T cells ( 26 ) , NK cells ( 28 ) , and hematopoietic cells ( 14 ) by HHV-6 leads to CD4 gene expression .
+Confirmation of these results has now been extended to the immature , voL .
+72 , 1998 Isotype control _ Anti-CD4 2 2 h 2 to2 # 10° a !
+**To 7 er r o - - y 10 10 ( G 19° 10° 7 10° 10° 10+ v w e # - 6 24 a ( “ 23 `` B4 9,0 ~ } 3 s ) 0-1 T. °O 0 To ' 102 `` tos 507190 101 tne 4 10 10 10 10 10 HSB-2/HHV-6 FIG .
+1 .
+Cell surface expression of CD4 after infection of HSB-2 cells with HHV-6 .
+HSB-2 cells ( CD4~ ) were either treated with mock-infected culture fluid or infected with HHV-6 ( GS strain ) .
+When signs of cytopathic effect were observed ( 5 to 7 days ) , cells were analyzed for CD4 surface expression by flow cytometry using PE-labeled anti-CD4 or isotype-matched control antibody .
+Top panels represent uninfected cells , while bottom panels depict HHV-6-infected cells .
+CD4~ T-cell line HSB-2 .
+Ten percent of 7-day-old productively HHV-6-infected HSB-2 cells were found to express CD4 antigen at the cell surface ( Fig .
+1 ) .
+This is in contrast to results for uninfected cells for which less than 0.1 % of cells were found positive , by flow cytometry , for CD4 expression .
+Approximately 30 % of HSB-2 cells were infected with HHV-6 as determined by immunofluorescence using antibodies specific for HHV-6 gp106 protein ( not shown ) .
+Activation of the CD4 promoter by HHV-6 .
+CD4 gene regulation is regulated in a very complex manner .
+Several genetic elements , such as distal and proximal enhancers , a silencer , and a promoter , are known to play a role in the control of in vivo CD4 gene expression .
+Our present work focuses mainly on the interactions between HHV-6 and the CD4 promoter .
+To study the effects of HHV-6 on CD4 promoter activity , we cloned , upstream of a luciferase reporter gene , the 1,076-bp CD4 promoter in the promoterless pGL3basic vector to create the -1076CD4p plasmid .
+HSB-2 cells were transfected in duplicate either with the pGL3basic vector or with the full-length CD4 promoter and subsequently infected with HHV-6 .
+Two days after infection , luciferase activity was monitored .
+As shown in Fig .
+2A , HHV-6 can minimally activate the pGL3basic vector .
+However , HHV-6 was able to strongly transactivate the full-length CD4 promoter with greater than a 10-fold increase in activity when compared to that of the pGL3basic vector .
+CD4 PROMOTER ACTIVATION BY HHV-6 - 8799 A 1500 & 3 6 i 1000 - { Mock t 5 n HHv-s 44 ' o 3 3 soo-3 c P4 o-pGL3 ~1076CD4p - -1076CD4p/PFA Plasmid/Treatment B 200 150 100 [ 1 ] Mock I HHV-6 50 Relative Luciferase Activity 2 4 8 24 48 Time ( hours ) post HHV-6 infection FIG .
+2 .
+( A ) Activation of the CD4 promoter by HHV-6 .
+HSB-2 cells were transfected with control ( pGL3 ) or with -1076CD4p constructs and infected with HHV-6 or treated with mock-infected culture supernatant .
+PFA was added 1 h prior to infection , and PFA was kept throughout the experiment .
+Cells were harvested and lysed at 48 h postinfection , and luciferase activity was determined .
+Results ( mean + standard deviation ) , expressed as relative luciferase activity , are calculated from triplicate cultures and are representative of three experiments .
+( B ) Kinetics of CD4 promoter activation by HHV-6 .
+HSB-2 cells were transfected with the -1076CD4p construct and treated , the next day , with cither mock-infected fluid or with HHV-6 .
+At various times after infection , cell were harvested and lysed and luciferase activity was determined .
+Results ( mean + standard deviation ) are calculated from triplicate cultures and are representative of three experiments .
+It has been reported previously that HHV-6 can induce cell surface CD4 expression in the presence of the viral DNA polymerase inhibitor , ( 26 ) .
+To test whether HHV-6 can activate the CD4 promoter in the presence of PFA , HSB-2 cells were transfected with the full-length CD4 promoter plasmid and infected with HHV-6 in the presence of PFA .
+Results ( Fig .
+2A ) indicate that luciferase activity in the PFA-treated group was similar to that of the untreated , HHV-6-infected HSB-2 cells , suggesting that an immediate-early or early gene ( s ) of HHV-6 is sufficient for CD4 promoter transactivation .
+Effectiveness of PFA treatment was confirmed by the absence of HHV-6 glycoprotein B expression , a late viral gene product ( data not shown ) .
+Kinetics of CD4 promoter activation by HHV-6 .
+In the next series of experiments , we performed kinetic analyses of CD4 promoter activation by HHV-6 .
+HSB-2 cells were transfected with the full-length CD4 promoter and infected with HHV-6 on the next day .
+At various times after infection , cells were lysed and luciferase activity was determined .
+As shown in Fig .
+8800 FLAMAND ET AL .
+Luciferase A CD4 Promoter -1076CD4p « 618CDap -- -- -- -- -______ ] mepap - [ ______ ] P H10TeMSCD4p -- - ___ ] nmscbap +- [ ______ ] 7 +21 Ms crogy AAATTGGGGCCGGCCCCAGCCCTA AGGAGCCTTGCCATCGGGCTICCTGTCTCTCTTCATTIAAGCACGACTCTGCAG B -71M5 CD4p 1 -1076M5 CD4p A-71-44 CD4p 4 -44 CD4p 4 -71 CD4p -- -- 333 CD4p -- -618 CD4p -- -1076 CD4p -- -E- U T U T t U 0 5 10 15 20 25 30 Luciferase Activity ( fold ) FIG .
+3 .
+( A ) Schematic representation of wild-type ( -1076CD4p ) and mutant CD4 promoter luciferase reporter gene constructs .
+The cloning plasmid used for all of these constructs was the pGL3basic vector .
+The vertical line in constructs -1076M5CD4p and -71M5CD4p represents where the MS mutation was in-troduced .
+The MS mutation , which changes the putative ATF/CRE site ( under-lined ) of the wild-type sequence to TTTAAATT ( double underline ) , is shown at the bottom of the panel .
+( B ) Identification of a minimal CD4 promoter responsive to HHV-6 .
+HSB-2 cells were transfected with a series of mutants of the CD4 promoter and subsequently infected with HHV-6 or treated with mock-infected culture supernatant ( mock ) .
+Forty-eight hours postinfection , cells were harvested and lysed and luciferase activity was determined .
+Results , from triplicate cultures , are representative of five experiments and are expressed as fold increase in luciferase activity after normalization with values from uninfected , transfected HSB-2 cells .
+2B , there is no promoter activity during the first 8 h postinfec-tion .
+However , at both 24 and 48 h postinfection , a strong increase in luciferase activity was detected .
+The fact that no activity was recorded during the initial phases of infection ( 2 to 8 h ) suggests that CD4 promoter activation by HHV-6 is not simply the consequence of receptor-mediated transcriptional activation .
+In support of such hypothesis is the fact that UV-irradiated HHV-6 , which allows binding of the virus to its receptor but prevents transcription of viral genes , failed to transactivate the CD4 promoter ( data not shown ) .
+Identification of a minimal CD4 promoter responsive to HHV-6 .
+As represented in Fig .
+3A , eight different CD4 promoter constructs were generated .
+These range from a full-length CD4 promoter ( -1076CD4p ) to a CD4 promoter containing only 44 nucleotides upstream of the transcription initiation site ( -44CD4p ) .
+Also included is an internal deletion construct ( A-71-44CD4p ) and site-directed mutant promoters ( -1076M5CD4p and =-71M5CD4p ) .
+We have shown in the first series of experiments ( Fig .
+2 ) that J. ViRoL .
+the CD4 promoter can be efficiently transactivated by HHV-6 .
+To better identify which region ( s ) of the promoter is responsive to HHV-6 , we tested a series of 5 ' deletion mutants of the CD4 promoter .
+These constructs were independently transfected into HSB-2 cells , followed by infection with HHV-6 .
+All constructs showed similar activity under basal conditions , i.e .
+, in the absence of HHV-6 .
+The -1076CD4p , -618CD4p , -333CD4p , and -71CD4p constructs were equally responsive to HHV-6 infection , as evidenced by the fold induction in luciferase activity ( Fig .
+3B ) .
+However , the removal of an additional 27 nucleotides from the -71CD4p plasmid , to create the -44CD4p plasmid , was found to significantly impair the ability of HHV-6 to activate the CD4 promoter .
+Indeed , a greater than fourfold decrease in luciferase activity is recorded with the -44CD4p plasmid compared to that of the -71CD4p vector .
+Identification of a ATF/CRE site important for transactivation by HHV-6 .
+The region located between -71 and -44 of the CD4 promoter is important for HHV-6-mediated transactivation ( Fig .
+3B ) .
+To determine whether other cis-acting elements play a role in HHV-6 transactivation of the CD4 promoter , we generated a construct in which the region from -71 to -44 was deleted , leaving the rest of the promoter intact ( construct A-71-44CD4p , Fig .
+3A ) .
+This construct was transfected in HSB-2 cells and tested for HHV-6 responsiveness .
+As shown in Fig .
+3B , the A-71-44CD4p construct responded to HHV-6 with a reduced transactivation ability , as was the case with the -44CD4p construct .
+These results suggest that DNA sequences located elsewhere than within the -71 to -44 region do not play a role in the ability of HHV-6 to transactivate the CD4 promoter .
+Computer analysis of the -71 to -44 region reveals the presence of a putative ATF/CRE binding site .
+The region from -67 to -62 contains the sequence TGA CGT , which is identical to six of the eight nucleotides from a consensus ATF/CRE site ( TGACGTCA ) .
+To determine whether this site is of importance for HHV-6 transactivation , we mutated the TGACGT site to TTTAAA ( Fig .
+3A ) .
+Mutation of this site was performed in both the wild-type CD4 promoter ( -1076M5CD4p ) and in the minimal -=71CD4p ( -71M5CD4p ) construct .
+Mutated plasmids were transfected in parallel with the wild-type constructs and tested for responsiveness to HHV-6 .
+The results ( Fig .
+3B ) indicate that mutation of the putative ATF/CRE site of the CD4 promoter is detrimental for HHV-6 transactivation .
+In fact , the levels of activation are similar to those obtained with the constructs lacking the ATF/CRE site ( -44CD4p and A-71-44CD4p ) ( Fig .
+3B ) .
+Binding of transcription factors to the putative ATF/CRE sites of the CD4 promoter .
+We demonstrated that the putative ATF/CRE site , located between -71 and -44 of the CD4 promoter is important for transactivation by HHV-6 .
+Thus , we studied the binding of transcription factors to the -79 to -52 region of the CD4 promoter by electrophoretic mobility shift assay .
+Nuclear extracts from both uninfected and HHV-6-infected HSB-2 cells were obtained and used in binding assays .
+As shown in Fig .
+4A , extracts from both sources efficiently bind the CD4 oligonucleotide , with no apparent differences in the intensity or pattern of binding .
+In addition , homologous competition with unlabeled CD4 oligonucleotide was very efficient .
+Equally efficient was a competition between the CD4 oligonucleotide and an oligonucleotide containing a wild-type CRE site .
+However , no competition could be observed with an oligonucleotide having a mutated CRE ( M-CRE ) consensus se-quence .
+In an effort to better characterize the protein complex binding to the CD4 oligonucleotide , we proceeded to perform voL .
+72 , 1998 A > Antibody C u & C u e Competitor 03 ( 4 ?
+45 ” 6 ?
+a ?
+” $ 1 Nuclear Extract HSB-2 HHV6-HSB-2 Supershift - > sa Shift - > wee BB | cy WWL @ Sn B [ ] Mock EK Forskolin Luciferase Activity ( fold ) to 1 pGL3Basic -71 CD4p - -44 CD4p -71M5 CD4p & £ 5 8 M gee 2 if E P-CREB = < n cee cres - Q P-CREB 1.0 3.0 3.1 CREB 10 17 14 P-CREB CREB 1.0 18 22 FIG .
+4 .
+( A ) Binding of transcription factors to the ATF/CRE site of the CD4 promoter .
+Nuclear extracts from uninfected and HHV-6-infected HSB-2 cells were obtained and subjected to gel-shift assays , using the *°P-labeled probe spanning the -79 to -52 region of the CD4 promoter .
+Competition with a 200-fold excess of cold CD4 probe , wild-type ATF/CRE , and mutated ATF/CRE sequence was performed .
+Incubation of extracts with antibodies reacting with various transcription factors was also included .
+Results are representative of two experiments .
+( B ) Activation of the CD4 promoter by forskolin .
+HeLa cells were transfected with either the pGL3basic , -71CD4p , -44CD4p , or -71M5CD4p construct and treated with DMSO ( mock ) or 10 M forskolin .
+After 48 h , cells were harvested and luciferase activity was determined .
+Results , obtained from triplicate cultures , are expressed as fold induction of luciferase activity and are representative of three separate experiments .
+( C ) Increased CREB phosphorylation in HHV-6-infected cells .
+HSB-2 and HHV-6-infected HSB-2 cells ( 48 and 72 h postinfection ) were lysed in Laemmli buffer and analyzed for total CREB and P-CREB by Western blot using specific antibodies .
+Ratios of P-CREB/ CREB were calculated for each sample following densitometric analysis of au-toradiograms and normalization against CREB and P-CREB values of the mock-infected sample .
+Results are representative of two independent experiments .
+CD4 PROMOTER ACTIVATION BY HHV-6 - 8801 supershift experiments using commercially available antibodies that react against known transcription factors .
+We first selected antibodies that were cross-reactive against several proteins known to bind DNA sequences having homologies to the putative ATF/CRE site found within the CD4 oligonucleotide .
+The antibodies used were capable of binding CREB-1/ATF-1/ CREM-1 , CREB-2/ATF-4 , c-Jun/AP-1/JunB/JunD , and Ets-1/ Ets-2 as negative controls .
+When used in the binding reactions , only the antibodies reacting with CREB-1/ATF-1/CREM-1 caused a supershift of the complex ( data not shown ) .
+With the use of monospecific antibodies against CREB-1 , we positively identified the CREB-1 protein as one of the factors binding to the ATF/CRE site of the CD4 promoter , as witnessed by reduced mobility ( supershift ) of the protein complex ( Fig .
+4A ) .
+Antibodies to CREB-2 were used as negative controls .
+Antibodies against CREM-1 were also unreactive ( data not shown ) .
+Activation of the CD4 promoter by forskolin .
+Transcriptional activation via ATF/CRE sites is often regulated through the action of protein kinase A ( PKA ) which phosphorylates and thereby activates transcription factors such as CREB ( 17 , 22 ) .
+Since PKA activity is influenced by levels of intracellular cAMP ( cAMP ; ) , we tested whether an agonist such as forskolin , which causes an increase in cAMP , , can activate the CD4 promoter .
+Transfected HeLa cells were stimulated with forskolin , and luciferase activity was determined .
+Results ( Fig .
+4B ) indicate that the promoterless pGL3basic and -44CD4p constructs were not activated by DMSO ( solvent ) or by forskolin .
+However , the -71CD4p construct , which contains the ATF/ CRE sequence , is efficiently activated by forskolin ( fivefold ) .
+Treatment of cells with DMSO ( mock ) had no effect on promoter activity .
+The -71M5CD4p construct which contains a mutated ATF/CRE consensus site was not responsive to forskolin activation .
+These results suggest that the transcriptional activity of factors binding to the ATF/CRE site within the CD4 promoter can be regulated , at least in part , by cAMP and PKA .
+Analysis of CREB and phosphorylated CREB in HHV-6-infected cells .
+Knowing that there is no difference in the binding pattern or in the amount of proteins bound to the -79 to -52 region of the CD4 promoter we studied , by Western blot , the levels of prosphorylated CREB ( P-CREB ) in extracts of HSB-2 and HHV-6-infected HSB-2 cells .
+Forty-eight and 72 h after infection the cells were harvested and lysed in SDS-PAGE buffer and proteins from 2 X 10° cell equivalents were separated by gel electrophoresis .
+After transfer onto a mem-brane , blots were probed with either anti-CREB or anti-P-CREB antibodies .
+Results indicate ( Fig .
+4C ) that levels of P-CREB in the infected samples are twofold higher than those in the mock-infected cells when compared to the levels of unphosphorylated CREB .
+P-CREB levels of expression in HHV-6-infected cells were calculated after normalization against CREB and P-CREB levels of expression in the mock-infected samples .
+Identification of HHV-6 ORFs 86 and 89 as CD4 promoter transactivators .
+From our kinetics data and the results obtained using the drug PFA , we deduced that virally encoded proteins belonging to the immediate-early or early class of protein were involved in CD4 promoter activation .
+In an effort to identify such proteins , we tested constructs containing ORFs from both the IE-A and IE-B regions of HHV-6 .
+The plasmids contained U16/17 and U18/19 from the IE-B region and U86 and US $ from the IE-A region .
+In addition , a plasmid containing the transactivator U25 ( 35 ) was also tested .
+These plasmids were independently cotransfected into HeLa cells with the -71CD4p construct .
+HeLa cells were chosen for their much higher efficiency of transfection ( 15 to 20 % as determined by flow cytometry following transfection with pGreen Lantern 8802 FLAMAND ET AL .
+A 10 4 € + 2 2 64 3 ) < 2 ce £ 3 H0 27 o-peDNA3.1 UI§/U17 U18/U19 U25 U86 US $ B 6 Luciferase Activity ( fold ) to 1 -71CD4p -71M5CDA4p FIG .
+5 .
+( A ) Transactivation of the CD4 promoter by genes of HHV-6 .
+HeLa cells were cotransfected with either the control vector ( peDNA3.1 ) or with plasmids encoding HHV-6 genes ( 0.75 ug each ) along with the -71CD4p ( 0.75 g ) construct .
+Forty-eight hours posttransfection , cells were lysed and luciferase activity was determined .
+Results are expressed as fold increase in luciferase activity and are representative of three independent experiments .
+( B ) Effects of ATF/CRE mutation of transactivation by U86 and U89 of HHV-6 .
+HeLa cells were cotransfected with either the pcDNA3.1 control vector or the U86 or the U89 construct along with the -71CD4p or the -71M5CD4p reporter plasmid .
+Forty-cight hours posttransfection , cells were lysed and luciferase activity was determined .
+The fold activation of pcDNA , U86 , and U89 is represented by an open box , a hatched box , and a filled box , respectively .
+Results are representative of three independent experiments .
+plasmid ) than HSB-2 cells ( < 1 % ) .
+The expression vector peDNA3.1 was used as a negative control .
+Forty-eight hours posttransfection , cells were lysed and luciferase activity was determined .
+As shown in Fig .
+5A , cells transfected with U16/ U17 , U18/U19 , or the peDNA3.1 control vector showed comparable low levels of luciferase activity .
+The plasmid containing U25 showed limited transactivation , with a 2.5-fold increase in reporter activity .
+Interestingly , the U86 and U89 constructs were capable of transactivating the -71CD4p promoter construct significantly , with a seven- to ninefold increase in activity .
+To determine whether the U8S6 and U89 transactivators were dependent on the presence of the ATF/CRE site to mediate their effects , we carried out similar experiments using the -71M5CD4p construct as the reporter plasmid .
+As shown in Fig .
+5B , the U86 and U8S9 constructs were equally efficient in transactivating both the -71CD4p and the -71M5CD4p plas-mids , suggesting an ATF/CRE-independent mode of action .
+J. ViRoL .
+The peDNA3.1 vector was used as a negative control for the experiment and for the normalization of luciferase activity .
+DISCUSSION T-cell precursors migrating out of the bone marrow and arriving in the thymus express low levels of CD4 ( CD4®CD8~ ) ( 51 ) .
+These cells eventually lose CD4 expression and are referred to as double-negative ( CD4 CD8 ) thymocytes .
+During subsequent maturation steps , the CD4 , CD8 , and TCR genes are upregulated , forming a population of double-positive ( CD4*CD8+* ) cells .
+Last , following positive and/or negative selection , survivor cells lose expression of CD4 or CD8 , leading to a mature CD4 *~CD8~ or CD4~-CD8* T-cell phenotype as seen in the peripheral blood .
+Regulation of the CD4 gene is very complex and relies on the participation of several cis-acting elements , such as promoter , enhancer , and silencer .
+The original description of the human CD4 promoter indicates a lack of both TATA and CAAT boxes , no defined initiator sequence , and few transcription factor binding sites ( 40 ) .
+Binding sites for and physical binding of Ets and Myb transcription factors to the CD4 promoter have been observed ( 40 , 45 ) .
+A minimal human CD4 promoter ( nucleotides located at -40 to +16 relative to the transcription start site ) with reduced activity compared to that of the full-length promoter was identified ( 40 ) .
+These results suggested that additional cis-acting elements upstream of this minimal promoter are needed for full activity .
+We began to study the human CD4 promoter during an attempt to identify the mechanisms by which HHV-6 induces CD4 gene expression in CD4~ cells , such as mature CD8 * T cells , NK cells , and a hematopoietic progenitor cell line .
+In general , once a CD8 * T cell has reached maturity , it never expresses the CD4 antigen .
+In such cells , CD4 gene transcription is shut off through the action of the CD4 silencer located within the first intron of the CD4 gene ( 42 , 44 ) .
+The mode of action of the silencer is not completely understood .
+The silencer is not , however , the only element capable of exerting a negative regulatory action on the CD4 promoter .
+If such was the case , the CD4 promoter , in the absence of silencer se-quences , would be active in many cell types .
+On the contrary , it has been reported that both the human and mouse CD4 promoters are highly active in CD4* cells and much less in CD4~ cells ( 40 , 45 ) , suggesting that the CD4 promoter is tissue specific .
+One hypothesis is that promoter activity in various cell types may be influenced by the presence or absence of key transcription factors needed to fully activate the promoter .
+When the effects of HHV-6 infection on CD4 promoter activity were tested , we noticed that this virus can very efficiently transactivate the CD4 promoter .
+CD4 promoter activation in HHV-6-infected HSB-2 cells ( a CD4_ immature T-cell line ) was paralleled by cell surface induction of the CD4 antigen .
+The fact that , at any given time , we do not detect more than 10 to 15 % of HSB-2 cells expressing surface CD4 , although more than 30 % are infected with HHV-6 as determined by immunofluorescence assay , suggests that CD4 induction may not be permanent .
+This is most likely the result of asynchronous lytic replication and cytopathic effects .
+Using 5 ' deletion mutants of the CD4 promoter , we have identified a minimal promoter ( from -71 to +21 ) responsive to HHV-6 .
+This result suggests that cis elements upstream of this region are not involved in HHV-6 activation of the CD4 promoter .
+Removal of an additional 27 nucleotides greatly affected the ability of HHV-6 to activate the CD4 promoter .
+Analysis of the region from -71 to -44 revealed a partial ATF/CRE site ( TGACGTTT ) homologous to six of the eight nucleotides of voL .
+72 , 1998 the wild-type consensus sequence ( TGACGTCA ) .
+Mutation of the ATF/CRE site of the CD4 promoter to TTTAAATT or deletion of the -71 -44 region from the full-length promoter was also found to impair the ability of HHV-6 to transactivate the CD4 promoter .
+ATF/CRE sites are present and are involved in the regulation of many cellular and viral promoters .
+Interestingly , the HHV-6 DNA polymerase promoter contains a single ATF/ CRE site located at the -70 region that is critical for promoter activity ( 1 ) .
+Removal or mutation of the ATF/CRE site eliminated the ability of HHV-6 to activate its own polymerase promoter ( 1 ) .
+Furthermore , HHV-6 was shown to transactivate the Epstein-Barr virus Zebra promoter through a single ATF/CRE site ( TGACATCA ) located in the -67 to -60 region ( 12 ) .
+The ATF/CRE site can bind numerous transcription factors belonging to the bZIP leucine zipper family of proteins , including ATF/CREB/CREM , Fos/Jun , and C/EBP ( 31 ) .
+Our results , and those of Agulnik et al .
+( 1 ) and Flamand and Menezes ( 12 ) , indicate that constitutively expressed proteins bind to the ATF/CRE sites .
+To better characterize the interaction between HHV-6 and the CD4 promoter , we studied , using gel shift assays , the binding patterns of proteins from uninfected and HHV-6-infected HSB-2 cells .
+No difference in binding intensities or binding patterns between extracts from uninfected and HHV-6-infected HSB-2 cells could be de-tected , suggesting that viral transactivators do not bind DNA directly or that they are too limited in amount for detection .
+In order to identify protein ( s ) bound to the ATF/CRE site of the CD4 promoter within cell extracts , we made use of antibodies directed against several transcription factors known for their binding to ATF/CRE sites .
+Only one of these antibodies was found to be reactive for the complex bound to the CD4 promoter , identifying at least one of the factors binding to the ATF/CRE site as CREB-1 .
+These results were further confirmed by using recombinant CREB-1 protein , which could efficiently bind to the ATF/CRE site within the CD4 promoter ( data not shown ) .
+Viral transactivators may interact with basal transcription units and adjacent transcription factors , bridging them together to allow efficient transcription to occur .
+In addition , some of the factors binding to the ATF/CRE site , such as CREB , efficiently bind DNA but are transcriptionally inactive until they become phosphorylated ( 17 , 22 ) .
+To help explain efficient CD4 promoter transactivation in the presence of constant levels of CREB-1 protein , we studied the levels of active CREB , i.e .
+, phosphorylated CREB-1 in extracts from uninfected and HHV-6-infected HSB-2 cells .
+Using specific monoclonal antibodies , we were able to show increased levels of the phosphorylated form of CREB in HHV-6-infected cell extracts when compared to those of uninfected HSB-2 cells .
+Viral transactivators may therefore directly , or indirectly through activation of cellular kinases , promote transcription through the phosphorylation of key regulatory transcription factors .
+Kinetics analyses suggest that direct transduction of signals resulting from the interactions of HHV-6 with its cellular re-ceptor ( s ) is not responsible for CD4 promoter activation .
+More than 8 h of infection were needed for CD4 promoter activa-tion , indicating , in all likelihood , that cellular and/or viral proteins outside the signaling cascade are needed .
+Supporting this hypothesis is the observation that UV-irradiated HHV-6 , which can still bind to cells but can not transcribe any of its genes , does not activate the CD4 promoter .
+To better characterize the gene ( s ) of HHV-6 involved in CD4 promoter acti-vation , we made use of the drug PFA which restricts gene expression of the immediate-early and early classes of genes .
+The fact that PFA treatment of cells had no effect on the ability CD4 PROMOTER ACTIVATION BY HHV-6 - 8803 of HHV-6 to activate the CD4 promoter suggested that immediate-early or early genes were involved in promoter activation .
+The HHV-6 genome , which is essentially collinear with that of human cytomegalovirus ( HMCV ) ( 16 , 23 , 32 ) , contains a long ( 141 kbp ) unique coding region flanked by two directly repeated terminal sequences of approximately 8 kbp each ( 16 ) .
+Within the unique segment , two loci encoding potential immediate-early genes have been identified .
+ORFs 16 to 19 of the immediate-early region B are homologous to UL36 to UL38 of HCMV ( 16 , 35 ) .
+Although these gene segments were found capable of transactivating the HIV LTR ( 35 ) none of these ORFs was able to transactivate the CD4 promoter .
+Region A , the second HHV-6 immediate-early locus contains U86 and U89 , which are positional homologs of HCMV IE2 and IE1 , respectively .
+In cotransfection experiments , U89 was shown capable of transactivating the HIV LTR ( 30 ) .
+When we tested U86 and U89 , both of these genes were found to be capable of activating the CD4 promoter .
+U86 has the capacity to code for a 152-kDa protein whose carboxy-terminal half has homology with IE2 ( UL122 ) of HCMV ( 16 ) .
+U89 does not share sequence homology with any HCMV proteins although a homologous gene is observed in the more closely related HHV-7 ( 33 ) .
+U89 was capable of transactivating several promoters , including those having ATF sites such as the E4 early promoter of adenovirus ( 30 ) .
+However , as is the case for the CD4 promoter , transactivation of the E4 promoter by U89 is independent of the ATF/CRE consensus sequence ( 30 ) .
+Furthermore , transactivation of the HIV LTR by U8S9 of HHV-6 was found to be impaired if the NFB , TATA box , or SP1 site was mutated ( 30 ) .
+This suggests that U89 and perhaps U86 act as transcriptional enhancers through activation or recruitment of transcriptional unit complexes .
+The fact that multiple distinct transcription factor binding sites can be activated by U89 supports the hypothesis that this protein does not bind a specific DNA consensus sequence but rather interacts with regulatory proteins common to many transcriptional units .
+HHV-6 has been associated with the transactivation of several viral promoters , including those Epstein-Barr virus ( 12 ) and HIV ( 8 , 15 , 19 , 50 ) .
+The present study indicates that HHV-6 can also efficiently transactivate the human CD4 promoter .
+A previously unrecognized ATF/CRE site within the CD4 promoter , capable of binding CREB-1 , is important for promoter transactivation by HHV-6 .
+Whether CD4 gene activation and de novo CD4 protein expression play a role in HHV-6 or HIV pathogenesis is unclear .
+CD4 gene activation could simply be a consequence of HHV-6 immediate-early and/or early gene expression .
+In fact , the promiscuity of CRE elements in viral and cellular promoters may lead to the activation of several genes sharing such common regulatory elements .
+The HHV-6 TATA-less DNA polymerase promoter is mainly controlled by a CRE element ( 1 ) , suggesting that for efficient replication HHV-6 must have evolved mechanisms capable of activating transcription factors , such as CREB , involved in CRE-mediated promoter activation .
+Overall , our results provide a better understanding of HHV-6 's biology and give new insights into the regulation of the human CD4 promoter .
+ACKNOWLEDGMENTS Throughout these studies , Louis Flamand was supported by subsequent Fellowships from the Medical Research Council of Canada and from the National Health Research and Development Program of Canada .
+LF .
+currently holds a Scholarship from the Fonds de la Recherche en Santé au Québec .
+This project was supported by a grant from the Medical Research Council of Canada to LF .
+and by an RO3 ( AI41854-02 ) grant from the NIH to M.S.R .
+8804 FLAMAND ET AL .
+We thank Paolo Lusso for helpful discussions .
+We are grateful to John Nicholas and Michelle E. D. Martin for providing HHV-6 plas-mids .
+REFERENCES .
+Agulnick , A. D. , J. R. Thompson , and R. P. Ricciardi .
+1994 .
+An ATF/CREB site is the major regulatory element in the human herpesvirus 6 DNA polymerase promoter .
+J. Virol .
+68:2970-2977. .
+Becker , W. B. , S. Engelbrecht , M. L. Becker , C. Pick , B .
+A. Robson , L. Wood , and P. Jacobs .
+1988 .
+Isolation of a new human herpesvirus producing a lytic infection of helper ( CD4 ) T-lymphocytes in peripheral blood lymphocyte cultures-another cause of acquired immunodeficiency ?
+S. Afr .
+Med .
+J .
+74:610-614. .
+Blue , M. L. , J. F. Daley , H. Levine , K. A. Craig , and S. F. Schlossman .
+1986 .
+Biosynthesis and surface expression of T8 by peripheral blood T4+ cells in vitro .
+J. Immunol .
+137:1202-1207. .
+Blum , M. D. , G. T. Wong , K. M. Higgins , M. J. Sunshine , and E. Lacy .
+1993 .
+Reconstitution of the subclass-specific expression of CD4 in thymocytes and peripheral T cells of transgenic mice : identification of a human CD4 enhancer .
+J. Exp .
+Med .
+177:1343-1358. .
+Cammarota , G. , A. Scheirle , B. Takacs , D. M. Doran , R. Knorr , W. Ban nwarth , J. Guardiola , and F. Sinigaglia .
+1992 .
+Identification of a CD4 binding site on the beta 2 domain of HLA-DR molecules .
+Nature 356:799-801 .
+5a.Dignam , J. D. , R. M. Lebovitz , and R. G. Roeder .
+1983 .
+Accurate transcrip- 10 .
+11 .
+12 .
+13 .
+14 .
+15 .
+16 .
+17 .
+18 .
+19 .
+20 .
+21. tion initiation by RNA polymerase II in a soluble extract from isolated mammalian nuclei .
+Nucleic Acids Res .
+11:1475-1489. .
+Donda , A. , M. Schulz , K. Burki , G. De Libero , and Y. Uematsu .
+1996 .
+Identification and characterization of a human CD4 silencer .
+Eur .
+J. Immunol .
+26:493-500. .
+Doyle , C. , and J. L. Strominger .
+1987 .
+Interaction between CD4 and class II MHC molecules mediates cell adhesion .
+Nature 330:256-259. .
+Ensoli , B. , P. Lusso , F. Schachter , S. F. Josephs , J. Rappaport , F. Negro , R. C. Gallo , and F. Wong-Staal .
+1989 .
+Human herpes virus-6 increases HIV-1 expression in co-infected T cells via nuclear factors binding to the HIV-1 enhancer .
+EMBO J .
+8:3019-3027. .
+Flamand , L. , R. W. Crowley , P. Lusso , S. Colombini-Hatch , D. M. Margolis , and R. C. Gallo .
+1998 .
+Activation of CD8+ T lymphocytes through the T cell receptor turns on CD4 gene expression : implications for HIV pathogenesis .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 95:3111-3116 .
+Flamand , L. , J. Gosselin , M. D'Addario , J. Hiscott , D. V. Ablashi , R. C. Gallo , and J. Menezes .
+1991 .
+Human herpesvirus 6 induces interleukin-1B and tumor necrosis factor alpha , but not interleukin-6 , in peripheral blood mononuclear cell cultures .
+J. Virol .
+65:5105-5110 .
+Flamand , L. , J. Gosselin , I. Stefanescu , D. Ablashi , and J. Menezes .
+1995 .
+Immunosuppressive effect of human herpesvirus 6 on T-cell functions : suppression of interleukin-2 synthesis and cell proliferation .
+Blood 85:1263-1271 .
+Flamand , L. , and J. Menezes .
+1996 .
+Cyclic AMP-responsive element-depen-dent activation of Epstein-Barr virus ZEBRA promoter by human herpesvirus 6 .
+J. Virol .
+70:1784-1791 .
+Fleury , S. , D. Lamarre , S. Meloche , S. E. Ryu , C. Cantin , W. A. Hendrickson , and R. P. Sekaly .
+1991 .
+Mutational analysis of the interaction between CD4 and class II MHC : class II antigens contact CD4 on a surface opposite the gp120-binding site .
+Cell 66:1037-1049 .
+Furlini , G. , M. Vignoli , E. Ramazzotti , M. C. Re , G. Visani , and M. LaPlaca .
+1996 .
+A concurrent human herpesvirus-6 infection renders two human hematopoietic progenitor ( TF-1 and KG-1 ) cell lines susceptible to human immunodeficiency virus type-1 .
+Blood 87:4737-4745 .
+Geng , Y. Q. , B. Chandran , S. F. Josephs , and C. Wood .
+1992 .
+Identification and characterization of a human herpesvirus 6 gene segment that transacti-vates the human immunodeficiency virus type 1 promoter .
+J. Virol .
+66:1564-1570 .
+Gompels , U .
+A. , J. Nicholas , G. Lawrence , M. Jones , B. J. Thomson , M. E. Martin , S. Efstathiou , M. Craxton , and H. A. Macaulay .
+1995 .
+The DNA sequence of human herpesvirus-6 : structure , coding content , and genome evolution .
+Virology 209:29-51 .
+Gonzalez , G. A. , and M. R. Montminy .
+1989 .
+Cyclic AMP stimulates soma-tostatin gene transcription by phosphorylation of CREB at serine 133 .
+Cell 59:675-680 .
+Horvat , R. T. , M. J. Parmely , and B. Chandran .
+1993 .
+Human herpesvirus 6 inhibits the proliferative responses of human peripheral blood mononuclear cells .
+J. Infect .
+Dis .
+167:1274-1280 .
+Horvat , R. T. , C. Wood , and N. Balachandran .
+1989 .
+Transactivation of human immunodeficiency virus promoter by human herpesvirus 6 .
+J. Virol .
+63:970-973 .
+Horvat , R. T. , C. Wood , S. F. Josephs , and N. Balachandran .
+1991 .
+Transactivation of the human immunodeficiency virus promoter by human herpesvirus 6 ( HHV-6 ) strains GS and Z-29 in primary human T lymphocytes and identification of transactivating HHV-6 ( GS ) gene fragments .
+J. Virol .
+65:2895-2902 .
+Konig , R. , L. Y. Huang , and R. N. Germain .
+1992 .
+MHC class II interaction 22 .
+23 .
+24 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+47 .
+J. ViRoL .
+with CD4 mediated by a region analogous to the MHC class I binding site for CD8 .
+Nature 356:796-798 .
+Lamph , W. W. , V. J. Dwarki , R. Ofir , M. Montminy , and I. M. Verma .
+1990 .
+Negative and positive regulation by transcription factor cAMP response element-binding protein is modulated by phosphorylation .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 87:4320-4324 .
+Lawrence , G. L. , M. Chee , M. A. Craxton , U .
+A. Gompels , R. W. Honess , and B. G. Barrell .
+1990 .
+Human herpesvirus 6 is closely related to human cytomegalovirus .
+J. Virol .
+64:287-299 .
+Littman , D. R. 1987 .
+The structure of the CD4 and CD8 genes .
+Annu .
+Rev .
+Immunol .
+5561-584. .
+Lopez , C. , P. Pellett , J. Stewart , C. Goldsmith , K. Sanderlin , J .
+Black , D. Warfield , and P. Feorino .
+1988 .
+Characteristics of human herpesvirus-6 .
+J. Infect .
+Dis .
+157:1271-1273 .
+Lusso , P. , A .
+De Maria , M. Malnati , F. Lori , S. E. DeRocco , M. Baseler , and R. C. Gallo .
+1991 .
+Induction of CD4 and susceptibility to HIV-1 infection in human CD8+ T lymphocytes by human herpesvirus 6 .
+Nature 349:533-535 .
+Lusso , P. , B. Ensoli , P. D. Markham , D. V. Ablashi , S. Z. Salahuddin , E. Tschachler , F. Wong-Staal , and R. C. Gallo .
+1989 .
+Productive dual infection of human CD4+ T lymphocytes by HIV-1 and HHV-6 .
+Nature 337:370-373 .
+Lusso , P. , M. S. Malnati , A. Garzino-Demo , R. W. Crowley , E. O .
+Long , and R. C. Gallo .
+1993 .
+Infection of natural killer cells by human herpesvirus 6 .
+Nature 362:458-462 .
+Lusso , P. , P. D. Markham , E. Tschachler , F. di Marzo Veronese , S. Z. Salahuddin , D. V. Ablashi , S. Pahwa , K. Krohn , and R. C. Gallo .
+1988 .
+In vitro cellular tropism of human B-lymphotropic virus ( human herpesvirus-6 ) .
+J. Exp .
+Med .
+167:1659-1670 .
+Martin , M. E. , J. Nicholas , B. J. Thomson , C. Newman , and R. W. Honess .
+1991 .
+Identification of a transactivating function mapping to the putative immediate-early locus of human herpesvirus 6 .
+J. Virol .
+65:5381-5390 .
+Meyer , T. E. , and J. F. Habener .
+1993 .
+Cyclic adenosine 3',5'-monophos-phate response element binding protein ( CREB ) and related transcription-activating deoxyribonucleic acid-binding proteins .
+Endocr .
+Rev .
+14:269-290 .
+Neipel , F. , K. Ellinger , and B. Fleckenstein .
+1991 .
+The unique region of the human herpesvirus 6 genome is essentially collinear with the UL segment of human cytomegalovirus .
+J. Gen. Virol .
+72:2293-2297 .
+Nicholas , J .
+1996 .
+Determination and analysis of the complete nucleotide sequence of human herpesvirus .
+J. Virol .
+70:5975-5989 .
+Nicholas , J .
+1994 .
+Nucleotide sequence analysis of a 21-kbp region of the genome of human herpesvirus-6 containing homologues of human cytomegalovirus major immediate-early and replication genes .
+Virology 204:738-750 .
+Nicholas , J. , and M. E. Martin .
+1994 .
+Nucleotide sequence analysis of a 38.5-kilobase-pair region of the genome of human herpesvirus 6 encoding human cytomegalovirus immediate-early gene homologs and transactivating functions .
+J. Virol .
+68:597-610 .
+Parnes , J. R. 1989 .
+Molecular biology and function of CD4 and CD8 .
+Adv .
+Immunol .
+44:265-311 .
+Perlmutter , R. M. , J. D. Marth , S. F. Ziegler , A. M. Garvin , S. Pawar , M. P. Cooke , and K. M. Abraham .
+1989 .
+Specialized protein tyrosine kinase proto-oncogenes in hematopoietic cells .
+Biochim .
+Biophys .
+Acta 948:245-262 .
+Richardson , B. , L. Kahn , E. J. Lovett , and J. Hudson .
+1986 .
+Effect of an inhibitor of DNA methylation on T cells .
+I .
+5-Azacytidine induces T4 expression on T8+ T cells .
+J. Immunol .
+137:35-39 .
+Rudd , C. E. , J. M. Trevillyan , J. D. Dasgupta , L. L. Wong , and S. F. Schlossman .
+1988 .
+The CD4 receptor is complexed in detergent lysates to a protein-tyrosine kinase ( pp38 ) from human T lymphocytes .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 85:5190-5194 .
+Salmon , P. , A. Giovane , B. Wasylyk , and D. Klatzmann .
+1993 .
+Characterization of the human CD4 gene promoter : transcription from the CD4 gene core promoter is tissue-specific and is activated by Ets proteins .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:7739-7743 .
+Sawada , S. , and D. R. Littman .
+1991 .
+Identification and characterization of a T-cell-specific enhancer adjacent to the murine CD4 gene .
+Mol .
+Cell .
+Biol .
+11:5506-5515 .
+Sawada , S. , J. D. Scarborough , N. Killeen , and D. R. Littman .
+1994 .
+A lineage-specific transcriptional silencer regulates CD4 gene expression during T lymphocyte development .
+Cell 77:917-929 .
+Shaw , A. S. , K. E. Amrein , C. Hammond , D. F. Stern , B. M. Sefton , and J. K. Rose .
+1989 .
+The Ick tyrosine protein kinase interacts with the cytoplasmic tail of the CD4 glycoprotein through its unique amino-terminal domain .
+Cell 59:627-636 .
+Siu , G. , A. L. Wurster , D. D. Duncan , T. M. Soliman , and S. M. Hedrick .
+1994 .
+A transcriptional silencer controls the developmental expression of the CD4 gene .
+EMBO J .
+13:3570-3579 .
+Siu , G. , A. L. Wurster , J. S. Lipsick , and S. M. Hedrick .
+1992 .
+Expression of the CD4 gene requires a Myb transcription factor .
+Mol .
+Cell .
+Biol .
+12:1592-1604 .
+Swain , S. L. 1983 .
+T cell subsets and the recognition of MHC class .
+Immunol .
+Rev .
+74:129-142 .
+Takahashi , K. , S. Sonoda , K. Higashi , T. Kondo , H. Takahashi , M. Takahashi , and K. Yamanishi .
+1989 .
+Predominant CD4 T-lymphocyte tropism of human herpesvirus 6-related virus .
+J. Virol .
+63:3161-3163. voL .
+72 , 1998 48 .
+Turner , J. M. , M. H. Brodsky , B .
+A. Irving , S. D. Levin , R. M. Perlmutter , and D. R. Littman .
+1990 .
+Interaction of the unique N-terminal region of tyrosine kinase p56 `` ** with cytoplasmic domains of CD4 and CD8 is mediated by cysteine motifs .
+Cell 60:755-765 .
+49 .
+Veillette , A. , M. A. Bookman , E. M. Horak , and J .
+B. Bolen .
+1988 .
+The CD4 and CD8 T cell surface antigens are associated with the internal membrane tyrosine-protein kinase p56 `` .
+Cell 55:301-308 .
+50 .
+Wang , J. , C. Jones , M. Norcross , E. Bohnlein , and A. Razzaque .
+1994 .
+Identification and characterization of a human herpesvirus 6 gene segment 51 .
+52 .
+CD4 PROMOTER ACTIVATION BY HHV-6 - 8805 capable of transactivating the human immunodeficiency virus type 1 long terminal repeat in an Sp1 binding site-dependent manner .
+J. Virol .
+68:1706-1713 .
+Wu , L. , R. Scollay , M. Egerton , M. Pearse , G. J. Spangrude , and K. Short-man .
+1991 .
+CD4 expressed on earliest T-lineage precursor cells in the adult murine thymus .
+Nature 349:71-74 .
+Wurster , A. L. , G. Siu , J. M. Leiden , and S. M. Hedrick .
+1994 .
+Elf-1 binds to a critical element in a second CD4 enhancer .
+Mol .
+Cell .
+Biol .
+14:6452-6463 .

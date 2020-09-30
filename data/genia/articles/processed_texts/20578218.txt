@@ -1,0 +1,829 @@
+JOURNAL or ViROLOGY , Jan. 2001 , p. 834-843 0022-538 X/01/ $ 04.00+0 - DOI : 10.1128/JV1.75.2.834-843.2001 Vol .
+75 , No .
+2 Copyright © 2001 , American Society for Microbiology .
+All Rights Reserved .
+Design and Use of an Inducibly Activated Human Immunodeficiency Virus Type 1 Nef To Study Immune Modulation SCOTT F. WALK , MELISSA ALEXANDER , BERNHARD MAIER , MARIE-LOUISE HAMMARSKJOLD , DAVID M. REKOSH , anp KODI S. RAVICHANDRAN®* Carter Immunology Center , Myles H. Thaler Center for AIDS and Human Retrovirus Research and the Department of Microbiology , University of Virginia , Charlottesville , Virginia 22908 Received 30 June 2000/Accepted 25 October 2000 The Nef protein of the human immunodeficiency virus type 1 ( HIV-1 ) has been shown to enhance the infectivity of virus particles , downmodulate cell surface proteins , and associate with many intracellular proteins that are thought to facilitate HIV infection .
+One of the challenges in defining the molecular events regulated by Nef has been obtaining good expression of Nef protein in T cells .
+This has been attributed to effects of Nef on cell proliferation and apoptosis .
+We have designed a Nef protein that is readily expressed in T-cell lines and whose function is inducibly activated .
+It is composed of a fusion between full-length Nef and the estrogen receptor hormone-binding domain ( Nef-ER ) .
+The Nef-ER is kept in an inactive state due to steric hindrance , and addition of the membrane-permeable drug 4-hydroxytamoxifen ( 4-HT ) , which binds to the ER domain , leads to inducible activation of Nef-ER within cells .
+We demonstrate that Nef-ER inducibly associates with the 62-kDa Ser/Thr kinase and is localized to specific membrane microdomains ( lipid rafts ) only after activation .
+Using this inducible Nef , we also compared the specific requirements for CD4 and HLA-A2 downmodulation in a SupT1 T-cell line .
+Half-maximal downmodulation of cell surface CD4 required very little active Nef-ER and occurred as early as 4 h after addition of 4-HT .
+In contrast , 50 % downmodulation of HLA-A2 by Nef required 16 to 24 h and about 50- to 100-fold-greater concentrations of 4-HT .
+These data suggest that HLA-A2 downmodulation may require certain threshold levels of active Nef .
+The differential timing of CD4 and HLA-A2 downmodulation may have implications for HIV pathogenesis and immune evasion .
+The human immunodeficiency virus type 1 ( HIV-1 ) nef gene has been shown to play a key role in the pathogenesis of HIV ( 42 , 48 , 53 ) .
+While not essential for viral replication in tissue culture cells , nef plays a critical role in maintenance of viral load and progression to AIDS in rhesus macaques ( 27 ) .
+Moreover , identification of deletions within the nef gene in individuals who have remained asymptomatic for a number of years suggests an important role for Nef in HIV pathogenesis in humans ( 15 , 28 , 29 ) .
+More recently , transgenic mice expressing Nef have been shown to develop a disease that mimics pediatric AIDS ( 21 ) .
+HIV-1 ( NL4-3 ) nef encodes a 206-amino-acid ( 27- to 34-kDa ) myristoylated Nef protein ( 48 ) .
+Several structural features of Nef have been recognized .
+Nef contains an N-terminal myristoylation sequence that helps to localize it to the plasma membrane and is essential for many of its known functions ( 22 , 26 , 67 ) .
+Nef also contains a stretch of acidic residues , several PXXP motifs , and a dileucine motif that have been implicated as important regions for Nef function ( 1 , 42 , 45 , 48 , 55 , 56 , 62 ) .
+Many studies on the role of Nef in HIV infection have ascribed numerous potential functions for Nef .
+The ones that have been consistently observed are ( i ) the greater infectivity of Nef-containing viruses than of Nef-deleted variants ( 2 , 11 , 43 , 60 ) ; ( ii ) downmodulation of CD4 molecules from the surface of infected T cells ( 1 , 17 , 20 , 41 ) ; ( iii ) downmodulation of class I major histocompatibility complex ( MHC ) antigen HLA-A2 * Corresponding author .
+Mailing address : Carter Immunology Center , University of Virginia , Bldg .
+MR4 , Rm .
+4012F , P.O .
+Box 801386 , HSC , Charlottesville , VA 22908-1386 .
+Phone : ( 804 ) 243-6093 .
+Fax : ( 804 ) 924-1221 .
+E-mail : Ravi @ virginia.edu .
+834 ( 12 , 14 , 36 , 61 ) ; ( iv ) activation of quiescent T cells ( 59 , 63 ) ; and ( v ) interaction of Nef with cellular kinases of the PAK ( p21-activated kinase ) family .
+Although the identity of the PAK associated with Nef remains uncertain , this association has been linked to efficient pathogenesis ( 6 , 16 , 44 , 52 , 58 ) .
+However , this is controversial since other studies have shown that interaction of Nef with PAK is not a prerequisite for simian immunodeficiency virus to achieve a high viral load and for pathogenesis ( 8 , 33 ) .
+In addition to the above , Nef has been shown to associate with a number of cellular proteins , many of which seem to be unique to the system used ( 42 , 55 ) .
+The fact that many of these studies have been performed in cells which are not the natural hosts for HIV infection complicates the interpretation of these results and may , in part , explain these discrepancies .
+Previous studies have reported difficulties obtaining high expression and the loss of expression of Nef over time ( 4 , 5 ) .
+While several groups have transiently expressed Nef in primary T cells or T-cell lines using retrovirus-mediated gene transfer or DNA transfections ( 6 , 23 , 39 ) , stable high-level expression of Nef has been difficult to achieve .
+One approach that has been used is the generation of CD8-Nef , which contains the extracellular and transmembrane domains of CD8e chain fused to Nef in its cytoplasmic domain ( 5 ) .
+Only low surface expression could be achieved , and the stable clones that express CD8-Nef have been reported to acquire mutations that preclude expression of CD8-Nef .
+While this CD8-Nef construct has been useful in delineating certain features of Nef function , the effects of dimerization of Nef ( since CD8 is normally a dimer ) and the constitutive presence on the membrane of CD8-Nef ( instead of the myristoylation-dependent Vor .
+75 , 2001 localization of native Nef ) are not known .
+Moreover , it has been reported that a fraction of the Nef protein is contained in specific membrane microdomains known as lipid rafts ( 65 ) ; whether CD8-Nef localizes to similar microdomains remains to be determined .
+To better understand the molecular mechanisms of Nef function , we attempted to design a regulatable Nef that would remain basally inactive in cells and whose function could be induced when desired .
+Toward this goal , we engineered a Nef-ER ( estrogen receptor ) fusion protein that contains Nef fused at its C terminus to the hormone-binding domain of the ER .
+It has been previously demonstrated that fusion of the ER to kinases such as Raf and Akt leads to an inactive kinase due to steric hindrance of these kinases by the proteins that interact with the ER domain ( 30 , 31 , 50 ) .
+Inducible activation can be achieved by addition of the drug 4-hydroxytamoxifen ( 4-HT ) , which binds to the ER and relieves the inhibition .
+Since several different regions of Nef have been implicated in the various functions ascribed to Nef , we hypothesized that a similar fusion of ER to Nef would lead to inhibition of Nef function and that addition of 4-HT would lead to its inducible activation .
+Here , we demonstrate that such a Nef-ER protein can be readily expressed in T cells and that 4-HT addition leads to Nef-dependent downmodulation of CD4 and HLA-A2 , as well as Nef-ER interaction with cellular kinases .
+This provides a novel approach to delineate Nef function in T cells .
+MATERIALS AND METHODS Cell culture .
+SupT1 cells were obtained from the AIDS repository ( National Institutes of Health , Bethesda , Md . )
+and grown in RPMI 1640 supplemented with 10 % fetal bovine serum along with 2 mM 1-glutamine , a penicillin-strepto-mycin , and 20 M 2-mercaptocthanol ( GIBCO ) .
+Plasmids .
+The plasmid encoding Nef-ER was constructed in the pEBB vector , which drives expression under the elongation factor 1 « ( EF-1 « ) promoter ( 32 ) .
+The pBB Nef-ER-IRES-puro vector , which expresses Nef-ER as part of bicistronic message with an internal ribosomal entry sequence ( IRES ) followed by the coding sequence for the puromycin resistance gene ( Puro ) , was constructed as follows .
+The following linker sequence was cloned into pBluescript ( pBS ) between the NofI and Xho !
+sites : GCGGCCGCCGGAGCAGGCAATTGGGAT CCGTCGACCATATGCCATGGAGATCTAAGCTTACGCGTATCGATGC GGCCGCCTCGAG .
+The Puro element from the pBABEpuro vector was excised using HindIII and Clel sites and cloned into the HindIM-Clel sites of the modified pBS .
+The murine ER coding sequence ( amino acids 281 to 485 ) was excised from plasmid pWZL-Neo Akt-ER ( 31 ) using EcoRI and Se/l fragments and cloned into the MefT-Sa/l sites of the pBS-puro vector .
+The murine ER domain has a point mutation engineered to prevent the binding of estrogen but allow high-affinity binding to the estrogen analogue 4-HT .
+The IRES was excised from the pMSCV-IRES-puro vector ( kindly provided by Bill Sha , Berkeley , Calif. ) using Se/l and Neo !
+and subcloned 3 ' of the ER coding sequence into Sall-Ncol sites of the modified pBS .
+A PCR product encoding full-length HIV-1 ( NL4-3 ) Nef was subcloned into the pEBB vector as a BamHI-Clel fragment .
+The ER-IRES-Puro segment from pBS described above was then excised as a Not !
+fragment and subcloned into the pEBB-Nef vector to generate pEBB-Nef-ER-IRES-puro .
+Through the primers used for PCR , the stop codon of Nef was removed and the coding sequence was kept in frame with the ER coding sequence .
+The N terminus of Nef was unmodified and carried its natural myristoylation sequence .
+The resulting pEBB-Nef-ER-IRES-puro vector was used for transfection into SupT1 cells .
+Transfections .
+SupT1 cells growing in log phase were transfected with 20 pg of linearized pEBB-Nef-ER-IRES-puro by electroporation of 10 million cells ( in 0.5 ml of growth medium ) at 250 Volts and 1,180 F , using a CellPorator ( GIBCO-BRL , Bethesda , Md . )
+; 24 h posttransfection , the SupT1 cells were plated ( 10,000 cells/well ) in 96-well plates in growth medium containing puromycin ( 1.5 pg/ml ; Sigma Chemical Co. , St. Louis , Mo . )
+.
+The stable clones that grew were tested for Nef-ER expression by Western blotting using anti-Nef INDUCIBLE ACTIVATION OF HIV-1 Nef FUNCTION IN T CELLS | 835 antibodies ( pool of two monoclonal antibodies , SN20 and SN41 ) ( 38 ) or anti-ER antibody MC-20 ( Santa Cruz Biotechnology , Santa Cruz , Calif. ) .
+Immunoprecipitations , immunoblotting , and in vitro kinase assays .
+The cells were left untreated or treated with 4-HT for the indicated times at 37°C .
+The cells were then lysed using a lysis buffer containing 50 mM Tris ( pH 7.6 ) , 150 mM NaCl , 10 mM sodium pyrophosphate , 10 mM sodium fluoride , 1 mM sodium orthovanadate , 10 jg each of pepstatin , leupeptin , aprotinin , and 4- ( 2-aminocth-y ) benzenesulfonyl fluoride per ml , and 1 % Nonidet P-40 ( or 1 % Triton X-100 , where indicated ) .
+After spinning out the nuclei and clearance of debris at 14,000 x g in a microcentrifuge , the lysates were mixed with loading buffer and directly analyzed by anti-Nef or anti-ER immunoblotting .
+Alternatively , the lysates were immunoprecipitated with anti-ER antibodies , and the bound proteins were analyzed by immunoblotting essentially as described previously ( 9 ) .
+For quantitation of Nef-ER protein level in Western blots , after the primary anti-ER antibody , ** `` I-labeled protein A was used as a secondary detection reagent , and radioactivity in the bands was quantitated in a phosphorimager .
+In vitro kinase assays for the 62-kDa Nef-associated kinase were performed as described previously ( 4 ) .
+Briefly , anti-ER immunoprecipitates from 4-HT-treated or untreated samples were washed once in kinase assay buffer containing 50 mM HEPES ( pH 8.0 ) , 150 mM NaCl , 5 mM EDTA , 0.02 % Triton X-100 , and 10 mM MgCl , , The beads were then resuspended in 100 pl of the same buffer with 10 Ci of [ y-°P ] JATP for 15 min at room temperature .
+The beads were washed again three times , then sodium dodecyl sulfate ( SDS ) -sample buffer was added , the mixture was boiled , and the proteins were separated by SDS-8 % polyacrylamide gel electrophoresis ( PAGE ) .
+The gels were dried and developed by autoradiography .
+Where indicated , the cells were pretreated with emetine ( Sigma ) at 100 pg/ml for 5 min prior to addition of 4-HT ; the rest of the kinase assay was performed as described above .
+Monitoring CD4 and HLA-A2 downmodulation .
+The surface expression and downmodulation of CD4 and HLA-AZ2 were assessed by flow cytometry .
+Briefly , untreated and 4-HT-treated SupT1 cells were incubated with anti-CD4 ( OKT4D ) for 20 min on ice , followed by phycoerythrin ( PE ) -labeled anti-mouse immunoglobulin .
+After washing , the cells were analyzed in a FACScalibur flow cytometer .
+Alternatively , fluorescein isothiocyanate ( FITC ) -conjugated mouse-anti-human CD4 ( Caltag ) was used and directly analyzed .
+For HLA-A2 staining , PE-conjugated antibody MA2.1 ( Caltag ) was used .
+For two-color flow cytometry , anti-CD4-FITC and anti-HLA-A2-PE antibodies were added simultaneously , incubated for 30 min on ice , washed , and then analyzed by flow cytometry .
+The data were analyzed using the CellQuest software ( Becton Dickinson ) .
+For determining the percentage of downmodulation , the mean fluorescence intensity ( MFT ) of the CD4 staining ( or HLA-A2 staining ) on untreated SupT1 cells was set as 100 % .
+The CD4 or HLA-A2 MFIs at the different conditions were compared with MFIs on untreated cells to determine the percentage of downmodulation .
+In all cases , at least 10,000 events were collected and only the expression on live-gated cells was analyzed .
+Isolation of lipid rafts .
+Nef-ER 31 cells ( 10° ) were lysed in 1 ml of a buffer containing 25 mM Tris-HCl ( pH 7.6 ) , 150 mM NaCl , 5 mM EDTA , 30 mM sodium pyrophosphate , 10 mM B-glycerophosphate , protease and phosphatase inhibitors , and either 0.05 % or 0.5 % Triton X-100 .
+Lysates were then diluted 1:1 with 80 % sucrose and transferred into a Beckman ultracentrifuge tube .
+The lysates were overlaid by 2 ml of 30 % sucrose followed by 1 ml of 5 % sucrose and then centrifuged for 16 to 20 h at 200,000 x g at 4°C .
+After centrifugation , 10 fractions of 400 pl each were removed .
+The lipid raft band visible at the interface of 30 and 5 % sucrose ( fraction 3 ) was removed and solubilized by adding 50 mM octylglucoside ( Sigma ) .
+The lysate remaining at the bottom of the tube represented the Triton-soluble fraction .
+Fractions 8 to 10 contained the majority of the proteins in nonraft fractions , and fraction 9 was used in Fig .
+3 .
+RESULTS Design of the Nef-ER construct and expression in the T-cell line SupT1 .
+The difficulty in obtaining good levels of Nef protein expression has been attributed to Nef 's effects on cellular proliferation and apoptosis ( 5 , 66 ) .
+To overcome this difficulty , we wished to design a Nef protein that would be inactive basally and whose function could be inducibly activated .
+To achieve this , we engineered a Nef-ER protein that contains full-length Nef fused at the C terminus with the murine ER hormone-binding domain ( Fig .
+1A ) .
+It has been shown previously that the binding to the ER of other cellular proteins 836 WALK ET AL .
+A EF-1 prom .
+Poly A Nef ER IRES Puro ( Hormone binding domain ) SupT1 Nef-ER Clone # gr -- Paras o qo - 240 31 62 kDa - coum commer cong | 4~ Nef-ER Total lysates Blot : anti-ER C SupT1 Parental __Line Nef-ER Clone # _31 _ 4-HT : _+ _- +05 & _ > Blot : Anti-Nef Nef-ER # 31 100 1 $ ( e 50 7 I—I fu : 0 10pM _ 100pM _ { nM 10nM _ 100nM FIG .
+1 .
+Expression of Nef-ER in SupT1 cells .
+( A ) Schematic diagram of the Nef-ER-IRES-Puro construct .
+NL43 Nef was fused at its C terminus in frame to the hormone-binding region of murine ER .
+This Nef-ER was expressed under the elongation EF-l « promoter ( EF-1 prom . )
+as a bicistronic message with an IRES separating the puromycin resistance gene .
+( B ) Expression of Nef-ER in stably transfected SupT1 clones and the parental SupT1 line was analyzed by anti-ER immunoblotting of total cellular lysates .
+( C ) To determine the expression of Nef-ER protein before and after 4-HT treatment ( 1 M for 24 h ) , total lysates from two SupT1 clones were immunoblotted with anti-Nef antibody .
+There was an increase in Nef-ER protein seen after 4-HT treatment .
+No band corresponding to Nef alone was seen in untreated or treated SupT1 clones .
+( D ) To further characterize the increase in Nef-ER levels , SupT1 cells ( clone 31 ) were treated with different concentrations of 4-HT for 16 h. The lysates were immunoblotted with anti-ER , and the blots were developed by using ' `` I-labeled protein A .
+The radioactive counts in the different lanes were determined in a phosphorimager .
+After subtraction of background radioactive counts ( from another part of the same gel ) , the value for the lane without 4-HT treatment was set at 100 % , and the rest of the data were plotted accordingly .
+% of No Treatment Control ( such as hsp90 ) sterically hinders the function of proteins fused to the ER ( 31 , 50 ) .
+Binding of the membrane-permeable estrogen analogue 4-HT to the ER opens up the protein and relieves this inhibition ( 30 , 31 , 50 ) .
+Although ER fusions have not been tested for viral or toxic proteins such as Nef , given that specific regions within Nef have been linked to specific Nef-mediated effects , we predicted that Nef fused to the ER may also be kept inactive and could be inducibly activated .
+The design of the Nef-ER construct and its transfection into the SupT1 cells were performed as detailed in Materials and Methods .
+Stable puromycin-resistant clones were selected and J. Virou .
+screened for expression of the Nef-ER fusion protein ( ~60 kDa ) by anti-ER immunoblotting of total cellular lysates .
+Several clones expressing different levels of Nef-ER were identified ( Fig .
+1B ) .
+Anti-ER immunoprecipitation followed by anti-Nef immunoblotting confirmed the identity of the ~60-kDa band seen in Fig .
+1B as Nef-ER ( data not shown ) .
+As expected , parental SupT1 cells did not express the Nef-ER protein .
+Since most of the puromycin-resistant clones expressed the Nef-ER protein , there did not appear to be a selection against basal Nef-ER expression .
+These data suggested that Nef-ER could be readily expressed in SupT1 cells .
+It is noteworthy that anti-Nef immunoblotting of the total cell lysates revealed no unique band corresponding to Nef alone before or after 4-HT addition in Nef-ER-expressing cells compared to the parental SupT1 cells ( Fig .
+1C ) .
+For the assays discussed in the rest of this report , multiple Nef-ER expressing clones were routinely analyzed and representative data are presented .
+For initial characterization of Nef-ER expression in stable cell lines , we examined Nef-ER protein levels before and after addition of 4-HT in a time course .
+While Nef-ER expression was readily detected before 4-HT addition , surprisingly , the Nef-ER level increased somewhat over time ( Fig .
+1C and data not shown ) .
+We also used different concentrations of 4-HT for 16 h and monitored the Nef-ER protein levels .
+In this exper-iment , to obtain more accurate protein quantitation , we used `` I-labeled protein A as a secondary detection reagent in the Western blot ( instead of enhanced chemiluminescence ) .
+Counting of the radioactivity in the bands showed an increase in Nef-ER protein level with increasing concentrations of 4-HT that peaked at 10 nM 4-HT ( Fig .
+1D ) .
+Our working hypothesis is that the Nef-ER may be less stable or degraded more rapidly prior to 4-HT binding to the ER domain .
+Such a fortuitous modulation of the Nef-ER protein level may provide another level of regulation of this construct .
+Inducible association of Nef-ER with NAK .
+Previous reports have indicated that Nef associates with a 62-kDa serine/threonine kinase ( referred to as NAK [ Nef-associated kinase ] ) and that NAK may facilitate HIV pathogenesis ( 57 , 58 ) .
+Although the precise identity of NAK is unclear , three groups have identified it to be a member of the PAK family ( 16 , 44 , 52 ) .
+To determine whether Nef-ER is functional , we tested its ability to coprecipitate the 62-kDa phosphoprotein .
+We examined this by precipitating Nef-ER before and after 4-HT addition followed by an in vitro autophosphorylation kinase assay .
+As shown in Fig .
+2A , no labeled band was coprecipitated from parental cells or Nef-ER cells prior to addition of 4-HT .
+However , as little as 15 min after 4-HT addition , we could detect an inducible association of Nef-ER with a 62-kDa phosphopro-tein , and this association was enhanced 2 and 4 h after 4-HT treatment .
+Immunoblotting of total cell lysates with anti-PAK and anti-ER revealed that the band corresponding to PAK migrates slower than Nef-ER .
+This suggested that the 62-kDa phosphorylated band is most likely NAK that became auto-phosphorylated and not the Nef-ER itself ( data not shown ) .
+We then determined if the NAK binding occurs with the existing Nef-ER proteins that are inducibly activated or with newly synthesized Nef-ER molecules .
+We treated cells first with the protein synthesis inhibitor emetine and then added 4-HT and assessed the Nef-ER/NAK interaction by the in vitro kinase assay .
+As shown in Fig .
+2B , even in the presence of Vor .
+75 , 2001 A Parental Line Nef-ER # 31 -- -0 4h 0 15m 2h 4h ist 62 kDa - < - PAK B Emetine : _ - - + + 4-HT : - + - + FIG .
+2 .
+4-HT-dependent coprecipitation of kinase activity with Nef-ER .
+( A ) Parental or Nef-ER 31 cells were left untreated or treated with 1 M 4-HT for 15 min , 2 h , or 4 h. The cells were lysed and immunoprecipitated with anti-ER antibody , and the coprecipitating kinase activity was determined by in vitro kinase activity as described in Materials and Methods .
+The data are representative of at least four independent experiments .
+( B ) Nef-ER 31 cells were left untreated or treated with emetine ( 100 pg/ml ! )
+for 5 min before addition of 1 wM 4-HT for 15 min .
+The ER immunoprecipitation and in vitro kinase assay were performed as for panel A. emetine , addition of 4-HT led to coprecipitation of Nef-ER with NAK , suggesting an inducible association of NAK with existing Nef-ER molecules .
+Emetine was functional under these conditions , as determined by its inhibition of [ °*°SJmethi-onine incorporation into cellular proteins ( data not shown ) .
+Our attempts to blot for PAK ( using a pan-PAK antibody ) in the Nef-ER immunoprecipitates before and after 4-HT addition were unsuccessful , consistent with the difficulty in detecting PAK by immunoblotting reported by others ( 16 , 52 ) .
+Thus , we can not distinguish between the possibilities that Nef-ER interacts with NAK only after 4-HT binding and that NAK is already bound to the Nef-ER but is inactive until 4-HT addition .
+Nevertheless , these data indicated that Nef-ER is functional and that it can be inducibly activated in a T-cell line .
+In addition to SupT1 cells , we obtained stable clones of Jurkat T cells expressing Nef-ER .
+Again , addition of 4-HT for 15 min led to inducible coprecipitation of NAK with the Nef-ER ( data not shown ) .
+Inducible association of Nef-ER with lipid rafts .
+Cholester-ol-enriched membrane microdomains , known as lipid rafts , have been shown to be important in initiation and full activation of T cells in response to antigen ( 25 , 34 ) .
+Some of the previous studies have indicated that Nef can activate certain cellular signaling events that mimic T-cell activation ( 39 , 66 ) .
+We hypothesized that Nef may localize to such membrane microdomains if it were to initiate T-cell signaling events .
+To test this possibility , we isolated the lipid raft fraction by sucrose gradient ultracentrifugation before and after 2-h 4-HT treatment ( see Materials and Methods for details ) ( 3 ) .
+We examined the presence of Nef-ER in the raft and nonraft fractions by immunoblotting .
+We could detect an inducible localization of Nef-ER to the lipid raft fraction upon 4-HT addition ( see Fig .
+3 ) .
+Nef-ER could also be detected readily in the nonraft or Triton-soluble fraction .
+Although localization of some proteins to rafts is sensitive to detergent concentration used ( 3 ) , we could detect Nef-ER in the rafts after lysis of cells at both 0.05 and 0.5 % Triton ( data not shown ) .
+The quality of the raft preparation was confirmed by blotting for Lck , a dually acy- INDUCIBLE ACTIVATION OF HIV-1 Nef FUNCTION IN T CELLS - 837 lated T-cell kinase that has been known to localize to the rafts ( Fig .
+3 , bottom panel ) ( 24 , 64 ) .
+It is interesting that unlike Lok , which have two acylation sites in its N terminus , the primary sequence of Nef carries only a single myristoylation site .
+Since dually acylated proteins target to the rafts much more efficiently than singly acylated proteins ( 7 ) , this may be an explanation for the smaller fraction of total Nef-ER in the raft fraction .
+Nevertheless , since the protein content in rafts generally represents to 0.3 to 1 % of total proteins in the nonraft fraction , the data may suggest an enrichment of Nef-ER in the rafts .
+The movement of proteins to the lipid rafts has been correlated with their specific function in lymphocytes ( 25 , 34 ) , and the localization of Nef-ER may be important for Nef function .
+Recently , another group has also shown that a fraction of Nef localizes to rafts ( 65 ) .
+Inducible Nef-ER mediates downmodulation of CD4 .
+We monitored Nef-mediated downmodulation of cell surface CD4 by flow cytometry with and without 4-HT ( 1 M for 24 h ) .
+Addition of 4-HT alone did not affect CD4 surface expression , as there was no downmodulation on parental SupT1 cells ( Fig .
+4A ) .
+In contrast , in Nef-ER-expressing clones , surface level of CD4 was dramatically downmodulated after 4-HT addition compared to no treatment ( Fig .
+4A ) .
+In a time course , the downmodulation of CD4 could be detected as early as 2 h after 4-HT addition and was nearly maximal in 4 h ( Fig .
+4B ) .
+4-HT dose-dependent downmodulation of CD4 by Nef-ER .
+We then determined the kinetics of CD4 downmodulation by Nef-ER in response to increasing concentrations of 4-HT for various periods of time .
+Initially , we tested if different concentrations of 4-HT would cause various degrees of CD4 downmodulation in a fixed time of 24 h. Data from two different Nef-ER clones are shown in Fig .
+5A .
+In Nef-ER 2 , 1 wM and 100 nM 4-HT caused maximal CD4 downmodulation , while 10 nM caused a partial downmodulation .
+In comparison , Nef-ER 31 had maximal downmodulation at all concentrations tested ( possibly due to higher Nef-ER protein expression [ see Fig .
+1B ] ) .
+Another clone , Nef-ER 10 , was similar to clone 2 in CD4 downmodulation in this experiment ( data not shown ) .
+To de- Fraction : - Rafts - | Non-Rafts anm : + |- | + [ -_ 67 kDa « - Nef-ER Blot : anti-Nef < - Lok 56kDa— ‘ .
+Blot : anti-Lck FIG .
+3 .
+Nef-ER localizes to lipid rafts upon activation .
+Nef-ER 31 was left untreated or treated with 0.5 wM 4-HT for 2 h. The cells were lysed in 0.5 % Triton X-100 , and the raft and nonraft fractions were separated by sucrose gradient ultracentrifugation .
+The fractions corresponding to rafts and nonrafts ( 3 and 9 , respectively ) were subjected to SDS-PAGE and immunoblotted with the anti-Nef antibody .
+The same blot was stripped and reprobed with anti-Lck ( bottom panel ) .
+Experiments performed after 4 or 24 h of 4-HT treatment gave similar results ( data not shown ) .
+838 WALK ET AL .
+A 5 Parental e Nef-ER # 2 o Nef-ER # 31 8 & 8 No tt Nott ) Nott ] | 4 , j _ 4-HT 2 4-HT J a 4-HT a v/ o `` £ g Aa .
+5 Go 2 % .
+ih oas as ad an 10 % ao ) aot aot aot 10 % ao ) aot ad ant < -- - _ Anti-CD4 Fluorescence Intensity _ -- -- -- - » B Nef-ER # 31 & S g 3 14 , 24 , 48 hrs .
+4 hrs .
+din Counts 120 80 40 0 102 10° Anti-CD4 Fluorescence Intensity FIG .
+4 .
+4-HT causes Nef-ER-dependent downmodulation of CD4 .
+( A ) Parental SupT1 cells or two Nef-ER-expressing clones were either left untreated ( No trt . )
+or treated with 1 M 4-HT for 24 h. The surface expression of CD4 was monitored by flow cytometry using unlabeled anti-CD4 antibody followed by PE-labeled anti-mouse immunoglobulin .
+Data collected from 10,000 cells , gated on the live cells , are presented as a histogram .
+The anti-mouse secondary antibody alone served as the control ( solid histogram ) .
+The data are representative of at least three independent experiments .
+Note that the fluorescence intensity on the x axis is shown in log scale .
+( B ) Nef-ER 31 was treated with 1 M 4-HT for the indicated times , and the surface expression of CD4 was analyzed using flow cytometry as described for panel A .
+After staggering the addition of 4-HT , CD4 staining and flow cytometry for the different samples were performed together .
+The data are representative of at least three independent experiments .
+termine conditions that induce 50 % CD4 downmodulation , we monitored CD4 expression after addition of different concentrations of 4-HT and at two different time points after 4-HT addition ( Fig .
+5B ) .
+For estimating the percent downmodulation , the MFI of CD4 in untreated cells was set at 100 % and the MFI of CD4 at the different 4-HT treatment points was used to estimate the extent of downmodulation .
+Several points can be noted from data presented in Fig .
+5B .
+First , CD4 downmodulation could be achieved with as little as 100 pM 4-HT and reached a maximum at about 100 nM .
+The 50 % downmodulation was achieved at 1 to 2 nM 4-HT in 16 h. In similar experiments performed with Nef-ER 2 and 10 , we obtained 50 % downmodulation between 2 and 5 nM 4-HT in both cases in 16 h ( data not shown ) .
+As seen earlier ( Fig .
+4B ) , at 1 pM 4-HT the CD4 downmodulation could be detected in as little as 2 h. Second , the Nef-ER-mediated downmodulation appears to reach an equilibrium that is dependent on 4-HT concentration and is not further increased by longer incubation with 4-HT .
+For example , 100 pM causes about 35 % downmodulation of CD4 in 16 h and remains the same at 48 h. This suggests that there is a direct correlation between the amount of active Nef-ER molecules within cells ( due to 4-HT addition ) and the extent of CD4 downmodulation .
+It is possible that the number of Nef molecules expressed during a viral infection at J. Virou .
+a given time could affect the extent of CD4 downmodulation and , in turn , have consequences for the infection .
+Nef-ER-mediated downmodulation of HLA-A2 .
+Nef is also known to downmodulate the class I major histocompatibility antigen HLA-AZ from HIV-1-infected cells ( 12 , 13 ) .
+It has been suggested that such downmodulation is a mechanism that allows infected cells to evade the immune system , since cells expressing Nef have been shown to resist HLA-restricted cytotoxic T-lymphocyte lysis ( 12 to 14 ) .
+It has been shown that HLA and CD4 downmodulation require different Nef domains and utilize different mechanisms ( 18 , 19 , 46 , 47 , 49 , 54 ) .
+We wanted to use the Nef-ER system to carefully compare the kinetics of downmodulation of the two molecules .
+Addition of 4-HT alone had no effect on HLA-A2 expression in parental cells ( Fig .
+6A ) .
+Surprisingly , Nef-ER # 2 , despite its ability to downmodulate CD4 , failed to downmodulate HLA-A2 to a significant extent .
+However , 4-HT addition to Nef-ER # 31 clone did lead to partial downmodulation of HLA-A2 in 24 h , which was increased after 48 h. Comparison of HLA-A2 downmodulation at different 4-HT concentrations and two different time points showed that 50 % downmodulation of HLA-A2 required 1 pM 4-HT for greater than 16 h or 100 nM 4-HT for 48 h ( Fig .
+6B ) .
+The earliest time point where we had seen downmodulation of class I MHC was at 16 h , and in most experiments we did not detect a significant downmodulation until 24 h. This indicated that the Nef-ER-mediated downmodulation of HLA-A2 occurs more slowly , requiring at least 16 h ( compared to 2 to 4 h for CD4 ) , and that greater amounts of active Nef-ER molecules are needed ( based on the 50- to 100-fold-higher concentrations of 4-HT needed to achieve 50 % HLA-AZ downmodulation ) .
+Moreover , even at the higher concentrations of the drug , the HLA-A2 downmodulation never reached the maximum downmodulation seen with CD4 .
+We consistently observed HLA-A2 downmodulation only in Nef-ER # 31 , which expresses more of the Nef-ER protein compared to clone Nef-ER # 2 or # 10 ; this further suggested that a threshold level of active Nef may be required to achieve downmodulation of HLA-A2 .
+The CD4 downmodulation could be achieved in as little as 2 h when there is little increase , if any , in Nef-ER protein levels , while HLA-A2 downmodulation occurs after 16 h and at greater than 10 nM 4-HT , when peak Nef-ER protein levels are detected ( Fig .
+1D ) .
+These data again support the notion that a higher level of active Nef is needed to achieve downmodulation of HLA-A2 .
+To ensure that the differential downmodulation of CD4 and HLA-A2 was not due to subpopulations within the SupT1 cells being analyzed , we compared the expression of the CD4 and HLA-A2 on the same SupT1 cells by two-color flow cytometry .
+As shown in Fig .
+7A , under conditions where CD4 downmodulation could be readily detected , HLA-A2 downmodulation was not detectable on these cells .
+This was confirmed by gating on the CD4 downmodulated population of SupT1 cells and comparing their levels of HLA-AZ surface expression ( Fig .
+7B ) .
+When we gated on the population of cells based on their MHC class I expression after 100 nM 4-HT treatment for 16 h , we could detect CD4 downmodulation on all the cells that have downmodulated class I MHC , as well as on part of cells that have not yet downmodulated MHC ( Fig .
+7C ) .
+Vor .
+75 , 2001 INDUCIBLE ACTIVATION OF HIV-1 Nef FUNCTION IN T CELLS 839 A Parental line Nef-ER # 2 Nef-ER # 31 8 , B § d a o 4 3 g 1 £ € .01 uM 4-HT € 28 01 , 1 , 1 uM 4-HT| ,8 A , 1 uM 4-HT/No in | 283 OLQ ’ WM 4-HT 3 & 3 3 38 ﬁ ‘ i , No trt .
+| 38 \ j 38 $ `` D 5 a g £ % § ¥ l : % , f o w `` l o 10° 10 ) 10° 10° 104 _ s `` 10 ) 10° 10° s < Anti-CD4 Fluorescence Intensity > B Nef-ER # 31 120 _ 1004 k § 2 E€ \ s0 { 3 8 5 9 @ - 16 hrs of 4-HT g 601 ® $ ~- 48 hrs of 4-HT $ 5 LL { =s 40 es 20 7 0 T 10 pM _ 100 pM __ 1 nM __ 10 nM _ 100 nM _ 1 uM 4-HT Concentration FIG .
+5 .
+4-HT dose-dependent CD4 downmodulation by Nef-ER .
+( A ) Parental SupT1 or Nef-ER 2 and 31 were either left untreated or treated with 10 nM , 100 nM , or 1 wM 4-HT for 24 h , and the surface level of CD4 was analyzed .
+Data from 10,000 events assessed by flow cytometry are shown as histogram along with the background staining with the secondary antibody alone ( solid histogram ) .
+( B ) To determine the conditions that lead to 50 % downmodulation of cell surface CD4 , Nef-ER 31 was treated with different concentrations of 4-HT for 16 , 48 , or 62 h , and the surface expression of CD4 was analyzed by flow cytometry .
+The CD4 MFI ( determined using the CellQuest software ) without 4-HT treatment was set as 100 % , and MFIs at the different conditions were plotted .
+The data from the 62-h points were essentially identical to the data at the 48-h points ( data not shown ) ; 50 % downmodulation occurred at 2 nM 4-HT .
+Similar experiments performed with clones 2 and 10 showed very similar results except that the 50 % downmodulation occurred at ~5 nM 4-HT ( data not shown ) .
+The data are representative of at least three independent experiments .
+DISCUSSION We report here the design and use of a regulatable Nef-ER fusion protein that is inducibly activated by addition of the drug 4-HT .
+Stable transfectants expressing high levels of the Nef-ER protein were obtained in a T-cell line commonly used in HIV-1 studies .
+In the absence of drug addition , Nef-ER protein is made , but it appears to be completely inactive for several of the known functions of Nef .
+The inducible activation of Nef-ER provides a unique means to address the requirements for CD4 and HLA-A2 downmodulation and for Nef activation of T-cell signaling pathways .
+We show that greater protein concentrations of Nef-ER are needed for HLA-A2 downmodulation compared to CD4 downmodulation and that HLA-A2 downmodulation occurs with much slower kinetics .
+The system also has allowed us to show that Nef-ER associates with p62 NAK and that a fraction of Nef-ER localizes to specific lipid raft membrane microdomains .
+Thus , the inducibly activated Nef-ER provides a novel and readily amenable means for expression of Nef in T cells .
+Its further use should help provide a better molecular understanding of Nef function during HIV-1 infection .
+Several previous studies have attempted expression of Nef in T-cell lines and have reported difficulties in expressing good levels of Nef ( 4 , 5 ) .
+In contrast , we observe that the stable expression of Nef-ER can be readily obtained in T-cell lines and resultant clones maintain Nef-ER expression for at least a number of months .
+This is most likely due to the inactive state of Nef-ER until 4-HT is added , apparently with no negative selection pressure in cells propagated in the absence of drug .
+During the preparation of this work , Trono and colleagues reported stable expression of Nef in Jurkat T cells through the use of a tetracycline-inducible system ( 65 ) .
+Although there was some basal expression , this provides another approach for inducible expression of Nef .
+However , the necessity to generate and screen a number of clones for tight tetracycline-inducible expression would appear to make the inducible Nef-ER an easier approach .
+Moreover , the Nef-ER construct can readily also be used in transient systems , with Nef function being induced when desired .
+Although good levels of Nef-ER was expressed in most of our clones in the absence of 4-HT , we observed that Nef-ER protein levels increase for several hours after 4-HT addition .
+While we have not studied the mechanism underlying this increase in detail , the use of protein synthesis inhibitors suggests that 4-HT inducibly activates the existing protein .
+It 840 WALK ET AL .
+A Parental line Nef-ER # 2 J. Virou .
+Nef-ER # 31 160 200 120 160 200 Counts 80 Counts 80 - 120 40 40 0 Anti-HLA-A2 Fluorescence Intensity 160 200 2 , 3 days / 1 day 120 K1 , 2 , 3 days Counts 80 k No trt .
+40 B Nef-ER # 31 120 € 100 £ ~ 8 o €€€ 807 o 0 2° -- 16 hrs 4-HT © 8 60 { 9 -=- 48 hrs 4-HT ® o 0 as 4 c 6 & 0 0° 25 20 0 l T Illlllll T IIIIIIII T Illlln ] P 10 pM _ 100 pM 1 nM 10 nM _ 100 nM _ 1 uM 4-HT Concentration FIG .
+6 .
+Kinetics of HLA-A2 downmodulation by Nef-ER differs from results for CD4 .
+( A ) Parental SupT1 cells or the Nef-ER-expressing clones were not treated ( no trt . )
+or treated with 1 M 4-HT , and the surface expression of HLA-A2 was determined by flow cytometry .
+Note that Nef-ER 2 did not show significant downmodulation of HLA-A2 even at 3 days in this experiment .
+( B ) The conditions that lead to 50 % HLA-A2 downmodulation were assessed in Nef-ER 31 after treatment with different concentrations of 4-HT for 16 or 48 h. The 50 % downmodulation occurred at ~90 nM 4-HT after 48 h and was assessed as described for CD4 in the legend to Fig .
+5B .
+seems likely that this activation also stabilizes the protein .
+Thus , protein stabilization may provide a fortuitous second level of control in the regulation of Nef-ER function in T cells .
+We have also observed a similar increase in Nef-ER protein levels in stably transfected Jurkat cells after 4-HT treatment ( data not shown ) .
+The ability to activate Nef-ER when desired allowed us to follow the time course of downmodulation of CD4 and HLA-AZ .
+Under conditions when Nef-ER has downmodulated a significant fraction of the cell surface CD4 , no detectable HLA-A2 downmodulation was observed .
+While we could detect CD4 downmodulation in as little as 2 h , the earliest time point where we had seen downmodulation of class I MHC was at 16 h , and in most experiments we did not detect a significant downmodulation until 24 h. Interestingly , HLA-A2 downmodulation in these experiments required 20- to 100-fold more 4-HT and severalfold-higher Nef-ER protein levels compared to comparable CD4 downmodulation .
+While it is formally possible that Nef-ER may be activated differentially in an artificial way that efficiently mediates CD4 downmodulation but inefficiently mediates HLA-A2 downmodulation , we think this is very unlikely .
+The regions of Nef required for CD4 downmodulation include the myristoylation at amino acid 2 , as well as WL residues around position 58 and the two leucines at amino acids 165 and 166 in the C terminus ( 47 ) .
+In contrast , HLA-A2 downmodulation requires the my ristoylation sequence , the alpha-helical structure in the N terminus , the acidic region around amino acid 65 , and the proline-rich motifs between amino acids 69 and 81 ( 47 ) .
+Thus , while the CD4 downmodulation requires amino acids throughout the protein , and is readily attained by Nef-ER activation , HLA-A2 downmodulation requires amino acids at the N-terminus as well as in the central region of the protein .
+Thus , a simple defect that selectively unmasks only portions of the molecule and leads to less efficient HLA-A2 downmodulation seems unlikely .
+Nef may cause CD4 downmodulation relatively early during an infection , since CD4 downmodulation appears to require a very small amount of active Nef-ER and occurs very rapidly ( detectable in less than 2 h ) .
+Interestingly , the extent of Nef-ER-dependent CD4 downmodulation reaches a stable equilibrium with a given concentration of 4-HT , and this did not increase over time ( i.e .
+, no cumulative increase in active Nef-ER molecules and additional downmodulation ) .
+Based on the Nef-ER protein levels at different 4-HT concentrations , it is clear that CD4 downmodulation appears to require minimal amounts of active Nef , while a certain threshold level of Nef must be reached before detectable HLA-A2 downmodulation occurs .
+Precisely what role this differential timing of CD4 and HLA-A2 downmodulation plays in the viral life cycle and in HIV-mediated immune modulation remains to be determined .
+The differential kinetics and amounts of Nef-ER required for CD4 downmodulation versus HLA-A2 downmodulation Vor .
+75 , 2001 INDUCIBLE ACTIVATION OF HIV-1 Nef FUNCTION IN T CELLS | 841 > -*- A2 Dose-response ~- CD4 Dose-response & _ Nef-ER # 31 c o 120 QE ‘ IOO © .
+a 8 $ § `` `` $ 53 601 § 5 40-LL + 26 201 © o > ® 10 pM 100 pM 1nM 10 nM 100 nM 1 uM 4-HT Concentration rad M1 M2 S L_ a ] 4 10 nM 4-HT , No trt .
+» - 3 16 hrs .
+\ a `` C ie 3 3 ( e ] p O _ A 10° 10 !
+- 10 10 % 10 % Anti-CD4 Fluorescence 200 Counts IIIIIIIIII'IIIIIIIIIIlIIl © < D 0 10° 10 102 108 - 10+ Anti-HLA-A2 Fluorescence M1 M2 A 9.3 g- C N__L - 100 nM 4-HT , No trt .
+2 - 3 16 hrs .
+3 3 O 4 O - 7 0 3 102 108 Anti-HLA-A2 Fluorescence 200 1 Counts ( M2 3 } a `` o W vond 10° 10 !
+10 10 % 10 % Anti-CD4 Fluorescence FIG .
+7 .
+Analysis of CD4 and HLA-A2 downmodulation in the same cells by two-color flow cytometry .
+( A ) Nef-ER 31 was left untreated or treated with different concentrations of 4-HT for 16 h. The cells were double stained with FITC-conjugated anti-CD4 and PE-conjugated anti-HLA-AZ antibody and then analyzed by two-color flow cytometry .
+The MFI of control untreated cells was set at 100 % , and MFIs for the other experimental conditions were plotted .
+( B ) CD4 expression after 10 nM 4-HT treatment is shown as a histogram comparing it with CD4 expression on untreated ( no trt . )
+cells .
+The populations of cells with normal CD4 ( M2 ) or downmodulated CD4 ( M1 ) expression were gated , and their HLA-A2 expression was plotted .
+Cells that have downmodulated CD4 do not show downmodulation of HLA-A2 at 10 nM 4-HT .
+( C ) Left , MHC class I expression after 100 nM treatment ( solid histogram ) compared to that for untreated cells ; right , CD4 expression on 4-HT-treated cells that were gated based on class I MHC downmodulation ( M1 versus M2 ) .
+Downmodulated CD4 is detected in a majority of both the M1 and M2 populations but is seen more readily in the M1 fraction .
+are likely reflective of the different mechanisms through which downmodulation occurs for each molecule .
+CD4 downmodulation clearly involves Nef-mediated removal directly from the cell surface by endocytosis through linking to cellular adapter protein complexes such as AP-1 , AP-2 , and/or AP-3 ( 18 , 46-48 ) .
+However , multiple mechanisms of HLA-A2 downmodulation have been implicated .
+The original report by Schwartz et al .
+suggested an increased rate of endocytosis of class I MHC 842 WALK ET AL .
+mediated by Nef ( 61 ) .
+Greenberg et al .
+showed that Nef causes accumulation of endocytosed MHC class I molecules along with AP-2 in the trans-Golgi network in fibroblasts ( 19 ) .
+A recent report has suggested that Nef acts as a connector between the cytoplasmic tail of surface HLA molecules and the PACS-1-dependent protein sorting pathway , to target HLA molecules to the trans-Golgi network ( 49 ) .
+Other studies suggest that the downmodulation by Nef involves a block in transport of newly synthesized HLA molecules to the cell surface , causing them to accumulate in the Golgi apparatus ( K. L. Collins , personal communication ) .
+Moreover , the kinetics of basal MHC class I recycling from the cell surface appears to be cell type dependent and may also affect the Nef-mediated downmodulation ( 19 ) .
+However , a recent report suggests that Nef affects endocytosis by a mechanism that is distinct or at least additive to the prototypic endocytosis mechanisms ( 35 ) .
+Clearly , downmodulation of class I MHC by any of these mechanisms could require different amounts of Nef compared to the CD4 endocytosis and provide a possible explanation for our results .
+Recently , specific membrane microdomains known as lipid rafts have been shown to play a key role in signaling in T cells and many other cell types ( 7 , 25 , 34 ) .
+The localization of a portion of Nef to lipid rafts provides the intriguing possibility that this may be an important aspect for mediating Nef 's ef-fects .
+We observe that Nef-ER localization to the lipid rafts occurs only after 4-HT addition and that it temporally correlates with the ability of Nef-ER to modulate CD4 downmodulation and p62 NAK binding .
+The ER fusion is at the C terminus of Nef while the myristoylation required for Nef raft localization is at the very N terminus of Nef , which suggests a significant steric hindrance of the entire Nef region in the Nef-ER fusion protein .
+During the preparation of this report , Trono and colleagues have also reported the localization of Nef to the lipid rafts ( 65 ) .
+Although only a small fraction of Nef was seen in the raft fraction compared to the nonraft fraction by us and by Wang et al .
+( 65 ) , it could represent the functional pool of Nef in the cells .
+It has been seen with other signaling proteins , such as Shc , that the 3 to 5 % of total cellular She protein that is localized to the membrane represents the functional pool ( 51 ) .
+Since a major fraction of dually acylated proteins , such as the Sre family kinase Lck , are found in the rafts ( 7 , 10 ) , it would be interesting to determine whether Nef localization to the rafts is necessary to target the CD4-Lck complex for downmodulation .
+It is also intriguing that linker for activation of T cells ( LAT ) ( which is also dually acylated and is constitutively found in the rafts ) ( 37 , 68 ) has been found to be hyperphosphorylated in thymocytes of mice expressing Nef as a transgene ( 21 ) .
+While these data provide an intriguing correlation , experiments that directly target Nef to these lipid rafts or specifically disrupt Nef from these rafts are needed to determine the precise role of this localization .
+The precise interaction between Nef and the PAK family kinase has been difficult to address due to expression problems with Nef in T cells .
+Although NAK has been identified as PAK1 or PAK2 by two different groups ( 16 , 52 ) , the precise PAK family member that binds to Nef in T cells has not been determined .
+Moreover , some experiments have indicated that another protein that binds to PXXP motifs in Nef may facilitate PAK-Nef binding ( 40 ) .
+The inducible association of Nef-ER with the PAK family kinase in a homogeneous popu- J. Virou .
+lation of T cells may help in delineating the Nef-PAK binding and subsequent regulation .
+Myriad interaction partners and putative roles for Nef have been proposed based on studies with Nef ( 42 ) , often performed in non-T-cell lines , due to ease of Nef expression in these cells and the difficulties of expression in T-cell lines .
+Which of these interactions are relevant in the natural cell types that HIV infects remains to be determined .
+Furthermore , the difficulties in Nef expression in T-cell lines may have prevented the identification of Nef-interacting partners and Nef function that may be unique to T cells .
+The Nef-ER described here may prove useful in addressing at least some of these unanswered questions .
+ACKNOWLEDGMENTS This work was supported by NIH grant R21-AI44349 and by the Charles H. Ross Jr. and Myles H. Thaler endowments at the University of Virginia .
+We thank the Beirne Carter Foundation for continued support .
+We thank Javad Aman for help with the raft experiments and other members of the Ravichandran laboratory for helpful suggestions .
+REFERENCES 1 .
+Aiken , C. , J. Konner , N. R. Landau , M. E. Lenburg , and D. Trono .
+1994 .
+Nef induces CD4 endocytosis : requirement for a critical dileucine motif in the membrane-proximal CD4 cytoplasmic domain .
+Cell 76:853-864 .
+2 .
+Aiken , C. , and D. Tromo .
+1995 .
+Nef stimulates human immunodeficiency virus type 1 proviral DNA synthesis .
+J. Virol .
+69:5048-5056 .
+3 .
+Aman , M. J. , and K. S. Ravichandran , 2000 .
+A requirement for lipid rafts in B cell receptor induced Ca** flux .
+Curr .
+Biol .
+10:393-396 .
+4 .
+Baur , A. S. , G. Sass , B. Laffert , D. Willbold , C. Cheng-Mayer , and B. M. Peterlin .
+1997 .
+The N-terminus of Nef from HIV-1/SIV associates with a protein complex containing Leck and a serine kinase .
+Immunity 6:283-291 .
+5 .
+Baur , A. S. , E. T. Sawai , P. Dazin , W. J. Fantl , C. Cheng-Mayer , and B. M. Peterlin .
+1994 .
+HIV-1 Nef leads to inhibition or activation of T cells depending on its intracellular localization .
+Immunity 1:373-384 .
+6 .
+Brown , A. , X. Wang , E. Sawai , and C. Cheng-Mayer .
+1999 .
+Activation of the PAK-related kinase by human immunodeficiency virus type 1 Nef in primary human peripheral blood lymphocytes and macrophages leads to phosphor-ylation of a PIX-p95 complex .
+J. Virol .
+73:9899-9907 .
+7 .
+Brown , D. A. , and E. London .
+1998 .
+Functions of lipid rafts in biological membranes .
+Annu .
+Rev .
+Cell Dev .
+Biol .
+14:111-136 .
+8 .
+Carl , S. , A. J. Iafrate , S. M. Lang , N. Stolte , C. Stahl-Hennig , K. Matz-Rensing , D. Fuchs , J. Skowronski , and F. Kirchhoff .
+2000 .
+Simian immunodeficiency virus containing mutations in N-terminal tyrosine residues and in the PxxP motif in Nef replicates efficiently in rhesus macaques .
+J. Virol .
+74 : 4155-4164 .
+9 .
+Carver , D. , M. Aman , and K. Ravichandran , .
+2000 .
+SHIP inhibits Akt activation in B cells through regulation of Akt membrane localization .
+Blood 96 : 1449-1456 .
+10 .
+Cary , L A. , and J .
+A. Cooper , 2000 .
+Molecular switches in lipid rafts .
+Nature 404:945 , 947 .
+11 .
+Chowers , M. Y. , C. A. Spina , T. J. Kwoh , N. J. Fitch , D. D. Richman , and J. C. Guatelli .
+1994 .
+Optimal infectivity in vitro of human immunodeficiency virus type 1 requires an intact nef gene .
+J. Virol .
+68:2906-2914 .
+12 .
+Cohen , G. B. , R. T. Gandhi , D. M. Davis , O. Mandelboim , B. K. Chen , J. L. Strominger , and D. Baltimore .
+1999 .
+The selective downregulation of class I major histocompatibility complex proteins by HIV-1 protects HIV-infected cells from NK cells .
+Immunity 10:661-671 .
+13 .
+Collins , K. L. , and D. Baltimore .
+1999 .
+HIV 's evasion of the cellular immune response .
+Immunol .
+Rev .
+168:65-74 .
+14 .
+Collins , K. L. , B. K. Chen , S. A. Kalams , B. D. Walker , and D. Baltimore .
+1998 .
+HIV-1 Nef protein protects infected primary cells against killing by cytotoxic T lymphocytes .
+Nature 391:397-401 .
+15 .
+Deacon , N. J. , A. Tsykin , A. Solomon , K. Smith , M. Ludford-Menting , D. J. Hooker , D. A. McPhee , A. L. Greenway , A. Ellett , C. Chatfield , et al .
+1995 .
+Genomic structure of an attenuated quasi species of HIV-1 from a blood transfusion donor and recipients .
+Science 270:988-991 .
+16 .
+Fackler , O. T. , X. Lu , J .
+A .
+Frost , M. Geyer , B. Jiang , W. Luo , A. Abo , A. S. Alberts , and B. M. Peterlin .
+2000. p21-activated kinase 1 plays a critical role in cellular activation by Nef .
+Mol .
+Cell .
+Biol .
+20:2619-2627 .
+17 .
+Garcia , J. V. , and A. D. Miller .
+1991 .
+Serine phosphorylation-independent downregulation of cell-surface CD4 by nef .
+Nature 350:508-511 .
+18 .
+Greenberg , M. , L. DeTulleo , I. Rapoport , J. Skowronski , and T. Kirch-hausen .
+1998 .
+A dileucine motif in HIV-1 Nef is essential for sorting into Vor .
+75 , 2001 19 .
+20 .
+21 .
+22 .
+23 .
+24 .
+25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42. clathrin-coated pits and for downregulation of CD4 .
+Curr .
+Biol .
+8:1239-1242 .
+Greenberg , M. E. , A. J. Iafrate , and J. Skowronski .
+1998 .
+The SH3 domain-binding surface and an acidic motif in HIV-1 Nef regulate trafficking of class I MHC complexes .
+EMBO J .
+17:2777-2789 .
+Guy , B. , M. P. Kieny , Y. Riviere , C. Le Peuch , K. Dott , M. Girard , L. Montagnier , and J. P. Lecocq .
+1987 .
+HIV F/3 ' orf encodes a phosphorylated GTP-binding protein resembling an oncogene product .
+Nature 330:266-269 .
+Hanna , Z. , D. G. Kay , N. Rebai , A. Guimond , S. Jothy , and P. Jolicoeur .
+1998 .
+Nef harbors a major determinant of pathogenicity for an AIDS-like disease induced by HIV-1 in transgenic mice .
+Cell 95:163-175 .
+Harris , M. 1995 .
+The role of myristoylation in the interactions between human immunodeficiency virus type I Nef and cellular proteins .
+Biochem .
+Soc .
+Trans .
+23:557-561 .
+Iafrate , A. J. , S. Bronson , and J. Skowronski .
+1997 .
+Separable functions of Nef disrupt two aspects of T cell receptor machinery : CD4 expression and CD3 signaling .
+EMBO J .
+16:673-684 .
+Janes , P. W. , S. C. Ley , and A. I. Magee .
+1999 .
+Aggregation of lipid rafts accompanies signaling via the T cell antigen receptor .
+J .
+Cell Biol .
+147:447-461 .
+Janes , P. W. , S. C. Ley , A. I. Magee , and P. S. Kabouridis .
+2000 .
+The role of lipid rafts in T cell antigen receptor ( TCR ) signalling .
+Semin .
+Immunol .
+1223-34 .
+Kaminchik , J. , N. Bashan , A. Itach , N. Sarver , M. Gorecki , and A. Panet .
+1991 .
+Genetic characterization of human immunodeficiency virus type 1 nef gene products translated in vitro and expressed in mammalian cells .
+J. Virol .
+65:583-588 .
+Kestler , H. W. D. , D. J. Ringler , K. Mori , D. L. Panicali , P. K. Sehgal , M. D. Daniel , and R. C. Desrosiers .
+1991 .
+Importance of the nef gene for maintenance of high virus loads and for development of AIDS .
+Cell 65:651-662 .
+Kirchhoff , F. , P. J. Easterbrook , N. Douglas , M. Troop , T. C. Greenough , J. Weber , S. Carl , J. L. Sullivan , and R. S. Daniels .
+1999 .
+Sequence variations in human immunodeficiency virus type 1 Nef are associated with different stages of disease .
+J. Virol .
+73:5497-5508 .
+Kirchhoff , F. , T. C. Greenough , D. B. Brettler , J. L. Sullivan , and R. C. Desrosiers .
+1995 .
+Brief report : absence of intact nef sequences in a long-term survivor with nonprogressive HIV-1 infection .
+N. Engl .
+J. Med .
+332:228-232 .
+Klippel , A. , M. A. Escobedo , M. S. Wachowicz , G. Apell , T. W. Brown , M. A. Giedlin , W. M. Kavanaugh , and L. T. Williams .
+1998 .
+Activation of phos-phatidylinositol 3-kinase is sufficient for cell cycle entry and promotes cellular changes characteristic of oncogenic transformation .
+Mol .
+Cell .
+Biol .
+18 : 5699-5711 .
+Kohn , A. D. , A. Barthel , K. S. Kovacina , A. Boge , B. Wallach , S. A. Summers , M. J. Birnbaum , P. H. Scott , J. C. Lawrence , Jr. , and R. A. Roth .
+1998 .
+Construction and characterization of a conditionally active version of the serine/threonine kinase Akt .
+J. Biol .
+Chem .
+273:11937-11943 .
+Lamkin , T. D. , S. F. Walk , L. Liu , J. E. Damen , G. Krystal , and K. S. Ravichandran , .
+1997 .
+Shc interaction with Src homology 2 domain containing inositol phosphatase ( SHIP ) in vivo requires the Shc-phosphotyrosine binding domain and two specific phosphotyrosines on SHIP .
+J. Biol .
+Chem .
+272 ; 10396-10401 .
+Lang , S. M. , A. J. Iafrate , C. Stahl-Hennig , E. M. Kubn , T. Nisslein , F. J. Kaup , M. Haupt , G. Hunsmann , J. Skowronski , and F. Kirchhoff .
+1997 .
+Association of simian immunodeficiency virus Nef with cellular serine/threonine kinases is dispensable for the development of AIDS in rhesus macaques .
+Nat .
+Med .
+3:860-865 .
+Langlet , C. , A. M. Bernard , P. Drevot , and H. T. He .
+2000 .
+Membrane rafts and signaling by the multichain immune recognition receptors .
+Curr .
+Opin .
+Immunol .
+12:250-255 .
+Le Gall , S. , F. Buseyne , A. Trocha , B. D. Walker , J. M. Heard , and O. Schwartz .
+2000 .
+Distinct trafficking pathways mediate Nef-induced and clath-rin-dependent major histocompatibility complex class I down-regulation .
+J. Virol .
+74:9256-9266 .
+Le Gall , S. , M. C. Prevost , J. M. Heard , and O. Schwartz .
+1997 .
+Human immunodeficiency virus type I Nef independently affects virion incorporation of major histocompatibility complex class I molecules and virus infectivity .
+Virology 229:295-301 .
+Lin , J. , A. Weiss , and T. S. Finco .
+1999 .
+Localization of LAT in glycolipid-enriched microdomains is required for T cell activation .
+J. Biol .
+Chem .
+274 : 28861-28864 .
+Lucchiari , M. , G. Niedermann , C. Leipner , A. Meyerhans , K. Eichmann , and B. Maier .
+1994 .
+Human immune response to HIV-1-Nef .
+I. CD45RO- T lymphocytes of non-infected donors contain cytotoxic T lymphocyte precursors at high frequency .
+Int .
+Immunol .
+61739-1749 .
+Manninen , A. , G. Herma Renkema , and K. Saksela .
+2000 .
+Synergistic activation of NFAT by HIV-1 nef and the Ras/MAPK pathway .
+J. Biol .
+Chem .
+275:16513-16517 .
+Manninen , A. , M. Hiipakka , M. Vihinen , W. Lu , B. J. Mayer , and K. Saksela .
+1998 .
+SH3-domain binding function of HIV-1 Nef is required for association with a PAK-related kinase .
+Virology 250:273-282 .
+Mariani , R. , and J. Skowronski .
+1993 .
+CD4 down-regulation by nef alleles isolated from human immunodeficiency virus type 1-infected individuals .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90:5549-5553 .
+Marsh , J. W. 1999 .
+The numerous effector functions of Nef .
+Arch .
+Biochem .
+Biophys .
+365:192-198 .
+INDUCIBLE ACTIVATION OF HIV-1 Nef FUNCTION IN T CELLS 43 .
+44 .
+45 .
+46 .
+47 .
+48 .
+49 .
+51 .
+52 .
+53 .
+54 .
+55 .
+56 .
+57 .
+58 .
+59 .
+60 .
+61 .
+62 .
+63 .
+64 .
+65 .
+66 .
+67 .
+68 .
+843 Miller , M. D. , M. T. Warmerdam , I Gaston , W. C. Greene , and M. B. Feinberg .
+1994 .
+The human immunodeficiency virus-1 nef gene product : a positive factor for viral infection and replication in primary lymphocytes and macrophages .
+J. Exp .
+Med .
+179:101-113 .
+Nunn , M. F. , and J. W. Marsh .
+1996 .
+Human immunodeficiency virus type 1 Nef associates with a member of the p21 -activated kinase family .
+J. Virol .
+70 : 6157-6161 .
+Peter , F. 1998 .
+HIV nef : the mother of all evil ?
+Immunity 9:433-437 .
+Piguet , V. , F. Gu , M. Foti , N. Demaurex , J. Gruenberg , J. L. Carpentier , and D. Trono .
+1999 .
+Nef-induced CD4 degradation : a diacidic-based motif in Nef functions as a lysosomal targeting signal through the binding of beta-COP in endosomes .
+Cell 97:63-73 .
+Piguet , V. , O. Schwartz , S. Le Gall , and D. Trono .
+1999 .
+The downregulation of CD4 and MHC-I by primate lentiviruses : a paradigm for the modulation of cell surface receptors .
+Immunol .
+Rev .
+168:51-63 .
+Piguet , V. , and D. Trono .
+1999 .
+The Nef protein of primate lentiviruses .
+Rev .
+Med .
+Virol .
+9:111-120 .
+Piguet , V. , L. Wan , C. Borel , A. Mang ian , N. D ex , G. Th and D. Trono .
+2000 .
+HIV-1 Nef protein binds to the cellular protein PACS-1 to downregulate class I major histocompatibility complexes .
+Nat .
+Cell Biol .
+2 : 163-167. .
+Pritchard , C. A. , M. L. Samuels , E. Bosch , and M. McMahon .
+1995 .
+Con ditionally oncogenic forms of the A-Raf and B-Raf protein kinases display different biological and biochemical properties in NIH 3T3 cells .
+Mol .
+Cell .
+Biol .
+15:6430-6442 .
+Ravichandran , K. S. , M. M. Zhou , J. C. Pratt , J. E. Harlan , S. F. Walk , S. W. Fesik , and S. J. Burakoff .
+1997 .
+Evidence for a requirement for both phos-pholipid and phosphotyrosine binding via the Shc phosphotyrosine-binding domain in vivo .
+Mol .
+Cell .
+Biol .
+17:5540-5549 .
+Renkema , G. H. , A. Manninen , D. A. Mann , M. Harris , and K. Saksela .
+1999 .
+Identification of the Nef-associated kinase as p21-activated kinase 2 .
+Curr .
+Biol .
+9:1407-1410 .
+Renkema , H. G. , and K. Saksela .
+2000 .
+Interactions of HIV-1 NEF with cellular signal transducing proteins .
+Front .
+Biosci .
+5 : D268-D283 .
+Riggs , N. L. , H. M. Craig , M. W. Pandori , and J. C. Guatelli .
+1999 .
+The dileucine-based sorting motif in HIV-1 Nef is not required for down-regulation of class I MHC .
+Virology 258:203-207 .
+Saksela , K. 1997 .
+HIV-1 Nef and host cell protein kinases .
+Front .
+Biosci .
+2 : D606-D618 .
+Samuel , K. P. , D. R. Hodge , Y. M. Chen , and T. S. Papas .
+1991 .
+Nef proteins of the human immunodeficiency viruses ( HIV-1 and HIV-2 ) and simian immunodeficiency virus ( SIV ) are structurally similar to leucine zipper tran-scriptional activation factors .
+AIDS Res .
+Hum .
+Retroviruses 7:697-706 .
+Sawai , E. T. , A. Baur , H. Struble , B. M. Peterlin , J .
+A .
+Levy , and C. Cheng-Mayer .
+1994 .
+Human immunodeficiency virus type 1 Nef associates with a cellular serine kinase in T lymphocytes .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 91:1539-1543 .
+Sawai , E. T. , I. H. Khan , P. M. Montbriand , B. M. Peterlin , C. Cheng-Mayer , and P. A. Luciw .
+1996 .
+Activation of PAK by HIV and SIV Nef : importance for AIDS in rhesus macaques .
+Curr .
+Biol .
+61519-1527 .
+Schrager , J .
+A. , and J. W. Marsh .
+1999 .
+HIV-1 Nef increases T cell activation in a stimulus-dependent manner .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 96:8167-8172 .
+Schwartz , O. , V. Marechal , O. Danos , and J. M. Heard .
+1995 .
+Human immunodeficiency virus type 1 Nef increases the efficiency of reverse transcription in the infected cell .
+J. Virol .
+69:4053-4059 .
+Schwartz , O. , V. Marechal , S. Le Gall , F. Lemonnier , and J. M. Heard .
+1996 .
+Endocytosis of major histocompatibility complex class I molecules is induced by the HIV-1 Nef protein .
+Nat .
+Med .
+2:338-342 .
+Shugars , D. C. , M. S. Smith , D. H. Glueck , P. V. Nantermet , F. Seillier-Moiseiwitsch , and R. Swanstrom .
+1993 .
+Analysis of human immunodeficiency virus type 1 nef gene sequences present in vivo .
+J. Virol .
+67:4639-4650 .
+( Erratum , 68:5335 , 1994 . )
+Spina , C. A. , T. J. Kwoh , M. Y. Chowers , J. C. Guatelli , and D. D. Richman .
+1994 .
+The importance of nef in the induction of human immunodeficiency virus type 1 replication from primary quiescent CD4 lymphocytes .
+J. Exp .
+Med .
+179:115-123 .
+Stulnig , T. M. , M. Berger , T. Sigmund , D. Raederstorff , H. Stockinger , and W. Waldhausl .
+1998 .
+Polyunsaturated fatty acids inhibit T cell signal trans-duction by modification of detergent-insoluble membrane domains .
+J .
+Cell Biol .
+143:637-644 .
+Wang , J. K. , E. Kiyokawa , E. Verdin , and D. Trono .
+2000 .
+The Nef protein of HIV-1 associates with rafts and primes T cells for activation .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 97:394-399 .
+Xu , X. N. , B. Laffert , G. R. Screaton , M. Kraft , D. Wolf , W. Kolanus , J. Mongkolsapay , A. J. McMichael , and A. S. Baur .
+1999 .
+Induction of Fas ligand expression by HIV involves the interaction of Nef with the T cell receptor zeta chain .
+J. Exp .
+Med .
+189:1489-1496 .
+Yu , G. , and R. L. Felsted .
+1992 .
+Effect of myristoylation on p27 nef subcellular distribution and suppression of HIV-LTR transcription .
+Virology 187:46-55 .
+Zhang , W. , R. P. Trible , and L. E. Samelson .
+1998 .
+LAT palmitoylation : its essential role in membrane microdomain targeting and tyrosine phosphory-lation during T cell activation .
+Immunity 9:239-246 .

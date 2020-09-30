@@ -1,0 +1,703 @@
+Vol .
+4 , 329-339 , April 1993 Cell Growth & Differentiation 329 Activation of Primary Human T-Lymphocytes through CD2 Plus CD28 Adhesion Molecules Induces Long-Term Nuclear Expression of NF- « B ' Régis Costello , Carol Lipcey , Michele Algarté , Chantal Cerdan , Patrick A. Baeuerle , Daniel Olive , and Jean Imbert Unité 119 , Institut National de la Santé et de la Recherche Médicale , 27 , Boulevard Lei Roure , 13009 Marseille , France [ R. C. , C. L. , M. A. , C. C. , D. O. , J .
+I .
+] , and Laboratorium fir Molekulare Biologie , Ludwig-Maximilians-Universitat , Genzentrum , D-8033 Martinsried , Germany [ P. A .
+B . ]
+Abstract Stimulation of highly purified human T-cells via CD2 and CD28 adhesion molecules induces and maintains proliferation for more than 3 weeks .
+This potent interleukin 2 ( IL-2 ) -dependent activation does not require monocytes or accessory cells .
+Long-lasting IL-2 receptivity is associated with high-level expression of the inducible IL-2 receptor a chain ( /L-2Ra ) gene that is regulated at both transcriptional and posttranscriptional levels .
+Increase of IL-2Ra gene transcription involves the enhanced binding of the transcription factor NF- « B to its consensus sequence in the 5'-regulatory region of the IL-2Ra gene .
+To dissect the molecular basis for the unusually persistent transcription of the IL-2Ra gene , we analyzed nuclear NF- « B binding to a radiolabeled IL-2Ra « B-specific oligonucleotide probe during the time course of CD24+CD28 activation .
+Resting T-cell nuclear extracts contained KBF1/p50 homodimer .
+After stimulation , two new « B-specific complexes were identified as NF- « B p50-p65 heterodimer and putative c-Rel homodimer or c-Rel-p65 heterodimer .
+Both inducible complexes persisted for at least 3 weeks .
+Their relative levels were very similar for the duration of proliferation .
+In parallel , CD2+CD28 activation triggered a significant intracellular thiol decrease , suggesting that oxygen radicals are involved in the signaling pathway of adhesion molecules .
+Finally , micromolar amounts of pyrrolidine dithiocarbamate , an oxygen radical scavenger that efficiently blocked the nuclear appearance of NF- « B in T-lymphocytes , also inhibited IL-2 secretion , IL-2Ra cell surface expression , and T-cell proliferation .
+Together , these results suggest that NF- « B plays an important role in long-term activation of human primary T-lymphocytes via CD2+CD28 .
+Received 11/25/92 ; revised 1/12/93 ; accepted 1/22/93 . '
+This work was supported by the Institut National de la Santé et de la Recherche Médicale and by grants from the Association pour la Recherche sur le Cancer , awarded to J. Imbert and D. Olive , and partially fulfills the requirements for the doctoral thesis of R. Costello and M. Algarté .
+* To whom requests for reprints should be addressed .
+Introduction In vitro , T-lymphocyte activation requires combined action of two signals provided by different combinations of lectins , phorbol esters , cytokines , or mAbs . ''
+Two main activation pathways have been described : the antigen-dependent pathway , involving the CD3/TcR complex , and the adhesion molecule pathway , engaging CD2 and CD28 surface molecules .
+CD2 , first described as the sheep erythrocyte receptor , is present on nearly all T-lymphocytes .
+Its major natural ligand , the lymphocyte function associated 3 surface molecule , is of wide cellular and tissular distribution ( 1 ) .
+CD28 molecule is present on only half of the CD8-positive resting T-cells but on almost all of the CD4-positive cells ( 2 ) .
+CD28 shares with CTLA-4 its ligand B7/BB1 .
+B7/BB1 has a more restricted distri-bution , since it is expressed only on activated T-lymphocytes , y-interferon-treated monocytes , and mouse den-dritic thymic cells ( 3-5 ) .
+Both pathways can be mimicked by in vitro use of mAbs directed against these molecules ( 6-10 ) .
+Simultaneous activation of CD2 and CD28 leads to a long-lasting proliferation ( > 3 weeks versus 10 days for the CD3/TcR pathway ) of highly purified human T-lymphocytes ( 11 ) .
+CD2+CD28-triggered proliferation does not require the presence of monocytes or accessory cells but depends strongly on IL-2 secretion by the T-cells ( 9 , 10 ) .
+This long-lasting , IL-2-dependent autocrine or paracrine proliferation is apparently sustained by a persistent high-level expression of its high-affinity receptor .
+Following CD2+CD28 costimulation , and /L-2Ra genes are differentially regulated at both the transcriptional and posttranscriptional levels ( 11-14 ) .
+Several constitutive and inducible cis-acting regulatory sequences and trans-acting factors involved in their regulation have now been identified ( for a review , see Ref .
+15 ) .
+Among the inducible factors , recent attention has focused on the role of NF- « B in the induction of genes involved in T-cell growth ( for a review , see Ref .
+16 ) .
+T-cells stimulated by various stimuli activate the NF- « B transcription factor and related proteins involved in the transcriptional regulation of the IL-2 and /L-2Ra genes .
+The NF- « B transcription factor , identified originally as an immunoglobulin x light chain enhancer-binding complex ( 17 ) , is associated with the inducible expression of a large number of genes ( for a review , see Ref .
+18 ) .
+NF- « B is a member of a novel family of transcription factors including the two NF- « B * The abbreviations used are : mAb , monoclonal antibody ; iL-2 , interleukin 2 ; -R , receptor ; PMA , 46-phorbol 12-myristate 13a-acetate ; NF , nuclear factor ; EMSA , electrophoretic mobility shift assay ; PDTC , pyrrolidine dithiocarbamate ; ROI , reactive oxygen intermediates ; PHA , phytohemag-glutinin ; kDa , kilodalton ( s } ; TNF-a , tumor necrosis factor a ; TPA , 12-O-tetradecanoylphorbol-13-acetate ; GM-CSF , - granulocyte/macrophage-colony-stimulating factor ; ELISA , enzyme-linked immunosorbent assay ; MCB , monochlorobimane .
+330 - NF- « B Activation in CD2+CD28-stimulated Primary T-Cells subunits p50 and p65 , c-Rel , p49/p100 , and 1-Rel ( for reviews , see Refs .
+19 and 20 ) .
+The amino-terminal portions of these proteins also share amino acid sequence homology with the product of the morphogen dorsal gene from Drosophila melanogaster .
+The homology domain was shown to encompass dimerization , nuclear targeting , and DNA and IkB binding domains .
+With respect to the adhesion molecule pathway , a transcription study in Jurkat T-cells has demonstrated that the NF- « B binding sites of the human immunodefi-ciency virus 1 long terminal repeat are required for signaling by CD28 ( 21 ) .
+in vitro binding studies using Jurkat T-cell nuclear extracts have demonstrated that CD28-induced signal synergizes with either PMA or CD3 for the induction of nuclear factors that bind CD28RE , a « B-like motif of the IL-2 enhancer ( 13 , 14 ) .
+Finally , nuclear extracts from PMA-activated Jurkat T-cells produce two distinct complexes in EMSAs when incubated with the « B element from the /L-2Ra gene ( 22 ) .
+Following activation , nuclear appearance of these proteins is induced with distinct biphasic kinetics , suggesting that the T-lymphocyte gene activation program might involve modulation of NF- « B subunit composition .
+A recent report has shown that the nuclear expression of NF- « B is activated by binding of IL-2 to its receptor in purified primary resting human T-cells ( 23 ) .
+However , to date , no study has addressed the activation of NF- « B in human purified T-lymphocytes activated via the adhesion molecules CD2 and CD28 .
+Rapid induction of NF- « B nuclear activity is regulated at a posttranscriptional level , involving the release of an inhibitory factor , I « B , from a preformed cytoplasmic protein complex .
+in vitro , dissociation can be triggered by treatment with detergent , low pH , protein kinases , and protein phosphatases ( for a review , see Ref .
+24 ) .
+The modification releasing I « B in the intact cell is not known but is likely to involve phosphorylation events .
+Activation of NF- « B is triggered by a wide variety of mostly pathogenic agents ( for a review , see Ref .
+18 ) .
+In T-cells , in contrast to macrophages and monocytes , for instance , the NF- « B activating signals are mitogenic and encompass treatment of cells with phorbol ester , lectins , antigen , monoclonal antibodies , and infection with human T-cell leukemia virus type I .
+Various genes encoding IxB proteins have been cloned , including MAD-3 ( 25 ) , pp40 ( 26 ) , bei-3 ( 27 , 28 ) , IkBy ( 29 ) , and RF/IF-1 ( 30 ) .
+I « B-like proteins contain an ankyrin-like repeat domain also found in the carboxy-terminal part of the p105 and p100 precursors of NF- « B p50 and p49 ( for a review , see Ref .
+20 ) .
+The ankyrin repeat is apparently involved in complex formation with NF- « B complexes by contacting the rel homology domain .
+IxB-like factors display distinct affinity in vitro for NF- « B/Rel complexes ( 31 ) .
+Several recent studies indicate that distinct combinations of NF- « B subunits could determine the specificity of transcriptional activation through modulation of NF- « B binding to the various « B motifs ( 20 , 32-34 ) .
+The availability of inhibitor and activator subunits allows separation of functions in signal transduction pathways .
+This may explain the apparent paradox between NF- « B activation by many inducers , on one hand , and the specificity of regulation of gene expression , on the other .
+Parant ranmrte havo chum that arctivatinn hy by compounds such as L-cysteine , N-acetyl -- cysteine , or PDTC ( 35-38 ) .
+The chemical basis for cysteine and PDTC inhibiting effects seemed to lie in the oxygen radical-scavenging activity of sulfur-containing groups .
+This suggests that ROI are important and widely used messengers in the activation of NF- « B ( 36 ) .
+In contrast to our precise knowledge about NF- « B structure and interaction with I « kB and enhancer ele-ments , only a few studies have assessed its physiological role in primary human T-cells ( 23 , 39-41 ) .
+Here , we investigated the role of NF- « B in the adhesion molecule activation as mimicked by anti-CD2 and anti-CD28 treatment of purified human T-cells .
+The unique long-term T-cell activation induced by these mAbs ( 9 , 11 , 42 , 43 ) was further characterized in terms of proliferation , IL-2 secretion , and receptivity .
+In parallel , an EMSA was used to detect NF- « B-related complexes present in nuclear extracts prepared from CD2+CD28-activated T-cells , and the different subunits of NF- « B family members were identified by DNA-protein UV-cross-linking assays and NF- « B-specific antisera .
+We analyzed the effect of PDTC , a potent inhibitor of NF- « B activation , to evaluate the role of NF- « B complexes in CD2+CD28-triggered proliferation and cytokine synthesis .
+Thiol level variations were determined by flow cytometry to assess the involvement of ROI in the onset of CD24+CD28 T-cell activation .
+Our results show that T-cell activation by the adhesion molecule pathway leads to long-term activation of NF- « B .
+The functional significance of this event is supported by pharmacological experiments with an inhibitor of NF- « B activation .
+Finally , evidence is provided that induction of NF- « B nuclear appearance relies on a prooxidant state of peripheral T-cells .
+Results Characterization of T-Lymphocyte Activation through the CD2/CD28 Adhesion Molecule Pathway .
+Purified human T-lymphocyte activation by CD2 and CD28 mAbs was characterized in terms of proliferation , IL-2 secretion , and receptivity .
+The T-cell proliferation rate was measured by incorporation ( Fig .
+1A ) .
+Stimulation with CD28 mAb associated with CD2 mAb induced high-level proliferation compared to the CD3¢+CD28 combination .
+Both proliferations lasted for at least 3 weeks .
+In contrast , CD3¢ alone triggered stimulation for only 1 week .
+CD2 or CD28 mAb or medium alone induced no or very little ( < 1000 cpm ) proliferation .
+CD2+CD28 costimulation induced a higher level of IL-2 secretion than CD3c+CD28 , and IL-2 remained measurable at least until day 7 , compared to day 4 for CD3c+CD28 costimulation ( Fig .
+1B ) .
+Cumulative IL-2 secretion was 2 times higher with CD2+CD28 stimulus than CD3c+CD28 .
+Single stimulus CD3c , CD2 , CD28 , or medium alone did not induce detectable IL-2 secre-tion .
+- Both combined stimuli ( CD2+CD28 - or CD3c¢+CD28 ) induced high-level cell surface expression of IL-2Ra chain , reaching 80 and 83 % of positive cells , respectively , at 6 days ( Fig .
+1C ) .
+However , CD2+CD28-induced IL-2Ra expression persisted for at least 3 weeks as opposed to that of CD3c¢+CD28 , which decreased after 2 weeks .
+CD3¢ alone induced a relatively weaker ( peak , 53 % ) and shorter IL-2Ra expression ( < 10 days ) .
+Ac tho cnluhlo II R rhain can hind ta H _ ?
+thaorahw Cell Growth & Differentiation 331 PROLIFERATION 002 40 8 8 fo 12 14 1s 18 20 TIME ( days ) CD25 EXPRESSION 100 C % POSITIVE CELLS 0 2 4 6 8 10 12 14 16 18 20 TIME ( days ) IL-2 SECRETION £ 8 o € pj a € u 2 PJ a 0 0.1260.25 10 2 o 4 0 To oue rl TIME ( days ) SOLUBLE IL-2 RECEPTOR HF 0 © | © uf 2 3 G 00 r 4 8 O8 fo 12 14 16 18 20 TIME ( days ) Fig .
+1 .
+Characterization of CD2+CD28 costimulation of purified human T-lymphocytes compared to CD3¢ and CD3¢+CD28 stimulations .
+Stimulations were performed with different mAbs used at saturating concentrations : CD2 mAb 39C1.5 and 6F10.3 ; CD3¢ mAb 289 .
+Total cell numbers were counted microscopically by phase contrast , and the number of dead cells was determined by trypan blue uptake .
+A , proliferative response from day 2 to day 21 poststimulation .
+Each value corresponds to [ H ] thymidine incorporation for 18 h in 20,000 cells .
+B , ELISA assay titration of IL-2 secretion was measured as pg/ml and converted to pg/10® seeded cells .
+C , percentage of cells expressing CD25/IL-2Ra was determined on 5,000 cell samples using a FACSCAN { Becton Dickinson ) .
+D , ELISA assay titration of soluble IL-2 receptor release was measured as pg/ml and converted to pg/10® seeded cells .
+Each pane !
+shows the results of one representative experiment of two and corresponds to phenotypic analysis performed in parallel with the same batch of stimulated cells .
+0 , CD2+CD28 ; @ , CD3c+CD28 ; @ , CD3c .
+the levels of IL-2Ra chain cellular release after stimulation ( Fig .
+1D ) .
+CD2+CD28 or CD3¢+CD28 combination induced high levels of soluble IL-2 receptor , in contrast to CD3c alone .
+Both combined stimuli induced comparable total amounts of soluble IL-2 receptor , with higher levels for CD3¢+CD28 at 14 days .
+In conclusion , CD2 and CD28 costimulation induced a long-lasting proliferation of primary T-cell culture for up to 3 weeks .
+In sharp contrast , CD3¢ alone and other stimuli , such as PHA+1IL-2 or PHA+PMA , support at best 1-week-long proliferation ( 9 ) .
+Previous studies demonstrated that following activation , IL-2Ra chains released from the membrane could bind IL-2 efficiently and inhibit IL-2 cellular uptake ( 44 , 45 ) .
+We do not believe that these observations are of relevance for the IL-2-dependent CD2+CD28 stimulation ( 9 , 10 ) , since high levels of soluble IL-2R correlated positively with proliferation .
+In comparison with other stimuli that induce transient expression , we also observed that CD2+CD28 stimulation induced high-level IL-2 secretion and receptivity .
+NF- « B Activation after CD24+CD28 Costimulation .
+In regard to the putative central role of NF- « B in T-lymphocyte activation , we investigated whether CD2+CD28 costimulation efficiently induced nuclear NF- « B in primary human T-cells .
+« B-binding proteins present in nuclear extracts of T-cells treated by different stimuli were first detected by EMSA with a synthetic oligonucleotide probe containing the NF- « B binding site of the « Ig light chain enhancer ( 17 ) ( Fig .
+2 ) .
+All three stimuli strongly induced a slow-migrating complex of comparable levels ( Fig .
+2 , Lane 2 compared to Lanes 5 , 8 , and 11 ) .
+In addition , untreated and stimulated cell nuclear extracts both contained an intense , faster-migrating protein-DNA complex .
+To demonstrate the sequence specificity of these complexes , we performed competition assays in the presence of excess unlabeled wild-type or mutant « B DNA competitor oligonucleotides .
+The more intense , faster-migrating complex was not a bona fide NF- « B-specific complex , since it was almost equally competed by wild-type and mutant competitor oligonucleotides .
+In contrast , wild-type competitor completely abrogated the inducible upper complex ( Fig .
+2 , Lanes 3 , 6 , 9 , and 12 ) whereas the mutant « Ig motif was ineffective ( Fig .
+2 , Lanes 4 , 7 , 10 , and 11 ) .
+These data show that peripheral human T-cells respond to extracellular stimuli by activation of NF- « B , as previously reported for tumoral T-cell lines ( 18 ) and for primary resting human T-cells in the presence of exogenous IL-2 ( 23 ) .
+Long-Term Expression of Nuclear Induced « B1-22 , -Pro-tein Complexes in CD24CD28-stimulated T-Lymphocytes .
+The long-lasting cell surface expression of CD25/ IL-2Ra ( Fig .
+1C ) , apparently sustained by the transcriptional activation of its encoding gene ( 11 ) , prompted us to perform a kinetic study of NF- « B nuclear activation using the « B motif from the IL-2Ra promoter and nuclear extracts prepared from T-cells harvested from 3 h up to 332 NF- « B Activation in CD2+CD28-stimulated Primary T-Cells Fig .
+2 .
+Effect of TPA , CD2+ CD28 , and CD2+CD28+TPA on the nuclear activation of NF- « B in purified T-cells .
+Purified human T-lymphocytes were stimulated for 24 h in the presence of Competitor : _o _ Free probe [ > 1 2 Uz `` p g ) 7 : ~5g p $ $ CD2 + CD28 € L l s sss $ $ 0 o hes $ - « < © Cles $ 5 & « P 8 S a a - < A L ] I pH E5 ao - < D 1 2 3 4 50 6 7 8 9 Fig .
+3 .
+Demonstration that T-cell activation via CD2+CD28 induced long-lasting ( > 3 weeks ) nuclear expression of « Bi.22 , DNA-binding pro-teins .
+Highly purified human T-lymphocytes were incubated at 37°C with CD2 and CD28 mAbs ( see `` Materials and Methods '' ) .
+After increasing times of incubation , cell samples were harvested by centrifugation at 4°C , rapidly cooled in ice water , and kept frozen at -80°C until nuclear extract preparation .
+Nuclear extracts were prepared simultaneously when all cell samples were harvested .
+Equal amounts of proteins ( 1 ug/reaction ) were analyzed for « B-specific DNA binding in EMSAs using a **P-labeled DNA probe containing the wild-type binding site for NF- « 8 from the /L-2Ra gene promoter .
+The fluorogram of a native gel , representative of 4 independent experiments , is shown .
+Only the upper part of the gel containing the retarded complex is presented .
+Lane 1 , unstimulated T-lymphocytes .
+Lanes 2-9 , CD2+CD28 stimulation .
+Lane 2 , 3 h ; Lane 3 , 6 h ; Lane 4 , 24 h ; Lane 5 , 48 h ; Lane 6 , 96 h ; Lane 7 , 1 week ; Lane 8 , 2 weeks ; and Lane 9 , 3 weeks .
+Arrowheads , A , B , C , and D complexes .
+K > = < n : waa - wal _ 4G NF-kB 10 11 - a submitogenic concentration of TPA ( 107° m ) and saturating Ry amounts of CD2 and CD28 mAbs .
+Nuclear extracts were prepared | simultaneously , and equal amounts of protein were analyzed for « B-specific DNA binding in EMSAs using a `` P-labeled DNA probe ( « B. , synthetic oligonucleotide ) .
+A representative fluorogram of a native gel is shown .
+Stimulation conditions are indicated above the fluorogram .
+Reaction mixtures were incubated in the absence or presence of a 200-fold excess unlabeled DNA competitor as indicated at top of lanes .
+Open arrowhead , the unbound DNA probe ; filled arrowheads , the inducible complex ( NF- « B ) and a nonspecific complex ( ns ) .
+WT , wild-type ; M , mutant .
+12 13 3 weeks after CD2+CD28 costimulation .
+As shown in Fig .
+3 , EMSA performed with « Buse , elicited a more complex pattern of retarded bands than with the DNA probe ( Fig .
+2 ) .
+This pattern is specific to the « Bir .
+motif , as it was also observed after CD3 and TPA stimulation ( data not shown ) .
+Nuclear extracts from unstimulated cells contained two protein-DNA complexes , C and D. The intensity of band C was variable depending on the batch of T-cell preparation used ( six independent preparations ) but was always detectable in nuclear extracts from unstimulated cells .
+In contrast , two new retarded bands , designated A and B ( Fig .
+3 , Lane 1 compared to Lane 2 ) , appeared after stimulation .
+A and B complexes were present in nearly identical amounts in nuclear extracts of T-cells harvested between 3 h and 3 weeks after CD2+CD28 costimulation ( Fig .
+3 , Lanes 2-9 ) .
+In conclusion , CD2+CD28 costimulation leads to the persistent appearance of two /L-2Ra « B-binding activities in nuclei of peripheral T-cells .
+Characterization of « Bu. » r.-Protein Complexes .
+We performed competition experiments with a set of specific and nonspecific unlabeled oligonucleotides to determine the DNA binding specificity of the complexes binding to the « Bir .
+probe .
+As shown in Fig .
+4A , Lanes 4-6 , a 200-fold excess of unlabeled oligonucleotides corresponding to « kB sites of IL-2Ra , IL-2 , or IL-6 almost completely abrogated the three upper bands A , B , and C. In contrast , SP1 or mutant « lg oligonucleotides had little effect on these bands ( Fig .
+4A , Lanes 2 and 3 ) .
+The faster-migrating intense D complex was apparently nonspecific .
+To characterize the three « Bi sr. , -specific complexes , we included five different NF- « B antisera in binding reaction mixtures ( Fig .
+4B ) .
+Rabbit antisera to portions of Cell Growth & Differentiation v ¢ A aA A A OCO U > 1 2 3 4 5 6 1 2 3 4 recombinant p50 , p65 , and c-Rel were used ( 30 ) .
+As reported by Kieran et al .
+( 46 ) , anti-p50 no .
+2 recognizes both KBF1/p50 homodimer and NF- « B p50-p65 complexes , whereas anti-p50 no .
+3 recognizes only KBF1/ p50 homodimer .
+In addition , complexes were tested for inhibition by the recombinant I « B protein MAD-3 , * which inhibits DNA binding of both NF- « B and c-Rel ( 25 ) .
+As expected from competition experiments , the nonspecific band D was unaffected by the different antisera or recombinant MAD-3 in binding reaction mixtures ( Fig .
+4B , Lanes 2-8 ) .
+Constitutively expressed band C disappeared in the presence of serum anti-p50 and antisera no .
+2 and no .
+3 ( Fig .
+4B , Lanes 2 , 6 , and 7 ) .
+Anti-p65 , anti-c-Rel , and recombinant MAD-3 had no effect ( Fig .
+4B , Lanes 3 , 4 , and 8 ) .
+Thus , we identified band C as the * U , Zabel , T. Hankel , M. Dos Santos Silva , and P. A. Baeuerle .
+Nuclear uptake control of NF- « B by MAD-3 , and I « B protein present in the nucleus .
+EMBO J. , 12 ; 201-211 , 1993. a < A 1 __ ‘ < B < C u “ 40 6 8 A _ B kd amu » 4 124 # 4 - 94 Fig .
+4 .
+Characterization and identification of kBu.ze , motif-binding proteins induced by CD2+CD28 .
+A , « 8 specificity of the DNA-protein - complexes .
+Nuclear extract ( 1 ag ) from purified human T-lymphocytes stimulated for 24 h with CD2 and CD28 mAbs was incubated with `` P-labeled oligonucleotide probe in the presence of a set of « B-specific and nonspecific DNA competitors { ( 200-fold excess ; see `` Materials and Meth-ods '' ) as indicated at top of lanes ( Lanes 2-6 ) .
+The resultant DNA-protein complexes were - resolved on 5 % nondenaturing polyacrylamide gels .
+8 , identification of NF- « B-like complexes .
+Nuclear extracts were prepared as above and incubated with `` P-labeled « B , probe in the presence of specific NF- « B antisera and recombinant MAD-3/l « B as indicated at top of lanes using conditions previously described by Kieran et al .
+( 46 ) and Tewari et al .
+( 30 ) .
+Open circles , two DNA-binding activities contributed by rabbit antisera ; filled arrowheads , the three « B-specific complexes ( A , B , and C , respec-tively ) ; open arrowhead , nonspecific complex D. C , UV-cross-linking of pro-teins .
+EMSA was carried out with a 5-bromo-2'-deoxyuridine 5'-triphosphate-substituted « Bi.sr .
+probe and nuclear extracts ( 4 ug ) from CD2+CD28-stimulated T-cells .
+The wet gels were irradiated for 30 min at 312 nm and autoradiographed , and gel slabs corresponding to the two main inducible bands ( A and B ) were migrated on denaturing polyacrylamide gel .
+Numbers at right , molecular weight determined by comparison to molecular weight markers ( filled arrowheads , main polypeptide _ adducts ) .
+- Stars , other minor bands .
+KBF1/p50 homodimer ( 46 ) .
+Complex B formation was inhibited with anti-p65 and no .
+2 antisera ( Fig .
+4B , Lanes 3 and 6 ) as well as in the presence of recombinant MAD-3 ( Fig .
+4B , Lane 8 ) .
+In parallel , anti-p50 , anti-c-Rel , and no .
+3 antisera had no effect ( Fig .
+4B , Lanes 2 , 4 , and 7 ) .
+We concluded that band B corresponded to NF- « B p50-p65 heterodimers .
+The nature of band A was more puz-zling .
+None of the five antisera significantly affected the formation of this inducible « Buse .
+complex ( Fig .
+4B , Lanes 2-4 , 6 , and 7 ) .
+However , incubation with recombinant MAD-3 completely inhibited band A ( Fig .
+4B , Lane 8 ) , indicating that the inducible complex A contained at least one NF- « B/c-Rel-like subunit able to interact with MAD-3 .
+The absence of reactivity with anti-p65 or anti-c-Rel does not necessarily exclude the presence of p65 or c-Rel subunits in complex A , since epitopes could be masked upon dimer formation or upon binding to DNA .
+UV-cross-linking experiments were performed to further characterize the inducible bands A and B ( Fig .
+4C ) .
+Complex A revealed only one polypeptide at 94 kDa , a 333 334 - NF- « B Activation in CO2+CD28-stimulated Primary T-Cells size relatively close to 85 kDa , the reported size of c-Rel protein adduct ( 47 ) ( Fig .
+4C , Lane 1 ) .
+Alternatively , complex A could correspond to R « B , a 107 kDa product encoded by a gene recently cloned ( 48 ) .
+R « B was originally characterized as a « Biu.r , DNA-binding complex present in PMA-induced Jurkat T-cell nuclear extracts .
+However , this protein is related to the regulatory protein MyoD but not to the NF- « B gene family , since it lacks the Rel homology domain .
+Despite the lack of effect of antisera , we tentatively identified complex A as a c-Rel-like protein homodimer or a c-Rel-p65 complex in accordance with recombinant MAD-3 inhibition .
+As expected from antisera characterization , band B elicited a pattern of radiolabeled proteins very similar to the composition of the late-phase NF- « B complex present in PMA-induced Jurkat T-cell nuclear extracts ( 22 ) .
+As reported by Molitor et al .
+( 22 ) , the major 57 kDa polypeptide most probably corresponds to NF- « B p50 , and the 124 kDa adduct to NF- « B p50 and p65 subunits both cross-linked to the same probe .
+Finally , in accordance with the apparent constant pattern of NF- « B complexes revealed by EMSA ( Fig .
+2 ) , similar results were obtained when experiments were performed using nuclear extracts prepared at 3 h , 24 h , and 3 weeks after CD2+CD28 costimulation ( data not shown ) .
+CD24+CD28 Activation of T-Cells Depleted Intracellular Thiols .
+On the basis of u-cysteine and N-acetyl-L-cysteine effects , intracellular thiol levels appear to play a key role in NF- « B activation in Jurkat T-cells stimulated by PMA and TNF-a ( 35 , 38 ) .
+To evaluate thiol involvement in T-cell activation by CD24+CD28 , we measured by flow cytometry the levels of glutathione , the major intracellular ROI scavenger ( 38 , 49 , 50 ) .
+We used an assay based on monochlorobimane , a membrane-per-meant nonfluorescent substrate that becomes fluorescent after reaction with a sulfhydryl group ( 38 ) .
+Within cells , it is almost exclusively coupled to glutathione by glutathione-S-transferase ( 49 ) .
+In accordance with a role of oxidative stress in transduction of CD2+CD28-triggered signals , we observed a rapid decrease in total thiol content following T-cell activation ( Fig .
+5 ) .
+A comparative flow cytometry distribution of control unstimulated cells ( a , mean fluorescence 98 ) and CD2+CD28-triggered cells 15 min after stimulation ( b , mean fluorescence 75 ) is shown in Fig .
+5A .
+This representative experiment , of four experiments performed , demonstrated a significant decrease ( 23.5 % ) of relative thiol levels .
+Flow cytometry distribution evidenced a heterogeneity in the populational thiol content of stimulated cells , in contrast to resting lymphocytes .
+Heterogeneity of thiol levels could be interpreted as the consequence of differential CD2 and CD28 T-cell surface expression .
+Although CD2 is expressed in nearly all cells , only 50 % of CD8+ T-lymphocytes express CD28 ( 2 ) .
+During the early phase of CD2+CD28 stimulation , half of the CD8+ cells ( ap-proximately 20 % of the whole population ) are not directly triggered , and therefore , their intracellular thiol level remains at the basal level until a second signal is provided ( such as IL-2 secretion by CD4+ cells ) .
+in an attempt to correlate thiol level variation and long-term activation , we performed a kinetic study of intracellular thiol levels during T-lymphocyte activation ( Fig .
+5B ) .
+Stimulation of T-cells via CD2+CD28 resulted in an immediate decrease in intracellular thiol levels , with a maximum decrease { 36 % ) at 30 min .
+The stimulated cells 55 a r b Lo - 33 © A 5 3 - 22 $ 0 1 0 A. o so - 100 150 200 - 250 FLUORESCENCE INTENSITY B ( 1 110 - I T 100 - J/O\ ( T ) < I 4 e a ' ® 90 - J 3 | * 3 T & 80 - / 3 ( [ 0-0 o 70 - o—O/ of / so - J. J so - - 10 o 1 2 3 4 5 6 7 8 20 30 40 Fig .
+5 .
+Thiol and glutathione level during CD2+CD28 T-cell activation .
+Cells were stained with MCB as described in `` Materials and Methods . ''
+A , the comparative flow cytometry distribution of purified T-cells either unstimulated ( a , gray area ) or 15 min after CD2+CD28 stimulation ( b , white area ) .
+Note the lack of heterogeneity in populational thiol content for unstimulated cells ( a ) in contrast to stimulated cells ( b ) .
+This is a representative experiment of 4 performed .
+B , the time course of internal thiol concentration after CD2+CD28 stimulation .
+Relative thiol levels were determined from the scaled mean of MCB fluorescence .
+The internal thiol level without stimulation is given as 100 % .
+Thiol levels in unstimulated cells cultured for the same length of time did not rise or fall , indicating that the variations observed were due to CD2+CD28 stimulation .
+Approximately 10° cells/well ( 1 ml total volume ) were incubated in 24-well plates ( Costar , Falcon } for 15 min to 36 h at 37°C .
+Each point is the average of 4 independent measurements .
+Bars , SD .
+To emphasize the early phase after stimulation , a break was introduced in horizontal scale between 8 and 12 h. Cell Growth & Differentiation 335 CD2 + CD28 [ I Bs P 3 3 2 § < & $ & & a ks E CS 6 o o 3 5 oa § 5 & & & §s Q 40 2 @ o # ( NF - kB 1 2 3 4 5 6 7 Fig .
+6 .
+Effects of thiol compounds on the activation of NF- « B via CD2+CD28 T-cell stimulation .
+Purified T-cells were stimulated with CD2 and CD28 mAbs for 24 h , in the absence ( Lanes 1-3 ) and presence ( Lanes 4-7 ) of the indicated compounds .
+Nuclear extracts were prepared and analyzed for xB-specific DNA binding in EMSA using a « ig motif .
+As indicated at top of the lanes , the effects of PDTC on nuclear CD2+CD28-induced NF- « B were tested at concentrations between 1 am and 0.01 um .
+Pyrrolidine , a cyclic molecule structurally related to PDTC but lacking a dithiocarboxy group , was used as a negative control at 1 mm .
+Wild-type ( WT ) « B , , , oligonucleotide was used as a « B-specific DNA competitor ( see `` Materials and Methods '' ) .
+Arrowhead , the NF- « B-specific complex ; stars , 2 nonspecific complexes .
+progressively regained their normal intracellular thiol levels only after 20 h. Thus , CD2 and CD28 costimulation induces rapid production of reactive oxidants which deplete thiol levels transiently , in positive correlation with the NF- « B nuclear appearance .
+PDTC Inhibits the Nuclear Activation of NF- « B by CD24+CD28 .
+Previous results have shown that activation of NF- « B in intact cells can be blocked by radical-scavenging compounds ( 36 , 37 , 51 ) .
+Among several dithio-carbamate derivatives tested , PDTC , as a potent NF- « B inhibitor , was best suited for tumor cell culture experiments ( 37 ) .
+Consequently , we analyzed the in vivo effects of PDTC on purified T-lymphocytes .
+Phenotypic and biochemical analyses were performed in parallel using the same cell cultures in the presence of increasing amounts of PDTC .
+Gel retardation analyses confirmed that PDTC efficiently inhibited the CD2+CD28-induced NF- « B activation in purified T-lymphocytes ( Fig .
+6 ) .
+The NF- « B detected by the « B. , , probe were fully inhibited in the presence of 1 um PDTC ( Fig .
+6 , Lane 4 compared to Lanes 5 and 6 ) .
+In sharp contrast , 1 mm pyrrolidine , the end product of PDTC oxidation but lacking a dithiocarboxy group , had no detectable effect ( Fig .
+6 , Lane 7 ) .
+Comparable results were obtained with the « Bu > r .
+motif , as inducible complexes A and B were inhibited but not constitutive complex C and nonspecific complex D ( data not shown ) .
+The Radical Scavenger PDTC Inhibits T-Cell Proliferation , Cytokine Synthesis , and Receptivity Induced via CD24+CD28 Stimulation .
+In order to evaluate the involve T-LYMPHOCYTE PROLIFERATION IL-2 SECRETION PYRRO A PYBRO Ll MEDIUM PDTC 0,01 PDTC 0.01 0.1 0 .
+1 10 Chi pq'1OE ( 6 ) seeded .
+cells CD25 EXPRESSION am-csF secretion D C evaro uou .
+| ; °o PDTC 0.01 - | |0| % POSITIVE CELLS PYaRO MEDIUM PDTC 0.01 6. pq/106 ( 6 ) seeded .
+cells Fig .
+7 .
+- Effects of thiol compounds on CD2+CD28-induced T-cell proliferation , cytokine synthesis , and receptivity .
+Purified T-lymphocytes were stimulated via CD2+CD28 in the presence or absence of PDTC ( ex-pressed in um ) used at different concentrations between 10 um and 0.01 um as indicated at bottom of bars .
+Thiol compounds and specific mAbs were added simultaneously in cell culture .
+As controls , CD2+CD28-stimulated T-cell cultures without any thiol compound or with pyrrolidine ( pyrro ; used at a 1 mm concentration ) were performed .
+Cell viability was controlled microscopically by trypan blue exclusion and in no case was less than 90 % .
+Thiol compound effects on T-lymphocyte proliferation ( A ) were measured at 24 h by [ °H ] thymidine incorporation .
+After the third day ( data not shown } , proliferation was restored to the same level as controls , showing the absence of significant toxicity and demonstrating the reversibility of PDTC effects on T-cell proliferation .
+The effects of PDTC on IL-2 ( 8 ) and GM-CSF ( D ) secretion were measured at peak secretion ( 24 h and 96 h , respectively ) with an ELISA assay .
+Thiol compounds did not interfere with the titration method ( data not shown } .
+CD25/IL-2Ra cell surface expression in the presence of PDTC was determined at 36 h by flow cytometry ( C ) .
+PDTC did not interfere with flow cytometry analysis ( data not shown ) .
+ment of NF- « B in T-cell activation , we measured the proliferation rate , cytokine synthesis , and IL-2 receptivity in the same cell cultures used for EMSA analysis ( see Fig .
+7 ) .
+T-cell proliferation was evaluated by [ ' H Ithymidine incorporation 24 h after stimulation via CD2+CD28 in the presence of the drug ( Fig .
+7A ) .
+PDTC at concentrations between 10 and 1 um completely abrogated T-cell proliferation but had no effect on thymidine incorporation below 0.1 um PDTC , as compared to no addition or 1 mm pyrrolidine .
+Cell viability remained better than 90 % ( data not shown ) , a result demonstrating that PDTC was nontoxic for purified T-lymphocytes under our experimental conditions .
+Furthermore , the effect of PDTC was reversible , as [ H ] thymidine incorporation in PDTC-treated cells was restored to control levels after 48 h ( data not shown ) .
+In contrast , IL-2 secretion was less sensitive to PDTC concentrations ranging from 0.1 to 1 um ( Fig .
+7B ) .
+However , secretion was completely abrogated at 10 um .
+Similarly , IL-2 receptivity , estimated by CD25/IL-2Ra cell surface expression ( Fig .
+7C ) , was abolished only when the PDTC concentration reached 10 um .
+GM-CSF , another T-cell-secreted cytokine not directly involved in CD2+CD28 T-cell activation , but whose promoter contains a functional « B motif ( 18 ) , showed a sensitivity to PDTC comparable to that of IL-2 secretion ( Fig .
+7D ) .
+These results show that primary T-cells can be kept alive without withdrawal of the drug for at least 4 days at PDTC concentrations that are optimal for inhibition of NF- « B and cytokine secretion and receptivity .
+Further 336 - NF- « B Activation in CD2+CD28-stimulated Primary T-Cells more , they confirm the positive correlation between NF- « B - activation - and CD2+CD28-induced - T-cell proliferation .
+Discussion The large majority of studies on the role of NF- « B in T-cell activation were performed with tumor cell lines which exhibit biological characteristics that are not manifested by primary T-lymphocytes ( for a review , see Ref .
+16 ) .
+For instance , only one recent report has emphasized these differences with respect to the function of NF- « B ( 40 ) .
+To further investigate the role of NF- « B in normal human T-cells , we analyzed the nuclear appearance of NF- « B in highly purified T-cells activated by monoclonal antibodies directed against CD2 and CD28 adhesion molecules .
+The data presented here support the hypothesis that NF- « B plays an important role in activation and long-term maintenance of proliferation of human primary T-lymphocytes stimulated via CD2 and CD28 .
+How Is the Long-Term Activation of NF- « B Achieved ?
+In contrast to the results described for the Jurkat T-cell line treated by PMA , we have observed , using EMSA with a « Bu. » r , probe : ( a ) constitutive expression of a homodi-meric complex of the NF- « B p50 subunit , ( b ) the appearance of two new NF- « B complexes 3 h after stimulation , and ( c ) a long-lasting maintenance ( 3 weeks ) of their relative levels .
+In parallel , we observed a rapid and transient ( < 20 h ) decrease in thiol level after CD2+CD28 stimulation .
+Finally , we demonstrated that nontoxic amounts of PDTC fully abrogated the activation of NF- « B and inhibited proliferation of CD2+CD28-stimulated purified T-cells .
+The variation of thiol level and the effects of PDTC evidenced a role for oxidoreduction mechanisms in T-cell activation through the adhesion molecules .
+However , as could be predicted in view of the inhibiting effects of prolonged thiol depletion in human purified T-cells ( 52 ) , cellular regulation mechanisms quickly restored the basal level after the thiol decrease induced by CD2 and CD28 costimulation .
+This suggests that intracellular oxidant stress is one of the first phenomena in T-cell activation , but a fine balance of oxidoreduction status is required , since prolonged oxidative stress is deleteri-ous .
+We propose that the initial induction of NF- « B via CD2+CD28 relies , at least in part , on a prooxidant state of peripheral T-cells .
+A functional study is under way to assess in more detail the role of thiol level depletion during T-cell stimulation in correlation with NF- « B activation .
+In the human promyelocytic cell line HL60 stimulated by TNF-a or PMA , maintenance of NF- « B activity was reported to depend on de novo protein synthesis and the continuous presence of external stimuli ( 53 ) .
+Furthermore , the level of the 3.8-kilobase mRNA encoding the NF- « B p50 subunit is increased upon stimulation .
+Cotransfection experiments demonstrated that the promoter of p50 can be activated by either of the two subunits of NF- « B ( p50 and p65 ) and more strongly by the combination of both ( 54 ) .
+To investigate whether such a mechanism could be involved during long-term CD2+CD28 stimulation , analysis of NF- « B gene family expression at transcriptional and posttranscriptional levels is under way .
+What Are the Roles of the Various « B Complexes ?
+A new physiological function has recently been suggested for p50 homodimers in the T-cell response ( 40 ) .
+For instance , in a nontransformed CD4+ T-lymphocyte clone , p50 homodimers present in resting cells seem to inhibit IL-2 gene expression .
+After antigenic activation , the amount of homodimer decreased , whereas the amount of the p50-p65 heterodimer increased .
+In parallel , induced expression of the ! L-2 gene and activity of the IL-2 « B-DNA binding site correlated with a decrease in the p50-p50 complex .
+Furthermore , overexpression of p50 repressed IL-2 promoter activity .
+In contrast , upon CD2+CD28 stimulation , we detected an additional inducible Rel-like complex and no significant variation in p50-p50 amounts .
+We propose that these discrepancies are due to differences in stimulation conditions , « B probes , and cell population .
+On the basis of the putative mechanism of NF- « B action , CD2 and CD28 costimulation could induce sufficient amounts of NF- « B p50-p65 and c-Rel complexes to remove p50-p50 dimer inhibitory block .
+Such a hypothesis is reinforced by the recent identification of c-Rel as one component of the Rel/NF- « B family proteins involved in the « B-dependent activation of ! L-2Ra gene expression ( 55 ) .
+How Are the Functional Effects of PDTC in Human Primary T-Lymphocytes Explained ?
+In agreement with its blocking effect in response to many NF- « B inducers ( 36 , 37 ) , PDTC inhibited CD24+CD28 induction of NF- « B nuclear appearance , and , since cell viability was not af-fected , we demonstrated that PDTC is well suited for experiments using primary T-cells .
+However , in contrast to inhibition of proliferation and NF- « B activation , a somewhat higher PDTC concentration ( > 10 um versus 1 um ) was required to impair cytokine expression and receptivity .
+Although several independent studies are consistent with a potential role for oxidation-reduction in the control of NF- « B , the exact mechanism involved has not yet been characterized ( 36 , 38 , 56 , 57 ) .
+PDTC has at least two chemical properties .
+In addition to its oxygen radical-scavenging effect , PDTC also has a chelating activity for heavy metals that could interfere with metal-dependent enzymes .
+Both mechanisms seem to be involved in Jurkat T-cells treated by several inducers , such as H ; O ; , PMA , or TNF-a ( 37 ) .
+However , NF- « B inhibition required considerably lower PDTC concentrations ( 1 um versus 100 gm ) in primary T-cells than in the tumoral Jurkat T-cell line ( Ref .
+37 and this report ) .
+Furthermore , we did not observe desensitization to the drug , as reported in Jurkat T-cells ( 37 ) , but a high cell toxicity above 100 am PDTC ( data not shown ) .
+Finally , inhibition did not require prein-cubation , as inhibitor and inducers were added simultaneously in our experiments .
+Our observations are one more example of differences between the tumor cell line and the primary T-cell .
+We propose that the observed discrepancies are due to differences in experimental conditions in which , on one hand , the drug was added to actively dividing cells and , on the other , to resting T-cells before the CD2+CD28-triggered Go-G : transition .
+Furthermore , upon simultaneous addition of inducers and inhibitor , enough active NF- « B could be transiently present in the nucleus and participate in cytokine and receptor gene induction .
+To test this hypothesis , further Cell Growth & Differentiation 337 experiments are necessary to determine NF- « B half-life and turnover rate in the nucleus .
+In conclusion , although our data support the involvement of oxidative stress and the requirement of NF-kB maintenance for long-term primary T-cell proliferation , they also suggest the engagement of other regulatory factors .
+Consequently , further experiments are required to assess the role of the different NF- « B complexes identified and their interactions with other trans-acting factors in the induction of cytokine and receptor genes through activation of CD2 and CD28 .
+These studies may provide new and important insights into the mechanisms of the adhesion molecule pathway involved in normal T-cell growth and differentiation .
+Materials and Methods Primary T-Lymphocyte Preparation .
+Peripheral blood lymphocytes were isolated from healthy blood donors , and T-cells were purified as previously described ( 43 ) .
+Controls for the absence of monocytic , B- , and natural killer cell contamination were performed by flow cytometry analysis using specific fluorescein isothiocyanate-labeled mAbs , namely 10G3.3 ( CD14 ) , 10B4 ( CD19 ; Immunotech , Marseille , France ) , and NKH1 ( Coulter Electronics , Hialeah , FL ) , respectively .
+Contamination by B- or natural killer cells was less than 1 % .
+Preparations were considered to be depleted of monocytes when less than 1 % of the cells were labeled with 10G3.3 mAb and when no proliferation was observed upon optimal stimulation with either PHA or soluble CD3 mAb .
+Induction Conditions .
+Stimulations were performed with different mAbs used at saturating concentrations : mAb 39C1.5 ( rat 1gG2a , anti-CD2 ) in combination with 6F10.3 ( mouse 1IgG1 , anti-CD2 ) , mAb 248 ( mouse IgM , anti-CD28 ) , and mAb 289 ( mouse IgG2a , anti-CD3 ) , obtained from Dr. A. Moretta , Cancer Institute , Genoa , Italy .
+CO2 mAb was used as purified mAb at 10 ug/ml , CD28 mAb ascitic fluid was used at a 1/400 dilution , and CD3 mAb was coated ( CD3c ) onto plates .
+TPA ( Sigma ) was added at a submitogenic concentration ( 107° m ) when mentioned in figure legends .
+Proliferation Assay .
+Purified T-cells ( 20,000/well ) were grown in flat-bottomed 96-well microtiter plates in a final volume of 200 ul of RPMI 1640 medium supplemented with 10 % ( v/v ) fetal bovine serum , and [ PHJthymidine ( Amersham ) was added ( 1.74 kBq/well ) for 18 h. Cells were then harvested on Whatman filters and analyzed by liquid scintillation counting .
+All assays were performed in triplicate .
+Assays for Cytokine Production and Soluble IL-2 Receptor .
+IL-2 secretion was determined by ELISA assay ( Immunotech ; limit of detection less than 30 pg/ml ) .
+GM-CSF secretion was determined by ELISA assay ( a kind gift from J. Abrams , DNAX , Palo Alto , CA ; limit of detection 50 pg/ml ) .
+Soluble IL-2 receptor was dosed using an ELISA assay with a 5-pm limit of detection ( Immunotech ) .
+Flow Cytometry .
+CD25/IL-2Ra cell surface expression was detected according to standard procedures with fluorescein isothiocyanate-labeled antibody 33B3.1 ( 58 ) using a FACSCAN ( Becton Dickinson ) .
+Thiol Level Assessment .
+Levels of thiols and glutathione were evaluated according to Rice et al .
+and Staal et al .
+( 38 ) with slight modifications .
+Cells ( 10°/ml ) were stained at room temperature for 15 min with monochlo- robimane ( Molecular Probes ) at a final concentration of 10 um .
+The reaction was stopped by addition of 3 ml of ice-cold staining medium and centrifuged through 0.5 ml of underlaid serum to remove unreacted MCB .
+Samples were washed twice and analyzed by flow cytometry ( ATC 3000 ; Odam ) with 70 mW UV light and 525-nm filter .
+Preparation of Nuclear Extracts .
+Nuclear extracts were prepared essentially according to Schreiber et al .
+( 59 ) as modified by Staal et al .
+( 38 ) .
+Briefly , cells were harvested and washed in cold Tris-buffered saline , then resuspended in 0.4 ml of buffer A [ 10 mm 4- ( 2-hydroxyethyl ) -1-piperazineethanesulfonic acid , pH 7.8-10 mm KCl-2 mm MgCl ; -1 mm dithiothreitol-0.1 mm EDTA-0.1 mm phenylmethylsulfonyl fluoride ] supplemented with leu-peptin ( 0.3 mg/ml ; Sigma ) , and incubated on ice for 15 min .
+Then 25 gl of a 10 % Nonidet P-40 solution ( Sigma ) were added , and cells were vigorously mixed for 15 s and then centrifuged ( 13,000 rpm , 15 s ) .
+Pelleted nuclei were resuspended in 50 ul of buffer C [ 50 mm 4- ( 2-hydroxyethyl ) -1-piperazineethanesulfonic acid , pH 7.8-50 mm KCIl-300 mm NaCl-0.1 mm EDTA-1 mm dithiothreitol-0.1 mm phenyImethylsulfonyl fluoride 10 % ( v/v ) glyc-erol ] .
+After mixing for 20 min , the nuclei were centrifuged for 5 min at 13,000 rpm , and supernatants containing the nuclear proteins were transferred to another tube and stored at -80°C .
+Protein concentration was measured with a commercial kit ( Bio-Rad ) by the method of Bradford ( 60 ) .
+Oligonucleotides .
+The sequences of the oligonucieo-tides were as follows .
+( a ) « B. , ( NF- « B binding site of the mouse Ig « light chain enhancer ) ( 17 ) 5 ' - TCGACAGAGGGGACTTTCCGAGAGGCTCGA - 3 ' 3 '' - AGCTGTCTCCCCTGAAAGGCTCTCCGAGCT-5 ' ( b ) m « Bug ( mutant NF- « B binding site of the mouse Ig light chain enhancer ) ( 17 ) 5 ' - TCGACAGAATTCACTTTCCGAGAGGCTCGA - 3 ' 3 '' - AGCTGTCTTAAGTGAAAGGCTCTCCGAGCT - 5 ( c ) « Bi .
+; ( NF- « B binding site of the IL-2 promoter ) ( 22 ) 5 '' - ACAAAGAGGGATTTCACCTACATCCAT - 3 ' 3 ' - TGTTTCTCCCTAAAGTGGATGTAGGTA-5 ' ( d ) « Bu.sr , ( NF- « B binding site of the IL-2Ra promoter ) ( 22 ) 5 '' - CAACGGCAGGGGAATCTCCCTCTCCTT-3 ' 3 '' -GTTGCCGTCCCCTTAGAGGGAGAGGAA - 5 '' { e ) « Biu , ( NF- « B binding site of the ! L-6 promoter ) ( 22 ) 5° - ATCAAATGTGGGATTTTCCCATGAGTC-3 ' 3 ' - TAGTTTACACCCTAAAAGGGTACTCAG-5 ' ( f ) SP1svao ( SP1 binding site from the SV40 early promoter ) ( 61 ) 5 '' - CGATGGGCGGAGTTAGGGACGGGA - 3 ' 3 '' -TACCCGCCTCAATCCCTGCCCTGC- 5 Specific Antisera and Recombinant Protein .
+Rabbit sera no .
+2 and no .
+3 ( 46 ) are against fusion proteins 338 | NF- « B Activation in CD2+CD28-stimulated Primary T-Cells containing amino acids 19-969 and 19-502 of KBF1 p50 , respectively ( kindly provided by A. Israel , U277 INSERM , Paris , France ) .
+Antiserum no .
+2 recognizes both KBF1/ p50 homodimer and NF- « B p50-p65 heterodimer .
+Antiserum no .
+3 recognizes only KBF1/p50 homodimer .
+Antisera to recombinant p50 , p65 , and c-Rel were kindly provided by R. Bravo ( Bristol Myers Squibb , Princeton , NJ ) ( 30 ) .
+Bacterial extract containing MAD-3/ixB* was obtained from T. Henkel ( Laboratorium fur Molekulare Biologie , Genzentrum , Martinsried , Germany ) .
+Electrophoretic Mobility Shift Assay .
+Oligonucleotides were labeled using [ 1+- > P ] ATP and polynucleotide kinase , annealed , and gel purified for isolation of double-stranded probes .
+Reactions with equal amounts of nuclear extracts ( 1 ug/reaction ) were performed in a 20-ul final volume containing approximately 50,000 cpm probe , 0.25 ug polydeoxyinosinic-deoxycytidylic acid , and 20 ug bovine serum albumin .
+Extracts in buffer C were incubated for 30 min at room temperature with the probe .
+Reaction mixtures were then loaded on 5 % nondenaturing polyacrylamide gel in 0.25 % TBE ( 1 % TBE = 89 mm Tris-89 mm boric acid-1 mm EDTA ) .
+After electro-phoresis , dried gels were exposed at -80°C to Kodak XR5 film on intensifying screens ( Amersham ) .
+For competition assays , unlabeled complementary oligonucleotides were gel purified after annealing .
+Unlabeled com-petitor , specific antiserum , or recombinant protein was added to the reaction mixture just before adding the radiolabeled probe .
+DNA-Protein Cross-Linking Studies .
+Photoreactive P-labeled « Biu. » r , probe was prepared by annealing the coding strand template to the complementary 10-base primer ( 5 ( -GGGAGAGGAA-3 ' ) and filling in the overhang with Klenow polymerase in the presence of [ a-P ] dATP and dCTP , dGTP , and equimolar amounts of TTP and 5-bromo-2'-deoxyuridine 5'-triphosphate .
+Wet polyacrylamide gels from EMSA were placed on a 312-nm UV transilluminator ( Bioblock Scientific ; 8000 « W/ cm ' ) .
+After autoradiography at room temperature , gel slices corresponding to DNA-protein complexes were excised , eluted in reducing buffer , and then subjected to electrophoresis on 10 % polyacrylamide-sodium dodecyl sulfate gels ( 62 ) .
+Acknowledgments The authors would like to thank Drs .
+Alain Israél and Rodrigo Bravo for providing the NF- « B antisera , Remy Galindo and Christine Pavon for helpful technical assistance , and Drs .
+Claude Mawas , Alain Israél , Jean-Marie Blanchard , and Manuela Urban for invaluable advice .
+References 1 .
+Selvaraj , P. , Plunkett , M. L. , Dustin , M. , Sanders , M. E. , Shaw , S. , and Springer , T. A .
+The T lymphocyte glycoprotein CD2 binds the cell surface ligand LFA-3 .
+Nature ( Lond .
+) , 326 : 400-403 , 1987 .
+2 .
+Damle , N. K. , Mohagheghpour , N. , Hansen , J .
+A. , and Engleman , E. G. Alloantigen-specific cytotoxic and suppressor T lymphocytes are derived from phenotypically distinct precursors .
+J .
+Immunol. , 131 : 2296-2300 , 1983 .
+3 .
+Clark , E. A. , Ledbetter , J .
+A. , Holly , R. C. , Dinndorf , P. A. , and Shu , G. Polypeptides on human B lymphocytes associated with cell activation .
+Hum .
+Immunol. , 16 : 100-113 , 1986 .
+4 .
+Freeman , G. J. , Freedman , A. S. , Segil , J. M. , Lee , G. , Whitman , J. F. , and Nadler , L. M. 87 , a new member of the ig superfamily with unique expression on activated and neoplastic B cells .
+J .
+Immunol. , 143 : 2714-2722 , 1989 .
+5 .
+Linsley , P. S. , Clark , E. A. , and Ledbetter , J .
+A. T-cell antigen CD28 mediates adhesion with B cells by interacting with activation antigen B7/ BB-1 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 87 : 5031-5035 , 1990 .
+6 .
+Ledbetter , J .
+A. , Martin , P. J. , Spooner , C. E. , Wofsi , D. , Tsu , T. T. , Beatty , P. G. , and Gladstone , P. Antibodies to Tp67 and Tp44 augment and sustain proliferative responses of activated T cells .
+J .
+Immunol. , 135 : 2331-2336 , 1985 .
+7 .
+Meuer , S. C. , Hodgdon , J. C. , Hussey , R. E. , Protentis , J. P. , Schlossman , S. F. , and Reinherz , E. L. Antigen-like effects of monoclonal antibodies directed at receptors on human T cell clones .
+J. Exp .
+Med. , 158 ; 988-993 , 1983 .
+8 .
+Meuer , S. C. , Hussey , R. E. , Fabbi , M. , Fox , D. , Acuto , O. , Fitzgerald , K. A. , Hodgdon , J. C. , Protentis , J. P. , Schlossman , S. F. , and Reinherz , E. L. An alternative pathway of T-cell activation : a functional role for the 50 kd T11 sheep erythrocyte receptor protein .
+Cell , 36 : 897-906 , 1984 .
+9 .
+Pierres , A. , Lopez , M. , Cerdan , C. , Nunes , J. , Olive , D. , and Mawas , C. Triggering CD28 molecules synergize with CD2 ( T11.1 and T11.2 ) -mediated T cell activation .
+Eur .
+J .
+Immunol. , 18 : 685-690 , 1988 .
+10 .
+Van-Lier , R. A. , Brouwer , M. , and Aarden , L. A .
+Signals involved in T cell activation : T cell proliferation induced through the synergistic action of anti-C D28 and anti-CD2 monoclonal antibodies .
+Eur .
+J .
+Immunol. , 18 : 167-172 , 1988 .
+11 .
+Cerdan , C. , Martin , Y. , Courcoul , M. , Mawas , C. , Birg , F. , and Olive , D. Prolonged IL-2 receptor a/CD25 expression after T cell activation via the adhesion molecules CD2 and CD28 : demonstration of combined transcriptional and post transcriptional regulation .
+J .
+Immunol. , 149 : 2255-2261 , 1992 .
+12 .
+Lindsten , T. , June , C. H. , Ledbetter , } .
+A. , Stella , G. , and Thompson , C. B .
+Regulation of lymphokine mRNA stability by a surface-mediated T cell activation pathway .
+Science ( Washington DC ) , 244 : 339-343 , 1989 .
+13 .
+Fraser , J. D. , Irving , B .
+A. , Crabtree , G. R. , and Weiss , A .
+Regulation of interleukin-2 gene enhancer activity by the T cell accessory molecule CD28 .
+Science ( Washington DC ) , 251 : 313-316 , 1991 .
+14 .
+Verweij , C. L. , Geerts , M. , and Aarden , L. A. Activation of interleukin-2 gene transcription via the T-cell surface molecule CD28 is mediated through an NF- « B-like response element .
+J. Biol .
+Chem. , 266 : 14179-14182 , 1991 .
+15 .
+Muegge , K. , and Durum , S. K. From cell code to gene code : cytokines and transcription factors .
+New Biol. , 1 : 239-247 , 1989 .
+16 .
+Grilli , M. , Chiu , J. , and Lenardo , M. J. NF- « B and Rel-participants in a multiform transcriptional regulatory system .
+Annu .
+Rev .
+Immunol. , in press , 1992 .
+17 .
+Sen , R. , and Baltimore , D. Inducibility of x immunoglobulin enhancer-binding protein NF- « B by a posttranslational mechanism .
+Cell , 47 : 921-928 , 1986 .
+18 .
+Baeuerle , P. A .
+The inducible transcription activator NF- « B : regulation by distinct protein subunits .
+Biochim .
+Biophys .
+Acta , 1072 : 63-80 , 1991 .
+19 .
+Gilmore , T. D. NF- « B , KBF1 , dorsal , and related matters .
+Cell , 62 : 841-843 , 1990 .
+20 .
+Blank , V. , Kourilsky , P. , and Israel , A. NF- « B and related proteins : Rel/dorsal homologies meet ankyrin-like repeats .
+Trends Biochem .
+Sci. , 17 : 135-140 , 1992 .
+21 .
+Tong-Starksen , S. E. , Luciw , P. A. , and Peterlin , B. M. Signaling through T lymphocyte surface proteins , TCR/CD3 and CD28 , activates the HIV-1 long terminal repeat .
+J .
+Immunol. , 142 ; 702-707 , 1989 .
+22 .
+Molitor , J .
+A. , Walker , W. H. , Doerre , S. , Ballard , D. W. , and Greene , W. C. NF- « B : a family of inducible and differentially expressed enhancer-binding proteins in human T cells .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 87 : 10028-10032 , 1990 .
+23 .
+Arima , N. , Kuziel , W. A. , Grdina , T. A. , and Greene , W. C. IL-2-induced signal transduction involves the activation of nuclear NF- « B expression .
+J .
+Immunol. , 149 ; 83-91 , 1992 .
+24 .
+Schmitz , M. L. , Henkel , T. , and Baeuerle , P. A. Proteins controlling the nuclear uptake of NF- « B , Rel and dorsal .
+Trends Cell .
+Biol. , 1 : 130-137 , 1992 .
+25 .
+Haskill , S. , Beg , A .
+A. , Tompkins , S. M. , Morris , J. S. , Yurochko , A. D. , Sampson-Johannes , A. , Mondal , K. , Ralph , P. , and Baldwin , A. S. J .
+Characterization of an immediate-early gene induced in adherent monocytes that encodes I « B-like activity .
+Cell , 65 : 1281-1289 , 1991 .
+26 .
+Davis , N. , Ghosh , S. , Simmons , D. L. , Tempst , P. , Liou , H. C. , Baltimore , D. , and Bose , H. R. J. Rel-associated pp40 : an inhibitor of the rel family of transcription factors .
+Science ( Washington DC ) , 253 : 1268-1271 , 1991 .
+27 .
+Ohno , I. , Takimoto , G. , and McKeithan , T. W. The candidate proto-oncogene bcl-3 is related to genes implicated in cell lineage determination and cell cycle control .
+Cell , 60 : 991-997 , 1990 .
+Cell Growth & Differentiation 339 28 .
+Wulezyn , F. G. , Naumann , M. , and Scheidereit , C. Candidate proto-oncogene bel-3 encodes a subunit-specific inhibitor of transcription factor NF- « B .
+Nature ( Lond .
+) , 358 : 597-599 , 1992 .
+29 .
+Inoue , J. , Kerr , L. D. , Kakizuka , A. , and Verma , I. M. IkBy , a 70 kd protein identical to the C-terminal half of p110 NF- « B : a new member of the I « B family .
+Cell , 68 : 1109-1120 , 1992 .
+30 .
+Tewari , M. , Dobranski , P. , Mohn , K. L. , Cressman , D. E. , Hsu , J-C. , Bravo , R. , and Taub , R. Rapid induction in regenerating liver of RL/IF-1 ( an IxB that inhibits NF- « B , RelB-p50 , and c-Rel-p50 ) and PHF , a novel « B site-binding complex .
+Mol .
+Cell .
+Biol. , 12 : 2898-2908 , 1992 .
+31 .
+Kerr , L. D. , Inoue , J. , Davis , N. , Link , E. , Baeuerle , P. A. , Bose , H. R. J. , and Verma , I. M. The rel-associated pp40 protein prevents DNA binding of Rel and NF- « B : relationship with IkBG and regulation by phosphorylation .
+Genes & Dev. , 5 : 1464-1476 , 1991 .
+32 .
+Fujita , T. , Nolan , G. P. , Ghosh , S. , and Baltimore , D. Independent modes of transcriptional activation by the p50 and p65 subunits of NF- « B .
+Genes & Dev. , 6 : 775-787 , 1992 .
+33 .
+Kunsch , C. , Ruben , S. M. , and Rosen , G. A .
+Selection of optimal « B/ Rel DNA-binding motifs : interaction of both subunits of NF- « B with DNA is required for transcriptional activation .
+Mol .
+Cell .
+Biol. , 12 ; 4412-4421 , 1992 .
+34 .
+Perkins , N. D. , Schmid , R. M. , Duckett , C. S. , Leung , K. , Rice , N. R. , and Nabel , G. J .
+Distinct combinations of NF- « B subunits determine the specificity of transcriptional activation .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 89 ; 1529-1533 , 1992 .
+35 .
+Mihm , S. , Ennen , J. , Pessara , U. , Kurth , R. , and Droge , W. Inhibition of HIV-1 replication and NF- « B activity by cysteine and cysteine deriva-tives .
+AIDS , 5 : 497-503 , 1991 .
+36 .
+Schreck , R. , Rieber , P. , and Baeuerle , P. A. Reactive oxygen intermediates as apparently widely used messengers in the activation of the NF- « B transcription factor and HIV-1 .
+EMBO J. , 10 ; 2247-2258 , 1991 .
+37 .
+Schreck , R. , Meier , B. , Mannel , D. M. , Droge , W. , and Baeuerle , P. A. Dithiocarbamates as potent inhibitors of nuclear factor « B activation in intact cells .
+J. Exp .
+Med. , 175 : 1181-1194 , 1992 .
+38 .
+Staal , F. J. , Roederer , M. , and Herzenberg , L. A. Intracellular thiols regulate activation of nuclear factor « B and transcription of human im-munodeficiency virus .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 87 : 9943-9947 , 1990 .
+39 .
+Granelli-Piperno , A. , and Nolan , P. Nuclear transcription factors that bind to elements of the IL-2 promoter : induction requirements in primary human T cells .
+J .
+Immunol. , 147 : 2734-2739 , 1991 .
+40 .
+Kang , S. M. , Tran , A. C. , Grilli , M. , and Lenardo , M. J. NF- « B subunit regulation in nontransformed CD4+ T lymphocytes .
+Science ( Washington DC ) , 256 : 1452-1456 , 1992 .
+41 .
+Lowenthal , J. W. , Ballard , D. W. , Bohnlein , E. , and Greene , W. C. Tumor necrosis factor a induces proteins that bind specifically to « B-like enhancer elements and regulate interleukin 2 receptor a-chain gene expression in primary human T lymphocytes .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 86 : 2331-2335 , 1989 .
+42 .
+Cerdan , C. , Razanajaona , D. , Martin , Y. , Courcoul , M. , Pavon , C. , Mawas , C. , Olive , D. , and Birg , F. Contributions of the CD2 and CD28 T lymphocyte activation pathways to the regulation of the expression of the colony-stimulating factor ( CSF-1 ) gene .
+J .
+Immunol. , 149 ; 373-379 , 1992. , 43 .
+Cerdan , C. , Martin , Y. , Brailly , H. , Courcoul , M. , Flavetta , S. , Costello , R. , Mawas , C. , Birg , F. , and Olive , D. IL-1a is produced by T lymphocytes activated via the CD2 plus CD28 pathways .
+J .
+Immunol. , 146 : 560-564 , 1991 .
+44 .
+Rubin , L. A. , Kurman , C. C. , Fritz , M. E. , Biddison , W. E. , Boutin , B. , Yarchoan , R. , and Nelson , D. L. Soluble interleukin 2 receptors are released from activated human lymphoid cells in vitro .
+J .
+Immunol. , 135 : 3172-3177 , 1985 .
+45 .
+Rubin , L. A. , Jay , G. , and Nelson , D. L. The released interleukin 2 receptor binds interleukin 2 efficiently .
+J .
+Immunol. , 137 : 3841-3844 , 1986 .
+46 .
+Kieran , M. , Blank , V. , Logeat , F. , Vandekerckhove , J. , Lottspeich , F. , Le-Bail , O. , Urban , M. B. , Kourilsky , P. , Baeuerle , P. A. , and Israel , A .
+The DNA binding subunit of NF- « B is identical to factor KBF1 and homologous to the rel oncogene product .
+Cell , 62 : 1007-1018 , 1990 .
+47 .
+Brownell , E. , Ruscetti , F. W. , Smith , R. G. , and Rice , N. R. Detection of rel-related RNA and protein in human lymphoid cells .
+Oncogene , 3 : 93-98 , 1988 .
+48 .
+Adams , B. S. , Leung , K. Y. , Hanley , E. W. , and Nabel , G. J. Cloning of R « B , a novel DNA-binding protein that recognizes the interleukin-2 receptor a chain xB site .
+New Biol. , 3 : 1063-1073 , 1991 .
+49 .
+Rice , G. C. , Bump , E. A. , Shrieve , D. C. , Lee , W. , and Kovacs , M. Quantitative analysis of cellular glutathione by flow cytometry utilizing monochlorobimane : some applications to radiation and drug resistance in vitro and in vivo .
+Cancer Res. , 46 : 6105-6110 , 1986 .
+50 .
+Hwang , C. , Sinskey , A. J. , and Lodish , H. F. Oxidized redox state of glutathione in the endoplasmic reticulum .
+Science ( Washington DC ) , 257 : 1496-1502 , 1992 .
+51 .
+Molitor , J .
+A. , Ballard , D. W. , and Greene , W. C. « B-specific DNA binding proteins are differentially inhibited by enhancer mutations and biological oxidation .
+New Biol. , 3 : 987-996 , 1991 .
+52 .
+Suthanthiran , M. , Anderson , M. E. , Sharma , V. K. , and Meister , A. Glutathione regulates activation-dependent DNA synthesis in highly purified normal human T lymphocytes stimulated via the CD2 and CD3 antigens .
+Proc .
+Natl .
+Acad .
+Sci .
+USA , 87 : 3343-3347 , 1990 .
+53 .
+Hohmann , H. P. , Remy , R. , Scheidereit , C. , and van Loon , A. P. Maintenance of NF- « B activity is dependent on protein synthesis and the continuous presence of external stimuli .
+Mol .
+Cell .
+Biol. , 11 : 259-266 , 1991 .
+54 .
+Ten , R. M. , Paya , C. V. , Israel , N. , Le-Bail , O. , Mattei , M. G. , Virelizier , J. L. , Kourilsky , P. , and Israel , A .
+The characterization of the promoter of the gene encoding the p50 subunit of NF- « B indicates that it participates in its own regulation .
+EMBO J. , 17 ; 195-203 , 1992 .
+55 .
+Tan , T. H. , Huang , G. P. , Sica , A. , Ghosh , P. , Young , H. A. , Longo , D. L. , and Rice , N. R. « B site-dependent activation of the interleukin-2 receptor a-chain gene promoter by human c-Rel .
+Mol .
+Cell .
+Biol. , 12 : 4067-4075 , 1992 .
+56 .
+Burdach , S. , Zessack , N. , Dilloo , D. , Shatsky , M. , Thompson , D. , and Levitt , L. Differential regulation of lymphokine production by distinct subunits of the T cell interleukin 2 receptor .
+J. Clin .
+Invest. , 87 : 2114-2121 , 1991 .
+57 .
+Kumar , S. , Rabson , A .
+B. , and Gelinas , C. The RxxRxRxxC motif conserved in all Rel/ « B proteins is essential for the DNA-binding activity and redox regulation of the v-Rel oncoprotein .
+Mol .
+Cell .
+Biol. , 12 : 3094-3106 , 1992 .
+58 .
+Olive , D. , Raymond , J. , Dubreuil , P. , Charmot , D. , Jacques , Y. , and Mawas , C. Anti-interleukin 2 receptor monoclonal antibodies : respective role of epitope mapping and monoclonal antibody-receptor interactions in their antagonist effects on interleukin 2-dependent T cell growth .
+Eur .
+J .
+Immunol. , 16 ; 611-616 , 1986 .
+59 .
+Schreiber , E. , Matthias , P. , Muller , M. M. , and Schaffner , W. Rapid detection of octamer binding proteins with `` mini-extracts , '' prepared from a small number of cells .
+Nucleic Acids Res. , 17 : 6419 , 1989 .
+60 .
+Bradford , M. M. A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding .
+Anal .
+Biochem. , 72 : 248-254 , 1976 .
+61 .
+Kadonaga , J. T. , Carner , K. R. , Masiarz , F. R. , and Tjian , R. Isolation of cDNA encoding transcription factors SP1 and functional analysis of the DNA binding domain .
+Cell , 517 : 1079-1090 , 1987 .
+62 .
+Laemmli , U. K. Cleavage of structural proteins during the assembly of the head of bacteriophage T4 .
+Nature ( Lond .
+) , 227 : 680-685 , 1970 .

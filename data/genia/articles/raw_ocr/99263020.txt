@@ -1,0 +1,983 @@
+MOLECULAR AND CELLULAR June 1999 , p. 4503-4515 0270-7306/99/ $ 04.00+0 Vol .
+19 , No .
+6 Copyright © 1999 , American Society for Microbiology .
+All Rights Reserved .
+Nuclear Localization and Formation of B-Catenin-Lymphoid Enhancer Factor 1 Complexes Are Not Sufficient for Activation of Gene Expression MARY G. PRIEVE anp MARIAN L. WATERMAN®* Department of Microbiology and Molecular Genetics , College of Medicine , University of California , Irvine , Irvine , California 92697-4025 Received 16 December 1998/Returned for modification 18 January 1999/Accepted 15 March 1999 In response to activation of the Wnt signaling pathway , B-catenin accumulates in the nucleus , where it cooperates with LEF/TCF ( for lymphoid enhancer factor and T-cell factor ) transcription factors to activate gene expression .
+The mechanisms by which B-catenin undergoes this shift in location and participates in activation of gene transcription are unknown .
+We demonstrate here that B-catenin can be imported into the nucleus independently of LEF/TCF binding , and it may also be exported from nuclei .
+We have introduced a small deletion within B-catenin ( A19 ) that disrupts binding to LEF-1 , E-cadherin , and APC but not axin .
+This A19 B-catenin mutant localizes to the nucleus because it may not be efficiently sequestered in the cytoplasm .
+The nuclear localization of A19 definitively demonstrates that the mechanisms by which B-catenin localizes in the nucleus are completely independent of LEF/TCF factors .
+B-Catenin and LEF-1 complexes can activate reporter gene expression in a transformed T-lymphocyte cell line ( Jurkat ) but not in normal T lymphocytes , even though both factors are nuclear .
+Thus , localization of both factors to the nucleus is not sufficient for activation of gene expression .
+Excess BB-catenin can squelch reporter gene activation by LEF-1-fB-catenin complexes but not activation by the transcription factor VP16 .
+Taken together , these data suggest that a third component is necessary for gene activation and that this third component may vary with cell type .
+Wit signals initiate at the plasma membrane of receptive cells when the secreted ligand Want binds to frizzled , a seven-transmembrane receptor on the plasma membrane ( 9 , 10 , 15 , 43 ) .
+For Wat-1 , this binding event activates a multistep cascade that directs nuclear transport of a cytoplasmic protein named B-catenin .
+Wat-1 directs nuclear localization of B-catenin in part by inhibiting the activity of the serine/threonine kinase GSK-3f via the action of a cytoplasmic phosphoprotein named dishevelled ( 14 , 35 , 61 , 68 ) .
+Most models portray GSK-3 $ , along with another protein called APC ( for adenomatous polyposis coli ) , as promoting B-catenin degradation via the ubiquitin-proteasome pathway ( 1 , 52 , 57 ) .
+Under these circum-stances , B-catenin is stable only at the plasma membrane in cell adherens junctions as an adapter protein between the cytoplasmic tail of E-cadherin receptors and « -catenin , a cytoskeleton binding protein .
+A Wat-dependent increase in cytosolic B-catenin is soon followed by the appearance of B-catenin in the nucleus , where it cooperates with LEF/TCF ( for lymphoid enhancer factor and T-cell factor ) proteins to alter transcription of gene targets ( 29 , 44 , 49 , 53 ) .
+In addition to these parts of the cascade , additional steps are involved because proteins such as axin/conductin/axil and GBP have been identified recently as regulatory components of this pathway ( 6 , 32 , 34 , 69 , 70 , 72 ) .
+The final steps of this cascade , nuclear accumulation and gene activation by B-catenin , are not well characterized .
+B-Catenin is known to interact with a number of proteins , and the list of these interactions is growing ( conductin/axin/ axil , APC , « -catenin , E-cadherin , presenilin , LEF/TCF pro-teins ) ( 10 , 71 ) .
+These proteins are localized to different subcellular compartments , such as the plasma membrane ( E- * Corresponding author .
+Mailing address : Department of Microbiology and Molecular Genetics , College of Medicine , 19182 Jamboree Blvd. , University of California , Irvine , Irvine , CA 92697-4025 .
+Phone : ( 949 ) 824-2885 .
+Fax : ( 949 ) 824-8598 .
+E-mail : mlwaterm @ uci.edu .
+4503 cadherin , -catenin ) , the endoplasmic reticulum and Golgi ( presenilin and derivative fragments ) , the cytoplasm ( APC , conductin/axin/axil ) , and the nucleus ( LEF/TCF transcription factors ) .
+Although interaction domains for each individual protein have not been precisely delimited , it appears that B-catenin interacts with these proteins through overlapping portions of its armadillo repeat array ( reference 10 and references therein ) .
+The repeating unit of this array , the armadillo repeat ( referred to here as the arm repeat ) is so named because of its sequence similarity to a reiterated , degenerate 37- to 43-ami-no-acid ( aa ) motif in the Drosophila melanogaster ortholog armadillo ( 41 , 50 ) .
+Multiple arm repeats occur in tandem arrays from as few as 4 to as many as 13 repeats , and together they function as a protein interaction domain .
+The crystal structure for the 12 arm repeats of B-catenin was solved recently ( 28 ) .
+Structural analysis has revealed that arm repeats are alpha-helical and pack against one another to form an elongated superhelix of alpha-helices .
+The groove created by the twisted superhelical structure is highly charged and proposed to be the interacting surface for B-catenin targets .
+The structure of a second armadillo repeat protein , yeast importin e « /karyopherin « /Srpl , was recently determined , and while the amino acid sequence of its 9- or 10-arm repeat array is only 17 % similar to B-catenin , the repeats fold into a similar twisted structure with a groove ( 13 ) .
+Importin « , and a second arm repeat protein , importin B , function together as receptors for nuclear localization signals ( NLSs ) in proteins ( 26 , 47 ) .
+NLSs are highly basic , whereas B-catenin targets are enriched in acidic residues .
+Thus , even though arm repeat arrays are found in a wide variety of proteins and the amino acid sequences of their targets vary , there are unifying structural similarities in the way these proteins bind to their targets .
+A major unanswered question is how B-catenin localizes to different subcellular compartments .
+For example , since B-catenin does not have an obvious NLS for importin « /B receptors , 4504 PRIEVE AND WATERMAN it was proposed that B-catenin must enter the nucleus by binding to NLS-containing LEF/TCF transcription factors in the cytoplasm ( 29 , 33 , 43 , 44 ) .
+An alternative model , in which B-catenin can access the nucleus independently of LEF/TCF binding ( 17 ) , has been proposed .
+This model was derived from a study of nuclear localization of recombinant B-catenin in digitonin-permeabilized cells where B-catenin entered the nucleus on its own , in the absence of exogenously added extract ( 17 ) .
+The inference from this study was that B-catenin transport was independent of importin/karyopherins and also of any LEF/TCF protein .
+In the nucleus , B-catenin is known to interact with at least one class of transcription factors , the LEF/TCF family of proteins ( 36 , 44 , 62 , 64 , 66 ) .
+LEF/TCF factors are sequence-specific DNA binding proteins that function as context-dependent transcription factors , unable to work on their own but requiring the cooperative effort of adjacent DNA binding transcription proteins or non-DNA binding cofactors ( 11 , 21 ) .
+LEF/ TCF proteins have a single HMG ( high-mobility-group ) DNA binding domain that includes an HMG box , which functions as a DNA binding-bending motif , and a B box , a very basic cluster of 8 or 9 aa with dual functions in DNA binding and nuclear localization ( 20 , 23 , 40 , 54 ) .
+B-Catenin binds to a region within the first 56 aa of all known LEF/TCF proteins ( 7 , 29 , 44 ) .
+The highly conserved B-catenin binding domain in LEF/TCF proteins is separate and independent from the HMG DNA binding domain , which is located in the middle or near the C terminus .
+A model has been proposed whereby the tethering of B-catenin to promoters or enhancers by LEF/TCF factors enables a transcription activation domain in B-catenin , perhaps in cooperation with LEF/TCF sequences , to regulate transcription of Wnt-responsive genes ( 27 , 63 ) .
+Reporter plasmids containing only multimerized LEF/TCF binding sites are activated by this complex in a context-independent manner that apparently does not require additional factors binding to flanking regulatory elements ( 27 , 29 , 36 , 44 , 45 , 53 , 59 , 63 ) .
+However , whether there is a requirement for additional factors that do not bind DNA is not known .
+We have constructed a deletion mutant that does not bind LEF/TCF proteins and have used this mutant protein to explore the mechanisms by which B-catenin accumulates in nuclei and activates gene expression .
+We show that B-catenin localizes to nuclei independently of its interaction with LEF/TCF .
+We also show that in the nucleus B-catenin cooperates with LEF-1 and perhaps at least one other factor to activate reporter gene expression .
+MATERIALS AND METHODS Cell culture , DNA transfections , luciferase and B-galactosidase assays .
+Cos-1 cells were cultured in high-glucose ( 4.5-g/1 ) Dulbecco 's modified Eagle 's medium ( Gibco ) .
+293 cells were cultured in Eagle 's minimum essential medium with nonessential amino acids ( Irvine Scientific ) .
+Jurkat cells were cultured in RPMI 1640 ( Irvine Scientific ) .
+All media contained 10 % fetal bovine serum ( Irvine Scientific ) , 100 U of penicillin per ml , 100 pg of streptomycin per ml , 250 ng of amphotericin B ( Gibco ) per ml , and 50 M B-mercaptoethanol .
+Cell lines were grown in a humidified atmosphere containing 5 % CO ; at 37°C .
+Cos-1 , 293 , and Jurkat cells were transiently transfected by electroporation .
+Normal human peripheral blood mononuclear cells ( PBMCs ) were prepared and transfected as previously described ( 30 ) .
+For reporter gene expression , 1 g of a reporter gene plasmid containing five tandemly repeated Gal4 recognition elements upstream of a luciferase reporter gene ( generous gift of P. Carlsson , Goteborg University , Goteborg , Sweden ) was cotransfected with various amounts of G4LEF-1 , B-catenin , and control expression plasmids as indicated in the figure legends .
+One microgram of the reporter plasmid Top TK ( generous gift of H. Clevers , University of Utrecht ) was cotransfected with 10 g each of wild-type B-catenin and wild-type LEF-1 expression plasmids for reporter gene expression in PBMCs .
+Cells were harvested at 15 to 24 h posttransfection , and cell lysates were analyzed for luciferase activity as described previously ( 42 ) .
+To normalize between transfections , 0.5 mg of LacZ expression plasmid was included in each sample and B-galactosidase activity was determined with the Galacto-Light/Plus kit ( Tropix , Inc. ) .
+Mor .
+CELL .
+BioL .
+Plasmid construction .
+c-Myc epitope-tagged Xenopus full-length B-catenin from pCS2 ( generous gift of B. Gumbiner , Memorial Sloan-Kettering Cancer Center , New York , N.Y. ) was cloned into pBluescript at the BamHI and HinclI sites .
+An internal deletion of aa 346 to 364 of B-catenin ( A19 B-catenin ) was constructed by digesting B-catenin in pBluescript with Af/II and HindIII .
+Blunt ends were generated with Klenow enzyme , and the ends were religated .
+A19 B-catenin was then transferred to pCS2 in the same orientation as B-catenin in pCS2 .
+An N-terminal deletion of the first 148 aa of A19 B-catenin ( ANA19 B-catenin ) was constructed by digesting MT10 B-catenin in pCS2 ( aa 149 to 525 ) ( generous gift of B. Gumbiner ) with XhoI and SnaBI and replacing this fragment with a fragment from A19 B-catenin digested at the identical sites .
+All mutations were sequenced to ensure that no second-site mutations were introduced during the cloning procedure .
+Construction of G4LEF , G4LEF ( aa 80 to 256 ) , FL LEF , G4VP16 , and ANLEF ( aa 67 to 399 ) is mentioned elsewhere ( 11 ) .
+GST fusion protein purification .
+Glutathione S-transferase ( GST ) and full-length GST-hLEF-1 were purified as described previously ( 54 ) .
+GST-importin-B ( generous gift of S. A. Adam , Northwestern University ) was purified as above in the presence of 0.1 mM ZnSO .
+In vitro binding and immunoprecipitation assays .
+Radiolabeled full-length B-catenin , A19 B-catenin , the C-terminal tail of E-cadherin ( generous gift of P. Polakis , Onyx Pharmaceuticals ) , full-length pendulin/Rch1/importin-a2 , and an N-terminal deletion of pendulin ( aa 62 to 529 [ AN importin- « 2 ] ) ( 55 ) were prepared with a coupled in vitro transcription/translation system ( Promega ) and ( DuPont-NEN ) .
+The in vitro binding assay was performed as previously described ( 55 ) .
+For the coimmunoprecipitation assay , 293 cells were transiently transfected by electroporation with 10 ug of the plasmids described in the figure legends .
+At 24 h after transfection , cells were harvested and washed once in 1 phosphate-buffered saline ( PBS ) .
+Each cell pellet was resuspended in ice-cold IP buffer , which contains 20 mM Tris ( pH 8.0 ) , 1.5 mM MgCl , , 1 mM EGTA , 1 % Triton X-100 , 10 % glycerol , 50 mM NaF , 1 mM NaVO , , 20 ug of soybean trypsin inhibitor per ml , 10 pg of aprotinin per ml , 4 pg of leupeptin per ml , and 1 pg of pepstatin A per ml .
+Lysates were microcentrifuged at 14,000 rpm for 10 min at 4°C .
+Two microliters of an anti-c-Myc monoclonal antibody ( MAb ) ( 9E10 ) ( Santa Cruz Biotechnology ) was added to each cleared lysate and incubated on a rotating platform for 1 h at 4°C .
+Forty microliters of a 50 % slurry of protein G-Sepharose beads ( Pharmacia ) diluted in IP buffer was added to each lysate and incubated for 1 h at 4°C .
+The precipitates were centrifuged for 5 min at 2,000 rpm , washed three times with 1 ml of IP buffer for each wash , and boiled in 20 pl of 2 % sodium dodecyl sulfate ( SDS ) sample buffer .
+The samples were analyzed by Western blotting with protein A-purified hLEF-1 polyclonal anti-serum and a secondary horseradish peroxidase-conjugated goat anti-rabbit antibody ( Amersham ) and detection by enhanced chemiluminescence ( ECL ) ( Am-ersham ) .
+In samples with additional hLEF-1 recombinant protein , 5 ug ( 100 pmo ! )
+of recombinant , purified full-length LEF-1 protein ( 46a ) was added and the samples were incubated for 30 min on a rotating platform at 4°C prior to incubation with anti-c-Myc antibody .
+For normalizing levels of B-catenin , the immunoblot was stripped and reblotted with anti-c-Myc MAb , followed by incubation with horseradish peroxidase-conjugated goat anti-mouse antibody ( Amersham ) and detection with the ECL kit .
+The in vitro coimmunoprecipitation assay represented by Fig .
+2C was performed as described previously ( 46 ) except as follows .
+Five microliters of *°S-labeled in vitro-translated wild-type or A19 B-catenin was incubated with 1.5 ug of purified recombinant APC2 ( aa 1034 to 2130 ) , APC3 ( aa 2130 to 2844 ) , or axin ( aa 320 to 530 ) ( generous gifts from P. Polakis , Onyx Pharmaceuticals ) or no protein , and the volume of the mixture was brought to 30 pl with buffer B ( 20 mM Tris [ pH 8.0 ] , 150 mM NaCl , 0.5 % Nonidet P-40 ) plus 0.2 % bovine serum albumin ( BSA ) .
+Two micrograms of Glu-Glu antibody ( gift of P. Polakis ) and 10 ul of protein G-Sepharose beads were added to immunoprecipitate Glu-Glu-tagged APC2 , APC3 , and axin .
+For the in vitro coimmunoprecipitation assay represented by Fig .
+2D , S-labeled in vitro-translated C-terminal tail of E-cadherin was incubated with either radiolabeled full-length B-catenin or A19 B-catenin in TBST ( 200 mM NaCl , 10 mM Tris-HCI [ pH 8.0 ] , 0.2 % Tween 20 ) with 0.2 % BSA in a 100-pl total volume for 30 min at room temperature on a rotating platform .
+One microliter of anti-c-Myc MAb and 20 pl of a 50 % slurry of protein G-Sepharose beads ( Pharmacia ) washed in TBST-0.2 % BSA were added and incubated for 1 h at room temperature on a rotating platform .
+The precipitates were centrifuged for 5 min at 2,000 rpm , washed three times with 1 ml of TBST for each wash , and boiled in 15 pl of 2x SDS sample buffer .
+The samples were analyzed by SDS-polyacrylamide gel electrophoresis , and the gel was treated with En Hance ( DuPont-NEN ) and exposed to film overnight .
+Fluorescence microscopy .
+Full-length B-catenin in pCS2 , MT10 in pCS2 ( generous gifts of B. Gumbiner , Memorial Sloan-Kettering Cancer Center , New York , N.Y. ) , and A19 B-catenin in pCS2 were transiently transfected into Cos-1 and Jurkat cells , followed by immunofluorescence , as described previously ( 54 ) , with anti-c-Myc MAb and fluorescein isothiocyanate ( FITC ) -conjugated or Texas red-conjugated anti-mouse ( Amersham ) antibodies .
+Jurkat cells were washed in 1 % PBS and diluted to ~1 X 10° cells/ml , and 100 pl of cells were cytospun onto poly-L-lysine-coated slides prior to fixation .
+For detection of endogenous B-catenin , anti-B-catenin MAb ( Transduction Laboratories ) was used .
+Nuclei were stained with 4',6-diamidino-2-phenylindole ( DAPI ) prior to being mounted slides with mounting media .
+Normal human PBMCs were prepared and Vor .
+19 , 1999 NUCLEAR LOCALIZATION AND GENE ACTIVATION BY g-CATENIN A 1 141 A 6g4 781 WT _|112|3|4|5 [ 6|7|s|9|1o1o|11|1zku— 345 365 ( \ A19 _|1|2|3|4|5 6|7|8|9|1010|11|12_ 149 \ 525 MT10 1|2|3 |4|5 |s|7 |a|9| 149 345 365 ( \ ANA19 |1I2|3f4|5 s|7|8|9|1o|1o|11|12— 4505 H2 H3 m moaned arm - N YQDDAE LATR AIPELTKLLN -- DE - DQVVVNKAAVMVHQLSK arm2 K - EASRHA - IMRSPQMVSAIVRTMON - TN - DVETARCTAGTLHNLSH arm3 H RECLLA - IFKS CCIPALVKML G -- SP VDSVLFYAITTLHNLLL arm4 - HQ - ECAKMA VRLA CCLOKMVALL N- KT - NVKFLAITTDCLQILAY arm5 - CN QESKLI - ILAS GCGPQALVNIMRT - YS _- YEKLLWTPTSRVLKYVLSY armé C _ SSNKPA IVEA GG @ MQALCLHLT - DS SQRLVONCLWTLRNLSD arm7 - AA TK QEGM - ECLLCTLVOLLG -- SD - DINVVTCAAGILSNLTC armg - NN - YKNKMM VCQV CGIEALVRTVLRA GD - REDITEPAICALRHLTS arm9 - RHOEAEMAQNA - VRLH YGLPVVVKLLH PPS - HWPLIKATVCLIRNLAL arm1i0 - C- PANHAP LREQ CATPRLVQLLVR EETIVECCTCALHILAR QGEEEEiTSIGGTQ§553EEﬁR armil - D- IHNRIV IRCL NTIPLFVQLLY -- SP - TENIQRVAACVLCDVAQ arm12 - D - KEAAEA IEAE CATAPLTELLH SR - NEGVATYAAAVLFRMSE FIG .
+1 .
+Amino acid sequence and structure of the arm repeat array of wild-type B-catenin and deletion mutants .
+( A ) Schematic of wild-type B-catenin , a 19-aa deletion mutant of B-catenin ( A19 ) ; MT1O0 B-catenin , which contains only the first nine arm repeats and no flanking sequences ; and ANA19 , which is identical to A19 but contains a deletion of the first 148 aa .
+( B ) Amino acid alignment of the arm repeats of B-catenin .
+According to the recently solved structure for B-catenin , each arm repeat consists of three alpha-helices , which are denoted by H1 , H2 , and H3 ( 28 ) .
+The sequence deleted in the A19 B-catenin mutant is in boldface type and underlined .
+transfected as previously described ( 30 ) .
+Four hours after transfection , PBMCs were treated with media containing 25 ng of phorbol-12-myristate-13-acetate ( PMA ) per ml and 1 pg of ionomycin per ml or with media containing an identical amount of ethyl alcohol carrier control ( untreated ) for 3 h at 37°C .
+For export of B-catenin , 10 g of actinomycin D per ml and 100 pg of cycloheximide per ml were added to PBMCs treated with PMA and ionomycin and cells were incubated for 3 h at 37°C .
+Cells were washed with PBS containing identical amounts of PMA and ionomycin for treated cells , PBS alone for untreated cells , and PMA , ionomycin , actinomycin D , and cycloheximide for export conditions and then resuspended to ~1 x 10° cells/ml .
+One hundred microliters of this cell preparation was cytospun onto poly-L-lysine-coated slides .
+Cells were fixed in 3.7 % formaldehyde-1x PBS , and immunofluorescence was performed as described above .
+Slides were examined as described previously ( 55 ) .
+RESULTS An internal deletion of arm repeat 6 destroys LEF/TCF binding in vitro and in vivo .
+In determining which region of the B-catenin arm repeat array recognizes LEF/TCF proteins , we found that a deletion of part of the sixth arm repeat could destroy binding .
+Figure 1A depicts the location and scale of the deletion mutation ( A19 ) .
+Based on the arrangement of alpha-helices in the arm repeat array , the 19-aa deletion removes the final four residues of helix 3 of the fifth arm repeat and 15 aa ( helix 1 and 2 ) of the sixth arm repeat ( Fig .
+1B ) .
+This region is well conserved between all B-catenin orthologs as well as cate-nin-related proteins such as plakoglobin .
+Mutant A19 was tested for binding to human LEF-1 in a GST pull-down exper-iment .
+Wild-type B-catenin and A19 were labeled with [ °°SJme-thionine by in vitro transcription/translation procedures and incubated with either GST-LEF-1 or GST recombinant fusion protein .
+Figure 2A shows that while wild-type B-catenin binds specifically to GST-LEF-1 , the A19 B-catenin protein does not bind .
+Neither the wild type nor A19 binds nonspecifically to the GST control fusion protein .
+The loss of LEF-1 binding was examined in vivo in transfected 293 embryonic kidney cells .
+A eukaryotic expression vector producing Myc-tagged wild-type or A19 B-catenin protein was cotransfected with an expression vector producing wild-type LEF-1 .
+Extracts from these transfected cells were prepared and anti-Myc MAb was added to coimmunoprecipitate B-catenin and interacting proteins .
+Using LEF-1 polyclonal antisera , a Western analysis was performed to determine if LEF-1 protein was present in these coimmunoprecipitates .
+Figure 2B shows that LEF-1 interacts with wild-type B-catenin in vivo but not with A19 B-catenin ( compare lanes 1 and 2 ) .
+Five micrograms ( ~1 x 10~'° mol ) of recombinant , full-length LEF-1 protein was added to cell extracts to determine whether a weak interaction between LEF-1 and A19 could be detected , but even an excess amount of LEF-1 protein was unable to reveal any binding to A19 ( lanes 5 and 6 ) .
+This total lack of an interaction is not due to differential stability of the A19 mutant in 293 cells , because reprobing of the same Western blot with anti-Myc antibody showed that the expression levels of wild-type and A19 B-catenin proteins are nearly the same ( compare lanes 1 and 2 and lanes 5 and 6 ) .
+Western analysis of total cell lysates from transiently transfected cells also showed that the expression levels of wild-type and A19 B-catenin vary by less than twofold ( data not shown ) .
+Mutant A19 binds to axin but is defective for binding to APC and the cytoplasmic tail of E-cadherin .
+Large deletions of the arm repeat region have been shown to destroy binding to APC , axin , and E-cadherin ( 18 , 31 , 32 , 48 ) .
+We tested whether the much smaller A19 deletion might also disrupt interactions with these three proteins ( Fig .
+2C and D ) .
+Wild-type B-catenin 4506 PRIEVE AND WATERMAN Mor .
+CELL .
+BioL .
+wt A19 A 10 % input GST LEF _ GST C gey peg peg Kd __ wt A19 wt A19 wt A19 cmt -oh Tin APC2 APC3 Axin Cnt __ Tin APC2 APC3 Axin Cnt Chi® aurea -catenin - 220-7 97.4- - > oo-w= $ e - - -* erd 66- 66- 46 46 B D purified LEF protein control vector A 19 B-catenin wt B-catenin LEF LEF Western 97 : Myc IP « < p < LEF FL protein i « lf E-cadherin Myc Western Myc IP 97 e was Mi Si | -ag s-catenin FIG .
+2 .
+Deletion of 19 aa within the arm repeat array of B-catenin disrupts interaction with LEF-1 , APC , and E-cadherin but not axin .
+( A ) Wild-type ( wt ) B-catenin and a 19-aa deletion mutant of B-catenin ( A19 ) were produced by a coupled transcription/translation system ( Promega ) in the presence of [ *°SJmethionine .
+These proteins were incubated with recombinant GST-LEF-1 or GST alone in a GST pull-down binding assay ( see Materials and Methods ) .
+The first two lanes indicate the amount of B-catenin protein added ( 10 % input ) .
+Glutathione beads are able to cosediment wild-type B-catenin with GST-LEF-1 but not GST alone .
+In contrast , A19 B-catenin is unable to bind to GST-LEF-1 .
+( B ) Whole-cell extracts were prepared from 293 cells that had been transiently transfected with the indicated expression plasmids ( see Materials and Methods ) .
+Anti-Myc MAb was used to coimmunoprecipitate B-catenin-associated proteins .
+A Western blot of the immunoprecipitates was probed with LEF-1 antisera .
+LEF-1 can be detected in coimmunoprecipitates with wild-type ( lane 1 ) but not A19 B-catenin ( lane 2 ) .
+Purified recombinant LEF-1 protein ( 5 mg ) added to cell extract prior to immunoprecipitation ( lanes 5 and 6 ) is able to interact only with wild-type B-catenin and not even weakly with A19 B-catenin .
+In lanes 3 and 4 , a control eukaryotic expression plasmid was cotransfected with either LEF-1 ( lane 3 ) or wild-type B-catenin ( lane 4 ) to show that LEF-1 coimmunoprecipitates specifically by association with B-catenin and not nonspecifically with the anti-Myc MAb .
+The same Western blot was stripped and reprobed with anti-Myc MAb to determine that the protein levels of wild-type and A19 B-catenin were equivalent .
+( C ) In vitro-translated wild-type or A19 B-catenin was incubated with two purified APC fragments ( APC2 and APC3 ) , an axin fragment ( Axin ) , or no protein ( Cnt ) .
+Anti-Glu-Glu antibody and protein G-Sepharose beads were added in a coimmunoprecipitation assay .
+Ten percent of the amount of B-catenin protein added is shown ( Tin ) .
+APC2 and axin are coimmunoprecipitated with wild-type B-catenin but only axin is coimmunoprecipitated with A19 B-catenin .
+( D ) In vitro-translated wild-type or A19 B-catenin and the C-terminal tail of E-cadherin were incubated with anti-Myc MAb and protein G-Sepharose beads in a coimmunoprecipitation assay .
+E-cadherin can be detected in coimmunoprecipitates with wild-type but not A19 B-catenin .
+The number of additional bands is due to partial translation products of B-catenin which are coimmunoprecipitated with anti-Myc MAb .
+and A19 mutant proteins were in vitro translated and tested for APC , and LEF/TCF .
+Alternatively , because tandem arm rebinding to two Glu-Glu-tagged protein fragments of APC peats are interdependent for correct folding , removal of these ( APC2 and APC3 ) and one Glu-Glu-tagged protein fragment sequences may have caused structural distortions in neighbor-of axin ( Fig .
+2C ) .
+APC2 ( aa 1034 to 2130 ) and axin ( aa 320 to ing regions of the arm repeat array .
+However , this region must 530 ) each contain a B-catenin binding domain , while APC3 ( aa not be grossly misfolded because removal of half of the sixth 2130 to 2844 ) does not and serves as a negative control ( 58 ) .
+arm repeat does not disrupt axin recognition of arm repeats 3 Anti-Glu-Glu antibody and protein G-Sepharose beads were through 7 ( 6 , 32 ) .
+added to immunoprecipitate Glu-Glu-tagged protein .
+Wild- Nuclear localization of B-catenin is LEF/TCF independent .
+type B-catenin coimmunoprecipitated with APC2 and axin but Since A19 is unable to bind to LEF/TCF proteins , this mutant not with APC3 or protein G-Sepharose beads alone .
+A19 mu- allowed us to test the model that B-catenin can move into the tant protein coimmunoprecipitated with axin at levels that nucleus independent of LEF/TCF binding in vivo .
+Immunoflu-were significantly greater than that observed with wild-type orescence detection of transiently expressed B-catenin protein B-catenin .
+In contrast , A19 did not bind to APCZ .
+Next , wild- in Cos-1 cells was carried out to determine patterns of subcel- type B-catenin or A19 mutant protein was incubated with the lular localization .
+Overexpressed B-catenin was detected with cytoplasmic tail of E-cadherin ( Fig .
+2D ) .
+Anti-Mye antibody an anti-Myc MAb .
+Localization of transiently expressed pro-and protein G-Sepharose beads were added to immunopre- tein was similar to that of endogenous B-catenin ( Fig .
+3A and cipitate Myc-tagged B-catenin protein .
+E-cadherin coimmuno- B ) ; the protein localized to plasma membrane and cytoplasmic precipitated with wild-type B-catenin but not with A19 .
+Thus , sites .
+A mutant B-catenin protein ( MT10 ) , missing the flanking sequences within or near the sixth arm repeat are required for NH- and COOH-terminal regions as well as arm repeats 10 binding to three of the four proteins tested .
+These sequences through 12 , was also observed to localize to membranes and could be directly involved in interactions with E-cadherin , cytoplasm ( Fig .
+1A and 3C ) ( 16 ) .
+In marked contrast , most of Vor .
+19 , 1999 A wildtype -catenin anti-myc DAPI endogenous -catenin B anti-B-catenin DAPI NUCLEAR LOCALIZATION AND GENE ACTIVATION BY B-CATENIN _ 4507 C MT10 anti-myc D A19 B-catenin anti-mye DAPI FIG .
+3 .
+A19 B-catenin localizes constitutively to the nucleus .
+Plasmids encoding Myc epitope-tagged wild-type B-catenin ( A ) , MTIO ( C ) , and A19 ( D ) were transiently transfected into Cos-1 cells .
+Subcellular localization was determined 48 h later by immunofluorescence with anti-Myc MAb to detect transfected B-catenin expression plasmids or anti-B-catenin MAb to detect endogenous B-catenin .
+In some cases , FITC antimouse or Texas red antimouse secondary antibody was used .
+( A to C ) Wild-type B-catenin , endogenous B-catenin , and MT1O localize to various sites in the cytoplasm and the plasma membrane .
+Background levels are higher for MT10 , since immunofluorescence of MT10 was weak and exposure times were longer than for the other B-catenin proteins .
+( D ) In contrast to wild-type and MT10 B-catenin , A19 B-catenin localizes predominantly to the nucleus .
+DAPI staining of DNA indicates the locations of nuclei .
+the A19 protein was present in the nucleus ( Fig .
+3D ) .
+This surprising pattern of nuclear localization directly shows that B-catenin can move into the nucleus independently of LEF/ TCF binding .
+The mechanism by which B-catenin gains entry to the nucleus is not understood .
+Nuclear localization of recombinant B-catenin in digitonin-permeabilized cells does not require cytoplasmic extracts which contain importin « /B NLS receptor complexes ( 2 , 25 ) .
+While these data suggest that B-catenin is capable of entering nuclei independently of im-portins , a direct test for recognition of B-catenin by an NLS receptor complex has not been reported .
+To test for a direct interaction between B-catenin and the importin « /B NLS receptor , B-catenin and importin « 2 ( also known as pendulin/Rch1 ) were translated in vitro and incubated with recombinant GST-importin B ( Fig .
+4 ) .
+An N-terminal deletion mutant of importin « 2 defective for GST-importin B binding was also generated by in vitro translation and used as a control for binding specificity in the assay .
+Full-length importin « 2 but not the N-terminal deletion ( AN importin « 2 ) bound specifically to GST-importin B , as expected .
+B-Catenin did not bind to importin « 2 or GST-importin B .
+There was no interaction even if all three proteins were incubated together .
+A test for binding of B-catenin alone with importin « 2 was also 10 % input U FL importin a2| + + + AN importin a2 + + -catenin + + + 220 97.4 -I yore < -f-catenin 66-I Pis -- | « -FL importin a2 46 - < - AN importin a2 GST-importing _i 30 -I 21.5- FIG .
+4 .
+B-Catenin does not interact with importin « 2 or importin B .
+A GST pull-down experiment with *°S-labeled , in vitro-translated wild-type B-catenin , importin « 2 , and recombinant GST-importin B was performed .
+An N-terminal deletion mutant of importin « 2 that removes the importin B interaction domain ( AN importin 2 ) was included as a negative control for nonspecific binding .
+The first three lanes indicate the amount of importin « 2 and B-catenin proteins added ( 10 % input ) .
+While full-length ( FL ) importin a2 readily interacts with GST-importin B , B-catenin does not , either in the presence or absence of importin « 2 .
+4508 PRIEVE AND WATERMAN Mor .
+CELL .
+BioL .
+A B PBMC treated with C Jurkat Untreated PBMC Untreated PMA + lonomycin anti-myc DAPI anti-myc DAPI anti-myc DAPI FIG .
+5 .
+Localization of B-catenin in normal human peripheral blood lymphocytes and Jurkat T lymphocytes .
+( A and B ) PBMCs were transfected with the indicated expression constructs .
+Four hours after transfection , cell preparations were treated with PMA and ionomycin or treated with ethanol as a mock control ( untreated ) for 3 h. ( C ) Jurkat cells were transiently transfected with the indicated B-catenin constructs , and subcellular localization was determined 24 h later .
+Transiently expressed B-catenin proteins were detected with anti-Myc MAb and FITC-antimouse secondary antibody .
+DAPI staining of DNA indicates the locations of nuclei .
+( A ) In untreated cells , both the wild type and MT10 are cytoplasmic while A19 is nuclear .
+( B ) When cells are treated with PMA and ionomycin , both wild-type B-catenin and MT1O0 localize to the nucleus .
+( C ) Wild-type , MT10 , and A19 B-catenin all localize to the nucleus in Jurkat cells .
+negative ( data not shown ) .
+In vitro-translated B-catenin is capable of binding to LEF-1 protein , indicating that the in vitro-translated protein product is functional in other well-known binding activities ( Fig .
+2A ) .
+These data suggest that B-catenin does not interact with classic NLS receptor complexes such as importin « 2-importin B .
+It is possible that B-catenin could interact with another importin « or B subtype not tested here .
+However , a lack of an interaction is consistent with a model that B-catenin enters the nucleus via a mechanism independent of the NLS receptor pathway ( 17 ) .
+Localization of B-catenin in normal peripheral blood lymphocytes and Jurkat T lymphocytes .
+Many studies that have examined B-catenin activation of gene transcription have used the B-lymphocyte cell line IIA1.6 ( 36 , 37 , 44 , 63 ) .
+Likewise , T-lymphocyte cell lines have often been used to study gene activation by LEF-1 and TCF-1 ( 11 , 21 , 22 , 62 , 64 ) .
+In contrast to transcription activation , most studies of B-catenin localization have used adherent cell lines or normal cells in whole animal model systems .
+Therefore , we wished to determine the subcellular localization of B-catenin in normal , untransformed T lymphocytes as well as a T-lymphocyte cell line .
+Preparations of PBMCs from normal human blood can be transiently transfected with plasmid DNA ( 30 ) .
+The overwhelming majority of cells that are transfected in this procedure are T lymphocytes ( > 98 % ) , and we used this method to assess the localization of B-catenin in nontransformed T cells .
+Both wild-type B-catenin and MT1O0 localized to the plasma membrane or cytoplasm , while A19 was localized to the nucleus ( Fig .
+5A ) ( lymphocytes have very little cytoplasm compared to nucleus , making it difficult to distinguish between plasma membrane and cyto-plasm ) .
+The localization patterns of wild-type and mutant B-catenins in these cells were similar to those in Cos-1 cells ( Fig .
+3 ) .
+Activation of T lymphocytes through T-cell receptor stimulation or by PMA-ionomycin treatment can mimic some of the effects of activating the Wat signal transduction pathway .
+For example , GSK3-B , the serine/threonine kinase that negatively regulates B-catenin , is inhibited upon T-cell stimulation ( 67 ) .
+This causes at least one transcription factor ( NF-AT ) to accumulate in the nuclear compartment , in part because GSK-38B-dependent nuclear export of NF-AT is inhibited ( 4 , 5 ) .
+We tested whether activation of transfected human T lymphocytes by PMA-ionomycin treatment would cause a shift in the localization pattern of transiently expressed B-catenin .
+Transiently transfected PBMC preparations were treated with PMA and ionomycin for 3 h prior to fixation ; within this time , there was a quantitative shift in localization of both wild-type B-catenin and MT1O0 protein from the plasma membrane or cytoplasm to the nucleus in all transfected cells ( Fig .
+5B ) .
+The nuclear localization of A19 remained unchanged .
+Jurkat T cells are transformed T lymphocytes ; these cells behave similarly to activated T lymphocytes in that they synthesize and secrete the cytokine interleukin 2 , a marker of T-cell activation ( 60 ) .
+Transient expression of wild-type , MT10 , and A19 B-catenin protein in these cells exhibited a pattern of subcellular localization nearly identical to that of activated normal T cells ( Fig .
+5C ) .
+All three forms were constitutively nuclear ; there was no dramatic difference between wild-type and A19 B-catenin as there was in the Cos-1 cells .
+These results again confirmed that nuclear localization of B-catenin is independent of LEF/TCF binding ( A19 is nuclear ) and that a nuclear localization domain or determinant is located within the first nine arm repeats of the protein ( MT1O0 is nuclear ) .
+However , these results also suggested that the ability of B-catenin to accumulate in the nucleus differs between cell types .
+The PMA-ionomycin-directed shift in subcellular localization of B-catenin in normal T cells suggested either that the ability of B-catenin to access its nuclear transport pathway is regulated or that the transport pathway used by B-catenin is itself under tight restriction .
+Another possibility is that B-cate- Vor .
+19 , 1999 A Control anti-myec pB-catenin wt A19 B-catenin NUCLEAR LOCALIZATION AND GENE ACTIVATION BY B-CATENIN - 4509 B Actinomycin D + Cycloheximide anti-mye FIG .
+6 .
+Wild-type and A19 B-catenins are exported from the nucleus in normal human peripheral blood lymphocytes .
+PBMCs were transfected with the indicated expression constructs .
+( A ) Six hours prior to harvest , cell preparations were treated with PMA and ionomycin ( Control ) .
+( B ) Three hours prior to harvest , cell preparations were treated with actinomycin D and cycloheximide .
+Transiently expressed B-catenin was detected with anti-Myc MAb and FITC-anti-mouse secondary antibody .
+DAPI staining of DNA indicates the locations of nuclei .
+In cells treated with PMA and ionomycin , both wild-type and A19 B-catenins are localized to the nucleus .
+Subsequent treatment with actinomycin D and cycloheximide inhibits nuclear import and protein synthesis .
+With these treatments , wild-type and A19 B-catenins are exported to the cytoplasm .
+nin might be capable of both nuclear import and export .
+In a manner similar to that observed for NF-AT , PMA-ionomycin treatment may cause nuclear accumulation of B-catenin by shifting the kinetic balance to favor import over export .
+If this were true , the constitutive nuclear accumulation of A19 might be due to an inability of the A19 mutant protein to be exported from the nucleus .
+Export of B-catenin from nuclei in normal human peripheral blood lymphocytes .
+We tested whether wild-type B-catenin could undergo nuclear export , and we also tested whether A19 exhibited any differences with respect to this activity .
+A common method to test for nuclear export of proteins is to block nuclear import with actinomycin D treatment ( a transcription inhibitor ) and to block protein synthesis with cycloheximide such that no newly synthesized protein accumulates in the cytoplasm ( 51 ) .
+Therefore , any formerly nucleus-localized protein that accumulates in the cytoplasm in these treated cells must have undergone active export from the nucleus .
+PBMC preparations were transiently transfected with either wild-type or A19 B-catenin expression plasmid and then treated with PMA-ionomycin to direct all B-catenin protein to the nucleus ( Fig .
+6A ) .
+Actinomycin D and cycloheximide were added to half of the cells to block import and de novo protein synthesis ( Fig .
+6B ) .
+After 3 h , cells were processed for immunofluores-cence .
+Both wild-type and A19 B-catenin staining was observed only in the cytoplasm and not the nucleus , suggesting that both were actively exported from the nucleus during actinomycin D-cycloheximide treatment .
+Overall fluorescence was weaker in cells treated with these reagents because protein synthesis was completely inhibited for 3 h , and exported B-catenin may have been subject to degradation in the cytoplasm .
+A less likely explanation is that a low level of cytoplasmic B-catenin remained stable throughout the 3-h incubation with cyclohexi-mide , and nuclear B-catenin was preferentially degraded .
+Taken together , these data show that the differing localization patterns between wild-type B-catenin ( cytoplasm ) and A19 ( nucleus ) in unstimulated T lymphocytes are not due to differences in import or export .
+B-Catenin- and LEF-1-dependent activation of transcription varies in different cell types .
+In addition to the dramatic effects that the A19 mutation has on localization , we also determined the effect of the mutation on reporter gene activation in the nucleus .
+We examined the transactivation potential of LEF-1 and B-catenin in Cos-1 cells , Jurkat T cells , and normal human T lymphocytes , all of which are different in some aspect of B-catenin localization ( Fig .
+7 ) .
+In order to examine the ability of only the transiently expressed proteins to work together , a LEF-1 fusion protein , in which the first 256 aa of LEF-1 were fused to the yeast Gal4 DNA binding domain , was used in place of full-length LEF-1 protein ( G4LEF ) ( Fig .
+7 ) .
+The reporter plasmid contained five Gal4 upstream activating sites ( UAS ) placed upstream of a minimal promoter driving luciferase coding sequences ( G4 UAS/Luc ) .
+Transfection of the G4LEF expression plasmid with the G4 UAS/Luc reporter plasmid did not produce significant luciferase expression in Cos-1 cells ( Fig .
+7A ) .
+However , if a B-catenin expression plasmid was included , a fourfold increase in reporter gene expression was observed .
+Cotransfection of A19 with G4LEF yielded only basal levels of expression , confirming that , in vivo , the A19 mutant does not interact with G4LEF even though both proteins are concentrated in the nucleus ( see Fig .
+3 for B-catenin localization ) .
+The modest fourfold activation is due to a bona fide interaction between LEF-1 and B-catenin , because an N-terminal deletion of LEF-1 missing the B-catenin binding domain does not activate reporter gene expression [ G4LEF ( 80-256 ) + B-cat ; Fig .
+7A ] .
+In Cos-1 cells , overexpression of G4LEF does not cause a change in the subcellular distribution of B-catenin protein , similar to what is observed in NIH 3T3 cells ( 27 , 55a ) .
+Instead , B-catenin remains mostly localized to the plasma membrane and cytoplasm , thereby accounting for the modest levels of activation observed in these cells .
+In Jurkat T lymphocytes , transiently expressed B-catenin 4510 PRIEVE AND WATERMAN Mor .
+CELL .
+BioL .
+G4 UAS ( Luc— -- -I : Luciferase -- 0 500 1,000 1,500 2,000 2,500 3,000 A Ex !
+: : : ' } Control | - | | ﬂ GA4LEF | GALEF + B-cat | - Cos-1 G4LEF + A19 | G4LEF ( 80-256 ) + B-cat | .
+__ 0 25,000 50,000 75,000 100,000 B P+I | 1 I I T T T Control | | Control | + G4LEF | GALEF | + G4LEF + B-cat | = GALEF + B-cat | + G4LEF + AMQ | - Jurkat G4LEF + M19 | + G4LEF + MT10 | G4LEF + MT10 | + G4LEF ( 80-256 ) + B-cat | G4LEF ( B0-256 ) + B-cat | + G4VP16 0 5,000 10,000 15,000 20,000 25,000 C F= !
+! }
+: G4Luc + G4LEF | - | } | Galuc+ Galer | +|| o P+ G4Luc + G4LEF + B-cat GA4Luc + G4LEF + B-cat PBMC * TopTK + FL LEF * TopTK + FL LEF + B-cat GALuc + G4VP16 Light Units FIG .
+7 .
+A direct interaction between B-catenin and LEF-1 is necessary but not sufficient to activate gene expression .
+Wild-type , A19 , or MT1O B-catenin expression plasmids were cotransfected with the Gal4 DNA binding domain ( DBD ) fused to LEF-1 aa 1 to 256 ( G4LEF ) and a reporter plasmid containing five tandemly repeated Gal4 UAS directing luciferase reporter gene ( G4 UAS/Luc ) expression in Cos-1 and Jurkat cells and PBMCs .
+A summary of the B-catenin localization in each of these cell lines is shown in the upper right corner of each panel .
+( A ) Five micrograms of B-catenin , 5 ug of G4LEF expression plasmids , and 1 g of reporter plasmid were transfected into Cos-1 cells .
+( B ) Seven hundred fifty nanograms of B-catenin and 50 ng of G4LEF expression plasmids or 750 ng of G4VP16 expression plasmid and 1 g of reporter plasmid were transfected into Jurkat cells .
+In the absence of B-catenin , the range of luciferase activity varied from 574 to 825 .
+( C ) The indicated expression plasmids ( 10 g ) were cotransfected with 10 g of reporter plasmid into PBMCs .
+P + I , treatment of cell preparations with PMA plus ionomycin for 3 h prior to harvest of cells ; * , use of the Top TK reporter plasmid in place of the G4 UAS/Luce reporter plasmid .
+A plasmid ( 0.5 g ) containing the lacZ gene under the control of the CMV promoter was cotransfected as an internal control for transfection efficiency .
+G4LEF ( aa 80 to 256 ) , which does not bind to B-catenin , was used as a negative control ( A and B ) .
+An empty eukaryotic expression plasmid was used to equalize the amount of DNA used in each transfection .
+Cells were harvested at 15 to 24 h posttransfection , and cell lysates were analyzed for luciferase and B-galactosidase activity .
+Wild-type B-catenin and LEF-1 transactivated the reporter gene construct in Cos-1 and Jurkat cells , while neither A19 nor MT10 cooperated with LEF-1 to activate gene expression .
+In addition , the level of transcription activation of B-catenin-LEF-1 complexes in Jurkat cells was higher than that observed with G4VP16 ( 750 ng ) .
+B-Catenin and G4LEF-1 or full-length LEF-1 ( FL LEF-1 ) did not transactivate reporter gene expression in PBMCs , although G4VP16 ( 10 pg ) was able to transactivate the reporter gene in PBMCs .
+Error bars were calculated by using the average of duplicate points ( A and C ) or triplicate points ( B ) .
+Values shown are from one of three replicate experiments .
+protein is localized to the nucleus ( Fig .
+5C ) .
+Cotransfection of _ what can be achieved by the strong activating fusion protein G4LEF and B-catenin expression plasmids in these cells stim- Gal4-VP16 ( G4VP16 ) ( 35-fold ) .
+As observed for Cos-1 cells , ulated a large increase in reporter gene expression ( 150-fold ) cotransfection of A19 B-catenin did not activate gene expres- ( G4LEF + Beat [ Fig .
+7B ] ) , an even greater activation than sion at all , nor did MT1O0 or the G4LEF mutant missing the Vor .
+19 , 1999 B-catenin binding domain , even though all of these proteins are localized to the nucleus .
+Treatment of Jurkat cells with PMA-ionomycin did not change the transactivation potential of LEF-1 and B-catenin .
+Either B-catenin has a strong costimulatory effect in Jurkat T cells due to the overall strength of its nuclear localization or another transcription cofactor or basal factor is abundant in these cells .
+We tested whether strong activation could be observed in normal human T lymphocytes ( Fig .
+7C ) .
+Surprisingly , B-catenin and G4LEF were unable to activate gene expression , even in the presence of PMA-ionomycin treatment ( which causes a quantitative shift of B-catenin into the nucleus [ see Fig .
+5B for localization patterns ] ) .
+In contrast , an equivalent amount of G4VP16 was able to produce a 115-fold increase in reporter gene expression .
+Thus , activation of reporter gene expression by the VP16 transcription activation domain is possible in normal T cells , but B-catenin and LEF-1 are not able to elicit detectable amounts of luciferase gene expression .
+This dramatic difference between the activities of B-catenin and LEF-1 in normal versus transformed lymphocytes is not due to differential localization or to dramatic differences in protein stabil-ity , as our immunofluorescence data indicate .
+To rule out that G4LEF was the cause of this differential activation , we tested whether full-length B-catenin and full-length , wild-type LEF-1 could activate gene expression with the Top TK reporter plasmid ( 44 ) .
+This plasmid contains five multimerized LEF/TCF binding sites and has been used extensively to examine LEF-1-B-catenin reporter gene activation in many different cell types ( 27 , 29 , 36 , 44 , 45 , 59 , 63 ) .
+Wild-type LEF-1 and wild-type B-catenin were unable to activate Top TK reporter gene expression .
+In addition , the Top TK reporter plasmid was tested in Jurkat cells .
+High levels of wild-type LEF-1 and wild-type B-catenin were able to activate reporter gene expression , which is similar to the results in Fig .
+7B with the G4 UAS/Luc reporter plasmid ( data not shown ) .
+Thus the G4 UAS/Luc reporter plasmid functions in a manner similar to the wild-type LEF/TCF binding site reporter plasmid .
+One possibility for the different activities of B-catenin and LEF-1 is that another cofactor is required to activate gene expression .
+This cofactor might be abundant in Jurkat cells but absent or limiting in normal human T lymphocytes .
+Such a cofactor may not be an essential basal RNA polymerase II factor , as G4VP16 fusion protein is capable of activating reporter gene expression in either cell type .
+A19 can squelch B-catenin-activated gene expression but not VP16-activated gene expression .
+To test whether another nuclear component is required for B-catenin-LEF-1 complexes to activate reporter gene expression , a squelching experiment was designed .
+It has been proposed that B-catenin contains transcription activation domains in the C terminus and the N terminus of the protein ( 27 , 63 ) .
+Although these regions do not have sequence similarity or amino acid compositions similar to known transcription activation domains , they can activate gene expression when fused to heterologous DNA binding domains such as LEF-1 or Gal4 ( 27 , 59 , 63 ) .
+If either domain of B-catenin is interacting with a third required transcription factor , then overexpression of this domain should sequester the third component from wild-type B-catenin-LEF-1 complexes and inhibit activation of gene transcription .
+This method of inhibition is referred to as squelching .
+To carry out the experiment , overexpression of the A19 B-catenin mutant was used to test for squelching .
+Since A19 is completely negative for binding to LEF/TCF proteins in vitro and in vivo ( Fig .
+2 and 7 ) , no squelching should occur due to simple sequestration of LEF-1 protein .
+Secondly , A19 protein localizes constitutively to the nucleus of all cells where squelch NUCLEAR LOCALIZATION AND GENE ACTIVATION BY B-CATENIN _ 4511 ing of transcription factor components should occur .
+Jurkat cells were used because the level of activation is very high .
+In the experiment represented by Fig .
+8A , G4LEF and B-catenin activated luciferase reporter gene expression 125-fold .
+Excess plasmid containing the strong cytomegalovirus ( CMV ) promoter was used to control for inhibitory effects due to competition for basal polymerase II components .
+As this balancer plasmid was increased from a 4-fold to a 20-fold excess , a 15 % drop in G4LEF/B-catenin-dependent luciferase activity was observed ( Fig .
+8A ) .
+Thus , large amounts of competitive CMV promoter-containing plasmid may account for a minor inhibitory effect .
+There was a 2-fold drop in luciferase activity when a 4-fold excess of A19 plasmid was included , and a 20-fold excess of A19 plasmid caused a 22-fold drop in activation .
+This suggests that overexpression of B-catenin can indeed squelch activation of reporter gene expression by sequestering a required component .
+The A19 mutant B-catenin was further modified to remove the hydrophilic N terminus ( ANA19 ) ( Fig .
+1 ) .
+Fourfold and 20-fold excess ANA19 plasmid also exhibited squelching , albeit to a slightly lesser extent .
+Finally , a 60-fold excess of an expression plasmid encoding ANLEF , an N-terminal deletion mutant of wild-type LEF-1 missing the B-catenin binding domain , was unable to squelch reporter gene expression , suggesting that the squelching activity is specific to a region of B-catenin .
+To determine whether A19 B-catenin was squelching by inhibiting a general step in polymerase II tran-scription , beyond the point of initiation , 4-fold and 20-fold excess B-catenin was tested against G4VP16 activation of the same G4 UAS/Luc reporter plasmid ( Fig .
+8B ) .
+Addition of 20-fold excess balancer plasmid elicited a 20 % decrease in G4VP16 activation from 35-fold activation to 29-fold activation .
+Addition of a 4-fold excess of B-catenin plasmid caused a 32 % decrease in G4VP16 activation , and a 20-fold excess caused a 31 % decrease , compared to matched controls .
+This amount of inhibition is minor compared to the striking effect on G4LEF and B-catenin shown in Fig .
+8A .
+Furthermore , the level of inhibition does not change when the excess of B-catenin plasmid is increased from 4-fold to 20-fold but stays constant at approximately 30 % , suggesting that this minor inhibitory effect is due to reasons other than specific squelching .
+We conclude that B-catenin can squelch reporter gene expression because a domain within the arm repeat array or the C terminus is interacting with a third component required by B-catenin-LEF-1 complexes to activate gene transcription .
+DISCUSSION We have examined nuclear localization of B-catenin and demonstrate directly that nuclear import is independent of LEF/TCF binding ; we also show data to suggest that B-catenin can be exported from nuclei .
+Below , we discuss a model in which subcellular localization of B-catenin is shaped by competing cytoplasmic and nuclear sequestration and the relative rates of nuclear import and nuclear export .
+B-Catenin-LEF-1 complexes do not activate reporter gene expression in normal T lymphocytes even though both factors are abundantly and predominantly in the nucleus .
+Thus , gene activation by B-catenin does not always correlate with nuclear localization .
+This fact , coupled with our observation that overexpression of B-catenin can squelch activation by LEF-1-B-catenin complexes but can not squelch activation by the herpesvirus VP16 transcription activator , leads us to propose that an additional transcription component is required for B-catenin to activate gene expression .
+Three models could explain how a small deletion of 19 aa in arm repeat 6 of B-catenin causes a dramatic change in sub 4512 PRIEVE AND WATERMAN Mor .
+CELL .
+BioL .
+G4 UAS/Luc— -- -| : Luciferase A o 50 100 150 4X Cnt 20X Cnt V 4X A19 G4LEF + B-cat 20X A19 4X ANA19 20X ANA19 60X ANLEF 4X Cnt G4VP16 20X Cnt 4X B-cat 20X B-cat Fold Activation FIG .
+8 .
+Excess B-catenin squelches transactivation of B-catenin and LEF-1 but not transactivation by VP16 .
+( A ) Wild-type B-catenin expression plasmid ( 750 ng ) was cotransfected with 50 ng of G4LEF ( aa 1 to 256 ) , 1 g of G4 UAS/Luc reporter plasmid , and the following plasmids used as competitors : 4- and 20-fold ( 3 and 15 g , respectively ) excess amounts of A19 B-catenin , control plasmid ( empty eukaryotic expression plasmid ) , and ANA19 B-catenin ( see Fig .
+1 ) and a 60-fold ( 3 pg ) excess amount of ANLEF ( hLEF-1 aa 67 to 399 ) .
+Excess amounts of A19 and ANA19 B-catenin , but not control plasmid or ANLEF , were able to squelch wild-type B-catenin-LEF-1 reporter gene activation .
+( B ) G4VP16 ( 750 ng ) was cotransfected with 1 ug of G4 UAS/Luc reporter plasmid and the following plasmids used as competitors : 4- and 20-fold ( 3 and 15 pg , respectively ) excess amounts of control plasmid or a wild-type B-catenin construct .
+Wild-type B-catenin does not squelch G4VP16 transactivation .
+A plasmid ( 0.5 pg ) containing the lacZ gene under the control of the CMV promoter was cotransfected as an internal control for transfection efficiency .
+Error bars were calculated by using the average of duplicate points .
+Values shown are from one of three replicate experiments .
+Fold activation was calculated by comparing levels of luciferase activity to the G4 UAS/Luc reporter alone .
+cellular localization .
+First , the 19-aa deletion could have unmasked or generated a strong , cryptic NLS .
+Second , if B-catenin is a cytoplasmic-nuclear shuttling protein with export capabilities , the 19-aa deletion might prevent export such that newly imported A19 B-catenin protein remains trapped in the nuclear compartment .
+Third , B-catenin might be sequestered in the cytoplasm and plasma membrane , and the 19-aa deletion could disrupt one or more of these interactions .
+The first model is unlikely because no obvious clustered or bipartite NLS sequence is evident around the deleted region .
+Furthermore , larger deletions that remove other portions of the arm repeat array also create nucleus-localized protein ( 48 ) .
+While the exact region specifying nuclear transport has not been defined , we show that nuclear import can be carried out by arm repeats 1 through 9 ( MT10 ) ( Fig .
+5 and 6 ) .
+Others have also observed MT10 to be localized to the nucleus ( 16 ) .
+The ability of this region to direct nuclear transport is remarkably resilient , even when subjected to large deletions .
+The subcellular localization of a series of armadillo deletion mutants was determined in Drosophila embryos ( 48 ) .
+Deletion of arm re peat 5 , 8 , or 3 through 6 did not destroy nuclear localization ; indeed , no deletion mutation has yet been reported to impair nuclear localization .
+Instead , deletion of repeats 3 through 6 created a constitutively nucleus-localized armadillo protein , much like the constitutively localized A19 mutant described here ( 48 ) .
+Either nuclear import is directed by a discrete signal motif that has yet to be specifically deleted or it is specified by any one of a number of redundant determinants present in the arm repeat array .
+We have presented data to suggest that wild-type B-catenin is capable of nuclear export ( Fig .
+6 ) .
+While this lends support to the second model , in which A19 is localized to the nucleus because it has lost the ability to be exported , we show that there is no difference between wild-type B-catenin and A19 localization ( Fig .
+6 ) .
+Therefore , the second model is insufficient to explain the contrasting patterns of localization .
+Even so , regulated shifts in subcellular localization of B-catenin could involve a modulation of the relative rates of import and export .
+Indeed , we observe that localization of B-catenin in normal T lymphocytes can be shifted from cytoplasm to nu Vor .
+19 , 1999 cleus with PMA-ionomycin treatment ( Fig .
+5 ) .
+Either this T-cell-activating signal modulates relative rates of import and export , as it does for NF-AT , or it somehow causes release of B-catenin from anchoring sites in the cytoplasm or plasma membrane .
+Future studies of B-catenin localization should include a consideration of the ability of this protein to shuttle in and out of the nucleus .
+Our data are most consistent with the third model , in which A19 localizes to the nucleus because it can not be efficiently sequestered in the cytoplasm and plasma membrane .
+We have shown that A19 is completely defective for LEF/TCF binding , but we have also shown that it no longer interacts with the cytoplasmic tail of E-cadherin or the cytoplasmic tumor suppressor protein APC ( Fig .
+2 ) .
+Thus , A19 may not be easily anchored in the cytoplasm , and this might be at least part of the reason for the predominant nuclear localization of this mutant .
+In light of the dramatic localization of A19 protein to the nucleus , it is surprising that it binds well to axin .
+Obviously , this ability to interact with axin does not prevent nuclear localization , but more work is necessary to determine why this is the case .
+In their study of armadillo deletion mutants in Drosophila embryos , Orsulic and Peifer found that the strongest correlation for nuclear accumulation of armadillo mutants was a loss of E-cadherin binding ; loss of interactions with other cytoplasmic proteins discovered more recently might produce the same effect ( 48 ) .
+Overexpressed E-cadherin protein can prevent nuclear localization of B-catenin , and it has been suggested that cadherins act as regulators of B-catenin signaling by depleting the soluble cytoplasmic pool ( 16 ) .
+Likewise , cytoplasmic extracts inhibit nuclear accumulation of B-catenin in digitonin-permeabilized cells , again suggesting that an anchoring activity in the cytoplasmic extract prevents B-catenin from transporting through nuclear pores .
+Another explanation for the localization pattern of A19 would be that this protein is much more stable because it has lost the ability to interact with conductin/axin/axil and APC .
+Indeed , an increase in the stability of B-catenin is one of the major effects of the Wat signaling cascade , and this increase correlates with an appearance of the protein in the nucleus .
+However , there are no apparent differences between the expression levels of wild-type B-catenin and A19 ( Fig .
+2 and data not shown ) .
+This is surprising given that A19 no longer binds to APC .
+A19 B-catenin is able to bind to axin as well as , if not better than , wild-type B-catenin .
+Perhaps axin is still capable of mediating some form of degradation .
+It is curious that A19 can localize to nuclei even though it can bind to axin ; this would appear to be inconsistent with a cytoplasmic anchoring model .
+Perhaps axin/conductin/axil does not play a strong role in sequestration compared to E-cadherin .
+Immunolocalization studies of exogenously expressed conduc-tin show that the protein localizes throughout the cell ( 6 ) .
+Another possibility is that axin relocalizes with A19 to the nucleus .
+Taken together , our data support a model in which varying patterns of subcellular localization are due in part to sequestration by B-catenin binding proteins .
+It is important to point out that since B-catenin may be exported , subcellular localization might also be influenced by sequestration of B-catenin in the nucleus and competing rates of import and export .
+Early reports of an interaction between B-catenin and LEF/TCF factors showed that transiently expressed B-catenin was cytoplasmic unless coexpressed with a LEF/TCF protein ( 7 , 29 , 44 ) .
+In those situations , coexpressed LEF/TCF proteins may have been preventing cytoplasmic anchoring by competing with cytoplasmic or plasma membrane proteins for binding to the same or overlapping portion of the arm repeat array .
+But it is also plausible that the high levels of transiently expressed LEF/TCF protein may have trapped NUCLEAR LOCALIZATION AND GENE ACTIVATION BY B-CATENIN _ 4513 B-catenin in the nucleus and prevented export .
+A nuclear entrapment or sequestering of B-catenin by LEF/TCF proteins may explain why we observe that transiently expressed B-catenin is predominantly nuclear in cells that express high levels of endogenous LEF-1 and TCF-1 ( Jurkat ) but is cytoplasm or membrane bound in cells that express little or no LEF/TCF protein ( PBMCs and Cos-1 cells , respectively ) .
+Consistent with this idea is the fact that wild-type B-catenin can not be exported from Jurkat nuclei ( 55a ) .
+In other cell lines , such as NIH 3T3 and Cos-1 cells , overexpression of LEF-1 is not sufficient to direct endogenous B-catenin to the nucleus ( 27 , 53a ) .
+Interest-ingly , Wat-1 treatment of NIH 3T3 cells is also insufficient to cause nuclear accumulation , even though it stimulates a large increase in total levels of B-catenin protein .
+Instead , it is necessary to coexpress LEF-1 and Wat-1 in NIH 3T3 cells to drive endogenous B-catenin into the nucleus and keep it there ( 27 ) .
+Once B-catenin accumulates in nuclei , it complexes with LEF/TCF proteins to regulate gene expression .
+B-Catenin and LEF/TCF proteins have been able to elicit increases in reporter gene expression in different cell lines including Neuro 2A , NIH 3T3 , IIA1.6 lymphocytes , and others .
+These data and others , including the ability of the C-terminal hydrophilic region of armadillo to activate reporter gene expression in yeast , have led to a straightforward model in which recruitment of B-catenin by a LEF/TCF protein to the promoter template may be all that is required to activate gene transcription .
+We tested whether Cos-1 cells , Jurkat cells , and PBMCs could support B-catenin-dependent activation of reporter gene expression and whether the level of reporter gene activation correlated with the level of nuclear localization in different cells , and it did not ( Fig .
+7 ) .
+We observed that activation of gene expression by this complex varied greatly between cell types .
+LEF-1 and B-catenin activated reporter gene expression poorly in Cos-1 cells .
+Wild-type B-catenin does not localize efficiently to the nucleus in these cells , and coexpression of LEF-1 does not force a shift of B-catenin to the nucleus ( 53a ) .
+Similar observations have been made with NIH 3T3 cells ; LEF-1 overexpression is insufficient to relocalize B-catenin ( 27 ) .
+Thus , the low level of activation in Cos-1 cells could simply correlate with the poor ability of B-catenin to transport to nuclei .
+This is clearly not the case for normal peripheral lymphocytes : LEF-1 and B-catenin could not activate transcription in PBMCs even when PMA and ionomycin were added to direct B-catenin to the nucleus ( Fig .
+7C ) .
+These cells are certainly capable of supporting reporter gene activation , as they have been used extensively to study regulation of interleukin 2 promoter activity ( 30 ) , and we observe a 115-fold activation of the reporter by G4VP16 ( Fig .
+7C ) .
+Perhaps an inhibitory factor is abundant in normal T lymphocytes , or a third required component or modification of B-catenin or LEF-1 protein is limiting in these cells .
+We tested these notions by overexpressing B-catenin and LEF-1 mutants that could not engage in complex formation to see whether these mutants could act negatively by squelching a required cofactor ( Fig .
+8A ) .
+The A19 mutant was able to effectively squelch reporter gene activation when provided at 20-fold excess over wild-type B-catenin , as was a related mutant missing the N-terminal region ( Fig .
+8A ) .
+A 60-fold excess of LEF-1 missing the B-catenin binding domain did not squelch .
+These data suggest that a region in the arm repeat array or the C terminus of the protein is able to specifically sequester a required positive cofactor for activation , although they do not rule out the possibility that an additional inhibitory factor is present in normal T lymphocytes .
+The sequestered factor is not likely to be involved in general steps of transcription downstream of RNA polymerase II initiation , because B-catenin does not squelch G4VP16 activation .
+The transcrip- 4514 PRIEVE AND WATERMAN tion activation domain of VP16 is highly acidic and known to affect both initiation and processivity of RNA polymerase II transcription through multiple contacts with basal factors and TATA binding protein-associated factors ( 8 , 24 , 39 ) .
+The A19 squelching activity must not be interfering with these contacts or downstream events .
+The C-terminal domain of B-catenin has been proposed to be a transcription activation domain ( 48 , 63 ) .
+However , most of the C-terminal region is not nearly as well conserved between catenin orthologs and plakoglobin ( which can also activate reporter gene expression ) as the arm repeats , making it difficult to identify a specific conserved region as a candidate transcription activation domain .
+Perhaps the C-terminal domains adopt similar functional structures despite their modest level of sequence similarity , or they each activate transcription through different sequences .
+For the squelching results presented here , it is equally likely that a region other than the divergent C terminus is responsible and that a region of the arm repeat array , not perturbed by the A19 mutation , is competing for a required transcription component .
+Pontin52 , a nuclear protein that binds to Tata binding protein , has also been shown to bind to arm repeats 2 through 5 of B-catenin ( 3 ) .
+Pontin52 can be coimmunoprecipitated within a larger complex containing B-catenin and LEF-1 and is proposed to provide a bridging function between LEF-1-B-catenin complexes and basal transcription machinery .
+If this is true , Pontin52 could presumably be a component that is squelched by excess A19 protein .
+However , we show that MT10 , a B-catenin deletion mutant containing arm repeats 1 through 9 , does not activate reporter gene expression even though it should be fully capable of binding Pontin52 ( Fig .
+7B ) .
+Therefore , an additional protein or complex is likely to be involved .
+Clearly , more work is necessary to test these possibilities .
+Three additional nuclear proteins , Groucho , CREB binding protein ( CBP ) , and Teashirt , have recently been shown to interact with either LEF-1 ( Groucho and CBP ) or B-catenin/ armadillo ( Teashirt ) ( 12 , 19 , 38 , 56 , 65 ) .
+Groucho , a transcriptional repressor , has been shown to bind to TCF-1 near the HMG DNA binding domain ( 12 , 38 , 56 ) .
+CBP , a coactivator-acetyltransferase , binds to the HMG DNA binding domain of LEF-1 and is proposed to antagonize B-catenin binding ( 65 ) .
+For our experiments , we have used a G4LEF ( aa 1 to 256 ) expression plasmid that does not contain the Groucho and CBP binding regions .
+Thus the lack of activation obtained in normal T lymphocytes is not a result of Groucho repression or antagonistic actions by CBP .
+Teashirt , a Zn-finger Drosophila protein expressed in a trunk-specific pattern , requires a direct interaction with armadillo/B-catenin to regulate the expression of some Wingless gene targets but not others ( 19 ) .
+Teashirt may be a tissue-specifically expressed DNA binding protein that recruits B-catenin to a subset of gene targets independent of LEF-1 , or it may be a coactivating component of a larger complex involving all three proteins .
+Whether a mammalian ortholog of Teashirt is expressed in Jurkat cells or normal T lymphocytes is not known , but it is unlikely .
+It is more likely that there are other B-catenin binding proteins in addition to LEF/TCFs , Pontin52 , and Teashirt that are involved in transcription activation .
+Future studies should be focused on identifying these additional factors .
+ACKNOWLEDGMENTS We thank Chris Hughes , Javier Mestas , and other members of the Hughes laboratory for invaluable help with transfection of PBMC preparations and generous sharing of time and reagents .
+We are grateful to Barry Gumbiner for sharing full-length and MT1O0 B-catenin constructs and to Steve Adam for the GST-importin B plasmid .
+Many Mor .
+CELL .
+BioL .
+thanks go to Harry Mangalam , Karine Hovanes , Chris Hughes , Bert Semler , Larry Marsh , and Adeela Syed for critical reading of the manuscript .
+This work was supported by grant CA 62069 from NIH and in part by grant RPG-97-156-CSM from the American Cancer Society and by the Chao Cancer Center at UCI .
+M.L.W .
+is a member of the Developmental Biology Center and the Cancer Research Institute at UCL REFERENCES 1 .
+Aberle , H. , A. Bauer , J. Stappert , A. Kispert , and R. Kemler .
+1997 .
+Beta-catenin is a target for the ubiquitin-proteasome pathway .
+EMBO J .
+16:3797-3804 .
+2 .
+Adam , S. A. , R. E. Sterne-Marr , and L. Gerace .
+1990 .
+Nuclear protein import in permeabilized mammalian cells requires soluble cytoplasmic factors .
+J .
+Cell Biol .
+111:807-816 .
+3 .
+Bauer , A. , O. Huber , and R. Kemler .
+1998 .
+Pontin52 , an interaction partner of beta-catenin , binds to the TATA box binding protein .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 95:14787-14792 .
+4 .
+Beals , C. , N. Clipstone , S. Ho , and G. Crabtree .
+1997 .
+Nuclear localization of NF-ATe by a calcineurin-dependent , cyclosporin-sensitive intramolecular interaction .
+Genes Dev .
+11:824-834 .
+5 .
+Beals , C. , C. Sheridan , C. Turck , P. Gardner , and G. Crabtree .
+1997 .
+Nuclear export of NF-ATe enhanced by glycogen synthase kinase-3 .
+Science 275 : 1930-1934 .
+6 .
+Behrens , J. , B.-A .
+Jerchow , M. Wurtele , J. Grimm , C. Asbrand , R. Wirtz , M. Kuhn , D. Wedlich , and W. Birchmeier .
+1998 .
+Functional interaction of an axin homolog , conductin , with B-catenin , APC and GSK3B .
+Science 280:596-599 .
+7 .
+Behrens , J. , J. P. von Kries , M. Kuh , L. Bruhn , D. Wedlich , R. and W. Birchmeier .
+1996 .
+Functional interaction of B-catenin with the transcription factor LEF-1 .
+Nature 382:638-642 .
+8 .
+Blau , J. , H. Xiao , S. McCracken , P. O'Hare , J. Greenblatt , and D. Bentley .
+1996 .
+Three functional classes of transcriptional activation domain .
+Mol .
+Cell .
+Biol .
+16:2044-2055 .
+9 .
+Brown , J. , and R. Moon .
+1998 .
+Wat signaling : why is everything so negative ?
+Curr .
+Opinion Cell Biol .
+10:182-187 .
+10 .
+Cadigan , K. , and R. Nusse .
+1998 .
+Wnt signaling : a common theme in animal development .
+Genes Dev .
+11:3286-3305 .
+11 .
+Carlsson , P. , M. Waterman , and K. Jones .
+1993 .
+The hLEF/TCF-l « HMG protein contains a context-dependent transcriptional activation domain that induces the TCRa enhancer in T cells .
+Genes Dev .
+7:2418-2430 .
+12 .
+Cavallo , R. A. , R. T. Cox , M. M. Moline , J. Roose , G. A. Polevoy , H. Clevers , M. Peifer , and A. Bejsovec .
+1998 .
+Drosophila Tef and Groucho interact to repress Wingless signalling activity .
+Nature 395:604-608 .
+13 .
+Conti , E. , M. Uy , L. Leighton , G. Blobel , and J. Kuriyan .
+1998 .
+Crystallographic analysis of the recognition of a nuclear localization signal by the nuclear import factor karyopherin « .
+Cell 94:193-204 .
+14 .
+Cook , D. , M. Fry , K. Hughes , R. Sumathipala , J. Woodgett , and T. Dale .
+1996 .
+Wingless inactivates glycogen synthase kinase-3 via an intracellular signalling pathway which involves a protein kinase C. EMBO J .
+15:4526-4536 .
+15 .
+Dale , T. C. 1998 .
+Signal transduction by the Wnt family of ligands .
+Biochem .
+J .
+329:209-223 .
+16 .
+Fagotto , F. , N. Funayama , U. Gluck , and B. M. Gumbiner .
+1996 .
+Binding to cadherins antagonizes the signaling activity of B-catenin during axis formation in Xenopus .
+J .
+Cell Biol .
+132:1105-1114 .
+17 .
+Fagotto , F. , U. Gluck , and B. Gumbiner .
+1998 .
+Nuclear localization signal-independent and importin/karyopherin-independent nuclear import of beta-catenin .
+Curr .
+Biol .
+8:181-190 .
+18 .
+Funayama , N. , F. Fagotto , P. McCrea , and B. M. Gumbiner .
+1995 .
+Embryonic axis induction by the armadillo repeat domain of beta-catenin : evidence for intracellular signaling .
+J .
+Cell Biol .
+128:959-968 .
+19 .
+Gallet , A. , A. Erkner , B. Charroux , L. Fasano , and S. Kerridge .
+1998 .
+Trunk-specific modulation of wingless signalling in Drosophila by teashirt binding to armadillo .
+Curr .
+Biol .
+8:893-902 .
+20 .
+Giese , K. , J. Cox , and R. Grosscheldl .
+1992 .
+The HMG domain of lymphoid enhancer factor 1 bends DNA and facilitates assembly of functional nucleo-protein structures .
+Cell 69:185-196 .
+21 .
+Giese , K. , and R. GrosschedI .
+1993 .
+LEF-1 contains an activation domain that stimulates transcription only in a specific context of factor-binding sites .
+EMBO J .
+12:4667-4676 .
+22 .
+Giese , K. , C. Kingsley , J. R. Kirshner , and R. GrosschedI .
+1995 .
+Assembly and function of a TCR alpha enhancer complex is dependent on LEF-1-induced DNA bending and multiple protein-protein interactions .
+Genes Dev .
+9995-1008 .
+23 .
+Giese , K. , J. Pagel , and R. GrosschedI .
+1997 .
+Functional analysis of DNA bending and unwinding by the high mobility group domain of LEF-1 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 94:12845-12850 .
+24 .
+Goodrich , J .
+A. , T. Hoey , C. J. Thut , A. Admon , and R. Tjian .
+1993 .
+Drosophila TAFII40 interacts with both a VP16 activation domain and the basal transcription factor TFIIB .
+Cell 75:519-530 .
+Vor .
+19 , 1999 25 .
+26 .
+27 .
+28 .
+29 .
+30 .
+31 .
+32 .
+33 .
+34 .
+35 .
+36 .
+37 .
+38 .
+39 .
+40 .
+41 .
+42 .
+43 .
+44 .
+45 .
+46 .
+Gorlich , D. , S. Kostak , R. Kraft , C. Dingwall , R. A. Laskey , E. Hartmann , and S. Prehn .
+1995 .
+Two different subunits of importin cooperate to recognize nuclear localization signals and bind them to the nuclear envelope .
+Curr .
+Biol .
+5:383-392 .
+Gorlich , D. , and I. W. Mattaj .
+1996 .
+Nucleocytoplasmic transport .
+Science 271:1513-1518 .
+Hsu , S.-C. , J. Galceran , and R. GrosschedI .
+1998 .
+Modulation of transcriptional regulation by LEF-1 in response to Want-1 signaling and association with B-catenin .
+Mol .
+Cell .
+Biol .
+18:4807-4818 .
+Huber , A. H. , W. J. Nelson , and W. I. Weis .
+1997 .
+Three-dimensional structure of the armadillo repeat region of B-catenin .
+Cell 90:871-882 .
+Huber , O. , R. Korn , J. McLaughlin , M. Ohsugi , B. Herrmann , and R. Kemler .
+1996 .
+Nuclear localization of beta-catenin by interaction with transcription factor LEF-1 .
+Mech .
+Dev .
+59:3-10 .
+Hughes , C. C. , and J. S. Pober .
+1996 .
+Transcriptional regulation of the interleukin-2 gene in normal human peripheral blood T cells .
+Convergence of costimulatory signals and differences from transformed T cells .
+J. Biol .
+Chem .
+271:5369-5377 .
+Hulsken , J. , W. Birchmeier , and J. Behrens .
+1994 .
+E-cadherin and APC compete for the interaction with B-catenin and the cytoskeleton .
+J .
+Cell Biol .
+127:2061-2069 .
+Ikeda , S. , S. Kishida , H. Yamamoto , H. Murai , S. Koyama , and A. Kikuchi .
+1998 .
+Axin , a negative regulator of the Want signaling pathway , forms a complex with GSK-3beta and beta-catenin and promotes GSK-3beta-depen-dent phosphorylation of beta-catenin .
+EMBO J .
+17:1371-1384 .
+Kinzler , K. , and B. Vogelstein .
+1996 .
+Lessons from hereditary colorectal cancer .
+Cell 87:159-170 .
+Kishida , S. , H. Yamamoto , S. Ikeda , M. Kishida , I. Sakamoto , S. Koyama , and A. Kikuchi .
+1998 .
+Axin , a negative regulator of the wnt signaling pathway , directly interacts with adenomatous polyposis coli and regulates the stabilization of beta-catenin .
+J. Biol .
+Chem .
+273:10823-10826 .
+Klingensmith , J. , R. Nusse , and N. Perrimon .
+1994 .
+The Drosophila segment polarity gene dishevelled encodes a novel protein required for response to the wingless signal .
+Genes Dev .
+8:118-130 .
+Korinek , V. , N. Barker , P. Morin , D. van Wichen , R. de Weger , K. Kinzler , B. Vogelstein , and H. Clevers .
+1997 .
+Constitutive transcriptional activation by a beta-catenin-Tcf complex in APC-/- colon carcinoma .
+Science 275:1784-1787 .
+Korinek , V. , N. Barker , K. Willert , M. Molenaar , J. Roose , G. Wagenaar , M. Markman , W. Lamers , O. Destree , and H. Clevers .
+1998 .
+Two members of the Tef family implicated in Wnt/B-catenin signaling during embryogenesis in the mouse .
+Mol .
+Cell .
+Biol .
+18:1248-1256 .
+Levanon , D. , R. E. Goldstein , Y. Bernstein , H. Tang , D. Goldenberg , S. Stifani , Z. Paroush , and Y. Groner .
+1998 .
+Transcriptional repression by AML1 and LEF-1 is mediated by the TLE/Groucho corepressors .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 95:11590-11595 .
+Lin , Y. S. , I. Ha , E. Maldonado , D. Reinberg , and M. R. Green .
+1991 .
+Binding of general transcription factor TFIIB to an acidic activating region .
+Nature 353:569-571 .
+Love , J. J. , X. Li , D. A .
+Case , K. Giese , R. Grosschedl , and P. E. Wright .
+1995 .
+Structural basis for DNA bending by the architectural transcription factor LEF-1 .
+Nature 376:791-795 .
+Malik , H. , T. Eickbush , and D. Goldfarb .
+1997 .
+Evolutionary specialization of the nuclear targeting apparatus .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 94:13738-13742 .
+Mangalam , H. J. , V. R. Albert , H. A. Ingraham , M. Kapiloff , L. Wilson , C. Nelson , H. Elsholtz , and M. G. Rosenfeld .
+1989 .
+A pituitary POU domain protein , Pit-1 , activates both growth hormone and prolactin promoters tran-scriptionally .
+Genes Dev .
+3:946-958 .
+Miller , J. , and R. Moon .
+1996 .
+Signal transduction through beta-catenin and specification of cell fate during embryogenesis .
+Genes Dev .
+10:2527-2539 .
+Molenaar , M. , M. van de Wetering , M. Oosterwegel , J. Peterson-Maduro , S. Godsave , V. Korinek , J. Roose , O. Destree , and H. Clevers .
+1996 .
+XTCF-3 transcription factor mediates B-catenin-induced axis formation in Xenopus embryos .
+Cell 86:391-399 .
+Morin , P. , A. Sparks , V. Korinek , N. Barker , H. Clevers , B. Vogelstein , and K. Kinzler .
+1997 .
+Activation of beta-catenin-Tef signaling in colon cancer by mutations in beta-catenin or APC .
+Science 275:1787-1790 .
+Munemitsu , S. , I. Albert , B. Rubinfeld , and P. Polakis .
+1996 .
+Deletion of an amino-terminal sequence stabilizes B-catenin in vivo and promotes hyper-phosphorylation of the adenomatous polyposis coli tumor suppressor protein .
+Mol .
+Cell .
+Biol .
+16:4088-4094 .
+46a .
+Munguia , J. , and M. L. Waterman .
+Unpublished results .
+47 .
+48 .
+Nigg , E. 1997 .
+Nucleocytoplasmic transport : signals , mechanisms and regu-lation .
+Nature 386:779-787 .
+Orsulic , S. , and M. Peifer .
+1996 .
+An in vivo structure-function study of armadillo , the B-catenin homologue , reveals both separate and overlapping regions of the protein required for cell adhesion and for wingless signaling .
+J .
+Cell Biol .
+134:1283-1300 .
+NUCLEAR LOCALIZATION AND GENE ACTIVATION BY B-CATENIN 49 .
+50 .
+51 .
+52 .
+53 .
+4515 Papkoff , J. , B. Rubinfeld , B. Schryver , and P. Polakis .
+1996 .
+Wnt-1 regulates free pools of catenins and stabilizes APC-catenin complexes .
+Mol .
+Cell .
+Biol .
+16:2128-2134 .
+Peifer , M. , S. Berg , and A .
+B. Reynolds .
+1994 .
+A repeating amino acid motif shared by proteins with diverse cellular roles .
+Cell 76:789-791 .
+Pinol-Roma , S. , and G. Dreyfuss .
+1992 .
+Shuttling of pre-mRNA binding proteins between nucleus and cytoplasm .
+Nature 355:730-732 .
+Polakis , P. 1997 .
+The adenomatous polyposis coli ( APC ) tumor suppressor .
+Biochim .
+Biophys .
+Acta 1332 : F127-F147 .
+Porfiri , E. , B. Rubinfeld , I. Albert , K. Hovanes , M. Waterman , and P. Polakis .
+1998 .
+Induction of a beta-catenin-LEF-1 complex by Wat-1 and transforming mutants of beta-catenin .
+Oncogene 15:2833-2839 .
+53a.Prieve , M. G. Unpublished results .
+54 .
+55 .
+Prieve , M. , K. L. Guttridge , J. E. Munguia , and M. Waterman .
+1996 .
+The nuclear localization signal of lymphoid enhancer factor-1 is recognized by two differentially expressed Srp1-NLS receptor proteins .
+J. Biol .
+Chem .
+271 : 7654-7658 .
+Prieve , M. G. , K. L. Guttridge , J. Munguia , and M. L. Waterman .
+1998 .
+Differential importin « recognition and nuclear transport by nuclear localization signals within the high-mobility-group DNA binding domains of lymphoid enhancer factor 1 and T-cell factor 1 .
+Mol .
+Cell .
+Biol .
+18:4819-4832 .
+55a.Prieve , M. G. , and M. L. Waterman .
+Unpublished results .
+56 .
+57 .
+58 .
+59 .
+60 .
+61 .
+62 .
+63 .
+64 .
+65 .
+66 .
+67 .
+68 .
+69 .
+70 .
+71 .
+72 .
+Roose , J. , M. Molenaar , J. Peterson , J. Hurenkamp , H. Brantjes , P. Moerer , M. van de Wetering , O. Destree , and H. Clevers .
+1998 .
+The Xenopus Wat effector XTef-3 interacts with Groucho-related transcriptional repressors .
+Nature 395:608-612 .
+Rubinfeld , B. , I. Albert , E. Porfiri , C. Fiol , S. Munemitsu , and P. Polakis .
+1996 .
+Binding of GSK38 to the APC-beta-catenin complex and regulation of complex assembly .
+Science 272:1023-1026 .
+Rubinfeld , B. , B. Souza , I. Albert , S. Munemitsu , and P. Polakis .
+1995 .
+The APC protein and E-cadherin form similar but independent complexes with alpha-catenin , beta-catenin , and plakoglobin .
+J. Biol .
+Chem .
+270:5549-5555 .
+Simcha , I. , M. Shtutman , D. Salomon , J. Zhurinsky , E. Sadot , B. Geiger , and A. Ben-Ze'ev .
+1998 .
+Differential nuclear translocation and transactivation potential of beta-catenin and plakoglobin .
+J .
+Cell Biol .
+141:1433-1448 .
+Swain , S. L. , M. Croft , C. Dubey , L. Haynes , P. Rogers , X. Zhang , and L. M. Bradley .
+1996 .
+From naive to memory T cells .
+Immunol .
+Rev .
+150:143-167 .
+Theisen , H. , J. Purcell , M. Bennett , D. Kansagara , A. Syed , and J. Marsh .
+1994 .
+Dishevelled is required during wingless signaling to establish both cell polarity and cell identity .
+Development 120:347-360 .
+Travis , A. , A. Amsterdam , C. Belanger , and R. Grosschedl .
+1991 .
+LEF-1 , a gene encoding a lymphoid-specific protein with an HMG domain , regulates T-cell receptor alpha enhancer function .
+Genes Dev .
+5:880-894. van de Wetering , M. , R. Cavallo , D. Dooijes , M. van Beest , J. van Es , J. Loureiro , A. Ypma , D. Hursh , T. Jones , A. Bejsovec , M. Peifer , M. Mortin , and H. Clevers .
+1997 .
+Armadillo coactivates transcription driven by the product of the Drosophila segment polarity gene dTCF .
+Cell 88:789-799. van de Wetering , M. , M. Oosterwegel , D. Dooijes , and H. Clevers .
+1991 .
+Identification and cloning of TCF-1 , a T lymphocyte specific transcription factor containing a sequence-specific HMG box .
+EMBO J .
+10:123-132 .
+Waltzer , L. , and M. Bienz .
+1998 .
+Drosophila CBP represses the transcription factor TCF to antagonize Wingless signalling .
+Nature 395:521-525 .
+Waterman , M. L. , W. H. Fischer , and K. A. Jones .
+1991 .
+A thymus-specific member of the HMG protein family regulates the human T cell receptor C alpha enhancer .
+Genes Dev .
+5:656-669 .
+Welsh , G. I. , S. Miyamoto , N. T. Price , B .
+Safer , and C. G. Proud .
+1996 .
+T-cell activation leads to rapid stimulation of translation initiation factor eIF2B and inactivation of glycogen synthase kinase-3 .
+J. Biol .
+Chem .
+271:11410-11413 .
+Woodgett , J .
+1994 .
+Regulation and functions of the glycogen synthase kinase-3 subfamily .
+Semin .
+Cancer Biol .
+5:269-275 .
+Yamamoto , H. , S. Kishida , T. Uochi , S. Ikeda , S. Koyama , M. Asashima , and A. Kikuchi .
+1998 .
+Axil , a member of the Axin family , interacts with both glycogen synthase kinase 3B and B-catenin and inhibits axis formation of Xenopus embryos .
+Mol .
+Cell .
+Biol .
+18:2867-2875 .
+Yost , C. , H. F. Gist III , S. B .
+Pierce , D. M. Ferkey , M. M. Chen , and D. Kimelman .
+1998 .
+GBP , and inhibitor of GSK-3 , is implicated in Xenopus development and oncogenesis .
+Cell 93:1031-1041 .
+Yu , G. , F. Chen , G. Levesque , M. Nishimura , D.-M. Zhang , L. Levesque , E. Rogaeva , D. Xu , Y. Lian , M. Duthei , P. St. George-Hyslop , and P. E. Fraser .
+1998 .
+The presenilin 1 protein is a component of a high molecular weight intracellular complex that contains B-catenin .
+J. Biol .
+Chem .
+273:16470-16475 .
+Zeng , L. , F. Fagotto , T. Zhang , W. Hsu , T. J. Vasicek , W. L. Perry , J. J. Lee , S. M. Tilghman , B. M. Gumbiner , and F. Costantini .
+1997 .
+The mouse fused locus encodes Axin , an inhibitor of the Wat signaling pathway that regulates embryonic axis formation .
+Cell 90:181-192 .

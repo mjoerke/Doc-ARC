@@ -1,0 +1,595 @@
+The EMBO Journal Vol.18 No.11 pp.3090-3100 , 1999 Repression by Ikaros and Aiolos is mediated through histone deacetylase complexes Joseph Koipally '' * , Anja John Kim and Katia Georgopoulos'* `` Cutaneous Biology Research Center , Massachusetts General Hospital , Harvard Medical School , Charlestown , MA 02129 , * Graduate program in Molecular and Cellular Biology , Harvard University , Cambridge , MA 02138 , USA and *Biozentrum , Department of Biochemistry , Klingelbergstrasse 70 , CH-4056 Basel , Switzerland *Corresponding author e-mail : Katia_Georgopoulos @ CBRC2.MGH.Harvard.Edu Here we show that the lymphoid lineage-determining factors Ikaros and Aiolos can function as strong transcriptional repressors .
+This function is mediated through two repression domains and is dependent upon the promoter context and cell type .
+Repression by Ikaros proteins correlates with hypo-acetylation of core histones at promoter sites and is relieved by histone deacetylase inhibitors .
+Consistent with these findings , Ikaros and its repression domains can interact in vivo and in vitro with the mSin3 family of co-repressors which bind to histone deacetylases .
+Based on these and our recent findings of associations between Ikaros and Mi-2-HDAC , we propose that Ikaros family members modulate gene expression during lymphocyte development by recruiting distinct histone deacetylase complexes to specific promoters .
+Keywords : Aiolos/Ikaros/lymphocytes/repression mechanisms/Sin3-HDAC Introduction Commitment of hemopoietic progenitors into the lymphoid lineage , as well as the choice of effector function at later stages of this differentiation pathway , are dependent upon the tightly controlled activation and repression of gene expression .
+Chromatin accessibility plays an important role in the transcriptional regulation of lineage-specific genes .
+In eukaryotic cells , DNA is wrapped around an octameric core of histones known as the nucleosome .
+Nucleosomes fold into a higher-order chromatin structure which further restricts the accessibility of genes to the transcription machinery .
+In the basic nucleosome , the N-terminal tails of histones extend out of the central core in an unstructured fashion and are free to interact with DNA or other proteins ( Kuo and Allis , 1998 ; Workman and Kingston , 1998 ) .
+Modification of the N-terminal tails of histones through acetylation or deacetylation can alter the interaction between histones and DNA , thus serving as a mechanism to regulate gene expression ( Grunstein , 1997 ; Kuo and Allis , 1998 ; Struhl , 1998 ) .
+Histone acetylation has long been known to correlate with gene activation ( Struhl , 1998 ) .
+Several transcriptional co-activators such as p300/CBP , p/CAF , SRC-1 and ACTR 3090 have been shown to be histone acetylases ( Kuo and Allis , 1998 ; Struhl , 1998 ) .
+Conversely , repression of genes is associated with histone deacetylation in the vicinity of regulatory sites ( reviewed in Grunstein , 1997 ; Hassig and Schreiber , 1997 ) .
+Five histone deacetylases ( HDACs ) have been identified in yeast ( Hdal , Rpd3 and Hos1-3 ) ( Carmen et al. , 1996 ; Rundlett et al. , 1996 ) and at least three in humans ( HDAC1-3 ) ( Struhl , 1998 ) .
+The recruitment of histone deacetylases to promoters may occur either through direct interactions with regulatory proteins such as YY1 ( Yang et al. , 1996 ) or through their interactions with the Sin3 co-repressors as observed for the MAD proteins ( Ayer et al. , 1995 ) .
+Yeast Sin3 and its mammalian orthologs Sin3¥A and Sin3B possess four conserved paired amphipathic helices ( PAH ) and a histone deacetylase interaction domain ( HID ) , and are found associated with HDACs in large multimeric complexes ( Schreiber-Agus and DePinho , 1998 ) .
+In addition to Sin3 , HDACs also exist in association with a chromatin remodeling complex ( Tong et al. , 1998 ; Wade et al. , 1998 ; Xue et al. , 1998 ; Yi Zhang et al. , 1998 ; Kim et al. , 1999 ) .
+Ikaros is the founding member of a family of zinc-finger nuclear factors that includes Aiolos and Helios ( Georgopoulos et al. , 1992 ; Hahm et a/. , 1994 ; Molnar and Georgopoulos , 1994 ; Morgan et al. , 1997 ; Hahm et al. , 1998 ; Kelley et al. , 1998 ) , proteins which are predominantly expressed in the hemo-lymphoid system .
+Genetic studies have shown Ikaros and Aiolos to be essential regulators of lymphocyte differentiation and homeostasis .
+Mice homozygous for a null mutation in Ikaros lack B and NK cells and their earliest described progenitors , and show severe defects in T cell differentiation ( Wang et al. , 1996 ) , while those homozygous for an antimorphic mutation in Ikaros lack all lymphocytes ( Georgopoulos et al. , 1994 ) .
+In addition , mice with reduced levels of Ikaros ( i.e .
+either homozygous null or dominant-negative heterozygotes ) undergo augmented T cell receptor-mediated proliferative responses and succumb to leukemias and lymphomas with 100 % penetrance ( Winandy et al. , 1995 ; Avitahl et al. , 1999 ) .
+Aiolos plays a parallel role in the B cell lineage .
+Lack of Aiolos causes deregulation in B cell maturation and proliferation , break down in B cell tolerance and development of B cell lymphomas ( Wang et al. , 1998a ) .
+The Ikaros family of proteins is characterized by the presence of four N-terminal DNA-binding zinc fingers ( Molnar and Georgopoulos , 1994 ) , a conserved bipartite activation domain and two C-terminal zinc fingers required for interactions with self and other family members ( Sun et al. , 1996 ; Morgan et al. , 1997 ; Hahm et al. , 1998 ; Kelley et al. , 1998 ) .
+Ikaros , Aiolos and Helios can activate transcription of reporter genes driven by the Ikaros consensus - binding - site , 5'-GGGAA-3 ' ( Molnar and Georgopoulos , 1994 ; Sun et al. , 1996 ; Kelley et al. , 1998 ) .
+© European Molecular Biology Organization Ikaros repression mediated by histone deacetylase DNA binding Activation Dimerization A Exon1/2 E3 E4 ES E6 E7 |_| { fel ikb2 ( + ) iKps { ( + ) IKD12 ( - ) IkD8 ( + ) ikpis ( - ) IkDS ( - ) IKD14 ( - ) ( + ) B mSin3B -- FAHi } { [ PAn2 } PAH3 [ PAHA ] mSingBSF -- [ ram ] Il | mm =SAPAK VGLQLKCAVVWEFGYCTAEE MSin3BSF2— @ = SAFAK VLVHVWVLPAHGRSGVEAQAAGEPEARA Phi ( - ) __Ph2 ( C ) gy Fig .
+1 .
+Cloning of mSin3BSF as an Ikaros interactor .
+( A ) Schematic representation of the regions of Ikaros used as baits and preys in yeast two-hybrid assays .
+Full-length Ik1 is shown above the isolated regions and the DNA-binding , activation and dimerization domains are indicated .
+The thin rectangles in the Ik ] schematic indicate zinc fingers .
+The regions of Ikaros that interact with mSinBSF , as determined by blue/white screening on X-gal plates , are marked with a ( + ) while ( - ) identifies regions that do not interact .
+( B ) Schematic representation of mSin3B and its two novel short forms which result from alternative splicing .
+mSin3BSF2 was identified in a different set of experiments , unrelated to the yeast two-hybrid screen .
+These short forms diverge from mSin3B from amino acid 274 .
+Divergent sequences are shown in bold lettering .
+The two regions of mSin3BSF used for two-hybrid assays are indicated below .
+( - ) indicates a lack of interaction between the indicated Sin3 region and Ikaros .
+In proliferating lymphocytes , a significant fraction of Ikaros proteins associate with heterochromatic structures ( Brown et al. , 1997 ; Klug et al. , 1998 ; Wang et al. , 19982 ) where it colocalizes with transcriptionally silent genes ( Brown et al. , 1997 ) and DNA replication foci ( Wang et al. , 1998a ; Avitah ] l et al. , 1999 ) .
+We have also recently shown that in primary cycling T cells , Ikaros exists in a 2 MD complex with the ATPase Mi-2 and HDACs , which has potent chromatin remodeling activity ( Kim et al. , 1999 ) .
+Taken together , these data suggest , but do not prove , that Ikaros may function as a repressor in addition to its reported role as an activator of gene expression .
+Here we provide direct evidence that Ikaros can repress transcription from specific promoters , in a cell type-dependent manner , through recruitment of histone deacetylases .
+We report that in mature T cells a fraction of the Ikaros proteins exists in association with the mSin3A and mSin3B-HDAC complexes .
+Two repression domains are identified on Ikaros proteins both of which interact with Sin3 proteins .
+Finally , we show that Ikaros 's ability to repress is separable from its DNA-binding and self-interaction functions .
+Results Ikaros interacts with a short form of mSin3B in yeast To gain insight into the molecular functions of Ikaros proteins , we set out to identify interacting proteins using a yeast two-hybrid screen .
+The C-terminal region of Ikaros ( Figure 1A , IKD3 ) was used as the bait with pre-B or thymocyte cDNA libraries as prey .
+Full-length Ikaros ( Ik1 ) was not used in this screen since it can activate one of the reporters utilized in this assay .
+A short form of the previously described transcriptional repressor , mSin3B ( Ayer et al. , 1995 ; Schreiber-Agus et al. , 1995 ) , was isolated in both cDNA library screens .
+The Sin3 isoform we and others ( Q.Yang , Y.Kong , D.Garry , R.Bassel-Duby and R.S .
+Williams , unpublished data ) have isolated contains the conserved PAH ! 1 and PAH2 domains , and is identical to the reported mSin3B sequence for the first 274 amino acids , but it then diverges into a novel 19 amino acid region ( Figure 1B , mSin3BSF ) .
+A short form of mSin3B was also previously described as an interactor of Mxil-SR ( Alland et al. , 1997 ) .
+To identify the minimal region within IKDS and any additional regions on Ikaros that are required for interactions with mSin3BSF , we used a deletion series of Ikaros constructed in bait and prey vectors .
+As indicated in Figure 1A , the N-terminal region of IKD5 , which does not contain the dimerization zinc fingers , is sufficient for interaction with mSin3BSF ( Figure 1A , IKD # 8 , IKD11 ) .
+In addition to this domain , a region spanning exons 1-6 of Ikaros ( Figure 1A , IKD2 ) is also able to interact with mSin3BSF .
+However , none of the sub-regions of IKD2 were capable of binding mSin3BSF ( Figure 1A , IKD12 , IKD13 and IKD14 ) .
+These data indicate that Ikaros can interact with mSin3BSF through domains in its N-terminal ( IKD2 ) and C-terminal ( IKD®8 ) regions .
+In a parallel experiment to dissect the minimal area on mSin3BSF involved in Ikaros interactions , we found that a region spanning both the PAH1 and PAH2 domains is required ( Figure 1B ) .
+Thus , the interaction between Ikaros and mSin3BSF involves several interfaces on both proteins .
+Two distinct domains at the N- and C-terminus of Ikaros and a region encompassing PAH1 and PAH2 of mSin3BSF are required for their association in yeast cells .
+3091 J.Koipally et al .
+A B C Ik1 + HA-Sin3B + ___ s W E val `` ___ Western : HA-Sin3BSF | HA-Sin3B | MT-Sin3A | Flag-HDAC1 Ik7 HaA-lk1M % £ -- -me .
+-- t Sin3G8F [ *I 45 's ?
+gé ‘ éf § $ $ g§g§ { g gﬁﬁqg Sin3B a » .
+.
+.. `` @ -a a a ' . ' .
+# .
+wpact .
+llike .
+« == Western : Ikaros lk1 [ 7 - IkK2/7 a & 8 `` - - -a'* B Ba a @ Aiolos h Western : HA MT Flag Sing8 Interaction with IK1 D | Ha-sinse [ HA ] CPAHZ ) -CPA ho PAHA ) o PAH ( 1+2 ) ++ PAH ( 3+4 ) = MT-Sin3A .
+( MT ] -CPAHT ) -CPAHZ ) - PA Ho ( PAHA ) ++ N1015 ++ N68O + N479 +/-N205 % Fig .
+2 .
+Ikaros interacts with mSin3 and HDAC in mammalian cells .
+( A ) 293T cells were co-transfected with expression constructs for Ik1 ( 10 ug ) and HA- or MT-mSin3 proteins or Flag-HDAC1 ( 10 ug ) .
+Immunoprecipitations were performed on whole-cell lysates with HA , myc tag ( MT ) or FlagM2 antibodies .
+Western analysis with Ikaros antibody revealed its interactions with these proteins ( top panel ) .
+Blots were stripped and reprobed with the immunoprecipitating antibodies to ascertain that the epitope-tagged proteins were indeed immunoprecipitated ( bottom panel ) .
+The asterisk identifies the heavy chain of the antibodies used in the experiments with HDAC1 .
+( B ) The interaction of the dominant-negative Ikaros isoform ( Ik7 ) and the C-terminal dimerization mutant ( Ik1M ) with HA-tagged Sin3B was tested as in ( A ) .
+The asterisk identifies the heavy chain of the antibodies used .
+( C ) In vivo interaction between mSin3BSF , m§Sin3B , mSin3A , HDAC1 , Ikaros and Aiolos in primary activated T cells from a CD2-Flag-Ik-7 transgenic line .
+Immunopurification of Ikaros-containing complexes was accomplished utilizing a FlagM2 column , and the unbound proteins ( S ) , final wash ( W ) and eluates ( E ) were tested by immunoblot analysis with antibodies to Ikaros , Aiolos , mSin3A , mSin3B and HDAC1 .
+No signal was obtained in a mock purification using extracts from non-expressing T cells ( data not shown ) .
+( D ) Interactions of Ikaros with HA-Sin3B and MT-Sin3A deletions was tested as in ( A ) and is reported next to the diagram of the HA and Myc epitope-tagged mSin3B and mSin3A constructs , respectively .
+++ indicates a strong interaction ; + , fair interaction ; +/- , a weak interaction and - , no interaction .
+Ikaros interactions with Sin3 proteins in could occur in primary lymphocytes .
+Ikaros- and Aiolos-mammalian cells containing complexes were immunopurified from nuclear To examine whether the interactions between Ikaros and extracts prepared from T cells of transgenic mice mSin3BSF observed in yeast could be recapitulated in expressing Flag-Ik7 ( Kelley et al. , 1998 ; Kim et al. , 1999 ) .
+mammalian cells , we co-expressed these proteins in 293T Ikaros ( Ik1 , IkK2 and Ik7 ) and Aiolos proteins were co-cells and performed immunoprecipitations .
+Ikaros proteins purified together with Sin3B , Sin3BSFs , Sin3A and HDAC interacted not only with mSin3BSF but also with mSin3B , co-repressors ( Figure 2C ) .
+In contrast , other nuclear factors mSin3A , the Sin3-associated protein , SAP18 and HDAC1 such as members of the NF-KB family , although present and 2 ( Figure 2A ; data not shown ) ; however , no significant in the nuclear extracts were not part of the Ikaros immuno-interactions were observed between Ikaros and the co- purified fraction ( data not shown ) .
+Taken together , the repressors , HDAC3 or SMRT ( data not shown ) .
+Direct in vivo and in vitro demonstration of interactions between interactions between Ikaros and the three mSin3 proteins Ikaros and Sin3 proteins show that Ikaros proteins nucleate were also established in glutathione S-transferase pull- Sin3-HDAC repression complexes in lymphocytes .
+down assays ( data not shown ) .
+Furthermore , these data also indicate that Ikaros associ-Since Ikaros proteins associate through the C-terminal ations with Sin3B and Sin3A do not require an intact zinc fingers to form a higher order complex ( Sun et al. , DNA-binding or self-interaction domain .
+1996 ; A.Jackson and K.Georgopoulos , unpublished In a parallel set of experiments we delineated the results ) and such interactions are critically important for regions on mSin3B and mSin3A which are required for binding DNA , we examined whether they were also interactions with Ikaros .
+A region spanning the first two required for association with the Sin3 proteins .
+The Ik1M PAH domains of mSin3B , common to the short and full-protein , which has a disabling mutation in the C-terminal length forms , associated with Ikaros as strongly as the zinc finger motif , and the Ik7 isoform which lacks an full-length protein ( Figure 2D ) .
+In contrast , mSin3A inter-intact DNA binding domain ( DBD ) , interacted with the acted with Ikaros through a region spanning PAH3 to Sin3 proteins ( Figure 2B and data not shown ) .
+PAH4 .
+Deletion of PAH4 reduced binding to Ikaros , We next investigated whether Ikaros-Sin3 interactions whereas an additional deletion of PAH3 reduced it to 3092 Ikaros repression mediated by histone deacetylase A B M He Ki Th Th/ZSp Li Br Te 220 Th Sp w ... ' 974 `` HA-Sin3B - HA-Sin3BSF g & * & # < > # # CM an Western : 3d ?
+6.55 ﬁggg ‘ 46 Sin3gB Western : nd r * Flag * [ .¢ .. ‘ HA _- i 30 ime « ae .
+lkaros ( 13561 ) -a < n ax o Fold Repression un Ml } 05 1.0 20 3.0 4.0 BXG1- Sin3BSF ( ug ) ( 4235 ) Corrected cpm ( X 1000 ) ( 1233 ) - ( 167 BXG1- Sin3BSF ( ug ) 0.5 1.0 20 3.0 4.0 D 10 Tm - Tricho A Corrected cpm ( X 1000 ) BXG1 BXG1-Sin3BSF BXG1-MAD [ _- 210 _ - 143 _- 283 Fold Derepression Fig .
+3 .
+Expression and transcription properties of mSin3BSF , .
+( A ) ( Left panel , top ) Northern analysis of mouse tissues using mSin3BSF as a probe .
+He , heart ; Ki , kidney ; Th , thymus ; Th/2 , half the RNA sample used in Th ; Sp , spleen ; Li , liver ; Br , brain and Te , testes .
+Equal amounts of RNA samples were loaded per lane except for Th/2 .
+Confocal analysis ( left panel , bottom ) of resting ( r ) and activated ( a ) T cells using antibodies to Sin3B .
+( Right panel ) Western analysis of nuclear extracts prepared from the thymus ( Th ) and spleen ( Sp ) using an antibody to mSin3B .
+The molecular weights are listed on the left .
+The arrow heads indicate the bands corresponding in size to mSin3B and mSin3BSF .
+The asterisk identifies a cross-reacting protein .
+Ikaros levels ( Ik1 ) are shown below .
+( B ) 293T cells were transfected with HA-m§in3B proteins and Flag-HDAC1 .
+Immunoprecipitations were performed using HA antibodies or mouse IgG .
+Western analysis was performed with Flag antibodies ( top ) to detect whether HDAC was immunoprecipitated with the expressed Sin3B proteins ( HA , bottom ) .
+The asterisk identifies the Ig heavy chain .
+( C ) A representative experiment showing dose-dependent repression ( left panel ) of the G5AdMLPCAT reporter by mSin3BSF in NIH 3T3 cells .
+The amount of effector plasmid used ( in ug ) is indicated on the x-axis .
+Five micrograms of G5AdMLPCAT and 1 ug of growth hormone ( GH ) plasmid as a transfection control were used throughout .
+The reported CAT activity was normalized for transfection efficiency using growth hormone assays .
+The inset presents the same data as fold repression .
+Fold repression was calculated as the decrease in CAT activity compared with the Gal4 DBD ( BXG1 ) vector .
+( D ) Trichostatin A relieves Gal4-Sin3BSF repression of G5AdMLPCAT in NIH 3T3 cells .
+Five micrograms of reporter , 3 ug of effector and 1 ug of GH plasmid were used in these assays .
+Transfections were done in duplicate and treated with or without Trichostatin A ( 100 ng/m ! )
+for 18 h before harvest .
+Fold derepression upon Trichostatin A treatment is indicated below the graph and was calculated as the increase in normalized CAT activity upon Trichostatin A treatment over the CAT activity in untreated cells .
+background levels ( Figure 2D ) .
+Deletion of the PAH2 domain alone , however , had no effect on the Sin3A interactions with Ikaros ( data not shown ) .
+The ability of Ikaros to interact with distinct regions of mSin3B ( PAH ! 1 and PAH ? )
+and mSin3A ( PAH3 and PAH4 ) suggests that despite their primary sequence conservation , mSin3 proteins may participate in functionally distinct protein complexes .
+Expression profile and transcriptional properties of mSin3BSF While a large body of work has focused on mSin3A and mSin3B , less is known about mSin3BSF .
+We therefore examined the expression of mSin3BSF at the mRNA and protein levels .
+A 1.2 kb transcript corresponding to mSin3BSF was found to predominate in all mouse tissues tested ( Figure 3A , left , top panel ) .
+mSin3BSF mRNA was abundantly expressed in the testis , thymus and spleen and found at significant levels in the kidney and brain of adult mice .
+In situ analysis of mouse embryos with Sin3BSF specific probes gave a similar expression profile to that observed in the adult ( data not shown ) .
+Western analysis of thymic and splenic nuclear extracts using antibodies to mSin3B identified three specific proteins : a doublet between 30 and 46 kDa which corresponds to the expected molecular weight of the short forms of mSin3B ( see Figure 1B ) and a protein above 97.4 kDa corresponding to the full-length protein ( Figure 3A , right panel ) .
+Interes-tingly , in thymocytes , mSin3BSF is the predominant isoform while in splenocytes both the short and full-length forms of mSin3B are present at similar levels .
+Thus , although mSin3BSF is the dominant mSin3B transcript in all mouse tissues tested , the protein levels of the mSin3B isoforms can vary among cell types .
+Upon lymphocyte activation , Ikaros undergoes relocal-ization from a reticular/punctate pattern of nuclear staining 3093 J.Koipally et al .
+that is for the most part excluded from heterochromatin to heterochromatin-associated toroids ( Brown et al. , 1997 ; Wang et al. , 1998a ; Avitahl et al. , 1999 ) .
+To examine whether mSin3B proteins behave in a similar manner to Ikaros , confocal analysis of resting and activated T cells was undertaken .
+In resting T cells , mSin3B exhibits a diffuse nuclear staining pattern which increases in intensity upon activation ( Figure 3A ) .
+Thus in proliferating T cells , mSin3B does not colocalize with the fraction of Ikaros protein that is concentrated in heterochromatin-associated toroids ( Brown et al. , 1997 ; Avitahl et al. , 1999 ) .
+However , a significant amount of Ikaros protein remains outside heterochromatin ( Klug et a/. , 1998 ; Avitahl et al. , 1999 ) , where it may well associate with Sin3 and other chromatin remodeling factors ( Kim et al. , 1999 ) .
+We next investigated the transcriptional properties of mSin3BSF .
+NIH 3T3 cells were co-transfected with a CAT reporter driven by Gal4 sites upstream from the AdML promoter , and increasing amounts of a mSin3BSF fusion to the DBD of the yeast activator Gal4 .
+Gal4-Sin3BSF was found to repress the activity of the reporter in a dose-dependent manner ( Figure 3C ) .
+Addition of the histone deacetylase inhibitor , Trichostatin A , alleviated this repression ( Figure 3D ) .
+Consistent with these data , we detected an interaction between mSin3BSF and HDAC1 and 2 in 293T cells ( Figure 3B ) and mSin3BSF immunoprecipitated from 293T cells could deacetylate histones prepared from chicken reticulocytes ( data not shown ) .
+It has been reported previously that a short form of mSin3B does not interact with histone deacetylases ( Alland et al. , 1997 ) , which led to the suggestion that this short form represses transcription through deacetylase-independent mechanisms .
+However , our data show that like mSin3B , the short form of mSin3B that we have isolated ( mSin3BSF ) represses transcription through its interactions with histone deacetylases .
+Ikaros and Aiolos can function as strong transcriptional repressors We have previously shown that Ikaros can activate transcription of reporter genes driven by consensus Ikaros binding sites ( Georgopoulos et al. , 1992 ; and Georgopoulos , 1994 ; Sun et al. , 1996 ) .
+The ability of Ikaros proteins to associate with Sin3 and other potential corepressor complexes ( Kim et al. , 1999 ) prompted us to examine whether there were instances where Ikaros could also repress transcription .
+Ikaros isoforms and Aiolos when brought to DNA through a heterologous DBD were found to strongly repress basal transcription .
+Ikaros and Aiolos proteins tethered to the Gal4 DBD ( amino acids 1-147 ) were tested for activity on five different promoters in NIH 3T3 cells ( Figure 4A ) .
+Expression of the recombinant proteins was tested in 293T cells and confirmed by Western blotting ( Figure 4B ) .
+In the absence of Gal4 sites , Gal4-Ikaros and Gal4-Aiolos fusions exhibited no significant effect on promoter activity ( data not shown ) .
+In the presence of Gal4 sites , however , the expression of Gal4-Ikaros and Gal4-Aiolos proteins strongly repressed activity of three out of the five promoters tested ( Figure 4D ) .
+The strongest repression was seen on the tk followed by the Adenovirus Major Late and HIV2 promoters .
+In contrast , a promoter consisting of multimer-ized Spl sites upstream of the E1B TATA box which displayed high levels of basal activity was only weakly 3094 repressed , and furthermore the SV40 promoter was largely unaffected by these proteins ( Figure 4D ) .
+The Gal4-Ikaros and Gal4-Aiolos proteins also repressed transcription from Gald4 sites placed 770 bp upstream or 1100 bp downstream of the transcriptional initiation site of the tk promoter , indicating a potential for repression from a distance ( data not shown ) .
+Gal4-tethered Ikaros isoforms which contain ( Ik1 , Ik2 , Ik3 , Ik4 ) or lack ( Ik6 and Ik7 ) a DBD and the dimerization mutant Ik1M , also repressed the activity of the tk and AdML promoters ( Figure 4D ) .
+Of all the isoforms , Ik6 , which lacks the entire DBD , was the strongest repressor .
+Significantly , the ability of Gal4-Ikaros proteins to repress transcription correlates with their ability to interact with the Sin3 corepressors ( Figure 4C ) .
+These studies show that Ikaros and Aiolos proteins which have been previously shown to activate transcription can also function as transcriptional repressors when recruited through a heterologous DBD .
+This repression function of Ikaros does not rely on its DNA binding or dimerization properties and it appears to be specific for certain promoters .
+Ikaros proteins have two independent repression domains The presence of two interaction interfaces on Ikaros for Sin3 and for other recently described putative repressors ( Kim et al. , 1999 ) suggests the presence of more than one repression domain .
+To examine this possibility , Gal4 fusions of different regions of Ikaros were constructed ( Figure 5B ) , tested for expression in 293T cells ( Figure 5B ) and subsequently assayed for repression activity in NIH 3T3 cells .
+As expected , two domains on Ikaros were found to be capable of mediating repression .
+The first encompasses the N-terminal half of Ikaros ( Figure 5A , IKD2 ) which represses strongly both the Gal4 driven tk and AdML promoters in NIH 3T3 cells .
+The second domain is at the C-terminus of the protein which also represses the tk and the AdML promoters , but at different levels ( Figure 5A , IKD4 ) .
+Significantly , both the N- and C-terminal repression domains of Ikaros interact with the mSin3 proteins , suggesting that this family of corepressors contributes to the Ikaros repression function ( Figure 5C and data not shown ) .
+It is noteworthy that repression by the two Ikaros domains described above were differentially affected by the presence of the Ikaros activation domain ( Sun et al. , 1996 ) .
+The activation domain alleviated , by 3-fold , the repression exerted by the C-terminal region on either of the two promoters ( Figure 5A , compare IKD3 with IKD4 ) .
+It also decreased the repression mediated by the N-terminal region on the AdML promoter ( Figure 5A , compare IKD1 with IKD2 , G5AdMLPCAT ) ; however , it had no effect on repression mediated by this domain on the tk promoter ( Figure 5A , compare IKD1 with IKD2 , GStkCAT ) .
+These studies provide evidence that Ikaros proteins can utilize two distinct domains to effect transcriptional repression of target genes and that the Ikaros activation domain can alleviate this repression .
+Repression by Ikaros and Aiolos is cell type dependent Given the diverse roles played by the Ikaros proteins in differentiating and proliferating lymphocytes , we exam A REPORTERS : sX Gale - 2 MLP cat GSAdMLPCAT SX Gal4 TK promoter ; CAT GStkCAT +51 a pa sxGalk 9 Hive ( mT __ CAT GSHIV2CAT SX GalM .
+( `` J CAT Sp1 ) 4 TATA GSSp1 , E1bCAT M & - svao ( * & 5X Galt |_ % control region 2 Cat GSSV40CAT Ikaros repression mediated by histone deacetylase J BXG1-AioX BXG1- Iki BXG1- Ik1M BXG1- Ik3 BXG1- Ika BXG1- Ik6 BXG1- IkK7 BXG1- Ik2 Western : Gal4 HA-Sin3BSF + MT-Sin3A + BXG1-lk1 - BXG1-Ik6 mfgg -f BXG1-k1 - BXG1-Ik6 | mmf I “ 715W ?
+Western : HA Fold Repression Ad tk _ HIV2 Sp1 S¥40 n sxe HXGt-AioX |B 1+ BXG t-lct F ( 9.81 ) 1 1 1 1 1 15.7 21.2 | 10.56 | 2.7 1 9.4 24.6 | 12.8 | 24 1 11 23 nd .
+| n.d. | nid .
+GSAdMLPCAT Pia 12 ) m 13.1 | 24.7 | n.d. | n.d. | n.d. ® FIE-5 34 } @ oshivecat 19.9 | 30.2 | n.d. | n.d.| n.d. £73 © BXG1-4 ” £10 ? !
+q ) asswocar 22.4 | 353 | n.d. | n.d. | n.d. axctas [ fi ( 3.18 ) 323 | 40 | nd .
+|n.d |nd .
+0 .
+BxG1-Ik ! r { 5.03 } ( 1.29 ) 21.1 30.3 | n.d. |n.d .
+|n.d .
+I .
+* f 1 f I * .
+I 0 50 100 150 Corrected cpm ( X 1000 ) Fig .
+4 .
+Ikaros is a strong transcriptional repressor .
+( A ) Schematic diagram of the five reporters used in transient expression assays .
+( B ) Western analysis of extracts prepared from 293T cells transfected with Gal4 fusion 's of Aiolos and Ikaros isoforms using a Gal4 antibody .
+The molecular weight markers are shown to the left .
+( C ) Interactions between Gal4-Ikaros isoforms and mSin3BSF and mSin3A .
+Interactions were tested as in Figure 2A .
+( D ) A representative experiment showing the fold repression mediated by the Gal4-Aiolos and Gal4-Ikaros isoforms ( schematically depicted on the left ) on the five different reporters described in ( A ) in NIH 3T3 cells .
+Ten micrograms of the indicated reporter , 1 ug of a GH plasmid to assess transfection efficiency and 1 ug of the Gal4 fusions were used in the transfections .
+Fold repression was calculated as the decrease in CAT activity effected by a Gal4 fusion on a given promoter divided by the transcriptional activity of Gal4 DBD on the same promoter .
+n.d. , not done .
+Each experimental point was performed in duplicate and variability between samples was < 5 % .
+Experiments were repeated five times with variability between experiments being < 20 % .
+ined whether Gal4-Ikaros-mediated repression is dependent upon the cell type .
+Gal4d-Ikaros and Gal4-Aiolos proteins and their repression sub-domains were tested for their ability to repress the Ad ML promoter in the B cell line M12 , the B cell plasmacytoma MPC11 , the T cell lines Jurkat , BW and EL4 , in primary mouse embryo ( MEFS ) , the fibroblast cell line , NIH 3T3 and in the epithelial cell lines 293 and 293T .
+In the B cell line M12 , Ikaros and Aiolos fusions repressed promoter activity by 5- to 10-fold , whereas their isolated repression domains repressed more strongly , ranging from 7.4- to 20.7-fold ( Table I ) .
+Lower levels of repression ( 2- to 3-fold ) were exerted by the Ikaros proteins in the plasmacytoma MPC11 and in the T cell line , BW ( Table I and data not shown ) .
+In the T cells lines , Jurkat and ELA , Ikaros and Aiolos fusions did not repress the AdML promoter to any significant extent ( Table I ; data not shown ) .
+Among non-lymphoid cells , Gal4-Ikaros repressed the AdMLP strongly in primary MEFS and in NIH 3T3 fibroblasts ( Table I ) .
+However , very weak repression of the AdMLP was seen by Gal4-Ikaros , Gal4-Aiolos and their respective repression domains in 293 and 293T cells .
+These results contrast with the observations that Ikaros interactions with Sin3 and HDAC are detected upon their over-expression in 293T cells ( Figure 2 ) and with the repression of this promoter by MAD-SID seen in these cells ( Table I ; Ayer 3095 J.Koipally et al .
+BXGH-l1 Fold Repression GS5tkCAT GSAdMLPCAT axe 1 1 BXG-KD1 ts7lm 23,2 3-3 -.E [ I : |méﬁ [ j a BXGHKD2 27.1 21 n e 10.5 28 | _| [ ] 30 9.4 & ssacat B Bxorkps I sseamcpcat 3.9 5.7 n BxXGt-KDa ( 52.64 ) 1.2 1.1 a '' to » so 40 so So Corrected cpm ( X 1000 ) B C HA-Sin3BSF + MT-Sin3A + Jo EEREE - » » r to wa te take BXG1-IKD2 BXG1-IKD4 BXG1-JKD2 BXG1-IKD4 SEEM fume Soma Wie - Ne # a o o a 66m 5 ® : o f & $ & £ 66 = ] e : 5g fo é ?
+& gs # as -| fie*® & # 5 £2 SPF EPF `` 4 IF _ » J © - 8 a -i Western : e « an & - - *~ a 21.4 = # infforfinnd Western : HA Western : MT Western : Gal4 Fig .
+5 .
+Delineation of the repression domains on Ikaros .
+( A ) A representative experiment showing the fold repression mediated by different regions of Ikaros ( schematic diagram shown on the left ) on the tk and MLP promoters .
+In these experiments 10 pug of the indicated reporter , 1 ug of a GH internal control plasmid and 1 ug of the Gal4 effector plasmid were used .
+Fold repression was calculated as in Figure 4D .
+This experimental set-up was repeated six times with variation between experiments being < 15 % .
+( B ) Expression of Gal4-Ikaros sub-domains in 293T cells .
+( C ) Interactions between Gal4-Ikaros repression domains and mSin3BSF and mSin3A .
+Interactions were tested as in Figure 2A .
+Table I. Ikaros repression is cell type dependent Fold repression Vector M12 MPCI11 Jurkat MEFS NIH 3T3 293 BXG1 1 1 1 1 1 1 BXG1-Ik1 4.9 2.4 1.3 12.6 9.4 1.7 BXG1-AioX 9.4 2.1 1.1 n.d. 15.7 1.8 BXG1-IKD2 20.7 3.2 2.2 n.d. 21.0 2.8 BXG1-IKDS5 74 2.4 1.8 n.d. 5.7 2.1 BXG1-MAD nd .
+n.d. nd .
+33.2 24.1 7.8 The cell types indicated at the top of each column were transfected with 1 ug of the Gal4 fusions of Aiolos , Ikaros and its sub-regions , 10 ug of GSAdMLPCAT reporter and 2 jug of the transfection control plasmids ( pXGHS or pAI5 ) .
+These experiments were repeated three times and variations between these independent assays were < 20 % .
+Fold repression was calculated as detailed before .
+et al. , 1996 ) .
+One possible explanation is that when Ikaros alone is expressed in these cells it associates predominantly with endogenous non-repressing factors , i.e .
+components of the SWI-SNF complex ( Kim et a/. , 1999 ) .
+Preferential interactions with such positive chromatin remodeling factors may shift the balance between Ikaros 's ability to activate versus repress transcription .
+In addition , the oncoproteins SV40 TAg and Adenovirus ElA present in 293T cells may directly or indirectly affect the ability of Ikaros to repress while leaving Sin3BSF and MAD largely unaffected .
+Taken together , these data clearly show that the ability of Ikaros to repress transcription depends on the cell type .
+3096 The state of lymphocyte differentiation or the state of cell transformation may influence the ability of these factors to repress transcription by influencing their participation in functionally distinct chromatin remodeling complexes .
+Ikaros-mediated repression is dependent on Sin3 In the previous sections , we provided evidence that Gal4-Ikaros and Gal4-Aiolos function as potent repressors on specific promoters , in a cell type-dependent manner .
+Since Ikaros as well as its isolated repression domains can interact with mSin3 proteins , their repression effects may be in part mediated through these factors .
+To test this hypothesis , we examined the transcriptional activity of Ikaros repression mediated by histone deacetylase A B BXG1 __ BXG1-IK1 BXG1-Aio BXG1-MAD BXG1-mMAD [ all Fal Al gll g Beta-gal Activity in 4 s 4 s 4 2 < B < Plasmid | | WT strain _ sing strain| sin3/WT 3 E a e tse Pfc b fs kf : ( U ) ( U ) mw - a £ § § 5 8 § 5 8 § 5 8 § 5 8 § mw LexA ( 1-202 ) | 11+2 18 +5 16 LexA-lk1 5 +3 52 +6 10.4 -at- 248 bp LexA- IKD11 ] 276 +39 - |1554 +180 5.6 faunLF promoter ) Reporter : GSAdMLPCAT C so ® -Tricho m ® +Tricho g 40 o x E 30 8 a Reporter : GSAdMLPCAT E 10 o i Alo -_ none Iki IKD2 IKDS MAD mMAD Fold 6 ion : | 22 24 14.4 17.5 25.9 14.1 16.4 14 Fig .
+6 .
+Functional interactions of Ikaros with Sin3 and HDAC .
+( A ) Isogenic wild-type and sin3 yeast strains were transformed with a LexA-binding site driven lacZ reporter and LexA , or LexA fusions of IK1 and of an Ikaros sub-region ( IKD11 ) .
+The B-galactosidase liquid assay values are the average of two independent experiments using at least three yeast transformants .
+( B ) PCR analysis of chromatin immunoprecipitation assays .
+NIH 3T3 cells transfected with the 1 ug of the indicated Gal4 fusion plasmids and 10 ug of a GSAdMLPCAT reporter plasmid were cross-linked with formaldehyde and subjected to sonication .
+Sonicated extracts were split into three equal parts .
+Two of these parts were immunoprecipitated with anti-acetylated H3 antibody or Protein G-agarose beads .
+The immunoprecipitated products after reversal of cross-links were tested by PCR to check whether the 248 bp AdML promoter was brought down .
+The remaining one third of the sonicate was used as an input control .
+MW , molecular weight marker ; ( - ) , negative control ( water ) and ( + ) , positive control ( GSAdMLPCAT reporter ) .
+( C ) NIH 3T3 cells were transfected with 10 ug of the GSAdMLPCAT reporter , 1 ug of the indicated Gal4 fusions and 1 ug of a GH transfection efficiency control plasmid .
+( - ) indicates the parental vector while 'none ' represents this vector containing the Gal4 DBD .
+Transfectants were either left untreated or treated with the histone deacetylase inhibitor , Trichostatin A ( 100 ng/m ! )
+for 18 h before harvesting .
+Fold derepression has been defined in Figure 3D ( right panel ) .
+Ikaros in Saccharomyces cerevisiae , as this yeast has only one Sin3 gene and since viable sin3 strains are available ( Kasten et al. , 1996 ) .
+Isogenic wild-type and sin3 yeast strains were transformed with LexA or LexA-Ikaros fusions , along with a LexA-lacZ reporter , and B-galactosidase assays were performed to determine transcriptional activity of the reporter .
+In wild-type yeast , LexA-Ik1 caused lower levels of reporter expression relative to its fusion partner ( Figure 6 , WT strain ) .
+In contrast to the effects exerted by the full-length Ikaros , a short region of this protein which consists of the activation domain in combination with the C-terminal-Sin3 interaction domain , activates transcription to significant levels ( LexA-IKD11 , see Figure 1A for primary structure ) .
+In a sin3 strain , LexA-Ik1 appears to be a stronger activator relative to the LexA fusion partner ( Figure 6A , LexA-Ik1 versus LexA ) , and activity of the IKD11 region is also increased by 5.6-fold ( Figure 6A , LexA-AIKD11 ) .
+In addition , it appears that IKD11 is a more potent activator relative to the full-length Ikaros protein in either sin3 or wild-type yeast , suggesting interactions of Ik1 with yet other repressors in addition to Sin3 .
+Ikaros repression is effected through histone deacetylases Since Ikaros proteins associate with mSin3 ( shown here , Figures 1 and 2 ) and with the ATPase Mi-2 ( Kim et al. , 1999 ) , both of which associate with HDACs , we next examined whether Ikaros repression of specific promoters in mammalian cells is effected through histone deacetylases .
+A chromatin immunoprecipitation ( ChIP ) assay ( Luo et al. , 1998 ) was first used to assess the acetylation status of histones at promoters whose activity was repressed upon Ikaros recruitment .
+NIH 3T3 cells were transfected with G5SAdMLPCAT in combination with Gal4-Ik-1 , Gal4-Aiolos , Gal4-MAD Sin3 interaction domain , ( SID ) , Gal4-mMAD ( mutant SID ) or the parental Gald4 vector .
+Formaldehyde cross-linked chromatin isolated from these transfectants was immunoprecipitated with antibodies to acetylated histone H3 ( Ac-H3 ) , and the immunoprecipitates were subjected to PCR using primers to the AdML promoter .
+If the MLP is associated with acetylated histone H3 , PCR analysis of the immunoprecipitates gives a product which can be detected by electrophoresis through an agarose gel .
+A lack of product indicates that the promoter is deacetylated and therefore not associated with the acetylated forms of histones recognized by the antibodies .
+PCR products were observed in the immunoprecipitates from Gal4 or Gal4-mMAD transfections ( Figure 6B ) .
+In sharp contrast , no PCR products were observed in the immunoprecipitates from Gal4-Ikaros , Gal4-Aiolos or Gal4-MAD transfections , suggesting that the AdMLP promoter was not associated with acetylated-H3 when Ikaros or Aiolos or the 3097 J.Koipally et al .
+Sin3-interaction domain of MAD were recruited to its proximity ( Figure 6B ) .
+Thus , Ikaros and Aiolos proteins , like MAD , can recruit histone deacetylases to specific promoters and cause localized deacetylation of nucleosomal histones .
+We next addressed whether the histone deacetylase inhibitor , Trichostatin A , could relieve repression by Ikaros and Aiolos .
+Indeed , Trichostatin A alleviated by 14- to 25-fold the repression caused by Gal4-Ik1 , Gal4-Aiolos , the two Ikaros repression domains ( IKD2 and IKD35 ) and Gal4-MAD on the AdML promoter ( Figure 6C , left panel ) .
+In contrast to these results , Trichostatin A only minimally affected the reporter activity mediated by the Gal4-mutant MAD ( 1.4-fold ) ( Figure 6C ) .
+These data clearly show that Gal4-Ikaros- and Gal4-Aiolos-mediated repression of the AdML promoter relies on histone deacetylase activity .
+Taken together , these studies in mammalian cells and in yeast provide evidence that Ikaros and Aiolos repress transcription in part by recruiting the Sin3 family of corepressors and histone deacetylases .
+Discussion We and others have shown previously that the Ikaros DNA-binding proteins activate transcription from their cognate sites ( Georgopoulos et a/. , 1992 ; Molnar and Georgopoulos , 1994 ; Sun et al. , 1996 ; Wargnier et al. , 1998 ) .
+Nonetheless , co-localization of Ikaros proteins with transcriptionally silent genes at centromeric heterochromatin has suggested a role for Ikaros in transcriptional silencing ( Brown et al. , 1997 ) .
+Here , we provide the first direct evidence that Ikaros family members , when tethered to the DBD of a heterologous protein , can function as strong repressors of transcription .
+Ikaros proteins , when tethered to the DBD of Gal4 , function as potent transcriptional repressors in a Gal4 binding site-dependent fashion on specific promoters .
+The HSV tk and Ad ML promoters are repressed strongly by the Gal4-Ikaros proteins , whereas the SV40 early and the multimer-ized Spl-driven promoters are minimally affected .
+In the nucleus of a mature T cell , a major fraction of the Ikaros proteins associates with two distinct histone deacetylase-containing complexes Mi-2 ( Kim et al. , 1999 ) and Sin3 ( Figure 2 ) .
+Ikaros recruitment to specific promoters causes the localized hypo-acetylation of core histones and repres-sion ; these effects are mediated through Ikaros association with HDACs which have been proposed to interfere with the communication between activators , TBP and the Poll holoenzyme complex by exerting local changes in chromatin ( Kadosh and Struhl , 1998 ) .
+In agreement with an HDAC recruitment model , Ikaros-mediated promoter repression is alleviated by histone deacetylase inhibitors .
+However , the inability of Gal4-Ikaros proteins to repress basal transcription from certain promoters may be due to the competition between the histone deacetylases recruited by these factors and other chromatin modulating activities brought in by other transcription factors binding to this region ( Luo et al. , 1998 ) .
+The ability of Gal4-Ikaros proteins to repress basal transcription of specific promoters is dependent on the cell type .
+Ikaros proteins function as strong repressors in the mature B cell line M12 and in primary fibroblasts , as weak repressors in the B cell plasmacytoma MPC11 and in the 3098 immature T cell line Bw4157 , whereas no repression by these factors is seen in the mature T cell lines Jurkat and ELA and in transformed epithelial cells .
+In addition to the Mi-2 and Sin3 histone deacetylase complexes , a significant fraction of Ikaros protein is also associated with a Brg-1-based SWISNF complex ( Kim et al. , 1999 ) implicated in mediating chromatin accessibility ( Workman and Kingston , 1998 ) .
+Therefore , the ability of Ikaros proteins to partition in functionally distinct chromatin remodeling complexes in different cells may explain the observed cell type-specific repression effects .
+The amounts of Ikaros protein associated with disparate chromatin remodeling activities is most likely regulated by signaling cascades operating at different stages of differentiation which may ultimately determine its ability to repress or facilitate events in transcription .
+In this and other studies ( Kim et a/. , 1999 ) , we have shown that in primary T cells Ikaros stably associates with Sin3 , Mi-2 and HDAC in what we presume to be distinct complexes .
+In support of this supposition , immunolocaliz-ation studies show that in activated T cells , Sin3 proteins adopt a diffuse/speckled nuclear pattern ( see Figure 3A ) , whereas Mi-2 appears to be targeted by Ikaros into heterochromatin-associated toroids ( Kim et al. , 1999 ) .
+Taken together , these findings suggest that the sites of action for the Ikaros-associated Sin3-HDAC and Mi-2-HDAC complexes are distinct and that they may participate in different molecular processes .
+The Ikaros-Mi2-HDAC complexes which co-localize with heterochromatic structures and a subset of DNA replication foci in late S phase ( Avitah ] et al. , 1999 ) may control the state of acetylation of newly deposited histones on nascent DNA .
+This deacetylation process may be required to maintain cellular memory of the silent status of genes through multiple cell divisions ( Jeppesen , 1997 ) .
+Histone deacetylation in inaccessible regions of heterochromatin may require the chromatin remodeling properties of the Mi-2-HDAC complex .
+The Ikaros-Sin3-HDAC com-plex , on the other hand , may effect repression of active genes present in more accessible chromatin environments by providing localized deacetylation of promoters ( Cortes et al. , 1999 ) .
+The functional participation of Ikaros proteins in histone deacetylase complexes may provide a molecular mechanism to explain the development of lymphoid tumors in Ikaros mutant mice ( Winandy et al. , 1995 ) and possibly acute lymphoblastic leukemia ( ALL ) ( Sun et al. , 1999 ) .
+Deregulated recruitment of histone deacetylases has been observed in several leukemias ( Gelmetti et al. , 1998 ; Kuo and Allis , 1998 ; Lin et al. , 1998 ; Wang et al. , 1998b ) .
+Ikaros isoforms which can not bind DNA can still interact with mSin3 and HDAC proteins .
+Increased expression of these Ikaros isoforms in ALL patients and mutant mice may result in the titration of HDAC into non-productive complexes which can not participate in the normal molecular processes of transcription or replication .
+Recent studies have shown that histone deacetylase activity is also required for maintenance of the underacetylated state of centromeres ( Ekwall et al. , 1997 ) .
+Studies in T cells with Ikaros mutations show chromosomal aberrations which include deletions at centromeric regions ( Avitahl et al. , 1999 ) , and may result from deregulated recruitment of HDACs to centromeric heterochromatin in the absence of Ikaros .
+These studies show conclusively that the lymphoid lineage-determining factors encoded by the Ikaros gene can repress basal transcription , through recruitment of histone deacetylases , when brought to promoters through heterologous DNA-binding factors .
+Coupled with our previous reports that Ikaros proteins which bind DNA can activate transcription , the current data place these lineage-determining factors in a group of proteins that are bifunctional .
+Significantly , several HDAC recruiting proteins such as Ume6 ( Bowdish et al. , 1995 ) , the nuclear hormone receptors ( Torchia et al. , 1998 ) , YY1 ( Yang et al. , 1996 ) and CBFI ( Kao et al. , 1998 ; Hsieh et al. , 1999 ) can also function as activators and repressors of transcription .
+A comparison between the earlier activation studies as well as the repression data presented in this report , both of which have utilized transient transfection assays in the same cell type ( NIH 3T3 ) and reporter genes driven by the tk promoter is instructive .
+The difference in the ability of Ikaros to activate versus repress transcription appears to be determined by how it is recruited to a given promoter : when Ikaros binds DNA using its own DBD it is able to activate transcription .
+However , when recruited via a heterologous DBD , Ikaros becomes a potent transcriptional repressor .
+Thus , activation by Ikaros appears to require DNA binding whereas its repression function is revealed in the absence of a functional DBD as seen in the case of the Ik6 isoform , which lacks a DBD and is the strongest repressor of all the Ikaros proteins .
+Ikaros may need to be recruited to promoters by other DNA-binding factors in order to exert its repression function .
+One possible scenario is that Ikaros proteins are in distinct complexes in lymphocytes .
+One or more of these Ikaros complexes may bind DNA and remodel the surrounding chromatin to facilitate transcription .
+Ikaros association with one of the HDAC complexes may mask its DBD , and in these instances Ikaros recruitment to DNA would depend on its interactions with other DNA-binding factors .
+Altern-atively , the same remodeling complex could be involved in both facilitating and repressing transcription , depending on the accessibility of the Ikaros DBD .
+Indeed , it appears that the binding properties of Ikaros remodeling complexes on nucleosomal templates are ATP dependent ( Kim et al. , 1999 ) , and therefore mechanisms that regulate activity of the associated ATPases may control this process .
+Future studies on the regulation of function of Ikaros remodeling complexes coupled with structural studies on Ikaros will provide us with the molecular basis for the switch between activation and repression during lymphocyte differentiation .
+Materials and methods Plasmids Ikaros-pLex202 and -pJG4-5 were constructed using standard molecular cloning techniques .
+CDM8-Ik1 , -2 , -3 , -4 , -6 , -7 , Ik1M , Flag-Aio3 and HA-Helios have been previously described ( Molngr and Georgopoulos , 1994 ; Sun et al. , 1996 ) .
+Gal4 fusion proteins were constructed by standard PCR and cloning techniques in the pBXG1 vector which encodes the Gal4 DBD ( aa 1-147 ) .
+Flag-HDAC1 and 3 were provided by Dr Wen-Ming Jang .
+MT-Sin3A and its deletions ( N1015 , N690 , N479 and N205 ) and Flag HDAC2 were gifts of Dr R.N.Eisenman .
+Flag-SAP18 was provided by Dr D.Reinberg .
+pSGS5-SMRT was provided by Dr M.Privalsky .
+tkCAT , GStkCAT , -770GStkCAT , +1100GStkCAT were provided by Dr FRauscher .
+MLPCAT , GSMLPCAT , SV40CAT , GSSV40CAT , pVZ-mSin3A , pVZ-mSin3AAPAHZ , pCITE -MADSID and pCITE- MAD mutant SID were provided by Dr D.E.Ayer .
+G5 ( Sp1 ) 4E1BCAT , and GSHIV2CAT were provided by Dr D.Bentley .
+pAIl5 was a gift of Dr D.Anders .
+Ikaros repression mediated by histone deacetylase Yeast two-hybrid screen and B-galactosidase assays Pre-B and thymocyte libraries generated in the pJG4-5 vector ( gift from Dr FAlt ) were screened with the last 150 amino acids of the Ikaros protein fused to the Lex A DBD in pLex202 as bait .
+The screen was carried out in the EGY48 yeast strain transformed with the LexA-binding site driven LEU2 and lacZ reporters as described ( Brent , 1996 ) .
+To delineate interaction domains , two-hybrid assays were performed using baits characterized previously ( Sun et al. , 1996 ) .
+Isogenic wild-type and sin3 strains were kindly provided by Drs D.Stillman and S. A.Henry .
+B-galactosidase assays were performed as described previously ( Wang and Stillman , 1993 ) .
+Northern , confocal immunofluorescence , Western blot and immunoprecipitation analyses Northern analysis was performed using standard procedures ( Georgopoulos et al. , 1994 ; Avitahl et al. , 1999 ) .
+Confocal immunofluo-rescence analysis and immunopurification of Ikaros complexes from primary activated T cells was performed as described previously ( Avitahl et al. , 1999 ; Kim et al. , 1999 ) .
+Whole-cell extracts from 293T cells were prepared as described previously ( Sun et aZ. , 1996 ) and immunoprecipitated using control mouse or rabbit IgG as necessary , HA ( HA.11 , BAbCO ) , myc-tag ( Boehringer Mannheim ) , Flag M2 ( Sigma ) , Sin3B ( A-20 ) , Gal4 ( DBD ) , LexA ( D-19 ) ( Santa Cruz Biotech ) , T7 ( Novagen ) , Ikaros and Aiolos antibodies as reported ( Sun et al. , 1996 ; Morgan et al. , 1997 ) .
+Immunoprecipitated proteins were run side by side with 2.5-10 % of the cell extract used in the reaction , on SDS-polyacrylamide gels and examined by autoradiography with ECL .
+Histone deacetylase assays Histone deacetylase assays were performed on tritiated chicken reticulo-cyte histones as described ( Kolle et al. , 1998 ) .
+Immunoprecipitates from 293T whole cell extracts were washed 3 % in TS buffer and incubated with 80 000 c.p.m .
+of tritiated acetylated histones for 20 min at 30°C in HD assay buffer .
+The reaction was stopped by acidification and the released tritium was extracted with ethyl acetate .
+Transfections 293 , 293T , NIH 3T3 and MEFS were maintained in Dulbecco 's modified Eagle 's medium with 10 % fetal bovine serum ( FBS ) ( Hyclone ) .
+Transfections in these cells were performed using the HBS-CaPO , method ( Sun et al. , 1996 ) .
+For repression assays with Gal4-Ikaros fusions , 10 ug of the indicated reporter , 1 ug of the pXGHS growth hormone transfection efficiency control plasmid and 1 ug of the Gal4 heterologous fusion were used .
+Twenty-four hours after transfection , cells were treated with 100 ng/ml Trichostatin A ( Wako ) or left untreated .
+Cells were harvested 18-24 h after transfection and processed for CAT assays as described ( Sun et al. , 1996 ) .
+GH assays were done as recommended by the manufacturer ( Nichols Institute ) .
+The lymphoid cell lines BW , EL4 , Jurkat , MPC11 and M12 were maintained in RPMI with 10 % FBS .
+Transfections were done using the DMRIE-C lipid reagent ( Life Technologies ) or by the DEAE-Dextran method .
+ChIP assays ChIP assays were done as described previously ( Luo et al. , 1998 ) .
+NIH 3T3 cells were transfected with 1 ug of Gal4 fusions or the parent vector and 10 ug of GSMLPCAT reporter using the HBS-CaPO , method .
+The protocol followed was identical to that used in the reference cited except that before adding anti-acetyl H3 antibody ( UBI ) , the extracts were extensively precleared with protein G-agarose beads .
+Immunoprecipitates were washed at least five times with buffers suggested by an Upstate Biotech website protocol .
+Acknowledgements We would like to thank Drs Tom Maniatis , David Stillman , Nicole Avitahl , Clair Kelley and Susan Winandy for critical reading of the manuscript and for thoughtful discussions .
+We are grateful to all those who have provided us with reagents .
+Research was supported by an NIH RO1 AI33062 to K.G .
+J.K. is supported by an HHMI pre-doctoral fellowship .
+K.G .
+is a Scholar of the Leukemia Society of America .
+References Alland , L. , Muhle , R. , Hou , H. , Jr , Potes , J. , Chin , L. , Schreiber-Agus , N .
+and DePinho , R.A .
+( 1997 ) Role for N-CoR and histone deacetylase in Sin3-mediated transcriptional repression .
+Nature , 387 , 49-55 .
+Avitahl , N. , _ Winandy , S. , _ Friedrich , C. , - Jones , B. , - Ge , ¥ .
+- and 3099 J.Koipally et al .
+Georgopoulos , K .
+( 1999 ) Ikaros sets thresholds for T cell activation and regulates chromosome propagation .
+Immunity , 10 , 333-343 .
+Ayer , D.E. , Lawrence , Q.A .
+and Eisenman , R.N .
+( 1995 ) Mad-Max transcriptional repression is mediated by ternary complex formation with mammalian homologs of yeast repressor Sin3 .
+Cell , 80 , 767-776 .
+Ayer , D.E. , - Laherty , C.D. , - Lawrence , Q.A. , - Armstrong , A.P .
+_ and Eisenman , R.N .
+( 1996 ) Mad proteins contain a dominant transcription repression domain .
+Mol .
+Cell .
+Biol. , 16 , 5772-5781 .
+Bowdish , K.S. , Yuan , H.E .
+and Mitchell , A.P .
+( 1995 ) Positive control of yeast meiotic genes by the negative regulator UMEG6 .
+Mol .
+Cell .
+Biol. , 15 , 2955-2961 .
+Brent , R .
+( 1996 ) Gene Probes : A Practical Approach .
+Oxford University Press , Oxford , UK .
+Brown , K.E. , Guest , S.S. , Smale , S.T. , Hahm , K. , Merkenschlager , M .
+and Fisher , ( 1997 ) Association of transcriptionally silent genes with Tkaros complexes at centromeric heterochromatin .
+Cell , 91 , 845-854 .
+Carmen , A.A. , Rundlett , S.E .
+and Grunstein , M .
+( 1996 ) HDA1 and HDA3 are components of a yeast histone deacetylase ( HDA ) complex .
+J. Biol .
+Chem. , 26 , 15837-15844 .
+Cortes , M. , Wong , E. , Koipally , J .
+and Georgopoulos , K .
+( 1999 ) Control of lymphocyte development by the Ikaros gene family .
+Curr Opin .
+Immunol. , 11 , 167-171 .
+Ekwall , K. , Olsoon , T. , Turner , B.M. , Cranston , G .
+and Allshire , R.C .
+( 1997 ) Transient inhibition of histone deacetylation alters the structural and functional imprint at fission yeast centromeres .
+Cell , 91 , 1021-1032 .
+Gelmetti , V. , Zhang , J. , Fanelli , M. , Minucei , $ . , Pelicci , P.G .
+and Lazar , M.A .
+( 1998 ) Aberrant recruitment of the nuclear receptor corepressor-histone deacetylase complex by the acute myeloid leukemia fusion partner ETO .
+Mol .
+Cell .
+Biol. , 18 , 7185-7191 .
+Georgopoulos , K. , Moore , D .
+and Derfler , B .
+( 1992 ) Ikaros an early lymphoid restricted transcription factor , a putative mediator for T cell commitment .
+Science , 258 , 808-812 .
+Georgopoulos , K. , Bigby , M. , Wang , J.-H. , Molnér , A. , Wu , P , , Winandy , S .
+and Sharpe , A .
+( 1994 ) The Ikaros gene is required for the development of all lymphoid lineages .
+Cell , 79 , 143-156 .
+Grunstein , M .
+( 1997 ) Histone acetylation in chromatin structure and transcription .
+Nature , 389 , 349-352 .
+Hahm , K. , Emst , P. , Lo , K. , Kim , G.S. , Turck , C .
+and Smale , S.T .
+( 1994 ) The lymphoid transcription factor LyF-1 is encoded by specific , alternatively spliced mRNAs derived from the Ikaros gene .
+Mol .
+Cell .
+Biol. , 14 , 7111-7123 .
+Hahm , K .
+et al .
+( 1998 ) Helios , a T-cell restricted Ikaros family member that quantitatively associates with Ikaros at centromeric heterochromatin .
+Genes Dev. , 12 , 782-1796 .
+Hassig , C .
+and Schreiber , S.L .
+( 1997 ) Nuclear histone acetylases and deacetylases and transcriptional regulation : HATs off to HDACs .
+Curr : Opin .
+Chem .
+Biol. , 1 , 300-308 .
+Hsieh , J.J.-D. , Zhou , S. , Chen , L. , Young , D.B .
+and Hayward , D. ( 1999 ) CIR , a corepressor linking the DNA binding factor CBF1 to the histone deacetylase complex .
+Proc .
+Natl Acad .
+Sci .
+USA , 96 , 23-28 .
+Jeppesen , P .
+( 1997 ) Histone acetylation : a possible mechanism for the inheritance of cell memory at mitosis .
+BioEssays , 19 , 67-74 .
+Kadosh , D .
+and Struhl , K .
+( 1998 ) Targeted recruitment of the Sin3-Rpd3 histone deacetylase complex generates a highly localized domain of repressed chromatin in vivo .
+Mol .
+Cell .
+Biol. , 18 , 5121-5127 .
+Kao , H. , Ordentlich , P , Koyano-Nakagawa , N. , Tang , Z. , Downes , M. , Kintner , C.R. , Evans , R.M .
+and Kadesch , T .
+( 1998 ) A histone deacetylase corepressor complex regulates the Notch signal transduction pathway .
+Genes Dev. , 12 , 2269-2277 .
+Kasten , M.M. , Ayer , D.E .
+and Stillman , D.J .
+( 1996 ) SIN3-dependent transcriptional repression by interaction with the Mad1 DNA-binding protein .
+Mol .
+Cell .
+Biol. , 16 , 4215-4221 .
+Kelley , C.M. , Ikeda , T. , Koipally , J. , Avitahl , N. , Georgopoulos , K .
+and Morgan , B.A .
+( 1998 ) Helios , a novel dimerization partner of Ikaros expressed in the earliest hematopoietic progenitors .
+Curr : Biol. , 8 , 508-515 .
+Kim , J .
+et al .
+( 1999 ) Ikaros DNA binding proteins direct formation of chromatin remodeling complexes in lymphocytes .
+Immunity , 10 , 345-355 .
+Klug , C.A. , Morrison , S.J. , Masek , M. , Hahm , K. , Smale , S.T .
+and Weissman , LL .
+( 1998 ) Hematopoietic stem cells and lymphoid progenitors express different Ikaros isoforms and Ikaros is localized to heterochromatin in immature lymphocytes .
+Proc .
+Nat !
+Acad .
+Sci .
+USA , 95 , 657-662 .
+Kolle , D. , Brosch , G. , Lechner , T. , LusserA .
+and LoidLP .
+( 1998 ) Biochemical methods for analysis of histone deacetylases .
+Methods , 15 , 323-331 .
+3100 Kuo , M.-H. and Allis , C.D .
+( 1998 ) Roles of histone acetyltransferases and deacetylases in gene regulation .
+BioEssays , 20 , 615-626 .
+Lin , R.J. , Nagy , L. , Inoue , S. , Shao , W. , Miller , W.H. , Jr and Evans , R.M .
+( 1998 ) Role of the histone deacetylase complex in acute promyelocytic leukaemia .
+Nature , 391 , 811-818 .
+Luo , R. , Postigo , A .
+and Dean , D .
+( 1998 ) Rb interacts with histone deacetylase to repress transcription .
+Cell , 92 , 463-73 .
+Molnar , A. and Georgopoulos , K .
+( 1994 ) The Ikaros gene encodes a family of functionally diverse zinc finger DNA binding proteins .
+Mol .
+Cell .
+Biol. , 14 , 785-94 .
+Morgan , B. , - Sun , L. , - Avitahl , N. , - Andrikopoulos , K. , - Gonzales , E. , Nichogiannopoulou , A. , Wu , P. , Neben , S .
+and Georgopoulos , K .
+( 1997 ) Aiolos , a lymphoid restricted transcription factor that interacts with Ikaros to regulate lymphocyte differentiation .
+EMBO J. , 16 , 2004-2013 .
+Rundlett , S.E. , Carmen , A.A. , Kobayashi , R. , Bavykin , S. , Turner , B.M .
+and Grunstein , M .
+( 1996 ) HDA1 and RPD3 are members of distinct yeast histone deacetylase complexes that regulate silencing and transcription .
+Proc .
+Natl Acad .
+Sci .
+USA , 93 , 14503-14508 .
+Schreiber-Agus , N .
+and DePinho , R .
+( 1998 ) Repression by the Mad ( Mxi1 ) -Sin3 complex .
+BioEssays , 20 , 808-818 .
+Schreiber-Agus , N. , Chin , L. , Chen , K. , Tores , R. , Rao , G. , Guida , P. , Skoultchi , A.I .
+and DePinho , R.A .
+( 1995 ) An amino-terminal domain of Mxi1 mediates anti-Myc oncogenic activity and interacts with a homolog of the yeast transcriptional repressor SIN3 .
+Cell , 80 , 777-786 .
+StruhLK .
+( 1998 ) Histone acetylation and transcriptional regulatory mechanisms .
+Genes Dev. , 12 , 599-606 .
+Sun , L. , Liu , A .
+and Georgopoulos , K .
+( 1996 ) Zinc finger-mediated protein interactions modulate Ikaros activity , a molecular control of lymphocyte development .
+EMBO J. , 15 , 5358-5369 .
+Sun , L. , Heerema , N. , Crotty , L. , Wu , X. , Navara , C. , Vassilev , A. , Sensel , M. , Reaman , G.H .
+and Uckun , E.M .
+( 1999 ) Expression of dominant-negative and mutant isoforms of the antileukemic transcription factor Ikaros in infant acute lymphoblastic leukemia .
+Proc .
+Natl Acad .
+Sci .
+USA , 96 , 680-685 .
+Tong , J. , Hassig , C. , Schnitzler , G.R. , Kingston , R .
+and Schreiber , S.L .
+( 1998 ) Chromatin deacetylation by an ATP-dependent nucleosome remodeling complex .
+Nature , 395 , 917-921 .
+Torchia , J. , Glass , C .
+and Rosenfeld , ( 1998 ) Co-activators and corepressors in the integration of transcriptional responses .
+Curr : Opin .
+Cell Biol. , 10 , 373-383 .
+Wade , P. , Jones , P. , Vermaak , D .
+and Wolffe , A .
+( 1998 ) A multiple subunit Mi-2 histone deacetylase from Xenopus laevis cofractionates with an associated Snf2 superfamily ATPase .
+Curr : Biol. , 8 , 843-846 .
+Wang , H .
+and Stillman , D.J .
+( 1993 ) Transcriptional repression in Saccharomyces cerevisiae by SIN3-LexA fusion protein .
+Mol .
+Cell .
+Biol. , 13 , 1805-1814 .
+Wang , J. , Nichogiannopoulou , A. , Wu , L. , Sun , L. , Sharpe , A. , Bigby , M .
+and Georgopoulos , K .
+( 1996 ) Selective defects in the development of the fetal and adult lymphoid system in mice with an Ikaros null mutation .
+Immunity , 5 , 537-549 .
+Wang , J.-H. et al .
+( 19982 ) Aiolos regulates B cell activation and maturation to effector state .
+Immunity , 9 , 543-553 .
+Wang , J.-H. , Hoshino , T. , Redner , R.L. , Kajigaya , $ .
+and Liu , J.M .
+( 1998b ) ETO , fusion partner in t ( 8 ; 21 ) acute myeloid leukemia , represses transcription by interaction with the human N-coR/mSin3/HDAC1 complex .
+Proc .
+Natl Acad .
+Sci .
+USA , 95 , 10860-10865 .
+Wargnier , A. , Lafaurie , C. , Legros-Maida , S. , Bourge , J.F. , Sigaux , F. , Sasportes , M .
+and Paul , P .
+( 1998 ) Down-regulation of human granzyme B expression by glucocorticoids .
+Dexamethasone inhibits binding to the Ikaros and AP-1 regulatory elements of the granzyme B promoter .
+J. Biol .
+Chem. , 273 , 35326-35331 .
+Winandy , S. , Wu , P .
+and Georgopoulos , K .
+( 1995 ) A dominant mutation in the Ikaros gene leads to rapid development of leukemia and lymphoma .
+Cell , 83 , 289-299 .
+Workman , J.L .
+and Kingston , B .
+( 1998 ) Alteration of nucleosome structure as a mechanism of transcriptional regulation .
+Annu .
+Rev .
+Biochem. , 67 , 547-579 .
+Xue , Y. , Wong , J. , Moreno , G. , Young , M. , Cote , J .
+and Wang , W. ( 1998 ) NURD , a novel complex with both ATP-dependent chromatin-remodeling and histone deacetylase activities .
+Mol .
+Cell , 2 , 851-861 .
+Yang , W. , Inouye , C. , Zeng , Y. , Bearss , D .
+and Seto , E .
+( 1996 ) Transcriptional repression by YY1 is mediated by interaction with a mammalian homolog of the yeast global regulator RPD3 .
+Proc .
+Natl Acad .
+Sci .
+USA , 93 , 12845-12850 .
+Zhang , Y. , LeRoy , G. , Seelig , H.-P. , Lane , W.S .
+and Reinberg , D .
+( 1998 ) The dermatomyositis-specific autoantigen Mi2 is a component of a complex containing histone deacetylase and nucleosome remodeling activities .
+Cell , 95 , 279-289 .
+Received March 16 , 1999 ; revised and accepted April 15 , 1999

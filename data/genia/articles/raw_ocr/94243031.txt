@@ -1,0 +1,483 @@
+Molecular Biology of the Cell Vol .
+5 , 119-128 , January 1994 Calcineurin Potentiates Activation of the Granulocyte-Macrophage Colony-stimulating Factor Gene in T Cells : Involvement of the Conserved Lymphokine Element 0 Akio Tsuboi , * Esteban S. Masuda , * Yoshiyuki Naito , * Hiroshi Tokumitsu , * Ken-ichi Arai , t and Naoko Arai*t *Department of Molecular Biology , DNAX Research Institute of Molecular and Cellular Biology , Palo Alto , California 94304-1104 ; and { Department of Molecular and Developmental Biology , Institute of Medical Science , The University of Tokyo , Tokyo 108 , Japan Submitted August 30 , 1993 ; Accepted December 6 , 1993 Monitoring Editor : Timothy A. Springer Granulocyte-macrophage colony factor ( GM-CSF ) and interleukin-2 ( IL-2 ) are produced by stimulation with phorbol-12-myristate acetate ( PMA ) and calcium ionophore ( A23187 ) in human T cell leukemia Jurkat cells .
+The expression of GM-CSF and IL-2 is inhibited by immunosuppressive drugs such as cyclosporin A ( CsA ) and FK506 .
+Earlier studies on the IL-2 gene expression showed that overexpression of calcineurin ( CN ) , a Ca** /calmodulin-dependent protein phosphatase , can stimulate transcription from the IL-2 promoter through the NF-AT-binding site .
+In this study , we obtained evidence that transfection of the cDNAs for CN A ( catalytic ) and CN B ( regulatory ) subunits also augments transcription from the GM-CSF promoter and recovers the transcription inhibited by CsA .
+The constitutively active type of the CN A subunit , which lacks the auto-inhibitory and calmodulin-binding domains , acts in synergy with PMA to activate transcription from the GM-CSF promoter .
+We also found that the active CN partially replaces calcium ionophore in synergy with PMA to induce expression of endogenous GM-CSF and IL-2 .
+By multi-merizing the regulatory elements of the GM-CSF promoter , we found that one of the target sites for the CN action is the conserved lymphokine element 0 ( CLEO ) , located at positions between -54 and -40 .
+Mobility shift assays showed that the CLEO sequence has an AP1-binding site and is associated with an NF-AT-like factor , termed NF-CLEO y. NF-CLEO y binding is induced by PMA/A23187 and is inhibited by treatment with CsA .
+These results suggest that CN is involved in the coordinated induction of the GM-CSF and IL-2 genes and that the CLEO sequence of the GM-CSF gene is a functional analogue of the NF-AT-binding site in the IL-2 promoter , which mediates signals downstream of T cell activation .
+INTRODUCTION Activation of T cells by recognition of antigens on an-tigen-presenting cells leads to induction of nuclear proto-oncogenes such as c-fos in 15 to 30 min , followed by induction of a battery of lymphokine genes , including the interleukin-2 ( IL-2 ) and granulocyte-macrophage colony-stimulating factor ( GM-CSF ) genes ( Arai et al. , 1990 ; Ullman et al. , 1990 ) .
+Upon T cell activation , one { Corresponding author .
+© 1994 by The American Society for Cell Biology of the major events is hydrolysis of phosphatidylino-sitol-4,5-biphosphate to generate inositol-1,4,5-tri-phosphate ( IP ; ) and diacylglycerol ( DG ) by phospho-lipase C ( Berridge , 1993 ) .
+IP ; raises the cytoplasmic Ca** concentration from sequestered intracellular stores , thereby opening Ca** channels in the plasma membrane ( Berridge , 1993 ) .
+This process can be functionally mimicked by a Ca** ionophore such as A23187 .
+DG together with Ca** activates protein kinase C ( PKC ) , and phorbol esters such as phorbol-12-myristate acetate ( PMA ) can mimic the effect of DG .
+Stimulation with PMA and Ca** 119 A. Tsuboi et al .
+ionophore leads to considerable induction of several lymphokine genes in T cells ( Arai et al. , 1992 ) .
+In par-ticular , there is strong synergy between PKC- and Ca**-signaling pathways in the production of GM-CSF or IL-2 ( Arai et al. , 1992 ; Riegel et al. , 1992 ) .
+The expression of GM-CSF and IL-2 is inhibited by immunosuppressive drugs such as cyclosporin A ( CsA ) and FK506 ( Arai et al. , 1992 ; Riegel et al. , 1992 ) .
+Earlier studies on IL-2 gene expression revealed that a nuclear factor of activated T cells ( NF-AT ) plays a crucial role in transcriptional activation and is one of the functional targets for CsA and FK506 ( Riegel et al. , 1992 ) .
+NFE-AT appears to consist of two factors : one is a ubiquitous nuclear factor ( NF-AT , , ) , induced through the PKC pathway and identified as AP-1 ( Jun- and Fos-family proteins ) ( Jain et al. , 1992 ) .
+The other is a T cell-specific , pre-existing component ( NF-AT , ) , and translocation from cytoplasm to nucleus is regulated through the Ca** pathway and inhibited by CsA and FK506 ( Flanagan et al. , 1991 ) .
+These drugs bind endogenous intracellular receptors ( immunophilins ) and the resulting complexes target a Ca**/calmodulin-dependent Ser/ Thr phosphatase , calcineurin ( CN ) , to exert immunosuppressive effects ( Schreiber and Crabtree , 1992 ) .
+CN is composed of catalytic ( A ) and regulatory ( B ) subunits , and overexpression can restore the NF-AT-dependent transcription inhibited by CsA or FK506 in T cells ( Clipstone and Crabtree , 1992 ) .
+In addition , a constitutively active form of the CN A subunit acts in synergy with PMA to activate transcription of the IL-2 gene through the NF-AT-binding site , thereby indicating that expression of activated CN can mimic a Ca** signaling pathway in T cells ( O'Keefe et al. , 1992 ) .
+We have identified two elements , GM- « B/GC box ( formerly GM2/GC box ) and CLEO , as essential cis-elements of the mouse GM-CSF gene ( Miyatake et al. , 1988b , 1991 ; Heike et al. , 1989 ) .
+Together these elements are responsible for maximal activation , induced by costimulation with PMA/A23187 in T cells ( Miyatake et al. , 1988b , 1991 ; Heike et al. , 1989 ) .
+The GM- « B/GC-box sequence between -95 and -73 contains two DNA-binding motifs : one ( GGTAGTTCCC ) is recognized by an inducible factor , NF-GM2 and the other ( CCGCCC ) by a set of constitutive factors , A1 ( Spl ) , A2 , and B ( Sugimoto et al. , 1990 ) .
+Purification of NF-GM2 from nuclear extracts of PMA/A23187-stimulated Jurkat cells revealed that the GM- « B sequence is recognized by NF-GM2 consisting of 50- and 65-kDa polypeptides which are immunologically indistinguishable from 50- and 65-kDa subunits of NF- « B , respectively ( Tsuboi et al. , 1991 ) .
+Mutations in either GM- « B or GC-box sequence abolish the inducibility of the GM-CSF gene as well as the DNA binding of respective factors ( Sugimoto et al. , 1990 ) .
+The other element , conserved lymphokine element 0 ( CLEO ) , extends from -54 to -40 downstream of the GM- « B/GC-box element and shares strong homology 120 with the 5'-flanking regions of the IL-4 and IL-5 genes ( Miyatake et al. , 1991 ) .
+Mutations in the CLEO element fail to induce transcription from the GM-CSF gene as well as DNA binding to this sequence in response to PMA/A23187 ( Miyatake et al. , 1991 ) .
+We report here that overexpression of CN augments transcriptional activation of the GM-CSF gene , presumably through the CLEO element .
+Moreover , the CLEO element is associated with an NF-AT-like factor , whose binding is induced by PMA/A23187 and inhibited by addition of CsA .
+The coordinated regulation of the GM-CSF and IL-2 genes through the CLEO-like element in T cells is discussed .
+MATERIALS AND METHODS Cell Culture and Lymphokine Assays Jurkat cells ( a human T cell leukemia line ) , provided by Dr. P. Berg ( Stanford University , Stanford , CA ) , were maintained in RPMI 1640 medium ( JRH Biosciences ) containing 10 % fetal calf serum , penicillin G ( 100 U/m !
+) , and streptomycin ( 100 mg/m ! ) .
+Cells at a density of 2 X 10° cells/ml were treated with phorbol 12-myristate 13-acetate ( PMA ) ( 0-50 ng/ml , Calbiochem , La Jolla , CA ) and A23187 ( 0-2.5 uM , Calbiochem ) in the presence of CsA ( Sandimmun , Sandoz , Basel , Switzerland ) at the concentration of 0 to 1.0 ug/ml .
+After incubation for 24 h , the supernatant was collected by centrifugation and subjected to ELISA for GM-CSF and IL-2 ( Abrams et al. , 1992 ) .
+Mobility Shift Assays Nuclear extracts were prepared on a small scale , basically according to the method of Schreiber et al .
+( 1989 ) after treatment of Jurkat cells ( 2-5 x 10 '' ) with 50 ng/ml PMA , 1 uM A23187 , or both in the presence or absence of 1 ug/ml CsA for 2-3 h ( Masuda et al. , 1993 ) .
+In binding assays to the GC-box ( gm-mu 7.8 ) and GM- « B ( gm-mu 17.18 ) sequences , binding reaction and electrophoresis were done using 2.5 ug and 10 ug of nuclear extracts , respectively , as described elsewhere ( Tsuboi et al. , 1991 ) .
+The binding reaction to the CLEO and NF-AT sequences was carried out in 10 mM N-2-hydroxyethylpiperazine-N'-2-ethanesulfonic ( MEPES ) -NaOH ( pH 7.9 ) , 10 % glycerol , 1 mM EDTA , 1 mM dithiothreitol ( DTT ) , 50 ug/ml poly ( dI-dC ) ( Pharmacia ) , 250 ug /ml bovine serum albumin ( BSA ) , 100 mM KCI , ~0.5 ng of labeled probe ( ~50 000 cpm ) , and 12 ug of nuclear extracts .
+After incubation for 30 min at room temperature , the sample was applied onto a 4 % native polyacrylamide gel in a tris ( hydroxymethyl ) aminomethane ( Tris ) -glycine-EDTA buffer .
+The gel was dried and autoradiographed after electrophoresis at 120 V at room temperature .
+Oligonucleotides for mobility-shift and competition assays are shown below as one strand , with the overhang in lower case .
+Underlines depict a substitution mutation as described elsewhere ( Sugimoto et al. , 1990 ) .
+GC-box ( gm-mu 7.8 ) : gatcAGGTAGTGCCCCCGCCCCCC ( Sugimoto et al. , 1990 ) GM- « B ( gm-mu 17.18 ) : gatcAGGTAGTTCCCCCGCACCCC ( Sugimoto et al. , 1990 ) CLEO : gatecGTCACCATTAATCATTTCCTCTAACTGT ( Miyatake et al. , 1991 ) NF-AT : gatcGGAGGAAAAACTGTTTCATACAGAAGGCCGT ( Emme et al. , 1989 ) Sp1 : GATCGATCGGGGCGGGGCCGATC ( Dynan and Tjian , 1983 ) Plasmid Construction All plasmids were constructed and manipulated using standard techniques ( Sambrook et al. , 1989 ) .
+All DNA sequences inserted into vectors Molecular Biology of the Cell were confirmed by the dideoxy chain termination method using Se-quenase ( United States Biochemicals , Cleveland , OH ) .
+pIL-2 CAT-1 , provided from Dr. G.R .
+Crabtree ( Stanford ) , has sequences -567 to +47 from the human IL-2 gene controlling expression of a chloramphenicol acetyltransferase ( CAT ) gene ( Siebenlist et al. , 1986 ) .
+pIL-2 Luc-1 was constructed by replacing the SRa promoter ( HindIII fragment ) of pSRa-L-AA5 ' ( Takebe et al. , 1988 ) with the IL-2 promoter ( HindIII fragment ) of pIL-2 CAT-1 .
+pKC1 carrying a sequence -97 to +27 of the mouse GM-CSF gene linked to the CAT gene was constructed by replacing the Bg/II-BsfEII fragment of pmGMCAT-740 ( Miyatake et al. , 1988b ) with synthetic oligonucleotides ( N1 : N2 ) .
+NI1 : N2 gatcAACTCAGGTAGTTCCCCCGCCCCCCTGGACTTCTCGTG TTGAGTCCATCAAGGGGGCGGGGGCGACCTCAAGA-CACCAGTG pKC17 harboring a sequence -97 to +27 of the GM-CSF gene linked to the luciferase gene was constructed by replacing the Ndel-Sacl fragment of pmGMLuc-740 ( Heike et al. , 1989 ) with the Ndel-Sacl fragment of pKC1 .
+p ( GM- « B/GC-box ) , CAT and p ( CLEO ) , CAT ( Figure 6B ) were constructed by replacing the Bg ! lI-Sacl fragment of pmGMCAT-740 with synthetic oligonucleotides , which contain two copies of the GM- « B/ GC-box ( -91 to -72 ) and CLEO ( -70 to -37 ) sequences , respectively .
+p ( CLEO ) ; CAT ( Figure 6D ) was also generated by replacing the Bgill-Sacl fragment of pmGMCAT-740 with synthetic oligonucleotides , which contain three copies of the CLEO sequence -57 to -37 linked by Bgill and Secl overhangs .
+pBJ5-CNA and pBJ5-CNB , provided by Dr. N.A .
+Clipstone ( Stanford ) , contain murine cDNAs for the A , , ; and B subunits of CN , respectively , under control of the SRa promoter ( Clipstone and Crabtree , 1992 ) .
+A deletion mutant of the CN catalytic subunit ( pBJ5-CNAA ) , which lacks the putative auto-inhibitory and calmodulin-binding domains in the C-terminus , was also constructed by Dr. Clipstone .
+Transfection , CAT and Luciferase Assays Transient transfection assay was done using the DEAE-dextran method ( Miyatake et al. , 1988a ) , except for the experiments of lymphokine production .
+Jurkat cells ( 2 X 10 '' ) washed with Tris-buffered saline were suspended in 3 ml of the same buffer containing DEAE-dextran ( 0.5 mg/ml , Pharmacia , Piscataway , NJ ) and 30-36 ug of total plasmid DNA , incubated for 20 min at room temperature , and mixed with 30 ml of culture medium containing 0.1 mM chloroquine diphosphate ( Sigma , St. Louis , MO ) .
+After incubation for 1 h at 37°C , chloroquine-containing medium was replaced with 20 ml of culture medium .
+The cell suspension was divided into four wells of a 6-well plate , cultured for 30 h , and treated with 50 ng/ml PMA and 1 aM A23187 in the presence of 0 , 0.01 or 1 ug/ml CsA for 12-15 h. Cell extracts were prepared by four cycles of freezing and thawing , and subjected to CAT and luciferase assays .
+CAT activity was measured by an AMBIS image analyzer as percentage conversion of [ `` *C ) chloramphenicol to 1- or 3-acetylated chloramphenicol after 6 h incubation at 37°C with 50 ug of cell extracts , as described previously ( Miyatake et al. , 1988a ) .
+Luciferase activity was measured by a luminometer ( Monolight 2010 , Analytical Luminescence Laboratory , San Diego , CA ) with 10 ul of 50 ul cell extracts , followed by division of a value by a protein amount of 10 ul extracts , as described previously ( de Wet et al. , 1987 ) .
+Jurkat cells were transfected by electroporation ( Gene Pulsar , Bio-Rad , Richmond , CA ) to measure lymphokine production in these cells .
+Cells ( 4 X 10 '' ) in 0.5 ml RPMI medium were mixed with 100 ug of DNA in 0.4 cm cuvettes ( Bio-Rad ) , pulsed at 300 V ( 960 LF ) , then left at room temperature for 10 min before addition of 10 ml of culture medium after which the mixture was transferred to plates .
+After 36 h of incubation , the cells were harvested , suspended in 4 ml of culture medium , divided into four wells of 16-well plates and treated with various reagents for 24 h. Vol .
+5 , January 1994 Activation of GM-CSF Gene by Calcineurin RESULTS CsA Blocks GM-CSF Production in Jurkat Cells Jurkat T cells produced GM-CSF when co-stimulated with PMA and A23187 ( Figure 1A ) .
+The production was maximal when the cells were treated with 50 ng/ ml PMA and 1.0 4M A23187 .
+Either PMA or A23187 did not induce the expression of GM-CSF .
+The GM-CSF production , induced by PMA/A23187 , was inhibited in the presence of the immunosuppressive drug CsA , in a dose-dependent manner ( Figure 1B ) .
+Likewise , A 3000 E o & g 20004 9 0 3 `` J 0 L= al E 10004 w Y bs O 0 O- -O O 0 10 20 50 PMA ( ng/m ! )
+B 3000 E `` BD & S 2000 7 0 3 TV 0 =I lant a 1000 7 ja ps O 0 U U Ld t c 0 0.01 0.1 1.0 CsA ( ug/ml ) Figure 1 .
+- CsA blocks GM-CSF production induced by costimulation with PMA and A23187 in Jurkat cells .
+( A ) Jurkat cells were stimulated with 0 , 10 , 20 , and 50 ng/ml of PMA in the presence of A23187 : 0 gM ( 0 ) , 0.5 uM ( @ ) , 1.0 aM ( ® ) and 2.5 uM ( & ) .
+GM-CSF was measured by ELISA after 24 h incubation .
+( B ) Jurkat cells were treated for 24 h with PMA ( 50 ng/ml ) and A23187 ( 1.0 uM ) in the presence of CsA ( 0 , 0.01 , 0.1 , or 1.0 ug/ml ) .
+Results shown are the averages of 3 experiments .
+121 A. Tsuboi et al .
+IL-2 production was induced by co-stimulation with PMA/A23187 and was blocked by CsA treatment of Jurkat cells .
+These results show strong synergy between PKC- and Ca**-signaling pathways for the production of GM-CSF and IL-2 , which is completely inhibited by addition of CsA .
+CLEO Motif Is Recognized by a CsA-sensitive NF AT -like Factor Mobility shift assays using nuclear extracts of Jurkat cells were performed to identify PMA/A23187-induced nuclear factor ( s ) , whose binding is inhibited by the addition of CsA , in the GM-CSF promoter .
+A1 , A2 , and B bindings to the GC-box sequence ( gm-mu 7.8 ) were constitutive and were not affected significantly by any treatment given ( Figure 2A ) .
+NF- « B binding to the GM- « B sequence ( gm-mu 17.18 ) was significantly induced by PMA alone .
+PMA/A23187 treatment slightly increased the NF- « B binding activity ( < 1.5-fold ) , and CsA treatment inhibited the PMA/A23187-induced binding , to the PMA-induced level ( Figure 2A ) .
+We found in earlier mobility shift assays that the CLEO sequence gives rise to at least three DNA-protein com-plexes , termed NF-CLEO a , 8 , and y ( Masuda et al. , 1993 ) .
+A basal level of NF-CLEO a and 8 was detected in the non-stimulated nuclear extracts and were induced markedly by PMA ( Figure 2B ) .
+PMA/A23187 treatment further increased the a- and -binding activities less than threefold , and the addition of CsA was without effect ( Figure 2B ) .
+Several lines of evidence including the binding of partially purified AP-1 to CLEO sequence , GC-box GM-xB B , Probe ( gm-mu 7 .
+8 ) ( gm-mu 17 .
+18 ) Probe f PMA + + + + + + PMA A23187 + + + + + + A23187 CsA + + CsA % .
+- ) tod tad bat tost tos bnt Wi < nros 5 - » Wis tno wa Bane || B Lg : “ aw-Mink hike < ) > indicated that these are related to AP-1 ( Masuda et al. , 1993 ) .
+In contrast , NF-CLEO y was not induced by PMA or A23187 alone , but was induced by PMA/A23187 ( Figure 2B ) .
+This binding was completely blocked by adding CsA .
+Interestingly , the NF-AT-binding sequence competitively inhibited NF-CLEO 7 binding , but not a and 8 bindings ( Figure 2C ) .
+These results suggest that the CLEO element of the GM-CSF gene is one of the targets for the NF-AT-related factor , which is induced by co-stimulation with PMA/A23187 and blocked by CsA treatment .
+Overexpression of CN Potentiates Transcriptional Activation from the GM-CSF Promoter in Jurkat Cells Since CN was shown to be implicated in the Ca**-signaling pathway of the IL-2 gene induction ( Clipstone and Crabtree , 1992 ; O'Keefe et al. , 1992 ) , we tested the effect of CN on transcription from the GM-CSF promoter .
+pBJ5-CNA and pBJ5-CNB carry cDNAs for the catalytic ( A ) and regulatory ( B ) subunits of CN , respectively ( Clipstone and Crabtree , 1992 ) .
+pKC1 is a CAT reporter construct carrying the GM-CSF promoter between positions -97 and +27 .
+First we co-transfected pKC1 with a control vector pBJ5 into Jurkat cells .
+PMA alone slightly stimulated transcription from the GM-CSF promoter , while A23187 alone did not .
+PMA/ A23187 treatment synergistically induced transcription from the GM-CSF promoter , and this induction was inhibited by CsA , in a dose-dependent fashion ( Figure 3A ) .
+Co-transfection of pKC1 with pBJ5-CNA and pBJ5 C CLEO Competitor -- CLEO NF-AT Spl Y - » j o - # » h p +++ Figure 2 .
+- CLEO element is recognized by an NF-AT-like factor whose binding is induced by PMA/A23187 and inhibited by CsA .
+Nuclear extracts from either non-A23187- , PMA- , PMA/A23187- , or PMA/A23187/CsA-stimulated Jurkat cells were incubated with either GC-box ( A ) , GM- « B ( A ) or CLEO ( B ) oligonucleotides labeled with **P , followed by native acrylamide gel electrophoresis and autoradiography .
+( C ) Nuclear extracts of PMA/A23187-stimulated cells were incubated with **P-labeled CLEO oligonucleotides together with a competitor of either CLEO , NF-AT or Sp1 oligonucleotides at the concentration of 0.5 , 5 , and 50 ng .
+The following amounts of nuclear extracts were used for assays : GC-box ( A ) , 2.5 ug , GM- « B ( A ) , 10 ug , ( B ) , 12 ug , and ( C ) , 12 ug .
+122 Molecular Biology of the Cell A Reporter pKC1 ( GM-CSF promoter ) CN A & B ook ( m oe poop $ oo # PMA/A23187 _ = + + + = + + + CsA ( ug/ml ) 0 _ 0 0.01 10 0 0 0.01 1 # | © # e Y o _o Y 6 + % Relative activity 1 9.7 3.0 13 1 28 13 12 Relative CAT activity ( fold induction ) CN A & B sos soz PMA/A23187 CsA ( ug/ml ) ~ og t + 0 0 0.01 1 Figure 3 .
+- Exogenously expressed CN in Jurkat cells stimulates transcription from the GM-CSF and IL-2 promoters and restores the transcription inhibited by CsA .
+Jurkat cells ( 2 X 10 '' ) were co-transfected either with 12 ug of pKC1 ( A ) or pIL-2 CAT-1 ( B ) together with either pBJ5 ( 24 ug ) or pBJ5-CNA ( 12 ug ) and pBJ5-CNB ( 12 ug ) , and divided into 4 aliquots .
+After 30 h incubation , the cells were stimulated for 15 h with PMA ( 50 ng/ml ! )
+and A23187 ( 1 aM ) in the presence of CsA ( 0 , 0.01 , or 1.0 ug/ml ) .
+Results are shown as thin layer chromatogram ( A ) , quantitated as fold induction of CAT activity compared with unstimulated cells ( A and B ) , and are the averages of 3 independent experiments .
+Means and standard deviations ( SD ) are 1 + 0.34 , 9.7 + 1.6 , 3.0 + 1.2 , 1.3 + 0.14 , 1 + 0.065 , 28 + 5.7 , 13 + 2.3 , and 1.2 + 0.26 ( A ) ; and 1 + 0.50 , 69 + 11 , 3.5 + 4.4 , 0.94 + 0.20 , 1 + 0.24 , 220 + 30 , 110 + 18 , and 1.2 + 0.32 ( B ) .
+CNB enhanced transcription from the GM-CSF promoter threefold and recovered the transcription inhibited by 0.01 ug/ml of CsA , compared with pBJ5 ( Figure 3A ) .
+As a control experiment , we co-transfected pIL-2 CAT-1 ( -567 to +47 ) along with pBJ5-CNA and pBJ5-CNB into Jurkat cells .
+Overexpression of CN augmented transcription from the IL-2 promoter more than threefold and restored the transcription reduced by CsA in the concentration of 0.01 ug/ml , compared with pBJ5 ( Figure 3B ) .
+These results indicate that overexpressed CN potentiates transcriptional activation of the GM-CSF gene in response to PMA/A23187 and confers CsA resistance on the transcription .
+Expression of Constitutively Active CN Acts in Synergy with PMA to Facilitate Transcription from the GM-CSF Promoter To further examine the CN action on the GM-CSF promoter , we carried out co-transfection experiments using Vol .
+5 , January 1994 Activation of GM-CSF Gene by Calcineurin a deletion mutant of the CN catalytic subunit ( pBJ5-CNAA ) .
+This mutation , which lacks the putative autoinhibitory and calmodulin-binding domains , gives rise to Ca**/calmodulin-independent , constitutive phosphatase activity ( Clipstone , personal communication ) .
+pKC17 is a luciferase reporter construct containing the GM-CSF promoter between -97 and +27 .
+First we co-transfected pKC17 with the control vector pBJ5 into Jurkat cells .
+PMA alone slightly stimulated transcription from the GM-CSF promoter , and this activation was not blocked by addition of CsA ( Figure 4A ) .
+Co-trans- A 200 GM-CSF aa o T Relative luciferase activity ( fold induction ) 0-CN AA PMA CsA ( ug/m ! 1 ) B 607 so-40- 207 Relative luciferase activity ( fold induction ) 104 0 CN AA -o- - - + +o + + PMA - + + + - + + + CsA ( ug/ml ) _ 0 0 0.01 1 0 o 0.01 1 Figure 4 .
+Expression of constitutively active CN synergizes with PMA to activate transcription from the GM-CSF and IL-2 promoters in Jurkat cells .
+Cells ( 2 X 10 '' ) were co-transfected either with 10 ug of pKC17 ( A ) or pIL-2 Luc-1 ( B ) along with either pBJ5 ( 20 ug ) or pBJ5-CNAA ( 20 ug ) and divided into 4 aliquots .
+After 30 h incubation , the cells were stimulated for 12 h with PMA ( 50 ng/m ! )
+in the presence of CsA ( 0 , 0.01 , or 1.0 ug/ml ) .
+Results presented are quantitated as fold induction of luciferase activity compared with unstimulated cells and are the averages of 3 independent experiments .
+Means and SD are 1 + 0.24 , 28 + 9.5 , 30 + 7.0 , 21 + 7.2 , 1 + 0.44 , 130 + 32 , 64 + 16 and 12 + 4.2 ( A ) , and 1 + 0.28 , 1.3 + 0.070 , 1.2 + 0.36 , 1.2 + 0.15 , 1 + 0.42 , 53 + 23 , 15 + 6.2 and 1.6 + 0.17 ( B ) .
+123 A. Tsuboi et al .
+fection of pKC17 with pBJ5-CNAA enhanced transcription from the GM-CSF promoter 4.5-fold and rendered the cells more resistant to the effect of CsA ( 0.01 ug/ml ) , compared with pBJ5 ( Figure 4A ) .
+As a control experiment , we co-transfected pIL-2 Luc-1 ( -567 to +47 ) along with pBJ5-CNAA into Jurkat cells .
+Expression of the activated CN stimulated transcription from the IL-2 promoter 40-fold and also made the cells more resistant to the effect of CsA ( 0.01 ug/ml ) , compared with pBJ5 ( Figure 4B ) .
+It would thus appear that the region between -97 and +27 of the GM-CSF promoter is responsible for the synergistic action of the activated CN with PMA .
+Constitutively Active CN Acts in Synergy with PMA to Induce Production of Endogenous GM-CSF and IL-2 To determine whether increases in luciferase activity by the synergistic action of the constitutively active CN with PMA were indeed a consequence of enhancement of signals converging on the GM-CSF or IL-2 gene , we measured the amount of endogenous GM-CSF and IL-2 proteins , Culture supernatants from Jurkat cells , transfected transiently with the active CN , were assayed for GM-CSF and IL-2 levels , following treatment of various reagents .
+Transfected cells with the control vector pBJ5 produced GM-CSF and IL-2 only when stimulated with PMA/A23187 ( Figure 5 , A and B ) .
+In contrast , transfection with pBJ5-CNAA revealed that expression of the constitutively active CN synergized with PMA to induce production of GM-CSF and IL-2 , both of which were inhibited by the addition of CsA ( Figure 5 , A and B ) .
+The levels of GM-CSF and IL-2 production were , however , lower compared with those induced by PMA/A23187 in the pBJ5-transfected cells .
+Therefore , behavior of the plasmids pKC17 and pIL-2 Luc-1 reflects the levels of expression of the endogenous GM-CSF and IL-2 genes , respectively .
+Exogenously Expressed CN Augments CLEO-Dependent Transcription To characterize CN responsive element ( s ) in detail , we divided the region between -91 and -37 into two seg-ments , followed by insertion into the minimal GM-CSF promoter ( position -36 to +27 ) .
+p ( GM- « B/GC-box ) CAT and p ( CLEO ) ; CAT contain two copies of segment -91 to -72 and segment -70 to -37 , respectively ( Figure 6B ) .
+PMA/A23187 treatment induced transcription from p ( GM- « B/GC-box ) , CAT in a lower level than that from p ( CLEO ) , CAT .
+Co-transfection of p ( GM- « B/ GC-box ) , CAT with pBJ5-CNA and pBJ5-CNB stimulated transcription 1.5-fold compared with pBJ5 , whereas co-transfection of p ( CLEO ) , CAT with pBJ5-CNA and pBJ5-CNB enhanced transcription twofold compared with pBJ5 ( Figure 6A ) .
+The level of stimulation by CN in p ( CLEO ) ; , CAT was more than threefold 124 A 4007 g/ml ) 2300- 2004 M-CSF production a t 4+ $ 9 +o ++ 1 ++ + 2000 7 10007 IL-2 production ( pg/ml ) 0 CNAA = o= PMA = + A23187 = = CsA e a 4 $ or + 4 $ 01 Figure 5 .
+Constitutively active CN acts in synergy with PMA to induce production of endogenous GM-CSF and IL-2 in Jurkat cells .
+Cells ( 4 X 10 '' ) were transfected by electroporation either with 100 ug of pBJ5 or pBJ5-CNAA .
+After 36 h incubation , the cells were harvested , suspended in culture medium , divided into 4 wells of 16-well plates and stimulated for 24 h with PMA ( 50 ng/ml ) and/or A23187 ( 1 LM ) in the presence of CsA ( 0 or 1.0 ug/ml ) .
+Results presented are the averages of 3 independent experiments .
+Detection limits in ELISA were 40 pg/ml for GM-CSF and 200 pg/ml for IL-2 .
+higher than that in p ( GM- « B/GC-box ) , CAT .
+It may well be that the CLEO element more than the GM- « B/ GC-box sequence is responsible for both the inducibility by PMA/A23187 and the potentiation by CN .
+We then constructed a plasmid containing three copies of the CLEO element ( position -57 to -37 ) upstream of the basal GM-CSF promoter ( Figure 6D ) .
+Co-transfection of p ( CLEO ) , ; CAT with pBJ5-CNA and pBJ5-CNB showed that expression of CN augmented the CLEO-dependent transcription threefold compared with pBJ5 ( Figure 6C ) .
+These results indicate that like the NF-AT site of the IL-2 gene , the CLEO element of the GM-CSF Molecular Biology of the Cell gene is one target for enhancement of transcription by CN and for induction through the PKC- and Ca**-signaling pathways in activated T cells ( Figure 7 ) .
+DISCUSSION In T cells , co-stimulation with phorbol esters ( PMA ) and Ca* '' * ionophores ( A23187 ) leads to considerable activation of several lymphokine genes .
+We have found that production of IL-2 or GM-CSF shows strong synergy between PKC- and Ca**-signaling pathways both in murine cloned T cells ( Arai et al. , 1992 ) and in Jurkat cells ( Figure 1A ) .
+In cloned T cells , certain lymphokines are partially activated by PMA alone ( IL-5 , IL-6 , and IL-10 ) or A23187 alone ( IL-3 , IL-4 and interferon [ IFN ] -y ) ( Arai et al. , 1992 ) .
+CsA completely inhibits the IL-2 and GM-CSF production induced by PMA/A23187 in both these T cell lines ( Figure 1B ) .
+In the cloned T cells , CsA almost completely blocks the IL-3 , IL-4 , and IFN-y production induced by PMA/A23187 ( Arai et al. , 1992 ) .
+Our results are consistent with the observation that in activated human lymphocytes , CsA and FK506 inhibit accumulation of transcripts from early T cell activation genes , including IL-2 , IL-3 , IL-4 , IFN-y , TNF-a , and GM-CSF ( Tocci et al. , 1989 ) .
+Earlier studies on the IL-2 gene showed that both transcriptional activation through two NF-AT sites and an Oct-1 ( octamer factor-1 ) /OAP-40 ( octamer-asso-ciated protein-40 ) site ( Figure 7 ) and the respective DNA bindings are highly sensitive to CsA and FK506 ( Riegel et al. , 1992 ) .
+NF-AT consists of two factors : a ubiquitous nuclear factor ( NF-AT , ) , identified as AP-1 consisting of Jun-Fos heterodimers such as Fral /JunB ( Jain et al. , 1992 ; Boise et al. , 1993 ) , and a T cell-specific , pre-existing component ( NF-AT , ) , whose translocation from cytoplasm into nucleus is inhibited by CsA and FK506 ( McCaffrey et al. , 1993 ; Northrop et al. , 1993 ) .
+In foregoing work ( Masuda et al. , 1993 ) , we demonstrated that the CLEO element of the GM-CSF promoter is recognized by NF-CLEO y with a relatively weak affinity .
+NF-CLEO 7 is induced by PMA/A23187 , abolished by the addition of CsA ( Figure 2B ) and competitively inhibited by NF-AT oligonucleotides ( Figure 2C ) .
+NF-CLEO y has other characteristics similar to NF-AT , since it appears to be composed of AP-1 and 120 kDa protein ( Tokumitsu et al. , 1993 ) .
+The CLEO element shares partial homology with the -binding site ( TTTCCTC , Figure 7 ) , which is closely related to the consensus binding sequence for Ets-family proteins ( Wasylyk et al. , 1993 ) .
+Interestingly , the CLEO sequence contains an AP-1 -like site juxtaposed directly with the Ets-binding site ( Figure 7 ) .
+The CLEO-AP-1 site ( TTAATCA ) is similar to the AP-1 consensus sequence ( TGAG/CTCA ) , and differences are probably not critical for binding of the Jun-Fos heterodimer ( Risse et al. , 1989 ) since AP-1 can bind to the CLEO sequence with a high affinity ( Tokumitsu et al. , 1993 ) .
+NF-CLEO a and $ are induced Vol .
+5 , January 1994 Activation of GM-CSF Gene by Calcineurin mainly by PMA ( Figure 2B ) and share most properties with AP-1 ( Masuda et al. , 1993 ) .
+CsA and FK506 tightly bind distinct families of im-munophilin ( Schreiber and Crabtree , 1992 ; Sigal and Dumont , 1992 ) , and the resulting complexes associate with CN to inhibit phosphatase activity ( Fruman et al. , 1992 ) .
+It has been reported that CN is expressed at a low level in T cells ( Kincaid et al. , 1987 , 1990 ) , whereas the immunophilins are relatively abundant ( Sigal and Dumont , 1992 ) .
+We showed that as in the case of the IL-2 gene ( Figure 3B ) , overexpression of CNA/CNB augments transcription of the GM-CSF gene and restores the transcription inhibited by CsA in Jurkat cells ( Figure 3A ) .
+We also found that the constitutively active form of CNA subunit synergizes with PMA to stimulate transcription from the GM-CSF promoter ( Figure 4A ) , as described in the earlier study on the IL-2 promoter ( O'Keefe et al. , 1992 ) .
+Finally we demonstrated that the constitutively active CN acts in synergy with PMA to induce production of endogenous GM-CSF and IL-2 ( Figure 5 , A and B ) .
+In both cases , the levels of induction by PMA are lower than those induced by PMA / A23187 in mock-transfected cells , as probably related to transfection efficiency .
+This would not , however , account for the low levels of lymphokine production induced by PMA/A23187 in CNAA-transfected cells .
+Furthermore , CLEO sequence-dependent transcription is stimulated by the expression of CNA/CNB ( Figure 6C ) as well as by that of the constitutively active type .
+Unexpectedly , the transcriptional enhancement of p ( CLEO ) ; CAT and p ( CLEO ) , ; CAT constructs by CN was not inhibited by CsA .
+Transcription from tandemly repeated AP-1 sequences was seen to be stimulated by FK506 in the presence of PMA /ionomycin ( Ullman et al. , 1993 ) .
+This may account for the failure of CsA in repression of the transcriptional enhancement by CN , since the effect of the strong AP-1-binding site in the CLEO sequence may become more dominant than that of the weak NF-AT-like-binding site when the CLEO element is multimerized .
+There has been no direct evidence that endogenous CN is implicated in activation of the GM-CSF and IL-2 genes through Ca** signaling .
+Co-transfection experiments can be done to determine whether overexpression of the auto-inhibitory domain of the CNA subunit reduces activation of these promoters in response to PMA/A23187 , since a high dose of a peptide to this domain inhibits the phosphatase activity in vitro ( Hashimoto et al. , 1990 ) .
+A dominant negative mutant of CNA subunit , which lacks only the phosphatase ac-tivity , may also be useful to block activation of endogenous CN in response to the Ca** signaling by com-petition .
+These strategies , however , may not be feasible in transient transfection assays because at least two subtypes of the CN catalytic subunit have been identified by molecular cloning ( Kincaid et al. , 1990 , 1991 ) .
+125 A. Tsuboi et al .
+It also has been reported that in addition to NF-AT and OCT-1/OAP-40 , CsA and FK506 inhibit , by ~50 % , both NF- « B binding to the immunoglobulin « light chain enhancer ( Ig- « B ) sequence and the ability of multimerized Ig- « B sequences to activate expression from a reporter plasmid in response to PMA /ionomycin ( Emme et al. , 1989 ; Mattila et al. , 1990 ) .
+NF- « B binding is less sensitive to these immunosuppressants since it is largely induced by PMA alone .
+The increased level of NF- « B activity ( binding and transcription ) induced by addition of ionomycin is completely inhibited by CsA and FK506 in Jurkat cells ( Emmel et al. , 1989 ; Mattila et al. , 1990 ) .
+We reported earlier that authentic NF- « B binding to the GM- « B site is weaker than that to the Ig- « B sequence ( Tsuboi et al. , 1991 ) .
+Since PMA/A23187-induced binding to the GM- « B site is inhibited down to a PMA level by CsA ( Figure 2A ) , we can not exclude the possibility that the GM- « B site may be another target for CsA effects ; this contribution , if any , would be less significant than that of the CLEO element .
+There are reports that the Ig- « B and HIV- « B sequences can be recognized by an -like , CsA-sensitive factor under certain conditions of binding reaction or stimulation ( Schmidt et al. , 1990 ; McCaffrey et al. , 1992 ) .
+These « B sequences contain GGGACTITCC and share homology with the above Ets-binding site ( TTTCC ) .
+We have already purified NF-AT from nuclear extracts of PMA/ A23187-stimulated Jurkat cells ( Tokumitsu et al. , 1993 ) ; A giga -- - -- - Relative CAT activity ( fold induction ) CN A & B PMAIAZ3187 - - + Reporter .
+p ( GM-xB/GC-box ) CAT - p ( CLEO ) CAT CAT Enc GG @ TAGTTCCCCCGCCCCCCT 91 p ( CLEO ) CAT clea __|__ Cleg c A _I % AGTTCTGTGGTCACCATTAATCATTTCCTCTAA purified NFE-AT fails to bind to the GM- « B sequence of the GM-CSF promoter .
+However , certain « B sequences may be other candidates for the CsA action through NF-AT -like proteins .
+The CLEO element of the GM-CSF promoter seems to be one of the targets for the CsA and CN actions ( Figure 7 ) , as described elsewhere ( Randak et al. , 1990 ) .
+Mobility shift assays ( Figure 2A ) and co-transfection experiments ( Figure 6A ) suggested that the GM- « B sequence may be another target for the CsA and CN ef-fects .
+Transfection experiments using GM-CSF CAT constructs with the CLEO or GM- « B/GC-box mutation revealed that cooperation between the CLEO and GM- « B/GC-box elements is required for both maximal activation of the GM-CSF promoter and its enhancement by exogenous CN expression .
+It has been reported that an intergenic enhancer , located between human GM-CSF and IL-3 genomic genes , may participate in the inducibility of both genes and be a target for CsA in-hibition .
+( Cockerill et al. , 1993 ) .
+This enhancer contains four AP-1 binding sites , three of which are associated with an NF-AT-like factor and are similar to the CLEO element ( Cockerill et al. , 1993 ) .
+To account for activation of the endogenous GM-CSF gene as well as its sensitivity to CsA , interaction between the distal and prox-imal CLEO-like elements should be also considered in the mouse GM-CSF/IL-3 locus .
+We have pointed out that the CLEO element of the GM-CSF gene shares ho Reporter CAT CN A & B = - + PMA/A23187 - + - + # & Y e ® ® ® Relative activity 1 .
+31 1 .
+100 p ( CLEOkCAT Eng éﬁCCATTAATg QATTTQQTCTAQ ‘ Figure 6 , - Exogenously expressed CN stimulates CLEO-dependent transcription in Jurkat cells .
+Jurkat cells ( 1 X 10 '' ) were co-transfected either with 5 ug of p ( GM- « B/GC-box ) , CAT ( A ) , p ( CLEO ) ; CAT ( A ) or p ( CLEO ) ; CAT ( C ) along with either pBJ5 ( 20 ug ) or pBJ5-CNA ( 10 ug ) and pBJ5-CNB ( 10 ug ) , and divided into 2 aliquots .
+After 24 h incubation , the cells were stimulated for 15 h with PMA ( 50 ng/ml ) and A23187 ( 1 uM ) .
+Results are shown as thin layer chromatogram ( C ) , quantitated as fold induction of CAT activity compared with unstimulated cells ( A and C ) , and are the averages of 3 independent experiments .
+Schematic representation of p ( GM- « B/GC-box ) , CAT ( B ) , p ( CLEO ) ; CAT ( B ) , or p ( CLEO ) ; CAT ( D ) carrying tandemly repeated GM- « B/GC-box or CLEO sequence upstream of the minimal GM-CSF promoter ( position -36 to +27 ) .
+Underlines show the GM- « B/GC-box and CLEO sequences essential for binding of respective factors .
+Means and SD are 1 + 0.23 , 3.1 + 0.37 , 1 + 0.037 , 5.4 + 0.27 , 1 + 0.059 , 9.5 + 1.2 , 1 + 0.015 , and 19 + 0.81 ( A ) ; and 1 + 0.074 , 31 + 3.0 , 1 + 0.018 , and 100 + 3.0 ( C ) .
+126 Molecular Biology of the Cell Ca ionophore “ A 104 95\ J CsA h , m GM-CSF TTPCCTC TGAAACAAATTTTCCTCC - m IL-2 ACGCCTTCTGTATCAAACAGTTTTTCCTC ' h IL-2 CD2BRC APA NF-AT® NF-AT - OCT* NF-kB APA '' Figure 7 .
+- A model for coordinated regulation of the GM-CSF and IL-2 genes in activated T cells through PMA/Ca** inophore-respon-sive and CsA-sensitive elements , associated with NF-AT or NF-AT-like factor .
+NF-AT-binding sequences in both human and mouse are shown as the reverse strand .
+Bold letters in the DNA sequences indicate Ets-binding sites , and underlines show AP-1-like sites .
+Asterisks in the I1-2 promoter depict a low-affinity binding site of the respective factor .
+Binding sites for CD28-responsive complex ( CD28RC ) are described elsewhere ( Fraser and Weiss , 1992 ) .
+OCT/OAP TATA mology with the regulatory regions of the IL-4 and IL-5 genes in both human and mouse ( Miyatake et al. , 1991 ) .
+We also found a homologous sequence with the CLEO element in the 5'-flanking region of the mouse IL-3 gene ( AGAGCCAGGCTACTTCCTCC ) between positions -262 and -243 ( Miyatake et al. , 1985 ) .
+CsA blocks production of GM-CSF , IL-2 , IL-3 , IL-4 , and IL-5 , induced by PMA/A23187 in the murine cloned T cells as described above ( Arai et al. , 1992 ) .
+Therefore , we assume that the CLEO -like sequence may be involved in coordinated induction of the GM-CSF , IL-2 , IL-3 , IL-4 , and IL-5 genes through the Ca**- and PKC-signaling pathways mediated during T cell activation .
+Use of mouse type 2 helper T cell clones , which produce IL-3 , IL-4 , IL-5 , and GM-CSF will facilitate testing as to whether CN or CsA affects transcription of these genes through the CLEO-like sequence .
+ACKNOWLEDGMENTS We thank Drs .
+N.A .
+Clipstone and G.R .
+Crabtree for providing pIL-2 CAT-1 and CN-expression vectors ( pBJS-CNA , pBJ5-CNAA , and pBJ5-CNB ) and for helpful discussion .
+We are also grateful to Dr. P. Berg for providing Jurkat cells , to D. Robison for oligonucleotide syn-thesis , K. Conger for plasmid construction , and Drs .
+Y. Kaziro , D. Wylie and M. Muramatsu , and M. Ohara for critical readings of the manuscript .
+DNAX Research Institute of Molecular and Cellular Biology is supported by Schering-Plough Corporation .
+REFERENCES Abrams , J.S. , Roncarolo , M.-G. , Yssel , H. , Andersson , U. , Gleich , G.J. , and Silver , J.E .
+( 1992 ) .
+Strategies of anti-cytokine monoclonal antibody Vol .
+5 , January 1994 Activation of GM-CSF Gene by Calcineurin development : immunoassay of IL-10 and IL-5 in clinical samples .
+Immunol .
+Rev .
+127 , 5-24 .
+Arai , K. , Lee , F. , Miyajima , A. , Miyatake , S. , Arai , N. , and Yokota , T. ( 1990 ) .
+Cytokines : coordinators of immune and inflammatory re-sponses .
+Annu .
+Rev .
+Biochem .
+59 , 783-836 .
+Arai , N. , Naito , Y. , Watanabe , M. , Masuda , E.S. , Yamaguchi-Iwai , Y. , Tsuboi , A. , Heike , T. , Matsuda , I. , Yokota , K. , Koyano-Nakagawa , N. , Lee , H.J. , Muramatsu , M. , Yokota , T. , and Arai , K. ( 1992 ) .
+Activation of lymphokine genes in T cells : role of cis-acting DNA elements that respond to T cell activation signals .
+Pharmacol .
+Ther .
+55 , 303-318 .
+Berridge , M.J. ( 1993 ) .
+Inositol triphosphate and calcium signalling .
+Nature 361 , 315-325 .
+Boise , LH. , Petryniak , B. , Mao , X. , June , C.H. , Wang , C.-Y. , Lindsten , T. , Bravo , R. , Kovary , K. , Leiden , J.M. , and Thompson , C.B .
+( 1993 ) .
+The NF-AT DNA binding complex in activated T cells contains Fra-1 and JunB .
+Mol .
+Cell .
+Biol .
+13 , 1911-1919 .
+Clipstone , N.A. , and Crabtree , G.R .
+( 1992 ) .
+Identification of calcineurin as a key signalling enzyme in T-lymphocyte activation .
+Nature 357 , 695-697 .
+Cockerill , P.N. , Sannon , MF. , Bert , A.G. , Ryan , G.R. , and Vadas , M.A .
+( 1993 ) .
+The granulocyte-macrophage colony-stimulating factor/ interleukin 3 locus is regulated by an inducible cyclosporin A-sensitive enhancer .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 90 , 2466-2470. de Wet , J. R. , Wood , K.V. , DeLuca , M. , Helinski , D.R. , and Subramani , S. ( 1987 ) .
+Firefly luciferase gene : structure and expression in mammalian cells .
+Mol .
+Cell .
+Biol .
+7 , 725-737 .
+Dynan , W.S. , and Tjian , R. ( 1983 ) .
+The promoter-specific transcription factor Sp1 binds to upstream sequences in the SV40 early promoter .
+Cell 35 , 79-87 .
+Emmel , E.A. , Verweij , C.L. , Durand , D.B. , Higgins , K.M. , Lacy , E. , and Crabtree , G.R .
+( 1989 ) .
+Cyclosporin A specifically inhibits function of nuclear proteins involved in T cell activation .
+Science 246 , 1617-1620 .
+Flanagan , W.M. , Corthesy , B. , Bram , R.J. , and Crabtree , G.R .
+( 1991 ) .
+Nuclear association of a T-cell transcription factor blocked by FK-506 and cyclosporin A .
+Nature 352 , 803-807 .
+Fraser , J.D. , and Weiss , A .
+( 1992 ) .
+Regulation of T-cell lymphokine gene transcription by the accessory molecule CD28 .
+Mol .
+Cell .
+Biol .
+12 , 4357-4363 .
+Fruman , D.A. , Klee , C.B. , Bierer , B.E. , and Burakoff , S.I .
+( 1992 ) .
+Calcineurin phosphatase activity in T lymphocytes is inhibited by FK506 and cyclosporin A. Proc .
+Natl .
+Acad .
+Sci .
+USA 89 , 3686-3690 .
+Hashimoto , Y. , Perrino , B.A. , and Soderling , T.R .
+( 1990 ) .
+Identification of an autoinhibitory domain in calcineurin .
+J. Biol .
+Chem .
+265 , 1924-1927 .
+Heike , T. , Miyatake , S. , Yoshida , M. , Arai , K. , and Arai , N. ( 1989 ) .
+Bovine papilloma virus encoded E2 protein activates lymphokine genes through DNA elements , distinct from the consensus motif , in the long control region of its own genome .
+EMBO J .
+8 , 1411-1417 .
+Jain , J. , McCaffrey , P.G. , Valge , A.V. , and Rao , A .
+( 1992 ) .
+Nuclear factor of activated T cells contains Fos and Jun .
+Nature 356 , 801-804 .
+Kincaid , RL. , Gin , P.R. , Higuchi , S. , Tamura , J. , Dixon , S.C. , Marietta , C.A. , Amorese , D.A. , and Martin , B.M .
+( 1990 ) .
+Cloning and characterization of molecular isoforms of the catalytic subunit of calcineurin using nonisotopic methods .
+J. Biol .
+Chem .
+265 , 11312-11319 .
+Kincaid , R.L. , Higuchi , S. , Tamura , J. , Giri , P.R. , and Martensen , T.M .
+( 1991 ) .
+Structural isoform of the catalytic subunit of calmodulin-de-pendent phosphoprotein phosphatase ( `` calcineurin '' ) : deriving spec-ificity by linking conserved and variable regions .
+Adv .
+Prot .
+Phos-phatases 6 , 73-98 .
+127 A. Tsuboi et al .
+Kincaid , RL. , Takayama , H. , Billingsley , ML. , and Sitkovsky , M.V .
+( 1987 ) .
+Differential expression of calmodulin-binding proteins in B , T lymphocytes and thymocytes .
+Nature 330 , 176-178 .
+Masuda , E.5. , Tokumitsu , H. , Tsuboi , A. , Shlomai , J. , Hung , P. , Arai , K. , and Arai , N. ( 1993 ) .
+The granulocyte-macrophage colony-stimulating factor promoter cis-acting element CLEO mediates induction signals in T cells and is recognized by factors related to AP-1 and NEF-AT .
+Mol .
+Cell .
+Biol .
+13 , 7399-7407 .
+Mattila , P.S. , Ullman , K.S. , Fiering , S. , Emmel , EA. , McCutcheon , M. , Crabtree , G.R. , and Herzenberg , L.A. ( 1990 ) .
+The actions of cyclosporin A and FK506 suggest a novel step in the activation of T lymphocytes .
+EMBO J .
+9 , 4425-4433 .
+McCaffrey , P.G. , Jain , J. , Jamieson , C. , Sen , R. , and Rao , A .
+( 1992 ) .
+A T cell nuclear factor resembling NF-AT binds to an NF- « B site and to the conserved lymphokine promoter sequence ' '' Cytokine-1 '' .
+J. Biol .
+Chem .
+267 , 1864-1871 .
+McCaffrey , P.G. , Perrino , B.A. , Soderling , TR. , and Rao , A .
+( 1993 ) .
+NF-ATp , a T lymphocyte DNA-binding protein that is a target for calcineurin and immunisuppressive drugs .
+J. Biol .
+Chem .
+268 , 3747-3752 .
+Miyatake , S. , Seiki , M. , Malefijt , R.D. , Heike , T. , Fujisawa , J. , Takebe , Y. , Nishida , J. , Shlomai , J. , Yokota , T. , Yoshida , M. , Arai , K. , and Arai , N. ( 1988a ) .
+Activation of T cell derived lymphokine genes in T cells and fibroblasts : effects of human T cell leukemia virus type I p40x protein and bovine papillomavirus encoded E2 protein .
+Nucleic Acids Res .
+16 , 6547-6566 .
+Miyatake , S. , Seiki , M. , Yoshida , M. , and Arai , K. ( 1988b ) .
+T-cell activation signals and human T-cell leukemia virus type I-encoded p40x protein activate the mouse granulocyte-macrophage colony-stimulating factor gene through a common DNA element .
+Mol .
+Cell .
+Biol .
+8 , 5581-5587 .
+Miyatake , S. , Shlomai , J. , Arai , K. , and Arai , N. ( 1991 ) .
+Characterization of the mouse granulocyte-macrophage colony-stimulating factor ( GM-CSF ) gene promoter : nuclear factors that interact with an element shared by three lymphokine genes-those for GM-CSF , interleukin-4 ( IL-4 ) , and IL-5 .
+Mol .
+Cell .
+Biol .
+11 , 5894-5901 .
+Miyatake , S. , Yokota , T. , Lee , F. , and Arai , K. ( 1985 ) .
+Structure of the chromosomal gene for murine interleukin-3 .
+Proc .
+Natl .
+Acad .
+Sci .
+USA 83 , 316-320 .
+Northrop , J.P. , Ullman , K.S. , and Crabtree , G.R .
+( 1993 ) .
+Characterization of the nuclear and cytoplasmic components of the lymphoid-specific nuclear factor of activated T cell ( NF-AT ) complex .
+J. Biol .
+Chem .
+268 , 2917-2923 .
+O'Keefe , S.J. , Tamura , J. , Kincaid , RL. , Tocci , M.J. , and O'Neill , E.A .
+( 1992 ) .
+FK-506- and CsA-sensitive activation of the interleukin-2 promoter by calcineurin .
+Nature 357 , 692-694 .
+Randak , C. , Brabletz , T. , Hergenrother , M. , Sobotta , I. , and Serfling , E. ( 1990 ) .
+Cyclosporin A suppresses the expression of the interleukin 2 gene by inhibiting the binding of lymphocyte-specific factors to the IL-2 enhancer .
+EMBO , J .
+9 , 2529-2536 .
+Riegel , J.S. , Corthesy , B. , Flanagan , W.M. , and Crabtree , G.R .
+( 1992 ) .
+Regulation of the interleukin-2 gene .
+Chem .
+Immunol .
+51 , 266-298 .
+128 Risse , G. , Jooss , K. , Neuberg , M. , Bruller , H.J. , and Muller , R. ( 1989 ) .
+Asymmetrical recognition of the palindromic AP1 binding site ( TRE ) by Fos protein complexes .
+EMBO J .
+8 , 3825-3832 .
+Sambrook , J. , Fritsch , E.F. , and Maniatis , T. ( 1989 ) .
+Molecular cloning .
+A Laboratory Manual .
+2nd ed. , Cold Spring Harbor , NY : Cold Spring Harbor Laboratory .
+Schmidt , A. , Hennighausen , L. , and Siebenlist , U .
+( 1990 ) .
+Inducible nuclear factor binding to the « B elements of the human immunode-ficiency virus enhancer in T cells can be blocked by cyclosporin A in a signal-dependent manner .
+J. Virol .
+64 , 4037-4041 .
+Schreiber , E. , Matthias , P. , Muller , M.M. , and Schaffner , W. ( 1989 ) .
+Rapid detection of octamer binding proteins with `` mini-extracts '' ' , prepared from a small number of cells .
+Nucleic Acids Res .
+17 , 6419 .
+Schreiber , S.L. , and Crabtree , G.R .
+( 1992 ) .
+The mechanism of action of cyclosporin A and FK506 .
+Immunol .
+Today 13 , 136-142 .
+Siebenlist , U. , Durand , D.B. , Bressler , P. , Holbrook , N.J. , Norris , C. A. , Kamoun , M. , Kant , J.A. , and Crabtree , G.R .
+( 1986 ) .
+Promoter region of interleukin-2 gene undergoes chromatin structure changes and confers inducibility on chloramphenicol acetyltransferase gene during activation of T cells .
+Mol .
+Cell .
+Biol .
+6 , 3042-3049 .
+Sigal , N.H. , and Dumont , FJ .
+( 1992 ) .
+Cyclosporin A , FK-506 , and rapamycin : pharmacologic probes of lymphocyte signal transduction .
+Annu .
+Rev .
+Immunol .
+10 , 519-560 .
+Sugimoto , K. , Tsuboi , A. , Miyatake , S. , Arai , K. , and Arai , N. ( 1990 ) .
+Inducible and non-inducible factors co-operatively activate the GM-CSF promoter by interacting with two adjacent DNA motifs .
+Int .
+Immunol .
+2 , 787-794 .
+Takebe , Y. , Seiki , M. , Fujisawa , J. , Hoy , P. , Yokota , K. , Arai , K. , Yoshida , M. , and Arai , N. ( 1988 ) .
+SRa promoter : an efficient and versatile mammalian cDNA expression system composed of the simian virus 40 early promoter and the R-U5 segment of human T-cell leukemia virus type 1 long terminal repeat .
+Mol .
+Cell .
+Biol .
+8 , 466-472 .
+Tocci , M.J. , Matkovich , D.A. , Collier , K.A. , Kwok , P. , Dumont , F. , Lin , S. , Degudicibus , S. , Siekierka , J.J. , Chin , J. , and Hutchinson , N.1 .
+( 1989 ) .
+The immunosuppressant FK506 selectively inhibits expression of early T cell activation genes .
+J. Immunol .
+143 , 718-726 .
+Tokumitsu , H. , Masuda , ES. , Tsuboi , A. , Arai , K. , and Arai , N. ( 1993 ) .
+Purification of the 120 kDa component of the human nuclear factor of activated T cells ( NF-AT ) .
+Biochem .
+Biophys .
+Res .
+Commun .
+196 , 737-744 .
+Tsuboi , A. , Sugimoto , K. , Yodoi , J. , Miyatake , S. , Arai , K. , and Arai , N. ( 1991 ) .
+A nuclear factor NF-GM2 that interacts with a regulatory region of the GM-CSF gene essential for its induction in responses to T-cell activation : purification from human T-cell leukemia line Jurkat cells and similarity to NF- « B .
+Int .
+Immunol .
+3 , 807-817 .
+Uliman , K.S. , Northrop , J.P. , Admon , A. , and Crabtree , G.R .
+( 1993 ) .
+Jun family members are controlled by a calcium-regulated , cyclosporin A-sensitive signaling pathway in T lymphocytes .
+Genes Dev .
+7 , 188-196 .
+Ullman , K.S. , Northrop , J.P. , Verweij , C.L. , and Crabtree , G.R .
+( 1990 ) .
+Transmission of signals from the T lymphocyte antigen receptor to the genes responsible for cell proliferation and immune function : the missing link .
+Annu .
+Rev .
+Immunol .
+8 , 421-452 .
+Wasylyk , B. , Hahn , S.L. , and Giovane , A .
+( 1993 ) .
+The Ets family of transcription factors .
+Eur .
+J. Biochem .
+211 , 7-18 .
+Molecular Biology of the Cell
