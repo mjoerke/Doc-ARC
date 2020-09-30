@@ -1,20 +1,30 @@
-# Document-Attentive Representation of Context (Doc-ARC)
+# Document-Attentive Representation of Context
 
-### Data Preparation
+This reposity accompanies the publication:
 
-In `datasets.py`, set `base_dir` to point to the extracted `data` folder (provided as a separate archive in this submission). 
+> Matthew Jörke, Jon Gillick, Matthew Sims, David Bamman. [Document-Attentive Representation of Context](), *Findings of EMNLP 2020*. 
 
-To pregenerate a tokenized cache for each document, run `generate_cache.py`. This will speed up training substantially.
+We provide PyTorch implementations for all of our models along with the datasets used in our evaluation. 
+
+## Data Preparation
+
+We provide full datasets for LitBank and JNLPBA (listed as `genia`) in the `data` folder. Due to licensing restrictions, we are unable to provide the full OntoNotes dataset, though `data/ontonotes` contains instructions and code to generate the dataset. 
+
+To use a custom dataset, modify `datasets.py` such that `base_dir` points to the correct folder. To pregenerate a tokenized cache for each document, run `generate_cache.py`. This will speed up training substantially.
+
+## Training Models
+
+We use the Huggingface [transformers](https://huggingface.co/transformers/) library throughout our code. The code has been tested for versions specified in `requirements.txt`. 
 
 ### Static Doc-ARC
 
 ```sh
 python3 train_static_context.py \
-	--mode train \
-	--dataset {litbank_full, genia_full, ontonotes} \
-	--pretrained_dir $PRETRAINED_MODEL \
-	--output_dir $OUTPUT_DIR \
-	--lr 0.001 \
+    --mode train \
+    --dataset {litbank_full, genia_full, ontonotes} \
+    --pretrained_dir $PRETRAINED_MODEL \
+    --output_dir $OUTPUT_DIR \
+    --lr 0.001 \
     --gradient_accumulation_steps 1 \
     --self_attention \
     --freeze_bert \
@@ -29,7 +39,7 @@ python3 train_static_context.py \
 ```sh
 python3 train_dynamic_context.py \
     --mode train \
-	--dataset {litbank_full, genia_full, ontonotes} \
+    --dataset {litbank_full, genia_full, ontonotes} \
     --output_dir $OUTPUT_DIR \
     --lr 0.0001 \
     --batch_size 1 \
@@ -47,11 +57,11 @@ Parameters in brackets correspond to {dynamic, static} BERT + LSTM baselines
 
 ```sh
 python3 train_no_context_lstm.py \
-	--mode train \
-	--dataset {litbank, genia, ontonotes} \
-	--pretrained_dir $PRETRAINED_MODEL \
-	--output_dir $OUTPUT_DIR \
-	--lr {0.001, 0.0001} \
+    --mode train \
+    --dataset {litbank, genia, ontonotes} \
+    --pretrained_dir $PRETRAINED_MODEL \
+    --output_dir $OUTPUT_DIR \
+    --lr {0.001, 0.0001} \
     --batch_size {1, 16} \
     --gradient_accumulation_steps {4, 1} \
     --self_attention \
@@ -66,11 +76,11 @@ python3 train_no_context_lstm.py \
 
 ```sh
 python3 train_no_context.py \
-	--mode train \
-	--dataset {litbank, genia, ontonotes} \
-	--pretrained_dir $PRETRAINED_MODEL \
-	--output_dir $OUTPUT_DIR \
-	--lr 2e-5 \
+    --mode train \
+    --dataset {litbank, genia, ontonotes} \
+    --pretrained_dir $PRETRAINED_MODEL \
+    --output_dir $OUTPUT_DIR \
+    --lr 2e-5 \
     --batch_size 16 \
     --num_epochs 10 \
     --model_type {bert-base-cased, google/bert_uncased_L-2_H-128_A-2}
