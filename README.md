@@ -2,7 +2,7 @@
 
 This reposity accompanies the publication:
 
-> Matthew Jörke, Jon Gillick, Matthew Sims, David Bamman. [Document-Attentive Representation of Context](), *Findings of EMNLP 2020*. 
+> Matthew Jörke, Jon Gillick, Matthew Sims, David Bamman. [Document-Attentive Representation of Context](https://www.aclweb.org/anthology/2020.findings-emnlp.330/), *Findings of EMNLP 2020*. 
 
 We provide PyTorch implementations for all of our models along with the datasets used in our evaluation. 
 
